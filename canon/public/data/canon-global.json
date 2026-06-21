@@ -1,0 +1,28 @@
+{
+  "epocasRedentoras": {
+    "es": [
+      { "label": "ÉPOCAS 1–2", "title": "Creación y Caída → Promesa",   "books": "Génesis 1–50",                    "highlight": true  },
+      { "label": "ÉPOCA 3",    "title": "Ley",                           "books": "Éxodo · Levítico · Números · Dt",  "highlight": false },
+      { "label": "ÉPOCA 4",    "title": "Anticipación Profética",        "books": "Josué → Malaquías",               "highlight": false },
+      { "label": "ÉPOCA 5",    "title": "Cumplimiento",                  "books": "Evangelios · Hechos",             "highlight": false },
+      { "label": "ÉPOCA 6",    "title": "Aplicación",                    "books": "Epístolas Paulinas y Generales",  "highlight": false },
+      { "label": "ÉPOCA 7",    "title": "Consumación",                   "books": "Apocalipsis",                     "highlight": false }
+    ],
+    "en": [
+      { "label": "EPOCHS 1–2", "title": "Creation & Fall → Promise",     "books": "Genesis 1–50",                   "highlight": true  },
+      { "label": "EPOCH 3",    "title": "Law",                           "books": "Exodus · Leviticus · Numbers · Dt","highlight": false },
+      { "label": "EPOCH 4",    "title": "Prophetic Anticipation",        "books": "Joshua → Malachi",               "highlight": false },
+      { "label": "EPOCH 5",    "title": "Fulfillment",                   "books": "Gospels · Acts",                 "highlight": false },
+      { "label": "EPOCH 6",    "title": "Application",                   "books": "Pauline & General Epistles",     "highlight": false },
+      { "label": "EPOCH 7",    "title": "Consummation",                  "books": "Revelation",                     "highlight": false }
+    ],
+    "pt": [
+      { "label": "ÉPOCAS 1–2", "title": "Criação e Queda → Promessa",    "books": "Gênesis 1–50",                   "highlight": true  },
+      { "label": "ÉPOCA 3",    "title": "Lei",                           "books": "Êxodo · Levítico · Números · Dt", "highlight": false },
+      { "label": "ÉPOCA 4",    "title": "Antecipação Profética",         "books": "Josué → Malaquias",              "highlight": false },
+      { "label": "ÉPOCA 5",    "title": "Cumprimento",                   "books": "Evangelhos · Atos",              "highlight": false },
+      { "label": "ÉPOCA 6",    "title": "Aplicação",                     "books": "Epístolas Paulinas e Gerais",    "highlight": false },
+      { "label": "ÉPOCA 7",    "title": "Consumação",                    "books": "Apocalipse",                     "highlight": false }
+    ]
+  }
+}

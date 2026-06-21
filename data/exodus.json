@@ -1,0 +1,1813 @@
+{
+  "id": 2,
+  "testamento": "Antiguo",
+  "division": "Pentateuco",
+  "ordenCanon": 2,
+  "ordenEnDivision": 2,
+  "titulo": {
+    "es": "Éxodo",
+    "en": "Exodus",
+    "pt": "Êxodo"
+  },
+  "tituloOriginal": "שְׁמוֹת",
+  "transliteracion": "Shemot",
+  "significado": {
+    "es": "Nombres — del hebreo 'estos son los nombres de', primeras palabras del libro; el título griego 'Éxodo' (ἔξοδος) significa 'salida' o 'partida'",
+    "en": "Names — from the Hebrew 'these are the names of', the opening words of the book; the Greek title 'Exodus' (ἔξοδος) means 'departure' or 'going out'",
+    "pt": "Nomes — do hebraico 'estes são os nomes de', primeiras palavras do livro; o título grego 'Êxodo' (ἔξοδος) significa 'saída' ou 'partida'"
+  },
+  "autor": {
+    "nombre": "Moisés",
+    "tradicional": true,
+    "nota": {
+      "es": "La tradición judía, cristiana y reformada atribuye la autoría a Moisés (cf. Ex 17:14; 24:4; 34:27; Nm 33:2; Dt 31:9). Jesús mismo cita Éxodo como obra mosaica (Mr 7:10; Jn 5:46). La crítica histórica propone la hipótesis documental (JEDP), pero la tradición reformada rechaza esta reconstrucción especulativa y mantiene la autoría mosaica sustancial.",
+      "en": "Jewish, Christian, and Reformed tradition attributes authorship to Moses (cf. Ex 17:14; 24:4; 34:27; Num 33:2; Dt 31:9). Jesus himself cites Exodus as Mosaic (Mark 7:10; John 5:46). Historical-critical scholarship proposes the documentary hypothesis (JEDP), but the Reformed tradition rejects this speculative reconstruction and maintains substantial Mosaic authorship.",
+      "pt": "A tradição judaica, cristã e reformada atribui a autoria a Moisés (cf. Ex 17:14; 24:4; 34:27; Nm 33:2; Dt 31:9). O próprio Jesus cita Êxodo como obra mosaica (Mc 7:10; Jo 5:46). A crítica histórica propõe a hipótese documental (JEDP), mas a tradição reformada rejeita essa reconstrução especulativa e mantém a autoria mosaica substancial."
+    }
+  },
+  "año": {
+    "desde": -1450,
+    "hasta": -1410,
+    "display": {
+      "es": "Fecha de escritura: c. 1450–1410 a.C.",
+      "en": "Date of writing: c. 1450–1410 B.C.",
+      "pt": "Data de escrita: c. 1450–1410 a.C."
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Desierto del Sinaí (período del éxodo y peregrinación)",
+    "en": "Sinai wilderness (during the exodus and wilderness wandering)",
+    "pt": "Deserto do Sinai (período do êxodo e peregrinação)"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Bronce Tardío (1550–1200 a.C.) — Reino Nuevo egipcio, posiblemente bajo Tutmosis III y Amenofis II (datación temprana) o Ramsés II y Merenptah (datación tardía)",
+      "en": "Late Bronze Age (1550–1200 B.C.) — Egyptian New Kingdom, possibly under Thutmose III and Amenhotep II (early date) or Ramesses II and Merneptah (late date)",
+      "pt": "Bronze Tardio (1550–1200 a.C.) — Novo Reino Egípcio, possivelmente sob Tutmósis III e Amenófis II (datação precoce) ou Ramsés II e Merneptá (datação tardia)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Gosén",
+          "en": "Goshen",
+          "pt": "Gósen"
+        },
+        "identificacionModerna": {
+          "es": "Delta oriental del Nilo, región de Wadi Tumilat, área de Tell el-Dab'a / Qantir",
+          "en": "Eastern Nile Delta, Wadi Tumilat region, area of Tell el-Dab'a / Qantir",
+          "pt": "Delta oriental do Nilo, região de Wadi Tumilat, área de Tell el-Dab'a / Qantir"
+        },
+        "significancia": {
+          "es": "Tierra asignada a Israel desde los tiempos de José; lugar de esclavitud y punto de partida del éxodo (Gn 47:6; Ex 1:11; 12:37)",
+          "en": "Land assigned to Israel since the time of Joseph; place of slavery and departure point of the exodus (Gen 47:6; Ex 1:11; 12:37)",
+          "pt": "Terra atribuída a Israel desde os tempos de José; local de escravidão e ponto de partida do êxodo (Gn 47:6; Ex 1:11; 12:37)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Monte Sinaí / Horeb",
+          "en": "Mount Sinai / Horeb",
+          "pt": "Monte Sinai / Horebe"
+        },
+        "identificacionModerna": {
+          "es": "Jebel Musa en la Península del Sinaí (tradición dominante), o Jebel el-Lawz en Arabia (alternativa minoritaria)",
+          "en": "Jebel Musa in the Sinai Peninsula (dominant tradition), or Jebel el-Lawz in Arabia (minority alternative)",
+          "pt": "Jebel Musa na Península do Sinai (tradição dominante), ou Jebel el-Lawz na Arábia (alternativa minoritária)"
+        },
+        "significancia": {
+          "es": "Monte de la revelación divina: zarza ardiente (Ex 3), teofanía del Sinaí (Ex 19–20), entrega de la Ley y el pacto mosaico; denominado Horeb en Deuteronomio",
+          "en": "Mountain of divine revelation: burning bush (Ex 3), Sinai theophany (Ex 19–20), giving of the Law and Mosaic covenant; called Horeb in Deuteronomy",
+          "pt": "Monte da revelação divina: sarça ardente (Ex 3), teofania do Sinai (Ex 19–20), entrega da Lei e da aliança mosaica; chamado Horebe em Deuteronômio"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Mar Rojo / Mar de los Juncos",
+          "en": "Red Sea / Sea of Reeds",
+          "pt": "Mar Vermelho / Mar dos Juncos"
+        },
+        "identificacionModerna": {
+          "es": "Hebreo יַם-סוּף (Yam Suph) probablemente identifica los lagos amargos al norte del golfo de Suez, o el golfo de Aqaba",
+          "en": "Hebrew יַם-סוּף (Yam Suph) likely identifies the Bitter Lakes north of the Gulf of Suez, or the Gulf of Aqaba",
+          "pt": "O hebraico יַם-סוּף (Yam Suph) provavelmente identifica os Lagos Amargos ao norte do Golfo de Suez, ou o Golfo de Aqaba"
+        },
+        "significancia": {
+          "es": "Escenario del cruce milagroso; acto definidor de la redención del AT: Israel 'bautizado en Moisés' (1Co 10:2) y liberado de Faraón (Ex 14–15)",
+          "en": "Scene of the miraculous crossing; defining act of OT redemption: Israel 'baptized into Moses' (1 Cor 10:2) and delivered from Pharaoh (Ex 14–15)",
+          "pt": "Cenário da travessia milagrosa; ato definitório da redenção do AT: Israel 'batizado em Moisés' (1Co 10:2) e libertado do Faraó (Ex 14–15)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Ramsés / Pitón",
+          "en": "Rameses / Pithom",
+          "pt": "Ramessés / Pitom"
+        },
+        "identificacionModerna": {
+          "es": "Ramsés = Qantir / Tell el-Dab'a (antigua Avaris); Pitón = Tell el-Maskhuta o Tell er-Retaba",
+          "en": "Rameses = Qantir / Tell el-Dab'a (ancient Avaris); Pithom = Tell el-Maskhuta or Tell er-Retaba",
+          "pt": "Ramessés = Qantir / Tell el-Dab'a (antiga Ávaris); Pitom = Tell el-Maskhuta ou Tell er-Retaba"
+        },
+        "significancia": {
+          "es": "Ciudades de almacenamiento construidas por los israelitas esclavos; su mención conecta el texto con la arqueología del Delta del Nilo (Ex 1:11)",
+          "en": "Storage cities built by enslaved Israelites; their mention connects the text to archaeology of the Nile Delta (Ex 1:11)",
+          "pt": "Cidades de armazenamento construídas pelos israelitas escravizados; sua menção conecta o texto à arqueologia do Delta do Nilo (Ex 1:11)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Madián",
+          "en": "Midian",
+          "pt": "Midiã"
+        },
+        "identificacionModerna": {
+          "es": "Región al noroeste de Arabia, en el oriente del golfo de Aqaba, actualmente noroeste de Arabia Saudita y sur de Jordania",
+          "en": "Region northwest of Arabia, east of the Gulf of Aqaba, currently northwest Saudi Arabia and southern Jordan",
+          "pt": "Região a noroeste da Arábia, a leste do Golfo de Aqaba, atualmente noroeste da Arábia Saudita e sul da Jordânia"
+        },
+        "significancia": {
+          "es": "Lugar de exilio y formación de Moisés durante 40 años; donde recibió el llamado en la zarza ardiente y se casó con Séfora, hija de Jetro (Ex 2–3; 18)",
+          "en": "Place of Moses' exile and formation for 40 years; where he received the call at the burning bush and married Zipporah, daughter of Jethro (Ex 2–3; 18)",
+          "pt": "Local do exílio e formação de Moisés durante 40 anos; onde recebeu o chamado na sarça ardente e se casou com Séfora, filha de Jetro (Ex 2–3; 18)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Egipto (Reino Nuevo)",
+          "en": "Egypt (New Kingdom)",
+          "pt": "Egito (Novo Reino)"
+        },
+        "rolEnElTexto": {
+          "es": "Potencia opresora que esclavizó a Israel; el escenario de las diez plagas y el éxodo. El Faraón encarna la resistencia al soberano divino y es el antagonista principal del libro.",
+          "en": "Oppressive power that enslaved Israel; the theater of the ten plagues and the exodus. Pharaoh embodies resistance to divine sovereignty and is the book's primary antagonist.",
+          "pt": "Potência opressora que escravizou Israel; o cenário das dez pragas e do êxodo. O Faraó encarna a resistência à soberania divina e é o antagonista principal do livro."
+        },
+        "estadoArqueologico": {
+          "es": "Excavaciones en Tell el-Dab'a (antigua Avaris) revelan una gran población semítica en el Delta oriental durante el Período de los Hicsos y el Reino Nuevo, confirmando el contexto general del relato. Sin embargo, ninguna inscripción egipcia menciona directamente el éxodo o a Moisés, lo cual es esperado dado el patrón egipcio de silenciar derrotas.",
+          "en": "Excavations at Tell el-Dab'a (ancient Avaris) reveal a large Semitic population in the eastern Delta during the Hyksos Period and New Kingdom, confirming the general context of the account. However, no Egyptian inscription directly mentions the exodus or Moses, which is expected given the Egyptian pattern of suppressing defeats.",
+          "pt": "Escavações em Tell el-Dab'a (antiga Ávaris) revelam uma grande população semítica no Delta oriental durante o Período Hicso e o Novo Reino, confirmando o contexto geral do relato. No entanto, nenhuma inscrição egípcia menciona diretamente o êxodo ou Moisés, o que é esperado dado o padrão egípcio de silenciar derrotas."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Amalecitas",
+          "en": "Amalekites",
+          "pt": "Amalequitas"
+        },
+        "rolEnElTexto": {
+          "es": "Primer pueblo en atacar a Israel en el desierto (Refidim); derrota bajo la intercesión de Moisés con los brazos elevados (Ex 17:8–16); declarados enemigos perpetuos de Israel.",
+          "en": "First people to attack Israel in the wilderness (Rephidim); defeated under Moses' intercessory posture with uplifted arms (Ex 17:8–16); declared perpetual enemies of Israel.",
+          "pt": "Primeiro povo a atacar Israel no deserto (Refidim); derrotados sob a postura intercessora de Moisés com os braços levantados (Ex 17:8–16); declarados inimigos perpétuos de Israel."
+        },
+        "estadoArqueologico": {
+          "es": "Pueblo seminómada del desierto del Néguev y el Sinaí; confirmados arqueológicamente como grupo étnico distinto en el período del Bronce Tardío, aunque los registros son escasos por su estilo de vida nómada.",
+          "en": "Semi-nomadic people of the Negev desert and Sinai; archaeologically confirmed as a distinct ethnic group in the Late Bronze Age, though records are sparse due to their nomadic lifestyle.",
+          "pt": "Povo seminômade do deserto do Neguebe e do Sinai; confirmados arqueologicamente como grupo étnico distinto no período do Bronze Tardio, embora os registros sejam escassos devido ao seu estilo de vida nômade."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Madianitas",
+          "en": "Midianites",
+          "pt": "Midianitas"
+        },
+        "rolEnElTexto": {
+          "es": "Pueblo del que desciende Jetro, suegro de Moisés; contexto del exilio de Moisés. Jetro ofrece consejo administrativo a Moisés en el desierto (Ex 18), ilustrando la sabiduría extranjera al servicio de la revelación divina.",
+          "en": "People from whom Jethro, Moses' father-in-law, descends; context of Moses' exile. Jethro offers administrative counsel to Moses in the wilderness (Ex 18), illustrating foreign wisdom in service of divine revelation.",
+          "pt": "Povo do qual Jetro, sogro de Moisés, descende; contexto do exílio de Moisés. Jetro oferece conselho administrativo a Moisés no deserto (Ex 18), ilustrando a sabedoria estrangeira a serviço da revelação divina."
+        },
+        "estadoArqueologico": {
+          "es": "Pueblo seminómada de la Península Arábiga y Transjordania; confirmados en fuentes extrabíblicas del período del Bronce Tardío. Su asociación con el culto al Dios del Sinaí es objeto de debate académico (hipótesis kenita).",
+          "en": "Semi-nomadic people of the Arabian Peninsula and Transjordan; confirmed in extra-biblical sources from the Late Bronze Age. Their association with the worship of the God of Sinai is subject to academic debate (Kenite hypothesis).",
+          "pt": "Povo seminômade da Península Arábiga e da Transjordânia; confirmados em fontes extra-bíblicas do período do Bronze Tardio. Sua associação com o culto ao Deus do Sinai é objeto de debate acadêmico (hipótese cenita)."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones en Tell el-Dab'a (Manfred Bietak, 1966–presente) han descubierto una gran ciudad con arquitectura de estilo palestino-semítico, enterramientos asiáticos y palacio de la época de los Hicsos en el Delta oriental, confirmando la presencia semítica en Gosén. La estela de Merenptah (c. 1208 a.C.) menciona a 'Israel' como pueblo en Canaán, fijando un límite tardío para el éxodo. Las rutas de éxodo propuestas siguen en debate: la ruta del norte (camino de los filisteos), la ruta central (vía el-Arish) y la ruta del sur (Sinaí clásico) tienen defensores académicos. La ausencia de evidencia directa del éxodo en registros egipcios es notoria, pero coherente con el patrón de silenciar derrotas en la propaganda real egipcia. Los Papiros de Ipuwer describen calamidades que algunos eruditos comparan con las plagas, pero la correlación directa es especulativa.",
+      "en": "Excavations at Tell el-Dab'a (Manfred Bietak, 1966–present) have uncovered a large city with Palestinian-Semitic style architecture, Asiatic burials, and a Hyksos-era palace in the eastern Delta, confirming Semitic presence in Goshen. The Merneptah Stele (c. 1208 B.C.) mentions 'Israel' as a people in Canaan, establishing a late limit for the exodus. Proposed exodus routes remain debated: the northern route (Way of the Philistines), the central route (via el-Arish), and the southern route (classical Sinai) all have academic proponents. The absence of direct exodus evidence in Egyptian records is notable but consistent with the pattern of suppressing defeats in Egyptian royal propaganda. The Ipuwer Papyrus describes calamities that some scholars compare to the plagues, but direct correlation is speculative.",
+      "pt": "As escavações em Tell el-Dab'a (Manfred Bietak, 1966–presente) descobriram uma grande cidade com arquitetura de estilo palestino-semítico, enterramentos asiáticos e um palácio da época dos Hicsos no Delta oriental, confirmando a presença semítica em Gósen. A estela de Merneptá (c. 1208 a.C.) menciona 'Israel' como povo em Canaã, estabelecendo um limite tardio para o êxodo. As rotas propostas para o êxodo continuam em debate: a rota do norte (Caminho dos Filisteus), a rota central (via el-Arish) e a rota do sul (Sinai clássico) têm defensores acadêmicos. A ausência de evidência direta do êxodo em registros egípcios é notável, mas coerente com o padrão de silenciar derrotas na propaganda real egípcia. O Papiro de Ipuwer descreve calamidades que alguns estudiosos comparam com as pragas, mas a correlação direta é especulativa."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Papiro de Ipuwer",
+          "en": "Ipuwer Papyrus",
+          "pt": "Papiro de Ipuwer"
+        },
+        "origen": {
+          "es": "Egipto, c. 1800–1600 a.C.; copia del Reino Nuevo. Museo de Leiden, Países Bajos.",
+          "en": "Egypt, c. 1800–1600 B.C.; New Kingdom copy. Leiden Museum, Netherlands.",
+          "pt": "Egito, c. 1800–1600 a.C.; cópia do Novo Reino. Museu de Leiden, Países Baixos."
+        },
+        "relevancia": {
+          "es": "Describe una serie de calamidades sociales y naturales en Egipto ('el río está de sangre', 'la tierra está envuelta en oscuridad') que presentan paralelismos llamativos con las plagas del Éxodo, aunque la correlación directa es debatida. El texto subvierte la visión oficial egipcia de orden cósmico (Maat), similar al efecto de las plagas sobre la cosmovisión egipcia.",
+          "en": "Describes a series of social and natural calamities in Egypt ('the river is blood,' 'the land is in darkness') that present striking parallels with the Exodus plagues, though direct correlation is debated. The text subverts the official Egyptian view of cosmic order (Maat), similar to the effect of the plagues on the Egyptian worldview.",
+          "pt": "Descreve uma série de calamidades sociais e naturais no Egito ('o rio está em sangue', 'a terra está envolta em escuridão') que apresentam paralelos notáveis com as pragas do Êxodo, embora a correlação direta seja debatida. O texto subverte a visão oficial egípcia de ordem cósmica (Maat), semelhante ao efeito das pragas sobre a cosmovisão egípcia."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Estela de Merenptah",
+          "en": "Merneptah Stele",
+          "pt": "Estela de Merneptá"
+        },
+        "origen": {
+          "es": "Egipto, c. 1208 a.C.; faraón Merenptah. Museo Egipcio, El Cairo.",
+          "en": "Egypt, c. 1208 B.C.; Pharaoh Merneptah. Egyptian Museum, Cairo.",
+          "pt": "Egito, c. 1208 a.C.; Faraó Merneptá. Museu Egípcio, Cairo."
+        },
+        "relevancia": {
+          "es": "Primera mención extrabíblica del nombre 'Israel' ('Israel está desolado, su simiente no existe'). Prueba que Israel existía como entidad identificable en Canaán c. 1208 a.C., fijando un terminus post quem para el éxodo y confirmando la historicidad de la presencia israelita en la región.",
+          "en": "First extra-biblical mention of the name 'Israel' ('Israel is laid waste; his seed is not'). Proves Israel existed as an identifiable entity in Canaan c. 1208 B.C., establishing a terminus post quem for the exodus and confirming the historicity of Israelite presence in the region.",
+          "pt": "Primeira menção extra-bíblica do nome 'Israel' ('Israel está devastado, sua semente não existe'). Prova que Israel existia como entidade identificável em Canaã c. 1208 a.C., estabelecendo um terminus post quem para o êxodo e confirmando a historicidade da presença israelita na região."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Tablillas de Amarna",
+          "en": "Amarna Tablets",
+          "pt": "Tábuas de Amarna"
+        },
+        "origen": {
+          "es": "Egipto / Canaán, c. 1350 a.C.; correspondencia diplomática en acadio entre faraones Amenofis III y Amenofis IV (Akenatón) y gobernantes de Canaán. Museos de Berlín, El Cairo y el British Museum.",
+          "en": "Egypt / Canaan, c. 1350 B.C.; diplomatic correspondence in Akkadian between pharaohs Amenhotep III and Amenhotep IV (Akhenaten) and Canaanite rulers. Museums in Berlin, Cairo, and the British Museum.",
+          "pt": "Egito / Canaã, c. 1350 a.C.; correspondência diplomática em acadiano entre os faraós Amenófis III e Amenófis IV (Aquenáton) e governantes de Canaã. Museus de Berlim, Cairo e o Museu Britânico."
+        },
+        "relevancia": {
+          "es": "Documentan el estado político de Canaán en el período inmediatamente antes o durante la conquista; las cartas de los 'Hapiru' (SA.GAZ) como grupos perturbadores en Canaán pueden relacionarse con la infiltración israelita, aunque la ecuación Hapiru = hebreos es debatida.",
+          "en": "Document the political state of Canaan in the period immediately before or during the conquest; letters about 'Hapiru' (SA.GAZ) as disruptive groups in Canaan may relate to Israelite infiltration, though the Hapiru = Hebrews equation is debated.",
+          "pt": "Documentam o estado político de Canaã no período imediatamente antes ou durante a conquista; as cartas sobre os 'Hapiru' (SA.GAZ) como grupos perturbadores em Canaã podem estar relacionadas com a infiltração israelita, embora a equação Hapiru = hebreus seja debatida."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia es la fecha del éxodo: la datación temprana (c. 1446 a.C., bajo Amenofis II) se basa en 1R 6:1 (480 años desde el éxodo hasta el cuarto año de Salomón) y Jueces 11:26; la datación tardía (c. 1270–1260 a.C., bajo Ramsés II) se basa en la mención de las ciudades 'Ramsés' en Éxodo 1:11 y en la arqueología de la conquista de Canaán. La tradición reformada favorece la datación temprana como coherente con la cronología bíblica. Una segunda controversia atañe a la magnitud del éxodo: los 600.000 hombres (Ex 12:37) implicarían 2–3 millones de personas, cifra que algunos interpretan simbólicamente ('elef' como 'unidad tribal') y otros toman literalmente. La Reforma conserva la lectura literal.",
+      "en": "The main controversy is the date of the exodus: the early date (c. 1446 B.C., under Amenhotep II) is based on 1 Kings 6:1 (480 years from exodus to Solomon's fourth year) and Judges 11:26; the late date (c. 1270–1260 B.C., under Ramesses II) is based on the mention of the cities 'Rameses' in Exodus 1:11 and the archaeology of the Canaanite conquest. The Reformed tradition favors the early date as consistent with biblical chronology. A second controversy concerns the magnitude of the exodus: 600,000 men (Ex 12:37) would imply 2–3 million people, a figure some interpret symbolically ('eleph' as 'tribal unit') and others take literally. The Reformed tradition maintains the literal reading.",
+      "pt": "A principal controvérsia é a data do êxodo: a datação precoce (c. 1446 a.C., sob Amenófis II) baseia-se em 1 Reis 6:1 (480 anos do êxodo ao quarto ano de Salomão) e em Juízes 11:26; a datação tardia (c. 1270–1260 a.C., sob Ramsés II) baseia-se na menção das cidades 'Ramessés' em Êxodo 1:11 e na arqueologia da conquista de Canaã. A tradição reformada favorece a datação precoce como coerente com a cronologia bíblica. Uma segunda controvérsia diz respeito à magnitude do êxodo: 600.000 homens (Ex 12:37) implicariam 2–3 milhões de pessoas, número que alguns interpretam simbolicamente ('elef' como 'unidade tribal') e outros tomam literalmente. A tradição reformada mantém a leitura literal."
+    },
+    "cronologiaInterna": {
+      "es": "El texto sitúa los eventos desde la opresión bajo 'un nuevo rey que no conocía a José' (Ex 1:8) hasta la finalización del tabernáculo el día primero del mes primero del segundo año (Ex 40:17), abarcando posiblemente 80 años de vida de Moisés hasta el éxodo y aproximadamente 1 año en el desierto hasta la erección del tabernáculo. El texto indica que los israelitas vivieron en Egipto 430 años (Ex 12:40).",
+      "en": "The text locates events from the oppression under 'a new king who did not know Joseph' (Ex 1:8) until the completion of the tabernacle on the first day of the first month of the second year (Ex 40:17), encompassing approximately 80 years of Moses' life until the exodus and roughly 1 year in the wilderness until the tabernacle's erection. The text states that the Israelites lived in Egypt 430 years (Ex 12:40).",
+      "pt": "O texto situa os eventos desde a opressão sob 'um novo rei que não conhecia José' (Ex 1:8) até a conclusão do tabernáculo no primeiro dia do primeiro mês do segundo ano (Ex 40:17), abrangendo aproximadamente 80 anos da vida de Moisés até o êxodo e cerca de 1 ano no deserto até a ereção do tabernáculo. O texto afirma que os israelitas viveram no Egito por 430 anos (Ex 12:40)."
+    }
+  },
+  "historiaRedentora": {
+    "epoca": "Ley",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Éxodo es el paradigma redentor del Antiguo Testamento del que toda la teología de la salvación bebe. Siguiendo a Vos, el acto histórico del éxodo anticipa y fundamenta la redención en Cristo: así como Dios redimió a Israel de la esclavitud de Egipto mediante la sangre del cordero de la Pascua, así Cristo redime a su pueblo de la esclavitud del pecado mediante su propia sangre (1Co 5:7; Jn 1:29). Moisés, el mediador del pacto mosaico, es un tipo del Mediador del Nuevo Pacto (Dt 18:15; He 3:1–6; Jn 5:46). La teofanía del Sinaí — la presencia de Dios con su pueblo en fuego y nube — anticipa la encarnación, donde Dios tabernaculizó entre nosotros (Jn 1:14). El tabernáculo es el prototipo del templo y apunta al cuerpo de Cristo como verdadero templo (Jn 2:21; He 9:11). Las diez plagas son un juicio divino sobre los dioses de Egipto (Ex 12:12), prefigurando la victoria de Cristo sobre los poderes y principados (Col 2:15).",
+      "en": "Exodus is the redemptive paradigm of the Old Testament from which all theology of salvation draws. Following Vos, the historical act of the exodus anticipates and grounds redemption in Christ: just as God redeemed Israel from Egyptian slavery through the blood of the Passover lamb, so Christ redeems his people from the slavery of sin through his own blood (1 Cor 5:7; John 1:29). Moses, the mediator of the Mosaic covenant, is a type of the Mediator of the New Covenant (Deut 18:15; Heb 3:1–6; John 5:46). The Sinai theophany — God's presence with his people in fire and cloud — anticipates the incarnation, where God tabernacled among us (John 1:14). The tabernacle is the prototype of the temple and points to Christ's body as the true temple (John 2:21; Heb 9:11). The ten plagues are divine judgment upon the gods of Egypt (Ex 12:12), prefiguring Christ's victory over the powers and principalities (Col 2:15).",
+      "pt": "Êxodo é o paradigma redentor do Antigo Testamento do qual toda a teologia da salvação se alimenta. Seguindo Vos, o ato histórico do êxodo antecipa e fundamenta a redenção em Cristo: assim como Deus redimiu Israel da escravidão do Egito mediante o sangue do cordeiro da Páscoa, assim Cristo redime o seu povo da escravidão do pecado mediante o seu próprio sangue (1Co 5:7; Jo 1:29). Moisés, o mediador da aliança mosaica, é um tipo do Mediador da Nova Aliança (Dt 18:15; He 3:1–6; Jo 5:46). A teofania do Sinai — a presença de Deus com o seu povo em fogo e nuvem — antecipa a encarnação, onde Deus tabernaculou entre nós (Jo 1:14). O tabernáculo é o protótipo do templo e aponta para o corpo de Cristo como verdadeiro templo (Jo 2:21; He 9:11). As dez pragas são um julgamento divino sobre os deuses do Egito (Ex 12:12), prefigurando a vitória de Cristo sobre os poderes e principados (Cl 2:15)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El cordero pascual como tipo de Cristo: su sangre aplicada en los dinteles libra de la muerte al pueblo de Dios (Ex 12:1–13), cumplida en Cristo 'nuestra Pascua' sacrificado (1Co 5:7; Jn 1:29; 19:36)",
+        "en": "The Passover lamb as a type of Christ: its blood applied to the doorposts delivers God's people from death (Ex 12:1–13), fulfilled in Christ 'our Passover lamb' sacrificed (1 Cor 5:7; John 1:29; 19:36)",
+        "pt": "O cordeiro pascal como tipo de Cristo: seu sangue aplicado nas ombreiras libra o povo de Deus da morte (Ex 12:1–13), cumprido em Cristo 'nossa Páscoa' sacrificado (1Co 5:7; Jo 1:29; 19:36)"
+      },
+      {
+        "es": "Moisés como tipo del profeta mediador: intercede por el pueblo, transmite la Palabra de Dios, y actúa como mediador del pacto (Ex 32:30–34; Dt 18:15), cumplido plenamente en Cristo como único Mediador (1Ti 2:5; He 3:1–6; Jn 5:46)",
+        "en": "Moses as a type of the prophetic mediator: he intercedes for the people, transmits God's Word, and acts as covenant mediator (Ex 32:30–34; Deut 18:15), fully fulfilled in Christ as the one Mediator (1 Tim 2:5; Heb 3:1–6; John 5:46)",
+        "pt": "Moisés como tipo do profeta mediador: intercede pelo povo, transmite a Palavra de Deus e age como mediador da aliança (Ex 32:30–34; Dt 18:15), plenamente cumprido em Cristo como único Mediador (1Tm 2:5; He 3:1–6; Jo 5:46)"
+      },
+      {
+        "es": "El tabernáculo como tipo del cuerpo de Cristo y del cielo: la estructura de tienda de reunión donde Dios mora con su pueblo (Ex 25:8; 40:34–35) prefigura la encarnación ('habitó entre nosotros', Jn 1:14) y el templo celestial (He 9:11–12; Ap 21:3)",
+        "en": "The tabernacle as a type of Christ's body and heaven: the tent of meeting structure where God dwells with his people (Ex 25:8; 40:34–35) prefigures the incarnation ('dwelt among us,' John 1:14) and the heavenly temple (Heb 9:11–12; Rev 21:3)",
+        "pt": "O tabernáculo como tipo do corpo de Cristo e do céu: a estrutura da tenda do encontro onde Deus habita com o seu povo (Ex 25:8; 40:34–35) prefigura a encarnação ('habitou entre nós', Jo 1:14) e o templo celestial (He 9:11–12; Ap 21:3)"
+      },
+      {
+        "es": "El maná del desierto como tipo del pan de vida: Dios alimenta sobrenaturalmente a su pueblo con pan del cielo (Ex 16:4,14–15), tipificando a Cristo como 'el pan de vida que descendió del cielo' (Jn 6:31–35)",
+        "en": "The wilderness manna as a type of the bread of life: God supernaturally feeds his people with bread from heaven (Ex 16:4,14–15), typifying Christ as 'the bread of life that came down from heaven' (John 6:31–35)",
+        "pt": "O maná do deserto como tipo do pão da vida: Deus alimenta sobrenatural mente o seu povo com pão do céu (Ex 16:4,14–15), tipificando Cristo como 'o pão da vida que desceu do céu' (Jo 6:31–35)"
+      },
+      {
+        "es": "La roca de Horeb como tipo de Cristo: Moisés golpea la roca y brota agua para el pueblo sediento (Ex 17:6), identificada por Pablo con Cristo, la Roca espiritual que les seguía (1Co 10:4)",
+        "en": "The rock at Horeb as a type of Christ: Moses strikes the rock and water flows for the thirsty people (Ex 17:6), identified by Paul as Christ, the spiritual Rock who accompanied them (1 Cor 10:4)",
+        "pt": "A rocha em Horebe como tipo de Cristo: Moisés golpeia a rocha e brota água para o povo sedento (Ex 17:6), identificada por Paulo como Cristo, a Rocha espiritual que os acompanhava (1Co 10:4)"
+      },
+      {
+        "es": "El sumo sacerdote como tipo de Cristo el gran Sumo Sacerdote: Aarón vestido con los ornamentos sagrados e inaugurado en el sacerdocio (Ex 28–29) apunta al sumo sacerdocio eterno de Cristo según el orden de Melquisedec (He 4:14–5:10; 9:11–14)",
+        "en": "The high priest as a type of Christ the great High Priest: Aaron clothed in sacred garments and inaugurated into the priesthood (Ex 28–29) points to Christ's eternal high priesthood after the order of Melchizedek (Heb 4:14–5:10; 9:11–14)",
+        "pt": "O sumo sacerdote como tipo de Cristo o grande Sumo Sacerdote: Arão revestido com os ornamentos sagrados e inaugurado no sacerdócio (Ex 28–29) aponta para o sumo sacerdócio eterno de Cristo segundo a ordem de Melquisedeque (He 4:14–5:10; 9:11–14)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Éxodo es el libro fundacional de la identidad de Israel como pueblo de Dios: es el único libro que registra la revelación del nombre divino 'Yo soy el que soy' (Ex 3:14), el establecimiento del pacto mosaico en el Sinaí con su ley, la institución de la Pascua como memorial redentor, la construcción del tabernáculo y la inauguración del sacerdocio aarónico. Sin Éxodo, Génesis carece de su cumplimiento tipológico en el éxodo como nuevo acto creador, y todo el sistema sacrificial del Pentateuco quedaría sin fundamentación histórica. Es además la fuente primaria de la doctrina bíblica de la soberanía redentora de Dios que atraviesa todo el canon.",
+    "en": "Exodus is the foundational book of Israel's identity as the people of God: it is the only book that records the revelation of the divine name 'I AM WHO I AM' (Ex 3:14), the establishment of the Mosaic covenant at Sinai with its law, the institution of the Passover as a redemptive memorial, the construction of the tabernacle, and the inauguration of the Aaronic priesthood. Without Exodus, Genesis lacks its typological fulfillment in the exodus as a new creative act, and the entire sacrificial system of the Pentateuch would lack its historical foundation. It is also the primary source of the biblical doctrine of God's redemptive sovereignty that runs through the entire canon.",
+    "pt": "Êxodo é o livro fundacional da identidade de Israel como povo de Deus: é o único livro que registra a revelação do nome divino 'Eu Sou o que Sou' (Ex 3:14), o estabelecimento da aliança mosaica no Sinai com a sua lei, a instituição da Páscoa como memorial redentor, a construção do tabernáculo e a inauguração do sacerdócio aaronita. Sem Êxodo, Gênesis carece de seu cumprimento tipológico no êxodo como novo ato criador, e todo o sistema sacrificial do Pentateuco ficaria sem fundamentação histórica. É também a fonte primária da doutrina bíblica da soberania redentora de Deus que perpassa todo o cânon."
+  },
+  "genero": {
+    "es": "Narrativa histórica, legislación y literatura litúrgica",
+    "en": "Historical narrative, legislation, and liturgical literature",
+    "pt": "Narrativa histórica, legislação e literatura litúrgica"
+  },
+  "palabraClave": {
+    "es": [
+      "redención",
+      "pacto",
+      "liberación",
+      "ley",
+      "tabernáculo"
+    ],
+    "en": [
+      "redemption",
+      "covenant",
+      "deliverance",
+      "law",
+      "tabernacle"
+    ],
+    "pt": [
+      "redenção",
+      "aliança",
+      "libertação",
+      "lei",
+      "tabernáculo"
+    ]
+  },
+  "destinatario": {
+    "es": "La nación de Israel recién liberada de Egipto, en peregrinación por el desierto del Sinaí hacia la tierra prometida, necesitada de una identidad teológica, legal y cultual como pueblo del pacto",
+    "en": "The nation of Israel recently liberated from Egypt, wandering through the Sinai wilderness toward the promised land, in need of a theological, legal, and cultic identity as the covenant people",
+    "pt": "A nação de Israel recém-libertada do Egito, peregrinando pelo deserto do Sinai em direção à terra prometida, necessitada de uma identidade teológica, legal e cultual como povo da aliança"
+  },
+  "proposito": {
+    "es": "Propósito histórico: registrar el acto fundacional de la nación de Israel — su redención de Egipto, la constitución del pacto mosaico en el Sinaí y las instituciones cultuales que regularían su vida. Propósito teológico: revelar al Dios redentor de Israel como el Dios soberano que cumple sus promesas hechas a Abraham (Gn 15; 17), que se da a conocer por su nombre personal y que mora en medio de su pueblo, apuntando todo ello al cumplimiento final en Cristo.",
+    "en": "Historical purpose: to record the foundational act of the nation of Israel — its redemption from Egypt, the constitution of the Mosaic covenant at Sinai, and the cultic institutions that would regulate its life. Theological purpose: to reveal the redeeming God of Israel as the sovereign God who fulfills his promises made to Abraham (Gen 15; 17), who makes himself known by his personal name, and who dwells in the midst of his people, all of it pointing to the final fulfillment in Christ.",
+    "pt": "Propósito histórico: registrar o ato fundacional da nação de Israel — sua redenção do Egito, a constituição da aliança mosaica no Sinai e as instituições cultuais que regulariam sua vida. Propósito teológico: revelar o Deus redentor de Israel como o Deus soberano que cumpre as suas promessas feitas a Abraão (Gn 15; 17), que se dá a conhecer pelo seu nome pessoal e que habita no meio do seu povo, apontando tudo isso para o cumprimento final em Cristo."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Moisés",
+        "en": "Moses",
+        "pt": "Moisés"
+      },
+      "hebreo": "מֹשֶׁה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "descripcion": {
+        "es": "Hijo de Amram y Jocabed, de la tribu de Leví, rescatado del Nilo por la hija del Faraón, criado en la corte egipcia, llamado por Dios en el Sinaí como libertador de Israel, mediador del pacto mosaico, legislador, constructor del tabernáculo y profeta paradigmático (Dt 34:10–12).",
+        "en": "Son of Amram and Jochebed, of the tribe of Levi, rescued from the Nile by Pharaoh's daughter, raised in the Egyptian court, called by God at Sinai as Israel's deliverer, mediator of the Mosaic covenant, lawgiver, builder of the tabernacle, and paradigmatic prophet (Deut 34:10–12).",
+        "pt": "Filho de Anrão e Joquebede, da tribo de Levi, resgatado do Nilo pela filha do Faraó, criado na corte egípcia, chamado por Deus no Sinai como libertador de Israel, mediador da aliança mosaica, legislador, construtor do tabernáculo e profeta paradigmático (Dt 34:10–12)."
+      },
+      "acciones": {
+        "es": "Rescatado del infanticidio real (Ex 2:1–10); huye a Madián y se casa con Séfora (Ex 2:15–22); llamado en la zarza ardiente con la comisión de liberar a Israel (Ex 3–4); confronta al Faraón con las diez plagas (Ex 5–12); lidera el éxodo y el cruce del Mar Rojo (Ex 13–15); gobierna en el desierto con el consejo de Jetro (Ex 18); recibe la Ley y el pacto en el Sinaí (Ex 19–24); intercede por Israel tras el pecado del becerro de oro (Ex 32:11–14,30–32); recibe la renovación del pacto y contempla la gloria de Dios (Ex 33–34); supervisa la construcción del tabernáculo (Ex 35–40).",
+        "en": "Rescued from royal infanticide (Ex 2:1–10); flees to Midian and marries Zipporah (Ex 2:15–22); called at the burning bush with the commission to deliver Israel (Ex 3–4); confronts Pharaoh with the ten plagues (Ex 5–12); leads the exodus and the crossing of the Red Sea (Ex 13–15); governs in the wilderness with Jethro's counsel (Ex 18); receives the Law and covenant at Sinai (Ex 19–24); intercedes for Israel after the golden calf sin (Ex 32:11–14,30–32); receives covenant renewal and beholds God's glory (Ex 33–34); oversees the construction of the tabernacle (Ex 35–40).",
+        "pt": "Resgatado do infanticídio real (Ex 2:1–10); foge para Midiã e se casa com Séfora (Ex 2:15–22); chamado na sarça ardente com a missão de libertar Israel (Ex 3–4); confronta o Faraó com as dez pragas (Ex 5–12); lidera o êxodo e a travessia do Mar Vermelho (Ex 13–15); governa no deserto com o conselho de Jetro (Ex 18); recebe a Lei e a aliança no Sinai (Ex 19–24); intercede por Israel após o pecado do bezerro de ouro (Ex 32:11–14,30–32); recebe a renovação da aliança e contempla a glória de Deus (Ex 33–34); supervisiona a construção do tabernáculo (Ex 35–40)."
+      },
+      "significadoTeologico": {
+        "es": "Moisés es el mediador tipológico del Nuevo Pacto: como Dios habló 'cara a cara' con Moisés (Ex 33:11), así el Hijo eterno es la Palabra de Dios encarnada. Su intercesión por Israel pecador (Ex 32:30–32), llegando a ofrecer su propia vida, anticipa la intercesión sustitutiva de Cristo. La 'gloria de Moisés' que debía cubrirse (2Co 3:7–18) pone en contraste la gloria mayor y permanente del ministerio del Espíritu.",
+        "en": "Moses is the typological mediator of the New Covenant: as God spoke 'face to face' with Moses (Ex 33:11), so the eternal Son is the incarnate Word of God. His intercession for sinful Israel (Ex 32:30–32), even offering his own life, anticipates Christ's substitutionary intercession. The 'glory of Moses' that had to be veiled (2 Cor 3:7–18) contrasts with the greater and permanent glory of the ministry of the Spirit.",
+        "pt": "Moisés é o mediador tipológico da Nova Aliança: assim como Deus falou 'face a face' com Moisés (Ex 33:11), assim o Filho eterno é a Palavra de Deus encarnada. Sua intercessão pelo Israel pecador (Ex 32:30–32), chegando a oferecer a própria vida, antecipa a intercessão substitutiva de Cristo. A 'glória de Moisés' que devia ser coberta (2Co 3:7–18) contrasta com a glória maior e permanente do ministério do Espírito."
+      },
+      "tipo": {
+        "es": "Sí: tipo del Profeta, Mediador y Libertador que Dios levantaría (Dt 18:15; Hch 3:22; He 3:1–6). Cristo supera a Moisés en cuanto que Moisés era siervo en la casa de Dios, mientras que Cristo es el Hijo sobre la casa.",
+        "en": "Yes: a type of the Prophet, Mediator, and Deliverer God would raise up (Deut 18:15; Acts 3:22; Heb 3:1–6). Christ surpasses Moses in that Moses was a servant in God's house, while Christ is the Son over the house.",
+        "pt": "Sim: tipo do Profeta, Mediador e Libertador que Deus levantaria (Dt 18:15; At 3:22; He 3:1–6). Cristo supera Moisés na medida em que Moisés era servo na casa de Deus, enquanto Cristo é o Filho sobre a casa."
+      },
+      "caracterMoral": {
+        "es": "Manso por sobre todos los hombres de la tierra (Nm 12:3); movido por la compasión hacia su pueblo oprimido (Ex 2:11–12); fiel en toda la casa de Dios (He 3:2); sin embargo, hombre pecador que vacila en la fe ante el llamado (Ex 4:10–13), peca en Meriba (Nm 20:10–12) y actúa por ira en el incidente del becerro de oro (Ex 32:19).",
+        "en": "More meek than all people on the face of the earth (Num 12:3); moved by compassion for his oppressed people (Ex 2:11–12); faithful in all God's house (Heb 3:2); yet a sinful man who wavers in faith at the call (Ex 4:10–13), sins at Meribah (Num 20:10–12), and acts in anger in the golden calf incident (Ex 32:19).",
+        "pt": "Mais manso do que todos os homens sobre a terra (Nm 12:3); movido pela compaixão pelo seu povo oprimido (Ex 2:11–12); fiel em toda a casa de Deus (He 3:2); porém, homem pecador que hesita na fé diante do chamado (Ex 4:10–13), peca em Meribá (Nm 20:10–12) e age com ira no incidente do bezerro de ouro (Ex 32:19)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Nacido de padres levitas durante la persecución de Faraón (Ex 1–2), Moisés fue preservado milagrosamente y educado en la corte egipcia. Tras huir a Madián, fue llamado en la zarza ardiente (Ex 3). Como libertador divinamente comisionado, confrontó al Faraón con diez plagas y lideró el éxodo. En el Sinaí recibió la Ley y el pacto mosaico, intercedió tras la apostasía del becerro de oro, y presidió la construcción del tabernáculo donde la gloria de Dios llenó el lugar (Ex 40:34–35).",
+          "en": "Born to Levite parents during Pharaoh's persecution (Ex 1–2), Moses was miraculously preserved and educated in the Egyptian court. After fleeing to Midian, he was called at the burning bush (Ex 3). As the divinely commissioned deliverer, he confronted Pharaoh with ten plagues and led the exodus. At Sinai he received the Law and the Mosaic covenant, interceded after the golden calf apostasy, and presided over the construction of the tabernacle where God's glory filled the place (Ex 40:34–35).",
+          "pt": "Nascido de pais levitas durante a perseguição do Faraó (Ex 1–2), Moisés foi preservado milagrosamente e educado na corte egípcia. Após fugir para Midiã, foi chamado na sarça ardente (Ex 3). Como libertador divinamente comissionado, confrontou o Faraó com dez pragas e liderou o êxodo. No Sinai recebeu a Lei e a aliança mosaica, intercedeu após a apostasia do bezerro de ouro e presidiu a construção do tabernáculo onde a glória de Deus encheu o lugar (Ex 40:34–35)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "NAA"
+        },
+        "versiculosClave": [
+          "Ex 3:10",
+          "Ex 14:31",
+          "Ex 33:11",
+          "Ex 40:34"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Ningún documento egipcio menciona a Moisés por nombre. Sin embargo, el contexto del niño de la canasta es paralelo al relato acadio de Sargón de Acad (c. 2300 a.C.), lo cual no implica dependencia literaria sino un patrón literario de 'héroe expuesto' común en el ANE. La educación de Moisés en la corte egipcia es históricamente plausible: príncipes extranjeros eran frecuentemente criados en la corte del Faraón según práctica documentada del Reino Nuevo. El nombre 'Moisés' (מֹשֶׁה) es de origen egipcio (mss = 'hijo de'), paralelo a 'Tutmosis', 'Ramsés', lo cual confirma el contexto egipcio del relato.",
+          "en": "No Egyptian document mentions Moses by name. However, the account of the basket child parallels the Akkadian narrative of Sargon of Akkad (c. 2300 B.C.), which does not imply literary dependence but rather a common ANE 'exposed hero' literary pattern. Moses' education in the Egyptian court is historically plausible: foreign princes were frequently raised in Pharaoh's court as documented New Kingdom practice. The name 'Moses' (מֹשֶׁה) is of Egyptian origin (mss = 'son of'), parallel to 'Thutmosis,' 'Ramesses,' confirming the Egyptian context of the account.",
+          "pt": "Nenhum documento egípcio menciona Moisés pelo nome. No entanto, o relato da criança no cesto tem paralelo na narrativa acadiana de Sargão de Acad (c. 2300 a.C.), o que não implica dependência literária, mas sim um padrão literário comum no Oriente Próximo Antigo do 'herói exposto'. A educação de Moisés na corte egípcia é historicamente plausível: príncipes estrangeiros eram frequentemente criados na corte do Faraó, conforme prática documentada do Novo Reino. O nome 'Moisés' (מֹשֶׁה) é de origem egípcia (mss = 'filho de'), paralelo a 'Tutmósis', 'Ramsés', confirmando o contexto egípcio do relato."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Moses historical context",
+              "Egyptian background"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "El nombre egipcio de Moisés, la plausibilidad de su crianza en la corte y los paralelos literarios del ANE no contradicen sino que contextúalizan el relato bíblico; la ausencia de mención en fuentes egipcias es esperada por el patrón de supresión de derrotas en la propaganda real.",
+          "en": "Moses' Egyptian name, the plausibility of his court upbringing, and ANE literary parallels do not contradict but rather contextualize the biblical account; the absence of mention in Egyptian sources is expected given the pattern of suppressing defeats in royal propaganda.",
+          "pt": "O nome egípcio de Moisés, a plausibilidade de sua criação na corte e os paralelos literários do OPA não contradizem, mas contextualizam o relato bíblico; a ausência de menção em fontes egípcias é esperada pelo padrão de supressão de derrotas na propaganda real."
+        }
+      },
+      "versiculosAsociados": [
+        "Ex 2:10",
+        "Ex 3:14",
+        "Ex 4:10",
+        "Ex 14:31",
+        "Ex 32:11–14",
+        "Ex 33:11",
+        "Ex 34:29"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Nm",
+        "Dt",
+        "Jos",
+        "Sal",
+        "Is",
+        "Jr",
+        "Dn",
+        "Ml",
+        "Mt",
+        "Mr",
+        "Lc",
+        "Jn",
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "He",
+        "Jud",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Moisés es citado o referenciado en el NT más de ochenta veces. Jesús lo evoca como tipo del Hijo del Hombre levantado en el desierto (Jn 3:14) y lo cita para validar la Escritura (Mr 7:10). Pablo lo usa como tipología del pacto y del velo del corazón endurecido (2Co 3:7–18; Ro 10:5). Hebreos lo presenta como fiel siervo que miró al galardón (He 11:24–28), inferior al Hijo sobre la casa (He 3:5–6). En la Transfiguración aparece junto a Elías como testigo de la gloria del Hijo (Mt 17:3).",
+        "en": "Moses is cited or referenced in the NT more than eighty times. Jesus invokes him as a type of the Son of Man lifted up in the wilderness (John 3:14) and cites him to validate Scripture (Mark 7:10). Paul uses him as typology of the covenant and the veil of the hardened heart (2 Cor 3:7–18; Rom 10:5). Hebrews presents him as a faithful servant who looked to the reward (Heb 11:24–28), inferior to the Son over the house (Heb 3:5–6). At the Transfiguration he appears alongside Elijah as witness to the Son's glory (Matt 17:3).",
+        "pt": "Moisés é citado ou referenciado no NT mais de oitenta vezes. Jesus o evoca como tipo do Filho do Homem levantado no deserto (Jo 3:14) e o cita para validar a Escritura (Mc 7:10). Paulo o usa como tipologia da aliança e do véu do coração endurecido (2Co 3:7–18; Rm 10:5). Hebreus o apresenta como servo fiel que olhou para a recompensa (He 11:24–28), inferior ao Filho sobre a casa (He 3:5–6). Na Transfiguração aparece ao lado de Elias como testemunha da glória do Filho (Mt 17:3)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Faraón",
+        "en": "Pharaoh",
+        "pt": "Faraó"
+      },
+      "principal": true,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14
+      ],
+      "descripcion": {
+        "es": "El rey de Egipto innominado en el texto, cuya identidad histórica es debatida entre Tutmosis III / Amenofis II (datación temprana) o Seti I / Ramsés II (datación tardía). Encarna la resistencia humana y satánica ante la soberanía redentora de Dios.",
+        "en": "The unnamed king of Egypt in the text, whose historical identity is debated between Thutmose III / Amenhotep II (early date) or Seti I / Ramesses II (late date). He embodies human and satanic resistance to God's redemptive sovereignty.",
+        "pt": "O rei do Egito sem nome no texto, cuja identidade histórica é debatida entre Tutmósis III / Amenófis II (datação precoce) ou Seti I / Ramsés II (datação tardia). Encarna a resistência humana e satânica à soberania redentora de Deus."
+      },
+      "acciones": {
+        "es": "Ordena el infanticidio de los niños varones hebreos (Ex 1:16,22); endurece su corazón ante las plagas reiteradamente (Ex 7–10); pierde a su primogénito en la décima plaga (Ex 12:29–30); persigue a Israel hasta el Mar Rojo donde es aniquilado con su ejército (Ex 14:5–9,23–28).",
+        "en": "Orders the killing of Hebrew male infants (Ex 1:16,22); repeatedly hardens his heart against the plagues (Ex 7–10); loses his firstborn in the tenth plague (Ex 12:29–30); pursues Israel to the Red Sea where he is destroyed with his army (Ex 14:5–9,23–28).",
+        "pt": "Ordena o infanticídio dos meninos hebreus (Ex 1:16,22); endurece repetidamente seu coração diante das pragas (Ex 7–10); perde seu primogênito na décima praga (Ex 12:29–30); persegue Israel até o Mar Vermelho, onde é destruído com seu exército (Ex 14:5–9,23–28)."
+      },
+      "significadoTeologico": {
+        "es": "El endurecimiento del corazón de Faraón (Ex 4:21; 7:3; 9:12) es un locus classicus de la doctrina reformada de la soberanía divina y la responsabilidad humana. Pablo lo cita en Romanos 9:17–18 para enseñar que Dios levantó a Faraón precisamente para manifestar su poder y dar a conocer su nombre en toda la tierra, estableciendo así la base de la elección soberana. Faraón encarna el reino del mal y su derrota prefigura la victoria escatológica de Cristo.",
+        "en": "The hardening of Pharaoh's heart (Ex 4:21; 7:3; 9:12) is a locus classicus of the Reformed doctrine of divine sovereignty and human responsibility. Paul cites it in Rom 9:17–18 to teach that God raised up Pharaoh precisely to show his power and proclaim his name throughout the earth, thereby establishing the basis for sovereign election. Pharaoh embodies the kingdom of evil and his defeat prefigures Christ's eschatological victory.",
+        "pt": "O endurecimento do coração do Faraó (Ex 4:21; 7:3; 9:12) é um locus classicus da doutrina reformada da soberania divina e da responsabilidade humana. Paulo o cita em Romanos 9:17–18 para ensinar que Deus levantou o Faraó precisamente para manifestar o seu poder e dar a conhecer o seu nome por toda a terra, estabelecendo assim a base da eleição soberana. O Faraó encarna o reino do mal e sua derrota prefigura a vitória escatológica de Cristo."
+      },
+      "tipo": {
+        "es": "No actúa como tipo de Cristo; más bien funciona como tipo del adversario derrotado por el poder redentor de Dios, paralelo a la derrota de Satanás en la cruz.",
+        "en": "Does not function as a type of Christ; rather he functions as a type of the adversary defeated by God's redemptive power, parallel to the defeat of Satan at the cross.",
+        "pt": "Não funciona como tipo de Cristo; antes funciona como tipo do adversário derrotado pelo poder redentor de Deus, paralelo à derrota de Satanás na cruz."
+      },
+      "caracterMoral": {
+        "es": "Orgulloso, obstinado, perverso en su opresión de Israel (Ex 1:10–11), que sin embargo confiesa repetidamente su pecado bajo presión (Ex 9:27; 10:16) solo para retractarse. Es paradigma del endurecimiento progresivo del corazón pecador.",
+        "en": "Proud, stubborn, wicked in his oppression of Israel (Ex 1:10–11), who nevertheless repeatedly confesses his sin under pressure (Ex 9:27; 10:16) only to recant. He is the paradigm of the progressive hardening of the sinful heart.",
+        "pt": "Orgulhoso, obstinado, perverso em sua opressão de Israel (Ex 1:10–11), que todavia confessa repetidamente seu pecado sob pressão (Ex 9:27; 10:16) só para se retratar. É o paradigma do endurecimento progressivo do coração pecador."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Aparece primero como 'un nuevo rey que no conocía a José' (Ex 1:8) y cuya política es de genocidio preventivo. Tras rechazar repetidamente las demandas de Moisés y soportar nueve plagas, pierde a su primogénito y libera a Israel (Ex 12:31–32), solo para arrepentirse y perseguirlos hasta su destrucción en el Mar Rojo.",
+          "en": "Appears first as 'a new king who did not know Joseph' (Ex 1:8) whose policy is preventive genocide. After repeatedly rejecting Moses' demands and enduring nine plagues, he loses his firstborn and releases Israel (Ex 12:31–32), only to repent and pursue them to his destruction in the Red Sea.",
+          "pt": "Aparece primeiro como 'um novo rei que não conhecia José' (Ex 1:8), cuja política é de genocídio preventivo. Após rejeitar repetidamente as demandas de Moisés e suportar nove pragas, perde seu primogênito e liberta Israel (Ex 12:31–32), só para se arrepender e persegui-los até sua destruição no Mar Vermelho."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "NAA"
+        },
+        "versiculosClave": [
+          "Ex 1:8",
+          "Ex 5:2",
+          "Ex 9:27",
+          "Ex 14:28"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La identificación histórica del Faraón del éxodo es una de las cuestiones más debatidas de la arqueología bíblica. Los principales candidatos son: Tutmosis III (reinó c. 1504–1450 a.C.) como faraón opresor y Amenofis II (c. 1450–1425 a.C.) como faraón del éxodo (datación temprana); Seti I (c. 1294–1279) como opresor y Ramsés II (c. 1279–1213) como faraón del éxodo (datación tardía). La datación temprana es coherente con 1R 6:1. La mención de 'Ramsés' en Éxodo 1:11 puede ser una actualización geográfica posterior.",
+          "en": "The historical identification of the Pharaoh of the exodus is one of the most debated questions in biblical archaeology. The main candidates are: Thutmose III (reigned c. 1504–1450 B.C.) as the oppressor pharaoh and Amenhotep II (c. 1450–1425 B.C.) as the exodus pharaoh (early date); Seti I (c. 1294–1279) as the oppressor and Ramesses II (c. 1279–1213) as the exodus pharaoh (late date). The early date is consistent with 1 Kings 6:1. The mention of 'Rameses' in Exodus 1:11 may be a later geographic update.",
+          "pt": "A identificação histórica do Faraó do êxodo é uma das questões mais debatidas da arqueologia bíblica. Os principais candidatos são: Tutmósis III (reinou c. 1504–1450 a.C.) como faraó opressor e Amenófis II (c. 1450–1425 a.C.) como faraó do êxodo (datação precoce); Seti I (c. 1294–1279) como opressor e Ramsés II (c. 1279–1213) como faraó do êxodo (datação tardia). A datação precoce é coerente com 1 Reis 6:1. A menção de 'Ramessés' em Êxodo 1:11 pode ser uma atualização geográfica posterior."
+        },
+        "fuentes": [
+          {
+            "titulo": "Ancient Egypt and the Old Testament",
+            "autor": "John Currid",
+            "año": 1997,
+            "editorial": "Baker Academic",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Pharaoh historical identity",
+              "Egyptian context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La falta de identificación explícita del Faraón en el texto hebreo es intencional: el libro no está interesado en la historia de Egipto sino en la soberanía de Dios sobre el mayor poder del mundo conocido. La arqueología no puede confirmar ni refutar directamente al Faraón del éxodo.",
+          "en": "The lack of explicit identification of Pharaoh in the Hebrew text is intentional: the book is not interested in Egypt's history but in God's sovereignty over the greatest power in the known world. Archaeology can neither directly confirm nor refute the Pharaoh of the exodus.",
+          "pt": "A falta de identificação explícita do Faraó no texto hebraico é intencional: o livro não está interessado na história do Egito, mas na soberania de Deus sobre o maior poder do mundo conhecido. A arqueologia não pode confirmar nem refutar diretamente o Faraó do êxodo."
+        }
+      },
+      "versiculosAsociados": [
+        "Ex 1:8",
+        "Ex 4:21",
+        "Ex 7:13",
+        "Ex 9:12",
+        "Ex 12:29–30",
+        "Ex 14:28"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Ro",
+        "Sal"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo cita el endurecimiento de Faraón en Romanos 9:17–18 como prueba bíblica de la soberanía absoluta de Dios en la elección y el rechazo: 'Así que de quien quiere, tiene misericordia, y al que quiere endurecer, endurece.'",
+        "en": "Paul cites the hardening of Pharaoh in Rom 9:17–18 as biblical proof of God's absolute sovereignty in election and reprobation: 'So then he has mercy on whomever he wills, and he hardens whomever he wills.'",
+        "pt": "Paulo cita o endurecimento do Faraó em Romanos 9:17–18 como prova bíblica da soberania absoluta de Deus na eleição e na reprovação: 'Portanto, ele tem misericórdia de quem quer, e endurece a quem quer.'"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Aarón",
+        "en": "Aaron",
+        "pt": "Arão"
+      },
+      "hebreo": "אַהֲרֹן",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        16,
+        17,
+        24,
+        28,
+        29,
+        32,
+        40
+      ],
+      "descripcion": {
+        "es": "Hermano mayor de Moisés y Miriam, de la tribu de Leví, primer sumo sacerdote de Israel, portavoz divinamente designado de Moisés ante el Faraón (Ex 4:14–16; 7:1–2).",
+        "en": "Elder brother of Moses and Miriam, of the tribe of Levi, first high priest of Israel, divinely appointed spokesperson for Moses before Pharaoh (Ex 4:14–16; 7:1–2).",
+        "pt": "Irmão mais velho de Moisés e Miriã, da tribo de Levi, primeiro sumo sacerdote de Israel, porta-voz divinamente designado de Moisés perante o Faraó (Ex 4:14–16; 7:1–2)."
+      },
+      "acciones": {
+        "es": "Reúne a los ancianos de Israel (Ex 4:29–31); actúa como portavoz ante el Faraón durante las plagas (Ex 7–11); sostiene los brazos de Moisés en la batalla contra Amalec (Ex 17:12); sube al Sinaí junto a los ancianos (Ex 24:9); es consagrado como sumo sacerdote (Ex 28–29); cede ante la presión del pueblo y fabrica el becerro de oro (Ex 32:1–6); es consagrado al sacerdocio junto a sus hijos (Ex 40:12–15).",
+        "en": "Gathers the elders of Israel (Ex 4:29–31); acts as spokesperson before Pharaoh during the plagues (Ex 7–11); holds up Moses' arms in the battle against Amalek (Ex 17:12); ascends Sinai with the elders (Ex 24:9); is consecrated as high priest (Ex 28–29); yields to the people's pressure and makes the golden calf (Ex 32:1–6); is consecrated to the priesthood along with his sons (Ex 40:12–15).",
+        "pt": "Reúne os anciãos de Israel (Ex 4:29–31); age como porta-voz perante o Faraó durante as pragas (Ex 7–11); sustenta os braços de Moisés na batalha contra Amaleque (Ex 17:12); sobe ao Sinai com os anciãos (Ex 24:9); é consagrado como sumo sacerdote (Ex 28–29); cede à pressão do povo e faz o bezerro de ouro (Ex 32:1–6); é consagrado ao sacerdócio junto com seus filhos (Ex 40:12–15)."
+      },
+      "significadoTeologico": {
+        "es": "Aarón es tipo del sumo sacerdote que media entre Dios y el pueblo. El sacerdocio aarónico con su sistema sacrificial y su intercesión apunta a Cristo el gran Sumo Sacerdote que se ofrece a sí mismo en sacrificio perfecto y vive siempre para interceder (He 4:14–5:10; 7:23–28). Paradójicamente, su mayor fracaso — el becerro de oro — ocurre mientras está siendo consagrado para el sacerdocio.",
+        "en": "Aaron is a type of the high priest who mediates between God and the people. The Aaronic priesthood with its sacrificial system and intercession points to Christ the great High Priest who offers himself as a perfect sacrifice and always lives to intercede (Heb 4:14–5:10; 7:23–28). Paradoxically, his greatest failure — the golden calf — occurs while he is being consecrated for the priesthood.",
+        "pt": "Arão é tipo do sumo sacerdote que medeia entre Deus e o povo. O sacerdócio aaronita com seu sistema sacrificial e sua intercessão aponta para Cristo o grande Sumo Sacerdote que se oferece como sacrifício perfeito e vive sempre para interceder (He 4:14–5:10; 7:23–28). Paradoxalmente, seu maior fracasso — o bezerro de ouro — ocorre enquanto está sendo consagrado para o sacerdócio."
+      },
+      "tipo": {
+        "es": "Sí: tipo del Sumo Sacerdote de Israel (He 5:4–5), pero imperfecto e inferior a Cristo, cuyo sacerdócio es eterno y según el orden de Melquisedec (He 7:11–17).",
+        "en": "Yes: a type of Israel's High Priest (Heb 5:4–5), but imperfect and inferior to Christ, whose priesthood is eternal and according to the order of Melchizedek (Heb 7:11–17).",
+        "pt": "Sim: tipo do Sumo Sacerdote de Israel (He 5:4–5), mas imperfeito e inferior a Cristo, cujo sacerdócio é eterno e segundo a ordem de Melquisedeque (He 7:11–17)."
+      },
+      "caracterMoral": {
+        "es": "Fiel en el cumplimiento de sus funciones sacerdotales, pero debilitado por la vacilación ante la presión popular, como revela el episodio del becerro de oro (Ex 32:22–24), que prefigura la tendencia del sacerdocio humano a ceder ante la apostasía del pueblo.",
+        "en": "Faithful in the fulfillment of his priestly functions, but weakened by vacillation under popular pressure, as revealed in the golden calf episode (Ex 32:22–24), which prefigures the tendency of human priesthood to yield to the people's apostasy.",
+        "pt": "Fiel no cumprimento de suas funções sacerdotais, mas enfraquecido pela vacilação diante da pressão popular, como revela o episódio do bezerro de ouro (Ex 32:22–24), que prefigura a tendência do sacerdócio humano a ceder diante da apostasia do povo."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Hermano tres años mayor que Moisés (Ex 7:7), divinamente comisionado como portavoz del libertador. Participa en todas las plagas como instrumento de Dios. Es consagrado como primer sumo sacerdote junto a sus hijos (Ex 29). Su fracaso en el episodio del becerro de oro (Ex 32) no lo descalifica del sacerdocio por la gracia mediadora de Moisés.",
+          "en": "Three years older than Moses (Ex 7:7), divinely commissioned as the deliverer's spokesperson. Participates in all the plagues as God's instrument. He is consecrated as the first high priest along with his sons (Ex 29). His failure in the golden calf episode (Ex 32) does not disqualify him from the priesthood through Moses' mediating grace.",
+          "pt": "Três anos mais velho que Moisés (Ex 7:7), divinamente comissionado como porta-voz do libertador. Participa em todas as pragas como instrumento de Deus. É consagrado como primeiro sumo sacerdote junto com seus filhos (Ex 29). Seu fracasso no episódio do bezerro de ouro (Ex 32) não o desqualifica do sacerdócio pela graça mediadora de Moisés."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "NAA"
+        },
+        "versiculosClave": [
+          "Ex 4:14",
+          "Ex 7:1",
+          "Ex 28:1",
+          "Ex 32:4"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Aarón no aparece en ningún registro extrabíblico. La institución del sacerdocio levítico que él inaugura tiene paralelos en el ANE con sacerdocios hereditarios vinculados a santuarios reales, aunque el sacerdocio aarónico presenta características únicas (elección divina, función mediadora del pacto) que lo distinguen de los paralelos paganos.",
+          "en": "Aaron does not appear in any extra-biblical record. The Levitical priestly institution he inaugurates has ANE parallels in hereditary priesthoods linked to royal sanctuaries, though the Aaronic priesthood presents unique characteristics (divine election, covenant mediating function) that distinguish it from pagan parallels.",
+          "pt": "Arão não aparece em nenhum registro extra-bíblico. A instituição do sacerdócio levítico que ele inaugura tem paralelos no OPA com sacerdócios hereditários vinculados a santuários reais, embora o sacerdócio aaronita apresente características únicas (eleição divina, função mediadora da aliança) que o distinguem dos paralelos pagãos."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Levitical priesthood historical context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La ausencia de evidencia extrabíblica de Aarón es coherente con la posición de Israel como pueblo esclavizado sin presencia en los registros oficiales egipcios.",
+          "en": "The absence of extra-biblical evidence for Aaron is consistent with Israel's position as an enslaved people without presence in official Egyptian records.",
+          "pt": "A ausência de evidência extra-bíblica de Arão é coerente com a posição de Israel como povo escravizado sem presença nos registros oficiais egípcios."
+        }
+      },
+      "versiculosAsociados": [
+        "Ex 4:14–16",
+        "Ex 7:1",
+        "Ex 17:12",
+        "Ex 28:1",
+        "Ex 32:1–4"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Lv",
+        "Nm",
+        "Dt",
+        "Jos",
+        "1Cr",
+        "Sal",
+        "Ml",
+        "Lc",
+        "Hch",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Hebreos usa el sacerdocio aarónico como el modelo que Cristo supera (He 5:4–5; 7:11–17). El argumento central de Hebreos es que Cristo es Sumo Sacerdote según el orden de Melquisedec, no de Aarón, y que por ello su sacerdocio es eterno e inmutable.",
+        "en": "Hebrews uses the Aaronic priesthood as the model that Christ surpasses (Heb 5:4–5; 7:11–17). The central argument of Hebrews is that Christ is High Priest according to the order of Melchizedek, not Aaron, and therefore his priesthood is eternal and unchangeable.",
+        "pt": "Hebreus usa o sacerdócio aaronita como o modelo que Cristo supera (He 5:4–5; 7:11–17). O argumento central de Hebreus é que Cristo é Sumo Sacerdote segundo a ordem de Melquisedeque, não de Arão, e que por isso o seu sacerdócio é eterno e imutável."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Miriam",
+        "en": "Miriam",
+        "pt": "Miriã"
+      },
+      "hebreo": "מִרְיָם",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        2,
+        15
+      ],
+      "descripcion": {
+        "es": "Hermana mayor de Moisés y Aarón, profetisa, que lidera el cántico de victoria de las mujeres tras el cruce del Mar Rojo (Ex 15:20–21) y es el primer personaje femenino identificado como profetisa en el AT.",
+        "en": "Elder sister of Moses and Aaron, prophetess, who leads the women's victory song after the crossing of the Red Sea (Ex 15:20–21) and is the first female character identified as a prophetess in the OT.",
+        "pt": "Irmã mais velha de Moisés e Arão, profetisa, que lidera o cântico de vitória das mulheres após a travessia do Mar Vermelho (Ex 15:20–21) e é a primeira personagem feminina identificada como profetisa no AT."
+      },
+      "acciones": {
+        "es": "Vigila al bebé Moisés en el Nilo y propone a la madre como nodriza (Ex 2:4–8); lidera a las mujeres con panderos en el canto de triunfo tras cruzar el Mar Rojo (Ex 15:20–21).",
+        "en": "Watches over baby Moses on the Nile and proposes his mother as wet nurse (Ex 2:4–8); leads the women with tambourines in the triumph song after crossing the Red Sea (Ex 15:20–21).",
+        "pt": "Vigia o bebê Moisés no Nilo e propõe sua mãe como ama de leite (Ex 2:4–8); lidera as mulheres com pandeiros no cântico de triunfo após a travessia do Mar Vermelho (Ex 15:20–21)."
+      },
+      "significadoTeologico": {
+        "es": "Miriam representa la participación profética de las mujeres en la historia redentora de Israel. Su canción de triunfo (Ex 15:21) es posiblemente el texto poético más antiguo del AT y establece el patrón de la celebración litúrgica de los actos salvíficos de Dios.",
+        "en": "Miriam represents the prophetic participation of women in the redemptive history of Israel. Her triumph song (Ex 15:21) is possibly the oldest poetic text in the OT and establishes the pattern of liturgical celebration of God's saving acts.",
+        "pt": "Miriã representa a participação profética das mulheres na história redentora de Israel. Seu cântico de triunfo (Ex 15:21) é possivelmente o texto poético mais antigo do AT e estabelece o padrão de celebração litúrgica dos atos salvadores de Deus."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo en Éxodo.",
+        "en": "Does not function as a type of Christ in Exodus.",
+        "pt": "Não funciona como tipo de Cristo no Êxodo."
+      },
+      "caracterMoral": {
+        "es": "Fiel y audaz en la providencial protección de Moisés en la infancia; proféticamente dotada y lideresa de las mujeres en el éxodo. Su rebelión posterior contra Moisés (Nm 12) revela la fragilidad moral de la líder más celebrada.",
+        "en": "Faithful and bold in the providential protection of Moses in infancy; prophetically gifted and leader of the women in the exodus. Her later rebellion against Moses (Num 12) reveals the moral fragility of the most celebrated leader.",
+        "pt": "Fiel e ousada na proteção providencial de Moisés na infância; profeticamente dotada e líder das mulheres no êxodo. Sua posterior rebelião contra Moisés (Nm 12) revela a fragilidade moral da líder mais celebrada."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Aparece primero como la joven hermana que vela por el bebé Moisés y logra que su madre lo amamante (Ex 2:4–8). Reaparece en Éxodo 15:20–21 como 'la profetisa Miriam, hermana de Aarón', liderando el cántico de victoria de las mujeres con panderos tras el cruce del Mar Rojo.",
+          "en": "Appears first as the young sister who watches over baby Moses and arranges for his mother to nurse him (Ex 2:4–8). Reappears in Exodus 15:20–21 as 'Miriam the prophetess, the sister of Aaron,' leading the women's victory song with tambourines after the crossing of the Red Sea.",
+          "pt": "Aparece primeiro como a jovem irmã que vigia o bebê Moisés e consegue que sua mãe o amamente (Ex 2:4–8). Reaparece em Êxodo 15:20–21 como 'a profetisa Miriã, irmã de Arão', liderando o cântico de vitória das mulheres com pandeiros após a travessia do Mar Vermelho."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "NAA"
+        },
+        "versiculosClave": [
+          "Ex 2:4",
+          "Ex 15:20–21"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Sin evidencia histórica extrabíblica. El rol de profetisa y líder ritual femenina tiene paralelos en el ANE, donde mujeres profetisas y músicas participaban en celebraciones de victoria.",
+          "en": "No extra-biblical historical evidence. The role of female prophetess and ritual leader has ANE parallels, where female prophets and musicians participated in victory celebrations.",
+          "pt": "Sem evidência histórica extra-bíblica. O papel de profetisa e líder ritual feminina tem paralelos no OPA, onde mulheres profetisas e músicas participavam de celebrações de vitória."
+        },
+        "fuentes": [
+          {
+            "titulo": "IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Female prophets ANE context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "No hay contradicción entre el relato bíblico y el contexto histórico; la ausencia de evidencia externa es esperada dado el carácter no oficial de su figura en los registros egipcios.",
+          "en": "There is no contradiction between the biblical account and the historical context; the absence of external evidence is expected given her unofficial status in Egyptian records.",
+          "pt": "Não há contradição entre o relato bíblico e o contexto histórico; a ausência de evidência externa é esperada dado o caráter não oficial de sua figura nos registros egípcios."
+        }
+      },
+      "versiculosAsociados": [
+        "Ex 2:4–8",
+        "Ex 15:20–21"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Nm",
+        "Dt",
+        "1Cr",
+        "Miq"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Miriam no es mencionada directamente en el NT, aunque el título 'profetisa' que porta anticiparía las profetisas que aparecerán en la era del cumplimiento (Lc 2:36; Hch 21:9; 1Co 11:5).",
+        "en": "Miriam is not directly mentioned in the NT, though the title 'prophetess' she holds anticipates the female prophets who appear in the era of fulfillment (Luke 2:36; Acts 21:9; 1 Cor 11:5).",
+        "pt": "Miriã não é mencionada diretamente no NT, embora o título de 'profetisa' que ela carrega antecipe as mulheres profetisas que aparecerão na era do cumprimento (Lc 2:36; At 21:9; 1Co 11:5)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "Éxodo es el libro que más sistemáticamente revela el nombre y los atributos de Dios en todo el AT. El nombre 'Yo soy el que soy' (אֶהְיֶה אֲשֶׁר אֶהְיֶה, Ex 3:14) revela la aseidad y eternidad divinas: Dios existe por sí mismo, sin dependencia de nada ni nadie. El Decálogo comienza con su autopresentación como el Dios redentor-soberano (Ex 20:2). La proclamación de los trece atributos divinos en Éxodo 34:6–7 —compasivo, clemente, lento para la ira, grande en misericordia y verdad, que perdona la iniquidad pero no absuelve al culpable— se convierte en el credo teológico citado en toda la Escritura (Nm 14:18; Sal 86:15; Jon 4:2).",
+        "en": "Exodus is the book that most systematically reveals God's name and attributes in the entire OT. The name 'I AM WHO I AM' (אֶהְיֶה אֲשֶׁר אֶהְיֶה, Ex 3:14) reveals divine aseity and eternity: God exists by himself, without dependence on anything or anyone. The Decalogue begins with his self-presentation as the sovereign-redeeming God (Ex 20:2). The proclamation of the thirteen divine attributes in Exodus 34:6–7 — compassionate, gracious, slow to anger, abounding in steadfast love and faithfulness, forgiving iniquity yet by no means clearing the guilty — becomes the theological creed cited throughout Scripture (Num 14:18; Ps 86:15; Jonah 4:2).",
+        "pt": "Êxodo é o livro que mais sistematicamente revela o nome e os atributos de Deus em todo o AT. O nome 'Eu Sou o que Sou' (אֶהְיֶה אֲשֶׁר אֶהְיֶה, Ex 3:14) revela a aseidade e eternidade divinas: Deus existe por si mesmo, sem dependência de nada nem de ninguém. O Decálogo começa com sua autoapresentação como o Deus redentor-soberano (Ex 20:2). A proclamação dos treze atributos divinos em Êxodo 34:6–7 — compassivo, clemente, lento para a ira, grande em misericórdia e fidelidade, que perdoa a iniquidade mas não absolve o culpado — torna-se o credo teológico citado em toda a Escritura (Nm 14:18; Sl 86:15; Jn 4:2)."
+      },
+      "pasajes": [
+        "Ex 3:14",
+        "Ex 6:2–3",
+        "Ex 20:2",
+        "Ex 34:6–7"
+      ],
+      "ensenanza": {
+        "es": "Ex 3:14 — Dios revela su nombre eterno e inmutable, 'Yo soy el que soy' · Ex 6:2–3 — Dios se da a conocer por su nombre YHWH, no conocido plenamente por los patriarcas · Ex 20:2 — El Decálogo se ancla en el acto redentor de Dios, no en abstracción moral · Ex 34:6–7 — Los atributos divinos combinan gracia y justicia en perfecta armonía",
+        "en": "Ex 3:14 — God reveals his eternal and immutable name, 'I AM WHO I AM' · Ex 6:2–3 — God makes himself known by his name YHWH, not fully revealed to the patriarchs · Ex 20:2 — The Decalogue is anchored in God's redemptive act, not abstract morality · Ex 34:6–7 — The divine attributes combine grace and justice in perfect harmony",
+        "pt": "Ex 3:14 — Deus revela o seu nome eterno e imutável, 'Eu Sou o que Sou' · Ex 6:2–3 — Deus se dá a conhecer pelo seu nome YHWH, não plenamente revelado aos patriarcas · Ex 20:2 — O Decálogo está ancorado no ato redentor de Deus, não na abstração moral · Ex 34:6–7 — Os atributos divinos combinam graça e justiça em perfeita harmonia"
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "El éxodo de Egipto es el arquetipo veterotestamentario de la salvación. La liberación de la esclavitud mediante la sangre del cordero pascual (Ex 12), el cruce del Mar Rojo (Ex 14) y el viaje al monte de Dios (Ex 19) proveen el patrón tripartito que relee toda la teología bíblica de la salvación: expiación (sangre), liberación (cruce) y comunión con Dios (pacto). Pablo usa explícitamente este esquema en 1Corintios 5:7 y 10:1–4 para referirlo a Cristo.",
+        "en": "The exodus from Egypt is the Old Testament archetype of salvation. The liberation from slavery through the blood of the Passover lamb (Ex 12), the crossing of the Red Sea (Ex 14), and the journey to the mountain of God (Ex 19) provide the tripartite pattern that re-reads all biblical theology of salvation: atonement (blood), liberation (crossing), and communion with God (covenant). Paul explicitly uses this scheme in 1Co 5:7 and 10:1–4 to refer it to Christ.",
+        "pt": "O êxodo do Egito é o arquétipo veterotestamentário da salvação. A libertação da escravidão mediante o sangue do cordeiro pascal (Ex 12), a travessia do Mar Vermelho (Ex 14) e a jornada ao monte de Deus (Ex 19) fornecem o padrão tripartite que relê toda a teologia bíblica da salvação: expiação (sangue), libertação (travessia) e comunhão com Deus (aliança). Paulo usa explicitamente esse esquema em 1Coríntios 5:7 e 10:1–4 para referenciá-lo a Cristo."
+      },
+      "pasajes": [
+        "Ex 6:6–7",
+        "Ex 12:13",
+        "Ex 14:30",
+        "Ex 15:13"
+      ],
+      "ensenanza": {
+        "es": "Ex 6:6–7 — Dios promete redimir a Israel con 'brazo extendido' y juicios poderosos, estableciendo el vocabulario de la redención · Ex 12:13 — La sangre del cordero en el dintel preserva de la ira divina: sustitución expiatoria · Ex 14:30 — 'Salvó YHWH a Israel aquel día', el éxodo como acto de salvación definitivo · Ex 15:13 — El cántico celebra la redención como guía hacia la santa morada de Dios",
+        "en": "Ex 6:6–7 — God promises to redeem Israel with 'an outstretched arm' and great acts of judgment, establishing the vocabulary of redemption · Ex 12:13 — The lamb's blood on the doorpost preserves from divine wrath: expiatory substitution · Ex 14:30 — 'The LORD saved Israel that day,' the exodus as definitive act of salvation · Ex 15:13 — The song celebrates redemption as guidance toward God's holy dwelling",
+        "pt": "Ex 6:6–7 — Deus promete redimir Israel com 'braço estendido' e grandes julgamentos, estabelecendo o vocabulário da redenção · Ex 12:13 — O sangue do cordeiro na ombreira preserva da ira divina: substituição expiatória · Ex 14:30 — 'O SENHOR salvou Israel naquele dia', o êxodo como ato definitivo de salvação · Ex 15:13 — O cântico celebra a redenção como guia para a santa morada de Deus"
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Aliança"
+      },
+      "resumen": {
+        "es": "Éxodo es el libro del pacto mosaico, establecido en el Sinaí como la constitución teocrática de Israel. El pacto tiene estructura de tratado de suzeranía del Bronce Tardío: prólogo histórico (Ex 20:2), estipulaciones (Ex 20:3–17; 21–23), cláusulas de bendición y maldición implícitas, y ratificación (Ex 24:3–8, 'Esta es la sangre del pacto'). El pacto mosaico no anula el abrahámico (Gá 3:17) sino que lo administra temporalmente, añadiendo la dimensión pedagógica de la Ley (Gá 3:24) hasta que venga la simiente prometida. La Confesión de Westminster enseña que el pacto mosaico fue 'una nueva administración del pacto de gracia' (WCF 7.5).",
+        "en": "Exodus is the book of the Mosaic covenant, established at Sinai as the theocratic constitution of Israel. The covenant has the structure of a Late Bronze Age suzerainty treaty: historical prologue (Ex 20:2), stipulations (Ex 20:3–17; 21–23), implicit blessing and curse clauses, and ratification (Ex 24:3–8, 'This is the blood of the covenant'). The Mosaic covenant does not annul the Abrahamic (Gal 3:17) but administers it temporarily, adding the pedagogical dimension of the Law (Gal 3:24) until the promised seed comes. The Westminster Confession teaches that the Mosaic covenant was 'a new administration of the covenant of grace' (WCF 7.5).",
+        "pt": "Êxodo é o livro da aliança mosaica, estabelecida no Sinai como a constituição teocrática de Israel. A aliança tem a estrutura de um tratado de suserania do Bronze Tardio: prólogo histórico (Ex 20:2), estipulações (Ex 20:3–17; 21–23), cláusulas de bênção e maldição implícitas e ratificação (Ex 24:3–8, 'Este é o sangue da aliança'). A aliança mosaica não anula a abraâmica (Gl 3:17), mas a administra temporariamente, acrescentando a dimensão pedagógica da Lei (Gl 3:24) até que venha a semente prometida. A Confissão de Westminster ensina que a aliança mosaica foi 'uma nova administração da aliança de graça' (WCF 7.5)."
+      },
+      "pasajes": [
+        "Ex 19:5–6",
+        "Ex 24:7–8",
+        "Ex 34:10",
+        "Ex 34:27–28"
+      ],
+      "ensenanza": {
+        "es": "Ex 19:5–6 — Israel constituido como 'reino sacerdotal y nación santa', identidad covenant people definida · Ex 24:7–8 — Ratificación del pacto con sangre: base expiatoria del pacto mosaico · Ex 34:10 — Dios renueva el pacto tras la apostasía del becerro de oro por gracia soberana · Ex 34:27–28 — Moisés escribe 'las palabras del pacto, las Diez Palabras'",
+        "en": "Ex 19:5–6 — Israel constituted as 'a kingdom of priests and a holy nation,' covenant people identity defined · Ex 24:7–8 — Covenant ratification with blood: expiatory basis of the Mosaic covenant · Ex 34:10 — God renews the covenant after the golden calf apostasy by sovereign grace · Ex 34:27–28 — Moses writes 'the words of the covenant, the Ten Words'",
+        "pt": "Ex 19:5–6 — Israel constituído como 'reino de sacerdotes e nação santa', identidade do povo da aliança definida · Ex 24:7–8 — Ratificação da aliança com sangue: base expiatória da aliança mosaica · Ex 34:10 — Deus renova a aliança após a apostasia do bezerro de ouro por graça soberana · Ex 34:27–28 — Moisés escreve 'as palavras da aliança, as Dez Palavras'"
+      }
+    },
+    {
+      "categoria": {
+        "es": "Ley",
+        "en": "Law",
+        "pt": "Lei"
+      },
+      "resumen": {
+        "es": "El Decálogo (Ex 20:1–17) y el Libro del Pacto (Ex 21–23) constituyen el núcleo legislativo de Éxodo y la base de toda la ética bíblica reformada. La Confesión de Westminster (cap. 19) enseña que el Decálogo es la expresión permanente de la ley moral de Dios, obligatoria para todos los hombres en todo tiempo, aunque los creyentes la guardan no para justificarse sino por amor al que los redimió (tercer uso de la ley). El marco es indicativo-imperativo: 'Yo soy YHWH tu Dios que te saqué de Egipto' (imperativo de la redención) precede a los mandamientos (indicativo del comportamiento covenantal). La ley no salva; administra el pacto de gracia bajo la pedagogía del Espíritu.",
+        "en": "The Decalogue (Ex 20:1–17) and the Book of the Covenant (Ex 21–23) constitute the legislative core of Exodus and the foundation of all Reformed biblical ethics. The Westminster Confession (ch. 19) teaches that the Decalogue is the permanent expression of God's moral law, binding on all people at all times, though believers keep it not to be justified but out of love for the one who redeemed them (third use of the law). The framework is indicative-imperative: 'I am the LORD your God who brought you out of Egypt' (indicative of redemption) precedes the commandments (imperative of covenantal behavior). The law does not save; it administers the covenant of grace under the Spirit's pedagogy.",
+        "pt": "O Decálogo (Ex 20:1–17) e o Livro da Aliança (Ex 21–23) constituem o núcleo legislativo de Êxodo e a base de toda a ética bíblica reformada. A Confissão de Westminster (cap. 19) ensina que o Decálogo é a expressão permanente da lei moral de Deus, obrigatória para todos os homens em todos os tempos, embora os crentes a guardem não para se justificarem, mas por amor àquele que os redimiu (terceiro uso da lei). O quadro é indicativo-imperativo: 'Eu sou o SENHOR teu Deus que te tirei do Egito' (indicativo da redenção) precede os mandamentos (imperativo do comportamento da aliança). A lei não salva; administra a aliança de graça sob a pedagogia do Espírito."
+      },
+      "pasajes": [
+        "Ex 20:1–3",
+        "Ex 20:8–11",
+        "Ex 20:12",
+        "Ex 20:17"
+      ],
+      "ensenanza": {
+        "es": "Ex 20:1–3 — El primer mandamiento exige exclusividad: 'No tendrás otros dioses delante de mí', fundamento de toda la ética · Ex 20:8–11 — El sábado como institución de creación y redención: señal del descanso en Dios · Ex 20:12 — El quinto mandamiento ordena la estructura familiar como microcosmos del orden social · Ex 20:17 — El décimo mandamiento internaliza la ley al corazón, mostrando que la ley es espiritual (Ro 7:14)",
+        "en": "Ex 20:1–3 — The first commandment demands exclusivity: 'You shall have no other gods before me,' the foundation of all ethics · Ex 20:8–11 — The Sabbath as a creation and redemption institution: sign of rest in God · Ex 20:12 — The fifth commandment orders the family structure as a microcosm of social order · Ex 20:17 — The tenth commandment internalizes the law to the heart, showing the law is spiritual (Rom 7:14)",
+        "pt": "Ex 20:1–3 — O primeiro mandamento exige exclusividade: 'Não terás outros deuses diante de mim', fundamento de toda a ética · Ex 20:8–11 — O sábado como instituição de criação e redenção: sinal do repouso em Deus · Ex 20:12 — O quinto mandamento ordena a estrutura familiar como microcosmo da ordem social · Ex 20:17 — O décimo mandamento internaliza a lei ao coração, mostrando que a lei é espiritual (Rm 7:14)"
+      }
+    },
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "Éxodo presenta la elección de Israel como nación del pacto con plena claridad. Dios no elige a Israel por su grandeza o mérito ('no por ser el más numeroso', Dt 7:7) sino por su amor soberano y su fidelidad al juramento hecho a los patriarcas (Ex 2:24; 3:6–7). El endurecimiento del corazón de Faraón (Ex 4:21; 9:12; 10:1,20,27; 11:10) —a la vez acto de Dios y responsabilidad de Faraón— es el locus classicus del texto para la soberanía divina en la doble predestinación, que Pablo desarrolla en Romanos 9:17–18.",
+        "en": "Exodus presents Israel's election as a covenant nation with full clarity. God does not choose Israel for their greatness or merit ('not because you were more in number,' Deut 7:7) but because of his sovereign love and faithfulness to the oath made to the patriarchs (Ex 2:24; 3:6–7). The hardening of Pharaoh's heart (Ex 4:21; 9:12; 10:1,20,27; 11:10) — simultaneously God's act and Pharaoh's responsibility — is the locus classicus of the text for divine sovereignty in double predestination, which Paul develops in Rom 9:17–18.",
+        "pt": "Êxodo apresenta a eleição de Israel como nação da aliança com plena clareza. Deus não escolhe Israel pela sua grandeza ou mérito ('não porque fossem mais numerosos', Dt 7:7), mas por amor soberano e fidelidade ao juramento feito aos patriarcas (Ex 2:24; 3:6–7). O endurecimento do coração do Faraó (Ex 4:21; 9:12; 10:1,20,27; 11:10) — ao mesmo tempo ato de Deus e responsabilidade do Faraó — é o locus classicus do texto para a soberania divina na dupla predestinação, que Paulo desenvolve em Romanos 9:17–18."
+      },
+      "pasajes": [
+        "Ex 2:24–25",
+        "Ex 4:22–23",
+        "Ex 9:16",
+        "Ex 19:5–6"
+      ],
+      "ensenanza": {
+        "es": "Ex 2:24–25 — Dios 'se acordó de su pacto' con los patriarcas: la elección de Israel descansa en el pacto abrahámico · Ex 4:22–23 — Israel designado 'hijo primogénito de Dios', revelando la base filial de la elección nacional · Ex 9:16 — Dios levantó a Faraón precisamente para este propósito soberano: manifestar su poder · Ex 19:5–6 — La elección tiene propósito misional: ser 'tesoro especial' y 'reino de sacerdotes'",
+        "en": "Ex 2:24–25 — God 'remembered his covenant' with the patriarchs: Israel's election rests on the Abrahamic covenant · Ex 4:22–23 — Israel designated 'God's firstborn son,' revealing the filial basis of national election · Ex 9:16 — God raised Pharaoh precisely for this sovereign purpose: to show his power · Ex 19:5–6 — Election has a missional purpose: to be a 'treasured possession' and 'kingdom of priests'",
+        "pt": "Ex 2:24–25 — Deus 'se lembrou da sua aliança' com os patriarcas: a eleição de Israel repousa na aliança abraâmica · Ex 4:22–23 — Israel designado 'filho primogênito de Deus', revelando a base filial da eleição nacional · Ex 9:16 — Deus levantou o Faraó precisamente para este propósito soberano: manifestar o seu poder · Ex 19:5–6 — A eleição tem propósito missionário: ser 'tesouro especial' e 'reino de sacerdotes'"
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 7",
+      "titulo": {
+        "es": "Del Pacto de Dios con el Hombre",
+        "en": "Of God's Covenant with Man",
+        "pt": "Do Pacto de Deus com o Homem"
+      },
+      "doctrinas": [
+        "Pacto",
+        "Soteriología",
+        "Ley"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que el pacto de gracia fue administrado de manera diferente bajo el AT, siendo el pacto mosaico una administración de ese pacto de gracia mediante promesas, profecías, sacrificios, circuncisión, el cordero pascual y otras ordenanzas. Éxodo es el texto fundacional de esta administración: en él se instituye el pacto en el Sinaí (Ex 19–24), se dan las leyes ceremoniales y morales, y se ordena la construcción del tabernáculo como lugar de la presencia divina con el pueblo.",
+        "en": "The Confession teaches that the covenant of grace was administered differently under the OT, with the Mosaic covenant being an administration of that covenant of grace through promises, prophecies, sacrifices, circumcision, the Passover lamb, and other ordinances. Exodus is the foundational text of this administration: in it the covenant is instituted at Sinai (Ex 19–24), the ceremonial and moral laws are given, and the construction of the tabernacle as the place of divine presence with the people is commanded.",
+        "pt": "A Confissão ensina que a aliança de graça foi administrada de maneira diferente sob o AT, sendo a aliança mosaica uma administração dessa aliança de graça mediante promessas, profecias, sacrifícios, circuncisão, o cordeiro pascal e outras ordenanças. Êxodo é o texto fundacional dessa administração: nele a aliança é instituída no Sinai (Ex 19–24), as leis cerimoniais e morais são dadas e a construção do tabernáculo como lugar da presença divina com o povo é ordenada."
+      },
+      "genesis": [
+        "Ex 12:1–13",
+        "Ex 19:5–6",
+        "Ex 24:7–8"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-7"
+    },
+    {
+      "cap": "Cap. 19",
+      "titulo": {
+        "es": "De la Ley de Dios",
+        "en": "Of the Law of God",
+        "pt": "Da Lei de Deus"
+      },
+      "doctrinas": [
+        "Ley",
+        "Santificación",
+        "Antropología"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que Dios entregó al pueblo de Israel el Decálogo (Ex 20) como regla perfecta de justicia, y que esta ley moral permanece obligatoria para todos, incluyendo a los creyentes del NT. Los mandamientos son útiles para revelar el carácter de Dios, mostrar el pecado del hombre, y guiar al redimido en la vida de santidad (tercer uso de la ley). El resto de las leyes de Éxodo (ceremoniales y civiles) han expirado bajo el NT, excepto en sus principios generales de equidad.",
+        "en": "The Confession teaches that God gave to the people of Israel the Decalogue (Ex 20) as a perfect rule of righteousness, and that this moral law remains binding on all, including NT believers. The commandments are useful for revealing God's character, showing man's sin, and guiding the redeemed in the life of holiness (third use of the law). The rest of Exodus' laws (ceremonial and civil) have expired under the NT, except in their general principles of equity.",
+        "pt": "A Confissão ensina que Deus deu ao povo de Israel o Decálogo (Ex 20) como regra perfeita de justiça, e que essa lei moral permanece obrigatória para todos, incluindo os crentes do NT. Os mandamentos são úteis para revelar o caráter de Deus, mostrar o pecado do homem e guiar o remido na vida de santidade (terceiro uso da lei). O restante das leis de Êxodo (cerimoniais e civis) expirou sob o NT, exceto em seus princípios gerais de equidade."
+      },
+      "genesis": [
+        "Ex 20:1–17",
+        "Ex 21:1"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-19"
+    },
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Soteriología",
+        "Pacto"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que Dios, en su eterno propósito, eligió al Señor Jesucristo como único Mediador entre Dios y el hombre. Moisés como mediador del pacto mosaico es el tipo veterotestamentario más desarrollado del Mediador del Nuevo Pacto. La sangre del cordero pascual (Ex 12), la intercesión de Moisés (Ex 32:30–32) y los sacrificios del tabernáculo apuntan todos a la única mediación de Cristo, quien como Profeta, Sacerdote y Rey cumple y supera todo lo prefigurado en el Éxodo.",
+        "en": "The Confession teaches that God, in his eternal purpose, chose the Lord Jesus Christ as the only Mediator between God and man. Moses as mediator of the Mosaic covenant is the most developed OT type of the Mediator of the New Covenant. The blood of the Passover lamb (Ex 12), Moses' intercession (Ex 32:30–32), and the tabernacle sacrifices all point to the sole mediation of Christ, who as Prophet, Priest, and King fulfills and surpasses everything prefigured in the Exodus.",
+        "pt": "A Confissão ensina que Deus, em seu eterno propósito, escolheu o Senhor Jesus Cristo como único Mediador entre Deus e o homem. Moisés como mediador da aliança mosaica é o tipo veterotestamentário mais desenvolvido do Mediador da Nova Aliança. O sangue do cordeiro pascal (Ex 12), a intercessão de Moisés (Ex 32:30–32) e os sacrifícios do tabernáculo apontam todos para a única mediação de Cristo, que como Profeta, Sacerdote e Rei cumpre e supera tudo o que foi prefigurado no Êxodo."
+      },
+      "genesis": [
+        "Ex 12:13",
+        "Ex 25:8",
+        "Ex 32:30–32"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Ex 3:14",
+      "es": "Y respondió Dios a Moisés: YO SOY EL QUE SOY. Y añadió: Así dirás a los hijos de Israel: YO SOY me envió a vosotros.",
+      "en": "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: I AM has sent me to you.'",
+      "pt": "Respondeu Deus a Moisés: EU SOU O QUE SOU. E acrescentou: Assim dirás aos filhos de Israel: EU SOU me enviou a vós.",
+      "nota": {
+        "es": "La revelación del nombre divino אֶהְיֶה אֲשֶׁר אֶהְיֶה es el pico teológico de Éxodo y uno de los textos más profundos de la Escritura. Revela la aseidad de Dios: Él existe por sí mismo, sin principio ni fin, sin dependencia de ninguna causa externa. El nombre YHWH que deriva de este versículo (del verbo 'ser') es el nombre de Dios en su relación de pacto con Israel. El apóstol Juan conecta 'Yo soy' con las siete declaraciones del Evangelio de Juan (Jn 8:58: 'Antes que Abraham fuese, yo soy') y el Apocalipsis lo reformula como 'el que es, el que era y el que ha de venir' (Ap 1:4).",
+        "en": "The revelation of the divine name אֶהְיֶה אֲשֶׁר אֶהְיֶה is the theological summit of Exodus and one of Scripture's most profound texts. It reveals God's aseity: He exists by himself, without beginning or end, without dependence on any external cause. The name YHWH that derives from this verse (from the verb 'to be') is God's name in his covenant relationship with Israel. The Apostle John connects 'I AM' with the seven declarations in the Gospel of John (John 8:58: 'Before Abraham was, I am') and Revelation reformulates it as 'him who is and who was and who is to come' (Rev 1:4).",
+        "pt": "A revelação do nome divino אֶהְיֶה אֲשֶׁר אֶהְיֶה é o pico teológico de Êxodo e um dos textos mais profundos da Escritura. Revela a aseidade de Deus: Ele existe por si mesmo, sem princípio nem fim, sem dependência de nenhuma causa externa. O nome YHWH que deriva deste versículo (do verbo 'ser') é o nome de Deus em sua relação de aliança com Israel. O apóstolo João conecta 'Eu Sou' com as sete declarações do Evangelho de João (Jo 8:58: 'Antes que Abraão existisse, eu sou') e o Apocalipse o reformula como 'aquele que é, e que era, e que há de vir' (Ap 1:4)."
+      }
+    },
+    {
+      "ref": "Ex 12:13",
+      "es": "Y la sangre os será por señal en las casas donde vosotros estéis; y veré la sangre, y pasaré de vosotros, y no habrá en vosotros plaga de mortandad cuando hiera la tierra de Egipto.",
+      "en": "The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.",
+      "pt": "E o sangue vos será por sinal nas casas em que estiverdes; verei o sangue, e passarei além de vós, e não haverá entre vós praga destruidora, quando eu ferir a terra do Egito.",
+      "nota": {
+        "es": "Este versículo es la más clara prefiguración veterotestamentaria de la expiación sustitutiva. La sangre del cordero aplicada exteriormente protege al interior del juicio divino; no por virtud mágica sino porque señala hacia la sangre del Cordero de Dios (Jn 1:29; 1Co 5:7; 1Pe 1:18–19). El apóstol Pablo lo explicita: 'Cristo nuestra Pascua ha sido sacrificado' (1Co 5:7). La doctrina reformada de la expiación particular encuentra en este texto su fundamento veterotestamentario: la sangre no se aplica universalmente sino específicamente a quienes por fe la aplican en el dintel de su corazón.",
+        "en": "This verse is the clearest OT prefiguration of substitutionary atonement. The blood of the lamb applied externally protects the interior from divine judgment — not by magical virtue but because it points to the blood of the Lamb of God (John 1:29; 1 Cor 5:7; 1 Pet 1:18–19). The Apostle Paul makes it explicit: 'Christ our Passover has been sacrificed' (1 Cor 5:7). The Reformed doctrine of particular atonement finds its OT foundation in this text: the blood is not applied universally but specifically to those who by faith apply it to the doorpost of their heart.",
+        "pt": "Este versículo é a mais clara prefiguração veterotestamentária da expiação substitutiva. O sangue do cordeiro aplicado externamente protege o interior do julgamento divino — não por virtude mágica, mas porque aponta para o sangue do Cordeiro de Deus (Jo 1:29; 1Co 5:7; 1Pe 1:18–19). O apóstolo Paulo o explicita: 'Cristo, nossa Páscoa, foi sacrificado' (1Co 5:7). A doutrina reformada da expiação particular encontra neste texto o seu fundamento veterotestamentário: o sangue não é aplicado universalmente, mas especificamente àqueles que pela fé o aplicam na ombreira de seu coração."
+      }
+    },
+    {
+      "ref": "Ex 20:2",
+      "es": "Yo soy el SEÑOR tu Dios, que te saqué de la tierra de Egipto, de la casa de servidumbre.",
+      "en": "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.",
+      "pt": "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito, da casa da servidão.",
+      "nota": {
+        "es": "El prólogo del Decálogo establece el esquema indicativo-imperativo que define toda la ética bíblica reformada: la obediencia a la Ley no es el fundamento de la relación con Dios sino la respuesta a la gracia redentora ya actuada. Dios primero salva ('te saqué de Egipto') y luego manda. Este orden invierte toda religión de obras y es el fundamento del tercer uso de la ley en la teología reformada: el creyente ya redimido guarda la ley como expresión de gratitud al Redentor, no para ganarse su favor.",
+        "en": "The Decalogue's prologue establishes the indicative-imperative scheme that defines all Reformed biblical ethics: obedience to the Law is not the foundation of relationship with God but the response to redemptive grace already enacted. God first saves ('I brought you out of Egypt') and then commands. This order inverts all works religion and is the foundation of the third use of the law in Reformed theology: the already-redeemed believer keeps the law as an expression of gratitude to the Redeemer, not to earn his favor.",
+        "pt": "O prólogo do Decálogo estabelece o esquema indicativo-imperativo que define toda a ética bíblica reformada: a obediência à Lei não é o fundamento da relação com Deus, mas a resposta à graça redentora já atuada. Deus primeiro salva ('te tirei do Egito') e depois manda. Essa ordem inverte toda religião de obras e é o fundamento do terceiro uso da lei na teologia reformada: o crente já remido guarda a lei como expressão de gratidão ao Redentor, não para ganhar o seu favor."
+      }
+    },
+    {
+      "ref": "Ex 34:6–7",
+      "es": "Y pasando el SEÑOR por delante de él, proclamó: ¡El SEÑOR! ¡El SEÑOR! Dios compasivo y clemente, lento para la ira y grande en misericordia y verdad; que guarda misericordia a millares, que perdona la iniquidad, la transgresión y el pecado; que no tendrá por inocente al malvado; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, hasta la tercera y cuarta generación.",
+      "en": "The LORD passed before him and proclaimed, 'The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin, but who will by no means clear the guilty, visiting the iniquity of the fathers on the children and the children's children, to the third and the fourth generation.'",
+      "pt": "O SENHOR passou diante dele e proclamou: O SENHOR! O SENHOR! Deus compassivo e misericordioso, tardio em irar-se, grande em bondade e fidelidade; que mantém a bondade por mil gerações, que perdoa a iniquidade, a transgressão e o pecado; que não inocenta o culpado, visitando a iniquidade dos pais nos filhos e nos filhos dos filhos até a terceira e quarta gerações.",
+      "nota": {
+        "es": "Los trece atributos divinos proclamados en la renovación del pacto son el texto veterotestamentario más citado sobre el carácter de Dios. La teología sistemática reformada usa este texto como el índice de los atributos morales comunicables de Dios: amor, gracia, paciencia, misericordia, verdad (fidelidad), perdón, y justicia. Crucialmente, la misericordia y la justicia coexisten sin tensión: Dios perdona 'la iniquidad' pero no 'tendrá por inocente al malvado'. Esta tensión se resuelve únicamente en la expiación vicaria de Cristo, donde la justicia se satisface y la misericordia se despliega libremente (Ro 3:25–26).",
+        "en": "The thirteen divine attributes proclaimed at the covenant renewal are the most cited OT text on God's character. Reformed systematic theology uses this text as the index of God's moral communicable attributes: love, grace, patience, mercy, truth (faithfulness), forgiveness, and justice. Crucially, mercy and justice coexist without tension: God forgives 'iniquity' but 'will by no means clear the guilty.' This tension is resolved only in Christ's vicarious atonement, where justice is satisfied and mercy flows freely (Rom 3:25–26).",
+        "pt": "Os treze atributos divinos proclamados na renovação da aliança são o texto veterotestamentário mais citado sobre o caráter de Deus. A teologia sistemática reformada usa este texto como o índice dos atributos morais comunicáveis de Deus: amor, graça, paciência, misericórdia, verdade (fidelidade), perdão e justiça. Crucialmente, a misericórdia e a justiça coexistem sem tensão: Deus perdoa 'a iniquidade', mas 'não inocenta o culpado'. Essa tensão é resolvida unicamente na expiação vicária de Cristo, onde a justiça é satisfeita e a misericórdia flui livremente (Rm 3:25–26)."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "Éxodo es el texto fundacional del calvinismo sobre la soberanía divina en la salvación. El endurecimiento soberano del corazón de Faraón (Ex 4:21; 9:12) demuestra que Dios dirige la historia redentora según su propósito eterno, no como respuesta a la libertad humana (Ro 9:17–18). El pacto mosaico es comprendido como administración histórica del único pacto de gracia, no como un pacto de obras separado (WCF 7.5–6). La Pascua como prefiguración tipológica de la expiación de Cristo fundamenta la doctrina de la expiación particular: la sangre cubre específicamente a quienes pertenecen al pueblo del pacto. El tabernáculo con su sistema sacrificial completo apunta al sacerdocio de Cristo como la realidad que todos esos tipos prefiguraban (He 9–10). El Decálogo como expresión de la ley moral permanente de Dios, usada en su tercer uso para guiar al creyente, es la base del 'ethos reformado' de obediencia gozosa y no servil.",
+    "en": "Exodus is the foundational text of Calvinism on divine sovereignty in salvation. The sovereign hardening of Pharaoh's heart (Ex 4:21; 9:12) demonstrates that God directs redemptive history according to his eternal purpose, not in response to human freedom (Rom 9:17–18). The Mosaic covenant is understood as a historical administration of the one covenant of grace, not a separate covenant of works (WCF 7.5–6). The Passover as typological prefiguration of Christ's atonement grounds the doctrine of particular atonement: the blood covers specifically those who belong to the covenant people. The tabernacle with its complete sacrificial system points to Christ's priesthood as the reality those types prefigured (Heb 9–10). The Decalogue as the expression of God's permanent moral law, used in its third use to guide the believer, is the basis of the 'Reformed ethos' of joyful, non-servile obedience.",
+    "pt": "Êxodo é o texto fundacional do calvinismo sobre a soberania divina na salvação. O endurecimento soberano do coração do Faraó (Ex 4:21; 9:12) demonstra que Deus dirige a história redentora segundo o seu propósito eterno, não em resposta à liberdade humana (Rm 9:17–18). A aliança mosaica é compreendida como administração histórica da única aliança de graça, não como uma aliança de obras separada (WCF 7.5–6). A Páscoa como prefiguração tipológica da expiação de Cristo fundamenta a doutrina da expiação particular: o sangue cobre especificamente aqueles que pertencem ao povo da aliança. O tabernáculo com seu sistema sacrificial completo aponta para o sacerdócio de Cristo como a realidade que todos esses tipos prefiguravam (He 9–10). O Decálogo como expressão da lei moral permanente de Deus, usada em seu terceiro uso para guiar o crente, é a base do 'ethos reformado' de obediência alegre e não servil."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Israel oprimido; nacimiento de Moisés",
+        "en": "Israel Oppressed; Birth of Moses",
+        "pt": "Israel Oprimido; Nascimento de Moisés"
+      },
+      "descripcion": {
+        "es": "Un nuevo Faraón que no conoce a José reduce a Israel a esclavitud y ordena el infanticidio de los varones hebreos. En este contexto de opresión providencial, nace Moisés de padres levitas, es salvado por fe por su madre, adoptado por la hija del Faraón, y criado en la corte egipcia. Al llegar a la adultez, huye a Madián tras matar a un egipcio, se casa con Séfora y se establece como pastor bajo la tutela de Jetro.",
+        "en": "A new Pharaoh who does not know Joseph reduces Israel to slavery and orders the killing of Hebrew male infants. In this context of providential oppression, Moses is born to Levite parents, saved by faith by his mother, adopted by Pharaoh's daughter, and raised in the Egyptian court. Upon reaching adulthood, he flees to Midian after killing an Egyptian, marries Zipporah, and settles as a shepherd under Jethro's care.",
+        "pt": "Um novo Faraó que não conhece José reduz Israel à escravidão e ordena o infanticídio dos meninos hebreus. Nesse contexto de opressão providencial, Moisés nasce de pais levitas, é salvo pela fé por sua mãe, adotado pela filha do Faraó e criado na corte egípcia. Ao chegar à idade adulta, foge para Midiã após matar um egípcio, casa-se com Séfora e se estabelece como pastor sob a tutela de Jetro."
+      },
+      "eventoClave": {
+        "es": "El nacimiento y providencial preservación de Moisés (Ex 2:1–10), figura del libertador que Dios prepara en secreto mientras su pueblo sufre",
+        "en": "The birth and providential preservation of Moses (Ex 2:1–10), figure of the deliverer God prepares in secret while his people suffer",
+        "pt": "O nascimento e a preservação providencial de Moisés (Ex 2:1–10), figura do libertador que Deus prepara em segredo enquanto o seu povo sofre"
+      },
+      "versiculoClave": "Ex 2:10",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "La zarza ardiente; llamado de Moisés",
+        "en": "The Burning Bush; Call of Moses",
+        "pt": "A Sarça Ardente; Chamado de Moisés"
+      },
+      "descripcion": {
+        "es": "Dios se manifiesta a Moisés en la zarza que arde pero no se consume en el monte Horeb y le revela su nombre: 'Yo soy el que soy'. Lo comisiona para liberar a Israel de Egipto prometiéndole su presencia. Moisés objeta con cinco excusas que Dios responde una a una; finalmente Dios designa a Aarón como portavoz. Moisés regresa a Egipto con su familia, con las señales milagrosas de la vara y la mano leprosa como credenciales divinas.",
+        "en": "God appears to Moses in the bush that burns but is not consumed on Mount Horeb and reveals his name: 'I AM WHO I AM.' He commissions him to deliver Israel from Egypt, promising his presence. Moses objects with five excuses that God answers one by one; finally God designates Aaron as spokesperson. Moses returns to Egypt with his family, with the miraculous signs of the staff and leprous hand as divine credentials.",
+        "pt": "Deus se manifesta a Moisés na sarça que arde mas não se consome no monte Horebe e lhe revela o seu nome: 'Eu Sou o que Sou'. O comissiona para libertar Israel do Egito, prometendo-lhe sua presença. Moisés objeta com cinco desculpas às quais Deus responde uma a uma; finalmente Deus designa Arão como porta-voz. Moisés retorna ao Egito com sua família, com os sinais miraculosos do cajado e da mão leprosa como credenciais divinas."
+      },
+      "eventoClave": {
+        "es": "La revelación del nombre divino 'Yo soy el que soy' (Ex 3:14): el momento teológico central del libro",
+        "en": "The revelation of the divine name 'I AM WHO I AM' (Ex 3:14): the theological center of the book",
+        "pt": "A revelação do nome divino 'Eu Sou o que Sou' (Ex 3:14): o momento teológico central do livro"
+      },
+      "versiculoClave": "Ex 3:14",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Primera confrontación con Faraón",
+        "en": "First Confrontation with Pharaoh",
+        "pt": "Primeira Confrontação com o Faraó"
+      },
+      "descripcion": {
+        "es": "Moisés y Aarón se presentan ante Faraón pidiendo dejar ir a Israel. Faraón no solo se niega sino que aumenta la carga de trabajo quitando la paja para los ladrillos. Israel murmura contra Moisés, quien clama a Dios. Dios renueva su promesa recordando el pacto con Abraham, Isaac y Jacob, y revela que su nombre YHWH no fue conocido en su plenitud por los patriarcas. Genealogía de Moisés y Aarón.",
+        "en": "Moses and Aaron appear before Pharaoh asking to let Israel go. Pharaoh not only refuses but increases the work burden by withholding straw for bricks. Israel murmurs against Moses, who cries out to God. God renews his promise recalling the covenant with Abraham, Isaac, and Jacob, and reveals that his name YHWH was not known in its fullness by the patriarchs. Genealogy of Moses and Aaron.",
+        "pt": "Moisés e Arão se apresentam diante do Faraó pedindo que deixe Israel partir. O Faraó não só se recusa, mas aumenta a carga de trabalho retirando a palha para os tijolos. Israel murmura contra Moisés, que clama a Deus. Deus renova a sua promessa lembrando a aliança com Abraão, Isaque e Jacó, e revela que o seu nome YHWH não foi conhecido em sua plenitude pelos patriarcas. Genealogia de Moisés e Arão."
+      },
+      "eventoClave": {
+        "es": "Dios revela la progresión de la revelación de su nombre: conocido como 'El Shaddai' por los patriarcas, ahora revelado plenamente como YHWH (Ex 6:3)",
+        "en": "God reveals the progression of the revelation of his name: known as 'El Shaddai' by the patriarchs, now fully revealed as YHWH (Ex 6:3)",
+        "pt": "Deus revela a progressão da revelação do seu nome: conhecido como 'El Shaddai' pelos patriarcas, agora plenamente revelado como YHWH (Ex 6:3)"
+      },
+      "versiculoClave": "Ex 6:6",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 7,
+      "rangoFin": 10,
+      "titulo": {
+        "es": "Las primeras nueve plagas",
+        "en": "The First Nine Plagues",
+        "pt": "As Primeiras Nove Pragas"
+      },
+      "descripcion": {
+        "es": "Dios ejecuta nueve plagas sobre Egipto: agua en sangre, ranas, piojos, moscas, muerte del ganado, úlceras, granizo, langostas, y oscuridad. Cada plaga es un juicio sobre las deidades egipcias específicas que pretenden controlar esos dominios del cosmos. El corazón de Faraón se endurece —a veces por su propia voluntad, a veces por acción directa de Dios— mostrando la interacción de soberanía divina y responsabilidad humana. Los magos egipcios que primero replican las plagas finalmente confiesan: 'El dedo de Dios es esto' (Ex 8:19).",
+        "en": "God executes nine plagues on Egypt: water to blood, frogs, gnats, flies, death of livestock, boils, hail, locusts, and darkness. Each plague is a judgment on specific Egyptian deities who claim to control those cosmic domains. Pharaoh's heart hardens — sometimes by his own will, sometimes by God's direct action — showing the interplay of divine sovereignty and human responsibility. The Egyptian magicians who first replicate the plagues finally confess: 'This is the finger of God' (Ex 8:19).",
+        "pt": "Deus executa nove pragas sobre o Egito: água em sangue, rãs, piolhos, moscas, morte do gado, úlceras, granizo, gafanhotos e trevas. Cada praga é um julgamento sobre divindades egípcias específicas que pretendem controlar esses domínios do cosmos. O coração do Faraó endurece — às vezes por sua própria vontade, às vezes por ação direta de Deus — mostrando a interação da soberania divina e da responsabilidade humana. Os magos egípcios que primeiro replicam as pragas finalmente confessam: 'O dedo de Deus é isso' (Ex 8:19)."
+      },
+      "eventoClave": {
+        "es": "Las diez plagas como juicio divino sobre los dioses de Egipto (Ex 12:12): YHWH demuestra su soberanía sobre todo el panteón egipcio",
+        "en": "The ten plagues as divine judgment on the gods of Egypt (Ex 12:12): YHWH demonstrates his sovereignty over the entire Egyptian pantheon",
+        "pt": "As dez pragas como julgamento divino sobre os deuses do Egito (Ex 12:12): YHWH demonstra a sua soberania sobre todo o panteão egípcio"
+      },
+      "versiculoClave": "Ex 9:16",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 11,
+      "rangoFin": 12,
+      "titulo": {
+        "es": "La Pascua; décima plaga; el éxodo",
+        "en": "The Passover; Tenth Plague; The Exodus",
+        "pt": "A Páscoa; Décima Praga; O Êxodo"
+      },
+      "descripcion": {
+        "es": "Dios instituye la Pascua: cada familia sacrificará un cordero sin defecto, aplicará la sangre en los dinteles, y comerá apresuradamente la noche del 14 de Nisán. La décima plaga —muerte de los primogénitos de todo Egipto— ejecuta el juicio final sobre la nación opresora. Israel es librado por la sangre del cordero. Faraón expulsa a Israel; salen apresuradamente, cerca de 600.000 hombres a pie más el 'grupo mixto'. Se ordenan los festivales de los ázimos como memorial perpetuo del éxodo.",
+        "en": "God institutes the Passover: each family will sacrifice an unblemished lamb, apply the blood to the doorposts, and eat hurriedly on the night of the 14th of Nisan. The tenth plague — death of every firstborn in Egypt — executes final judgment on the oppressing nation. Israel is delivered by the lamb's blood. Pharaoh expels Israel; they leave hurriedly, about 600,000 men on foot plus the 'mixed multitude.' The festivals of unleavened bread are ordained as a perpetual memorial of the exodus.",
+        "pt": "Deus institui a Páscoa: cada família sacrificará um cordeiro sem defeito, aplicará o sangue nas ombreiras e comerá apressadamente na noite do dia 14 de Nisã. A décima praga — morte de todo primogênito do Egito — executa o julgamento final sobre a nação opressora. Israel é libertado pelo sangue do cordeiro. O Faraó expulsa Israel; saem apressadamente, cerca de 600.000 homens a pé mais o 'grupo misto'. Os festivais dos ázimos são ordenados como memorial perpétuo do êxodo."
+      },
+      "eventoClave": {
+        "es": "La institución de la Pascua y el cruce de la primera noche: la sangre del cordero como protección de la ira divina (Ex 12:13)",
+        "en": "The institution of the Passover and the first night's crossing: the lamb's blood as protection from divine wrath (Ex 12:13)",
+        "pt": "A instituição da Páscoa e a passagem da primeira noite: o sangue do cordeiro como proteção da ira divina (Ex 12:13)"
+      },
+      "versiculoClave": "Ex 12:13",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 13,
+      "rangoFin": 15,
+      "titulo": {
+        "es": "Cruce del Mar Rojo; cántico de victoria",
+        "en": "Crossing the Red Sea; Song of Victory",
+        "pt": "Travessia do Mar Vermelho; Cântico de Vitória"
+      },
+      "descripcion": {
+        "es": "Israel sale de Egipto guiado por la nube de día y la columna de fuego de noche. Faraón se arrepiente de haber liberado a Israel y persigue con su ejército. En el Mar Rojo, Dios abre el camino seco; Israel cruza mientras el ejército egipcio perece al cerrarse las aguas. El cántico de Moisés (Ex 15:1–18) celebra a YHWH como guerrero divino que reina para siempre. Miriam lidera a las mujeres en el canto de triunfo. El relato culmina con el campamento en las aguas amargas de Mara, que Dios endulza.",
+        "en": "Israel leaves Egypt guided by a cloud by day and a pillar of fire by night. Pharaoh repents of having released Israel and pursues with his army. At the Red Sea, God opens a dry path; Israel crosses while the Egyptian army perishes as the waters close. Moses' song (Ex 15:1–18) celebrates YHWH as divine warrior who reigns forever. Miriam leads the women in the triumph song. The account culminates with the camp at the bitter waters of Marah, which God sweetens.",
+        "pt": "Israel sai do Egito guiado por uma nuvem de dia e uma coluna de fogo de noite. O Faraó se arrepende de ter libertado Israel e persegue com seu exército. No Mar Vermelho, Deus abre um caminho seco; Israel atravessa enquanto o exército egípcio perece com o fechamento das águas. O cântico de Moisés (Ex 15:1–18) celebra YHWH como guerreiro divino que reina para sempre. Miriã lidera as mulheres no cântico de triunfo. O relato culmina com o acampamento nas águas amargas de Mara, que Deus adoça."
+      },
+      "eventoClave": {
+        "es": "El cruce del Mar Rojo: el acto redentor más importante del AT, paradigma de toda salvación divina (Ex 14:21–28)",
+        "en": "The crossing of the Red Sea: the most important redemptive act of the OT, paradigm of all divine salvation (Ex 14:21–28)",
+        "pt": "A travessia do Mar Vermelho: o ato redentor mais importante do AT, paradigma de toda salvação divina (Ex 14:21–28)"
+      },
+      "versiculoClave": "Ex 14:30",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 16,
+      "rangoFin": 18,
+      "titulo": {
+        "es": "El maná, el agua y Jetro",
+        "en": "Manna, Water, and Jethro",
+        "pt": "O Maná, a Água e Jetro"
+      },
+      "descripcion": {
+        "es": "Israel murmura contra Moisés por falta de comida y agua. Dios provee el maná (pan del cielo, Ex 16) y agua de la roca de Horeb (Ex 17:1–7). Los amalecitas atacan en Refidim; Josué los derrota mientras Moisés mantiene sus manos en alto con ayuda de Aarón y Hur, y Dios decreta guerra perpetua contra Amalec (Ex 17:8–16). Jetro, suegro de Moisés, viene al campamento, y al ver la carga administrativa de Moisés le aconseja delegar en jueces —instituyendo el primer sistema judicial de Israel.",
+        "en": "Israel murmurs against Moses for lack of food and water. God provides manna (bread from heaven, Ex 16) and water from the rock at Horeb (Ex 17:1–7). The Amalekites attack at Rephidim; Joshua defeats them while Moses holds up his hands with Aaron and Hur's help, and God decrees perpetual war against Amalek (Ex 17:8–16). Jethro, Moses' father-in-law, comes to the camp, and seeing Moses' administrative burden advises him to delegate to judges — instituting Israel's first judicial system.",
+        "pt": "Israel murmura contra Moisés por falta de comida e água. Deus provê o maná (pão do céu, Ex 16) e água da rocha em Horebe (Ex 17:1–7). Os amalequitas atacam em Refidim; Josué os derrota enquanto Moisés mantém as mãos levantadas com a ajuda de Arão e Hur, e Deus decreta guerra perpétua contra Amaleque (Ex 17:8–16). Jetro, sogro de Moisés, vem ao acampamento e, ao ver o fardo administrativo de Moisés, o aconselha a delegar para juízes — instituindo o primeiro sistema judicial de Israel."
+      },
+      "eventoClave": {
+        "es": "La provisión del maná del cielo (Ex 16:14–15): la sustentación sobrenatural de Israel prefigura a Cristo como pan de vida (Jn 6:31–35)",
+        "en": "The provision of manna from heaven (Ex 16:14–15): the supernatural sustenance of Israel prefigures Christ as the bread of life (John 6:31–35)",
+        "pt": "A provisão do maná do céu (Ex 16:14–15): o sustento sobrenatural de Israel prefigura Cristo como o pão da vida (Jo 6:31–35)"
+      },
+      "versiculoClave": "Ex 16:15",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 19,
+      "rangoFin": 20,
+      "titulo": {
+        "es": "Teofanía del Sinaí; el Decálogo",
+        "en": "Sinai Theophany; The Decalogue",
+        "pt": "Teofania do Sinai; O Decálogo"
+      },
+      "descripcion": {
+        "es": "Israel acampa al pie del Monte Sinaí. Dios convoca al pueblo al pacto: 'Seréis para mí un reino de sacerdotes y una nación santa' (Ex 19:6). La teofanía del Sinaí llena el monte de fuego, truenos, relámpagos y trompeta. Dios pronuncia directamente los Diez Mandamientos (Ex 20:1–17), la constitución moral del pacto. El pueblo, aterrado ante la presencia divina, pide a Moisés que sea mediador. El texto incluye instrucciones preliminares sobre altares (Ex 20:22–26).",
+        "en": "Israel camps at the foot of Mount Sinai. God calls the people to the covenant: 'You shall be to me a kingdom of priests and a holy nation' (Ex 19:6). The Sinai theophany fills the mountain with fire, thunder, lightning, and trumpet. God directly pronounces the Ten Commandments (Ex 20:1–17), the moral constitution of the covenant. The people, terrified at the divine presence, ask Moses to be mediator. The text includes preliminary instructions on altars (Ex 20:22–26).",
+        "pt": "Israel acampa ao pé do Monte Sinaí. Deus convoca o povo para a aliança: 'Sereis para mim um reino de sacerdotes e uma nação santa' (Ex 19:6). A teofania do Sinai envolve a montanha em fogo, trovões, relâmpagos e trombeta. Deus pronuncia diretamente os Dez Mandamentos (Ex 20:1–17), a constituição moral da aliança. O povo, aterrorizado diante da presença divina, pede a Moisés que seja mediador. O texto inclui instruções preliminares sobre altares (Ex 20:22–26)."
+      },
+      "eventoClave": {
+        "es": "La proclamación del Decálogo (Ex 20:1–17): el núcleo legislativo-moral del pacto mosaico y fundamento de toda ética reformada",
+        "en": "The proclamation of the Decalogue (Ex 20:1–17): the legislative-moral core of the Mosaic covenant and foundation of all Reformed ethics",
+        "pt": "A proclamação do Decálogo (Ex 20:1–17): o núcleo legislativo-moral da aliança mosaica e fundamento de toda ética reformada"
+      },
+      "versiculoClave": "Ex 20:2",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 21,
+      "rangoFin": 23,
+      "titulo": {
+        "es": "El Libro del Pacto",
+        "en": "The Book of the Covenant",
+        "pt": "O Livro da Aliança"
+      },
+      "descripcion": {
+        "es": "El 'Libro del Pacto' (Ex 21–23) contiene la legislación que desarrolla y aplica el Decálogo: leyes sobre esclavos (Ex 21:1–11), violencia personal, propiedad, comportamiento social, fiestas religiosas (Pascua, Primicias, Tabernáculos) y conquista de Canaán. Las leyes combinan derecho casuístico (si alguien hiciere…) con ley apodíctica (no harás…). Dios promete enviar su ángel para guiar a Israel y anuncia la expulsión gradual de los cananeos.",
+        "en": "The 'Book of the Covenant' (Ex 21–23) contains legislation that develops and applies the Decalogue: laws about slaves (Ex 21:1–11), personal violence, property, social behavior, religious festivals (Passover, Firstfruits, Tabernacles), and the conquest of Canaan. The laws combine casuistic law (if someone does…) with apodictic law (you shall not…). God promises to send his angel to guide Israel and announces the gradual expulsion of the Canaanites.",
+        "pt": "O 'Livro da Aliança' (Ex 21–23) contém a legislação que desenvolve e aplica o Decálogo: leis sobre escravos (Ex 21:1–11), violência pessoal, propriedade, comportamento social, festas religiosas (Páscoa, Primícias, Tabernáculos) e conquista de Canaã. As leis combinam direito casuístico (se alguém fizer…) com lei apodítica (não farás…). Deus promete enviar o seu anjo para guiar Israel e anuncia a expulsão gradual dos cananeus."
+      },
+      "eventoClave": {
+        "es": "La entrega del Libro del Pacto como constitución civil y ceremonial de Israel (Ex 24:7): 'Haremos todo lo que el SEÑOR ha dicho'",
+        "en": "The delivery of the Book of the Covenant as Israel's civil and ceremonial constitution (Ex 24:7): 'All that the LORD has spoken we will do'",
+        "pt": "A entrega do Livro da Aliança como constituição civil e cerimonial de Israel (Ex 24:7): 'Tudo o que o SENHOR disse faremos'"
+      },
+      "versiculoClave": "Ex 23:20",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 24,
+      "rangoFin": 24,
+      "titulo": {
+        "es": "Ratificación del pacto",
+        "en": "Covenant Ratification",
+        "pt": "Ratificação da Aliança"
+      },
+      "descripcion": {
+        "es": "Moisés, Aarón, Nadab, Abiú y los 70 ancianos suben al monte y ven a Dios; comen y beben en su presencia sin ser destruidos (Ex 24:9–11), anticipando la comunión perfecta del banquete escatológico. Moisés lee el Libro del Pacto al pueblo, el pueblo promete obediencia, y Moisés rocia la sangre sobre el pueblo: 'Esta es la sangre del pacto' (Ex 24:8). Moisés sube al monte durante 40 días para recibir las tablas de piedra.",
+        "en": "Moses, Aaron, Nadab, Abihu, and the 70 elders ascend the mountain and see God; they eat and drink in his presence without being destroyed (Ex 24:9–11), anticipating the perfect communion of the eschatological banquet. Moses reads the Book of the Covenant to the people, the people promise obedience, and Moses sprinkles blood on the people: 'This is the blood of the covenant' (Ex 24:8). Moses ascends the mountain for 40 days to receive the stone tablets.",
+        "pt": "Moisés, Arão, Nadabe, Abiú e os 70 anciãos sobem à montanha e veem a Deus; comem e bebem na sua presença sem serem destruídos (Ex 24:9–11), antecipando a comunhão perfeita do banquete escatológico. Moisés lê o Livro da Aliança ao povo, o povo promete obediência e Moisés asperge sangue sobre o povo: 'Este é o sangue da aliança' (Ex 24:8). Moisés sobe à montanha por 40 dias para receber as tábuas de pedra."
+      },
+      "eventoClave": {
+        "es": "La ratificación del pacto con sangre (Ex 24:7–8): 'Esta es la sangre del pacto que YHWH ha hecho con vosotros', citada por Jesús en la Última Cena (Mt 26:28)",
+        "en": "The blood ratification of the covenant (Ex 24:7–8): 'This is the blood of the covenant that the LORD has made with you,' cited by Jesus at the Last Supper (Matt 26:28)",
+        "pt": "A ratificação da aliança com sangue (Ex 24:7–8): 'Este é o sangue da aliança que o SENHOR fez convosco', citada por Jesus na Última Ceia (Mt 26:28)"
+      },
+      "versiculoClave": "Ex 24:8",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 25,
+      "rangoFin": 31,
+      "titulo": {
+        "es": "Instrucciones para el tabernáculo",
+        "en": "Tabernacle Instructions",
+        "pt": "Instruções para o Tabernáculo"
+      },
+      "descripcion": {
+        "es": "Dios entrega a Moisés instrucciones detalladas para la construcción del tabernáculo: el arca del pacto con el propiciatorio (Ex 25:10–22), la mesa del pan de la presencia, el candelabro de oro, el tabernáculo y sus cortinas, el altar del holocausto, el atrio, las vestiduras sacerdotales y la consagración de Aarón y sus hijos. Dios designa a Bezaleel y Oholiab como artesanos llenos del Espíritu (Ex 31:1–11). Se reitera la ley del sábado como señal del pacto (Ex 31:12–17). Dios entrega las dos tablas de piedra escritas con su dedo.",
+        "en": "God gives Moses detailed instructions for the construction of the tabernacle: the ark of the covenant with the mercy seat (Ex 25:10–22), the table of the bread of the presence, the golden lampstand, the tabernacle and its curtains, the altar of burnt offering, the court, the priestly garments, and the consecration of Aaron and his sons. God designates Bezalel and Oholiab as Spirit-filled craftsmen (Ex 31:1–11). The Sabbath law is reiterated as a sign of the covenant (Ex 31:12–17). God delivers the two stone tablets written with his finger.",
+        "pt": "Deus entrega a Moisés instruções detalhadas para a construção do tabernáculo: a arca da aliança com o propiciatório (Ex 25:10–22), a mesa do pão da presença, o candelabro de ouro, o tabernáculo e suas cortinas, o altar do holocausto, o átrio, as vestes sacerdotais e a consagração de Arão e seus filhos. Deus designa Bezalel e Ooliabe como artesãos cheios do Espírito (Ex 31:1–11). A lei do sábado é reiterada como sinal da aliança (Ex 31:12–17). Deus entrega as duas tábuas de pedra escritas com o seu dedo."
+      },
+      "eventoClave": {
+        "es": "El diseño del propiciatorio (Ex 25:17–22): la tapa del arca donde Dios se encontraba con Moisés, tipo de Cristo como 'propiciación' (Ro 3:25; 1Jn 2:2)",
+        "en": "The design of the mercy seat (Ex 25:17–22): the ark's cover where God met Moses, a type of Christ as 'propitiation' (Rom 3:25; 1 John 2:2)",
+        "pt": "O design do propiciatório (Ex 25:17–22): a tampa da arca onde Deus se encontrava com Moisés, tipo de Cristo como 'propiciação' (Rm 3:25; 1Jo 2:2)"
+      },
+      "versiculoClave": "Ex 25:8",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 32,
+      "rangoFin": 34,
+      "titulo": {
+        "es": "El becerro de oro; renovación del pacto",
+        "en": "The Golden Calf; Covenant Renewal",
+        "pt": "O Bezerro de Ouro; Renovação da Aliança"
+      },
+      "descripcion": {
+        "es": "Mientras Moisés está en el monte, Israel convence a Aarón de fabricar un becerro de oro y lo adora como el dios que los sacó de Egipto —apostasía inmediata a la entrega de la Ley. Dios anuncia su juicio; Moisés intercede con éxito. Al bajar, Moisés quiebra las tablas y ordena la ejecución de los idólatras por los levitas. Moisés intercede nuevamente ofreciendo ser borrado del libro divino. Dios renueva el pacto (Ex 34) y revela sus atributos: compasivo, clemente, lento para la ira (Ex 34:6–7). Moisés regresa con la cara radiante de gloria.",
+        "en": "While Moses is on the mountain, Israel convinces Aaron to make a golden calf and worships it as the god who brought them out of Egypt — immediate apostasy following the giving of the Law. God announces judgment; Moses successfully intercedes. Upon descending, Moses breaks the tablets and orders the execution of the idolaters by the Levites. Moses intercedes again, offering to be blotted out of God's book. God renews the covenant (Ex 34) and reveals his attributes: compassionate, gracious, slow to anger (Ex 34:6–7). Moses returns with his face shining with glory.",
+        "pt": "Enquanto Moisés está na montanha, Israel convence Arão a fabricar um bezerro de ouro e o adora como o deus que os tirou do Egito — apostasia imediata após a entrega da Lei. Deus anuncia o seu julgamento; Moisés intercede com sucesso. Ao descer, Moisés quebra as tábuas e ordena a execução dos idólatras pelos levitas. Moisés intercede novamente, oferecendo ser apagado do livro de Deus. Deus renova a aliança (Ex 34) e revela os seus atributos: compassivo, clemente, lento para a ira (Ex 34:6–7). Moisés retorna com o rosto radiante de glória."
+      },
+      "eventoClave": {
+        "es": "La intercesión de Moisés por Israel pecador (Ex 32:30–32): 'Pero si no, bórrame ahora de tu libro' — prefiguración de la intercesión sustitutiva de Cristo (Ro 8:34)",
+        "en": "Moses' intercession for sinful Israel (Ex 32:30–32): 'But if not, please blot me out of your book' — prefiguration of Christ's substitutionary intercession (Rom 8:34)",
+        "pt": "A intercessão de Moisés pelo Israel pecador (Ex 32:30–32): 'Mas agora, se quiseres perdoar o seu pecado… e se não, risca-me do teu livro' — prefiguração da intercessão substitutiva de Cristo (Rm 8:34)"
+      },
+      "versiculoClave": "Ex 34:6",
+      "era": "Ley"
+    },
+    {
+      "rangoInicio": 35,
+      "rangoFin": 40,
+      "titulo": {
+        "es": "Construcción del tabernáculo; gloria divina",
+        "en": "Tabernacle Construction; Divine Glory",
+        "pt": "Construção do Tabernáculo; Glória Divina"
+      },
+      "descripcion": {
+        "es": "Israel da voluntariamente materiales para el tabernáculo con tanta generosidad que Moisés debe pedir que detengan las ofrendas. Bezaleel y Oholiab ejecutan la construcción siguiendo exactamente las instrucciones divinas. El libro culmina con la erección del tabernáculo el día primero del mes primero del segundo año (Ex 40:17), y la gloria de YHWH llena el tabernáculo de tal manera que Moisés no puede entrar (Ex 40:34–35). La nube y el fuego guiarán cada etapa de la marcha de Israel.",
+        "en": "Israel voluntarily gives materials for the tabernacle with such generosity that Moses must ask them to stop their offerings. Bezalel and Oholiab execute the construction following the divine instructions exactly. The book culminates with the erection of the tabernacle on the first day of the first month of the second year (Ex 40:17), and YHWH's glory fills the tabernacle so that Moses cannot enter (Ex 40:34–35). The cloud and fire will guide each stage of Israel's march.",
+        "pt": "Israel doa voluntariamente materiais para o tabernáculo com tanta generosidade que Moisés deve pedir que parem as ofertas. Bezalel e Ooliabe executam a construção seguindo exatamente as instruções divinas. O livro culmina com a ereção do tabernáculo no primeiro dia do primeiro mês do segundo ano (Ex 40:17), e a glória de YHWH enche o tabernáculo de tal forma que Moisés não pode entrar (Ex 40:34–35). A nuvem e o fogo guiarão cada etapa da marcha de Israel."
+      },
+      "eventoClave": {
+        "es": "La gloria de YHWH llena el tabernáculo (Ex 40:34–35): la Shekiná mora con su pueblo — tipo de la encarnación donde el Verbo 'tabernaculizó entre nosotros' (Jn 1:14)",
+        "en": "YHWH's glory fills the tabernacle (Ex 40:34–35): the Shekinah dwells with his people — a type of the incarnation where the Word 'tabernacled among us' (John 1:14)",
+        "pt": "A glória de YHWH enche o tabernáculo (Ex 40:34–35): a Shekiná habita com o seu povo — tipo da encarnação onde o Verbo 'tabernaculou entre nós' (Jo 1:14)"
+      },
+      "versiculoClave": "Ex 40:34",
+      "era": "Ley"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Wayne Grudem, et al. (ed. Lane T. Dennis)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología sistemática",
+          "Resumen de capítulos",
+          "Notas textuales"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Systematic theology",
+          "Chapter summaries",
+          "Textual notes"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia sistemática",
+          "Resumo dos capítulos",
+          "Notas textuais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es la Biblia de estudio de referencia del mundo evangélico reformado anglófono, editada por Lane T. Dennis y publicada por Crossway en 2008. Colaboraron más de 95 eruditos bíblicos y teólogos de primera línea, entre ellos Wayne Grudem, J.I. Packer, C.J. Collins y Thomas Schreiner. Crossway es la editorial reformada independiente de mayor influencia en el mundo anglosajón.",
+          "en": "The ESV Study Bible is the reference study Bible of the Reformed evangelical English-speaking world, edited by Lane T. Dennis and published by Crossway in 2008. More than 95 leading biblical scholars and theologians contributed, including Wayne Grudem, J.I. Packer, C.J. Collins, and Thomas Schreiner. Crossway is the most influential independent Reformed publisher in the English-speaking world.",
+          "pt": "A ESV Study Bible é a Bíblia de estudo de referência do mundo evangélico reformado anglófono, editada por Lane T. Dennis e publicada pela Crossway em 2008. Colaboraram mais de 95 estudiosos bíblicos e teólogos de primeira linha, entre eles Wayne Grudem, J.I. Packer, C.J. Collins e Thomas Schreiner. A Crossway é a editora reformada independente de maior influência no mundo anglófono."
+        },
+        "metodo": {
+          "es": "Combina exégesis gramatical-histórica con teología bíblica y sistemática en cada nota. El objetivo es que cada nota responda a la pregunta '¿qué significa este texto?' antes de responder '¿cómo se aplica?'. Las notas de introducción a cada libro sintetizan la erudición académica conservadora accesible al lector laico.",
+          "en": "Combines grammatical-historical exegesis with biblical and systematic theology in each note. The goal is for each note to answer the question 'what does this text mean?' before answering 'how does it apply?' The introductory notes to each book synthesize conservative academic scholarship accessible to the lay reader.",
+          "pt": "Combina exegese gramatical-histórica com teologia bíblica e sistemática em cada nota. O objetivo é que cada nota responda à pergunta 'o que significa este texto?' antes de responder 'como se aplica?'. As notas de introdução a cada livro sintetizam a erudição acadêmica conservadora acessível ao leitor leigo."
+        },
+        "aportacion": {
+          "es": "Para Éxodo, aporta introducciones detalladas sobre autoría mosaica, datación del éxodo, estructura teológica del tabernáculo y análisis del Decálogo como fundamento ético del pacto.",
+          "en": "For Exodus, it contributes detailed introductions on Mosaic authorship, dating of the exodus, theological structure of the tabernacle, and analysis of the Decalogue as the ethical foundation of the covenant.",
+          "pt": "Para Êxodo, contribui com introduções detalhadas sobre autoria mosaica, datação do êxodo, estrutura teológica do tabernáculo e análise do Decálogo como fundamento ético da aliança."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Reader's Bible (2016)",
+          "ESV Reformation Study Bible (co-published, 2015)",
+          "ESV Literary Study Bible (2007)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-case/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Reformation Trust",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología reformada",
+          "Anclas confesionales",
+          "Distinctivas reformadas",
+          "Personajes"
+        ],
+        "en": [
+          "Reformed theology",
+          "Confessional anchors",
+          "Reformed distinctives",
+          "Characters"
+        ],
+        "pt": [
+          "Teologia reformada",
+          "Âncoras confessionais",
+          "Distintivos reformados",
+          "Personagens"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue uno de los teólogos reformados más influyentes del siglo XX, fundador de Ligonier Ministries y profesor en Reformed Theological Seminary. La Reformation Study Bible lleva su sello editorial y cuenta con notas de más de 50 teólogos reformados. Es considerada la Biblia de estudio más importante para el calvinismo contemporáneo.",
+          "en": "R.C. Sproul (1939–2017) was one of the most influential Reformed theologians of the 20th century, founder of Ligonier Ministries and professor at Reformed Theological Seminary. The Reformation Study Bible bears his editorial mark and includes notes from more than 50 Reformed theologians. It is considered the most important study Bible for contemporary Calvinism.",
+          "pt": "R.C. Sproul (1939–2017) foi um dos teólogos reformados mais influentes do século XX, fundador do Ligonier Ministries e professor no Reformed Theological Seminary. A Reformation Study Bible leva o seu carimbo editorial e conta com notas de mais de 50 teólogos reformados. É considerada a Bíblia de estudo mais importante para o calvinismo contemporâneo."
+        },
+        "metodo": {
+          "es": "Las notas aplican consistentemente los principios de la teología del pacto y la Confesión de Westminster al texto bíblico. Sproul enfatiza la soberanía de Dios, la gracia irresistible y la centralidad de la expiación penal sustitutiva en toda interpretación. El enfoque es pastoral-teológico antes que técnico-académico.",
+          "en": "The notes consistently apply the principles of covenant theology and the Westminster Confession to the biblical text. Sproul emphasizes God's sovereignty, irresistible grace, and the centrality of penal substitutionary atonement in all interpretation. The approach is pastoral-theological rather than technical-academic.",
+          "pt": "As notas aplicam consistentemente os princípios da teologia do pacto e da Confissão de Westminster ao texto bíblico. Sproul enfatiza a soberania de Deus, a graça irresistível e a centralidade da expiação penal substitutiva em toda interpretação. A abordagem é pastoral-teológica antes de técnica-acadêmica."
+        },
+        "aportacion": {
+          "es": "Para Éxodo, aporta la lectura reformada del endurecimiento del corazón de Faraón (soberanía divina y responsabilidad humana), la tipología de la Pascua y el análisis del Decálogo desde el tercer uso de la ley.",
+          "en": "For Exodus, it contributes the Reformed reading of Pharaoh's hardened heart (divine sovereignty and human responsibility), the typology of the Passover, and analysis of the Decalogue from the third use of the law.",
+          "pt": "Para Êxodo, contribui com a leitura reformada do endurecimento do coração do Faraó (soberania divina e responsabilidade humana), a tipologia da Páscoa e a análise do Decálogo a partir do terceiro uso da lei."
+        },
+        "obras": [
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)",
+          "Faith Alone: The Evangelical Doctrine of Justification (1995)",
+          "Everyone's a Theologian (2014)",
+          "Reformation Study Bible (ed., 2015)"
+        ],
+        "url": "https://www.ligonier.org/learn/teachers/rc-sproul"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed. general, trad. al español)",
+      "año": 2021,
+      "editorial": "Ligonier Ministries / B&H Español",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Introducción en español",
+          "Teología reformada en español",
+          "Anclas confesionales",
+          "Contexto histórico"
+        ],
+        "en": [
+          "Spanish introduction",
+          "Spanish Reformed theology",
+          "Confessional anchors",
+          "Historical context"
+        ],
+        "pt": [
+          "Introdução em espanhol",
+          "Teologia reformada em espanhol",
+          "Âncoras confessionais",
+          "Contexto histórico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La Biblia de Estudio de la Reforma NBLA es la edición en español de la Reformation Study Bible de R.C. Sproul, publicada con el texto NBLA (Nueva Biblia de las Américas). Es la principal Biblia de estudio reformada en español y representa el esfuerzo de Ligonier Ministries por llevar la teología reformada al mundo hispanohablante.",
+          "en": "The Biblia de Estudio de la Reforma NBLA is the Spanish edition of R.C. Sproul's Reformation Study Bible, published with the NBLA text (Nueva Biblia de las Américas). It is the leading Reformed study Bible in Spanish and represents Ligonier Ministries' effort to bring Reformed theology to the Spanish-speaking world.",
+          "pt": "A Biblia de Estudio de la Reforma NBLA é a edição em espanhol da Reformation Study Bible de R.C. Sproul, publicada com o texto NBLA (Nueva Biblia de las Américas). É a principal Bíblia de estudo reformada em espanhol e representa o esforço do Ligonier Ministries para levar a teologia reformada ao mundo hispanófono."
+        },
+        "metodo": {
+          "es": "Sigue el mismo método exegético-teológico de la Reformation Study Bible en inglés, adaptando las notas culturalmente al contexto hispanohablante. Texto base: NBLA, la traducción más fiel al hebreo y griego original en el mundo de habla hispana de orientación evangélica conservadora.",
+          "en": "Follows the same exegetical-theological method as the English Reformation Study Bible, culturally adapting the notes for the Spanish-speaking context. Base text: NBLA, the most faithful translation to the original Hebrew and Greek in the conservative evangelical Spanish-speaking world.",
+          "pt": "Segue o mesmo método exegético-teológico da Reformation Study Bible em inglês, adaptando culturalmente as notas para o contexto hispanófono. Texto base: NBLA, a tradução mais fiel ao hebraico e grego original no mundo hispanófono de orientação evangélica conservadora."
+        },
+        "aportacion": {
+          "es": "Aporta los campos en español: títulos, introducciones, resúmenes teológicos y la terminología exacta del texto NBLA para todos los versículos clave del registro de Éxodo.",
+          "en": "Contributes the Spanish-language fields: titles, introductions, theological summaries, and the exact NBLA text terminology for all key verses in the Exodus record.",
+          "pt": "Contribui com os campos em espanhol: títulos, introduções, resumos teológicos e a terminologia exata do texto NBLA para todos os versículos-chave do registro de Êxodo."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2021)",
+          "La Santidad de Dios (trad., 2019)",
+          "Escogidos por Dios (trad., 2020)"
+        ],
+        "url": "https://es.ligonier.org/tienda/biblia-de-estudio-de-la-reforma-nbla/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan / Inter-Varsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Atributos de Dios",
+          "Doctrina de la ley",
+          "Doctrina del pacto"
+        ],
+        "en": [
+          "Systematic theology",
+          "Attributes of God",
+          "Doctrine of the law",
+          "Doctrine of the covenant"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Atributos de Deus",
+          "Doutrina da lei",
+          "Doutrina da aliança"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem (1948–) es profesor de Teología y Estudios Bíblicos en Phoenix Seminary y uno de los teólogos sistemáticos evangélicos más leídos del siglo XXI. Doctorado en NT por la Universidad de Cambridge, es conocido por su defensa del complementarismo y de la inerrancia bíblica. Su Teología Sistemática ha sido adoptada como texto base en centenares de seminarios evangélicos alrededor del mundo.",
+          "en": "Wayne Grudem (1948–) is Professor of Theology and Biblical Studies at Phoenix Seminary and one of the most widely read evangelical systematic theologians of the 21st century. He holds a doctorate in NT from Cambridge University and is known for his defense of complementarianism and biblical inerrancy. His Systematic Theology has been adopted as a core text in hundreds of evangelical seminaries worldwide.",
+          "pt": "Wayne Grudem (1948–) é professor de Teologia e Estudos Bíblicos no Phoenix Seminary e um dos teólogos sistemáticos evangélicos mais lidos do século XXI. Doutorado em NT pela Universidade de Cambridge, é conhecido pela defesa do complementarismo e da inerrância bíblica. Sua Teologia Sistemática foi adotada como texto básico em centenas de seminários evangélicos ao redor do mundo."
+        },
+        "metodo": {
+          "es": "Grudem construye cada doctrina inductivamente desde los textos bíblicos, organizándolos en categorías sistemáticas. Su método es exegético-sistemático: comienza en el texto, sintetiza con teología bíblica y arriba a formulaciones doctrinales. Incluye siempre secciones de aplicación y preguntas para reflexión.",
+          "en": "Grudem builds each doctrine inductively from biblical texts, organizing them into systematic categories. His method is exegetical-systematic: he begins with the text, synthesizes with biblical theology, and arrives at doctrinal formulations. He always includes sections of application and discussion questions.",
+          "pt": "Grudem constrói cada doutrina indutivamente a partir dos textos bíblicos, organizando-os em categorias sistemáticas. Seu método é exegético-sistemático: começa no texto, sintetiza com teologia bíblica e chega a formulações doutrinárias. Sempre inclui seções de aplicação e perguntas para reflexão."
+        },
+        "aportacion": {
+          "es": "Para Éxodo, aporta los textos de los atributos de Dios basados en Ex 3:14 y Ex 34:6–7, la doctrina del pacto mosaico y su relación con la gracia, y el análisis del Decálogo como ley moral permanente (cap. 22 de la Systematic Theology).",
+          "en": "For Exodus, it contributes the texts on God's attributes based on Ex 3:14 and Ex 34:6–7, the doctrine of the Mosaic covenant and its relation to grace, and analysis of the Decalogue as permanent moral law (chapter 22 of Systematic Theology).",
+          "pt": "Para Êxodo, contribui com os textos sobre os atributos de Deus baseados em Ex 3:14 e Ex 34:6–7, a doutrina da aliança mosaica e sua relação com a graça, e a análise do Decálogo como lei moral permanente (capítulo 22 da Systematic Theology)."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Recovering Biblical Manhood and Womanhood (ed., 1991)",
+          "Politics According to the Bible (2010)",
+          "Christian Ethics (2018)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras",
+          "Contexto canónico"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows",
+          "Canonical context"
+        ],
+        "pt": [
+          "História redentora",
+          "Foco cristológico",
+          "Tipos e sombras",
+          "Contexto canônico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el padre de la teología bíblica reformada moderna, profesor de Teología Bíblica en Princeton Theological Seminary de 1893 a 1932. Nacido en los Países Bajos y formado en Amsterdam y Berlín, Vos transformó el estudio bíblico al insistir en que la revelación es progresiva, histórica y orgánicamente unificada, centrada en la historia redentora.",
+          "en": "Geerhardus Vos (1862–1949) was the father of modern Reformed biblical theology, Professor of Biblical Theology at Princeton Theological Seminary from 1893 to 1932. Born in the Netherlands and trained in Amsterdam and Berlin, Vos transformed biblical study by insisting that revelation is progressive, historical, and organically unified, centered on redemptive history.",
+          "pt": "Geerhardus Vos (1862–1949) foi o pai da teologia bíblica reformada moderna, professor de Teologia Bíblica no Princeton Theological Seminary de 1893 a 1932. Nascido nos Países Baixos e formado em Amsterdã e Berlim, Vos transformou o estudo bíblico ao insistir que a revelação é progressiva, histórica e organicamente unificada, centrada na história redentora."
+        },
+        "metodo": {
+          "es": "Vos lee el AT como la revelación progresiva del plan redentor de Dios que culmina en Cristo. Cada etapa de la historia —la época mosaica, la profética, la sapiencial— es analizada como una fase específica de la auto-revelación divina. Su método es canónico, histórico-redentor y cristocéntrico.",
+          "en": "Vos reads the OT as the progressive revelation of God's redemptive plan that culminates in Christ. Each stage of history — the Mosaic era, the prophetic, the sapiential — is analyzed as a specific phase of divine self-revelation. His method is canonical, redemptive-historical, and Christocentric.",
+          "pt": "Vos lê o AT como a revelação progressiva do plano redentor de Deus que culmina em Cristo. Cada etapa da história — a época mosaica, a profética, a sapiencial — é analisada como uma fase específica da autorevelação divina. Seu método é canônico, histórico-redentor e cristocêntrico."
+        },
+        "aportacion": {
+          "es": "Para Éxodo, aporta el marco de la teología bíblica para leer el éxodo como el paradigma redentor del AT, la tipología de Moisés como mediador, el tabernáculo como prefiguración de la presencia de Cristo, y la Pascua como tipo del sacrificio de Cristo.",
+          "en": "For Exodus, it contributes the biblical theology framework for reading the exodus as the OT redemptive paradigm, the typology of Moses as mediator, the tabernacle as a prefiguration of Christ's presence, and the Passover as a type of Christ's sacrifice.",
+          "pt": "Para Êxodo, contribui com o quadro da teologia bíblica para ler o êxodo como o paradigma redentor do AT, a tipologia de Moisés como mediador, o tabernáculo como prefiguração da presença de Cristo e a Páscoa como tipo do sacrifício de Cristo."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Grace and Glory (1922)",
+          "The Teaching of the Epistle to the Hebrews (1956)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "Ancient Egypt and the Old Testament",
+      "autor": "John D. Currid",
+      "año": 1997,
+      "editorial": "Baker Academic",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Civilizaciones",
+          "Fuentes ANE",
+          "Arqueología",
+          "Personajes históricos"
+        ],
+        "en": [
+          "Historical context",
+          "Civilizations",
+          "ANE sources",
+          "Archaeology",
+          "Historical characters"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Civilizações",
+          "Fontes OPA",
+          "Arqueologia",
+          "Personagens históricos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John D. Currid es profesor de Antiguo Testamento en Reformed Theological Seminary (Charlotte). Doctor en Arqueología por la Universidad de Chicago, ha participado en excavaciones arqueológicas en el Próximo Oriente. Es especialista en las relaciones entre el mundo egipcio y el Pentateuco bíblico, escribiendo desde una perspectiva confesional reformada.",
+          "en": "John D. Currid is Professor of Old Testament at Reformed Theological Seminary (Charlotte). He holds a doctorate in Archaeology from the University of Chicago and has participated in archaeological excavations in the Near East. He specializes in the relationships between the Egyptian world and the biblical Pentateuch, writing from a confessional Reformed perspective.",
+          "pt": "John D. Currid é professor de Antigo Testamento no Reformed Theological Seminary (Charlotte). Doutor em Arqueologia pela Universidade de Chicago, participou de escavações arqueológicas no Próximo Oriente. É especialista nas relações entre o mundo egípcio e o Pentateuco bíblico, escrevendo a partir de uma perspectiva confessional reformada."
+        },
+        "metodo": {
+          "es": "Currid examina los paralelos entre los textos del Pentateuco y los textos y artefactos egipcios del Bronce Tardío, argumentando que el texto bíblico no deriva de las fuentes egipcias sino que las polemiza y subvierte. Su enfoque reconoce la historicidad del relato bíblico mientras incorpora la arqueología como herramienta confirmatoria.",
+          "en": "Currid examines the parallels between Pentateuchal texts and Egyptian texts and artifacts from the Late Bronze Age, arguing that the biblical text does not derive from Egyptian sources but polemicizes and subverts them. His approach recognizes the historicity of the biblical account while incorporating archaeology as a confirmatory tool.",
+          "pt": "Currid examina os paralelos entre os textos do Pentateuco e os textos e artefatos egípcios do Bronze Tardio, argumentando que o texto bíblico não deriva das fontes egípcias, mas as polemiza e subverte. Sua abordagem reconhece a historicidade do relato bíblico enquanto incorpora a arqueologia como ferramenta confirmatória."
+        },
+        "aportacion": {
+          "es": "Para Éxodo, aporta el análisis del nombre egipcio de Moisés, el contexto arqueológico de Gosén y las ciudades de almacenamiento, la comparación del relato de la canasta con el Sargón de Acad, y la relación entre las plagas y los dioses egipcios.",
+          "en": "For Exodus, it contributes analysis of Moses' Egyptian name, the archaeological context of Goshen and the storage cities, comparison of the basket account with Sargon of Akkad, and the relationship between the plagues and the Egyptian gods.",
+          "pt": "Para Êxodo, contribui com a análise do nome egípcio de Moisés, o contexto arqueológico de Gósen e as cidades de armazenamento, a comparação do relato da cesta com Sargão de Acad e a relação entre as pragas e os deuses egípcios."
+        },
+        "obras": [
+          "Ancient Egypt and the Old Testament (1997)",
+          "A Study Commentary on Exodus, Vol. 1 (2000)",
+          "A Study Commentary on Exodus, Vol. 2 (2001)",
+          "Doing Archaeology in the Land of the Bible (1999)"
+        ],
+        "url": "https://rts.edu/people/currid-john/"
+      }
+    },
+    {
+      "titulo": "IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Civilizaciones",
+          "Fuentes ANE"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Civilizations",
+          "ANE sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Civilizações",
+          "Fontes OPA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John H. Walton es profesor de Antiguo Testamento en Wheaton College, especialista en literatura del antiguo Oriente Próximo y su relación con el AT. Victor H. Matthews y Mark W. Chavalas son profesores de Historia Antigua en Missouri State University y University of Wisconsin-La Crosse respectivamente. Juntos representan tres décadas de investigación en el contexto cultural del AT.",
+          "en": "John H. Walton is Professor of Old Testament at Wheaton College, a specialist in ancient Near Eastern literature and its relationship to the OT. Victor H. Matthews and Mark W. Chavalas are professors of Ancient History at Missouri State University and University of Wisconsin-La Crosse respectively. Together they represent three decades of research in the cultural context of the OT.",
+          "pt": "John H. Walton é professor de Antigo Testamento no Wheaton College, especialista em literatura do antigo Oriente Próximo e sua relação com o AT. Victor H. Matthews e Mark W. Chavalas são professores de História Antiga na Missouri State University e na University of Wisconsin-La Crosse, respectivamente. Juntos representam três décadas de pesquisa no contexto cultural do AT."
+        },
+        "metodo": {
+          "es": "El comentario sigue el orden canónico del AT versículo por versículo, proveyendo para cada pasaje el trasfondo cultural, geográfico y arqueológico relevante del ANE. No es un comentario teológico sino un manual de contexto: el lector ve el texto bíblico sobre su trasfondo histórico-cultural inmediato.",
+          "en": "The commentary follows the canonical order of the OT verse by verse, providing for each passage the relevant cultural, geographical, and archaeological background from the ANE. It is not a theological commentary but a context handbook: the reader sees the biblical text against its immediate historical-cultural background.",
+          "pt": "O comentário segue a ordem canônica do AT versículo por versículo, fornecendo para cada passagem o contexto cultural, geográfico e arqueológico relevante do OPA. Não é um comentário teológico, mas um manual de contexto: o leitor vê o texto bíblico sobre seu fundo histórico-cultural imediato."
+        },
+        "aportacion": {
+          "es": "Para Éxodo, aporta el contexto cultural de las ciudades de almacenamiento, la práctica esclavista del Reino Nuevo, los paralelos de los contratos de trabajo forzado y el significado cultural de las plagas en el contexto egipcio.",
+          "en": "For Exodus, it contributes the cultural context of the storage cities, New Kingdom slave practices, parallels with forced labor contracts, and the cultural significance of the plagues in the Egyptian context.",
+          "pt": "Para Êxodo, contribui com o contexto cultural das cidades de armazenamento, as práticas de escravidão do Novo Reino, os paralelos com os contratos de trabalho forçado e o significado cultural das pragas no contexto egípcio."
+        },
+        "obras": [
+          "IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (2009)",
+          "The Lost World of the Flood (2018)",
+          "Old Testament Today (2004)"
+        ],
+        "url": "https://www.theopedia.com/john-walton"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "validado",
+    "confianza": 0.78,
+    "camposMarcados": [
+      {
+        "campo": "autor.nombre",
+        "razon": "Autoría mosaica mantenida por la tradición reformada; la crítica documental (JEDP) es rechazada. Se marca como juicio teológico.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-21"
+      },
+      {
+        "campo": "año.desde / año.hasta",
+        "razon": "Datación temprana (c. 1450-1410 a.C.) elegida sobre la tardía (c. 1280 a.C.) por coherencia con 1R 6:1 y la cronología bíblica. Debate académico documentado en controversiasHistoricas.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-21"
+      },
+      {
+        "campo": "personajes[].hebreo (Faraón)",
+        "razon": "No se incluye hebreo para Faraón porque el título פַּרְעֹה es transliteración del egipcio 'pr-ʿꜣ' (casa grande), no un nombre personal hebreo con valor teológico independiente.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-21"
+      },
+      {
+        "campo": "personajes[2].biografiaHistorica.nivelEvidencia (Aarón)",
+        "razon": "Nivel especulativo asignado: no hay evidencia histórica extrabíblica de Aarón. Penalización -0.15 en confianza aplicada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-21"
+      },
+      {
+        "campo": "personajes[3].biografiaHistorica.nivelEvidencia (Miriam)",
+        "razon": "Nivel especulativo asignado: no hay evidencia histórica extrabíblica de Miriam. Penalización -0.15 en confianza aplicada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-21"
+      },
+      {
+        "campo": "contextoHistorico.fuentesANE[2] (Tablillas de Amarna)",
+        "razon": "Las tablillas son c. 1350 a.C., ligeramente posteriores al éxodo temprano (c. 1446 a.C.); se incluyen como contexto del período inmediatamente posterior al éxodo y la conquista, no como testigos directos del éxodo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-21"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-21T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.3.0",
+      "rol": "editor",
+      "fechaRevision": "2026-06-21T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "NAA"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-21T00:00:00Z",
+          "fechaFin": "2026-06-21T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-21T00:00:00Z",
+          "fechaFin": "2026-06-21T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-21T00:00:00Z",
+          "fechaFin": "2026-06-21T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-21T00:00:00Z",
+          "fechaFin": "2026-06-21T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-21T00:00:00Z",
+          "fechaFin": "2026-06-21T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

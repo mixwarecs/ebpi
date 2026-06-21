@@ -1,0 +1,1889 @@
+{
+  "version": "1.1.0",
+  "generado": "2026-06-21T02:33:05.034Z",
+  "divisiones": [
+    {
+      "id": "pentateuco",
+      "nombre": {
+        "es": "Pentateuco",
+        "en": "Pentateuch",
+        "pt": "Pentateuco"
+      },
+      "testamento": "Antiguo",
+      "libros": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "color": "#4A6741",
+      "rango": "Génesis – Deuteronomio",
+      "tagline": {
+        "es": "La Torá — el fundamento de toda revelación posterior",
+        "en": "The Torah — the foundation of all subsequent revelation",
+        "pt": "A Torá — o fundamento de toda revelação posterior"
+      },
+      "resumen": {
+        "es": "Los cinco primeros libros del canon, atribuidos por la tradición reformada a la autoría mosaica (con la posible excepción del relato de su muerte en Dt 34, añadido por una mano posterior, probablemente Josué). Narran desde la creación del cosmos hasta la muerte de Moisés a las puertas de Canaán: la cosmogonía, la caída, el diluvio, el llamado patriarcal, el éxodo, la entrega de la Ley en Sinaí y la peregrinación por el desierto.",
+        "en": "The five opening books of the canon, attributed by the Reformed tradition to Mosaic authorship (with the possible exception of the account of his death in Deut 34, added by a later hand, probably Joshua). They narrate from the creation of the cosmos to the death of Moses at the gates of Canaan: cosmogony, the fall, the flood, the patriarchal call, the exodus, the giving of the Law at Sinai, and the wilderness wandering.",
+        "pt": "Os cinco primeiros livros do cânon, atribuídos pela tradição reformada à autoria mosaica (com a possível exceção do relato de sua morte em Dt 34, acrescentado por uma mão posterior, provavelmente Josué). Narram desde a criação do cosmos até a morte de Moisés às portas de Canaã: a cosmogonia, a queda, o dilúvio, o chamado patriarcal, o êxodo, a entrega da Lei no Sinai e a peregrinação pelo deserto."
+      },
+      "fondoHistorico": {
+        "es": "Compuesto en el contexto del Bronce Tardío (c. 1446–1406 a.C. según la cronología larga reformada, que toma 1R 6:1 como dato literal), el Pentateuco refleja con precisión el mundo del Antiguo Oriente Próximo del segundo milenio: tratados de vasallaje hititas (la estructura del pacto en Éxodo y Deuteronomio sigue el formato de tratado suzerano-vasallo del s. XIV–XIII a.C.), prácticas legales mesopotámicas (paralelos y contrastes con el Código de Hammurabi), y la cultura egipcia del Imperio Nuevo que domina el trasfondo de Éxodo. La crítica documentaria (JEDP, Wellhausen) propuso una composición tardía y compuesta; la posición reformada confiesa la autoría mosaica sustancial, consistente con el testimonio de Cristo mismo (Jn 5:46; Lc 24:27,44) y de los apóstoles.",
+        "en": "Composed in the context of the Late Bronze Age (c. 1446–1406 BC according to the long Reformed chronology, which takes 1 Kings 6:1 as literal data), the Pentateuch accurately reflects the world of the ancient Near East of the second millennium: Hittite suzerainty treaties (the covenant structure in Exodus and Deuteronomy follows the 14th–13th century BC suzerain-vassal treaty format), Mesopotamian legal practices (parallels and contrasts with the Code of Hammurabi), and the New Kingdom Egyptian culture that dominates the background of Exodus. The documentary hypothesis (JEDP, Wellhausen) proposed a late and composite composition; the Reformed position confesses substantial Mosaic authorship, consistent with the testimony of Christ himself (John 5:46; Luke 24:27,44) and the apostles.",
+        "pt": "Composto no contexto do Bronze Tardio (c. 1446–1406 a.C. segundo a cronologia longa reformada, que toma 1Rs 6:1 como dado literal), o Pentateuco reflete com precisão o mundo do Antigo Oriente Próximo do segundo milênio: tratados de suserania hititas (a estrutura da aliança em Êxodo e Deuteronômio segue o formato do tratado suserano-vassalo dos sécs. XIV–XIII a.C.), práticas legais mesopotâmicas (paralelos e contrastes com o Código de Hamurábi), e a cultura egípcia do Novo Império que domina o pano de fundo de Êxodo. A hipótese documentária (JEDP, Wellhausen) propôs uma composição tardia e composta; a posição reformada confessa a autoria mosaica substancial, consistente com o testemunho do próprio Cristo (Jo 5:46; Lc 24:27,44) e dos apóstolos."
+      },
+      "porQueAgrupados": {
+        "es": "Estos cinco libros forman una sola obra literaria continua — la Torá — unida por la genealogía narrativa (toledot), por la autoría mosaica y, sobre todo, porque juntos establecen el marco teológico que todo el resto de la Escritura presupone: la doctrina de Dios como Creador, la naturaleza del pecado, la elección de un pueblo pactual, y la Ley como expresión del carácter divino. Ningún libro posterior del canon puede leerse correctamente sin el Pentateuco como cimiento.",
+        "en": "These five books form a single continuous literary work — the Torah — unified by narrative genealogy (toledot), Mosaic authorship, and above all because together they establish the theological framework that all the rest of Scripture presupposes: the doctrine of God as Creator, the nature of sin, the election of a covenantal people, and the Law as an expression of the divine character. No subsequent canonical book can be read correctly without the Pentateuch as its foundation.",
+        "pt": "Esses cinco livros formam uma única obra literária contínua — a Torá — unida pela genealogia narrativa (toledot), pela autoria mosaica e, sobretudo, porque juntos estabelecem o quadro teológico que todo o restante das Escrituras pressupõe: a doutrina de Deus como Criador, a natureza do pecado, a eleição de um povo pactual e a Lei como expressão do caráter divino. Nenhum livro posterior do cânon pode ser lido corretamente sem o Pentateuco como fundamento."
+      },
+      "epocaPacto": {
+        "es": "Aquí se establecen, en sucesión, el Pacto Adámico (obras), el Pacto Noáico (preservación universal) y el Pacto Abrahánico (promesa de tierra, simiente y bendición) — y al cierre del Pentateuco, el Pacto Mosaico (Ley) administra ese mismo pacto de gracia bajo la nación de Israel como pueblo de posesión exclusiva de Dios.",
+        "en": "Here are established in succession the Adamic Covenant (works), the Noahic Covenant (universal preservation), and the Abrahamic Covenant (promise of land, seed, and blessing) — and at the close of the Pentateuch, the Mosaic Covenant (Law) administers that same covenant of grace under the nation of Israel as God's exclusive possession.",
+        "pt": "Aqui são estabelecidos, em sucessão, o Pacto Adâmico (obras), o Pacto Noáico (preservação universal) e o Pacto Abraâmico (promessa de terra, semente e bênção) — e no encerramento do Pentateuco, o Pacto Mosaico (Lei) administra esse mesmo pacto de graça sob a nação de Israel como povo de possessão exclusiva de Deus."
+      },
+      "enfoqueCristologico": {
+        "es": "El Pentateuco anticipa a Cristo de manera explícita (la simiente de la mujer, Gn 3:15; el profeta semejante a Moisés, Dt 18:15) y típica: el cordero pascual, el sumo sacerdote, el tabernáculo como morada de Dios entre los hombres, y Moisés mismo como mediador y libertador que prefigura al Mediador definitivo.",
+        "en": "The Pentateuch anticipates Christ both explicitly (the seed of the woman, Gen 3:15; the prophet like Moses, Deut 18:15) and typologically: the Passover lamb, the high priest, the tabernacle as God's dwelling among men, and Moses himself as mediator and deliverer who prefigures the ultimate Mediator.",
+        "pt": "O Pentateuco antecipa Cristo de maneira explícita (a semente da mulher, Gn 3:15; o profeta semelhante a Moisés, Dt 18:15) e típica: o cordeiro pascal, o sumo sacerdote, o tabernáculo como morada de Deus entre os homens, e o próprio Moisés como mediador e libertador que prefigura o Mediador definitivo."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada sostiene la unidad mosaica del Pentateuco frente a la hipótesis documentaria, no por mero conservadurismo sino porque el testimonio interno del propio texto (Ex 24:4; Dt 31:9,24) y el testimonio de Cristo (Jn 5:46–47) hacen de la autoría mosaica un asunto de fidelidad a la autoridad de la Escritura misma, no solo de crítica literaria.",
+        "en": "The Reformed tradition upholds the Mosaic unity of the Pentateuch against the documentary hypothesis, not out of mere conservatism but because the internal testimony of the text itself (Exod 24:4; Deut 31:9,24) and the testimony of Christ (John 5:46–47) make Mosaic authorship a matter of fidelity to the authority of Scripture itself, not merely of literary criticism.",
+        "pt": "A tradição reformada sustenta a unidade mosaica do Pentateuco frente à hipótese documentária, não por mero conservadorismo, mas porque o testemunho interno do próprio texto (Êx 24:4; Dt 31:9,24) e o testemunho de Cristo (Jo 5:46–47) tornam a autoria mosaica uma questão de fidelidade à autoridade das próprias Escrituras, não apenas de crítica literária."
+      },
+      "versiculoClave": "Dt 6:4-5"
+    },
+    {
+      "id": "historico-at",
+      "nombre": {
+        "es": "Histórico",
+        "en": "Historical Books",
+        "pt": "Históricos"
+      },
+      "testamento": "Antiguo",
+      "libros": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "color": "#1B5E8B",
+      "rango": "Josué – Ester",
+      "tagline": {
+        "es": "La conquista, la monarquía y el exilio del pueblo del pacto",
+        "en": "The conquest, the monarchy, and the exile of the covenant people",
+        "pt": "A conquista, a monarquia e o exílio do povo da aliança"
+      },
+      "resumen": {
+        "es": "Doce libros que narran la historia de Israel desde la conquista de Canaán bajo Josué (c. 1406 a.C.) hasta la restauración postexílica bajo Esdras y Nehemías (s. V a.C.) — unos novecientos años de historia nacional, abarcando la conquista, el período de los jueces, el establecimiento de la monarquía unida (Saúl, David, Salomón), la división del reino, la apostasía progresiva, el exilio asirio del norte y babilónico del sur, y el retorno bajo el decreto persa de Ciro.",
+        "en": "Twelve books narrating the history of Israel from the conquest of Canaan under Joshua (c. 1406 BC) to the post-exilic restoration under Ezra and Nehemiah (5th century BC) — some nine hundred years of national history, spanning the conquest, the period of the judges, the establishment of the united monarchy (Saul, David, Solomon), the division of the kingdom, progressive apostasy, the Assyrian exile of the north and Babylonian exile of the south, and the return under the Persian decree of Cyrus.",
+        "pt": "Doze livros que narram a história de Israel desde a conquista de Canaã sob Josué (c. 1406 a.C.) até a restauração pós-exílica sob Esdras e Neemias (séc. V a.C.) — cerca de novecentos anos de história nacional, abrangendo a conquista, o período dos juízes, o estabelecimento da monarquia unida (Saul, Davi, Salomão), a divisão do reino, a apostasia progressiva, o exílio assírio do norte e babilônico do sul, e o retorno sob o decreto persa de Ciro."
+      },
+      "fondoHistorico": {
+        "es": "Este período se cruza directamente con los grandes imperios documentados extrabíblicamente: la Estela de Merneptah (c. 1208 a.C.) es la primera mención extrabíblica de 'Israel' como entidad en Canaán; la Estela de Tel Dan (s. IX a.C.) menciona la 'casa de David'; los anales asirios de Salmanasar III registran a Acab de Israel en la batalla de Qarqar (853 a.C.); el Cilindro de Ciro (539 a.C.) confirma la política persa de repatriación de pueblos cautivos que permitió el retorno judío descrito en Esdras. La arqueología de los siglos XX–XXI ha producido fuerte debate sobre la extensión de la monarquía davídica-salomónica, pero los hallazgos de Tel Dan y la arquitectura monumental de Meguido y Hazor han reforzado la posición conservadora.",
+        "en": "This period intersects directly with the great extra-biblically documented empires: the Merneptah Stele (c. 1208 BC) is the first extra-biblical mention of 'Israel' as an entity in Canaan; the Tel Dan Stele (9th century BC) mentions the 'house of David'; the Assyrian annals of Shalmaneser III record Ahab of Israel at the Battle of Qarqar (853 BC); the Cyrus Cylinder (539 BC) confirms the Persian policy of repatriating captive peoples that enabled the Jewish return described in Ezra. 20th–21st century archaeology has produced intense debate on the extent of the Davidic-Solomonic monarchy, but the Tel Dan finds and the monumental architecture of Megiddo and Hazor have reinforced the conservative position.",
+        "pt": "Este período cruza-se diretamente com os grandes impérios documentados extrabibicamente: a Estela de Merneptá (c. 1208 a.C.) é a primeira menção extrabiblica de 'Israel' como entidade em Canaã; a Estela de Tel Dan (séc. IX a.C.) menciona a 'casa de Davi'; os anais assírios de Salmanasar III registram Acabe de Israel na batalha de Qarqar (853 a.C.); o Cilindro de Ciro (539 a.C.) confirma a política persa de repatriação de povos cativos que possibilitou o retorno judeu descrito em Esdras. A arqueologia dos séculos XX–XXI produziu intenso debate sobre a extensão da monarquia davídico-salomônica, mas os achados de Tel Dan e a arquitetura monumental de Megido e Hazor reforçaram a posição conservadora."
+      },
+      "porQueAgrupados": {
+        "es": "Estos libros comparten género narrativo-historiográfico y trazan una sola línea cronológica continua de la historia nacional de Israel. Juntos documentan el ciclo pactual repetido: bendición por obediencia, apostasía, juicio, y la fidelidad persistente de Dios a su promesa davídica pese al fracaso humano constante.",
+        "en": "These books share a narrative-historiographic genre and trace a single continuous chronological line of Israel's national history. Together they document the repeated covenantal cycle: blessing for obedience, apostasy, judgment, and God's persistent faithfulness to his Davidic promise despite constant human failure.",
+        "pt": "Esses livros compartilham o gênero narrativo-historiográfico e traçam uma única linha cronológica contínua da história nacional de Israel. Juntos documentam o ciclo pactual repetido: bênção pela obediência, apostasia, julgamento e a fidelidade persistente de Deus à sua promessa davídica apesar do constante fracasso humano."
+      },
+      "epocaPacto": {
+        "es": "Domina el Pacto Mosaico en su fase de administración nacional (bendiciones y maldiciones de Dt 28 cumpliéndose literalmente), y emerge aquí el Pacto Davídico (2S 7) — la promesa de un trono eterno que ningún rey humano de esta división cumple plenamente, dejando una tensión que solo Cristo resuelve.",
+        "en": "The Mosaic Covenant dominates in its phase of national administration (the blessings and curses of Deut 28 being fulfilled literally), and here the Davidic Covenant emerges (2 Sam 7) — the promise of an eternal throne that no human king in this division fully fulfills, leaving a tension that only Christ resolves.",
+        "pt": "O Pacto Mosaico domina em sua fase de administração nacional (as bênçãos e maldições de Dt 28 cumprindo-se literalmente), e aqui emerge o Pacto Davídico (2Sm 7) — a promessa de um trono eterno que nenhum rei humano desta divisão cumpre plenamente, deixando uma tensão que somente Cristo resolve."
+      },
+      "enfoqueCristologico": {
+        "es": "El fracaso sostenido de cada rey humano —incluso David y Salomón— para encarnar plenamente la justicia del reino de Dios genera una expectativa mesiánica creciente. El trono davídico vacío tras el exilio deja al lector del canon esperando al Hijo de David prometido (2S 7:12-13) cuyo reino sí será eterno.",
+        "en": "The sustained failure of every human king — even David and Solomon — to fully embody the righteousness of God's kingdom generates a growing messianic expectation. The vacant Davidic throne after the exile leaves the canon's reader awaiting the promised Son of David (2 Sam 7:12-13) whose kingdom will truly be eternal.",
+        "pt": "O fracasso sustentado de cada rei humano — inclusive Davi e Salomão — em encarnar plenamente a justiça do reino de Deus gera uma expectativa messiânica crescente. O trono davídico vazio após o exílio deixa o leitor do cânon aguardando o prometido Filho de Davi (2Sm 7:12-13) cujo reino de fato será eterno."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee estos libros no como mera crónica política sino como historiografía teológica: cada evento se narra para mostrar la fidelidad del pacto de Dios pese a la infidelidad humana — un patrón que culmina, no en la institución monárquica israelita, sino en el Rey perfecto que esa institución solo podía prefigurar.",
+        "en": "The Reformed tradition reads these books not as mere political chronicle but as theological historiography: each event is narrated to show God's covenantal faithfulness despite human unfaithfulness — a pattern that culminates not in the Israelite monarchy but in the perfect King whom that institution could only foreshadow.",
+        "pt": "A tradição reformada lê esses livros não como mera crônica política, mas como historiografia teológica: cada evento é narrado para mostrar a fidelidade pactual de Deus apesar da infidelidade humana — um padrão que culmina não na instituição monárquica israelita, mas no Rei perfeito que essa instituição só podia prefigurar."
+      },
+      "versiculoClave": "2S 7:16"
+    },
+    {
+      "id": "sabiduria",
+      "nombre": {
+        "es": "Sabiduría y Poesía",
+        "en": "Wisdom & Poetry",
+        "pt": "Sabedoria e Poesia"
+      },
+      "testamento": "Antiguo",
+      "libros": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "color": "#6B4A8B",
+      "rango": "Job – Cantares",
+      "tagline": {
+        "es": "La piedad reflexiva: sufrimiento, adoración, sabiduría práctica y amor pactual",
+        "en": "Reflective piety: suffering, worship, practical wisdom, and covenantal love",
+        "pt": "Piedade reflexiva: sofrimento, adoração, sabedoria prática e amor pactual"
+      },
+      "resumen": {
+        "es": "Cinco libros de género poético hebreo que tratan, cada uno desde un ángulo distinto, la pregunta de cómo vivir sabiamente delante de Dios: el sufrimiento del justo (Job), la adoración congregacional e individual (Salmos), la sabiduría práctica cotidiana (Proverbios), el sinsentido aparente de la vida 'bajo el sol' (Eclesiastés), y el amor conyugal como don bueno de Dios (Cantares).",
+        "en": "Five books of Hebrew poetic genre that each address from a distinct angle the question of how to live wisely before God: the suffering of the righteous (Job), congregational and individual worship (Psalms), everyday practical wisdom (Proverbs), the apparent meaninglessness of life 'under the sun' (Ecclesiastes), and conjugal love as a good gift from God (Song of Songs).",
+        "pt": "Cinco livros de gênero poético hebraico que tratam, cada um de um ângulo distinto, a questão de como viver sabiamente diante de Deus: o sofrimento do justo (Jó), a adoração congregacional e individual (Salmos), a sabedoria prática cotidiana (Provérbios), o aparente sem-sentido da vida 'debaixo do sol' (Eclesiastes) e o amor conjugal como dom bom de Deus (Cântico dos Cânticos)."
+      },
+      "fondoHistorico": {
+        "es": "La literatura sapiencial era un género del Antiguo Oriente Próximo — existen paralelos egipcios (la Instrucción de Amenemope, con semejanzas notables a Pr 22:17–24:22) y mesopotámicos (el 'Job babilónico', Ludlul Bel Nemeqi) — pero la sabiduría bíblica se distingue radicalmente al fundamentar toda sabiduría en 'el temor de Jehová' (Pr 1:7). Los Salmos, compuestos a lo largo de un milenio, reflejan el uso litúrgico del templo de Salomón y la sinagoga postexílica. Job está ambientado en la era patriarcal, sin referencias a la Ley mosaica.",
+        "en": "Wisdom literature was a genre of the ancient Near East — there are Egyptian parallels (the Instruction of Amenemope, with notable similarities to Prov 22:17–24:22) and Mesopotamian ones (the 'Babylonian Job', Ludlul Bel Nemeqi) — but biblical wisdom is radically distinct in grounding all wisdom in 'the fear of the LORD' (Prov 1:7). The Psalms, composed over a millennium, reflect the liturgical use of Solomon's temple and the post-exilic synagogue. Job is set in the patriarchal era, with no references to the Mosaic Law.",
+        "pt": "A literatura sapiencial era um gênero do Antigo Oriente Próximo — existem paralelos egípcios (a Instrução de Amenemope, com notáveis semelhanças a Pv 22:17–24:22) e mesopotâmicos (o 'Jó babilônico', Ludlul Bel Nemeqi) — mas a sabedoria bíblica distingue-se radicalmente ao fundamentar toda a sabedoria no 'temor do SENHOR' (Pv 1:7). Os Salmos, compostos ao longo de um milênio, refletem o uso litúrgico do templo de Salomão e da sinagoga pós-exílica. Jó é ambientado na era patriarcal, sem referências à Lei mosaica."
+      },
+      "porQueAgrupados": {
+        "es": "Comparten forma poética hebrea y función reflexiva: a diferencia de los históricos (que narran lo que Dios hizo) o proféticos (que declaran lo que Dios hará), estos libros exploran cómo el pueblo del pacto debe pensar, sentir, sufrir, adorar y amar delante de Dios en medio de la vida ordinaria y extraordinaria.",
+        "en": "They share Hebrew poetic form and a reflective function: unlike the historical books (which narrate what God did) or the prophetic ones (which declare what God will do), these books explore how the covenant people should think, feel, suffer, worship, and love before God in the midst of ordinary and extraordinary life.",
+        "pt": "Compartilham forma poética hebraica e função reflexiva: ao contrário dos históricos (que narram o que Deus fez) ou dos proféticos (que declaram o que Deus fará), esses livros exploram como o povo da aliança deve pensar, sentir, sofrer, adorar e amar diante de Deus em meio à vida ordinária e extraordinária."
+      },
+      "epocaPacto": {
+        "es": "Estos libros no avanzan la línea narrativa del pacto sino que la presuponen, dándole expresión emocional y reflexiva: los Salmos son la voz orante de Israel bajo el pacto davídico; Proverbios aplica la sabiduría de la Ley a la vida diaria; Job confronta la pregunta universal de la justicia divina.",
+        "en": "These books do not advance the narrative line of the covenant but presuppose it, giving it emotional and reflective expression: the Psalms are Israel's praying voice under the Davidic covenant; Proverbs applies the wisdom of the Law to daily life; Job confronts the universal question of divine justice.",
+        "pt": "Esses livros não avançam a linha narrativa da aliança, mas a pressupõem, dando-lhe expressão emocional e reflexiva: os Salmos são a voz orante de Israel sob o pacto davídico; Provérbios aplica a sabedoria da Lei à vida diária; Jó confronta a questão universal da justiça divina."
+      },
+      "enfoqueCristologico": {
+        "es": "Los Salmos son citados en el NT más que cualquier otro libro del AT como referidos directamente a Cristo (el Salmo 22 en la cruz, el Salmo 110 como el más citado del NT). Job anticipa la necesidad de un mediador-árbitro (Job 9:33; 19:25). Proverbios personifica la Sabiduría (Pr 8) de un modo que el NT aplica a Cristo (1Co 1:24).",
+        "en": "The Psalms are quoted in the NT more than any other OT book as directly referring to Christ (Psalm 22 at the cross, Psalm 110 as the most quoted in the NT). Job anticipates the need for a mediator-arbiter (Job 9:33; 19:25). Proverbs personifies Wisdom (Prov 8) in a way the NT applies to Christ (1 Cor 1:24).",
+        "pt": "Os Salmos são citados no NT mais do que qualquer outro livro do AT como referindo-se diretamente a Cristo (o Salmo 22 na cruz, o Salmo 110 como o mais citado do NT). Jó antecipa a necessidade de um mediador-árbitro (Jó 9:33; 19:25). Provérbios personifica a Sabedoria (Pv 8) de um modo que o NT aplica a Cristo (1Co 1:24)."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee los Salmos como el manual de oración inspirado de la iglesia — Calvino los llamó 'una anatomía de todas las partes del alma' — y sostiene que Eclesiastés no enseña escepticismo sino que demuestra la futilidad de buscar sentido 'bajo el sol' aparte de Dios.",
+        "en": "The Reformed tradition reads the Psalms as the church's inspired prayer manual — Calvin called them 'an anatomy of all the parts of the soul' — and holds that Ecclesiastes does not teach skepticism but demonstrates the futility of seeking ultimate meaning 'under the sun' apart from God.",
+        "pt": "A tradição reformada lê os Salmos como o manual de oração inspirado da igreja — Calvino os chamou de 'uma anatomia de todas as partes da alma' — e sustenta que Eclesiastes não ensina ceticismo, mas demonstra a futilidade de buscar sentido 'debaixo do sol' separado de Deus."
+      },
+      "versiculoClave": "Pr 1:7"
+    },
+    {
+      "id": "profetas-mayores",
+      "nombre": {
+        "es": "Profetas Mayores",
+        "en": "Major Prophets",
+        "pt": "Profetas Maiores"
+      },
+      "testamento": "Antiguo",
+      "libros": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "color": "#8B3A2A",
+      "rango": "Isaías – Daniel",
+      "tagline": {
+        "es": "Voces extensas de juicio y esperanza en el ocaso de las dos monarquías",
+        "en": "Extended voices of judgment and hope in the twilight of the two monarchies",
+        "pt": "Vozes extensas de julgamento e esperança no ocaso das duas monarquias"
+      },
+      "resumen": {
+        "es": "Cinco libros llamados 'mayores' no por mayor importancia espiritual sino por su extensión literaria. Isaías, Jeremías, Ezequiel y Daniel ministran durante el período más oscuro de la historia de Israel: el ocaso del reino del sur, la caída de Jerusalén (586 a.C.) y el exilio babilónico — combinando denuncia del pecado del pacto, anuncio de juicio inminente, y promesas de restauración futura centradas en un Mesías venidero.",
+        "en": "Five books called 'major' not for greater spiritual importance but for their literary length. Isaiah, Jeremiah, Ezekiel, and Daniel minister during the darkest period of Israel's history: the twilight of the southern kingdom, the fall of Jerusalem (586 BC), and the Babylonian exile — combining denunciation of covenantal sin, announcement of imminent judgment, and promises of future restoration centered on a coming Messiah.",
+        "pt": "Cinco livros chamados 'maiores' não por maior importância espiritual, mas por sua extensão literária. Isaías, Jeremias, Ezequiel e Daniel ministram durante o período mais sombrio da história de Israel: o ocaso do reino do sul, a queda de Jerusalém (586 a.C.) e o exílio babilônico — combinando denúncia do pecado pactual, anúncio de julgamento iminente e promessas de restauração futura centradas em um Messias vindouro."
+      },
+      "fondoHistorico": {
+        "es": "Este período (c. 740–530 a.C.) coincide con el ascenso y caída del imperio neo-asirio y el ascenso del imperio neo-babilónico bajo Nabucodonosor II, documentado en las Crónicas Babilónicas. Las profecías de Isaías contra naciones específicas son corroboradas por registros asirios y babilónicos. El libro de Daniel está ambientado en la corte babilónica y luego persa, con detalles administrativos confirmados por fuentes extrabíblicas; la tradición reformada sostiene la datación temprana (s. VI a.C.), consistente con el testimonio de Cristo sobre 'Daniel el profeta' (Mt 24:15).",
+        "en": "This period (c. 740–530 BC) coincides with the rise and fall of the Neo-Assyrian empire and the rise of the Neo-Babylonian empire under Nebuchadnezzar II, documented in the Babylonian Chronicles. Isaiah's prophecies against specific nations are corroborated by Assyrian and Babylonian records. The book of Daniel is set in the Babylonian and then Persian court, with administrative details confirmed by extra-biblical sources; the Reformed tradition upholds the early dating (6th century BC), consistent with Christ's testimony about 'Daniel the prophet' (Matt 24:15).",
+        "pt": "Este período (c. 740–530 a.C.) coincide com a ascensão e queda do império neo-assírio e a ascensão do império neo-babilônico sob Nabucodonosor II, documentado nas Crônicas Babilônicas. As profecias de Isaías contra nações específicas são corroboradas por registros assírios e babilônicos. O livro de Daniel é ambientado na corte babilônica e depois persa, com detalhes administrativos confirmados por fontes extrabíblicas; a tradição reformada sustenta a datação precoce (séc. VI a.C.), consistente com o testemunho de Cristo sobre 'Daniel, o profeta' (Mt 24:15)."
+      },
+      "porQueAgrupados": {
+        "es": "Comparten extensión, género oracular-narrativo mixto, y el contexto histórico del juicio y exilio de Judá — aunque Ezequiel y Daniel profetizan desde el exilio mismo en Babilonia, mientras Isaías y Jeremías lo anuncian de antemano desde Jerusalén.",
+        "en": "They share length, a mixed oracular-narrative genre, and the historical context of Judah's judgment and exile — though Ezekiel and Daniel prophesy from within the exile in Babylon itself, while Isaiah and Jeremiah announce it beforehand from Jerusalem.",
+        "pt": "Compartilham extensão, gênero oracular-narrativo misto e o contexto histórico do julgamento e exílio de Judá — embora Ezequiel e Daniel profetizem do próprio exílio na Babilônia, enquanto Isaías e Jeremias o anunciam antecipadamente de Jerusalém."
+      },
+      "epocaPacto": {
+        "es": "El pacto mosaico ha sido roto de manera flagrante (las maldiciones de Dt 28 se cumplen literalmente en el exilio), pero Dios promete a través de estos profetas un Nuevo Pacto (Jer 31:31-34) que tendrá éxito donde el pacto mosaico, dada la dureza del corazón humano, no pudo.",
+        "en": "The Mosaic covenant has been flagrantly broken (the curses of Deut 28 are literally fulfilled in the exile), but God promises through these prophets a New Covenant (Jer 31:31-34) that will succeed where the Mosaic covenant, given human heart-hardness, could not.",
+        "pt": "O pacto mosaico foi flagrantemente rompido (as maldições de Dt 28 cumprem-se literalmente no exílio), mas Deus promete por meio desses profetas uma Nova Aliança (Jr 31:31-34) que terá êxito onde o pacto mosaico, dada a dureza do coração humano, não pôde."
+      },
+      "enfoqueCristologico": {
+        "es": "Isaías 53 es el texto del Siervo Sufriente más citado del AT respecto a la expiación sustitutiva de Cristo. Jeremías 31 profetiza el Nuevo Pacto que Cristo instituye en la Última Cena. Ezequiel anuncia el corazón nuevo y el Espíritu nuevo (Ez 36:26-27) que se cumplen en Pentecostés. Daniel 7 presenta al 'Hijo del Hombre' — el título que Jesús usa más de sí mismo.",
+        "en": "Isaiah 53 is the most-quoted OT Suffering Servant text regarding Christ's substitutionary atonement. Jeremiah 31 prophesies the New Covenant that Christ institutes at the Last Supper. Ezekiel announces the new heart and new Spirit (Ezek 36:26-27) fulfilled at Pentecost. Daniel 7 presents the 'Son of Man' — the title Jesus uses most of himself.",
+        "pt": "Isaías 53 é o texto do Servo Sofredor mais citado do AT quanto à expiação substitutiva de Cristo. Jeremias 31 profetiza a Nova Aliança que Cristo institui na Última Ceia. Ezequiel anuncia o coração novo e o Espírito novo (Ez 36:26-27) cumpridos no Pentecostes. Daniel 7 apresenta o 'Filho do Homem' — o título que Jesus mais usa de si mesmo."
+      },
+      "distintivaReformada": {
+        "es": "La hermenéutica reformada lee estas profecías con un cumplimiento ya/todavía-no: el Nuevo Pacto se inaugura en la primera venida de Cristo y se consuma en la segunda, rechazando tanto la lectura dispensacionalista de un cumplimiento exclusivamente futuro como la crítica que las trata como literatura post-eventum.",
+        "en": "Reformed hermeneutics reads these prophecies with an already/not-yet fulfillment: the New Covenant is inaugurated at Christ's first coming and consummated at his second, rejecting both the dispensationalist reading of an exclusively future fulfillment and the critical view that treats them as post-event literature.",
+        "pt": "A hermenêutica reformada lê estas profecias com um cumprimento já/ainda-não: a Nova Aliança é inaugurada na primeira vinda de Cristo e consumada na segunda, rejeitando tanto a leitura dispensacionalista de um cumprimento exclusivamente futuro quanto a crítica que as trata como literatura pós-evento."
+      },
+      "versiculoClave": "Is 53:5"
+    },
+    {
+      "id": "profetas-menores",
+      "nombre": {
+        "es": "Profetas Menores",
+        "en": "Minor Prophets",
+        "pt": "Profetas Menores"
+      },
+      "testamento": "Antiguo",
+      "libros": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "color": "#8B6A1B",
+      "rango": "Oseas – Malaquías",
+      "tagline": {
+        "es": "El Libro de los Doce — voces breves abarcando tres siglos de la historia del pacto",
+        "en": "The Book of the Twelve — brief voices spanning three centuries of covenant history",
+        "pt": "O Livro dos Doze — vozes breves abrangendo três séculos de história pactual"
+      },
+      "resumen": {
+        "es": "Doce libros breves que en la tradición hebrea se contaban como un solo rollo, 'El Libro de los Doce'. Abarcan desde el s. VIII a.C. (Oseas, Amós, Jonás, Miqueas) hasta el período postexílico (Hageo, Zacarías, Malaquías, s. VI–V a.C.), cubriendo el ministerio profético hacia el reino del norte, el del sur y hacia naciones extranjeras.",
+        "en": "Twelve brief books counted in the Hebrew tradition as a single scroll, 'The Book of the Twelve'. They span from the 8th century BC (Hosea, Amos, Jonah, Micah) to the post-exilic period (Haggai, Zechariah, Malachi, 6th–5th centuries BC), covering prophetic ministry toward the northern kingdom, the southern kingdom, and foreign nations.",
+        "pt": "Doze livros breves que na tradição hebraica eram contados como um único rolo, 'O Livro dos Doze'. Abrangem desde o séc. VIII a.C. (Oseias, Amós, Jonas, Miquéias) até o período pós-exílico (Ageu, Zacarias, Malaquias, sécs. VI–V a.C.), cobrindo o ministério profético ao reino do norte, ao do sul e às nações estrangeiras."
+      },
+      "fondoHistorico": {
+        "es": "Amós profetiza durante el apogeo económico y la corrupción social del reinado de Jeroboam II en Israel (c. 760 a.C.). Jonás está ambientado en Nínive bajo el imperio asirio anterior a su caída (612 a.C.), que Nahúm profetiza en detalle. Hageo y Zacarías ministran durante la reconstrucción del segundo templo bajo el gobernador Zorobabel (520 a.C.), usando el calendario persa preciso para fechar sus oráculos. Malaquías ministra en el s. V a.C., denunciando la misma laxitud sacerdotal que Nehemías combate administrativamente.",
+        "en": "Amos prophesies during the economic zenith and social corruption of Jeroboam II's reign in Israel (c. 760 BC). Jonah is set in Nineveh under the Assyrian empire before its fall (612 BC), which Nahum prophesies in detail. Haggai and Zechariah minister during the rebuilding of the second temple under Governor Zerubbabel (520 BC), using the precise Persian calendar to date their oracles. Malachi ministers in the 5th century BC, denouncing the same priestly laxity that Nehemiah combats administratively.",
+        "pt": "Amós profetiza durante o apogeu econômico e a corrupção social do reinado de Jeroboão II em Israel (c. 760 a.C.). Jonas é ambientado em Nínive sob o império assírio antes de sua queda (612 a.C.), que Naum profetiza em detalhes. Ageu e Zacarias ministram durante a reconstrução do segundo templo sob o governador Zorobabel (520 a.C.), usando o calendário persa preciso para datar seus oráculos. Malaquias ministra no séc. V a.C., denunciando a mesma frouxidão sacerdotal que Neemias combate administrativamente."
+      },
+      "porQueAgrupados": {
+        "es": "Agrupados desde la antigüedad por su brevedad compartida y porque juntos trazan el arco completo del ministerio profético preexílico, exílico y postexílico, formando una sola narrativa profética coherente cuando se leen en conjunto, pese a abarcar siglos y autores distintos.",
+        "en": "Grouped since antiquity by their shared brevity and because together they trace the complete arc of pre-exilic, exilic, and post-exilic prophetic ministry, forming a single coherent prophetic narrative when read together, despite spanning centuries and different authors.",
+        "pt": "Agrupados desde a antiguidade por sua brevidade compartilhada e porque juntos traçam o arco completo do ministério profético pré-exílico, exílico e pós-exílico, formando uma única narrativa profética coerente quando lidos em conjunto, apesar de abrangerem séculos e autores distintos."
+      },
+      "epocaPacto": {
+        "es": "Igual que los profetas mayores, ministran bajo la 'Anticipación Profética', pero los Doce añaden un énfasis distintivo: el alcance de la misericordia de Dios hacia las naciones gentiles (Jonás a Nínive), anticipando la inclusión de los gentiles en el pacto de gracia.",
+        "en": "Like the major prophets, they minister under 'Prophetic Anticipation', but the Twelve add a distinctive emphasis: the extent of God's mercy toward the Gentile nations (Jonah to Nineveh), anticipating the inclusion of the Gentiles in the covenant of grace.",
+        "pt": "Como os profetas maiores, ministram sob a 'Antecipação Profética', mas os Doze acrescentam uma ênfase distintiva: o alcance da misericórdia de Deus para as nações gentias (Jonas a Nínive), antecipando a inclusão dos gentios no pacto de graça."
+      },
+      "enfoqueCristologico": {
+        "es": "Miqueas 5:2 profetiza el lugar de nacimiento del Mesías (Mt 2:6). Zacarías profetiza la entrada triunfal (Zac 9:9; Mt 21:5) y el precio de la traición (Zac 11:12-13; Mt 27:9-10). Malaquías anuncia al precursor que prepara el camino (Mal 3:1; 4:5-6), identificado por Jesús con Juan el Bautista (Mt 11:14).",
+        "en": "Micah 5:2 prophesies the Messiah's birthplace (Matt 2:6). Zechariah prophesies the triumphal entry (Zech 9:9; Matt 21:5) and the price of betrayal (Zech 11:12-13; Matt 27:9-10). Malachi announces the forerunner who prepares the way (Mal 3:1; 4:5-6), identified by Jesus with John the Baptist (Matt 11:14).",
+        "pt": "Miquéias 5:2 profetiza o lugar de nascimento do Messias (Mt 2:6). Zacarias profetiza a entrada triunfal (Zc 9:9; Mt 21:5) e o preço da traição (Zc 11:12-13; Mt 27:9-10). Malaquias anuncia o precursor que prepara o caminho (Ml 3:1; 4:5-6), identificado por Jesus com João Batista (Mt 11:14)."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada destaca que estos doce profetas sostienen unánimemente la misma teología del pacto que los profetas mayores: el llamado a la justicia social como fruto necesario de la fe genuina (Am 5:24; Miq 6:8), rechazando tanto el legalismo ritualista sin ética como el activismo social sin doctrina del pecado.",
+        "en": "The Reformed tradition highlights that these twelve prophets unanimously uphold the same covenant theology as the major prophets: the call to social justice as a necessary fruit of genuine faith (Amos 5:24; Mic 6:8), rejecting both ritualistic legalism without ethics and social activism without a doctrine of sin.",
+        "pt": "A tradição reformada destaca que esses doze profetas sustentam unanimemente a mesma teologia da aliança dos profetas maiores: o chamado à justiça social como fruto necessário da fé genuína (Am 5:24; Mq 6:8), rejeitando tanto o legalismo ritualista sem ética quanto o ativismo social sem doutrina do pecado."
+      },
+      "versiculoClave": "Miq 6:8"
+    },
+    {
+      "id": "evangelios",
+      "nombre": {
+        "es": "Evangelios",
+        "en": "Gospels",
+        "pt": "Evangelhos"
+      },
+      "testamento": "Nuevo",
+      "libros": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "color": "#C9A84C",
+      "rango": "Mateo – Juan",
+      "tagline": {
+        "es": "El cumplimiento — la vida, muerte y resurrección de Jesucristo",
+        "en": "The fulfillment — the life, death, and resurrection of Jesus Christ",
+        "pt": "O cumprimento — a vida, morte e ressurreição de Jesus Cristo"
+      },
+      "resumen": {
+        "es": "Cuatro relatos complementarios, no contradictorios, de la persona y obra de Jesucristo: Mateo presenta a Jesús como el Mesías davídico que cumple la Ley y los profetas; Marcos lo retrata como el Siervo activo y sufriente; Lucas enfatiza la compasión universal de Cristo hacia los marginados; Juan, el más tardío y teológicamente explícito, presenta a Jesús como el Verbo eterno encarnado.",
+        "en": "Four complementary, not contradictory, accounts of the person and work of Jesus Christ: Matthew presents Jesus as the Davidic Messiah who fulfills the Law and the prophets; Mark portrays him as the active and suffering Servant; Luke emphasizes Christ's universal compassion toward the marginalized; John, the latest and most theologically explicit, presents Jesus as the eternal Word made flesh.",
+        "pt": "Quatro relatos complementares, não contraditórios, da pessoa e obra de Jesus Cristo: Mateus apresenta Jesus como o Messias davídico que cumpre a Lei e os profetas; Marcos o retrata como o Servo ativo e sofredor; Lucas enfatiza a compaixão universal de Cristo pelos marginalizados; João, o mais tardio e teologicamente explícito, apresenta Jesus como o Verbo eterno encarnado."
+      },
+      "fondoHistorico": {
+        "es": "Los tres evangelios sinópticos comparten estrecha relación literaria — la posición mayoritaria reformada-evangélica sostiene la prioridad de Marcos (c. 55-65 d.C.) como fuente más temprana. Los evangelios fueron escritos dentro de la generación de testigos oculares (c. 55-90 d.C.), demasiado pronto para el desarrollo legendario que la crítica liberal del s. XIX propuso. El Papiro P52 (fragmento de Juan, c. 125 d.C., hallado en Egipto) confirma una circulación temprana del cuarto evangelio.",
+        "en": "The three Synoptic Gospels share a close literary relationship — the majority evangelical-Reformed position upholds Markan priority (c. 55–65 AD) as the earliest source. The Gospels were written within the generation of eyewitnesses (c. 55–90 AD), too soon for the legendary development that 19th-century liberal criticism proposed. Papyrus P52 (a fragment of John, c. 125 AD, found in Egypt) confirms early circulation of the fourth Gospel.",
+        "pt": "Os três evangelhos sinópticos compartilham uma estreita relação literária — a posição majoritária evangélica-reformada sustenta a prioridade marcana (c. 55–65 d.C.) como a fonte mais antiga. Os evangelhos foram escritos dentro da geração das testemunhas oculares (c. 55–90 d.C.), cedo demais para o desenvolvimento lendário que a crítica liberal do séc. XIX propôs. O Papiro P52 (fragmento de João, c. 125 d.C., encontrado no Egito) confirma a circulação precoce do quarto evangelho."
+      },
+      "porQueAgrupados": {
+        "es": "Comparten género (bios greco-romano aplicado teológicamente) y sujeto único: la persona de Jesucristo. Forman, junto con Hechos, el centro absoluto del canon — el punto hacia el cual converge todo el AT y del cual fluye todo el NT.",
+        "en": "They share genre (Greco-Roman bios applied theologically) and a single subject: the person of Jesus Christ. Together with Acts, they form the absolute center of the canon — the point toward which all the OT converges and from which all the NT flows.",
+        "pt": "Compartilham gênero (bios greco-romano aplicado teologicamente) e sujeito único: a pessoa de Jesus Cristo. Juntamente com Atos, formam o centro absoluto do cânon — o ponto para o qual todo o AT converge e do qual todo o NT flui."
+      },
+      "epocaPacto": {
+        "es": "Esta es la época del 'Cumplimiento' (Vos): el Reino de Dios irrumpe en la historia en la persona de Cristo. El Nuevo Pacto profetizado por Jeremías 31 se inaugura literalmente en la Última Cena (Mt 26:28; Lc 22:20) y se sella con la muerte y resurrección de Cristo.",
+        "en": "This is the era of 'Fulfillment' (Vos): the Kingdom of God breaks into history in the person of Christ. The New Covenant prophesied in Jeremiah 31 is literally inaugurated at the Last Supper (Matt 26:28; Luke 22:20) and sealed by Christ's death and resurrection.",
+        "pt": "Esta é a época do 'Cumprimento' (Vos): o Reino de Deus irrompe na história na pessoa de Cristo. A Nova Aliança profetizada em Jeremias 31 é literalmente inaugurada na Última Ceia (Mt 26:28; Lc 22:20) e selada pela morte e ressurreição de Cristo."
+      },
+      "enfoqueCristologico": {
+        "es": "Los evangelios son, por definición, el centro cristológico absoluto del canon: cada palabra y acción de Cristo cumple las Escrituras del AT ('para que se cumpliese' aparece repetidamente en Mateo) y establece el fundamento histórico sobre el cual descansa toda la doctrina apostólica posterior.",
+        "en": "The Gospels are, by definition, the absolute christological center of the canon: every word and action of Christ fulfills the OT Scriptures ('that it might be fulfilled' appears repeatedly in Matthew) and establishes the historical foundation on which all subsequent apostolic doctrine rests.",
+        "pt": "Os evangelhos são, por definição, o centro cristológico absoluto do cânon: cada palavra e ação de Cristo cumpre as Escrituras do AT ('para que se cumprisse' aparece repetidamente em Mateus) e estabelece o fundamento histórico sobre o qual repousa toda a doutrina apostólica posterior."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada insiste en la armonía sustancial — no la identidad verbal mecánica — de los cuatro evangelios como testigos complementarios e inspirados del mismo Cristo histórico, rechazando tanto la armonización forzada que ignora el énfasis teológico de cada evangelista como la crítica que disuelve su fiabilidad histórica.",
+        "en": "The Reformed tradition insists on the substantial harmony — not mechanical verbal identity — of the four Gospels as complementary, inspired witnesses to the same historical Christ, rejecting both forced harmonization that ignores each evangelist's theological emphasis and criticism that dissolves their historical reliability.",
+        "pt": "A tradição reformada insiste na harmonia substancial — não na identidade verbal mecânica — dos quatro evangelhos como testemunhos complementares e inspirados do mesmo Cristo histórico, rejeitando tanto a harmonização forçada que ignora a ênfase teológica de cada evangelista quanto a crítica que dissolve sua confiabilidade histórica."
+      },
+      "versiculoClave": "Jn 1:14"
+    },
+    {
+      "id": "historia-nt",
+      "nombre": {
+        "es": "Historia",
+        "en": "History",
+        "pt": "História"
+      },
+      "testamento": "Nuevo",
+      "libros": [
+        44
+      ],
+      "color": "#1B6B5E",
+      "rango": "Hechos",
+      "tagline": {
+        "es": "El nacimiento y expansión de la iglesia apostólica",
+        "en": "The birth and expansion of the apostolic church",
+        "pt": "O nascimento e expansão da igreja apostólica"
+      },
+      "resumen": {
+        "es": "Un solo libro — Hechos de los Apóstoles, segundo volumen de la obra de Lucas — que narra la expansión del evangelio desde Jerusalén hasta Roma a través de la obra del Espíritu Santo, desde Pentecostés hasta el encarcelamiento de Pablo en Roma (c. 30-62 d.C.), documentando el nacimiento de la iglesia y la formación de las primeras comunidades cristianas gentiles.",
+        "en": "A single book — Acts of the Apostles, the second volume of Luke's work — narrating the expansion of the gospel from Jerusalem to Rome through the work of the Holy Spirit, from Pentecost to Paul's imprisonment in Rome (c. 30–62 AD), documenting the birth of the church and the formation of the first Gentile Christian communities.",
+        "pt": "Um único livro — Atos dos Apóstolos, segundo volume da obra de Lucas — que narra a expansão do evangelho de Jerusalém até Roma pela obra do Espírito Santo, desde o Pentecostes até o encarceramento de Paulo em Roma (c. 30–62 d.C.), documentando o nascimento da igreja e a formação das primeiras comunidades cristãs gentias."
+      },
+      "fondoHistorico": {
+        "es": "Hechos demuestra una precisión historiográfica notable, confirmada por la arqueología: los títulos políticos exactos para cada región (procónsul en Chipre y Acaya; asiarcas en Éfeso) que cambiaban según el estatus romano de cada provincia, verificados por inscripciones; la mención del hambre bajo Claudio (Hch 11:28), corroborada por Suetonio y Josefo; y la expulsión de judíos de Roma por el edicto de Claudio (Hch 18:2), confirmada por Suetonio.",
+        "en": "Acts demonstrates remarkable historiographic precision, confirmed by archaeology: the exact political titles for each region (proconsul in Cyprus and Achaia; Asiarchs in Ephesus) that changed according to each province's Roman status, verified by inscriptions; the mention of the famine under Claudius (Acts 11:28), corroborated by Suetonius and Josephus; and the expulsion of Jews from Rome by Claudius's edict (Acts 18:2), confirmed by Suetonius.",
+        "pt": "Atos demonstra uma notável precisão historiográfica, confirmada pela arqueologia: os títulos políticos exatos para cada região (procônsul em Chipre e Acaia; asiarcas em Éfeso) que variavam conforme o status romano de cada província, verificados por inscrições; a menção da fome sob Cláudio (At 11:28), corroborada por Suetônio e Josefo; e a expulsão dos judeus de Roma pelo edito de Cláudio (At 18:2), confirmada por Suetônio."
+      },
+      "porQueAgrupados": {
+        "es": "Constituye su propia categoría porque no es evangelio ni epístola sino historiografía eclesial: el puente narrativo indispensable entre el ministerio terrenal de Cristo y las cartas apostólicas que presuponen las iglesias que Hechos describe estar fundándose.",
+        "en": "It constitutes its own category because it is neither Gospel nor epistle but ecclesiastical historiography: the indispensable narrative bridge between Christ's earthly ministry and the apostolic letters that presuppose the churches Acts describes being founded.",
+        "pt": "Constitui sua própria categoria porque não é evangelho nem epístola, mas historiografia eclesiástica: a ponte narrativa indispensável entre o ministério terreno de Cristo e as cartas apostólicas que pressupõem as igrejas que Atos descreve sendo fundadas."
+      },
+      "epocaPacto": {
+        "es": "Sigue dentro del 'Cumplimiento', pero documenta su aplicación expansiva: el derramamiento del Espíritu en Pentecostés (Hch 2) inaugura la era de la iglesia, y el Concilio de Jerusalén (Hch 15) resuelve formalmente que el Nuevo Pacto incluye a los gentiles sin las obras de la Ley mosaica.",
+        "en": "It remains within the era of 'Fulfillment', but documents its expansive application: the outpouring of the Spirit at Pentecost (Acts 2) inaugurates the age of the church, and the Jerusalem Council (Acts 15) formally resolves that the New Covenant includes Gentiles apart from the works of the Mosaic Law.",
+        "pt": "Permanece dentro do 'Cumprimento', mas documenta sua aplicação expansiva: o derramamento do Espírito no Pentecostes (At 2) inaugura a era da igreja, e o Concílio de Jerusalém (At 15) resolve formalmente que a Nova Aliança inclui os gentios sem as obras da Lei mosaica."
+      },
+      "enfoqueCristologico": {
+        "es": "Hechos documenta al Cristo resucitado y ascendido continuando su obra desde el cielo a través de su Espíritu y su iglesia ('todas las cosas que Jesús comenzó a hacer y a enseñar', Hch 1:1). Los sermones apostólicos son consistentemente cristocéntricos, centrados en la muerte, resurrección y señorío de Cristo conforme a las Escrituras.",
+        "en": "Acts documents the risen and ascended Christ continuing his work from heaven through his Spirit and his church ('all that Jesus began to do and to teach', Acts 1:1). The apostolic sermons are consistently Christ-centered, focused on Christ's death, resurrection, and lordship according to the Scriptures.",
+        "pt": "Atos documenta o Cristo ressurreto e ascendido continuando sua obra do céu por meio de seu Espírito e sua igreja ('todas as coisas que Jesus começou a fazer e a ensinar', At 1:1). Os sermões apostólicos são consistentemente cristocêntricos, centrados na morte, ressurreição e senhorio de Cristo segundo as Escrituras."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee Hechos como el registro normativo — no necesariamente repetible en cada detalle — de la fundación apostólica de la iglesia, distinguiendo entre lo descriptivo (lo que ocurrió en la era fundacional apostólica) y lo prescriptivo (lo que la iglesia debe practicar permanentemente).",
+        "en": "The Reformed tradition reads Acts as the normative — not necessarily repeatable in every detail — record of the apostolic founding of the church, distinguishing between what is descriptive (what occurred in the foundational apostolic era) and what is prescriptive (what the church must practice permanently).",
+        "pt": "A tradição reformada lê Atos como o registro normativo — não necessariamente repetível em cada detalhe — da fundação apostólica da igreja, distinguindo entre o descritivo (o que ocorreu na era apostólica fundacional) e o prescritivo (o que a igreja deve praticar permanentemente)."
+      },
+      "versiculoClave": "Hch 1:8"
+    },
+    {
+      "id": "paulinas",
+      "nombre": {
+        "es": "Epístolas Paulinas",
+        "en": "Pauline Epistles",
+        "pt": "Epístolas Paulinas"
+      },
+      "testamento": "Nuevo",
+      "libros": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "color": "#6B5B95",
+      "rango": "Romanos – Filemón",
+      "tagline": {
+        "es": "La teología sistemática del evangelio — justificación, iglesia y vida cristiana",
+        "en": "The systematic theology of the gospel — justification, church, and the Christian life",
+        "pt": "A teologia sistemática do evangelho — justificação, igreja e vida cristã"
+      },
+      "resumen": {
+        "es": "Trece cartas atribuidas al apóstol Pablo (incluida Hebreos en algunas tradiciones) que constituyen el cuerpo doctrinal más rico del NT. Cubren la justificación por la fe (Romanos, Gálatas), la eclesiología (Efesios, Corintios), la escatología (Tesalonicenses), la cristología (Colosenses, Filipenses) y la vida pastoral (las Pastorales). Juntas forman la columna vertebral doctrinal del protestantismo reformado.",
+        "en": "Thirteen letters attributed to the Apostle Paul (including Hebrews in some traditions) that constitute the richest doctrinal corpus of the NT. They cover justification by faith (Romans, Galatians), ecclesiology (Ephesians, Corinthians), eschatology (Thessalonians), Christology (Colossians, Philippians), and pastoral life (the Pastorals). Together they form the doctrinal backbone of Reformed Protestantism.",
+        "pt": "Treze cartas atribuídas ao apóstolo Paulo (incluindo Hebreus em algumas tradições) que constituem o corpus doutrinal mais rico do NT. Cobrem a justificação pela fé (Romanos, Gálatas), a eclesiologia (Efésios, Coríntios), a escatologia (Tessalonicenses), a cristologia (Colossenses, Filipenses) e a vida pastoral (as Pastorais). Juntas formam a espinha dorsal doutrinal do protestantismo reformado."
+      },
+      "fondoHistorico": {
+        "es": "Escritas entre c. 48–67 d.C. durante los tres viajes misioneros de Pablo y su encarcelamiento romano, las epístolas paulinas son los documentos más tempranos del NT (1 Tesalonicenses, c. 48 d.C., es probablemente el documento cristiano escrito más antiguo que se conserva). Su autenticidad ha sido confirmada por el estudio de sus características estilísticas, su coherencia teológica interna y su recepción temprana en el canon.",
+        "en": "Written between c. 48–67 AD during Paul's three missionary journeys and his Roman imprisonment, the Pauline epistles are the earliest documents of the NT (1 Thessalonians, c. 48 AD, is probably the oldest surviving written Christian document). Their authenticity has been confirmed by study of their stylistic characteristics, internal theological consistency, and early reception in the canon.",
+        "pt": "Escritas entre c. 48–67 d.C. durante as três viagens missionárias de Paulo e seu encarceramento romano, as epístolas paulinas são os documentos mais antigos do NT (1 Tessalonicenses, c. 48 d.C., é provavelmente o documento cristão escrito mais antigo que se conserva). Sua autenticidade tem sido confirmada pelo estudo de suas características estilísticas, coerência teológica interna e recepção precoce no cânon."
+      },
+      "porQueAgrupados": {
+        "es": "Comparten autoría apostólica unificada (Pablo), formato epistolar grecoromano aplicado a la instrucción teológica y pastoral, y un corpus doctrinal coherente que se complementa internamente (p.ej., Romanos elabora lo que Gálatas enuncia). Son la voz apostólica directa que interpreta el significado del evangelio para la iglesia.",
+        "en": "They share unified apostolic authorship (Paul), the Greco-Roman epistolary format applied to theological and pastoral instruction, and a coherent doctrinal corpus that complements itself internally (e.g., Romans elaborates what Galatians states). They are the direct apostolic voice that interprets the meaning of the gospel for the church.",
+        "pt": "Compartilham autoria apostólica unificada (Paulo), o formato epistolar greco-romano aplicado à instrução teológica e pastoral, e um corpus doutrinal coerente que se complementa internamente (p.ex., Romanos elabora o que Gálatas enuncia). São a voz apostólica direta que interpreta o significado do evangelho para a igreja."
+      },
+      "epocaPacto": {
+        "es": "Las epístolas paulinas son la exposición teológica autorizada del Nuevo Pacto inaugurado en Cristo: desarrollan con profundidad conceptos como justificación (imputación de la justicia de Cristo), adopción filial, unión con Cristo, los sacramentos del pacto (bautismo y Cena), y el papel del Israel del Nuevo Pacto (la iglesia) en el plan redentor.",
+        "en": "The Pauline epistles are the authorized theological exposition of the New Covenant inaugurated in Christ: they develop in depth concepts such as justification (imputation of Christ's righteousness), filial adoption, union with Christ, the covenant sacraments (baptism and the Supper), and the role of the New Covenant Israel (the church) in the redemptive plan.",
+        "pt": "As epístolas paulinas são a exposição teológica autorizada da Nova Aliança inaugurada em Cristo: desenvolvem em profundidade conceitos como justificação (imputação da justiça de Cristo), adoção filial, união com Cristo, os sacramentos da aliança (batismo e Ceia), e o papel do Israel da Nova Aliança (a igreja) no plano redentor."
+      },
+      "enfoqueCristologico": {
+        "es": "Pablo desarrolla la cristología más sistemática del NT: Cristo como postrer Adán (Ro 5; 1Co 15), como imagen del Dios invisible (Col 1:15), como exaltado Señor cósmico (Fil 2:6-11), y como nuestra justicia, santificación y redención (1Co 1:30). La unión con Cristo es el eje alrededor del cual gira toda la soteriología paulina.",
+        "en": "Paul develops the most systematic Christology in the NT: Christ as the last Adam (Rom 5; 1 Cor 15), as the image of the invisible God (Col 1:15), as the exalted cosmic Lord (Phil 2:6–11), and as our righteousness, sanctification, and redemption (1 Cor 1:30). Union with Christ is the axis around which all Pauline soteriology revolves.",
+        "pt": "Paulo desenvolve a cristologia mais sistemática do NT: Cristo como último Adão (Rm 5; 1Co 15), como imagem do Deus invisível (Cl 1:15), como exaltado Senhor cósmico (Fp 2:6-11), e como nossa justiça, santificação e redenção (1Co 1:30). A união com Cristo é o eixo em torno do qual gira toda a soteriologia paulina."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada es esencialmente paulina en su doctrina de la salvación: 'sola fide, sola gratia, solo Christo'. La lectura reformada de Romanos y Gálatas (justificación como declaración forense, no transformación moral) definió la Reforma del siglo XVI y sigue siendo el eje de la distinción protestante respecto al catolicismo romano y al protestantismo arminiano.",
+        "en": "The Reformed tradition is essentially Pauline in its doctrine of salvation: 'sola fide, sola gratia, solo Christo'. The Reformed reading of Romans and Galatians (justification as forensic declaration, not moral transformation) defined the 16th-century Reformation and remains the axis of the Protestant distinction from Roman Catholicism and Arminian Protestantism.",
+        "pt": "A tradição reformada é essencialmente paulina em sua doutrina da salvação: 'sola fide, sola gratia, solo Christo'. A leitura reformada de Romanos e Gálatas (justificação como declaração forense, não transformação moral) definiu a Reforma do século XVI e permanece o eixo da distinção protestante em relação ao catolicismo romano e ao protestantismo arminiano."
+      },
+      "versiculoClave": "Ro 1:17"
+    },
+    {
+      "id": "generales",
+      "nombre": {
+        "es": "Epístolas Generales",
+        "en": "General Epistles",
+        "pt": "Epístolas Gerais"
+      },
+      "testamento": "Nuevo",
+      "libros": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "color": "#8B6914",
+      "rango": "Hebreos – Judas",
+      "tagline": {
+        "es": "La fe probada — perseverancia, sabiduría y pureza en la iglesia dispersa",
+        "en": "Tested faith — perseverance, wisdom, and purity in the scattered church",
+        "pt": "A fé provada — perseverança, sabedoria e pureza na igreja dispersa"
+      },
+      "resumen": {
+        "es": "Ocho cartas (Hebreos, Santiago, 1-2 Pedro, 1-3 Juan, Judas) dirigidas a la iglesia en general (no a una congregación específica), que abordan el sufrimiento, la perseverancia en la fe, el peligro de las falsas enseñanzas, la conducta ética y el conocimiento de Dios. Hebreos es el gran tratado sobre el sacerdocio de Cristo; las Juaninas profundizan el amor y la verdad.",
+        "en": "Eight letters (Hebrews, James, 1–2 Peter, 1–3 John, Jude) addressed to the church in general (not a specific congregation), addressing suffering, perseverance in faith, the danger of false teaching, ethical conduct, and the knowledge of God. Hebrews is the great treatise on Christ's priesthood; the Johannine letters deepen love and truth.",
+        "pt": "Oito cartas (Hebreus, Tiago, 1-2 Pedro, 1-3 João, Judas) dirigidas à igreja em geral (não a uma congregação específica), abordando o sofrimento, a perseverança na fé, o perigo das falsas doutrinas, a conduta ética e o conhecimento de Deus. Hebreus é o grande tratado sobre o sacerdócio de Cristo; as cartas joaninas aprofundam o amor e a verdade."
+      },
+      "fondoHistorico": {
+        "es": "La mayoría de estas cartas fueron escritas durante el período de persecución pre-70 d.C. (bajo Nerón) o post-70 (bajo Domiciano), cuando las comunidades judeo-cristinas enfrentaban presión para apostatar. Hebreos y 1 Pedro son las más ricas en aplicación de la tipología del AT a la realidad de Cristo.",
+        "en": "Most of these letters were written during the pre-70 AD persecution period (under Nero) or post-70 (under Domitian), when Jewish-Christian communities faced pressure to apostatize. Hebrews and 1 Peter are the richest in applying OT typology to the reality of Christ.",
+        "pt": "A maioria dessas cartas foi escrita durante o período de perseguição pré-70 d.C. (sob Nero) ou pós-70 (sob Domiciano), quando as comunidades judeu-cristãs enfrentavam pressão para apostatar. Hebreus e 1 Pedro são as mais ricas em aplicação da tipologia do AT à realidade de Cristo."
+      },
+      "porQueAgrupados": {
+        "es": "Comparten carácter general (destinadas a la iglesia dispersa, no a una comunidad local específica), temas de fidelidad bajo presión y el peligro de la apostasía, y autoría no paulina (Pedro, Juan, Santiago, Judas, el anónimo autor de Hebreos). Son la voz apostólica universal para la iglesia peregrina.",
+        "en": "They share a general character (addressed to the scattered church, not a specific local community), themes of faithfulness under pressure and the danger of apostasy, and non-Pauline authorship (Peter, John, James, Jude, the anonymous author of Hebrews). They are the universal apostolic voice for the pilgrim church.",
+        "pt": "Compartilham caráter geral (destinadas à igreja dispersa, não a uma comunidade local específica), temas de fidelidade sob pressão e o perigo da apostasia, e autoria não paulina (Pedro, João, Tiago, Judas, o anônimo autor de Hebreus). São a voz apostólica universal para a igreja peregrina."
+      },
+      "epocaPacto": {
+        "es": "Hebreos es la exposición teológica suprema de la relación Antiguo–Nuevo Pacto: Cristo como sumo sacerdote del orden de Melquisedec, cuyo sacrificio definitivo hace obsoleto el sistema levítico (He 8:13). Las demás cartas asumen y aplican esta realidad del Nuevo Pacto a la vida cotidiana de la iglesia.",
+        "en": "Hebrews is the supreme theological exposition of the Old–New Covenant relationship: Christ as high priest after the order of Melchizedek, whose definitive sacrifice renders the Levitical system obsolete (Heb 8:13). The other letters assume and apply this New Covenant reality to the daily life of the church.",
+        "pt": "Hebreus é a exposição teológica suprema da relação Antigo–Novo Pacto: Cristo como sumo sacerdote segundo a ordem de Melquisedeque, cujo sacrifício definitivo torna obsoleto o sistema levítico (Hb 8:13). As demais cartas assumem e aplicam essa realidade da Nova Aliança à vida cotidiana da igreja."
+      },
+      "enfoqueCristologico": {
+        "es": "Hebreos presenta la cristología más sacerdotal del NT: Jesús como el gran Sumo Sacerdote que se ofreció a sí mismo como sacrificio perfecto y permanece intercediendo eternamente por su pueblo (He 7:25). 1 Juan desarrolla la encarnación como fundamento de la comunión con Dios (1Jn 1:1-4).",
+        "en": "Hebrews presents the most priestly Christology in the NT: Jesus as the great High Priest who offered himself as the perfect sacrifice and remains eternally interceding for his people (Heb 7:25). 1 John develops the incarnation as the foundation of fellowship with God (1 John 1:1–4).",
+        "pt": "Hebreus apresenta a cristologia mais sacerdotal do NT: Jesus como o grande Sumo Sacerdote que se ofereceu como sacrifício perfeito e permanece eternamente intercedendo por seu povo (Hb 7:25). 1 João desenvolve a encarnação como fundamento da comunhão com Deus (1Jo 1:1-4)."
+      },
+      "distintivaReformada": {
+        "es": "La hermenéutica reformada de Hebreos — que ve todo el sistema ceremonial del AT como sombra tipológica de Cristo — ha definido la lectura reformada de toda la Biblia. Calvino comentó casi todas estas cartas, encontrando en ellas la continuidad y discontinuidad precisa entre los dos testamentos que caracteriza la teología del pacto reformada.",
+        "en": "The Reformed hermeneutic of Hebrews — seeing all of the OT ceremonial system as typological shadow of Christ — has defined the Reformed reading of the entire Bible. Calvin commented on nearly all these letters, finding in them the precise continuity and discontinuity between the two testaments that characterizes Reformed covenant theology.",
+        "pt": "A hermenêutica reformada de Hebreus — que vê todo o sistema cerimonial do AT como sombra tipológica de Cristo — definiu a leitura reformada de toda a Bíblia. Calvino comentou quase todas essas cartas, encontrando nelas a precisa continuidade e descontinuidade entre os dois testamentos que caracteriza a teologia do pacto reformada."
+      },
+      "versiculoClave": "He 4:14-16"
+    },
+    {
+      "id": "profecia",
+      "nombre": {
+        "es": "Profecía",
+        "en": "Prophecy",
+        "pt": "Profecia"
+      },
+      "testamento": "Nuevo",
+      "libros": [
+        66
+      ],
+      "color": "#8B0000",
+      "rango": "Apocalipsis",
+      "tagline": {
+        "es": "La consumación — la victoria final de Cristo y la renovación de todas las cosas",
+        "en": "The consummation — the final victory of Christ and the renewal of all things",
+        "pt": "A consumação — a vitória final de Cristo e a renovação de todas as coisas"
+      },
+      "resumen": {
+        "es": "Un único libro — el Apocalipsis de Juan — escrito en el género del apocalipsis judeo-cristiano mediante visiones simbólicas, presentando la victoria final y cósmica del Cordero sobre todos sus enemigos y el establecimiento definitivo del reino de Dios en la nueva creación. Es, a la vez, carta pastoral a siete iglesias bajo persecución romana (c. 95 d.C.) y la visión más amplia de la historia universal redimida.",
+        "en": "A single book — the Apocalypse of John — written in the genre of Jewish-Christian apocalyptic through symbolic visions, presenting the final and cosmic victory of the Lamb over all his enemies and the definitive establishment of God's kingdom in the new creation. It is simultaneously a pastoral letter to seven churches under Roman persecution (c. 95 AD) and the broadest vision of redeemed universal history.",
+        "pt": "Um único livro — o Apocalipse de João — escrito no gênero do apocalipse judeu-cristão mediante visões simbólicas, apresentando a vitória final e cósmica do Cordeiro sobre todos os seus inimigos e o estabelecimento definitivo do reino de Deus na nova criação. É, ao mesmo tempo, carta pastoral a sete igrejas sob perseguição romana (c. 95 d.C.) e a visão mais ampla da história universal redimida."
+      },
+      "fondoHistorico": {
+        "es": "Escrito probablemente bajo Domiciano (c. 95 d.C.), cuando el culto imperial romano exigía que los creyentes confesaran 'César es Señor'. El simbolismo numérico (666, 144.000, los 7 sellos) es lenguaje en código comprensible para lectores del s. I familiarizados con el apocalipticismo judío, no predicciones codificadas para el siglo XXI.",
+        "en": "Probably written under Domitian (c. 95 AD), when the Roman imperial cult demanded that believers confess 'Caesar is Lord'. The numerical symbolism (666, 144,000, the 7 seals) is coded language comprehensible to 1st-century readers familiar with Jewish apocalypticism, not encoded predictions for the 21st century.",
+        "pt": "Provavelmente escrito sob Domiciano (c. 95 d.C.), quando o culto imperial romano exigia que os crentes confessassem 'César é Senhor'. O simbolismo numérico (666, 144.000, os 7 selos) é linguagem codificada compreensível para leitores do séc. I familiarizados com o apocalipticismo judeu, não predições codificadas para o século XXI."
+      },
+      "porQueAgrupados": {
+        "es": "Es su propia categoría canónica por su género único (apocalipsis) y su función canónica: cierra la narración redentora que el Génesis abrió. El jardín perdido del Edén (Gn 2-3) es restaurado y superado en la nueva Jerusalén (Ap 21-22).",
+        "en": "It is its own canonical category due to its unique genre (apocalyptic) and canonical function: it closes the redemptive narrative that Genesis opened. The lost garden of Eden (Gen 2–3) is restored and surpassed in the new Jerusalem (Rev 21–22).",
+        "pt": "É sua própria categoria canônica por seu gênero único (apocalipse) e sua função canônica: fecha a narrativa redentora que Gênesis abriu. O jardim perdido do Éden (Gn 2-3) é restaurado e superado na nova Jerusalém (Ap 21-22)."
+      },
+      "epocaPacto": {
+        "es": "Apocalipsis describe la consumación del pacto: el 'tabernáculo de Dios con los hombres' (Ap 21:3) cumple la promesa 'seré su Dios y ellos serán mi pueblo' que recorre toda la Biblia desde Abraham. El matrimonio del Cordero (Ap 19) sella definitivamente el Nuevo Pacto.",
+        "en": "Revelation describes the consummation of the covenant: the 'tabernacle of God with men' (Rev 21:3) fulfills the promise 'I will be their God and they will be my people' that runs through the entire Bible from Abraham. The wedding of the Lamb (Rev 19) definitively seals the New Covenant.",
+        "pt": "Apocalipse descreve a consumação da aliança: o 'tabernáculo de Deus com os homens' (Ap 21:3) cumpre a promessa 'serei o seu Deus e eles serão o meu povo' que percorre toda a Bíblia desde Abraão. O casamento do Cordeiro (Ap 19) sela definitivamente a Nova Aliança."
+      },
+      "enfoqueCristologico": {
+        "es": "Cristo aparece como el Cordero que fue inmolado pero está de pie (Ap 5:6) — la paradoja central de la redención. Él es simultáneamente el León de Judá (dominio real) y el Cordero (sacrificio expiatorio), el Alfa y la Omega, el primero y el último, el principio y el fin (Ap 22:13).",
+        "en": "Christ appears as the Lamb who was slain but is standing (Rev 5:6) — the central paradox of redemption. He is simultaneously the Lion of Judah (royal dominion) and the Lamb (expiatory sacrifice), the Alpha and the Omega, the first and the last, the beginning and the end (Rev 22:13).",
+        "pt": "Cristo aparece como o Cordeiro que foi imolado mas está de pé (Ap 5:6) — o paradoxo central da redenção. Ele é simultaneamente o Leão de Judá (domínio real) e o Cordeiro (sacrifício expiatório), o Alfa e o Ômega, o primeiro e o último, o princípio e o fim (Ap 22:13)."
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada mayoritaria adopta el amilenialismo (Berkhof, Bavinck, Vos, Riddlebarger): el reino de Cristo ya reina espiritualmente en esta era (el 'milenio' es el período entre la ascensión y la parusía), rechazando el dispensacionalismo y su interpretación ultraliteral de los números apocalípticos. Apocalipsis es ante todo una carta pastoral de consolación a la iglesia perseguida, no un calendario de profecías literales futuras.",
+        "en": "The majority Reformed tradition adopts amillennialism (Berkhof, Bavinck, Vos, Riddlebarger): Christ's kingdom already reigns spiritually in this age (the 'millennium' is the period between the ascension and the parousia), rejecting dispensationalism and its hyperliteral interpretation of apocalyptic numbers. Revelation is above all a pastoral letter of consolation to the persecuted church, not a calendar of literal future prophecies.",
+        "pt": "A tradição reformada majoritária adota o amilenialismo (Berkhof, Bavinck, Vos, Riddlebarger): o reino de Cristo já reina espiritualmente nesta era (o 'milênio' é o período entre a ascensão e a parúsia), rejeitando o dispensacionalismo e sua interpretação hiperliteral dos números apocalípticos. Apocalipse é antes de tudo uma carta pastoral de consolação à igreja perseguida, não um calendário de profecias literais futuras."
+      },
+      "versiculoClave": "Ap 21:5"
+    }
+  ],
+  "libros": [
+    {
+      "id": 1,
+      "abreviatura": "Gn",
+      "titulo": {
+        "es": "Génesis",
+        "en": "Genesis",
+        "pt": "Gênesis"
+      },
+      "testamento": "Antiguo",
+      "division": "pentateuco",
+      "ordenCanon": 1,
+      "capitulosTotal": 50,
+      "divisionColor": "#4A6741",
+      "disponible": true,
+      "razon": {
+        "es": "Los orígenes: creación, caída, diluvio, y el llamado de los patriarcas. Establece cada doctrina fundacional que el resto del canon desarrollará.",
+        "en": "The origins: creation, the fall, the flood, and the call of the patriarchs. It establishes every foundational doctrine that the rest of the canon will develop.",
+        "pt": "As origens: criação, queda, dilúvio e o chamado dos patriarcas. Estabelece cada doutrina fundacional que o restante do cânon desenvolverá."
+      },
+      "dataFile": "genesis.json"
+    },
+    {
+      "id": 2,
+      "abreviatura": "Éx",
+      "titulo": {
+        "es": "Éxodo",
+        "en": "Exodus",
+        "pt": "Êxodo"
+      },
+      "testamento": "Antiguo",
+      "division": "pentateuco",
+      "ordenCanon": 2,
+      "capitulosTotal": 40,
+      "divisionColor": "#4A6741",
+      "disponible": true,
+      "dataFile": "exodus.json",
+      "razon": {
+        "es": "La redención de Israel de la esclavitud egipcia y la entrega de la Ley en Sinaí — el patrón redentor (liberación + pacto) que estructura toda la soteriología bíblica.",
+        "en": "The redemption of Israel from Egyptian slavery and the giving of the Law at Sinai — the redemptive pattern (liberation + covenant) that structures all biblical soteriology.",
+        "pt": "A redenção de Israel da escravidão egípcia e a entrega da Lei no Sinai — o padrão redentor (libertação + aliança) que estrutura toda a soteriologia bíblica."
+      }
+    },
+    {
+      "id": 3,
+      "abreviatura": "Lv",
+      "titulo": {
+        "es": "Levítico",
+        "en": "Leviticus",
+        "pt": "Levítico"
+      },
+      "testamento": "Antiguo",
+      "division": "pentateuco",
+      "ordenCanon": 3,
+      "capitulosTotal": 27,
+      "divisionColor": "#4A6741",
+      "disponible": true,
+      "dataFile": "leviticus.json",
+      "razon": {
+        "es": "El código de santidad y el sistema sacrificial que regula cómo un pueblo pecador puede acercarse a un Dios santo — la base tipológica de la obra expiatoria de Cristo.",
+        "en": "The holiness code and sacrificial system regulating how a sinful people may approach a holy God — the typological foundation of Christ's atoning work.",
+        "pt": "O código de santidade e o sistema sacrificial que regula como um povo pecador pode se aproximar de um Deus santo — a base tipológica da obra expiatória de Cristo."
+      }
+    },
+    {
+      "id": 4,
+      "abreviatura": "Nm",
+      "titulo": {
+        "es": "Números",
+        "en": "Numbers",
+        "pt": "Números"
+      },
+      "testamento": "Antiguo",
+      "division": "pentateuco",
+      "ordenCanon": 4,
+      "capitulosTotal": 36,
+      "divisionColor": "#4A6741",
+      "disponible": true,
+      "razon": {
+        "es": "El censo y la peregrinación de cuarenta años por el desierto: el juicio sobre la incredulidad de una generación y la fidelidad de Dios para preservar a la siguiente.",
+        "en": "The census and forty-year wilderness wandering: judgment on one generation's unbelief and God's faithfulness to preserve the next.",
+        "pt": "O recenseamento e a peregrinação de quarenta anos pelo deserto: o julgamento sobre a incredulidade de uma geração e a fidelidade de Deus em preservar a seguinte."
+      },
+      "dataFile": "numbers.json"
+    },
+    {
+      "id": 5,
+      "abreviatura": "Dt",
+      "titulo": {
+        "es": "Deuteronomio",
+        "en": "Deuteronomy",
+        "pt": "Deuteronômio"
+      },
+      "testamento": "Antiguo",
+      "division": "pentateuco",
+      "ordenCanon": 5,
+      "capitulosTotal": 34,
+      "divisionColor": "#4A6741",
+      "disponible": true,
+      "razon": {
+        "es": "El segundo discurso de la Ley, renovación del pacto en la frontera de Canaán — estructurado como un tratado de vasallaje del ANE, cierra el Pentateuco con la muerte de Moisés.",
+        "en": "The second discourse of the Law, covenant renewal at the border of Canaan — structured as an ANE suzerainty treaty, closing the Pentateuch with the death of Moses.",
+        "pt": "O segundo discurso da Lei, renovação da aliança na fronteira de Canaã — estruturado como um tratado de suserania do ANO, encerrando o Pentateuco com a morte de Moisés."
+      },
+      "dataFile": "deuteronomy.json"
+    },
+    {
+      "id": 6,
+      "abreviatura": "Jos",
+      "titulo": {
+        "es": "Josué",
+        "en": "Joshua",
+        "pt": "Josué"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 6,
+      "capitulosTotal": 24,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "La conquista de Canaán: cumplimiento de la promesa de la tierra hecha a Abraham, bajo el sucesor de Moisés cuyo nombre (Yehoshua) es la forma hebrea de 'Jesús'.",
+        "en": "The conquest of Canaan: fulfillment of the promise of the land made to Abraham, under Moses' successor whose name (Yehoshua) is the Hebrew form of 'Jesus'.",
+        "pt": "A conquista de Canaã: cumprimento da promessa da terra feita a Abraão, sob o sucessor de Moisés cujo nome (Yehoshua) é a forma hebraica de 'Jesus'."
+      }
+    },
+    {
+      "id": 7,
+      "abreviatura": "Jue",
+      "titulo": {
+        "es": "Jueces",
+        "en": "Judges",
+        "pt": "Juízes"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 7,
+      "capitulosTotal": 21,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "El ciclo de apostasía-opresión-clamor-liberación bajo jueces carismáticos, documentando la anarquía espiritual de 'cada uno hacía lo que bien le parecía' sin un rey fiel.",
+        "en": "The cycle of apostasy-oppression-cry-deliverance under charismatic judges, documenting the spiritual anarchy of 'everyone did what was right in their own eyes' without a faithful king.",
+        "pt": "O ciclo de apostasia-opressão-clamor-libertação sob juízes carismáticos, documentando a anarquia espiritual de 'cada um fazia o que parecia certo aos seus próprios olhos' sem um rei fiel."
+      }
+    },
+    {
+      "id": 8,
+      "abreviatura": "Rt",
+      "titulo": {
+        "es": "Rut",
+        "en": "Ruth",
+        "pt": "Rute"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 8,
+      "capitulosTotal": 4,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "Una historia de lealtad pactual (hesed) ambientada en el período de los jueces, que culmina en la genealogía davídica — y por tanto mesiánica.",
+        "en": "A story of covenantal loyalty (hesed) set in the period of the judges, culminating in the Davidic — and therefore messianic — genealogy.",
+        "pt": "Uma história de lealdade pactual (hesed) ambientada no período dos juízes, que culmina na genealogia davídica — e, portanto, messiânica."
+      }
+    },
+    {
+      "id": 9,
+      "abreviatura": "1S",
+      "titulo": {
+        "es": "1 Samuel",
+        "en": "1 Samuel",
+        "pt": "1 Samuel"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 9,
+      "capitulosTotal": 31,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "La transición de jueces a monarquía: el rechazo del liderazgo carismático, la unción de Saúl y su fracaso, y el ascenso de David.",
+        "en": "The transition from judges to monarchy: the rejection of charismatic leadership, the anointing of Saul and his failure, and the rise of David.",
+        "pt": "A transição dos juízes para a monarquia: a rejeição da liderança carismática, a unção de Saul e seu fracasso, e a ascensão de Davi."
+      }
+    },
+    {
+      "id": 10,
+      "abreviatura": "2S",
+      "titulo": {
+        "es": "2 Samuel",
+        "en": "2 Samuel",
+        "pt": "2 Samuel"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 10,
+      "capitulosTotal": 24,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "El reinado de David y el Pacto Davídico (2S 7) — la promesa de una dinastía y un trono eternos, eje mesiánico de toda la historia subsiguiente.",
+        "en": "The reign of David and the Davidic Covenant (2 Sam 7) — the promise of an eternal dynasty and throne, the messianic axis of all subsequent history.",
+        "pt": "O reinado de Davi e o Pacto Davídico (2Sm 7) — a promessa de uma dinastia e um trono eternos, eixo messiânico de toda a história subsequente."
+      }
+    },
+    {
+      "id": 11,
+      "abreviatura": "1R",
+      "titulo": {
+        "es": "1 Reyes",
+        "en": "1 Kings",
+        "pt": "1 Reis"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 11,
+      "capitulosTotal": 22,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "El apogeo de Salomón y la construcción del templo, seguidos por la división del reino tras su apostasía — el inicio de la decadencia dual.",
+        "en": "The pinnacle of Solomon's reign and the building of the temple, followed by the division of the kingdom after his apostasy — the beginning of the dual decline.",
+        "pt": "O apogeu do reinado de Salomão e a construção do templo, seguidos pela divisão do reino após sua apostasia — o início da decadência dual."
+      }
+    },
+    {
+      "id": 12,
+      "abreviatura": "2R",
+      "titulo": {
+        "es": "2 Reyes",
+        "en": "2 Kings",
+        "pt": "2 Reis"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 12,
+      "capitulosTotal": 25,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "La caída de ambos reinos: Israel al exilio asirio (722 a.C.) y Judá al exilio babilónico (586 a.C.) — el juicio pactual cumplido en la historia.",
+        "en": "The fall of both kingdoms: Israel into Assyrian exile (722 BC) and Judah into Babylonian exile (586 BC) — the covenantal judgment fulfilled in history.",
+        "pt": "A queda de ambos os reinos: Israel para o exílio assírio (722 a.C.) e Judá para o exílio babilônico (586 a.C.) — o julgamento pactual cumprido na história."
+      }
+    },
+    {
+      "id": 13,
+      "abreviatura": "1Cr",
+      "titulo": {
+        "es": "1 Crónicas",
+        "en": "1 Chronicles",
+        "pt": "1 Crônicas"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 13,
+      "capitulosTotal": 29,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "Relectura sacerdotal-davídica de la historia para la comunidad postexílica, con genealogías que conectan a Adán con David — reafirmando la promesa pese al exilio.",
+        "en": "A sacerdotal-Davidic re-reading of history for the post-exilic community, with genealogies connecting Adam to David — reaffirming the promise despite the exile.",
+        "pt": "Releitura sacerdotal-davídica da história para a comunidade pós-exílica, com genealogias que conectam Adão a Davi — reafirmando a promessa apesar do exílio."
+      }
+    },
+    {
+      "id": 14,
+      "abreviatura": "2Cr",
+      "titulo": {
+        "es": "2 Crónicas",
+        "en": "2 Chronicles",
+        "pt": "2 Crônicas"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 14,
+      "capitulosTotal": 36,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "Historia del reino del sur con énfasis en el templo y la reforma religiosa, cerrando con el decreto de Ciro que abre la puerta al retorno.",
+        "en": "History of the southern kingdom with emphasis on the temple and religious reform, closing with the decree of Cyrus that opens the door to the return.",
+        "pt": "História do reino do sul com ênfase no templo e na reforma religiosa, encerrando com o decreto de Ciro que abre a porta para o retorno."
+      }
+    },
+    {
+      "id": 15,
+      "abreviatura": "Esd",
+      "titulo": {
+        "es": "Esdras",
+        "en": "Ezra",
+        "pt": "Esdras"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 15,
+      "capitulosTotal": 10,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "El retorno del exilio y la reconstrucción del templo bajo el decreto persa — la fidelidad de Dios para restaurar a un remanente.",
+        "en": "The return from exile and the rebuilding of the temple under the Persian decree — God's faithfulness to restore a remnant.",
+        "pt": "O retorno do exílio e a reconstrução do templo sob o decreto persa — a fidelidade de Deus em restaurar um remanescente."
+      }
+    },
+    {
+      "id": 16,
+      "abreviatura": "Neh",
+      "titulo": {
+        "es": "Nehemías",
+        "en": "Nehemiah",
+        "pt": "Neemias"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 16,
+      "capitulosTotal": 13,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "La reconstrucción de los muros de Jerusalén y la renovación del pacto bajo Esdras y Nehemías, estableciendo la comunidad postexílica.",
+        "en": "The rebuilding of Jerusalem's walls and the renewal of the covenant under Ezra and Nehemiah, establishing the post-exilic community.",
+        "pt": "A reconstrução dos muros de Jerusalém e a renovação da aliança sob Esdras e Neemias, estabelecendo a comunidade pós-exílica."
+      }
+    },
+    {
+      "id": 17,
+      "abreviatura": "Est",
+      "titulo": {
+        "es": "Ester",
+        "en": "Esther",
+        "pt": "Ester"
+      },
+      "testamento": "Antiguo",
+      "division": "historico-at",
+      "ordenCanon": 17,
+      "capitulosTotal": 10,
+      "divisionColor": "#1B5E8B",
+      "disponible": false,
+      "razon": {
+        "es": "La preservación providencial del pueblo judío en la diáspora persa — Dios actúa sin ser mencionado explícitamente, modelo de providencia oculta.",
+        "en": "The providential preservation of the Jewish people in the Persian diaspora — God acts without being explicitly mentioned, a model of hidden providence.",
+        "pt": "A preservação providencial do povo judeu na diáspora persa — Deus age sem ser explicitamente mencionado, modelo de providência oculta."
+      }
+    },
+    {
+      "id": 18,
+      "abreviatura": "Job",
+      "titulo": {
+        "es": "Job",
+        "en": "Job",
+        "pt": "Jó"
+      },
+      "testamento": "Antiguo",
+      "division": "sabiduria",
+      "ordenCanon": 18,
+      "capitulosTotal": 42,
+      "divisionColor": "#6B4A8B",
+      "disponible": false,
+      "razon": {
+        "es": "La pregunta del sufrimiento inocente confrontada sin respuestas fáciles, resuelta no con explicación sino con la revelación de la soberanía y sabiduría incomprensibles de Dios (Job 38–41).",
+        "en": "The question of innocent suffering confronted without easy answers, resolved not with explanation but with the revelation of God's incomprehensible sovereignty and wisdom (Job 38–41).",
+        "pt": "A questão do sofrimento inocente confrontada sem respostas fáceis, resolvida não com explicação, mas com a revelação da soberania e sabedoria incompreensíveis de Deus (Jó 38–41)."
+      }
+    },
+    {
+      "id": 19,
+      "abreviatura": "Sal",
+      "titulo": {
+        "es": "Salmos",
+        "en": "Psalms",
+        "pt": "Salmos"
+      },
+      "testamento": "Antiguo",
+      "division": "sabiduria",
+      "ordenCanon": 19,
+      "capitulosTotal": 150,
+      "divisionColor": "#6B4A8B",
+      "disponible": false,
+      "razon": {
+        "es": "150 oraciones y cánticos que expresan toda la gama de la experiencia humana delante de Dios — lamento, alabanza, confianza, arrepentimiento — el himnario inspirado de la fe del pacto.",
+        "en": "150 prayers and songs expressing the full range of human experience before God — lament, praise, trust, repentance — the inspired hymnal of covenant faith.",
+        "pt": "150 orações e cânticos que expressam toda a gama da experiência humana diante de Deus — lamento, louvor, confiança, arrependimento — o hinário inspirado da fé da aliança."
+      }
+    },
+    {
+      "id": 20,
+      "abreviatura": "Pr",
+      "titulo": {
+        "es": "Proverbios",
+        "en": "Proverbs",
+        "pt": "Provérbios"
+      },
+      "testamento": "Antiguo",
+      "division": "sabiduria",
+      "ordenCanon": 20,
+      "capitulosTotal": 31,
+      "divisionColor": "#6B4A8B",
+      "disponible": false,
+      "razon": {
+        "es": "Sabiduría práctica para la vida cotidiana, fundamentada en 'el temor de Jehová' como principio de todo conocimiento verdadero (Pr 1:7).",
+        "en": "Practical wisdom for daily life, grounded in 'the fear of the LORD' as the principle of all true knowledge (Prov 1:7).",
+        "pt": "Sabedoria prática para a vida cotidiana, fundamentada no 'temor do SENHOR' como princípio de todo conhecimento verdadeiro (Pv 1:7)."
+      }
+    },
+    {
+      "id": 21,
+      "abreviatura": "Ec",
+      "titulo": {
+        "es": "Eclesiastés",
+        "en": "Ecclesiastes",
+        "pt": "Eclesiastes"
+      },
+      "testamento": "Antiguo",
+      "division": "sabiduria",
+      "ordenCanon": 21,
+      "capitulosTotal": 12,
+      "divisionColor": "#6B4A8B",
+      "disponible": false,
+      "razon": {
+        "es": "La búsqueda de sentido 'bajo el sol' que termina en vanidad aparte de Dios, concluyendo que el deber del hombre es temer a Dios y guardar sus mandamientos (Ec 12:13).",
+        "en": "The search for meaning 'under the sun' that ends in futility apart from God, concluding that the whole duty of man is to fear God and keep his commandments (Eccl 12:13).",
+        "pt": "A busca de sentido 'debaixo do sol' que termina em vaidade separada de Deus, concluindo que o dever do homem é temer a Deus e guardar os seus mandamentos (Ec 12:13)."
+      }
+    },
+    {
+      "id": 22,
+      "abreviatura": "Cnt",
+      "titulo": {
+        "es": "Cantares",
+        "en": "Song of Solomon",
+        "pt": "Cânticos"
+      },
+      "testamento": "Antiguo",
+      "division": "sabiduria",
+      "ordenCanon": 22,
+      "capitulosTotal": 8,
+      "divisionColor": "#6B4A8B",
+      "disponible": false,
+      "razon": {
+        "es": "Un poema de amor conyugal que celebra el matrimonio como don bueno de Dios, leído tradicionalmente también como figura del amor de Cristo por su Iglesia.",
+        "en": "A poem of conjugal love celebrating marriage as a good gift from God, traditionally also read as a figure of Christ's love for his Church.",
+        "pt": "Um poema de amor conjugal que celebra o casamento como dom bom de Deus, lido tradicionalmente também como figura do amor de Cristo pela sua Igreja."
+      }
+    },
+    {
+      "id": 23,
+      "abreviatura": "Is",
+      "titulo": {
+        "es": "Isaías",
+        "en": "Isaiah",
+        "pt": "Isaías"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-mayores",
+      "ordenCanon": 23,
+      "capitulosTotal": 66,
+      "divisionColor": "#8B3A2A",
+      "disponible": false,
+      "razon": {
+        "es": "O 'quinto evangelio' del AT — desde el juicio sobre Judá hasta la consolación del Siervo Sufriente (cap. 53) y la nueva creación (caps. 65-66).",
+        "en": "The 'fifth gospel' of the OT — from judgment on Judah to the consolation of the Suffering Servant (ch. 53) and the new creation (chs. 65-66).",
+        "pt": "O 'quinto evangelho' do AT — desde o julgamento sobre Judá até a consolação do Servo Sofredor (cap. 53) e a nova criação (caps. 65-66)."
+      }
+    },
+    {
+      "id": 24,
+      "abreviatura": "Jer",
+      "titulo": {
+        "es": "Jeremías",
+        "en": "Jeremiah",
+        "pt": "Jeremias"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-mayores",
+      "ordenCanon": 24,
+      "capitulosTotal": 52,
+      "divisionColor": "#8B3A2A",
+      "disponible": false,
+      "razon": {
+        "es": "El 'profeta llorón' que anuncia la inminente caída de Jerusalén y, en medio del juicio, la promesa explícita de un Nuevo Pacto (Jer 31:31-34).",
+        "en": "The 'weeping prophet' who announces the imminent fall of Jerusalem and, in the midst of judgment, the explicit promise of a New Covenant (Jer 31:31-34).",
+        "pt": "O 'profeta que chora' que anuncia a iminente queda de Jerusalém e, em meio ao julgamento, a promessa explícita de uma Nova Aliança (Jr 31:31-34)."
+      }
+    },
+    {
+      "id": 25,
+      "abreviatura": "Lm",
+      "titulo": {
+        "es": "Lamentaciones",
+        "en": "Lamentations",
+        "pt": "Lamentações"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-mayores",
+      "ordenCanon": 25,
+      "capitulosTotal": 5,
+      "divisionColor": "#8B3A2A",
+      "disponible": false,
+      "razon": {
+        "es": "Cinco poemas elegíacos que lamentan la destrucción de Jerusalén en el 586 a.C., sosteniendo la esperanza en la fidelidad de Dios en medio de la desolación (Lm 3:22-23).",
+        "en": "Five elegiac poems lamenting the destruction of Jerusalem in 586 BC, sustaining hope in God's faithfulness in the midst of desolation (Lam 3:22-23).",
+        "pt": "Cinco poemas elegíacos que lamentam a destruição de Jerusalém em 586 a.C., sustentando a esperança na fidelidade de Deus em meio à desolação (Lm 3:22-23)."
+      }
+    },
+    {
+      "id": 26,
+      "abreviatura": "Ez",
+      "titulo": {
+        "es": "Ezequiel",
+        "en": "Ezekiel",
+        "pt": "Ezequiel"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-mayores",
+      "ordenCanon": 26,
+      "capitulosTotal": 48,
+      "divisionColor": "#8B3A2A",
+      "disponible": false,
+      "razon": {
+        "es": "Visiones proféticas desde el exilio babilónico mismo: la gloria de Dios que abandona el templo y promete regresar, y la promesa del corazón nuevo y el Espíritu (Ez 36).",
+        "en": "Prophetic visions from within the Babylonian exile itself: the glory of God departing the temple and promising to return, and the promise of a new heart and new Spirit (Ezek 36).",
+        "pt": "Visões proféticas do próprio exílio babilônico: a glória de Deus que abandona o templo e promete retornar, e a promessa do coração novo e do Espírito novo (Ez 36)."
+      }
+    },
+    {
+      "id": 27,
+      "abreviatura": "Dn",
+      "titulo": {
+        "es": "Daniel",
+        "en": "Daniel",
+        "pt": "Daniel"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-mayores",
+      "ordenCanon": 27,
+      "capitulosTotal": 12,
+      "divisionColor": "#8B3A2A",
+      "disponible": false,
+      "razon": {
+        "es": "Narrativas de fidelidad en la corte pagana y visiones apocalípticas de los imperios sucesivos y el reino eterno del 'Hijo del Hombre' (Dn 7).",
+        "en": "Narratives of faithfulness in the pagan court and apocalyptic visions of successive empires and the eternal kingdom of the 'Son of Man' (Dan 7).",
+        "pt": "Narrativas de fidelidade na corte pagã e visões apocalípticas dos impérios sucessivos e o reino eterno do 'Filho do Homem' (Dn 7)."
+      }
+    },
+    {
+      "id": 28,
+      "abreviatura": "Os",
+      "titulo": {
+        "es": "Oseas",
+        "en": "Hosea",
+        "pt": "Oséias"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 28,
+      "capitulosTotal": 14,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "El matrimonio del profeta con una mujer infiel se convierte en metáfora viva de la infidelidad de Israel y el amor pactual inquebrantable de Dios.",
+        "en": "The prophet's marriage to an unfaithful woman becomes a living metaphor of Israel's unfaithfulness and God's unbreakable covenantal love.",
+        "pt": "O casamento do profeta com uma mulher infiel torna-se metáfora viva da infidelidade de Israel e do amor pactual inabalável de Deus."
+      }
+    },
+    {
+      "id": 29,
+      "abreviatura": "Jl",
+      "titulo": {
+        "es": "Joel",
+        "en": "Joel",
+        "pt": "Joel"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 29,
+      "capitulosTotal": 3,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Una plaga de langostas se convierte en figura del Día de Jehová venidero, con la promesa del derramamiento del Espíritu (Jl 2:28-32) citada por Pedro en Pentecostés.",
+        "en": "A locust plague becomes a figure of the coming Day of the LORD, with the promise of the outpouring of the Spirit (Joel 2:28-32) quoted by Peter at Pentecost.",
+        "pt": "Uma praga de gafanhotos torna-se figura do vindouro Dia do SENHOR, com a promessa do derramamento do Espírito (Jl 2:28-32) citada por Pedro no Pentecostes."
+      }
+    },
+    {
+      "id": 30,
+      "abreviatura": "Am",
+      "titulo": {
+        "es": "Amós",
+        "en": "Amos",
+        "pt": "Amós"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 30,
+      "capitulosTotal": 9,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Denuncia profética de la injusticia social y la religiosidad vacía en el próspero reino del norte: 'corra el juicio como las aguas' (Am 5:24).",
+        "en": "Prophetic denunciation of social injustice and empty religiosity in the prosperous northern kingdom: 'let justice roll down like waters' (Amos 5:24).",
+        "pt": "Denúncia profética da injustiça social e da religiosidade vazia no próspero reino do norte: 'corra o julgamento como as águas' (Am 5:24)."
+      }
+    },
+    {
+      "id": 31,
+      "abreviatura": "Abd",
+      "titulo": {
+        "es": "Abdías",
+        "en": "Obadiah",
+        "pt": "Obadias"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 31,
+      "capitulosTotal": 1,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "El libro más breve del AT, un oráculo de juicio contra Edom por su traición fraternal hacia Judá en el día de su calamidad.",
+        "en": "The shortest book in the OT, an oracle of judgment against Edom for its fraternal betrayal of Judah on the day of her calamity.",
+        "pt": "O livro mais breve do AT, um oráculo de julgamento contra Edom pela sua traição fraternal a Judá no dia de sua calamidade."
+      }
+    },
+    {
+      "id": 32,
+      "abreviatura": "Jon",
+      "titulo": {
+        "es": "Jonás",
+        "en": "Jonah",
+        "pt": "Jonas"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 32,
+      "capitulosTotal": 4,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Un profeta reticente enviado a Nínive, la capital enemiga, revelando que la misericordia de Dios no se limita a Israel sino que alcanza a las naciones.",
+        "en": "A reluctant prophet sent to Nineveh, the enemy capital, revealing that God's mercy is not limited to Israel but reaches to the nations.",
+        "pt": "Um profeta relutante enviado a Nínive, a capital inimiga, revelando que a misericórdia de Deus não se limita a Israel, mas alcança as nações."
+      }
+    },
+    {
+      "id": 33,
+      "abreviatura": "Mi",
+      "titulo": {
+        "es": "Miqueas",
+        "en": "Micah",
+        "pt": "Miquéias"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 33,
+      "capitulosTotal": 7,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Anuncia tanto el juicio sobre la injusticia social como el nacimiento del Mesías en Belén (Miq 5:2) y la esencia de la piedad genuina (Miq 6:8).",
+        "en": "Announces both judgment on social injustice and the birth of the Messiah in Bethlehem (Mic 5:2), and the essence of genuine piety (Mic 6:8).",
+        "pt": "Anuncia tanto o julgamento sobre a injustiça social quanto o nascimento do Messias em Belém (Mq 5:2) e a essência da piedade genuína (Mq 6:8)."
+      }
+    },
+    {
+      "id": 34,
+      "abreviatura": "Nah",
+      "titulo": {
+        "es": "Nahúm",
+        "en": "Nahum",
+        "pt": "Naum"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 34,
+      "capitulosTotal": 3,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Profetiza la caída de Nínive — cumplida en el 612 a.C. — como vindicación de la justicia de Dios tras la conversión temporal de la ciudad en Jonás.",
+        "en": "Prophesies the fall of Nineveh — fulfilled in 612 BC — as a vindication of God's justice following the city's temporary repentance in Jonah.",
+        "pt": "Profetiza a queda de Nínive — cumprida em 612 a.C. — como vindicação da justiça de Deus após a conversão temporária da cidade em Jonas."
+      }
+    },
+    {
+      "id": 35,
+      "abreviatura": "Hab",
+      "titulo": {
+        "es": "Habacuc",
+        "en": "Habakkuk",
+        "pt": "Habacuque"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 35,
+      "capitulosTotal": 3,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Un diálogo entre el profeta y Dios sobre el uso de Babilonia para juzgar a Judá, resuelto en 'el justo por su fe vivirá' (Hab 2:4), citado tres veces en el NT.",
+        "en": "A dialogue between the prophet and God about using Babylon to judge Judah, resolved in 'the righteous shall live by his faith' (Hab 2:4), quoted three times in the NT.",
+        "pt": "Um diálogo entre o profeta e Deus sobre o uso da Babilônia para julgar Judá, resolvido em 'o justo viverá pela sua fé' (Hc 2:4), citado três vezes no NT."
+      }
+    },
+    {
+      "id": 36,
+      "abreviatura": "Sof",
+      "titulo": {
+        "es": "Sofonías",
+        "en": "Zephaniah",
+        "pt": "Sofonias"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 36,
+      "capitulosTotal": 3,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Anuncia el Día de Jehová como juicio universal y, a la vez, como restauración futura con gozo: 'se gozará sobre ti con cánticos' (Sof 3:17).",
+        "en": "Announces the Day of the LORD as universal judgment and, at the same time, as future restoration with joy: 'he will rejoice over you with singing' (Zeph 3:17).",
+        "pt": "Anuncia o Dia do SENHOR como julgamento universal e, ao mesmo tempo, como restauração futura com alegria: 'ele se alegrará sobre ti com cânticos' (Sf 3:17)."
+      }
+    },
+    {
+      "id": 37,
+      "abreviatura": "Hag",
+      "titulo": {
+        "es": "Hageo",
+        "en": "Haggai",
+        "pt": "Ageu"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 37,
+      "capitulosTotal": 2,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Llama al remanente postexílico a reconstruir el templo, prometiendo que la gloria de esta segunda casa superará a la primera.",
+        "en": "Calls the post-exilic remnant to rebuild the temple, promising that the glory of this second house will surpass the first.",
+        "pt": "Chama o remanescente pós-exílico a reconstruir o templo, prometendo que a glória desta segunda casa superará a primeira."
+      }
+    },
+    {
+      "id": 38,
+      "abreviatura": "Zac",
+      "titulo": {
+        "es": "Zacarías",
+        "en": "Zechariah",
+        "pt": "Zacarias"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 38,
+      "capitulosTotal": 14,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "Visiones nocturnas y oráculos mesiánicos que anticipan tanto el primer advenimiento humilde (Zac 9:9) como el reinado final de Jehová sobre toda la tierra.",
+        "en": "Night visions and messianic oracles anticipating both the humble first advent (Zech 9:9) and the final reign of the LORD over all the earth.",
+        "pt": "Visões noturnas e oráculos messiânicos que antecipam tanto o humilde primeiro advento (Zc 9:9) quanto o reinado final do SENHOR sobre toda a terra."
+      }
+    },
+    {
+      "id": 39,
+      "abreviatura": "Mal",
+      "titulo": {
+        "es": "Malaquías",
+        "en": "Malachi",
+        "pt": "Malaquias"
+      },
+      "testamento": "Antiguo",
+      "division": "profetas-menores",
+      "ordenCanon": 39,
+      "capitulosTotal": 4,
+      "divisionColor": "#8B6A1B",
+      "disponible": false,
+      "razon": {
+        "es": "El último libro del AT canónico: denuncia la apatía sacerdotal postexílica y anuncia al precursor (Elías) que preparará el camino del Señor.",
+        "en": "The last book of the canonical OT: denounces post-exilic priestly apathy and announces the forerunner (Elijah) who will prepare the way of the Lord.",
+        "pt": "O último livro do AT canônico: denuncia a apatia sacerdotal pós-exílica e anuncia o precursor (Elias) que preparará o caminho do Senhor."
+      }
+    },
+    {
+      "id": 40,
+      "abreviatura": "Mt",
+      "titulo": {
+        "es": "Mateo",
+        "en": "Matthew",
+        "pt": "Mateus"
+      },
+      "testamento": "Nuevo",
+      "division": "evangelios",
+      "ordenCanon": 40,
+      "capitulosTotal": 28,
+      "divisionColor": "#C9A84C",
+      "disponible": false,
+      "razon": {
+        "es": "Escrito para una audiencia judía, demuestra sistemáticamente que Jesús cumple la Ley y los profetas como el Mesías davídico prometido; estructura el Sermón del Monte como la nueva Torá del Reino.",
+        "en": "Written for a Jewish audience, it systematically demonstrates that Jesus fulfills the Law and the prophets as the promised Davidic Messiah; it structures the Sermon on the Mount as the new Torah of the Kingdom.",
+        "pt": "Escrito para um público judeu, demonstra sistematicamente que Jesus cumpre a Lei e os profetas como o prometido Messias davídico; estrutura o Sermão da Montanha como a nova Torá do Reino."
+      }
+    },
+    {
+      "id": 41,
+      "abreviatura": "Mr",
+      "titulo": {
+        "es": "Marcos",
+        "en": "Mark",
+        "pt": "Marcos"
+      },
+      "testamento": "Nuevo",
+      "division": "evangelios",
+      "ordenCanon": 41,
+      "capitulosTotal": 16,
+      "divisionColor": "#C9A84C",
+      "disponible": false,
+      "razon": {
+        "es": "El evangelio más breve y dinámico, centrado en la acción y el sufrimiento de Jesús como el Siervo de Jehová; probablemente la fuente más temprana usada por Mateo y Lucas.",
+        "en": "The briefest and most dynamic Gospel, centered on the action and suffering of Jesus as the Servant of the LORD; probably the earliest source used by Matthew and Luke.",
+        "pt": "O evangelho mais breve e dinâmico, centrado na ação e no sofrimento de Jesus como o Servo do SENHOR; provavelmente a fonte mais antiga usada por Mateus e Lucas."
+      }
+    },
+    {
+      "id": 42,
+      "abreviatura": "Lc",
+      "titulo": {
+        "es": "Lucas",
+        "en": "Luke",
+        "pt": "Lucas"
+      },
+      "testamento": "Nuevo",
+      "division": "evangelios",
+      "ordenCanon": 42,
+      "capitulosTotal": 24,
+      "divisionColor": "#C9A84C",
+      "disponible": false,
+      "razon": {
+        "es": "Escrito por un médico gentil con rigor historiográfico (Lc 1:1-4), enfatiza la compasión de Cristo hacia pobres, mujeres, samaritanos y pecadores marginados.",
+        "en": "Written by a Gentile physician with historiographic rigor (Luke 1:1-4), it emphasizes Christ's compassion toward the poor, women, Samaritans, and marginalized sinners.",
+        "pt": "Escrito por um médico gentio com rigor historiográfico (Lc 1:1-4), enfatiza a compaixão de Cristo pelos pobres, mulheres, samaritanos e pecadores marginalizados."
+      }
+    },
+    {
+      "id": 43,
+      "abreviatura": "Jn",
+      "titulo": {
+        "es": "Juan",
+        "en": "John",
+        "pt": "João"
+      },
+      "testamento": "Nuevo",
+      "division": "evangelios",
+      "ordenCanon": 43,
+      "capitulosTotal": 21,
+      "divisionColor": "#C9A84C",
+      "disponible": false,
+      "razon": {
+        "es": "El evangelio teológico por excelencia: presenta a Jesús como el Logos eterno encarnado (Jn 1:1,14) mediante siete señales y siete declaraciones 'Yo Soy' que revelan su deidad.",
+        "en": "The theological Gospel par excellence: presents Jesus as the eternal Logos incarnate (John 1:1,14) through seven signs and seven 'I Am' declarations that reveal his deity.",
+        "pt": "O evangelho teológico por excelência: apresenta Jesus como o Logos eterno encarnado (Jo 1:1,14) mediante sete sinais e sete declarações 'Eu Sou' que revelam sua divindade."
+      }
+    },
+    {
+      "id": 44,
+      "abreviatura": "Hch",
+      "titulo": {
+        "es": "Hechos",
+        "en": "Acts",
+        "pt": "Atos"
+      },
+      "testamento": "Nuevo",
+      "division": "historia-nt",
+      "ordenCanon": 44,
+      "capitulosTotal": 28,
+      "divisionColor": "#1B6B5E",
+      "disponible": false,
+      "razon": {
+        "es": "Único libro de su categoría: documenta el nacimiento de la iglesia en Pentecostés y su expansión geográfica y étnica desde Jerusalén hasta Roma, estableciendo el puente histórico entre los evangelios y las epístolas.",
+        "en": "The only book in its category: documents the birth of the church at Pentecost and its geographical and ethnic expansion from Jerusalem to Rome, establishing the historical bridge between the Gospels and the Epistles.",
+        "pt": "O único livro em sua categoria: documenta o nascimento da igreja no Pentecostes e sua expansão geográfica e étnica de Jerusalém até Roma, estabelecendo a ponte histórica entre os evangelhos e as epístolas."
+      }
+    },
+    {
+      "id": 45,
+      "abreviatura": "Ro",
+      "titulo": {
+        "es": "Romanos",
+        "en": "Romans",
+        "pt": "Romanos"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 45,
+      "capitulosTotal": 16,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "La exposición más sistemática del evangelio: pecado universal, justificación forense por la fe, gracia soberana y vida en el Espíritu. Es el texto doctrinal central de la teología protestante reformada.",
+        "en": "The most systematic exposition of the gospel: universal sin, forensic justification by faith, sovereign grace, and life in the Spirit. It is the central doctrinal text of Reformed Protestant theology.",
+        "pt": "A exposição mais sistemática do evangelho: pecado universal, justificação forense pela fé, graça soberana e vida no Espírito. É o texto doutrinal central da teologia protestante reformada."
+      }
+    },
+    {
+      "id": 46,
+      "abreviatura": "1Co",
+      "titulo": {
+        "es": "1 Corintios",
+        "en": "1 Corinthians",
+        "pt": "1 Coríntios"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 46,
+      "capitulosTotal": 16,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "Responde problemas pastorales de la iglesia de Corinto (divisiones, inmoralidad, dones espirituales, la resurrección) con instrucción teológica profunda, incluyendo el himno del amor (cap. 13) y el capítulo fundacional sobre la resurrección (cap. 15).",
+        "en": "Addresses pastoral problems of the Corinthian church (divisions, immorality, spiritual gifts, resurrection) with deep theological instruction, including the hymn of love (ch. 13) and the foundational chapter on the resurrection (ch. 15).",
+        "pt": "Responde a problemas pastorais da igreja de Corinto (divisões, imoralidade, dons espirituais, a ressurreição) com instrução teológica profunda, incluindo o hino do amor (cap. 13) e o capítulo fundamental sobre a ressurreição (cap. 15)."
+      }
+    },
+    {
+      "id": 47,
+      "abreviatura": "2Co",
+      "titulo": {
+        "es": "2 Corintios",
+        "en": "2 Corinthians",
+        "pt": "2 Coríntios"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 47,
+      "capitulosTotal": 13,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "La 'carta del dolor': Pablo defiende su apostolado con transparencia personal extraordinaria, revelando el sufrimiento pastoral y su paradójica fortaleza en debilidad.",
+        "en": "The 'letter of pain': Paul defends his apostolate with extraordinary personal transparency, revealing pastoral suffering and his paradoxical strength in weakness.",
+        "pt": "A 'carta da dor': Paulo defende seu apostolado com extraordinária transparência pessoal, revelando o sofrimento pastoral e sua paradoxal força na fraqueza."
+      }
+    },
+    {
+      "id": 48,
+      "abreviatura": "Gá",
+      "titulo": {
+        "es": "Gálatas",
+        "en": "Galatians",
+        "pt": "Gálatas"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 48,
+      "capitulosTotal": 6,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "La 'Magna Carta de la libertad cristiana': combate el judaizante con la defensa más apasionada de la justificación sola fide en todo el NT. Pablo ni siquiera cede ante Pedro (Gá 2:11).",
+        "en": "The 'Magna Carta of Christian freedom': combats the Judaizers with the most passionate defense of sola fide justification in all the NT. Paul does not even yield to Peter (Gal 2:11).",
+        "pt": "A 'Carta Magna da liberdade cristã': combate os judaizantes com a mais apaixonada defesa da justificação sola fide em todo o NT. Paulo não cede nem diante de Pedro (Gl 2:11)."
+      }
+    },
+    {
+      "id": 49,
+      "abreviatura": "Ef",
+      "titulo": {
+        "es": "Efesios",
+        "en": "Ephesians",
+        "pt": "Efésios"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 49,
+      "capitulosTotal": 6,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "La epístola de la iglesia: expone el misterio de la unidad judeo-gentil en el cuerpo de Cristo, la armadura espiritual y la vida familiar cristiana. Geerhardus Vos la llama la 'catedral de las epístolas'.",
+        "en": "The epistle of the church: expounds the mystery of Jewish-Gentile unity in the body of Christ, the spiritual armor, and Christian family life. Geerhardus Vos calls it the 'cathedral of the epistles'.",
+        "pt": "A epístola da igreja: expõe o mistério da unidade judeu-gentia no corpo de Cristo, a armadura espiritual e a vida familiar cristã. Geerhardus Vos a chama de 'catedral das epístolas'."
+      }
+    },
+    {
+      "id": 50,
+      "abreviatura": "Fil",
+      "titulo": {
+        "es": "Filipenses",
+        "en": "Philippians",
+        "pt": "Filipenses"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 50,
+      "capitulosTotal": 4,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "La epístola del gozo: escrita desde prisión, enseña contentamiento en toda circunstancia (Fil 4:11) y contiene el célebre himno cristológico de la kenosis/exaltación de Cristo (Fil 2:5-11).",
+        "en": "The epistle of joy: written from prison, it teaches contentment in every circumstance (Phil 4:11) and contains the celebrated christological hymn of Christ's kenosis/exaltation (Phil 2:5–11).",
+        "pt": "A epístola do gozo: escrita da prisão, ensina contentamento em toda circunstância (Fp 4:11) e contém o célebre hino cristológico da kenose/exaltação de Cristo (Fp 2:5-11)."
+      }
+    },
+    {
+      "id": 51,
+      "abreviatura": "Col",
+      "titulo": {
+        "es": "Colosenses",
+        "en": "Colossians",
+        "pt": "Colossenses"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 51,
+      "capitulosTotal": 4,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "Responde a una proto-gnosis que rebajaba a Cristo: afirma su supremacía cósmica absoluta como 'cabeza de todo principado y potestad' (Col 2:10) y el primado de Cristo en toda la creación.",
+        "en": "Responds to a proto-Gnosticism that demoted Christ: affirms his absolute cosmic supremacy as 'head of all rule and authority' (Col 2:10) and Christ's primacy in all creation.",
+        "pt": "Responde a uma proto-gnose que rebaixava Cristo: afirma sua supremacia cósmica absoluta como 'cabeça de todo principado e potestade' (Cl 2:10) e o primado de Cristo em toda a criação."
+      }
+    },
+    {
+      "id": 52,
+      "abreviatura": "1Ts",
+      "titulo": {
+        "es": "1 Tesalonicenses",
+        "en": "1 Thessalonians",
+        "pt": "1 Tessalonicenses"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 52,
+      "capitulosTotal": 5,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "La carta escatológica más temprana del NT: corrige malentendidos sobre la parusía y exhorta a la santidad mientras se aguarda la venida de Cristo.",
+        "en": "The earliest eschatological letter of the NT: corrects misunderstandings about the parousia and exhorts to holiness while awaiting Christ's coming.",
+        "pt": "A carta escatológica mais antiga do NT: corrige equívocos sobre a parusía e exorta à santidade enquanto se aguarda a vinda de Cristo."
+      }
+    },
+    {
+      "id": 53,
+      "abreviatura": "2Ts",
+      "titulo": {
+        "es": "2 Tesalonicenses",
+        "en": "2 Thessalonians",
+        "pt": "2 Tessalonicenses"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 53,
+      "capitulosTotal": 3,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "Amplía la escatología de 1 Tesalonicenses, describiendo el 'hombre de iniquidad' que precede a la parusía — pasaje fundamental en la teología reformada del fin de los tiempos.",
+        "en": "Expands on the eschatology of 1 Thessalonians, describing the 'man of lawlessness' who precedes the parousia — a foundational passage in Reformed end-times theology.",
+        "pt": "Amplia a escatologia de 1 Tessalonicenses, descrevendo o 'homem da iniquidade' que precede a parusía — passagem fundamental na teologia reformada dos fins dos tempos."
+      }
+    },
+    {
+      "id": 54,
+      "abreviatura": "1Ti",
+      "titulo": {
+        "es": "1 Timoteo",
+        "en": "1 Timothy",
+        "pt": "1 Timóteo"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 54,
+      "capitulosTotal": 6,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "Primera carta pastoral: instruye a Timoteo sobre gobierno eclesiástico, calificaciones de ancianos y diáconos, oración pública y doctrina sana. Fundamental para la eclesiología presbiteriana.",
+        "en": "First pastoral letter: instructs Timothy on church government, qualifications of elders and deacons, public prayer, and sound doctrine. Foundational for Presbyterian ecclesiology.",
+        "pt": "Primeira carta pastoral: instrui Timóteo sobre governo eclesiástico, qualificações de presbíteros e diáconos, oração pública e doutrina sã. Fundamental para a eclesiologia presbiteriana."
+      }
+    },
+    {
+      "id": 55,
+      "abreviatura": "2Ti",
+      "titulo": {
+        "es": "2 Timoteo",
+        "en": "2 Timothy",
+        "pt": "2 Timóteo"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 55,
+      "capitulosTotal": 4,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "Segunda carta pastoral: el 'testamento' de Pablo, escrito poco antes de su martirio (c. 67 d.C.), exhortando a Timoteo a guardar el depósito de la fe y proclamar la Palabra con urgencia.",
+        "en": "Second pastoral letter: Paul's 'testament', written shortly before his martyrdom (c. 67 AD), urging Timothy to guard the deposit of faith and preach the Word with urgency.",
+        "pt": "Segunda carta pastoral: o 'testamento' de Paulo, escrito pouco antes de seu martírio (c. 67 d.C.), exortando Timóteo a guardar o depósito da fé e proclamar a Palavra com urgência."
+      }
+    },
+    {
+      "id": 56,
+      "abreviatura": "Tit",
+      "titulo": {
+        "es": "Tito",
+        "en": "Titus",
+        "pt": "Tito"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 56,
+      "capitulosTotal": 3,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "Tercera carta pastoral: instruye a Tito sobre gobierno de la iglesia en Creta, especialmente la designación de ancianos y la confrontación de falsas doctrinas.",
+        "en": "Third pastoral letter: instructs Titus on church governance in Crete, especially the appointment of elders and the confrontation of false doctrines.",
+        "pt": "Terceira carta pastoral: instrui Tito sobre o governo da igreja em Creta, especialmente a designação de presbíteros e o confronto com falsas doutrinas."
+      }
+    },
+    {
+      "id": 57,
+      "abreviatura": "Flm",
+      "titulo": {
+        "es": "Filemón",
+        "en": "Philemon",
+        "pt": "Filemon"
+      },
+      "testamento": "Nuevo",
+      "division": "paulinas",
+      "ordenCanon": 57,
+      "capitulosTotal": 1,
+      "divisionColor": "#6B5B95",
+      "disponible": false,
+      "razon": {
+        "es": "La epístola más corta y personal de Pablo: intercede por Onésimo, un esclavo fugitivo convertido, ante su amo Filemón — ilustración vívida de la doctrina de la reconciliación y la intercesión.",
+        "en": "The shortest and most personal of Paul's letters: intercedes for Onesimus, a converted runaway slave, before his master Philemon — a vivid illustration of the doctrine of reconciliation and intercession.",
+        "pt": "A epístola mais curta e pessoal de Paulo: intercede por Onésimo, um escravo fugitivo convertido, diante de seu senhor Filemon — ilustração vívida da doutrina da reconciliação e da intercessão."
+      }
+    },
+    {
+      "id": 58,
+      "abreviatura": "He",
+      "titulo": {
+        "es": "Hebreos",
+        "en": "Hebrews",
+        "pt": "Hebreus"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 58,
+      "capitulosTotal": 13,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "El mayor argumento tipológico del NT: demuestra que Cristo cumple y supera cada elemento del culto levítico (sacerdocio, tabernáculo, sacrificios), siendo el sumo sacerdote eterno del orden de Melquisedec.",
+        "en": "The greatest typological argument in the NT: demonstrates that Christ fulfills and surpasses every element of the Levitical worship (priesthood, tabernacle, sacrifices), being the eternal high priest after the order of Melchizedek.",
+        "pt": "O maior argumento tipológico do NT: demonstra que Cristo cumpre e supera cada elemento do culto levítico (sacerdócio, tabernáculo, sacrifícios), sendo o sumo sacerdote eterno segundo a ordem de Melquisedeque."
+      }
+    },
+    {
+      "id": 59,
+      "abreviatura": "Stg",
+      "titulo": {
+        "es": "Santiago",
+        "en": "James",
+        "pt": "Tiago"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 59,
+      "capitulosTotal": 5,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "La epístola de la fe activa: 'la fe sin obras está muerta' (Stg 2:26) — no contradice a Pablo (justificación) sino complementa: la fe justificante se manifiesta necesariamente en obediencia práctica.",
+        "en": "The epistle of active faith: 'faith without works is dead' (James 2:26) — does not contradict Paul (justification) but complements: justifying faith necessarily manifests in practical obedience.",
+        "pt": "A epístola da fé ativa: 'a fé sem obras está morta' (Tg 2:26) — não contradiz Paulo (justificação) mas complementa: a fé justificante manifesta-se necessariamente em obediência prática."
+      }
+    },
+    {
+      "id": 60,
+      "abreviatura": "1P",
+      "titulo": {
+        "es": "1 Pedro",
+        "en": "1 Peter",
+        "pt": "1 Pedro"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 60,
+      "capitulosTotal": 5,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "Escrita a los 'extranjeros dispersos' bajo persecución (probablemente neroniana), presenta a los creyentes como el nuevo pueblo peregrino de Dios y desarrolla la doctrina de la piedra angular rechazada/elegida como fundamento de la identidad eclesial.",
+        "en": "Written to the 'elect exiles of the Dispersion' under persecution (probably Neronian), presents believers as God's new pilgrim people and develops the doctrine of the rejected/chosen cornerstone as the foundation of ecclesial identity.",
+        "pt": "Escrita aos 'estrangeiros dispersos' sob perseguição (provavelmente neroniana), apresenta os crentes como o novo povo peregrino de Deus e desenvolve a doutrina da pedra angular rejeitada/eleita como fundamento da identidade eclesial."
+      }
+    },
+    {
+      "id": 61,
+      "abreviatura": "2P",
+      "titulo": {
+        "es": "2 Pedro",
+        "en": "2 Peter",
+        "pt": "2 Pedro"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 61,
+      "capitulosTotal": 3,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "Advierte contra los falsos maestros que infiltran la iglesia, conecta con Judas en su urgencia, y desarrolla la doctrina de la inspiración como origen del profetismo bíblico (2P 1:20-21).",
+        "en": "Warns against false teachers infiltrating the church, connects with Jude in its urgency, and develops the doctrine of inspiration as the origin of biblical prophecy (2 Pet 1:20–21).",
+        "pt": "Adverte contra os falsos mestres que se infiltram na igreja, conecta-se com Judas em sua urgência, e desenvolve a doutrina da inspiração como origem do profetismo bíblico (2Pe 1:20-21)."
+      }
+    },
+    {
+      "id": 62,
+      "abreviatura": "1Jn",
+      "titulo": {
+        "es": "1 Juan",
+        "en": "1 John",
+        "pt": "1 João"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 62,
+      "capitulosTotal": 5,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "El evangelio en forma de carta: Dios es luz (1:5), amor (4:8) y vida (5:12). Define los criterios de la vida en comunión con Dios y desmonta las pretensiones gnósticas de un conocimiento espiritual sin obediencia ética.",
+        "en": "The Gospel in letter form: God is light (1:5), love (4:8), and life (5:12). Defines the criteria of life in fellowship with God and dismantles Gnostic claims to spiritual knowledge without ethical obedience.",
+        "pt": "O evangelho em forma de carta: Deus é luz (1:5), amor (4:8) e vida (5:12). Define os critérios da vida em comunhão com Deus e desmonta as pretensões gnósticas de um conhecimento espiritual sem obediência ética."
+      }
+    },
+    {
+      "id": 63,
+      "abreviatura": "2Jn",
+      "titulo": {
+        "es": "2 Juan",
+        "en": "2 John",
+        "pt": "2 João"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 63,
+      "capitulosTotal": 1,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "Nota personal de Juan que advierte sobre falsos maestros itinerantes y la importancia de la hospitalidad cristiana discernida.",
+        "en": "John's personal note warning about false itinerant teachers and the importance of discerning Christian hospitality.",
+        "pt": "Nota pessoal de João que adverte sobre falsos mestres itinerantes e a importância da hospitalidade cristã discernida."
+      }
+    },
+    {
+      "id": 64,
+      "abreviatura": "3Jn",
+      "titulo": {
+        "es": "3 Juan",
+        "en": "3 John",
+        "pt": "3 João"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 64,
+      "capitulosTotal": 1,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "Segunda nota personal de Juan, esta vez sobre la autoridad del apóstol frente a líderes eclesiales que la desafían (Diótrefes). Ilustra los conflictos de autoridad en la iglesia primitiva.",
+        "en": "John's second personal note, this time about apostolic authority against church leaders who challenge it (Diotrephes). Illustrates authority conflicts in the early church.",
+        "pt": "Segunda nota pessoal de João, desta vez sobre a autoridade apostólica diante de líderes eclesiais que a desafiam (Diótrefes). Ilustra os conflitos de autoridade na igreja primitiva."
+      }
+    },
+    {
+      "id": 65,
+      "abreviatura": "Jud",
+      "titulo": {
+        "es": "Judas",
+        "en": "Jude",
+        "pt": "Judas"
+      },
+      "testamento": "Nuevo",
+      "division": "generales",
+      "ordenCanon": 65,
+      "capitulosTotal": 1,
+      "divisionColor": "#8B6914",
+      "disponible": false,
+      "razon": {
+        "es": "La carta más breve del NT: exhortación urgente a 'contender ardientemente por la fe que fue entregada una vez para siempre a los santos' (Jud 3) frente a infiltrados que pervirtieron la gracia.",
+        "en": "The shortest NT letter: an urgent exhortation to 'contend earnestly for the faith once for all delivered to the saints' (Jude 3) against infiltrators who perverted grace.",
+        "pt": "A carta mais breve do NT: exortação urgente a 'combater arduamente pela fé que foi uma vez por todas entregue aos santos' (Jd 3) diante de infiltrados que perverteram a graça."
+      }
+    },
+    {
+      "id": 66,
+      "abreviatura": "Ap",
+      "titulo": {
+        "es": "Apocalipsis",
+        "en": "Revelation",
+        "pt": "Apocalipse"
+      },
+      "testamento": "Nuevo",
+      "division": "profecia",
+      "ordenCanon": 66,
+      "capitulosTotal": 22,
+      "divisionColor": "#8B0000",
+      "disponible": false,
+      "razon": {
+        "es": "Cierra el canon bíblico con la visión cósmica de la victoria final del Cordero, la caída de Babilonia (Roma imperial y todo sistema anti-Dios), la nueva creación y la nueva Jerusalén — el cumplimiento de todo lo que el Génesis prometió.",
+        "en": "Closes the biblical canon with the cosmic vision of the Lamb's final victory, the fall of Babylon (imperial Rome and every anti-God system), the new creation, and the new Jerusalem — the fulfillment of everything Genesis promised.",
+        "pt": "Fecha o cânon bíblico com a visão cósmica da vitória final do Cordeiro, a queda da Babilônia (Roma imperial e todo sistema anti-Deus), a nova criação e a nova Jerusalém — o cumprimento de tudo o que Gênesis prometeu."
+      }
+    }
+  ]
+}

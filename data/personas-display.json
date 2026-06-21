@@ -1,0 +1,230 @@
+{
+  "Dios · YHWH": {
+    "id": "dios",
+    "color": "#C9A84C",
+    "init": "יה",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PROTAGONISTA ABSOLUTO",
+      "en": "ABSOLUTE PROTAGONIST",
+      "pt": "PROTAGONISTA ABSOLUTO"
+    }
+  },
+  "Adán": {
+    "id": "adam",
+    "color": "#4A6741",
+    "init": "אד",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "TIPO DEL SEGUNDO ADÁN",
+      "en": "TYPE OF THE SECOND ADAM",
+      "pt": "TIPO DO SEGUNDO ADÃO"
+    }
+  },
+  "Eva": {
+    "id": "eva",
+    "color": "#4A6741",
+    "init": "חו",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "MADRE DE TODOS LOS VIVIENTES",
+      "en": "MOTHER OF ALL LIVING",
+      "pt": "MÃE DE TODOS OS VIVENTES"
+    }
+  },
+  "Noé": {
+    "id": "noe",
+    "color": "#8B6914",
+    "init": "נח",
+    "xCh": 7,
+    "side": "below",
+    "badge": {
+      "es": "PREDICADOR DE JUSTICIA",
+      "en": "PREACHER OF RIGHTEOUSNESS",
+      "pt": "PREGADOR DE JUSTIÇA"
+    }
+  },
+  "Abraham": {
+    "id": "abraham",
+    "color": "#1B5E8B",
+    "init": "אב",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "PADRE DE LA FE",
+      "en": "FATHER OF FAITH",
+      "pt": "PAI DA FÉ"
+    }
+  },
+  "Sara": {
+    "id": "sara",
+    "color": "#1B5E8B",
+    "init": "שר",
+    "xCh": 19,
+    "side": "below",
+    "badge": {
+      "es": "MADRE DE LA PROMESA",
+      "en": "MOTHER OF THE PROMISE",
+      "pt": "MÃE DA PROMESSA"
+    }
+  },
+  "Isaac": {
+    "id": "isaac",
+    "color": "#6B4A8B",
+    "init": "יצ",
+    "xCh": 26,
+    "side": "above",
+    "badge": {
+      "es": "HIJO DE LA PROMESA",
+      "en": "SON OF THE PROMISE",
+      "pt": "FILHO DA PROMESSA"
+    }
+  },
+  "Jacob · Israel": {
+    "id": "jacob",
+    "color": "#8B6A1B",
+    "init": "יע",
+    "xCh": 32,
+    "side": "below",
+    "badge": {
+      "es": "EL QUE LUCHÓ CON DIOS",
+      "en": "THE ONE WHO WRESTLED GOD",
+      "pt": "O QUE LUTOU COM DEUS"
+    }
+  },
+  "José": {
+    "id": "jose",
+    "color": "#1B6B5E",
+    "init": "יס",
+    "xCh": 41,
+    "side": "above",
+    "badge": {
+      "es": "TIPO DE CRISTO",
+      "en": "TYPE OF CHRIST",
+      "pt": "TIPO DE CRISTO"
+    }
+  },
+  "Moisés": {
+    "id": "moises",
+    "color": "#4A6741",
+    "init": "מש",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "MEDIADOR DEL PACTO",
+      "en": "COVENANT MEDIATOR",
+      "pt": "MEDIADOR DA ALIANÇA"
+    }
+  },
+  "Faraón": {
+    "id": "faraon",
+    "color": "#8B3A2A",
+    "init": "פר",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "ANTAGONISTA SOBERANO",
+      "en": "SOVEREIGN ANTAGONIST",
+      "pt": "ANTAGONISTA SOBERANO"
+    }
+  },
+  "Aarón": {
+    "id": "aaron",
+    "color": "#6B4A8B",
+    "init": "אה",
+    "xCh": 7,
+    "side": "below",
+    "badge": {
+      "es": "TIPO DEL SUMO SACERDOTE",
+      "en": "TYPE OF HIGH PRIEST",
+      "pt": "TIPO DO SUMO SACERDOTE"
+    }
+  },
+  "Miriam": {
+    "id": "miriam",
+    "color": "#1B5E8B",
+    "init": "מר",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "PROFETISA DE ISRAEL",
+      "en": "PROPHETESS OF ISRAEL",
+      "pt": "PROFETISA DE ISRAEL"
+    }
+  },
+  "Nadab y Abiú": {
+    "id": "nadab-abiu",
+    "color": "#8B5A2A",
+    "init": "נא",
+    "xCh": 10,
+    "side": "above",
+    "badge": {
+      "es": "FUEGO NO AUTORIZADO",
+      "en": "UNAUTHORIZED FIRE",
+      "pt": "FOGO NÃO AUTORIZADO"
+    }
+  },
+  "Caleb": {
+    "id": "caleb",
+    "color": "#2A7A4A",
+    "init": "כל",
+    "xCh": 13,
+    "side": "above",
+    "badge": {
+      "es": "ESPÍA FIEL",
+      "en": "FAITHFUL SPY",
+      "pt": "ESPIÃO FIEL"
+    }
+  },
+  "Coré": {
+    "id": "core",
+    "color": "#7A2A3A",
+    "init": "קר",
+    "xCh": 16,
+    "side": "below",
+    "badge": {
+      "es": "REBELDE",
+      "en": "REBEL LEADER",
+      "pt": "REBELDE"
+    }
+  },
+  "Balaam": {
+    "id": "balaam",
+    "color": "#5A4A7A",
+    "init": "בל",
+    "xCh": 22,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA PAGANO",
+      "en": "PAGAN PROPHET",
+      "pt": "PROFETA PAGÃO"
+    }
+  },
+  "Finees": {
+    "id": "finees",
+    "color": "#2A5A7A",
+    "init": "פי",
+    "xCh": 25,
+    "side": "below",
+    "badge": {
+      "es": "SACERDOTE CELOSO",
+      "en": "ZEALOUS PRIEST",
+      "pt": "SACERDOTE ZELOSO"
+    }
+  },
+  "Josué": {
+    "id": "josue",
+    "color": "#2E7D9C",
+    "init": "יש",
+    "xCh": 31,
+    "side": "below",
+    "badge": {
+      "es": "SUCESOR DE MOISÉS",
+      "en": "MOSES' SUCCESSOR",
+      "pt": "SUCESSOR DE MOISÉS"
+    }
+  }
+}

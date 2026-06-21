@@ -1,0 +1,5 @@
+canon/node_modules/
+canon/dist/
+canon/dist-ssr/
+.DS_Store
+*.local

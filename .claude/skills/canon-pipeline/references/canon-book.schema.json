@@ -1,0 +1,611 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://canon-pipeline.org/schema/canon-book.schema.json",
+  "title": "CANON Pipeline Book Record",
+  "description": "Schema for a single book record in the CANON Pipeline (Curated Annotation Network for Old & New Testaments). Reformed Protestant / Covenant Theology framework. Version 1.3.0.",
+  "type": "object",
+
+  "definitions": {
+
+    "trilingual": {
+      "type": "object",
+      "description": "A string value provided in Spanish, English, and Portuguese.",
+      "properties": {
+        "es": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 },
+        "pt": { "type": "string", "minLength": 1 }
+      },
+      "required": ["es", "en", "pt"],
+      "additionalProperties": false
+    },
+
+    "trilingualArray": {
+      "type": "object",
+      "description": "An array of short strings (e.g. keywords, field names) provided per language.",
+      "properties": {
+        "es": { "type": "array", "items": { "type": "string" } },
+        "en": { "type": "array", "items": { "type": "string" } },
+        "pt": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["es", "en", "pt"],
+      "additionalProperties": false
+    },
+
+    "verseRef": {
+      "type": "string",
+      "description": "A Scripture reference in abbreviated Spanish form, optionally followed by an em-dash and a short gloss/description (the viewer's verseUrl()/linkifyVerses() parse only the leading ref and ignore the rest). Examples: 'Gn 1:1', 'Gn 1:26-27', 'Gn 1:26–27', 'Gn 1:1 — En el principio creó Dios los cielos y la tierra'.",
+      "pattern": "^\\d?\\s?[A-ZÁÉÍÓÚÑ][a-záéíóúñ]*\\.?\\s+\\d+:\\d+([\\u2013-]\\d+)?(\\s+\\u2014\\s+.+)?$"
+    },
+
+    "versiculoClaveEntry": {
+      "type": "object",
+      "description": "A top-level key verse with full trilingual text and an optional trilingual theological note. Added v1.3.0.",
+      "properties": {
+        "ref":  { "$ref": "#/definitions/verseRef" },
+        "es":   { "type": "string", "minLength": 1 },
+        "en":   { "type": "string", "minLength": 1 },
+        "pt":   { "type": "string", "minLength": 1 },
+        "nota": { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["ref", "es", "en", "pt"],
+      "additionalProperties": false
+    },
+
+    "wcfAnclaEntry": {
+      "type": "object",
+      "description": "A Westminster Confession of Faith chapter anchor with trilingual title, doctrinal tags, trilingual summary, book cross-references, and a URL. Replaces the old 'WCF Cap. N — Title' string format as of v1.3.0.",
+      "properties": {
+        "cap":      { "type": "string", "minLength": 1 },
+        "titulo":   { "$ref": "#/definitions/trilingual" },
+        "doctrinas": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "resumen":  { "$ref": "#/definitions/trilingual" },
+        "genesis": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/verseRef" }
+        },
+        "url": { "type": "string", "format": "uri" }
+      },
+      "required": ["cap", "titulo", "doctrinas", "resumen", "genesis", "url"],
+      "additionalProperties": false
+    },
+
+    "isoDate": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp, e.g. '2026-06-16T00:00:00Z'."
+    },
+
+    "testamento": {
+      "type": "string",
+      "enum": ["Antiguo", "Nuevo"]
+    },
+
+    "division": {
+      "type": "string",
+      "enum": [
+        "Pentateuco",
+        "Histórico",
+        "Sabiduría y Poesía",
+        "Profetas Mayores",
+        "Profetas Menores",
+        "Evangelios",
+        "Historia",
+        "Epístolas Paulinas",
+        "Epístolas Generales",
+        "Profecía"
+      ]
+    },
+
+    "idiomaOriginal": {
+      "type": "string",
+      "enum": ["Hebreo", "Griego", "Arameo"]
+    },
+
+    "epocaRedentora": {
+      "type": "string",
+      "enum": [
+        "Creación y Caída",
+        "Promesa",
+        "Ley",
+        "Anticipación Profética",
+        "Cumplimiento",
+        "Aplicación",
+        "Consumación"
+      ]
+    },
+
+    "contextoPacto": {
+      "type": "string",
+      "enum": ["Adámico", "Noáico", "Abrahánico", "Mosaico", "Davídico", "Nuevo"]
+    },
+
+    "rolPersonaje": {
+      "type": "string",
+      "enum": ["protagonista", "antagonista", "secundario", "tipo"]
+    },
+
+    "nivelEvidencia": {
+      "type": "string",
+      "enum": ["alto", "medio", "bajo", "especulativo"]
+    },
+
+    "estadoPipeline": {
+      "type": "string",
+      "enum": ["borrador", "extraído", "validado", "publicado"]
+    },
+
+    "teologiaCategoriaEnum": {
+      "type": "string",
+      "enum": [
+        "Bibliología", "Teología Propia", "Cristología", "Pneumatología",
+        "Antropología", "Hamartología", "Hamartiología", "Soteriología", "Eclesiología",
+        "Escatología", "Angelología", "Creación", "Providencia",
+        "Pacto", "Elección", "Santificación", "Justificación", "Ley"
+      ]
+    },
+    "teologiaCategoria": {
+      "type": "object",
+      "description": "Doctrine category — must be a trilingual object, never a bare string.",
+      "properties": {
+        "es": { "$ref": "#/definitions/teologiaCategoriaEnum" },
+        "en": { "type": "string", "minLength": 1 },
+        "pt": { "type": "string", "minLength": 1 }
+      },
+      "required": ["es", "en", "pt"],
+      "additionalProperties": false
+    },
+
+    "nivelFuente": {
+      "type": "integer",
+      "enum": [1, 2, 3]
+    },
+
+    "idiomaFuente": {
+      "type": "string",
+      "enum": ["es", "en", "pt", "todos"]
+    },
+
+    "rolRevisor": {
+      "type": "string",
+      "enum": ["teólogo", "editor", "administrador"]
+    },
+
+    "faseNombre": {
+      "type": "string",
+      "enum": ["diseño_esquema", "registro_fuentes", "extraccion", "validacion", "renderizado"]
+    },
+
+    "fuentePopup": {
+      "type": "object",
+      "description": "Interactive author/source card data. All prose fields (bio, metodo, aportacion) are trilingual objects. Added v1.2.0, prose fields made trilingual in v1.3.0.",
+      "properties": {
+        "bio":        { "$ref": "#/definitions/trilingual" },
+        "metodo":     { "$ref": "#/definitions/trilingual" },
+        "aportacion": { "$ref": "#/definitions/trilingual" },
+        "obras": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "url": { "type": "string", "format": "uri" }
+      },
+      "required": ["bio", "metodo", "aportacion", "obras", "url"],
+      "additionalProperties": false
+    },
+
+    "fuente": {
+      "type": "object",
+      "properties": {
+        "titulo":    { "type": "string", "minLength": 1 },
+        "autor":     { "type": "string", "minLength": 1 },
+        "año":  { "type": "integer" },
+        "editorial": { "type": "string" },
+        "nivel":     { "$ref": "#/definitions/nivelFuente" },
+        "idioma":    { "$ref": "#/definitions/idiomaFuente" },
+        "camposUtilizados": { "$ref": "#/definitions/trilingualArray" },
+        "popup":     { "$ref": "#/definitions/fuentePopup" }
+      },
+      "required": ["titulo", "autor", "año", "editorial", "nivel", "camposUtilizados"],
+      "additionalProperties": false
+    },
+
+    "fuenteCaracter": {
+      "type": "object",
+      "description": "Source entry nested inside a character's biografiaHistorica. camposUtilizados is a plain string array here (not trilingual) since these are brief inline notes.",
+      "properties": {
+        "titulo":    { "type": "string", "minLength": 1 },
+        "autor":     { "type": "string", "minLength": 1 },
+        "año":  { "type": "integer" },
+        "editorial": { "type": "string" },
+        "nivel":     { "$ref": "#/definitions/nivelFuente" },
+        "camposUtilizados": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["titulo", "autor", "nivel"],
+      "additionalProperties": false
+    },
+
+    "geografiaEntry": {
+      "type": "object",
+      "properties": {
+        "lugar":                 { "$ref": "#/definitions/trilingual" },
+        "identificacionModerna": { "$ref": "#/definitions/trilingual" },
+        "significancia":         { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["lugar", "identificacionModerna", "significancia"],
+      "additionalProperties": false
+    },
+
+    "civilizacionEntry": {
+      "type": "object",
+      "properties": {
+        "nombre":             { "$ref": "#/definitions/trilingual" },
+        "rolEnElTexto":       { "$ref": "#/definitions/trilingual" },
+        "estadoArqueologico": { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["nombre", "rolEnElTexto", "estadoArqueologico"],
+      "additionalProperties": false
+    },
+
+    "fuenteANEEntry": {
+      "type": "object",
+      "properties": {
+        "nombre":    { "$ref": "#/definitions/trilingual" },
+        "origen":    { "$ref": "#/definitions/trilingual" },
+        "relevancia": { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["nombre", "origen", "relevancia"],
+      "additionalProperties": false
+    },
+
+    "contextoHistorico": {
+      "type": "object",
+      "description": "Treats the book as a primary historical document, independent of theological interpretation. Added in v1.2.0 (Step 3).",
+      "properties": {
+        "periodoHistorico": { "$ref": "#/definitions/trilingual" },
+        "geografia": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/geografiaEntry" },
+          "minItems": 1
+        },
+        "civilizaciones": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/civilizacionEntry" }
+        },
+        "arqueologia": { "$ref": "#/definitions/trilingual" },
+        "fuentesANE": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/fuenteANEEntry" }
+        },
+        "controversiasHistoricas": { "$ref": "#/definitions/trilingual" },
+        "cronologiaInterna":       { "$ref": "#/definitions/trilingual" }
+      },
+      "required": [
+        "periodoHistorico", "geografia", "civilizaciones",
+        "arqueologia", "fuentesANE", "controversiasHistoricas", "cronologiaInterna"
+      ],
+      "additionalProperties": false
+    },
+
+    "biografiaBiblica": {
+      "type": "object",
+      "properties": {
+        "resumen": { "$ref": "#/definitions/trilingual" },
+        "fuenteTexto": {
+          "type": "object",
+          "properties": {
+            "es": { "const": "NBLA" },
+            "en": { "const": "ESV" },
+            "pt": { "const": "NAA" }
+          },
+          "required": ["es", "en", "pt"],
+          "additionalProperties": false
+        },
+        "versiculosClave": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/verseRef" },
+          "minItems": 1
+        }
+      },
+      "required": ["resumen", "fuenteTexto", "versiculosClave"],
+      "additionalProperties": false
+    },
+
+    "biografiaHistorica": {
+      "type": "object",
+      "properties": {
+        "resumen": { "$ref": "#/definitions/trilingual" },
+        "fuentes": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/fuenteCaracter" }
+        },
+        "nivelEvidencia":      { "$ref": "#/definitions/nivelEvidencia" },
+        "concordanciaConTexto": { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["resumen", "fuentes", "nivelEvidencia", "concordanciaConTexto"],
+      "additionalProperties": false
+    },
+
+    "personaje": {
+      "type": "object",
+      "properties": {
+        "nombre":  { "$ref": "#/definitions/trilingual" },
+        "hebreo":  { "type": "string", "description": "Hebrew (OT) or Greek (NT) name characters. Optional." },
+        "principal": { "type": "boolean" },
+        "rol":     { "$ref": "#/definitions/rolPersonaje" },
+        "capitulosActivo": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1 },
+          "minItems": 1
+        },
+        "descripcion":          { "$ref": "#/definitions/trilingual" },
+        "acciones":             { "$ref": "#/definitions/trilingual" },
+        "significadoTeologico": { "$ref": "#/definitions/trilingual" },
+        "tipo":                 { "$ref": "#/definitions/trilingual" },
+        "caracterMoral":        { "$ref": "#/definitions/trilingual" },
+        "biografiaBiblica":     { "$ref": "#/definitions/biografiaBiblica" },
+        "biografiaHistorica":   { "$ref": "#/definitions/biografiaHistorica" },
+        "versiculosAsociados": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/verseRef" }
+        },
+        "aparicionesEnOtrosLibros": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "enElNuevoTestamento": { "$ref": "#/definitions/trilingual" }
+      },
+      "required": [
+        "nombre", "principal", "rol", "capitulosActivo", "descripcion",
+        "acciones", "significadoTeologico", "tipo", "caracterMoral",
+        "biografiaBiblica", "biografiaHistorica", "versiculosAsociados",
+        "aparicionesEnOtrosLibros", "enElNuevoTestamento"
+      ],
+      "additionalProperties": false
+    },
+
+    "teologiaSistematicaEntry": {
+      "type": "object",
+      "description": "One doctrinal category present in the book. Upgraded from flat string to structured object in v1.1.0.",
+      "properties": {
+        "categoria":          { "$ref": "#/definitions/teologiaCategoria" },
+        "resumen":            { "$ref": "#/definitions/trilingual" },
+        "pasajes": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/verseRef" },
+          "minItems": 2,
+          "maxItems": 6
+        },
+        "ensenanza":          { "$ref": "#/definitions/trilingual" },
+        "distintivaReformada": { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["categoria", "resumen", "pasajes", "ensenanza", "distintivaReformada"],
+      "additionalProperties": false
+    },
+
+    "resumenCapituloEntry": {
+      "type": "object",
+      "properties": {
+        "rangoInicio": { "type": "integer", "minimum": 1 },
+        "rangoFin":    { "type": "integer", "minimum": 1 },
+        "era":         { "type": "string", "description": "Redemptive-history era label used by the viewer to color the chapter timeline entry (e.g. 'Éxodo', 'Patriarcal'). Optional." },
+        "titulo":      { "$ref": "#/definitions/trilingual" },
+        "descripcion": { "$ref": "#/definitions/trilingual" },
+        "eventoClave": { "$ref": "#/definitions/trilingual" },
+        "versiculoClave": { "$ref": "#/definitions/verseRef" }
+      },
+      "required": ["rangoInicio", "rangoFin", "titulo", "descripcion", "eventoClave", "versiculoClave"],
+      "additionalProperties": false
+    },
+
+    "campoMarcadoEntry": {
+      "type": "object",
+      "properties": {
+        "campo":        { "type": "string" },
+        "razon":        { "type": "string" },
+        "resuelto":     { "type": "boolean" },
+        "fechaMarcado": { "$ref": "#/definitions/isoDate" }
+      },
+      "required": ["campo", "razon", "resuelto", "fechaMarcado"],
+      "additionalProperties": false
+    },
+
+    "pipelineHistorialEntry": {
+      "type": "object",
+      "properties": {
+        "fase":        { "type": "integer", "minimum": 1, "maximum": 5 },
+        "nombre":      { "$ref": "#/definitions/faseNombre" },
+        "completado":  { "type": "boolean" },
+        "fechaInicio": { "type": "string" },
+        "fechaFin":    { "type": "string" },
+        "errores": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["fase", "nombre", "completado", "fechaInicio", "fechaFin", "errores"],
+      "additionalProperties": false
+    },
+
+    "meta": {
+      "type": "object",
+      "properties": {
+        "version":   { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+        "estado":    { "$ref": "#/definitions/estadoPipeline" },
+        "confianza": { "type": "number", "minimum": 0.0, "maximum": 1.0 },
+        "camposMarcados": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/campoMarcadoEntry" }
+        },
+        "ultimaActualizacion": { "$ref": "#/definitions/isoDate" },
+        "revisadoPor": {
+          "type": "object",
+          "properties": {
+            "nombre":        { "type": "string" },
+            "rol":           { "$ref": "#/definitions/rolRevisor" },
+            "fechaRevision": { "$ref": "#/definitions/isoDate" }
+          },
+          "required": ["nombre", "rol", "fechaRevision"],
+          "additionalProperties": false
+        },
+        "versionBiblia": {
+          "type": "object",
+          "properties": {
+            "es": { "const": "NBLA" },
+            "en": { "const": "ESV" },
+            "pt": { "const": "NAA" }
+          },
+          "required": ["es", "en", "pt"],
+          "additionalProperties": false
+        },
+        "pipeline": {
+          "type": "object",
+          "properties": {
+            "faseActual": { "type": "integer", "minimum": 1, "maximum": 5 },
+            "historial": {
+              "type": "array",
+              "items": { "$ref": "#/definitions/pipelineHistorialEntry" }
+            }
+          },
+          "required": ["faseActual", "historial"],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "version", "estado", "confianza", "camposMarcados",
+        "ultimaActualizacion", "revisadoPor", "versionBiblia", "pipeline"
+      ],
+      "additionalProperties": false
+    }
+  },
+
+  "properties": {
+    "id":             { "type": "integer", "minimum": 1, "maximum": 66 },
+    "testamento":     { "$ref": "#/definitions/testamento" },
+    "division":       { "$ref": "#/definitions/division" },
+    "titulo":         { "$ref": "#/definitions/trilingual" },
+    "tituloOriginal": { "type": "string", "minLength": 1 },
+    "transliteracion": { "type": "string", "minLength": 1 },
+    "significado":    { "$ref": "#/definitions/trilingual" },
+
+    "autor": {
+      "type": "object",
+      "properties": {
+        "nombre": {
+          "description": "Author name — either a plain string or a trilingual object {es,en,pt}.",
+          "oneOf": [
+            { "type": "string", "minLength": 1 },
+            { "$ref": "#/definitions/trilingual" }
+          ]
+        },
+        "tradicional": { "type": "boolean" },
+        "nota":        { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["nombre", "tradicional", "nota"],
+      "additionalProperties": false
+    },
+
+    "año": {
+      "type": "object",
+      "description": "Composition date. UI label for año.display must read 'Fecha de escritura'.",
+      "properties": {
+        "desde":   { "type": "integer", "description": "Negative = B.C., positive = A.D." },
+        "hasta":   { "type": "integer" },
+        "display": { "$ref": "#/definitions/trilingual" }
+      },
+      "required": ["desde", "hasta", "display"],
+      "additionalProperties": false
+    },
+
+    "idiomaOriginal": { "$ref": "#/definitions/idiomaOriginal" },
+    "escritoEn":      { "$ref": "#/definitions/trilingual" },
+
+    "contextoHistorico": { "$ref": "#/definitions/contextoHistorico" },
+
+    "ordenEnDivision": { "type": "integer", "minimum": 1 },
+    "ordenCanon":      { "type": "integer", "minimum": 1, "maximum": 66 },
+
+    "historiaRedentora": {
+      "type": "object",
+      "properties": {
+        "epoca":               { "$ref": "#/definitions/epocaRedentora" },
+        "contextoPacto":       { "$ref": "#/definitions/contextoPacto" },
+        "enfoqueCristologico": { "$ref": "#/definitions/trilingual" },
+        "tiposYSombras": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/trilingual" },
+          "minItems": 1,
+          "description": "Each entry is a trilingual object {es, en, pt} describing one type or shadow with Scripture cross-references."
+        }
+      },
+      "required": ["epoca", "contextoPacto", "enfoqueCristologico", "tiposYSombras"],
+      "additionalProperties": false
+    },
+
+    "aportacionAlCanon": { "$ref": "#/definitions/trilingual" },
+
+    "genero":       { "$ref": "#/definitions/trilingual" },
+    "palabraClave": { "$ref": "#/definitions/trilingualArray" },
+    "destinatario": { "$ref": "#/definitions/trilingual" },
+    "proposito":    { "$ref": "#/definitions/trilingual" },
+
+    "personajes": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/personaje" }
+    },
+
+    "teologiaSistematica": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/teologiaSistematicaEntry" },
+      "minItems": 3,
+      "description": "Minimum 3 entries per book per the CANON Pipeline quality checklist."
+    },
+
+    "anclasConfesionales": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/wcfAnclaEntry" },
+      "description": "Westminster Confession of Faith chapters relevant to this book. Each entry is a full trilingual WCF object, not a plain string."
+    },
+
+    "versiculosClave": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/versiculoClaveEntry" },
+      "minItems": 2,
+      "maxItems": 5,
+      "description": "2–5 key verses. Each entry carries the reference, trilingual verse text, and an optional trilingual theological note."
+    },
+
+    "distintivasReformadas": { "$ref": "#/definitions/trilingual" },
+
+    "fuentes": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/fuente" },
+      "minItems": 3
+    },
+
+    "resumenCapitulos": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/resumenCapituloEntry" },
+      "minItems": 1
+    },
+
+    "meta": { "$ref": "#/definitions/meta" }
+  },
+
+  "required": [
+    "id", "testamento", "division", "titulo", "tituloOriginal",
+    "transliteracion", "significado", "autor", "año", "idiomaOriginal",
+    "escritoEn", "contextoHistorico", "ordenEnDivision", "ordenCanon",
+    "historiaRedentora", "aportacionAlCanon", "genero", "palabraClave",
+    "destinatario", "proposito", "personajes", "teologiaSistematica",
+    "anclasConfesionales", "versiculosClave", "distintivasReformadas",
+    "fuentes", "resumenCapitulos", "meta"
+  ],
+  "additionalProperties": false
+}
