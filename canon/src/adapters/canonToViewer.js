@@ -14,6 +14,7 @@ const ERA_COLORS = {
   "Intertestamental":"#8A8A8A",
   "Ministerio":     "#C9A84C",
   "Iglesia":        "#6B5B95",
+  "Aplicación":     "#6B5B95",
   "Consumación":    "#8B0000",
 };
 
@@ -154,18 +155,21 @@ export function adaptCapitulos(resumenCapitulos, lang = "es") {
 // personajes[] → component character shape (content from JSON, display config inline)
 const PERSONA_DISPLAY_FALLBACK = { id: "", color:"#888", init:"?", xCh:1, side:"above", badge:{es:"",en:"",pt:""} };
 
-export function adaptPersonajes(arr, lang = "es", personasDisplay = {}) {
+export function adaptPersonajes(arr, lang = "es", personasDisplay = {}, totalChapters = 999) {
   if (!arr) return [];
   return arr.map(p => {
     const esName = typeof p.nombre === "object" ? p.nombre.es : p.nombre;
     const d = personasDisplay[esName] || { ...PERSONA_DISPLAY_FALLBACK, id: esName };
     const caps = p.capitulosActivo || [];
+    // If the global xCh is beyond this book's chapter count, fall back to the
+    // character's first active chapter in this book so they stay on the timeline.
+    const xCh = d.xCh <= totalChapters ? d.xCh : (caps[0] ?? totalChapters);
     return {
       id: d.id,
       name:      typeof p.nombre === "object" ? (p.nombre[lang] || p.nombre.es) : p.nombre,
       heb:       p.hebreo || "",
       ch:        [caps[0] ?? 1, caps[caps.length - 1] ?? 50],
-      xCh:       d.xCh,
+      xCh,
       side:      d.side,
       color:     d.color,
       init:      d.init,
@@ -196,7 +200,7 @@ export function adaptContextoHistorico(ctx, lang = "es") {
 
   const HIST_CIVILIZACIONES = (ctx.civilizaciones || []).map(c => ({
     nombre: pick(c.nombre),
-    rol:    c.rolEnElTexto ? (c.rolEnElTexto[lang] || "") : "",
+    desc:   c.rolEnElTexto ? (c.rolEnElTexto[lang] || "") : "",
     estado: c.estadoArqueologico ? (c.estadoArqueologico[lang] || "") : "",
   }));
 

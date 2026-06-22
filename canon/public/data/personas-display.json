@@ -250,5 +250,113 @@
       "en": "THE TRANSGRESSOR",
       "pt": "O TRANSGRESSOR"
     }
+  },
+  "Pablo (Apóstol)": {
+    "id": "pablo-apostol",
+    "color": "#8B1A3A",
+    "init": "Πα",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "APÓSTOL A LOS GENTILES",
+      "en": "APOSTLE TO THE GENTILES",
+      "pt": "APÓSTOLO AOS GENTIOS"
+    }
+  },
+  "Jesucristo": {
+    "id": "jesucristo",
+    "color": "#7B3F9E",
+    "init": "ΙΧ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "SEÑOR Y SALVADOR",
+      "en": "LORD AND SAVIOR",
+      "pt": "SENHOR E SALVADOR"
+    }
+  },
+  "Febe": {
+    "id": "febe",
+    "color": "#5A8B6A",
+    "init": "Φο",
+    "xCh": 16,
+    "side": "above",
+    "badge": {
+      "es": "DIACONISA Y MENSAJERA",
+      "en": "DEACONESS AND MESSENGER",
+      "pt": "DIACONISA E MENSAGEIRA"
+    }
+  },
+  "David (Rey de Israel)": {
+    "id": "david-rey",
+    "color": "#3A5F8A",
+    "init": "Δα",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "REY Y PROFETA",
+      "en": "KING AND PROPHET",
+      "pt": "REI E PROFETA"
+    }
+  },
+  "Esaú": {
+    "id": "esau",
+    "color": "#7A4A2A",
+    "init": "Ἠσ",
+    "xCh": 9,
+    "side": "above",
+    "badge": {
+      "es": "TIPO: REPROBADO",
+      "en": "TYPE: THE REPROBATE",
+      "pt": "TIPO: O REPROVADO"
+    }
+  },
+  "Elías": {
+    "id": "elias",
+    "color": "#8B5E1A",
+    "init": "Ηλ",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA DEL REMANENTE",
+      "en": "PROPHET OF THE REMNANT",
+      "pt": "PROFETA DO REMANESCENTE"
+    }
+  },
+  "Priscila y Aquila": {
+    "id": "priscila-aquila",
+    "color": "#8B5A4A",
+    "init": "ΠΑ",
+    "xCh": 16,
+    "side": "below",
+    "badge": {
+      "es": "COLABORADORES EN CRISTO",
+      "en": "FELLOW WORKERS IN CHRIST",
+      "pt": "COLABORADORES EM CRISTO"
+    }
+  },
+  "Tercio": {
+    "id": "tercio",
+    "color": "#6A7A5A",
+    "init": "Τε",
+    "xCh": 16,
+    "side": "above",
+    "badge": {
+      "es": "AMANUENSE DE PABLO",
+      "en": "PAUL'S SECRETARY",
+      "pt": "SECRETÁRIO DE PAULO"
+    }
+  },
+  "Erasto": {
+    "id": "erasto",
+    "color": "#4A6A8B",
+    "init": "Ερ",
+    "xCh": 16,
+    "side": "below",
+    "badge": {
+      "es": "TESORERO DE CORINTO",
+      "en": "TREASURER OF CORINTH",
+      "pt": "TESOUREIRO DE CORINTO"
+    }
   }
 }

@@ -9,8 +9,27 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
   const [charTooltip, setCharTooltip] = useState(null);
   const dragRef = useRef({ isDown: false, startX: 0, scrollLeft: 0 });
 
-  const TOTAL_W = 4200;
+  const TOTAL_W = Math.max(totalChapters * 85, 1200);
   const xOf = (ch) => ((ch - 0.5) / totalChapters) * TOTAL_W;
+
+  // Multi-character distribution per chapter:
+  //   1 char  → keep original side from data
+  //   2 chars → one above, one below (alternate by index)
+  //   3+ chars → continue alternating; same-side overflow stacks vertically
+  //              with a longer connector (one step further from spine per depth level)
+  const STACK_STEP = 110; // px per depth level: 72px circle + ~38px clear gap
+  const chGroups = {};
+  characters.forEach((c, i) => {
+    if (!chGroups[c.xCh]) chGroups[c.xCh] = [];
+    chGroups[c.xCh].push(i);
+  });
+  const getPlacement = (charIdx) => {
+    const c = characters[charIdx];
+    const group = chGroups[c.xCh];
+    if (group.length === 1) return { side: c.side, depth: 0 };
+    const pos = group.indexOf(charIdx);
+    return { side: pos % 2 === 0 ? "above" : "below", depth: Math.floor(pos / 2) };
+  };
 
   const onMouseDown = (e) => {
     dragRef.current.isDown = true;
@@ -68,18 +87,23 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             );
           })}
 
-          {characters.map(c => {
+          {characters.map((c, i) => {
             const x = xOf(c.xCh);
-            const isAbove = c.side === "above";
+            const { side, depth } = getPlacement(i);
+            const isAbove = side === "above";
+            const cLen = 55 + depth * STACK_STEP;
             return (
               <div key={c.id}
                 onClick={() => onSelectChar(c)}
                 onMouseEnter={e => setCharTooltip({ char: c, x: e.clientX, y: e.clientY })}
                 onMouseLeave={() => setCharTooltip(null)}
-                style={{ position:"absolute", left:x-36, top:isAbove ? "auto" : "50%", bottom:isAbove ? "50%" : "auto",
-                  display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center", cursor:"pointer", zIndex:10 }}>
-                <div style={{padding:"2px 8px"}}>
-                  <div style={{fontSize:18, fontWeight:600, letterSpacing:0.5, color:c.color, textAlign:"center", whiteSpace:"nowrap", fontFamily:"'Georgia',serif"}}>{c.name}</div>
+                style={{ position:"absolute", left:x, transform:"translateX(-50%)",
+                  top:isAbove ? "auto" : "50%", bottom:isAbove ? "50%" : "auto",
+                  display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center", cursor:"pointer",
+                  zIndex: 20 - depth }}>
+                <div style={{padding:"2px 4px", maxWidth:120, overflow:"hidden"}}>
+                  <div style={{fontSize:14, fontWeight:600, letterSpacing:0.5, color:c.color, textAlign:"center",
+                    whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif"}}>{c.name}</div>
                 </div>
                 <div style={{width:72, height:72, borderRadius:"50%", border:`2px solid ${c.color}`,
                   background:`linear-gradient(135deg,${LAPIS},rgba(201,168,76,0.1))`,
@@ -88,7 +112,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
                   boxShadow:`0 4px 16px rgba(0,0,0,0.5), 0 0 0 3px ${c.color}20`, flexShrink:0}}>
                   {c.init}
                 </div>
-                <div style={{ width:1, height:55, background: isAbove
+                <div style={{ width:1, height:cLen, pointerEvents:"none", background: isAbove
                   ? `linear-gradient(180deg,${c.color}80,${c.color}20)`
                   : `linear-gradient(180deg,${c.color}20,${c.color}80)` }} />
               </div>

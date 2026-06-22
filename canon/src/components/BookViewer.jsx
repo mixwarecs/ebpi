@@ -18,9 +18,9 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
   const keyVerses   = bookData ? adaptVersiculosClave(bookData.versiculosClave, lang) : [];
   const wcfAnchors  = bookData ? adaptAnclasConfesionales(bookData.anclasConfesionales, lang) : [];
   const tiposSombras = bookData ? adaptTiposYSombras(bookData.historiaRedentora?.tiposYSombras, lang) : [];
-  const characters  = bookData ? adaptPersonajes(bookData.personajes, lang, personasDisplay) : [];
-  const epochs      = globalData ? (globalData.epocasRedentoras[lang] || globalData.epocasRedentoras.es) : [];
   const totalChapters = bookData?.capitulosTotal || 50;
+  const characters  = bookData ? adaptPersonajes(bookData.personajes, lang, personasDisplay, totalChapters) : [];
+  const epochs      = globalData ? (globalData.epocasRedentoras[lang] || globalData.epocasRedentoras.es) : [];
   const bookTitle   = (bookData?.titulo?.[lang] || bookData?.titulo?.es || "").toUpperCase();
   const bookAb      = BOOKS.find(b => b.id === bookData?.id)?.ab || "Gn";
 
@@ -161,7 +161,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 ))}
               </div>
               <div style={{marginTop:8, fontSize:11, fontStyle:"italic", color:"rgba(242,232,208,0.4)"}}>
-                Cronología conservadora-reformada (Ussher/masorética). La cronología moderna sitúa estos eventos 1–3 siglos más tarde.
+                {HL.chronologyNote}
               </div>
             </div>
             <div style={{marginBottom:20}}>
@@ -181,8 +181,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fill,minmax(280px,1fr))", gap:12}}>
                 {HC.map((c, i) => (
                   <div key={i} style={{background:"rgba(27,42,74,0.35)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 16px"}}>
-                    <div style={{fontSize:13, fontWeight:700, color:PARCHMENT, marginBottom:2}}>{c.nombre}</div>
-                    <div style={{fontSize:11, letterSpacing:1, color:"rgba(242,232,208,0.5)", marginBottom:8}}>{c.rol}</div>
+                    <div style={{fontSize:13, fontWeight:700, color:PARCHMENT, marginBottom:6}}>{c.nombre}</div>
                     <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{lv(cap(c.desc))}</div>
                   </div>
                 ))}

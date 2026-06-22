@@ -354,6 +354,7 @@ export const UI = {
       period: "PERÍODO HISTÓRICO", chronology: "CRONOLOGÍA INTERNA DEL LIBRO",
       geography: "GEOGRAFÍA DEL LIBRO", civilizations: "CIVILIZACIONES EN ESCENA",
       ane: "FUENTES DEL ANTIGUO ORIENTE PRÓXIMO (ANE)", controversies: "CONTROVERSIAS HISTÓRICAS",
+      chronologyNote: "Cronología conservadora-reformada (Ussher/masorética). La cronología moderna sitúa estos eventos 1–3 siglos más tarde.",
     },
     sourcesLabels: {
       hint: "Haz clic en cualquier fuente para ver biografía del autor, método y aportación al pipeline",
@@ -413,6 +414,7 @@ export const UI = {
       period: "HISTORICAL PERIOD", chronology: "INTERNAL CHRONOLOGY OF THE BOOK",
       geography: "BOOK GEOGRAPHY", civilizations: "CIVILIZATIONS IN SCENE",
       ane: "ANCIENT NEAR EAST SOURCES (ANE)", controversies: "HISTORICAL CONTROVERSIES",
+      chronologyNote: "Conservative-Reformed chronology (Ussher/Masoretic). Modern scholarship places these events 1–3 centuries later.",
     },
     sourcesLabels: {
       hint: "Click any source to view the author biography, method and contribution to the pipeline",
@@ -472,6 +474,7 @@ export const UI = {
       period: "PERÍODO HISTÓRICO", chronology: "CRONOLOGIA INTERNA DO LIVRO",
       geography: "GEOGRAFIA DO LIVRO", civilizations: "CIVILIZAÇÕES EM CENA",
       ane: "FONTES DO ANTIGO ORIENTE PRÓXIMO (ANE)", controversies: "CONTROVÉRSIAS HISTÓRICAS",
+      chronologyNote: "Cronologia conservadora-reformada (Ussher/Massorética). A cronologia moderna situa esses eventos 1–3 séculos mais tarde.",
     },
     sourcesLabels: {
       hint: "Clique em qualquer fonte para ver a biografia do autor, método e contribuição ao pipeline",

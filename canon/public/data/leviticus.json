@@ -15,7 +15,11 @@
     "pt": "E chamou — primeira palavra do texto hebraico; o título grego Leuitikon (LXX e Vulgata) significa 'referente aos levitas'"
   },
   "autor": {
-    "nombre": "Moisés",
+    "nombre": {
+      "es": "Moisés",
+      "en": "Moses",
+      "pt": "Moisés"
+    },
     "tradicional": true,
     "nota": {
       "es": "La tradición judía y cristiana reformada afirma sin ambigüedades la autoría mosaica del Levítico. El libro atribuye su contenido a revelación directa de YHWH a Moisés en más de treinta ocasiones (Lv 1:1; 4:1; 6:1; 7:22; 8:1, etc.). La hipótesis crítica JEDP, que asigna Levítico casi en su totalidad a una fuente sacerdotal tardía (P) del siglo VI a.C., es rechazada por la hermenéutica reformada, que sostiene que la coherencia teológica, las huellas lingüísticas antiguas y el testimonio del NT en boca de Cristo (Mt 8:4; Mr 1:44; Lc 5:14) confirman la autoría mosaica.",
@@ -1794,5 +1798,6 @@
         }
       ]
     }
-  }
+  },
+  "capitulosTotal": 27
 }

@@ -15,7 +15,11 @@
     "pt": "Estas são as palavras / Segunda lei"
   },
   "autor": {
-    "nombre": "Moisés",
+    "nombre": {
+      "es": "Moisés",
+      "en": "Moses",
+      "pt": "Moisés"
+    },
     "tradicional": true,
     "nota": {
       "es": "La tradición judía y cristiana histórica atribuye la autoría a Moisés. Los críticos modernos del Document Hypothesis postulan autores tardíos (fuente 'D'), pero la postura reformada mantiene la autoría mosaica sobre la base del testimonio interno (Dt 1:1; Dt 31:9,24) y las referencias del Nuevo Testamento (Mc 12:26; Jn 5:46–47; Ro 10:5). El relato de la muerte de Moisés (Dt 34) pudo haber sido añadido por Josué como apéndice bajo inspiración divina.",
@@ -1633,5 +1637,6 @@
         }
       ]
     }
-  }
+  },
+  "capitulosTotal": 34
 }

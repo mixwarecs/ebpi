@@ -1459,7 +1459,8 @@
       "ordenCanon": 45,
       "capitulosTotal": 16,
       "divisionColor": "#6B5B95",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "romans.json",
       "razon": {
         "es": "La exposición más sistemática del evangelio: pecado universal, justificación forense por la fe, gracia soberana y vida en el Espíritu. Es el texto doctrinal central de la teología protestante reformada.",
         "en": "The most systematic exposition of the gospel: universal sin, forensic justification by faith, sovereign grace, and life in the Spirit. It is the central doctrinal text of Reformed Protestant theology.",

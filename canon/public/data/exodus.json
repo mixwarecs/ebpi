@@ -17,7 +17,11 @@
     "pt": "Nomes — do hebraico 'estes são os nomes de', primeiras palavras do livro; o título grego 'Êxodo' (ἔξοδος) significa 'saída' ou 'partida'"
   },
   "autor": {
-    "nombre": "Moisés",
+    "nombre": {
+      "es": "Moisés",
+      "en": "Moses",
+      "pt": "Moisés"
+    },
     "tradicional": true,
     "nota": {
       "es": "La tradición judía, cristiana y reformada atribuye la autoría a Moisés (cf. Ex 17:14; 24:4; 34:27; Nm 33:2; Dt 31:9). Jesús mismo cita Éxodo como obra mosaica (Mr 7:10; Jn 5:46). La crítica histórica propone la hipótesis documental (JEDP), pero la tradición reformada rechaza esta reconstrucción especulativa y mantiene la autoría mosaica sustancial.",
@@ -1834,5 +1838,6 @@
         }
       ]
     }
-  }
+  },
+  "capitulosTotal": 40
 }
