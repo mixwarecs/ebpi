@@ -15,7 +15,11 @@
     "pt": "YHWH é salvação"
   },
   "autor": {
-    "nombre": "Josué (con adiciones póstumas)",
+    "nombre": {
+      "es": "Josué (con adiciones póstumas)",
+      "en": "Joshua (with posthumous additions)",
+      "pt": "Josué (com adições póstumas)"
+    },
     "tradicional": true,
     "nota": {
       "es": "La tradición bíblica y rabínica atribuye el libro al propio Josué, con la notable excepción de los versículos que narran su muerte (Jos 24:29–33) y de algunas secciones posteriores (Jos 15:13–19; Jos 19:47), que fueron añadidas por contemporáneos como Eleazar o Finees. El Talmud (Baba Batra 15a) confirma la autoría de Josué para el cuerpo principal del libro. La Reforma acepta esta autoría tradicional.",
