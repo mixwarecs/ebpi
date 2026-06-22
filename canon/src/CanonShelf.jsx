@@ -23,7 +23,8 @@ function parseHash() {
   if (path.length === 0 || LANGS.includes(path[0])) return { view: { mode: "index" }, lang };
   const [mode, id, maybeTab] = path;
   if ((mode === "division" || mode === "book") && id) {
-    const view = { mode, id: Number(id) };
+    const numId = Number(id);
+    const view = { mode, id: isNaN(numId) ? id : numId };
     if (mode === "book") view.tab = (maybeTab && TAB_IDS.includes(maybeTab)) ? maybeTab : "overview";
     return { view, lang };
   }

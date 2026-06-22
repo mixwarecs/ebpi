@@ -542,7 +542,7 @@ export const S = {
   pages: { flex: 1, minWidth: 0, display: "flex", position: "relative" },
   page: { flex: 1, minWidth: 0, overflowY: "auto", padding: "36px 30px 60px" },
   fullPage: { flex: 1, minWidth: 0, overflowY: "auto", padding: "40px 56px 70px" },
-  fullPageInner: { maxWidth: 880, margin: "0 auto" },
+  fullPageInner: { maxWidth: 880, margin: "0 auto", textAlign: "left" },
   spreadEyebrowBig: { fontFamily: "'Georgia',serif", fontSize: 22, letterSpacing: 4, color: GOLD, textTransform: "uppercase", marginBottom: 14, fontWeight: 700 },
   classGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(230px, 1fr))", gap: 14 },
   classCard: (color) => ({
