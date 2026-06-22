@@ -1439,7 +1439,8 @@
       "ordenCanon": 44,
       "capitulosTotal": 28,
       "divisionColor": "#1B6B5E",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "acts.json",
       "razon": {
         "es": "Único libro de su categoría: documenta el nacimiento de la iglesia en Pentecostés y su expansión geográfica y étnica desde Jerusalén hasta Roma, estableciendo el puente histórico entre los evangelios y las epístolas.",
         "en": "The only book in its category: documents the birth of the church at Pentecost and its geographical and ethnic expansion from Jerusalem to Rome, establishing the historical bridge between the Gospels and the Epistles.",

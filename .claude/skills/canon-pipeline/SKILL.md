@@ -41,14 +41,16 @@ Work through these in order. Each step lists its target fields — cross-referen
 - Set `meta.estado` = `"extraído"`, `meta.versionBiblia` = `{ es: "NBLA", en: "ESV", pt: "NAA" }`, `meta.pipeline.faseActual` = 3
 
 ### Step 1 — Identification
-**Fields:** `id`, `testamento`, `division`, `titulo`, `tituloOriginal`, `transliteracion`, `significado`
+**Fields:** `id`, `testamento`, `division`, `titulo`, `tituloOriginal`, `transliteracion`, `significado`, `capitulosTotal`
 - `tituloOriginal`: Hebrew characters (OT) or Greek (NT); `transliteracion`: phonetic romanization
 - `significado`: **trilingual object `{es, en, pt}`** — literal meaning of the original title in all three languages
+- `capitulosTotal`: integer — the canonical chapter count for this book (e.g. `16` for Romans, `50` for Genesis). **Required** — the viewer uses this for timeline scaling and for clamping cross-book character positions. Without it the timeline falls back to 50 chapters, compressing shorter books and misplacing characters.
 - Source: internal knowledge
 
 ### Step 2 — Authorship & fecha de escritura
 **Fields:** `autor`, `año`, `idiomaOriginal`, `escritoEn`
 - Search Blue Letter Bible for book introduction, confirm with Bible Gateway
+- **`autor.nombre` must be a trilingual object `{es, en, pt}`** — e.g. `{"es":"Moisés","en":"Moses","pt":"Moisés"}`. A flat Spanish string causes the author name to appear in Spanish regardless of the viewer's selected language.
 - Debated authorship → `autor.tradicional = true` + populate `autor.nota`
 - **`año.display.es` label must always read "Fecha de escritura"** — never "Datación" or other phrasing
 - Dates: negative = B.C., positive = A.D. OT = Hebrew (except Daniel 2–7 and Ezra 4–7 = Aramaic), NT = Greek
@@ -173,6 +175,8 @@ Full canonical table per language: see `references/controlled-vocabularies.md` �
 ## Quality checklist
 
 Before outputting the final JSON, verify every item:
+- [ ] `capitulosTotal` is present and correct (integer, canonical chapter count — e.g. `16` for Romans)
+- [ ] `autor.nombre` is a **trilingual `{es,en,pt}` object**, not a flat Spanish string
 - [ ] All trilingual fields have ES, EN, and PT populated — this includes `tiposYSombras[]`, `anclasConfesionales[].titulo/resumen`, `versiculosClave[].nota`, `fuentes[].popup.bio/metodo/aportacion`, `contextoHistorico.geografia[].lugar/identificacionModerna`, `civilizaciones[].nombre`, `fuentesANE[].nombre/origen`
 - [ ] `contextoHistorico.periodoHistorico` is a **trilingual `{es,en,pt}` object**, not a flat string
 - [ ] Every `teologiaSistematica[].categoria` is a **trilingual `{es,en,pt}` object** (not a flat Spanish string from the controlled vocabulary)

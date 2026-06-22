@@ -494,15 +494,18 @@
     "transliteracion": { "type": "string", "minLength": 1 },
     "significado":    { "$ref": "#/definitions/trilingual" },
 
+    "capitulosTotal": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Canonical chapter count for this book (e.g. 16 for Romans, 50 for Genesis). Required by the viewer for timeline scaling and character position clamping."
+    },
+
     "autor": {
       "type": "object",
       "properties": {
         "nombre": {
-          "description": "Author name — either a plain string or a trilingual object {es,en,pt}.",
-          "oneOf": [
-            { "type": "string", "minLength": 1 },
-            { "$ref": "#/definitions/trilingual" }
-          ]
+          "description": "Author name as a trilingual object {es, en, pt}. Must be trilingual — a flat string will render in Spanish regardless of viewer language.",
+          "$ref": "#/definitions/trilingual"
         },
         "tradicional": { "type": "boolean" },
         "nota":        { "$ref": "#/definitions/trilingual" }
@@ -600,7 +603,7 @@
 
   "required": [
     "id", "testamento", "division", "titulo", "tituloOriginal",
-    "transliteracion", "significado", "autor", "año", "idiomaOriginal",
+    "transliteracion", "significado", "capitulosTotal", "autor", "año", "idiomaOriginal",
     "escritoEn", "contextoHistorico", "ordenEnDivision", "ordenCanon",
     "historiaRedentora", "aportacionAlCanon", "genero", "palabraClave",
     "destinatario", "proposito", "personajes", "teologiaSistematica",

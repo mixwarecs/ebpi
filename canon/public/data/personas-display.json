@@ -358,5 +358,125 @@
       "en": "TREASURER OF CORINTH",
       "pt": "TESOUREIRO DE CORINTO"
     }
+  },
+  "Pedro": {
+    "id": "pedro",
+    "color": "#1B5E8B",
+    "init": "ΠΠ",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "APÓSTOL LÍDER",
+      "en": "LEAD APOSTLE",
+      "pt": "APÓSTOLO LÍDER"
+    }
+  },
+  "Pablo": {
+    "id": "pablo",
+    "color": "#4A6741",
+    "init": "ΠΑ",
+    "xCh": 13,
+    "side": "below",
+    "badge": {
+      "es": "APÓSTOL A LOS GENTILES",
+      "en": "APOSTLE TO THE GENTILES",
+      "pt": "APÓSTOLO DOS GENTIOS"
+    }
+  },
+  "Esteban": {
+    "id": "esteban",
+    "color": "#8B3A2A",
+    "init": "ΣΤ",
+    "xCh": 6,
+    "side": "above",
+    "badge": {
+      "es": "PRIMER MÁRTIR",
+      "en": "FIRST MARTYR",
+      "pt": "PRIMEIRO MÁRTIR"
+    }
+  },
+  "Bernabé": {
+    "id": "bernabe",
+    "color": "#6B4A8B",
+    "init": "ΒΑ",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "HIJO DE CONSOLACIÓN",
+      "en": "SON OF ENCOURAGEMENT",
+      "pt": "FILHO DE CONSOLAÇÃO"
+    }
+  },
+  "Jacobo (hermano del Señor)": {
+    "id": "jacobo",
+    "color": "#5A7A5A",
+    "init": "ΙΑ",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "LÍDER DE JERUSALÉN",
+      "en": "JERUSALEM LEADER",
+      "pt": "LÍDER DE JERUSALÉM"
+    }
+  },
+  "Cornelio": {
+    "id": "cornelio",
+    "color": "#8B6914",
+    "init": "ΚΝ",
+    "xCh": 10,
+    "side": "below",
+    "badge": {
+      "es": "PRIMER GENTIL CONVERTIDO",
+      "en": "FIRST GENTILE CONVERT",
+      "pt": "PRIMEIRO GENTIO CONVERTIDO"
+    }
+  },
+  "Felipe el Evangelista": {
+    "id": "felipe",
+    "color": "#1B6B5E",
+    "init": "ΦΛ",
+    "xCh": 8,
+    "side": "above",
+    "badge": {
+      "es": "EL EVANGELISTA",
+      "en": "THE EVANGELIST",
+      "pt": "O EVANGELISTA"
+    }
+  },
+  "Lidia": {
+    "id": "lidia",
+    "color": "#7A4A6B",
+    "init": "ΛΔ",
+    "xCh": 16,
+    "side": "below",
+    "badge": {
+      "es": "PRIMERA EUROPEA CONVERTIDA",
+      "en": "FIRST EUROPEAN CONVERT",
+      "pt": "PRIMEIRA EUROPEIA CONVERTIDA"
+    }
+  },
+  "Ananías y Safira": {
+    "id": "ananias-safira",
+    "color": "#5A3A2A",
+    "init": "ΑΣ",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "HIPÓCRITAS",
+      "en": "HYPOCRITES",
+      "pt": "HIPÓCRITAS"
+    }
+  },
+  "Apolos": {
+    "id": "apolos",
+    "color": "#3A5A8B",
+    "init": "ΑΠ",
+    "xCh": 18,
+    "side": "below",
+    "badge": {
+      "es": "ELOCUENTE EN LAS ESCRITURAS",
+      "en": "ELOQUENT IN THE SCRIPTURES",
+      "pt": "ELOQUENTE NAS ESCRITURAS"
+    }
   }
 }

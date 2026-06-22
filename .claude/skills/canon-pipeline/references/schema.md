@@ -20,9 +20,10 @@ This is the complete field-by-field shape every CANON book record must follow. A
   "tituloOriginal": "Hebrew or Greek characters",
   "transliteracion": "phonetic romanization",
   "significado": { "es": "", "en": "", "pt": "" },
+  "capitulosTotal": 16,
 
   "autor": {
-    "nombre": "",
+    "nombre": { "es": "", "en": "", "pt": "" },
     "tradicional": "boolean",
     "nota": { "es": "", "en": "", "pt": "" }
   },

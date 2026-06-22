@@ -12,6 +12,7 @@ const ERA_COLORS = {
   "Exilio":         "#7A4A6B",
   "Post-exilio":    "#5A7A6B",
   "Intertestamental":"#8A8A8A",
+  "Cumplimiento":   "#6B5B95",
   "Ministerio":     "#C9A84C",
   "Iglesia":        "#6B5B95",
   "Aplicación":     "#6B5B95",
