@@ -1419,12 +1419,13 @@
       "ordenCanon": 43,
       "capitulosTotal": 21,
       "divisionColor": "#C9A84C",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El evangelio teológico por excelencia: presenta a Jesús como el Logos eterno encarnado (Jn 1:1,14) mediante siete señales y siete declaraciones 'Yo Soy' que revelan su deidad.",
         "en": "The theological Gospel par excellence: presents Jesus as the eternal Logos incarnate (John 1:1,14) through seven signs and seven 'I Am' declarations that reveal his deity.",
         "pt": "O evangelho teológico por excelência: apresenta Jesus como o Logos eterno encarnado (Jo 1:1,14) mediante sete sinais e sete declarações 'Eu Sou' que revelam sua divindade."
-      }
+      },
+      "dataFile": "john.json"
     },
     {
       "id": 44,

@@ -478,5 +478,197 @@
       "en": "ELOQUENT IN THE SCRIPTURES",
       "pt": "ELOQUENTE NAS ESCRITURAS"
     }
+  },
+  "Jesús": {
+    "id": "jesus-juan",
+    "color": "#C9A84C",
+    "init": "Ιη",
+    "xCh": 10,
+    "side": "above",
+    "badge": {
+      "es": "EL VERBO ENCARNADO",
+      "en": "THE INCARNATE WORD",
+      "pt": "O VERBO ENCARNADO"
+    }
+  },
+  "Juan el Bautista": {
+    "id": "juan-bautista",
+    "color": "#1B5E8B",
+    "init": "Ιω",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PRECURSOR DEL MESÍAS",
+      "en": "FORERUNNER OF MESSIAH",
+      "pt": "PRECURSOR DO MESSIAS"
+    }
+  },
+  "Nicodemo": {
+    "id": "nicodemo",
+    "color": "#2E7D5E",
+    "init": "Νι",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "MAESTRO EN ISRAEL",
+      "en": "TEACHER OF ISRAEL",
+      "pt": "MESTRE EM ISRAEL"
+    }
+  },
+  "Lázaro de Betania": {
+    "id": "lazaro",
+    "color": "#6B4E2A",
+    "init": "Λα",
+    "xCh": 11,
+    "side": "above",
+    "badge": {
+      "es": "SEÑAL DE RESURRECCIÓN",
+      "en": "SIGN OF RESURRECTION",
+      "pt": "SINAL DE RESSURREIÇÃO"
+    }
+  },
+  "Tomás (Dídimo)": {
+    "id": "tomas",
+    "color": "#5A3A7A",
+    "init": "Θω",
+    "xCh": 20,
+    "side": "above",
+    "badge": {
+      "es": "DE LA DUDA A LA FE",
+      "en": "FROM DOUBT TO FAITH",
+      "pt": "DA DÚVIDA À FÉ"
+    }
+  },
+  "Poncio Pilato": {
+    "id": "pilato",
+    "color": "#7A1E1E",
+    "init": "Πι",
+    "xCh": 18,
+    "side": "below",
+    "badge": {
+      "es": "PREFECTO DE JUDEA",
+      "en": "PREFECT OF JUDEA",
+      "pt": "PREFEITO DA JUDEIA"
+    }
+  },
+  "Simón Pedro": {
+    "id": "simon-pedro",
+    "color": "#2A5A8B",
+    "init": "Πε",
+    "xCh": 6,
+    "side": "below",
+    "badge": {
+      "es": "APÓSTOL RESTAURADO",
+      "en": "RESTORED APOSTLE",
+      "pt": "APÓSTOLO RESTAURADO"
+    }
+  },
+  "El discípulo amado": {
+    "id": "discipulo-amado",
+    "color": "#8B6A1B",
+    "init": "ΑΓ",
+    "xCh": 19,
+    "side": "above",
+    "badge": {
+      "es": "TESTIGO DEL EVANGELIO",
+      "en": "WITNESS OF THE GOSPEL",
+      "pt": "TESTEMUNHA DO EVANGELHO"
+    }
+  },
+  "Judas Iscariote": {
+    "id": "judas",
+    "color": "#4A3A1E",
+    "init": "Ιδ",
+    "xCh": 13,
+    "side": "below",
+    "badge": {
+      "es": "HIJO DE PERDICIÓN",
+      "en": "SON OF PERDITION",
+      "pt": "FILHO DA PERDIÇÃO"
+    }
+  },
+  "Andrés": {
+    "id": "andres",
+    "color": "#1E6B5E",
+    "init": "Αν",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "EVANGELIZADOR PUENTE",
+      "en": "BRIDGE EVANGELIST",
+      "pt": "EVANGELIZADOR PONTE"
+    }
+  },
+  "Felipe": {
+    "id": "felipe-apostol",
+    "color": "#4A6B8B",
+    "init": "Φι",
+    "xCh": 14,
+    "side": "below",
+    "badge": {
+      "es": "APÓSTOL DE BETSAIDA",
+      "en": "APOSTLE OF BETHSAIDA",
+      "pt": "APÓSTOLO DE BETSAIDA"
+    }
+  },
+  "Natanael": {
+    "id": "natanael",
+    "color": "#5A7A3A",
+    "init": "Να",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "VERDADERO ISRAELITA",
+      "en": "TRUE ISRAELITE",
+      "pt": "VERDADEIRO ISRAELITA"
+    }
+  },
+  "María Magdalena": {
+    "id": "maria-magdalena",
+    "color": "#8B3A6B",
+    "init": "ΜΜ",
+    "xCh": 20,
+    "side": "below",
+    "badge": {
+      "es": "PRIMERA TESTIGO",
+      "en": "FIRST WITNESS",
+      "pt": "PRIMEIRA TESTEMUNHA"
+    }
+  },
+  "María, madre de Jesús": {
+    "id": "maria-madre",
+    "color": "#4A4A8B",
+    "init": "Μα",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "MADRE DEL MESÍAS",
+      "en": "MOTHER OF THE MESSIAH",
+      "pt": "MÃE DO MESSIAS"
+    }
+  },
+  "Marta": {
+    "id": "marta",
+    "color": "#8B5A1E",
+    "init": "Μρ",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "CONFESORA DE FE",
+      "en": "CONFESSOR OF FAITH",
+      "pt": "CONFESSORA DE FÉ"
+    }
+  },
+  "María de Betania": {
+    "id": "maria-betania",
+    "color": "#6B2A5A",
+    "init": "ΜΒ",
+    "xCh": 12,
+    "side": "above",
+    "badge": {
+      "es": "DEVOCIÓN EXTRAVAGANTE",
+      "en": "EXTRAVAGANT DEVOTION",
+      "pt": "DEVOÇÃO EXTRAVAGANTE"
+    }
   }
 }

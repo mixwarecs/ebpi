@@ -9,7 +9,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
   const [charTooltip, setCharTooltip] = useState(null);
   const dragRef = useRef({ isDown: false, startX: 0, scrollLeft: 0 });
 
-  const TOTAL_W = Math.max(totalChapters * 85, 1200);
+  const TOTAL_W = Math.max(totalChapters * 120, 1200);
   const xOf = (ch) => ((ch - 0.5) / totalChapters) * TOTAL_W;
 
   // Multi-character distribution per chapter:

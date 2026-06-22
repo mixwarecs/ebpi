@@ -94,7 +94,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             <div style={GS.audienceBox}>
               <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.8)"}}>{PL.audience}</div>
               <div style={{fontStyle:"italic", fontSize:15, color:"rgba(242,232,208,0.8)", lineHeight:1.65}}>
-                {bookData?.destinatario?.[lang] || bookData?.destinatario?.es || ""}
+                {lv(bookData?.destinatario?.[lang] || bookData?.destinatario?.es || "")}
               </div>
             </div>
           </div>
@@ -203,7 +203,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             </div>
             <div style={{background:"linear-gradient(90deg,rgba(139,58,42,0.12),rgba(139,58,42,0.02))", borderLeft:`3px solid ${SIENNA}`, padding:"14px 18px", borderRadius:"0 3px 3px 0"}}>
               <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.9)"}}>{HL.controversies}</div>
-              <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.75, color:"rgba(242,232,208,0.78)"}}>{cap(HCo)}</div>
+              <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.75, color:"rgba(242,232,208,0.78)"}}>{lv(cap(HCo))}</div>
             </div>
           </div>
         );
