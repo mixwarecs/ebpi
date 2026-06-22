@@ -23,6 +23,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
   const epochs      = globalData ? (globalData.epocasRedentoras[lang] || globalData.epocasRedentoras.es) : [];
   const bookTitle   = (bookData?.titulo?.[lang] || bookData?.titulo?.es || "").toUpperCase();
   const bookAb      = BOOKS.find(b => b.id === bookData?.id)?.ab || "Gn";
+  const IDIOMA_TRANS = { "Hebreo": { en: "Hebrew", pt: "Hebraico" }, "Griego": { en: "Greek", pt: "Grego" }, "Arameo": { en: "Aramaic", pt: "Aramaico" }, "Hebreo y Arameo": { en: "Hebrew and Aramaic", pt: "Hebraico e Aramaico" } };
+  const idiomaLabel = (raw) => { if (!raw) return raw; const t = IDIOMA_TRANS[raw]; return t?.[lang] || raw; };
 
   const categoriaEsToLang = {};
   (bookData?.teologiaSistematica || []).forEach(e => {
@@ -270,8 +272,9 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               bookData ? `${typeof bookData.autor.nombre === "object" ? (bookData.autor.nombre[lang] || bookData.autor.nombre.es) : bookData.autor.nombre} · ${UI[lang].traditional}` : `Moisés · ${UI[lang].traditional}`,
               bookData ? (bookData.año.display[lang] || bookData.año.display.es).replace(/^.*?:\s*/, "") : "c. 1445–1405 a.C.",
               `${divisionName || (bookData ? bookData.division : "Pentateuco")} · ${UI[lang].canonEntry(bookData ? bookData.ordenCanon : 1)}`,
-              bookData ? (bookData.escritoEn[lang] || bookData.escritoEn.es) : "Hebreo Bíblico Clásico",
+              bookData ? idiomaLabel(bookData.idiomaOriginal) : "Hebreo",
               "NBLA · ESV · NAA",
+              bookData?.escritoEn ? (bookData.escritoEn[lang] || bookData.escritoEn.es) : "",
             ];
             return (
               <div key={label} style={{borderLeft:`2px solid rgba(201,168,76,0.3)`, paddingLeft:12}}>
