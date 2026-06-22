@@ -26,15 +26,22 @@ canon/public/data/
   canon-global.json          ← global redemptive-history epoch data (used in Canon tab)
 
 canon/src/
-  CanonShelf.jsx             ← main app: loads manifest + book JSON, renders viewer
+  CanonShelf.jsx             ← root app: navigation state, data fetching, renders BookViewer
+  constants.js               ← UI strings, color tokens, TABS, DIVISIONS (read-only reference)
   adapters/canonToViewer.js  ← pure adapter functions: JSON → component shapes
                                 also owns ERA_COLORS (era name → hex color)
+  components/
+    BookViewer.jsx           ← book content display: calls all adapt* functions, renders tabs
+    book/
+      Timeline.jsx           ← drag-scrollable chapter/character timeline
+      TheologyTab.jsx        ← systematic theology + WCF anchors tab
+      SourcesTab.jsx         ← scholarly sources grid + detail modal
 ```
 
 Data flow on book open:
 1. `books-manifest.json` → `adaptManifestBook()` → shelf rail entries
 2. Click / VER → → `openBook()` → `fetch(/data/[dataFile])` → `bookDataCache[id]`
-3. `bookDataCache[id]` + `personasDisplay` → `GenesisFullViewer` → all adapt* calls
+3. `bookDataCache[id]` + `personasDisplay` → `BookViewer` → all adapt* calls
 4. `adaptCapitulos(resumenCapitulos)` uses `eraColor(era)` → chapter dot colors + era bands
 
 ---
@@ -160,9 +167,11 @@ Once the era field is present and non-empty, the timeline derives bands dynamica
 | `"Primordial"` | `#6B7F5E` | Genesis 1–11 |
 | `"Patriarcal"` | `#7A6B4F` | Genesis 12–50 |
 | `"Ley"` | `#8B6914` | Exodus–Deuteronomy |
+| `"Éxodo"` | `#8B6914` | Exodus (alias for Ley) |
 | `"Conquista"` | `#5A7A5A` | Joshua–Judges |
 | `"Monarquía"` | `#4A6B8A` | Samuel–Chronicles |
 | `"Exilio"` | `#7A4A6B` | Ezekiel, Daniel |
+| `"Post-exilio"` | `#5A7A6B` | Ezra, Nehemiah, Haggai, Zechariah, Malachi |
 | `"Intertestamental"` | `#8A8A8A` | — |
 | `"Ministerio"` | `#C9A84C` | Gospels |
 | `"Iglesia"` | `#6B5B95` | Acts–Epistles |

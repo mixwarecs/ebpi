@@ -226,5 +226,29 @@
       "en": "MOSES' SUCCESSOR",
       "pt": "SUCESSOR DE MOISÉS"
     }
+  },
+  "Rahab": {
+    "id": "rahab",
+    "color": "#8B3A5A",
+    "init": "רח",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "MUJER DE FE",
+      "en": "WOMAN OF FAITH",
+      "pt": "MULHER DE FÉ"
+    }
+  },
+  "Acán": {
+    "id": "acan",
+    "color": "#7A2A2A",
+    "init": "עכ",
+    "xCh": 7,
+    "side": "below",
+    "badge": {
+      "es": "EL TRANSGRESOR",
+      "en": "THE TRANSGRESSOR",
+      "pt": "O TRANSGRESSOR"
+    }
   }
 }

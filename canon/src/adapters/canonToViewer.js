@@ -6,6 +6,7 @@ const ERA_COLORS = {
   "Patriarcal":     "#7A6B4F",
   "Ley":            "#8B6914",
   "Éxodo":          "#8B6914",
+  "Anticipación":   "#5A7A5A",
   "Conquista":      "#5A7A5A",
   "Monarquía":      "#4A6B8A",
   "Exilio":         "#7A4A6B",

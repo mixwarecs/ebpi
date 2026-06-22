@@ -678,7 +678,8 @@
       "ordenCanon": 6,
       "capitulosTotal": 24,
       "divisionColor": "#1B5E8B",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "joshua.json",
       "razon": {
         "es": "La conquista de Canaán: cumplimiento de la promesa de la tierra hecha a Abraham, bajo el sucesor de Moisés cuyo nombre (Yehoshua) es la forma hebrea de 'Jesús'.",
         "en": "The conquest of Canaan: fulfillment of the promise of the land made to Abraham, under Moses' successor whose name (Yehoshua) is the Hebrew form of 'Jesus'.",
