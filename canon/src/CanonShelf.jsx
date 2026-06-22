@@ -54,7 +54,7 @@ export default function CanonShelf() {
 
   useEffect(() => {
     const onPop = () => {
-      window.scrollTo({ top: 0, behavior: "instant" });
+      window.scrollTo(0, 0);
       const { view: v, lang: l } = parseHash();
       setView(v);
       setLang(l);
@@ -113,7 +113,7 @@ export default function CanonShelf() {
   const activeNTDivisions = activeDivisions.filter(d => d.testamento === "Nuevo");
 
   const navigate = (nextView) => {
-    window.scrollTo({ top: 0, behavior: "instant" });
+    window.scrollTo(0, 0);
     setView(nextView);
     history.pushState(null, "", "#" + buildHash(nextView, lang));
   };
