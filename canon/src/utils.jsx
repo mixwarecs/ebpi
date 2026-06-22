@@ -165,6 +165,8 @@ export function verseUrl(ref, lang = "es") {
   return `https://www.biblegateway.com/passage/?search=${search}&version=${version}&interface=print`;
 }
 
+export const cap = (s) => s ? s.charAt(0).toUpperCase() + s.slice(1) : s;
+
 export function linkifyVerses(text, lang = "es") {
   if (!text) return text;
   const GOLD = "#C9A84C";

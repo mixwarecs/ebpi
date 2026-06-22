@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { GOLD, PARCHMENT, SIENNA, GS, UI } from "../../constants";
-import { linkifyVerses, verseUrl } from "../../utils";
+import { linkifyVerses, verseUrl, cap } from "../../utils";
 import VerseLink from "../VerseLink";
 
 export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoriaEsToLang, lang }) {
@@ -96,7 +96,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
             </div>
             <div style={{background:"linear-gradient(90deg,rgba(139,58,42,0.1),rgba(139,58,42,0.03))", borderLeft:`3px solid ${SIENNA}`, padding:"16px 18px", borderRadius:"0 3px 3px 0", marginBottom:14}}>
               <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.8)"}}>{TL.wcfTeaches}</div>
-              <div style={{fontSize:15, lineHeight:1.78, color:"rgba(242,232,208,0.85)", fontStyle:"italic"}}>{lv(activeWcf.resumen)}</div>
+              <div style={{fontSize:15, lineHeight:1.78, color:"rgba(242,232,208,0.85)", fontStyle:"italic"}}>{lv(cap(activeWcf.resumen))}</div>
             </div>
             <div style={{background:"rgba(15,26,48,0.5)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 18px", marginBottom:14}}>
               <div style={{...GS.metaLabel, marginBottom:10}}>{TL.wcfPassages(bookTitle)}</div>
@@ -130,7 +130,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
             </div>
             <div style={{background:"rgba(27,42,74,0.4)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"18px 20px", marginBottom:14}}>
               <div style={{...GS.metaLabel, marginBottom:8}}>{TL.whatTeaches(bookTitle)}</div>
-              <div style={{fontSize:15, lineHeight:1.75, color:"rgba(242,232,208,0.83)"}}>{lv(activeCat.resumen)}</div>
+              <div style={{fontSize:15, lineHeight:1.75, color:"rgba(242,232,208,0.83)"}}>{lv(cap(activeCat.resumen))}</div>
             </div>
             <div style={{background:"rgba(15,26,48,0.5)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"18px 20px", marginBottom:14}}>
               <div style={{...GS.metaLabel, marginBottom:12}}>{TL.keyPassages(bookTitle)}</div>
@@ -139,13 +139,13 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
                   <div style={{minWidth:94, flexShrink:0, paddingTop:2}}>
                     <VerseLink lang={lang} style={{fontSize:12}}>{p.ref}</VerseLink>
                   </div>
-                  <div style={{fontSize:14, lineHeight:1.65, color:"rgba(242,232,208,0.72)"}}>{lv(p.nota)}</div>
+                  <div style={{fontSize:14, lineHeight:1.65, color:"rgba(242,232,208,0.72)"}}>{lv(cap(p.nota))}</div>
                 </div>
               ))}
             </div>
             <div style={{background:"linear-gradient(90deg,rgba(139,58,42,0.12),rgba(139,58,42,0.02))", borderLeft:`3px solid ${SIENNA}`, padding:"13px 16px", borderRadius:"0 3px 3px 0"}}>
               <div style={{...GS.metaLabel, marginBottom:7}}>{TL.reformed}</div>
-              <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.65, color:"rgba(242,232,208,0.75)"}}>{lv(activeCat.distintivaReformada || "")}</div>
+              <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.65, color:"rgba(242,232,208,0.75)"}}>{lv(cap(activeCat.distintivaReformada || ""))}</div>
             </div>
           </div>
         )}

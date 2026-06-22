@@ -605,7 +605,7 @@ export const GS = {
     padding: "16px 20px 14px", cursor: "pointer", whiteSpace: "nowrap", flexShrink: 0,
     transition: "color 0.2s, border-color 0.2s",
   }),
-  tabPanels: { padding: "28px 32px 32px" },
+  tabPanels: { padding: "28px 32px 32px", textAlign: "left" },
   metaGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px,1fr))", gap: 20, marginBottom: 24 },
   metaBlock: { borderLeft: `2px solid rgba(201,168,76,0.25)`, paddingLeft: 14 },
   metaLabel: { fontSize: 9, letterSpacing: 3, color: "rgba(201,168,76,0.55)", marginBottom: 5, textTransform: "uppercase" },

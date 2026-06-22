@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
 import { GOLD, LAPIS, LAPIS_DEEP, PARCHMENT, SIENNA, BOOKS, CHAPTER_ERAS, UI, TABS, GS } from "../constants";
-import { linkifyVerses, verseUrl } from "../utils";
+import { linkifyVerses, verseUrl, cap } from "../utils";
 import VerseLink from "./VerseLink";
 import TheologyTab from "./book/TheologyTab";
 import SourcesTab from "./book/SourcesTab";
@@ -58,7 +58,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
       case "overview": return (
         <div style={GS.prose}>
           {bookData && (bookData.proposito[lang] || bookData.proposito.es)
-            ? lv(bookData.proposito[lang] || bookData.proposito.es)
+            ? lv(cap(bookData.proposito[lang] || bookData.proposito.es))
             : <>
                 Génesis es <strong style={{color:GOLD}}>el libro de los principios</strong>: el origen del cosmos, de la humanidad, del pecado y de la redención.
                 Como primer libro del canon, provee los fundamentos absolutos de toda la teología bíblica.
@@ -87,7 +87,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         return (
           <div>
             <div style={GS.prose}>
-              {lv(bookData?.proposito?.[lang] || bookData?.proposito?.es || "")}
+              {lv(cap(bookData?.proposito?.[lang] || bookData?.proposito?.es || ""))}
             </div>
             <div style={GS.audienceBox}>
               <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.8)"}}>{PL.audience}</div>
@@ -151,12 +151,12 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.chronology}</div>
               <div style={{display:"flex", flexDirection:"column", gap:0}}>
                 {HCr.map((e, i) => (
-                  <div key={i} style={{display:"flex", gap:16, padding:"10px 0", borderBottom:`1px solid rgba(201,168,76,0.08)`, alignItems:"flex-start"}}>
-                    <div style={{minWidth:130, flexShrink:0}}>
+                  <div key={i} style={{display:"flex", flexDirection:"column", gap:4, padding:"12px 0", borderBottom:`1px solid rgba(201,168,76,0.08)`}}>
+                    <div style={{display:"flex", alignItems:"baseline", gap:10, flexWrap:"wrap"}}>
                       <div style={{fontSize:12, fontWeight:700, color:GOLD, letterSpacing:0.5}}>{e.fecha}</div>
                       <VerseLink lang={lang} style={{fontSize:10}}>{e.ref}</VerseLink>
                     </div>
-                    <div style={{fontSize:14, color:"rgba(242,232,208,0.78)", lineHeight:1.5}}>{e.evento}</div>
+                    <div style={{fontSize:14, color:"rgba(242,232,208,0.78)", lineHeight:1.6}}>{lv(cap(e.evento))}</div>
                   </div>
                 ))}
               </div>
@@ -170,8 +170,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 {HG.map((g, i) => (
                   <div key={i} style={{background:"rgba(27,42,74,0.35)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 16px"}}>
                     <div style={{fontSize:13, fontWeight:700, color:GOLD, marginBottom:3}}>{g.lugar}</div>
-                    <div style={{fontSize:11, letterSpacing:1, color:"rgba(201,168,76,0.5)", marginBottom:8}}>{g.moderna}</div>
-                    <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{g.desc}</div>
+                    <div style={{fontSize:11, letterSpacing:1, color:"rgba(242,232,208,0.5)", marginBottom:8}}>{g.moderna}</div>
+                    <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{lv(cap(g.desc))}</div>
                   </div>
                 ))}
               </div>
@@ -182,8 +182,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 {HC.map((c, i) => (
                   <div key={i} style={{background:"rgba(27,42,74,0.35)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 16px"}}>
                     <div style={{fontSize:13, fontWeight:700, color:PARCHMENT, marginBottom:2}}>{c.nombre}</div>
-                    <div style={{fontSize:11, letterSpacing:1, color:"rgba(201,168,76,0.5)", marginBottom:8}}>{c.rol}</div>
-                    <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{c.desc}</div>
+                    <div style={{fontSize:11, letterSpacing:1, color:"rgba(242,232,208,0.5)", marginBottom:8}}>{c.rol}</div>
+                    <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{lv(cap(c.desc))}</div>
                   </div>
                 ))}
               </div>
@@ -192,19 +192,17 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.ane}</div>
               <div style={{display:"flex", flexDirection:"column", gap:0}}>
                 {HA.map((a, i) => (
-                  <div key={i} style={{display:"flex", gap:16, padding:"14px 0", borderBottom:`1px solid rgba(201,168,76,0.08)`, alignItems:"flex-start"}}>
-                    <div style={{minWidth:200, flexShrink:0}}>
-                      <div style={{fontSize:13, fontWeight:700, color:PARCHMENT, lineHeight:1.3, marginBottom:3}}>{a.nombre}</div>
-                      <div style={{fontSize:10, letterSpacing:1, color:"rgba(201,168,76,0.5)"}}>{a.origen}</div>
-                    </div>
-                    <div style={{fontSize:13, lineHeight:1.65, color:"rgba(242,232,208,0.75)"}}>{a.desc}</div>
+                  <div key={i} style={{display:"flex", flexDirection:"column", gap:4, padding:"14px 0", borderBottom:`1px solid rgba(201,168,76,0.08)`}}>
+                    <div style={{fontSize:15, fontWeight:700, color:PARCHMENT, lineHeight:1.3}}>{a.nombre}</div>
+                    <div style={{fontSize:13, letterSpacing:0.5, color:"rgba(201,168,76,0.6)", marginBottom:2}}>{a.origen}</div>
+                    <div style={{fontSize:13, lineHeight:1.65, color:"rgba(242,232,208,0.75)"}}>{lv(cap(a.desc))}</div>
                   </div>
                 ))}
               </div>
             </div>
             <div style={{background:"linear-gradient(90deg,rgba(139,58,42,0.12),rgba(139,58,42,0.02))", borderLeft:`3px solid ${SIENNA}`, padding:"14px 18px", borderRadius:"0 3px 3px 0"}}>
               <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.9)"}}>{HL.controversies}</div>
-              <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.75, color:"rgba(242,232,208,0.78)"}}>{HCo}</div>
+              <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.75, color:"rgba(242,232,208,0.78)"}}>{cap(HCo)}</div>
             </div>
           </div>
         );
