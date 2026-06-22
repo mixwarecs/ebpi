@@ -313,6 +313,7 @@ export const TABS = [
 export const UI = {
   es: {
     appTitle: "Exploración Bíblica Panorámica Interactiva",
+    share: "COMPARTIR", copied: "✓ COPIADO",
     ot: "A.T.", nt: "N.T.",
     books: n => `${n} ${n === 1 ? "libro" : "libros"}`,
     cardBooks: n => `${n} ${n === 1 ? "libro" : "libros"} →`,
@@ -373,6 +374,7 @@ export const UI = {
   },
   en: {
     appTitle: "Interactive Panoramic Bible Exploration",
+    share: "SHARE", copied: "✓ COPIED",
     ot: "O.T.", nt: "N.T.",
     books: n => `${n} ${n === 1 ? "book" : "books"}`,
     cardBooks: n => `${n} ${n === 1 ? "book" : "books"} →`,
@@ -433,6 +435,7 @@ export const UI = {
   },
   pt: {
     appTitle: "Exploração Bíblica Panorâmica Interativa",
+    share: "COMPARTILHAR", copied: "✓ COPIADO",
     ot: "A.T.", nt: "N.T.",
     books: n => `${n} ${n === 1 ? "livro" : "livros"}`,
     cardBooks: n => `${n} ${n === 1 ? "livro" : "livros"} →`,

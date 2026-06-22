@@ -212,7 +212,7 @@ export default function CanonShelf() {
             boxShadow: `0 0 10px rgba(201,168,76,0.2)`,
           }}
         >
-          {copied ? "✓ COPIED" : "SHARE"}
+          {copied ? u.copied : u.share}
         </button>
       </div>
       <div style={S.appHeader}>
