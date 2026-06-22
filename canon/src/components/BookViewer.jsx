@@ -7,7 +7,7 @@ import TheologyTab from "./book/TheologyTab";
 import SourcesTab from "./book/SourcesTab";
 import Timeline from "./book/Timeline";
 
-export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange }) {
+export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange, manifestBook = null }) {
   const lv = (t) => linkifyVerses(t, lang);
   const vu = (r) => verseUrl(r, lang);
 
@@ -256,7 +256,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
 
       <header style={GS.header}>
         <div style={GS.eyebrow}>{UI[lang].eyebrow}</div>
-        <div style={GS.h1}>{bookData ? (bookData.titulo[lang] || bookData.titulo.es).toUpperCase() : "GÉNESIS"}</div>
+        <div style={GS.h1}>{(manifestBook ? (manifestBook[lang] || manifestBook.es) : bookData ? (bookData.titulo[lang] || bookData.titulo.es) : "GÉNESIS").toUpperCase()}</div>
         <div style={GS.hebrew}>{bookData ? bookData.tituloOriginal : "בְּרֵאשִׁית"}</div>
         <p style={GS.subline}>
           <em>{bookData ? bookData.transliteracion : "Bereshit"}</em>

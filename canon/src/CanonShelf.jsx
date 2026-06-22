@@ -251,6 +251,7 @@ export default function CanonShelf() {
                 lang={lang}
                 activeTab={view.tab || "overview"}
                 onTabChange={changeTab}
+                manifestBook={activeBook}
                 divisionName={(() => {
                   const d = activeDivById[activeBook?.div];
                   if (!d) return "";
