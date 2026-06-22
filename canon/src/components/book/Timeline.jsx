@@ -48,7 +48,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
 
           {chapters.map(d => {
             const bookEnName = bookData?.titulo?.en || "Genesis";
-            const url = `https://www.biblegateway.com/passage/?search=${bookEnName}+${d.ch}&version=${BIBLE_VERSION[lang] || "NBLA"}`;
+            const url = `https://www.biblegateway.com/passage/?search=${bookEnName}+${d.ch}&version=${BIBLE_VERSION[lang] || "NBLA"}&interface=print`;
             return (
               <div key={d.ch}
                 style={{ position:"absolute", top:"50%", left:xOf(d.ch), transform:"translate(-50%,-50%)",

@@ -162,7 +162,7 @@ export function verseUrl(ref, lang = "es") {
   if (!bookEn) return null;
   const search = `${bookEn} ${passage}`.replace(/ /g, "+");
   const version = BIBLE_VERSION[lang] || "NBLA";
-  return `https://www.biblegateway.com/passage/?search=${search}&version=${version}`;
+  return `https://www.biblegateway.com/passage/?search=${search}&version=${version}&interface=print`;
 }
 
 export function linkifyVerses(text, lang = "es") {
