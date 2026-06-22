@@ -9,7 +9,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
   const [activeTheology, setActiveTheology] = useState(null);
   const [activeWcf, setActiveWcf] = useState(null);
   const [hoveredMenu, setHoveredMenu] = useState(null);
-  const activeCat = activeTheology || theology[0];
+  const activeCat = activeTheology || theology[0] || null;
   const TL = UI[lang].theologyLabels;
 
   return (
@@ -76,7 +76,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
       </div>
 
       <div style={{flex:1, minWidth:260}}>
-        {activeWcf ? (
+        {!activeCat ? null : activeWcf ? (
           <div>
             <div style={{display:"flex", alignItems:"center", gap:12, marginBottom:16}}>
               <div style={{width:4, height:36, background:SIENNA, borderRadius:2, flexShrink:0}} />
