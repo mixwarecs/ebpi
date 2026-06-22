@@ -47,6 +47,7 @@ export default function CanonShelf() {
   const [globalData, setGlobalData] = useState(null);
   const [personasDisplay, setPersonasDisplay] = useState({});
   const [lang, setLang] = useState(() => parseHash().lang);
+  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     fetch("/data/books-manifest.json").then(r => r.json()).then(setManifest).catch(() => {});
@@ -184,11 +185,35 @@ export default function CanonShelf() {
     headerSubtitle = u.headerBook(activeBook[lang] || activeBook.es);
   }
 
+  const handleShare = () => {
+    navigator.clipboard.writeText(window.location.href);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 1500);
+  };
+
   return (
     <div style={S.outer}>
       <div style={{ position: "relative", width: "100%", maxWidth: 1400, height: 68, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, marginBottom: 18 }}>
         <div style={{ position: "absolute", left: 0, right: 0, top: "50%", transform: "translateY(-50%)", height: 3, background: "linear-gradient(90deg, transparent, #C9A84C, #8B3A2A, #C9A84C, transparent)" }} />
         <img src={ebpiLogo} alt="EBPI" style={{ position: "relative", zIndex: 1, height: 64, width: "auto", opacity: 0.75, filter: "drop-shadow(0 0 7px rgba(201,168,76,0.5)) drop-shadow(0 0 5px rgba(107,63,160,0.45))" }} />
+        <button
+          onClick={handleShare}
+          title="Copy link"
+          style={{
+            position: "absolute", right: 0, top: "50%", transform: "translateY(-50%)",
+            zIndex: 2,
+            background: copied ? GOLD : "rgba(7,13,26,0.92)",
+            border: `1px solid ${copied ? GOLD : GOLD}`,
+            borderRadius: 20,
+            color: copied ? LAPIS_DEEP : GOLD,
+            fontSize: 11, fontWeight: 700, letterSpacing: 2,
+            padding: "6px 14px", cursor: "pointer",
+            fontFamily: "'Georgia',serif", transition: "all 0.2s",
+            boxShadow: `0 0 10px rgba(201,168,76,0.2)`,
+          }}
+        >
+          {copied ? "✓ COPIED" : "SHARE"}
+        </button>
       </div>
       <div style={S.appHeader}>
         <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 12, marginBottom: 8 }}>
