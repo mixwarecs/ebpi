@@ -185,9 +185,9 @@ export default function CanonShelf() {
 
   return (
     <div style={S.outer}>
-      <div style={{ position: "relative", width: "100%", maxWidth: 1400, height: 48, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, marginBottom: 18 }}>
+      <div style={{ position: "relative", width: "100%", maxWidth: 1400, height: 68, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, marginBottom: 18 }}>
         <div style={{ position: "absolute", left: 0, right: 0, top: "50%", transform: "translateY(-50%)", height: 3, background: "linear-gradient(90deg, transparent, #C9A84C, #8B3A2A, #C9A84C, transparent)" }} />
-        <img src={ebpiLogo} alt="EBPI" style={{ position: "relative", zIndex: 1, height: 44, width: "auto", opacity: 0.75, filter: "drop-shadow(0 0 7px rgba(201,168,76,0.5)) drop-shadow(0 0 5px rgba(107,63,160,0.45))" }} />
+        <img src={ebpiLogo} alt="EBPI" style={{ position: "relative", zIndex: 1, height: 64, width: "auto", opacity: 0.75, filter: "drop-shadow(0 0 7px rgba(201,168,76,0.5)) drop-shadow(0 0 5px rgba(107,63,160,0.45))" }} />
       </div>
       <div style={S.appHeader}>
         <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 12, marginBottom: 8 }}>
