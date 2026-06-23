@@ -6,7 +6,7 @@ export const LAPIS_DEEP = "#0F1A30";
 export const PARCHMENT = "#F2E8D0";
 export const SIENNA = "#8B3A2A";
 
-export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "NAA" };
+export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "ARC" };
 
 // ── 66 BOOKS REGISTRY ─────────────────────────────────────────────────────────
 export const BOOKS = [
@@ -320,13 +320,13 @@ export const UI = {
     tabs: ["VISIÓN GENERAL","TEOLOGÍA","PROPÓSITO","CONTEXTO CANÓNICO","CONTEXTO HISTÓRICO","VERSÍCULOS CLAVE","FUENTES"],
     backToShelf: "← VOLVER AL ESTANTE",
     backToCanon: "← El Canon",
-    eyebrow: "Canon Pipeline · Protestantismo Reformado · NBLA · ESV · NAA",
+    eyebrow: "Canon Pipeline · Protestantismo Reformado · NBLA · ESV · ARC",
     subline: "Bereshit — En el principio creó Dios los cielos y la tierra",
     metaLabels: ["Título Original","Autor","Fecha de escritura","División Canónica","Idioma Original","Versiones","Escrito en"],
     traditional: "Autoría tradicional",
     canonEntry: n => `#${n} del Canon`,
     hint: "← Arrastra para explorar · Clic en capítulo → BibleGateway NBLA · Clic en personaje → biografía →",
-    pipeline: "CANON PIPELINE v1.2.0 · PROTESTANTISMO REFORMADO · NBLA / ESV / NAA",
+    pipeline: "CANON PIPELINE v1.2.0 · PROTESTANTISMO REFORMADO · NBLA / ESV / ARC",
     eraLabels: ["CREACIÓN Y CAÍDA · Gn 1–11","PACTO ABRAHÁNICO · Gn 12–25","PATRIARCAS · Gn 26–36","PROVIDENCIA · JOSÉ · Gn 37–50"],
     ot_label: "ANTIGUO TESTAMENTO", nt_label: "NUEVO TESTAMENTO",
     book_s: "LIBRO", book_p: "LIBROS",
@@ -381,13 +381,13 @@ export const UI = {
     tabs: ["OVERVIEW","THEOLOGY","PURPOSE","CANONICAL CONTEXT","HISTORICAL CONTEXT","KEY VERSES","SOURCES"],
     backToShelf: "← BACK TO SHELF",
     backToCanon: "← The Canon",
-    eyebrow: "Canon Pipeline · Reformed Protestantism · NBLA · ESV · NAA",
+    eyebrow: "Canon Pipeline · Reformed Protestantism · NBLA · ESV · ARC",
     subline: "Bereshit — In the beginning God created the heavens and the earth",
     metaLabels: ["Original Title","Author","Date Written","Canonical Division","Original Language","Versions","Written In"],
     traditional: "Traditional authorship",
     canonEntry: n => `#${n} of the Canon`,
     hint: "← Drag to explore · Click chapter → BibleGateway ESV · Click character → biography →",
-    pipeline: "CANON PIPELINE v1.2.0 · REFORMED PROTESTANTISM · NBLA / ESV / NAA",
+    pipeline: "CANON PIPELINE v1.2.0 · REFORMED PROTESTANTISM · NBLA / ESV / ARC",
     eraLabels: ["CREATION & FALL · Gen 1–11","ABRAHAMIC COVENANT · Gen 12–25","PATRIARCHS · Gen 26–36","PROVIDENCE · JOSEPH · Gen 37–50"],
     ot_label: "OLD TESTAMENT", nt_label: "NEW TESTAMENT",
     book_s: "BOOK", book_p: "BOOKS",
@@ -442,13 +442,13 @@ export const UI = {
     tabs: ["VISÃO GERAL","TEOLOGIA","PROPÓSITO","CONTEXTO CANÔNICO","CONTEXTO HISTÓRICO","VERSÍCULOS-CHAVE","FONTES"],
     backToShelf: "← VOLTAR À ESTANTE",
     backToCanon: "← O Cânon",
-    eyebrow: "Canon Pipeline · Protestantismo Reformado · NBLA · ESV · NAA",
+    eyebrow: "Canon Pipeline · Protestantismo Reformado · NBLA · ESV · ARC",
     subline: "Bereshit — No princípio Deus criou os céus e a terra",
     metaLabels: ["Título Original","Autor","Data de Composição","Divisão Canônica","Idioma Original","Versões","Escrito em"],
     traditional: "Autoria tradicional",
     canonEntry: n => `#${n} do Cânon`,
-    hint: "← Arraste para explorar · Clique no capítulo → BibleGateway NAA · Clique no personagem → biografia →",
-    pipeline: "CANON PIPELINE v1.2.0 · PROTESTANTISMO REFORMADO · NBLA / ESV / NAA",
+    hint: "← Arraste para explorar · Clique no capítulo → BibleGateway ARC · Clique no personagem → biografia →",
+    pipeline: "CANON PIPELINE v1.2.0 · PROTESTANTISMO REFORMADO · NBLA / ESV / ARC",
     eraLabels: ["CRIAÇÃO E QUEDA · Gn 1–11","ALIANÇA ABRAÂMICA · Gn 12–25","PATRIARCAS · Gn 26–36","PROVIDÊNCIA · JOSÉ · Gn 37–50"],
     ot_label: "ANTIGO TESTAMENTO", nt_label: "NOVO TESTAMENTO",
     book_s: "LIVRO", book_p: "LIVROS",

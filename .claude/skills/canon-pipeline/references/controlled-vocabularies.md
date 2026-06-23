@@ -119,7 +119,7 @@ NT: `"Período Romano Temprano (63 a.C.–70 d.C.)"` | `"Período Romano Tardío
 
 ## Versión de Biblia (locked, never varies)
 ```json
-{ "es": "NBLA", "en": "ESV", "pt": "NAA" }
+{ "es": "NBLA", "en": "ESV", "pt": "ARC" }
 ```
 This exact triple is used both for `meta.versionBiblia` and every `personajes[].biografiaBiblica.fuenteTexto`.
 
@@ -142,5 +142,5 @@ All inline verse references in text fields **must** use the canonical abbreviati
 ### EN — English (ESV)
 `Gen` `Exod` `Lev` `Num` `Deut` `Josh` `Judg` `Ruth` `1Sam` `2Sam` `1Kgs` `2Kgs` `1Chr` `2Chr` `Ezra` `Neh` `Esth` `Job` `Ps` `Prov` `Eccl` `Song` `Isa` `Jer` `Lam` `Ezek` `Dan` `Hos` `Joel` `Amos` `Obad` `Jonah` `Mic` `Nah` `Hab` `Zeph` `Hag` `Zech` `Mal` · `Matt` `Mark` `Luke` `John` `Acts` `Rom` `1Cor` `2Cor` `Gal` `Eph` `Phil` `Col` `1Thess` `2Thess` `1Tim` `2Tim` `Titus` `Phlm` `Heb` `Jas` `1Pet` `2Pet` `1John` `2John` `3John` `Jude` `Rev`
 
-### PT — Portuguese (NAA)
+### PT — Portuguese (ARC)
 `Gn` `Ex` `Lv` `Nm` `Dt` `Js` `Jz` `Rt` `1Sm` `2Sm` `1Rs` `2Rs` `1Cr` `2Cr` `Esd` `Ne` `Est` `Jó` `Sl` `Pv` `Ec` `Cnt` `Is` `Jr` `Lm` `Ez` `Dn` `Os` `Jl` `Am` `Abd` `Jon` `Mq` `Na` `Hc` `Sf` `Ag` `Zc` `Ml` · `Mt` `Mc` `Lc` `Jo` `At` `Rm` `1Co` `2Co` `Gl` `Ef` `Fp` `Cl` `1Ts` `2Ts` `1Tm` `2Tm` `Tt` `Fm` `Hb` `Tg` `1Pe` `2Pe` `1Jo` `2Jo` `3Jo` `Jd` `Ap`

@@ -98,7 +98,7 @@ This is the complete field-by-field shape every CANON book record must follow. A
       "caracterMoral":        { "es": "", "en": "", "pt": "" },
       "biografiaBiblica": {
         "resumen":    { "es": "", "en": "", "pt": "" },
-        "fuenteTexto": { "es": "NBLA", "en": "ESV", "pt": "NAA" },
+        "fuenteTexto": { "es": "NBLA", "en": "ESV", "pt": "ARC" },
         "versiculosClave": ["array of bare verse refs e.g. 'Gn 1:1'"]
       },
       "biografiaHistorica": {
@@ -148,7 +148,7 @@ This is the complete field-by-field shape every CANON book record must follow. A
       "ref":  "bare verse ref e.g. 'Gn 1:1'",
       "es":   "Full verse text in Spanish (NBLA)",
       "en":   "Full verse text in English (ESV)",
-      "pt":   "Full verse text in Portuguese (NAA)",
+      "pt":   "Full verse text in Portuguese (ARC)",
       "nota": { "es": "Theological note 2–4 sentences", "en": "", "pt": "" }
     }
   ],
@@ -210,7 +210,7 @@ This is the complete field-by-field shape every CANON book record must follow. A
     "versionBiblia": {
       "es": "NBLA",
       "en": "ESV",
-      "pt": "NAA"
+      "pt": "ARC"
     },
     "pipeline": {
       "faseActual": "integer 1–5",
@@ -245,7 +245,7 @@ This is the complete field-by-field shape every CANON book record must follow. A
 - **`fuentes`** — minimum 3 entries; every entry requires a complete `popup` sub-object (added v1.2.0) — `bio`, `metodo`, `aportacion` (all trilingual), `obras[]`, `url`
 - **`contextoHistorico.geografia`** — minimum 3 entries (added v1.2.0; required for every book, not optional)
 - **`contextoHistorico.fuentesANE`** — minimum 1 entry for OT books
-- **`personajes[].biografiaBiblica.fuenteTexto`** and **`meta.versionBiblia`** are both locked to the exact triple `{ "es": "NBLA", "en": "ESV", "pt": "NAA" }` — never vary these
+- **`personajes[].biografiaBiblica.fuenteTexto`** and **`meta.versionBiblia`** are both locked to the exact triple `{ "es": "NBLA", "en": "ESV", "pt": "ARC" }` — never vary these
 - **`año.display.es`** must read "Fecha de escritura" as its label, not "Datación" or any other phrasing
 - **`resumenCapitulos`** must cover every chapter of the book with no numeric gaps between consecutive units' `rangoFin`/`rangoInicio`
 - **Verse reference format** — `"Libro Cap:Verso"` or `"Libro Cap:Verso-Verso"` (hyphen or en-dash both acceptable for ranges), e.g. `Gn 1:1`, `Gn 1:26-27`, `Ro 5:12–21`. Use the standard Spanish book abbreviations (Gn, Ex, Lv, Nm, Dt, Jos, Jue, Rt, 1S, 2S, 1R, 2R, 1Cr, 2Cr, Esd, Neh, Est, Job, Sal, Pr, Ec, Cnt, Is, Jer, Lm, Ez, Dn, Os, Jl, Am, Abd, Jon, Miq, Nah, Hab, Sof, Hag, Zac, Mal, Mt, Mr/Mc, Lc, Jn, Hch, Ro, 1Co, 2Co, Gá, Ef, Fil, Col, 1Ts, 2Ts, 1Ti, 2Ti, Tit, Flm, He, Stg, 1P, 2P, 1Jn, 2Jn, 3Jn, Jud, Ap)

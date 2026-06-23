@@ -251,4 +251,4 @@ Chapter circles link to:
 https://www.biblegateway.com/passage/?search=[BookEnName]+[ch]&version=[BIBLE_VERSION[lang]]
 ```
 
-`BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "NAA" }`. Book English name comes from `bookData.titulo.en`. Verse ref links throughout the app go through `verseUrl(ref)` which uses a 66-book abbreviation map (ES abbreviations → EN book names).
+`BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "ARC" }`. Book English name comes from `bookData.titulo.en`. Verse ref links throughout the app go through `verseUrl(ref)` which uses a 66-book abbreviation map (ES abbreviations → EN book names).

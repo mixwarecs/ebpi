@@ -22,7 +22,7 @@ If the user instead wants to *visualize* an existing CANON JSON as an interactiv
 2. **Covenant theology** framework — not dispensational
 3. **Christocentric reading** — the entire OT points forward to Christ
 4. **Westminster Confession** is the confessional anchor
-5. **Bible versions locked**: ES → NBLA · EN → ESV · PT → NAA
+5. **Bible versions locked**: ES → NBLA · EN → ESV · PT → ARC
 6. **Trust internal knowledge** — if online sources are unavailable, use internal knowledge confidently
 7. **Conflicts between sources** → choose the position most consistent with Reformed theology
 8. **Historical context is objective** — `contextoHistorico` (Step 3) treats the book as a primary historical document, kept separate from theological interpretation in Steps 6–7
@@ -38,7 +38,7 @@ Work through these in order. Each step lists its target fields — cross-referen
 ### Step 0 — Identify & prepare
 - Confirm book name in ES / EN / PT
 - Set `testamento`, `division`, `ordenCanon`, `ordenEnDivision` from the canonical order table in `references/controlled-vocabularies.md`
-- Set `meta.estado` = `"extraído"`, `meta.versionBiblia` = `{ es: "NBLA", en: "ESV", pt: "NAA" }`, `meta.pipeline.faseActual` = 3
+- Set `meta.estado` = `"extraído"`, `meta.versionBiblia` = `{ es: "NBLA", en: "ESV", pt: "ARC" }`, `meta.pipeline.faseActual` = 3
 
 ### Step 1 — Identification
 **Fields:** `id`, `testamento`, `division`, `titulo`, `tituloOriginal`, `transliteracion`, `significado`, `capitulosTotal`
@@ -125,7 +125,7 @@ Rules: only include categories actually prominent in this book; minimum 3 entrie
   "ref":  "Ex 3:14",
   "es":   "NBLA verse text",
   "en":   "ESV verse text",
-  "pt":   "NAA verse text",
+  "pt":   "ARC verse text",
   "nota": { "es": "2–4 sentence theological significance", "en": "...", "pt": "..." }
 }
 ```

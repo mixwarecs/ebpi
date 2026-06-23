@@ -149,7 +149,7 @@ export const BOOK_MAP = {
   "1Reyes": "1Kings", "2Reyes": "2Kings",
 };
 
-export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "NAA" };
+export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "ARC" };
 
 export function verseUrl(ref, lang = "es") {
   if (!ref) return null;

@@ -273,7 +273,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               bookData ? (bookData.año.display[lang] || bookData.año.display.es).replace(/^.*?:\s*/, "") : "c. 1445–1405 a.C.",
               `${divisionName || (bookData ? bookData.division : "Pentateuco")} · ${UI[lang].canonEntry(bookData ? bookData.ordenCanon : 1)}`,
               bookData ? idiomaLabel(bookData.idiomaOriginal) : "Hebreo",
-              "NBLA · ESV · NAA",
+              "NBLA · ESV · ARC",
               bookData?.escritoEn ? (bookData.escritoEn[lang] || bookData.escritoEn.es) : "",
             ];
             return (
