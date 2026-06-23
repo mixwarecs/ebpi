@@ -1,4 +1,5 @@
-import { GOLD, PARCHMENT } from "../../constants";
+import { useState, useEffect, useRef } from "react";
+import { GOLD, PARCHMENT, BOOKS, BIBLE_VERSION } from "../../constants";
 import { linkifyVerses } from "../../utils";
 import VerseLink from "../VerseLink";
 
@@ -15,7 +16,70 @@ function eraColor(era) {
   return "#7A8FA6";
 }
 
-export default function ChapterSummaries({ rawChapters = [], lang = "es" }) {
+function getAudioUrl(lang, bookNum, chapter) {
+  if (lang === "es") return `https://www.wordproaudio.net/bibles/app/audio/6/${bookNum}/${chapter}.mp3`;
+  if (lang === "en") return `http://kjv.wordfree.net/bibles/app/audio/1/${bookNum}/${chapter}.mp3`;
+  if (lang === "pt") return `https://www.wordproaudio.org/bibles/app/audio/2_BR/${bookNum}/${chapter}.mp3`;
+  return null;
+}
+
+const CHAPTER_LABELS = { es: "Cap.", en: "Ch.", pt: "Cap." };
+
+function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin }) {
+  const count = rangoFin - rangoInicio + 1;
+  const [idx, setIdx] = useState(0);
+  const audioRef = useRef(null);
+  const chapter = rangoInicio + idx;
+  const src = getAudioUrl(lang, bookNum, chapter);
+
+  // Reset when lang/book/range changes
+  useEffect(() => { setIdx(0); }, [lang, bookNum, rangoInicio, rangoFin]);
+
+  // When idx advances, replay from start
+  useEffect(() => {
+    if (idx > 0 && audioRef.current) {
+      audioRef.current.play();
+    }
+  }, [idx]);
+
+  const handleEnded = () => {
+    if (idx < count - 1) setIdx(i => i + 1);
+  };
+
+  const label = CHAPTER_LABELS[lang] || "Cap.";
+
+  return (
+    <div style={{ marginTop: 10 }}>
+      {count > 1 && (
+        <div style={{
+          fontSize: 10,
+          letterSpacing: 1.5,
+          color: "rgba(201,168,76,0.6)",
+          marginBottom: 4,
+          textTransform: "uppercase",
+        }}>
+          {label} {chapter} / {count}
+        </div>
+      )}
+      <audio
+        ref={audioRef}
+        key={src}
+        controls
+        preload="none"
+        src={src}
+        onEnded={handleEnded}
+        style={{
+          width: "100%",
+          height: 28,
+          filter: "invert(0.85) sepia(0.4) hue-rotate(10deg)",
+          opacity: 0.75,
+        }}
+      />
+    </div>
+  );
+}
+
+export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1 }) {
   if (!rawChapters.length) return null;
   const lv = (t) => linkifyVerses(t, lang);
 
@@ -34,6 +98,11 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es" }) {
         const chLabel = c.rangoInicio === c.rangoFin
           ? String(c.rangoInicio)
           : `${c.rangoInicio}–${c.rangoFin}`;
+        const bookEnName = BOOKS.find(b => b.id === bookNum)?.en || "Genesis";
+        const chRange = c.rangoInicio === c.rangoFin
+          ? String(c.rangoInicio)
+          : `${c.rangoInicio}-${c.rangoFin}`;
+        const chapterUrl = `https://www.biblegateway.com/passage/?search=${bookEnName}+${chRange}&version=${BIBLE_VERSION[lang] || "NBLA"}&interface=print`;
 
         return (
           <div
@@ -53,16 +122,31 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es" }) {
               textAlign: "right",
               paddingTop: 3,
             }}>
-              <span style={{
-                fontSize: 15,
-                fontWeight: 700,
-                letterSpacing: 0.5,
-                color,
-                opacity: 0.9,
-                whiteSpace: "nowrap",
-              }}>
+              <a
+                href={chapterUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  fontSize: 15,
+                  fontWeight: 700,
+                  letterSpacing: 0.5,
+                  color,
+                  opacity: 0.85,
+                  whiteSpace: "nowrap",
+                  textDecoration: "none",
+                  cursor: "pointer",
+                  borderBottom: `1px solid ${color}`,
+                  transition: "opacity 0.15s",
+                  display: "inline-flex",
+                  alignItems: "baseline",
+                  gap: 2,
+                }}
+                onMouseEnter={e => { e.currentTarget.style.opacity = "1"; }}
+                onMouseLeave={e => { e.currentTarget.style.opacity = "0.85"; }}
+              >
                 {chLabel}
-              </span>
+                <span style={{ fontSize: 9, opacity: 0.6, lineHeight: 1 }}>↗</span>
+              </a>
             </div>
 
             <div style={{
@@ -106,6 +190,13 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es" }) {
                   </VerseLink>
                 </div>
               )}
+
+              <ChapterAudio
+                lang={lang}
+                bookNum={bookNum}
+                rangoInicio={c.rangoInicio}
+                rangoFin={c.rangoFin}
+              />
             </div>
           </div>
         );

@@ -361,7 +361,10 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             maxHeight:520,
             overflowY:"auto",
           }}>
-            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} />
+            <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(242,232,208,0.4)", fontStyle:"italic", letterSpacing:1}}>
+              {UI[lang].summariesHint}
+            </div>
+            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} />
           </div>
         )}
       </div>
