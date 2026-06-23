@@ -6,6 +6,7 @@ import VerseLink from "./VerseLink";
 import TheologyTab from "./book/TheologyTab";
 import SourcesTab from "./book/SourcesTab";
 import Timeline from "./book/Timeline";
+import ChapterSummaries from "./book/ChapterSummaries";
 
 export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange, manifestBook = null }) {
   const lv = (t) => linkifyVerses(t, lang);
@@ -54,6 +55,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           HIST_ANE: HA = [], HIST_CRONOLOGIA: HCr = [], HIST_CONTROVERSIAS: HCo = "" } = histCtx;
 
   const [activeChar, setActiveChar] = useState(null);
+  const [bottomTab, setBottomTab] = useState("timeline");
 
   const renderTab = () => {
     switch (activeTab) {
@@ -313,22 +315,56 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         </div>
       </div>
 
-      <div style={{textAlign:"center", padding:"14px 20px 4px", fontSize:13, color:"rgba(242,232,208,0.4)", fontStyle:"italic", letterSpacing:1}}>
-        {UI[lang].hint}
-      </div>
+      <div style={{marginTop:8}}>
+        <div style={{
+          display:"flex", borderBottom:`1px solid rgba(201,168,76,0.15)`,
+          padding:"0 24px", gap:0,
+        }}>
+          {[
+            { id:"timeline",   label: UI[lang].timelineLabel },
+            { id:"summaries",  label: UI[lang].summariesLabel },
+          ].map(({ id, label }) => (
+            <button
+              key={id}
+              onClick={() => setBottomTab(id)}
+              style={GS.tabBtn(bottomTab === id)}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
 
-      <Timeline
-        chapterEras={chapterEras}
-        chapters={chapters}
-        characters={characters}
-        totalChapters={totalChapters}
-        hasBookEras={hasBookEras}
-        eraToLabel={eraToLabel}
-        bookData={bookData}
-        bookAb={bookAb}
-        lang={lang}
-        onSelectChar={setActiveChar}
-      />
+        {bottomTab === "timeline" && (
+          <>
+            <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(242,232,208,0.4)", fontStyle:"italic", letterSpacing:1}}>
+              {UI[lang].hint}
+            </div>
+            <Timeline
+              chapterEras={chapterEras}
+              chapters={chapters}
+              characters={characters}
+              totalChapters={totalChapters}
+              hasBookEras={hasBookEras}
+              eraToLabel={eraToLabel}
+              bookData={bookData}
+              bookAb={bookAb}
+              lang={lang}
+              onSelectChar={setActiveChar}
+            />
+          </>
+        )}
+
+        {bottomTab === "summaries" && (
+          <div style={{
+            background:"linear-gradient(180deg,rgba(27,42,74,0.25),rgba(15,26,48,0.3))",
+            borderTop:"1px solid rgba(201,168,76,0.12)",
+            maxHeight:520,
+            overflowY:"auto",
+          }}>
+            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} />
+          </div>
+        )}
+      </div>
 
       {activeChar && (
         <div style={GS.overlay(true)} onClick={e => { if (e.target === e.currentTarget) setActiveChar(null); }}>

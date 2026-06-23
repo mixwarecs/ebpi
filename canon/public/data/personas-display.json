@@ -1015,5 +1015,125 @@
       "en": "GENTILE CONFESSION",
       "pt": "CONFISSÃO GENTÍLICA"
     }
+  },
+  "Otoniel": {
+    "id": "otoniel",
+    "color": "#3A6B40",
+    "init": "עת",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "JUEZ ARQUETIPO",
+      "en": "ARCHETYPE JUDGE",
+      "pt": "JUIZ ARQUÉTIPO"
+    }
+  },
+  "Ehúd": {
+    "id": "ehud",
+    "color": "#8B5A30",
+    "init": "אה",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "LIBERTADOR ZURDO",
+      "en": "LEFT-HANDED DELIVERER",
+      "pt": "LIBERTADOR CANHOTO"
+    }
+  },
+  "Débora": {
+    "id": "debora",
+    "color": "#2A6B7A",
+    "init": "דב",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "PROFETISA Y JUEZA",
+      "en": "PROPHETESS AND JUDGE",
+      "pt": "PROFETISA E JUÍZA"
+    }
+  },
+  "Barac": {
+    "id": "barac",
+    "color": "#2A5A6A",
+    "init": "בר",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "GENERAL DE FE",
+      "en": "GENERAL OF FAITH",
+      "pt": "GENERAL DA FÉ"
+    }
+  },
+  "Jael": {
+    "id": "jael",
+    "color": "#7A3A5A",
+    "init": "יא",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "INSTRUMENTO DE DIOS",
+      "en": "GOD'S INSTRUMENT",
+      "pt": "INSTRUMENTO DE DEUS"
+    }
+  },
+  "Gedeón": {
+    "id": "gedeon",
+    "color": "#8B7A2A",
+    "init": "גד",
+    "xCh": 6,
+    "side": "below",
+    "badge": {
+      "es": "GUERRERO DE DIOS",
+      "en": "GOD'S WARRIOR",
+      "pt": "GUERREIRO DE DEUS"
+    }
+  },
+  "Abimelec": {
+    "id": "abimelec",
+    "color": "#5A2A2A",
+    "init": "אמ",
+    "xCh": 9,
+    "side": "above",
+    "badge": {
+      "es": "REY USURPADOR",
+      "en": "USURPER KING",
+      "pt": "REI USURPADOR"
+    }
+  },
+  "Jotam": {
+    "id": "jotam",
+    "color": "#5A7A4A",
+    "init": "יו",
+    "xCh": 9,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA SOLITARIO",
+      "en": "SOLITARY PROPHET",
+      "pt": "PROFETA SOLITÁRIO"
+    }
+  },
+  "Jefté": {
+    "id": "jefte",
+    "color": "#4A5A8B",
+    "init": "יפ",
+    "xCh": 11,
+    "side": "above",
+    "badge": {
+      "es": "JUEZ RECHAZADO",
+      "en": "REJECTED JUDGE",
+      "pt": "JUIZ REJEITADO"
+    }
+  },
+  "Sansón": {
+    "id": "sanson",
+    "color": "#9B6A1B",
+    "init": "שמ",
+    "xCh": 13,
+    "side": "below",
+    "badge": {
+      "es": "NAZAREO DE DIOS",
+      "en": "NAZIRITE OF GOD",
+      "pt": "NAZIREU DE DEUS"
+    }
   }
 }

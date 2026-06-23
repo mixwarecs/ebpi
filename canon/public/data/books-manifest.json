@@ -699,7 +699,8 @@
       "ordenCanon": 7,
       "capitulosTotal": 21,
       "divisionColor": "#1B5E8B",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "judges.json",
       "razon": {
         "es": "El ciclo de apostasía-opresión-clamor-liberación bajo jueces carismáticos, documentando la anarquía espiritual de 'cada uno hacía lo que bien le parecía' sin un rey fiel.",
         "en": "The cycle of apostasy-oppression-cry-deliverance under charismatic judges, documenting the spiritual anarchy of 'everyone did what was right in their own eyes' without a faithful king.",
