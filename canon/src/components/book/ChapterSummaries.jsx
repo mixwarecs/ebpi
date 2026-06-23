@@ -25,7 +25,7 @@ function getAudioUrl(lang, bookNum, chapter) {
 
 const CHAPTER_LABELS = { es: "Cap.", en: "Ch.", pt: "Cap." };
 
-function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin }) {
+function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, onSectionEnd }) {
   const count = rangoFin - rangoInicio + 1;
   const [idx, setIdx] = useState(0);
   const audioRef = useRef(null);
@@ -35,15 +35,26 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin }) {
   // Reset when lang/book/range changes
   useEffect(() => { setIdx(0); }, [lang, bookNum, rangoInicio, rangoFin]);
 
-  // When idx advances, replay from start
+  // When idx advances within a range, auto-play the next chapter
   useEffect(() => {
     if (idx > 0 && audioRef.current) {
       audioRef.current.play();
     }
   }, [idx]);
 
+  // Auto-play when parent signals this section should start
+  useEffect(() => {
+    if (shouldAutoPlay && audioRef.current) {
+      audioRef.current.play().catch(() => {});
+    }
+  }, [shouldAutoPlay]);
+
   const handleEnded = () => {
-    if (idx < count - 1) setIdx(i => i + 1);
+    if (idx < count - 1) {
+      setIdx(i => i + 1);
+    } else {
+      onSectionEnd?.();
+    }
   };
 
   const label = CHAPTER_LABELS[lang] || "Cap.";
@@ -83,6 +94,19 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
   if (!rawChapters.length) return null;
   const lv = (t) => linkifyVerses(t, lang);
 
+  const [activeIdx, setActiveIdx] = useState(null);
+  const entryRefs = useRef([]);
+
+  // Scroll to the newly active entry
+  useEffect(() => {
+    if (activeIdx !== null && entryRefs.current[activeIdx]) {
+      entryRefs.current[activeIdx].scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
+  }, [activeIdx]);
+
+  // Reset when book or language changes
+  useEffect(() => { setActiveIdx(null); }, [lang, bookNum]);
+
   return (
     <div style={{
       display: "flex",
@@ -107,6 +131,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
         return (
           <div
             key={i}
+            ref={el => { entryRefs.current[i] = el; }}
             style={{
               display: "flex",
               gap: 16,
@@ -196,6 +221,8 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                 bookNum={bookNum}
                 rangoInicio={c.rangoInicio}
                 rangoFin={c.rangoFin}
+                shouldAutoPlay={activeIdx === i}
+                onSectionEnd={() => setActiveIdx(i + 1 < rawChapters.length ? i + 1 : null)}
               />
             </div>
           </div>
