@@ -116,6 +116,14 @@ export function adaptVersiculosClave(arr, lang = "es") {
   });
 }
 
+// Ligonier's ES Westminster Confession page has per-chapter anchors (#capitulo-N), so the
+// es URL stored per-chapter in the data is used as-is. The EN/PT pages render the whole
+// confession with no chapter anchors, so every chapter links to the same full-text page.
+const WCF_FULL_TEXT_URL = {
+  en: "https://learn.ligonier.org/articles/westminster-confession-faith",
+  pt: "https://pt.ligonier.org/recursos/credos-e-confisso%CC%83es/a-confissao-de-fe-de-westminster",
+};
+
 // anclasConfesionales[] → viewer wcf anchors []
 export function adaptAnclasConfesionales(arr, lang = "es") {
   if (!arr) return [];
@@ -127,7 +135,7 @@ export function adaptAnclasConfesionales(arr, lang = "es") {
       resumen: w.resumen ? (w.resumen[lang] || w.resumen.es || "") : "",
       doctrinas: w.doctrinas || [],
       genesis: w.genesis || [],
-      url: w.url || "",
+      url: lang === "es" ? (w.url || "") : (WCF_FULL_TEXT_URL[lang] || w.url || ""),
     };
   }).filter(Boolean);
 }
