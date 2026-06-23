@@ -302,7 +302,7 @@
           "properties": {
             "es": { "const": "NBLA" },
             "en": { "const": "ESV" },
-            "pt": { "const": "ARC" }
+            "pt": { "const": "NAA" }
           },
           "required": ["es", "en", "pt"],
           "additionalProperties": false
@@ -459,7 +459,7 @@
           "properties": {
             "es": { "const": "NBLA" },
             "en": { "const": "ESV" },
-            "pt": { "const": "ARC" }
+            "pt": { "const": "NAA" }
           },
           "required": ["es", "en", "pt"],
           "additionalProperties": false

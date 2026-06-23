@@ -1359,12 +1359,13 @@
       "ordenCanon": 40,
       "capitulosTotal": 28,
       "divisionColor": "#C9A84C",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Escrito para una audiencia judía, demuestra sistemáticamente que Jesús cumple la Ley y los profetas como el Mesías davídico prometido; estructura el Sermón del Monte como la nueva Torá del Reino.",
         "en": "Written for a Jewish audience, it systematically demonstrates that Jesus fulfills the Law and the prophets as the promised Davidic Messiah; it structures the Sermon on the Mount as the new Torah of the Kingdom.",
         "pt": "Escrito para um público judeu, demonstra sistematicamente que Jesus cumpre a Lei e os profetas como o prometido Messias davídico; estrutura o Sermão da Montanha como a nova Torá do Reino."
-      }
+      },
+      "dataFile": "matthew.json"
     },
     {
       "id": 41,

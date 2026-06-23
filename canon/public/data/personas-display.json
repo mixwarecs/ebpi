@@ -363,7 +363,11 @@
     "id": "pedro",
     "color": "#1B5E8B",
     "init": "ΠΠ",
-    "xCh": 2,
+    "xCh": {
+      "Lc": 2,
+      "Hch": 2,
+      "Mt": 16
+    },
     "side": "above",
     "badge": {
       "es": "APÓSTOL LÍDER",
@@ -485,7 +489,8 @@
     "init": "Ιη",
     "xCh": {
       "Jn": 10,
-      "Lc": 4
+      "Lc": 4,
+      "Mt": 3
     },
     "side": "above",
     "badge": {
@@ -498,7 +503,11 @@
     "id": "juan-bautista",
     "color": "#1B5E8B",
     "init": "Ιω",
-    "xCh": 1,
+    "xCh": {
+      "Lc": 1,
+      "Jn": 1,
+      "Mt": 3
+    },
     "side": "above",
     "badge": {
       "es": "PRECURSOR DEL MESÍAS",
@@ -546,7 +555,11 @@
     "id": "pilato",
     "color": "#7A1E1E",
     "init": "Πι",
-    "xCh": 18,
+    "xCh": {
+      "Lc": 18,
+      "Jn": 18,
+      "Mt": 27
+    },
     "side": "below",
     "badge": {
       "es": "PREFECTO DE JUDEA",
@@ -582,7 +595,11 @@
     "id": "judas",
     "color": "#4A3A1E",
     "init": "Ιδ",
-    "xCh": 13,
+    "xCh": {
+      "Lc": 13,
+      "Jn": 13,
+      "Mt": 26
+    },
     "side": "below",
     "badge": {
       "es": "HIJO DE PERDICIÓN",
@@ -633,7 +650,11 @@
     "id": "maria-magdalena",
     "color": "#8B3A6B",
     "init": "ΜΜ",
-    "xCh": 20,
+    "xCh": {
+      "Lc": 20,
+      "Jn": 20,
+      "Mt": 28
+    },
     "side": "below",
     "badge": {
       "es": "PRIMERA TESTIGO",
@@ -729,7 +750,10 @@
     "id": "herodes-antipas",
     "color": "#7A2A4A",
     "init": "Ηρ",
-    "xCh": 3,
+    "xCh": {
+      "Lc": 3,
+      "Mt": 14
+    },
     "side": "above",
     "badge": {
       "es": "TETRARCA DE GALILEA",
@@ -789,12 +813,123 @@
     "id": "mateo-levi",
     "color": "#8B4A1E",
     "init": "Μθ",
-    "xCh": 5,
+    "xCh": {
+      "Lc": 5,
+      "Mt": 9
+    },
     "side": "below",
     "badge": {
       "es": "PUBLICANO LLAMADO",
       "en": "CALLED TAX COLLECTOR",
       "pt": "PUBLICANO CHAMADO"
+    }
+  },
+  "José (esposo de María)": {
+    "id": "jose-esposo-maria",
+    "color": "#4A6B4A",
+    "init": "Ιω",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PADRE LEGAL DE JESÚS",
+      "en": "LEGAL FATHER OF JESUS",
+      "pt": "PAI LEGAL DE JESUS"
+    }
+  },
+  "Los Magos": {
+    "id": "magos",
+    "color": "#8B6F2A",
+    "init": "Μγ",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "SABIOS DE ORIENTE",
+      "en": "WISE MEN FROM THE EAST",
+      "pt": "SÁBIOS DO ORIENTE"
+    }
+  },
+  "Herodes el Grande": {
+    "id": "herodes-grande",
+    "color": "#8B3A2A",
+    "init": "Ηγ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "TIRANO DE BELÉN",
+      "en": "TYRANT OF BETHLEHEM",
+      "pt": "TIRANO DE BELÉM"
+    }
+  },
+  "Herodías": {
+    "id": "herodias",
+    "color": "#5A1A3A",
+    "init": "Ηδ",
+    "xCh": 14,
+    "side": "below",
+    "badge": {
+      "es": "INSTIGADORA DEL CRIMEN",
+      "en": "INSTIGATOR OF THE CRIME",
+      "pt": "INSTIGADORA DO CRIME"
+    }
+  },
+  "La mujer cananea": {
+    "id": "mujer-cananea",
+    "color": "#3A7A6B",
+    "init": "Χα",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "FE GENTIL EJEMPLAR",
+      "en": "EXEMPLARY GENTILE FAITH",
+      "pt": "FÉ GENTIA EXEMPLAR"
+    }
+  },
+  "Caifás": {
+    "id": "caifas",
+    "color": "#2A3A6B",
+    "init": "Κφ",
+    "xCh": 26,
+    "side": "above",
+    "badge": {
+      "es": "SUMO SACERDOTE",
+      "en": "HIGH PRIEST",
+      "pt": "SUMO SACERDOTE"
+    }
+  },
+  "Barrabás": {
+    "id": "barrabas",
+    "color": "#5A4A3A",
+    "init": "Βρ",
+    "xCh": 27,
+    "side": "above",
+    "badge": {
+      "es": "EL CULPABLE LIBERADO",
+      "en": "THE GUILTY ONE FREED",
+      "pt": "O CULPADO LIBERTO"
+    }
+  },
+  "Simón de Cirene": {
+    "id": "simon-cirene",
+    "color": "#C06A1A",
+    "init": "Σκ",
+    "xCh": 27,
+    "side": "below",
+    "badge": {
+      "es": "PORTADOR DE LA CRUZ",
+      "en": "BEARER OF THE CROSS",
+      "pt": "PORTADOR DA CRUZ"
+    }
+  },
+  "José de Arimatea": {
+    "id": "jose-arimatea",
+    "color": "#2A5A5A",
+    "init": "Ἰα",
+    "xCh": 28,
+    "side": "above",
+    "badge": {
+      "es": "DISCÍPULO SECRETO",
+      "en": "SECRET DISCIPLE",
+      "pt": "DISCÍPULO SECRETO"
     }
   }
 }
