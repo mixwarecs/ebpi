@@ -156,15 +156,19 @@ export function adaptCapitulos(resumenCapitulos, lang = "es") {
 // personajes[] → component character shape (content from JSON, display config inline)
 const PERSONA_DISPLAY_FALLBACK = { id: "", color:"#888", init:"?", xCh:1, side:"above", badge:{es:"",en:"",pt:""} };
 
-export function adaptPersonajes(arr, lang = "es", personasDisplay = {}, totalChapters = 999) {
+export function adaptPersonajes(arr, lang = "es", personasDisplay = {}, totalChapters = 999, bookAb = "") {
   if (!arr) return [];
   return arr.map(p => {
     const esName = typeof p.nombre === "object" ? p.nombre.es : p.nombre;
     const d = personasDisplay[esName] || { ...PERSONA_DISPLAY_FALLBACK, id: esName };
     const caps = p.capitulosActivo || [];
-    // If the global xCh is beyond this book's chapter count, fall back to the
+    // A character's anchor chapter is independent per book: if xCh is a per-book
+    // map, use this book's entry; otherwise fall back to this book's own first
+    // active chapter rather than a value tuned for a different book.
+    const rawXch = (d.xCh && typeof d.xCh === "object") ? (d.xCh[bookAb] ?? caps[0] ?? 1) : d.xCh;
+    // If the resolved xCh is beyond this book's chapter count, fall back to the
     // character's first active chapter in this book so they stay on the timeline.
-    const xCh = d.xCh <= totalChapters ? d.xCh : (caps[0] ?? totalChapters);
+    const xCh = rawXch <= totalChapters ? rawXch : (caps[0] ?? totalChapters);
     return {
       id: d.id,
       name:      typeof p.nombre === "object" ? (p.nombre[lang] || p.nombre.es) : p.nombre,

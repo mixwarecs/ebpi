@@ -1399,12 +1399,13 @@
       "ordenCanon": 42,
       "capitulosTotal": 24,
       "divisionColor": "#C9A84C",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Escrito por un médico gentil con rigor historiográfico (Lc 1:1-4), enfatiza la compasión de Cristo hacia pobres, mujeres, samaritanos y pecadores marginados.",
         "en": "Written by a Gentile physician with historiographic rigor (Luke 1:1-4), it emphasizes Christ's compassion toward the poor, women, Samaritans, and marginalized sinners.",
         "pt": "Escrito por um médico gentio com rigor historiográfico (Lc 1:1-4), enfatiza a compaixão de Cristo pelos pobres, mulheres, samaritanos e pecadores marginalizados."
-      }
+      },
+      "dataFile": "luke.json"
     },
     {
       "id": 43,

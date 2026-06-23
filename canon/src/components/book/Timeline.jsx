@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import { useState, useRef, useLayoutEffect } from "react";
 import { LAPIS, LAPIS_DEEP, PARCHMENT, BIBLE_VERSION, GS, UI } from "../../constants";
 import { linkifyVerses } from "../../utils";
 import VerseLink from "../VerseLink";
@@ -9,15 +9,18 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
   const [charTooltip, setCharTooltip] = useState(null);
   const dragRef = useRef({ isDown: false, startX: 0, scrollLeft: 0 });
 
-  const TOTAL_W = Math.max(totalChapters * 120, 1200);
+  const TOTAL_W = Math.max(totalChapters * 99, 1200);
   const xOf = (ch) => ((ch - 0.5) / totalChapters) * TOTAL_W;
+  // Left/right edges of a chapter's slot (xOf gives the center) — used to size
+  // era bands so they span full chapter slots instead of being offset by half a slot.
+  const slotLeftEdge = (ch) => ((ch - 1) / totalChapters) * TOTAL_W;
 
   // Multi-character distribution per chapter:
   //   1 char  → keep original side from data
   //   2 chars → one above, one below (alternate by index)
   //   3+ chars → continue alternating; same-side overflow stacks vertically
   //              with a longer connector (one step further from spine per depth level)
-  const STACK_STEP = 110; // px per depth level: 72px circle + ~38px clear gap
+  const STACK_STEP = 95; // px per depth level: 48px circle + ~47px clear gap
   const chGroups = {};
   characters.forEach((c, i) => {
     if (!chGroups[c.xCh]) chGroups[c.xCh] = [];
@@ -30,6 +33,28 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
     const pos = group.indexOf(charIdx);
     return { side: pos % 2 === 0 ? "above" : "below", depth: Math.floor(pos / 2) };
   };
+
+  // The deepest stack (above or below) determines how tall the timeline panel
+  // needs to be so circles + labels never spill past its background. Measured
+  // from the real rendered DOM (rather than estimated from font/box constants)
+  // so it's exact regardless of font metrics or line-height rounding.
+  const spineRef = useRef(null);
+  const nodeRefs = useRef({}); // keyed by character id — React nulls out entries on unmount
+  const [innerHeight, setInnerHeight] = useState(GS.timelineInner.height);
+
+  useLayoutEffect(() => {
+    if (!spineRef.current) return;
+    const spineRect = spineRef.current.getBoundingClientRect();
+    let maxAbove = 0, maxBelow = 0;
+    Object.values(nodeRefs.current).forEach(el => {
+      if (!el) return;
+      const r = el.getBoundingClientRect();
+      maxAbove = Math.max(maxAbove, spineRect.top - r.top);
+      maxBelow = Math.max(maxBelow, r.bottom - spineRect.bottom);
+    });
+    const needed = Math.max(maxAbove, maxBelow) * 2 + 60; // symmetric around spine + safety buffer
+    setInnerHeight(Math.max(GS.timelineInner.height, Math.ceil(needed)));
+  }, [characters]);
 
   const onMouseDown = (e) => {
     dragRef.current.isDown = true;
@@ -48,10 +73,10 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
   return (
     <>
       <div style={GS.timelineWrap} onMouseDown={onMouseDown} onMouseUp={onMouseUp} onMouseLeave={onMouseUp} onMouseMove={onMouseMove}>
-        <div style={GS.timelineInner}>
+        <div style={{...GS.timelineInner, height: innerHeight}}>
           {chapterEras.map((era, i) => {
-            const x1 = xOf(era.from);
-            const x2 = xOf(era.to + 1);
+            const x1 = slotLeftEdge(era.from);
+            const x2 = slotLeftEdge(era.to + 1);
             return (
               <div key={i} style={{ position:"absolute", top:0, left:x1, width:x2-x1, height:"100%",
                 background:`linear-gradient(90deg,${era.color}10,${era.color}1e)`,
@@ -63,7 +88,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             );
           })}
 
-          <div style={GS.spine} />
+          <div ref={spineRef} style={GS.spine} />
 
           {chapters.map(d => {
             const bookEnName = bookData?.titulo?.en || "Genesis";
@@ -71,17 +96,17 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             return (
               <div key={d.ch}
                 style={{ position:"absolute", top:"50%", left:xOf(d.ch), transform:"translate(-50%,-50%)",
-                  display:"flex", flexDirection:"column", alignItems:"center", cursor:"pointer", zIndex:5 }}
+                  display:"flex", flexDirection:"column", alignItems:"center", cursor:"pointer", zIndex:100 }}
                 onMouseEnter={e => setTooltip({ data: d, x: e.clientX, y: e.clientY })}
                 onMouseLeave={() => setTooltip(null)}
                 onClick={e => { e.stopPropagation(); window.open(url, "_blank", "noopener,noreferrer"); }}
               >
                 <div style={{
-                  width:48, height:48, borderRadius:"50%", border:`2px solid ${d.color}`,
+                  width:36, height:36, borderRadius:"50%", border:`2px solid ${d.color}`,
                   background:LAPIS_DEEP, display:"flex", alignItems:"center", justifyContent:"center",
                   boxShadow:`0 0 10px ${d.color}40`, transition:"transform 0.15s, box-shadow 0.15s",
                 }}>
-                  <span style={{fontSize:13, fontWeight:700, color:d.color, fontFamily:"'Georgia',serif", lineHeight:1}}>{d.ch}</span>
+                  <span style={{fontSize:15, fontWeight:700, color:d.color, fontFamily:"'Georgia',serif", lineHeight:1}}>{d.ch}</span>
                 </div>
               </div>
             );
@@ -91,26 +116,33 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             const x = xOf(c.xCh);
             const { side, depth } = getPlacement(i);
             const isAbove = side === "above";
-            const cLen = 55 + depth * STACK_STEP;
+            const cLen = 40 + depth * STACK_STEP;
             return (
               <div key={c.id}
-                onClick={() => onSelectChar(c)}
-                onMouseEnter={e => setCharTooltip({ char: c, x: e.clientX, y: e.clientY })}
-                onMouseLeave={() => setCharTooltip(null)}
+                ref={el => { nodeRefs.current[c.id] = el; }}
                 style={{ position:"absolute", left:x, transform:"translateX(-50%)",
                   top:isAbove ? "auto" : "50%", bottom:isAbove ? "50%" : "auto",
-                  display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center", cursor:"pointer",
+                  display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center",
                   zIndex: 20 - depth }}>
-                <div style={{padding:"2px 4px", maxWidth:120, overflow:"hidden"}}>
-                  <div style={{fontSize:14, fontWeight:600, letterSpacing:0.5, color:c.color, textAlign:"center",
-                    whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif"}}>{c.name}</div>
-                </div>
-                <div style={{width:72, height:72, borderRadius:"50%", border:`2px solid ${c.color}`,
-                  background:`linear-gradient(135deg,${LAPIS},rgba(201,168,76,0.1))`,
-                  display:"flex", alignItems:"center", justifyContent:"center",
-                  fontSize:20, fontWeight:700, color:c.color,
-                  boxShadow:`0 4px 16px rgba(0,0,0,0.5), 0 0 0 3px ${c.color}20`, flexShrink:0}}>
-                  {c.init}
+                {/* Clickable/hoverable hit-box covers only the label+circle — not the
+                    connector below — so it never reaches the spine and overlap the
+                    chapter dot (or the opposite node) when two characters share a chapter. */}
+                <div
+                  onClick={() => onSelectChar(c)}
+                  onMouseEnter={e => setCharTooltip({ char: c, x: e.clientX, y: e.clientY })}
+                  onMouseLeave={() => setCharTooltip(null)}
+                  style={{ display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center", cursor:"pointer" }}>
+                  <div style={{padding:"7px 4px", maxWidth:100, overflow:"hidden"}}>
+                    <div style={{fontSize:11, fontWeight:600, letterSpacing:0.5, color:c.color, textAlign:"center", lineHeight:1.15,
+                      whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif"}}>{c.name}</div>
+                  </div>
+                  <div style={{width:48, height:48, borderRadius:"50%", border:`2px solid ${c.color}`,
+                    background:`linear-gradient(135deg,${LAPIS},rgba(201,168,76,0.1))`,
+                    display:"flex", alignItems:"center", justifyContent:"center",
+                    fontSize:14, fontWeight:700, color:c.color,
+                    boxShadow:`0 4px 16px rgba(0,0,0,0.5), 0 0 0 3px ${c.color}20`, flexShrink:0}}>
+                    {c.init}
+                  </div>
                 </div>
                 <div style={{ width:1, height:cLen, pointerEvents:"none", background: isAbove
                   ? `linear-gradient(180deg,${c.color}80,${c.color}20)`

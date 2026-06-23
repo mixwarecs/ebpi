@@ -19,10 +19,10 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
   const wcfAnchors  = bookData ? adaptAnclasConfesionales(bookData.anclasConfesionales, lang) : [];
   const tiposSombras = bookData ? adaptTiposYSombras(bookData.historiaRedentora?.tiposYSombras, lang) : [];
   const totalChapters = bookData?.capitulosTotal || 50;
-  const characters  = bookData ? adaptPersonajes(bookData.personajes, lang, personasDisplay, totalChapters) : [];
+  const bookAb      = BOOKS.find(b => b.id === bookData?.id)?.ab || "Gn";
+  const characters  = bookData ? adaptPersonajes(bookData.personajes, lang, personasDisplay, totalChapters, bookAb) : [];
   const epochs      = globalData ? (globalData.epocasRedentoras[lang] || globalData.epocasRedentoras.es) : [];
   const bookTitle   = (bookData?.titulo?.[lang] || bookData?.titulo?.es || "").toUpperCase();
-  const bookAb      = BOOKS.find(b => b.id === bookData?.id)?.ab || "Gn";
   const IDIOMA_TRANS = { "Hebreo": { en: "Hebrew", pt: "Hebraico" }, "Griego": { en: "Greek", pt: "Grego" }, "Arameo": { en: "Aramaic", pt: "Aramaico" }, "Hebreo y Arameo": { en: "Hebrew and Aramaic", pt: "Hebraico e Aramaico" } };
   const idiomaLabel = (raw) => { if (!raw) return raw; const t = IDIOMA_TRANS[raw]; return t?.[lang] || raw; };
 

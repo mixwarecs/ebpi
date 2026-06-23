@@ -483,7 +483,10 @@
     "id": "jesus-juan",
     "color": "#C9A84C",
     "init": "Ιη",
-    "xCh": 10,
+    "xCh": {
+      "Jn": 10,
+      "Lc": 4
+    },
     "side": "above",
     "badge": {
       "es": "EL VERBO ENCARNADO",
@@ -591,7 +594,10 @@
     "id": "andres",
     "color": "#1E6B5E",
     "init": "Αν",
-    "xCh": 1,
+    "xCh": {
+      "Jn": 1,
+      "Lc": 6
+    },
     "side": "below",
     "badge": {
       "es": "EVANGELIZADOR PUENTE",
@@ -669,6 +675,126 @@
       "es": "DEVOCIÓN EXTRAVAGANTE",
       "en": "EXTRAVAGANT DEVOTION",
       "pt": "DEVOÇÃO EXTRAVAGANTE"
+    }
+  },
+  "María": {
+    "id": "maria-lc",
+    "color": "#6B4F8B",
+    "init": "Μα",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "SIERVA DEL SEÑOR",
+      "en": "HANDMAID OF THE LORD",
+      "pt": "SERVA DO SENHOR"
+    }
+  },
+  "Zacarías": {
+    "id": "zacarias",
+    "color": "#5A4A2A",
+    "init": "Ζα",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "SACERDOTE Y PROFETA",
+      "en": "PRIEST AND PROPHET",
+      "pt": "SACERDOTE E PROFETA"
+    }
+  },
+  "Simeón": {
+    "id": "simeon",
+    "color": "#3A6B5A",
+    "init": "Συ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "TESTIGO DEL MESÍAS",
+      "en": "WITNESS OF THE MESSIAH",
+      "pt": "TESTEMUNHA DO MESSIAS"
+    }
+  },
+  "Zaqueo": {
+    "id": "zaqueo",
+    "color": "#8B6A2A",
+    "init": "Ζκ",
+    "xCh": 19,
+    "side": "above",
+    "badge": {
+      "es": "PUBLICANO ARREPENTIDO",
+      "en": "REPENTANT TAX COLLECTOR",
+      "pt": "PUBLICANO ARREPENDIDO"
+    }
+  },
+  "Herodes Antipas": {
+    "id": "herodes-antipas",
+    "color": "#7A2A4A",
+    "init": "Ηρ",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "TETRARCA DE GALILEA",
+      "en": "TETRARCH OF GALILEE",
+      "pt": "TETRARCA DA GALILEIA"
+    }
+  },
+  "Elisabet": {
+    "id": "elisabet",
+    "color": "#4A6B5A",
+    "init": "Ελ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "MADRE DEL PRECURSOR",
+      "en": "MOTHER OF THE FORERUNNER",
+      "pt": "MÃE DO PRECURSOR"
+    }
+  },
+  "Ana la profetisa": {
+    "id": "ana-profetisa",
+    "color": "#6B5A2A",
+    "init": "Άν",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "PROFETISA DEL TEMPLO",
+      "en": "TEMPLE PROPHETESS",
+      "pt": "PROFETISA DO TEMPLO"
+    }
+  },
+  "Jacobo, hijo de Zebedeo": {
+    "id": "jacobo-zebedeo",
+    "color": "#2A4A7A",
+    "init": "Ιζ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "TESTIGO DE LA GLORIA",
+      "en": "WITNESS OF GLORY",
+      "pt": "TESTEMUNHA DA GLÓRIA"
+    }
+  },
+  "Juan, hijo de Zebedeo": {
+    "id": "juan-zebedeo",
+    "color": "#3A5A9B",
+    "init": "Ἰω",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "HIJO DEL TRUENO",
+      "en": "SON OF THUNDER",
+      "pt": "FILHO DO TROVÃO"
+    }
+  },
+  "Mateo (Leví)": {
+    "id": "mateo-levi",
+    "color": "#8B4A1E",
+    "init": "Μθ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "PUBLICANO LLAMADO",
+      "en": "CALLED TAX COLLECTOR",
+      "pt": "PUBLICANO CHAMADO"
     }
   }
 }
