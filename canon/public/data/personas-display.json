@@ -931,5 +931,89 @@
       "en": "SECRET DISCIPLE",
       "pt": "DISCÍPULO SECRETO"
     }
+  },
+  "Santiago y Juan (hijos de Zebedeo)": {
+    "id": "santiago-juan-zebedeo",
+    "color": "#3A5A8A",
+    "init": "Βρ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "HIJOS DEL TRUENO",
+      "en": "SONS OF THUNDER",
+      "pt": "FILHOS DO TROVÃO"
+    }
+  },
+  "Caifás (el sumo sacerdote)": {
+    "id": "caifas",
+    "color": "#2A3A6B",
+    "init": "Κφ",
+    "xCh": 14,
+    "side": "below",
+    "badge": {
+      "es": "SUMO SACERDOTE",
+      "en": "HIGH PRIEST",
+      "pt": "SUMO SACERDOTE"
+    }
+  },
+  "El endemoniado gadareno": {
+    "id": "endemoniado-gadareno",
+    "color": "#5A2A6B",
+    "init": "Γε",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "LIBERADO POR CRISTO",
+      "en": "LIBERATED BY CHRIST",
+      "pt": "LIBERTADO POR CRISTO"
+    }
+  },
+  "Bartimeo": {
+    "id": "bartimeo",
+    "color": "#8B6A2A",
+    "init": "Βτ",
+    "xCh": 10,
+    "side": "above",
+    "badge": {
+      "es": "FE QUE VE",
+      "en": "FAITH THAT SEES",
+      "pt": "FÉ QUE VÊ"
+    }
+  },
+  "El joven rico": {
+    "id": "joven-rico",
+    "color": "#7A6A1A",
+    "init": "Νσ",
+    "xCh": 10,
+    "side": "below",
+    "badge": {
+      "es": "CORAZÓN DIVIDIDO",
+      "en": "DIVIDED HEART",
+      "pt": "CORAÇÃO DIVIDIDO"
+    }
+  },
+  "La mujer con flujo de sangre": {
+    "id": "mujer-flujo-sangre",
+    "color": "#8B2A4A",
+    "init": "Αμ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "FE QUE TOCA",
+      "en": "FAITH THAT TOUCHES",
+      "pt": "FÉ QUE TOCA"
+    }
+  },
+  "El centurión romano": {
+    "id": "centurion-romano",
+    "color": "#7A1E2E",
+    "init": "Κε",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "CONFESIÓN GENTIL",
+      "en": "GENTILE CONFESSION",
+      "pt": "CONFISSÃO GENTÍLICA"
+    }
   }
 }

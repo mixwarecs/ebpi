@@ -1379,7 +1379,8 @@
       "ordenCanon": 41,
       "capitulosTotal": 16,
       "divisionColor": "#C9A84C",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "mark.json",
       "razon": {
         "es": "El evangelio más breve y dinámico, centrado en la acción y el sufrimiento de Jesús como el Siervo de Jehová; probablemente la fuente más temprana usada por Mateo y Lucas.",
         "en": "The briefest and most dynamic Gospel, centered on the action and suffering of Jesus as the Servant of the LORD; probably the earliest source used by Matthew and Luke.",

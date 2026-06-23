@@ -1360,12 +1360,12 @@
       "capitulosTotal": 28,
       "divisionColor": "#C9A84C",
       "disponible": true,
+      "dataFile": "matthew.json",
       "razon": {
         "es": "Escrito para una audiencia judía, demuestra sistemáticamente que Jesús cumple la Ley y los profetas como el Mesías davídico prometido; estructura el Sermón del Monte como la nueva Torá del Reino.",
         "en": "Written for a Jewish audience, it systematically demonstrates that Jesus fulfills the Law and the prophets as the promised Davidic Messiah; it structures the Sermon on the Mount as the new Torah of the Kingdom.",
         "pt": "Escrito para um público judeu, demonstra sistematicamente que Jesus cumpre a Lei e os profetas como o prometido Messias davídico; estrutura o Sermão da Montanha como a nova Torá do Reino."
-      },
-      "dataFile": "matthew.json"
+      }
     },
     {
       "id": 41,
@@ -1380,7 +1380,8 @@
       "ordenCanon": 41,
       "capitulosTotal": 16,
       "divisionColor": "#C9A84C",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "mark.json",
       "razon": {
         "es": "El evangelio más breve y dinámico, centrado en la acción y el sufrimiento de Jesús como el Siervo de Jehová; probablemente la fuente más temprana usada por Mateo y Lucas.",
         "en": "The briefest and most dynamic Gospel, centered on the action and suffering of Jesus as the Servant of the LORD; probably the earliest source used by Matthew and Luke.",
@@ -1401,12 +1402,12 @@
       "capitulosTotal": 24,
       "divisionColor": "#C9A84C",
       "disponible": true,
+      "dataFile": "luke.json",
       "razon": {
         "es": "Escrito por un médico gentil con rigor historiográfico (Lc 1:1-4), enfatiza la compasión de Cristo hacia pobres, mujeres, samaritanos y pecadores marginados.",
         "en": "Written by a Gentile physician with historiographic rigor (Luke 1:1-4), it emphasizes Christ's compassion toward the poor, women, Samaritans, and marginalized sinners.",
         "pt": "Escrito por um médico gentio com rigor historiográfico (Lc 1:1-4), enfatiza a compaixão de Cristo pelos pobres, mulheres, samaritanos e pecadores marginalizados."
-      },
-      "dataFile": "luke.json"
+      }
     },
     {
       "id": 43,

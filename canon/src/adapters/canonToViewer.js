@@ -227,11 +227,14 @@ export function adaptContextoHistorico(ctx, lang = "es") {
   // Each entry has the pattern "circa/year: event (ref)" or similar free-form text
   const crono = ctx.cronologiaInterna ? (ctx.cronologiaInterna[lang] || "") : "";
   const HIST_CRONOLOGIA = crono
-    ? crono.split(" · ").map(entry => {
-        const m = entry.match(/^(.*?):\s+(.*?)(?:\s+\(([^)]+)\))?$/);
-        if (m) return { fecha: m[1].trim(), evento: m[2].trim(), ref: m[3] || "" };
-        return { fecha: "", evento: entry.trim(), ref: "" };
-      })
+    ? (crono.includes(" · ")
+        ? crono.split(" · ").map(entry => {
+            const m = entry.match(/^(.*?):\s+(.*?)(?:\s+\(([^)]+)\))?$/);
+            if (m) return { fecha: m[1].trim(), evento: m[2].trim(), ref: m[3] || "" };
+            return { fecha: "", evento: entry.trim(), ref: "" };
+          })
+        : [{ fecha: "", evento: crono, ref: "" }]
+      )
     : [];
 
   const HIST_CONTROVERSIAS = ctx.controversiasHistoricas

@@ -147,7 +147,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           <div>
             <div style={{background:"rgba(27,42,74,0.4)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"18px 20px", marginBottom:20}}>
               <div style={{...GS.metaLabel, marginBottom:8}}>{HL.period}</div>
-              <div style={{fontSize:15, lineHeight:1.75, color:"rgba(242,232,208,0.83)"}}>{HP}</div>
+              <div style={{fontSize:15, lineHeight:1.75, color:"rgba(242,232,208,0.83)"}}>{lv(HP)}</div>
             </div>
             <div style={{marginBottom:20}}>
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.chronology}</div>
