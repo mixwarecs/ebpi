@@ -1135,5 +1135,65 @@
       "en": "NAZIRITE OF GOD",
       "pt": "NAZIREU DE DEUS"
     }
+  },
+  "Elimelec": {
+    "id": "elimelec",
+    "color": "#6B5A3A",
+    "init": "אל",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "ESPOSO DE NOEMÍ",
+      "en": "NAOMI'S HUSBAND",
+      "pt": "MARIDO DE NOEMI"
+    }
+  },
+  "Orfa": {
+    "id": "orpa",
+    "color": "#9B7A4A",
+    "init": "ער",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "NUERA DE NOEMÍ",
+      "en": "NAOMI'S DAUGHTER-IN-LAW",
+      "pt": "NORA DE NOEMI"
+    }
+  },
+  "Noemí": {
+    "id": "noemi",
+    "color": "#5A8B6A",
+    "init": "נע",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "ISRAELITA RESTAURADA",
+      "en": "RESTORED ISRAELITE",
+      "pt": "ISRAELITA RESTAURADA"
+    }
+  },
+  "Rut": {
+    "id": "rut",
+    "color": "#8B4A6B",
+    "init": "רו",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "HIJA DEL PACTO",
+      "en": "COVENANT DAUGHTER",
+      "pt": "FILHA DA ALIANÇA"
+    }
+  },
+  "Boaz": {
+    "id": "boaz",
+    "color": "#2A5A8B",
+    "init": "בע",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "PARIENTE REDENTOR",
+      "en": "KINSMAN-REDEEMER",
+      "pt": "PARENTE REMIDOR"
+    }
   }
 }

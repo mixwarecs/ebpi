@@ -133,7 +133,9 @@ Rules: only include categories actually prominent in this book; minimum 3 entrie
 ### Step 8 — Chapter summaries
 **Fields:** all `resumenCapitulos[]` fields
 - Group into natural narrative/thematic units — no gaps allowed across the whole book
-- Each unit: `titulo` (3–6 words), `descripcion` (2–4 sentences), `eventoClave`, `versiculoClave`
+- Each unit: `titulo` (3–6 words), `descripcion`, `eventoClave`, `versiculoClave`
+- **`descripcion` quality standard** — **3–5 sentences, 350–600 characters per language**. Must include inline verse references (e.g. `Gn 1:3`, `Gen 3:15–16`, `Rm 1:17`) using the book's standard abbreviation per language. Connect explicitly to Covenant Theology and/or redemptive history. Name specific characters, events, and theological themes. A one- or two-sentence description does not meet the bar.
+- **`eventoClave`** — 1–2 sentences (150–250 chars per language) identifying the single most theologically significant event or turning point in the unit, from a Reformed/Covenant Theology perspective.
 - **`era` is required on every unit** — use the `historiaRedentora.epoca` value for this book (e.g. `"Ley"` for Exodus–Deuteronomy). If `era` is missing or empty the viewer silently falls back to Genesis era bands, which is the wrong display for every other book.
 - Always connect to the redemptive-historical flow
 

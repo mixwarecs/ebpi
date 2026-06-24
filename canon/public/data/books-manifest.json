@@ -720,12 +720,13 @@
       "ordenCanon": 8,
       "capitulosTotal": 4,
       "divisionColor": "#1B5E8B",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Una historia de lealtad pactual (hesed) ambientada en el período de los jueces, que culmina en la genealogía davídica — y por tanto mesiánica.",
         "en": "A story of covenantal loyalty (hesed) set in the period of the judges, culminating in the Davidic — and therefore messianic — genealogy.",
         "pt": "Uma história de lealdade pactual (hesed) ambientada no período dos juízes, que culmina na genealogia davídica — e, portanto, messiânica."
-      }
+      },
+      "dataFile": "ruth.json"
     },
     {
       "id": 9,
