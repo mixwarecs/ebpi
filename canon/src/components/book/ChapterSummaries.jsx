@@ -16,10 +16,12 @@ function eraColor(era) {
   return "#7A8FA6";
 }
 
+const GCS_BASE = "https://storage.googleapis.com/dramatized_bible/audio";
+
 function getAudioUrl(lang, bookNum, chapter) {
-  if (lang === "es") return `https://www.wordproaudio.net/bibles/app/audio/6/${bookNum}/${chapter}.mp3`;
-  if (lang === "en") return `http://kjv.wordfree.net/bibles/app/audio/1/${bookNum}/${chapter}.mp3`;
-  if (lang === "pt") return `https://www.wordproaudio.org/bibles/app/audio/2_BR/${bookNum}/${chapter}.mp3`;
+  if (lang === "es") return `${GCS_BASE}/es/${bookNum}_${chapter}.mp3`;
+  if (lang === "en") return `${GCS_BASE}/en/${bookNum}_${chapter}.mp3`;
+  if (lang === "pt") return `${GCS_BASE}/pt/${bookNum}_${chapter}.mp3`;
   return null;
 }
 
