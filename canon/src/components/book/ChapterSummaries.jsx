@@ -18,11 +18,16 @@ function eraColor(era) {
 
 const GCS_BASE = "https://storage.googleapis.com/dramatized_bible/audio";
 
+const AUDIO_CONFIG = {
+  en: { source: "msb", ext: "mp3" },
+  es: { source: "bll",  ext: "m4a" },
+  pt: { source: "acf", ext: "mp3" },
+};
+
 function getAudioUrl(lang, bookNum, chapter) {
-  if (lang === "es") return `${GCS_BASE}/es/${bookNum}_${chapter}.mp3`;
-  if (lang === "en") return `${GCS_BASE}/en/${bookNum}_${chapter}.mp3`;
-  if (lang === "pt") return `${GCS_BASE}/pt/${bookNum}_${chapter}.mp3`;
-  return null;
+  const cfg = AUDIO_CONFIG[lang];
+  if (!cfg) return null;
+  return `${GCS_BASE}/${cfg.source}/${bookNum}_${chapter}.${cfg.ext}`;
 }
 
 const CHAPTER_LABELS = { es: "Cap.", en: "Ch.", pt: "Cap." };
