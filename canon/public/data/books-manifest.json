@@ -741,7 +741,8 @@
       "ordenCanon": 9,
       "capitulosTotal": 31,
       "divisionColor": "#1B5E8B",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "1samuel.json",
       "razon": {
         "es": "La transición de jueces a monarquía: el rechazo del liderazgo carismático, la unción de Saúl y su fracaso, y el ascenso de David.",
         "en": "The transition from judges to monarchy: the rejection of charismatic leadership, the anointing of Saul and his failure, and the rise of David.",

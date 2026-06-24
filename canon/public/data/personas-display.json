@@ -1195,5 +1195,197 @@
       "en": "KINSMAN-REDEEMER",
       "pt": "PARENTE REMIDOR"
     }
+  },
+  "Elcana": {
+    "id": "elcana",
+    "color": "#7A5A3A",
+    "init": "אל",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "LEVITA FIEL",
+      "en": "FAITHFUL LEVITE",
+      "pt": "LEVITA FIEL"
+    }
+  },
+  "Penina": {
+    "id": "penina",
+    "color": "#7A5A6B",
+    "init": "פנ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "RIVAL DE ANA",
+      "en": "HANNAH'S RIVAL",
+      "pt": "RIVAL DE ANA"
+    }
+  },
+  "Ana": {
+    "id": "ana-samuel",
+    "color": "#9B4A6B",
+    "init": "חנ",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "MADRE DE SAMUEL",
+      "en": "MOTHER OF SAMUEL",
+      "pt": "MÃE DE SAMUEL"
+    }
+  },
+  "Elí": {
+    "id": "eli",
+    "color": "#6B5A2A",
+    "init": "על",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "SUMO SACERDOTE",
+      "en": "HIGH PRIEST",
+      "pt": "SUMO SACERDOTE"
+    }
+  },
+  "Hophni y Finees": {
+    "id": "hofni-finees",
+    "color": "#7A2A2A",
+    "init": "חפ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "SACERDOTES CORRUPTOS",
+      "en": "CORRUPT PRIESTS",
+      "pt": "SACERDOTES CORRUPTOS"
+    }
+  },
+  "Samuel": {
+    "id": "samuel",
+    "color": "#2A7A7A",
+    "init": "שמ",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA Y JUEZ",
+      "en": "PROPHET AND JUDGE",
+      "pt": "PROFETA E JUIZ"
+    }
+  },
+  "Saúl": {
+    "id": "saul",
+    "color": "#4A5A6A",
+    "init": "שא",
+    "xCh": 9,
+    "side": "above",
+    "badge": {
+      "es": "PRIMER REY",
+      "en": "FIRST KING",
+      "pt": "PRIMEIRO REI"
+    }
+  },
+  "Jonatán": {
+    "id": "jonatan",
+    "color": "#2A6B3A",
+    "init": "יו",
+    "xCh": 14,
+    "side": "below",
+    "badge": {
+      "es": "HIJO DE SAÚL",
+      "en": "SON OF SAUL",
+      "pt": "FILHO DE SAUL"
+    }
+  },
+  "David": {
+    "id": "david",
+    "color": "#2A4A8B",
+    "init": "דו",
+    "xCh": 16,
+    "side": "above",
+    "badge": {
+      "es": "REY UNGIDO",
+      "en": "ANOINTED KING",
+      "pt": "REI UNGIDO"
+    }
+  },
+  "Goliat": {
+    "id": "goliat",
+    "color": "#8B2A2A",
+    "init": "גל",
+    "xCh": 17,
+    "side": "below",
+    "badge": {
+      "es": "GUERRERO FILISTEO",
+      "en": "PHILISTINE WARRIOR",
+      "pt": "GUERREIRO FILISTEU"
+    }
+  },
+  "Mical": {
+    "id": "mical",
+    "color": "#6B3A7A",
+    "init": "מכ",
+    "xCh": 18,
+    "side": "above",
+    "badge": {
+      "es": "HIJA DE SAÚL",
+      "en": "DAUGHTER OF SAUL",
+      "pt": "FILHA DE SAUL"
+    }
+  },
+  "Doeg el Edomita": {
+    "id": "doeg",
+    "color": "#6B1A1A",
+    "init": "דא",
+    "xCh": 21,
+    "side": "below",
+    "badge": {
+      "es": "TRAIDOR EDOMITA",
+      "en": "EDOMITE BETRAYER",
+      "pt": "TRAIDOR EDOMITA"
+    }
+  },
+  "Nabal": {
+    "id": "nabal",
+    "color": "#6B4A1A",
+    "init": "נב",
+    "xCh": 25,
+    "side": "above",
+    "badge": {
+      "es": "HOMBRE NECIO",
+      "en": "FOOLISH MAN",
+      "pt": "HOMEM INSENSATO"
+    }
+  },
+  "Abigail": {
+    "id": "abigail",
+    "color": "#3A7A5A",
+    "init": "אב",
+    "xCh": 26,
+    "side": "below",
+    "badge": {
+      "es": "MUJER SABIA",
+      "en": "WISE WOMAN",
+      "pt": "MULHER SÁBIA"
+    }
+  },
+  "Aquis, rey de Gat": {
+    "id": "aquis",
+    "color": "#3A4A6B",
+    "init": "אכ",
+    "xCh": 27,
+    "side": "above",
+    "badge": {
+      "es": "REY FILISTEO",
+      "en": "PHILISTINE KING",
+      "pt": "REI FILISTEU"
+    }
+  },
+  "La médium de Endor": {
+    "id": "medium-endor",
+    "color": "#5A3A5A",
+    "init": "בא",
+    "xCh": 28,
+    "side": "below",
+    "badge": {
+      "es": "MÉDIUM DE ENDOR",
+      "en": "MEDIUM OF ENDOR",
+      "pt": "MÉDIUM DE ENDOR"
+    }
   }
 }
