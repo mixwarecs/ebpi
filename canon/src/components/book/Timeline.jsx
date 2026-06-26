@@ -1,4 +1,5 @@
 import { useState, useRef, useLayoutEffect } from "react";
+import { createPortal } from "react-dom";
 import { LAPIS, LAPIS_DEEP, PARCHMENT, BIBLE_VERSION, GS, UI } from "../../constants";
 import { linkifyVerses } from "../../utils";
 import VerseLink from "../VerseLink";
@@ -154,16 +155,16 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
         </div>
       </div>
 
-      {tooltip && (
+      {tooltip && createPortal(
         <div style={{ ...GS.chTooltip, left:Math.min(tooltip.x + 12, window.innerWidth - 300), top:tooltip.y - 120 }}>
           <div style={GS.chTooltipCh}>{(bookData?.titulo?.[lang] || bookData?.titulo?.es || "GÉNESIS").toUpperCase()} {tooltip.data.ch}</div>
           <div style={GS.chTooltipTitle}>{tooltip.data.title}</div>
           <div style={GS.chTooltipDesc}>{tooltip.data.desc}</div>
           <VerseLink lang={lang} style={{fontSize:9, letterSpacing:2}}>{tooltip.data.verse}</VerseLink>
         </div>
-      )}
+      , document.body)}
 
-      {charTooltip && (
+      {charTooltip && createPortal(
         <div style={{...GS.chTooltip, left:Math.min(charTooltip.x + 16, window.innerWidth - 320), top:charTooltip.y - 140, maxWidth:300, borderColor:`${charTooltip.char.color}60`}}>
           <div style={{display:"flex", alignItems:"center", gap:10, marginBottom:10, paddingBottom:8, borderBottom:`1px solid rgba(201,168,76,0.15)`}}>
             <div style={{width:32, height:32, borderRadius:"50%", flexShrink:0, border:`1px solid ${charTooltip.char.color}`,
@@ -181,7 +182,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             {UI[lang].characterLabels.bioHint(charTooltip.char.ch[0], charTooltip.char.ch[1], bookAb)}
           </div>
         </div>
-      )}
+      , document.body)}
     </>
   );
 }

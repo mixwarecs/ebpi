@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { createPortal } from "react-dom";
 import { ExternalLink, Play, ChevronsDown, Share2 } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
 import { GOLD, LAPIS, LAPIS_DEEP, PARCHMENT, SIENNA, BOOKS, CHAPTER_ERAS, UI, TABS, GS } from "../constants";
@@ -388,12 +389,9 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         )}
       </div>
 
-      {activeChar && (
+      {activeChar && createPortal(
         <div style={GS.overlay(true)} onClick={e => { if (e.target === e.currentTarget) setActiveChar(null); }}>
           <div style={GS.popupCard}>
-            <div style={{display:"flex", justifyContent:"center", padding:"10px 0 4px"}}>
-              <div style={{width:36, height:4, borderRadius:2, background:"rgba(201,168,76,0.3)"}} />
-            </div>
             <button style={GS.closeBtn} onClick={() => setActiveChar(null)}>✕</button>
             <div style={GS.popupHeader}>
               <div style={GS.popupAvatar(activeChar.color)}>{activeChar.init}</div>
@@ -430,7 +428,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             </div>
           </div>
         </div>
-      )}
+      , document.body)}
     </div>
   );
 }
