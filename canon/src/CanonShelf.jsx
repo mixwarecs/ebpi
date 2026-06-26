@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Share2, Check } from "lucide-react";
+import { Share2, Check, ChevronsLeft, ChevronsRight } from "lucide-react";
 import { adaptManifestBook } from "./adapters/canonToViewer";
 import { GOLD, LAPIS_DEEP, BOOKS, DIVISIONS, DIV_BY_ID, S, UI } from "./constants";
 import { tabCellHeight, balancedContiguousSplit } from "./utils";
@@ -213,6 +213,26 @@ export default function CanonShelf() {
 
   const GRID_COLS = 4;
   const renderRail = (books, side, bookMode = false) => {
+    const ExpandIcon  = side === "left" ? ChevronsRight : ChevronsLeft;
+    const CollapseIcon = side === "left" ? ChevronsLeft  : ChevronsRight;
+    const collapseBtn = (isTop) => (
+      <button
+        onClick={() => setRailOpen(false)}
+        title="Collapse"
+        style={{
+          width: "100%", background: "none", padding: "5px 0 6px",
+          borderLeft: "none", borderRight: "none",
+          borderTop: isTop ? "none" : `1px solid rgba(201,168,76,0.1)`,
+          borderBottom: isTop ? `1px solid rgba(201,168,76,0.1)` : "none",
+          cursor: "pointer", color: "rgba(201,168,76,0.45)",
+          display: "flex", alignItems: "center", justifyContent: "center",
+          marginBottom: isTop ? 4 : 0, marginTop: isTop ? 0 : 4,
+        }}
+      >
+        <CollapseIcon size={20} />
+      </button>
+    );
+
     if (bookMode && !railOpen) {
       return (
         <button
@@ -227,9 +247,7 @@ export default function CanonShelf() {
             cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center",
           }}
         >
-          <span style={{ color: "rgba(201,168,76,0.45)", fontSize: 16, userSelect: "none", lineHeight: 1 }}>
-            {side === "left" ? "›" : "‹"}
-          </span>
+          <ExpandIcon size={20} color="rgba(201,168,76,0.45)" />
         </button>
       );
     }
@@ -237,21 +255,7 @@ export default function CanonShelf() {
     const columns = balancedContiguousSplit(books, heights, GRID_COLS);
     return (
       <nav style={S.tabRail(side)}>
-        {bookMode ? (
-          <button
-            onClick={() => setRailOpen(false)}
-            title="Collapse"
-            style={{
-              width: "100%", background: "none", padding: "5px 0 6px",
-              borderTop: "none", borderLeft: "none", borderRight: "none",
-              borderBottom: `1px solid rgba(201,168,76,0.1)`,
-              cursor: "pointer", color: "rgba(201,168,76,0.5)", fontSize: 14,
-              textAlign: "center", marginBottom: 4, display: "block",
-            }}
-          >
-            {side === "left" ? "‹" : "›"}
-          </button>
-        ) : (
+        {bookMode ? collapseBtn(true) : (
           <div style={S.railHeader}>
             <div style={S.railTitle}>{side === "left" ? UI[lang].ot : UI[lang].nt}</div>
             <div style={S.railSub}>{UI[lang].books(books.length)}</div>
@@ -273,6 +277,7 @@ export default function CanonShelf() {
             </div>
           ))}
         </div>
+        {bookMode && collapseBtn(false)}
       </nav>
     );
   };
@@ -317,7 +322,7 @@ export default function CanonShelf() {
             display: "flex", alignItems: "center", gap: 6,
           }}
         >
-          {copied ? <Check size={14} /> : <Share2 size={14} />}
+          {copied ? <Check size={20} /> : <Share2 size={20} />}
           <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: 2, fontFamily: "'Georgia',serif" }}>
             {copied ? u.copied : u.share}
           </span>
