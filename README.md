@@ -13,8 +13,10 @@ An interactive, multi-language Bible explorer built on Reformed/Evangelical theo
 - **Systematic theology integration** — Westminster Confession chapter anchors and Covenant Theology framework mapped to each book
 - **Interactive chapter timeline** — Horizontal scrollable timeline with era bands and character nodes; click any character for bio, typology, and NT references
 - **Division tours** — Category-level overviews with Christological focus, covenant period, and Reformed distinctives before drilling into individual books
+- **Chapter summaries + audio player** — A bottom "AUDIO · CHAPTERS" panel streams dramatized Bible audio from Google Cloud Storage per language (es = RVR60, en = MSB, pt = ACF); audio auto-advances chapter by chapter and individual chapters are deep-linkable
 - **Trilingual** — Spanish (es), English (en), Portuguese (pt); language is persisted in the URL so any view can be shared or bookmarked
 - **URL-based navigation** — Every view state is encoded in the hash (e.g. `#book/1/theology/en`) for shareable, refreshable deep links
+- **Session persistence** — Last language, location, and chapter are stored in `localStorage` and restored automatically on next visit
 - **Scholarly sources** — Tiered bibliography per book covering primary, secondary, and reference works
 
 ---
@@ -44,18 +46,27 @@ ebpi/
 │   │   ├── utils.jsx        # Verse linking, URL builders
 │   │   ├── adapters/
 │   │   │   └── canonToViewer.js   # CANON schema → component shapes
-│   │   └── components/
-│   │       ├── IndexPage.jsx      # OT / NT shelf view
-│   │       ├── DivisionTour.jsx   # Division overview page
-│   │       ├── BookViewer.jsx     # Multi-tab book detail
-│   │       └── book/
-│   │           ├── Timeline.jsx   # Interactive chapter timeline
-│   │           ├── TheologyTab.jsx
-│   │           └── SourcesTab.jsx
+│   │   ├── components/
+│   │   │   ├── IndexPage.jsx      # OT / NT shelf view
+│   │   │   ├── DivisionTour.jsx   # Division overview page
+│   │   │   ├── BookViewer.jsx     # Multi-tab book detail
+│   │   │   ├── VerseLink.jsx      # Clickable verse reference component
+│   │   │   └── book/
+│   │   │       ├── ChapterSummaries.jsx  # Audio player + chapter summary list
+│   │   │       ├── Timeline.jsx          # Interactive chapter timeline
+│   │   │       ├── TheologyTab.jsx
+│   │   │       └── SourcesTab.jsx
+│   │   └── __tests__/
+│   │       └── utils.test.jsx
 │   ├── public/
 │   │   └── data/                  # Book JSON files (served at runtime)
 │   ├── package.json
 │   └── vite.config.js
+├── scripts/                 # Audio download utilities
+│   ├── download_audio_en.py
+│   ├── download_audio_es.py
+│   └── download_audio_pt.py
+├── audio/                   # Local audio cache (en / es / pt)
 └── data/                    # Source data (CANON Pipeline output)
     ├── books-manifest.json
     ├── personas-display.json
@@ -123,11 +134,14 @@ The app uses hash-based routing so every state is shareable:
 | Pattern | Description |
 |---|---|
 | `#` | Canonical shelf (OT / NT index) |
-| `#division/[key]` | Division tour for a given canonical group |
-| `#book/[id]` | Book overview (default tab, current language) |
+| `#division/[key]/[lang]` | Division tour for a given canonical group |
+| `#book/[id]/[lang]` | Book overview (default tab, current language) |
 | `#book/[id]/[tab]/[lang]` | Book at a specific tab and language |
+| `#book/[id]/summaries/[lang]` | Chapter summaries + audio player |
+| `#book/[id]/summaries/[chapterIdx]/[lang]` | Deep link to a specific chapter's audio |
 
-**Example:** `#book/1/theology/en` opens Genesis in the Theology tab in English.
+**Example:** `#book/1/theology/en` opens Genesis in the Theology tab in English.  
+**Example:** `#book/1/summaries/2/en` opens Genesis with chapter 2 highlighted and ready to play.
 
 ---
 
@@ -148,10 +162,16 @@ Completed books are placed in `canon/public/data/` and registered in `books-mani
 
 ### Current Coverage
 
-| Status | Books |
+| Division | Complete |
 |---|---|
-| Complete | Genesis, Exodus, Leviticus, Numbers, Deuteronomy |
-| Coming soon | 61 remaining books |
+| Pentateuch | Genesis, Exodus, Leviticus, Numbers, Deuteronomy |
+| Historical | Joshua, Judges, Ruth, 1 Samuel |
+| Gospels | Matthew, Mark, Luke, John |
+| Acts | Acts |
+| Pauline Epistles | Romans, Ephesians |
+| General Epistles | 1 Peter |
+
+15 books complete — 51 remaining.
 
 ---
 

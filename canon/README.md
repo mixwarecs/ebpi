@@ -1,16 +1,28 @@
-# React + Vite
+# canon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + Vite application that powers the EBPI interactive Bible viewer.
 
-Currently, two official plugins are available:
+See the root [README](../README.md) for full project documentation, features, and theology framework.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Commands
 
-## React Compiler
+```bash
+npm install      # install dependencies
+npm run dev      # dev server at http://localhost:5173
+npm run build    # production bundle → dist/
+npm run preview  # serve production build locally
+npm run lint     # ESLint check
+npm test         # run unit tests
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Key files
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| File | Role |
+|---|---|
+| `src/CanonShelf.jsx` | Top-level router and state manager |
+| `src/constants.js` | Color tokens, tab definitions, UI strings (trilingual) |
+| `src/adapters/canonToViewer.js` | Maps CANON Pipeline JSON → component props |
+| `src/components/BookViewer.jsx` | Multi-tab book detail view |
+| `src/components/book/ChapterSummaries.jsx` | Audio player + chapter summary panel |
+| `src/components/book/Timeline.jsx` | Interactive chapter timeline |
+| `public/data/` | Static book JSON files served at runtime |

@@ -13,8 +13,10 @@ Un explorador bíblico interactivo y multilingüe construido sobre teología Ref
 - **Integración de teología sistemática** — Capítulos de la Confesión de Westminster y marco de Teología del Pacto mapeados a cada libro
 - **Línea de tiempo interactiva de capítulos** — Línea de tiempo horizontal con desplazamiento, bandas de era y nodos de personajes; haz clic en cualquier personaje para ver su bio, tipología y referencias del NT
 - **Recorridos por división** — Panoramas a nivel de categoría con enfoque cristológico, período del pacto y distintivos Reformados antes de entrar a cada libro individual
+- **Resúmenes de capítulos + reproductor de audio** — Un panel inferior "AUDIO · CAPÍTULOS" transmite audio bíblico dramatizado desde Google Cloud Storage según el idioma (es = RVR60, en = MSB, pt = ACF); el audio avanza automáticamente capítulo a capítulo y cada capítulo tiene su propio enlace profundo
 - **Trilingüe** — Español (es), inglés (en), portugués (pt); el idioma se conserva en la URL para que cualquier vista pueda compartirse o guardarse como marcador
 - **Navegación basada en URL** — Todo el estado de la vista se codifica en el hash (p. ej. `#book/1/theology/es`) para enlaces profundos compartibles y recargables
+- **Persistencia de sesión** — El último idioma, ubicación y capítulo se guardan en `localStorage` y se restauran automáticamente al volver a la app
 - **Fuentes académicas** — Bibliografía escalonada por libro con obras primarias, secundarias y de referencia
 
 ---
@@ -44,18 +46,27 @@ ebpi/
 │   │   ├── utils.jsx        # Enlace de versículos, constructores de URL
 │   │   ├── adapters/
 │   │   │   └── canonToViewer.js   # Esquema CANON → formas de componente
-│   │   └── components/
-│   │       ├── IndexPage.jsx      # Vista de estantería AT / NT
-│   │       ├── DivisionTour.jsx   # Página de panorama de división
-│   │       ├── BookViewer.jsx     # Detalle de libro con pestañas
-│   │       └── book/
-│   │           ├── Timeline.jsx   # Línea de tiempo interactiva
-│   │           ├── TheologyTab.jsx
-│   │           └── SourcesTab.jsx
+│   │   ├── components/
+│   │   │   ├── IndexPage.jsx      # Vista de estantería AT / NT
+│   │   │   ├── DivisionTour.jsx   # Página de panorama de división
+│   │   │   ├── BookViewer.jsx     # Detalle de libro con pestañas
+│   │   │   ├── VerseLink.jsx      # Componente de referencia bíblica con enlace
+│   │   │   └── book/
+│   │   │       ├── ChapterSummaries.jsx  # Reproductor de audio + lista de resúmenes
+│   │   │       ├── Timeline.jsx          # Línea de tiempo interactiva
+│   │   │       ├── TheologyTab.jsx
+│   │   │       └── SourcesTab.jsx
+│   │   └── __tests__/
+│   │       └── utils.test.jsx
 │   ├── public/
 │   │   └── data/                  # Archivos JSON de libros (servidos en tiempo de ejecución)
 │   ├── package.json
 │   └── vite.config.js
+├── scripts/                 # Utilidades de descarga de audio
+│   ├── download_audio_en.py
+│   ├── download_audio_es.py
+│   └── download_audio_pt.py
+├── audio/                   # Caché local de audio (en / es / pt)
 └── data/                    # Datos fuente (salida del Pipeline CANON)
     ├── books-manifest.json
     ├── personas-display.json
@@ -123,11 +134,14 @@ La app utiliza enrutamiento basado en hash para que todo el estado sea compartib
 | Patrón | Descripción |
 |---|---|
 | `#` | Estantería canónica (índice AT / NT) |
-| `#division/[clave]` | Recorrido de división para un grupo canónico |
-| `#book/[id]` | Visión general del libro (pestaña por defecto, idioma actual) |
+| `#division/[clave]/[idioma]` | Recorrido de división para un grupo canónico |
+| `#book/[id]/[idioma]` | Visión general del libro (pestaña por defecto, idioma actual) |
 | `#book/[id]/[pestaña]/[idioma]` | Libro en una pestaña e idioma específicos |
+| `#book/[id]/summaries/[idioma]` | Resúmenes de capítulos + reproductor de audio |
+| `#book/[id]/summaries/[capítuloIdx]/[idioma]` | Enlace profundo a un capítulo específico |
 
-**Ejemplo:** `#book/1/theology/es` abre Génesis en la pestaña de Teología en español.
+**Ejemplo:** `#book/1/theology/es` abre Génesis en la pestaña de Teología en español.  
+**Ejemplo:** `#book/1/summaries/2/es` abre Génesis con el capítulo 2 resaltado y listo para reproducir.
 
 ---
 
@@ -148,10 +162,16 @@ Los libros completados se colocan en `canon/public/data/` y se registran en `boo
 
 ### Cobertura actual
 
-| Estado | Libros |
+| División | Completos |
 |---|---|
-| Completos | Génesis, Éxodo, Levítico, Números, Deuteronomio |
-| Próximamente | 61 libros restantes |
+| Pentateuco | Génesis, Éxodo, Levítico, Números, Deuteronomio |
+| Históricos | Josué, Jueces, Rut, 1 Samuel |
+| Evangelios | Mateo, Marcos, Lucas, Juan |
+| Hechos | Hechos |
+| Epístolas Paulinas | Romanos, Efesios |
+| Epístolas Generales | 1 Pedro |
+
+15 libros completos — 51 restantes.
 
 ---
 
