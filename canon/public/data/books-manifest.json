@@ -1768,12 +1768,13 @@
       "ordenCanon": 60,
       "capitulosTotal": 5,
       "divisionColor": "#8B6914",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Escrita a los 'extranjeros dispersos' bajo persecución (probablemente neroniana), presenta a los creyentes como el nuevo pueblo peregrino de Dios y desarrolla la doctrina de la piedra angular rechazada/elegida como fundamento de la identidad eclesial.",
         "en": "Written to the 'elect exiles of the Dispersion' under persecution (probably Neronian), presents believers as God's new pilgrim people and develops the doctrine of the rejected/chosen cornerstone as the foundation of ecclesial identity.",
         "pt": "Escrita aos 'estrangeiros dispersos' sob perseguição (provavelmente neroniana), apresenta os crentes como o novo povo peregrino de Deus e desenvolve a doutrina da pedra angular rejeitada/eleita como fundamento da identidade eclesial."
-      }
+      },
+      "dataFile": "1peter.json"
     },
     {
       "id": 61,

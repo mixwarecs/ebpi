@@ -1387,5 +1387,41 @@
       "en": "MEDIUM OF ENDOR",
       "pt": "MÉDIUM DE ENDOR"
     }
+  },
+  "Pedro (Apóstol)": {
+    "id": "pedro-apostol",
+    "color": "#1B5E8B",
+    "init": "ΠΕ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "APÓSTOL · AUTOR",
+      "en": "APOSTLE · AUTHOR",
+      "pt": "APÓSTOLO · AUTOR"
+    }
+  },
+  "Silvano": {
+    "id": "silvano",
+    "color": "#7A6B5A",
+    "init": "ΣΙ",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "AMANUENSE",
+      "en": "AMANUENSIS",
+      "pt": "AMANUENSE"
+    }
+  },
+  "Marcos": {
+    "id": "marcos",
+    "color": "#5A7A8B",
+    "init": "ΜΑ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "COLABORADOR",
+      "en": "CO-WORKER",
+      "pt": "COLABORADOR"
+    }
   }
 }

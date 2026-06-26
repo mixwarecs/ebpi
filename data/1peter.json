@@ -1,0 +1,1638 @@
+{
+  "id": 60,
+  "testamento": "Nuevo",
+  "division": "Epístolas Generales",
+  "titulo": {
+    "es": "1 Pedro",
+    "en": "1 Peter",
+    "pt": "1 Pedro"
+  },
+  "tituloOriginal": "Πέτρου Αʹ",
+  "transliteracion": "Petrou A'",
+  "significado": {
+    "es": "Primera carta de Pedro",
+    "en": "First Letter of Peter",
+    "pt": "Primeira carta de Pedro"
+  },
+  "capitulosTotal": 5,
+  "autor": {
+    "nombre": {
+      "es": "Pedro",
+      "en": "Peter",
+      "pt": "Pedro"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "Algunos críticos cuestionan la autoría directa de Pedro señalando el griego refinado del texto, pero la tradición reformada afirma la autoría petrina; Pedro pudo haberse valido de Silvano como amanuense, lo cual explica el griego pulido (1P 5:12). El testimonio patrístico unánime —Papías, Ireneo, Clemente de Roma— apoya la autoría petrina.",
+      "en": "Some critics question direct Petrine authorship pointing to the letter's refined Greek, but the Reformed tradition affirms Peter as author; he likely employed Silvanus as amanuensis, accounting for the polished Greek style (1Pet 5:12). Unanimous patristic testimony — Papias, Irenaeus, Clement of Rome — supports Petrine authorship.",
+      "pt": "Alguns críticos questionam a autoria direta de Pedro apontando o grego refinado do texto, mas a tradição reformada afirma a autoria petrina; Pedro pode ter utilizado Silvano como amanuense, o que explica o grego polido (1Pe 5:12). O testemunho patrístico unânime — Papias, Ireneu, Clemente de Roma — apoia a autoria petrina."
+    }
+  },
+  "año": {
+    "desde": 62,
+    "hasta": 64,
+    "display": {
+      "es": "Fecha de escritura: aprox. 62–64 d.C.",
+      "en": "Date of writing: approx. AD 62–64",
+      "pt": "Data de escrita: aprox. 62–64 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Roma, denominada 'Babilonia' en 1P 5:13, capital del Imperio Romano; sede del poder imperial y lugar del martirio posterior del apóstol",
+    "en": "Rome, referred to as 'Babylon' in 1Pet 5:13, capital of the Roman Empire; seat of imperial power and the later site of the apostle's martyrdom",
+    "pt": "Roma, denominada 'Babilônia' em 1Pe 5:13, capital do Império Romano; sede do poder imperial e local do martírio posterior do apóstolo"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Primitivo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Ponto",
+          "en": "Pontus",
+          "pt": "Ponto"
+        },
+        "identificacionModerna": {
+          "es": "Costa norte de la actual Turquía, orilla sur del Mar Negro",
+          "en": "Northern coast of modern Turkey, southern shore of the Black Sea",
+          "pt": "Costa norte da atual Turquia, margem sul do Mar Negro"
+        },
+        "significancia": {
+          "es": "Primera provincia mencionada en el saludo de Pedro (1P 1:1); sede de comunidades judías y gentiles dispersas; Aquila, colaborador de Pablo, era oriundo de esta región (Hch 18:2), indicando presencia cristiana temprana",
+          "en": "First province named in Peter's greeting (1Pet 1:1); home to scattered Jewish and Gentile communities; Aquila, Paul's co-worker, was a native of this region (Acts 18:2), indicating early Christian presence",
+          "pt": "Primeira província mencionada na saudação de Pedro (1Pe 1:1); sede de comunidades judaicas e gentias dispersas; Áquila, colaborador de Paulo, era oriundo desta região (At 18:2), indicando presença cristã primitiva"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Galacia",
+          "en": "Galatia",
+          "pt": "Galácia"
+        },
+        "identificacionModerna": {
+          "es": "Región central de la actual Turquía (interior de Anatolia), evangelizada en los viajes misioneros de Pablo",
+          "en": "Central region of modern Turkey (interior of Anatolia), evangelized during Paul's missionary journeys",
+          "pt": "Região central da atual Turquia (interior da Anatólia), evangelizada nas viagens missionárias de Paulo"
+        },
+        "significancia": {
+          "es": "Evangelizada por Pablo (Hch 16:6; Hch 18:23); los creyentes gálatas forman parte de los 'elegidos forasteros de la dispersión' (1P 1:1); la carta de Pedro al complementar la de Pablo refleja la catolicidad de la iglesia primitiva",
+          "en": "Evangelized by Paul (Acts 16:6; Acts 18:23); Galatian believers are among the 'elect exiles of the Dispersion' (1Pet 1:1); Peter's letter complementing Paul's reflects the catholicity of the early church",
+          "pt": "Evangelizada por Paulo (At 16:6; At 18:23); os crentes da Galácia fazem parte dos 'eleitos peregrinos da dispersão' (1Pe 1:1); a carta de Pedro complementando a de Paulo reflete a catolicidade da igreja primitiva"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Capadocia",
+          "en": "Cappadocia",
+          "pt": "Capadócia"
+        },
+        "identificacionModerna": {
+          "es": "Región montañosa del centro-este de Anatolia, actual Turquía central, conocida por sus formaciones rocosas volcánicas",
+          "en": "Mountainous region of east-central Anatolia, modern central Turkey, known for its volcanic rock formations",
+          "pt": "Região montanhosa do centro-leste da Anatólia, atual Turquia central, conhecida por suas formações rochosas vulcânicas"
+        },
+        "significancia": {
+          "es": "Habitada por judíos de la diáspora que escucharon el evangelio en Pentecostés (Hch 2:9); comunidades establecidas de creyentes en una región geográficamente aislada que necesitaban el sostén pastoral de la carta de Pedro",
+          "en": "Inhabited by diaspora Jews who heard the gospel at Pentecost (Acts 2:9); established communities of believers in a geographically isolated region who needed the pastoral support of Peter's letter",
+          "pt": "Habitada por judeus da diáspora que ouviram o evangelho no Pentecostes (At 2:9); comunidades estabelecidas de crentes em uma região geograficamente isolada que precisavam do apoio pastoral da carta de Pedro"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Asia (provincia romana)",
+          "en": "Asia (Roman province)",
+          "pt": "Ásia (província romana)"
+        },
+        "identificacionModerna": {
+          "es": "Parte occidental de la actual Turquía, incluyendo ciudades como Éfeso, Esmirna, Pérgamo, Laodicea y Colosas",
+          "en": "Western portion of modern Turkey, including cities such as Ephesus, Smyrna, Pergamon, Laodicea, and Colossae",
+          "pt": "Parte ocidental da atual Turquia, incluindo cidades como Éfeso, Esmirna, Pérgamo, Laodiceia e Colossos"
+        },
+        "significancia": {
+          "es": "Provincia próspera con numerosos templos del culto imperial; los creyentes enfrentaban intensa presión social, religiosa y económica por no participar en el culto oficial. Las siete iglesias de Apocalipsis 2–3 también se ubicaban en esta provincia",
+          "en": "Prosperous province with numerous imperial cult temples; believers faced intense social, religious, and economic pressure for refusing to participate in official worship. The seven churches of Revelation 2–3 were also located in this province",
+          "pt": "Próspera província com numerosos templos do culto imperial; os crentes enfrentavam intensa pressão social, religiosa e econômica por não participar do culto oficial. As sete igrejas do Apocalipse 2–3 também estavam localizadas nessa província"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Bitinia",
+          "en": "Bithynia",
+          "pt": "Bitínia"
+        },
+        "identificacionModerna": {
+          "es": "Noroeste de Asia Menor, frontera con el Ponto; actual noroeste de Turquía, incluyendo las ciudades modernas de Bursa e İzmit",
+          "en": "Northwestern Asia Minor, bordering Pontus; modern northwestern Turkey, including the modern cities of Bursa and İzmit",
+          "pt": "Noroeste da Ásia Menor, fronteiriça ao Ponto; atual noroeste da Turquia, incluindo as cidades modernas de Bursa e İzmit"
+        },
+        "significancia": {
+          "es": "Plinio el Joven reportó al emperador Trajano (c. 112 d.C.) sobre la enorme cantidad de cristianos en Bitinia-Ponto, evidencia extrabiblica directa de la expansión del evangelio en las regiones dirigidas por Pedro; la carta de Pedro anticipa y prepara a estos creyentes para la persecución que vendría",
+          "en": "Pliny the Younger reported to Emperor Trajan (c. AD 112) about the huge numbers of Christians in Bithynia-Pontus, providing direct extra-biblical evidence of gospel expansion in the regions Peter addressed; Peter's letter anticipates and prepares these believers for the coming persecution",
+          "pt": "Plínio, o Jovem, relatou ao imperador Trajano (c. 112 d.C.) sobre a enorme quantidade de cristãos na Bitínia-Ponto, fornecendo evidência extrabíblica direta da expansão do evangelho nas regiões que Pedro endereçou; a carta de Pedro antecipa e prepara esses crentes para a perseguição que viria"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Babilonia (Roma)",
+          "en": "Babylon (Rome)",
+          "pt": "Babilônia (Roma)"
+        },
+        "identificacionModerna": {
+          "es": "Roma, Italia; 'Babilonia' es un nombre cifrado para Roma ampliamente usado en la literatura judía y cristiana del siglo I (cf. Ap 17–18)",
+          "en": "Rome, Italy; 'Babylon' is a coded name for Rome widely used in first-century Jewish and Christian literature (cf. Rev 17–18)",
+          "pt": "Roma, Itália; 'Babilônia' é um nome cifrado para Roma amplamente usado na literatura judaica e cristã do século I (cf. Ap 17–18)"
+        },
+        "significancia": {
+          "es": "Lugar desde el cual Pedro escribe la carta (1P 5:13); sede del poder imperial que perseguía a los creyentes; la elección del nombre 'Babilonia' establece un paralelo teológico deliberado con el exilio babilónico de Israel, reforzando la identidad de los creyentes como 'forasteros y peregrinos' en el mundo",
+          "en": "Location from which Peter writes the letter (1Pet 5:13); seat of imperial power persecuting believers; the choice of the name 'Babylon' establishes a deliberate theological parallel with Israel's Babylonian exile, reinforcing believers' identity as 'strangers and exiles' in the world",
+          "pt": "Local de onde Pedro escreve a carta (1Pe 5:13); sede do poder imperial que perseguia os crentes; a escolha do nome 'Babilônia' estabelece um paralelo teológico deliberado com o exílio babilônico de Israel, reforçando a identidade dos crentes como 'estrangeiros e peregrinos' no mundo"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "El Imperio Romano es el contexto político omnipresente de la carta: es la 'institución humana' a la que Pedro exhorta a someterse (1P 2:13–17) y el agente de la persecución que sufren los 'forasteros'. El culto imperial —la adoración del emperador como dios— presionaba constantemente a los creyentes a comprometer su lealtad exclusiva a Cristo",
+          "en": "The Roman Empire is the omnipresent political context of the letter: it is the 'human institution' to which Peter exhorts submission (1Pet 2:13–17) and the agent of persecution that the 'exiles' endure. The imperial cult — the worship of the emperor as a god — constantly pressured believers to compromise their exclusive loyalty to Christ",
+          "pt": "O Império Romano é o contexto político onipresente da carta: é a 'instituição humana' à qual Pedro exorta à submissão (1Pe 2:13–17) e o agente da perseguição que os 'peregrinos' suportam. O culto imperial — a adoração do imperador como deus — pressionava constantemente os crentes a comprometerem sua lealdade exclusiva a Cristo"
+        },
+        "estadoArqueologico": {
+          "es": "Abundante evidencia arqueológica confirma el contexto romano: inscripciones imperiales, templos del culto imperial en Éfeso y Pérgamo, registros administrativos romanos. La carta de Plinio a Trajano (Ep. 10.96-97) es la confirmación extrabiblica más directa de la situación descrita en 1 Pedro",
+          "en": "Abundant archaeological evidence confirms the Roman context: imperial inscriptions, imperial cult temples at Ephesus and Pergamon, Roman administrative records. Pliny's letter to Trajan (Ep. 10.96-97) is the most direct extra-biblical confirmation of the situation described in 1 Peter",
+          "pt": "Abundante evidência arqueológica confirma o contexto romano: inscrições imperiais, templos do culto imperial em Éfeso e Pérgamo, registros administrativos romanos. A carta de Plínio a Trajano (Ep. 10.96-97) é a confirmação extrabíblica mais direta da situação descrita em 1 Pedro"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Diáspora Judía",
+          "en": "Jewish Diaspora",
+          "pt": "Diáspora Judaica"
+        },
+        "rolEnElTexto": {
+          "es": "Pedro usa el lenguaje del exilio judío y la identidad de Israel como metáfora teológica: los creyentes son 'elegidos forasteros de la dispersión' (1P 1:1), 'real sacerdocio y nación santa' (1P 2:9), términos que Pedro toma directamente del Éxodo (Ex 19:5–6) y reaplica a la iglesia del nuevo pacto",
+          "en": "Peter employs the language of Jewish exile and Israel's identity as theological metaphor: believers are 'elect exiles of the Dispersion' (1Pet 1:1), 'a royal priesthood and a holy nation' (1Pet 2:9), terms Peter draws directly from Exodus (Exod 19:5–6) and reapplies to the new covenant church",
+          "pt": "Pedro usa a linguagem do exílio judaico e a identidade de Israel como metáfora teológica: os crentes são 'eleitos peregrinos da dispersão' (1Pe 1:1), 'sacerdócio real e nação santa' (1Pe 2:9), termos que Pedro extrai diretamente do Êxodo (Ex 19:5–6) e reaplicao à igreja da nova aliança"
+        },
+        "estadoArqueologico": {
+          "es": "Sinagogas y epitafios hebreos documentan la presencia judía en el Ponto, Asia y Bitinia. Los creyentes judíos de estas regiones habrían reconocido inmediatamente el lenguaje del pacto y del exilio utilizado por Pedro, dándole a la carta una profundidad hermenéutica para oyentes con formación en el AT",
+          "en": "Synagogues and Hebrew epitaphs document Jewish presence in Pontus, Asia, and Bithynia. Jewish believers in these regions would have immediately recognized the covenant and exile language used by Peter, giving the letter hermeneutical depth for hearers with OT formation",
+          "pt": "Sinagogas e epitáfios hebraicos documentam a presença judaica no Ponto, Ásia e Bitínia. Os crentes judaicos nessas regiões teriam reconhecido imediatamente a linguagem da aliança e do exílio usada por Pedro, conferindo à carta uma profundidade hermenêutica para ouvintes com formação no AT"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidades Gentiles de Asia Menor",
+          "en": "Gentile Communities of Asia Minor",
+          "pt": "Comunidades Gentias da Ásia Menor"
+        },
+        "rolEnElTexto": {
+          "es": "La mayoría de los destinatarios eran gentiles convertidos ('en vuestra ignorancia anterior', 1P 1:14; 'vana conducta heredada de sus padres', 1P 1:18) que habían abandonado las prácticas paganas locales, ganándose la hostilidad de sus vecinos y la acusación de 'malhechores' (1P 2:12). Pedro les enseña que su identidad verdadera está en Cristo, no en la cultura circundante",
+          "en": "The majority of recipients were converted Gentiles ('the passions of your former ignorance,' 1Pet 1:14; 'the futile ways inherited from your forefathers,' 1Pet 1:18) who had abandoned local pagan practices, earning the hostility of their neighbors and the accusation of 'evildoers' (1Pet 2:12). Peter teaches them that their true identity is in Christ, not in the surrounding culture",
+          "pt": "A maioria dos destinatários eram gentios convertidos ('as paixões da vossa antiga ignorância', 1Pe 1:14; 'o vosso fútil procedimento, herdado dos vossos pais', 1Pe 1:18) que haviam abandonado as práticas pagãs locais, ganhando a hostilidade de seus vizinhos e a acusação de 'malfeitores' (1Pe 2:12). Pedro os ensina que sua verdadeira identidade está em Cristo, não na cultura circundante"
+        },
+        "estadoArqueologico": {
+          "es": "La evidencia arqueológica en sitios de Asia Menor revela la intensa vida religiosa pagana (templos a Artemisa en Éfeso, cultos mistéricos, etc.) que los creyentes debían rechazar. Las excavaciones en Antioquía de Pisidia confirman la presencia tanto judía como gentil en las comunidades del área referenciada por Pedro",
+          "en": "Archaeological evidence at Asia Minor sites reveals the intense pagan religious life (temples to Artemis in Ephesus, mystery cults, etc.) that believers had to reject. Excavations at Antioch in Pisidia confirm both Jewish and Gentile presence in the communities of the area referenced by Peter",
+          "pt": "Evidências arqueológicas em sítios da Ásia Menor revelam a intensa vida religiosa pagã (templos a Ártemis em Éfeso, cultos de mistério, etc.) que os crentes deviam rejeitar. Escavações em Antioquia da Pisídia confirmam a presença tanto judaica quanto gentia nas comunidades da área referenciada por Pedro"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "A arqueología ilumina significativamente el trasfondo de 1 Pedro. En Éfeso, capital de la provincia de Asia, se han excavado el templo de Artemisa y el complejo del culto imperial, mostrando la presión que enfrentaban los creyentes por negarse a participar. Las inscripciones imperiales halladas en ciudades de Asia Menor documentan la expectativa de lealtad al emperador, contextualizando la exhortación de Pedro a 'honrar al rey' sin adorarlo (1P 2:17). La carta de Plinio el Joven al emperador Trajano (c. 112 d.C.) —'Ep. 10.96-97'— constituye la confirmación extrabiblica más importante: Plinio reporta que en Bitinia-Ponto hay tantos cristianos que los templos paganos han quedado casi desiertos, y describe su práctica de cantar himnos a Cristo 'como a un dios', lo cual corrobora exactamente el entorno descrito en 1 Pedro 4:3–4. Evidencias de sinagogas judías en Sardis, Priene y otras ciudades del área confirman la presencia diasporía que Pedro presupone. No se han encontrado inscripciones o monumentos que mencionen directamente a Pedro en estas regiones, lo cual era esperable dado el carácter itinerante de su ministerio.",
+      "en": "Archaeology significantly illuminates the background of 1 Peter. In Ephesus, capital of the province of Asia, the temple of Artemis and the imperial cult complex have been excavated, showing the pressure believers faced for refusing to participate. Imperial inscriptions found in Asia Minor cities document the expectation of loyalty to the emperor, contextualizing Peter's exhortation to 'honor the king' without worshipping him (1Pet 2:17). Pliny the Younger's letter to Emperor Trajan (c. AD 112) — 'Ep. 10.96-97' — is the most important extra-biblical confirmation: Pliny reports that in Bithynia-Pontus there are so many Christians that pagan temples have nearly been abandoned, and describes their practice of singing hymns to Christ 'as to a god,' which precisely corroborates the environment described in 1Pet 4:3–4. Evidence of Jewish synagogues at Sardis, Priene, and other cities in the region confirms the diaspora presence Peter presupposes. No inscriptions or monuments directly mentioning Peter in these regions have been found, which was to be expected given the itinerant character of his ministry.",
+      "pt": "A arqueologia ilumina significativamente o contexto de 1 Pedro. Em Éfeso, capital da província da Ásia, o templo de Ártemis e o complexo do culto imperial foram escavados, mostrando a pressão que os crentes enfrentavam por se recusar a participar. Inscrições imperiais encontradas em cidades da Ásia Menor documentam a expectativa de lealdade ao imperador, contextualizando a exortação de Pedro para 'honrar o rei' sem adorá-lo (1Pe 2:17). A carta de Plínio, o Jovem, ao imperador Trajano (c. 112 d.C.) — 'Ep. 10.96-97' — constitui a confirmação extrabíblica mais importante: Plínio relata que na Bitínia-Ponto há tantos cristãos que os templos pagãos ficaram quase desertos, e descreve sua prática de cantar hinos a Cristo 'como a um deus', o que corrobora exatamente o ambiente descrito em 1Pe 4:3–4. Evidências de sinagogas judaicas em Sardes, Priene e outras cidades da região confirmam a presença da diáspora que Pedro pressupõe. Não foram encontradas inscrições ou monumentos que mencionem diretamente Pedro nessas regiões, o que era esperado dado o caráter itinerante de seu ministério."
+    },
+    "fuentesANE": [],
+    "controversiasHistoricas": {
+      "es": "La controversia histórica principal de 1 Pedro gira en torno a su autoría. Los que niegan la autoría petrina directa esgrimen: (1) el griego demasiado refinado para un pescador galileo; (2) el uso extensivo de la LXX sugiere un autor que pensaba en griego, no en arameo; (3) las persecuciones descritas recuerdan la de Domiciano (81–96 d.C.), posterior a la muerte de Pedro. La posición reformada responde punto por punto: (1) Pedro expresamente menciona que escribió 'por medio de Silvano' (1P 5:12), un amanuense culto que habría mejorado el estilo; (2) Pedro, como judío helenizado de una región bilingüe (Galilea de los Gentiles), pudo conocer bien el griego; (3) los sufrimientos de la carta son hostilidad social y difamación local, no una persecución imperial organizada como la de Domiciano —Pedro exhorta incluso a honrar al rey (1P 2:17)—. El testimonio patrístico es unánime: Papías (c. 60–130 d.C.), Policarpo, Ireneo y el Canon de Muratori reconocen la autoría petrina. La crítica moderna no ha producido ningún candidato alternativo convincente.",
+      "en": "The principal historical controversy of 1 Peter revolves around its authorship. Those who deny direct Petrine authorship argue: (1) the Greek is too refined for a Galilean fisherman; (2) the extensive use of the LXX suggests an author who thought in Greek, not Aramaic; (3) the persecutions described recall Domitian's (AD 81–96), after Peter's death. The Reformed position responds point by point: (1) Peter explicitly states he wrote 'through Silvanus' (1Pet 5:12), a cultivated amanuensis who would have refined the style; (2) Peter, as a Hellenized Jew from a bilingual region (Galilee of the Gentiles), could have known Greek well; (3) the sufferings in the letter are social hostility and local slander, not organized imperial persecution like Domitian's — Peter even exhorts his readers to honor the king (1Pet 2:17). Patristic testimony is unanimous: Papias (c. AD 60–130), Polycarp, Irenaeus, and the Muratorian Canon recognize Petrine authorship. Modern criticism has produced no convincing alternative candidate.",
+      "pt": "A principal controvérsia histórica de 1 Pedro gira em torno à sua autoria. Os que negam a autoria petrina direta argumentam: (1) o grego é refinado demais para um pescador galileu; (2) o uso extensivo da LXX sugere um autor que pensava em grego, não em aramaico; (3) as perseguições descritas lembram a de Domiciano (81–96 d.C.), posterior à morte de Pedro. A posição reformada responde ponto a ponto: (1) Pedro menciona explicitamente que escreveu 'por intermédio de Silvano' (1Pe 5:12), um amanuense culto que teria refinado o estilo; (2) Pedro, como judeu helenizado de uma região bilíngue (Galileia dos Gentios), podia conhecer bem o grego; (3) os sofrimentos da carta são hostilidade social e difamação local, não uma perseguição imperial organizada como a de Domiciano — Pedro exorta inclusive a honrar o rei (1Pe 2:17). O testemunho patrístico é unânime: Papias (c. 60–130 d.C.), Policarpo, Ireneu e o Cânon de Muratori reconhecem a autoria petrina. A crítica moderna não produziu nenhum candidato alternativo convincente."
+    },
+    "cronologiaInterna": {
+      "es": "La carta no narra una secuencia histórica sino que presenta instrucciones pastorales atemporales sostenidas por fundamentos teológicos. Internamente, Pedro se identifica como apóstol (1P 1:1), 'anciano' y 'testigo de los padecimientos de Cristo' (1P 5:1), señalando una fecha post-resurrección. La exhortación a honrar al rey (1P 2:17) sugiere que escribió antes de la declaración oficial de la persecución neroniana tras el incendio de Roma (64 d.C.), o al comienzo de esta. La referencia a 'Marcos, mi hijo' (1P 5:13) sitúa a Pedro y Marcos juntos en Roma, coherente con la tradición que ubica a Pedro en Roma en los primeros años 60. La frase 'la iglesia que está en Babilonia, elegida juntamente con vosotros' (1P 5:13) indica que Pedro escribía en nombre de una comunidad cristiana ya establecida en Roma.",
+      "en": "The letter does not narrate a historical sequence but presents timeless pastoral instructions grounded in theological foundations. Internally, Peter identifies himself as an apostle (1Pet 1:1), 'elder,' and 'witness to the sufferings of Christ' (1Pet 5:1), indicating a post-Resurrection date. The exhortation to honor the king (1Pet 2:17) suggests he wrote before or at the beginning of the official Neronian persecution declared after Rome's fire (AD 64). The reference to 'Mark, my son' (1Pet 5:13) places Peter and Mark together in Rome, consistent with tradition locating Peter in Rome in the early AD 60s. The phrase 'she who is at Babylon, who is likewise chosen' (1Pet 5:13) indicates Peter was writing on behalf of an already-established Christian community in Rome.",
+      "pt": "A carta não narra uma sequência histórica, mas apresenta instruções pastorais atemporais sustentadas por fundamentos teológicos. Internamente, Pedro se identifica como apóstolo (1Pe 1:1), 'ancião' e 'testemunha dos sofrimentos de Cristo' (1Pe 5:1), indicando uma data pós-ressurreição. A exortação a honrar o rei (1Pe 2:17) sugere que escreveu antes ou no início da perseguição neroniana oficial declarada após o incêndio de Roma (64 d.C.). A referência a 'Marcos, meu filho' (1Pe 5:13) situa Pedro e Marcos juntos em Roma, coerente com a tradição que localiza Pedro em Roma nos primeiros anos 60. A frase 'a que está em Babilônia, igualmente eleita' (1Pe 5:13) indica que Pedro escrevia em nome de uma comunidade cristã já estabelecida em Roma."
+    }
+  },
+  "ordenEnDivision": 3,
+  "ordenCanon": 60,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Cristo es el centro absoluto de 1 Pedro. Pedro lo presenta como el Siervo Sufriente de Isaías que 'llevó nuestros pecados en su cuerpo en el madero' (1P 2:24, citando Is 53:4–6); como la piedra angular escogida por Dios pero rechazada por los constructores (1P 2:4–8, citando Sal 118:22; Is 28:16); como el Cordero Pascual sin mancha ni contaminación cuya sangre preciosa redime (1P 1:18–19); y como el Pastor y Obispo de las almas (1P 2:25; 1P 5:4). La cristología de Pedro sigue el patrón vosiano de humillación-exaltación: los padecimientos de Cristo (1P 1:11) son primero, y la gloria que los sigue es el fundamento de la esperanza escatológica del creyente. En 1P 3:18–22, Pedro vincula la victoria de Cristo sobre la muerte con el bautismo y la resurrección, estableciendo que toda la vida cristiana es participación en el ciclo muerte-resurrección del Señor. La exhortación al sufrimiento en 1P 2:21 —'Cristo padeció por vosotros, dejándoos ejemplo'— une la imitación ética con la identificación redentora: el creyente sigue al Cristo que ya venció.",
+      "en": "Christ is the absolute center of 1 Peter. Peter presents him as the Suffering Servant of Isaiah who 'bore our sins in his body on the tree' (1Pet 2:24, citing Isa 53:4–6); as the chosen cornerstone rejected by the builders (1Pet 2:4–8, citing Ps 118:22; Isa 28:16); as the spotless, unblemished Passover Lamb whose precious blood redeems (1Pet 1:18–19); and as the Shepherd and Overseer of souls (1Pet 2:25; 1Pet 5:4). Peter's Christology follows the Vosian pattern of humiliation-exaltation: Christ's sufferings (1Pet 1:11) come first, and the glory that follows is the foundation of the believer's eschatological hope. In 1Pet 3:18–22, Peter links Christ's victory over death to baptism and resurrection, establishing that all Christian life is participation in the Lord's death-resurrection cycle. The exhortation to suffering in 1Pet 2:21 — 'Christ suffered for you, leaving you an example' — unites ethical imitation with redemptive identification: the believer follows the Christ who has already conquered.",
+      "pt": "Cristo é o centro absoluto de 1 Pedro. Pedro o apresenta como o Servo Sofredor de Isaías que 'levou nossos pecados em seu corpo no madeiro' (1Pe 2:24, citando Is 53:4–6); como a pedra angular escolhida por Deus, mas rejeitada pelos construtores (1Pe 2:4–8, citando Sl 118:22; Is 28:16); como o Cordeiro Pascal sem mácula e sem contaminação cujo sangue precioso redime (1Pe 1:18–19); e como o Pastor e Bispo das almas (1Pe 2:25; 1Pe 5:4). A cristologia de Pedro segue o padrão vosiano de humilhação-exaltação: os sofrimentos de Cristo (1Pe 1:11) vêm primeiro, e a glória que se segue é o fundamento da esperança escatológica do crente. Em 1Pe 3:18–22, Pedro vincula a vitória de Cristo sobre a morte ao batismo e à ressurreição, estabelecendo que toda a vida cristã é participação no ciclo morte-ressurreição do Senhor. A exortação ao sofrimento em 1Pe 2:21 — 'Cristo sofreu por vós, deixando-vos exemplo' — une a imitação ética com a identificação redentora: o crente segue ao Cristo que já venceu."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El Cordero Pascual sin mancha (Ex 12:5) como tipo del Cristo sin pecado cuya sangre preciosa nos redime de la vana conducta heredada de nuestros padres (1P 1:18–19; Ex 12:5)",
+        "en": "The spotless Passover Lamb (Exod 12:5) as a type of the sinless Christ whose precious blood redeems us from the futile conduct inherited from our fathers (1Pet 1:18–19; Exod 12:5)",
+        "pt": "O Cordeiro Pascal sem mácula (Ex 12:5) como tipo do Cristo sem pecado cujo sangue precioso nos redime do vão procedimento herdado de nossos pais (1Pe 1:18–19; Ex 12:5)"
+      },
+      {
+        "es": "La piedra angular rechazada por los constructores pero preciosa para Dios (Sal 118:22; Is 28:16) cumplida en Cristo como fundamento de la nueva comunidad del pacto (1P 2:6–8)",
+        "en": "The cornerstone rejected by the builders but precious to God (Ps 118:22; Isa 28:16) fulfilled in Christ as the foundation of the new covenant community (1Pet 2:6–8)",
+        "pt": "A pedra angular rejeitada pelos construtores, mas preciosa para Deus (Sl 118:22; Is 28:16) cumprida em Cristo como fundamento da nova comunidade da aliança (1Pe 2:6–8)"
+      },
+      {
+        "es": "Israel como 'reino de sacerdotes y nación santa' (Ex 19:5–6) cumplido plenamente en la iglesia como nuevo Israel del pacto, 'linaje escogido, real sacerdocio, nación santa, pueblo adquirido' (1P 2:9)",
+        "en": "Israel as 'a kingdom of priests and a holy nation' (Exod 19:5–6) fully realized in the church as the new covenant Israel, 'a chosen race, a royal priesthood, a holy nation, a people for his own possession' (1Pet 2:9)",
+        "pt": "Israel como 'reino de sacerdotes e nação santa' (Ex 19:5–6) plenamente cumprido na igreja como o novo Israel da aliança, 'geração eleita, sacerdócio real, nação santa, povo adquirido' (1Pe 2:9)"
+      },
+      {
+        "es": "El Siervo Sufriente de Isaías 53 como tipo-profecía cumplida en Cristo, quien 'no cometió pecado' (Is 53:9), 'llevó nuestras enfermedades' (Is 53:4) y 'por cuya llaga fuimos sanados' (Is 53:5; 1P 2:22–24)",
+        "en": "The Suffering Servant of Isaiah 53 as a type-prophecy fulfilled in Christ, who 'committed no sin' (Isa 53:9), 'bore our griefs' (Isa 53:4), and 'by whose wounds we were healed' (Isa 53:5; 1Pet 2:22–24)",
+        "pt": "O Servo Sofredor de Isaías 53 como tipo-profecia cumprida em Cristo, que 'não cometeu pecado' (Is 53:9), 'tomou sobre si as nossas enfermidades' (Is 53:4) e 'por cujas chagas fostes sarados' (Is 53:5; 1Pe 2:22–24)"
+      },
+      {
+        "es": "El diluvio de Noé, en el que ocho personas se salvaron por medio del agua (Gn 6–8), como tipo del bautismo que ahora salva como apelación a Dios basada en la resurrección de Cristo (1P 3:20–21)",
+        "en": "Noah's flood, in which eight persons were saved through water (Gen 6–8), as a type of baptism that now saves as an appeal to God based on the resurrection of Christ (1Pet 3:20–21)",
+        "pt": "O dilúvio de Noé, no qual oito pessoas foram salvas pela água (Gn 6–8), como tipo do batismo que agora salva como apelo a Deus com base na ressurreição de Cristo (1Pe 3:20–21)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "1 Pedro hace una contribución única al canon al desarrollar de manera más explícita y sistemática que cualquier otro libro del NT la teología del sufrimiento cristiano como participación en el sufrimiento de Cristo (1P 4:13) y como camino —no obstáculo— hacia la gloria. Solo esta carta articula tan directamente la transferencia de la identidad pactual de Israel al nuevo pueblo de Dios (1P 2:9–10, citando Os 1:9; Os 2:23; Ex 19:5–6), al tiempo que sostiene el sufrimiento del creyente en la tensión escatológica de 'ya pero todavía no': la herencia imperecedera ya reservada en el cielo (1P 1:4) frente a la prueba del fuego presente (1P 4:12). Ningún otro libro del NT combina tan estrechamente la eclesiología pactual, la imitación cristológica y la esperanza escatológica en un solo documento pastoral dirigido a creyentes perseguidos.",
+    "en": "1 Peter makes a unique contribution to the canon by developing more explicitly and systematically than any other NT book the theology of Christian suffering as participation in Christ's suffering (1Pet 4:13) and as the path — not the obstacle — to glory. Only this letter so directly articulates the transfer of Israel's covenantal identity to the new people of God (1Pet 2:9–10, citing Hos 1:9; Hos 2:23; Exod 19:5–6), while holding the believer's suffering in the eschatological tension of 'already but not yet': the imperishable inheritance already kept in heaven (1Pet 1:4) against the present fiery trial (1Pet 4:12). No other NT book so tightly combines covenantal ecclesiology, Christological imitation, and eschatological hope in a single pastoral document addressed to persecuted believers.",
+    "pt": "1 Pedro faz uma contribuição única ao cânon ao desenvolver mais explícita e sistematicamente do que qualquer outro livro do NT a teologia do sofrimento cristão como participação no sofrimento de Cristo (1Pe 4:13) e como caminho — não obstáculo — para a glória. Só esta carta articula tão diretamente a transferência da identidade pactual de Israel ao novo povo de Deus (1Pe 2:9–10, citando Os 1:9; Os 2:23; Ex 19:5–6), ao mesmo tempo que sustenta o sofrimento do crente na tensão escatológica do 'já mas ainda não': a herança imperecível já reservada no céu (1Pe 1:4) diante da prova do fogo presente (1Pe 4:12). Nenhum outro livro do NT combina tão estreitamente a eclesiologia pactual, a imitação cristológica e a esperança escatológica em um único documento pastoral dirigido a crentes perseguidos."
+  },
+  "genero": {
+    "es": "Epístola circular pastoral",
+    "en": "Circular pastoral epistle",
+    "pt": "Epístola circular pastoral"
+  },
+  "palabraClave": {
+    "es": [
+      "esperanza viva",
+      "sufrimiento santo",
+      "forasteros elegidos",
+      "sacerdocio real",
+      "gloria futura"
+    ],
+    "en": [
+      "living hope",
+      "holy suffering",
+      "elect exiles",
+      "royal priesthood",
+      "future glory"
+    ],
+    "pt": [
+      "esperança viva",
+      "sofrimento santo",
+      "peregrinos eleitos",
+      "sacerdócio real",
+      "glória futura"
+    ]
+  },
+  "destinatario": {
+    "es": "Creyentes dispersos en las provincias romanas del Ponto, Galacia, Capadocia, Asia y Bitinia (norte y centro de Asia Menor, actual Turquía), predominantemente gentiles convertidos del paganismo, que experimentan hostilidad social, difamación y sufrimiento incipiente por su identificación con Cristo en un entorno cultural y religioso romano hostil",
+    "en": "Scattered believers in the Roman provinces of Pontus, Galatia, Cappadocia, Asia, and Bithynia (northern and central Asia Minor, modern Turkey), predominantly converted Gentiles from paganism, experiencing social hostility, slander, and incipient suffering for their identification with Christ in a hostile Roman cultural and religious environment",
+    "pt": "Crentes dispersos nas províncias romanas do Ponto, Galácia, Capadócia, Ásia e Bitínia (norte e centro da Ásia Menor, atual Turquia), predominantemente gentios convertidos do paganismo, que experimentam hostilidade social, difamação e sofrimento incipiente por sua identificação com Cristo em um ambiente cultural e religioso romano hostil"
+  },
+  "proposito": {
+    "es": "Propósito histórico: Fortalecer y alentar a creyentes dispersos en Asia Menor que sufren presión social y persecución por su fe, enseñándoles a mantener una conducta santa y un testimonio fiel ante sus perseguidores. Propósito teológico: Fundamentar la identidad y la ética cristiana en la elección soberana de Dios y en la obra redentora de Cristo, demostrando que el sufrimiento del creyente no contradice sino que confirma y realiza el patrón cristológico de humillación-glorificación, siendo el camino del pacto hacia la gloria escatológica prometida.",
+    "en": "Historical purpose: To strengthen and encourage scattered believers in Asia Minor who are suffering social pressure and persecution for their faith, teaching them to maintain holy conduct and faithful witness before their persecutors. Theological purpose: To ground Christian identity and ethics in God's sovereign election and in Christ's redemptive work, demonstrating that the believer's suffering does not contradict but confirms and enacts the Christological pattern of humiliation-glorification, being the covenantal path toward the promised eschatological glory.",
+    "pt": "Propósito histórico: Fortalecer e encorajar crentes dispersos na Ásia Menor que sofrem pressão social e perseguição por sua fé, ensinando-os a manter uma conduta santa e um testemunho fiel diante de seus perseguidores. Propósito teológico: Fundamentar a identidade e a ética cristã na eleição soberana de Deus e na obra redentora de Cristo, demonstrando que o sofrimento do crente não contradiz, mas confirma e realiza o padrão cristológico de humilhação-glorificação, sendo o caminho da aliança em direção à glória escatológica prometida."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pedro (Apóstol)",
+        "en": "Peter (Apostle)",
+        "pt": "Pedro (Apóstolo)"
+      },
+      "hebreo": "Πέτρος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "descripcion": {
+        "es": "Pedro (cuyo nombre hebreo era Simón bar Jonás) fue el apóstol al que Jesucristo renombró 'Cefas' o 'Pedro' (piedra, Jn 1:42), el líder reconocido del círculo de los Doce y el predicador del Pentecostés. En esta carta se presenta como 'apóstol de Jesucristo' (1P 1:1), 'anciano como ellos y testigo de los padecimientos de Cristo, y también participante de la gloria que ha de ser revelada' (1P 5:1). Su experiencia de haber visto sufrir, morir y resucitar a Cristo impregna cada exhortación pastoral de la carta.",
+        "en": "Peter (whose Hebrew name was Simon bar Jonah) was the apostle renamed 'Cephas' or 'Peter' (rock, John 1:42) by Jesus Christ, the acknowledged leader of the circle of the Twelve and the preacher of Pentecost. In this letter he presents himself as 'an apostle of Jesus Christ' (1Pet 1:1), 'a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed' (1Pet 5:1). His experience of having witnessed Christ suffer, die, and rise permeates every pastoral exhortation of the letter.",
+        "pt": "Pedro (cujo nome hebraico era Simão bar Jonas) foi o apóstolo renomeado 'Cefas' ou 'Pedro' (pedra, Jo 1:42) por Jesus Cristo, o líder reconhecido do círculo dos Doze e o pregador do Pentecostes. Nesta carta se apresenta como 'apóstolo de Jesus Cristo' (1Pe 1:1), 'ancião como eles e testemunha dos sofrimentos de Cristo, como também participante da glória que há de ser revelada' (1Pe 5:1). Sua experiência de ter visto Cristo sofrer, morrer e ressuscitar permeia cada exortação pastoral da carta."
+      },
+      "acciones": {
+        "es": "En 1 Pedro, Pedro actúa como pastor y teólogo: fundamenta la esperanza de los creyentes en la resurrección de Cristo (1P 1:3), les llama a vivir como 'forasteros y peregrinos' con conducta santa (1P 2:11), les enseña sobre el sufrimiento como camino de gloria (1P 4:12–19), y exhorta a los ancianos a pastorear el rebaño de Dios fielmente (1P 5:1–4), terminando con una doxología y saludos finales (1P 5:10–14).",
+        "en": "In 1 Peter, Peter acts as pastor and theologian: he grounds believers' hope in Christ's resurrection (1Pet 1:3), calls them to live as 'strangers and exiles' with holy conduct (1Pet 2:11), teaches them about suffering as the path to glory (1Pet 4:12–19), and exhorts elders to shepherd God's flock faithfully (1Pet 5:1–4), closing with a doxology and final greetings (1Pet 5:10–14).",
+        "pt": "Em 1 Pedro, Pedro age como pastor e teólogo: fundamenta a esperança dos crentes na ressurreição de Cristo (1Pe 1:3), os chama a viver como 'estrangeiros e peregrinos' com conduta santa (1Pe 2:11), os ensina sobre o sofrimento como caminho de glória (1Pe 4:12–19), e exorta os anciãos a pastorear o rebanho de Deus fielmente (1Pe 5:1–4), encerrando com uma doxologia e saudações finais (1Pe 5:10–14)."
+      },
+      "significadoTeologico": {
+        "es": "Pedro encarna en esta carta el principio de que el conocimiento del Cristo sufriente y glorificado es la fuente de la esperanza pastoral. Su identidad apostólica no es de autoridad jerárquica sino de testimonio ocular (1P 5:1): fue testigo de la humillación de Cristo y ahora exhorta desde esa experiencia. Su autoridad es la autoridad del evangelio encarnado en una vida transformada por la gracia.",
+        "en": "Peter embodies in this letter the principle that knowledge of the suffering and glorified Christ is the source of pastoral hope. His apostolic identity is not one of hierarchical authority but of eyewitness testimony (1Pet 5:1): he witnessed Christ's humiliation and now exhorts from that experience. His authority is the authority of the gospel embodied in a life transformed by grace.",
+        "pt": "Pedro encarna nesta carta o princípio de que o conhecimento do Cristo sofredor e glorificado é a fonte da esperança pastoral. Sua identidade apostólica não é de autoridade hierárquica, mas de testemunho ocular (1Pe 5:1): foi testemunha da humilhação de Cristo e agora exorta a partir dessa experiência. Sua autoridade é a autoridade do evangelho encarnado em uma vida transformada pela graça."
+      },
+      "tipo": {
+        "es": "Pedro no funciona tipológicamente en esta carta; su rol es pastoral y apostólico, no prefigurativo.",
+        "en": "Peter does not function typologically in this letter; his role is pastoral and apostolic, not prefigurative.",
+        "pt": "Pedro não funciona tipologicamente nesta carta; seu papel é pastoral e apostólico, não prefigurativo."
+      },
+      "caracterMoral": {
+        "es": "El Pedro que escribe esta carta es el hombre transformado por la resurrección de Cristo y por la restauración de Jn 21: escribe con humildad ('anciano como ellos', 1P 5:1), con autoridad apostólica genuina, con profunda empatía hacia los que sufren, y con una esperanza inquebrantable fundada no en sus propias fuerzas sino en 'la gracia de Dios en la que ustedes están firmes' (1P 5:12).",
+        "en": "The Peter who writes this letter is the man transformed by Christ's resurrection and by his restoration in John 21: he writes with humility ('a fellow elder,' 1Pet 5:1), with genuine apostolic authority, with deep empathy toward those who suffer, and with an unshakeable hope grounded not in his own strength but in 'the true grace of God' in which they stand (1Pet 5:12).",
+        "pt": "O Pedro que escreve esta carta é o homem transformado pela ressurreição de Cristo e pela restauração de Jo 21: escreve com humildade ('ancião como eles', 1Pe 5:1), com autoridade apostólica genuína, com profunda empatia para com os que sofrem, e com uma esperança inabalável fundamentada não em suas próprias forças, mas na 'verdadeira graça de Deus' em que estão firmes (1Pe 5:12)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Simón Pedro fue pescador de Betsaida (Jn 1:44), llamado por Cristo junto a su hermano Andrés (Mt 4:18–20), y renombrado 'Cefas' (roca) por Jesús (Jn 1:42). Fue portavoz del círculo de los Doce, testigo de la Transfiguración (Mt 17:1–8), negó a Cristo tres veces (Mt 26:69–75), fue restaurado por el Resucitado (Jn 21:15–19), y predicó en Pentecostés (Hch 2:14–41). Lideró la iglesia de Jerusalén (Hch 1–12) y fue apóstol a los judíos (Gá 2:7–8), escribiendo desde Roma ('Babilonia') en sus últimos años.",
+          "en": "Simon Peter was a fisherman from Bethsaida (John 1:44), called by Christ along with his brother Andrew (Matt 4:18–20), and renamed 'Cephas' (rock) by Jesus (John 1:42). He was the spokesman of the Twelve, a witness of the Transfiguration (Matt 17:1–8), denied Christ three times (Matt 26:69–75), was restored by the Risen Christ (John 21:15–19), and preached at Pentecost (Acts 2:14–41). He led the Jerusalem church (Acts 1–12) and was apostle to the Jews (Gal 2:7–8), writing from Rome ('Babylon') in his final years.",
+          "pt": "Simão Pedro era pescador de Betsaida (Jo 1:44), chamado por Cristo junto com seu irmão André (Mt 4:18–20), e renomeado 'Cefas' (pedra) por Jesus (Jo 1:42). Foi porta-voz do círculo dos Doze, testemunha da Transfiguração (Mt 17:1–8), negou Cristo três vezes (Mt 26:69–75), foi restaurado pelo Cristo Ressuscitado (Jo 21:15–19), e pregou no Pentecostes (At 2:14–41). Liderou a igreja de Jerusalém (At 1–12) e foi apóstolo aos judeus (Gl 2:7–8), escrevendo de Roma ('Babilônia') em seus últimos anos."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1P 1:1",
+          "1P 5:1",
+          "1P 5:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Las fuentes históricas extrabiblicas confirman ampliamente la figura de Pedro. Clemente de Roma (c. 96 d.C.) menciona el martirio de Pedro en Roma. Ignacio de Antioquía, Ireneo y Tertuliano confirman su presencia y muerte en Roma, probablemente crucificado cabeza abajo bajo Nerón (c. 64–68 d.C.) según Orígenes (citado por Eusebio, HE III.1). Eusebio de Cesarea (HE II.15) registra la relación de Pedro con Marcos como base para el Evangelio de Marcos. Las excavaciones arqueológicas bajo la Basílica de San Pedro en el Vaticano (1939–1950, 1964) encontraron un relicario con huesos humanos del siglo I y la inscripción 'Petros eni' ('Pedro está aquí'), aunque la identificación es debatida por los historiadores.",
+          "en": "Extra-biblical historical sources broadly confirm the figure of Peter. Clement of Rome (c. AD 96) mentions Peter's martyrdom in Rome. Ignatius of Antioch, Irenaeus, and Tertullian confirm his presence and death in Rome, probably crucified upside down under Nero (c. AD 64–68) according to Origen (cited by Eusebius, HE III.1). Eusebius of Caesarea (HE II.15) records Peter's relationship with Mark as the basis for the Gospel of Mark. Archaeological excavations under St. Peter's Basilica in the Vatican (1939–1950, 1964) found a first-century reliquary with human bones and the inscription 'Petros eni' ('Peter is here'), though the identification is debated by historians.",
+          "pt": "As fontes históricas extrabíblicas confirmam amplamente a figura de Pedro. Clemente de Roma (c. 96 d.C.) menciona o martírio de Pedro em Roma. Inácio de Antioquia, Ireneu e Tertuliano confirmam sua presença e morte em Roma, provavelmente crucificado de cabeça para baixo sob Nero (c. 64–68 d.C.) segundo Orígenes (citado por Eusébio, HE III.1). Eusébio de Cesareia (HE II.15) registra a relação de Pedro com Marcos como base para o Evangelho de Marcos. As escavações arqueológicas sob a Basílica de São Pedro no Vaticano (1939–1950, 1964) encontraram um relicário com ossos humanos do século I e a inscrição 'Petros eni' ('Pedro está aqui'), embora a identificação seja debatida pelos historiadores."
+        },
+        "fuentes": [
+          {
+            "titulo": "The First Epistle of Peter",
+            "autor": "Wayne Grudem",
+            "año": 1988,
+            "editorial": "IVP",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Author",
+              "Historical biography",
+              "Authorship debate"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Las fuentes patrísticas y las evidencias arqueológicas del Vaticano son consistentes con la carta: Pedro escribe desde 'Babilonia' (Roma, 1P 5:13) en los años 60, período en que la tradición ubica a Pedro en Roma, y el conocimiento íntimo del sufrimiento de Cristo reflejado en la carta ('testigo de los padecimientos de Cristo', 1P 5:1) es coherente con un discípulo testigo ocular.",
+          "en": "The patristic sources and Vatican archaeological evidence are consistent with the letter: Peter writes from 'Babylon' (Rome, 1Pet 5:13) in the AD 60s, the period in which tradition places Peter in Rome, and the intimate knowledge of Christ's suffering reflected in the letter ('witness to the sufferings of Christ,' 1Pet 5:1) is consistent with an eyewitness disciple.",
+          "pt": "As fontes patrísticas e as evidências arqueológicas do Vaticano são consistentes com a carta: Pedro escreve de 'Babilônia' (Roma, 1Pe 5:13) nos anos 60, período em que a tradição situa Pedro em Roma, e o conhecimento íntimo do sofrimento de Cristo refletido na carta ('testemunha dos sofrimentos de Cristo', 1Pe 5:1) é coerente com um discípulo testemunha ocular."
+        }
+      },
+      "versiculosAsociados": [
+        "1P 1:1",
+        "1P 5:1",
+        "1P 5:12",
+        "1P 5:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mc",
+        "Lc",
+        "Jn",
+        "Hch",
+        "Gá",
+        "2P"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pedro es la figura apostólica más prominente del NT. Los Evangelios lo muestran como portavoz de los Doce (Mt 16:13–20), testigo ocular de la Transfiguración y la Resurrección (Mt 17:1–8; Lc 24:34; 1Co 15:5). En Hechos lidera la iglesia de Jerusalén (Hch 1–12) y predica el primer sermón cristiano en Pentecostés (Hch 2). Pablo lo menciona como una de las 'columnas' de la iglesia (Gá 2:9). Su segunda carta (2P) complementa esta con énfasis en el conocimiento y la resistencia a los falsos maestros.",
+        "en": "Peter is the most prominent apostolic figure in the NT. The Gospels show him as the spokesman of the Twelve (Matt 16:13–20), eyewitness of the Transfiguration and Resurrection (Matt 17:1–8; Luke 24:34; 1Cor 15:5). In Acts he leads the Jerusalem church (Acts 1–12) and delivers the first Christian sermon at Pentecost (Acts 2). Paul names him as one of the 'pillars' of the church (Gal 2:9). His second letter (2Pet) complements this one with emphasis on knowledge and resistance to false teachers.",
+        "pt": "Pedro é a figura apostólica mais proeminente do NT. Os Evangelhos o mostram como porta-voz dos Doze (Mt 16:13–20), testemunha ocular da Transfiguração e da Ressurreição (Mt 17:1–8; Lc 24:34; 1Co 15:5). Em Atos lidera a igreja de Jerusalém (At 1–12) e prega o primeiro sermão cristão no Pentecostes (At 2). Paulo o nomeia como uma das 'colunas' da igreja (Gl 2:9). Sua segunda carta (2Pe) complementa esta com ênfase no conhecimento e na resistência aos falsos mestros."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Jesucristo",
+        "en": "Jesus Christ",
+        "pt": "Jesus Cristo"
+      },
+      "hebreo": "Ἰησοῦς Χριστός",
+      "principal": true,
+      "rol": "tipo",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "descripcion": {
+        "es": "Jesucristo es el centro teológico absoluto de 1 Pedro. No aparece como personaje narrativo sino como el fundamento de toda la exhortación pastoral: su elección antes de la fundación del mundo (1P 1:20), su muerte expiatoria (1P 2:24), su resurrección (1P 1:3; 1P 3:21), su descenso y proclamación a los espíritus encarcelados (1P 3:18–20), y su inminente segunda venida (1P 4:7; 1P 5:4) estructuran toda la teología de la carta.",
+        "en": "Jesus Christ is the absolute theological center of 1 Peter. He does not appear as a narrative character but as the foundation of all pastoral exhortation: his election before the foundation of the world (1Pet 1:20), his atoning death (1Pet 2:24), his resurrection (1Pet 1:3; 1Pet 3:21), his descent and proclamation to imprisoned spirits (1Pet 3:18–20), and his imminent second coming (1Pet 4:7; 1Pet 5:4) structure the entire theology of the letter.",
+        "pt": "Jesus Cristo é o centro teológico absoluto de 1 Pedro. Não aparece como personagem narrativo, mas como o fundamento de toda a exortação pastoral: sua eleição antes da fundação do mundo (1Pe 1:20), sua morte expiatória (1Pe 2:24), sua ressurreição (1Pe 1:3; 1Pe 3:21), sua descida e proclamação aos espíritos encarcerados (1Pe 3:18–20), e sua iminente segunda vinda (1Pe 4:7; 1Pe 5:4) estruturam toda a teologia da carta."
+      },
+      "acciones": {
+        "es": "Cristo es presentado como el que fue 'conocido de antemano antes de la fundación del mundo' (1P 1:20), que 'no cometió pecado ni hubo engaño en su boca' (1P 2:22), que 'llevó nuestros pecados en su cuerpo en el madero' (1P 2:24), que 'murió una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios' (1P 3:18), y que resucitó y ascendió al cielo donde ángeles, autoridades y potestades le están sujetos (1P 3:22).",
+        "en": "Christ is presented as the one who was 'foreknown before the foundation of the world' (1Pet 1:20), who 'committed no sin, neither was deceit found in his mouth' (1Pet 2:22), who 'bore our sins in his body on the tree' (1Pet 2:24), who 'suffered once for sins, the righteous for the unrighteous, that he might bring us to God' (1Pet 3:18), and who rose and ascended to heaven where angels, authorities, and powers are subject to him (1Pet 3:22).",
+        "pt": "Cristo é apresentado como aquele que foi 'conhecido de antemão antes da fundação do mundo' (1Pe 1:20), que 'não cometeu pecado, nem dolo algum se achou em sua boca' (1Pe 2:22), que 'levou nossos pecados em seu corpo no madeiro' (1Pe 2:24), que 'morreu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus' (1Pe 3:18), e que ressuscitou e ascendeu ao céu onde anjos, autoridades e potestades lhe estão sujeitos (1Pe 3:22)."
+      },
+      "significadoTeologico": {
+        "es": "Cristo cumple en 1 Pedro todos los tipos del AT: es el Cordero Pascual (1P 1:19), el Siervo Sufriente de Is 53 (1P 2:22–25), la piedra angular (1P 2:6–8), el pastor (1P 2:25; 1P 5:4), y el juez de vivos y muertos (1P 4:5). Su sufrimiento y su gloria definen el patrón que todo creyente está llamado a seguir: la exhortación ética de Pedro no descansa en mandamientos abstractos sino en la imitación del Cristo encarnado.",
+        "en": "Christ fulfills in 1 Peter all the types of the OT: he is the Passover Lamb (1Pet 1:19), the Suffering Servant of Isa 53 (1Pet 2:22–25), the cornerstone (1Pet 2:6–8), the shepherd (1Pet 2:25; 1Pet 5:4), and the judge of the living and the dead (1Pet 4:5). His suffering and his glory define the pattern every believer is called to follow: Peter's ethical exhortation does not rest on abstract commandments but on imitation of the incarnate Christ.",
+        "pt": "Cristo cumpre em 1 Pedro todos os tipos do AT: é o Cordeiro Pascal (1Pe 1:19), o Servo Sofredor de Is 53 (1Pe 2:22–25), a pedra angular (1Pe 2:6–8), o pastor (1Pe 2:25; 1Pe 5:4), e o juiz dos vivos e dos mortos (1Pe 4:5). Seu sofrimento e sua glória definem o padrão que todo crente é chamado a seguir: a exortação ética de Pedro não repousa em mandamentos abstratos, mas na imitação do Cristo encarnado."
+      },
+      "tipo": {
+        "es": "Cristo no funciona como tipo de nadie más en el NT; Él es el antitipo definitivo de todos los tipos del AT reunidos en su persona y obra.",
+        "en": "Christ does not function as a type of anyone else in the NT; He is the definitive antitype of all OT types gathered in his person and work.",
+        "pt": "Cristo não funciona como tipo de ninguém mais no NT; Ele é o antítipo definitivo de todos os tipos do AT reunidos em sua pessoa e obra."
+      },
+      "caracterMoral": {
+        "es": "Cristo es presentado en 1 Pedro como moralmente perfecto: 'no cometió pecado ni hubo engaño en su boca' (1P 2:22, citando Is 53:9). Su perfección moral no es solo ejemplo sino fundamento de su expiación substitutiva: solo el Justo podía morir por los injustos (1P 3:18).",
+        "en": "Christ is presented in 1 Peter as morally perfect: 'he committed no sin, neither was deceit found in his mouth' (1Pet 2:22, citing Isa 53:9). His moral perfection is not merely an example but the ground of his substitutionary atonement: only the Righteous One could die for the unrighteous (1Pet 3:18).",
+        "pt": "Cristo é apresentado em 1 Pedro como moralmente perfeito: 'não cometeu pecado, nem dolo algum se achou em sua boca' (1Pe 2:22, citando Is 53:9). Sua perfeição moral não é apenas exemplo, mas fundamento de sua expiação substitutiva: só o Justo podia morrer pelos injustos (1Pe 3:18)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "En 1 Pedro, Cristo es presentado principalmente a través de su obra redentora: su preconocimiento eterno (1P 1:20), su muerte expiatoria (1P 2:24; 1P 3:18), su resurrección (1P 1:3; 1P 3:21), su ascensión y dominio sobre todas las potestades (1P 3:22), y su regreso glorioso (1P 5:4). La carta no narra la vida de Jesús sino que asume el conocimiento previo del evangelio en sus lectores y lo aplica pastoralmente.",
+          "en": "In 1 Peter, Christ is presented primarily through his redemptive work: his eternal foreknowledge (1Pet 1:20), his atoning death (1Pet 2:24; 1Pet 3:18), his resurrection (1Pet 1:3; 1Pet 3:21), his ascension and dominion over all powers (1Pet 3:22), and his glorious return (1Pet 5:4). The letter does not narrate the life of Jesus but assumes prior knowledge of the gospel on the part of its readers and applies it pastorally.",
+          "pt": "Em 1 Pedro, Cristo é apresentado principalmente através de sua obra redentora: seu preconhecimento eterno (1Pe 1:20), sua morte expiatória (1Pe 2:24; 1Pe 3:18), sua ressurreição (1Pe 1:3; 1Pe 3:21), sua ascensão e domínio sobre todas as potestades (1Pe 3:22), e seu retorno glorioso (1Pe 5:4). A carta não narra a vida de Jesus, mas pressupõe o conhecimento prévio do evangelho por parte dos seus leitores e o aplica pastoralmente."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1P 1:19",
+          "1P 2:22",
+          "1P 2:24",
+          "1P 3:18",
+          "1P 3:22"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Jesucristo es mencionado por fuentes extrabiblicas del siglo I: Tácito (Annales XV.44) registra que Cristo fue ejecutado bajo Poncio Pilato bajo Tiberio. Josefo (Antigüedades XVIII.3.3) menciona a Jesús, aunque el pasaje ha sido interpolado parcialmente. Plinio (c. 112 d.C.) describe a los creyentes que cantan himnos a Cristo 'como a un dios'. La historicidad de Jesús como figura del siglo I no es disputada por historiadores seculares; lo que se debate es la interpretación de los eventos.",
+          "en": "Jesus Christ is mentioned by extra-biblical first-century sources: Tacitus (Annales XV.44) records that Christ was executed under Pontius Pilate under Tiberius. Josephus (Antiquities XVIII.3.3) mentions Jesus, though the passage has been partially interpolated. Pliny (c. AD 112) describes believers singing hymns to Christ 'as to a god.' The historicity of Jesus as a first-century figure is not disputed by secular historians; what is debated is the interpretation of the events.",
+          "pt": "Jesus Cristo é mencionado por fontes extrabíblicas do século I: Tácito (Annales XV.44) registra que Cristo foi executado sob Pôncio Pilatos sob Tibério. Josefo (Antiquidades XVIII.3.3) menciona Jesus, embora a passagem tenha sido parcialmente interpolada. Plínio (c. 112 d.C.) descreve crentes cantando hinos a Cristo 'como a um deus'. A historicidade de Jesus como figura do século I não é disputada por historiadores seculares; o que se debate é a interpretação dos eventos."
+        },
+        "fuentes": [
+          {
+            "titulo": "The First Epistle of Peter",
+            "autor": "Wayne Grudem",
+            "año": 1988,
+            "editorial": "IVP",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Christology",
+              "Atonement",
+              "Resurrection"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Las fuentes extrabiblicas de Tácito y Josefo confirman que Jesús fue una figura histórica real ejecutada bajo Pilato, coherente con la presentación de Pedro del Cristo crucificado y resucitado como el fundamento histórico de la fe (1P 1:3; 1P 3:18).",
+          "en": "The extra-biblical sources of Tacitus and Josephus confirm that Jesus was a real historical figure executed under Pilate, consistent with Peter's presentation of the crucified and risen Christ as the historical foundation of faith (1Pet 1:3; 1Pet 3:18).",
+          "pt": "As fontes extrabíblicas de Tácito e Josefo confirmam que Jesus foi uma figura histórica real executada sob Pilatos, coerente com a apresentação de Pedro do Cristo crucificado e ressuscitado como o fundamento histórico da fé (1Pe 1:3; 1Pe 3:18)."
+        }
+      },
+      "versiculosAsociados": [
+        "1P 1:2",
+        "1P 1:3",
+        "1P 1:19",
+        "1P 2:4",
+        "1P 2:21",
+        "1P 2:24",
+        "1P 3:18",
+        "1P 3:22",
+        "1P 4:13",
+        "1P 5:4"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mc",
+        "Lc",
+        "Jn",
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "He",
+        "Stg",
+        "2P",
+        "1Jn",
+        "Jud",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Jesucristo es el centro de todo el NT. En los Evangelios se presenta su vida, ministerio, muerte y resurrección. En Hechos, su nombre es el único en que hay salvación (Hch 4:12). En las Epístolas Paulinas y Generales, su obra es el fundamento de toda la teología cristiana. En Apocalipsis, regresa como Rey de reyes y Señor de señores (Ap 19:16). Su centralidad en 1 Pedro refleja fielmente la confesión apostólica del NT.",
+        "en": "Jesus Christ is the center of all the NT. The Gospels present his life, ministry, death, and resurrection. In Acts, his name is the only one in which there is salvation (Acts 4:12). In the Pauline and General Epistles, his work is the foundation of all Christian theology. In Revelation, he returns as King of kings and Lord of lords (Rev 19:16). His centrality in 1 Peter faithfully reflects the apostolic confession of the NT.",
+        "pt": "Jesus Cristo é o centro de todo o NT. Os Evangelhos apresentam sua vida, ministério, morte e ressurreição. Em Atos, seu nome é o único em que há salvação (At 4:12). Nas Epístolas Paulinas e Gerais, sua obra é o fundamento de toda a teologia cristã. No Apocalipse, retorna como Rei dos reis e Senhor dos senhores (Ap 19:16). Sua centralidade em 1 Pedro reflete fielmente a confissão apostólica do NT."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Silvano",
+        "en": "Silvanus",
+        "pt": "Silvano"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        5
+      ],
+      "descripcion": {
+        "es": "Silvano (identificado generalmente con Silas de Hechos) es mencionado en el cierre de la carta como el portador o amanuense: 'Por medio de Silvano, a quien tengo por hermano fiel, les he escrito brevemente' (1P 5:12). Su rol fue instrumental en la composición o transmisión de la carta, lo que explica el griego refinado del texto.",
+        "en": "Silvanus (generally identified with Silas of Acts) is mentioned in the letter's closing as its bearer or amanuensis: 'By Silvanus, a faithful brother as I regard him, I have written briefly to you' (1Pet 5:12). His role was instrumental in the composition or transmission of the letter, which explains the refined Greek of the text.",
+        "pt": "Silvano (geralmente identificado com Silas de Atos) é mencionado no encerramento da carta como seu portador ou amanuense: 'Por Silvano, que considero como irmão fiel, escrevi-vos brevemente' (1Pe 5:12). Seu papel foi instrumental na composição ou transmissão da carta, o que explica o grego refinado do texto."
+      },
+      "acciones": {
+        "es": "Silvano aparece una sola vez en 1 Pedro (1P 5:12), pero su rol fue posiblemente crucial: como amanuense o portador de la carta. En Hechos actúa como profeta de la iglesia (Hch 15:32), compañero de Pablo en su segundo viaje misionero (Hch 15:40–18:5) y también aparece como co-remitente de cartas paulinas (1Ts 1:1; 2Ts 1:1).",
+        "en": "Silvanus appears only once in 1 Peter (1Pet 5:12), but his role was possibly crucial: as amanuensis or bearer of the letter. In Acts he acts as a prophet of the church (Acts 15:32), companion of Paul on his second missionary journey (Acts 15:40–18:5), and also appears as co-sender of Pauline letters (1Thess 1:1; 2Thess 1:1).",
+        "pt": "Silvano aparece uma única vez em 1 Pedro (1Pe 5:12), mas seu papel foi possivelmente crucial: como amanuense ou portador da carta. Em Atos age como profeta da igreja (At 15:32), companheiro de Paulo em sua segunda viagem missionária (At 15:40–18:5), e também aparece como co-remetente de cartas paulinas (1Ts 1:1; 2Ts 1:1)."
+      },
+      "significadoTeologico": {
+        "es": "La mención de Silvano como 'hermano fiel' subraya el carácter comunitario del ministerio apostólico. Ningún apóstol operaba en aislamiento; la carta de Pedro surge de una comunidad ('la iglesia que está en Babilonia', 1P 5:13) y es mediada por un colaborador de confianza, lo cual refleja la naturaleza colegial del ministerio del NT.",
+        "en": "The mention of Silvanus as 'a faithful brother' underscores the communal character of apostolic ministry. No apostle operated in isolation; Peter's letter emerges from a community ('she who is at Babylon,' 1Pet 5:13) and is mediated by a trusted co-worker, reflecting the collegial nature of NT ministry.",
+        "pt": "A menção de Silvano como 'irmão fiel' sublinha o caráter comunitário do ministério apostólico. Nenhum apóstolo operava em isolamento; a carta de Pedro surge de uma comunidade ('a que está em Babilônia', 1Pe 5:13) e é mediada por um colaborador de confiança, o que reflete a natureza colegiada do ministério do NT."
+      },
+      "tipo": {
+        "es": "Silvano no funciona tipológicamente en la carta.",
+        "en": "Silvanus does not function typologically in the letter.",
+        "pt": "Silvano não funciona tipologicamente na carta."
+      },
+      "caracterMoral": {
+        "es": "Pedro lo califica explícitamente como 'hermano fiel' (1P 5:12), lo que refleja un carácter probado de lealtad al evangelio, coherencia doctrinal y confiabilidad personal en el ministerio apostólico.",
+        "en": "Peter explicitly qualifies him as 'a faithful brother' (1Pet 5:12), reflecting a proven character of loyalty to the gospel, doctrinal consistency, and personal reliability in apostolic ministry.",
+        "pt": "Pedro o qualifica explicitamente como 'irmão fiel' (1Pe 5:12), o que reflete um caráter provado de lealdade ao evangelho, consistência doutrinária e confiabilidade pessoal no ministério apostólico."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Silvano/Silas fue profeta y líder de la iglesia de Jerusalén (Hch 15:22–23,27,32), elegido para llevar la carta del Concilio de Jerusalén a las iglesias gentiles. Fue compañero de Pablo en el segundo viaje misionero (Hch 15:40–18:5), encarcelado en Filipos y liberado milagrosamente (Hch 16:19–40). Co-remitente de las cartas a los Tesalonicenses (1Ts 1:1; 2Ts 1:1). Su asociación con Pedro culmina en este rol como portador/amanuense de 1 Pedro.",
+          "en": "Silvanus/Silas was a prophet and leader of the Jerusalem church (Acts 15:22–23,27,32), chosen to carry the Jerusalem Council's letter to Gentile churches. He was Paul's companion on the second missionary journey (Acts 15:40–18:5), imprisoned in Philippi and miraculously released (Acts 16:19–40). Co-sender of the Thessalonian letters (1Thess 1:1; 2Thess 1:1). His association with Peter culminates in his role as bearer/amanuensis of 1 Peter.",
+          "pt": "Silvano/Silas foi profeta e líder da igreja de Jerusalém (At 15:22–23,27,32), escolhido para levar a carta do Concílio de Jerusalém às igrejas gentias. Foi companheiro de Paulo na segunda viagem missionária (At 15:40–18:5), encarcerado em Filipos e libertado milagrosamente (At 16:19–40). Co-remetente das cartas aos Tessalonicenses (1Ts 1:1; 2Ts 1:1). Sua associação com Pedro culmina neste papel como portador/amanuense de 1 Pedro."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1P 5:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Silvano/Silas es identificado en las fuentes del NT como un líder judío-cristiano de Jerusalén (Hch 15) que circuló ampliamente por el mundo mediterráneo. Su identificación con el Silas de Hechos es casi universalmente aceptada. Más allá del NT, no hay fuentes extrabiblicas que lo mencionen directamente. Su rol como amanuense petrina sería consistente con su nivel de educación griega.",
+          "en": "Silvanus/Silas is identified in NT sources as a Jewish-Christian leader from Jerusalem (Acts 15) who circulated widely through the Mediterranean world. His identification with the Silas of Acts is almost universally accepted. Beyond the NT, there are no extra-biblical sources that mention him directly. His role as Petrine amanuensis would be consistent with his level of Greek education.",
+          "pt": "Silvano/Silas é identificado nas fontes do NT como um líder judaico-cristão de Jerusalém (At 15) que circulou amplamente pelo mundo mediterrâneo. Sua identificação com o Silas de Atos é quase universalmente aceita. Além do NT, não há fontes extrabíblicas que o mencionem diretamente. Seu papel como amanuense petrino seria consistente com seu nível de educação grega."
+        },
+        "fuentes": [
+          {
+            "titulo": "The First Epistle of Peter",
+            "autor": "Wayne Grudem",
+            "año": 1988,
+            "editorial": "IVP",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Silvanus as amanuensis",
+              "Authorship"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La mención de Silvano en 1P 5:12 como 'hermano fiel' por medio del cual Pedro escribió es coherente con la práctica de usar amanuenses en el mundo greco-romano y con el perfil de Silas en Hechos como colaborador misionero bilingüe de alta confianza.",
+          "en": "The mention of Silvanus in 1Pet 5:12 as 'a faithful brother' through whom Peter wrote is consistent with the practice of using amanuenses in the Greco-Roman world and with Silas's profile in Acts as a highly trusted, bilingual missionary co-worker.",
+          "pt": "A menção de Silvano em 1Pe 5:12 como 'irmão fiel' por meio do qual Pedro escreveu é coerente com a prática de usar amanuenses no mundo greco-romano e com o perfil de Silas em Atos como colaborador missionário bilíngue de alta confiança."
+        }
+      },
+      "versiculosAsociados": [
+        "1P 5:12"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "1Ts",
+        "2Ts",
+        "2Co"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Silvano/Silas aparece extensamente en Hechos 15–18 como compañero de Pablo y profeta de Jerusalén. Es co-remitente de 1 y 2 Tesalonicenses (1Ts 1:1; 2Ts 1:1) y Pablo lo menciona en 2Co 1:19 como predicador del evangelio. Su aparición en 1 Pedro es el único punto de contacto conocido entre su ministerio y el de Pedro.",
+        "en": "Silvanus/Silas appears extensively in Acts 15–18 as Paul's companion and a Jerusalem prophet. He is co-sender of 1 and 2 Thessalonians (1Thess 1:1; 2Thess 1:1) and Paul mentions him in 2Cor 1:19 as a gospel preacher. His appearance in 1 Peter is the only known point of contact between his ministry and Peter's.",
+        "pt": "Silvano/Silas aparece extensamente em Atos 15–18 como companheiro de Paulo e profeta de Jerusalém. É co-remetente de 1 e 2 Tessalonicenses (1Ts 1:1; 2Ts 1:1) e Paulo o menciona em 2Co 1:19 como pregador do evangelho. Sua aparição em 1 Pedro é o único ponto de contato conhecido entre seu ministério e o de Pedro."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Marcos",
+        "en": "Mark",
+        "pt": "Marcos"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        5
+      ],
+      "descripcion": {
+        "es": "Marcos (Juan Marcos) es mencionado al final de la carta: 'Marcos, mi hijo, les saluda' (1P 5:13). La expresión 'mi hijo' refleja una relación espiritual paternal, coherente con la tradición patrística que presenta a Pedro como la fuente principal detrás del Evangelio de Marcos (Papías, citado por Eusebio HE III.39).",
+        "en": "Mark (John Mark) is mentioned at the letter's close: 'Mark, my son, greets you' (1Pet 5:13). The expression 'my son' reflects a paternal spiritual relationship, consistent with the patristic tradition presenting Peter as the principal source behind the Gospel of Mark (Papias, cited by Eusebius HE III.39).",
+        "pt": "Marcos (João Marcos) é mencionado ao final da carta: 'Marcos, meu filho, vos saúda' (1Pe 5:13). A expressão 'meu filho' reflete uma relação espiritual paternal, coerente com a tradição patrística que apresenta Pedro como a fonte principal por trás do Evangelho de Marcos (Papias, citado por Eusébio HE III.39)."
+      },
+      "acciones": {
+        "es": "En 1 Pedro, Marcos aparece únicamente en el saludo final (1P 5:13). En el resto del NT, es el joven que huyó en Getsemaní (posiblemente, Mc 14:51–52), el colaborador de Pablo que causó la separación con Bernabé (Hch 15:37–39), luego reconciliado con Pablo (Col 4:10; 2Ti 4:11; Flm 1:24), y el autor del Evangelio según Pedro.",
+        "en": "In 1 Peter, Mark appears only in the final greeting (1Pet 5:13). In the rest of the NT, he is the young man who fled in Gethsemane (possibly, Mark 14:51–52), the co-worker of Paul who caused the separation from Barnabas (Acts 15:37–39), later reconciled with Paul (Col 4:10; 2Tim 4:11; Phlm 1:24), and the author of the Gospel according to Peter.",
+        "pt": "Em 1 Pedro, Marcos aparece apenas na saudação final (1Pe 5:13). No restante do NT, é o jovem que fugiu em Getsêmani (possivelmente, Mc 14:51–52), o colaborador de Paulo que causou a separação de Barnabé (At 15:37–39), depois reconciliado com Paulo (Cl 4:10; 2Tm 4:11; Fm 1:24), e o autor do Evangelho segundo Pedro."
+      },
+      "significadoTeologico": {
+        "es": "La presencia de Marcos junto a Pedro en Roma ('Babilonia') subraya que el círculo apostólico coexistía en Roma. La tradición de que Marcos escribió su Evangelio bajo la supervisión de Pedro da a este saludo una dimensión canónica: el hombre que transmitió el testimonio ocular de Pedro al mundo está presente en el momento de redacción de esta carta.",
+        "en": "The presence of Mark alongside Peter in Rome ('Babylon') underscores that the apostolic circle coexisted in Rome. The tradition that Mark wrote his Gospel under Peter's supervision gives this greeting a canonical dimension: the man who transmitted Peter's eyewitness testimony to the world is present at the moment of this letter's composition.",
+        "pt": "A presença de Marcos junto a Pedro em Roma ('Babilônia') sublinha que o círculo apostólico coexistia em Roma. A tradição de que Marcos escreveu seu Evangelho sob a supervisão de Pedro confere a esta saudação uma dimensão canônica: o homem que transmitiu o testemunho ocular de Pedro ao mundo está presente no momento da redação desta carta."
+      },
+      "tipo": {
+        "es": "Marcos no funciona tipológicamente en la carta.",
+        "en": "Mark does not function typologically in the letter.",
+        "pt": "Marcos não funciona tipologicamente na carta."
+      },
+      "caracterMoral": {
+        "es": "La historia de Marcos en el NT es una de restauración y gracia: falló en el primer viaje misionero (Hch 13:13), fue rechazado por Pablo (Hch 15:38), pero fue restaurado y llegó a ser útil para el ministerio (2Ti 4:11). Su presencia junto a Pedro muestra la gracia restauradora de Dios operando en la vida de los colaboradores del evangelio.",
+        "en": "Mark's story in the NT is one of restoration and grace: he failed on the first missionary journey (Acts 13:13), was rejected by Paul (Acts 15:38), but was restored and became useful for ministry (2Tim 4:11). His presence alongside Peter shows God's restorative grace at work in the lives of gospel co-workers.",
+        "pt": "A história de Marcos no NT é de restauração e graça: falhou na primeira viagem missionária (At 13:13), foi rejeitado por Paulo (At 15:38), mas foi restaurado e tornou-se útil para o ministério (2Tm 4:11). Sua presença ao lado de Pedro mostra a graça restauradora de Deus operando nas vidas dos colaboradores do evangelho."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Juan Marcos era sobrino de Bernabé (Col 4:10) y su familia era creyente en Jerusalén (su madre María hospedó a la iglesia, Hch 12:12). Acompañó a Pablo y Bernabé en el primer viaje misionero pero abandonó en Perge (Hch 13:13), causando la separación posterior entre Pablo y Bernabé (Hch 15:37–40). Fue rehabilitado por Bernabé y luego por Pablo (Col 4:10; 2Ti 4:11). La tradición lo identifica como el autor del Evangelio de Marcos, 'el intérprete de Pedro' (Papías).",
+          "en": "John Mark was Barnabas's cousin (Col 4:10), and his family was among believers in Jerusalem (his mother Mary hosted the church, Acts 12:12). He accompanied Paul and Barnabas on the first missionary journey but deserted at Perga (Acts 13:13), causing the subsequent separation between Paul and Barnabas (Acts 15:37–40). He was rehabilitated by Barnabas and later by Paul (Col 4:10; 2Tim 4:11). Tradition identifies him as the author of the Gospel of Mark, 'the interpreter of Peter' (Papias).",
+          "pt": "João Marcos era primo de Barnabé (Cl 4:10), e sua família estava entre os crentes em Jerusalém (sua mãe Maria hospedava a igreja, At 12:12). Acompanhou Paulo e Barnabé na primeira viagem missionária, mas os abandonou em Perge (At 13:13), causando a separação posterior entre Paulo e Barnabé (At 15:37–40). Foi reabilitado por Barnabé e depois por Paulo (Cl 4:10; 2Tm 4:11). A tradição o identifica como o autor do Evangelho de Marcos, 'o intérprete de Pedro' (Papias)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1P 5:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Papías de Hierápolis (c. 60–130 d.C., citado por Eusebio HE III.39) describe a Marcos como 'el intérprete de Pedro', quien escribió lo que Pedro predicaba aunque no en orden cronológico. Ireneo (Adv. Haer. III.1.1) confirma que Marcos escribió el Evangelio 'después de la partida de Pedro y Pablo'. Esta tradición es crucial para entender el saludo de 1P 5:13: Marcos estaba junto a Pedro en Roma en el período en que se gestó el Evangelio que lleva su nombre.",
+          "en": "Papias of Hierapolis (c. AD 60–130, cited by Eusebius HE III.39) describes Mark as 'the interpreter of Peter,' who wrote down what Peter preached though not in chronological order. Irenaeus (Adv. Haer. III.1.1) confirms that Mark wrote the Gospel 'after the departure of Peter and Paul.' This tradition is crucial for understanding the greeting of 1Pet 5:13: Mark was with Peter in Rome during the period in which the Gospel bearing his name took shape.",
+          "pt": "Papias de Hierápolis (c. 60–130 d.C., citado por Eusébio HE III.39) descreve Marcos como 'o intérprete de Pedro', que escreveu o que Pedro pregava, embora não em ordem cronológica. Ireneu (Adv. Haer. III.1.1) confirma que Marcos escreveu o Evangelho 'após a partida de Pedro e Paulo'. Esta tradição é crucial para entender a saudação de 1Pe 5:13: Marcos estava com Pedro em Roma no período em que o Evangelho que leva seu nome tomou forma."
+        },
+        "fuentes": [
+          {
+            "titulo": "The First Epistle of Peter",
+            "autor": "Wayne Grudem",
+            "año": 1988,
+            "editorial": "IVP",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Mark's relationship to Peter",
+              "Rome context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La tradición patrística unánime de que Marcos fue el intérprete de Pedro es perfectamente consistente con el saludo de 1P 5:13, que lo ubica junto a Pedro en 'Babilonia' (Roma). Esta evidencia confirma que la carta fue escrita en el período romano del ministerio de Pedro.",
+          "en": "The unanimous patristic tradition that Mark was Peter's interpreter is perfectly consistent with the greeting in 1Pet 5:13, which places him alongside Peter in 'Babylon' (Rome). This evidence confirms that the letter was written during the Roman period of Peter's ministry.",
+          "pt": "A tradição patrística unânime de que Marcos foi o intérprete de Pedro é perfeitamente consistente com a saudação de 1Pe 5:13, que o situa ao lado de Pedro em 'Babilônia' (Roma). Esta evidência confirma que a carta foi escrita no período romano do ministério de Pedro."
+        }
+      },
+      "versiculosAsociados": [
+        "1P 5:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Col",
+        "2Ti",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Marcos aparece en Hechos como el joven colaborador misionero que falla y es luego restaurado (Hch 12:12,25; Hch 13:5,13; Hch 15:37–39). Pablo lo menciona positivamente en Col 4:10, 2Ti 4:11 y Flm 1:24 en los últimos años de su ministerio. La tradición patrística lo asocia estrechamente con Pedro como fuente del Evangelio que lleva su nombre, el más antiguo de los cuatro Evangelios.",
+        "en": "Mark appears in Acts as the young missionary co-worker who fails and is later restored (Acts 12:12,25; Acts 13:5,13; Acts 15:37–39). Paul mentions him positively in Col 4:10, 2Tim 4:11, and Phlm 1:24 in the final years of his ministry. Patristic tradition closely associates him with Peter as the source of the Gospel bearing his name, the oldest of the four Gospels.",
+        "pt": "Marcos aparece em Atos como o jovem colaborador missionário que falha e é depois restaurado (At 12:12,25; At 13:5,13; At 15:37–39). Paulo o menciona positivamente em Cl 4:10, 2Tm 4:11 e Fm 1:24 nos últimos anos de seu ministério. A tradição patrística o associa estreitamente a Pedro como fonte do Evangelho que leva seu nome, o mais antigo dos quatro Evangelhos."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "1 Pedro abre con una de las declaraciones trinitarias de la elección más claras del NT: los creyentes son 'elegidos según la presciencia de Dios Padre, por la obra santificadora del Espíritu, para obedecer a Jesucristo y ser rociados con su sangre' (1P 1:2). Esta elección es anterior al tiempo y fundamento de toda la esperanza del creyente frente al sufrimiento. Pedro también describe a la iglesia como 'linaje escogido' y 'pueblo adquirido' (1P 2:9), términos que provienen del pacto mosaico (Ex 19:5–6) y que ahora se aplican al nuevo Israel del pacto, afirmando que la elección no es individual y abstracta sino corporativa y pactual.",
+        "en": "1 Peter opens with one of the clearest Trinitarian statements of election in the NT: believers are 'elect according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood' (1Pet 1:2). This election precedes time and is the foundation of all the believer's hope in the face of suffering. Peter also describes the church as 'a chosen race' and 'a people for his own possession' (1Pet 2:9), terms drawn from the Mosaic covenant (Exod 19:5–6) now applied to the new covenant Israel, affirming that election is not individual and abstract but corporate and covenantal.",
+        "pt": "1 Pedro abre com uma das declarações trinitárias da eleição mais claras do NT: os crentes são 'eleitos segundo a presciência de Deus Pai, na santificação do Espírito, para a obediência e aspersão do sangue de Jesus Cristo' (1Pe 1:2). Esta eleição é anterior ao tempo e fundamento de toda a esperança do crente diante do sofrimento. Pedro também descreve a igreja como 'geração eleita' e 'povo adquirido' (1Pe 2:9), termos provenientes da aliança mosaica (Ex 19:5–6) que agora se aplicam ao novo Israel da aliança, afirmando que a eleição não é individual e abstrata, mas corporativa e pactual."
+      },
+      "pasajes": [
+        "1P 1:1",
+        "1P 1:2",
+        "1P 2:9",
+        "1P 2:10"
+      ],
+      "ensenanza": {
+        "es": "Los creyentes son designados 'elegidos forasteros de la dispersión', identidad que transciende su situación geográfica · La elección trinitaria se especifica: presciencia del Padre, santificación del Espíritu, obediencia al Hijo · La iglesia entera es 'linaje escogido', heredera de la identidad pactual de Israel · El paso de 'no pueblo' a 'pueblo de Dios' es el acto soberano de la gracia electiva (Os 2:23)",
+        "en": "Believers are designated 'elect exiles of the Dispersion,' an identity that transcends their geographical situation · The Trinitarian election is specified: the Father's foreknowledge, the Spirit's sanctification, obedience to the Son · The entire church is 'a chosen race,' heir to Israel's covenantal identity · The transition from 'not a people' to 'God's people' is the sovereign act of elective grace (Hos 2:23)",
+        "pt": "Os crentes são designados 'eleitos peregrinos da dispersão', identidade que transcende sua situação geográfica · A eleição trinitária é especificada: presciência do Pai, santificação do Espírito, obediência ao Filho · A igreja inteira é 'geração eleita', herdeira da identidade pactual de Israel · A passagem de 'não povo' a 'povo de Deus' é o ato soberano da graça eletiva (Os 2:23)"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada enfatiza que 'según la presciencia de Dios Padre' (1P 1:2) no significa que Dios eligió a quienes Él previó que creerían por su propio albedrío, sino que la presciencia divina es aquí amor electivo previo (conforme a Ro 8:29 y Am 3:2); la elección es incondicional y precede a la fe. La Confesión de Westminster Cap. 3 enseña exactamente esto.",
+        "en": "Reformed theology emphasizes that 'according to the foreknowledge of God the Father' (1Pet 1:2) does not mean God elected those He foresaw would believe by their own free will, but that divine foreknowledge here is prior elective love (as in Rom 8:29 and Amos 3:2); election is unconditional and precedes faith. The Westminster Confession Chapter 3 teaches precisely this.",
+        "pt": "A teologia reformada enfatiza que 'segundo a presciência de Deus Pai' (1Pe 1:2) não significa que Deus elegeu aqueles que Ele previu que creriam por seu próprio livre-arbítrio, mas que a presciência divina aqui é amor eletivo prévio (conforme Rm 8:29 e Am 3:2); a eleição é incondicional e precede a fé. A Confissão de Westminster Cap. 3 ensina exatamente isso."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "La cristología de 1 Pedro es robusta y multifacética. Cristo es el Cordero sin mancha 'conocido de antemano antes de la fundación del mundo' (1P 1:19–20), confirmando su preexistencia y su elección eterna para la redención. Es el cumplimiento del Siervo Sufriente de Is 53 (1P 2:21–25), quien llevó nuestros pecados en su cuerpo en el madero. Es la piedra angular rechazada por los constructores pero escogida y preciosa para Dios (1P 2:4–8). Murió 'el justo por los injustos' para llevarnos a Dios (1P 3:18), resucitó corporalmente, ascendió al cielo, y tiene autoridad sobre todos los ángeles y potestades (1P 3:22). Vendrá en gloria como el 'Pastor Supremo' que coronará a los fieles (1P 5:4).",
+        "en": "The Christology of 1 Peter is robust and multifaceted. Christ is the spotless Lamb 'foreknown before the foundation of the world' (1Pet 1:19–20), confirming his preexistence and his eternal election for redemption. He is the fulfillment of the Suffering Servant of Isa 53 (1Pet 2:21–25), who bore our sins in his body on the tree. He is the cornerstone rejected by the builders but chosen and precious to God (1Pet 2:4–8). He died 'the righteous for the unrighteous' to bring us to God (1Pet 3:18), rose bodily, ascended to heaven, and holds authority over all angels and powers (1Pet 3:22). He will come in glory as the 'Chief Shepherd' who will crown the faithful (1Pet 5:4).",
+        "pt": "A cristologia de 1 Pedro é robusta e multifacetada. Cristo é o Cordeiro sem mácula 'conhecido de antemão antes da fundação do mundo' (1Pe 1:19–20), confirmando sua preexistência e eleição eterna para a redenção. É o cumprimento do Servo Sofredor de Is 53 (1Pe 2:21–25), que levou nossos pecados em seu corpo no madeiro. É a pedra angular rejeitada pelos construtores, mas escolhida e preciosa para Deus (1Pe 2:4–8). Morreu 'o justo pelos injustos' para nos aproximar de Deus (1Pe 3:18), ressuscitou corporalmente, ascendeu ao céu, e tem autoridade sobre todos os anjos e potestades (1Pe 3:22). Virá em glória como o 'Sumo Pastor' que coroará os fiéis (1Pe 5:4)."
+      },
+      "pasajes": [
+        "1P 1:19",
+        "1P 2:22",
+        "1P 2:24",
+        "1P 3:18",
+        "1P 3:22"
+      ],
+      "ensenanza": {
+        "es": "Cristo es el Cordero pascual eterno, sin mancha ni contaminación, cuya sangre es el precio de la redención · Su impecabilidad perfecta ('no cometió pecado') es el fundamento de su expiación sustitutiva · Al 'llevar nuestros pecados en su cuerpo en el madero' cumple Is 53 y nos libra del poder del pecado · Muere 'el justo por los injustos' —expiación sustitutiva— para reconciliarnos con Dios · Resucitado y ascendido, gobierna sobre toda autoridad espiritual y cósmica",
+        "en": "Christ is the eternal Passover Lamb, without blemish or spot, whose blood is the price of redemption · His perfect sinlessness ('he committed no sin') is the ground of his substitutionary atonement · By 'bearing our sins in his body on the tree' he fulfills Isa 53 and frees us from the power of sin · He dies 'the righteous for the unrighteous' — substitutionary atonement — to reconcile us to God · Risen and ascended, he governs over all spiritual and cosmic authority",
+        "pt": "Cristo é o eterno Cordeiro Pascal, sem mácula nem contaminação, cujo sangue é o preço da redenção · Sua impecabilidade perfeita ('não cometeu pecado') é o fundamento de sua expiação substitutiva · Ao 'levar nossos pecados em seu corpo no madeiro' cumpre Is 53 e nos liberta do poder do pecado · Morre 'o justo pelos injustos' — expiação substitutiva — para nos reconciliar com Deus · Ressuscitado e ascendido, governa sobre toda autoridade espiritual e cósmica"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada subraya que 1P 3:18 es uno de los textos más claros del NT sobre la expiación sustitutiva ('el justo por los injustos'): Cristo no murió para hacer posible la salvación de todos sino para efectivamente llevar a Dios a los injustos por quienes murió. El Catecismo de Heidelberg (P&R 37–44) y la Confesión de Westminster Cap. 8 desarrollan esta cristología plenamente.",
+        "en": "The Reformed tradition underscores that 1Pet 3:18 is one of the NT's clearest texts on substitutionary atonement ('the righteous for the unrighteous'): Christ did not die to make salvation possible for all but to effectively bring to God the unrighteous for whom he died. The Heidelberg Catechism (Q&A 37–44) and Westminster Confession Chapter 8 develop this Christology fully.",
+        "pt": "A tradição reformada sublinha que 1Pe 3:18 é um dos textos mais claros do NT sobre a expiação substitutiva ('o justo pelos injustos'): Cristo não morreu para tornar possível a salvação de todos, mas para efetivamente aproximar de Deus os injustos pelos quais morreu. O Catecismo de Heidelberg (P&R 37–44) e a Confissão de Westminster Cap. 8 desenvolvem plenamente esta cristologia."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "El llamado a la santidad es el corazón ético de 1 Pedro. Basándose en Lv 11:44–45, Pedro exhorta: 'Sean santos, porque yo soy santo' (1P 1:15–16), vinculando la santidad del creyente directamente con el carácter de Dios. Esta santificación tiene raíces trinitarias (1P 1:2), un fundamento redentor (1P 1:18–19), y un carácter práctico que abarca toda área de la vida: el pensamiento (1P 1:13), el comportamiento personal (1P 1:14–16), las relaciones de hogar (1P 3:1–7), el comportamiento ciudadano (1P 2:13–17), y la conducta ante el sufrimiento (1P 4:1–2). La santificación en 1 Pedro es simultáneamente obra del Espíritu (1P 1:2) y responsabilidad del creyente ('esfuércense', 1P 1:13).",
+        "en": "The call to holiness is the ethical heart of 1 Peter. Drawing on Lev 11:44–45, Peter exhorts: 'Be holy, for I am holy' (1Pet 1:15–16), linking the believer's holiness directly to God's character. This sanctification has Trinitarian roots (1Pet 1:2), a redemptive foundation (1Pet 1:18–19), and a practical character that encompasses every area of life: thought (1Pet 1:13), personal behavior (1Pet 1:14–16), household relationships (1Pet 3:1–7), civic behavior (1Pet 2:13–17), and conduct under suffering (1Pet 4:1–2). Sanctification in 1 Peter is simultaneously the Spirit's work (1Pet 1:2) and the believer's responsibility ('prepare your minds,' 1Pet 1:13).",
+        "pt": "O chamado à santidade é o coração ético de 1 Pedro. Baseando-se em Lv 11:44–45, Pedro exorta: 'Sede santos, porque eu sou santo' (1Pe 1:15–16), vinculando a santidade do crente diretamente ao caráter de Deus. Esta santificação tem raízes trinitárias (1Pe 1:2), um fundamento redentor (1Pe 1:18–19), e um caráter prático que abrange toda área da vida: o pensamento (1Pe 1:13), o comportamento pessoal (1Pe 1:14–16), as relações domésticas (1Pe 3:1–7), o comportamento cívico (1Pe 2:13–17), e a conduta diante do sofrimento (1Pe 4:1–2). A santificação em 1 Pedro é simultaneamente obra do Espírito (1Pe 1:2) e responsabilidade do crente ('preparem a mente', 1Pe 1:13)."
+      },
+      "pasajes": [
+        "1P 1:2",
+        "1P 1:15",
+        "1P 1:16",
+        "1P 1:22",
+        "1P 2:1"
+      ],
+      "ensenanza": {
+        "es": "La santificación es obra del Espíritu que aplica la elección a la vida del creyente · El imperativo de la santidad está enraizado en el carácter inmutable de Dios: 'Sed santos porque yo soy santo' · El amor fraternal genuino, fruto de la santificación, surge del nuevo nacimiento por la Palabra · El creyente debe despojarse activamente de todo mal como parte de su crecimiento en santidad",
+        "en": "Sanctification is the Spirit's work that applies election to the believer's life · The imperative of holiness is rooted in God's unchanging character: 'Be holy, for I am holy' · Genuine brotherly love, a fruit of sanctification, springs from the new birth through the Word · The believer must actively put away all evil as part of his growth in holiness",
+        "pt": "A santificação é obra do Espírito que aplica a eleição à vida do crente · O imperativo da santidade está enraizado no caráter imutável de Deus: 'Sede santos porque eu sou santo' · O amor fraternal genuíno, fruto da santificação, nasce do novo nascimento pela Palavra · O crente deve ativamente se despir de todo mal como parte do seu crescimento em santidade"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada enseña que la santificación es definitiva (posición en Cristo) y progresiva (crecimiento en gracia). 1 Pedro refleja ambas dimensiones: los creyentes son 'como niños recién nacidos' que ya poseen una nueva naturaleza (1P 1:23) y al mismo tiempo deben activamente 'desear la leche espiritual no adulterada' para crecer (1P 2:2). La WCF Cap. 13 describe exactamente esta tensión.",
+        "en": "Reformed theology teaches that sanctification is definitive (position in Christ) and progressive (growth in grace). 1 Peter reflects both dimensions: believers are 'like newborn infants' who already possess a new nature (1Pet 1:23) and yet must actively 'long for the pure spiritual milk' in order to grow (1Pet 2:2). WCF Chapter 13 describes precisely this tension.",
+        "pt": "A teologia reformada ensina que a santificação é definitiva (posição em Cristo) e progressiva (crescimento em graça). 1 Pedro reflete ambas as dimensões: os crentes são 'como crianças recém-nascidas' que já possuem uma nova natureza (1Pe 1:23) e ao mesmo tempo devem ativamente 'desejar o leite espiritual não adulterado' para crescer (1Pe 2:2). A WCF Cap. 13 descreve exatamente essa tensão."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "1 Pedro contiene la eclesiología pactual más densa del NT en un solo pasaje. En 1P 2:4–10, la iglesia es descrita simultáneamente como un edificio espiritual (piedras vivas construidas sobre la Piedra viva, Cristo), un sacerdocio (que ofrece sacrificios espirituales aceptos a Dios), y un pueblo (linaje escogido, real sacerdocio, nación santa, pueblo adquirido). Estos títulos son tomados directamente de Ex 19:5–6 y Os 2:23, afirmando que la iglesia no reemplaza a Israel sino que es el cumplimiento del Israel del pacto —el nuevo pueblo de Dios constituido en Cristo. La instrucción sobre los ancianos en 1P 5:1–4 añade la dimensión del gobierno eclesial: los ancianos son pastores que cuidan del rebaño de Dios, no como señores sino como ejemplos (1P 5:3), rindiéndole cuentas al Pastor Supremo.",
+        "en": "1 Peter contains the densest covenantal ecclesiology in a single NT passage. In 1Pet 2:4–10, the church is described simultaneously as a spiritual building (living stones built on the Living Stone, Christ), a priesthood (offering spiritual sacrifices acceptable to God), and a people (a chosen race, a royal priesthood, a holy nation, a people for his own possession). These titles are drawn directly from Exod 19:5–6 and Hos 2:23, affirming that the church does not replace Israel but is the fulfillment of the covenant Israel — the new people of God constituted in Christ. The instruction about elders in 1Pet 5:1–4 adds the dimension of church governance: elders are shepherds who tend God's flock, not as lords but as examples (1Pet 5:3), accountable to the Chief Shepherd.",
+        "pt": "1 Pedro contém a eclesiologia pactual mais densa do NT em uma única passagem. Em 1Pe 2:4–10, a igreja é descrita simultaneamente como um edifício espiritual (pedras vivas edificadas sobre a Pedra viva, Cristo), um sacerdócio (que oferece sacrifícios espirituais aceitáveis a Deus), e um povo (geração eleita, sacerdócio real, nação santa, povo adquirido). Esses títulos são extraídos diretamente de Ex 19:5–6 e Os 2:23, afirmando que a igreja não substitui Israel, mas é o cumprimento do Israel da aliança — o novo povo de Deus constituído em Cristo. A instrução sobre os anciãos em 1Pe 5:1–4 acrescenta a dimensão do governo eclesial: os anciãos são pastores que cuidam do rebanho de Deus, não como senhores, mas como exemplos (1Pe 5:3), prestando contas ao Sumo Pastor."
+      },
+      "pasajes": [
+        "1P 2:4",
+        "1P 2:5",
+        "1P 2:9",
+        "1P 2:10",
+        "1P 5:2"
+      ],
+      "ensenanza": {
+        "es": "Cristo es la Piedra viva, fundamento sobre el cual los creyentes son edificados como piedras vivas · La iglesia es un edificio espiritual y un sacerdocio santo que ofrece sacrificios espirituales a Dios · La iglesia es el nuevo Israel: linaje escogido, real sacerdocio, nación santa, pueblo adquirido · El cambio de estado ('no pueblo' → 'pueblo de Dios') es el acto soberano de la gracia en el nuevo pacto · Los ancianos tienen el mandato pastoral de apacentar el rebaño de Dios con plena responsabilidad ante Cristo",
+        "en": "Christ is the Living Stone, the foundation on which believers are built as living stones · The church is a spiritual building and a holy priesthood offering spiritual sacrifices to God · The church is the new Israel: a chosen race, a royal priesthood, a holy nation, a people for his own possession · The change of status ('not a people' → 'God's people') is the sovereign act of grace in the new covenant · Elders have the pastoral mandate to shepherd God's flock with full accountability to Christ",
+        "pt": "Cristo é a Pedra viva, fundamento sobre o qual os crentes são edificados como pedras vivas · A igreja é um edifício espiritual e um sacerdócio santo que oferece sacrifícios espirituais a Deus · A igreja é o novo Israel: geração eleita, sacerdócio real, nação santa, povo adquirido · A mudança de estado ('não povo' → 'povo de Deus') é o ato soberano da graça na nova aliança · Os anciãos têm o mandato pastoral de apascentar o rebanho de Deus com plena responsabilidade diante de Cristo"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada rechaza tanto el sacerdocio clerical romano (que interpola entre el creyente y Dios un sacerdocio mediador humano) como la eclesiología dispensacional (que separa a la iglesia de Israel como dos pueblos de Dios). 1P 2:9 es el texto programático de la eclesiología reformada: la iglesia es el pueblo del pacto, continuación del Israel del pacto en su cumplimiento en Cristo, con acceso directo a Dios a través del único sumo sacerdote, Cristo.",
+        "en": "Reformed theology rejects both Roman clerical priesthood (which interposes a human mediating priesthood between the believer and God) and dispensational ecclesiology (which separates the church from Israel as two peoples of God). 1Pet 2:9 is the programmatic text of Reformed ecclesiology: the church is the covenant people, continuation of the covenant Israel in its fulfillment in Christ, with direct access to God through the one High Priest, Christ.",
+        "pt": "A teologia reformada rejeita tanto o sacerdócio clerical romano (que interpõe entre o crente e Deus um sacerdócio humano mediador) quanto a eclesiologia dispensacional (que separa a igreja de Israel como dois povos de Deus). 1Pe 2:9 é o texto programático da eclesiologia reformada: a igreja é o povo da aliança, continuação do Israel da aliança em seu cumprimento em Cristo, com acesso direto a Deus através do único sumo sacerdote, Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "La soteriología de 1 Pedro es cristocéntrica y enfocada en la redención objetiva. El precio de la salvación no fue 'cosas corruptibles, como oro o plata, sino la sangre preciosa de Cristo, como la de un cordero sin mancha y sin contaminación' (1P 1:18–19). La salvación incluye el nuevo nacimiento por la Palabra viva e imperecedera (1P 1:23), la regeneración que produce esperanza viva por la resurrección de Cristo (1P 1:3), y la herencia imperecedera guardada en el cielo (1P 1:4). Los creyentes son 'guardados por el poder de Dios mediante la fe, para la salvación lista para ser revelada en el último tiempo' (1P 1:5), lo que afirma la perseverancia de los santos como resultado del poder divino. La salvación también tiene dimensión de sanidad: 'por sus heridas fuimos sanados' (1P 2:24, citando Is 53:5).",
+        "en": "The soteriology of 1 Peter is Christocentric and focused on objective redemption. The price of salvation was not 'perishable things such as silver or gold, but with the precious blood of Christ, like that of a lamb without blemish or spot' (1Pet 1:18–19). Salvation includes the new birth through the living and abiding Word (1Pet 1:23), regeneration that produces living hope through Christ's resurrection (1Pet 1:3), and an imperishable inheritance kept in heaven (1Pet 1:4). Believers are 'kept by God's power through faith for a salvation ready to be revealed in the last time' (1Pet 1:5), affirming the perseverance of the saints as a result of divine power. Salvation also has a healing dimension: 'by his wounds we have been healed' (1Pet 2:24, citing Isa 53:5).",
+        "pt": "A soteriologia de 1 Pedro é cristocêntrica e focada na redenção objetiva. O preço da salvação não foram 'coisas corruptíveis, como prata ou ouro, mas o precioso sangue de Cristo, como de um cordeiro sem mácula e sem contaminação' (1Pe 1:18–19). A salvação inclui o novo nascimento pela Palavra viva e permanente (1Pe 1:23), a regeneração que produz esperança viva pela ressurreição de Cristo (1Pe 1:3), e a herança imperecível guardada no céu (1Pe 1:4). Os crentes são 'guardados pelo poder de Deus mediante a fé, para a salvação prestes a ser revelada nos últimos tempos' (1Pe 1:5), o que afirma a perseverança dos santos como resultado do poder divino. A salvação também tem dimensão de cura: 'pelas suas chagas fostes sarados' (1Pe 2:24, citando Is 53:5)."
+      },
+      "pasajes": [
+        "1P 1:3",
+        "1P 1:5",
+        "1P 1:18",
+        "1P 2:24",
+        "1P 3:18"
+      ],
+      "ensenanza": {
+        "es": "El nuevo nacimiento por la resurrección de Cristo produce esperanza viva y fundamenta toda la soteriología de la carta · Los creyentes son activamente guardados por el poder de Dios para la salvación escatológica —perseverancia de los santos— · La redención fue pagada no con riquezas corruptibles sino con la sangre preciosa del Cordero · Cristo llevó los pecados del creyente en su cuerpo, murió para librarle del pecado y darle justicia · Cristo murió como sustituto ('el justo por los injustos') para reconciliar al creyente con Dios",
+        "en": "The new birth through Christ's resurrection produces living hope and grounds the entire soteriology of the letter · Believers are actively kept by God's power for eschatological salvation — perseverance of the saints · Redemption was purchased not with corruptible wealth but with the Lamb's precious blood · Christ bore the believer's sins in his body, dying to free him from sin and grant him righteousness · Christ died as a substitute ('the righteous for the unrighteous') to reconcile the believer with God",
+        "pt": "O novo nascimento pela ressurreição de Cristo produz esperança viva e fundamenta toda a soteriologia da carta · Os crentes são ativamente guardados pelo poder de Deus para a salvação escatológica — perseverança dos santos · A redenção foi paga não com riquezas corruptíveis, mas com o sangue precioso do Cordeiro · Cristo levou os pecados do crente em seu corpo, morrendo para libertá-lo do pecado e conceder-lhe justiça · Cristo morreu como substituto ('o justo pelos injustos') para reconciliar o crente com Deus"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada destaca que 1P 1:5 enseña la perseverancia de los santos (TULIP: Perseverance of the Saints): los creyentes no se mantienen salvos por su propia firmeza sino porque 'son guardados por el poder de Dios', lo cual excluye el arminianismo y asegura que ninguno de los elegidos se perderá. Asimismo, 1P 1:18–19 enseña la redención particular: la sangre del Cordero es preciosa y eficaz, no una posibilidad meramente potencial.",
+        "en": "Reformed theology highlights that 1Pet 1:5 teaches the perseverance of the saints (TULIP: Perseverance of the Saints): believers do not remain saved by their own steadfastness but because they are 'kept by God's power,' which excludes Arminianism and assures that none of the elect will be lost. Likewise, 1Pet 1:18–19 teaches particular redemption: the blood of the Lamb is precious and efficacious, not a merely potential possibility.",
+        "pt": "A teologia reformada destaca que 1Pe 1:5 ensina a perseverança dos santos (TULIP: Perseverança dos Santos): os crentes não permanecem salvos por sua própria firmeza, mas porque 'são guardados pelo poder de Deus', o que exclui o arminianismo e assegura que nenhum dos eleitos se perderá. Da mesma forma, 1Pe 1:18–19 ensina a redenção particular: o sangue do Cordeiro é precioso e eficaz, não uma mera possibilidade potencial."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "La esperanza escatológica es el motor que impulsa toda la ética y pastoral de 1 Pedro. Los creyentes tienen una 'herencia incorruptible, sin mancha e inmarchitable, reservada en los cielos' (1P 1:4) y son guardados 'para la salvación lista para ser revelada en el último tiempo' (1P 1:5). Esta esperanza escatológica no es escapista sino transformadora: fundamenta la conducta santa en el presente (1P 1:13–17) y da sentido al sufrimiento presente a la luz de la gloria futura (1P 4:13; 1P 5:10). El 'fin de todas las cosas se acerca' (1P 4:7), lo que exige sobriedad y oración. La venida del 'Pastor Supremo' traerá la 'corona de gloria que no se marchita' (1P 5:4). La escatología de Pedro es fuertemente 'ya-pero-todavía-no': la salvación ya ha comenzado (1P 1:9) pero su revelación plena aguarda el último tiempo.",
+        "en": "Eschatological hope is the engine driving all of 1 Peter's ethics and pastoral care. Believers have an 'inheritance that is imperishable, undefiled, and unfading, kept in heaven for you' (1Pet 1:4) and are kept 'for a salvation ready to be revealed in the last time' (1Pet 1:5). This eschatological hope is not escapist but transforming: it grounds holy conduct in the present (1Pet 1:13–17) and gives meaning to present suffering in the light of future glory (1Pet 4:13; 1Pet 5:10). 'The end of all things is at hand' (1Pet 4:7), which demands sobriety and prayer. The coming of the 'Chief Shepherd' will bring 'the unfading crown of glory' (1Pet 5:4). Peter's eschatology is strongly 'already-but-not-yet': salvation has already begun (1Pet 1:9) but its full revelation awaits the last time.",
+        "pt": "A esperança escatológica é o motor que impulsiona toda a ética e a pastoral de 1 Pedro. Os crentes têm uma 'herança incorruptível, sem mácula e imarcescível, reservada nos céus' (1Pe 1:4) e são guardados 'para a salvação prestes a ser revelada nos últimos tempos' (1Pe 1:5). Esta esperança escatológica não é escapista, mas transformadora: fundamenta a conduta santa no presente (1Pe 1:13–17) e dá sentido ao sofrimento presente à luz da glória futura (1Pe 4:13; 1Pe 5:10). 'O fim de todas as coisas está próximo' (1Pe 4:7), o que exige sobriedade e oração. A vinda do 'Sumo Pastor' trará 'a coroa imarcescível da glória' (1Pe 5:4). A escatologia de Pedro é fortemente 'já-mas-ainda-não': a salvação já começou (1Pe 1:9), mas sua plena revelação aguarda os últimos tempos."
+      },
+      "pasajes": [
+        "1P 1:3",
+        "1P 1:4",
+        "1P 1:5",
+        "1P 4:7",
+        "1P 5:4"
+      ],
+      "ensenanza": {
+        "es": "La resurrección de Cristo es el fundamento histórico de la esperanza viva que el creyente posee en el presente · La herencia escatológica del creyente es imperecedera, perfecta e inmarchitable, ya reservada en los cielos · El poder de Dios guarda activamente al creyente para la revelación final de su salvación · La proximidad del fin exige sobriedad, oración y amor intenso entre los creyentes · La venida del Pastor Supremo coronará a los fieles con la corona de gloria que no se marchita",
+        "en": "Christ's resurrection is the historical foundation of the living hope the believer now possesses · The believer's eschatological inheritance is imperishable, perfect, and unfading, already kept in heaven · God's power actively keeps the believer for the final revelation of his salvation · The nearness of the end demands sobriety, prayer, and fervent love among believers · The coming of the Chief Shepherd will crown the faithful with the unfading crown of glory",
+        "pt": "A ressurreição de Cristo é o fundamento histórico da esperança viva que o crente possui no presente · A herança escatológica do crente é imperecível, perfeita e imarcescível, já reservada nos céus · O poder de Deus guarda ativamente o crente para a revelação final de sua salvação · A proximidade do fim exige sobriedade, oração e amor intenso entre os crentes · A vinda do Sumo Pastor coroará os fiéis com a coroa imarcescível da glória"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada enfatiza que la escatología de 1 Pedro es inaugurada: el creyente ya posee salvación (1P 1:9: 'el fin de vuestra fe, la salvación de vuestras almas') pero su glorificación completa aguarda la parusía. Esta tensión 'ya/todavía no' es característica de la escatología bíblico-teológica de Vos y rechaza tanto el hiper-preterismo (todo cumplido en el 70 d.C.) como el dispensacionalismo (todo diferido a un futuro milenio).",
+        "en": "The Reformed tradition emphasizes that 1 Peter's eschatology is inaugurated: the believer already possesses salvation (1Pet 1:9: 'the outcome of your faith, the salvation of your souls') but his complete glorification awaits the parousia. This 'already/not yet' tension is characteristic of Vos's biblical-theological eschatology and rejects both hyper-preterism (everything fulfilled in AD 70) and dispensationalism (everything deferred to a future millennium).",
+        "pt": "A tradição reformada enfatiza que a escatologia de 1 Pedro é inaugurada: o crente já possui salvação (1Pe 1:9: 'o fim da vossa fé, a salvação das vossas almas'), mas sua glorificação completa aguarda a parusia. Essa tensão 'já/ainda não' é característica da escatologia bíblico-teológica de Vos e rejeita tanto o hiperpreterismo (tudo cumprido em 70 d.C.) quanto o dispensacionalismo (tudo diferido para um milênio futuro)."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 3",
+      "titulo": {
+        "es": "De los Decretos Eternos de Dios",
+        "en": "Of God's Eternal Decree",
+        "pt": "Dos Decretos Eternos de Deus"
+      },
+      "doctrinas": [
+        "Elección",
+        "Providencia",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La WCF Cap. 3 enseña que Dios, desde la eternidad, por el consejo libre e inmutable de su propia voluntad, ordenó todo lo que sucede, incluyendo la predestinación de los hombres a vida o muerte. Los elegidos son amados en Cristo, efectivamente llamados, justificados, adoptados y glorificados. Esta doctrina está directamente en el trasfondo de 1P 1:1–2, donde Pedro describe a los creyentes como 'elegidos según la presciencia de Dios Padre', y en 1P 2:8–9, donde el rechazo de Cristo por los incrédulos también se describe como el cumplimiento de lo que 'estaban destinados' a sufrir.",
+        "en": "WCF Chapter 3 teaches that God, from all eternity, by the most wise and holy counsel of his own will, freely and unchangeably ordained whatsoever comes to pass, including the predestination of men to life or death. The elect are loved in Christ, effectually called, justified, adopted, and glorified. This doctrine is directly in the background of 1Pet 1:1–2, where Peter describes believers as 'elect according to the foreknowledge of God the Father,' and in 1Pet 2:8–9, where the unbelievers' rejection of Christ is also described as fulfilling what they were 'destined' for.",
+        "pt": "A WCF Cap. 3 ensina que Deus, desde a eternidade, pelo mais sábio e santo conselho de sua própria vontade, ordenou livremente e imutavelmente tudo o que acontece, incluindo a predestinação dos homens à vida ou à morte. Os eleitos são amados em Cristo, eficazmente chamados, justificados, adotados e glorificados. Esta doutrina está diretamente no pano de fundo de 1Pe 1:1–2, onde Pedro descreve os crentes como 'eleitos segundo a presciência de Deus Pai', e em 1Pe 2:8–9, onde a rejeição de Cristo pelos incrédulos também é descrita como o cumprimento do que estavam 'destinados' a sofrer."
+      },
+      "genesis": [
+        "1P 1:1",
+        "1P 1:2",
+        "1P 2:8",
+        "1P 2:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-3"
+    },
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Soteriología",
+        "Expiación"
+      ],
+      "resumen": {
+        "es": "La WCF Cap. 8 enseña que el Hijo de Dios, segunda persona de la Trinidad, se hizo hombre, subsistiendo en dos naturalezas completas en una sola persona. Fue obediente perfectamente a la ley y fue crucificado para reconciliar a su pueblo con Dios, sufriendo el castigo que ellos merecían. Su resurrección, ascensión y mediación continua son el fundamento de la salvación del creyente. 1 Pedro 2:22–24 y 3:18 son textos primarios de esta enseñanza: la perfecta obediencia de Cristo ('no cometió pecado') y su muerte sustitutiva ('el justo por los injustos') corresponden exactamente a la enseñanza de la WCF sobre la expiación.",
+        "en": "WCF Chapter 8 teaches that the Son of God, second person of the Trinity, became man, subsisting in two complete natures in one person. He was perfectly obedient to the law and was crucified to reconcile his people to God, bearing the punishment they deserved. His resurrection, ascension, and continuing mediation are the foundation of the believer's salvation. 1Pet 2:22–24 and 3:18 are primary texts for this teaching: Christ's perfect obedience ('he committed no sin') and his substitutionary death ('the righteous for the unrighteous') correspond exactly to the WCF's teaching on atonement.",
+        "pt": "A WCF Cap. 8 ensina que o Filho de Deus, segunda pessoa da Trindade, tornou-se homem, subsistindo em duas naturezas completas em uma única pessoa. Foi perfeitamente obediente à lei e foi crucificado para reconciliar seu povo com Deus, suportando o castigo que eles mereciam. Sua ressurreição, ascensão e mediação contínua são o fundamento da salvação do crente. 1Pe 2:22–24 e 3:18 são textos primários deste ensinamento: a obediência perfeita de Cristo ('não cometeu pecado') e sua morte substitutiva ('o justo pelos injustos') correspondem exatamente ao ensinamento da WCF sobre a expiação."
+      },
+      "genesis": [
+        "1P 2:22",
+        "1P 2:24",
+        "1P 3:18",
+        "1P 3:22"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    },
+    {
+      "cap": "Cap. 13",
+      "titulo": {
+        "es": "De la Santificación",
+        "en": "Of Sanctification",
+        "pt": "Da Santificação"
+      },
+      "doctrinas": [
+        "Santificación",
+        "Antropología",
+        "Ley"
+      ],
+      "resumen": {
+        "es": "La WCF Cap. 13 enseña que los que son regenerados reciben también un nuevo corazón y un espíritu nuevo, por medio de lo cual la dominación del cuerpo del pecado es destruida y sus concupiscencias son debilitadas y mortificadas progresivamente. Esta santificación es imperfecta en esta vida, y el creyente debe luchar contra la carne, el mundo y el diablo. 1 Pedro refleja este dinamismo: el llamado a la santidad ('Sean santos como yo soy santo', 1P 1:15–16) y al mismo tiempo el reconocimiento de que los creyentes aún luchan contra las pasiones carnales (1P 2:11; 1P 4:1–2), siendo sostenidos por la gracia de Dios.",
+        "en": "WCF Chapter 13 teaches that those who are regenerated also receive a new heart and a new spirit, through which the dominion of the whole body of sin is destroyed and its lusts are progressively weakened and mortified. This sanctification is imperfect in this life, and the believer must battle against the flesh, the world, and the devil. 1 Peter reflects this dynamic: the call to holiness ('Be holy, for I am holy,' 1Pet 1:15–16) alongside the acknowledgment that believers still struggle against fleshly passions (1Pet 2:11; 1Pet 4:1–2), being sustained by God's grace.",
+        "pt": "A WCF Cap. 13 ensina que os que são regenerados também recebem um novo coração e um novo espírito, por meio do qual o domínio de todo o corpo do pecado é destruído e suas concupiscências são progressivamente enfraquecidas e mortificadas. Esta santificação é imperfeita nesta vida, e o crente deve lutar contra a carne, o mundo e o diabo. 1 Pedro reflete essa dinâmica: o chamado à santidade ('Sede santos como eu sou santo', 1Pe 1:15–16) ao lado do reconhecimento de que os crentes ainda lutam contra as paixões carnais (1Pe 2:11; 1Pe 4:1–2), sendo sustentados pela graça de Deus."
+      },
+      "genesis": [
+        "1P 1:15",
+        "1P 1:16",
+        "1P 2:11",
+        "1P 4:1"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-13"
+    },
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Iglesia",
+        "en": "Of the Church",
+        "pt": "Da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología",
+        "Pacto",
+        "Elección"
+      ],
+      "resumen": {
+        "es": "La WCF Cap. 25 enseña que la iglesia católica (universal), que es invisible, consiste en el número total de los elegidos que han sido, son, o serán reunidos en uno bajo Cristo su cabeza. La iglesia visible consiste en todos los que en todo el mundo profesan la verdadera religión junto con sus hijos. 1 Pedro 2:4–10 es el texto fundacional de esta eclesiología: la iglesia es el 'linaje escogido, real sacerdocio, nación santa, pueblo adquirido' que proclama las excelencias de Dios —una descripción de la iglesia visible/invisible en su dimensión pactual que encaja exactamente con la WCF.",
+        "en": "WCF Chapter 25 teaches that the catholic (universal) church, which is invisible, consists of the whole number of the elect that have been, are, or shall be gathered into one under Christ its head. The visible church consists of all throughout the world who profess the true religion, together with their children. 1Pet 2:4–10 is the foundational text for this ecclesiology: the church is 'a chosen race, a royal priesthood, a holy nation, a people for his own possession' that proclaims God's excellencies — a description of the visible/invisible church in its covenantal dimension that fits exactly with the WCF.",
+        "pt": "A WCF Cap. 25 ensina que a igreja católica (universal), que é invisível, consiste em todo o número dos eleitos que foram, são ou serão reunidos em um sob Cristo, seu cabeça. A igreja visível consiste em todos os que por todo o mundo professam a verdadeira religião, juntamente com seus filhos. 1Pe 2:4–10 é o texto fundacional desta eclesiologia: a igreja é 'geração eleita, sacerdócio real, nação santa, povo adquirido' que proclama as virtudes de Deus — uma descrição da igreja visível/invisível em sua dimensão pactual que se encaixa exatamente com a WCF."
+      },
+      "genesis": [
+        "1P 2:4",
+        "1P 2:5",
+        "1P 2:9",
+        "1P 5:2"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "1P 1:3",
+      "es": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien según Su gran misericordia, nos ha hecho nacer de nuevo a una esperanza viva, mediante la resurrección de Jesucristo de entre los muertos,",
+      "en": "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,",
+      "pt": "Bendito o Deus e Pai de nosso Senhor Jesus Cristo, que segundo a sua muita misericórdia nos regenerou para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos,",
+      "nota": {
+        "es": "Este versículo es el fundamento doxológico de toda la carta: la esperanza viva no es un optimismo humano sino una realidad creada por la resurrección histórica de Cristo. Pedro une el nuevo nacimiento (regeneración) con la esperanza escatológica en un solo acto de la gracia divina. La esperanza es 'viva' porque Cristo está vivo; es decir, la esperanza cristiana no puede extinguirse porque su fundamento —la resurrección— es un hecho del pasado con consecuencias eternas.",
+        "en": "This verse is the doxological foundation of the entire letter: living hope is not human optimism but a reality created by Christ's historical resurrection. Peter unites the new birth (regeneration) with eschatological hope in a single act of divine grace. The hope is 'living' because Christ is alive; that is, Christian hope cannot be extinguished because its foundation — the resurrection — is a past fact with eternal consequences.",
+        "pt": "Este versículo é o fundamento doxológico de toda a carta: a esperança viva não é um otimismo humano, mas uma realidade criada pela ressurreição histórica de Cristo. Pedro une o novo nascimento (regeneração) com a esperança escatológica em um único ato da graça divina. A esperança é 'viva' porque Cristo está vivo; ou seja, a esperança cristã não pode ser extinta porque seu fundamento — a ressurreição — é um fato do passado com consequências eternas."
+      }
+    },
+    {
+      "ref": "1P 2:9",
+      "es": "Pero ustedes son linaje escogido, real sacerdocio, nación santa, pueblo adquirido para posesión de Dios, a fin de que proclamen las excelencias de Aquel que los llamó de las tinieblas a Su luz admirable;",
+      "en": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.",
+      "pt": "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz;",
+      "nota": {
+        "es": "Este versículo es la declaración eclesiológica más completa del NT, tomada de Ex 19:5–6 y Os 2:23. La iglesia es el heredero del pacto de Israel —no su reemplazo sino su cumplimiento en Cristo. Los cuatro títulos (linaje escogido, real sacerdocio, nación santa, pueblo adquirido) afirman la identidad radicalmente nueva del creyente que no depende de su lugar geográfico ni de su situación social, sino exclusivamente de la gracia electiva de Dios. El propósito de esta identidad es misional: 'proclamar las excelencias' del Dios que salva.",
+        "en": "This verse is the most complete ecclesiological declaration in the NT, drawn from Exod 19:5–6 and Hos 2:23. The church is the heir of Israel's covenant — not its replacement but its fulfillment in Christ. The four titles (chosen race, royal priesthood, holy nation, people for his own possession) affirm the believer's radically new identity, which depends not on geographical location or social status but exclusively on God's elective grace. The purpose of this identity is missional: 'to proclaim the excellencies' of the saving God.",
+        "pt": "Este versículo é a declaração eclesiológica mais completa do NT, extraída de Ex 19:5–6 e Os 2:23. A igreja é a herdeira da aliança de Israel — não sua substituta, mas seu cumprimento em Cristo. Os quatro títulos (geração eleita, sacerdócio real, nação santa, povo adquirido) afirmam a identidade radicalmente nova do crente, que não depende de sua localização geográfica nem de sua situação social, mas exclusivamente da graça eletiva de Deus. O propósito desta identidade é missional: 'anunciar as virtudes' do Deus que salva."
+      }
+    },
+    {
+      "ref": "1P 2:24",
+      "es": "y Él mismo llevó nuestros pecados en Su cuerpo sobre la cruz, a fin de que muramos al pecado y vivamos a la justicia, porque por Sus heridas fueron ustedes sanados.",
+      "en": "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.",
+      "pt": "levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que nós, mortos para os pecados, vivamos para a justiça; e pelas suas chagas fostes sarados.",
+      "nota": {
+        "es": "Este versículo es la declaración más clara de 1 Pedro sobre la expiación sustitutiva, usando el lenguaje de Is 53. 'Llevó nuestros pecados' es lenguaje sacrificial: Cristo asumió sobre sí la culpa y la penalidad del pecado de su pueblo. El propósito es doble: muerte al pecado (santificación definitiva) y vida a la justicia (vida nueva). La última cláusula ('por sus heridas fueron ustedes sanados', Is 53:5) conecta la sanidad espiritual del creyente con la herida sustitutiva del Siervo Sufriente.",
+        "en": "This verse is 1 Peter's clearest statement of substitutionary atonement, using the language of Isa 53. 'He bore our sins' is sacrificial language: Christ took upon himself the guilt and penalty of his people's sin. The purpose is twofold: dying to sin (definitive sanctification) and living to righteousness (new life). The final clause ('by his wounds you have been healed,' Isa 53:5) connects the believer's spiritual healing to the substitutionary wound of the Suffering Servant.",
+        "pt": "Este versículo é a declaração mais clara de 1 Pedro sobre a expiação substitutiva, usando a linguagem de Is 53. 'Levou nossos pecados' é linguagem sacrificial: Cristo assumiu sobre si a culpa e a penalidade do pecado de seu povo. O propósito é duplo: morte ao pecado (santificação definitiva) e vida à justiça (vida nova). A cláusula final ('pelas suas chagas fostes sarados', Is 53:5) conecta a cura espiritual do crente à ferida substitutiva do Servo Sofredor."
+      }
+    },
+    {
+      "ref": "1P 3:18",
+      "es": "Porque también Cristo murió por los pecados una sola vez, el justo por los injustos, para llevarnos a Dios, muerto en la carne pero vivificado en el espíritu;",
+      "en": "For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit,",
+      "pt": "Porque também Cristo morreu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus, sendo morto na carne, mas vivificado em espírito;",
+      "nota": {
+        "es": "Este versículo sintetiza toda la soteriología de 1 Pedro en dos cláusulas: la expiación ('una sola vez' —eficacia permanente, no necesidad de repetición— y 'el justo por los injustos' —sustitución perfecta) y el acceso ('para llevarnos a Dios' —reconciliación real, no meramente posible). La muerte y resurrección de Cristo ('muerto en la carne, vivificado en el espíritu') establecen el patrón del sufrimiento-y-gloria que Pedro aplica a toda la vida cristiana.",
+        "en": "This verse synthesizes all of 1 Peter's soteriology in two clauses: the atonement ('once for all' — permanent efficacy, no need of repetition — and 'the righteous for the unrighteous' — perfect substitution) and access ('to bring us to God' — real reconciliation, not merely possible). Christ's death and resurrection ('put to death in the flesh, made alive in the spirit') establish the pattern of suffering-and-glory that Peter applies to all of Christian life.",
+        "pt": "Este versículo sintetiza toda a soteriologia de 1 Pedro em duas cláusulas: a expiação ('uma vez pelos pecados' — eficácia permanente, sem necessidade de repetição — e 'o justo pelos injustos' — substituição perfeita) e o acesso ('para levar-nos a Deus' — reconciliação real, não meramente possível). A morte e ressurreição de Cristo ('morto na carne, vivificado em espírito') estabelecem o padrão do sofrimento-e-glória que Pedro aplica a toda a vida cristã."
+      }
+    },
+    {
+      "ref": "1P 5:7",
+      "es": "echando toda su ansiedad sobre Él, porque Él tiene cuidado de ustedes.",
+      "en": "casting all your anxieties on him, because he cares for you.",
+      "pt": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+      "nota": {
+        "es": "Este versículo resume la respuesta pastoral de Pedro al sufrimiento: no el estoicismo ni la negación sino la confianza activa y el abandono de toda carga en el Dios que cuida providentialmente de sus hijos. El verbo 'echar' (griego: epiripto) es deliberado y total: toda ansiedad, no selectivamente. El fundamento de este abandono no es una promesa genérica sino la certeza de que Dios tiene 'cuidado de ustedes' —un amor particular y personal del Pastor hacia cada oveja de su rebaño.",
+        "en": "This verse summarizes Peter's pastoral response to suffering: not Stoicism or denial but active trust and the total casting of every burden on the God who providentially cares for his children. The verb 'casting' (Greek: epiripto) is deliberate and total: every anxiety, not selectively. The ground for this casting is not a generic promise but the certainty that God 'cares for you' — a particular and personal love of the Shepherd for each sheep of his flock.",
+        "pt": "Este versículo resume a resposta pastoral de Pedro ao sofrimento: não o estoicismo nem a negação, mas a confiança ativa e o abandono total de toda carga no Deus que cuida providencialmente de seus filhos. O verbo 'lançar' (grego: epiripto) é deliberado e total: toda ansiedade, não seletivamente. O fundamento deste abandono não é uma promessa genérica, mas a certeza de que Deus tem 'cuidado de vós' — um amor particular e pessoal do Pastor por cada ovelha do seu rebanho."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "1 Pedro es un texto fundamental para la soteriología reformada: afirma la elección soberana e incondicional de Dios ('elegidos según la presciencia de Dios Padre', 1P 1:2), la regeneración monérgica que produce esperanza viva por la resurrección de Cristo (1P 1:3), la expiación sustitutiva particular ('el justo por los injustos', 1P 3:18), y la perseverancia de los santos guardados por el poder de Dios para salvación (1P 1:5). La visión de la iglesia como 'real sacerdocio y nación santa' (1P 2:9) refleja la eclesiología pactual reformada que ve a la iglesia como el cumplimiento del Israel del pacto, no su sustitución. La teología del sufrimiento de Pedro —que el creyente participa en los padecimientos de Cristo para luego compartir su gloria (1P 4:13)— es característica del énfasis reformado en la via crucis como camino de santificación y de la cosmovisión del pacto de gracia que abarca toda la vida del redimido.",
+    "en": "1 Peter is a foundational text for Reformed soteriology: it affirms God's sovereign and unconditional election ('elect according to the foreknowledge of God the Father,' 1Pet 1:2), monergistic regeneration that produces living hope through Christ's resurrection (1Pet 1:3), particular substitutionary atonement ('the righteous for the unrighteous,' 1Pet 3:18), and the perseverance of the saints kept by God's power for salvation (1Pet 1:5). The vision of the church as 'a royal priesthood and a holy nation' (1Pet 2:9) reflects the Reformed covenantal ecclesiology that sees the church as the fulfillment of the covenant Israel, not its replacement. Peter's theology of suffering — that believers participate in Christ's sufferings and will share his glory (1Pet 4:13) — is characteristic of the Reformed emphasis on the via crucis as the path of sanctification and of the covenant of grace worldview that encompasses all of the redeemed life.",
+    "pt": "1 Pedro é um texto fundamental para a soteriologia reformada: afirma a eleição soberana e incondicional de Deus ('eleitos segundo a presciência de Deus Pai', 1Pe 1:2), a regeneração monergística que produz esperança viva pela ressurreição de Cristo (1Pe 1:3), a expiação substitutiva particular ('o justo pelos injustos', 1Pe 3:18), e a perseverança dos santos guardados pelo poder de Deus para salvação (1Pe 1:5). A visão da igreja como 'sacerdócio real e nação santa' (1Pe 2:9) reflete a eclesiologia pactual reformada que vê a igreja como o cumprimento do Israel da aliança, não sua substituição. A teologia do sofrimento de Pedro — que o crente participa nos sofrimentos de Cristo para depois compartilhar sua glória (1Pe 4:13) — é característica da ênfase reformada na via crucis como caminho de santificação e da cosmovisão da aliança de graça que abrange toda a vida do redimido."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "Esperanza Viva por Elección y Nuevo Nacimiento",
+        "en": "Living Hope Through Election and New Birth",
+        "pt": "Esperança Viva pela Eleição e Novo Nascimento"
+      },
+      "descripcion": {
+        "es": "Pedro abre su carta con una declaración trinitaria de la elección: los creyentes son 'elegidos según la presciencia de Dios Padre, por la obra santificadora del Espíritu, para obedecer a Jesucristo' (1P 1:2), estableciendo desde el inicio que su identidad no depende de sus circunstancias sino del decreto eterno de Dios. El corazón teológico del capítulo es la 'esperanza viva' (1P 1:3): una realidad nacida de la resurrección histórica de Cristo que garantiza una herencia 'incorruptible, sin mancha e inmarchitable, reservada en los cielos' (1P 1:4). En el centro del capítulo (1P 1:10–12) Pedro señala que los profetas del AT investigaron y sirvieron esta misma salvación que los creyentes ahora han recibido, afirmando la continuidad pactual entre los dos testamentos. El capítulo cierra con el doble imperativo de santidad ('sean santos porque yo soy santo', 1P 1:15–16, citando Lv 11:44) y de amor fraternal genuino, fundamentado en el nuevo nacimiento por la Palabra viva e imperecedera de Dios (1P 1:22–25).",
+        "en": "Peter opens his letter with a Trinitarian declaration of election: believers are 'elect according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ' (1Pet 1:2), establishing from the outset that their identity does not depend on their circumstances but on God's eternal decree. The theological heart of the chapter is 'living hope' (1Pet 1:3): a reality born from Christ's historical resurrection that guarantees an inheritance 'imperishable, undefiled, and unfading, kept in heaven' (1Pet 1:4). Mid-chapter (1Pet 1:10–12) Peter notes that OT prophets searched out and served this very salvation that believers have now received, affirming the covenantal continuity between the two testaments. The chapter closes with the dual imperative of holiness ('be holy, for I am holy,' 1Pet 1:15–16, citing Lev 11:44) and genuine brotherly love, grounded in the new birth through God's living and abiding Word (1Pet 1:22–25).",
+        "pt": "Pedro abre sua carta com uma declaração trinitária da eleição: os crentes são 'eleitos segundo a presciência de Deus Pai, na santificação do Espírito, para a obediência de Jesus Cristo' (1Pe 1:2), estabelecendo desde o início que sua identidade não depende de suas circunstâncias, mas do decreto eterno de Deus. O coração teológico do capítulo é a 'esperança viva' (1Pe 1:3): uma realidade nascida da ressurreição histórica de Cristo que garante uma herança 'incorruptível, sem mácula e imarcescível, reservada nos céus' (1Pe 1:4). No centro do capítulo (1Pe 1:10–12) Pedro assinala que os profetas do AT investigaram e serviram esta mesma salvação que os crentes agora receberam, afirmando a continuidade pactual entre os dois testamentos. O capítulo encerra com o duplo imperativo da santidade ('sede santos porque eu sou santo', 1Pe 1:15–16, citando Lv 11:44) e do amor fraternal genuíno, fundamentado no novo nascimento pela Palavra viva e permanente de Deus (1Pe 1:22–25)."
+      },
+      "eventoClave": {
+        "es": "Pedro proclama la esperanza viva nacida de la resurrección de Cristo (1P 1:3), vinculando el acto histórico de la resurrección con la regeneración actual del creyente y su herencia futura, fundamento de toda la teología de la carta.",
+        "en": "Peter proclaims the living hope born from Christ's resurrection (1Pet 1:3), linking the historical act of resurrection with the believer's current regeneration and future inheritance, the foundation of the letter's entire theology.",
+        "pt": "Pedro proclama a esperança viva nascida da ressurreição de Cristo (1Pe 1:3), vinculando o ato histórico da ressurreição com a regeneração atual do crente e sua herança futura, fundamento de toda a teologia da carta."
+      },
+      "versiculoClave": "1P 1:3"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "Piedras Vivas, Pueblo Escogido y Conducta Santa",
+        "en": "Living Stones, Chosen People and Holy Conduct",
+        "pt": "Pedras Vivas, Povo Escolhido e Conduta Santa"
+      },
+      "descripcion": {
+        "es": "El capítulo 2 es la declaración eclesiológica más densa de la carta. Pedro presenta a Cristo como la 'Piedra viva', rechazada por los hombres pero escogida y preciosa para Dios (1P 2:4, citando Sal 118:22; Is 28:16), sobre la cual los creyentes son edificados como 'piedras vivas' para ser 'casa espiritual, sacerdocio santo' (1P 2:5). Esta imagen remite a Ex 19:5–6: la iglesia es el nuevo Israel del pacto, 'linaje escogido, real sacerdocio, nación santa, pueblo adquirido' (1P 2:9), cuya misión es 'proclamar las excelencias de Aquel que los llamó de las tinieblas a su luz admirable'. Pedro aplica inmediatamente esta identidad exaltada a la realidad de 'forasteros y peregrinos' en el mundo (1P 2:11), exhortando a los creyentes a mantener 'excelente conducta entre los gentiles' (1P 2:12) y a someterse a las instituciones humanas por amor al Señor (1P 2:13–17). La segunda mitad del capítulo aplica esta teología al sufrimiento injusto de los siervos, señalando a Cristo como modelo: 'porque también Cristo padeció por vosotros, dejándoos ejemplo, para que sigáis sus pisadas' (1P 2:21), el Siervo Sufriente de Is 53 que 'llevó nuestros pecados en su cuerpo en el madero' (1P 2:24).",
+        "en": "Chapter 2 is the letter's most theologically dense ecclesiological declaration. Peter presents Christ as the 'Living Stone,' rejected by men but chosen and precious to God (1Pet 2:4, citing Ps 118:22; Isa 28:16), upon whom believers are built as 'living stones' to be 'a spiritual house, a holy priesthood' (1Pet 2:5). This image echoes Exod 19:5–6: the church is the new covenant Israel, 'a chosen race, a royal priesthood, a holy nation, a people for his own possession' (1Pet 2:9), whose mission is 'to proclaim the excellencies of him who called you out of darkness into his marvelous light.' Peter immediately applies this exalted identity to the reality of being 'sojourners and exiles' in the world (1Pet 2:11), exhorting believers to keep 'your conduct among the Gentiles honorable' (1Pet 2:12) and to submit to human institutions for the Lord's sake (1Pet 2:13–17). The second half of the chapter applies this theology to servants' unjust suffering, pointing to Christ as the model: 'because Christ also suffered for you, leaving you an example, so that you might follow in his steps' (1Pet 2:21), the Suffering Servant of Isa 53 who 'bore our sins in his body on the tree' (1Pet 2:24).",
+        "pt": "O capítulo 2 é a declaração eclesiológica mais densa da carta. Pedro apresenta Cristo como a 'Pedra viva', rejeitada pelos homens, mas escolhida e preciosa para Deus (1Pe 2:4, citando Sl 118:22; Is 28:16), sobre a qual os crentes são edificados como 'pedras vivas' para ser 'casa espiritual, sacerdócio santo' (1Pe 2:5). Esta imagem remete a Ex 19:5–6: a igreja é o novo Israel da aliança, 'geração eleita, sacerdócio real, nação santa, povo adquirido' (1Pe 2:9), cuja missão é 'anunciar as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz'. Pedro aplica imediatamente esta identidade exaltada à realidade de 'estrangeiros e peregrinos' no mundo (1Pe 2:11), exortando os crentes a manter 'boa conduta entre os gentios' (1Pe 2:12) e a se submeterem às instituições humanas pelo amor ao Senhor (1Pe 2:13–17). A segunda metade do capítulo aplica esta teologia ao sofrimento injusto dos servos, apontando Cristo como modelo: 'porque também Cristo sofreu por vós, deixando-vos exemplo para seguirdes os seus passos' (1Pe 2:21), o Servo Sofredor de Is 53 que 'levou nossos pecados em seu corpo no madeiro' (1Pe 2:24)."
+      },
+      "eventoClave": {
+        "es": "Pedro proclama la identidad corporativa de la iglesia como nuevo Israel del pacto: 'linaje escogido, real sacerdocio, nación santa, pueblo adquirido' (1P 2:9), transfiriendo los títulos pactales de Ex 19:5–6 a los creyentes del nuevo pacto —el momento teológico más importante de la eclesiología de la carta.",
+        "en": "Peter proclaims the corporate identity of the church as the new covenant Israel: 'a chosen race, a royal priesthood, a holy nation, a people for his own possession' (1Pet 2:9), transferring the covenantal titles of Exod 19:5–6 to new covenant believers — the most theologically significant moment in the letter's ecclesiology.",
+        "pt": "Pedro proclama a identidade corporativa da igreja como novo Israel da aliança: 'geração eleita, sacerdócio real, nação santa, povo adquirido' (1Pe 2:9), transferindo os títulos pactuais de Ex 19:5–6 aos crentes da nova aliança — o momento teológico mais importante da eclesiologia da carta."
+      },
+      "versiculoClave": "1P 2:9"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "Hogares Santos y Victoria de Cristo",
+        "en": "Holy Households and Christ's Victory",
+        "pt": "Lares Santos e Vitória de Cristo"
+      },
+      "descripcion": {
+        "es": "El capítulo 3 inicia con instrucciones detalladas para el hogar cristiano (1P 3:1–7): las esposas deben someterse a sus maridos con conducta pura y respetuosa, con el adorno incorruptible del 'espíritu afable y tranquilo' que es precioso a los ojos de Dios (1P 3:4), siguiendo el ejemplo de Sara (1P 3:5–6). Los maridos, a su vez, deben vivir con sus esposas con entendimiento, honrándolas como 'coherederas de la gracia de la vida' (1P 3:7), para que sus oraciones no sean obstaculizadas —una instrucción que eleva la dignidad de la mujer al nivel de co-heredera del pacto. Pedro luego extiende el llamado a la conducta santa al contexto del sufrimiento injusto por la justicia (1P 3:8–17), afirmando que es mejor padecer por hacer el bien que por hacer el mal. El capítulo culmina con la proclamación cristológica más difícil de la carta: la muerte, resurrección y descenso de Cristo a proclamar a los 'espíritus encarcelados' (1P 3:18–22), un pasaje que ha generado múltiples interpretaciones en la tradición reformada, pero que claramente culmina en la ascensión de Cristo sobre todo poder y autoridad (1P 3:22), fundamento de la esperanza del creyente.",
+        "en": "Chapter 3 begins with detailed instructions for the Christian household (1Pet 3:1–7): wives are to submit to their husbands with pure and respectful conduct, with the imperishable adornment of 'a gentle and quiet spirit,' which is precious in God's sight (1Pet 3:4), following the example of Sarah (1Pet 3:5–6). Husbands, in turn, are to live with their wives with understanding, honoring them as 'heirs with you of the grace of life' (1Pet 3:7), so that their prayers are not hindered — an instruction that elevates the dignity of women to the level of covenant co-heirs. Peter then extends the call to holy conduct to the context of unjust suffering for righteousness (1Pet 3:8–17), affirming that it is better to suffer for doing good than for doing evil. The chapter culminates in the letter's most theologically difficult Christological proclamation: Christ's death, resurrection, and descent to proclaim to the 'imprisoned spirits' (1Pet 3:18–22), a passage that has generated multiple interpretations in the Reformed tradition, but which clearly culminates in Christ's ascension over all powers and authorities (1Pet 3:22), the foundation of the believer's hope.",
+        "pt": "O capítulo 3 inicia com instruções detalhadas para o lar cristão (1Pe 3:1–7): as esposas devem se submeter aos seus maridos com conduta pura e respeitosa, com o adorno incorruptível do 'espírito manso e tranquilo', que é precioso aos olhos de Deus (1Pe 3:4), seguindo o exemplo de Sara (1Pe 3:5–6). Os maridos, por sua vez, devem viver com suas esposas com entendimento, honrando-as como 'coerdeiras da graça da vida' (1Pe 3:7), para que suas orações não sejam impedidas — uma instrução que eleva a dignidade da mulher ao nível de co-herdeira da aliança. Pedro então estende o chamado à conduta santa ao contexto do sofrimento injusto pela justiça (1Pe 3:8–17), afirmando que é melhor padecer por fazer o bem do que por fazer o mal. O capítulo culmina com a proclamação cristológica mais difícil da carta: a morte, ressurreição e descida de Cristo para proclamar aos 'espíritos encarcerados' (1Pe 3:18–22), uma passagem que gerou múltiplas interpretações na tradição reformada, mas que claramente culmina na ascensão de Cristo sobre todo poder e autoridade (1Pe 3:22), fundamento da esperança do crente."
+      },
+      "eventoClave": {
+        "es": "Cristo 'muerto en la carne pero vivificado en el espíritu' proclama su victoria sobre toda potestad espiritual y asciende al cielo donde 'ángeles, autoridades y potestades le están sujetos' (1P 3:22), afirmando la soberanía cósmica del Cristo resucitado como fundamento de la esperanza del creyente perseguido.",
+        "en": "Christ 'put to death in the flesh but made alive in the spirit' proclaims his victory over all spiritual powers and ascends to heaven where 'angels, authorities, and powers have been subjected to him' (1Pet 3:22), affirming the cosmic sovereignty of the risen Christ as the foundation of the persecuted believer's hope.",
+        "pt": "Cristo 'morto na carne, mas vivificado em espírito' proclama sua vitória sobre todas as potestades espirituais e ascende ao céu onde 'anjos, autoridades e potestades lhe estão sujeitos' (1Pe 3:22), afirmando a soberania cósmica do Cristo ressuscitado como fundamento da esperança do crente perseguido."
+      },
+      "versiculoClave": "1P 3:18"
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "Sufrimiento Cristiano y Urgencia Escatológica",
+        "en": "Christian Suffering and Eschatological Urgency",
+        "pt": "Sofrimento Cristão e Urgência Escatológica"
+      },
+      "descripcion": {
+        "es": "El capítulo 4 desarrolla la teología del sufrimiento como participación en el sufrimiento de Cristo. Pedro comienza con un argumento denso: 'puesto que Cristo ha padecido en la carne, vosotros también armaos del mismo propósito' (1P 4:1), lo que significa que el creyente que participa en el sufrimiento de Cristo ha roto con el pecado y vive para la voluntad de Dios, no para las 'concupiscencias de los hombres' (1P 4:2). El pasado pagano de los creyentes ya pertenece a otra era (1P 4:3–4); sus antiguos compañeros 'se sorprenden de que ustedes no corran con ellos en el mismo desbordamiento de disolución' (1P 4:4). Ante la urgencia escatológica —'el fin de todas las cosas se acerca' (1P 4:7)— Pedro exhorta a la sobriedad, la oración, el amor intenso, la hospitalidad y el ejercicio de los dones como mayordomos de la gracia de Dios (1P 4:7–11). El capítulo culmina con la teología más explícita del sufrimiento cristiano: la 'prueba de fuego' (1P 4:12–19) no es extraña sino esperable; participar en los padecimientos de Cristo es motivo de gozo (1P 4:13) porque garantiza la participación en su gloria. El creyente que sufre como cristiano no debe avergonzarse sino 'glorificar a Dios en ese nombre' (1P 4:16).",
+        "en": "Chapter 4 develops the theology of suffering as participation in Christ's sufferings. Peter begins with a dense argument: 'since Christ suffered in the flesh, arm yourselves with the same way of thinking' (1Pet 4:1), meaning that the believer who participates in Christ's suffering has broken with sin and lives for God's will, not for 'human passions' (1Pet 4:2). The believers' pagan past belongs to another era (1Pet 4:3–4); their former companions 'are surprised when you do not join them in the same flood of debauchery' (1Pet 4:4). In the face of eschatological urgency — 'the end of all things is at hand' (1Pet 4:7) — Peter exhorts to sobriety, prayer, fervent love, hospitality, and the exercise of gifts as stewards of God's grace (1Pet 4:7–11). The chapter culminates with the most explicit theology of Christian suffering: the 'fiery trial' (1Pet 4:12–19) is not strange but expected; sharing in Christ's sufferings is cause for rejoicing (1Pet 4:13) because it guarantees sharing in his glory. The believer who suffers as a Christian should not be ashamed but should 'glorify God in that name' (1Pet 4:16).",
+        "pt": "O capítulo 4 desenvolve a teologia do sofrimento como participação nos sofrimentos de Cristo. Pedro começa com um argumento denso: 'pois, tendo Cristo sofrido na carne, armai-vos vós também do mesmo propósito' (1Pe 4:1), o que significa que o crente que participa dos sofrimentos de Cristo rompeu com o pecado e vive para a vontade de Deus, não para 'as concupiscências dos homens' (1Pe 4:2). O passado pagão dos crentes já pertence a outra era (1Pe 4:3–4); seus antigos companheiros 'estranham que vós não corrais com eles no mesmo transbordamento de dissolução' (1Pe 4:4). Diante da urgência escatológica — 'o fim de todas as coisas está próximo' (1Pe 4:7) — Pedro exorta à sobriedade, à oração, ao amor intenso, à hospitalidade e ao exercício dos dons como mordomos da graça de Deus (1Pe 4:7–11). O capítulo culmina com a teologia mais explícita do sofrimento cristão: a 'prova de fogo' (1Pe 4:12–19) não é estranha, mas esperada; participar dos sofrimentos de Cristo é motivo de alegria (1Pe 4:13) porque garante a participação em sua glória. O crente que sofre como cristão não deve envergonhar-se, mas 'glorificar a Deus nesse nome' (1Pe 4:16)."
+      },
+      "eventoClave": {
+        "es": "Pedro declara que el sufrimiento del creyente no es accidental sino constitutivo: 'en la medida en que participáis de los padecimientos de Cristo, gozaos, para que también en la revelación de su gloria os gocéis con gran alegría' (1P 4:13), estableciendo el paralelismo soteriológico entre el sufrimiento presente y la gloria futura.",
+        "en": "Peter declares that the believer's suffering is not accidental but constitutive: 'as you share Christ's sufferings, rejoice, so that you may also rejoice and be glad when his glory is revealed' (1Pet 4:13), establishing the soteriological parallelism between present suffering and future glory.",
+        "pt": "Pedro declara que o sofrimento do crente não é acidental, mas constitutivo: 'na medida em que sois participantes dos sofrimentos de Cristo, alegrai-vos, para que também na revelação da sua glória vos alegreis com exultação' (1Pe 4:13), estabelecendo o paralelismo soteriológico entre o sofrimento presente e a glória futura."
+      },
+      "versiculoClave": "1P 4:13"
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "Pastores, Humildad y Gracia Final",
+        "en": "Shepherds, Humility and Final Grace",
+        "pt": "Pastores, Humildade e Graça Final"
+      },
+      "descripcion": {
+        "es": "El capítulo final de 1 Pedro contiene las instrucciones pastorales más prácticas de la carta. Pedro, como 'anciano y testigo de los padecimientos de Cristo', exhorta a los ancianos a 'pastorear el rebaño de Dios que está bajo vuestro cuidado' (1P 5:2), no por obligación ni por ganancias deshonestas sino 'de corazón' y como 'ejemplos del rebaño' (1P 5:3). El título de 'Pastor Supremo' reservado a Cristo (1P 5:4) establece la estructura de rendición de cuentas del gobierno eclesial reformado: los ancianos pastorean el rebaño que pertenece a Cristo y ante Él responden. Pedro exhorta luego a los jóvenes a someterse a los ancianos y a todos los creyentes a vestirse de humildad, citando Pr 3:34: 'Dios resiste a los soberbios, pero da gracia a los humildes' (1P 5:5). La advertencia sobre el diablo como 'león rugiente que busca a quien devorar' (1P 5:8) contextualiza la lucha espiritual en el marco del sufrimiento bajo persecución. La carta concluye con una doxología de aliento (1P 5:10–11) y los saludos de Silvano, Marcos y la iglesia en 'Babilonia', reafirmando que lo que Pedro ha escrito es 'la verdadera gracia de Dios' en la que los creyentes deben mantenerse firmes (1P 5:12).",
+        "en": "The final chapter of 1 Peter contains the letter's most practical pastoral instructions. Peter, as 'a fellow elder and a witness of the sufferings of Christ,' exhorts elders to 'shepherd the flock of God that is among you' (1Pet 5:2), not under compulsion or for shameful gain but 'willingly' and as 'examples to the flock' (1Pet 5:3). The title 'Chief Shepherd' reserved for Christ (1Pet 5:4) establishes the accountability structure of Reformed church governance: elders shepherd the flock that belongs to Christ and answer to him. Peter then exhorts young men to submit to elders and all believers to clothe themselves with humility, citing Prov 3:34: 'God opposes the proud but gives grace to the humble' (1Pet 5:5). The warning about the devil as 'a roaring lion seeking someone to devour' (1Pet 5:8) contextualizes spiritual warfare within the framework of suffering under persecution. The letter closes with a doxology of encouragement (1Pet 5:10–11) and greetings from Silvanus, Mark, and the church at 'Babylon,' reaffirming that what Peter has written is 'the true grace of God' in which believers are to stand firm (1Pet 5:12).",
+        "pt": "O capítulo final de 1 Pedro contém as instruções pastorais mais práticas da carta. Pedro, como 'ancião como eles e testemunha dos sofrimentos de Cristo', exorta os anciãos a 'apascentar o rebanho de Deus que está entre vós' (1Pe 5:2), não por obrigação nem por ganâncias desonestas, mas 'de coração' e como 'exemplos do rebanho' (1Pe 5:3). O título de 'Sumo Pastor' reservado a Cristo (1Pe 5:4) estabelece a estrutura de prestação de contas do governo eclesial reformado: os anciãos apascentam o rebanho que pertence a Cristo e a Ele respondem. Pedro exorta em seguida os jovens a se submeterem aos anciãos e todos os crentes a se revestirem de humildade, citando Pv 3:34: 'Deus resiste aos soberbos, mas dá graça aos humildes' (1Pe 5:5). O aviso sobre o diabo como 'leão rugidor que anda em derredor, procurando alguém para devorar' (1Pe 5:8) contextualiza a luta espiritual no quadro do sofrimento sob perseguição. A carta conclui com uma doxologia de encorajamento (1Pe 5:10–11) e as saudações de Silvano, Marcos e a igreja em 'Babilônia', reafirmando que o que Pedro escreveu é 'a verdadeira graça de Deus' na qual os crentes devem se manter firmes (1Pe 5:12)."
+      },
+      "eventoClave": {
+        "es": "Pedro proclama la promesa doxológica de Dios al creyente que ha sufrido: 'el Dios de toda gracia, que os llamó a su gloria eterna en Jesucristo, después que hayáis padecido un poco de tiempo, él mismo os perfeccione, afirme, fortalezca y establezca' (1P 5:10), sellando la teología del sufrimiento de toda la carta con la certeza de la gloria final.",
+        "en": "Peter proclaims God's doxological promise to the believer who has suffered: 'the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you' after a little while (1Pet 5:10), sealing the suffering theology of the entire letter with the certainty of final glory.",
+        "pt": "Pedro proclama a promessa doxológica de Deus ao crente que sofreu: 'o Deus de toda a graça, que em Cristo Jesus vos chamou para a sua glória eterna, depois que tiverdes sofrido um pouco, ele mesmo vos aperfeiçoará, confirmará, fortalecerá e estabelecerá' (1Pe 5:10), selando a teologia do sofrimento de toda a carta com a certeza da glória final."
+      },
+      "versiculoClave": "1P 5:10"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Wayne Grudem et al.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología sistemática",
+          "Resumen de capítulos",
+          "Versículos clave"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Systematic theology",
+          "Chapter summaries",
+          "Key verses"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia sistemática",
+          "Resumo dos capítulos",
+          "Versículos-chave"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible (Crossway, 2008) es la Biblia de estudio más influyente del evangelicalismo reformado contemporáneo, con más de 2 millones de copias vendidas. Fue editada por Wayne Grudem con contribuciones de más de 95 estudiosos de trayectoria reformada. Es el recurso estándar de referencia en seminarios reformados y conservadores de habla inglesa.",
+          "en": "The ESV Study Bible (Crossway, 2008) is the most influential study Bible in contemporary Reformed evangelicalism, with over two million copies sold. Edited by Wayne Grudem with contributions from over 95 Reformed scholars. It is the standard reference resource in Reformed and conservative English-speaking seminaries.",
+          "pt": "A ESV Study Bible (Crossway, 2008) é a Bíblia de estudo mais influente do evangelicalismo reformado contemporâneo, com mais de 2 milhões de cópias vendidas. Editada por Wayne Grudem com contribuições de mais de 95 estudiosos de tradição reformada. É o recurso padrão de referência nos seminários reformados e conservadores de língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas versículo por versículo, artículos temáticos extensos, mapas y gráficos, con un enfoque hermenéutico histórico-gramatical consistentemente evangélico y reformado. Cada libro bíblico recibe una introducción que cubre autor, fecha, destinatarios, propósito y teología.",
+          "en": "Combines verse-by-verse exegetical notes, extensive thematic articles, maps and charts, with a consistently evangelical and Reformed historical-grammatical hermeneutical approach. Each biblical book receives an introduction covering author, date, recipients, purpose, and theology.",
+          "pt": "Combina notas exegéticas versículo a versículo, artigos temáticos extensos, mapas e gráficos, com uma abordagem hermenêutica histórico-gramatical consistentemente evangélica e reformada. Cada livro bíblico recebe uma introdução cobrindo autor, data, destinatários, propósito e teologia."
+        },
+        "aportacion": {
+          "es": "Proporcionó la base exegética para el contexto histórico, las notas teológicas de los versículos clave y los resúmenes de los capítulos de 1 Pedro, particularmente para las secciones sobre la identidad eclesiológica del creyente (1P 2:9) y el sufrimiento cristiano (1P 4:12–19).",
+          "en": "Provided the exegetical basis for the historical context, theological notes on key verses, and chapter summaries of 1 Peter, particularly for sections on the believer's ecclesiological identity (1Pet 2:9) and Christian suffering (1Pet 4:12–19).",
+          "pt": "Forneceu a base exegética para o contexto histórico, as notas teológicas dos versículos-chave e os resumos dos capítulos de 1 Pedro, particularmente para as seções sobre a identidade eclesiológica do crente (1Pe 2:9) e o sofrimento cristão (1Pe 4:12–19)."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Reader's Bible (2016)",
+          "ESV Archaeology Study Bible (2018)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-none-case/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible (ESV)",
+      "autor": "R. C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Reformation Trust",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Distintivas reformadas",
+          "Anclas confesionales",
+          "Versículos clave"
+        ],
+        "en": [
+          "Systematic theology",
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Key verses"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Distintivas reformadas",
+          "Âncoras confessionais",
+          "Versículos-chave"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R. C. Sproul (1939–2017) fue uno de los teólogos reformados más importantes del siglo XX, fundador de Ligonier Ministries y profesor de teología sistemática. Su Biblia de Estudio de la Reforma es considerada la mejor Biblia de estudio reformada disponible en inglés, continuando la tradición de las Biblias de estudio de Ginebra.",
+          "en": "R. C. Sproul (1939–2017) was one of the most important Reformed theologians of the twentieth century, founder of Ligonier Ministries and professor of systematic theology. His Reformation Study Bible is considered the best Reformed study Bible available in English, continuing the tradition of the Geneva Study Bibles.",
+          "pt": "R. C. Sproul (1939–2017) foi um dos teólogos reformados mais importantes do século XX, fundador da Ligonier Ministries e professor de teologia sistemática. Sua Bíblia de Estudo da Reforma é considerada a melhor Bíblia de estudo reformada disponível em inglês, continuando a tradição das Bíblias de estudo de Genebra."
+        },
+        "metodo": {
+          "es": "La Biblia de Estudio de la Reforma prioriza explícitamente la hermenéutica reformada: teología del pacto, cristocentrismo del AT, las Cinco Solas, la Confesión de Westminster y los Cánones de Dort como marco doctrinal. Cada libro tiene una introducción y notas versículo a versículo que articulan las distintivas reformadas.",
+          "en": "The Reformation Study Bible explicitly prioritizes Reformed hermeneutics: covenant theology, OT Christocentrism, the Five Solas, the Westminster Confession and Canons of Dort as the doctrinal framework. Each book has an introduction and verse-by-verse notes that articulate the Reformed distinctives.",
+          "pt": "A Bíblia de Estudo da Reforma prioriza explicitamente a hermenêutica reformada: teologia do pacto, cristocentrismo do AT, as Cinco Solas, a Confissão de Westminster e os Cânones de Dort como marco doutrinário. Cada livro tem uma introdução e notas versículo a versículo que articulam as distintivas reformadas."
+        },
+        "aportacion": {
+          "es": "Fundamentó las secciones de teología sistemática y las distintivas reformadas de 1 Pedro, especialmente la elección incondicional (1P 1:1–2), la expiación sustitutiva (1P 3:18) y la perseverancia de los santos (1P 1:5), en coherencia con la WCF.",
+          "en": "Grounded the systematic theology sections and Reformed distinctives of 1 Peter, especially unconditional election (1Pet 1:1–2), substitutionary atonement (1Pet 3:18), and perseverance of the saints (1Pet 1:5), in consistency with the WCF.",
+          "pt": "Fundamentou as seções de teologia sistemática e as distintivas reformadas de 1 Pedro, especialmente a eleição incondicional (1Pe 1:1–2), a expiação substitutiva (1Pe 3:18) e a perseverança dos santos (1Pe 1:5), em coerência com a WCF."
+        },
+        "obras": [
+          "Reformation Study Bible ESV (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)",
+          "The Work of Christ (2012)"
+        ],
+        "url": "https://www.theopedia.com/r-c-sproul"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R. C. Sproul (ed. general)",
+      "año": 2021,
+      "editorial": "Ligonier Ministries / B&H Español",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Teología sistemática",
+          "Versículos clave en español",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Introduction",
+          "Systematic theology",
+          "Key verses in Spanish",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Introdução",
+          "Teologia sistemática",
+          "Versículos-chave em espanhol",
+          "Distintivas reformadas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La Biblia de Estudio de la Reforma en NBLA (2021) es la traducción al español de la Reformation Study Bible de R. C. Sproul, con la versión NBLA como texto base. Es el recurso de referencia primario para el estudio reformado en el mundo hispano, publicado por Ligonier Ministries en colaboración con B&H Español.",
+          "en": "The Reformation Study Bible in NBLA (2021) is the Spanish translation of R. C. Sproul's Reformation Study Bible, with the NBLA as its base text. It is the primary reference resource for Reformed study in the Spanish-speaking world, published by Ligonier Ministries in collaboration with B&H Español.",
+          "pt": "A Bíblia de Estudo da Reforma em NBLA (2021) é a tradução para o espanhol da Reformation Study Bible de R. C. Sproul, com a NBLA como texto base. É o recurso de referência primário para o estudo reformado no mundo hispânico, publicado pela Ligonier Ministries em colaboração com a B&H Español."
+        },
+        "metodo": {
+          "es": "Idéntico al de la edición inglesa pero con notas adaptadas al contexto hispano. Utiliza la NBLA (Nueva Biblia de las Américas), una traducción de equivalencia formal de alta fidelidad al texto original griego y hebreo. Incluye artículos doctrinales, notas exegéticas y resúmenes por libros escritos por teólogos reformados de habla hispana y traducidos del inglés.",
+          "en": "Identical to the English edition but with notes adapted to the Hispanic context. Uses the NBLA (Nueva Biblia de las Américas), a high-fidelity formal equivalence translation of the original Greek and Hebrew text. Includes doctrinal articles, exegetical notes, and book summaries by Reformed Spanish-speaking theologians and translated from English.",
+          "pt": "Idêntico ao da edição inglesa, mas com notas adaptadas ao contexto hispânico. Usa a NBLA (Nueva Biblia de las Américas), uma tradução de equivalência formal de alta fidelidade ao texto original grego e hebraico. Inclui artigos doutrinários, notas exegéticas e resumos por livros escritos por teólogos reformados de língua hispânica e traduzidos do inglês."
+        },
+        "aportacion": {
+          "es": "Proveyó los textos bíblicos en español (NBLA) para los versículos clave, los resúmenes de capítulos en español y la terminología teológica reformada en castellano utilizada en los campos de teología sistemática y anclas confesionales.",
+          "en": "Provided the Spanish (NBLA) biblical texts for key verses, Spanish chapter summaries, and the Reformed theological terminology in Spanish used in the systematic theology and confessional anchor fields.",
+          "pt": "Forneceu os textos bíblicos em espanhol (NBLA) para os versículos-chave, os resumos dos capítulos em espanhol e a terminologia teológica reformada em castelhano utilizada nos campos de teologia sistemática e âncoras confessionais."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2021)",
+          "La Santidad de Dios (trad. esp.)",
+          "¿Qué es la fe reformada? (trad. esp.)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan / IVP",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Soteriología",
+          "Eclesiología",
+          "Escatología",
+          "Elección",
+          "Anclas confesionales"
+        ],
+        "en": [
+          "Systematic theology",
+          "Soteriology",
+          "Ecclesiology",
+          "Eschatology",
+          "Election",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Soteriologia",
+          "Eclesiologia",
+          "Escatologia",
+          "Eleição",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem (1948–) es profesor emérito de Teología Bíblica y Sistemática en Phoenix Seminary. Es uno de los teólogos sistemáticos evangélicos más influyentes del mundo anglófono, conocido por articular la teología reformada con rigor exegético y claridad pedagógica. Su Teología Sistemática ha sido el libro de texto más usado en los seminarios evangélicos conservadores de habla inglesa durante décadas.",
+          "en": "Wayne Grudem (1948–) is professor emeritus of Biblical and Systematic Theology at Phoenix Seminary. He is one of the most influential evangelical systematic theologians in the English-speaking world, known for articulating Reformed theology with exegetical rigor and pedagogical clarity. His Systematic Theology has been the most widely used textbook in conservative evangelical English-speaking seminaries for decades.",
+          "pt": "Wayne Grudem (1948–) é professor emérito de Teologia Bíblica e Sistemática no Phoenix Seminary. É um dos teólogos sistemáticos evangélicos mais influentes do mundo anglófono, conhecido por articular a teologia reformada com rigor exegético e clareza pedagógica. Sua Teologia Sistemática tem sido o livro didático mais usado nos seminários evangélicos conservadores de língua inglesa por décadas."
+        },
+        "metodo": {
+          "es": "La metodología de Grudem combina exégesis versículo por versículo con síntesis doctrinal sistemática. Cada capítulo pregunta '¿Qué enseña la Biblia sobre X?' y recorre los textos clave antes de formular la doctrina. Es explícitamente reformada y calvinista en sus convicciones sobre elección, expiación y perseverancia.",
+          "en": "Grudem's methodology combines verse-by-verse exegesis with systematic doctrinal synthesis. Each chapter asks 'What does the Bible teach about X?' and surveys the key texts before formulating the doctrine. It is explicitly Reformed and Calvinist in its convictions about election, atonement, and perseverance.",
+          "pt": "A metodologia de Grudem combina exegese versículo a versículo com síntese doutrinária sistemática. Cada capítulo pergunta 'O que a Bíblia ensina sobre X?' e percorre os textos-chave antes de formular a doutrina. É explicitamente reformada e calvinista em suas convicções sobre eleição, expiação e perseverança."
+        },
+        "aportacion": {
+          "es": "Fundamentó las categorías de teología sistemática, las definiciones doctrinales y el vocabulario teológico preciso de los campos de Soteriología (expiación, regeneración), Eclesiología (el sacerdocio de todos los creyentes), y Escatología (escatología inaugurada) aplicados a 1 Pedro.",
+          "en": "Grounded the systematic theology categories, doctrinal definitions, and precise theological vocabulary in the Soteriology (atonement, regeneration), Ecclesiology (priesthood of all believers), and Eschatology (inaugurated eschatology) fields applied to 1 Peter.",
+          "pt": "Fundamentou as categorias de teologia sistemática, as definições doutrinárias e o vocabulário teológico preciso dos campos de Soteriologia (expiação, regeneração), Eclesiologia (sacerdócio de todos os crentes) e Escatologia (escatologia inaugurada) aplicados a 1 Pedro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "The First Epistle of Peter — NICNT (1988)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Recovering Biblical Manhood and Womanhood (1991)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Tipología",
+          "Enfoque cristológico",
+          "Contexto del pacto"
+        ],
+        "en": [
+          "Redemptive history",
+          "Typology",
+          "Christological focus",
+          "Covenant context"
+        ],
+        "pt": [
+          "História redentora",
+          "Tipologia",
+          "Enfoque cristológico",
+          "Contexto da aliança"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue profesor de Teología Bíblica en Princeton Theological Seminary durante 39 años (1893–1932) y es considerado el padre de la teología bíblica reformada moderna. Su obra estableció el marco hermenéutico de la historia redentora como progreso orgánico del plan de redención de Dios que culmina en Cristo.",
+          "en": "Geerhardus Vos (1862–1949) was professor of Biblical Theology at Princeton Theological Seminary for 39 years (1893–1932) and is considered the father of modern Reformed biblical theology. His work established the hermeneutical framework of redemptive history as the organic progress of God's plan of redemption culminating in Christ.",
+          "pt": "Geerhardus Vos (1862–1949) foi professor de Teologia Bíblica no Princeton Theological Seminary por 39 anos (1893–1932) e é considerado o pai da teologia bíblica reformada moderna. Sua obra estabeleceu o marco hermenêutico da história redentora como progresso orgânico do plano de redenção de Deus que culmina em Cristo."
+        },
+        "metodo": {
+          "es": "Vos lee el canon bíblico como una historia progresiva de la auto-revelación de Dios en el tiempo, con cada libro y época contribuyendo orgánicamente al cumplimiento en Cristo. Su método es histórico-bíblico: sigue la trama de la revelación a través de los pactos, los tipos y el cumplimiento escatológico.",
+          "en": "Vos reads the biblical canon as a progressive history of God's self-revelation in time, with each book and epoch contributing organically to its fulfillment in Christ. His method is historical-biblical: he follows the thread of revelation through covenants, types, and eschatological fulfillment.",
+          "pt": "Vos lê o cânon bíblico como uma história progressiva da auto-revelação de Deus no tempo, com cada livro e época contribuindo organicamente para o cumprimento em Cristo. Seu método é histórico-bíblico: segue o fio da revelação através das alianças, tipos e cumprimento escatológico."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco de historia redentora para entender la cristología de 1 Pedro (el patrón humillación-exaltación), la tipología (el Cordero Pascual, el Siervo Sufriente, el nuevo Israel) y la escatología inaugurada que da sentido al sufrimiento presente a la luz de la gloria futura.",
+          "en": "Provided the redemptive history framework for understanding 1 Peter's Christology (the humiliation-exaltation pattern), typology (the Passover Lamb, the Suffering Servant, the new Israel), and inaugurated eschatology that gives meaning to present suffering in light of future glory.",
+          "pt": "Forneceu o marco da história redentora para entender a cristologia de 1 Pedro (o padrão humilhação-exaltação), a tipologia (o Cordeiro Pascal, o Servo Sofredor, o novo Israel) e a escatologia inaugurada que dá sentido ao sofrimento presente à luz da glória futura."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Grace and Glory (1922)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The First Epistle of Peter (NICNT)",
+      "autor": "Wayne Grudem",
+      "año": 1988,
+      "editorial": "IVP Academic",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Autoría",
+          "Contexto histórico",
+          "Personajes",
+          "Teología sistemática",
+          "Resumen de capítulos",
+          "Controversias históricas"
+        ],
+        "en": [
+          "Authorship",
+          "Historical context",
+          "Characters",
+          "Systematic theology",
+          "Chapter summaries",
+          "Historical controversies"
+        ],
+        "pt": [
+          "Autoria",
+          "Contexto histórico",
+          "Personagens",
+          "Teologia sistemática",
+          "Resumo dos capítulos",
+          "Controvérsias históricas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es también el autor del comentario sobre 1 Pedro en la serie New International Commentary on the New Testament (NICNT), considerado el comentario académico reformado estándar sobre el libro. Combinando su formación en Cambridge (doctorado bajo F.F. Bruce) con sus convicciones reformadas, este comentario es la referencia académica primaria para 1 Pedro en el mundo evangélico anglófono.",
+          "en": "Wayne Grudem is also the author of the commentary on 1 Peter in the New International Commentary on the New Testament (NICNT) series, considered the standard Reformed academic commentary on the book. Combining his Cambridge training (PhD under F.F. Bruce) with his Reformed convictions, this commentary is the primary academic reference for 1 Peter in the English-speaking evangelical world.",
+          "pt": "Wayne Grudem é também o autor do comentário sobre 1 Pedro na série New International Commentary on the New Testament (NICNT), considerado o comentário acadêmico reformado padrão sobre o livro. Combinando sua formação em Cambridge (doutorado sob F.F. Bruce) com suas convicções reformadas, este comentário é a referência acadêmica primária para 1 Pedro no mundo evangélico anglófono."
+        },
+        "metodo": {
+          "es": "El comentario NICNT de Grudem sigue el texto griego versículo por versículo, tratando las cuestiones de crítica textual, semántica léxica e intertextualidad con el AT, mientras aplica coherentemente la hermenéutica reformada. Es especialmente fuerte en la defensa de la autoría petrina y en el análisis de la eclesiología de 1P 2:4–10.",
+          "en": "Grudem's NICNT commentary follows the Greek text verse by verse, addressing questions of textual criticism, lexical semantics, and intertextuality with the OT, while consistently applying Reformed hermeneutics. It is especially strong in defending Petrine authorship and in analyzing the ecclesiology of 1Pet 2:4–10.",
+          "pt": "O comentário NICNT de Grudem segue o texto grego versículo a versículo, tratando as questões de crítica textual, semântica lexical e intertextualidade com o AT, enquanto aplica consistentemente a hermenêutica reformada. É especialmente forte na defesa da autoria petrina e na análise da eclesiologia de 1Pe 2:4–10."
+        },
+        "aportacion": {
+          "es": "Es la fuente principal para los datos de autoría, los personajes (Pedro, Silvano, Marcos), el análisis del contexto histórico romano y de la diáspora, y la exégesis detallada de los versículos clave de 1 Pedro, especialmente 1P 1:1–2, 1P 2:9 y 1P 3:18–22.",
+          "en": "This is the primary source for authorship data, the characters (Peter, Silvanus, Mark), the analysis of the Roman and diaspora historical context, and the detailed exegesis of 1 Peter's key verses, especially 1Pet 1:1–2, 1Pet 2:9, and 1Pet 3:18–22.",
+          "pt": "Esta é a fonte principal para os dados de autoria, os personagens (Pedro, Silvano, Marcos), a análise do contexto histórico romano e da diáspora, e a exegese detalhada dos versículos-chave de 1 Pedro, especialmente 1Pe 1:1–2, 1Pe 2:9 e 1Pe 3:18–22."
+        },
+        "obras": [
+          "The First Epistle of Peter — NICNT (1988)",
+          "Systematic Theology (1994)",
+          "The Gift of Prophecy in the New Testament and Today (1988)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "IVP Academic",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Civilizaciones",
+          "Arqueología",
+          "Contexto greco-romano"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Civilizations",
+          "Archaeology",
+          "Greco-Roman context"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Civilizações",
+          "Arqueologia",
+          "Contexto greco-romano"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener (1960–) es profesor de Teología del NT en Asbury Theological Seminary y uno de los especialistas más prolíficos en el trasfondo histórico y cultural del NT. Es conocido por sus comentarios masivos y exhaustivos sobre Mateo, Juan, Hechos y Romanos, que han establecido el estándar para la integración del contexto judío y greco-romano en la exégesis neotestamentaria.",
+          "en": "Craig S. Keener (1960–) is professor of NT Theology at Asbury Theological Seminary and one of the most prolific specialists in the historical and cultural background of the NT. He is known for his massive, exhaustive commentaries on Matthew, John, Acts, and Romans, which have set the standard for integrating Jewish and Greco-Roman context in NT exegesis.",
+          "pt": "Craig S. Keener (1960–) é professor de Teologia do NT no Asbury Theological Seminary e um dos especialistas mais prolíficos em contexto histórico e cultural do NT. É conhecido por seus comentários massivos e exaustivos sobre Mateus, João, Atos e Romanos, que estabeleceram o padrão para a integração do contexto judaico e greco-romano na exegese neotestamentária."
+        },
+        "metodo": {
+          "es": "El método de Keener consiste en citar ampliamente fuentes primarias greco-romanas, judías (LXX, Josefo, Filón, literatura rabínica) y papiros para iluminar el texto del NT en su contexto original. El IVP Bible Background Commentary es el recurso más accesible de este enfoque para el estudio de cada libro del NT.",
+          "en": "Keener's method consists in extensively citing Greco-Roman, Jewish (LXX, Josephus, Philo, rabbinic literature), and papyrus primary sources to illuminate the NT text in its original context. The IVP Bible Background Commentary is the most accessible resource of this approach for studying each NT book.",
+          "pt": "O método de Keener consiste em citar amplamente fontes primárias greco-romanas, judaicas (LXX, Josefo, Fílon, literatura rabínica) e papiros para iluminar o texto do NT em seu contexto original. O IVP Bible Background Commentary é o recurso mais acessível dessa abordagem para o estudo de cada livro do NT."
+        },
+        "aportacion": {
+          "es": "Aportó el contexto histórico greco-romano para 1 Pedro: el culto imperial en Asia Menor, el sistema de clientes y patrones, el estatus social de los 'forasteros y peregrinos' en las ciudades romanas, y el uso de la LXX por parte de Pedro en sus citas del AT.",
+          "en": "Contributed the Greco-Roman historical context for 1 Peter: the imperial cult in Asia Minor, the patron-client system, the social status of 'strangers and exiles' in Roman cities, and Peter's use of the LXX in his OT citations.",
+          "pt": "Contribuiu com o contexto histórico greco-romano para 1 Pedro: o culto imperial na Ásia Menor, o sistema de patrocinador-cliente, o status social dos 'estrangeiros e peregrinos' nas cidades romanas, e o uso da LXX por Pedro em suas citações do AT."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: NT (1993)",
+          "Commentary on the Gospel of John (1993)",
+          "Acts: NICNT (2012–2015)",
+          "Romans (NICNT, 2019)"
+        ],
+        "url": "https://www.theopedia.com/craig-keener"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "validado",
+    "confianza": 0.82,
+    "camposMarcados": [
+      {
+        "campo": "contextoHistorico.fuentesANE",
+        "razon": "1 Pedro es un libro del NT; el campo fuentesANE se deja vacío porque las fuentes ANE (Oriente Próximo Antiguo) no son relevantes para un libro neotestamentario. Se incluye el campo como array vacío para cumplir con el esquema.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-25"
+      },
+      {
+        "campo": "personajes[Jesucristo].rol",
+        "razon": "Jesucristo no es un personaje narrativo en una epístola sino el sujeto teológico central. Se usó el rol 'tipo' para reflejar su función tipológica en relación con el AT, aunque en sentido estricto es el antitipo definitivo. La clasificación es convencional dentro del esquema.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-25"
+      },
+      {
+        "campo": "contextoHistorico.arqueologia",
+        "razon": "El campo de arqueología para 1 Pedro se basó en conocimiento interno sobre las excavaciones en Éfeso, Pérgamo y el Vaticano, y en la carta de Plinio a Trajano (fuente extrabiblica primaria). No se consultaron bases de datos arqueológicas en línea directamente.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-25"
+      },
+      {
+        "campo": "versiculosClave[].es/.en/.pt",
+        "razon": "Los textos de los versículos clave en NBLA, ESV y ARC se reprodujeron desde conocimiento interno. Se recomienda verificar la exactitud textual contra las versiones publicadas, especialmente para la NBLA y ARC.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-25"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-25",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.3.0",
+      "rol": "editor",
+      "fechaRevision": "2026-06-25"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-25",
+          "fechaFin": "2026-06-25",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-25",
+          "fechaFin": "2026-06-25",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-25",
+          "fechaFin": "2026-06-25",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-25",
+          "fechaFin": "2026-06-25",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-25",
+          "fechaFin": "2026-06-25",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
