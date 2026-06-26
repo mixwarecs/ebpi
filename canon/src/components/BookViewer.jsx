@@ -243,6 +243,10 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           0%, 100% { opacity: 0.3; transform: translateX(0); }
           50% { opacity: 0.9; transform: translateX(4px); }
         }
+        @keyframes sheetUp {
+          from { transform: translateY(100%); opacity: 0; }
+          to   { transform: translateY(0);    opacity: 1; }
+        }
         nav::-webkit-scrollbar { display: none; }
       `}</style>
       <div style={GS.topBar} />
@@ -387,6 +391,9 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
       {activeChar && (
         <div style={GS.overlay(true)} onClick={e => { if (e.target === e.currentTarget) setActiveChar(null); }}>
           <div style={GS.popupCard}>
+            <div style={{display:"flex", justifyContent:"center", padding:"10px 0 4px"}}>
+              <div style={{width:36, height:4, borderRadius:2, background:"rgba(201,168,76,0.3)"}} />
+            </div>
             <button style={GS.closeBtn} onClick={() => setActiveChar(null)}>✕</button>
             <div style={GS.popupHeader}>
               <div style={GS.popupAvatar(activeChar.color)}>{activeChar.init}</div>
