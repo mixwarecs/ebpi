@@ -363,7 +363,11 @@
     "id": "pedro",
     "color": "#1B5E8B",
     "init": "ΠΠ",
-    "xCh": 2,
+    "xCh": {
+      "Lc": 2,
+      "Hch": 2,
+      "Mt": 16
+    },
     "side": "above",
     "badge": {
       "es": "APÓSTOL LÍDER",
@@ -483,7 +487,11 @@
     "id": "jesus-juan",
     "color": "#C9A84C",
     "init": "Ιη",
-    "xCh": 10,
+    "xCh": {
+      "Jn": 10,
+      "Lc": 4,
+      "Mt": 3
+    },
     "side": "above",
     "badge": {
       "es": "EL VERBO ENCARNADO",
@@ -495,7 +503,11 @@
     "id": "juan-bautista",
     "color": "#1B5E8B",
     "init": "Ιω",
-    "xCh": 1,
+    "xCh": {
+      "Lc": 1,
+      "Jn": 1,
+      "Mt": 3
+    },
     "side": "above",
     "badge": {
       "es": "PRECURSOR DEL MESÍAS",
@@ -543,7 +555,11 @@
     "id": "pilato",
     "color": "#7A1E1E",
     "init": "Πι",
-    "xCh": 18,
+    "xCh": {
+      "Lc": 18,
+      "Jn": 18,
+      "Mt": 27
+    },
     "side": "below",
     "badge": {
       "es": "PREFECTO DE JUDEA",
@@ -579,7 +595,11 @@
     "id": "judas",
     "color": "#4A3A1E",
     "init": "Ιδ",
-    "xCh": 13,
+    "xCh": {
+      "Lc": 13,
+      "Jn": 13,
+      "Mt": 26
+    },
     "side": "below",
     "badge": {
       "es": "HIJO DE PERDICIÓN",
@@ -591,7 +611,10 @@
     "id": "andres",
     "color": "#1E6B5E",
     "init": "Αν",
-    "xCh": 1,
+    "xCh": {
+      "Jn": 1,
+      "Lc": 6
+    },
     "side": "below",
     "badge": {
       "es": "EVANGELIZADOR PUENTE",
@@ -627,7 +650,11 @@
     "id": "maria-magdalena",
     "color": "#8B3A6B",
     "init": "ΜΜ",
-    "xCh": 20,
+    "xCh": {
+      "Lc": 20,
+      "Jn": 20,
+      "Mt": 28
+    },
     "side": "below",
     "badge": {
       "es": "PRIMERA TESTIGO",
@@ -669,6 +696,744 @@
       "es": "DEVOCIÓN EXTRAVAGANTE",
       "en": "EXTRAVAGANT DEVOTION",
       "pt": "DEVOÇÃO EXTRAVAGANTE"
+    }
+  },
+  "María": {
+    "id": "maria-lc",
+    "color": "#6B4F8B",
+    "init": "Μα",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "SIERVA DEL SEÑOR",
+      "en": "HANDMAID OF THE LORD",
+      "pt": "SERVA DO SENHOR"
+    }
+  },
+  "Zacarías": {
+    "id": "zacarias",
+    "color": "#5A4A2A",
+    "init": "Ζα",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "SACERDOTE Y PROFETA",
+      "en": "PRIEST AND PROPHET",
+      "pt": "SACERDOTE E PROFETA"
+    }
+  },
+  "Simeón": {
+    "id": "simeon",
+    "color": "#3A6B5A",
+    "init": "Συ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "TESTIGO DEL MESÍAS",
+      "en": "WITNESS OF THE MESSIAH",
+      "pt": "TESTEMUNHA DO MESSIAS"
+    }
+  },
+  "Zaqueo": {
+    "id": "zaqueo",
+    "color": "#8B6A2A",
+    "init": "Ζκ",
+    "xCh": 19,
+    "side": "above",
+    "badge": {
+      "es": "PUBLICANO ARREPENTIDO",
+      "en": "REPENTANT TAX COLLECTOR",
+      "pt": "PUBLICANO ARREPENDIDO"
+    }
+  },
+  "Herodes Antipas": {
+    "id": "herodes-antipas",
+    "color": "#7A2A4A",
+    "init": "Ηρ",
+    "xCh": {
+      "Lc": 3,
+      "Mt": 14
+    },
+    "side": "above",
+    "badge": {
+      "es": "TETRARCA DE GALILEA",
+      "en": "TETRARCH OF GALILEE",
+      "pt": "TETRARCA DA GALILEIA"
+    }
+  },
+  "Elisabet": {
+    "id": "elisabet",
+    "color": "#4A6B5A",
+    "init": "Ελ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "MADRE DEL PRECURSOR",
+      "en": "MOTHER OF THE FORERUNNER",
+      "pt": "MÃE DO PRECURSOR"
+    }
+  },
+  "Ana la profetisa": {
+    "id": "ana-profetisa",
+    "color": "#6B5A2A",
+    "init": "Άν",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "PROFETISA DEL TEMPLO",
+      "en": "TEMPLE PROPHETESS",
+      "pt": "PROFETISA DO TEMPLO"
+    }
+  },
+  "Jacobo, hijo de Zebedeo": {
+    "id": "jacobo-zebedeo",
+    "color": "#2A4A7A",
+    "init": "Ιζ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "TESTIGO DE LA GLORIA",
+      "en": "WITNESS OF GLORY",
+      "pt": "TESTEMUNHA DA GLÓRIA"
+    }
+  },
+  "Juan, hijo de Zebedeo": {
+    "id": "juan-zebedeo",
+    "color": "#3A5A9B",
+    "init": "Ἰω",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "HIJO DEL TRUENO",
+      "en": "SON OF THUNDER",
+      "pt": "FILHO DO TROVÃO"
+    }
+  },
+  "Mateo (Leví)": {
+    "id": "mateo-levi",
+    "color": "#8B4A1E",
+    "init": "Μθ",
+    "xCh": {
+      "Lc": 5,
+      "Mt": 9
+    },
+    "side": "below",
+    "badge": {
+      "es": "PUBLICANO LLAMADO",
+      "en": "CALLED TAX COLLECTOR",
+      "pt": "PUBLICANO CHAMADO"
+    }
+  },
+  "José (esposo de María)": {
+    "id": "jose-esposo-maria",
+    "color": "#4A6B4A",
+    "init": "Ιω",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PADRE LEGAL DE JESÚS",
+      "en": "LEGAL FATHER OF JESUS",
+      "pt": "PAI LEGAL DE JESUS"
+    }
+  },
+  "Los Magos": {
+    "id": "magos",
+    "color": "#8B6F2A",
+    "init": "Μγ",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "SABIOS DE ORIENTE",
+      "en": "WISE MEN FROM THE EAST",
+      "pt": "SÁBIOS DO ORIENTE"
+    }
+  },
+  "Herodes el Grande": {
+    "id": "herodes-grande",
+    "color": "#8B3A2A",
+    "init": "Ηγ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "TIRANO DE BELÉN",
+      "en": "TYRANT OF BETHLEHEM",
+      "pt": "TIRANO DE BELÉM"
+    }
+  },
+  "Herodías": {
+    "id": "herodias",
+    "color": "#5A1A3A",
+    "init": "Ηδ",
+    "xCh": 14,
+    "side": "below",
+    "badge": {
+      "es": "INSTIGADORA DEL CRIMEN",
+      "en": "INSTIGATOR OF THE CRIME",
+      "pt": "INSTIGADORA DO CRIME"
+    }
+  },
+  "La mujer cananea": {
+    "id": "mujer-cananea",
+    "color": "#3A7A6B",
+    "init": "Χα",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "FE GENTIL EJEMPLAR",
+      "en": "EXEMPLARY GENTILE FAITH",
+      "pt": "FÉ GENTIA EXEMPLAR"
+    }
+  },
+  "Caifás": {
+    "id": "caifas",
+    "color": "#2A3A6B",
+    "init": "Κφ",
+    "xCh": 26,
+    "side": "above",
+    "badge": {
+      "es": "SUMO SACERDOTE",
+      "en": "HIGH PRIEST",
+      "pt": "SUMO SACERDOTE"
+    }
+  },
+  "Barrabás": {
+    "id": "barrabas",
+    "color": "#5A4A3A",
+    "init": "Βρ",
+    "xCh": 27,
+    "side": "above",
+    "badge": {
+      "es": "EL CULPABLE LIBERADO",
+      "en": "THE GUILTY ONE FREED",
+      "pt": "O CULPADO LIBERTO"
+    }
+  },
+  "Simón de Cirene": {
+    "id": "simon-cirene",
+    "color": "#C06A1A",
+    "init": "Σκ",
+    "xCh": 27,
+    "side": "below",
+    "badge": {
+      "es": "PORTADOR DE LA CRUZ",
+      "en": "BEARER OF THE CROSS",
+      "pt": "PORTADOR DA CRUZ"
+    }
+  },
+  "José de Arimatea": {
+    "id": "jose-arimatea",
+    "color": "#2A5A5A",
+    "init": "Ἰα",
+    "xCh": 28,
+    "side": "above",
+    "badge": {
+      "es": "DISCÍPULO SECRETO",
+      "en": "SECRET DISCIPLE",
+      "pt": "DISCÍPULO SECRETO"
+    }
+  },
+  "Santiago y Juan (hijos de Zebedeo)": {
+    "id": "santiago-juan-zebedeo",
+    "color": "#3A5A8A",
+    "init": "Βρ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "HIJOS DEL TRUENO",
+      "en": "SONS OF THUNDER",
+      "pt": "FILHOS DO TROVÃO"
+    }
+  },
+  "Caifás (el sumo sacerdote)": {
+    "id": "caifas",
+    "color": "#2A3A6B",
+    "init": "Κφ",
+    "xCh": 14,
+    "side": "below",
+    "badge": {
+      "es": "SUMO SACERDOTE",
+      "en": "HIGH PRIEST",
+      "pt": "SUMO SACERDOTE"
+    }
+  },
+  "El endemoniado gadareno": {
+    "id": "endemoniado-gadareno",
+    "color": "#5A2A6B",
+    "init": "Γε",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "LIBERADO POR CRISTO",
+      "en": "LIBERATED BY CHRIST",
+      "pt": "LIBERTADO POR CRISTO"
+    }
+  },
+  "Bartimeo": {
+    "id": "bartimeo",
+    "color": "#8B6A2A",
+    "init": "Βτ",
+    "xCh": 10,
+    "side": "above",
+    "badge": {
+      "es": "FE QUE VE",
+      "en": "FAITH THAT SEES",
+      "pt": "FÉ QUE VÊ"
+    }
+  },
+  "El joven rico": {
+    "id": "joven-rico",
+    "color": "#7A6A1A",
+    "init": "Νσ",
+    "xCh": 10,
+    "side": "below",
+    "badge": {
+      "es": "CORAZÓN DIVIDIDO",
+      "en": "DIVIDED HEART",
+      "pt": "CORAÇÃO DIVIDIDO"
+    }
+  },
+  "La mujer con flujo de sangre": {
+    "id": "mujer-flujo-sangre",
+    "color": "#8B2A4A",
+    "init": "Αμ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "FE QUE TOCA",
+      "en": "FAITH THAT TOUCHES",
+      "pt": "FÉ QUE TOCA"
+    }
+  },
+  "El centurión romano": {
+    "id": "centurion-romano",
+    "color": "#7A1E2E",
+    "init": "Κε",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "CONFESIÓN GENTIL",
+      "en": "GENTILE CONFESSION",
+      "pt": "CONFISSÃO GENTÍLICA"
+    }
+  },
+  "Otoniel": {
+    "id": "otoniel",
+    "color": "#3A6B40",
+    "init": "עת",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "JUEZ ARQUETIPO",
+      "en": "ARCHETYPE JUDGE",
+      "pt": "JUIZ ARQUÉTIPO"
+    }
+  },
+  "Ehúd": {
+    "id": "ehud",
+    "color": "#8B5A30",
+    "init": "אה",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "LIBERTADOR ZURDO",
+      "en": "LEFT-HANDED DELIVERER",
+      "pt": "LIBERTADOR CANHOTO"
+    }
+  },
+  "Débora": {
+    "id": "debora",
+    "color": "#2A6B7A",
+    "init": "דב",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "PROFETISA Y JUEZA",
+      "en": "PROPHETESS AND JUDGE",
+      "pt": "PROFETISA E JUÍZA"
+    }
+  },
+  "Barac": {
+    "id": "barac",
+    "color": "#2A5A6A",
+    "init": "בר",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "GENERAL DE FE",
+      "en": "GENERAL OF FAITH",
+      "pt": "GENERAL DA FÉ"
+    }
+  },
+  "Jael": {
+    "id": "jael",
+    "color": "#7A3A5A",
+    "init": "יא",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "INSTRUMENTO DE DIOS",
+      "en": "GOD'S INSTRUMENT",
+      "pt": "INSTRUMENTO DE DEUS"
+    }
+  },
+  "Gedeón": {
+    "id": "gedeon",
+    "color": "#8B7A2A",
+    "init": "גד",
+    "xCh": 6,
+    "side": "below",
+    "badge": {
+      "es": "GUERRERO DE DIOS",
+      "en": "GOD'S WARRIOR",
+      "pt": "GUERREIRO DE DEUS"
+    }
+  },
+  "Abimelec": {
+    "id": "abimelec",
+    "color": "#5A2A2A",
+    "init": "אמ",
+    "xCh": 9,
+    "side": "above",
+    "badge": {
+      "es": "REY USURPADOR",
+      "en": "USURPER KING",
+      "pt": "REI USURPADOR"
+    }
+  },
+  "Jotam": {
+    "id": "jotam",
+    "color": "#5A7A4A",
+    "init": "יו",
+    "xCh": 9,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA SOLITARIO",
+      "en": "SOLITARY PROPHET",
+      "pt": "PROFETA SOLITÁRIO"
+    }
+  },
+  "Jefté": {
+    "id": "jefte",
+    "color": "#4A5A8B",
+    "init": "יפ",
+    "xCh": 11,
+    "side": "above",
+    "badge": {
+      "es": "JUEZ RECHAZADO",
+      "en": "REJECTED JUDGE",
+      "pt": "JUIZ REJEITADO"
+    }
+  },
+  "Sansón": {
+    "id": "sanson",
+    "color": "#9B6A1B",
+    "init": "שמ",
+    "xCh": 13,
+    "side": "below",
+    "badge": {
+      "es": "NAZAREO DE DIOS",
+      "en": "NAZIRITE OF GOD",
+      "pt": "NAZIREU DE DEUS"
+    }
+  },
+  "Elimelec": {
+    "id": "elimelec",
+    "color": "#6B5A3A",
+    "init": "אל",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "ESPOSO DE NOEMÍ",
+      "en": "NAOMI'S HUSBAND",
+      "pt": "MARIDO DE NOEMI"
+    }
+  },
+  "Orfa": {
+    "id": "orpa",
+    "color": "#9B7A4A",
+    "init": "ער",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "NUERA DE NOEMÍ",
+      "en": "NAOMI'S DAUGHTER-IN-LAW",
+      "pt": "NORA DE NOEMI"
+    }
+  },
+  "Noemí": {
+    "id": "noemi",
+    "color": "#5A8B6A",
+    "init": "נע",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "ISRAELITA RESTAURADA",
+      "en": "RESTORED ISRAELITE",
+      "pt": "ISRAELITA RESTAURADA"
+    }
+  },
+  "Rut": {
+    "id": "rut",
+    "color": "#8B4A6B",
+    "init": "רו",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "HIJA DEL PACTO",
+      "en": "COVENANT DAUGHTER",
+      "pt": "FILHA DA ALIANÇA"
+    }
+  },
+  "Boaz": {
+    "id": "boaz",
+    "color": "#2A5A8B",
+    "init": "בע",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "PARIENTE REDENTOR",
+      "en": "KINSMAN-REDEEMER",
+      "pt": "PARENTE REMIDOR"
+    }
+  },
+  "Elcana": {
+    "id": "elcana",
+    "color": "#7A5A3A",
+    "init": "אל",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "LEVITA FIEL",
+      "en": "FAITHFUL LEVITE",
+      "pt": "LEVITA FIEL"
+    }
+  },
+  "Penina": {
+    "id": "penina",
+    "color": "#7A5A6B",
+    "init": "פנ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "RIVAL DE ANA",
+      "en": "HANNAH'S RIVAL",
+      "pt": "RIVAL DE ANA"
+    }
+  },
+  "Ana": {
+    "id": "ana-samuel",
+    "color": "#9B4A6B",
+    "init": "חנ",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "MADRE DE SAMUEL",
+      "en": "MOTHER OF SAMUEL",
+      "pt": "MÃE DE SAMUEL"
+    }
+  },
+  "Elí": {
+    "id": "eli",
+    "color": "#6B5A2A",
+    "init": "על",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "SUMO SACERDOTE",
+      "en": "HIGH PRIEST",
+      "pt": "SUMO SACERDOTE"
+    }
+  },
+  "Hophni y Finees": {
+    "id": "hofni-finees",
+    "color": "#7A2A2A",
+    "init": "חפ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "SACERDOTES CORRUPTOS",
+      "en": "CORRUPT PRIESTS",
+      "pt": "SACERDOTES CORRUPTOS"
+    }
+  },
+  "Samuel": {
+    "id": "samuel",
+    "color": "#2A7A7A",
+    "init": "שמ",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA Y JUEZ",
+      "en": "PROPHET AND JUDGE",
+      "pt": "PROFETA E JUIZ"
+    }
+  },
+  "Saúl": {
+    "id": "saul",
+    "color": "#4A5A6A",
+    "init": "שא",
+    "xCh": 9,
+    "side": "above",
+    "badge": {
+      "es": "PRIMER REY",
+      "en": "FIRST KING",
+      "pt": "PRIMEIRO REI"
+    }
+  },
+  "Jonatán": {
+    "id": "jonatan",
+    "color": "#2A6B3A",
+    "init": "יו",
+    "xCh": 14,
+    "side": "below",
+    "badge": {
+      "es": "HIJO DE SAÚL",
+      "en": "SON OF SAUL",
+      "pt": "FILHO DE SAUL"
+    }
+  },
+  "David": {
+    "id": "david",
+    "color": "#2A4A8B",
+    "init": "דו",
+    "xCh": 16,
+    "side": "above",
+    "badge": {
+      "es": "REY UNGIDO",
+      "en": "ANOINTED KING",
+      "pt": "REI UNGIDO"
+    }
+  },
+  "Goliat": {
+    "id": "goliat",
+    "color": "#8B2A2A",
+    "init": "גל",
+    "xCh": 17,
+    "side": "below",
+    "badge": {
+      "es": "GUERRERO FILISTEO",
+      "en": "PHILISTINE WARRIOR",
+      "pt": "GUERREIRO FILISTEU"
+    }
+  },
+  "Mical": {
+    "id": "mical",
+    "color": "#6B3A7A",
+    "init": "מכ",
+    "xCh": 18,
+    "side": "above",
+    "badge": {
+      "es": "HIJA DE SAÚL",
+      "en": "DAUGHTER OF SAUL",
+      "pt": "FILHA DE SAUL"
+    }
+  },
+  "Doeg el Edomita": {
+    "id": "doeg",
+    "color": "#6B1A1A",
+    "init": "דא",
+    "xCh": 21,
+    "side": "below",
+    "badge": {
+      "es": "TRAIDOR EDOMITA",
+      "en": "EDOMITE BETRAYER",
+      "pt": "TRAIDOR EDOMITA"
+    }
+  },
+  "Nabal": {
+    "id": "nabal",
+    "color": "#6B4A1A",
+    "init": "נב",
+    "xCh": 25,
+    "side": "above",
+    "badge": {
+      "es": "HOMBRE NECIO",
+      "en": "FOOLISH MAN",
+      "pt": "HOMEM INSENSATO"
+    }
+  },
+  "Abigail": {
+    "id": "abigail",
+    "color": "#3A7A5A",
+    "init": "אב",
+    "xCh": 26,
+    "side": "below",
+    "badge": {
+      "es": "MUJER SABIA",
+      "en": "WISE WOMAN",
+      "pt": "MULHER SÁBIA"
+    }
+  },
+  "Aquis, rey de Gat": {
+    "id": "aquis",
+    "color": "#3A4A6B",
+    "init": "אכ",
+    "xCh": 27,
+    "side": "above",
+    "badge": {
+      "es": "REY FILISTEO",
+      "en": "PHILISTINE KING",
+      "pt": "REI FILISTEU"
+    }
+  },
+  "La médium de Endor": {
+    "id": "medium-endor",
+    "color": "#5A3A5A",
+    "init": "בא",
+    "xCh": 28,
+    "side": "below",
+    "badge": {
+      "es": "MÉDIUM DE ENDOR",
+      "en": "MEDIUM OF ENDOR",
+      "pt": "MÉDIUM DE ENDOR"
+    }
+  },
+  "Pedro (Apóstol)": {
+    "id": "pedro-apostol",
+    "color": "#1B5E8B",
+    "init": "ΠΕ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "APÓSTOL · AUTOR",
+      "en": "APOSTLE · AUTHOR",
+      "pt": "APÓSTOLO · AUTOR"
+    }
+  },
+  "Silvano": {
+    "id": "silvano",
+    "color": "#7A6B5A",
+    "init": "ΣΙ",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "AMANUENSE",
+      "en": "AMANUENSIS",
+      "pt": "AMANUENSE"
+    }
+  },
+  "Marcos": {
+    "id": "marcos",
+    "color": "#5A7A8B",
+    "init": "ΜΑ",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "COLABORADOR",
+      "en": "CO-WORKER",
+      "pt": "COLABORADOR"
+    }
+  },
+  "Tíquico": {
+    "id": "tiquico",
+    "color": "#5A7A8B",
+    "init": "Τυ",
+    "xCh": 6,
+    "side": "above",
+    "badge": {
+      "es": "MENSAJERO APOSTÓLICO",
+      "en": "APOSTOLIC MESSENGER",
+      "pt": "MENSAGEIRO APOSTÓLICO"
     }
   }
 }

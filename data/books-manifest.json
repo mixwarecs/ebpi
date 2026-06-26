@@ -699,7 +699,8 @@
       "ordenCanon": 7,
       "capitulosTotal": 21,
       "divisionColor": "#1B5E8B",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "judges.json",
       "razon": {
         "es": "El ciclo de apostasía-opresión-clamor-liberación bajo jueces carismáticos, documentando la anarquía espiritual de 'cada uno hacía lo que bien le parecía' sin un rey fiel.",
         "en": "The cycle of apostasy-oppression-cry-deliverance under charismatic judges, documenting the spiritual anarchy of 'everyone did what was right in their own eyes' without a faithful king.",
@@ -719,12 +720,13 @@
       "ordenCanon": 8,
       "capitulosTotal": 4,
       "divisionColor": "#1B5E8B",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Una historia de lealtad pactual (hesed) ambientada en el período de los jueces, que culmina en la genealogía davídica — y por tanto mesiánica.",
         "en": "A story of covenantal loyalty (hesed) set in the period of the judges, culminating in the Davidic — and therefore messianic — genealogy.",
         "pt": "Uma história de lealdade pactual (hesed) ambientada no período dos juízes, que culmina na genealogia davídica — e, portanto, messiânica."
-      }
+      },
+      "dataFile": "ruth.json"
     },
     {
       "id": 9,
@@ -739,7 +741,8 @@
       "ordenCanon": 9,
       "capitulosTotal": 31,
       "divisionColor": "#1B5E8B",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "1samuel.json",
       "razon": {
         "es": "La transición de jueces a monarquía: el rechazo del liderazgo carismático, la unción de Saúl y su fracaso, y el ascenso de David.",
         "en": "The transition from judges to monarchy: the rejection of charismatic leadership, the anointing of Saul and his failure, and the rise of David.",
@@ -1359,7 +1362,8 @@
       "ordenCanon": 40,
       "capitulosTotal": 28,
       "divisionColor": "#C9A84C",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "matthew.json",
       "razon": {
         "es": "Escrito para una audiencia judía, demuestra sistemáticamente que Jesús cumple la Ley y los profetas como el Mesías davídico prometido; estructura el Sermón del Monte como la nueva Torá del Reino.",
         "en": "Written for a Jewish audience, it systematically demonstrates that Jesus fulfills the Law and the prophets as the promised Davidic Messiah; it structures the Sermon on the Mount as the new Torah of the Kingdom.",
@@ -1400,7 +1404,8 @@
       "ordenCanon": 42,
       "capitulosTotal": 24,
       "divisionColor": "#C9A84C",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "luke.json",
       "razon": {
         "es": "Escrito por un médico gentil con rigor historiográfico (Lc 1:1-4), enfatiza la compasión de Cristo hacia pobres, mujeres, samaritanos y pecadores marginados.",
         "en": "Written by a Gentile physician with historiographic rigor (Luke 1:1-4), it emphasizes Christ's compassion toward the poor, women, Samaritans, and marginalized sinners.",
@@ -1543,12 +1548,13 @@
       "ordenCanon": 49,
       "capitulosTotal": 6,
       "divisionColor": "#6B5B95",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La epístola de la iglesia: expone el misterio de la unidad judeo-gentil en el cuerpo de Cristo, la armadura espiritual y la vida familiar cristiana. Geerhardus Vos la llama la 'catedral de las epístolas'.",
         "en": "The epistle of the church: expounds the mystery of Jewish-Gentile unity in the body of Christ, the spiritual armor, and Christian family life. Geerhardus Vos calls it the 'cathedral of the epistles'.",
         "pt": "A epístola da igreja: expõe o mistério da unidade judeu-gentia no corpo de Cristo, a armadura espiritual e a vida familiar cristã. Geerhardus Vos a chama de 'catedral das epístolas'."
-      }
+      },
+      "dataFile": "ephesians.json"
     },
     {
       "id": 50,
@@ -1763,12 +1769,13 @@
       "ordenCanon": 60,
       "capitulosTotal": 5,
       "divisionColor": "#8B6914",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Escrita a los 'extranjeros dispersos' bajo persecución (probablemente neroniana), presenta a los creyentes como el nuevo pueblo peregrino de Dios y desarrolla la doctrina de la piedra angular rechazada/elegida como fundamento de la identidad eclesial.",
         "en": "Written to the 'elect exiles of the Dispersion' under persecution (probably Neronian), presents believers as God's new pilgrim people and develops the doctrine of the rejected/chosen cornerstone as the foundation of ecclesial identity.",
         "pt": "Escrita aos 'estrangeiros dispersos' sob perseguição (provavelmente neroniana), apresenta os crentes como o novo povo peregrino de Deus e desenvolve a doutrina da pedra angular rejeitada/eleita como fundamento da identidade eclesial."
-      }
+      },
+      "dataFile": "1peter.json"
     },
     {
       "id": 61,

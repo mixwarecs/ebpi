@@ -1548,12 +1548,13 @@
       "ordenCanon": 49,
       "capitulosTotal": 6,
       "divisionColor": "#6B5B95",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La epístola de la iglesia: expone el misterio de la unidad judeo-gentil en el cuerpo de Cristo, la armadura espiritual y la vida familiar cristiana. Geerhardus Vos la llama la 'catedral de las epístolas'.",
         "en": "The epistle of the church: expounds the mystery of Jewish-Gentile unity in the body of Christ, the spiritual armor, and Christian family life. Geerhardus Vos calls it the 'cathedral of the epistles'.",
         "pt": "A epístola da igreja: expõe o mistério da unidade judeu-gentia no corpo de Cristo, a armadura espiritual e a vida familiar cristã. Geerhardus Vos a chama de 'catedral das epístolas'."
-      }
+      },
+      "dataFile": "ephesians.json"
     },
     {
       "id": 50,

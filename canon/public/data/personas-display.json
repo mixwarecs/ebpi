@@ -1423,5 +1423,17 @@
       "en": "CO-WORKER",
       "pt": "COLABORADOR"
     }
+  },
+  "Tíquico": {
+    "id": "tiquico",
+    "color": "#5A7A8B",
+    "init": "Τυ",
+    "xCh": 6,
+    "side": "above",
+    "badge": {
+      "es": "MENSAJERO APOSTÓLICO",
+      "en": "APOSTOLIC MESSENGER",
+      "pt": "MENSAGEIRO APOSTÓLICO"
+    }
   }
 }
