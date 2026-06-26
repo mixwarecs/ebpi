@@ -93,7 +93,11 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, on
           if (currentAudioRef) currentAudioRef.current = audioRef.current;
           onPlayingChange?.(true);
         }}
-        onPause={() => onPlayingChange?.(false)}
+        onPause={() => {
+          if (!currentAudioRef || currentAudioRef.current === audioRef.current) {
+            onPlayingChange?.(false);
+          }
+        }}
         onEnded={handleEnded}
         style={{
           width: "100%",
@@ -143,6 +147,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
 
   const [activeIdx, setActiveIdx] = useState(null);
   const [playingIdx, setPlayingIdx] = useState(null);
+  const [highlightIdx, setHighlightIdx] = useState(initialChapterIdx);
   const entryRefs = useRef([]);
   const didScrollToInitial = useRef(false);
   const currentAudioRef = useRef(null);
@@ -194,12 +199,15 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
             style={{
               display: "flex",
               gap: 16,
-              padding: "14px 0",
-              borderBottom: i < rawChapters.length - 1
-                ? "1px solid rgba(201,168,76,0.08)"
-                : "none",
-              background: playingIdx === i ? "rgba(201,168,76,0.06)" : "transparent",
-              transition: "background 0.4s",
+              padding: (playingIdx === i || highlightIdx === i) ? "14px 14px" : "14px 0",
+              margin: (playingIdx === i || highlightIdx === i) ? "2px -14px" : "0",
+              borderBottom: (playingIdx === i || highlightIdx === i) ? "none" : (i < rawChapters.length - 1 ? "1px solid rgba(201,168,76,0.08)" : "none"),
+              outline: (playingIdx === i || highlightIdx === i) ? "1px solid rgba(201,168,76,0.18)" : "none",
+              borderRadius: (playingIdx === i || highlightIdx === i) ? 12 : 0,
+              background: (playingIdx === i || highlightIdx === i) ? "rgba(201,168,76,0.07)" : "transparent",
+              backdropFilter: (playingIdx === i || highlightIdx === i) ? "blur(10px)" : "none",
+              boxShadow: (playingIdx === i || highlightIdx === i) ? "0 4px 20px rgba(201,168,76,0.08), inset 0 1px 0 rgba(201,168,76,0.12)" : "none",
+              transition: "all 0.4s",
             }}
           >
             <div style={{
@@ -236,7 +244,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
             </div>
 
             <div style={{
-              borderLeft: `3px solid ${playingIdx === i ? GOLD : color}`,
+              borderLeft: `3px solid ${(playingIdx === i || highlightIdx === i) ? GOLD : color}`,
               transition: "border-color 0.4s",
               paddingLeft: 14,
               flex: 1,
@@ -289,7 +297,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                 rangoFin={c.rangoFin}
                 shouldAutoPlay={activeIdx === i}
                 onSectionEnd={() => setActiveIdx(i + 1 < rawChapters.length ? i + 1 : null)}
-                onPlayingChange={(playing) => setPlayingIdx(playing ? i : null)}
+                onPlayingChange={(playing) => { setPlayingIdx(playing ? i : null); if (playing) setHighlightIdx(null); }}
                 currentAudioRef={currentAudioRef}
               />
             </div>
