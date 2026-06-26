@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Share2, Check } from "lucide-react";
 import { adaptManifestBook } from "./adapters/canonToViewer";
 import { GOLD, LAPIS_DEEP, BOOKS, DIVISIONS, DIV_BY_ID, S, UI } from "./constants";
 import { tabCellHeight, balancedContiguousSplit } from "./utils";
@@ -217,13 +218,16 @@ export default function CanonShelf() {
             border: `1px solid ${copied ? GOLD : GOLD}`,
             borderRadius: 20,
             color: copied ? LAPIS_DEEP : GOLD,
-            fontSize: 11, fontWeight: 700, letterSpacing: 2,
-            padding: "6px 14px", cursor: "pointer",
-            fontFamily: "'Georgia',serif", transition: "all 0.2s",
+            padding: "6px 10px", cursor: "pointer",
+            transition: "all 0.2s",
             boxShadow: `0 0 10px rgba(201,168,76,0.2)`,
+            display: "flex", alignItems: "center", gap: 6,
           }}
         >
-          {copied ? u.copied : u.share}
+          {copied ? <Check size={14} /> : <Share2 size={14} />}
+          <span style={{ fontSize: 11, fontWeight: 700, letterSpacing: 2, fontFamily: "'Georgia',serif" }}>
+            {copied ? u.copied : u.share}
+          </span>
         </button>
       </div>
       <div style={S.appHeader}>

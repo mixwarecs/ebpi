@@ -121,7 +121,6 @@ function ChapterShareButton({ bookNum, lang, chapterIdx }) {
       onClick={handleCopy}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
-      title="Copiar enlace directo a este capítulo"
       style={{
         background: "none",
         border: "none",
