@@ -172,33 +172,63 @@ export function linkifyVerses(text, lang = "es") {
   const GOLD = "#C9A84C";
   const GOLD_BRIGHT = "#E8C56A";
   const VERSE_PATTERN = /(\(?)((?:\d+\s?)?[A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑa-záéíóúñ]*\s+\d+(?:[–\-]\d+)?(?::\d+(?:[–\-,]\d+)*)?)(\)?)/g;
+  const BARE_VERSE = /([;,]\s*)(\d+:\d+(?:[–\-,]\d+)*)/g;
+
+  function makeLink(ref, displayText, key) {
+    const url = verseUrl(ref, lang);
+    if (!url) return displayText;
+    return (
+      <a key={key} href={url} target="_blank" rel="noopener noreferrer"
+        style={{ color: GOLD, fontWeight: 700, textDecoration: "none",
+          borderBottom: "1px solid rgba(201,168,76,0.35)", letterSpacing: "0.3px" }}
+        onMouseEnter={e => { e.target.style.color = GOLD_BRIGHT; e.target.style.borderBottomColor = GOLD_BRIGHT; }}
+        onMouseLeave={e => { e.target.style.color = GOLD; e.target.style.borderBottomColor = "rgba(201,168,76,0.35)"; }}>
+        {displayText}
+      </a>
+    );
+  }
+
   const parts = [];
   let last = 0;
+  let lastBook = null;
   let m;
+
+  function pushGap(gap, matchIndex) {
+    if (lastBook && /^[\s]*[;,]/.test(gap)) {
+      let gapLast = 0;
+      let bm;
+      BARE_VERSE.lastIndex = 0;
+      while ((bm = BARE_VERSE.exec(gap)) !== null) {
+        if (bm.index > gapLast) parts.push(gap.slice(gapLast, bm.index));
+        parts.push(bm[1]);
+        parts.push(makeLink(`${lastBook} ${bm[2]}`, bm[2], `bare-${bm[2]}-${matchIndex}-${gapLast}`));
+        gapLast = bm.index + bm[0].length;
+      }
+      if (gapLast < gap.length) parts.push(gap.slice(gapLast));
+    } else {
+      parts.push(gap);
+    }
+  }
+
   while ((m = VERSE_PATTERN.exec(text)) !== null) {
-    if (m.index > last) parts.push(text.slice(last, m.index));
+    if (m.index > last) pushGap(text.slice(last, m.index), m.index);
     const pre = m[1];
     const ref = m[2];
     const post = m[3];
     if (pre) parts.push(pre);
-    const url = verseUrl(ref, lang);
-    if (url) {
-      parts.push(
-        <a key={`${ref}-${m.index}`} href={url} target="_blank" rel="noopener noreferrer"
-          style={{ color: GOLD, fontWeight: 700, textDecoration: "none",
-            borderBottom: "1px solid rgba(201,168,76,0.35)", letterSpacing: "0.3px" }}
-          onMouseEnter={e => { e.target.style.color = GOLD_BRIGHT; e.target.style.borderBottomColor = GOLD_BRIGHT; }}
-          onMouseLeave={e => { e.target.style.color = GOLD; e.target.style.borderBottomColor = "rgba(201,168,76,0.35)"; }}>
-          {ref}
-        </a>
-      );
+    const link = makeLink(ref, ref, `${ref}-${m.index}`);
+    if (typeof link === 'string') {
+      parts.push(link);
+      lastBook = null;
     } else {
-      parts.push(ref);
+      parts.push(link);
+      const bookMatch = ref.match(/^((?:\d+\s?)?[A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑa-záéíóúñ]*)/);
+      lastBook = bookMatch ? bookMatch[1] : null;
     }
     if (post) parts.push(post);
     last = m.index + m[0].length;
   }
-  if (last < text.length) parts.push(text.slice(last));
+  if (last < text.length) pushGap(text.slice(last), text.length);
   return parts.length === 1 && typeof parts[0] === "string" ? text : parts;
 }
 
