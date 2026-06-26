@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from "react";
+import { Share2, Check, ExternalLink } from "lucide-react";
 import { GOLD, PARCHMENT, BOOKS, BIBLE_VERSION } from "../../constants";
 import { linkifyVerses } from "../../utils";
 import VerseLink from "../VerseLink";
@@ -32,7 +33,7 @@ function getAudioUrl(lang, bookNum, chapter) {
 
 const CHAPTER_LABELS = { es: "Cap.", en: "Ch.", pt: "Cap." };
 
-function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, onSectionEnd }) {
+function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, onSectionEnd, onPlayingChange, currentAudioRef }) {
   const count = rangoFin - rangoInicio + 1;
   const [idx, setIdx] = useState(0);
   const audioRef = useRef(null);
@@ -85,6 +86,14 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, on
         controls
         preload="none"
         src={src}
+        onPlay={() => {
+          if (currentAudioRef && currentAudioRef.current && currentAudioRef.current !== audioRef.current) {
+            currentAudioRef.current.pause();
+          }
+          if (currentAudioRef) currentAudioRef.current = audioRef.current;
+          onPlayingChange?.(true);
+        }}
+        onPause={() => onPlayingChange?.(false)}
         onEnded={handleEnded}
         style={{
           width: "100%",
@@ -97,12 +106,47 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, on
   );
 }
 
-export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1 }) {
+function ChapterShareButton({ bookNum, lang, chapterIdx }) {
+  const [copied, setCopied] = useState(false);
+  const [hovered, setHovered] = useState(false);
+  const handleCopy = (e) => {
+    e.stopPropagation();
+    const url = `${window.location.origin}${window.location.pathname}#book/${bookNum}/summaries/${chapterIdx}/${lang}`;
+    navigator.clipboard.writeText(url);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 1500);
+  };
+  return (
+    <button
+      onClick={handleCopy}
+      onMouseEnter={() => setHovered(true)}
+      onMouseLeave={() => setHovered(false)}
+      title="Copiar enlace directo a este capítulo"
+      style={{
+        background: "none",
+        border: "none",
+        cursor: "pointer",
+        padding: "2px",
+        color: copied ? GOLD : hovered ? "rgba(201,168,76,0.85)" : "rgba(201,168,76,0.35)",
+        lineHeight: 0,
+        transition: "color 0.2s",
+        flexShrink: 0,
+      }}
+    >
+      {copied ? <Check size={13} /> : <Share2 size={13} />}
+    </button>
+  );
+}
+
+export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1, initialChapterIdx = null }) {
   if (!rawChapters.length) return null;
   const lv = (t) => linkifyVerses(t, lang);
 
   const [activeIdx, setActiveIdx] = useState(null);
+  const [playingIdx, setPlayingIdx] = useState(null);
   const entryRefs = useRef([]);
+  const didScrollToInitial = useRef(false);
+  const currentAudioRef = useRef(null);
 
   // Scroll to the newly active entry
   useEffect(() => {
@@ -110,6 +154,15 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
       entryRefs.current[activeIdx].scrollIntoView({ behavior: "smooth", block: "nearest" });
     }
   }, [activeIdx]);
+
+  // One-time scroll to the deep-linked chapter on mount
+  useEffect(() => {
+    if (didScrollToInitial.current) return;
+    if (initialChapterIdx !== null && entryRefs.current[initialChapterIdx]) {
+      didScrollToInitial.current = true;
+      entryRefs.current[initialChapterIdx].scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
+  });
 
   // Reset when book or language changes
   useEffect(() => { setActiveIdx(null); }, [lang, bookNum]);
@@ -146,6 +199,8 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
               borderBottom: i < rawChapters.length - 1
                 ? "1px solid rgba(201,168,76,0.08)"
                 : "none",
+              background: playingIdx === i ? "rgba(201,168,76,0.06)" : "transparent",
+              transition: "background 0.4s",
             }}
           >
             <div style={{
@@ -173,16 +228,17 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                   alignItems: "baseline",
                   gap: 2,
                 }}
-                onMouseEnter={e => { e.currentTarget.style.opacity = "1"; }}
-                onMouseLeave={e => { e.currentTarget.style.opacity = "0.85"; }}
+                onMouseEnter={e => { e.currentTarget.style.opacity = "1"; e.currentTarget.style.color = GOLD; }}
+                onMouseLeave={e => { e.currentTarget.style.opacity = "0.85"; e.currentTarget.style.color = color; }}
               >
                 {chLabel}
-                <span style={{ fontSize: 9, opacity: 0.6, lineHeight: 1 }}>↗</span>
+                <ExternalLink size={10} style={{ opacity: 0.7 }} />
               </a>
             </div>
 
             <div style={{
-              borderLeft: `3px solid ${color}`,
+              borderLeft: `3px solid ${playingIdx === i ? GOLD : color}`,
+              transition: "border-color 0.4s",
               paddingLeft: 14,
               flex: 1,
               minWidth: 0,
@@ -194,7 +250,11 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                 lineHeight: 1.35,
                 marginBottom: 7,
                 letterSpacing: 0.3,
+                display: "flex",
+                alignItems: "center",
+                gap: 6,
               }}>
+                <ChapterShareButton bookNum={bookNum} lang={lang} chapterIdx={i} />
                 {title}
               </div>
 
@@ -230,6 +290,8 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                 rangoFin={c.rangoFin}
                 shouldAutoPlay={activeIdx === i}
                 onSectionEnd={() => setActiveIdx(i + 1 < rawChapters.length ? i + 1 : null)}
+                onPlayingChange={(playing) => setPlayingIdx(playing ? i : null)}
+                currentAudioRef={currentAudioRef}
               />
             </div>
           </div>

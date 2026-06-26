@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { ExternalLink, Play, ChevronsDown, Share2 } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
 import { GOLD, LAPIS, LAPIS_DEEP, PARCHMENT, SIENNA, BOOKS, CHAPTER_ERAS, UI, TABS, GS } from "../constants";
 import { linkifyVerses, verseUrl, cap } from "../utils";
@@ -8,7 +9,7 @@ import SourcesTab from "./book/SourcesTab";
 import Timeline from "./book/Timeline";
 import ChapterSummaries from "./book/ChapterSummaries";
 
-export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange, manifestBook = null }) {
+export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange, manifestBook = null, initialBottomTab = "timeline", initialChapterIdx = null }) {
   const lv = (t) => linkifyVerses(t, lang);
   const vu = (r) => verseUrl(r, lang);
 
@@ -55,7 +56,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           HIST_ANE: HA = [], HIST_CRONOLOGIA: HCr = [], HIST_CONTROVERSIAS: HCo = "" } = histCtx;
 
   const [activeChar, setActiveChar] = useState(null);
-  const [bottomTab, setBottomTab] = useState("timeline");
+  const [bottomTab, setBottomTab] = useState(initialBottomTab);
 
   const renderTab = () => {
     switch (activeTab) {
@@ -361,10 +362,23 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             maxHeight:520,
             overflowY:"auto",
           }}>
-            <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(242,232,208,0.4)", fontStyle:"italic", letterSpacing:1}}>
-              {UI[lang].summariesHint}
+            <div style={{
+              display:"grid", gridTemplateColumns:"1fr 1fr",
+              gap:"6px 16px",
+              padding:"14px 24px 10px",
+              borderBottom:"1px solid rgba(201,168,76,0.08)",
+            }}>
+              {(UI[lang].summariesSteps || []).map((text, idx) => {
+                const Icon = [ExternalLink, Play, ChevronsDown, Share2][idx];
+                return (
+                  <div key={idx} style={{ display:"flex", alignItems:"flex-start", gap:8 }}>
+                    <Icon size={13} color={GOLD} style={{ opacity:0.7, flexShrink:0, marginTop:2 }} />
+                    <span style={{ fontSize:12, color:"rgba(242,232,208,0.55)", lineHeight:1.5 }}>{text}</span>
+                  </div>
+                );
+              })}
             </div>
-            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} />
+            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} initialChapterIdx={initialChapterIdx} />
           </div>
         )}
       </div>

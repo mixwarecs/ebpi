@@ -21,11 +21,22 @@ function parseHash() {
   const lang = hasLang ? last : "es";
   const path = hasLang ? parts.slice(0, -1) : parts;
   if (path.length === 0 || LANGS.includes(path[0])) return { view: { mode: "index" }, lang };
-  const [mode, id, maybeTab] = path;
+  const [mode, id, seg1, seg2] = path;
   if ((mode === "division" || mode === "book") && id) {
     const numId = Number(id);
     const view = { mode, id: isNaN(numId) ? id : numId };
-    if (mode === "book") view.tab = (maybeTab && TAB_IDS.includes(maybeTab)) ? maybeTab : "overview";
+    if (mode === "book") {
+      if (seg1 === "summaries") {
+        view.tab = "overview";
+        view.bottomTab = "summaries";
+        const parsed = parseInt(seg2, 10);
+        view.chapterIdx = (seg2 !== undefined && !isNaN(parsed)) ? parsed : null;
+      } else {
+        view.tab = (seg1 && TAB_IDS.includes(seg1)) ? seg1 : "overview";
+        view.bottomTab = "timeline";
+        view.chapterIdx = null;
+      }
+    }
     return { view, lang };
   }
   return { view: { mode: "index" }, lang };
@@ -252,6 +263,8 @@ export default function CanonShelf() {
                 activeTab={view.tab || "overview"}
                 onTabChange={changeTab}
                 manifestBook={activeBook}
+                initialBottomTab={view.bottomTab || "timeline"}
+                initialChapterIdx={view.chapterIdx ?? null}
                 divisionName={(() => {
                   const d = activeDivById[activeBook?.div];
                   if (!d) return "";
