@@ -13,8 +13,7 @@ const NT_BOOKS = BOOKS.filter(b => b.id >= 40);
 const LANGS = ["es", "en", "pt"];
 const TAB_IDS = ["overview", "theology", "purpose", "canon", "history", "verses", "sources"];
 
-function parseHash() {
-  const raw = window.location.hash.replace(/^#\/?/, "").trim();
+function parseHashStr(raw) {
   if (!raw) return { view: { mode: "index" }, lang: "es" };
   const parts = raw.split("/");
   const last = parts[parts.length - 1];
@@ -43,9 +42,27 @@ function parseHash() {
   return { view: { mode: "index" }, lang };
 }
 
+function parseHash() {
+  return parseHashStr(window.location.hash.replace(/^#\/?/, "").trim());
+}
+
+function getInitialState() {
+  const raw = window.location.hash.replace(/^#\/?/, "").trim();
+  if (raw) return parseHashStr(raw);
+  try {
+    const saved = localStorage.getItem("ebpi_last_location");
+    if (saved) return parseHashStr(saved);
+  } catch {}
+  return { view: { mode: "index" }, lang: "es" };
+}
+
 function buildHash(view, lang) {
   if (view.mode === "index") return lang;
   if (view.mode === "book") {
+    if (view.bottomTab === "summaries") {
+      const ch = view.chapterIdx != null ? `/${view.chapterIdx}` : "";
+      return `book/${view.id}/summaries${ch}/${lang}`;
+    }
     const t = view.tab && view.tab !== "overview" ? `/${view.tab}` : "";
     return `book/${view.id}${t}/${lang}`;
   }
@@ -53,12 +70,12 @@ function buildHash(view, lang) {
 }
 
 export default function CanonShelf() {
-  const [view, setView] = useState(() => parseHash().view);
+  const [view, setView] = useState(() => getInitialState().view);
   const [manifest, setManifest] = useState(null);
   const [bookDataCache, setBookDataCache] = useState({});
   const [globalData, setGlobalData] = useState(null);
   const [personasDisplay, setPersonasDisplay] = useState({});
-  const [lang, setLang] = useState(() => parseHash().lang);
+  const [lang, setLang] = useState(() => getInitialState().lang);
   const [copied, setCopied] = useState(false);
 
   useEffect(() => {
@@ -77,6 +94,24 @@ export default function CanonShelf() {
     window.addEventListener("popstate", onPop);
     return () => window.removeEventListener("popstate", onPop);
   }, []);
+
+  // Sync URL on mount when restoring from saved location (no hash in URL)
+  useEffect(() => {
+    const raw = window.location.hash.replace(/^#\/?/, "").trim();
+    if (!raw) {
+      try {
+        const saved = localStorage.getItem("ebpi_last_location");
+        if (saved) history.replaceState(null, "", "#" + saved);
+      } catch {}
+    }
+  }, []);
+
+  // Persist current location on every navigation
+  useEffect(() => {
+    try {
+      localStorage.setItem("ebpi_last_location", buildHash(view, lang));
+    } catch {}
+  }, [view, lang]);
 
   const activeBooks = manifest
     ? manifest.libros.map(l => adaptManifestBook(l))
@@ -141,6 +176,18 @@ export default function CanonShelf() {
   const openDivision = (id) => navigate({ mode: "division", id });
   const changeTab = (tab) => {
     const next = { ...view, tab };
+    setView(next);
+    history.replaceState(null, "", "#" + buildHash(next, lang));
+  };
+
+  const changeBottomTab = (bt) => {
+    const next = { ...view, bottomTab: bt };
+    setView(next);
+    history.replaceState(null, "", "#" + buildHash(next, lang));
+  };
+
+  const changeChapterIdx = (idx) => {
+    const next = { ...view, bottomTab: "summaries", chapterIdx: idx };
     setView(next);
     history.replaceState(null, "", "#" + buildHash(next, lang));
   };
@@ -266,6 +313,8 @@ export default function CanonShelf() {
                 lang={lang}
                 activeTab={view.tab || "overview"}
                 onTabChange={changeTab}
+                onBottomTabChange={changeBottomTab}
+                onChapterChange={changeChapterIdx}
                 manifestBook={activeBook}
                 initialBottomTab={view.bottomTab || "timeline"}
                 initialChapterIdx={view.chapterIdx ?? null}

@@ -141,8 +141,7 @@ function ChapterShareButton({ bookNum, lang, chapterIdx }) {
   );
 }
 
-export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1, initialChapterIdx = null }) {
-  if (!rawChapters.length) return null;
+export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1, initialChapterIdx = null, onChapterChange }) {
   const lv = (t) => linkifyVerses(t, lang);
 
   const [activeIdx, setActiveIdx] = useState(null);
@@ -164,12 +163,14 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
     if (didScrollToInitial.current) return;
     if (initialChapterIdx !== null && entryRefs.current[initialChapterIdx]) {
       didScrollToInitial.current = true;
-      entryRefs.current[initialChapterIdx].scrollIntoView({ behavior: "smooth", block: "nearest" });
+      entryRefs.current[initialChapterIdx].scrollIntoView({ behavior: "smooth", block: "center" });
     }
   });
 
   // Reset when book or language changes
   useEffect(() => { setActiveIdx(null); }, [lang, bookNum]);
+
+  if (!rawChapters.length) return null;
 
   return (
     <div style={{
@@ -196,7 +197,9 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
           <div
             key={i}
             ref={el => { entryRefs.current[i] = el; }}
+            onClick={() => { setHighlightIdx(i); onChapterChange?.(i); }}
             style={{
+              cursor: "pointer",
               display: "flex",
               gap: 16,
               padding: (playingIdx === i || highlightIdx === i) ? "14px 14px" : "14px 0",
@@ -297,7 +300,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                 rangoFin={c.rangoFin}
                 shouldAutoPlay={activeIdx === i}
                 onSectionEnd={() => setActiveIdx(i + 1 < rawChapters.length ? i + 1 : null)}
-                onPlayingChange={(playing) => { setPlayingIdx(playing ? i : null); if (playing) setHighlightIdx(null); }}
+                onPlayingChange={(playing) => { setPlayingIdx(playing ? i : null); if (playing) { setHighlightIdx(null); onChapterChange?.(i); } }}
                 currentAudioRef={currentAudioRef}
               />
             </div>

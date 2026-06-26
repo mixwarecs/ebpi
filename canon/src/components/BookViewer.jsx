@@ -9,7 +9,7 @@ import SourcesTab from "./book/SourcesTab";
 import Timeline from "./book/Timeline";
 import ChapterSummaries from "./book/ChapterSummaries";
 
-export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange, manifestBook = null, initialBottomTab = "timeline", initialChapterIdx = null }) {
+export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange, onBottomTabChange, onChapterChange, manifestBook = null, initialBottomTab = "timeline", initialChapterIdx = null }) {
   const lv = (t) => linkifyVerses(t, lang);
   const vu = (r) => verseUrl(r, lang);
 
@@ -327,7 +327,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           ].map(({ id, label }) => (
             <button
               key={id}
-              onClick={() => setBottomTab(id)}
+              onClick={() => { setBottomTab(id); onBottomTabChange?.(id); }}
               style={GS.tabBtn(bottomTab === id)}
             >
               {label}
@@ -378,7 +378,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 );
               })}
             </div>
-            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} initialChapterIdx={initialChapterIdx} />
+            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} initialChapterIdx={initialChapterIdx} onChapterChange={onChapterChange} />
           </div>
         )}
       </div>

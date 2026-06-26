@@ -576,7 +576,7 @@ export const S = {
   spreadEyebrowBig: { fontFamily: "'Georgia',serif", fontSize: 22, letterSpacing: 4, color: GOLD, textTransform: "uppercase", marginBottom: 14, fontWeight: 700 },
   classGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(230px, 1fr))", gap: 14 },
   classCard: (color) => ({
-    background: "rgba(27,42,74,0.42)", border: `1px solid ${color}38`, borderTop: `3px solid ${color}`,
+    background: "rgba(27,42,74,0.42)", borderTop: `3px solid ${color}`, borderRight: `1px solid ${color}38`, borderBottom: `1px solid ${color}38`, borderLeft: `1px solid ${color}38`,
     borderRadius: 3, padding: "16px 17px", cursor: "pointer", transition: "transform 0.15s, background 0.15s",
   }),
   classCardEyebrow: (color) => ({ fontSize: 8.5, letterSpacing: 2.5, color, marginBottom: 6, textTransform: "uppercase" }),
@@ -592,7 +592,7 @@ export const S = {
   prose: { fontSize: 15.5, lineHeight: 1.8, color: "rgba(242,232,208,0.82)", marginBottom: 30 },
   bookGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(240px,1fr))", gap: 13, marginBottom: 8 },
   bookCard: (color) => ({
-    background: "rgba(27,42,74,0.4)", border: `1px solid ${color}30`, borderLeft: `3px solid ${color}`,
+    background: "rgba(27,42,74,0.4)", borderTop: `1px solid ${color}30`, borderRight: `1px solid ${color}30`, borderBottom: `1px solid ${color}30`, borderLeft: `3px solid ${color}`,
     borderRadius: 3, padding: "13px 15px", cursor: "pointer", transition: "background 0.15s",
   }),
   bookCardTitle: { fontSize: 14.5, fontWeight: 700, color: PARCHMENT, marginBottom: 5, display: "flex", alignItems: "center", gap: 8, justifyContent: "space-between" },
@@ -631,7 +631,7 @@ export const GS = {
   tabNavFade: { position: "absolute", right: 0, top: 0, bottom: 1, width: 80, background: `linear-gradient(90deg, transparent, rgba(10,16,30,0.97))`, pointerEvents: "none", display: "flex", alignItems: "center", justifyContent: "flex-end", paddingRight: 10 },
   tabBtn: (active) => ({
     fontFamily: "'Georgia',serif", fontSize: 13, fontWeight: 600, letterSpacing: 2, color: active ? GOLD : "rgba(201,168,76,0.45)",
-    background: "none", border: "none", borderBottom: active ? `2px solid ${GOLD}` : "2px solid transparent",
+    background: "none", borderTop: "none", borderRight: "none", borderLeft: "none", borderBottom: active ? `2px solid ${GOLD}` : "2px solid transparent",
     padding: "16px 20px 14px", cursor: "pointer", whiteSpace: "nowrap", flexShrink: 0,
     transition: "color 0.2s, border-color 0.2s",
   }),
@@ -655,7 +655,9 @@ export const GS = {
   epochRow: { display: "flex", overflowX: "auto", marginBottom: 24, gap: 0 },
   epoch: (highlight) => ({
     flex: 1, minWidth: 120, padding: "14px 12px",
-    border: `1px solid ${highlight ? "rgba(201,168,76,0.35)" : "rgba(201,168,76,0.12)"}`,
+    borderTop: `1px solid ${highlight ? "rgba(201,168,76,0.35)" : "rgba(201,168,76,0.12)"}`,
+    borderBottom: `1px solid ${highlight ? "rgba(201,168,76,0.35)" : "rgba(201,168,76,0.12)"}`,
+    borderLeft: `1px solid ${highlight ? "rgba(201,168,76,0.35)" : "rgba(201,168,76,0.12)"}`,
     borderRight: "none",
     background: highlight ? "rgba(201,168,76,0.07)" : "transparent",
   }),
