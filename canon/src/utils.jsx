@@ -233,9 +233,9 @@ export function linkifyVerses(text, lang = "es") {
 }
 
 export function tabCellHeight(name) {
-  const CHAR_PX = 17 * 0.9;
-  const CHROME_PX = 6;
-  const MIN_PX = 36;
+  const CHAR_PX = 17;
+  const CHROME_PX = 24;
+  const MIN_PX = 44;
   return Math.max(MIN_PX, Math.round(name.length * CHAR_PX + CHROME_PX));
 }
 

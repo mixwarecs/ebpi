@@ -81,7 +81,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
               <div key={i} style={{ position:"absolute", top:0, left:x1, width:x2-x1, height:"100%",
                 background:`linear-gradient(90deg,${era.color}10,${era.color}1e)`,
                 borderRight:"1px dashed rgba(201,168,76,0.1)" }}>
-                <span style={{position:"absolute", top:10, left:10, fontSize:13, letterSpacing:2, color:`${era.color}99`, whiteSpace:"nowrap"}}>
+                <span style={{position:"absolute", top:10, left:10, fontSize:13, letterSpacing:2, color:era.color, whiteSpace:"nowrap", textShadow:"0 1px 4px rgba(0,0,0,0.9)"}}>
                   {hasBookEras ? eraToLabel(era.era) : era.label}
                 </span>
               </div>
@@ -133,11 +133,12 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
                   onMouseLeave={() => setCharTooltip(null)}
                   style={{ display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center", cursor:"pointer" }}>
                   <div style={{padding:"7px 4px", maxWidth:100, overflow:"hidden"}}>
-                    <div style={{fontSize:11, fontWeight:600, letterSpacing:0.5, color:c.color, textAlign:"center", lineHeight:1.15,
-                      whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif"}}>{c.name}</div>
+                    <div style={{fontSize:12, fontWeight:700, letterSpacing:0.5, color:c.color, textAlign:"center", lineHeight:1.15,
+                      whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif",
+                      textShadow:"0 1px 5px rgba(0,0,0,0.95), 0 0 8px rgba(0,0,0,0.8)"}}>{c.name}</div>
                   </div>
                   <div style={{width:48, height:48, borderRadius:"50%", border:`2px solid ${c.color}`,
-                    background:`linear-gradient(135deg,${LAPIS},rgba(201,168,76,0.1))`,
+                    background:`linear-gradient(135deg,rgba(22,13,4,0.92),rgba(201,168,76,0.08))`,
                     display:"flex", alignItems:"center", justifyContent:"center",
                     fontSize:14, fontWeight:700, color:c.color,
                     boxShadow:`0 4px 16px rgba(0,0,0,0.5), 0 0 0 3px ${c.color}20`, flexShrink:0}}>

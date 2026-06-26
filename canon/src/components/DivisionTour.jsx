@@ -57,8 +57,8 @@ export default function DivisionTour({ division: d, onSelectBook, onBack, lang =
               key={libro.es}
               style={S.bookCard(d.color)}
               onClick={() => onSelectBook(libro)}
-              onMouseEnter={e => { e.currentTarget.style.background = "rgba(27,42,74,0.65)"; }}
-              onMouseLeave={e => { e.currentTarget.style.background = "rgba(27,42,74,0.4)"; }}
+              onMouseEnter={e => { e.currentTarget.style.background = "rgba(22,13,4,0.72)"; }}
+              onMouseLeave={e => { e.currentTarget.style.background = "rgba(22,13,4,0.45)"; }}
             >
               <div style={S.bookCardTitle}>
                 {libro.es}

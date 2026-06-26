@@ -240,7 +240,8 @@ export default function CanonShelf() {
           title={side === "left" ? UI[lang].ot : UI[lang].nt}
           style={{
             width: 32, flexShrink: 0, padding: 0,
-            background: "linear-gradient(180deg, rgba(27,42,74,0.95), rgba(20,32,58,0.97))",
+            backgroundImage: "linear-gradient(180deg, rgba(12,6,2,0.52), rgba(10,5,2,0.60)), url('/textures/leather-fine.jpg')",
+            backgroundSize: "cover", backgroundPosition: "center",
             borderTop: "none", borderBottom: "none",
             borderRight: side === "left" ? `1px solid rgba(201,168,76,0.15)` : "none",
             borderLeft: side === "right" ? `1px solid rgba(201,168,76,0.15)` : "none",
@@ -315,7 +316,7 @@ export default function CanonShelf() {
             background: copied ? GOLD : "rgba(7,13,26,0.92)",
             border: `1px solid ${copied ? GOLD : GOLD}`,
             borderRadius: 20,
-            color: copied ? LAPIS_DEEP : GOLD,
+            color: copied ? "#2C1A0E" : GOLD,
             padding: "6px 10px", cursor: "pointer",
             transition: "all 0.2s",
             boxShadow: `0 0 10px rgba(201,168,76,0.2)`,
@@ -337,7 +338,7 @@ export default function CanonShelf() {
                 padding: "4px 10px", borderRadius: 3, fontSize: 12, fontWeight: 700, letterSpacing: 1,
                 cursor: "pointer", transition: "all 0.15s", fontFamily: "'Georgia',serif",
                 background: lang === l ? GOLD : "transparent",
-                color: lang === l ? LAPIS_DEEP : "rgba(201,168,76,0.55)",
+                color: lang === l ? "#2C1A0E" : "rgba(201,168,76,0.55)",
                 border: `1px solid ${lang === l ? GOLD : "rgba(201,168,76,0.3)"}`,
               }}>
                 {l.toUpperCase()}

@@ -148,7 +148,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         const HL = UI[lang].historyLabels;
         return (
           <div>
-            <div style={{background:"rgba(27,42,74,0.4)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"18px 20px", marginBottom:20}}>
+            <div style={{background:"rgba(22,13,4,0.48)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"18px 20px", marginBottom:20}}>
               <div style={{...GS.metaLabel, marginBottom:8}}>{HL.period}</div>
               <div style={{fontSize:15, lineHeight:1.75, color:"rgba(242,232,208,0.83)"}}>{lv(HP)}</div>
             </div>
@@ -173,7 +173,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.geography}</div>
               <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fill,minmax(280px,1fr))", gap:12}}>
                 {HG.map((g, i) => (
-                  <div key={i} style={{background:"rgba(27,42,74,0.35)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 16px"}}>
+                  <div key={i} style={{background:"rgba(22,13,4,0.42)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"14px 16px"}}>
                     <div style={{fontSize:13, fontWeight:700, color:GOLD, marginBottom:3}}>{g.lugar}</div>
                     <div style={{fontSize:11, letterSpacing:1, color:"rgba(242,232,208,0.5)", marginBottom:8}}>{g.moderna}</div>
                     <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{lv(cap(g.desc))}</div>
@@ -185,7 +185,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.civilizations}</div>
               <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fill,minmax(280px,1fr))", gap:12}}>
                 {HC.map((c, i) => (
-                  <div key={i} style={{background:"rgba(27,42,74,0.35)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 16px"}}>
+                  <div key={i} style={{background:"rgba(22,13,4,0.42)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"14px 16px"}}>
                     <div style={{fontSize:13, fontWeight:700, color:PARCHMENT, marginBottom:6}}>{c.nombre}</div>
                     <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{lv(cap(c.desc))}</div>
                   </div>
@@ -247,14 +247,16 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
       `}</style>
       <div style={GS.topBar} />
 
-      <div style={{padding:"14px 24px 0"}}>
+      <div style={{padding:"14px 24px", display:"flex", justifyContent:"center", alignItems:"center"}}>
         <button onClick={onBack} style={{
-          fontFamily:"'Georgia',serif", fontSize:11, letterSpacing:2, color:"rgba(201,168,76,0.7)",
-          background:"none", border:"none", cursor:"pointer", padding:0,
-          display:"inline-flex", alignItems:"center", gap:6,
+          fontFamily:"'Georgia',serif", fontSize:12, letterSpacing:2, color:PARCHMENT,
+          background:"rgba(201,168,76,0.14)", border:"1px solid rgba(201,168,76,0.35)",
+          borderRadius:20, cursor:"pointer", padding:"6px 16px 6px 12px",
+          display:"inline-flex", alignItems:"center", gap:8,
+          textShadow:"0 1px 4px rgba(0,0,0,0.7)", transition:"background 0.15s, border-color 0.15s",
         }}
-          onMouseEnter={e => { e.currentTarget.style.color = GOLD; }}
-          onMouseLeave={e => { e.currentTarget.style.color = "rgba(201,168,76,0.7)"; }}>
+          onMouseEnter={e => { e.currentTarget.style.background = "rgba(201,168,76,0.28)"; e.currentTarget.style.borderColor = "rgba(201,168,76,0.6)"; }}
+          onMouseLeave={e => { e.currentTarget.style.background = "rgba(201,168,76,0.14)"; e.currentTarget.style.borderColor = "rgba(201,168,76,0.35)"; }}>
           {UI[lang].backToShelf}
         </button>
       </div>
@@ -357,9 +359,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
 
         {bottomTab === "summaries" && (
           <div style={{
-            background:"linear-gradient(180deg,rgba(27,42,74,0.25),rgba(15,26,48,0.3))",
+            background:"linear-gradient(180deg,rgba(22,13,4,0.28),rgba(15,9,2,0.32))",
             borderTop:"1px solid rgba(201,168,76,0.12)",
-            maxHeight:520,
             overflowY:"auto",
           }}>
             <div style={{

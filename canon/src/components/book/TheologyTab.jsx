@@ -29,7 +29,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
                 cursor:"pointer", borderRadius:2,
                 border:`1px solid ${isActive ? "rgba(201,168,76,0.4)" : isHovered ? "rgba(201,168,76,0.25)" : "rgba(201,168,76,0.1)"}`,
                 borderLeft:`3px solid ${isActive ? GOLD : isHovered ? "rgba(201,168,76,0.5)" : "rgba(201,168,76,0.2)"}`,
-                background: isActive ? "rgba(201,168,76,0.1)" : isHovered ? "rgba(201,168,76,0.06)" : "rgba(27,42,74,0.15)",
+                background: isActive ? "rgba(201,168,76,0.1)" : isHovered ? "rgba(201,168,76,0.06)" : "rgba(22,13,4,0.18)",
                 transition:"all 0.15s",
               }}>
               <div style={{fontSize:13, fontFamily:"'Georgia',serif",
@@ -56,7 +56,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
                 cursor:"pointer", borderRadius:2,
                 border:`1px solid ${isActive ? "rgba(201,168,76,0.4)" : isHovered ? "rgba(139,58,42,0.4)" : "rgba(201,168,76,0.1)"}`,
                 borderLeft:`3px solid ${isActive ? SIENNA : isHovered ? "rgba(139,58,42,0.7)" : "rgba(139,58,42,0.25)"}`,
-                background: isActive ? "rgba(139,58,42,0.1)" : isHovered ? "rgba(139,58,42,0.07)" : "rgba(27,42,74,0.15)",
+                background: isActive ? "rgba(139,58,42,0.1)" : isHovered ? "rgba(139,58,42,0.07)" : "rgba(22,13,4,0.18)",
                 transition:"all 0.15s",
               }}>
               <div style={{fontSize:10, letterSpacing:1.5, marginBottom:1,
@@ -98,7 +98,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
               <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.8)"}}>{TL.wcfTeaches}</div>
               <div style={{fontSize:15, lineHeight:1.78, color:"rgba(242,232,208,0.85)", fontStyle:"italic"}}>{lv(cap(activeWcf.resumen))}</div>
             </div>
-            <div style={{background:"rgba(15,26,48,0.5)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 18px", marginBottom:14}}>
+            <div style={{background:"rgba(22,13,4,0.50)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"14px 18px", marginBottom:14}}>
               <div style={{...GS.metaLabel, marginBottom:10}}>{TL.wcfPassages(bookTitle)}</div>
               <div style={{display:"flex", flexWrap:"wrap", gap:8}}>
                 {activeWcf.genesis.map(v => (
@@ -128,11 +128,11 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
                 <div style={{fontSize:22, fontWeight:700, color:PARCHMENT, letterSpacing:0.5}}>{activeCat.categoria}</div>
               </div>
             </div>
-            <div style={{background:"rgba(27,42,74,0.4)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"18px 20px", marginBottom:14}}>
+            <div style={{background:"rgba(22,13,4,0.48)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"18px 20px", marginBottom:14}}>
               <div style={{...GS.metaLabel, marginBottom:8}}>{TL.whatTeaches(bookTitle)}</div>
               <div style={{fontSize:15, lineHeight:1.75, color:"rgba(242,232,208,0.83)"}}>{lv(cap(activeCat.resumen))}</div>
             </div>
-            <div style={{background:"rgba(15,26,48,0.5)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"18px 20px", marginBottom:14}}>
+            <div style={{background:"rgba(22,13,4,0.50)", border:`1px solid rgba(201,168,76,0.12)`, borderRadius:3, padding:"18px 20px", marginBottom:14}}>
               <div style={{...GS.metaLabel, marginBottom:12}}>{TL.keyPassages(bookTitle)}</div>
               {activeCat.pasajes.map((p, i) => (
                 <div key={i} style={{display:"flex", gap:14, padding:"11px 0", borderBottom: i < activeCat.pasajes.length-1 ? `1px solid rgba(201,168,76,0.07)` : "none"}}>

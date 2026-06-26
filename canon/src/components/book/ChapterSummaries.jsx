@@ -5,10 +5,10 @@ import { linkifyVerses } from "../../utils";
 import VerseLink from "../VerseLink";
 
 const ERA_COLORS = {
-  "Primordial":"#6B7F5E","Patriarcal":"#7A6B4F","Ley":"#8B6914","Éxodo":"#8B6914",
-  "Anticipación":"#5A7A5A","Conquista":"#5A7A5A","Monarquía":"#4A6B8A","Exilio":"#7A4A6B",
-  "Post-exilio":"#5A7A6B","Intertestamental":"#8A8A8A","Cumplimiento":"#6B5B95",
-  "Ministerio":"#C9A84C","Iglesia":"#6B5B95","Aplicación":"#6B5B95","Consumación":"#8B0000",
+  "Primordial":"#A0C080","Patriarcal":"#C4A86A","Ley":"#E0B830","Éxodo":"#E0B830",
+  "Anticipación":"#7EC87E","Conquista":"#7EC87E","Monarquía":"#6AAAD4","Exilio":"#C07AAA",
+  "Post-exilio":"#70B8A8","Intertestamental":"#C0C0C0","Cumplimiento":"#A898E0",
+  "Ministerio":"#E8C56A","Iglesia":"#A898E0","Aplicación":"#A898E0","Consumación":"#E05050",
 };
 function eraColor(era) {
   for (const [key, color] of Object.entries(ERA_COLORS)) {
@@ -228,11 +228,12 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                   fontWeight: 700,
                   letterSpacing: 0.5,
                   color,
-                  opacity: 0.85,
+                  opacity: 1,
                   whiteSpace: "nowrap",
                   textDecoration: "none",
                   cursor: "pointer",
                   borderBottom: `1px solid ${color}`,
+                  textShadow: "0 1px 4px rgba(0,0,0,0.8)",
                   transition: "opacity 0.15s",
                   display: "inline-flex",
                   alignItems: "baseline",

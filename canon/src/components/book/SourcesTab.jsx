@@ -13,8 +13,8 @@ export default function SourcesTab({ sources, lang }) {
           <div key={i} onClick={() => setActiveSource(s)} style={{
             ...GS.sourceCard, cursor:"pointer", border:`1px solid rgba(201,168,76,0.15)`, transition:"all 0.15s",
           }}
-            onMouseEnter={e => { e.currentTarget.style.border=`1px solid rgba(201,168,76,0.4)`; e.currentTarget.style.background="rgba(27,42,74,0.55)"; }}
-            onMouseLeave={e => { e.currentTarget.style.border=`1px solid rgba(201,168,76,0.15)`; e.currentTarget.style.background="rgba(27,42,74,0.35)"; }}
+            onMouseEnter={e => { e.currentTarget.style.border=`1px solid rgba(201,168,76,0.4)`; e.currentTarget.style.background="rgba(22,13,4,0.65)"; }}
+            onMouseLeave={e => { e.currentTarget.style.border=`1px solid rgba(201,168,76,0.18)`; e.currentTarget.style.background="rgba(22,13,4,0.42)"; }}
           >
             <div style={GS.sourceTier}>{s.tier}</div>
             <div style={GS.sourceTitle}>{s.title}</div>
@@ -22,10 +22,10 @@ export default function SourcesTab({ sources, lang }) {
             <div style={GS.sourceMeta}>{s.meta}</div>
             <div style={{marginTop:10, display:"flex", flexWrap:"wrap", gap:4}}>
               {s.campos.map(c => (
-                <span key={c} style={{fontSize:8, letterSpacing:1.5, background:"rgba(201,168,76,0.07)", border:`1px solid rgba(201,168,76,0.15)`, color:"rgba(201,168,76,0.6)", padding:"2px 6px", borderRadius:2}}>{c}</span>
+                <span key={c} style={{fontSize:8, letterSpacing:1.5, background:"rgba(201,168,76,0.12)", border:`1px solid rgba(201,168,76,0.35)`, color:"rgba(201,168,76,0.9)", padding:"2px 6px", borderRadius:2}}>{c}</span>
               ))}
             </div>
-            <div style={{marginTop:10, fontSize:10, color:"rgba(201,168,76,0.5)", letterSpacing:1}}>{SL.viewCard}</div>
+            <div style={{marginTop:10, fontSize:10, color:"rgba(201,168,76,0.85)", letterSpacing:1}}>{SL.viewCard}</div>
           </div>
         ))}
       </div>
@@ -37,7 +37,7 @@ export default function SourcesTab({ sources, lang }) {
             <button style={GS.closeBtn} onClick={() => setActiveSource(null)}>✕</button>
             <div style={{padding:"28px 28px 20px", borderBottom:`1px solid rgba(201,168,76,0.2)`}}>
               <div style={{display:"flex", alignItems:"flex-start", gap:18}}>
-                <div style={{width:56, height:56, borderRadius:3, flexShrink:0, background:`linear-gradient(135deg,${LAPIS},rgba(201,168,76,0.12))`, border:`1px solid rgba(201,168,76,0.4)`, display:"flex", alignItems:"center", justifyContent:"center", fontSize:22, color:GOLD}}>✦</div>
+                <div style={{width:56, height:56, borderRadius:3, flexShrink:0, background:`linear-gradient(135deg,rgba(22,13,4,0.9),rgba(201,168,76,0.12))`, border:`1px solid rgba(201,168,76,0.4)`, display:"flex", alignItems:"center", justifyContent:"center", fontSize:22, color:GOLD}}>✦</div>
                 <div style={{flex:1}}>
                   <div style={{fontSize:9, letterSpacing:3, color:"rgba(201,168,76,0.55)", marginBottom:4}}>{activeSource.tier} · {activeSource.meta}</div>
                   <div style={{fontSize:22, fontWeight:700, color:"#F2E8D0", lineHeight:1.2, marginBottom:4}}>{activeSource.title}</div>
