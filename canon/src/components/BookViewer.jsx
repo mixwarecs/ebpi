@@ -268,7 +268,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           {" — "}
           {bookData ? (bookData.significado[lang] || bookData.significado.es) : UI[lang].subline.split(" — ")[1]}
         </p>
-        <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fit, minmax(160px,1fr))", gap:"14px 24px", maxWidth:780, margin:"0 auto", textAlign:"left", padding:"0 20px"}}>
+        <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fit, minmax(160px,1fr))", gap:"14px 24px", maxWidth:960, margin:"0 auto", textAlign:"left", padding:"0 20px"}}>
           {UI[lang].metaLabels.map((label, i) => {
             const values = [
               bookData ? `${bookData.tituloOriginal} · ${bookData.transliteracion}` : "בְּרֵאשִׁית · Bereshit",

@@ -641,7 +641,7 @@ export const GS = {
   metaLabel: { fontSize: 9, letterSpacing: 3, color: "rgba(201,168,76,0.55)", marginBottom: 5, textTransform: "uppercase" },
   metaValue: { fontSize: 15, color: PARCHMENT, lineHeight: 1.4 },
   divider: { height: 1, background: "linear-gradient(90deg,rgba(201,168,76,0.2),transparent)", margin: "18px 0" },
-  prose: { fontSize: 16, lineHeight: 1.78, color: "rgba(242,232,208,0.82)", maxWidth: 860 },
+  prose: { fontSize: 16, lineHeight: 1.78, color: "rgba(242,232,208,0.82)", maxWidth: 1080 },
   theoGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(280px,1fr))", gap: 16, marginBottom: 20 },
   theoCard: { background: "rgba(27,42,74,0.4)", border: `1px solid rgba(201,168,76,0.12)`, borderRadius: 3, padding: 18 },
   theoCardTitle: { fontSize: 9, letterSpacing: 3, color: GOLD, marginBottom: 10, paddingBottom: 8, borderBottom: `1px solid rgba(201,168,76,0.15)` },

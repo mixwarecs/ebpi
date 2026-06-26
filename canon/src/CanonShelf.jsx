@@ -77,6 +77,13 @@ export default function CanonShelf() {
   const [personasDisplay, setPersonasDisplay] = useState({});
   const [lang, setLang] = useState(() => getInitialState().lang);
   const [copied, setCopied] = useState(false);
+  const [railOpen, setRailOpen] = useState(() => {
+    try { return localStorage.getItem("canon_rail_open") === "true"; } catch { return false; }
+  });
+
+  useEffect(() => {
+    try { localStorage.setItem("canon_rail_open", String(railOpen)); } catch {}
+  }, [railOpen]);
 
   useEffect(() => {
     fetch("/data/books-manifest.json").then(r => r.json()).then(setManifest).catch(() => {});
@@ -194,7 +201,7 @@ export default function CanonShelf() {
 
   const openBook = (book) => {
     if (book.ready) {
-      navigate({ mode: "book", id: book.id, tab: "overview" });
+      navigate({ mode: "book", id: book.id, tab: view.tab || "overview" });
     } else {
       openDivision(book.div);
     }
@@ -202,15 +209,51 @@ export default function CanonShelf() {
   const goIndex = () => navigate({ mode: "index" });
 
   const GRID_COLS = 4;
-  const renderRail = (books, side) => {
+  const renderRail = (books, side, bookMode = false) => {
+    if (bookMode && !railOpen) {
+      return (
+        <button
+          onClick={() => setRailOpen(true)}
+          title={side === "left" ? UI[lang].ot : UI[lang].nt}
+          style={{
+            width: 32, flexShrink: 0, padding: 0,
+            background: "linear-gradient(180deg, rgba(27,42,74,0.95), rgba(20,32,58,0.97))",
+            borderTop: "none", borderBottom: "none",
+            borderRight: side === "left" ? `1px solid rgba(201,168,76,0.15)` : "none",
+            borderLeft: side === "right" ? `1px solid rgba(201,168,76,0.15)` : "none",
+            cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center",
+          }}
+        >
+          <span style={{ color: "rgba(201,168,76,0.45)", fontSize: 16, userSelect: "none", lineHeight: 1 }}>
+            {side === "left" ? "›" : "‹"}
+          </span>
+        </button>
+      );
+    }
     const heights = books.map(b => tabCellHeight(b[lang] || b.es));
     const columns = balancedContiguousSplit(books, heights, GRID_COLS);
     return (
       <nav style={S.tabRail(side)}>
-        <div style={S.railHeader}>
-          <div style={S.railTitle}>{side === "left" ? UI[lang].ot : UI[lang].nt}</div>
-          <div style={S.railSub}>{UI[lang].books(books.length)}</div>
-        </div>
+        {bookMode ? (
+          <button
+            onClick={() => setRailOpen(false)}
+            title="Collapse"
+            style={{
+              width: "100%", background: "none", padding: "5px 0 6px",
+              borderTop: "none", borderLeft: "none", borderRight: "none",
+              borderBottom: `1px solid rgba(201,168,76,0.1)`,
+              cursor: "pointer", color: "rgba(201,168,76,0.5)", fontSize: 14,
+              textAlign: "center", marginBottom: 4, display: "block",
+            }}
+          >
+            {side === "left" ? "‹" : "›"}
+          </button>
+        ) : (
+          <div style={S.railHeader}>
+            <div style={S.railTitle}>{side === "left" ? UI[lang].ot : UI[lang].nt}</div>
+            <div style={S.railSub}>{UI[lang].books(books.length)}</div>
+          </div>
+        )}
         <div style={S.tabColumns}>
           {columns.map((col, ci) => (
             <div key={ci} style={S.tabColumn}>
@@ -218,7 +261,7 @@ export default function CanonShelf() {
                 const d = activeDivById[b.div] || DIV_BY_ID[b.div];
                 const active = (view.mode === "book" && view.id === b.id) || (view.mode === "division" && view.id === b.div);
                 return (
-                  <button key={b.id} style={S.stepTab(d.color, active, tabCellHeight(b[lang] || b.es))} onClick={() => openBook(b)} title={b[lang] || b.es}>
+                  <button key={b.id} style={S.stepTab(d.color, active, tabCellHeight(b[lang] || b.es))} onClick={() => { openBook(b); if (bookMode) setRailOpen(false); }} title={b[lang] || b.es}>
                     <span style={S.stepTabLabel(active, true)}>{b[lang] || b.es}</span>
                     {b.ready && <span style={S.readyDot} />}
                   </button>
@@ -298,7 +341,7 @@ export default function CanonShelf() {
       </div>
       <div style={S.bookFrame}>
         <div style={S.book}>
-          {!isBookOpen && renderRail(activeOTBooks, "left")}
+          {renderRail(activeOTBooks, "left", isBookOpen)}
           {!isBookOpen && <div style={S.gutterShadowLeft} />}
           {!isBookOpen && <div style={S.gutterShadowRight} />}
           {!isBookOpen && <div style={S.gutterLine} />}
@@ -351,7 +394,7 @@ export default function CanonShelf() {
             )}
           </div>
 
-          {!isBookOpen && renderRail(activeNTBooks, "right")}
+          {renderRail(activeNTBooks, "right", isBookOpen)}
         </div>
       </div>
       <div style={S.mobileNote}>{u.footer}</div>
