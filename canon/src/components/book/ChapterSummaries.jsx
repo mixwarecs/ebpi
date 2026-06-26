@@ -210,7 +210,6 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
               background: (playingIdx === i || highlightIdx === i) ? "rgba(201,168,76,0.07)" : "transparent",
               backdropFilter: (playingIdx === i || highlightIdx === i) ? "blur(10px)" : "none",
               boxShadow: (playingIdx === i || highlightIdx === i) ? "0 4px 20px rgba(201,168,76,0.08), inset 0 1px 0 rgba(201,168,76,0.12)" : "none",
-              transition: "all 0.4s",
             }}
           >
             <div style={{
