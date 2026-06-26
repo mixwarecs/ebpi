@@ -78,7 +78,10 @@ export default function CanonShelf() {
   const [lang, setLang] = useState(() => getInitialState().lang);
   const [copied, setCopied] = useState(false);
   const [railOpen, setRailOpen] = useState(() => {
-    try { return localStorage.getItem("canon_rail_open") === "true"; } catch { return false; }
+    try {
+      const saved = localStorage.getItem("canon_rail_open");
+      return saved === null ? true : saved === "true";
+    } catch { return true; }
   });
 
   useEffect(() => {
@@ -261,7 +264,7 @@ export default function CanonShelf() {
                 const d = activeDivById[b.div] || DIV_BY_ID[b.div];
                 const active = (view.mode === "book" && view.id === b.id) || (view.mode === "division" && view.id === b.div);
                 return (
-                  <button key={b.id} style={S.stepTab(d.color, active, tabCellHeight(b[lang] || b.es))} onClick={() => { openBook(b); if (bookMode) setRailOpen(false); }} title={b[lang] || b.es}>
+                  <button key={b.id} style={S.stepTab(d.color, active, tabCellHeight(b[lang] || b.es))} onClick={() => openBook(b)} title={b[lang] || b.es}>
                     <span style={S.stepTabLabel(active, true)}>{b[lang] || b.es}</span>
                     {b.ready && <span style={S.readyDot} />}
                   </button>
