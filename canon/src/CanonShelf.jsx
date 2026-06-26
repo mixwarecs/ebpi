@@ -351,9 +351,9 @@ export default function CanonShelf() {
       <div style={S.bookFrame}>
         <div style={S.book}>
           {renderRail(activeOTBooks, "left", isBookOpen)}
-          {!isBookOpen && <div style={S.gutterShadowLeft} />}
-          {!isBookOpen && <div style={S.gutterShadowRight} />}
-          {!isBookOpen && <div style={S.gutterLine} />}
+          <div style={S.gutterShadowLeft} />
+          <div style={S.gutterShadowRight} />
+          <div style={S.gutterLine} />
 
           <div style={S.pages}>
             {isBookOpen ? (
