@@ -95,7 +95,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               {lv(cap(bookData?.proposito?.[lang] || bookData?.proposito?.es || ""))}
             </div>
             <div style={GS.audienceBox}>
-              <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.8)"}}>{PL.audience}</div>
+              <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(201,168,76,0.88)", textShadow:"0 1px 4px rgba(0,0,0,0.7)"}}>{PL.audience}</div>
               <div style={{fontStyle:"italic", fontSize:15, color:"rgba(242,232,208,0.8)", lineHeight:1.65}}>
                 {lv(bookData?.destinatario?.[lang] || bookData?.destinatario?.es || "")}
               </div>
@@ -204,8 +204,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 ))}
               </div>
             </div>
-            <div style={{background:"linear-gradient(90deg,rgba(139,58,42,0.12),rgba(139,58,42,0.02))", borderLeft:`3px solid ${SIENNA}`, padding:"14px 18px", borderRadius:"0 3px 3px 0"}}>
-              <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(139,58,42,0.9)"}}>{HL.controversies}</div>
+            <div style={{background:"linear-gradient(90deg,rgba(201,168,76,0.10),rgba(201,168,76,0.02))", borderLeft:`3px solid rgba(201,168,76,0.50)`, padding:"14px 18px", borderRadius:"0 3px 3px 0"}}>
+              <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(201,168,76,0.88)", textShadow:"0 1px 4px rgba(0,0,0,0.7)"}}>{HL.controversies}</div>
               <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.75, color:"rgba(242,232,208,0.78)"}}>{lv(cap(HCo))}</div>
             </div>
           </div>
