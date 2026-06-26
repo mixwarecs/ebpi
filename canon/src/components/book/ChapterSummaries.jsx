@@ -76,7 +76,7 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, on
           marginBottom: 4,
           textTransform: "uppercase",
         }}>
-          {label} {chapter} / {count}
+          {label} {idx + 1} / {count}
         </div>
       )}
       <audio

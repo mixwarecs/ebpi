@@ -277,7 +277,7 @@ Fix all reported errors before delivering. Common issues:
 - Verse ref ranges in `genesis[]` fields (e.g. `Ex 21:1–23:19`) → use only single refs or the first verse of the range
 - Missing required trilingual fields — check the quality checklist
 
-Once the validator reports `✅ VALID`, copy the file to the project data directories and mention that the `canon-bible-viewer` skill can render it as an interactive app.
+Once the validator reports `✅ VALID`, copy the file to `canon/public/data/[book-lowercase].json` (the single data directory served by the app) and mention that the `canon-bible-viewer` skill can render it as an interactive app.
 
 ## Reference files
 
