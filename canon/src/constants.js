@@ -343,7 +343,7 @@ export const UI = {
     headerIndex: "Toca una clasificación para conocer su trasfondo histórico, por qué se agrupa así, y los libros que la componen.",
     headerDiv: (t, r) => `Explorando ${t} — ${r}. Toca un libro a la izquierda o derecha, o vuelve al índice de clasificaciones.`,
     headerGenesis: "Recorre la línea de tiempo de Génesis: personajes, capítulos y teología sistemática interactiva.",
-    headerBook: b => `Leyendo ${b}. Toca otro libro para navegar, o vuelve al índice de clasificaciones.`,
+    headerBook: b => `Leyendo ${b}. Usa los paneles laterales para saltar a otro libro, o vuelve al estante.`,
     theologyLabels: {
       doctrines: "DOCTRINAS", sysTheology: "TEOLOGÍA SISTEMÁTICA",
       whatTeaches: t => `LO QUE ${t} ENSEÑA`, keyPassages: t => `PASAJES CLAVE EN ${t}`,
@@ -412,7 +412,7 @@ export const UI = {
     headerIndex: "Tap a classification to explore its historical background, why it's grouped this way, and its books.",
     headerDiv: (t, r) => `Exploring ${t} — ${r}. Tap a book on the left or right, or return to the index.`,
     headerGenesis: "Explore the Genesis timeline: characters, chapters, and interactive systematic theology.",
-    headerBook: b => `Reading ${b}. Tap another book to navigate, or return to the index.`,
+    headerBook: b => `Reading ${b}. Use the side panels to jump to another book, or return to the shelf.`,
     theologyLabels: {
       doctrines: "DOCTRINES", sysTheology: "SYSTEMATIC THEOLOGY",
       whatTeaches: t => `WHAT ${t} TEACHES`, keyPassages: t => `KEY PASSAGES IN ${t}`,
@@ -481,7 +481,7 @@ export const UI = {
     headerIndex: "Toque em uma classificação para conhecer seu contexto histórico, por que é agrupada assim e seus livros.",
     headerDiv: (t, r) => `Explorando ${t} — ${r}. Toque em um livro à esquerda ou direita, ou volte ao índice.`,
     headerGenesis: "Explore a linha do tempo de Gênesis: personagens, capítulos e teologia sistemática interativa.",
-    headerBook: b => `Lendo ${b}. Toque em outro livro para navegar, ou volte ao índice.`,
+    headerBook: b => `Lendo ${b}. Use os painéis laterais para ir a outro livro, ou volte à estante.`,
     theologyLabels: {
       doctrines: "DOUTRINAS", sysTheology: "TEOLOGIA SISTEMÁTICA",
       whatTeaches: t => `O QUE ${t} ENSINA`, keyPassages: t => `PASSAGENS-CHAVE EM ${t}`,
