@@ -304,6 +304,13 @@ export default function CanonShelf() {
 
   return (
     <div style={S.outer}>
+      <style>{`
+        @keyframes pageOpen {
+          0%   { opacity:0; transform: perspective(1200px) rotateY(-28deg) translateX(-24px) scaleX(0.97); }
+          35%  { opacity:1; }
+          100% { opacity:1; transform: perspective(1200px) rotateY(0deg) translateX(0px) scaleX(1); }
+        }
+      `}</style>
       <div style={{ position: "relative", width: "100%", maxWidth: 1400, height: 68, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, marginBottom: 18 }}>
         <div style={{ position: "absolute", left: 0, right: 0, top: "50%", transform: "translateY(-50%)", height: 3, background: "linear-gradient(90deg, transparent, #C9A84C, #8B3A2A, #C9A84C, transparent)" }} />
         <img src={ebpiLogo} alt="EBPI" style={{ position: "relative", zIndex: 1, height: 64, width: "auto", opacity: 0.75, filter: "drop-shadow(0 0 7px rgba(201,168,76,0.5)) drop-shadow(0 0 5px rgba(107,63,160,0.45))" }} />
@@ -356,6 +363,7 @@ export default function CanonShelf() {
           <div style={S.gutterLine} />
 
           <div style={S.pages}>
+            <div key={`${view.mode}-${view.id ?? 'root'}`} style={{display:"flex", flex:1, minWidth:0, animation:"pageOpen 0.75s cubic-bezier(0.22,1,0.36,1) both", transformOrigin:"left center"}}>
             {isBookOpen ? (
               <BookViewer
                 onBack={goIndex}
@@ -401,6 +409,7 @@ export default function CanonShelf() {
                 </div>
               </div>
             )}
+            </div>
           </div>
 
           {renderRail(activeNTBooks, "right", isBookOpen)}
