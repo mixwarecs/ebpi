@@ -151,6 +151,52 @@ export const BOOK_MAP = {
 
 export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "ARC" };
 
+// Maps ES abbreviation → EN / PT abbreviations for display (not BibleGateway URLs)
+const ES_TO_EN = {
+  "Gn":"Gen","Éx":"Exod","Lv":"Lev","Nm":"Num","Dt":"Deut",
+  "Jos":"Josh","Jue":"Judg","Rt":"Ruth",
+  "1S":"1Sam","2S":"2Sam","1R":"1Kgs","2R":"2Kgs",
+  "1Cr":"1Chr","2Cr":"2Chr","Esd":"Ezra","Neh":"Neh","Est":"Esth",
+  "Job":"Job","Sal":"Ps","Pr":"Prov","Ec":"Eccl","Cnt":"Song",
+  "Is":"Isa","Jer":"Jer","Lm":"Lam","Ez":"Ezek","Dn":"Dan",
+  "Os":"Hos","Jl":"Joel","Am":"Amos","Abd":"Obad","Jon":"Jonah",
+  "Miq":"Mic","Nah":"Nah","Hab":"Hab","Sof":"Zeph","Hag":"Hag",
+  "Zac":"Zech","Mal":"Mal",
+  "Mt":"Matt","Mr":"Mark","Lc":"Luke","Jn":"John","Hch":"Acts",
+  "Ro":"Rom","1Co":"1Cor","2Co":"2Cor","Gá":"Gal","Ef":"Eph",
+  "Fil":"Phil","Col":"Col","1Ts":"1Thess","2Ts":"2Thess",
+  "1Ti":"1Tim","2Ti":"2Tim","Tit":"Titus","Flm":"Phlm",
+  "He":"Heb","Stg":"Jas","1P":"1Pet","2P":"2Pet",
+  "1Jn":"1John","2Jn":"2John","3Jn":"3John","Jud":"Jude","Ap":"Rev",
+};
+
+const ES_TO_PT = {
+  "Gn":"Gn","Éx":"Êx","Lv":"Lv","Nm":"Nm","Dt":"Dt",
+  "Jos":"Js","Jue":"Jz","Rt":"Rt",
+  "1S":"1Sm","2S":"2Sm","1R":"1Rs","2R":"2Rs",
+  "1Cr":"1Cr","2Cr":"2Cr","Esd":"Ed","Neh":"Ne","Est":"Et",
+  "Job":"Jó","Sal":"Sl","Pr":"Pv","Ec":"Ec","Cnt":"Ct",
+  "Is":"Is","Jer":"Jr","Lm":"Lm","Ez":"Ez","Dn":"Dn",
+  "Os":"Os","Jl":"Jl","Am":"Am","Abd":"Ab","Jon":"Jn",
+  "Miq":"Mq","Nah":"Na","Hab":"Hc","Sof":"Sf","Hag":"Ag",
+  "Zac":"Zc","Mal":"Ml",
+  "Mt":"Mt","Mr":"Mc","Lc":"Lc","Jn":"Jo","Hch":"At",
+  "Ro":"Rm","1Co":"1Co","2Co":"2Co","Gá":"Gl","Ef":"Ef",
+  "Fil":"Fp","Col":"Cl","1Ts":"1Ts","2Ts":"2Ts",
+  "1Ti":"1Tm","2Ti":"2Tm","Tit":"Tt","Flm":"Fm",
+  "He":"Hb","Stg":"Tg","1P":"1Pe","2P":"2Pe",
+  "1Jn":"1Jo","2Jn":"2Jo","3Jn":"3Jo","Jud":"Jd","Ap":"Ap",
+};
+
+// Translate a ref stored in ES abbreviation format to the display lang
+export function translateRef(ref, lang) {
+  if (!ref || lang === "es") return ref;
+  const map = lang === "en" ? ES_TO_EN : ES_TO_PT;
+  const abbrev = ref.split(" ")[0];
+  const rest = ref.slice(abbrev.length);
+  return (map[abbrev] || abbrev) + rest;
+}
+
 export function verseUrl(ref, lang = "es") {
   if (!ref) return null;
   const clean = ref.trim().split("—")[0].trim();

@@ -1,5 +1,5 @@
 import { UI, S } from "../constants";
-import { linkifyVerses } from "../utils";
+import { linkifyVerses, translateRef } from "../utils";
 import VerseLink from "./VerseLink";
 
 export default function DivisionTour({ division: d, onSelectBook, onBack, lang = "es" }) {
@@ -45,7 +45,7 @@ export default function DivisionTour({ division: d, onSelectBook, onBack, lang =
 
       <div style={S.verseBox}>
         <div style={S.verseRef}>{kv}</div>
-        <VerseLink lang={lang} style={{ fontSize: 16 }}>{d.versiculoClave}</VerseLink>
+        <VerseLink lang={lang} style={{ fontSize: 16 }}>{translateRef(d.versiculoClave, lang)}</VerseLink>
       </div>
 
       <div style={S.sectionLabel()}>{books}</div>
