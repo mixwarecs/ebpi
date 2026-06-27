@@ -353,10 +353,11 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
 
       <div style={{marginTop:8}}>
         <div style={{
-          display:"flex", borderBottom:`1px solid rgba(201,168,76,0.15)`,
-          borderTop:`1px solid rgba(139,90,20,0.12)`,
+          display:"flex", borderBottom:`1px solid rgba(139,90,20,0.30)`,
+          borderTop:`1px solid rgba(139,90,20,0.20)`,
           padding:"0", gap:0,
-          background:"rgba(201,168,76,0.07)",
+          backgroundImage:"linear-gradient(rgba(210,170,90,0.28), rgba(185,140,55,0.20)), url('/textures/pergament.jpg')",
+          backgroundSize:"cover", backgroundPosition:"center",
         }}>
           {[
             { id:"timeline",   label: UI[lang].timelineLabel },
@@ -407,7 +408,10 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           <div key="summaries" style={{
             borderTop:"1px solid rgba(139,90,20,0.15)",
             overflowY:"auto",
-            animation:"tabReveal 1.4s cubic-bezier(0.22,1,0.36,1) both",
+            backgroundImage:"linear-gradient(rgba(200,160,80,0.18), rgba(180,130,50,0.12)), url('/textures/pergament.jpg')",
+            backgroundSize:"cover",
+            backgroundPosition:"center",
+            animation:"tabReveal 3.6s cubic-bezier(0.22,1,0.36,1) both",
             WebkitMaskImage:"linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
             WebkitMaskSize:"2% 100%", WebkitMaskPosition:"50% 0", WebkitMaskRepeat:"no-repeat",
             maskImage:"linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
