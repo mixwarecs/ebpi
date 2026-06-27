@@ -240,8 +240,8 @@ export default function CanonShelf() {
           title={side === "left" ? UI[lang].ot : UI[lang].nt}
           style={{
             width: 32, flexShrink: 0, padding: 0,
-            backgroundImage: "linear-gradient(180deg, rgba(12,6,2,0.52), rgba(10,5,2,0.60)), url('/textures/leather-fine.jpg')",
-            backgroundSize: "auto, 300px", backgroundPosition: "center",
+            backgroundImage: "repeating-linear-gradient(90deg, transparent 0px, transparent 3px, rgba(235,215,175,0.18) 3px, rgba(235,215,175,0.18) 4px), linear-gradient(180deg, rgba(30,15,3,0.65), rgba(20,10,2,0.72)), url('/textures/pergament.jpg')",
+            backgroundSize: "auto, auto, cover", backgroundPosition: "center",
             borderTop: "none", borderBottom: "none",
             borderRight: side === "left" ? `1px solid rgba(201,168,76,0.15)` : "none",
             borderLeft: side === "right" ? `1px solid rgba(201,168,76,0.15)` : "none",
