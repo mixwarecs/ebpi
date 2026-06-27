@@ -553,22 +553,22 @@ export const S = {
   railTitle: { fontSize: 14, letterSpacing: 3, fontWeight: 700, fontFamily: "'Georgia',serif", color: GOLD },
   railSub: { fontSize: 11, letterSpacing: 1, fontWeight: 500, color: "rgba(242,232,208,0.65)", marginTop: 3 },
   tabColumns: { display: "flex", gap: 0.5 },
-  tabColumn: { display: "flex", flexDirection: "column", gap: 3, flex: 1, minWidth: 0 },
-  stepTab: (color, active, height) => ({
+  tabColumn: { display: "flex", flexDirection: "column", gap: 5, flex: 1, minWidth: 0 },
+  stepTab: (color, active, height, side) => ({
     display: "flex", alignItems: "center", justifyContent: "center",
-    width: "calc(100% - 6px)", marginLeft: 3, minHeight: height, position: "relative",
+    width: "100%", marginLeft: 0, minHeight: height, position: "relative",
     cursor: "pointer", padding: "12px 0px",
     backgroundColor: color,
     backgroundImage: active
       ? "linear-gradient(180deg, rgba(0,0,0,0.08), rgba(0,0,0,0.42))"
-      : "linear-gradient(180deg, rgba(0,0,0,0.20), rgba(0,0,0,0.55))",
-    border: `1px solid rgba(0,0,0,0.45)`,
+      : "linear-gradient(180deg, rgba(0,0,0,0.28), rgba(0,0,0,0.60))",
+    border: "none",
     borderTop: `1px solid rgba(255,255,255,0.12)`,
-    borderRadius: "6px",
+    borderRadius: side === "right" ? "0 10px 10px 0" : "10px 0 0 10px",
     filter: "none",
     boxShadow: active
-      ? `0 4px 14px rgba(0,0,0,0.70), 0 1px 3px rgba(0,0,0,0.55), inset 0 1px 0 rgba(255,255,255,0.14), inset 0 -3px 8px rgba(0,0,0,0.45)`
-      : `0 2px 6px rgba(0,0,0,0.55), inset 0 -2px 6px rgba(0,0,0,0.40)`,
+      ? `inset 0 1px 0 rgba(255,255,255,0.14), inset 0 -3px 8px rgba(0,0,0,0.45)`
+      : `inset 0 -2px 6px rgba(0,0,0,0.40)`,
     transition: "box-shadow 0.12s, background-image 0.12s",
   }),
   stepTabLabel: (active, ready) => ({
@@ -691,7 +691,7 @@ export const GS = {
   sourceTitle: { fontSize: 17, fontWeight: 700, color: "rgba(22,8,2,0.92)", lineHeight: 1.3, marginBottom: 4 },
   sourceAuthor: { fontStyle: "italic", fontSize: 14, color: "rgba(35,15,4,0.80)", marginBottom: 4 },
   sourceMeta: { fontSize: 12, letterSpacing: 1.5, color: "rgba(80,50,12,0.82)" },
-  timelineWrap: { overflowX: "auto", padding: "52px 40px 100px", cursor: "grab", position: "relative", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
+  timelineWrap: { overflowX: "auto", padding: "18px 40px 100px", cursor: "grab", position: "relative", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
   timelineInner: { position: "relative", width: 4200, height: 520 },
   spine: { position: "absolute", top: "50%", left: 0, right: 0, height: 2, background: `linear-gradient(90deg,transparent,rgba(201,168,76,0.3) 2%,${GOLD} 20%,${GOLD} 80%,rgba(201,168,76,0.3) 98%,transparent)`, transform: "translateY(-50%)" },
   overlay: (open) => ({ position: "fixed", inset: 0, background: "rgba(18,10,3,0.65)", backdropFilter: "blur(4px)", zIndex: 1000, display: "flex", alignItems: "center", justifyContent: "center", padding: "max(16px, env(safe-area-inset-top,16px)) 16px max(16px, env(safe-area-inset-bottom,16px))", opacity: open ? 1 : 0, pointerEvents: open ? "all" : "none", transition: "opacity 0.25s" }),

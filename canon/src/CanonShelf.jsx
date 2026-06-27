@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Share2, Check, ChevronsLeft, ChevronsRight } from "lucide-react";
+import { Share2, Check, ChevronsLeft, ChevronsRight, Sparkles } from "lucide-react";
 import { adaptManifestBook } from "./adapters/canonToViewer";
 import { GOLD, LAPIS_DEEP, BOOKS, DIVISIONS, DIV_BY_ID, S, UI } from "./constants";
 import { tabCellHeight, balancedContiguousSplit } from "./utils";
@@ -269,9 +269,11 @@ export default function CanonShelf() {
                 const d = activeDivById[b.div] || DIV_BY_ID[b.div];
                 const active = (view.mode === "book" && view.id === b.id) || (view.mode === "division" && view.id === b.div);
                 return (
-                  <button key={b.id} style={S.stepTab(d.color, active, tabCellHeight(b[lang] || b.es))} onClick={() => openBook(b)} title={b[lang] || b.es}>
-                    <span style={S.stepTabLabel(active, true)}>{b[lang] || b.es}</span>
-                    {b.ready && <span style={S.readyDot} />}
+                  <button key={b.id} style={S.stepTab(d.color, active, tabCellHeight(b[lang] || b.es), side)} onClick={() => openBook(b)} title={b[lang] || b.es}>
+                    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 3 }}>
+                      <span style={S.stepTabLabel(active, true)}>{b[lang] || b.es}</span>
+                      {b.ready && <Sparkles size={8} color="#C9A84C" style={{ flexShrink: 0, filter: "drop-shadow(0 0 3px rgba(201,168,76,0.75))" }} />}
+                    </div>
                   </button>
                 );
               })}

@@ -398,7 +398,9 @@ export default function SplashScreen({ onEnter }) {
               overflow: "hidden",
               borderRadius: "0 4px 4px 0",
               background:
-                "repeating-linear-gradient(0deg,#e8dcc8 0px,#f0e6d0 2px,#e2d4b8 3px,#ecdec8 5px)",
+                "url('/textures/pergament.jpg')",
+              backgroundSize: "cover",
+              backgroundPosition: "center",
               borderTop: "1px solid rgba(201,168,76,0.18)",
               borderBottom: "1px solid rgba(201,168,76,0.18)",
               borderRight: "1px solid rgba(201,168,76,0.18)",
