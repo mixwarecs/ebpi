@@ -9,7 +9,7 @@ const PAGES_W = 18;
 const LABELS = {
   es: {
     appName: "Exploración Bíblica\nPanorámica Interactiva",
-    subtitle: "66 Libros · Teología Reformada · Pacto de Gracia",
+    subtitle: "66 Libros · Teología Protestante · Reformada ",
     enter: "Abrir  ›",
     continue: "Continuar Lectura  ›",
   },
@@ -226,21 +226,20 @@ export default function SplashScreen({ onEnter }) {
                     "linear-gradient(155deg, rgba(18,8,2,0.46) 0%, rgba(12,6,1,0.55) 100%)",
                 }}
               />
-              {/* Embossed outer gold frame */}
+              {/* Stitched leather border */}
               <div
                 style={{
                   position: "absolute",
                   inset: 14,
-                  border: "1px solid rgba(201,168,76,0.34)",
-                  pointerEvents: "none",
-                }}
-              />
-              {/* Embossed inner gold frame */}
-              <div
-                style={{
-                  position: "absolute",
-                  inset: 20,
-                  border: "1px solid rgba(201,168,76,0.13)",
+                  backgroundImage: [
+                    "repeating-linear-gradient(90deg, rgba(201,168,76,0.60) 0px, rgba(201,168,76,0.60) 7px, transparent 7px, transparent 13px)",
+                    "repeating-linear-gradient(90deg, rgba(201,168,76,0.60) 0px, rgba(201,168,76,0.60) 7px, transparent 7px, transparent 13px)",
+                    "repeating-linear-gradient(0deg,  rgba(201,168,76,0.60) 0px, rgba(201,168,76,0.60) 7px, transparent 7px, transparent 13px)",
+                    "repeating-linear-gradient(0deg,  rgba(201,168,76,0.60) 0px, rgba(201,168,76,0.60) 7px, transparent 7px, transparent 13px)",
+                  ].join(","),
+                  backgroundSize: "13px 2px, 13px 2px, 2px 13px, 2px 13px",
+                  backgroundPosition: "0 0, 0 100%, 0 0, 100% 0",
+                  backgroundRepeat: "repeat-x, repeat-x, repeat-y, repeat-y",
                   pointerEvents: "none",
                 }}
               />
@@ -323,6 +322,7 @@ export default function SplashScreen({ onEnter }) {
                     letterSpacing: "0.14em",
                     lineHeight: 2,
                     textTransform: "uppercase",
+                    fontWeight: 700,
                     marginBottom: 40,
                   }}
                 >

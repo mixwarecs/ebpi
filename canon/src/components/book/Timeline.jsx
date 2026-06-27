@@ -124,7 +124,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
                   onMouseLeave={() => setCharTooltip(null)}
                   style={{ display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center", cursor:"pointer" }}>
                   <div style={{padding:"7px 4px", maxWidth:100, overflow:"hidden"}}>
-                    <div style={{fontSize:12, fontWeight:700, letterSpacing:0.5, color:"rgba(22,8,2,0.88)", textAlign:"center", lineHeight:1.15,
+                    <div style={{fontSize:12, fontWeight:700, letterSpacing:0.5, color:c.color, textAlign:"center", lineHeight:1.15,
                       whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif"}}>{c.name}</div>
                   </div>
                   <div style={{width:48, height:48, borderRadius:"50%", border:`2px solid ${c.color}`,
