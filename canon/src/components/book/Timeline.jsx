@@ -128,7 +128,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
                       whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif"}}>{c.name}</div>
                   </div>
                   <div style={{width:48, height:48, borderRadius:"50%", border:`2px solid ${c.color}`,
-                    background:`linear-gradient(135deg,rgba(22,13,4,0.92),rgba(201,168,76,0.08))`,
+                    background:`linear-gradient(135deg,rgba(60,38,14,0.38),rgba(201,168,76,0.32))`,
                     display:"flex", alignItems:"center", justifyContent:"center",
                     fontSize:14, fontWeight:700, color:c.color,
                     boxShadow:`0 4px 16px rgba(0,0,0,0.5), 0 0 0 3px ${c.color}20`, flexShrink:0}}>

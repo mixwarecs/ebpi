@@ -252,6 +252,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           to   { transform: translateY(0);    opacity: 1; }
         }
         nav::-webkit-scrollbar { display: none; }
+        .canon-tab:not(:last-child) { border-right: 1px solid rgba(139,90,20,0.20) !important; }
+        .canon-tab:not([data-active="true"]):hover { background: rgba(201,168,76,0.10) !important; color: rgba(80,45,10,0.90) !important; }
       `}</style>
       <div style={GS.topBar} />
 
@@ -312,7 +314,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         <div style={GS.tabNavWrap}>
           <nav style={GS.tabNav}>
             {TABS.map((t, i) => (
-              <button key={t.id} style={GS.tabBtn(activeTab===t.id)} onClick={() => onTabChange(t.id)}>
+              <button key={t.id} className="canon-tab" data-active={activeTab===t.id} style={GS.tabBtn(activeTab===t.id)} onClick={() => onTabChange(t.id)} onMouseDown={e => e.preventDefault()}>
                 {UI[lang].tabs[i]}
               </button>
             ))}
@@ -329,7 +331,9 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
       <div style={{marginTop:8}}>
         <div style={{
           display:"flex", borderBottom:`1px solid rgba(201,168,76,0.15)`,
-          padding:"0 24px", gap:0,
+          borderTop:`1px solid rgba(139,90,20,0.12)`,
+          padding:"0", gap:0,
+          background:"rgba(201,168,76,0.07)",
         }}>
           {[
             { id:"timeline",   label: UI[lang].timelineLabel },
@@ -337,7 +341,10 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           ].map(({ id, label }) => (
             <button
               key={id}
+              className="canon-tab"
+              data-active={bottomTab === id}
               onClick={() => { setBottomTab(id); onBottomTabChange?.(id); }}
+              onMouseDown={e => e.preventDefault()}
               style={GS.tabBtn(bottomTab === id)}
             >
               {label}
