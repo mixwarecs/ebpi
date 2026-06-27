@@ -579,7 +579,7 @@ export const S = {
     textShadow: "0 1px 3px rgba(0,0,0,0.65)",
   }),
   readyDot: { width: 3.5, height: 3.5, borderRadius: "50%", background: GOLD, position: "absolute", top: 1.5, right: 1.5, boxShadow: "0 0 4px rgba(201,168,76,0.9)" },
-  pages: { flex: 1, minWidth: 0, display: "flex", position: "relative" },
+  pages: { flex: 1, minWidth: 0, display: "flex", position: "relative", backgroundImage: "linear-gradient(rgba(18,10,3,0.55), rgba(12,7,2,0.60)), url('/textures/parchment-warm.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
   page: { flex: 1, minWidth: 0, overflowY: "auto", padding: "36px 30px 60px", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
   fullPage: { flex: 1, minWidth: 0, overflowY: "auto", padding: "40px 56px 70px", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
   fullPageInner: { maxWidth: 880, margin: "0 auto", textAlign: "left" },

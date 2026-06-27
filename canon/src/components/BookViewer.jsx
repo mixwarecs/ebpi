@@ -251,6 +251,18 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           from { transform: translateY(100%); opacity: 0; }
           to   { transform: translateY(0);    opacity: 1; }
         }
+        @keyframes tabReveal {
+          from {
+            -webkit-mask-size: 2% 100%;
+            mask-size: 2% 100%;
+            opacity: 0.3;
+          }
+          to {
+            -webkit-mask-size: 200% 100%;
+            mask-size: 200% 100%;
+            opacity: 1;
+          }
+        }
         nav::-webkit-scrollbar { display: none; }
         .canon-tab:not(:last-child) { border-right: 1px solid rgba(139,90,20,0.20) !important; }
         .canon-tab:not([data-active="true"]):hover { background: rgba(201,168,76,0.10) !important; color: rgba(80,45,10,0.90) !important; }
@@ -323,7 +335,18 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             <span style={{fontSize:16, color:"rgba(201,168,76,0.5)", animation:"tabFadeArrow 1.5s ease-in-out infinite"}}>›</span>
           </div>
         </div>
-        <div style={GS.tabPanels}>
+        <div key={activeTab} style={{
+          ...GS.tabPanels,
+          animation: "tabReveal 3.6s cubic-bezier(0.22,1,0.36,1) both",
+          WebkitMaskImage: "linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+          WebkitMaskSize: "2% 100%",
+          WebkitMaskPosition: "50% 0",
+          WebkitMaskRepeat: "no-repeat",
+          maskImage: "linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+          maskSize: "2% 100%",
+          maskPosition: "50% 0",
+          maskRepeat: "no-repeat",
+        }}>
           {renderTab()}
         </div>
       </div>
@@ -353,6 +376,13 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         </div>
 
         {bottomTab === "timeline" && (
+          <div key="timeline" style={{
+            animation:"tabReveal 1.4s cubic-bezier(0.22,1,0.36,1) both",
+            WebkitMaskImage:"linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+            WebkitMaskSize:"2% 100%", WebkitMaskPosition:"50% 0", WebkitMaskRepeat:"no-repeat",
+            maskImage:"linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+            maskSize:"2% 100%", maskPosition:"50% 0", maskRepeat:"no-repeat",
+          }}>
           <>
             <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(70,38,10,0.65)", fontStyle:"italic", letterSpacing:1}}>
               {UI[lang].hint}
@@ -370,12 +400,18 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               onSelectChar={setActiveChar}
             />
           </>
+          </div>
         )}
 
         {bottomTab === "summaries" && (
-          <div style={{
+          <div key="summaries" style={{
             borderTop:"1px solid rgba(139,90,20,0.15)",
             overflowY:"auto",
+            animation:"tabReveal 1.4s cubic-bezier(0.22,1,0.36,1) both",
+            WebkitMaskImage:"linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+            WebkitMaskSize:"2% 100%", WebkitMaskPosition:"50% 0", WebkitMaskRepeat:"no-repeat",
+            maskImage:"linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+            maskSize:"2% 100%", maskPosition:"50% 0", maskRepeat:"no-repeat",
           }}>
             <div style={{
               display:"grid", gridTemplateColumns:"1fr 1fr",

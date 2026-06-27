@@ -306,9 +306,16 @@ export default function CanonShelf() {
     <div style={S.outer}>
       <style>{`
         @keyframes pageOpen {
-          0%   { opacity:0; transform: perspective(1200px) rotateY(-28deg) translateX(-24px) scaleX(0.97); }
-          35%  { opacity:1; }
-          100% { opacity:1; transform: perspective(1200px) rotateY(0deg) translateX(0px) scaleX(1); }
+          from {
+            -webkit-mask-size: 2% 100%;
+            mask-size: 2% 100%;
+            opacity: 0.4;
+          }
+          to {
+            -webkit-mask-size: 200% 100%;
+            mask-size: 200% 100%;
+            opacity: 1;
+          }
         }
       `}</style>
       <div style={{ position: "relative", width: "100%", maxWidth: 1400, height: 68, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, marginBottom: 18 }}>
@@ -363,7 +370,18 @@ export default function CanonShelf() {
           <div style={S.gutterLine} />
 
           <div style={S.pages}>
-            <div key={`${view.mode}-${view.id ?? 'root'}`} style={{display:"flex", flex:1, minWidth:0, animation:"pageOpen 0.75s cubic-bezier(0.22,1,0.36,1) both", transformOrigin:"left center"}}>
+            <div key={`${view.mode}-${view.id ?? 'root'}`} style={{
+  display:"flex", flex:1, minWidth:0,
+  animation:"pageOpen 4.2s cubic-bezier(0.22,1,0.36,1) both",
+  WebkitMaskImage: "linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+  WebkitMaskSize: "2% 100%",
+  WebkitMaskPosition: "50% 0",
+  WebkitMaskRepeat: "no-repeat",
+  maskImage: "linear-gradient(90deg, transparent 0%, black 18%, black 82%, transparent 100%)",
+  maskSize: "2% 100%",
+  maskPosition: "50% 0",
+  maskRepeat: "no-repeat",
+}}>
             {isBookOpen ? (
               <BookViewer
                 onBack={goIndex}
