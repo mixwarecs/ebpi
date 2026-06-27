@@ -177,12 +177,14 @@ export function linkifyVerses(text, lang = "es") {
   function makeLink(ref, displayText, key) {
     const url = verseUrl(ref, lang);
     if (!url) return displayText;
+    const LINK = "#1E4A7A";
+    const LINK_HOVER = "#163A60";
     return (
       <a key={key} href={url} target="_blank" rel="noopener noreferrer"
-        style={{ color: GOLD, fontWeight: 700, textDecoration: "none",
-          borderBottom: "1px solid rgba(201,168,76,0.35)", letterSpacing: "0.3px" }}
-        onMouseEnter={e => { e.target.style.color = GOLD_BRIGHT; e.target.style.borderBottomColor = GOLD_BRIGHT; }}
-        onMouseLeave={e => { e.target.style.color = GOLD; e.target.style.borderBottomColor = "rgba(201,168,76,0.35)"; }}>
+        style={{ color: LINK, fontWeight: 700, textDecoration: "none",
+          borderBottom: "1px solid rgba(30,74,122,0.35)", letterSpacing: "0.3px" }}
+        onMouseEnter={e => { e.target.style.color = LINK_HOVER; e.target.style.borderBottomColor = LINK_HOVER; }}
+        onMouseLeave={e => { e.target.style.color = LINK; e.target.style.borderBottomColor = "rgba(30,74,122,0.35)"; }}>
         {displayText}
       </a>
     );

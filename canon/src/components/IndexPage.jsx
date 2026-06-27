@@ -11,8 +11,8 @@ export default function IndexPage({ divisions, onSelect, side, lang = "es" }) {
             key={d.id}
             style={S.classCard(d.color)}
             onClick={() => onSelect(d.id)}
-            onMouseEnter={e => { e.currentTarget.style.background = "rgba(22,13,4,0.75)"; }}
-            onMouseLeave={e => { e.currentTarget.style.background = "rgba(22,13,4,0.48)"; }}
+            onMouseEnter={e => { e.currentTarget.style.background = "rgba(201,168,76,0.10)"; }}
+            onMouseLeave={e => { e.currentTarget.style.background = "transparent"; }}
           >
             <div style={S.classCardEyebrow(d.color)}>{d.rango}</div>
             <div style={S.classCardTitle}>{d.titulo}</div>

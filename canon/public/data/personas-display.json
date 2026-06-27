@@ -1435,5 +1435,137 @@
       "en": "APOSTOLIC MESSENGER",
       "pt": "MENSAGEIRO APOSTÓLICO"
     }
+  },
+  "Joab": {
+    "id": "joab",
+    "color": "#2D5A27",
+    "init": "יא",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "GENERAL DEL EJÉRCITO",
+      "en": "ARMY GENERAL",
+      "pt": "GENERAL DO EXÉRCITO"
+    }
+  },
+  "Is-boset": {
+    "id": "is-boset",
+    "color": "#5A5A7A",
+    "init": "אי",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "REY DE ISRAEL",
+      "en": "KING OF ISRAEL",
+      "pt": "REI DE ISRAEL"
+    }
+  },
+  "Natán": {
+    "id": "natan",
+    "color": "#8B6914",
+    "init": "נת",
+    "xCh": 7,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA REAL",
+      "en": "ROYAL PROPHET",
+      "pt": "PROFETA REAL"
+    }
+  },
+  "Mefibóset": {
+    "id": "mefibóset",
+    "color": "#1B6B5E",
+    "init": "מפ",
+    "xCh": 9,
+    "side": "below",
+    "badge": {
+      "es": "HEREDERO DE JONATÁN",
+      "en": "JONATHAN'S HEIR",
+      "pt": "HERDEIRO DE JÔNATAS"
+    }
+  },
+  "Betsabé": {
+    "id": "betsabe",
+    "color": "#8B3D6A",
+    "init": "בת",
+    "xCh": 11,
+    "side": "above",
+    "badge": {
+      "es": "ESPOSA DEL REY",
+      "en": "KING'S WIFE",
+      "pt": "ESPOSA DO REI"
+    }
+  },
+  "Urías el heteo": {
+    "id": "urias",
+    "color": "#3A5A7A",
+    "init": "אר",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "SOLDADO FIEL",
+      "en": "FAITHFUL SOLDIER",
+      "pt": "SOLDADO FIEL"
+    }
+  },
+  "Amnón": {
+    "id": "amnon",
+    "color": "#6B6B2A",
+    "init": "אמ",
+    "xCh": 13,
+    "side": "above",
+    "badge": {
+      "es": "PRÍNCIPE CAÍDO",
+      "en": "FALLEN PRINCE",
+      "pt": "PRÍNCIPE CAÍDO"
+    }
+  },
+  "Tamar": {
+    "id": "tamar",
+    "color": "#7A5A8B",
+    "init": "תמ",
+    "xCh": 13,
+    "side": "below",
+    "badge": {
+      "es": "PRINCESA INOCENTE",
+      "en": "INNOCENT PRINCESS",
+      "pt": "PRINCESA INOCENTE"
+    }
+  },
+  "Absalón": {
+    "id": "absalon",
+    "color": "#8B2020",
+    "init": "אב",
+    "xCh": 15,
+    "side": "above",
+    "badge": {
+      "es": "PRÍNCIPE REBELDE",
+      "en": "REBEL PRINCE",
+      "pt": "PRÍNCIPE REBELDE"
+    }
+  },
+  "Ahitofel": {
+    "id": "ahitofel",
+    "color": "#7A3A1A",
+    "init": "אח",
+    "xCh": 16,
+    "side": "below",
+    "badge": {
+      "es": "CONSEJERO TRAIDOR",
+      "en": "TRAITOR COUNSELOR",
+      "pt": "CONSELHEIRO TRAIDOR"
+    }
+  },
+  "Husai el arquita": {
+    "id": "husai",
+    "color": "#2A6B5A",
+    "init": "חש",
+    "xCh": 17,
+    "side": "above",
+    "badge": {
+      "es": "AMIGO DEL REY",
+      "en": "KING'S FRIEND",
+      "pt": "AMIGO DO REI"
+    }
   }
 }

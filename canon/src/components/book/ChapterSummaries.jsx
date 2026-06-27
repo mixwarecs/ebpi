@@ -10,11 +10,24 @@ const ERA_COLORS = {
   "Post-exilio":"#70B8A8","Intertestamental":"#C0C0C0","Cumplimiento":"#A898E0",
   "Ministerio":"#E8C56A","Iglesia":"#A898E0","Aplicación":"#A898E0","Consumación":"#E05050",
 };
+// Darker variants of the same hues — readable on light parchment background
+const ERA_INK_COLORS = {
+  "Primordial":"#3A6E1A","Patriarcal":"#8A6420","Ley":"#8A7010","Éxodo":"#8A7010",
+  "Anticipación":"#2E7835","Conquista":"#2E7835","Monarquía":"#1E5E8A","Exilio":"#7A2E6A",
+  "Post-exilio":"#1E6858","Intertestamental":"#4A4A4A","Cumplimiento":"#3E2E8A",
+  "Ministerio":"#8A7218","Iglesia":"#3E2E8A","Aplicación":"#3E2E8A","Consumación":"#8A1A1A",
+};
 function eraColor(era) {
   for (const [key, color] of Object.entries(ERA_COLORS)) {
     if (era && era.includes(key)) return color;
   }
   return "#7A8FA6";
+}
+function eraInkColor(era) {
+  for (const [key, color] of Object.entries(ERA_INK_COLORS)) {
+    if (era && era.includes(key)) return color;
+  }
+  return "#2E4A62";
 }
 
 const GCS_BASE = "https://storage.googleapis.com/dramatized_bible/audio";
@@ -130,13 +143,13 @@ function ChapterShareButton({ bookNum, lang, chapterIdx }) {
         border: "none",
         cursor: "pointer",
         padding: "2px",
-        color: copied ? GOLD : hovered ? "rgba(201,168,76,0.85)" : "rgba(201,168,76,0.35)",
+        color: copied ? "rgba(139,90,20,1)" : hovered ? "rgba(30,74,122,0.90)" : "rgba(55,28,8,0.60)",
         lineHeight: 0,
         transition: "color 0.2s",
         flexShrink: 0,
       }}
     >
-      {copied ? <Check size={13} /> : <Share2 size={13} />}
+      {copied ? <Check size={17} strokeWidth={2.5} /> : <Share2 size={17} strokeWidth={2.5} />}
     </button>
   );
 }
@@ -183,7 +196,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
       {rawChapters.map((c, i) => {
         const title = c.titulo?.[lang] || c.titulo?.es || "";
         const desc  = c.descripcion?.[lang] || c.descripcion?.es || "";
-        const color = eraColor(c.era);
+        const color = eraInkColor(c.era);
         const chLabel = c.rangoInicio === c.rangoFin
           ? String(c.rangoInicio)
           : `${c.rangoInicio}–${c.rangoFin}`;
@@ -205,11 +218,11 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
               padding: (playingIdx === i || highlightIdx === i) ? "14px 14px" : "14px 0",
               margin: (playingIdx === i || highlightIdx === i) ? "2px -14px" : "0",
               borderBottom: (playingIdx === i || highlightIdx === i) ? "none" : (i < rawChapters.length - 1 ? "1px solid rgba(201,168,76,0.08)" : "none"),
-              outline: (playingIdx === i || highlightIdx === i) ? "1px solid rgba(201,168,76,0.18)" : "none",
-              borderRadius: (playingIdx === i || highlightIdx === i) ? 12 : 0,
-              background: (playingIdx === i || highlightIdx === i) ? "rgba(201,168,76,0.07)" : "transparent",
-              backdropFilter: (playingIdx === i || highlightIdx === i) ? "blur(10px)" : "none",
-              boxShadow: (playingIdx === i || highlightIdx === i) ? "0 4px 20px rgba(201,168,76,0.08), inset 0 1px 0 rgba(201,168,76,0.12)" : "none",
+              outline: (playingIdx === i || highlightIdx === i) ? "2px solid rgba(139,90,20,0.45)" : "none",
+              borderRadius: (playingIdx === i || highlightIdx === i) ? 6 : 0,
+              background: (playingIdx === i || highlightIdx === i) ? "rgba(180,140,50,0.14)" : "transparent",
+              backdropFilter: "none",
+              boxShadow: (playingIdx === i || highlightIdx === i) ? "0 2px 10px rgba(100,68,18,0.14)" : "none",
             }}
           >
             <div style={{
@@ -223,23 +236,21 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
-                  fontSize: 15,
+                  fontSize: 16,
                   fontWeight: 700,
                   letterSpacing: 0.5,
                   color,
-                  opacity: 1,
                   whiteSpace: "nowrap",
                   textDecoration: "none",
                   cursor: "pointer",
-                  borderBottom: `1px solid ${color}`,
-                  textShadow: "0 1px 4px rgba(0,0,0,0.8)",
-                  transition: "opacity 0.15s",
+                  borderBottom: `1px solid ${color}55`,
+                  transition: "color 0.15s",
                   display: "inline-flex",
                   alignItems: "baseline",
                   gap: 2,
                 }}
-                onMouseEnter={e => { e.currentTarget.style.opacity = "1"; e.currentTarget.style.color = GOLD; }}
-                onMouseLeave={e => { e.currentTarget.style.opacity = "0.85"; e.currentTarget.style.color = color; }}
+                onMouseEnter={e => { e.currentTarget.style.color = "#1E4A7A"; }}
+                onMouseLeave={e => { e.currentTarget.style.color = color; }}
               >
                 {chLabel}
                 <ExternalLink size={10} style={{ opacity: 0.7 }} />
@@ -247,19 +258,19 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
             </div>
 
             <div style={{
-              borderLeft: `3px solid ${(playingIdx === i || highlightIdx === i) ? GOLD : color}`,
+              borderLeft: `3px solid ${(playingIdx === i || highlightIdx === i) ? "#1E4A7A" : color}`,
               transition: "border-color 0.4s",
               paddingLeft: 14,
               flex: 1,
               minWidth: 0,
             }}>
               <div style={{
-                fontSize: 15,
+                fontSize: 17,
                 fontWeight: 700,
-                color: PARCHMENT,
-                lineHeight: 1.35,
-                marginBottom: 7,
-                letterSpacing: 0.3,
+                color: "rgba(22,8,2,0.90)",
+                lineHeight: 1.3,
+                marginBottom: 8,
+                letterSpacing: 0.2,
                 display: "flex",
                 alignItems: "center",
                 gap: 6,
@@ -269,9 +280,9 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
               </div>
 
               <div style={{
-                fontSize: 16,
-                lineHeight: 1.78,
-                color: "rgba(242,232,208,0.82)",
+                fontSize: 17,
+                lineHeight: 1.80,
+                color: "rgba(22,8,2,0.82)",
                 marginBottom: c.versiculoClave ? 10 : 0,
               }}>
                 {lv(desc)}
@@ -280,13 +291,13 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
               {c.versiculoClave && (
                 <div style={{ display: "inline-block" }}>
                   <VerseLink lang={lang} style={{
-                    fontSize: 10,
-                    letterSpacing: 1.5,
-                    color: GOLD,
-                    background: "rgba(201,168,76,0.08)",
-                    border: "1px solid rgba(201,168,76,0.22)",
+                    fontSize: 11,
+                    letterSpacing: 1,
+                    color: "#1E4A7A",
+                    background: "rgba(30,74,122,0.08)",
+                    border: "1px solid rgba(30,74,122,0.35)",
                     borderRadius: 2,
-                    padding: "2px 7px",
+                    padding: "2px 9px",
                   }}>
                     {c.versiculoClave}
                   </VerseLink>

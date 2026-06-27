@@ -241,7 +241,7 @@ export default function CanonShelf() {
           style={{
             width: 32, flexShrink: 0, padding: 0,
             backgroundImage: "linear-gradient(180deg, rgba(12,6,2,0.52), rgba(10,5,2,0.60)), url('/textures/leather-fine.jpg')",
-            backgroundSize: "cover", backgroundPosition: "center",
+            backgroundSize: "auto, 300px", backgroundPosition: "center",
             borderTop: "none", borderBottom: "none",
             borderRight: side === "left" ? `1px solid rgba(201,168,76,0.15)` : "none",
             borderLeft: side === "right" ? `1px solid rgba(201,168,76,0.15)` : "none",

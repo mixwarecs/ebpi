@@ -762,12 +762,13 @@
       "ordenCanon": 10,
       "capitulosTotal": 24,
       "divisionColor": "#6AAECF",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El reinado de David y el Pacto Davídico (2S 7) — la promesa de una dinastía y un trono eternos, eje mesiánico de toda la historia subsiguiente.",
         "en": "The reign of David and the Davidic Covenant (2 Sam 7) — the promise of an eternal dynasty and throne, the messianic axis of all subsequent history.",
         "pt": "O reinado de Davi e o Pacto Davídico (2Sm 7) — a promessa de uma dinastia e um trono eternos, eixo messiânico de toda a história subsequente."
-      }
+      },
+      "dataFile": "2samuel.json"
     },
     {
       "id": 11,

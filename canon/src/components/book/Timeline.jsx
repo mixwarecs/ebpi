@@ -1,4 +1,4 @@
-import { useState, useRef, useLayoutEffect } from "react";
+import { useState, useRef } from "react";
 import { createPortal } from "react-dom";
 import { LAPIS, LAPIS_DEEP, PARCHMENT, BIBLE_VERSION, GS, UI } from "../../constants";
 import { linkifyVerses } from "../../utils";
@@ -35,27 +35,18 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
     return { side: pos % 2 === 0 ? "above" : "below", depth: Math.floor(pos / 2) };
   };
 
-  // The deepest stack (above or below) determines how tall the timeline panel
-  // needs to be so circles + labels never spill past its background. Measured
-  // from the real rendered DOM (rather than estimated from font/box constants)
-  // so it's exact regardless of font metrics or line-height rounding.
-  const spineRef = useRef(null);
-  const nodeRefs = useRef({}); // keyed by character id — React nulls out entries on unmount
-  const [innerHeight, setInnerHeight] = useState(GS.timelineInner.height);
-
-  useLayoutEffect(() => {
-    if (!spineRef.current) return;
-    const spineRect = spineRef.current.getBoundingClientRect();
-    let maxAbove = 0, maxBelow = 0;
-    Object.values(nodeRefs.current).forEach(el => {
-      if (!el) return;
-      const r = el.getBoundingClientRect();
-      maxAbove = Math.max(maxAbove, spineRect.top - r.top);
-      maxBelow = Math.max(maxBelow, r.bottom - spineRect.bottom);
-    });
-    const needed = Math.max(maxAbove, maxBelow) * 2 + 60; // symmetric around spine + safety buffer
-    setInnerHeight(Math.max(GS.timelineInner.height, Math.ceil(needed)));
-  }, [characters]);
+  // Compute the height the timeline panel needs geometrically so that character
+  // circles and labels never spill past the background. Using getBoundingClientRect
+  // here was unreliable: it fired during the page-turn animation (rotateY transform)
+  // and returned perspective-projected coordinates that inflated the measurement,
+  // pushing chapter dots far below the visible area on first load.
+  const maxDepth = characters.length > 0
+    ? Math.max(...characters.map((_, i) => getPlacement(i).depth))
+    : 0;
+  const cLenMax = 40 + maxDepth * STACK_STEP; // connector height at the deepest stack level
+  const LABEL_H_EST = 50; // generous estimate: 2-line label (12px/1.15lh) + 14px padding
+  const neededFromSpine = LABEL_H_EST + 48 + cLenMax; // label + circle + connector
+  const innerHeight = Math.max(GS.timelineInner.height, neededFromSpine * 2 + 60);
 
   const onMouseDown = (e) => {
     dragRef.current.isDown = true;
@@ -82,14 +73,14 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
               <div key={i} style={{ position:"absolute", top:0, left:x1, width:x2-x1, height:"100%",
                 background:`linear-gradient(90deg,${era.color}10,${era.color}1e)`,
                 borderRight:"1px dashed rgba(201,168,76,0.1)" }}>
-                <span style={{position:"absolute", top:10, left:10, fontSize:13, letterSpacing:2, color:era.color, whiteSpace:"nowrap", textShadow:"0 1px 4px rgba(0,0,0,0.9)"}}>
+                <span style={{position:"absolute", top:10, left:10, fontSize:13, letterSpacing:2, color:"rgba(50,28,8,0.72)", whiteSpace:"nowrap", fontFamily:"'Georgia',serif", fontWeight:600}}>
                   {hasBookEras ? eraToLabel(era.era) : era.label}
                 </span>
               </div>
             );
           })}
 
-          <div ref={spineRef} style={GS.spine} />
+          <div style={GS.spine} />
 
           {chapters.map(d => {
             const bookEnName = bookData?.titulo?.en || "Genesis";
@@ -120,7 +111,6 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             const cLen = 40 + depth * STACK_STEP;
             return (
               <div key={c.id}
-                ref={el => { nodeRefs.current[c.id] = el; }}
                 style={{ position:"absolute", left:x, transform:"translateX(-50%)",
                   top:isAbove ? "auto" : "50%", bottom:isAbove ? "50%" : "auto",
                   display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center",
@@ -134,9 +124,8 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
                   onMouseLeave={() => setCharTooltip(null)}
                   style={{ display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center", cursor:"pointer" }}>
                   <div style={{padding:"7px 4px", maxWidth:100, overflow:"hidden"}}>
-                    <div style={{fontSize:12, fontWeight:700, letterSpacing:0.5, color:c.color, textAlign:"center", lineHeight:1.15,
-                      whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif",
-                      textShadow:"0 1px 5px rgba(0,0,0,0.95), 0 0 8px rgba(0,0,0,0.8)"}}>{c.name}</div>
+                    <div style={{fontSize:12, fontWeight:700, letterSpacing:0.5, color:"rgba(22,8,2,0.88)", textAlign:"center", lineHeight:1.15,
+                      whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", fontFamily:"'Georgia',serif"}}>{c.name}</div>
                   </div>
                   <div style={{width:48, height:48, borderRadius:"50%", border:`2px solid ${c.color}`,
                     background:`linear-gradient(135deg,rgba(22,13,4,0.92),rgba(201,168,76,0.08))`,
@@ -165,20 +154,20 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
       , document.body)}
 
       {charTooltip && createPortal(
-        <div style={{...GS.chTooltip, left:Math.min(charTooltip.x + 16, window.innerWidth - 320), top:charTooltip.y - 140, maxWidth:300, borderColor:`${charTooltip.char.color}60`}}>
-          <div style={{display:"flex", alignItems:"center", gap:10, marginBottom:10, paddingBottom:8, borderBottom:`1px solid rgba(201,168,76,0.15)`}}>
-            <div style={{width:32, height:32, borderRadius:"50%", flexShrink:0, border:`1px solid ${charTooltip.char.color}`,
-              background:`linear-gradient(135deg,${LAPIS},rgba(201,168,76,0.1))`,
+        <div style={{...GS.chTooltip, left:Math.min(charTooltip.x + 16, window.innerWidth - 320), top:charTooltip.y - 140, maxWidth:300, borderColor:`rgba(139,90,20,0.40)`}}>
+          <div style={{display:"flex", alignItems:"center", gap:10, marginBottom:10, paddingBottom:8, borderBottom:`1px solid rgba(139,90,20,0.18)`}}>
+            <div style={{width:32, height:32, borderRadius:"50%", flexShrink:0, border:`2px solid ${charTooltip.char.color}`,
+              background:`rgba(235,218,185,0.85)`,
               display:"flex", alignItems:"center", justifyContent:"center", fontSize:11, fontWeight:700, color:charTooltip.char.color}}>
               {charTooltip.char.init}
             </div>
             <div>
               <div style={{fontSize:9, letterSpacing:3, color:charTooltip.char.color, marginBottom:2}}>{charTooltip.char.badge}</div>
-              <div style={{fontSize:15, fontWeight:700, color:PARCHMENT}}>{charTooltip.char.name}</div>
+              <div style={{fontSize:15, fontWeight:700, color:"rgba(22,8,2,0.92)"}}>{charTooltip.char.name}</div>
             </div>
           </div>
-          <div style={{fontSize:13, lineHeight:1.65, color:"rgba(242,232,208,0.78)", fontStyle:"italic"}}>{lv(charTooltip.char.desc)}</div>
-          <div style={{marginTop:10, fontSize:10, letterSpacing:2, color:"rgba(201,168,76,0.45)"}}>
+          <div style={{fontSize:13, lineHeight:1.65, color:"rgba(22,8,2,0.75)", fontStyle:"italic"}}>{lv(charTooltip.char.desc)}</div>
+          <div style={{marginTop:10, fontSize:10, letterSpacing:2, color:"rgba(100,68,18,0.60)"}}>
             {UI[lang].characterLabels.bioHint(charTooltip.char.ch[0], charTooltip.char.ch[1], bookAb)}
           </div>
         </div>

@@ -96,8 +96,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               {lv(cap(bookData?.proposito?.[lang] || bookData?.proposito?.es || ""))}
             </div>
             <div style={GS.audienceBox}>
-              <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(201,168,76,0.88)", textShadow:"0 1px 4px rgba(0,0,0,0.7)"}}>{PL.audience}</div>
-              <div style={{fontStyle:"italic", fontSize:15, color:"rgba(242,232,208,0.8)", lineHeight:1.65}}>
+              <div style={{...GS.metaLabel, marginBottom:8}}>{PL.audience}</div>
+              <div style={{fontStyle:"italic", fontSize:16, color:"rgba(22,8,2,0.85)", lineHeight:1.68}}>
                 {lv(bookData?.destinatario?.[lang] || bookData?.destinatario?.es || "")}
               </div>
             </div>
@@ -113,30 +113,33 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
           <div>
             <div style={{...GS.metaLabel, marginBottom:18}}>{CL.position}</div>
             <div style={GS.epochRow}>
-              {epochs.map((ep, i) => (
-                <div key={i} style={{...GS.epoch(i === highlightIdx), ...(i===epochs.length-1 ? GS.epochLast : {})}}>
-                  {i === highlightIdx && <div style={{fontSize:8, letterSpacing:2, color:GOLD, marginBottom:4}}>← {bookTitle || "GÉNESIS"}</div>}
-                  <div style={GS.epochLabel}>{ep.label}</div>
-                  <div style={GS.epochTitle}>{ep.title}</div>
-                  <div style={GS.epochBooks}>{ep.books}</div>
-                </div>
-              ))}
+              {epochs.map((ep, i) => {
+                const hl = i === highlightIdx;
+                return (
+                  <div key={i} style={{...GS.epoch(hl), ...(i===epochs.length-1 ? GS.epochLast : {})}}>
+                    {hl && <div style={{fontSize:11, letterSpacing:1.5, fontWeight:600, color:"rgba(100,68,18,0.92)", marginBottom:5}}>← {bookTitle || "GÉNESIS"}</div>}
+                    <div style={GS.epochLabel(hl)}>{ep.label}</div>
+                    <div style={GS.epochTitle(hl)}>{ep.title}</div>
+                    <div style={GS.epochBooks(hl)}>{ep.books}</div>
+                  </div>
+                );
+              })}
             </div>
             <div style={GS.christBox}>
               <div style={{...GS.metaLabel, marginBottom:8}}>
                 {CL.christFocus} —{" "}
                 <a href="https://www.thegospelcoalition.org/reviews/book-launched-biblical-theology/" target="_blank" rel="noopener noreferrer"
-                  style={{color:GOLD, textDecoration:"none", borderBottom:`1px solid rgba(201,168,76,0.4)`, letterSpacing:1}}>
+                  style={{color:"rgba(118,84,22,0.88)", textDecoration:"none", borderBottom:`1px solid rgba(139,90,20,0.4)`, letterSpacing:1}}>
                   {CL.biblicalTheology}
                 </a>
               </div>
-              <div style={{fontStyle:"italic", fontSize:15, color:"rgba(242,232,208,0.83)", lineHeight:1.75}}>{lv(christText)}</div>
+              <div style={{fontStyle:"italic", fontSize:16, color:"rgba(22,8,2,0.88)", lineHeight:1.78}}>{lv(christText)}</div>
             </div>
             <div style={{...GS.metaLabel, marginBottom:12}}>{CL.typesShadows}</div>
             <div style={GS.typesGrid}>
               {tiposSombras.map((t, i) => (
                 <div key={i} style={GS.typeItem}>
-                  <span style={{color:GOLD, fontSize:9, flexShrink:0, marginTop:2}}>✦</span>
+                  <span style={{color:"rgba(100,68,18,0.82)", fontSize:11, flexShrink:0, marginTop:1}}>✦</span>
                   <span>{lv(t)}</span>
                 </div>
               ))}
@@ -149,24 +152,24 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         const HL = UI[lang].historyLabels;
         return (
           <div>
-            <div style={{background:"rgba(22,13,4,0.48)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"18px 20px", marginBottom:20}}>
+            <div style={{background:"rgba(201,168,76,0.06)", border:`1px solid rgba(139,90,20,0.2)`, borderRadius:3, padding:"18px 20px", marginBottom:20}}>
               <div style={{...GS.metaLabel, marginBottom:8}}>{HL.period}</div>
-              <div style={{fontSize:15, lineHeight:1.75, color:"rgba(242,232,208,0.83)"}}>{lv(HP)}</div>
+              <div style={{fontSize:16, lineHeight:1.78, color:"rgba(22,8,2,0.88)"}}>{lv(HP)}</div>
             </div>
             <div style={{marginBottom:20}}>
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.chronology}</div>
               <div style={{display:"flex", flexDirection:"column", gap:0}}>
                 {HCr.map((e, i) => (
-                  <div key={i} style={{display:"flex", flexDirection:"column", gap:4, padding:"12px 0", borderBottom:`1px solid rgba(201,168,76,0.08)`}}>
+                  <div key={i} style={{display:"flex", flexDirection:"column", gap:5, padding:"13px 0", borderBottom:`1px solid rgba(139,90,20,0.10)`}}>
                     <div style={{display:"flex", alignItems:"baseline", gap:10, flexWrap:"wrap"}}>
-                      <div style={{fontSize:12, fontWeight:700, color:GOLD, letterSpacing:0.5}}>{e.fecha}</div>
-                      <VerseLink lang={lang} style={{fontSize:10}}>{e.ref}</VerseLink>
+                      <div style={{fontSize:13, fontWeight:700, color:"#9B6C1A", letterSpacing:0.5}}>{e.fecha}</div>
+                      <VerseLink lang={lang} style={{fontSize:11}}>{e.ref}</VerseLink>
                     </div>
-                    <div style={{fontSize:14, color:"rgba(242,232,208,0.78)", lineHeight:1.6}}>{lv(cap(e.evento))}</div>
+                    <div style={{fontSize:15, color:"rgba(22,8,2,0.85)", lineHeight:1.65}}>{lv(cap(e.evento))}</div>
                   </div>
                 ))}
               </div>
-              <div style={{marginTop:8, fontSize:11, fontStyle:"italic", color:"rgba(242,232,208,0.4)"}}>
+              <div style={{marginTop:10, fontSize:12, fontStyle:"italic", color:"rgba(60,35,8,0.55)"}}>
                 {HL.chronologyNote}
               </div>
             </div>
@@ -174,10 +177,10 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.geography}</div>
               <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fill,minmax(280px,1fr))", gap:12}}>
                 {HG.map((g, i) => (
-                  <div key={i} style={{background:"rgba(22,13,4,0.42)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"14px 16px"}}>
-                    <div style={{fontSize:13, fontWeight:700, color:GOLD, marginBottom:3}}>{g.lugar}</div>
-                    <div style={{fontSize:11, letterSpacing:1, color:"rgba(242,232,208,0.5)", marginBottom:8}}>{g.moderna}</div>
-                    <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{lv(cap(g.desc))}</div>
+                  <div key={i} style={{background:"rgba(201,168,76,0.06)", border:`1px solid rgba(139,90,20,0.2)`, borderRadius:3, padding:"15px 18px"}}>
+                    <div style={{fontSize:15, fontWeight:700, color:"rgba(100,68,18,0.90)", marginBottom:3}}>{g.lugar}</div>
+                    <div style={{fontSize:12, letterSpacing:0.5, color:"rgba(65,38,8,0.62)", marginBottom:8}}>{g.moderna}</div>
+                    <div style={{fontSize:14, lineHeight:1.65, color:"rgba(22,8,2,0.85)"}}>{lv(cap(g.desc))}</div>
                   </div>
                 ))}
               </div>
@@ -186,9 +189,9 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.civilizations}</div>
               <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fill,minmax(280px,1fr))", gap:12}}>
                 {HC.map((c, i) => (
-                  <div key={i} style={{background:"rgba(22,13,4,0.42)", border:`1px solid rgba(201,168,76,0.18)`, borderRadius:3, padding:"14px 16px"}}>
-                    <div style={{fontSize:13, fontWeight:700, color:PARCHMENT, marginBottom:6}}>{c.nombre}</div>
-                    <div style={{fontSize:13, lineHeight:1.6, color:"rgba(242,232,208,0.72)"}}>{lv(cap(c.desc))}</div>
+                  <div key={i} style={{background:"rgba(201,168,76,0.06)", border:`1px solid rgba(139,90,20,0.2)`, borderRadius:3, padding:"15px 18px"}}>
+                    <div style={{fontSize:15, fontWeight:700, color:"rgba(22,8,2,0.90)", marginBottom:6}}>{c.nombre}</div>
+                    <div style={{fontSize:14, lineHeight:1.65, color:"rgba(22,8,2,0.82)"}}>{lv(cap(c.desc))}</div>
                   </div>
                 ))}
               </div>
@@ -197,17 +200,17 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{...GS.metaLabel, marginBottom:12}}>{HL.ane}</div>
               <div style={{display:"flex", flexDirection:"column", gap:0}}>
                 {HA.map((a, i) => (
-                  <div key={i} style={{display:"flex", flexDirection:"column", gap:4, padding:"14px 0", borderBottom:`1px solid rgba(201,168,76,0.08)`}}>
-                    <div style={{fontSize:15, fontWeight:700, color:PARCHMENT, lineHeight:1.3}}>{a.nombre}</div>
-                    <div style={{fontSize:13, letterSpacing:0.5, color:"rgba(201,168,76,0.6)", marginBottom:2}}>{a.origen}</div>
-                    <div style={{fontSize:13, lineHeight:1.65, color:"rgba(242,232,208,0.75)"}}>{lv(cap(a.desc))}</div>
+                  <div key={i} style={{display:"flex", flexDirection:"column", gap:5, padding:"15px 0", borderBottom:`1px solid rgba(139,90,20,0.10)`}}>
+                    <div style={{fontSize:16, fontWeight:700, color:"rgba(22,8,2,0.90)", lineHeight:1.3}}>{a.nombre}</div>
+                    <div style={{fontSize:13, letterSpacing:0.5, color:"rgba(100,68,18,0.75)", marginBottom:2}}>{a.origen}</div>
+                    <div style={{fontSize:14, lineHeight:1.68, color:"rgba(22,8,2,0.82)"}}>{lv(cap(a.desc))}</div>
                   </div>
                 ))}
               </div>
             </div>
-            <div style={{background:"linear-gradient(90deg,rgba(201,168,76,0.10),rgba(201,168,76,0.02))", borderLeft:`3px solid rgba(201,168,76,0.50)`, padding:"14px 18px", borderRadius:"0 3px 3px 0"}}>
-              <div style={{...GS.metaLabel, marginBottom:8, color:"rgba(201,168,76,0.88)", textShadow:"0 1px 4px rgba(0,0,0,0.7)"}}>{HL.controversies}</div>
-              <div style={{fontSize:14, fontStyle:"italic", lineHeight:1.75, color:"rgba(242,232,208,0.78)"}}>{lv(cap(HCo))}</div>
+            <div style={{background:"linear-gradient(90deg,rgba(201,168,76,0.10),rgba(201,168,76,0.02))", borderLeft:`3px solid rgba(139,90,20,0.45)`, padding:"15px 18px", borderRadius:"0 3px 3px 0"}}>
+              <div style={{...GS.metaLabel, marginBottom:8}}>{HL.controversies}</div>
+              <div style={{fontSize:15, fontStyle:"italic", lineHeight:1.78, color:"rgba(22,8,2,0.85)"}}>{lv(cap(HCo))}</div>
             </div>
           </div>
         );
@@ -254,11 +257,11 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
 
       <div style={{padding:"14px 24px", display:"flex", justifyContent:"center", alignItems:"center"}}>
         <button onClick={onBack} style={{
-          fontFamily:"'Georgia',serif", fontSize:12, letterSpacing:2, color:PARCHMENT,
-          background:"rgba(201,168,76,0.14)", border:"1px solid rgba(201,168,76,0.35)",
+          fontFamily:"'Georgia',serif", fontSize:12, letterSpacing:2, color:"rgba(55,28,8,0.90)",
+          background:"rgba(201,168,76,0.14)", border:"1px solid rgba(139,90,20,0.35)",
           borderRadius:20, cursor:"pointer", padding:"6px 16px 6px 12px",
           display:"inline-flex", alignItems:"center", gap:8,
-          textShadow:"0 1px 4px rgba(0,0,0,0.7)", transition:"background 0.15s, border-color 0.15s",
+          transition:"background 0.15s, border-color 0.15s",
         }}
           onMouseEnter={e => { e.currentTarget.style.background = "rgba(201,168,76,0.28)"; e.currentTarget.style.borderColor = "rgba(201,168,76,0.6)"; }}
           onMouseLeave={e => { e.currentTarget.style.background = "rgba(201,168,76,0.14)"; e.currentTarget.style.borderColor = "rgba(201,168,76,0.35)"; }}>
@@ -288,8 +291,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             ];
             return (
               <div key={label} style={{borderLeft:`2px solid rgba(201,168,76,0.3)`, paddingLeft:12}}>
-                <div style={{fontSize:9, letterSpacing:3, color:"rgba(201,168,76,0.55)", marginBottom:4, textTransform:"uppercase"}}>{label}</div>
-                <div style={{fontSize:14, color:PARCHMENT, lineHeight:1.4}}>{values[i]}</div>
+                <div style={{fontSize:10, letterSpacing:3, color:"rgba(110,60,15,0.85)", marginBottom:4, textTransform:"uppercase"}}>{label}</div>
+                <div style={{fontSize:14, color:"rgba(22,10,3,0.88)", lineHeight:1.4}}>{values[i]}</div>
               </div>
             );
           })}
@@ -344,7 +347,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
 
         {bottomTab === "timeline" && (
           <>
-            <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(242,232,208,0.4)", fontStyle:"italic", letterSpacing:1}}>
+            <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(70,38,10,0.65)", fontStyle:"italic", letterSpacing:1}}>
               {UI[lang].hint}
             </div>
             <Timeline
@@ -364,22 +367,21 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
 
         {bottomTab === "summaries" && (
           <div style={{
-            background:"linear-gradient(180deg,rgba(22,13,4,0.28),rgba(15,9,2,0.32))",
-            borderTop:"1px solid rgba(201,168,76,0.12)",
+            borderTop:"1px solid rgba(139,90,20,0.15)",
             overflowY:"auto",
           }}>
             <div style={{
               display:"grid", gridTemplateColumns:"1fr 1fr",
               gap:"6px 16px",
               padding:"14px 24px 10px",
-              borderBottom:"1px solid rgba(201,168,76,0.08)",
+              borderBottom:"1px solid rgba(139,90,20,0.12)",
             }}>
               {(UI[lang].summariesSteps || []).map((text, idx) => {
                 const Icon = [ExternalLink, Play, ChevronsDown, Share2][idx];
                 return (
                   <div key={idx} style={{ display:"flex", alignItems:"flex-start", gap:8 }}>
-                    <Icon size={13} color={GOLD} style={{ opacity:0.7, flexShrink:0, marginTop:2 }} />
-                    <span style={{ fontSize:12, color:"rgba(242,232,208,0.55)", lineHeight:1.5 }}>{text}</span>
+                    <Icon size={13} color="rgba(139,90,20,0.7)" style={{ flexShrink:0, marginTop:2 }} />
+                    <span style={{ fontSize:12, color:"rgba(55,28,8,0.70)", lineHeight:1.5 }}>{text}</span>
                   </div>
                 );
               })}
