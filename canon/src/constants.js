@@ -520,6 +520,21 @@ export const UI = {
   },
 };
 
+// Variable-spaced golden page-line gradient for the tab rail (90deg = vertical lines
+// across the rail width). Gaps vary so lines are tighter at the edges and looser in
+// the middle, simulating the rounded fore-edge of a closed book.
+export const RAIL_BG = (() => {
+  const gaps = [2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2];
+  const stops = [];
+  let x = 0;
+  gaps.forEach((g, i) => {
+    const col = i % 3 === 0 ? "rgba(201,168,76,0.72)" : "rgba(255,220,80,0.38)";
+    stops.push(`transparent ${x}px,${col} ${x}px,${col} ${x + 1}px,transparent ${x + 1}px`);
+    x += g + 1;
+  });
+  return `linear-gradient(90deg,${stops.join(",")})`;
+})();
+
 // ── SHELF STYLES (S) ──────────────────────────────────────────────────────────
 export const S = {
   outer: { fontFamily: "'Georgia', serif", backgroundColor: "#2C1A0E", backgroundImage: "url('/textures/leather-fine.jpg')", backgroundSize: "300px", backgroundPosition: "center", backgroundAttachment: "fixed", color: PARCHMENT, minHeight: "100vh", display: "flex", flexDirection: "column", alignItems: "center", padding: "28px 16px 48px" },
@@ -544,7 +559,7 @@ export const S = {
   gutterLine: { position: "absolute", left: "50%", top: 0, bottom: 0, width: 1, background: "rgba(201,168,76,0.18)", zIndex: 6 },
   tabRail: (side) => ({
     width: 84, flexShrink: 0, padding: "12px 2px", position: "relative",
-    backgroundImage: "repeating-linear-gradient(90deg, transparent 0px, transparent 3px, rgba(235,215,175,0.18) 3px, rgba(235,215,175,0.18) 4px), linear-gradient(180deg, rgba(30,15,3,0.65), rgba(20,10,2,0.72)), url('/textures/pergament.jpg')", backgroundSize: "auto, auto, cover", backgroundPosition: "center",
+    backgroundImage: `${RAIL_BG}, linear-gradient(180deg, rgba(30,15,3,0.35), rgba(20,10,2,0.45)), url('/textures/pergament.jpg')`, backgroundSize: "auto, auto, cover", backgroundPosition: "center",
     borderRight: side === "left" ? `1px solid rgba(201,168,76,0.15)` : "none",
     borderLeft: side === "right" ? `1px solid rgba(201,168,76,0.15)` : "none",
     overflowY: "auto", overflowX: "hidden",

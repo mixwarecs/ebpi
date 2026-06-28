@@ -1,0 +1,1445 @@
+{
+  "id": 54,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "titulo": {
+    "es": "1 Timoteo",
+    "en": "1 Timothy",
+    "pt": "1 Timóteo"
+  },
+  "tituloOriginal": "Πρὸς Τιμόθεον Αʹ",
+  "transliteracion": "Pros Timotheon A",
+  "significado": {
+    "es": "Primera carta a Timoteo",
+    "en": "First Letter to Timothy",
+    "pt": "Primeira carta a Timóteo"
+  },
+  "capitulosTotal": 6,
+  "autor": {
+    "nombre": {
+      "es": "Pablo",
+      "en": "Paul",
+      "pt": "Paulo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La autoría paulina es defendida por la tradición reformada. Algunos críticos modernos proponen un pseudónimo deuteropaulino del siglo II, basándose en diferencias de vocabulario y estilo. La tradición reformada, siguiendo a Calvino y la Confesión de Westminster, afirma que Pablo escribió esta epístola tras su primera prisión romana, circa 62–64 d.C.",
+      "en": "Pauline authorship is defended by the Reformed tradition. Some modern critics propose a second-century deutero-Pauline pseudonym, based on vocabulary and style differences. The Reformed tradition, following Calvin and the Westminster Confession, affirms that Paul wrote this epistle after his first Roman imprisonment, circa AD 62–64.",
+      "pt": "A autoria paulina é defendida pela tradição reformada. Alguns críticos modernos propõem um pseudônimo deuteropaulino do século II, com base em diferenças de vocabulário e estilo. A tradição reformada, seguindo Calvino e a Confissão de Westminster, afirma que Paulo escreveu esta epístola após sua primeira prisão romana, por volta de 62–64 d.C."
+    }
+  },
+  "año": {
+    "desde": 62,
+    "hasta": 64,
+    "display": {
+      "es": "Fecha de escritura: ca. 62–64 d.C. (posterior a la primera prisión romana de Pablo)",
+      "en": "Date of writing: ca. AD 62–64 (following Paul's first Roman imprisonment)",
+      "pt": "Data de escrita: ca. 62–64 d.C. (após a primeira prisão romana de Paulo)"
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Posiblemente Macedonia (cf. 1Ti 1:3), durante el ministerio itinerante de Pablo entre su primera y segunda prisión en Roma",
+    "en": "Possibly Macedonia (cf. 1Tim 1:3), during Paul's itinerant ministry between his first and second Roman imprisonments",
+    "pt": "Possivelmente Macedônia (cf. 1Tm 1:3), durante o ministério itinerante de Paulo entre sua primeira e segunda prisão em Roma"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Primitivo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Éfeso",
+          "en": "Ephesus",
+          "pt": "Éfeso"
+        },
+        "identificacionModerna": {
+          "es": "Selçuk, provincia de Esmirna, Turquía occidental",
+          "en": "Selçuk, Izmir Province, western Turkey",
+          "pt": "Selçuk, província de Esmirna, oeste da Turquia"
+        },
+        "significancia": {
+          "es": "Ciudad destinataria de la carta: Timoteo ministraba allí como representante apostólico de Pablo (1Ti 1:3). Éfeso era la capital de la provincia romana de Asia y uno de los centros urbanos más importantes del Imperio, sede del templo de Artemisa y un nudo clave del comercio mediterráneo.",
+          "en": "The letter's destination city: Timothy was ministering there as Paul's apostolic representative (1Tim 1:3). Ephesus was the capital of the Roman province of Asia and one of the most important urban centers of the Empire, home to the temple of Artemis and a key node of Mediterranean trade.",
+          "pt": "Cidade destinatária da carta: Timóteo ministrava lá como representante apostólico de Paulo (1Tm 1:3). Éfeso era a capital da província romana da Ásia e um dos centros urbanos mais importantes do Império, sede do templo de Ártemis e um ponto-chave do comércio mediterrâneo."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Macedonia",
+          "en": "Macedonia",
+          "pt": "Macedônia"
+        },
+        "identificacionModerna": {
+          "es": "Norte de Grecia y norte de Macedonia actuales",
+          "en": "Northern Greece and North Macedonia today",
+          "pt": "Norte da Grécia e Macedônia do Norte atuais"
+        },
+        "significancia": {
+          "es": "Lugar probable desde el que Pablo escribió la carta (1Ti 1:3). Era una provincia romana con una comunidad cristiana activa establecida durante el segundo viaje misionero de Pablo (Hch 16–17).",
+          "en": "Probable location from which Paul wrote the letter (1Tim 1:3). It was a Roman province with an active Christian community established during Paul's second missionary journey (Acts 16–17).",
+          "pt": "Local provável de onde Paulo escreveu a carta (1Tm 1:3). Era uma província romana com uma comunidade cristã ativa, estabelecida durante a segunda viagem missionária de Paulo (At 16–17)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Roma",
+          "en": "Rome",
+          "pt": "Roma"
+        },
+        "identificacionModerna": {
+          "es": "Roma, Italia",
+          "en": "Rome, Italy",
+          "pt": "Roma, Itália"
+        },
+        "significancia": {
+          "es": "Contexto de trasfondo: Pablo había sido liberado de su primera prisión romana (Hch 28) antes de escribir 1 Timoteo. Su relación continua con las autoridades romanas y la situación legal de la iglesia bajo el Imperio moldean las instrucciones pastorales de la carta.",
+          "en": "Background context: Paul had been released from his first Roman imprisonment (Acts 28) before writing 1 Timothy. His ongoing relationship with Roman authorities and the legal situation of the church under the Empire shape the letter's pastoral instructions.",
+          "pt": "Contexto de fundo: Paulo havia sido liberado de sua primeira prisão romana (At 28) antes de escrever 1 Timóteo. Sua relação contínua com as autoridades romanas e a situação legal da igreja sob o Império moldam as instruções pastorais da carta."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Listra",
+          "en": "Lystra",
+          "pt": "Listra"
+        },
+        "identificacionModerna": {
+          "es": "Cerca de Hatunsaray, provincia de Konya, Turquía central",
+          "en": "Near Hatunsaray, Konya Province, central Turkey",
+          "pt": "Perto de Hatunsaray, província de Konya, Turquia central"
+        },
+        "significancia": {
+          "es": "Ciudad natal de Timoteo (Hch 16:1–3), donde Pablo lo encontró y lo incorporó a su equipo misionero. El trasfondo de Listra —una ciudad de colonos romanos con influencia helenística y judía— informa sobre la formación mixta de Timoteo.",
+          "en": "Timothy's hometown (Acts 16:1–3), where Paul met him and incorporated him into his missionary team. Lystra's background — a city of Roman colonists with Hellenistic and Jewish influence — informs Timothy's mixed upbringing.",
+          "pt": "Cidade natal de Timóteo (At 16:1–3), onde Paulo o encontrou e o incorporou à sua equipe missionária. O contexto de Listra — uma cidade de colonos romanos com influência helenística e judaica — informa sobre a formação mista de Timóteo."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "Proporciona el entorno político-legal en el que opera la iglesia efesia. Las instrucciones de Pablo sobre la oración por «los reyes y todos los que están en autoridad» (1Ti 2:2) reflejan directamente la realidad del dominio romano. Las estructuras cívicas de Éfeso —magistrados, tribunales, culto imperial— forman el trasfondo de las instrucciones sobre orden eclesiástico.",
+          "en": "Provides the political-legal environment in which the Ephesian church operates. Paul's instructions about prayer for 'kings and all who are in high positions' (1Tim 2:2) directly reflect the reality of Roman rule. Ephesus's civic structures — magistrates, courts, imperial cult — form the backdrop of the instructions on church order.",
+          "pt": "Fornece o ambiente político-legal em que a igreja efésina opera. As instruções de Paulo sobre orar por 'reis e todos os que estão em autoridade' (1Tm 2:2) refletem diretamente a realidade do domínio romano. As estruturas cívicas de Éfeso — magistrados, tribunais, culto imperial — formam o pano de fundo das instruções sobre ordem eclesiástica."
+        },
+        "estadoArqueologico": {
+          "es": "El foro romano, el bouleuterion (cámara del consejo) y las inscripciones de Éfeso han sido ampliamente excavados, confirmando el marco administrativo y la vida pública descritos implícitamente en la carta.",
+          "en": "The Roman forum, bouleuterion (council chamber), and inscriptions of Ephesus have been extensively excavated, confirming the administrative framework and public life implicitly described in the letter.",
+          "pt": "O fórum romano, o bouleuterion (câmara do conselho) e as inscrições de Éfeso foram amplamente escavados, confirmando o quadro administrativo e a vida pública descritos implicitamente na carta."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judaísmo helenístico de la diáspora",
+          "en": "Hellenistic Diaspora Judaism",
+          "pt": "Judaísmo helenístico da diáspora"
+        },
+        "rolEnElTexto": {
+          "es": "La comunidad judía de Éfeso era numerosa y activa. Los maestros de la ley mencionados en 1Ti 1:7, que querían ser «maestros de la ley sin entender ni lo que dicen ni lo que afirman», probablemente representaban una forma de especulación judía sincrética con la gnosis naciente. La familiaridad de Timoteo con las Escrituras desde su infancia (2Ti 3:15) refleja la tradición de la sinagoga.",
+          "en": "The Jewish community in Ephesus was large and active. The teachers of the law mentioned in 1Tim 1:7, who wanted to be 'teachers of the law, without understanding either what they are saying or the things about which they make confident assertions,' likely represented a form of syncretic Jewish speculation blending with nascent gnosticism. Timothy's familiarity with the Scriptures from childhood (2Tim 3:15) reflects synagogue tradition.",
+          "pt": "A comunidade judaica em Éfeso era numerosa e ativa. Os mestres da lei mencionados em 1Tm 1:7, que queriam ser 'mestres da lei sem entender nem o que dizem nem o que afirmam', provavelmente representavam uma forma de especulação judaica sincrética misturada com o gnosticismo nascente. A familiaridade de Timóteo com as Escrituras desde a infância (2Tm 3:15) reflete a tradição da sinagoga."
+        },
+        "estadoArqueologico": {
+          "es": "Inscripciones en Éfeso mencionan una sinagoga judía; el muro de la sinagoga y artículos rituales han sido hallados en excavaciones del siglo XX, confirmando la presencia judía activa en la ciudad.",
+          "en": "Inscriptions in Ephesus mention a Jewish synagogue; the synagogue wall and ritual items have been found in twentieth-century excavations, confirming active Jewish presence in the city.",
+          "pt": "Inscrições em Éfeso mencionam uma sinagoga judaica; a parede da sinagoga e objetos rituais foram encontrados em escavações do século XX, confirmando a presença judaica ativa na cidade."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Culto a Artemisa de Éfeso",
+          "en": "Artemis Cult of Ephesus",
+          "pt": "Culto a Ártemis de Éfeso"
+        },
+        "rolEnElTexto": {
+          "es": "El templo de Artemisa (Artemisión), una de las siete maravillas del mundo antiguo, dominaba la vida religiosa, económica y social de Éfeso. Las instrucciones de Pablo sobre el rol de la mujer en la adoración (1Ti 2:9–15) deben leerse en parte a la luz de las sacerdotisas y el prominente papel femenino en el culto a Artemisa, así como la tendencia a importar prácticas religiosas paganas en la adoración cristiana.",
+          "en": "The temple of Artemis (Artemision), one of the seven wonders of the ancient world, dominated the religious, economic, and social life of Ephesus. Paul's instructions about the role of women in worship (1Tim 2:9–15) must be read partly in light of the priestesses and the prominent female role in Artemis worship, as well as the tendency to import pagan religious practices into Christian worship.",
+          "pt": "O templo de Ártemis (Artemísion), uma das sete maravilhas do mundo antigo, dominava a vida religiosa, econômica e social de Éfeso. As instruções de Paulo sobre o papel da mulher no culto (1Tm 2:9–15) devem ser lidas em parte à luz das sacerdotisas e do papel feminino proeminente no culto a Ártemis, bem como da tendência de importar práticas religiosas pagãs para o culto cristão."
+        },
+        "estadoArqueologico": {
+          "es": "Los restos del Artemisión han sido excavados, incluidas las bases de columnas y estatuillas votivas. Las inscripciones revelan la enorme influencia socioeconómica del culto, confirmando el contexto de tensión religiosa que Pablo aborda.",
+          "en": "The remains of the Artemision have been excavated, including column bases and votive figurines. Inscriptions reveal the massive socioeconomic influence of the cult, confirming the context of religious tension Paul addresses.",
+          "pt": "Os restos do Artemísion foram escavados, incluindo bases de colunas e estatuetas votivas. As inscrições revelam a enorme influência socioeconômica do culto, confirmando o contexto de tensão religiosa que Paulo aborda."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones austriacas en Éfeso (en curso desde 1895) han proporcionado un marco material abundante para 1 Timoteo. El ágora comercial, la biblioteca de Celso, las termas y las calles pavimentadas confirman la ciudad cosmopolita de primer rango que Pablo describe implícitamente. Inscripciones de epíscopos (supervisores municipales) y diáconos en contextos cívicos aclaran el vocabulario de liderazgo que Pablo adapta para la iglesia. La rica iconografía del Artemisión y los papiros mágicos efesios (Hechos 19:19 menciona libros de magia) ilustran el ambiente sincretista que amenazaba la pureza doctrinal. No existe evidencia arqueológica directa que confirme o contradiga el ministerio de Timoteo en Éfeso, pero el trasfondo material es coherente con la situación pastoral descrita.",
+      "en": "Austrian excavations at Ephesus (ongoing since 1895) have provided an abundant material framework for 1 Timothy. The commercial agora, Library of Celsus, bath houses, and paved streets confirm the first-rank cosmopolitan city Paul implicitly describes. Inscriptions of episkopos (municipal overseers) and deacons in civic contexts clarify the leadership vocabulary Paul adapts for the church. The rich iconography of the Artemision and the Ephesian magical papyri (Acts 19:19 mentions books of magic) illustrate the syncretic environment that threatened doctrinal purity. There is no direct archaeological evidence that confirms or contradicts Timothy's ministry in Ephesus, but the material background is coherent with the pastoral situation described.",
+      "pt": "As escavações austríacas em Éfeso (em andamento desde 1895) forneceram um amplo quadro material para 1 Timóteo. O ágora comercial, a Biblioteca de Celso, as termas e as ruas pavimentadas confirmam a cidade cosmopolita de primeiro nível que Paulo descreve implicitamente. Inscrições de episkopos (supervisores municipais) e diáconos em contextos cívicos esclarecem o vocabulário de liderança que Paulo adapta para a igreja. A rica iconografia do Artemísion e os papiros mágicos efésios (At 19:19 menciona livros de magia) ilustram o ambiente sincrético que ameaçava a pureza doutrinária. Não há evidências arqueológicas diretas que confirmem ou contradigam o ministério de Timóteo em Éfeso, mas o contexto material é coerente com a situação pastoral descrita."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Inscripciones de los supervisores (epíscopos) de las ciudades griegas",
+          "en": "Inscriptions of episkopoi (overseers) in Greek cities",
+          "pt": "Inscrições dos supervisores (epíscopos) nas cidades gregas"
+        },
+        "origen": {
+          "es": "Mundo grecorromano, siglos II a.C.–II d.C.; varios lugares de excavación incluyendo Éfeso, Pérgamo y Mileto",
+          "en": "Greco-Roman world, 2nd century BC–2nd century AD; multiple excavation sites including Ephesus, Pergamum, and Miletus",
+          "pt": "Mundo greco-romano, séculos II a.C.–II d.C.; vários sítios de escavação incluindo Éfeso, Pérgamo e Mileto"
+        },
+        "relevancia": {
+          "es": "El término ἐπίσκοπος (episkopos, «obispo/supervisor») era ampliamente usado en contextos cívicos griegos para designar funcionarios supervisores de asociaciones o colonias. Pablo lo adopta y redefine cristológicamente en 1Ti 3:1–7, dotando a un cargo secular conocido de contenido teológico y requisitos morales específicamente evangélicos. Las inscripciones civiles ilustran por qué el término era comprensible para los receptores gentiles.",
+          "en": "The term ἐπίσκοπος (episkopos, 'bishop/overseer') was widely used in Greek civic contexts to designate supervisory officials of associations or colonies. Paul adopts and christologically redefines it in 1Tim 3:1–7, giving a familiar secular office theological content and specifically evangelical moral requirements. Civic inscriptions illustrate why the term was comprehensible to Gentile recipients.",
+          "pt": "O termo ἐπίσκοπος (episkopos, 'bispo/supervisor') era amplamente usado em contextos cívicos gregos para designar funcionários supervisores de associações ou colônias. Paulo o adota e redefine cristologicamente em 1Tm 3:1–7, dotando um cargo secular familiar de conteúdo teológico e requisitos morais especificamente evangélicos. As inscrições cívicas ilustram por que o termo era compreensível para os destinatários gentios."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Papiros de Oxirrinco y papiros mágicos griegos",
+          "en": "Oxyrhynchus Papyri and Greek Magical Papyri",
+          "pt": "Papiros de Oxirrinco e papiros mágicos gregos"
+        },
+        "origen": {
+          "es": "Egipto, siglos I–IV d.C.; conservados en el Museo Ashmolean (Oxford) y otras colecciones",
+          "en": "Egypt, 1st–4th centuries AD; held at the Ashmolean Museum (Oxford) and other collections",
+          "pt": "Egito, séculos I–IV d.C.; conservados no Museu Ashmolean (Oxford) e outras coleções"
+        },
+        "relevancia": {
+          "es": "Ilustran el ambiente religioso sincretista del mundo mediterráneo del siglo I, en el que las especulaciones gnósticas y las prácticas mágicas se mezclaban con elementos del judaísmo y el incipiente cristianismo. Pablo advierte en 1Ti 4:1–7 contra «doctrinas de demonios» y «mitos profanos y cuentos de viejas», lo que encuentra paralelo en el tipo de especulación religiosa documentada en estos papiros.",
+          "en": "They illustrate the syncretic religious environment of the first-century Mediterranean world, in which gnostic speculations and magical practices were mixed with elements of Judaism and nascent Christianity. Paul warns in 1Tim 4:1–7 against 'doctrines of demons' and 'irreverent, silly myths,' which finds a parallel in the type of religious speculation documented in these papyri.",
+          "pt": "Ilustram o ambiente religioso sincrético do mundo mediterrâneo do século I, no qual especulações gnósticas e práticas mágicas eram misturadas com elementos do judaísmo e do cristianismo nascente. Paulo adverte em 1Tm 4:1–7 contra 'doutrinas de demônios' e 'mitos profanos e de velhas', o que encontra paralelo no tipo de especulação religiosa documentada nesses papiros."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia histórica es la autenticidad paulina. Los críticos del siglo XIX (Schleiermacher, Baur) argumentaron que el vocabulario, el estilo y las estructuras eclesiales de las Cartas Pastorales (1 Timoteo, 2 Timoteo, Tito) pertenecen a una etapa posterior del desarrollo cristiano (ca. 100–130 d.C.) y reflejan la obra de un discípulo que usó el nombre de Pablo como autoridad literaria. A favor de la autoría paulina: (1) la tradición unánime de la iglesia primitiva hasta el siglo XIX; (2) la hipótesis de que Pablo fue liberado de su primera prisión romana y realizó un ministerio adicional antes de ser arrestado de nuevo y ejecutado bajo Nerón (ca. 64–68 d.C.); (3) la posible participación de un secretario (amanuensis) que explicaría las diferencias estilísticas. La tradición reformada (Calvino, Hodge, Machen, Fee, Towner) afirma la autenticidad paulina como la interpretación más coherente con la evidencia histórica y la enseñanza de las Escrituras sobre sí mismas.",
+      "en": "The principal historical controversy is Pauline authenticity. Nineteenth-century critics (Schleiermacher, Baur) argued that the vocabulary, style, and ecclesiastical structures of the Pastoral Epistles (1 Timothy, 2 Timothy, Titus) belong to a later stage of Christian development (ca. AD 100–130) and reflect the work of a disciple who used Paul's name as a literary authority. In favor of Pauline authorship: (1) the unanimous tradition of the early church until the nineteenth century; (2) the hypothesis that Paul was released from his first Roman imprisonment and carried on additional ministry before being arrested again and executed under Nero (ca. AD 64–68); (3) the possible involvement of a secretary (amanuensis) that would explain the stylistic differences. The Reformed tradition (Calvin, Hodge, Machen, Fee, Towner) affirms Pauline authenticity as the interpretation most consistent with the historical evidence and the Scriptures' teaching about themselves.",
+      "pt": "A principal controvérsia histórica é a autenticidade paulina. Críticos do século XIX (Schleiermacher, Baur) argumentaram que o vocabulário, o estilo e as estruturas eclesiásticas das Epístolas Pastorais (1 Timóteo, 2 Timóteo, Tito) pertencem a uma fase posterior do desenvolvimento cristão (ca. 100–130 d.C.) e refletem a obra de um discípulo que usou o nome de Paulo como autoridade literária. A favor da autoria paulina: (1) a tradição unânime da igreja primitiva até o século XIX; (2) a hipótese de que Paulo foi libertado de sua primeira prisão romana e realizou um ministério adicional antes de ser novamente preso e executado sob Nero (ca. 64–68 d.C.); (3) a possível participação de um secretário (amanuense) que explicaria as diferenças estilísticas. A tradição reformada (Calvino, Hodge, Machen, Fee, Towner) afirma a autenticidade paulina como a interpretação mais coerente com as evidências históricas e o ensino das Escrituras sobre si mesmas."
+    },
+    "cronologiaInterna": {
+      "es": "El texto implica que Pablo dejó a Timoteo en Éfeso cuando se dirigió a Macedonia (1Ti 1:3). Timoteo había sido circuncidado e incorporado al equipo de Pablo antes de este encargo (Hch 16:1–3). La carta presupone que Timoteo ya conoce la situación de los falsos maestros en Éfeso y que Pablo planea regresar, aunque no puede precisar cuándo (1Ti 3:14–15). No hay cronología narrativa progresiva dentro de la carta; es una instrucción pastoral directa, no un relato histórico.",
+      "en": "The text implies that Paul left Timothy in Ephesus when he went to Macedonia (1Tim 1:3). Timothy had been circumcised and incorporated into Paul's team before this assignment (Acts 16:1–3). The letter presupposes that Timothy already knows the situation of the false teachers in Ephesus and that Paul plans to return, though he cannot specify when (1Tim 3:14–15). There is no progressive narrative chronology within the letter; it is a direct pastoral instruction, not a historical account.",
+      "pt": "O texto implica que Paulo deixou Timóteo em Éfeso quando foi para a Macedônia (1Tm 1:3). Timóteo havia sido circuncidado e incorporado à equipe de Paulo antes desse encargo (At 16:1–3). A carta pressupõe que Timóteo já conhece a situação dos falsos mestres em Éfeso e que Paulo planeja retornar, embora não possa especificar quando (1Tm 3:14–15). Não há cronologia narrativa progressiva dentro da carta; é uma instrução pastoral direta, não um relato histórico."
+    }
+  },
+  "ordenEnDivision": 10,
+  "ordenCanon": 54,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Cristo es presentado en 1 Timoteo como el único mediador entre Dios y los hombres (1Ti 2:5), como aquel cuya encarnación, resurrección y ascensión glorificada constituyen el fundamento de toda la vida y misión de la iglesia (1Ti 3:16). La «buena confesión» que Cristo hizo ante Pilato (1Ti 6:13) es el modelo de la confesión de Timoteo. El himno cristológico de 1Ti 3:16 sintetiza la trayectoria redentora —encarnación, justificación, glorificación— como el misterio de la piedad sobre el que descansa la iglesia. En la perspectiva de Vos, 1 Timoteo representa la etapa de «aplicación escatológica»: el Espíritu aplica a la iglesia las realidades del cumplimiento consumado en Cristo, de modo que las instrucciones pastorales no son mera ética institucional sino la forma visible del reino del Nuevo Pacto.",
+      "en": "Christ is presented in 1 Timothy as the one mediator between God and men (1Tim 2:5), as the one whose incarnation, resurrection, and glorified ascension constitute the foundation of all the life and mission of the church (1Tim 3:16). The 'good confession' Christ made before Pilate (1Tim 6:13) is the pattern for Timothy's confession. The christological hymn of 1Tim 3:16 summarizes the redemptive trajectory — incarnation, justification, glorification — as the mystery of godliness on which the church rests. In Vos's framework, 1 Timothy represents the 'eschatological application' stage: the Spirit applies to the church the realities of fulfillment consummated in Christ, so that the pastoral instructions are not mere institutional ethics but the visible form of the New Covenant kingdom.",
+      "pt": "Cristo é apresentado em 1 Timóteo como o único mediador entre Deus e os homens (1Tm 2:5), como aquele cuja encarnação, ressurreição e ascensão glorificada constituem o fundamento de toda a vida e missão da igreja (1Tm 3:16). A 'boa confissão' que Cristo fez diante de Pilatos (1Tm 6:13) é o modelo da confissão de Timóteo. O hino cristológico de 1Tm 3:16 sintetiza a trajetória redentora — encarnação, justificação, glorificação — como o mistério da piedade sobre o qual repousa a igreja. Na perspectiva de Vos, 1 Timóteo representa o estágio de 'aplicação escatológica': o Espírito aplica à igreja as realidades do cumprimento consumado em Cristo, de modo que as instruções pastorais não são mera ética institucional, mas a forma visível do reino do Novo Pacto."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Cristo como el único mediador cumple y supera la función mediadora de Moisés en el Antiguo Pacto. Así como Moisés intercedía entre Dios e Israel (Ex 32:30–32), Cristo intercede perfectamente por toda la humanidad como el Hombre-Dios (1Ti 2:5; He 9:15).",
+        "en": "Christ as the one mediator fulfills and surpasses the mediating function of Moses in the Old Covenant. Just as Moses interceded between God and Israel (Exod 32:30–32), Christ perfectly intercedes for all humanity as the God-Man (1Tim 2:5; Heb 9:15).",
+        "pt": "Cristo como único mediador cumpre e supera a função mediadora de Moisés no Antigo Pacto. Assim como Moisés intercedia entre Deus e Israel (Ex 32:30–32), Cristo intercede perfeitamente por toda a humanidade como o Deus-Homem (1Tm 2:5; Hb 9:15)."
+      },
+      {
+        "es": "El epíscopo-anciano como pastor fiel prefigura al Gran Pastor Cristo (1P 5:4). Los requisitos del obispo en 1Ti 3:1–7 describen el carácter de Cristo mismo; los líderes son tipos e instrumentos del gobierno de Cristo sobre su iglesia.",
+        "en": "The bishop-elder as a faithful shepherd prefigures the Great Shepherd Christ (1Pet 5:4). The requirements of the overseer in 1Tim 3:1–7 describe the character of Christ himself; leaders are types and instruments of Christ's rule over his church.",
+        "pt": "O bispo-ancião como pastor fiel prefigura o Grande Pastor Cristo (1Pe 5:4). Os requisitos do supervisor em 1Tm 3:1–7 descrevem o caráter do próprio Cristo; os líderes são tipos e instrumentos do governo de Cristo sobre sua igreja."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Solo 1 Timoteo ofrece la instrucción pastoral más sistemática del Nuevo Testamento sobre el gobierno eclesiástico, estableciendo los requisitos de carácter para obispos y diáconos (1Ti 3:1–13), las normas para la disciplina de ancianos (1Ti 5:17–25) y el manejo de la viudez en la comunidad (1Ti 5:3–16). Además, únicamente en esta carta encontramos el himno cristológico de 1Ti 3:16 en su forma canónica completa, y la afirmación trinitario-mediatorial de 1Ti 2:5 como norma de la oración de la iglesia. La polémica antignóstica de 1Ti 6:20 («guarda lo que se te ha confiado, evitando las palabras vacías y profanas») constituye una de las primeras referencias directas al término gnōsis como amenaza doctrinal.",
+    "en": "Only 1 Timothy offers the New Testament's most systematic pastoral instruction on church governance, establishing character requirements for overseers and deacons (1Tim 3:1–13), norms for the discipline of elders (1Tim 5:17–25), and the handling of widowhood in the community (1Tim 5:3–16). Moreover, only in this letter do we find the christological hymn of 1Tim 3:16 in its full canonical form, and the trinitarian-mediatorial affirmation of 1Tim 2:5 as the norm for the church's prayer. The anti-gnostic polemic of 1Tim 6:20 ('guard the deposit entrusted to you, avoiding the irreverent babble and contradictions of what is falsely called knowledge') constitutes one of the earliest direct references to the term gnōsis as a doctrinal threat.",
+    "pt": "Somente 1 Timóteo oferece a instrução pastoral mais sistemática do Novo Testamento sobre o governo eclesiástico, estabelecendo os requisitos de caráter para bispos e diáconos (1Tm 3:1–13), normas para a disciplina de presbíteros (1Tm 5:17–25) e o tratamento da viuvez na comunidade (1Tm 5:3–16). Além disso, somente nesta carta encontramos o hino cristológico de 1Tm 3:16 em sua forma canônica completa, e a afirmação trinitário-mediatorial de 1Tm 2:5 como norma da oração da igreja. A polêmica antignóstica de 1Tm 6:20 ('guarda o que te foi confiado, evitando as conversas frívolas e profanas') constitui uma das primeiras referências diretas ao termo gnōsis como ameaça doutrinária."
+  },
+  "genero": {
+    "es": "Epístola pastoral (carta apostólica de instrucción eclesial)",
+    "en": "Pastoral Epistle (apostolic letter of ecclesiastical instruction)",
+    "pt": "Epístola pastoral (carta apostólica de instrução eclesiástica)"
+  },
+  "palabraClave": {
+    "es": [
+      "sana doctrina",
+      "piedad",
+      "orden",
+      "fidelidad"
+    ],
+    "en": [
+      "sound doctrine",
+      "godliness",
+      "order",
+      "faithfulness"
+    ],
+    "pt": [
+      "sã doutrina",
+      "piedade",
+      "ordem",
+      "fidelidade"
+    ]
+  },
+  "destinatario": {
+    "es": "Timoteo, representante apostólico de Pablo, encargado de supervisar la iglesia en Éfeso durante la ausencia de Pablo, frente a una crisis doctrinal y de liderazgo concreta",
+    "en": "Timothy, Paul's apostolic representative, charged with overseeing the church in Ephesus during Paul's absence, in the face of a specific doctrinal and leadership crisis",
+    "pt": "Timóteo, representante apostólico de Paulo, encarregado de supervisionar a igreja em Éfeso durante a ausência de Paulo, diante de uma crise doutrinária e de liderança específica"
+  },
+  "proposito": {
+    "es": "Propósito histórico: proporcionar a Timoteo instrucciones concretas sobre cómo manejar la crisis de falsos maestros en Éfeso, cómo regular la vida litúrgica y comunitaria de la iglesia, y cómo nombrar y supervisar a líderes calificados. Propósito teológico: demostrar que la iglesia de Dios, «columna y sostén de la verdad» (1Ti 3:15), debe estructurarse conforme al evangelio de Cristo para que el misterio de la piedad —la persona y obra de Cristo— sea preservado, proclamado y vivido fielmente en el mundo.",
+    "en": "Historical purpose: to provide Timothy with concrete instructions on how to handle the false teacher crisis in Ephesus, how to regulate the church's liturgical and communal life, and how to appoint and supervise qualified leaders. Theological purpose: to demonstrate that the church of God, 'a pillar and buttress of the truth' (1Tim 3:15), must be structured according to the gospel of Christ so that the mystery of godliness — the person and work of Christ — is faithfully preserved, proclaimed, and lived out in the world.",
+    "pt": "Propósito histórico: fornecer a Timóteo instruções concretas sobre como lidar com a crise dos falsos mestres em Éfeso, como regular a vida litúrgica e comunitária da igreja, e como nomear e supervisionar líderes qualificados. Propósito teológico: demonstrar que a igreja de Deus, 'coluna e firmamento da verdade' (1Tm 3:15), deve ser estruturada conforme o evangelho de Cristo para que o mistério da piedade — a pessoa e obra de Cristo — seja preservado, proclamado e vivido fielmente no mundo."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pablo",
+        "en": "Paul",
+        "pt": "Paulo"
+      },
+      "hebreo": "Παῦλος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo por mandato de Dios y autor de la carta, que escribe a su hijo en la fe, Timoteo, para instrucciones sobre el orden y la doctrina de la iglesia en Éfeso.",
+        "en": "Apostle of Jesus Christ by God's command and author of the letter, writing to his son in the faith, Timothy, with instructions on the order and doctrine of the church in Ephesus.",
+        "pt": "Apóstolo de Jesus Cristo por mandato de Deus e autor da carta, que escreve ao seu filho na fé, Timóteo, com instruções sobre a ordem e a doutrina da igreja em Éfeso."
+      },
+      "acciones": {
+        "es": "Pablo se presenta como «apóstol de Jesucristo por mandato de Dios nuestro Salvador» (1Ti 1:1); da testimonio de la gracia de Cristo en su propia conversión (1Ti 1:12–16); imparte instrucciones sobre oración, adoración y liderazgo eclesiástico; y exhorta a Timoteo a pelear la buena batalla de la fe (1Ti 6:12).",
+        "en": "Paul presents himself as 'an apostle of Christ Jesus by command of God our Savior' (1Tim 1:1); gives testimony of Christ's grace in his own conversion (1Tim 1:12–16); issues instructions on prayer, worship, and ecclesiastical leadership; and exhorts Timothy to fight the good fight of faith (1Tim 6:12).",
+        "pt": "Paulo se apresenta como 'apóstolo de Jesus Cristo por mandato de Deus nosso Salvador' (1Tm 1:1); dá testemunho da graça de Cristo em sua própria conversão (1Tm 1:12–16); emite instruções sobre oração, adoração e liderança eclesiástica; e exorta Timóteo a combater o bom combate da fé (1Tm 6:12)."
+      },
+      "significadoTeologico": {
+        "es": "Pablo encarna el modelo del apóstol como guardián y transmisor del depósito de la fe (1Ti 6:20). Su autobiografía de pecador perdonado (1Ti 1:15–16) sirve como paradigma de la gracia soberana de Dios, que alcanza aun al «peor de los pecadores». Su autoridad apostólica es el fundamento sobre el que descansa toda instrucción de la carta.",
+        "en": "Paul embodies the model of the apostle as guardian and transmitter of the deposit of faith (1Tim 6:20). His autobiography as a forgiven sinner (1Tim 1:15–16) serves as a paradigm of God's sovereign grace, which reaches even 'the worst of sinners.' His apostolic authority is the foundation on which all instruction in the letter rests.",
+        "pt": "Paulo encarna o modelo do apóstolo como guardião e transmissor do depósito da fé (1Tm 6:20). Sua autobiografia como pecador perdoado (1Tm 1:15–16) serve como paradigma da graça soberana de Deus, que alcança até o 'pior dos pecadores'. Sua autoridade apostólica é o fundamento sobre o qual repousa toda instrução da carta."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico en sí mismo; más bien, su conversión es presentada como «ejemplo» (ὑποτύπωσις, hypotypōsis) del patrón de la gracia salvadora de Cristo para los que creerán (1Ti 1:16).",
+        "en": "He does not function as a christological type himself; rather, his conversion is presented as an 'example' (ὑποτύπωσις, hypotypōsis) of the pattern of Christ's saving grace for those who would believe (1Tim 1:16).",
+        "pt": "Não funciona como tipo cristológico em si mesmo; antes, sua conversão é apresentada como 'exemplo' (ὑποτύπωσις, hypotypōsis) do padrão da graça salvadora de Cristo para os que creriam (1Tm 1:16)."
+      },
+      "caracterMoral": {
+        "es": "Humildad radical ante la gracia, valentía apostólica, fidelidad al depósito revelado, amor pastoral hacia los convertidos.",
+        "en": "Radical humility before grace, apostolic courage, faithfulness to the revealed deposit, pastoral love for converts.",
+        "pt": "Humildade radical diante da graça, coragem apostólica, fidelidade ao depósito revelado, amor pastoral pelos convertidos."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Pablo, anteriormente llamado Saulo, fue fariseo perseguidor de la iglesia (1Ti 1:13; Hch 9:1–2) que fue convertido sobrenaturalmente por Cristo resucitado en el camino a Damasco. Comisionado como apóstol a los gentiles, realizó tres viajes misioneros antes de ser encarcelado en Roma por primera vez (Hch 28). Tras su liberación, reinició su ministerio itinerante y escribió 1 Timoteo desde Macedonia mientras dejaba a Timoteo en Éfeso (1Ti 1:3).",
+          "en": "Paul, formerly called Saul, was a Pharisee who persecuted the church (1Tim 1:13; Acts 9:1–2) and was supernaturally converted by the risen Christ on the road to Damascus. Commissioned as an apostle to the Gentiles, he conducted three missionary journeys before being imprisoned in Rome for the first time (Acts 28). After his release, he resumed his itinerant ministry and wrote 1 Timothy from Macedonia while leaving Timothy in Ephesus (1Tim 1:3).",
+          "pt": "Paulo, anteriormente chamado Saulo, foi um fariseu que perseguiu a igreja (1Tm 1:13; At 9:1–2) e foi sobrenaturalmente convertido pelo Cristo ressuscitado no caminho para Damasco. Comissionado como apóstolo para os gentios, realizou três viagens missionárias antes de ser encarcerado em Roma pela primeira vez (At 28). Após sua libertação, retomou seu ministério itinerante e escreveu 1 Timóteo da Macedônia enquanto deixava Timóteo em Éfeso (1Tm 1:3)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Ti 1:1",
+          "1Ti 1:12-16",
+          "1Ti 2:7",
+          "1Ti 6:20"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Pablo de Tarso es el personaje más documentado del cristianismo primitivo fuera del mismo Nuevo Testamento. Nacido como ciudadano romano de familia judía de la tribu de Benjamín en Tarso de Cilicia (Hch 22:3), estudió en Jerusalén bajo el rabino Gamaliel. Fue ejecutado en Roma, probablemente ca. 64–68 d.C., bajo el reinado de Nerón. Eusebio de Cesarea (Historia Eclesiástica, II.22) preserva la tradición de su liberación de la primera prisión romana y su ministerio posterior antes de su martirio final.",
+          "en": "Paul of Tarsus is the best-documented figure of early Christianity outside the New Testament itself. Born a Roman citizen from a Jewish family of the tribe of Benjamin in Tarsus of Cilicia (Acts 22:3), he studied in Jerusalem under the rabbi Gamaliel. He was executed in Rome, probably ca. AD 64–68, during Nero's reign. Eusebius of Caesarea (Ecclesiastical History, II.22) preserves the tradition of his release from his first Roman imprisonment and subsequent ministry before his final martyrdom.",
+          "pt": "Paulo de Tarso é o personagem mais documentado do cristianismo primitivo fora do próprio Novo Testamento. Nascido como cidadão romano de família judaica da tribo de Benjamim em Tarso da Cilícia (At 22:3), estudou em Jerusalém sob o rabino Gamaliel. Foi executado em Roma, provavelmente ca. 64–68 d.C., durante o reinado de Nero. Eusébio de Cesareia (História Eclesiástica, II.22) preserva a tradição de sua libertação da primeira prisão romana e do ministério posterior antes de seu martírio final."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letters to Timothy and Titus",
+            "autor": "Philip H. Towner",
+            "año": 2006,
+            "editorial": "Eerdmans (NICNT)",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "autorPablo",
+              "contextoEfeso"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La tradición histórica, las cartas paulinas auténticas (Romanos, Gálatas, Filipenses, Filemón) y Hechos son coherentes entre sí y con los datos implícitos de 1 Timoteo sobre la situación geográfica y temporal de Pablo.",
+          "en": "The historical tradition, the authentic Pauline letters (Romans, Galatians, Philippians, Philemon), and Acts are mutually consistent and coherent with the data implied in 1 Timothy about Paul's geographical and temporal situation.",
+          "pt": "A tradição histórica, as cartas paulinas autênticas (Romanos, Gálatas, Filipenses, Filêmon) e Atos são mutuamente consistentes e coerentes com os dados implícitos em 1 Timóteo sobre a situação geográfica e temporal de Paulo."
+        }
+      },
+      "versiculosAsociados": [
+        "1Ti 1:1",
+        "1Ti 1:12",
+        "1Ti 1:15",
+        "1Ti 2:7",
+        "1Ti 6:11-12"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "2Ti",
+        "Tit",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo es el autor de la mayoría de las epístolas del NT. Su conversión es narrada tres veces en Hechos (9, 22, 26). En 1 Timoteo, Pablo se cita a sí mismo como el principal pecador salvo por gracia (1Ti 1:15), texto que se convierte en norma para la comprensión reformada de la gracia soberana.",
+        "en": "Paul is the author of the majority of NT epistles. His conversion is narrated three times in Acts (9, 22, 26). In 1 Timothy, Paul cites himself as the foremost sinner saved by grace (1Tim 1:15), a text that becomes normative for the Reformed understanding of sovereign grace.",
+        "pt": "Paulo é o autor da maioria das epístolas do NT. Sua conversão é narrada três vezes em Atos (9, 22, 26). Em 1 Timóteo, Paulo se cita como o principal pecador salvo pela graça (1Tm 1:15), texto que se torna normativo para a compreensão reformada da graça soberana."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Timoteo",
+        "en": "Timothy",
+        "pt": "Timóteo"
+      },
+      "hebreo": "Τιμόθεος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "descripcion": {
+        "es": "Representante apostólico de Pablo en Éfeso, hijo espiritual del apóstol, encargado de guardar la sana doctrina, corregir los falsos maestros y establecer un liderazgo calificado en la iglesia.",
+        "en": "Paul's apostolic representative in Ephesus, the apostle's spiritual son, charged with guarding sound doctrine, correcting false teachers, and establishing qualified leadership in the church.",
+        "pt": "Representante apostólico de Paulo em Éfeso, filho espiritual do apóstolo, encarregado de guardar a sã doutrina, corrigir os falsos mestres e estabelecer uma liderança qualificada na igreja."
+      },
+      "acciones": {
+        "es": "Timoteo ha sido encargado de quedarse en Éfeso (1Ti 1:3), mandar a ciertos individuos que no enseñen doctrinas extrañas, supervisar la oración comunitaria (1Ti 2:1–8), regular el rol de las mujeres en el culto (1Ti 2:9–15), seleccionar y supervisar a obispos y diáconos (1Ti 3), cuidar de las viudas y los ancianos (1Ti 5), y huir de la avaricia para perseguir la justicia y la piedad (1Ti 6:11).",
+        "en": "Timothy has been charged with remaining in Ephesus (1Tim 1:3), commanding certain individuals not to teach strange doctrines, overseeing communal prayer (1Tim 2:1–8), regulating the role of women in worship (1Tim 2:9–15), selecting and supervising overseers and deacons (1Tim 3), caring for widows and elders (1Tim 5), and fleeing greed to pursue righteousness and godliness (1Tim 6:11).",
+        "pt": "Timóteo foi encarregado de permanecer em Éfeso (1Tm 1:3), ordenar a certos indivíduos que não ensinem doutrinas estranhas, supervisionar a oração comunitária (1Tm 2:1–8), regular o papel das mulheres no culto (1Tm 2:9–15), selecionar e supervisionar bispos e diáconos (1Tm 3), cuidar das viúvas e dos presbíteros (1Tm 5), e fugir da avareza para perseguir a justiça e a piedade (1Tm 6:11)."
+      },
+      "significadoTeologico": {
+        "es": "Timoteo representa el modelo del ministro fiel bajo la autoridad apostólica: joven (1Ti 4:12), llamado por profecía y ordenado por el presbiterio (1Ti 4:14), tentado por la timidez (cf. 2Ti 1:7), pero exhortado a ejercer su don y guardar el depósito con valentía. Es el prototipo del pastor reformado que sirve no por posición sino por mandato del evangelio.",
+        "en": "Timothy represents the model of the faithful minister under apostolic authority: young (1Tim 4:12), called by prophecy and ordained by the council of elders (1Tim 4:14), tempted by timidity (cf. 2Tim 1:7), yet exhorted to exercise his gift and guard the deposit with courage. He is the prototype of the Reformed pastor who serves not by position but by gospel mandate.",
+        "pt": "Timóteo representa o modelo do ministro fiel sob a autoridade apostólica: jovem (1Tm 4:12), chamado por profecia e ordenado pelo presbitério (1Tm 4:14), tentado pela timidez (cf. 2Tm 1:7), mas exortado a exercer seu dom e guardar o depósito com coragem. É o protótipo do pastor reformado que serve não por posição, mas por mandato do evangelho."
+      },
+      "tipo": {
+        "es": "No funciona primariamente como tipo cristológico, sino como imagen del bajo-pastor fiel que sirve bajo el Gran Pastor Cristo.",
+        "en": "He does not function primarily as a christological type, but rather as an image of the faithful under-shepherd who serves under Christ the Great Shepherd.",
+        "pt": "Não funciona primariamente como tipo cristológico, mas como imagem do pastor inferior fiel que serve sob Cristo, o Grande Pastor."
+      },
+      "caracterMoral": {
+        "es": "Fe sincera, don espiritual recibido por ordenación, tendencia a la timidez que Pablo corrige; fidelidad al evangelio recibido.",
+        "en": "Sincere faith, spiritual gift received through ordination, tendency toward timidity that Paul corrects; faithfulness to the received gospel.",
+        "pt": "Fé sincera, dom espiritual recebido pela ordenação, tendência à timidez que Paulo corrige; fidelidade ao evangelho recebido."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Timoteo nació en Listra de madre judía creyente (Eunice) y padre griego (Hch 16:1). Pablo lo circuncidó y lo incorporó a su equipo misionero en el segundo viaje (Hch 16:1–3). Fue compañero de Pablo en varios ministerios y destinatario de dos epístolas canónicas. En 1 Timoteo es enviado a Éfeso como representante apostólico para corregir la falsa enseñanza y ordenar la vida comunitaria (1Ti 1:3).",
+          "en": "Timothy was born in Lystra to a believing Jewish mother (Eunice) and a Greek father (Acts 16:1). Paul circumcised him and incorporated him into his missionary team on the second journey (Acts 16:1–3). He was Paul's companion in various ministries and the recipient of two canonical epistles. In 1 Timothy he is sent to Ephesus as Paul's apostolic representative to correct false teaching and order communal life (1Tim 1:3).",
+          "pt": "Timóteo nasceu em Listra de mãe judaica crente (Eunice) e pai grego (At 16:1). Paulo o circuncidou e o incorporou à sua equipe missionária na segunda viagem (At 16:1–3). Foi companheiro de Paulo em vários ministérios e destinatário de duas epístolas canônicas. Em 1 Timóteo é enviado a Éfeso como representante apostólico de Paulo para corrigir o falso ensino e ordenar a vida comunitária (1Tm 1:3)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Ti 1:2",
+          "1Ti 1:18",
+          "1Ti 4:12",
+          "1Ti 4:14",
+          "1Ti 6:20"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Timoteo aparece en los registros históricos casi exclusivamente a través del NT y de la tradición eclesiástica posterior. La tradición de la iglesia primitiva (Eusebio, Historia Eclesiástica, III.4) lo identifica como el primer obispo de Éfeso. No existen fuentes extra-bíblicas contemporáneas que lo mencionen por nombre. Su trasfondo mixto (judío-gentil) y su circuncisión por Pablo son coherentes con el contexto histórico de la misión paulina a los gentiles.",
+          "en": "Timothy appears in historical records almost exclusively through the NT and subsequent ecclesiastical tradition. Early church tradition (Eusebius, Ecclesiastical History, III.4) identifies him as the first bishop of Ephesus. There are no contemporary extra-biblical sources that mention him by name. His mixed background (Jewish-Gentile) and his circumcision by Paul are consistent with the historical context of the Pauline mission to the Gentiles.",
+          "pt": "Timóteo aparece nos registros históricos quase exclusivamente através do NT e da tradição eclesiástica posterior. A tradição da igreja primitiva (Eusébio, História Eclesiástica, III.4) o identifica como o primeiro bispo de Éfeso. Não existem fontes extra-bíblicas contemporâneas que o mencionem pelo nome. Seu contexto misto (judeu-gentio) e sua circuncisão por Paulo são coerentes com o contexto histórico da missão paulina aos gentios."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letters to Timothy and Titus",
+            "autor": "Philip H. Towner",
+            "año": 2006,
+            "editorial": "Eerdmans (NICNT)",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "contextoTimoteo"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Los datos de Hechos y las cartas paulinas son coherentes entre sí. La ausencia de evidencia extra-bíblica no contradice el relato, dado que Timoteo no era una figura pública fuera de los círculos cristianos.",
+          "en": "The data from Acts and the Pauline letters are mutually consistent. The absence of extra-biblical evidence does not contradict the account, given that Timothy was not a public figure outside Christian circles.",
+          "pt": "Os dados de Atos e das cartas paulinas são mutuamente consistentes. A ausência de evidências extra-bíblicas não contradiz o relato, dado que Timóteo não era uma figura pública fora dos círculos cristãos."
+        }
+      },
+      "versiculosAsociados": [
+        "1Ti 1:2",
+        "1Ti 1:18",
+        "1Ti 4:12-14",
+        "1Ti 6:11-12",
+        "1Ti 6:20"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "2Ti",
+        "Flm",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Timoteo es co-remitente de varias cartas paulinas y destinatario de dos epístolas. He 13:23 menciona su liberación de algún encarcelamiento. Es una figura clave en la eclesiología del NT como modelo del ministro ordenado bajo autoridad apostólica.",
+        "en": "Timothy is co-sender of several Pauline letters and the recipient of two epistles. Heb 13:23 mentions his release from some imprisonment. He is a key figure in NT ecclesiology as the model of the ordained minister under apostolic authority.",
+        "pt": "Timóteo é co-remetente de várias cartas paulinas e destinatário de duas epístolas. Hb 13:23 menciona sua libertação de algum encarceramento. É uma figura-chave na eclesiologia do NT como modelo do ministro ordenado sob autoridade apostólica."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Himeneo y Alejandro",
+        "en": "Hymenaeus and Alexander",
+        "pt": "Himeneu e Alexandre"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Dos miembros de la comunidad efesia que naufragaron en la fe y fueron entregados a Satanás por Pablo mediante disciplina apostólica (1Ti 1:19–20).",
+        "en": "Two members of the Ephesian community who made shipwreck of their faith and were handed over to Satan by Paul through apostolic discipline (1Tim 1:19–20).",
+        "pt": "Dois membros da comunidade efésina que naufragaram na fé e foram entregues a Satanás por Paulo mediante disciplina apostólica (1Tm 1:19–20)."
+      },
+      "acciones": {
+        "es": "Rechazaron la conciencia y naufragaron en la fe (1Ti 1:19). Himeneo aparece nuevamente en 2Ti 2:17 enseñando que la resurrección ya ocurrió. Alejandro puede ser el mismo del artesano que se opuso a Pablo mencionado en 2Ti 4:14.",
+        "en": "They rejected conscience and made shipwreck of the faith (1Tim 1:19). Hymenaeus appears again in 2Tim 2:17 teaching that the resurrection has already occurred. Alexander may be the same coppersmith who opposed Paul mentioned in 2Tim 4:14.",
+        "pt": "Rejeitaram a consciência e naufragaram na fé (1Tm 1:19). Himeneu aparece novamente em 2Tm 2:17 ensinando que a ressurreição já ocorreu. Alexandre pode ser o mesmo ferreiro que se opôs a Paulo mencionado em 2Tm 4:14."
+      },
+      "significadoTeologico": {
+        "es": "Ilustran la doctrina reformada de la perseverancia negativa: quienes rechazan deliberadamente la sana doctrina y la conciencia se apartan de la fe. La disciplina apostólica («entregados a Satanás», 1Ti 1:20) tiene finalidad tanto protectora para la iglesia como potencialmente restauradora para el individuo (cf. 1Co 5:5).",
+        "en": "They illustrate the Reformed doctrine of negative perseverance: those who deliberately reject sound doctrine and conscience apostatize from the faith. The apostolic discipline ('handed over to Satan,' 1Tim 1:20) has both a protective purpose for the church and a potentially restorative purpose for the individual (cf. 1Cor 5:5).",
+        "pt": "Ilustram a doutrina reformada da perseverança negativa: aqueles que deliberadamente rejeitam a sã doutrina e a consciência se afastam da fé. A disciplina apostólica ('entregues a Satanás', 1Tm 1:20) tem finalidade tanto protetora para a igreja quanto potencialmente restauradora para o indivíduo (cf. 1Co 5:5)."
+      },
+      "tipo": {
+        "es": "No funcionan como tipo cristológico.",
+        "en": "They do not function as a christological type.",
+        "pt": "Não funcionam como tipo cristológico."
+      },
+      "caracterMoral": {
+        "es": "Rechazo deliberado de la conciencia; propagación de falsa doctrina; apostasía activa.",
+        "en": "Deliberate rejection of conscience; propagation of false doctrine; active apostasy.",
+        "pt": "Rejeição deliberada da consciência; propagação de falsa doutrina; apostasia ativa."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Solo mencionados en 1Ti 1:19–20 y, en el caso de Himeneo, en 2Ti 2:17. No se da ningún detalle biográfico más allá de su apostasía y disciplina eclesiástica.",
+          "en": "Only mentioned in 1Tim 1:19–20 and, in Hymenaeus's case, in 2Tim 2:17. No biographical detail is given beyond their apostasy and ecclesiastical discipline.",
+          "pt": "Apenas mencionados em 1Tm 1:19–20 e, no caso de Himeneu, em 2Tm 2:17. Não são fornecidos detalhes biográficos além de sua apostasia e disciplina eclesiástica."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Ti 1:19-20"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay registro histórico extra-bíblico de estos individuos. Son conocidos únicamente por las referencias en las Epístolas Pastorales.",
+          "en": "There is no extra-biblical historical record of these individuals. They are known only from the references in the Pastoral Epistles.",
+          "pt": "Não há registro histórico extra-bíblico desses indivíduos. São conhecidos apenas pelas referências nas Epístolas Pastorais."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El texto es la única fuente; los detalles son consistentes con lo que se sabe de la disciplina eclesiástica en las primeras comunidades paulinas.",
+          "en": "The text is the only source; the details are consistent with what is known of ecclesiastical discipline in the early Pauline communities.",
+          "pt": "O texto é a única fonte; os detalhes são consistentes com o que se sabe sobre disciplina eclesiástica nas primeiras comunidades paulinas."
+        }
+      },
+      "versiculosAsociados": [
+        "1Ti 1:19-20"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2Ti"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Himeneo es mencionado en 2Ti 2:17 como alguien que «se desvió de la verdad» al enseñar que la resurrección ya ocurrió. Alejandro puede coincidir con el mencionado en 2Ti 4:14.",
+        "en": "Hymenaeus is mentioned in 2Tim 2:17 as someone who 'swerved from the truth' by teaching that the resurrection has already occurred. Alexander may be the same as the one mentioned in 2Tim 4:14.",
+        "pt": "Himeneu é mencionado em 2Tm 2:17 como alguém que 'se desviou da verdade' ao ensinar que a ressurreição já ocorreu. Alexandre pode coincidir com o mencionado em 2Tm 4:14."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "1 Timoteo es la carta más comprehensiva del NT sobre el gobierno y la vida de la iglesia local. La iglesia es «la casa de Dios», «la iglesia del Dios viviente», «columna y sostén de la verdad» (1Ti 3:15). Esta definición tripartita establece: (1) la naturaleza de la iglesia como comunidad de pacto de Dios (casa), (2) su relación con el Dios vivo que habita en ella, y (3) su función apologética y kerigmática de sostener la verdad revelada. Los requisitos para obispos (1Ti 3:1–7) y diáconos (1Ti 3:8–13) forman la base canónica del gobierno presbiteriano reformado.",
+        "en": "1 Timothy is the NT's most comprehensive letter on the government and life of the local church. The church is 'God's household,' 'the church of the living God,' 'a pillar and buttress of the truth' (1Tim 3:15). This tripartite definition establishes: (1) the church's nature as God's covenant community (household), (2) its relation to the living God who dwells in it, and (3) its apologetic and kerygmatic function of upholding revealed truth. The requirements for overseers (1Tim 3:1–7) and deacons (1Tim 3:8–13) form the canonical basis of Reformed presbyterian government.",
+        "pt": "1 Timóteo é a carta mais abrangente do NT sobre o governo e a vida da igreja local. A igreja é 'a casa de Deus', 'a igreja do Deus vivo', 'coluna e firmamento da verdade' (1Tm 3:15). Essa definição tripartite estabelece: (1) a natureza da igreja como comunidade de pacto de Deus (casa), (2) sua relação com o Deus vivo que habita nela, e (3) sua função apologética e kerygmática de sustentar a verdade revelada. Os requisitos para bispos (1Tm 3:1–7) e diáconos (1Tm 3:8–13) formam a base canônica do governo presbiteriano reformado."
+      },
+      "pasajes": [
+        "1Ti 3:1-7",
+        "1Ti 3:8-13",
+        "1Ti 3:14-16",
+        "1Ti 5:17-22",
+        "1Ti 4:14"
+      ],
+      "ensenanza": {
+        "es": "Los obispos deben ser irreprensibles, maridos de una sola mujer y aptos para enseñar · Los diáconos deben ser probados y sin mancha moral antes de servir · La iglesia es la casa de Dios, columna y sostén de la verdad · Los ancianos que gobiernan bien merecen doble honor, especialmente los que se esfuerzan en predicar y enseñar · El don ministerial de Timoteo fue impartido por el presbiterio mediante la imposición de manos",
+        "en": "Overseers must be above reproach, husbands of one wife, and able to teach · Deacons must be tested and blameless before serving · The church is God's household, pillar and buttress of the truth · Elders who rule well deserve double honor, especially those who labor in preaching and teaching · Timothy's ministerial gift was imparted by the council of elders through the laying on of hands",
+        "pt": "Os bispos devem ser irrepreensíveis, maridos de uma só mulher e aptos para ensinar · Os diáconos devem ser provados e sem mancha moral antes de servir · A igreja é a casa de Deus, coluna e firmamento da verdade · Os presbíteros que governam bem merecem dupla honra, especialmente os que se esforçam na pregação e no ensino · O dom ministerial de Timóteo foi impartido pelo presbitério mediante a imposição de mãos"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada interpreta 1Ti 3 y 5:17 como el fundamento escritural del gobierno presbiteriano: dos órdenes de líderes (ancianos que enseñan y dirigen, diáconos que sirven), elegidos con base en carácter probado, gobernando la iglesia bajo la autoridad de Cristo como único Rey y Cabeza de la iglesia (WCF Cap. 30–31).",
+        "en": "The Reformed tradition reads 1Tim 3 and 5:17 as the scriptural foundation of presbyterian government: two orders of leaders (teaching and ruling elders, deacons), elected on the basis of proven character, governing the church under the authority of Christ as the sole King and Head of the church (WCF Chs. 30–31).",
+        "pt": "A tradição reformada interpreta 1Tm 3 e 5:17 como o fundamento escritural do governo presbiteriano: duas ordens de líderes (presbíteros que ensinam e governam, diáconos que servem), eleitos com base no caráter provado, governando a igreja sob a autoridade de Cristo como único Rei e Cabeça da igreja (CCF Caps. 30–31)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "El himno de 1Ti 3:16 («Grande es el misterio de la piedad: Él fue manifestado en la carne, justificado en el Espíritu, visto por los ángeles, proclamado entre las naciones, creído en el mundo, recibido arriba en gloria») es una de las afirmaciones cristológicas más densas del NT. Articula la doble naturaleza de Cristo (carne/Espíritu), su resurrección-justificación, su alcance universal y su glorificación. 1Ti 2:5 declara que Cristo es el único mediador entre Dios y los hombres como «el Hombre Cristo Jesús» —afirmando simultáneamente su plena humanidad y su singularidad mediatorial.",
+        "en": "The hymn of 1Tim 3:16 ('Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory') is one of the NT's densest christological affirmations. It articulates Christ's two natures (flesh/Spirit), his resurrection-vindication, his universal reach, and his glorification. 1Tim 2:5 declares Christ to be the one mediator between God and men as 'the man Christ Jesus' — simultaneously affirming his full humanity and his unique mediatorial role.",
+        "pt": "O hino de 1Tm 3:16 ('Grande é, com certeza, o mistério da piedade: Ele foi manifestado em carne, justificado em Espírito, visto pelos anjos, pregado entre os gentios, crido no mundo, recebido em glória') é uma das afirmações cristológicas mais densas do NT. Articula a dupla natureza de Cristo (carne/Espírito), sua ressurreição-justificação, seu alcance universal e sua glorificação. 1Tm 2:5 declara que Cristo é o único mediador entre Deus e os homens como 'o homem Cristo Jesus' — afirmando simultaneamente sua plena humanidade e seu papel mediatorial singular."
+      },
+      "pasajes": [
+        "1Ti 1:15",
+        "1Ti 2:5-6",
+        "1Ti 3:16",
+        "1Ti 6:13-14"
+      ],
+      "ensenanza": {
+        "es": "Cristo Jesús vino al mundo para salvar a los pecadores, siendo Pablo el primero de ellos · Hay un solo Dios y un solo mediador entre Dios y los hombres, el Hombre Cristo Jesús, quien se dio a sí mismo como rescate por todos · El misterio de la piedad: Dios manifestado en carne, justificado en el Espíritu y recibido en gloria · Cristo hizo la buena confesión ante Pilato, ejemplo de la confesión de toda la iglesia",
+        "en": "Christ Jesus came into the world to save sinners, of whom Paul is the foremost · There is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all · The mystery of godliness: God manifested in the flesh, vindicated by the Spirit, and taken up in glory · Christ made the good confession before Pilate, the pattern for the whole church's confession",
+        "pt": "Cristo Jesus veio ao mundo para salvar os pecadores, dos quais Paulo é o principal · Há um só Deus e um só mediador entre Deus e os homens, o homem Cristo Jesus, que se deu a si mesmo em resgate por todos · O mistério da piedade: Deus manifestado em carne, justificado no Espírito e recebido em glória · Cristo fez a boa confissão diante de Pilatos, padrão para a confissão de toda a igreja"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada destaca que 1Ti 2:5–6 («un solo mediador... que se dio a sí mismo como rescate por todos») establece la exclusividad mediatorial de Cristo y el alcance del rescate. La tradición reformada lee «por todos» en el sentido de rescate suficiente para todos pero aplicado eficazmente a los elegidos, en línea con la expiación definida articulada en los Cánones de Dort.",
+        "en": "Reformed theology highlights that 1Tim 2:5–6 ('one mediator... who gave himself as a ransom for all') establishes Christ's exclusive mediatorship and the scope of the ransom. The Reformed tradition reads 'for all' in the sense of a ransom sufficient for all but efficaciously applied to the elect, in line with definite atonement as articulated in the Canons of Dort.",
+        "pt": "A teologia reformada destaca que 1Tm 2:5–6 ('um só mediador... que se deu a si mesmo em resgate por todos') estabelece a exclusividade mediatorial de Cristo e o alcance do resgate. A tradição reformada lê 'por todos' no sentido de resgate suficiente para todos, mas aplicado eficazmente aos eleitos, em linha com a expiação definida articulada nos Cânones de Dort."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "1 Timoteo 1:12–16 es uno de los textos autobiográficos más significativos de Pablo sobre la gracia salvadora. Pablo se describe como «blasfemo, perseguidor e insolente» (1Ti 1:13) antes de su conversión, salvado por la «misericordia» divina y colmado de «la gracia de nuestro Señor» con «fe y amor». Declara que Cristo Jesús vino al mundo para salvar a los pecadores, «de los cuales soy yo el primero» (1Ti 1:15 — una «declaración digna de ser aceptada»). Este texto establece la suficiencia de la gracia para los peores pecadores y sirve como «ejemplo» (ὑποτύπωσις) del patrón de la gracia divina para todos los creyentes.",
+        "en": "1 Timothy 1:12–16 is one of Paul's most significant autobiographical texts on saving grace. Paul describes himself as 'a blasphemer, persecutor, and insolent opponent' (1Tim 1:13) before his conversion, saved by divine 'mercy' and overflowed with 'the grace of our Lord' with 'faith and love.' He declares that Christ Jesus came into the world to save sinners, 'of whom I am the foremost' (1Tim 1:15 — a 'trustworthy saying'). This text establishes the sufficiency of grace for the worst sinners and serves as a 'pattern' (ὑποτύπωσις) of divine grace for all believers.",
+        "pt": "1 Timóteo 1:12–16 é um dos textos autobiográficos mais significativos de Paulo sobre a graça salvadora. Paulo se descreve como 'blasfemador, perseguidor e insolente' (1Tm 1:13) antes de sua conversão, salvo pela 'misericórdia' divina e transbordado com 'a graça de nosso Senhor' com 'fé e amor'. Declara que Cristo Jesus veio ao mundo para salvar os pecadores, 'dos quais sou o principal' (1Tm 1:15 — uma 'palavra fiel'). Este texto estabelece a suficiência da graça para os piores pecadores e serve como 'exemplo' (ὑποτύπωσις) do padrão da graça divina para todos os crentes."
+      },
+      "pasajes": [
+        "1Ti 1:12-16",
+        "1Ti 2:3-6",
+        "1Ti 4:10"
+      ],
+      "ensenanza": {
+        "es": "Pablo fue puesto en el ministerio habiendo recibido misericordia como el peor pecador, para ser ejemplo de la paciencia de Cristo · Dios quiere que todos los hombres sean salvos y lleguen al conocimiento de la verdad, lo que motivó la venida de Cristo como único mediador · El Dios viviente es el Salvador de todos los hombres, especialmente de los que creen",
+        "en": "Paul was appointed to ministry having received mercy as the worst sinner, to serve as a pattern of Christ's perfect patience · God desires all people to be saved and to come to the knowledge of the truth, which motivated Christ's coming as the one mediator · The living God is the Savior of all people, especially of those who believe",
+        "pt": "Paulo foi posto no ministério tendo recebido misericórdia como o pior pecador, para ser exemplo da paciência de Cristo · Deus quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade, o que motivou a vinda de Cristo como único mediador · O Deus vivo é o Salvador de todos os homens, especialmente dos que creem"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee 1Ti 2:4 («Dios quiere que todos los hombres sean salvos») no como universalismo soteriológico sino como la expresión de la voluntad de beneplácito general de Dios (voluntas signi) distinta de su decreto soberano, y 1Ti 4:10 («Salvador de todos los hombres, especialmente de los que creen») como afirmación de la providencia común (preservación temporal de todos) junto con la salvación particular y eficaz de los elegidos (WCF Cap. 3 y 10).",
+        "en": "The Reformed tradition reads 1Tim 2:4 ('God desires all people to be saved') not as soteriological universalism but as the expression of God's general benevolent will (voluntas signi) distinct from his sovereign decree, and 1Tim 4:10 ('Savior of all people, especially of those who believe') as affirming common providence (temporal preservation of all) alongside the particular and efficacious salvation of the elect (WCF Chs. 3 and 10).",
+        "pt": "A tradição reformada lê 1Tm 2:4 ('Deus quer que todos os homens sejam salvos') não como universalismo soteriológico, mas como expressão da vontade de beneplácito geral de Deus (voluntas signi) distinta de seu decreto soberano, e 1Tm 4:10 ('Salvador de todos os homens, especialmente dos que creem') como afirmação da providência comum (preservação temporal de todos) ao lado da salvação particular e eficaz dos eleitos (CCF Caps. 3 e 10)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Bibliología",
+        "en": "Bibliology",
+        "pt": "Bibliologia"
+      },
+      "resumen": {
+        "es": "La noción de «depósito» (παραθήκη, parathēkē) en 1Ti 6:20 y 1Ti 1:11 presupone una revelación objetiva y transmisible. Pablo habla del «glorioso evangelio del Dios bienaventurado, que me fue encomendado» (1Ti 1:11) —una revelación recibida por comisión apostólica—. Timoteo debe «guardar» este depósito (1Ti 6:20), lo que implica que la doctrina es fija, objetiva, no sujeta a revisión especulativa. Las «sanas palabras» (1Ti 6:3) son el criterio para juzgar la enseñanza: lo que coincide con «las palabras de nuestro Señor Jesucristo» y con «la doctrina que es conforme a la piedad».",
+        "en": "The notion of the 'deposit' (παραθήκη, parathēkē) in 1Tim 6:20 and 1Tim 1:11 presupposes an objective and transmissible revelation. Paul speaks of 'the glorious gospel of the blessed God, with which I have been entrusted' (1Tim 1:11) — a revelation received by apostolic commission. Timothy must 'guard' this deposit (1Tim 6:20), implying that doctrine is fixed, objective, and not subject to speculative revision. 'Sound words' (1Tim 6:3) are the criterion for judging teaching: what agrees with 'the words of our Lord Jesus Christ' and with 'the teaching that accords with godliness.'",
+        "pt": "A noção de 'depósito' (παραθήκη, parathēkē) em 1Tm 6:20 e 1Tm 1:11 pressupõe uma revelação objetiva e transmissível. Paulo fala do 'glorioso evangelho do Deus bem-aventurado, que me foi confiado' (1Tm 1:11) — uma revelação recebida por comissão apostólica. Timóteo deve 'guardar' esse depósito (1Tm 6:20), o que implica que a doutrina é fixa, objetiva e não sujeita a revisão especulativa. As 'sãs palavras' (1Tm 6:3) são o critério para julgar o ensino: o que concorda com 'as palavras de nosso Senhor Jesus Cristo' e com 'a doutrina que é conforme a piedade'."
+      },
+      "pasajes": [
+        "1Ti 1:11",
+        "1Ti 4:13",
+        "1Ti 6:3",
+        "1Ti 6:20"
+      ],
+      "ensenanza": {
+        "es": "El evangelio fue confiado a Pablo como depósito apostólico · La lectura pública, la exhortación y la enseñanza de la Escritura son tareas centrales del ministro · Las palabras sanas son las de Cristo y conformes a la piedad, criterio de ortodoxia · Timoteo debe guardar el depósito evitando la falsa gnosis y las controversias vanas",
+        "en": "The gospel was entrusted to Paul as an apostolic deposit · The public reading, exhortation, and teaching of Scripture are central tasks of the minister · Sound words are those of Christ and conforming to godliness, the criterion of orthodoxy · Timothy must guard the deposit, avoiding false gnosis and vain controversies",
+        "pt": "O evangelho foi confiado a Paulo como depósito apostólico · A leitura pública, a exortação e o ensino das Escrituras são tarefas centrais do ministro · As palavras sãs são as de Cristo e conformes à piedade, critério de ortodoxia · Timóteo deve guardar o depósito evitando a falsa gnose e as controvérsias vãs"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada ve en la metáfora del «depósito» (1Ti 6:20) el fundamento bíblico de la norma de la Escritura como única regla infalible de fe y práctica (WCF Cap. 1). La iglesia no genera doctrina; recibe, guarda y transmite el depósito apostólico. Esta es la base canónica del principio de sola Scriptura.",
+        "en": "The Reformed tradition sees in the 'deposit' metaphor (1Tim 6:20) the biblical foundation for Scripture's norm as the sole infallible rule of faith and practice (WCF Ch. 1). The church does not generate doctrine; it receives, guards, and transmits the apostolic deposit. This is the canonical basis of the sola Scriptura principle.",
+        "pt": "A tradição reformada vê na metáfora do 'depósito' (1Tm 6:20) o fundamento bíblico da norma das Escrituras como única regra infalível de fé e prática (CCF Cap. 1). A igreja não gera doutrina; recebe, guarda e transmite o depósito apostólico. Esta é a base canônica do princípio da sola Scriptura."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "La «piedad» (εὐσέβεια, eusebeia) es el término central de la ética de 1 Timoteo, apareciendo con frecuencia inusual en esta carta (1Ti 2:2; 1Ti 3:16; 1Ti 4:7–8; 1Ti 6:3; 1Ti 6:5–6; 1Ti 6:11). No es mera moralidad externa sino la orientación de toda la vida hacia Dios. Pablo instruye a Timoteo a «ejercitarse para la piedad» (1Ti 4:7–8), usando la metáfora del atleta: la santificación es un ejercicio disciplinado y progresivo, valioso para esta vida y para la venidera. La piedad con contentamiento es «gran ganancia» (1Ti 6:6), en contraste con la falsa piedad motivada por la ganancia material (1Ti 6:5).",
+        "en": "Godliness (εὐσέβεια, eusebeia) is the central term of 1 Timothy's ethics, appearing with unusual frequency in this letter (1Tim 2:2; 1Tim 3:16; 1Tim 4:7–8; 1Tim 6:3; 1Tim 6:5–6; 1Tim 6:11). It is not mere external morality but the orientation of all of life toward God. Paul instructs Timothy to 'train yourself for godliness' (1Tim 4:7–8), using the athlete metaphor: sanctification is a disciplined, progressive exercise, valuable for this life and for the life to come. Godliness with contentment is 'great gain' (1Tim 6:6), in contrast with false godliness motivated by material gain (1Tim 6:5).",
+        "pt": "A piedade (εὐσέβεια, eusebeia) é o termo central da ética de 1 Timóteo, aparecendo com frequência incomum nessa carta (1Tm 2:2; 1Tm 3:16; 1Tm 4:7–8; 1Tm 6:3; 1Tm 6:5–6; 1Tm 6:11). Não é mera moralidade externa, mas a orientação de toda a vida para Deus. Paulo instrui Timóteo a 'exercitar-te para a piedade' (1Tm 4:7–8), usando a metáfora do atleta: a santificação é um exercício disciplinado e progressivo, valioso para esta vida e para a vindoura. A piedade com contentamento é 'grande ganho' (1Tm 6:6), em contraste com a falsa piedade motivada pelo ganho material (1Tm 6:5)."
+      },
+      "pasajes": [
+        "1Ti 2:2",
+        "1Ti 4:7-8",
+        "1Ti 6:6",
+        "1Ti 6:11"
+      ],
+      "ensenanza": {
+        "es": "La oración y la vida tranquila tienen como meta la piedad y la dignidad · El ejercicio corporal tiene poco provecho pero la piedad es provechosa para todo, para la vida presente y para la venidera · La piedad con contentamiento es gran ganancia · Timoteo debe huir de la avaricia y seguir la justicia, la piedad, la fe, el amor, la perseverancia y la mansedumbre",
+        "en": "Prayer and a peaceful life aim at godliness and dignity · Bodily training is of some value but godliness is of value in every way, holding promise for the present life and the life to come · Godliness with contentment is great gain · Timothy must flee greed and pursue righteousness, godliness, faith, love, steadfastness, and gentleness",
+        "pt": "A oração e a vida tranquila têm como meta a piedade e a dignidade · O exercício corporal tem pouco proveito, mas a piedade é proveitosa para tudo, para a vida presente e para a vindoura · A piedade com contentamento é grande ganho · Timóteo deve fugir da avareza e buscar a justiça, a piedade, a fé, o amor, a perseverança e a mansidão"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada interpreta la eusebeia de 1 Timoteo como la expresión visible de la unión con Cristo: la santificación es resultado de la justificación, no su causa. La piedad que Pablo manda no es mérito sino fruto del Espíritu en el creyente regenerado, coherente con WCF Cap. 13 sobre la santificación.",
+        "en": "Reformed theology interprets the eusebeia of 1 Timothy as the visible expression of union with Christ: sanctification is the result of justification, not its cause. The godliness Paul commands is not merit but the fruit of the Spirit in the regenerate believer, consistent with WCF Ch. 13 on sanctification.",
+        "pt": "A teologia reformada interpreta a eusebeia de 1 Timóteo como a expressão visível da união com Cristo: a santificação é resultado da justificação, não sua causa. A piedade que Paulo ordena não é mérito, mas fruto do Espírito no crente regenerado, coerente com a CCF Cap. 13 sobre a santificação."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Iglesia",
+        "en": "Of the Church",
+        "pt": "Da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster enseña que la iglesia católica o universal consiste en todos los elegidos; la iglesia visible comprende a todos los que profesan el verdadero evangelio. La iglesia local debe ser gobernada por oficiales calificados —ancianos y diáconos— conforme a la institución de Cristo. 1Ti 3 es el fundamento escritural primario para los requisitos de los oficiales eclesiásticos.",
+        "en": "The Westminster Confession teaches that the catholic or universal church consists of all the elect; the visible church comprises all who profess the true gospel. The local church must be governed by qualified officers — elders and deacons — according to Christ's institution. 1Tim 3 is the primary scriptural foundation for the requirements of church officers.",
+        "pt": "A Confissão de Westminster ensina que a igreja católica ou universal consiste em todos os eleitos; a igreja visível compreende todos os que professam o verdadeiro evangelho. A igreja local deve ser governada por oficiais qualificados — presbíteros e diáconos — conforme a instituição de Cristo. 1Tm 3 é o fundamento escritural primário para os requisitos dos oficiais eclesiásticos."
+      },
+      "genesis": [
+        "1Ti 3:1",
+        "1Ti 3:8",
+        "1Ti 3:15",
+        "1Ti 5:17"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    },
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "WCF Cap. 8 enseña que Dios se agradó en elegir y ordenar al Señor Jesucristo, su Hijo eterno, para ser el Mediador entre Dios y el hombre. Cristo, siendo el Hijo eterno de Dios, se hizo hombre tomando para sí una naturaleza humana real y completa. En el oficio de mediador llevó a cabo la perfecta obediencia activa y pasiva requerida para la salvación. 1Ti 2:5–6 es el texto canónico central para esta doctrina.",
+        "en": "WCF Ch. 8 teaches that it pleased God to choose and ordain the Lord Jesus Christ, his eternal Son, to be the Mediator between God and man. Christ, being the eternal Son of God, became man by taking to himself a real and entire human nature. In the office of mediator he carried out the perfect active and passive obedience required for salvation. 1Tim 2:5–6 is the central canonical text for this doctrine.",
+        "pt": "CCF Cap. 8 ensina que agradou a Deus eleger e ordenar o Senhor Jesus Cristo, seu Filho eterno, para ser o Mediador entre Deus e o homem. Cristo, sendo o Filho eterno de Deus, tornou-se homem assumindo para si uma natureza humana real e completa. No ofício de mediador realizou a perfeita obediência ativa e passiva requerida para a salvação. 1Tm 2:5–6 é o texto canônico central para esta doutrina."
+      },
+      "genesis": [
+        "1Ti 2:5",
+        "1Ti 2:6",
+        "1Ti 3:16"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    },
+    {
+      "cap": "Cap. 1",
+      "titulo": {
+        "es": "De las Sagradas Escrituras",
+        "en": "Of the Holy Scripture",
+        "pt": "Das Sagradas Escrituras"
+      },
+      "doctrinas": [
+        "Bibliología"
+      ],
+      "resumen": {
+        "es": "WCF Cap. 1 establece que la Palabra de Dios escrita, contenida en los libros del Antiguo y Nuevo Testamento, es la única regla infalible de fe y práctica. Todo el consejo de Dios, concerniente a todo lo necesario para su gloria y la salvación del hombre, está expresamente establecido en la Escritura o puede deducirse de ella. 1Ti 6:20 («guarda el depósito») y 1Ti 4:13 («dedícate a la lectura pública de la Escritura») son fundamento escritural de esta norma.",
+        "en": "WCF Ch. 1 establishes that the written Word of God, contained in the books of the Old and New Testaments, is the sole infallible rule of faith and practice. The whole counsel of God, concerning all things necessary for his glory and man's salvation, is either expressly set down in Scripture or by good and necessary consequence may be deduced from it. 1Tim 6:20 ('guard the deposit') and 1Tim 4:13 ('devote yourself to the public reading of Scripture') are the scriptural foundation for this norm.",
+        "pt": "CCF Cap. 1 estabelece que a Palavra de Deus escrita, contida nos livros do Antigo e Novo Testamento, é a única regra infalível de fé e prática. Todo o conselho de Deus, concernente a tudo o que é necessário para sua glória e para a salvação do homem, está expressamente estabelecido nas Escrituras ou pode ser deduzido delas. 1Tm 6:20 ('guarda o depósito') e 1Tm 4:13 ('dedica-te à leitura pública das Escrituras') são fundamento escritural desta norma."
+      },
+      "genesis": [
+        "1Ti 4:13",
+        "1Ti 6:3",
+        "1Ti 6:20"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-1"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "1Ti 1:15",
+      "es": "«Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, de los cuales soy yo el primero.»",
+      "en": "\"The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.\"",
+      "pt": "\"Fiel é esta palavra e digna de toda aceitação: Cristo Jesus veio ao mundo para salvar os pecadores, dos quais sou o principal.\"",
+      "nota": {
+        "es": "Este versículo es la declaración más explícita de propósito de la encarnación en las Epístolas Pastorales. La cláusula «digna de ser aceptada» (πιστὸς ὁ λόγος) marca un axioma doctrinal reconocido. La autopresentación de Pablo como «el primero» de los pecadores no es hipérbole retórica sino fundamento paradigmático de la doctrina de la gracia soberana: si el peor pecador puede ser salvo, nadie está más allá del alcance de la misericordia de Dios.",
+        "en": "This verse is the most explicit statement of the purpose of the incarnation in the Pastoral Epistles. The clause 'deserving of full acceptance' (πιστὸς ὁ λόγος) marks a recognized doctrinal axiom. Paul's self-description as the 'foremost' of sinners is not rhetorical hyperbole but the paradigmatic foundation of the doctrine of sovereign grace: if the worst sinner can be saved, no one is beyond the reach of God's mercy.",
+        "pt": "Este versículo é a afirmação mais explícita do propósito da encarnação nas Epístolas Pastorais. A cláusula 'digna de toda aceitação' (πιστὸς ὁ λόγος) marca um axioma doutrinário reconhecido. A auto-apresentação de Paulo como o 'principal' dos pecadores não é hipérbole retórica, mas fundamento paradigmático da doutrina da graça soberana: se o pior pecador pode ser salvo, ninguém está além do alcance da misericórdia de Deus."
+      }
+    },
+    {
+      "ref": "1Ti 2:5",
+      "es": "«Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre.»",
+      "en": "\"For there is one God, and there is one mediator between God and men, the man Christ Jesus.\"",
+      "pt": "\"Porque há um só Deus e um só mediador entre Deus e os homens, Jesus Cristo homem.\"",
+      "nota": {
+        "es": "Este versículo une dos pilares del monoteísmo del Nuevo Pacto: la unicidad de Dios y la unicidad del mediador. «El Hombre Cristo Jesús» afirma la humanidad real y permanente del Hijo encarnado como condición de posibilidad de la mediación. Esta frase ha sido normativa para la cristología reformada (WCF Cap. 8) y para la doctrina de la oración como acceso a Dios únicamente por Cristo.",
+        "en": "This verse unites two pillars of New Covenant monotheism: the oneness of God and the oneness of the mediator. 'The man Christ Jesus' affirms the real and permanent humanity of the incarnate Son as the condition of possibility for mediation. This phrase has been normative for Reformed Christology (WCF Ch. 8) and for the doctrine of prayer as access to God through Christ alone.",
+        "pt": "Este versículo une dois pilares do monoteísmo do Novo Pacto: a unicidade de Deus e a unicidade do mediador. 'O homem Cristo Jesus' afirma a humanidade real e permanente do Filho encarnado como condição de possibilidade da mediação. Esta frase tem sido normativa para a cristologia reformada (CCF Cap. 8) e para a doutrina da oração como acesso a Deus somente por Cristo."
+      }
+    },
+    {
+      "ref": "1Ti 3:15",
+      "es": "«Para que, si tardo, sepas cómo hay que conducirse en la casa de Dios, que es la iglesia del Dios viviente, columna y sostén de la verdad.»",
+      "en": "\"If I delay, you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth.\"",
+      "pt": "\"Para que, se eu tardar, saibas como convém andar na casa de Deus, que é a igreja do Deus vivo, coluna e firmamento da verdade.\"",
+      "nota": {
+        "es": "Este versículo es la declaración de propósito más directa de toda la carta. La triple descripción de la iglesia como «casa de Dios», «iglesia del Dios viviente» y «columna y sostén de la verdad» articula su naturaleza ontológica (comunidad de Dios vivo), su identidad pactal (hogar familiar de Dios) y su misión epistemológica (guardiana y proclamadora de la verdad revelada). Para la eclesiología reformada, este texto fundamenta la responsabilidad de la iglesia de preservar la sana doctrina contra toda herejía.",
+        "en": "This verse is the most direct statement of purpose of the entire letter. The triple description of the church as 'God's household,' 'the church of the living God,' and 'pillar and buttress of the truth' articulates its ontological nature (community of the living God), its covenantal identity (God's family home), and its epistemological mission (guardian and proclaimer of revealed truth). For Reformed ecclesiology, this text grounds the church's responsibility to preserve sound doctrine against all heresy.",
+        "pt": "Este versículo é a declaração de propósito mais direta de toda a carta. A tripla descrição da igreja como 'casa de Deus', 'igreja do Deus vivo' e 'coluna e firmamento da verdade' articula sua natureza ontológica (comunidade do Deus vivo), sua identidade pactual (lar familiar de Deus) e sua missão epistemológica (guardiã e proclamadora da verdade revelada). Para a eclesiologia reformada, este texto fundamenta a responsabilidade da igreja de preservar a sã doutrina contra toda heresia."
+      }
+    },
+    {
+      "ref": "1Ti 3:16",
+      "es": "«E indiscutiblemente, grande es el misterio de la piedad: Él fue manifestado en la carne, fue vindicado en el Espíritu, contemplado por los ángeles, proclamado entre las naciones, creído en el mundo, recibido arriba en gloria.»",
+      "en": "\"Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.\"",
+      "pt": "\"E, sem nenhuma contradição, grande é o mistério da piedade: Deus foi manifestado em carne, justificado em Espírito, visto pelos anjos, pregado aos gentios, crido no mundo, recebido em glória.\"",
+      "nota": {
+        "es": "Este himno cristológico condensa la trayectoria completa de la obra redentora de Cristo: encarnación, vindicación pascual, testimonio angélico, misión universal, fe eclesial y glorificación escatológica. Para la teología reformada, el «misterio de la piedad» es la revelación plena del plan eterno de Dios en Cristo, misterio que la iglesia —como columna de la verdad— recibe, custodia y proclama.",
+        "en": "This christological hymn condenses the complete trajectory of Christ's redemptive work: incarnation, paschal vindication, angelic witness, universal mission, ecclesial faith, and eschatological glorification. For Reformed theology, the 'mystery of godliness' is the full revelation of God's eternal plan in Christ, a mystery that the church — as pillar of truth — receives, guards, and proclaims.",
+        "pt": "Este hino cristológico condensa a trajetória completa da obra redentora de Cristo: encarnação, vindicação pascal, testemunho angélico, missão universal, fé eclesial e glorificação escatológica. Para a teologia reformada, o 'mistério da piedade' é a revelação plena do plano eterno de Deus em Cristo, mistério que a igreja — como coluna da verdade — recebe, guarda e proclama."
+      }
+    },
+    {
+      "ref": "1Ti 6:12",
+      "es": "«Pelea la buena batalla de la fe. Echa mano de la vida eterna a la cual fuiste llamado y de la que hiciste la buena profesión delante de muchos testigos.»",
+      "en": "\"Fight the good fight of the faith. Take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses.\"",
+      "pt": "\"Combate o bom combate da fé; lança mão da vida eterna, para a qual também foste chamado e fizeste a boa confissão diante de muitas testemunhas.\"",
+      "nota": {
+        "es": "La metáfora atlética («pelea la buena batalla») es central para la comprensión reformada de la vida cristiana como perseverancia activa. Timoteo fue «llamado» a la vida eterna y confirmó este llamamiento con una «buena confesión» pública —posiblemente su bautismo o su ordenación—. Para la teología reformada, este versículo une el llamamiento eficaz de Dios con la responsabilidad humana de tomar firmemente lo que ha sido dado, coherente con WCF Cap. 17 sobre la perseverancia de los santos.",
+        "en": "The athletic metaphor ('fight the good fight') is central to the Reformed understanding of the Christian life as active perseverance. Timothy was 'called' to eternal life and confirmed this calling with a public 'good confession' — possibly his baptism or his ordination. For Reformed theology, this verse unites God's effectual calling with human responsibility to take firm hold of what has been given, consistent with WCF Ch. 17 on the perseverance of the saints.",
+        "pt": "A metáfora atlética ('combate o bom combate') é central para a compreensão reformada da vida cristã como perseverança ativa. Timóteo foi 'chamado' à vida eterna e confirmou esse chamado com uma 'boa confissão' pública — possivelmente seu batismo ou sua ordenação. Para a teologia reformada, este versículo une o chamamento eficaz de Deus com a responsabilidade humana de agarrar firmemente o que foi dado, coerente com a CCF Cap. 17 sobre a perseverança dos santos."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "1 Timoteo es la carta más decisiva del NT para el gobierno eclesiástico reformado. La exigencia de pastores que son «aptos para enseñar» (1Ti 3:2) fundamenta la centralidad de la predicación expositiva en el culto reformado. El «depósito» apostólico (1Ti 6:20) es el fundamento bíblico del principio de sola Scriptura: la iglesia no genera doctrina nueva sino que guarda y proclama la revelación recibida. El himno de 1Ti 3:16 proporciona la base cristológica de la doctrina reformada de las dos naturalezas de Cristo. La instrucción de 1Ti 2:1–2 de orar por los gobernantes fundamenta el compromiso reformado de la iglesia con el bien común y la libertad religiosa bajo el Estado.",
+    "en": "1 Timothy is the NT's most decisive letter for Reformed ecclesiastical government. The requirement for pastors who are 'able to teach' (1Tim 3:2) grounds the centrality of expository preaching in Reformed worship. The apostolic 'deposit' (1Tim 6:20) is the biblical foundation of the sola Scriptura principle: the church does not generate new doctrine but guards and proclaims the received revelation. The hymn of 1Tim 3:16 provides the christological basis for the Reformed doctrine of the two natures of Christ. The instruction of 1Tim 2:1–2 to pray for rulers grounds the Reformed church's commitment to the common good and religious liberty under the State.",
+    "pt": "1 Timóteo é a carta mais decisiva do NT para o governo eclesiástico reformado. A exigência de pastores que sejam 'aptos para ensinar' (1Tm 3:2) fundamenta a centralidade da pregação expositiva no culto reformado. O 'depósito' apostólico (1Tm 6:20) é o fundamento bíblico do princípio da sola Scriptura: a igreja não gera nova doutrina, mas guarda e proclama a revelação recebida. O hino de 1Tm 3:16 fornece a base cristológica da doutrina reformada das duas naturezas de Cristo. A instrução de 1Tm 2:1–2 de orar pelos governantes fundamenta o compromisso da igreja reformada com o bem comum e a liberdade religiosa sob o Estado."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "El evangelio y los falsos maestros",
+        "en": "The Gospel and the False Teachers",
+        "pt": "O evangelho e os falsos mestres"
+      },
+      "descripcion": {
+        "es": "Pablo saluda a Timoteo como «verdadero hijo en la fe» (1Ti 1:2) y le urge a quedarse en Éfeso para mandar a ciertos individuos que no enseñen doctrinas extrañas ni se entreguen a mitos y genealogías interminables (1Ti 1:3–4). El objetivo del mandamiento es el amor que procede de un corazón puro, buena conciencia y fe sincera (1Ti 1:5). Quienes se han desviado de esto cayeron en vana palabrería y quieren ser «maestros de la ley» sin entenderla (1Ti 1:6–7). Pablo explica el uso legítimo de la ley para los injustos (1Ti 1:8–11) y luego se convierte en paradigma de la gracia salvadora: él, el peor de los pecadores, fue salvo por misericordia para ser ejemplo del patrón de la gracia de Cristo (1Ti 1:12–16). El capítulo cierra con una doxología (1Ti 1:17) y la comisión a Timoteo de pelear la buena batalla guardando la fe y la conciencia, en contraste con Himeneo y Alejandro, que naufragaron y fueron entregados a Satanás (1Ti 1:18–20).",
+        "en": "Paul greets Timothy as 'my true child in the faith' (1Tim 1:2) and urges him to remain in Ephesus to charge certain people not to teach different doctrines or devote themselves to myths and endless genealogies (1Tim 1:3–4). The aim of the charge is love that issues from a pure heart, good conscience, and sincere faith (1Tim 1:5). Those who have swerved from this have wandered into vain discussion, wanting to be 'teachers of the law' without understanding it (1Tim 1:6–7). Paul explains the lawful use of the law for the lawless (1Tim 1:8–11) and then becomes the paradigm of saving grace: he, the worst of sinners, was shown mercy to serve as an example of the pattern of Christ's grace for those who would believe (1Tim 1:12–16). The chapter closes with a doxology (1Tim 1:17) and the charge to Timothy to fight the good fight by holding faith and a good conscience, in contrast to Hymenaeus and Alexander, who made shipwreck and were handed over to Satan (1Tim 1:18–20).",
+        "pt": "Paulo saúda Timóteo como 'meu verdadeiro filho na fé' (1Tm 1:2) e o urge a permanecer em Éfeso para ordenar a certas pessoas que não ensinem doutrinas estranhas nem se dediquem a mitos e genealogias intermináveis (1Tm 1:3–4). O objetivo do mandamento é o amor que procede de um coração puro, boa consciência e fé sincera (1Tm 1:5). Os que se desviaram disso caíram em vã palavraria, querendo ser 'mestres da lei' sem entendê-la (1Tm 1:6–7). Paulo explica o uso legítimo da lei para os injustos (1Tm 1:8–11) e então se torna paradigma da graça salvadora: ele, o pior dos pecadores, recebeu misericórdia para ser exemplo do padrão da graça de Cristo para os que creriam (1Tm 1:12–16). O capítulo termina com uma doxologia (1Tm 1:17) e a comissão a Timóteo de combater o bom combate guardando a fé e a boa consciência, em contraste com Himeneu e Alexandre, que naufragaram e foram entregues a Satanás (1Tm 1:18–20)."
+      },
+      "eventoClave": {
+        "es": "Pablo presenta su propia conversión como el paradigma supremo de la gracia soberana de Cristo (1Ti 1:15–16), estableciendo el fundamento evangélico de todas las instrucciones que seguirán.",
+        "en": "Paul presents his own conversion as the supreme paradigm of Christ's sovereign grace (1Tim 1:15–16), establishing the evangelical foundation for all the instructions that follow.",
+        "pt": "Paulo apresenta sua própria conversão como o paradigma supremo da graça soberana de Cristo (1Tm 1:15–16), estabelecendo o fundamento evangélico de todas as instruções que se seguirão."
+      },
+      "versiculoClave": "1Ti 1:15",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Oración y orden en el culto",
+        "en": "Prayer and Order in Worship",
+        "pt": "Oração e ordem no culto"
+      },
+      "descripcion": {
+        "es": "Pablo instruye sobre la vida litúrgica de la iglesia, comenzando con el llamado a hacer «súplicas, oraciones, intercesiones y acciones de gracias por todos los hombres, por los reyes y por todos los que están en autoridad» (1Ti 2:1–2), motivado por el deseo de Dios de que «todos sean salvos y lleguen al conocimiento de la verdad» (1Ti 2:3–4). La afirmación del único mediador, Cristo Jesús, que «se dio a sí mismo como rescate por todos» (1Ti 2:5–6), es el fundamento teológico de la oración universal de la iglesia. Pablo establece su comisión como maestro de los gentiles (1Ti 2:7) y luego regula el rol de hombres y mujeres en el culto: los hombres deben orar en todo lugar levantando manos santas (1Ti 2:8); las mujeres deben adornarse con modestia, buenas obras (1Ti 2:9–10), aprender en silencio con toda sujeción, sin ejercer autoridad de enseñanza sobre el hombre (1Ti 2:11–12), argumento apoyado en la prioridad de la creación de Adán y en el engaño de Eva (1Ti 2:13–15).",
+        "en": "Paul instructs on the liturgical life of the church, beginning with the call to make 'supplications, prayers, intercessions, and thanksgivings for all people, for kings and all who are in high positions' (1Tim 2:1–2), motivated by God's desire that 'all people be saved and come to the knowledge of the truth' (1Tim 2:3–4). The affirmation of the one mediator, Christ Jesus, who 'gave himself as a ransom for all' (1Tim 2:5–6), is the theological foundation for the church's universal prayer. Paul states his commission as teacher of the Gentiles (1Tim 2:7) and then regulates the role of men and women in worship: men are to pray in every place lifting holy hands (1Tim 2:8); women are to adorn themselves with modesty and good works (1Tim 2:9–10), to learn in silence with all submissiveness, not to teach or exercise authority over men (1Tim 2:11–12), an argument grounded in the priority of Adam's creation and Eve's deception (1Tim 2:13–15).",
+        "pt": "Paulo instrui sobre a vida litúrgica da igreja, começando com o chamado a fazer 'súplicas, orações, intercessões e ações de graças por todos os homens, por reis e por todos os que estão em autoridade' (1Tm 2:1–2), motivado pelo desejo de Deus de que 'todos sejam salvos e cheguem ao conhecimento da verdade' (1Tm 2:3–4). A afirmação do único mediador, Cristo Jesus, que 'se deu a si mesmo em resgate por todos' (1Tm 2:5–6), é o fundamento teológico da oração universal da igreja. Paulo declara sua comissão como mestre dos gentios (1Tm 2:7) e então regula o papel de homens e mulheres no culto: os homens devem orar em todo lugar levantando mãos santas (1Tm 2:8); as mulheres devem adornar-se com modéstia e boas obras (1Tm 2:9–10), aprender em silêncio com toda submissão, sem ensinar nem exercer autoridade sobre o homem (1Tm 2:11–12), argumento apoiado na prioridade da criação de Adão e no engano de Eva (1Tm 2:13–15)."
+      },
+      "eventoClave": {
+        "es": "La declaración del único Dios y el único Mediador Cristo Jesús (1Ti 2:5) como fundamento teológico de la oración universal de la iglesia, estableciendo el principio de acceso exclusivo a Dios por medio de Cristo.",
+        "en": "The declaration of the one God and the one Mediator Christ Jesus (1Tim 2:5) as the theological foundation for the church's universal prayer, establishing the principle of exclusive access to God through Christ.",
+        "pt": "A declaração do único Deus e do único Mediador Cristo Jesus (1Tm 2:5) como fundamento teológico da oração universal da igreja, estabelecendo o princípio de acesso exclusivo a Deus por meio de Cristo."
+      },
+      "versiculoClave": "1Ti 2:5",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Requisitos para obispos y diáconos",
+        "en": "Qualifications for Overseers and Deacons",
+        "pt": "Requisitos para bispos e diáconos"
+      },
+      "descripcion": {
+        "es": "Pablo establece los requisitos morales y de carácter para los dos órdenes de oficiales de la iglesia. El obispo (ἐπίσκοπος) debe ser irreprensible, marido de una sola mujer, sobrio, prudente, ordenado, hospitalario, apto para enseñar, no dado al vino ni a pendencias, no avaro, sino amable, apacible y no codicioso (1Ti 3:1–7); debe gobernar bien su propia casa como condición para gobernar la iglesia, y no ser un neófito para evitar el orgullo. El diácono (διάκονος) debe ser honorable, no doblez en el hablar, no dado a mucho vino ni a ganancia deshonesta, y debe haber sido probado antes de servir (1Ti 3:8–13). Las mujeres de los diáconos o las diaconisas igualmente deben ser dignas, no calumniadoras. El capítulo concluye con el propósito explícito de la carta: que Timoteo sepa «cómo hay que conducirse en la casa de Dios, que es la iglesia del Dios viviente, columna y sostén de la verdad» (1Ti 3:14–15), seguido del himno cristológico de 1Ti 3:16.",
+        "en": "Paul establishes the moral and character requirements for the two orders of church officers. The overseer (ἐπίσκοπος) must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach, not a drunkard or violent but gentle, not quarrelsome, not a lover of money (1Tim 3:1–7); he must manage his own household well as a prerequisite for managing the church, and must not be a recent convert to avoid pride. The deacon (διάκονος) must be dignified, not double-tongued, not addicted to much wine nor greedy for dishonest gain, and must be tested before serving (1Tim 3:8–13). The wives of deacons or the deaconesses must likewise be dignified, not slanderers. The chapter concludes with the explicit purpose of the letter: that Timothy may know 'how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth' (1Tim 3:14–15), followed by the christological hymn of 1Tim 3:16.",
+        "pt": "Paulo estabelece os requisitos morais e de caráter para as duas ordens de oficiais da igreja. O bispo (ἐπίσκοπος) deve ser irrepreensível, marido de uma só mulher, sóbrio, prudente, ordenado, hospitaleiro, apto para ensinar, não dado ao vinho nem a rixas, mas amável, apaziguador e não avaro (1Tm 3:1–7); deve governar bem sua própria casa como condição para governar a igreja, e não ser um neófito para evitar o orgulho. O diácono (διάκονος) deve ser honrado, não de dupla linguagem, não dado a muito vinho nem a ganho desonesto, e deve ter sido provado antes de servir (1Tm 3:8–13). As mulheres dos diáconos ou as diaconisas igualmente devem ser dignas, não caluniadoras. O capítulo conclui com o propósito explícito da carta: que Timóteo saiba 'como convém andar na casa de Deus, que é a igreja do Deus vivo, coluna e firmamento da verdade' (1Tm 3:14–15), seguido do hino cristológico de 1Tm 3:16."
+      },
+      "eventoClave": {
+        "es": "La proclamación de la iglesia como «columna y sostén de la verdad» (1Ti 3:15) y el himno cristológico de 1Ti 3:16, que constituyen el corazón teológico de la carta y el fundamento de toda instrucción eclesiástica.",
+        "en": "The proclamation of the church as 'a pillar and buttress of the truth' (1Tim 3:15) and the christological hymn of 1Tim 3:16, which constitute the theological heart of the letter and the foundation of all ecclesiastical instruction.",
+        "pt": "A proclamação da igreja como 'coluna e firmamento da verdade' (1Tm 3:15) e o hino cristológico de 1Tm 3:16, que constituem o coração teológico da carta e o fundamento de toda instrução eclesiástica."
+      },
+      "versiculoClave": "1Ti 3:15",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Apostasía futura y ministerio fiel",
+        "en": "Future Apostasy and Faithful Ministry",
+        "pt": "Apostasia futura e ministério fiel"
+      },
+      "descripcion": {
+        "es": "Pablo advierte que en los «últimos tiempos» algunos apostatarán de la fe, prestando atención a «espíritus engañadores y doctrinas de demonios» (1Ti 4:1), prohibiendo el matrimonio y mandando abstenerse de alimentos (1Ti 4:2–3). Todo lo creado por Dios es bueno y se recibe con acción de gracias (1Ti 4:4–5), instrucción con implicaciones teológicas contra el dualismo gnóstico. Frente a esto, Timoteo debe ser «buen ministro de Cristo Jesús» alimentado con las palabras de la fe y de la sana doctrina (1Ti 4:6). Debe rechazar los mitos profanos y ejercitarse para la piedad (εὐσέβεια), que es «provechosa para todo, pues tiene promesa para la vida presente y también para la futura» (1Ti 4:7–8). Pablo exhorta a Timoteo a no dejar que nadie lo menosprecie por su juventud (1Ti 4:12), a ser ejemplo en palabra, conducta, amor, fe y pureza, a dedicarse a la lectura pública de la Escritura, a la exhortación y a la enseñanza (1Ti 4:13), y a no descuidar el don espiritual que le fue dado por profecía con la imposición de manos del presbiterio (1Ti 4:14).",
+        "en": "Paul warns that 'in later times' some will depart from the faith by devoting themselves to 'deceitful spirits and teachings of demons' (1Tim 4:1), forbidding marriage and requiring abstinence from foods (1Tim 4:2–3). Everything created by God is good and received with thanksgiving (1Tim 4:4–5), an instruction with theological implications against gnostic dualism. Faced with this, Timothy must be 'a good servant of Christ Jesus, being trained in the words of the faith and of the good doctrine' (1Tim 4:6). He must reject profane myths and train himself for godliness (εὐσέβεια), which 'is of value in every way, as it holds promise for the present life and also for the life to come' (1Tim 4:7–8). Paul exhorts Timothy not to let anyone despise him for his youth (1Tim 4:12), to set an example in speech, conduct, love, faith, and purity, to devote himself to the public reading of Scripture, to exhortation and teaching (1Tim 4:13), and not to neglect the spiritual gift given to him by prophecy with the laying on of hands of the council of elders (1Tim 4:14).",
+        "pt": "Paulo adverte que 'nos últimos tempos' alguns se afastarão da fé, dando ouvidos a 'espíritos enganadores e doutrinas de demônios' (1Tm 4:1), proibindo o casamento e mandando abster-se de alimentos (1Tm 4:2–3). Tudo o que Deus criou é bom e recebido com ação de graças (1Tm 4:4–5), instrução com implicações teológicas contra o dualismo gnóstico. Diante disso, Timóteo deve ser 'bom ministro de Cristo Jesus, nutrido com as palavras da fé e da boa doutrina' (1Tm 4:6). Deve rejeitar os mitos profanos e exercitar-se para a piedade (εὐσέβεια), que é 'proveitosa para tudo, pois tem a promessa da vida presente e da que há de vir' (1Tm 4:7–8). Paulo exorta Timóteo a não deixar que ninguém o despreze por sua juventude (1Tm 4:12), a ser exemplo em palavra, conduta, amor, fé e pureza, a dedicar-se à leitura pública das Escrituras, à exortação e ao ensino (1Tm 4:13), e a não negligenciar o dom espiritual que lhe foi dado por profecia com a imposição de mãos do presbitério (1Tm 4:14)."
+      },
+      "eventoClave": {
+        "es": "La exhortación a Timoteo de que se ejercite en la piedad y no descuide el don ministerial dado por el presbiterio (1Ti 4:7–8; 1Ti 4:14), estableciendo la doctrina reformada de la ordenación y la disciplina espiritual como respuestas pastorales a la apostasía.",
+        "en": "The exhortation to Timothy to train himself in godliness and not neglect the ministerial gift given by the council of elders (1Tim 4:7–8; 1Tim 4:14), establishing the Reformed doctrine of ordination and spiritual discipline as pastoral responses to apostasy.",
+        "pt": "A exortação a Timóteo de exercitar-se na piedade e não negligenciar o dom ministerial dado pelo presbitério (1Tm 4:7–8; 1Tm 4:14), estabelecendo a doutrina reformada da ordenação e da disciplina espiritual como respostas pastorais à apostasia."
+      },
+      "versiculoClave": "1Ti 4:8",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "titulo": {
+        "es": "Cuidado pastoral de viudas y ancianos",
+        "en": "Pastoral Care of Widows and Elders",
+        "pt": "Cuidado pastoral de viúvas e presbíteros"
+      },
+      "descripcion": {
+        "es": "Pablo regula el trato pastoral a diferentes grupos de la comunidad. Timoteo debe relacionarse con los mayores como a padres, con los jóvenes como a hermanos, con las mujeres mayores como a madres y con las jóvenes como a hermanas (1Ti 5:1–2). Respecto a las viudas: la iglesia debe cuidar a las que son «verdaderas viudas» —desamparadas y confiadas en Dios— (1Ti 5:3–8), mientras que las que tienen familias deben ser sostenidas por sus propios hogares. Se establece un registro oficial para viudas mayores de sesenta años que cumplan ciertos requisitos de vida ejemplar (1Ti 5:9–10); a las viudas jóvenes se les recomienda volverse a casar (1Ti 5:11–15). Sobre los ancianos (presbíteros): los que gobiernan bien merecen «doble honor», especialmente los que trabajan en la predicación y la enseñanza, pues «digno es el obrero de su salario» (1Ti 5:17–18, citando Dt 25:4 y Lc 10:7). La acusación contra un anciano requiere dos o tres testigos (1Ti 5:19); los que persisten en el pecado deben ser reprendidos públicamente (1Ti 5:20). Pablo exhorta a Timoteo a guardar estas cosas sin prejuicios y a no imponer manos precipitadamente sobre nadie (1Ti 5:21–22).",
+        "en": "Paul regulates the pastoral treatment of different groups in the community. Timothy is to treat older men as fathers, younger men as brothers, older women as mothers, and younger women as sisters (1Tim 5:1–2). Regarding widows: the church must care for those who are 'truly widows' — alone and trusting in God — (1Tim 5:3–8), while those with families must be supported by their own households. An official roll is established for widows over sixty who meet certain exemplary life requirements (1Tim 5:9–10); younger widows are recommended to remarry (1Tim 5:11–15). Regarding elders (presbyteroi): those who rule well deserve 'double honor,' especially those who labor in preaching and teaching, for 'the laborer deserves his wages' (1Tim 5:17–18, citing Deut 25:4 and Luke 10:7). Accusation against an elder requires two or three witnesses (1Tim 5:19); those who persist in sin are to be publicly rebuked (1Tim 5:20). Paul exhorts Timothy to observe these things without prejudice and not to be hasty in the laying on of hands (1Tim 5:21–22).",
+        "pt": "Paulo regula o trato pastoral a diferentes grupos da comunidade. Timóteo deve relacionar-se com os mais velhos como a pais, com os jovens como a irmãos, com as mulheres mais velhas como a mães e com as jovens como a irmãs (1Tm 5:1–2). Quanto às viúvas: a igreja deve cuidar das que são 'verdadeiras viúvas' — desamparadas e confiantes em Deus — (1Tm 5:3–8), enquanto as que têm família devem ser sustentadas por seus próprios lares. Estabelece-se um registro oficial para viúvas com mais de sessenta anos que atendam a certos requisitos de vida exemplar (1Tm 5:9–10); às viúvas jovens recomenda-se que se casem novamente (1Tm 5:11–15). Sobre os presbíteros: os que governam bem merecem 'dupla honra', especialmente os que trabalham na pregação e no ensino, pois 'digno é o obreiro do seu salário' (1Tm 5:17–18, citando Dt 25:4 e Lc 10:7). A acusação contra um presbítero requer duas ou três testemunhas (1Tm 5:19); os que persistem no pecado devem ser repreendidos publicamente (1Tm 5:20). Paulo exorta Timóteo a guardar essas coisas sem preconceitos e a não impor mãos precipitadamente sobre ninguém (1Tm 5:21–22)."
+      },
+      "eventoClave": {
+        "es": "El establecimiento del principio de «doble honor» para los ancianos que gobiernan bien y trabajan en la Palabra (1Ti 5:17), fundamento reformado del sostenimiento económico del ministerio pastoral y de la distinción entre anciano gobernante y anciano enseñante.",
+        "en": "The establishment of the principle of 'double honor' for elders who rule well and labor in the Word (1Tim 5:17), the Reformed foundation for the financial support of pastoral ministry and for the distinction between ruling elder and teaching elder.",
+        "pt": "O estabelecimento do princípio de 'dupla honra' para os presbíteros que governam bem e trabalham na Palavra (1Tm 5:17), fundamento reformado do sustento financeiro do ministério pastoral e da distinção entre presbítero governante e presbítero ensinante."
+      },
+      "versiculoClave": "1Ti 5:17",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 6,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Piedad, contentamiento y guarda del depósito",
+        "en": "Godliness, Contentment, and Guarding the Deposit",
+        "pt": "Piedade, contentamento e guarda do depósito"
+      },
+      "descripcion": {
+        "es": "El capítulo final aborda la actitud de los siervos hacia sus amos (1Ti 6:1–2), una instrucción pertinente en el contexto del Imperio Romano. Pablo pasa a denunciar a los que enseñan una doctrina diferente a la sana enseñanza de Cristo, caracterizando su motivación como amor al dinero y a la disputa (1Ti 6:3–5). Frente a esto, declara que «la piedad con contentamiento es gran ganancia» y que «la raíz de todos los males es el amor al dinero» (1Ti 6:6–10). Pablo dirige a Timoteo una exhortación directa e intensa: «huye de estas cosas» y «pelea la buena batalla de la fe, echa mano de la vida eterna a la cual fuiste llamado» (1Ti 6:11–12), recordándole su confesión pública y la confesión de Cristo ante Pilato (1Ti 6:13). Pablo encarga a Timoteo guardar el mandamiento hasta la aparición de Cristo, cuya venida el Dios bienaventurado mostrará a su tiempo (1Ti 6:14–16). Instruye sobre la actitud de los ricos en este siglo: deben ser humildes, no esperanzados en sus riquezas sino en Dios, ricos en buenas obras y generosos (1Ti 6:17–19). Cierra con la exhortación final a guardar el depósito (τὴν παραθήκην) evitando la falsa gnosis y las controversias vanas (1Ti 6:20–21).",
+        "en": "The final chapter addresses the attitude of servants toward their masters (1Tim 6:1–2), a pertinent instruction in the Roman imperial context. Paul goes on to denounce those who teach a different doctrine from the sound teaching of Christ, characterizing their motivation as love of money and controversy (1Tim 6:3–5). Against this, he declares that 'godliness with contentment is great gain' and that 'the love of money is a root of all kinds of evils' (1Tim 6:6–10). Paul directs Timothy with a direct and intense exhortation: 'flee these things' and 'fight the good fight of the faith, take hold of the eternal life to which you were called' (1Tim 6:11–12), reminding him of his public confession and Christ's good confession before Pilate (1Tim 6:13). Paul charges Timothy to keep the commandment until the appearing of Christ, whose coming the blessed God will manifest at the proper time (1Tim 6:14–16). He instructs about the attitude of the rich in this age: they must be humble, not setting their hopes on uncertain riches but on God, to be rich in good works and generous (1Tim 6:17–19). He closes with the final exhortation to guard the deposit (τὴν παραθήκην), avoiding false gnosis and vain controversies (1Tim 6:20–21).",
+        "pt": "O capítulo final aborda a atitude dos servos para com seus senhores (1Tm 6:1–2), instrução pertinente no contexto do Império Romano. Paulo passa a denunciar os que ensinam uma doutrina diferente do ensino são de Cristo, caracterizando sua motivação como amor ao dinheiro e à disputa (1Tm 6:3–5). Diante disso, declara que 'a piedade com contentamento é grande ganho' e que 'o amor ao dinheiro é raiz de todos os males' (1Tm 6:6–10). Paulo dirige a Timóteo uma exortação direta e intensa: 'foge dessas coisas' e 'combate o bom combate da fé, lança mão da vida eterna, para a qual também foste chamado' (1Tm 6:11–12), lembrando-lhe sua confissão pública e a boa confissão de Cristo diante de Pilatos (1Tm 6:13). Paulo encarrega Timóteo de guardar o mandamento até a manifestação de Cristo, cuja vinda o Deus bem-aventurado mostrará a seu tempo (1Tm 6:14–16). Instrui sobre a atitude dos ricos neste século: devem ser humildes, não esperançosos em suas riquezas, mas em Deus, ricos em boas obras e generosos (1Tm 6:17–19). Encerra com a exortação final de guardar o depósito (τὴν παραθήκην), evitando a falsa gnose e as controvérsias vãs (1Tm 6:20–21)."
+      },
+      "eventoClave": {
+        "es": "La exhortación final a «guardar el depósito» evitando la falsa gnosis (1Ti 6:20), que resume el mandato central de toda la carta y constituye la primera referencia canónica al término gnōsis como amenaza doctrinal para la iglesia.",
+        "en": "The final exhortation to 'guard the deposit' while avoiding false gnosis (1Tim 6:20), which summarizes the central mandate of the entire letter and constitutes the first canonical reference to the term gnōsis as a doctrinal threat to the church.",
+        "pt": "A exortação final de 'guardar o depósito' evitando a falsa gnose (1Tm 6:20), que resume o mandato central de toda a carta e constitui a primeira referência canônica ao termo gnōsis como ameaça doutrinária para a igreja."
+      },
+      "versiculoClave": "1Ti 6:20",
+      "era": "Aplicación"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología sistemática",
+          "Resumen de capítulos",
+          "Versículos clave"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Systematic theology",
+          "Chapter summaries",
+          "Key verses"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia sistemática",
+          "Resumo de capítulos",
+          "Versículos-chave"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es la Biblia de estudio académica-evangélica de referencia publicada por Crossway, editada por Wayne Grudem, Thomas Schreiner y otros diecinueve colaboradores. Es el recurso más comprensivo de la tradición evangélica reformada anglófona del siglo XXI.",
+          "en": "The ESV Study Bible is the reference academic-evangelical study Bible published by Crossway, edited by Wayne Grudem, Thomas Schreiner, and nineteen other contributors. It is the most comprehensive resource of the English-speaking Reformed evangelical tradition in the twenty-first century.",
+          "pt": "A ESV Study Bible é a Bíblia de estudo acadêmica-evangélica de referência publicada pela Crossway, editada por Wayne Grudem, Thomas Schreiner e outros dezenove colaboradores. É o recurso mais abrangente da tradição evangélica reformada anglófona do século XXI."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas versículo por versículo, ensayos de introducción a cada libro, artículos teológicos temáticos, mapas y cronologías. El enfoque es histórico-gramatical con sensibilidad reformada en las cuestiones doctrinales debatidas.",
+          "en": "Combines verse-by-verse exegetical notes, introductory essays for each book, thematic theological articles, maps, and chronologies. The approach is historical-grammatical with Reformed sensibility on disputed doctrinal questions.",
+          "pt": "Combina notas exegéticas versículo por versículo, ensaios de introdução a cada livro, artigos teológicos temáticos, mapas e cronologias. A abordagem é histórico-gramatical com sensibilidade reformada nas questões doutrinárias debatidas."
+        },
+        "aportacion": {
+          "es": "Utilizada para la introducción a 1 Timoteo, el contexto histórico de Éfeso, el resumen de capítulos y los versículos teológicamente significativos de la carta.",
+          "en": "Used for the introduction to 1 Timothy, the historical context of Ephesus, chapter summaries, and theologically significant verses in the letter.",
+          "pt": "Utilizada para a introdução a 1 Timóteo, o contexto histórico de Éfeso, o resumo de capítulos e os versículos teologicamente significativos da carta."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Reader's Bible (2016)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-case/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "Sproul, R. C. (ed.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Reformation Trust",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Distintivas reformadas",
+          "Anclas confesionales"
+        ],
+        "en": [
+          "Systematic theology",
+          "Reformed distinctives",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Distinções reformadas",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R. C. Sproul (1939–2017) fue el teólogo reformado más influyente de finales del siglo XX en el mundo anglosajón, fundador de Ligonier Ministries, pastor y profesor en el Reformed Theological Seminary. La Reformation Study Bible, editada bajo su dirección, es la Biblia de estudio de referencia de la tradición reformada presbiteriana.",
+          "en": "R. C. Sproul (1939–2017) was the most influential Reformed theologian of the late twentieth century in the English-speaking world, founder of Ligonier Ministries, pastor, and professor at Reformed Theological Seminary. The Reformation Study Bible, edited under his direction, is the reference study Bible of the Reformed Presbyterian tradition.",
+          "pt": "R. C. Sproul (1939–2017) foi o teólogo reformado mais influente do final do século XX no mundo anglófono, fundador do Ligonier Ministries, pastor e professor no Reformed Theological Seminary. A Reformation Study Bible, editada sob sua direção, é a Bíblia de estudo de referência da tradição reformada presbiteriana."
+        },
+        "metodo": {
+          "es": "La RSB interpreta la Escritura desde la Confesión de Westminster y los Cánones de Dort. Sus notas enfatizan el pacto, la soberanía de Dios, la gracia particular y la perspectiva cristocéntrica en cada libro. Es especialmente útil para teología sistemática y aplicación confesional.",
+          "en": "The RSB interprets Scripture from the Westminster Confession and the Canons of Dort. Its notes emphasize covenant, the sovereignty of God, particular grace, and a christocentric perspective in each book. It is especially useful for systematic theology and confessional application.",
+          "pt": "A RSB interpreta as Escrituras a partir da Confissão de Westminster e dos Cânones de Dort. Suas notas enfatizam o pacto, a soberania de Deus, a graça particular e a perspectiva cristocêntrica em cada livro. É especialmente útil para teologia sistemática e aplicação confessional."
+        },
+        "aportacion": {
+          "es": "Utilizada para las anclas confesionales de la WCF vinculadas a 1 Timoteo y para las distintivas reformadas del registro.",
+          "en": "Used for the WCF confessional anchors linked to 1 Timothy and for the Reformed distinctives of the record.",
+          "pt": "Utilizada para as âncoras confessionais da CCF vinculadas a 1 Timóteo e para as distinções reformadas do registro."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)",
+          "Knowing Scripture (1977)"
+        ],
+        "url": "https://es.ligonier.org/personas/r-c-sproul/"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "Ligonier Ministries (ed.)",
+      "año": 2022,
+      "editorial": "B&H Español / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Notas exegéticas",
+          "Teología sistemática",
+          "Versículos clave"
+        ],
+        "en": [
+          "Introduction",
+          "Exegetical notes",
+          "Systematic theology",
+          "Key verses"
+        ],
+        "pt": [
+          "Introdução",
+          "Notas exegéticas",
+          "Teologia sistemática",
+          "Versículos-chave"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La Biblia de Estudio de la Reforma NBLA es la edición en español de la Reformation Study Bible, publicada con la traducción Nueva Biblia de las Américas. Es el recurso de referencia de la tradición reformada hispanohablante, producido por Ligonier Ministries y distribuido por B&H Español.",
+          "en": "The NBLA Reformation Study Bible is the Spanish edition of the Reformation Study Bible, published with the Nueva Biblia de las Américas translation. It is the reference resource of the Spanish-speaking Reformed tradition, produced by Ligonier Ministries and distributed by B&H Español.",
+          "pt": "A Bíblia de Estudo da Reforma NBLA é a edição em espanhol da Reformation Study Bible, publicada com a tradução Nueva Biblia de las Américas. É o recurso de referência da tradição reformada de língua espanhola, produzido pelo Ligonier Ministries e distribuído pela B&H Español."
+        },
+        "metodo": {
+          "es": "Reproduce las notas de la RSB inglesa traducidas al español, adaptadas teológicamente para el contexto hispano. Utiliza la traducción NBLA, que es la versión de referencia del proyecto CANON para los campos en español.",
+          "en": "Reproduces the notes of the English RSB translated into Spanish, theologically adapted for the Hispanic context. Uses the NBLA translation, which is the reference version of the CANON project for Spanish-language fields.",
+          "pt": "Reproduz as notas da RSB inglesa traduzidas para o espanhol, adaptadas teologicamente para o contexto hispânico. Usa a tradução NBLA, que é a versão de referência do projeto CANON para os campos em espanhol."
+        },
+        "aportacion": {
+          "es": "Fuente primaria para los textos en español de los versículos clave, resumen de capítulos y notas teológicas en campos es del registro de 1 Timoteo.",
+          "en": "Primary source for the Spanish texts of the key verses, chapter summaries, and theological notes in the Spanish-language fields of the 1 Timothy record.",
+          "pt": "Fonte primária para os textos em espanhol dos versículos-chave, resumo de capítulos e notas teológicas nos campos em espanhol do registro de 1 Timóteo."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2022)",
+          "Nueva Biblia de las Américas (2005)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Grudem, Wayne",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Cristología",
+          "Eclesiología",
+          "Soteriología"
+        ],
+        "en": [
+          "Systematic theology",
+          "Christology",
+          "Ecclesiology",
+          "Soteriology"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Cristologia",
+          "Eclesiologia",
+          "Soteriologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem (1948– ) es profesor de teología en el Phoenix Seminary y uno de los teólogos sistemáticos más influyentes de la tradición evangélica reformada contemporánea. Su Systematic Theology ha vendido más de 700,000 copias y es el manual de referencia en centenares de seminarios teológicos.",
+          "en": "Wayne Grudem (1948– ) is professor of theology at Phoenix Seminary and one of the most influential systematic theologians in the contemporary Reformed evangelical tradition. His Systematic Theology has sold over 700,000 copies and serves as the reference textbook in hundreds of theological seminaries.",
+          "pt": "Wayne Grudem (1948– ) é professor de teologia no Phoenix Seminary e um dos teólogos sistemáticos mais influentes da tradição evangélica reformada contemporânea. Sua Systematic Theology vendeu mais de 700.000 cópias e é o manual de referência em centenas de seminários teológicos."
+        },
+        "metodo": {
+          "es": "Grudem organiza la teología sistemática por tópicos doctrinales, documenta cada afirmación con pasajes escriturales, evalúa posiciones alternativas y ofrece aplicaciones prácticas. Su enfoque es ireniamente reformado-bautista, consistente con los cinco puntos del calvinismo y la inerrancia escritural.",
+          "en": "Grudem organizes systematic theology by doctrinal topics, documents each affirmation with scriptural passages, evaluates alternative positions, and offers practical applications. His approach is irenically Reformed-Baptist, consistent with the five points of Calvinism and scriptural inerrancy.",
+          "pt": "Grudem organiza a teologia sistemática por tópicos doutrinários, documenta cada afirmação com passagens escriturais, avalia posições alternativas e oferece aplicações práticas. Sua abordagem é irenicamente reformada-batista, consistente com os cinco pontos do calvinismo e a inerrância escritural."
+        },
+        "aportacion": {
+          "es": "Utilizada para las categorías de teología sistemática vinculadas a 1 Timoteo, especialmente Cristología (mediación), Eclesiología (gobierno de la iglesia) y Soteriología (gracia soberana).",
+          "en": "Used for the systematic theology categories linked to 1 Timothy, especially Christology (mediation), Ecclesiology (church government), and Soteriology (sovereign grace).",
+          "pt": "Utilizada para as categorias de teologia sistemática vinculadas a 1 Timóteo, especialmente Cristologia (mediação), Eclesiologia (governo da igreja) e Soteriologia (graça soberana)."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Recovering Biblical Manhood and Womanhood (1991)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Vos, Geerhardus",
+      "año": 1948,
+      "editorial": "Banner of Truth Trust",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Contexto de pacto"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Covenant context"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Contexto de aliança"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue profesor de teología bíblica en el Princeton Theological Seminary durante treinta y nueve años y es considerado el padre de la teología bíblica reformada moderna. Su obra estableció el método de la historia redentora (Heilsgeschichte) como clave interpretativa de toda la Escritura.",
+          "en": "Geerhardus Vos (1862–1949) was professor of biblical theology at Princeton Theological Seminary for thirty-nine years and is considered the father of modern Reformed biblical theology. His work established the method of redemptive history (Heilsgeschichte) as the interpretive key of all Scripture.",
+          "pt": "Geerhardus Vos (1862–1949) foi professor de teologia bíblica no Princeton Theological Seminary por trinta e nove anos e é considerado o pai da teologia bíblica reformada moderna. Sua obra estabeleceu o método da história redentora (Heilsgeschichte) como chave interpretativa de toda a Escritura."
+        },
+        "metodo": {
+          "es": "Vos lee la Escritura como historia progresiva de la revelación divina, con cada libro y época contribuyendo a la trayectoria redentora que culmina en Cristo. Para las epístolas, el enfoque es la aplicación del cumplimiento escatológico a la vida de la iglesia del Nuevo Pacto.",
+          "en": "Vos reads Scripture as the progressive history of divine revelation, with each book and era contributing to the redemptive trajectory that culminates in Christ. For the epistles, the focus is the application of eschatological fulfillment to the life of the New Covenant church.",
+          "pt": "Vos lê as Escrituras como história progressiva da revelação divina, com cada livro e época contribuindo para a trajetória redentora que culmina em Cristo. Para as epístolas, o foco é a aplicação do cumprimento escatológico à vida da igreja do Novo Pacto."
+        },
+        "aportacion": {
+          "es": "Utilizado para el campo de historia redentora, el enfoque cristológico de 1 Timoteo y la ubicación de la carta dentro de la época de «Aplicación» del canon.",
+          "en": "Used for the redemptive history field, the christological focus of 1 Timothy, and the location of the letter within the 'Application' epoch of the canon.",
+          "pt": "Utilizado para o campo de história redentora, o enfoque cristológico de 1 Timóteo e a localização da carta dentro da época de 'Aplicação' do cânon."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Redemptive History and Biblical Interpretation (1980)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The Letters to Timothy and Titus (NICNT)",
+      "autor": "Towner, Philip H.",
+      "año": 2006,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Autoría y fecha",
+          "Contexto histórico",
+          "Personajes",
+          "Resumen de capítulos"
+        ],
+        "en": [
+          "Authorship and date",
+          "Historical context",
+          "Characters",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Autoria e data",
+          "Contexto histórico",
+          "Personagens",
+          "Resumo de capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Philip H. Towner es erudito del Nuevo Testamento especializado en las Epístolas Pastorales, profesor asociado en el United Bible Societies y antiguo docente en el Gordon-Conwell Theological Seminary. Su comentario NICNT sobre las Pastorales es el más completo y académico disponible desde una perspectiva que defiende la autenticidad paulina.",
+          "en": "Philip H. Towner is a New Testament scholar specializing in the Pastoral Epistles, associate professor at the United Bible Societies and former faculty member at Gordon-Conwell Theological Seminary. His NICNT commentary on the Pastorals is the most thorough and scholarly available from a perspective that defends Pauline authenticity.",
+          "pt": "Philip H. Towner é especialista do Novo Testamento nas Epístolas Pastorais, professor associado na United Bible Societies e ex-docente no Gordon-Conwell Theological Seminary. Seu comentário NICNT sobre as Pastorais é o mais completo e acadêmico disponível a partir de uma perspectiva que defende a autenticidade paulina."
+        },
+        "metodo": {
+          "es": "Towner combina crítica textual rigurosa, exégesis histórico-gramatical, análisis del trasfondo grecorromano y judío, y aplicación teológica. Evalúa honestamente la controversia sobre la autoría y concluye a favor de la autenticidad paulina directa o mediada por un secretario.",
+          "en": "Towner combines rigorous textual criticism, historical-grammatical exegesis, analysis of Greco-Roman and Jewish background, and theological application. He honestly evaluates the authorship controversy and concludes in favor of direct or secretary-mediated Pauline authenticity.",
+          "pt": "Towner combina crítica textual rigorosa, exegese histórico-gramatical, análise do contexto greco-romano e judaico, e aplicação teológica. Avalia honestamente a controvérsia sobre a autoria e conclui a favor da autenticidade paulina direta ou mediada por secretário."
+        },
+        "aportacion": {
+          "es": "Fuente principal para la controversia histórica de la autoría, el contexto de Éfeso, las biografías de Pablo y Timoteo, y el trasfondo institucional de los cargos eclesiásticos en 1 Timoteo.",
+          "en": "Primary source for the historical authorship controversy, the Ephesian context, the biographies of Paul and Timothy, and the institutional background of ecclesiastical offices in 1 Timothy.",
+          "pt": "Fonte principal para a controvérsia histórica da autoria, o contexto de Éfeso, as biografias de Paulo e Timóteo, e o contexto institucional dos cargos eclesiásticos em 1 Timóteo."
+        },
+        "obras": [
+          "The Letters to Timothy and Titus, NICNT (2006)",
+          "The Goal of Our Instruction (1989)",
+          "1-2 Timothy & Titus, IVP New Testament Commentary (1994)"
+        ],
+        "url": "https://www.eerdmans.com/Products/4539/the-letters-to-timothy-and-titus.aspx"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: New Testament",
+      "autor": "Keener, Craig S.",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Civilizaciones",
+          "Fuentes del mundo antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Civilizations",
+          "Ancient world sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Civilizações",
+          "Fontes do mundo antigo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener (1960– ) es profesor de Nuevo Testamento en el Asbury Theological Seminary y uno de los especialistas más prolíficos en trasfondo cultural del NT. Su Bible Background Commentary es el recurso estándar para el contexto grecorromano y judío del primer siglo.",
+          "en": "Craig S. Keener (1960– ) is professor of New Testament at Asbury Theological Seminary and one of the most prolific specialists in NT cultural background. His Bible Background Commentary is the standard resource for first-century Greco-Roman and Jewish context.",
+          "pt": "Craig S. Keener (1960– ) é professor de Novo Testamento no Asbury Theological Seminary e um dos especialistas mais prolíficos em contexto cultural do NT. Seu Bible Background Commentary é o recurso padrão para o contexto greco-romano e judaico do primeiro século."
+        },
+        "metodo": {
+          "es": "Keener documenta cada pasaje del NT con fuentes primarias greco-romanas y judías (papiros, inscripciones, escritores del período, literatura rabínica) para iluminar el sentido original de las instrucciones pastorales y el trasfondo social de las comunidades paulinas.",
+          "en": "Keener documents each NT passage with Greco-Roman and Jewish primary sources (papyri, inscriptions, writers of the period, rabbinic literature) to illuminate the original meaning of the pastoral instructions and the social background of the Pauline communities.",
+          "pt": "Keener documenta cada passagem do NT com fontes primárias greco-romanas e judaicas (papiros, inscrições, escritores do período, literatura rabínica) para iluminar o sentido original das instruções pastorais e o contexto social das comunidades paulinas."
+        },
+        "aportacion": {
+          "es": "Utilizado para el contexto histórico de Éfeso, las civilizaciones greco-romanas y las fuentes del mundo antiguo relevantes para 1 Timoteo, especialmente las inscripciones de epíscopos y el culto a Artemisa.",
+          "en": "Used for the historical context of Ephesus, the Greco-Roman civilizations, and ancient world sources relevant to 1 Timothy, especially the inscriptions of overseers and the cult of Artemis.",
+          "pt": "Utilizado para o contexto histórico de Éfeso, as civilizações greco-romanas e as fontes do mundo antigo relevantes para 1 Timóteo, especialmente as inscrições de supervisores e o culto a Ártemis."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: New Testament (1993)",
+          "Commentary on the Gospel of John, 2 vols. (2003)",
+          "Acts: An Exegetical Commentary, 4 vols. (2012–2015)",
+          "Miracles: The Credibility of the New Testament Accounts (2011)"
+        ],
+        "url": "https://www.theopedia.com/craig-keener"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "validado",
+    "confianza": 0.85,
+    "camposMarcados": [
+      {
+        "campo": "autor.tradicional",
+        "razon": "La autoría paulina directa es defendida por la tradición reformada, pero la controversia académica sobre las Pastorales es sustancial. Se registra como tradicional=true con nota explicativa.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-28"
+      },
+      {
+        "campo": "contextoHistorico.fuentesANE",
+        "razon": "Para una epístola del NT se usaron fuentes del mundo grecorromano (inscripciones, papiros) en lugar de fuentes ANE del AT. Se etiquetan como fuentesANE por conformidad con el schema pero son fuentes del mundo antiguo helenístico-romano.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-28"
+      },
+      {
+        "campo": "personajes[2].biografiaHistorica.nivelEvidencia",
+        "razon": "Himeneo y Alejandro son especulativos porque no hay evidencia extra-bíblica. La penalización de -0.15 se aplica al cálculo de confianza.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-28"
+      },
+      {
+        "campo": "meta.confianza",
+        "razon": "Cálculo: 1.0 base − 0.05 (algunos campos de personajes secundarios basados solo en conocimiento interno) − 0.15 (nivelEvidencia=especulativo para Himeneo/Alejandro) + ajuste positivo por solidez del contexto histórico primario = 0.85 final.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-28"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-28",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.3.0",
+      "rol": "administrador",
+      "fechaRevision": "2026-06-28"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-28",
+          "fechaFin": "2026-06-28",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-28",
+          "fechaFin": "2026-06-28",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-28",
+          "fechaFin": "2026-06-28",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-28",
+          "fechaFin": "2026-06-28",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-28",
+          "fechaFin": "2026-06-28",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

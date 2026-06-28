@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Share2, Check, ChevronsLeft, ChevronsRight, Sparkles } from "lucide-react";
 import { adaptManifestBook } from "./adapters/canonToViewer";
-import { GOLD, LAPIS_DEEP, BOOKS, DIVISIONS, DIV_BY_ID, S, UI } from "./constants";
+import { GOLD, LAPIS_DEEP, BOOKS, DIVISIONS, DIV_BY_ID, S, UI, RAIL_BG } from "./constants";
 import { tabCellHeight, balancedContiguousSplit } from "./utils";
 import BookViewer from "./components/BookViewer";
 import IndexPage from "./components/IndexPage";
@@ -240,7 +240,7 @@ export default function CanonShelf() {
           title={side === "left" ? UI[lang].ot : UI[lang].nt}
           style={{
             width: 32, flexShrink: 0, padding: 0,
-            backgroundImage: "repeating-linear-gradient(90deg, transparent 0px, transparent 3px, rgba(235,215,175,0.18) 3px, rgba(235,215,175,0.18) 4px), linear-gradient(180deg, rgba(30,15,3,0.65), rgba(20,10,2,0.72)), url('/textures/pergament.jpg')",
+            backgroundImage: `${RAIL_BG}, linear-gradient(180deg, rgba(30,15,3,0.35), rgba(20,10,2,0.45)), url('/textures/pergament.jpg')`,
             backgroundSize: "auto, auto, cover", backgroundPosition: "center",
             borderTop: "none", borderBottom: "none",
             borderRight: side === "left" ? `1px solid rgba(201,168,76,0.15)` : "none",

@@ -1650,7 +1650,8 @@
       "ordenCanon": 54,
       "capitulosTotal": 6,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "1timothy.json",
       "razon": {
         "es": "Primera carta pastoral: instruye a Timoteo sobre gobierno eclesiástico, calificaciones de ancianos y diáconos, oración pública y doctrina sana. Fundamental para la eclesiología presbiteriana.",
         "en": "First pastoral letter: instructs Timothy on church government, qualifications of elders and deacons, public prayer, and sound doctrine. Foundational for Presbyterian ecclesiology.",

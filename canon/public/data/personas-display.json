@@ -1567,5 +1567,29 @@
       "en": "KING'S FRIEND",
       "pt": "AMIGO DO REI"
     }
+  },
+  "Timoteo": {
+    "id": "timoteo",
+    "color": "#1B5E8B",
+    "init": "ΤΙ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "HIJO EN LA FE",
+      "en": "SON IN THE FAITH",
+      "pt": "FILHO NA FÉ"
+    }
+  },
+  "Himeneo y Alejandro": {
+    "id": "himeneo-alejandro",
+    "color": "#7A3A2A",
+    "init": "ΥΑ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "APÓSTATAS DISCIPLINADOS",
+      "en": "DISCIPLINED APOSTATES",
+      "pt": "APÓSTATAS DISCIPLINADOS"
+    }
   }
 }
