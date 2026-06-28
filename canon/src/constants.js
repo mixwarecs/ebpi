@@ -565,8 +565,8 @@ export const S = {
     overflowY: "auto", overflowX: "hidden",
   }),
   railHeader: { padding: "0 0 8px", marginBottom: 6, borderBottom: `1px solid rgba(201,168,76,0.15)`, textAlign: "center" },
-  railTitle: { fontSize: 14, letterSpacing: 3, fontWeight: 700, fontFamily: "'Georgia',serif", color: GOLD },
-  railSub: { fontSize: 11, letterSpacing: 1, fontWeight: 500, color: "rgba(242,232,208,0.65)", marginTop: 3 },
+  railTitle: { fontSize: 14, letterSpacing: 3, fontWeight: 700, fontFamily: "'Georgia',serif", color: PARCHMENT, textShadow: "0 0 6px rgba(0,0,0,0.9), 0 1px 3px rgba(0,0,0,0.9)" },
+  railSub: { fontSize: 11, letterSpacing: 1, fontWeight: 700, color: "rgba(242,232,208,0.90)", marginTop: 3, textShadow: "0 0 5px rgba(0,0,0,0.9), 0 1px 2px rgba(0,0,0,0.8)" },
   tabColumns: { display: "flex", gap: 0.5 },
   tabColumn: { display: "flex", flexDirection: "column", gap: 5, flex: 1, minWidth: 0 },
   stepTab: (color, active, height, side) => ({
