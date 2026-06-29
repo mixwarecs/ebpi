@@ -550,7 +550,7 @@ export const S = {
     display: "flex", alignItems: "stretch", minHeight: 940,
     backgroundImage: "linear-gradient(180deg, rgba(22,12,5,0.48), rgba(15,8,3,0.54)), url('/textures/leather-fine.jpg')",
     backgroundSize: "auto, 300px", backgroundPosition: "center",
-    borderRadius: 18, border: `2px solid rgba(139,94,26,0.55)`,
+    borderRadius: 18,
     boxShadow: "0 40px 100px rgba(0,0,0,0.8), 0 0 0 1px rgba(201,168,76,0.2), inset 0 1px 0 rgba(201,168,76,0.18)",
     overflow: "hidden", position: "relative",
   },

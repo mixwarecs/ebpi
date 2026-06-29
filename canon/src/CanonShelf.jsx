@@ -366,6 +366,8 @@ export default function CanonShelf() {
       </div>
       <div style={S.bookFrame}>
         <div style={S.book}>
+          <div style={{position:"absolute",top:0,left:0,right:0,height:12,background:"linear-gradient(rgba(6,3,1,0.45), transparent)",pointerEvents:"none",zIndex:50}}/>
+          <div style={{position:"absolute",bottom:0,left:0,right:0,height:12,background:"linear-gradient(transparent, rgba(6,3,1,0.38))",pointerEvents:"none",zIndex:50}}/>
           {renderRail(activeOTBooks, "left", isBookOpen)}
           <div style={S.gutterShadowLeft} />
           <div style={S.gutterShadowRight} />
