@@ -1,0 +1,1479 @@
+{
+  "id": 50,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "titulo": {
+    "es": "Filipenses",
+    "en": "Philippians",
+    "pt": "Filipenses"
+  },
+  "tituloOriginal": "Φιλιππησίους",
+  "transliteracion": "Philippēsiois",
+  "significado": {
+    "es": "A los filipenses (habitantes de Filipos)",
+    "en": "To the Philippians (inhabitants of Philippi)",
+    "pt": "Aos filipenses (habitantes de Filipos)"
+  },
+  "capitulosTotal": 4,
+  "autor": {
+    "nombre": {
+      "es": "Pablo",
+      "en": "Paul",
+      "pt": "Paulo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La autoría paulina es universalmente aceptada dentro de la tradición reformada y es defendida por la inmensa mayoría de los eruditos del Nuevo Testamento. La carta comienza con el nombre de Pablo y Timoteo (Fil 1:1) y es confirmada por la unanimidad patrística.",
+      "en": "Pauline authorship is universally accepted within the Reformed tradition and defended by the vast majority of NT scholars. The letter opens with Paul and Timothy's names (Phil 1:1) and is confirmed by patristic unanimity.",
+      "pt": "A autoria paulina é universalmente aceita dentro da tradição reformada e é defendida pela grande maioria dos estudiosos do Novo Testamento. A carta começa com os nomes de Paulo e Timóteo (Fp 1:1) e é confirmada pela unanimidade patrística."
+    }
+  },
+  "año": {
+    "desde": 61,
+    "hasta": 62,
+    "display": {
+      "es": "Fecha de escritura: 61–62 d.C. (encarcelamiento romano)",
+      "en": "Writing date: AD 61–62 (Roman imprisonment)",
+      "pt": "Data de escrita: 61–62 d.C. (prisão romana)"
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Escrito desde Roma durante el primer encarcelamiento de Pablo (Hch 28:30–31), aunque algunos eruditos proponen Éfeso o Cesarea. La tradición reformada y conservadora sostiene la procedencia romana.",
+    "en": "Written from Rome during Paul's first imprisonment (Acts 28:30–31), though some scholars propose Ephesus or Caesarea. The Reformed and conservative tradition upholds the Roman provenance.",
+    "pt": "Escrito de Roma durante o primeiro encarceramento de Paulo (At 28:30–31), embora alguns estudiosos proponham Éfeso ou Cesareia. A tradição reformada e conservadora sustenta a procedência romana."
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Antigo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Filipos",
+          "en": "Philippi",
+          "pt": "Filipos"
+        },
+        "identificacionModerna": {
+          "es": "Ruinas de Filipos, noreste de Grecia (Macedonia), cerca de Kavala (Neápolis antigua)",
+          "en": "Ruins of Philippi, northeastern Greece (Macedonia), near modern Kavala (ancient Neapolis)",
+          "pt": "Ruínas de Filipos, nordeste da Grécia (Macedônia), perto de Kavala (antiga Neápolis)"
+        },
+        "significancia": {
+          "es": "Primera ciudad europea evangelizada por Pablo (Hch 16:12). Colonia romana de alto rango ('colonia Iulia Augusta Philippensis'), con ciudadanía romana plena para sus habitantes, lo que da fondo teológico a Fil 3:20.",
+          "en": "First European city evangelized by Paul (Acts 16:12). A high-status Roman colony ('Colonia Iulia Augusta Philippensis') with full Roman citizenship for residents, providing the theological backdrop to Phil 3:20.",
+          "pt": "Primeira cidade europeia evangelizada por Paulo (At 16:12). Colônia romana de alto status ('Colonia Iulia Augusta Philippensis') com cidadania romana plena para seus residentes, fornecendo o pano de fundo teológico para Fp 3:20."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Roma",
+          "en": "Rome",
+          "pt": "Roma"
+        },
+        "identificacionModerna": {
+          "es": "Roma, Italia (ciudad moderna sobre el emplazamiento antiguo)",
+          "en": "Rome, Italy (modern city overlying the ancient site)",
+          "pt": "Roma, Itália (cidade moderna sobre o sítio antigo)"
+        },
+        "significancia": {
+          "es": "Lugar de composición de la carta. Pablo estaba en custodia domiciliaria aguardando juicio ante el César (Hch 28:16,30–31; Fil 1:13; Fil 4:22), lo que le permitió predicar con relativa libertad.",
+          "en": "Place of composition. Paul was under house arrest awaiting trial before Caesar (Acts 28:16,30–31; Phil 1:13; Phil 4:22), allowing him to preach with relative freedom.",
+          "pt": "Local de composição da carta. Paulo estava em prisão domiciliar aguardando julgamento diante de César (At 28:16,30–31; Fp 1:13; Fp 4:22), o que lhe permitia pregar com relativa liberdade."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Vía Egnacia",
+          "en": "Via Egnatia",
+          "pt": "Via Egnatia"
+        },
+        "identificacionModerna": {
+          "es": "Antigua ruta romana que cruzaba el norte de Grecia (hoy trazada parcialmente por carreteras modernas entre Albania, Macedonia del Norte y Turquía)",
+          "en": "Ancient Roman road crossing northern Greece (today partially traced by modern highways through Albania, North Macedonia, and Turkey)",
+          "pt": "Antiga estrada romana que atravessava o norte da Grécia (hoje parcialmente traçada por rodovias modernas pela Albânia, Macedônia do Norte e Turquia)"
+        },
+        "significancia": {
+          "es": "Arteria principal de comunicación que conectaba Filipos con el resto del Imperio Romano, facilitando el viaje de Epafrodito a Roma (Fil 2:25–30; Fil 4:18) y el envío de la carta de regreso.",
+          "en": "Main communication artery connecting Philippi with the rest of the Roman Empire, facilitating Epaphroditus's journey to Rome (Phil 2:25–30; Phil 4:18) and the letter's return.",
+          "pt": "Principal artéria de comunicação que conectava Filipos com o resto do Império Romano, facilitando a viagem de Epafrodito a Roma (Fp 2:25–30; Fp 4:18) e o envio da carta de volta."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Macedonia",
+          "en": "Macedonia",
+          "pt": "Macedônia"
+        },
+        "identificacionModerna": {
+          "es": "Región del norte de Grecia y Macedônia del Norte modernos",
+          "en": "Region of modern northern Greece and North Macedonia",
+          "pt": "Região do norte da Grécia moderna e da Macedônia do Norte"
+        },
+        "significancia": {
+          "es": "Provincia romana donde se ubicaba Filipos. Las iglesias macedonias fueron ejemplares en generosidad (2Co 8:1–5) y la iglesia filipense en particular sostuvo económicamente a Pablo de manera repetida (Fil 4:15–16).",
+          "en": "Roman province where Philippi was located. The Macedonian churches were exemplary in generosity (2Cor 8:1–5), and the Philippian church in particular repeatedly supported Paul financially (Phil 4:15–16).",
+          "pt": "Província romana onde Filipos estava localizada. As igrejas macedônicas foram exemplares em generosidade (2Co 8:1–5), e a igreja filipense em particular apoiou Paulo financeiramente de forma repetida (Fp 4:15–16)."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "El contexto imperial permea la carta: Pablo está preso por el Imperio (Fil 1:13), el pretorio y la casa de César aparecen nombrados (Fil 4:22), y el vocabulario de ciudadanía ('politeuma', Fil 3:20) contrasta la pertenencia celestial con la lealtad imperial.",
+          "en": "The imperial context permeates the letter: Paul is imprisoned by the Empire (Phil 1:13), the praetorium and Caesar's household are named (Phil 4:22), and citizenship vocabulary ('politeuma', Phil 3:20) contrasts heavenly belonging with imperial loyalty.",
+          "pt": "O contexto imperial permeia a carta: Paulo está preso pelo Império (Fp 1:13), o pretório e a casa de César são mencionados (Fp 4:22), e o vocabulário de cidadania ('politeuma', Fp 3:20) contrasta o pertencimento celestial com a lealdade imperial."
+        },
+        "estadoArqueologico": {
+          "es": "Las excavaciones en Filipos confirman el estatus colonial romano: foro, templos, inscripciones latinas. La presencia del pretorio en Roma es bien documentada arqueológica e históricamente.",
+          "en": "Excavations at Philippi confirm Roman colonial status: forum, temples, Latin inscriptions. The praetorium's presence in Rome is well documented archaeologically and historically.",
+          "pt": "As escavações em Filipos confirmam o status colonial romano: fórum, templos, inscrições latinas. A presença do pretório em Roma é bem documentada arqueológica e historicamente."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidad judía de la diáspora",
+          "en": "Jewish Diaspora Community",
+          "pt": "Comunidade Judaica da Diáspora"
+        },
+        "rolEnElTexto": {
+          "es": "Pablo advierte contra los judaizantes ('perros', 'obreros malignos', 'los de la mutilación', Fil 3:2) que amenazaban a la iglesia con imponer la circuncisión. Su propio trasfondo judío impecable (Fil 3:4–6) sirve como contraste con la justicia por la fe.",
+          "en": "Paul warns against Judaizers ('dogs', 'evil workers', 'the mutilation', Phil 3:2) threatening the church with circumcision requirements. His own impeccable Jewish credentials (Phil 3:4–6) serve as contrast to righteousness by faith.",
+          "pt": "Paulo adverte contra os judaizantes ('cães', 'obreiros malignos', 'a mutilação', Fp 3:2) que ameaçavam a igreja com a exigência da circuncisão. Suas próprias credenciais judaicas impecáveis (Fp 3:4–6) servem de contraste com a justiça pela fé."
+        },
+        "estadoArqueologico": {
+          "es": "Filipos parece haber tenido una comunidad judía pequeña; Hechos 16:13 menciona un lugar de oración junto al río en lugar de una sinagoga formal, lo que sugiere una presencia judía limitada. Confirmado indirectamente por la arqueología local.",
+          "en": "Philippi appears to have had a small Jewish community; Acts 16:13 mentions a place of prayer by the river rather than a formal synagogue, suggesting limited Jewish presence. Indirectly confirmed by local archaeology.",
+          "pt": "Filipos parece ter tido uma comunidade judaica pequena; At 16:13 menciona um lugar de oração junto ao rio em vez de uma sinagoga formal, sugerindo presença judaica limitada. Indiretamente confirmado pela arqueologia local."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Iglesia primitiva gentil",
+          "en": "Early Gentile Church",
+          "pt": "Igreja Primitiva Gentílica"
+        },
+        "rolEnElTexto": {
+          "es": "La congregación filipense era predominantemente gentil, compuesta por convertidos de diversa procedencia social. Líderes como Evodia y Síntique (Fil 4:2–3) y Epafrodito (Fil 2:25) reflejan el perfil de la iglesia urbana paulina.",
+          "en": "The Philippian congregation was predominantly Gentile, composed of converts from diverse social backgrounds. Leaders like Euodia and Syntyche (Phil 4:2–3) and Epaphroditus (Phil 2:25) reflect the profile of the urban Pauline church.",
+          "pt": "A congregação filipense era predominantemente gentílica, composta por convertidos de diversas origens sociais. Líderes como Evódia e Síntique (Fp 4:2–3) e Epafrodito (Fp 2:25) refletem o perfil da igreja urbana paulina."
+        },
+        "estadoArqueologico": {
+          "es": "Las inscripciones en Filipos atestiguan nombres griegos y latinos, confirmando el contexto multicultural de la congregación. No existe evidencia arqueológica directa de la iglesia filipense del s. I.",
+          "en": "Inscriptions at Philippi attest Greek and Latin names, confirming the multicultural context of the congregation. No direct archaeological evidence of the first-century Philippian church exists.",
+          "pt": "As inscrições em Filipos atestam nomes gregos e latinos, confirmando o contexto multicultural da congregação. Não existe evidência arqueológica direta da igreja filipense do séc. I."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones francesas y griegas en Filipos (iniciadas en 1914 y continuadas a lo largo del s. XX) han descubierto el foro romano, el cardo y el decumanus, una basílica paleocristiana del s. IV edificada sobre una tradición de lugar de culto primitivo, y numerosas inscripciones latinas que confirman el estatus de colonia romana. El pretorio en Roma, mencionado en Fil 1:13, está bien atestiguado. No se han hallado artefactos que identifiquen directamente a la congregación paulina, pero el contexto urbano y colonial que describe la carta es plenamente coherente con los hallazgos arqueológicos.",
+      "en": "French and Greek excavations at Philippi (begun 1914 and continued throughout the 20th century) have uncovered the Roman forum, the cardo and decumanus, a 4th-century early Christian basilica built over a tradition of early worship, and numerous Latin inscriptions confirming colonial Roman status. The praetorium in Rome, mentioned in Phil 1:13, is well attested. No artifacts directly identifying the Pauline congregation have been found, but the urban and colonial context the letter describes is fully coherent with archaeological findings.",
+      "pt": "As escavações francesas e gregas em Filipos (iniciadas em 1914 e continuadas ao longo do séc. XX) descobriram o fórum romano, o cardo e o decumanus, uma basílica paleocristã do séc. IV construída sobre uma tradição de culto primitivo, e numerosas inscrições latinas confirmando o status de colônia romana. O pretório em Roma, mencionado em Fp 1:13, é bem atestado. Não foram encontrados artefatos que identifiquem diretamente a congregação paulina, mas o contexto urbano e colonial que a carta descreve é plenamente coerente com os achados arqueológicos."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Inscripciones de Filipos (Corpus Inscriptionum Latinarum, CIL III)",
+          "en": "Philippi Inscriptions (Corpus Inscriptionum Latinarum, CIL III)",
+          "pt": "Inscrições de Filipos (Corpus Inscriptionum Latinarum, CIL III)"
+        },
+        "origen": {
+          "es": "Filipos, Macedonia romana, siglos I a.C.–III d.C.",
+          "en": "Philippi, Roman Macedonia, 1st century BC – 3rd century AD",
+          "pt": "Filipos, Macedônia romana, sécs. I a.C.–III d.C."
+        },
+        "relevancia": {
+          "es": "Las inscripciones latinas halladas en Filipos documentan el uso oficial del latín (inusual en Grecia), confirman el título de 'colonia' y los privilegios del ius Italicum, y proporcionan nombres paralelos a los mencionados en la carta. Iluminan el contexto de ciudadanía romana que Pablo explota teológicamente en Fil 3:20.",
+          "en": "Latin inscriptions found at Philippi document the official use of Latin (unusual in Greece), confirm the 'colony' title and privileges of ius Italicum, and provide names paralleling those mentioned in the letter. They illuminate the Roman citizenship context Paul exploits theologically in Phil 3:20.",
+          "pt": "As inscrições latinas encontradas em Filipos documentam o uso oficial do latim (incomum na Grécia), confirmam o título de 'colônia' e os privilégios do ius Italicum, e fornecem nomes paralelos aos mencionados na carta. Iluminam o contexto de cidadania romana que Paulo explora teologicamente em Fp 3:20."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Papiros de Oxirrinco (cartas de amistad grecorromanas)",
+          "en": "Oxyrhynchus Papyri (Greco-Roman friendship letters)",
+          "pt": "Papiros de Oxirrinco (cartas de amizade greco-romanas)"
+        },
+        "origen": {
+          "es": "Oxirrinco, Egipto, siglos I–IV d.C.",
+          "en": "Oxyrhynchus, Egypt, 1st–4th centuries AD",
+          "pt": "Oxirrinco, Egito, sécs. I–IV d.C."
+        },
+        "relevancia": {
+          "es": "Las cartas de amistad grecorromanas conservadas en los papiros de Oxirrinco iluminan el género epistolar de Filipenses. La retórica de la amistad ('koinōnia', reciprocidad de dones, expresiones de afecto), los tópicos del encarcelamiento y la visita del amigo enfermo (paralelo con Epafrodito, Fil 2:25–30) tienen numerosos paralelos en estas cartas privadas.",
+          "en": "Greco-Roman friendship letters preserved in the Oxyrhynchus papyri illuminate Philippians' epistolary genre. The rhetoric of friendship ('koinōnia', gift reciprocity, expressions of affection), imprisonment topoi, and the sick friend's visit (parallel with Epaphroditus, Phil 2:25–30) have numerous parallels in these private letters.",
+          "pt": "As cartas de amizade greco-romanas preservadas nos papiros de Oxirrinco iluminam o gênero epistolar de Filipenses. A retórica da amizade ('koinōnia', reciprocidade de dons, expressões de afeto), os tópicos do encarceramento e a visita do amigo doente (paralelo com Epafrodito, Fp 2:25–30) têm numerosos paralelos nessas cartas privadas."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "El debate principal gira en torno al lugar de encarcelamiento de Pablo: Roma (c. 61–62 d.C.), Éfeso (c. 54–56 d.C.) o Cesarea (c. 57–59 d.C.). La propuesta efesia carece de evidencia directa en Hechos y se apoya en inferencias. La tradición reformada y conservadora favorece Roma por la mención del pretorio (Fil 1:13) y de la 'casa de César' (Fil 4:22), que encajan mejor con Roma. Un segundo debate concierne a la integridad literaria: algunos críticos proponen que Filipenses combina dos o tres cartas paulinas, especialmente por el aparente corte en Fil 3:1. La tradición reformada rechaza la fragmentación y la defiende como una carta unitaria. No hay manuscritos que apoyen la hipótesis de compilación.",
+      "en": "The main debate concerns the place of Paul's imprisonment: Rome (c. AD 61–62), Ephesus (c. AD 54–56), or Caesarea (c. AD 57–59). The Ephesian proposal lacks direct evidence in Acts and rests on inference. The Reformed and conservative tradition favors Rome because of the mention of the praetorium (Phil 1:13) and 'Caesar's household' (Phil 4:22), which fit Rome best. A second debate concerns literary integrity: some critics propose that Philippians combines two or three Pauline letters, especially due to the apparent break at Phil 3:1. The Reformed tradition rejects fragmentation and defends it as a unified letter. No manuscripts support the compilation hypothesis.",
+      "pt": "O debate principal gira em torno do local do encarceramento de Paulo: Roma (c. 61–62 d.C.), Éfeso (c. 54–56 d.C.) ou Cesareia (c. 57–59 d.C.). A proposta efésiana carece de evidência direta em Atos e se apoia em inferências. A tradição reformada e conservadora favorece Roma pela menção do pretório (Fp 1:13) e da 'casa de César' (Fp 4:22), que se encaixam melhor em Roma. Um segundo debate diz respeito à integridade literária: alguns críticos propõem que Filipenses combina duas ou três cartas paulinas, especialmente pelo aparente corte em Fp 3:1. A tradição reformada rejeita a fragmentação e a defende como uma carta unitária. Nenhum manuscrito apoia a hipótese de compilação."
+    },
+    "cronologiaInterna": {
+      "es": "La carta no narra eventos en secuencia histórica, pero permite reconstruir la siguiente cadena: (1) Epafrodito viajó de Filipos a Roma llevando una ofrenda a Pablo (Fil 4:18); (2) Epafrodito enfermó gravemente durante su estancia en Roma (Fil 2:26–27); (3) los filipenses se enteraron de su enfermedad (Fil 2:26); (4) Epafrodito se recuperó y Pablo lo envía de regreso con la carta (Fil 2:25,28); (5) Pablo expresa su intención de enviar a Timoteo pronto y de visitar él mismo a los filipenses si es liberado (Fil 2:19,24). Todo esto ocurre dentro del período de custodia domiciliaria (Fil 1:7,13–14).",
+      "en": "The letter does not narrate events in historical sequence, but allows reconstruction of the following chain: (1) Epaphroditus traveled from Philippi to Rome bearing a gift for Paul (Phil 4:18); (2) Epaphroditus fell gravely ill during his stay in Rome (Phil 2:26–27); (3) the Philippians learned of his illness (Phil 2:26); (4) Epaphroditus recovered and Paul sends him back with the letter (Phil 2:25,28); (5) Paul expresses intent to send Timothy soon and to visit the Philippians himself if released (Phil 2:19,24). All of this occurs within the period of house arrest (Phil 1:7,13–14).",
+      "pt": "A carta não narra eventos em sequência histórica, mas permite reconstruir a seguinte cadeia: (1) Epafrodito viajou de Filipos a Roma levando uma oferta a Paulo (Fp 4:18); (2) Epafrodito adoeceu gravemente durante sua estada em Roma (Fp 2:26–27); (3) os filipenses souberam de sua doença (Fp 2:26); (4) Epafrodito se recuperou e Paulo o envia de volta com a carta (Fp 2:25,28); (5) Paulo expressa sua intenção de enviar Timóteo em breve e de visitar os filipenses pessoalmente se for libertado (Fp 2:19,24). Tudo isso ocorre dentro do período de prisão domiciliar (Fp 1:7,13–14)."
+    }
+  },
+  "ordenEnDivision": 6,
+  "ordenCanon": 50,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Filipenses es una de las cimas cristológicas del Nuevo Testamento. El himno kenótico de Fil 2:6–11 ('carmen Christi') enseña la preexistencia eterna de Cristo, su humillación voluntaria mediante la encarnación y la cruz, y su exaltación universal como Señor (κύριος), cumpliendo Is 45:23. Cristo es el estándar de la humildad (Fil 2:5), el objeto de la unión ('en Cristo', Fil 1:1; Fil 4:7), la fuente de toda suficiencia (Fil 4:13), la meta de la vida ('para mí vivir es Cristo', Fil 1:21) y el dador de la justicia imputada (Fil 3:9). La carta opera dentro del marco de la teología bíblica de Vos: Cristo cumple y supera todo privilegio del pacto (Fil 3:4–9), inaugura la nueva era del Espíritu (Fil 1:19) y garantiza la esperanza de la resurrección (Fil 3:10–11,20–21).",
+      "en": "Philippians is one of the Christological summits of the New Testament. The kenotic hymn of Phil 2:6–11 ('carmen Christi') teaches Christ's eternal preexistence, his voluntary humiliation through incarnation and the cross, and his universal exaltation as Lord (κύριος), fulfilling Isa 45:23. Christ is the standard of humility (Phil 2:5), the object of union ('in Christ', Phil 1:1; Phil 4:7), the source of all sufficiency (Phil 4:13), the goal of life ('for me to live is Christ', Phil 1:21), and the giver of imputed righteousness (Phil 3:9). The letter operates within Vos's biblical-theological framework: Christ fulfills and surpasses all covenantal privilege (Phil 3:4–9), inaugurates the new age of the Spirit (Phil 1:19), and guarantees resurrection hope (Phil 3:10–11,20–21).",
+      "pt": "Filipenses é um dos cumes cristológicos do Novo Testamento. O hino kenótico de Fp 2:6–11 ('carmen Christi') ensina a preexistência eterna de Cristo, sua humilhação voluntária mediante a encarnação e a cruz, e sua exaltação universal como Senhor (κύριος), cumprindo Is 45:23. Cristo é o padrão da humildade (Fp 2:5), o objeto da união ('em Cristo', Fp 1:1; Fp 4:7), a fonte de toda suficiência (Fp 4:13), a meta da vida ('para mim viver é Cristo', Fp 1:21) e o doador da justiça imputada (Fp 3:9). A carta opera dentro da estrutura da teologia bíblica de Vos: Cristo cumpre e supera todo privilégio pactual (Fp 3:4–9), inaugura a nova era do Espírito (Fp 1:19) e garante a esperança da ressurreição (Fp 3:10–11,20–21)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El siervo sufriente de Isaías 52–53 tipifica la humillación y exaltación de Cristo descrita en el himno kenótico. Pablo aplica Is 45:23 directamente a Jesús en Fil 2:10–11, señalando que toda rodilla se doblará ante Cristo, cumpliendo la promesa escatológica del siervo exaltado.",
+        "en": "The suffering servant of Isa 52–53 typifies the humiliation and exaltation of Christ described in the kenotic hymn. Paul applies Isa 45:23 directly to Jesus in Phil 2:10–11, indicating that every knee will bow before Christ, fulfilling the eschatological promise of the exalted servant.",
+        "pt": "O servo sofredor de Is 52–53 tipifica a humilhação e exaltação de Cristo descritas no hino kenótico. Paulo aplica Is 45:23 diretamente a Jesus em Fp 2:10–11, indicando que todo joelho se dobrará diante de Cristo, cumprindo a promessa escatológica do servo exaltado."
+      },
+      {
+        "es": "La ciudadanía celestial (Fil 3:20–21) evoca la promesa del reino mesiánico. Así como Israel esperaba su herencia en la tierra prometida, los creyentes aguardan una 'patria celestial' cuyo rey-salvador (σωτήρ) transformará sus cuerpos a imagen del cuerpo glorificado de Cristo, cumpliendo el tipo adámico (1Co 15:45–49).",
+        "en": "Heavenly citizenship (Phil 3:20–21) evokes the promise of the messianic kingdom. Just as Israel awaited its inheritance in the promised land, believers await a 'heavenly homeland' whose king-savior (σωτήρ) will transform their bodies into the likeness of Christ's glorified body, fulfilling the Adamic type (1Cor 15:45–49).",
+        "pt": "A cidadania celestial (Fp 3:20–21) evoca a promessa do reino messiânico. Assim como Israel aguardava sua herança na terra prometida, os crentes aguardam uma 'pátria celestial' cujo rei-salvador (σωτήρ) transformará seus corpos à semelhança do corpo glorificado de Cristo, cumprindo o tipo adâmico (1Co 15:45–49)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Filipenses es la única epístola del canon que combina el himno cristológico más elevado del NT (Fil 2:6–11) con una teología existencial del gozo en medio del sufrimiento. Solo Filipenses articula explícitamente la doctrina de la contentación aprendida (Fil 4:11–13), la paz de Dios que 'sobrepasa todo entendimiento' (Fil 4:7), y el abandono de toda prerrogativa religiosa como 'basura' en comparación con conocer a Cristo (Fil 3:7–8). Es también la única carta que tematiza el 'estar en Cristo' como forma completa de vida: vivir, morir, sufrir, regocijarse, pensar y actuar, todo dentro de la unión con Cristo.",
+    "en": "Philippians is the only epistle in the canon that combines the NT's highest Christological hymn (Phil 2:6–11) with an existential theology of joy in the midst of suffering. Only Philippians explicitly articulates the doctrine of learned contentment (Phil 4:11–13), the peace of God that 'surpasses all understanding' (Phil 4:7), and the abandonment of all religious privilege as 'rubbish' compared to knowing Christ (Phil 3:7–8). It is also the only letter that thematizes 'being in Christ' as a complete way of life: living, dying, suffering, rejoicing, thinking, and acting, all within union with Christ.",
+    "pt": "Filipenses é a única epístola do cânon que combina o hino cristológico mais elevado do NT (Fp 2:6–11) com uma teologia existencial do gozo em meio ao sofrimento. Somente Filipenses articula explicitamente a doutrina do contentamento aprendido (Fp 4:11–13), a paz de Deus que 'excede todo entendimento' (Fp 4:7), e o abandono de todo privilégio religioso como 'lixo' em comparação com conhecer a Cristo (Fp 3:7–8). É também a única carta que tematiza o 'estar em Cristo' como forma completa de vida: viver, morrer, sofrer, alegrar-se, pensar e agir, tudo dentro da união com Cristo."
+  },
+  "genero": {
+    "es": "Epístola de amistad con elementos de acción de gracias, paranesis (exhortación moral) e himno cristológico",
+    "en": "Friendship epistle with elements of thanksgiving, paraenesis (moral exhortation), and Christological hymn",
+    "pt": "Epístola de amizade com elementos de ação de graças, parenese (exortação moral) e hino cristológico"
+  },
+  "palabraClave": {
+    "es": [
+      "gozo",
+      "Cristo",
+      "evangelio",
+      "humildad",
+      "contentamiento"
+    ],
+    "en": [
+      "joy",
+      "Christ",
+      "gospel",
+      "humility",
+      "contentment"
+    ],
+    "pt": [
+      "alegria",
+      "Cristo",
+      "evangelho",
+      "humildade",
+      "contentamento"
+    ]
+  },
+  "destinatario": {
+    "es": "La iglesia cristiana en Filipos (Macedonia romana), una congregación predominantemente gentil fundada por Pablo en su segundo viaje misionero (Hch 16:11–40), que incluía líderes como Lidia y el carcelero convertido, y que en el momento de la carta contaba con obispos y diáconos (Fil 1:1).",
+    "en": "The Christian church in Philippi (Roman Macedonia), a predominantly Gentile congregation founded by Paul on his second missionary journey (Acts 16:11–40), which included leaders such as Lydia and the converted jailer, and which by the time of the letter had bishops and deacons (Phil 1:1).",
+    "pt": "A igreja cristã em Filipos (Macedônia romana), uma congregação predominantemente gentílica fundada por Paulo em sua segunda viagem missionária (At 16:11–40), que incluía líderes como Lídia e o carcereiro convertido, e que no momento da carta contava com bispos e diáconos (Fp 1:1)."
+  },
+  "proposito": {
+    "es": "Propósito histórico: Agradecer a la iglesia filipense por el envío de una ofrenda económica a Pablo a través de Epafrodito, y devolver a Epafrodito tras su recuperación de una enfermedad grave. Propósito teológico: Exhortar a la unidad y al gozo cristocéntrico en medio del sufrimiento, advertir contra los judaizantes y los antinomianos (Fil 3:2,18–19), y llamar a la imitación del ejemplo kenótico de Cristo (Fil 2:5–11) como fundamento de toda la vida comunitaria e individual del creyente.",
+    "en": "Historical purpose: To thank the Philippian church for the financial gift sent through Epaphroditus, and to return Epaphroditus after his recovery from a serious illness. Theological purpose: To exhort unity and Christocentric joy in the midst of suffering, warn against Judaizers and antinomians (Phil 3:2,18–19), and call for imitation of Christ's kenotic example (Phil 2:5–11) as the foundation of all communal and individual Christian life.",
+    "pt": "Propósito histórico: Agradecer à igreja filipense pelo envio de uma oferta financeira a Paulo por meio de Epafrodito, e devolver Epafrodito após sua recuperação de uma doença grave. Propósito teológico: Exortar à unidade e ao gozo cristocêntrico em meio ao sofrimento, advertir contra os judaizantes e os antinomianos (Fp 3:2,18–19), e convocar à imitação do exemplo kenótico de Cristo (Fp 2:5–11) como fundamento de toda a vida comunitária e individual do crente."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pablo",
+        "en": "Paul",
+        "pt": "Paulo"
+      },
+      "hebreo": "Παῦλος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo, autor de la carta, preso en Roma en el momento de la escritura. Se presenta como siervo (δοῦλος) de Cristo Jesús (Fil 1:1), encadenado por el evangelio (Fil 1:13), pero rebosante de gozo (Fil 1:4,18; Fil 4:4). Su relación con los filipenses es la más cálida y personal de todas sus congregaciones.",
+        "en": "Apostle of Jesus Christ, author of the letter, imprisoned in Rome at the time of writing. He presents himself as a servant (δοῦλος) of Christ Jesus (Phil 1:1), chained for the gospel (Phil 1:13), but overflowing with joy (Phil 1:4,18; Phil 4:4). His relationship with the Philippians is the warmest and most personal of all his congregations.",
+        "pt": "Apóstolo de Jesus Cristo, autor da carta, preso em Roma no momento da escrita. Apresenta-se como servo (δοῦλος) de Cristo Jesus (Fp 1:1), acorrentado pelo evangelho (Fp 1:13), mas transbordando de alegria (Fp 1:4,18; Fp 4:4). Seu relacionamento com os filipenses é o mais caloroso e pessoal de todas as suas congregações."
+      },
+      "acciones": {
+        "es": "Ora con gratitud por los filipenses (Fil 1:3–5); defiende el avance del evangelio desde la prisión (Fil 1:12–18); contempla la posibilidad de la muerte como ganancia (Fil 1:21–23); exhorta a la unidad mediante el himno kenótico (Fil 2:1–11); advierte contra judaizantes y antinomianos (Fil 3:2–21); envía instrucciones prácticas sobre el gozo, la oración y el pensamiento cristiano (Fil 4:4–9); agradece el apoyo económico recibido (Fil 4:10–20).",
+        "en": "Prays with gratitude for the Philippians (Phil 1:3–5); defends the advance of the gospel from prison (Phil 1:12–18); contemplates the possibility of death as gain (Phil 1:21–23); exhorts unity through the kenotic hymn (Phil 2:1–11); warns against Judaizers and antinomians (Phil 3:2–21); sends practical instructions on joy, prayer, and Christian thinking (Phil 4:4–9); thanks them for financial support received (Phil 4:10–20).",
+        "pt": "Ora com gratidão pelos filipenses (Fp 1:3–5); defende o avanço do evangelho desde a prisão (Fp 1:12–18); contempla a possibilidade da morte como ganho (Fp 1:21–23); exorta à unidade mediante o hino kenótico (Fp 2:1–11); adverte contra judaizantes e antinomianos (Fp 3:2–21); envia instruções práticas sobre a alegria, a oração e o pensamento cristão (Fp 4:4–9); agradece o apoio financeiro recebido (Fp 4:10–20)."
+      },
+      "significadoTeologico": {
+        "es": "Pablo encarna en su propia experiencia la teología que enseña: el gozo en el sufrimiento (Fil 1:18), la suficiencia en Cristo (Fil 4:11–13), la justicia por la fe y no por la ley (Fil 3:9), y la esperanza de la resurrección (Fil 3:10–11). Su vida es una demostración viva de que 'para mí vivir es Cristo' (Fil 1:21).",
+        "en": "Paul embodies in his own experience the theology he teaches: joy in suffering (Phil 1:18), sufficiency in Christ (Phil 4:11–13), righteousness by faith and not by law (Phil 3:9), and resurrection hope (Phil 3:10–11). His life is a living demonstration that 'for me to live is Christ' (Phil 1:21).",
+        "pt": "Paulo encarna em sua própria experiência a teologia que ensina: alegria no sofrimento (Fp 1:18), suficiência em Cristo (Fp 4:11–13), justiça pela fé e não pela lei (Fp 3:9), e esperança da ressurreição (Fp 3:10–11). Sua vida é uma demonstração viva de que 'para mim viver é Cristo' (Fp 1:21)."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo, sino como imitador (μιμητής) de Cristo, llamando a los filipenses a imitarlo a él así como él imita a Cristo (Fil 3:17; Fil 4:9; cf. 1Co 11:1).",
+        "en": "Does not function as a type of Christ, but as an imitator (μιμητής) of Christ, calling the Philippians to imitate him as he imitates Christ (Phil 3:17; Phil 4:9; cf. 1Cor 11:1).",
+        "pt": "Não funciona como tipo de Cristo, mas como imitador (μιμητής) de Cristo, convidando os filipenses a imitá-lo assim como ele imita a Cristo (Fp 3:17; Fp 4:9; cf. 1Co 11:1)."
+      },
+      "caracterMoral": {
+        "es": "Humilde, gozoso, afectuoso, valiente ante la persecución, transparente respecto a su propio pasado (Fil 3:4–6) y su presente (Fil 1:12–26), y completamente dependiente de la gracia de Dios.",
+        "en": "Humble, joyful, affectionate, courageous in the face of persecution, transparent about his own past (Phil 3:4–6) and present (Phil 1:12–26), and completely dependent on God's grace.",
+        "pt": "Humilde, alegre, afetuoso, corajoso diante da perseguição, transparente quanto ao seu próprio passado (Fp 3:4–6) e presente (Fp 1:12–26), e completamente dependente da graça de Deus."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Pablo se identifica como co-remitente con Timoteo (Fil 1:1), preso por Cristo (Fil 1:13), que ha servido al evangelio desde el primer día que los filipenses lo conocieron (Fil 1:5). Confiesa que para él vivir es Cristo y morir es ganancia (Fil 1:21), que ha aprendido el contentamiento en toda circunstancia (Fil 4:11), y que lo puede todo en Cristo que lo fortalece (Fil 4:13).",
+          "en": "Paul identifies himself as co-sender with Timothy (Phil 1:1), a prisoner for Christ (Phil 1:13), who has served the gospel from the first day the Philippians knew him (Phil 1:5). He confesses that for him to live is Christ and to die is gain (Phil 1:21), that he has learned contentment in every circumstance (Phil 4:11), and that he can do all things through Christ who strengthens him (Phil 4:13).",
+          "pt": "Paulo se identifica como co-remetente com Timóteo (Fp 1:1), preso por Cristo (Fp 1:13), que serviu ao evangelho desde o primeiro dia em que os filipenses o conheceram (Fp 1:5). Confessa que para ele viver é Cristo e morrer é ganho (Fp 1:21), que aprendeu o contentamento em toda circunstância (Fp 4:11), e que tudo pode em Cristo que o fortalece (Fp 4:13)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Fil 1:1",
+          "Fil 1:13",
+          "Fil 1:21",
+          "Fil 3:4–9",
+          "Fil 4:11–13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Saulo de Tarso, fariseo de tribu de Benjamín, ciudadano romano, estudiante de Gamaliel (Hch 22:3), perseguidor de la iglesia convertido en apóstol en el camino a Damasco (Hch 9). Fundó la iglesia en Filipos en su segundo viaje misionero (c. 49–51 d.C., Hch 16:11–40). En el momento de la carta se encontraba bajo custodia domiciliaria en Roma (c. 61–62 d.C.), aguardando su apelación ante el César (Hch 28:30–31).",
+          "en": "Saul of Tarsus, Pharisee of the tribe of Benjamin, Roman citizen, student of Gamaliel (Acts 22:3), persecutor of the church converted into an apostle on the road to Damascus (Acts 9). He founded the church in Philippi on his second missionary journey (c. AD 49–51, Acts 16:11–40). At the time of the letter he was under house arrest in Rome (c. AD 61–62), awaiting his appeal before Caesar (Acts 28:30–31).",
+          "pt": "Saulo de Tarso, fariseu da tribo de Benjamim, cidadão romano, estudante de Gamaliel (At 22:3), perseguidor da igreja convertido em apóstolo no caminho a Damasco (At 9). Fundou a igreja em Filipos em sua segunda viagem missionária (c. 49–51 d.C., At 16:11–40). No momento da carta estava em prisão domiciliar em Roma (c. 61–62 d.C.), aguardando seu recurso perante César (At 28:30–31)."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Apostle: A Life of Paul",
+            "autor": "John Pollock",
+            "año": 1969,
+            "editorial": "Doubleday",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biographical context",
+              "missionary journeys"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La ciudadanía romana de Pablo (mencionada en Hch 16:37–38; Hch 22:25–29) es históricamente plausible y explica su acceso al proceso de apelación al César. Los detalles del encarcelamiento en Roma (Hch 28, Fil 1:13) son coherentes con las prácticas romanas de custodia domiciliaria atestiguadas en fuentes externas.",
+          "en": "Paul's Roman citizenship (mentioned in Acts 16:37–38; Acts 22:25–29) is historically plausible and explains his access to the Caesar appeal process. The details of imprisonment in Rome (Acts 28, Phil 1:13) are coherent with Roman house arrest practices attested in external sources.",
+          "pt": "A cidadania romana de Paulo (mencionada em At 16:37–38; At 22:25–29) é historicamente plausível e explica seu acesso ao processo de apelação a César. Os detalhes do encarceramento em Roma (At 28, Fp 1:13) são coerentes com as práticas romanas de prisão domiciliar atestadas em fontes externas."
+        }
+      },
+      "versiculosAsociados": [
+        "Fil 1:1",
+        "Fil 1:12–26",
+        "Fil 3:4–14",
+        "Fil 4:10–20"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "2Ti",
+        "Tit",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo es el autor de trece epístolas del NT y figura central del libro de Hechos. Su enseñanza sobre la justificación por la fe, la unión con Cristo y la vida en el Espíritu es el núcleo de la teología paulina que estructura la mitad del canon del NT.",
+        "en": "Paul is the author of thirteen NT epistles and the central figure of the book of Acts. His teaching on justification by faith, union with Christ, and life in the Spirit is the core of Pauline theology that structures half of the NT canon.",
+        "pt": "Paulo é o autor de treze epístolas do NT e figura central do livro de Atos. Seu ensino sobre a justificação pela fé, a união com Cristo e a vida no Espírito é o núcleo da teologia paulina que estrutura metade do cânon do NT."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Timoteo",
+        "en": "Timothy",
+        "pt": "Timóteo"
+      },
+      "hebreo": "Τιμόθεος",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "Co-remitente de la carta junto con Pablo (Fil 1:1), discípulo amado y colaborador fiel. Pablo lo describe como alguien que 'de verdad se preocupa por vuestro bienestar' (Fil 2:20) y que ha servido con él en el evangelio como un hijo con su padre (Fil 2:22). Pablo planea enviarlo pronto a Filipos (Fil 2:19,23).",
+        "en": "Co-sender of the letter with Paul (Phil 1:1), beloved disciple and faithful co-worker. Paul describes him as someone who 'genuinely cares for your welfare' (Phil 2:20) and who has served with him in the gospel as a son with his father (Phil 2:22). Paul plans to send him soon to Philippi (Phil 2:19,23).",
+        "pt": "Co-remetente da carta junto com Paulo (Fp 1:1), discípulo amado e colaborador fiel. Paulo o descreve como alguém que 'genuinamente se preocupa com o bem-estar de vocês' (Fp 2:20) e que serviu com ele no evangelho como um filho com seu pai (Fp 2:22). Paulo planeja enviá-lo em breve a Filipos (Fp 2:19,23)."
+      },
+      "acciones": {
+        "es": "Figura como co-remitente de la carta (Fil 1:1); Pablo lo describe como ejemplo de genuina solicitud por los demás (Fil 2:19–22); se planea su visita a Filipos para informar a Pablo del estado de la iglesia.",
+        "en": "Named as co-sender of the letter (Phil 1:1); Paul describes him as an example of genuine concern for others (Phil 2:19–22); his visit to Philippi is planned to report back to Paul on the state of the church.",
+        "pt": "Nomeado como co-remetente da carta (Fp 1:1); Paulo o descreve como exemplo de genuína solicitude pelos outros (Fp 2:19–22); sua visita a Filipos é planejada para relatar a Paulo o estado da igreja."
+      },
+      "significadoTeologico": {
+        "es": "Timoteo representa el modelo del siervo cristiano que busca 'las cosas de Cristo Jesús' y no las suyas propias (Fil 2:21), en contraste con los que buscan sus propios intereses. Su vida es presentada como evidencia del tipo de carácter que el evangelio produce.",
+        "en": "Timothy represents the model Christian servant who seeks 'the things of Christ Jesus' and not his own (Phil 2:21), in contrast to those who seek their own interests. His life is presented as evidence of the kind of character the gospel produces.",
+        "pt": "Timóteo representa o modelo do servo cristão que busca 'as coisas de Cristo Jesus' e não as suas próprias (Fp 2:21), em contraste com os que buscam seus próprios interesses. Sua vida é apresentada como evidência do tipo de caráter que o evangelho produz."
+      },
+      "tipo": {
+        "es": "No funciona como tipo, sino como modelo de servicio cristiano desinteresado (Fil 2:19–22).",
+        "en": "Does not function as a type, but as a model of selfless Christian service (Phil 2:19–22).",
+        "pt": "Não funciona como tipo, mas como modelo de serviço cristão abnegado (Fp 2:19–22)."
+      },
+      "caracterMoral": {
+        "es": "Fiel, desinteresado, semejante a Pablo en disposición, genuinamente preocupado por el bienestar de los demás por encima del propio.",
+        "en": "Faithful, selfless, like-minded with Paul, genuinely concerned for others' welfare above his own.",
+        "pt": "Fiel, abnegado, de igual sentimento com Paulo, genuinamente preocupado com o bem-estar alheio acima do próprio."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Timoteo aparece en Filipenses únicamente como co-remitente (Fil 1:1) y sujeto de los planes de Pablo (Fil 2:19–23). Pablo lo describe con el elogio más cálido de toda su correspondencia: nadie como él se preocupa genuinamente por los filipenses (Fil 2:20).",
+          "en": "Timothy appears in Philippians only as co-sender (Phil 1:1) and subject of Paul's plans (Phil 2:19–23). Paul describes him with the warmest commendation in all his correspondence: no one else cares for the Philippians as genuinely as he does (Phil 2:20).",
+          "pt": "Timóteo aparece em Filipenses apenas como co-remetente (Fp 1:1) e sujeito dos planos de Paulo (Fp 2:19–23). Paulo o descreve com o elogio mais caloroso de toda a sua correspondência: ninguém mais se preocupa tão genuinamente com os filipenses quanto ele (Fp 2:20)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Fil 1:1",
+          "Fil 2:19–23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Timoteo fue convertido durante el primer viaje misionero de Pablo (posiblemente en Listra, Hch 14:6–20; Hch 16:1–2), se unió a Pablo en su segundo viaje y se convirtió en su más cercano colaborador. Es mencionado como co-autor o destinatario en seis epístolas paulinas (2Co, Fil, Col, 1Ts, 2Ts, Flm). En el momento de la carta a los filipenses servía junto a Pablo en Roma.",
+          "en": "Timothy was converted during Paul's first missionary journey (possibly in Lystra, Acts 14:6–20; Acts 16:1–2), joined Paul on his second journey, and became his closest co-worker. He is mentioned as co-author or addressee in six Pauline epistles (2Cor, Phil, Col, 1Thess, 2Thess, Phlm). At the time of the letter to the Philippians he was serving alongside Paul in Rome.",
+          "pt": "Timóteo foi convertido durante a primeira viagem missionária de Paulo (possivelmente em Listra, At 14:6–20; At 16:1–2), juntou-se a Paulo em sua segunda viagem e tornou-se seu colaborador mais próximo. É mencionado como co-autor ou destinatário em seis epístolas paulinas (2Co, Fp, Cl, 1Ts, 2Ts, Fm). No momento da carta aos filipenses servia ao lado de Paulo em Roma."
+        },
+        "fuentes": [
+          {
+            "titulo": "The New International Commentary on the New Testament: Philippians",
+            "autor": "Gordon D. Fee",
+            "año": 1995,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "co-workers",
+              "historical context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La descripción de Timoteo en Filipenses es coherente con su retrato en Hechos y en las Epístolas Pastorales. Su presencia en Roma con Pablo es consistente con las narraciones de Hch 28 y 2Ti 4.",
+          "en": "The description of Timothy in Philippians is coherent with his portrait in Acts and the Pastoral Epistles. His presence in Rome with Paul is consistent with the accounts in Acts 28 and 2Tim 4.",
+          "pt": "A descrição de Timóteo em Filipenses é coerente com seu retrato em Atos e nas Epístolas Pastorais. Sua presença em Roma com Paulo é consistente com os relatos de At 28 e 2Tm 4."
+        }
+      },
+      "versiculosAsociados": [
+        "Fil 1:1",
+        "Fil 2:19–23"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "2Co",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "Flm",
+        "1Ti",
+        "2Ti",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Timoteo es destinatario de las dos epístolas pastorales que llevan su nombre, colaborador en múltiples cartas paulinas, y figura central en la historia misionera de Pablo narrada en Hechos.",
+        "en": "Timothy is the addressee of the two Pastoral Epistles bearing his name, a co-worker in multiple Pauline letters, and a central figure in the missionary history of Paul narrated in Acts.",
+        "pt": "Timóteo é o destinatário das duas Epístolas Pastorais que levam seu nome, colaborador em múltiplas cartas paulinas, e figura central na história missionária de Paulo narrada em Atos."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Epafrodito",
+        "en": "Epaphroditus",
+        "pt": "Epafrodito"
+      },
+      "hebreo": "Ἐπαφρόδιτος",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        2,
+        4
+      ],
+      "descripcion": {
+        "es": "Mensajero y representante enviado por la iglesia filipense para llevar una ofrenda a Pablo en Roma (Fil 4:18). Pablo lo llama 'hermano, colaborador y compañero de lucha' (Fil 2:25). Enfermó gravemente durante su estancia en Roma 'a punto de morir' (Fil 2:27,30), pero fue restaurado por misericordia divina. Pablo lo envía de regreso con la carta (Fil 2:28–29).",
+        "en": "Messenger and representative sent by the Philippian church to bring a gift to Paul in Rome (Phil 4:18). Paul calls him 'brother, fellow worker, and fellow soldier' (Phil 2:25). He fell gravely ill during his stay in Rome, 'near death' (Phil 2:27,30), but was restored by divine mercy. Paul sends him back with the letter (Phil 2:28–29).",
+        "pt": "Mensageiro e representante enviado pela igreja filipense para levar uma oferta a Paulo em Roma (Fp 4:18). Paulo o chama de 'irmão, colaborador e companheiro de lutas' (Fp 2:25). Adoeceu gravemente durante sua estada em Roma, 'quase até a morte' (Fp 2:27,30), mas foi restaurado pela misericórdia divina. Paulo o envia de volta com a carta (Fp 2:28–29)."
+      },
+      "acciones": {
+        "es": "Viajó de Filipos a Roma con la ofrenda de la iglesia (Fil 4:18); enfermó gravemente durante su misión (Fil 2:26–27); fue restaurado a la salud por gracia divina; regresa a Filipos portando la carta de Pablo (Fil 2:28–29); Pablo pide que sea recibido con honra (Fil 2:29).",
+        "en": "Traveled from Philippi to Rome with the church's gift (Phil 4:18); fell gravely ill during his mission (Phil 2:26–27); was restored to health by divine grace; returns to Philippi carrying Paul's letter (Phil 2:28–29); Paul requests that he be received with honor (Phil 2:29).",
+        "pt": "Viajou de Filipos a Roma com a oferta da igreja (Fp 4:18); adoeceu gravemente durante sua missão (Fp 2:26–27); foi restaurado à saúde pela graça divina; retorna a Filipos carregando a carta de Paulo (Fp 2:28–29); Paulo pede que seja recebido com honra (Fp 2:29)."
+      },
+      "significadoTeologico": {
+        "es": "Epafrodito ilustra el tipo de servicio sacrificial que el himno de Fil 2:6–11 describe: arriesgó su vida por la obra de Cristo (Fil 2:30), buscando las cosas de los demás por encima de las propias. Su historia concreta es la aplicación práctica de la kénosis cristológica.",
+        "en": "Epaphroditus illustrates the kind of sacrificial service described in the hymn of Phil 2:6–11: he risked his life for the work of Christ (Phil 2:30), seeking others' interests above his own. His concrete story is the practical application of Christological kenosis.",
+        "pt": "Epafrodito ilustra o tipo de serviço sacrificial descrito no hino de Fp 2:6–11: arriscou sua vida pela obra de Cristo (Fp 2:30), buscando os interesses dos outros acima dos próprios. Sua história concreta é a aplicação prática da kenose cristológica."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico, sino como ejemplo de sacrificio cristiano en imitación de Cristo (Fil 2:30).",
+        "en": "Does not function as a Christological type, but as an example of Christian sacrifice in imitation of Christ (Phil 2:30).",
+        "pt": "Não funciona como tipo cristológico, mas como exemplo de sacrifício cristão em imitação de Cristo (Fp 2:30)."
+      },
+      "caracterMoral": {
+        "es": "Sacrificado, fiel a su misión a pesar de la enfermedad, angustiado por la preocupación que su situación causaba a los filipenses (Fil 2:26), humilde y sin buscar honra para sí mismo.",
+        "en": "Self-sacrificing, faithful to his mission despite illness, distressed by the concern his situation caused the Philippians (Phil 2:26), humble and not seeking honor for himself.",
+        "pt": "Abnegado, fiel à sua missão apesar da doença, angustiado pela preocupação que sua situação causava aos filipenses (Fp 2:26), humilde e sem buscar honra para si mesmo."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Solo aparece en Filipenses. Pablo lo menciona como mensajero de la iglesia filipense (Fil 2:25), describe su enfermedad casi fatal (Fil 2:26–27), y lo envía de regreso con la carta (Fil 2:28–30). Se le debe recibir con todo gozo y tener en honor (Fil 2:29). También se menciona como el portador de la ofrenda de los filipenses (Fil 4:18).",
+          "en": "He appears only in Philippians. Paul mentions him as the messenger of the Philippian church (Phil 2:25), describes his near-fatal illness (Phil 2:26–27), and sends him back with the letter (Phil 2:28–30). He is to be received with all joy and held in honor (Phil 2:29). He is also mentioned as the bearer of the Philippians' gift (Phil 4:18).",
+          "pt": "Aparece apenas em Filipenses. Paulo o menciona como mensageiro da igreja filipense (Fp 2:25), descreve sua doença quase fatal (Fp 2:26–27), e o envia de volta com a carta (Fp 2:28–30). Deve ser recebido com toda alegria e tido em honra (Fp 2:29). Também é mencionado como portador da oferta dos filipenses (Fp 4:18)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Fil 2:25–30",
+          "Fil 4:18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Epafrodito es conocido únicamente a través de Filipenses. Su nombre griego ('dedicado a Afrodita') era común en el mundo helenístico pero no implica trasfondo pagano activo. No debe confundirse con Epafras de Colosenses (Col 1:7; Col 4:12). No hay evidencia extracanónica sobre él.",
+          "en": "Epaphroditus is known only through Philippians. His Greek name ('devoted to Aphrodite') was common in the Hellenistic world but does not imply an active pagan background. He should not be confused with Epaphras of Colossians (Col 1:7; Col 4:12). There is no extracanonical evidence about him.",
+          "pt": "Epafrodito é conhecido apenas através de Filipenses. Seu nome grego ('devotado a Afrodite') era comum no mundo helenístico, mas não implica trajetória pagã ativa. Não deve ser confundido com Epafras de Colossenses (Cl 1:7; Cl 4:12). Não há evidência extracanônica sobre ele."
+        },
+        "fuentes": [
+          {
+            "titulo": "Philippians (NICNT)",
+            "autor": "Gordon D. Fee",
+            "año": 1995,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "character study",
+              "historical context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La descripción de Epafrodito como mensajero que enfermó durante su viaje es coherente con las realidades del viaje en el mundo romano y con la práctica de las iglesias paulinas de enviar representantes con ofrendas. No hay tensión entre el texto y el contexto histórico.",
+          "en": "The description of Epaphroditus as a messenger who fell ill during his journey is coherent with the realities of travel in the Roman world and with the practice of Pauline churches of sending representatives with gifts. There is no tension between the text and the historical context.",
+          "pt": "A descrição de Epafrodito como mensageiro que adoeceu durante sua viagem é coerente com as realidades das viagens no mundo romano e com a prática das igrejas paulinas de enviar representantes com ofertas. Não há tensão entre o texto e o contexto histórico."
+        }
+      },
+      "versiculosAsociados": [
+        "Fil 2:25–30",
+        "Fil 4:18"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Epafrodito aparece únicamente en Filipenses y no se lo menciona en ninguna otra parte del NT.",
+        "en": "Epaphroditus appears only in Philippians and is not mentioned anywhere else in the NT.",
+        "pt": "Epafrodito aparece apenas em Filipenses e não é mencionado em nenhum outro lugar do NT."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Evodia y Síntique",
+        "en": "Euodia and Syntyche",
+        "pt": "Evódia e Síntique"
+      },
+      "hebreo": "Εὐοδία καὶ Σύντυχη",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "Dos mujeres prominentes en la iglesia filipense que estaban en conflicto entre sí. Pablo las exhorta a 'ponerse de acuerdo en el Señor' (Fil 4:2) y describe a ambas como colaboradoras en el evangelio que 'pelearon' junto a él y a Clemente (Fil 4:3). Su disputa amenazaba la unidad de la congregación.",
+        "en": "Two prominent women in the Philippian church who were in conflict with each other. Paul exhorts them to 'agree in the Lord' (Phil 4:2) and describes both as co-workers in the gospel who 'labored side by side' with him and Clement (Phil 4:3). Their dispute threatened the unity of the congregation.",
+        "pt": "Duas mulheres proeminentes na igreja filipense que estavam em conflito entre si. Paulo as exorta a 'estarem de acordo no Senhor' (Fp 4:2) e descreve ambas como colaboradoras no evangelho que 'trabalharam' ao lado dele e de Clemente (Fp 4:3). Sua disputa ameaçava a unidade da congregação."
+      },
+      "acciones": {
+        "es": "Estaban en conflicto personal entre sí (Fil 4:2). Pablo pide a un 'compañero fiel' (posiblemente Epafrodito o el obispo de la iglesia) que las ayude a reconciliarse (Fil 4:3). Habían trabajado activamente en el ministerio del evangelio junto a Pablo (Fil 4:3).",
+        "en": "Were in personal conflict with each other (Phil 4:2). Paul asks a 'true companion' (possibly Epaphroditus or the church's bishop) to help them reconcile (Phil 4:3). They had actively worked in the gospel ministry alongside Paul (Phil 4:3).",
+        "pt": "Estavam em conflito pessoal entre si (Fp 4:2). Paulo pede a um 'fiel companheiro' (possivelmente Epafrodito ou o bispo da igreja) que as ajude a se reconciliar (Fp 4:3). Tinham trabalhado ativamente no ministério do evangelho ao lado de Paulo (Fp 4:3)."
+      },
+      "significadoTeologico": {
+        "es": "El conflicto entre Evodia y Síntique ilustra la necesidad de aplicar la mente de Cristo (Fil 2:5) a las relaciones interpersonales. Pablo no toma partido, sino que las exhorta a ambas a la reconciliación 'en el Señor', señalando que la unidad cristiana es una exigencia del evangelio, no meramente una preferencia social.",
+        "en": "The conflict between Euodia and Syntyche illustrates the need to apply the mind of Christ (Phil 2:5) to interpersonal relationships. Paul takes no sides but exhorts both to reconciliation 'in the Lord', signaling that Christian unity is a gospel requirement, not merely a social preference.",
+        "pt": "O conflito entre Evódia e Síntique ilustra a necessidade de aplicar a mente de Cristo (Fp 2:5) às relações interpessoais. Paulo não toma partido, mas exorta ambas à reconciliação 'no Senhor', sinalizando que a unidade cristã é uma exigência do evangelho, não meramente uma preferência social."
+      },
+      "tipo": {
+        "es": "No funcionan como tipos cristológicos.",
+        "en": "They do not function as Christological types.",
+        "pt": "Não funcionam como tipos cristológicos."
+      },
+      "caracterMoral": {
+        "es": "Trabajadoras fieles en el evangelio, pero en conflicto personal. Su historia muestra que aun los creyentes maduros y activos en el ministerio pueden caer en disputas que requieren intervención pastoral.",
+        "en": "Faithful workers in the gospel, but in personal conflict. Their story shows that even mature, active ministry workers can fall into disputes requiring pastoral intervention.",
+        "pt": "Trabalhadoras fiéis no evangelho, mas em conflito pessoal. Sua história mostra que mesmo crentes maduros e ativos no ministério podem cair em disputas que requerem intervenção pastoral."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Solo aparecen en Fil 4:2–3. Son las únicas personas mencionadas por nombre en la exhortación final de Pablo a la unidad. Pablo las describe como sus 'colaboradoras' (συνεργοί) en el evangelio, junto con Clemente y otros cuyos nombres están en el libro de la vida.",
+          "en": "They appear only in Phil 4:2–3. They are the only persons mentioned by name in Paul's final exhortation to unity. Paul describes them as his 'fellow workers' (συνεργοί) in the gospel, along with Clement and others whose names are in the book of life.",
+          "pt": "Aparecem apenas em Fp 4:2–3. São as únicas pessoas mencionadas pelo nome na exortação final de Paulo à unidade. Paulo as descreve como suas 'colaboradoras' (συνεργοί) no evangelho, junto com Clemente e outros cujos nomes estão no livro da vida."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Fil 4:2–3"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Son conocidas únicamente a través de Fil 4:2–3. No hay evidencia extracanónica. Sus nombres griegos (Εὐοδία = 'buen viaje'; Σύντυχη = 'buena fortuna') son comunes en el período helenístico. La tradición ha especulado que podrían ser líderes de grupos de casas o diaconisas, dada la mención de epíscopos y diáconos en Fil 1:1.",
+          "en": "They are known only through Phil 4:2–3. There is no extracanonical evidence. Their Greek names (Εὐοδία = 'good journey'; Σύντυχη = 'good fortune') are common in the Hellenistic period. Tradition has speculated they could be house-group leaders or deaconesses, given the mention of overseers and deacons in Phil 1:1.",
+          "pt": "São conhecidas apenas através de Fp 4:2–3. Não há evidência extracanônica. Seus nomes gregos (Εὐοδία = 'boa viagem'; Σύντυχη = 'boa fortuna') são comuns no período helenístico. A tradição especulou que poderiam ser líderes de grupos de casas ou diaconisas, dada a menção de bispos e diáconos em Fp 1:1."
+        },
+        "fuentes": [
+          {
+            "titulo": "Philippians (NICNT)",
+            "autor": "Gordon D. Fee",
+            "año": 1995,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "character study"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El texto confirma su actividad en el evangelio y su conflicto actual, pero no proporciona detalles adicionales. El contexto de la iglesia filipense con mujeres líderes (cf. Lidia en Hch 16:14) hace plausible su rol ministerial activo.",
+          "en": "The text confirms their gospel activity and current conflict, but provides no additional details. The context of the Philippian church with women leaders (cf. Lydia in Acts 16:14) makes their active ministerial role plausible.",
+          "pt": "O texto confirma sua atividade no evangelho e seu conflito atual, mas não fornece detalhes adicionais. O contexto da igreja filipense com mulheres líderes (cf. Lídia em At 16:14) torna plausível seu papel ministerial ativo."
+        }
+      },
+      "versiculosAsociados": [
+        "Fil 4:2–3"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Evodia y Síntique aparecen únicamente en Filipenses y no se las menciona en ningún otro lugar del NT.",
+        "en": "Euodia and Syntyche appear only in Philippians and are not mentioned anywhere else in the NT.",
+        "pt": "Evódia e Síntique aparecem apenas em Filipenses e não são mencionadas em nenhum outro lugar do NT."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "El himno kenótico de Fil 2:6–11 es la declaración cristológica más completa fuera del Evangelio de Juan. Enseña que Cristo preexistía eternamente en 'forma de Dios' (μορφή θεοῦ), que no consideró la igualdad con Dios como algo a retener (ἁρπαγμόν), que se vació a sí mismo asumiendo 'forma de siervo' mediante la encarnación, y que se humilló hasta la muerte de cruz. Por esta obediencia perfecta Dios lo exaltó soberanamente y le confirió el nombre sobre todo nombre, de modo que toda rodilla se doble ante Él (Fil 2:10–11), cumpliendo Is 45:23 — la adoración debida a Yahweh se aplica directamente a Jesús.",
+        "en": "The kenotic hymn of Phil 2:6–11 is the most complete Christological statement outside the Gospel of John. It teaches that Christ preexisted eternally in 'the form of God' (μορφή θεοῦ), that he did not count equality with God as something to grasp (ἁρπαγμόν), that he emptied himself by taking 'the form of a servant' through incarnation, and humbled himself to death on the cross. For this perfect obedience God sovereignly exalted him and bestowed on him the name above all names, so that every knee bows before him (Phil 2:10–11), fulfilling Isa 45:23 — the worship due to Yahweh is applied directly to Jesus.",
+        "pt": "O hino kenótico de Fp 2:6–11 é a declaração cristológica mais completa fora do Evangelho de João. Ensina que Cristo preexistia eternamente na 'forma de Deus' (μορφή θεοῦ), que não considerou a igualdade com Deus como algo a ser retido (ἁρπαγμόν), que se esvaziou tomando 'forma de servo' mediante a encarnação, e que se humilhou até a morte de cruz. Por esta obediência perfeita Deus o exaltou soberanamente e lhe conferiu o nome acima de todo nome, de modo que todo joelho se dobre diante dele (Fp 2:10–11), cumprindo Is 45:23 — a adoração devida a Yahweh é aplicada diretamente a Jesus."
+      },
+      "pasajes": [
+        "Fil 2:6",
+        "Fil 2:7–8",
+        "Fil 2:9–11",
+        "Fil 3:20–21"
+      ],
+      "ensenanza": {
+        "es": "Cristo subsistía en forma de Dios antes de la encarnación, afirmando su divinidad eterna · La kénosis consistió en asumir la naturaleza humana como siervo, no en renunciar a la divinidad · La exaltación universal de Cristo como Señor (κύριος) aplica a Jesús el nombre divino de Is 45:23 · Cristo vendrá como Salvador-Rey que transformará los cuerpos mortales a semejanza de su cuerpo glorificado",
+        "en": "Christ subsisted in the form of God before the incarnation, affirming his eternal divinity · The kenosis consisted in assuming human nature as a servant, not in relinquishing divinity · The universal exaltation of Christ as Lord (κύριος) applies the divine name of Isa 45:23 to Jesus · Christ will come as Savior-King who will transform mortal bodies into the likeness of his glorified body",
+        "pt": "Cristo subsistia na forma de Deus antes da encarnação, afirmando sua divindade eterna · A kenose consistiu em assumir a natureza humana como servo, não em renunciar à divindade · A exaltação universal de Cristo como Senhor (κύριος) aplica a Jesus o nome divino de Is 45:23 · Cristo virá como Salvador-Rei que transformará os corpos mortais à semelhança de seu corpo glorificado"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada afirma con Calcedonia que la kénosis no implicó pérdida de atributos divinos sino la adición de la naturaleza humana. El Hijo eternamente preexistente se hizo obediente hasta la muerte de cruz (Fil 2:8) como la perfecta obediencia activa y pasiva que es imputada al creyente (Fil 3:9), haciendo del himno el fundamento cristológico de la doctrina de la justificación.",
+        "en": "Reformed theology affirms with Chalcedon that the kenosis did not involve loss of divine attributes but the addition of human nature. The eternally preexistent Son became obedient to the point of death on a cross (Phil 2:8) as the perfect active and passive obedience imputed to the believer (Phil 3:9), making the hymn the Christological foundation of the doctrine of justification.",
+        "pt": "A teologia reformada afirma com Calcedônia que a kenose não envolveu perda de atributos divinos, mas a adição da natureza humana. O Filho eternamente preexistente tornou-se obediente até à morte de cruz (Fp 2:8) como a perfeita obediência ativa e passiva imputada ao crente (Fp 3:9), fazendo do hino o fundamento cristológico da doutrina da justificação."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "Filipenses contiene una de las declaraciones más nítidas de la justificación por la fe de todo el canon. En Fil 3:4–9, Pablo enumera todas sus credenciales religiosas judías (circuncisión, tribu de Benjamín, fariseo, celador de la ley, irreprensible) y las declara 'pérdida' y 'basura' (σκύβαλα) en comparación con ganar a Cristo. El objetivo es 'ser hallado en él, no teniendo mi propia justicia, la que procede de la ley, sino la que es por la fe en Cristo, la justicia que procede de Dios sobre la base de la fe' (Fil 3:9). Esta es justicia forense imputada, recibida por la fe sola, no por obras de la ley.",
+        "en": "Philippians contains one of the clearest statements of justification by faith in the entire canon. In Phil 3:4–9, Paul enumerates all his Jewish religious credentials (circumcision, tribe of Benjamin, Pharisee, zealous for the law, blameless) and declares them 'loss' and 'rubbish' (σκύβαλα) compared to gaining Christ. The goal is 'to be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith' (Phil 3:9). This is forensic imputed righteousness, received by faith alone, not by works of the law.",
+        "pt": "Filipenses contém uma das declarações mais claras da justificação pela fé em todo o cânon. Em Fp 3:4–9, Paulo enumera todas as suas credenciais religiosas judaicas (circuncisão, tribo de Benjamim, fariseu, zeloso pela lei, irrepreensível) e as declara 'perda' e 'lixo' (σκύβαλα) em comparação com ganhar a Cristo. O objetivo é 'ser achado nele, não tendo justiça própria, a que vem da lei, mas a que vem pela fé em Cristo, a justiça que vem de Deus mediante a fé' (Fp 3:9). Esta é justiça forense imputada, recebida pela fé somente, não pelas obras da lei."
+      },
+      "pasajes": [
+        "Fil 3:7–8",
+        "Fil 3:9",
+        "Fil 1:29",
+        "Fil 2:12–13"
+      ],
+      "ensenanza": {
+        "es": "Todo privilegio religioso humano es pérdida frente a la excelencia de conocer a Cristo · La justicia que salva es extrínseca al creyente: procede de Dios sobre la base de la fe en Cristo · La fe misma es concedida por gracia como don de Dios a favor de Cristo · Dios opera en el creyente el querer y el hacer según su beneplácito, fundamentando la obra de santificación en la soberanía divina",
+        "en": "Every human religious privilege is loss compared to the surpassing worth of knowing Christ · The righteousness that saves is extrinsic to the believer: it comes from God on the basis of faith in Christ · Faith itself is granted by grace as God's gift on behalf of Christ · God works in the believer both the willing and the doing according to his good pleasure, grounding sanctification in divine sovereignty",
+        "pt": "Todo privilégio religioso humano é perda em comparação com a excelência de conhecer a Cristo · A justiça que salva é extrínseca ao crente: vem de Deus com base na fé em Cristo · A própria fé é concedida pela graça como dom de Deus em favor de Cristo · Deus opera no crente o querer e o fazer segundo seu beneplácito, fundamentando a obra de santificação na soberania divina"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada identifica Fil 3:9 como uno de los textos canónicos clave para la justificación forense: la justicia de Cristo es imputada al creyente mediante la fe sola, no infundida mediante el sacramento. La distinción entre 'mi propia justicia de la ley' y 'la justicia de Dios por la fe' es el corazón de la Reforma y el punto de ruptura con Roma.",
+        "en": "Reformed theology identifies Phil 3:9 as one of the key canonical texts for forensic justification: Christ's righteousness is imputed to the believer through faith alone, not infused through the sacrament. The distinction between 'my own righteousness from the law' and 'the righteousness from God through faith' is the heart of the Reformation and the point of rupture with Rome.",
+        "pt": "A teologia reformada identifica Fp 3:9 como um dos textos canônicos chave para a justificação forense: a justiça de Cristo é imputada ao crente mediante a fé somente, não infundida pelo sacramento. A distinção entre 'minha própria justiça da lei' e 'a justiça que vem de Deus pela fé' é o coração da Reforma e o ponto de ruptura com Roma."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "Filipenses enseña una teología robusta de la santificación como proceso progresivo ('occupad en vuestra salvación con temor y temblor', Fil 2:12) que es simultáneamente obra soberana de Dios ('porque Dios es quien obra en vosotros el querer y el hacer', Fil 2:13). Pablo se presenta como ejemplo de alguien que 'no ha llegado a la meta' (Fil 3:12) sino que olvida lo que queda atrás y se extiende hacia la meta del 'supremo llamamiento de Dios en Cristo Jesús' (Fil 3:13–14). La santificación implica el conocimiento progresivo de Cristo (Fil 3:10) y la conformidad a su muerte y resurrección.",
+        "en": "Philippians teaches a robust theology of sanctification as a progressive process ('work out your own salvation with fear and trembling', Phil 2:12) that is simultaneously God's sovereign work ('for it is God who works in you, both to will and to work for his good pleasure', Phil 2:13). Paul presents himself as an example of someone who has 'not yet arrived' (Phil 3:12) but forgets what lies behind and strains forward toward the goal of 'the upward call of God in Christ Jesus' (Phil 3:13–14). Sanctification involves progressive knowledge of Christ (Phil 3:10) and conformity to his death and resurrection.",
+        "pt": "Filipenses ensina uma teologia robusta da santificação como processo progressivo ('ocupai-vos com a vossa salvação com temor e tremor', Fp 2:12) que é simultaneamente obra soberana de Deus ('porque Deus é quem opera em vós o querer e o realizar', Fp 2:13). Paulo apresenta-se como exemplo de alguém que 'ainda não chegou à meta' (Fp 3:12), mas esquece o que fica para trás e se estende para a meta do 'supremo chamado de Deus em Cristo Jesus' (Fp 3:13–14). A santificação envolve o conhecimento progressivo de Cristo (Fp 3:10) e a conformidade com sua morte e ressurreição."
+      },
+      "pasajes": [
+        "Fil 2:12–13",
+        "Fil 3:10–12",
+        "Fil 3:13–14",
+        "Fil 4:8–9"
+      ],
+      "ensenanza": {
+        "es": "La salvación tiene una dimensión activa que el creyente debe trabajar con reverencia y dependencia de Dios · Dios opera soberanamente en el creyente tanto el deseo como el poder de hacer su voluntad · Conocer a Cristo en el poder de su resurrección y la comunión de sus padecimientos es el núcleo de la santificación paulina · La renovación de la mente mediante meditación en lo verdadero, honesto, justo y puro produce la paz de Dios",
+        "en": "Salvation has an active dimension that the believer must work out with reverence and dependence on God · God sovereignly works in the believer both the desire and the power to do his will · Knowing Christ in the power of his resurrection and the fellowship of his sufferings is the core of Pauline sanctification · Renewal of the mind through meditation on what is true, honorable, just, and pure produces the peace of God",
+        "pt": "A salvação tem uma dimensão ativa que o crente deve trabalhar com reverência e dependência de Deus · Deus opera soberanamente no crente tanto o desejo quanto o poder de fazer sua vontade · Conhecer a Cristo no poder de sua ressurreição e a comunhão dos seus sofrimentos é o núcleo da santificação paulina · A renovação da mente mediante meditação no que é verdadeiro, honesto, justo e puro produz a paz de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada lee Fil 2:12–13 como la expresión canónica más precisa de la synergía reformada: el esfuerzo humano en la santificación no es autónomo sino sostenido y activado por la gracia irresistible de Dios. La tensión entre el imperativo ('obrad') y el indicativo ('Dios obra') no es contradicción sino el corazón de la gracia perseverante.",
+        "en": "Reformed theology reads Phil 2:12–13 as the most precise canonical expression of Reformed synergy: human effort in sanctification is not autonomous but sustained and activated by God's irresistible grace. The tension between the imperative ('work out') and the indicative ('God works') is not a contradiction but the heart of persevering grace.",
+        "pt": "A teologia reformada lê Fp 2:12–13 como a expressão canônica mais precisa da synergia reformada: o esforço humano na santificação não é autônomo, mas sustentado e ativado pela graça irresistível de Deus. A tensão entre o imperativo ('realizai') e o indicativo ('Deus opera') não é contradição, mas o coração da graça perseverante."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "La escatología de Filipenses es tanto personal como cósmica. Personalmente, Pablo contempla la muerte como 'ganancia' y 'partir y estar con Cristo' como lo mejor (Fil 1:21–23), estableciendo la esperanza de la presencia consciente con Cristo inmediatamente después de la muerte. Cosmológicamente, los creyentes son ciudadanos de un 'politeuma' celestial (Fil 3:20) desde el cual vendrá el Señor Jesucristo como Salvador, quien transformará el cuerpo de nuestra humillación para que sea 'conforme al cuerpo de su gloria' (Fil 3:21) mediante el poder de su resurrección. La venida del Señor es inminente ('el Señor está cerca', Fil 4:5).",
+        "en": "The eschatology of Philippians is both personal and cosmic. Personally, Paul contemplates death as 'gain' and 'departing and being with Christ' as the best outcome (Phil 1:21–23), establishing the hope of conscious presence with Christ immediately after death. Cosmologically, believers are citizens of a heavenly 'politeuma' (Phil 3:20) from which the Lord Jesus Christ will come as Savior, who will transform the body of our humiliation to be 'conformed to his glorious body' (Phil 3:21) by the power of his resurrection. The Lord's coming is imminent ('the Lord is at hand', Phil 4:5).",
+        "pt": "A escatologia de Filipenses é tanto pessoal quanto cósmica. Pessoalmente, Paulo contempla a morte como 'ganho' e 'partir e estar com Cristo' como o melhor resultado (Fp 1:21–23), estabelecendo a esperança de presença consciente com Cristo imediatamente após a morte. Cosmologicamente, os crentes são cidadãos de um 'politeuma' celestial (Fp 3:20) de onde o Senhor Jesus Cristo virá como Salvador, que transformará o corpo de nossa humilhação para ser 'conformado ao corpo de sua glória' (Fp 3:21) pelo poder de sua ressurreição. A vinda do Senhor é iminente ('o Senhor está próximo', Fp 4:5)."
+      },
+      "pasajes": [
+        "Fil 1:21–23",
+        "Fil 3:20–21",
+        "Fil 4:5"
+      ],
+      "ensenanza": {
+        "es": "La muerte para el creyente es partir para estar con Cristo, lo cual es muchísimo mejor que permanecer en la carne · Los creyentes tienen su ciudadanía en el cielo y aguardan a Cristo como Salvador que viene · Cristo transformará los cuerpos mortales a semejanza de su cuerpo glorificado · La inminencia de la venida del Señor fundamenta la ecuanimidad y el gozo cristiano en el presente",
+        "en": "Death for the believer is departing to be with Christ, which is far better than remaining in the flesh · Believers have their citizenship in heaven and await Christ as the coming Savior · Christ will transform mortal bodies into the likeness of his glorified body · The imminence of the Lord's coming grounds Christian equanimity and joy in the present",
+        "pt": "A morte para o crente é partir para estar com Cristo, o que é muito melhor do que permanecer na carne · Os crentes têm sua cidadania no céu e aguardam Cristo como Salvador que vem · Cristo transformará os corpos mortais à semelhança de seu corpo glorificado · A iminência da vinda do Senhor fundamenta a equanimidade e a alegria cristã no presente"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada entiende Fil 1:23 como confirmación del estado intermedio consciente ('estar con Cristo'). La transformación corporal de Fil 3:21 es la base escritural de la resurrección corporal futura, no una espiritualización de la salvación. El 'politeuma' celestial refuerza la doctrina de la ciudadanía del creyente ya inaugurada en Cristo.",
+        "en": "Reformed theology understands Phil 1:23 as confirmation of the conscious intermediate state ('being with Christ'). The bodily transformation of Phil 3:21 is the scriptural basis for future bodily resurrection, not a spiritualization of salvation. The heavenly 'politeuma' reinforces the doctrine of the believer's citizenship already inaugurated in Christ.",
+        "pt": "A teologia reformada entende Fp 1:23 como confirmação do estado intermediário consciente ('estar com Cristo'). A transformação corporal de Fp 3:21 é a base escritural para a futura ressurreição corporal, não uma espiritualização da salvação. O 'politeuma' celestial reforça a doutrina da cidadania do crente já inaugurada em Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "Filipenses presenta la imagen más cálida de la relación entre Pablo y una iglesia local. La carta se dirige a 'todos los santos en Cristo Jesús que están en Filipos, junto con los obispos y diáconos' (Fil 1:1), lo que es la mención más temprana de cargos eclesiásticos en el NT. La 'koinōnía' (comunión, participación) es el concepto rector: participación en el evangelio (Fil 1:5), en los sufrimientos de Pablo (Fil 4:14), en dar y recibir (Fil 4:15). La unidad de mente es la exhortación dominante (Fil 2:2; Fil 4:2), y el modelo de esa unidad es la humillación de Cristo (Fil 2:5–8).",
+        "en": "Philippians presents the warmest image of the relationship between Paul and a local church. The letter is addressed to 'all the saints in Christ Jesus who are at Philippi, with the overseers and deacons' (Phil 1:1), which is the earliest mention of church offices in the NT. 'Koinōnia' (fellowship, participation) is the governing concept: participation in the gospel (Phil 1:5), in Paul's sufferings (Phil 4:14), in giving and receiving (Phil 4:15). Unity of mind is the dominant exhortation (Phil 2:2; Phil 4:2), and the model for that unity is Christ's humiliation (Phil 2:5–8).",
+        "pt": "Filipenses apresenta a imagem mais calorosa da relação entre Paulo e uma igreja local. A carta é dirigida a 'todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos' (Fp 1:1), que é a menção mais antiga de cargos eclesiásticos no NT. A 'koinōnia' (comunhão, participação) é o conceito orientador: participação no evangelho (Fp 1:5), nos sofrimentos de Paulo (Fp 4:14), no dar e receber (Fp 4:15). A unidade de mente é a exortação dominante (Fp 2:2; Fp 4:2), e o modelo dessa unidade é a humilhação de Cristo (Fp 2:5–8)."
+      },
+      "pasajes": [
+        "Fil 1:1",
+        "Fil 1:5",
+        "Fil 2:1–4",
+        "Fil 4:2–3"
+      ],
+      "ensenanza": {
+        "es": "La iglesia local tiene estructura con obispos y diáconos desde los primeros tiempos apostólicos · La koinōnía es la forma de vida de la iglesia: participación compartida en el evangelio y en el sufrimiento · La unidad de mente en la iglesia tiene como modelo y motivo la humillación voluntaria de Cristo · Los conflictos personales entre líderes deben resolverse 'en el Señor', no mediante diplomacia meramente humana",
+        "en": "The local church has structure with overseers and deacons from the earliest apostolic times · Koinōnia is the church's way of life: shared participation in the gospel and in suffering · Unity of mind in the church is modeled and motivated by Christ's voluntary humiliation · Personal conflicts between leaders must be resolved 'in the Lord', not through merely human diplomacy",
+        "pt": "A igreja local tem estrutura com bispos e diáconos desde os primeiros tempos apostólicos · A koinōnia é o modo de vida da igreja: participação compartilhada no evangelho e no sofrimento · A unidade de mente na igreja tem como modelo e motivo a humilhação voluntária de Cristo · Os conflitos pessoais entre líderes devem ser resolvidos 'no Senhor', não mediante diplomacia meramente humana"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada usa Fil 1:1 como evidencia de que el gobierno episcopal y diaconal es de institución apostólica. La koinōnía de la iglesia filipense con Pablo en su ministerio ilustra el principio reformado de que la iglesia visible participa activamente en el avance del evangelio mediante la oración, el sostenimiento económico y el envío de colaboradores.",
+        "en": "Reformed theology uses Phil 1:1 as evidence that episcopal and diaconal governance is of apostolic institution. The Philippian church's koinōnia with Paul in his ministry illustrates the Reformed principle that the visible church actively participates in the advance of the gospel through prayer, financial support, and the sending of co-workers.",
+        "pt": "A teologia reformada usa Fp 1:1 como evidência de que o governo episcopal e diaconal é de instituição apostólica. A koinōnia da igreja filipense com Paulo em seu ministério ilustra o princípio reformado de que a igreja visível participa ativamente do avanço do evangelho mediante oração, sustento financeiro e envio de colaboradores."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "El capítulo 8 de la Confesión de Westminster enseña que el Hijo de Dios, la segunda persona de la Trinidad, asumió la naturaleza humana sin pecado, siendo el único Mediador entre Dios y los hombres. El himno kenótico de Filipenses (Fil 2:6–11) es el texto bíblico más directo sobre la preexistencia divina, la encarnación humillante y la exaltación soberana de Cristo que fundamenta el capítulo 8. La obediencia perfecta de Cristo hasta la muerte de cruz es la base de la justicia imputada al creyente.",
+        "en": "Chapter 8 of the Westminster Confession teaches that the Son of God, the second person of the Trinity, assumed sinless human nature as the only Mediator between God and man. The kenotic hymn of Philippians (Phil 2:6–11) is the most direct biblical text on Christ's divine preexistence, humiliating incarnation, and sovereign exaltation that underlies Chapter 8. Christ's perfect obedience to death on the cross is the basis of the righteousness imputed to the believer.",
+        "pt": "O capítulo 8 da Confissão de Westminster ensina que o Filho de Deus, a segunda pessoa da Trindade, assumiu a natureza humana sem pecado como o único Mediador entre Deus e os homens. O hino kenótico de Filipenses (Fp 2:6–11) é o texto bíblico mais direto sobre a preexistência divina, a encarnação humilhante e a exaltação soberana de Cristo que fundamenta o capítulo 8. A obediência perfeita de Cristo até a morte de cruz é a base da justiça imputada ao crente."
+      },
+      "genesis": [
+        "Fil 2:6",
+        "Fil 2:7",
+        "Fil 2:8",
+        "Fil 2:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    },
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Justificación",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "El capítulo 11 de la Confesión de Westminster enseña que Dios justifica libremente a los elegidos no por ninguna cosa obrada en ellos ni hecha por ellos, sino solamente por imputarles la obediencia y satisfacción de Cristo, recibiéndola por la fe sola. Filipenses 3:9 es el texto central: 'hallado en él, no teniendo mi propia justicia, la que procede de la ley, sino la que es por la fe en Cristo, la justicia que procede de Dios sobre la base de la fe.'",
+        "en": "Chapter 11 of the Westminster Confession teaches that God freely justifies the elect not by anything wrought in them or done by them, but only by imputing Christ's obedience and satisfaction to them, received through faith alone. Philippians 3:9 is the central text: 'found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith.'",
+        "pt": "O capítulo 11 da Confissão de Westminster ensina que Deus justifica livremente os eleitos não por nada que seja operado neles ou feito por eles, mas somente pela imputação da obediência e satisfação de Cristo, recebida pela fé somente. Filipenses 3:9 é o texto central: 'achado nele, não tendo justiça própria, a que vem da lei, mas a que vem pela fé em Cristo, a justiça que vem de Deus mediante a fé.'"
+      },
+      "genesis": [
+        "Fil 3:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    },
+    {
+      "cap": "Cap. 13",
+      "titulo": {
+        "es": "De la Santificación",
+        "en": "Of Sanctification",
+        "pt": "Da Santificação"
+      },
+      "doctrinas": [
+        "Santificación"
+      ],
+      "resumen": {
+        "es": "El capítulo 13 de la Confesión de Westminster afirma que los regenerados son santificados progresivamente, siendo el dominio del pecado destruido y las pasiones pecaminosas cada vez más debilitadas por la gracia del Espíritu, aunque la santificación sea imperfecta en esta vida. Filipenses articula esta doctrina en la tensión entre el imperativo ('obrad vuestra salvación', Fil 2:12) y el indicativo divino ('Dios es quien obra en vosotros', Fil 2:13), y en el ejemplo de Pablo como corredor que aún no ha llegado a la meta (Fil 3:12–14).",
+        "en": "Chapter 13 of the Westminster Confession affirms that the regenerate are progressively sanctified, the dominion of sin being destroyed and sinful lusts increasingly weakened by the Spirit's grace, though sanctification is imperfect in this life. Philippians articulates this doctrine in the tension between the imperative ('work out your salvation', Phil 2:12) and the divine indicative ('God is at work in you', Phil 2:13), and in Paul's example as a runner who has not yet reached the goal (Phil 3:12–14).",
+        "pt": "O capítulo 13 da Confissão de Westminster afirma que os regenerados são santificados progressivamente, sendo o domínio do pecado destruído e as paixões pecaminosas cada vez mais enfraquecidas pela graça do Espírito, embora a santificação seja imperfeita nesta vida. Filipenses articula esta doutrina na tensão entre o imperativo ('realizai a vossa salvação', Fp 2:12) e o indicativo divino ('Deus é quem opera em vós', Fp 2:13), e no exemplo de Paulo como corredor que ainda não chegou à meta (Fp 3:12–14)."
+      },
+      "genesis": [
+        "Fil 2:12",
+        "Fil 2:13",
+        "Fil 3:12",
+        "Fil 3:14"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-13"
+    },
+    {
+      "cap": "Cap. 32",
+      "titulo": {
+        "es": "Del Estado del Hombre después de la Muerte y de la Resurrección",
+        "en": "Of the State of Men After Death, and of the Resurrection",
+        "pt": "Do Estado do Homem após a Morte e da Ressurreição"
+      },
+      "doctrinas": [
+        "Escatología"
+      ],
+      "resumen": {
+        "es": "El capítulo 32 de la Confesión de Westminster enseña que las almas de los justos son recibidas al paraíso donde están con Cristo inmediatamente tras la muerte, y que en la última resurrección todos serán levantados con sus cuerpos para ser juzgados. Filipenses aporta dos textos fundamentales: el estado intermedio ('partir y estar con Cristo', Fil 1:23) y la transformación del cuerpo de humillación al cuerpo de gloria en la parusía (Fil 3:20–21).",
+        "en": "Chapter 32 of the Westminster Confession teaches that the souls of the righteous are received into paradise where they are with Christ immediately after death, and that at the last resurrection all will be raised in their bodies to be judged. Philippians contributes two foundational texts: the intermediate state ('departing and being with Christ', Phil 1:23) and the transformation of the body of humiliation into the body of glory at the parousia (Phil 3:20–21).",
+        "pt": "O capítulo 32 da Confissão de Westminster ensina que as almas dos justos são recebidas no paraíso onde estão com Cristo imediatamente após a morte, e que na última ressurreição todos serão levantados com seus corpos para serem julgados. Filipenses contribui com dois textos fundamentais: o estado intermediário ('partir e estar com Cristo', Fp 1:23) e a transformação do corpo de humilhação em corpo de glória na parusia (Fp 3:20–21)."
+      },
+      "genesis": [
+        "Fil 1:23",
+        "Fil 3:20",
+        "Fil 3:21"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-32"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Fil 1:21",
+      "es": "porque para mí el vivir es Cristo, y el morir es ganancia.",
+      "en": "For to me to live is Christ, and to die is gain.",
+      "pt": "porque para mim o viver é Cristo e o morrer é ganho.",
+      "nota": {
+        "es": "Esta es la declaración más densa de la teología de la unión con Cristo en todo el NT. 'Vivir es Cristo' no es una metáfora de devoción sino una afirmación ontológica: la vida del creyente es constitutivamente cristocéntrica. 'Morir es ganancia' porque la muerte no separa del Señor sino que intensifica la comunión con Él (Fil 1:23). Es el fundamento de toda la teología del gozo en el sufrimiento que estructura la carta.",
+        "en": "This is the densest statement of union with Christ theology in the entire NT. 'To live is Christ' is not a metaphor of devotion but an ontological affirmation: the believer's life is constitutively Christocentric. 'To die is gain' because death does not separate from the Lord but intensifies communion with him (Phil 1:23). It is the foundation of the entire theology of joy in suffering that structures the letter.",
+        "pt": "Esta é a declaração mais densa da teologia da união com Cristo em todo o NT. 'Viver é Cristo' não é uma metáfora de devoção, mas uma afirmação ontológica: a vida do crente é constitutivamente cristocêntrica. 'Morrer é ganho' porque a morte não separa do Senhor, mas intensifica a comunhão com Ele (Fp 1:23). É o fundamento de toda a teologia da alegria no sofrimento que estrutura a carta."
+      }
+    },
+    {
+      "ref": "Fil 2:6–8",
+      "es": "el cual, aunque existía en forma de Dios, no consideró el ser igual a Dios como algo a qué aferrarse, sino que se despojó a sí mismo tomando forma de siervo, haciéndose semejante a los hombres. Y hallándose en forma de hombre, se humilló a sí mismo, haciéndose obediente hasta la muerte, y muerte de cruz.",
+      "en": "who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.",
+      "pt": "o qual, sendo em forma de Deus, não teve por usurpação ser igual a Deus, mas esvaziou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens; e, sendo achado em forma de homem, humilhou-se a si mesmo, tornando-se obediente até à morte e morte de cruz.",
+      "nota": {
+        "es": "El himno kenótico es el texto cristológico más citado de las epístolas paulinas. 'Forma de Dios' (μορφή θεοῦ) indica la naturaleza y esencia divina, no meramente apariencia. La 'kénosis' (vaciamiento) no fue pérdida de la deidad sino adición de la humanidad. La obediencia hasta la muerte de cruz es la base de la justicia imputada (Fil 3:9) y el modelo de la ética cristiana (Fil 2:5).",
+        "en": "The kenotic hymn is the most cited Christological text in the Pauline epistles. 'Form of God' (μορφή θεοῦ) indicates divine nature and essence, not merely appearance. The 'kenosis' (emptying) was not a loss of deity but an addition of humanity. Obedience to the point of death on the cross is the basis of imputed righteousness (Phil 3:9) and the model of Christian ethics (Phil 2:5).",
+        "pt": "O hino kenótico é o texto cristológico mais citado das epístolas paulinas. 'Forma de Deus' (μορφή θεοῦ) indica a natureza e essência divina, não meramente aparência. A 'kenose' (esvaziamento) não foi perda da divindade, mas adição da humanidade. A obediência até à morte de cruz é a base da justiça imputada (Fp 3:9) e o modelo da ética cristã (Fp 2:5)."
+      }
+    },
+    {
+      "ref": "Fil 3:9",
+      "es": "y ser hallado en Él, no teniendo mi propia justicia derivada de la ley, sino la que es por la fe en Cristo, la justicia que procede de Dios sobre la base de la fe,",
+      "en": "and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith—",
+      "pt": "e ser achado nele, não tendo a minha própria justiça, que vem da lei, mas a que vem pela fé em Cristo, a justiça que vem de Deus pela fé,",
+      "nota": {
+        "es": "Este versículo es el centro de gravedad soteriológico de la carta y uno de los textos cardinales de la doctrina de la justificación forense. La distinción entre 'mi propia justicia' (inherente, de la ley) y 'la justicia de Dios' (imputada, por la fe) es el corazón de la controversia entre la Reforma y Roma. La frase 'hallado en Él' evoca la doctrina de la unión con Cristo como el contexto en el que la justicia de Cristo se aplica al creyente.",
+        "en": "This verse is the soteriological center of gravity of the letter and one of the cardinal texts of forensic justification. The distinction between 'my own righteousness' (inherent, from the law) and 'the righteousness from God' (imputed, through faith) is the heart of the controversy between the Reformation and Rome. The phrase 'found in him' evokes the doctrine of union with Christ as the context in which Christ's righteousness is applied to the believer.",
+        "pt": "Este versículo é o centro de gravidade soteriológico da carta e um dos textos cardinais da doutrina da justificação forense. A distinção entre 'minha própria justiça' (inerente, da lei) e 'a justiça que vem de Deus' (imputada, pela fé) é o coração da controvérsia entre a Reforma e Roma. A frase 'achado nele' evoca a doutrina da união com Cristo como o contexto em que a justiça de Cristo é aplicada ao crente."
+      }
+    },
+    {
+      "ref": "Fil 4:7",
+      "es": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestras mentes en Cristo Jesús.",
+      "en": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.",
+      "pt": "e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus.",
+      "nota": {
+        "es": "La paz de Dios que 'sobrepasa todo entendimiento' no es paz subjetiva sino la shalom objetiva de Dios que actúa como guardia militar sobre el corazón y la mente. Es la consecuencia prometida de la oración ansiosa transformada en acción de gracias (Fil 4:6). La locución 'en Cristo Jesús' señala que esta paz es efecto de la unión con Cristo, no de la disciplina mental autónoma.",
+        "en": "The peace of God that 'surpasses all understanding' is not subjective peace but God's objective shalom that acts as a military guard over heart and mind. It is the promised consequence of anxious prayer transformed into thanksgiving (Phil 4:6). The phrase 'in Christ Jesus' indicates that this peace is the effect of union with Christ, not of autonomous mental discipline.",
+        "pt": "A paz de Deus que 'excede todo o entendimento' não é paz subjetiva, mas o shalom objetivo de Deus que age como guarda militar sobre o coração e a mente. É a consequência prometida da oração ansiosa transformada em ação de graças (Fp 4:6). A locução 'em Cristo Jesus' indica que esta paz é efeito da união com Cristo, não da disciplina mental autônoma."
+      }
+    },
+    {
+      "ref": "Fil 4:13",
+      "es": "Todo lo puedo en Cristo que me fortalece.",
+      "en": "I can do all things through him who strengthens me.",
+      "pt": "Posso tudo naquele que me fortalece.",
+      "nota": {
+        "es": "Contrariamente al uso popular, este versículo no es una promesa de poder ilimitado para cualquier empresa humana, sino la conclusión de la enseñanza sobre el contentamiento aprendido (Fil 4:11–12). Pablo puede sobrellevar la abundancia y la necesidad, el honor y la ignominia, 'en Cristo'. La suficiencia es de Cristo que fortalece ('me fortalece', ἐνδυναμοῦντι), no del creyente que accede a un recurso espiritual disponible.",
+        "en": "Contrary to popular usage, this verse is not a promise of unlimited power for any human enterprise, but the conclusion of the teaching on learned contentment (Phil 4:11–12). Paul can bear both abundance and need, honor and ignominy, 'in Christ.' The sufficiency belongs to Christ who strengthens ('strengthens me', ἐνδυναμοῦντι), not to the believer who accesses an available spiritual resource.",
+        "pt": "Contrariamente ao uso popular, este versículo não é uma promessa de poder ilimitado para qualquer empreendimento humano, mas a conclusão do ensino sobre o contentamento aprendido (Fp 4:11–12). Paulo pode suportar tanto a abundância quanto a necessidade, a honra e a ignomínia, 'em Cristo'. A suficiência é de Cristo que fortalece ('me fortalece', ἐνδυναμοῦντι), não do crente que acessa um recurso espiritual disponível."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "Filipenses es una cantera inagotable de distintivas reformadas: (1) La kénosis de Fil 2:6–11 fundamenta la cristología calcedoniana de dos naturalezas sin confusión; (2) Fil 3:9 es el texto Paulino más conciso de la justificación forense por imputación; (3) Fil 2:12–13 enseña la colaboración entre el esfuerzo humano y la gracia soberana sin pelagianismo ni antinomianismo; (4) la doctrina del contentamiento aprendido (Fil 4:11–13) refleja la soberanía providencial de Dios sobre todas las circunstancias; (5) la esperanza de ciudadanía celestial (Fil 3:20) ancla la escatología reformada en la parusía corporal de Cristo.",
+    "en": "Philippians is an inexhaustible quarry of Reformed distinctives: (1) The kenosis of Phil 2:6–11 grounds Chalcedonian two-natures Christology without confusion; (2) Phil 3:9 is the most concise Pauline text of forensic justification by imputation; (3) Phil 2:12–13 teaches the collaboration between human effort and sovereign grace without Pelagianism or antinomianism; (4) the doctrine of learned contentment (Phil 4:11–13) reflects God's providential sovereignty over all circumstances; (5) the hope of heavenly citizenship (Phil 3:20) anchors Reformed eschatology in the bodily parousia of Christ.",
+    "pt": "Filipenses é uma pedreira inesgotável de distintivos reformados: (1) A kenose de Fp 2:6–11 fundamenta a cristologia calcedônica de duas naturezas sem confusão; (2) Fp 3:9 é o texto paulino mais conciso da justificação forense por imputação; (3) Fp 2:12–13 ensina a colaboração entre o esforço humano e a graça soberana sem pelagianismo nem antinomianismo; (4) a doutrina do contentamento aprendido (Fp 4:11–13) reflete a soberania providencial de Deus sobre todas as circunstâncias; (5) a esperança de cidadania celestial (Fp 3:20) ancora a escatologia reformada na parusia corporal de Cristo."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Acción de gracias y gozo en prisión",
+        "en": "Thanksgiving and Joy in Prison",
+        "pt": "Ação de graças e alegria na prisão"
+      },
+      "descripcion": {
+        "es": "Pablo abre la carta con acción de gracias por la participación ('koinōnía') de los filipenses en el evangelio desde el primer día hasta el presente (Fil 1:3–5), confiado en que Dios completará la obra comenzada en ellos (Fil 1:6). Intercede por su amor creciente y discernimiento (Fil 1:9–11). Luego describe cómo su encarcelamiento ha servado para el avance del evangelio: el pretorio y todos los demás han conocido que sus cadenas son por Cristo (Fil 1:12–13), y los hermanos se han animado a hablar la palabra con valentía (Fil 1:14). Aunque algunos predican a Cristo con envidia, Pablo se goza porque Cristo es proclamado (Fil 1:15–18). Expone su dilema existencial: vivir es Cristo, morir es ganancia; preferiría partir pero el quedarse es necesario para los filipenses (Fil 1:21–26). Los exhorta a vivir dignamente del evangelio sin intimidarse por los adversarios (Fil 1:27–30).",
+        "en": "Paul opens the letter with thanksgiving for the Philippians' participation ('koinōnia') in the gospel from the first day until now (Phil 1:3–5), confident that God will complete the work begun in them (Phil 1:6). He intercedes for their growing love and discernment (Phil 1:9–11). He then describes how his imprisonment has served to advance the gospel: the praetorium and all the rest have come to know that his chains are for Christ (Phil 1:12–13), and the brothers have been emboldened to speak the word courageously (Phil 1:14). Though some preach Christ from envy, Paul rejoices because Christ is proclaimed (Phil 1:15–18). He articulates his existential dilemma: to live is Christ, to die is gain; he would prefer to depart but remaining is necessary for the Philippians (Phil 1:21–26). He exhorts them to live worthily of the gospel without being frightened by adversaries (Phil 1:27–30).",
+        "pt": "Paulo abre a carta com ação de graças pela participação ('koinōnia') dos filipenses no evangelho desde o primeiro dia até agora (Fp 1:3–5), confiante de que Deus completará a obra começada neles (Fp 1:6). Intercede pelo crescimento do amor e discernimento deles (Fp 1:9–11). Em seguida, descreve como seu encarceramento serviu para o avanço do evangelho: o pretório e todos os demais souberam que suas cadeias são por Cristo (Fp 1:12–13), e os irmãos foram encorajados a falar a palavra com ousadia (Fp 1:14). Embora alguns preguem a Cristo com inveja, Paulo se alegra porque Cristo é proclamado (Fp 1:15–18). Expõe seu dilema existencial: viver é Cristo, morrer é ganho; preferiria partir, mas permanecer é necessário para os filipenses (Fp 1:21–26). Os exorta a viver dignamente do evangelho sem se intimidar com os adversários (Fp 1:27–30)."
+      },
+      "eventoClave": {
+        "es": "Pablo declara que su encarcelamiento ha resultado en el avance del evangelio (Fil 1:12), invirtiendo la perspectiva humana sobre el sufrimiento: lo que parece derrota es providencialmente instrumento de la misión.",
+        "en": "Paul declares that his imprisonment has resulted in the advance of the gospel (Phil 1:12), inverting the human perspective on suffering: what appears to be defeat is providentially an instrument of mission.",
+        "pt": "Paulo declara que seu encarceramento resultou no avanço do evangelho (Fp 1:12), invertendo a perspectiva humana sobre o sofrimento: o que parece derrota é providencialmente instrumento da missão."
+      },
+      "versiculoClave": "Fil 1:21",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "El himno kenótico y siervos ejemplares",
+        "en": "The Kenotic Hymn and Exemplary Servants",
+        "pt": "O hino kenótico e servos exemplares"
+      },
+      "descripcion": {
+        "es": "Pablo llama a la unidad de mente fundamentada en cuatro motivaciones: ánimo en Cristo, consuelo de amor, comunión del Espíritu y entrañas y misericordias (Fil 2:1–2). La humildad kenótica es la clave: cada uno debe estimar a los demás como superiores y buscar los intereses de los otros (Fil 2:3–4). El fundamento cristológico es el himno de Fil 2:5–11: Cristo, subsistiendo en forma de Dios, no retuvo la igualdad con Dios sino que se vació tomando forma de siervo, se humilló hasta la muerte de cruz, y por ello Dios lo exaltó sobre todo nombre para que toda rodilla se doble ante Él, cumpliendo Is 45:23. Los creyentes son llamados a trabajar su salvación con temor y temblor porque Dios obra en ellos el querer y el hacer (Fil 2:12–13). Timoteo (Fil 2:19–23) y Epafrodito (Fil 2:25–30) son presentados como modelos vivos de la ética kenótica del capítulo 2: ambos buscaron los intereses de Cristo y de los filipenses por encima de los propios.",
+        "en": "Paul calls for unity of mind grounded in four motivations: encouragement in Christ, comfort of love, fellowship of the Spirit, and affection and mercy (Phil 2:1–2). Kenotic humility is the key: each person must consider others as superior and seek others' interests (Phil 2:3–4). The Christological foundation is the hymn of Phil 2:5–11: Christ, subsisting in the form of God, did not cling to equality with God but emptied himself by taking the form of a servant, humbled himself to death on the cross, and therefore God exalted him above every name so that every knee bows before him, fulfilling Isa 45:23. Believers are called to work out their salvation with fear and trembling because God works in them both the willing and the doing (Phil 2:12–13). Timothy (Phil 2:19–23) and Epaphroditus (Phil 2:25–30) are presented as living models of the kenotic ethic of Chapter 2: both sought the interests of Christ and the Philippians above their own.",
+        "pt": "Paulo convoca à unidade de mente fundamentada em quatro motivações: encorajamento em Cristo, consolo de amor, comunhão do Espírito e ternura e misericórdia (Fp 2:1–2). A humildade kenótica é a chave: cada um deve considerar os outros como superiores e buscar os interesses alheios (Fp 2:3–4). O fundamento cristológico é o hino de Fp 2:5–11: Cristo, subsistindo na forma de Deus, não reteve a igualdade com Deus, mas se esvaziou tomando a forma de servo, se humilhou até à morte de cruz, e por isso Deus o exaltou acima de todo nome para que todo joelho se dobre diante dele, cumprindo Is 45:23. Os crentes são chamados a realizar sua salvação com temor e tremor porque Deus opera neles o querer e o fazer (Fp 2:12–13). Timóteo (Fp 2:19–23) e Epafrodito (Fp 2:25–30) são apresentados como modelos vivos da ética kenótica do capítulo 2: ambos buscaram os interesses de Cristo e dos filipenses acima dos seus próprios."
+      },
+      "eventoClave": {
+        "es": "El himno kenótico de Fil 2:6–11 es el clímax teológico del capítulo y de toda la carta: la humillación voluntaria de Cristo hasta la cruz es el paradigma de toda relación humana en la iglesia.",
+        "en": "The kenotic hymn of Phil 2:6–11 is the theological climax of the chapter and of the entire letter: Christ's voluntary humiliation to the cross is the paradigm for all human relationships in the church.",
+        "pt": "O hino kenótico de Fp 2:6–11 é o clímax teológico do capítulo e de toda a carta: a humilhação voluntária de Cristo até à cruz é o paradigma de todas as relações humanas na igreja."
+      },
+      "versiculoClave": "Fil 2:8",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Justicia por la fe y meta celestial",
+        "en": "Righteousness by Faith and Heavenly Goal",
+        "pt": "Justiça pela fé e meta celestial"
+      },
+      "descripcion": {
+        "es": "Pablo advierte contra los judaizantes con lenguaje severo ('perros', 'obreros malignos', 'los de la mutilación', Fil 3:2) y declara que la verdadera circuncisión es la del Espíritu (Fil 3:3). Enumera sus propias credenciales judías inatacables (Fil 3:4–6) solo para declararlas 'pérdida' (Fil 3:7) y 'basura' (Fil 3:8) frente a la excelencia del conocimiento de Cristo. Su objetivo es ser hallado en Cristo, 'no teniendo mi propia justicia que procede de la ley, sino la que es por la fe en Cristo' (Fil 3:9). Desea conocerlo en el poder de su resurrección y en la comunión de sus padecimientos, siendo conformado a su muerte (Fil 3:10). Como corredor que no ha llegado aún a la meta, olvida lo que queda atrás y se extiende hacia el 'supremo llamamiento de Dios en Cristo Jesús' (Fil 3:14). Contrasta su ejemplo y el de los que imitan la cruz con los que son 'enemigos de la cruz de Cristo' (Fil 3:18), cuyo fin es la perdición y cuyo dios es el vientre (Fil 3:19). La ciudadanía verdadera de los creyentes está en los cielos, de donde esperan a Cristo como Salvador transformador de los cuerpos (Fil 3:20–21).",
+        "en": "Paul warns against Judaizers with severe language ('dogs', 'evil workers', 'the mutilation', Phil 3:2) and declares that the true circumcision is of the Spirit (Phil 3:3). He enumerates his own unassailable Jewish credentials (Phil 3:4–6) only to declare them 'loss' (Phil 3:7) and 'rubbish' (Phil 3:8) compared to the surpassing worth of knowing Christ. His goal is to be found in Christ, 'not having a righteousness of my own from the law, but that which comes through faith in Christ' (Phil 3:9). He desires to know him in the power of his resurrection and in the fellowship of his sufferings, being conformed to his death (Phil 3:10). Like a runner who has not yet reached the goal, he forgets what lies behind and strains toward the 'upward call of God in Christ Jesus' (Phil 3:14). He contrasts his example and that of those who imitate the cross with those who are 'enemies of the cross of Christ' (Phil 3:18), whose end is destruction and whose god is their belly (Phil 3:19). Believers' true citizenship is in heaven, from where they await Christ as the Savior who transforms bodies (Phil 3:20–21).",
+        "pt": "Paulo adverte contra os judaizantes com linguagem severa ('cães', 'obreiros malignos', 'a mutilação', Fp 3:2) e declara que a verdadeira circuncisão é do Espírito (Fp 3:3). Enumera suas próprias credenciais judaicas inatacáveis (Fp 3:4–6) apenas para declará-las 'perda' (Fp 3:7) e 'lixo' (Fp 3:8) diante da excelência do conhecimento de Cristo. Seu objetivo é ser achado em Cristo, 'não tendo justiça própria que vem da lei, mas a que vem pela fé em Cristo' (Fp 3:9). Deseja conhecê-lo no poder de sua ressurreição e na comunhão dos seus sofrimentos, sendo conformado à sua morte (Fp 3:10). Como corredor que ainda não chegou à meta, esquece o que fica para trás e se estende para o 'supremo chamado de Deus em Cristo Jesus' (Fp 3:14). Contrasta seu exemplo e o daqueles que imitam a cruz com os que são 'inimigos da cruz de Cristo' (Fp 3:18), cujo fim é a perdição e cujo deus é o ventre (Fp 3:19). A verdadeira cidadania dos crentes está nos céus, de onde esperam a Cristo como Salvador transformador dos corpos (Fp 3:20–21)."
+      },
+      "eventoClave": {
+        "es": "Pablo declara toda su herencia religiosa judía como 'basura' para ganar a Cristo y ser hallado en Él con la justicia que procede de Dios mediante la fe (Fil 3:8–9), anclando la doctrina de la justificación forense en su propia autobiografía espiritual.",
+        "en": "Paul declares his entire Jewish religious heritage as 'rubbish' to gain Christ and be found in him with the righteousness that comes from God through faith (Phil 3:8–9), anchoring the doctrine of forensic justification in his own spiritual autobiography.",
+        "pt": "Paulo declara toda a sua herança religiosa judaica como 'lixo' para ganhar a Cristo e ser achado nele com a justiça que vem de Deus pela fé (Fp 3:8–9), ancorando a doutrina da justificação forense em sua própria autobiografia espiritual."
+      },
+      "versiculoClave": "Fil 3:9",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Gozo, paz y contentamiento en Cristo",
+        "en": "Joy, Peace, and Contentment in Christ",
+        "pt": "Alegria, paz e contentamento em Cristo"
+      },
+      "descripcion": {
+        "es": "Pablo insta a Evodia y Síntique a reconciliarse 'en el Señor' (Fil 4:2) y pide a un 'compañero fiel' que las ayude (Fil 4:3). Lanza cuatro imperativos encadenados: regocijarse en el Señor siempre (Fil 4:4), mostrar gentileza a todos (Fil 4:5), no afanarse por nada sino orar con acción de gracias (Fil 4:6), y pensar en todo lo que es verdadero, honesto, justo, puro, amable y de buen nombre (Fil 4:8). La consecuencia de la oración ansiosa convertida en acción de gracias es la paz de Dios que 'sobrepasa todo entendimiento', guardando corazones y mentes 'en Cristo Jesús' (Fil 4:7). Cierra con el testimonio del contentamiento aprendido: ha aprendido a estar saciado y a tener hambre en toda circunstancia, y puede todo en Cristo que lo fortalece (Fil 4:11–13). Agradece la ofrenda de los filipenses mediante Epafrodito (Fil 4:18) y les asegura que Dios suplirá todas sus necesidades 'conforme a sus riquezas en gloria en Cristo Jesús' (Fil 4:19). Saludos finales mencionan a los santos de la casa de César (Fil 4:22), confirmando la procedencia romana.",
+        "en": "Paul urges Euodia and Syntyche to reconcile 'in the Lord' (Phil 4:2) and asks a 'true companion' to help them (Phil 4:3). He launches four chained imperatives: rejoice in the Lord always (Phil 4:4), let gentleness be known to everyone (Phil 4:5), be anxious about nothing but pray with thanksgiving (Phil 4:6), and think about everything true, honorable, just, pure, lovely, and commendable (Phil 4:8). The consequence of anxious prayer turned to thanksgiving is the peace of God that 'surpasses all understanding', guarding hearts and minds 'in Christ Jesus' (Phil 4:7). He closes with testimony of learned contentment: he has learned to be content in all circumstances, and can do all things through Christ who strengthens him (Phil 4:11–13). He thanks the Philippians for their gift through Epaphroditus (Phil 4:18) and assures them that God will supply all their needs 'according to his riches in glory in Christ Jesus' (Phil 4:19). Final greetings mention the saints from Caesar's household (Phil 4:22), confirming the Roman provenance.",
+        "pt": "Paulo instiga Evódia e Síntique a se reconciliarem 'no Senhor' (Fp 4:2) e pede a um 'fiel companheiro' que as ajude (Fp 4:3). Lança quatro imperativos encadeados: alegrem-se no Senhor sempre (Fp 4:4), que a mansidão seja conhecida de todos (Fp 4:5), não se aflijam com nada, mas orem com ação de graças (Fp 4:6), e pensem em tudo o que é verdadeiro, honesto, justo, puro, amável e de boa fama (Fp 4:8). A consequência da oração ansiosa convertida em ação de graças é a paz de Deus que 'excede todo entendimento', guardando corações e mentes 'em Cristo Jesus' (Fp 4:7). Encerra com o testemunho do contentamento aprendido: aprendeu a estar satisfeito e a ter fome em toda circunstância, e pode tudo naquele que o fortalece (Fp 4:11–13). Agradece a oferta dos filipenses por meio de Epafrodito (Fp 4:18) e os assegura de que Deus suprirá todas as suas necessidades 'segundo as suas riquezas em glória em Cristo Jesus' (Fp 4:19). Saudações finais mencionam os santos da casa de César (Fp 4:22), confirmando a procedência romana."
+      },
+      "eventoClave": {
+        "es": "Pablo revela el secreto del contentamiento aprendido ('he aprendido a estar contento', Fil 4:11), un estado de ánimo que no depende de las circunstancias sino de la suficiencia de Cristo, y que es el fruto más maduro de una vida vivida en unión con Él.",
+        "en": "Paul reveals the secret of learned contentment ('I have learned, in whatever state I am, to be content', Phil 4:11), a disposition that does not depend on circumstances but on Christ's sufficiency, and which is the most mature fruit of a life lived in union with him.",
+        "pt": "Paulo revela o segredo do contentamento aprendido ('aprendi a estar contente em qualquer estado em que me encontrar', Fp 4:11), uma disposição que não depende das circunstâncias, mas da suficiência de Cristo, e que é o fruto mais maduro de uma vida vivida em união com ele."
+      },
+      "versiculoClave": "Fil 4:7",
+      "era": "Aplicación"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Wayne Grudem et al.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología",
+          "Resumen de capítulos",
+          "Versículos clave"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Theology",
+          "Chapter summaries",
+          "Key verses"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia",
+          "Resumo de capítulos",
+          "Versículos-chave"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es la Biblia de estudio más completa producida desde la perspectiva reformada evangélica. Publicada por Crossway en 2008 bajo la dirección editorial de Wayne Grudem, reúne a más de 95 eruditos evangélicos conservadores para proveer notas, artículos temáticos, mapas y gráficos. Es considerada la herramienta de estudio bíblico de referencia en las iglesias reformadas anglófonas.",
+          "en": "The ESV Study Bible is the most comprehensive study Bible produced from a Reformed evangelical perspective. Published by Crossway in 2008 under the editorial direction of Wayne Grudem, it brings together more than 95 conservative evangelical scholars to provide notes, thematic articles, maps, and charts. It is considered the reference Bible study tool in English-speaking Reformed churches.",
+          "pt": "A ESV Study Bible é a Bíblia de estudo mais abrangente produzida sob a perspectiva reformada evangélica. Publicada pela Crossway em 2008 sob a direção editorial de Wayne Grudem, reúne mais de 95 estudiosos evangélicos conservadores para fornecer notas, artigos temáticos, mapas e gráficos. É considerada a ferramenta de estudo bíblico de referência nas igrejas reformadas de língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina exégesis gramatical-histórica con síntesis teológica sistemática. Las notas de estudio siguen el canon del texto antes de proceder a la aplicación teológica. Los artículos introductorios de cada libro tratan autoría, fecha, propósito, temas teológicos e historia de la canonicidad con fuentes académicas actualizadas.",
+          "en": "Combines grammatical-historical exegesis with systematic theological synthesis. Study notes follow the textual canon before moving to theological application. The introductory articles for each book address authorship, date, purpose, theological themes, and canonicity history with updated academic sources.",
+          "pt": "Combina exegese gramatical-histórica com síntese teológica sistemática. As notas de estudo seguem o cânon do texto antes de prosseguir para a aplicação teológica. Os artigos introdutórios de cada livro abordam autoria, data, propósito, temas teológicos e história da canonicidade com fontes acadêmicas atualizadas."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco introductorio para Filipenses (autoría, datación, lugar de composición, estructura literaria), las notas exegéticas sobre el himno kenótico de Fil 2:6–11, y los paralelos con otros textos paulinos para la doctrina de la justificación (Fil 3:9).",
+          "en": "Provided the introductory framework for Philippians (authorship, dating, place of composition, literary structure), exegetical notes on the kenotic hymn of Phil 2:6–11, and parallels with other Pauline texts for the doctrine of justification (Phil 3:9).",
+          "pt": "Forneceu o quadro introdutório para Filipenses (autoria, datação, local de composição, estrutura literária), notas exegéticas sobre o hino kenótico de Fp 2:6–11, e paralelos com outros textos paulinos para a doutrina da justificação (Fp 3:9)."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology — Wayne Grudem (1994)",
+          "ESV Reader's Bible (2016)",
+          "ESV Expository Commentary: Ephesians–Philemon (2021)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-case/"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / B&H Español",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Distintivas reformadas",
+          "Teología sistemática",
+          "Âncoras confesionales"
+        ],
+        "en": [
+          "Introduction",
+          "Reformed distinctives",
+          "Systematic theology",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Introdução",
+          "Distintivos reformados",
+          "Teologia sistemática",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue uno de los teólogos reformados más influyentes del siglo XX, fundador de Ligonier Ministries y de Reformation Bible College. Doctor en Teología por la Universidad de Amsterdam, fue pastor y profesor durante más de cinco décadas. La Biblia de Estudio de la Reforma bajo su dirección reúne a decenas de eruditos reformados para proveer una herramienta de estudio completa en español desde la perspectiva de la Confesión de Westminster.",
+          "en": "R.C. Sproul (1939–2017) was one of the most influential Reformed theologians of the 20th century, founder of Ligonier Ministries and Reformation Bible College. He held a doctorate in theology from the University of Amsterdam and served as pastor and professor for more than five decades. The Reformation Study Bible under his direction brings together dozens of Reformed scholars to provide a comprehensive study tool in Spanish from the Westminster Confession perspective.",
+          "pt": "R.C. Sproul (1939–2017) foi um dos teólogos reformados mais influentes do século XX, fundador do Ligonier Ministries e do Reformation Bible College. Doutor em Teologia pela Universidade de Amsterdam, foi pastor e professor por mais de cinco décadas. A Bíblia de Estudo da Reforma sob sua direção reúne dezenas de estudiosos reformados para fornecer uma ferramenta de estudo abrangente em espanhol a partir da perspectiva da Confissão de Westminster."
+        },
+        "metodo": {
+          "es": "Exégesis reformada con énfasis en la soberanía de Dios, la gracia irresistible y la justificación forense. Las notas de estudio aplican la hermenéutica de la historia redentora y la teología del pacto en cada pasaje. Los artículos temáticos aclaran doctrinas controversiales desde la perspectiva de la Confesión de Westminster.",
+          "en": "Reformed exegesis with emphasis on God's sovereignty, irresistible grace, and forensic justification. Study notes apply the hermeneutic of redemptive history and covenant theology to each passage. Thematic articles clarify controversial doctrines from the perspective of the Westminster Confession.",
+          "pt": "Exegese reformada com ênfase na soberania de Deus, graça irresistível e justificação forense. As notas de estudo aplicam a hermenêutica da história redentora e a teologia do pacto a cada passagem. Os artigos temáticos esclarecem doutrinas controversas sob a perspectiva da Confissão de Westminster."
+        },
+        "aportacion": {
+          "es": "Fue la fuente primaria para las âncoras confesionales (capítulos de la WCF), las distintivas reformadas y la perspectiva teológica de la justificación imputada en Fil 3:9 desde el marco de la teología del pacto.",
+          "en": "Was the primary source for the confessional anchors (WCF chapters), Reformed distinctives, and the theological perspective of imputed justification in Phil 3:9 from the covenant theology framework.",
+          "pt": "Foi a fonte primária para as âncoras confessionais (capítulos da WCF), os distintivos reformados e a perspectiva teológica da justificação imputada em Fp 3:9 a partir do quadro da teologia do pacto."
+        },
+        "obras": [
+          "The Holiness of God (1985)",
+          "The Sovereignty of God (1988)",
+          "Faith Alone: The Evangelical Doctrine of Justification (1995)",
+          "Everyone's a Theologian (2014)",
+          "Reformation Study Bible (2015)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Cristología",
+          "Soteriología",
+          "Escatología",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Systematic theology",
+          "Christology",
+          "Soteriology",
+          "Eschatology",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Cristologia",
+          "Soteriologia",
+          "Escatologia",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem (1948–) es profesor de Teología y Estudios Bíblicos en el Phoenix Seminary. Doctor en Teología del Nuevo Testamento por la Universidad de Cambridge, fue miembro del Comité de Traducción del English Standard Version (ESV). Su Teología Sistemática, la más vendida en su género en el mundo evangélico, es usada en más de 500 seminarios y escuelas bíblicas en múltiples idiomas.",
+          "en": "Wayne Grudem (1948–) is Professor of Theology and Biblical Studies at Phoenix Seminary. He holds a doctorate in New Testament theology from Cambridge University and was a member of the Translation Oversight Committee for the English Standard Version (ESV). His Systematic Theology, the best-selling in its genre in the evangelical world, is used in more than 500 seminaries and Bible schools in multiple languages.",
+          "pt": "Wayne Grudem (1948–) é Professor de Teologia e Estudos Bíblicos no Phoenix Seminary. Doutor em Teologia do Novo Testamento pela Universidade de Cambridge, foi membro do Comitê de Tradução da English Standard Version (ESV). Sua Teologia Sistemática, a mais vendida em seu gênero no mundo evangélico, é usada em mais de 500 seminários e escolas bíblicas em múltiplos idiomas."
+        },
+        "metodo": {
+          "es": "Método inductivo que parte del texto bíblico para formular cada doctrina, documentando el desarrollo histórico de cada enseñanza y respondiendo objeciones con precisión exegética. Explícitamente reformado en soteriología y eclesiología, con apertura evangélica en temas escatológicos.",
+          "en": "Inductive method starting from the biblical text to formulate each doctrine, documenting the historical development of each teaching and responding to objections with exegetical precision. Explicitly Reformed in soteriology and ecclesiology, with evangelical openness on eschatological topics.",
+          "pt": "Método indutivo que parte do texto bíblico para formular cada doutrina, documentando o desenvolvimento histórico de cada ensino e respondendo a objeções com precisão exegética. Explicitamente reformado em soteriologia e eclesiologia, com abertura evangélica em temas escatológicos."
+        },
+        "aportacion": {
+          "es": "Fundamentó las categorías de teología sistemática utilizadas en el registro (cristología kenótica, justificación forense, santificación progresiva, escatología de la resurrección corporal) con referencias precisas a textos de Filipenses.",
+          "en": "Grounded the systematic theology categories used in the record (kenotic Christology, forensic justification, progressive sanctification, bodily resurrection eschatology) with precise references to Philippians texts.",
+          "pt": "Fundamentou as categorias de teologia sistemática usadas no registro (cristologia kenótica, justificação forense, santificação progressiva, escatologia da ressurreição corporal) com referências precisas a textos de Filipenses."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Politics According to the Bible (2010)",
+          "Biblical Doctrine (co-edited with Jeff Purswell, 2015)"
+        ],
+        "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/wayne-grudem-systematic-theology/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras",
+          "Contexto del pacto"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows",
+          "Covenant context"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras",
+          "Contexto do pacto"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) es considerado el padre de la teología bíblica reformada. Nacido en los Países Bajos, fue profesor de Teología Bíblica en el Seminario Teológico de Princeton durante 39 años (1893–1932). Estudió en los seminarios de Ámsterdam y Berlín y obtuvo su doctorado en la Universidad de Estrasburgo. Su obra estableció la distinción metodológica entre teología bíblica y sistemática dentro de la tradición reformada.",
+          "en": "Geerhardus Vos (1862–1949) is considered the father of Reformed biblical theology. Born in the Netherlands, he was Professor of Biblical Theology at Princeton Theological Seminary for 39 years (1893–1932). He studied at the seminaries of Amsterdam and Berlin and received his doctorate from the University of Strasbourg. His work established the methodological distinction between biblical and systematic theology within the Reformed tradition.",
+          "pt": "Geerhardus Vos (1862–1949) é considerado o pai da teologia bíblica reformada. Nascido nos Países Baixos, foi Professor de Teologia Bíblica no Seminário Teológico de Princeton por 39 anos (1893–1932). Estudou nos seminários de Amsterdã e Berlim e obteve seu doutorado na Universidade de Estrasburgo. Sua obra estabeleceu a distinção metodológica entre teologia bíblica e sistemática dentro da tradição reformada."
+        },
+        "metodo": {
+          "es": "Método histórico-redentor: rastrea el desenvolvimiento progresivo de la revelación de Dios a lo largo de la historia del pacto, desde la creación hasta la consumación escatológica. Lee cada libro bíblico como un momento en la historia redentora que apunta hacia Cristo como el cumplimiento de toda la promesa divina.",
+          "en": "Redemptive-historical method: traces the progressive unfolding of God's revelation throughout covenant history, from creation to eschatological consummation. Reads each biblical book as a moment in redemptive history pointing toward Christ as the fulfillment of all divine promise.",
+          "pt": "Método histórico-redentor: rastreia o desdobramento progressivo da revelação de Deus ao longo da história do pacto, da criação à consumação escatológica. Lê cada livro bíblico como um momento na história redentora que aponta para Cristo como o cumprimento de toda a promessa divina."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco de la historia redentora para clasificar Filipenses dentro de la época de 'Aplicación' del nuevo pacto, y para leer el himno kenótico (Fil 2:6–11) y la ciudadanía celestial (Fil 3:20) como cumplimientos escatológicos de los tipos y promesas veterotestamentarios.",
+          "en": "Provided the redemptive-history framework for classifying Philippians within the 'Application' epoch of the new covenant, and for reading the kenotic hymn (Phil 2:6–11) and heavenly citizenship (Phil 3:20) as eschatological fulfillments of Old Testament types and promises.",
+          "pt": "Forneceu o quadro da história redentora para classificar Filipenses dentro da época de 'Aplicação' do novo pacto, e para ler o hino kenótico (Fp 2:6–11) e a cidadania celestial (Fp 3:20) como cumprimentos escatológicos dos tipos e promessas veterotestamentários."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Grace and Glory (1922)",
+          "Redemption and Eschatology (1930)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The Epistle to the Philippians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "año": 1995,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Personajes",
+          "Resumen de capítulos",
+          "Controversias históricas",
+          "Autoría y fecha"
+        ],
+        "en": [
+          "Historical context",
+          "Characters",
+          "Chapter summaries",
+          "Historical controversies",
+          "Authorship and date"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Personagens",
+          "Resumo de capítulos",
+          "Controvérsias históricas",
+          "Autoria e data"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Gordon D. Fee (1934–2022) fue Profesor Emérito de Nuevo Testamento en el Regent College de Vancouver, Canadá. Uno de los eruditos neotestamentarios más respetados del mundo evangélico, es conocido por sus comentarios exegéticos rigurosos sobre las epístolas paulinas. Su comentario sobre Filipenses en la serie New International Commentary on the New Testament es considerado el comentario académico de referencia en inglés sobre esta carta.",
+          "en": "Gordon D. Fee (1934–2022) was Professor Emeritus of New Testament at Regent College in Vancouver, Canada. One of the most respected New Testament scholars in the evangelical world, he is known for his rigorous exegetical commentaries on the Pauline epistles. His commentary on Philippians in the New International Commentary on the New Testament series is considered the reference academic commentary in English on this letter.",
+          "pt": "Gordon D. Fee (1934–2022) foi Professor Emérito do Novo Testamento no Regent College em Vancouver, Canadá. Um dos estudiosos do Novo Testamento mais respeitados no mundo evangélico, é conhecido por seus comentários exegéticos rigorosos sobre as epístolas paulinas. Seu comentário sobre Filipenses na série New International Commentary on the New Testament é considerado o comentário acadêmico de referência em inglês sobre esta carta."
+        },
+        "metodo": {
+          "es": "Exégesis gramatical-histórica del texto griego con atención a la retórica epistolar antigua y al contexto sociocultural del mundo romano. Fee privilegia el significado teológico del texto pero en diálogo constante con los mejores comentaristas críticos, cuyas posiciones evalúa con criterio reformado.",
+          "en": "Grammatical-historical exegesis of the Greek text with attention to ancient epistolary rhetoric and the sociocultural context of the Roman world. Fee privileges the theological meaning of the text but in constant dialogue with the best critical commentators, whose positions he evaluates with Reformed criteria.",
+          "pt": "Exegese gramatical-histórica do texto grego com atenção à retórica epistolar antiga e ao contexto sociocultural do mundo romano. Fee privilegia o significado teológico do texto, mas em diálogo constante com os melhores comentaristas críticos, cujas posições avalia com critério reformado."
+        },
+        "aportacion": {
+          "es": "Fundamentó el análisis del himno kenótico (Fil 2:6–11), los estudios de los personajes Epafrodito (Fil 2:25–30), Evodia y Síntique (Fil 4:2–3), la defensa de la procedencia romana de la carta, y el análisis del término 'politeuma' (Fil 3:20) en su contexto colonial romano.",
+          "en": "Grounded the analysis of the kenotic hymn (Phil 2:6–11), the character studies of Epaphroditus (Phil 2:25–30), Euodia and Syntyche (Phil 4:2–3), the defense of the Roman provenance of the letter, and the analysis of 'politeuma' (Phil 3:20) in its Roman colonial context.",
+          "pt": "Fundamentou a análise do hino kenótico (Fp 2:6–11), os estudos dos personagens Epafrodito (Fp 2:25–30), Evódia e Síntique (Fp 4:2–3), a defesa da procedência romana da carta, e a análise do termo 'politeuma' (Fp 3:20) em seu contexto colonial romano."
+        },
+        "obras": [
+          "The First Epistle to the Corinthians, NICNT (1987)",
+          "Paul's Letter to the Philippians, NICNT (1995)",
+          "God's Empowering Presence: The Holy Spirit in the Letters of Paul (1994)",
+          "How to Read the Bible for All Its Worth (with Douglas Stuart, 1981)",
+          "The New Testament: Its Language, Literature, and Theology (2009)"
+        ],
+        "url": "https://www.theopedia.com/gordon-d-fee"
+      }
+    },
+    {
+      "titulo": "IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Civilizaciones",
+          "Arqueología",
+          "Fuentes del mundo antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Civilizations",
+          "Archaeology",
+          "Ancient world sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Civilizações",
+          "Arqueologia",
+          "Fontes do mundo antigo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener (1960–) es Profesor F.M. and Ada Thompson de Estudios Bíblicos en el Asbury Theological Seminary. Uno de los principales eruditos en contexto del Nuevo Testamento y del mundo grecorromano, es autor de más de 30 libros académicos. Su IVP Bible Background Commentary: New Testament ha vendido más de medio millón de copias y es la herramienta de referencia de background del NT más usada en el mundo evangélico.",
+          "en": "Craig S. Keener (1960–) is F.M. and Ada Thompson Professor of Biblical Studies at Asbury Theological Seminary. One of the leading scholars in New Testament and Greco-Roman world context, he is the author of more than 30 academic books. His IVP Bible Background Commentary: New Testament has sold more than half a million copies and is the most widely used NT background reference tool in the evangelical world.",
+          "pt": "Craig S. Keener (1960–) é Professor F.M. e Ada Thompson de Estudos Bíblicos no Asbury Theological Seminary. Um dos principais estudiosos em contexto do Novo Testamento e do mundo greco-romano, é autor de mais de 30 livros acadêmicos. Seu IVP Bible Background Commentary: New Testament vendeu mais de meio milhão de cópias e é a ferramenta de referência de background do NT mais usada no mundo evangélico."
+        },
+        "metodo": {
+          "es": "Rastreo sistemático de los paralelos entre el texto del NT y la literatura grecorromana, judía del Segundo Templo, rabínica y del Antiguo Testamento. Cada versículo es comentado desde su trasfondo cultural, lingüístico y arqueológico, con referencias a fuentes primarias.",
+          "en": "Systematic tracing of parallels between NT text and Greco-Roman, Second Temple Jewish, rabbinic, and Old Testament literature. Each verse is commented on from its cultural, linguistic, and archaeological background, with references to primary sources.",
+          "pt": "Rastreamento sistemático dos paralelos entre o texto do NT e a literatura greco-romana, judaica do Segundo Templo, rabínica e do Antigo Testamento. Cada versículo é comentado a partir de seu contexto cultural, linguístico e arqueológico, com referências a fontes primárias."
+        },
+        "aportacion": {
+          "es": "Proveyó el contexto histórico del mundo romano para Filipenses: el significado de la colonia romana de Filipos, el pretorio, la casa de César, la retórica de la carta de amistad grecorromana, y el trasfondo del término 'politeuma' (ciudadanía, Fil 3:20) en el mundo helenístico-romano.",
+          "en": "Provided the Roman world historical context for Philippians: the significance of the Roman colony of Philippi, the praetorium, Caesar's household, the rhetoric of the Greco-Roman friendship letter, and the background of the term 'politeuma' (citizenship, Phil 3:20) in the Hellenistic-Roman world.",
+          "pt": "Forneceu o contexto histórico do mundo romano para Filipenses: o significado da colônia romana de Filipos, o pretório, a casa de César, a retórica da carta de amizade greco-romana, e o contexto do termo 'politeuma' (cidadania, Fp 3:20) no mundo helenístico-romano."
+        },
+        "obras": [
+          "IVP Bible Background Commentary: New Testament (1993)",
+          "The Gospel of John: A Commentary, 2 vols. (2003)",
+          "Acts: An Exegetical Commentary, 4 vols. (2012–2015)",
+          "Matthew: A Socio-Rhetorical Commentary (2009)",
+          "Spirit Hermeneutics (2016)"
+        ],
+        "url": "https://www.theopedia.com/craig-keener"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "validado",
+    "confianza": 0.7,
+    "camposMarcados": [
+      {
+        "campo": "contextoHistorico.arqueologia",
+        "razon": "Síntesis de fuentes internas (IVP Background Commentary, ESV Study Bible) sin acceso en línea a bases de datos arqueológicas primarias de Filipos. Los hallazgos descritos son ampliamente atestiguados en la literatura secundaria.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "personajes[Evodia y Síntique].biografiaHistorica.nivelEvidencia",
+        "razon": "nivelEvidencia = especulativo. Solo aparecen en Fil 4:2–3 sin evidencia extracanónica. Su rol ministerial exacto (líderes de casas-iglesia, diaconisas) es especulativo.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "contextoHistorico.fuentesANE[papiros de Oxirrinco]",
+        "razon": "Las cartas de amistad grecorromanas de Oxirrinco son relevantes para el género epistolar, pero la identificación de paralelos específicos con Filipenses se basa en conocimiento interno sin verificación en línea de los Papyri Oxyrhynchus en acceso abierto.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-29"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-29",
+    "revisadoPor": {
+      "nombre": "Pipeline CANON v1.3.0",
+      "rol": "administrador",
+      "fechaRevision": "2026-06-29"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

@@ -1687,5 +1687,29 @@
       "en": "GOSPEL OPPONENT",
       "pt": "OPONENTE DO EVANGELHO"
     }
+  },
+  "Epafrodito": {
+    "id": "epafrodito",
+    "color": "#2A7A6A",
+    "init": "ΕΠ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "MENSAJERO Y COLABORADOR",
+      "en": "MESSENGER AND CO-WORKER",
+      "pt": "MENSAGEIRO E COLABORADOR"
+    }
+  },
+  "Evodia y Síntique": {
+    "id": "evodia-sintique",
+    "color": "#8B3A7A",
+    "init": "ΕΣ",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "COLABORADORAS EN EL EVANGELIO",
+      "en": "FELLOW WORKERS IN THE GOSPEL",
+      "pt": "COLABORADORAS NO EVANGELHO"
+    }
   }
 }

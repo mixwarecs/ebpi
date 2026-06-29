@@ -1570,12 +1570,13 @@
       "ordenCanon": 50,
       "capitulosTotal": 4,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La epístola del gozo: escrita desde prisión, enseña contentamiento en toda circunstancia (Fil 4:11) y contiene el célebre himno cristológico de la kenosis/exaltación de Cristo (Fil 2:5-11).",
         "en": "The epistle of joy: written from prison, it teaches contentment in every circumstance (Phil 4:11) and contains the celebrated christological hymn of Christ's kenosis/exaltation (Phil 2:5–11).",
         "pt": "A epístola do gozo: escrita da prisão, ensina contentamento em toda circunstância (Fp 4:11) e contém o célebre hino cristológico da kenose/exaltação de Cristo (Fp 2:5-11)."
-      }
+      },
+      "dataFile": "filipenses.json"
     },
     {
       "id": 51,
