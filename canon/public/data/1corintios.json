@@ -1,0 +1,1683 @@
+{
+  "id": 46,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "titulo": {
+    "es": "1 Corintios",
+    "en": "1 Corinthians",
+    "pt": "1 Coríntios"
+  },
+  "tituloOriginal": "Πρὸς Κορινθίους Αʹ",
+  "transliteracion": "Pros Korinthious A",
+  "significado": {
+    "es": "Primera carta a los corintios",
+    "en": "First letter to the Corinthians",
+    "pt": "Primeira carta aos coríntios"
+  },
+  "capitulosTotal": 16,
+  "autor": {
+    "nombre": {
+      "es": "Pablo",
+      "en": "Paul",
+      "pt": "Paulo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La autoría paulina es ampliamente aceptada incluso por eruditos críticos. El apóstol Pablo se identifica en 1Co 1:1 y la carta es confirmada por Clemente de Roma (c. 96 d.C.) como genuinamente paulina.",
+      "en": "Pauline authorship is broadly accepted even by critical scholars. The apostle Paul identifies himself in 1Cor 1:1, and the letter is confirmed by Clement of Rome (c. AD 96) as genuinely Pauline.",
+      "pt": "A autoria paulina é amplamente aceita até mesmo por estudiosos críticos. O apóstolo Paulo se identifica em 1Co 1:1, e a carta é confirmada por Clemente de Roma (c. 96 d.C.) como genuinamente paulina."
+    }
+  },
+  "año": {
+    "desde": 53,
+    "hasta": 55,
+    "display": {
+      "es": "Fecha de escritura: c. 53–55 d.C.",
+      "en": "Date of writing: c. AD 53–55",
+      "pt": "Data de composição: c. 53–55 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Éfeso (probable), durante el tercer viaje misionero de Pablo",
+    "en": "Ephesus (probable), during Paul's third missionary journey",
+    "pt": "Éfeso (provável), durante a terceira viagem missionária de Paulo"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Primitivo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Corinto",
+          "en": "Corinth",
+          "pt": "Corinto"
+        },
+        "identificacionModerna": {
+          "es": "Corinto, Grecia (cerca del sitio arqueológico antiguo de Corinto)",
+          "en": "Corinth, Greece (near the ancient archaeological site of Corinth)",
+          "pt": "Corinto, Grécia (próximo ao sítio arqueológico antigo de Corinto)"
+        },
+        "significancia": {
+          "es": "Ciudad capital de la provincia romana de Acaya. Centro comercial y marítimo estratégico en el istmo que une Grecia continental con el Peloponeso. Refundada como colonia romana en 44 a.C., era conocida por su diversidad cultural, riqueza y notoria inmoralidad. La iglesia aquí enfrentaba divisiones, inmoralidad y confusión doctrinal (1Co 1:2; 1Co 6:9–11).",
+          "en": "Capital city of the Roman province of Achaia. A strategic commercial and maritime hub on the isthmus connecting mainland Greece to the Peloponnese. Refounded as a Roman colony in 44 BC, it was known for cultural diversity, wealth, and notorious immorality. The church here faced divisions, immorality, and doctrinal confusion (1Cor 1:2; 1Cor 6:9–11).",
+          "pt": "Cidade capital da província romana da Acaia. Centro comercial e marítimo estratégico no istmo que une a Grécia continental ao Peloponeso. Refundada como colônia romana em 44 a.C., era conhecida por sua diversidade cultural, riqueza e notória imoralidade. A igreja aqui enfrentava divisões, imoralidade e confusão doutrinária (1Co 1:2; 1Co 6:9–11)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Éfeso",
+          "en": "Ephesus",
+          "pt": "Éfeso"
+        },
+        "identificacionModerna": {
+          "es": "Ruinas de Éfeso, cerca de Selçuk, Turquía",
+          "en": "Ruins of Ephesus, near Selçuk, Turkey",
+          "pt": "Ruínas de Éfeso, perto de Selçuk, Turquia"
+        },
+        "significancia": {
+          "es": "Ciudad desde la cual Pablo escribió 1 Corintios (1Co 16:8). Principal metrópolis de Asia Menor, sede del templo de Artemisa. Pablo ministraba allí durante su tercer viaje misionero mientras recibía informes sobre los problemas en Corinto.",
+          "en": "City from which Paul wrote 1 Corinthians (1Cor 16:8). Chief metropolis of Asia Minor, home of the temple of Artemis. Paul ministered there during his third missionary journey while receiving reports about problems in Corinth.",
+          "pt": "Cidade de onde Paulo escreveu 1 Coríntios (1Co 16:8). Principal metrópole da Ásia Menor, sede do templo de Ártemis. Paulo ministrava lá durante sua terceira viagem missionária enquanto recebia relatos sobre os problemas em Corinto."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Cencreas",
+          "en": "Cenchreae",
+          "pt": "Cencreia"
+        },
+        "identificacionModerna": {
+          "es": "Puerto oriental de Corinto, actual Kehries, Grecia",
+          "en": "Eastern port of Corinth, modern Kehries, Greece",
+          "pt": "Porto oriental de Corinto, atual Kehriés, Grécia"
+        },
+        "significancia": {
+          "es": "Puerto oriental de Corinto que facilitaba el comercio con el Mediterráneo oriental. La iglesia en Cencreas es mencionada en Ro 16:1. Refleja el carácter cosmopolita y la influencia comercial que moldeaban la congregación corintia.",
+          "en": "Eastern port of Corinth facilitating trade with the eastern Mediterranean. The church at Cenchreae is mentioned in Rom 16:1. Reflects the cosmopolitan character and commercial influence that shaped the Corinthian congregation.",
+          "pt": "Porto oriental de Corinto que facilitava o comércio com o Mediterrâneo oriental. A igreja em Cencreia é mencionada em Rm 16:1. Reflete o caráter cosmopolita e a influência comercial que moldavam a congregação coríntia."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Israel / Palestina",
+          "en": "Israel / Palestine",
+          "pt": "Israel / Palestina"
+        },
+        "identificacionModerna": {
+          "es": "Israel / Territorios Palestinos",
+          "en": "Israel / Palestinian Territories",
+          "pt": "Israel / Territórios Palestinos"
+        },
+        "significancia": {
+          "es": "Pablo alude a Jerusalén como la fuente de la tradición del evangelio y la Cena del Señor (1Co 11:23; 1Co 15:3–8). Las colectas para los santos en Jerusalén (1Co 16:1–4) reflejan la unidad del cuerpo de Cristo más allá de fronteras geográficas.",
+          "en": "Paul alludes to Jerusalem as the source of the gospel tradition and the Lord's Supper (1Cor 11:23; 1Cor 15:3–8). The collections for the saints in Jerusalem (1Cor 16:1–4) reflect the unity of the body of Christ across geographic boundaries.",
+          "pt": "Paulo alude a Jerusalém como a fonte da tradição do evangelho e da Ceia do Senhor (1Co 11:23; 1Co 15:3–8). As coletas para os santos em Jerusalém (1Co 16:1–4) refletem a unidade do corpo de Cristo além das fronteiras geográficas."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "Corinto era una colonia romana que reflejaba los valores imperiales: honor, estatus social, clientelismo y sabiduría retórica. Pablo confronta directamente estas estructuras al proclamar la sabiduría de la cruz (1Co 1:18–31) y al rechazar el patronazgo social como base de autoridad apostólica.",
+          "en": "Corinth was a Roman colony that reflected imperial values: honor, social status, patronage, and rhetorical wisdom. Paul directly confronts these structures by proclaiming the wisdom of the cross (1Cor 1:18–31) and rejecting social patronage as the basis for apostolic authority.",
+          "pt": "Corinto era uma colônia romana que refletia os valores imperiais: honra, status social, clientelismo e sabedoria retórica. Paulo confronta diretamente essas estruturas ao proclamar a sabedoria da cruz (1Co 1:18–31) e ao rejeitar o patronato social como base de autoridade apostólica."
+        },
+        "estadoArqueologico": {
+          "es": "Las excavaciones en el ágora de Corinto han revelado el bema (tribunal) donde Pablo fue juzgado ante Galión (Hch 18:12–17), tiendas de carnicería (macellum) relevantes para 1Co 10:25, e inscripciones que confirman la estratificación social de la ciudad.",
+          "en": "Excavations at the Corinthian agora have uncovered the bema (tribunal) where Paul was judged before Gallio (Acts 18:12–17), meat-market stalls (macellum) relevant to 1Cor 10:25, and inscriptions confirming the city's social stratification.",
+          "pt": "As escavações na ágora de Corinto revelaram o bema (tribunal) onde Paulo foi julgado perante Gálio (At 18:12–17), barracas de açougue (macellum) relevantes para 1Co 10:25, e inscrições que confirmam a estratificação social da cidade."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cultura Griega Helenística",
+          "en": "Hellenistic Greek Culture",
+          "pt": "Cultura Grega Helenística"
+        },
+        "rolEnElTexto": {
+          "es": "La filosofía griega, especialmente la retórica sofística y la sabiduría especulativa, influyó profundamente en la congregación corintia. Los corintios evaluaban a los maestros según criterios retóricos (1Co 2:1–5) y dividían la iglesia en facciones de líderes (1Co 1:12). Pablo contrasta la sabiduría humana con la locura de la cruz.",
+          "en": "Greek philosophy, especially sophistic rhetoric and speculative wisdom, deeply influenced the Corinthian congregation. The Corinthians evaluated teachers by rhetorical criteria (1Cor 2:1–5) and divided the church into leader-factions (1Cor 1:12). Paul contrasts human wisdom with the foolishness of the cross.",
+          "pt": "A filosofia grega, especialmente a retórica sofística e a sabedoria especulativa, influenciou profundamente a congregação coríntia. Os coríntios avaliavam os mestres segundo critérios retóricos (1Co 2:1–5) e dividiam a igreja em facções de líderes (1Co 1:12). Paulo contrasta a sabedoria humana com a loucura da cruz."
+        },
+        "estadoArqueologico": {
+          "es": "Confirmada ampliamente por inscripciones y textos literarios del período. El agón sofístico (competencia retórica) es bien documentado en Corinto y el mundo mediterráneo del siglo I d.C.",
+          "en": "Broadly confirmed by inscriptions and literary texts of the period. The sophistic agon (rhetorical competition) is well documented in Corinth and the first-century Mediterranean world.",
+          "pt": "Amplamente confirmada por inscrições e textos literários do período. O agón sofístico (competição retórica) é bem documentado em Corinto e no mundo mediterrâneo do século I d.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidad Judía de la Diáspora",
+          "en": "Jewish Diaspora Community",
+          "pt": "Comunidade Judaica da Diáspora"
+        },
+        "rolEnElTexto": {
+          "es": "Pablo comenzó su ministerio en Corinto en la sinagoga (Hch 18:1–4). Varios creyentes judíos como Aquila y Priscila formaban parte de la iglesia. Pablo usa tipología del AT israelita extensamente (1Co 10:1–13) para instruir a creyentes judíos y gentiles por igual.",
+          "en": "Paul began his ministry in Corinth at the synagogue (Acts 18:1–4). Several Jewish believers like Aquila and Priscilla were part of the church. Paul extensively employs OT Israelite typology (1Cor 10:1–13) to instruct Jewish and Gentile believers alike.",
+          "pt": "Paulo começou seu ministério em Corinto na sinagoga (At 18:1–4). Vários crentes judeus como Áquila e Priscila faziam parte da igreja. Paulo usa tipologia do AT israelita extensamente (1Co 10:1–13) para instruir crentes judeus e gentios igualmente."
+        },
+        "estadoArqueologico": {
+          "es": "Una inscripción fragmentaria encontrada en Corinto que dice 'sinagoga de los hebreos' atestigua la presencia judía en la ciudad durante el período romano.",
+          "en": "A fragmentary inscription found at Corinth reading 'synagogue of the Hebrews' attests to Jewish presence in the city during the Roman period.",
+          "pt": "Uma inscrição fragmentária encontrada em Corinto com os dizeres 'sinagoga dos hebreus' atesta a presença judaica na cidade durante o período romano."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones de la Escuela Americana de Estudios Clásicos en Atenas han iluminado notablemente el trasfondo de 1 Corintios. El bema (tribunal de piedra) en el ágora identifica el lugar donde Pablo fue llevado ante el procónsul Galión (Hch 18:12–17). Inscripciones del macellum (mercado de carnes) confirman la práctica de vender carne sacrificada a ídolos, central para 1Co 8–10. La 'Inscripción de Erasto' ('Erastus pro aedilitate sua pecunia stravit') identifica posiblemente al tesorero de la ciudad mencionado en Ro 16:23, evidenciando creyentes de alto estatus en la congregación corintia. Inscripciones que refieren a los 'Juegos Ístmicos' confirman el lenguaje atlético de 1Co 9:24–27. El templo de Apolo, sobreviviente parcial, y los templos en el Acrocorinto confirman la ubicuidad del culto pagano en la vida cotidiana corintia. La estratificación social bien documentada arqueológicamente es clave para entender las tensiones en la Cena del Señor (1Co 11:17–34).",
+      "en": "Excavations by the American School of Classical Studies at Athens have notably illuminated the background of 1 Corinthians. The bema (stone tribunal) in the agora identifies the place where Paul was brought before proconsul Gallio (Acts 18:12–17). Inscriptions from the macellum (meat market) confirm the practice of selling meat sacrificed to idols, central to 1Cor 8–10. The 'Erastus Inscription' ('Erastus pro aedilitate sua pecunia stravit') possibly identifies the city treasurer mentioned in Rom 16:23, evidencing high-status believers in the Corinthian congregation. Inscriptions referring to the 'Isthmian Games' confirm the athletic language of 1Cor 9:24–27. The partially surviving Temple of Apollo and temples on the Acrocorinth confirm the ubiquity of pagan worship in Corinthian daily life. The well-documented archaeological social stratification is key for understanding tensions at the Lord's Supper (1Cor 11:17–34).",
+      "pt": "As escavações da Escola Americana de Estudos Clássicos em Atenas iluminaram notavelmente o pano de fundo de 1 Coríntios. O bema (tribunal de pedra) na ágora identifica o local onde Paulo foi levado perante o procônsul Gálio (At 18:12–17). Inscrições do macellum (mercado de carnes) confirmam a prática de vender carne sacrificada a ídolos, central para 1Co 8–10. A 'Inscrição de Erasto' ('Erastus pro aedilitate sua pecunia stravit') identifica possivelmente o tesoureiro da cidade mencionado em Rm 16:23, evidenciando crentes de alto status na congregação coríntia. Inscrições que se referem aos 'Jogos Ístmicos' confirmam a linguagem atlética de 1Co 9:24–27. O Templo de Apolo, parcialmente sobrevivente, e os templos no Acrocorinto confirmam a ubiquidade do culto pagão na vida cotidiana coríntia. A estratificação social bem documentada arqueologicamente é fundamental para entender as tensões na Ceia do Senhor (1Co 11:17–34)."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Fuentes Greco-Romanas sobre Corinto (Estrabón, Pausanias)",
+          "en": "Greco-Roman Sources on Corinth (Strabo, Pausanias)",
+          "pt": "Fontes Greco-Romanas sobre Corinto (Estrabão, Pausânias)"
+        },
+        "origen": {
+          "es": "Literatura geográfica e histórica griega del período helenístico y romano (siglos I a.C. – II d.C.)",
+          "en": "Greek geographical and historical literature of the Hellenistic and Roman period (1st c. BC – 2nd c. AD)",
+          "pt": "Literatura geográfica e histórica grega do período helenístico e romano (sécs. I a.C. – II d.C.)"
+        },
+        "relevancia": {
+          "es": "Estrabón (Geografía 8.6.20) describe Corinto como ciudad de gran riqueza, culto a Afrodita y pluralismo religioso. Pausanias (Descripción de Grecia 2.1–5) detalla los templos y espacios públicos. Ambas fuentes confirman el ambiente moral y religioso que Pablo aborda en la carta, incluyendo la prostitución ritual y la idolatría omnipresente.",
+          "en": "Strabo (Geography 8.6.20) describes Corinth as a city of great wealth, the cult of Aphrodite, and religious pluralism. Pausanias (Description of Greece 2.1–5) details the temples and public spaces. Both sources confirm the moral and religious environment Paul addresses in the letter, including ritual prostitution and pervasive idolatry.",
+          "pt": "Estrabão (Geografia 8.6.20) descreve Corinto como uma cidade de grande riqueza, culto a Afrodite e pluralismo religioso. Pausânias (Descrição da Grécia 2.1–5) detalha os templos e espaços públicos. Ambas as fontes confirmam o ambiente moral e religioso que Paulo aborda na carta, incluindo a prostituição ritual e a idolatria onipresente."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cartas Paulinas Paralelas y Tradición Apostólica (Clemente de Roma, 1 Clemente)",
+          "en": "Parallel Pauline Letters and Apostolic Tradition (Clement of Rome, 1 Clement)",
+          "pt": "Cartas Paulinas Paralelas e Tradição Apostólica (Clemente de Roma, 1 Clemente)"
+        },
+        "origen": {
+          "es": "1 Clemente (c. 96 d.C.), carta de Roma a Corinto, la más antigua carta cristiana fuera del NT",
+          "en": "1 Clement (c. AD 96), letter from Rome to Corinth, the earliest Christian letter outside the NT",
+          "pt": "1 Clemente (c. 96 d.C.), carta de Roma a Corinto, a mais antiga carta cristã fora do NT"
+        },
+        "relevancia": {
+          "es": "1 Clemente cita explícitamente 1 Corintios y revela que las divisiones en Corinto persistían décadas después. Confirma la autenticidad paulina, la canonicidad temprana de la carta, y el patrón de disensiones eclesiásticas que Pablo ya abordaba alrededor del 54 d.C.",
+          "en": "1 Clement explicitly cites 1 Corinthians and reveals that divisions in Corinth persisted decades later. It confirms Pauline authenticity, the letter's early canonical status, and the pattern of ecclesiastical dissensions Paul was already addressing around AD 54.",
+          "pt": "1 Clemente cita explicitamente 1 Coríntios e revela que as divisões em Corinto persistiam décadas depois. Confirma a autenticidade paulina, o status canônico precoce da carta e o padrão de dissensões eclesiásticas que Paulo já abordava por volta de 54 d.C."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia histórica concierne a la reconstrucción de la situación en Corinto: algunos eruditos (p. ej., Thiselton, Fee) argumentan que el problema central era el 'entusiasmo espiritista' (pneumatismo proto-gnóstico) donde algunos corintios creían que ya reinaban espiritualmente y habían superado limitaciones corporales (1Co 4:8; 1Co 15). Otros (p. ej., Winter) enfatizan más bien el impacto del patronazgo social romano y la competencia retórica sofística. La tradición reformada, siguiendo a Calvino, identifica ambas dimensiones: orgullo intelectual y desorden eclesiástico son dos caras del mismo pecado de autonomía. Una segunda controversia concierne a si Pablo respondía a una carta previa de los corintios (1Co 7:1) o a informes orales de la 'gente de Cloe' (1Co 1:11), o ambos; el consenso académico acepta que Pablo responde a ambas fuentes de información.",
+      "en": "The main historical controversy concerns the reconstruction of the situation in Corinth: some scholars (e.g., Thiselton, Fee) argue that the central problem was 'spiritual enthusiasm' (proto-gnostic pneumatism) where some Corinthians believed they already reigned spiritually and had transcended bodily limitations (1Cor 4:8; 1Cor 15). Others (e.g., Winter) instead emphasize the impact of Roman social patronage and sophistic rhetorical competition. The Reformed tradition, following Calvin, identifies both dimensions: intellectual pride and ecclesiastical disorder are two sides of the same sin of autonomy. A second controversy concerns whether Paul was responding to a prior letter from the Corinthians (1Cor 7:1) or oral reports from 'Chloe's people' (1Cor 1:11), or both; the scholarly consensus accepts that Paul responds to both sources of information.",
+      "pt": "A principal controvérsia histórica diz respeito à reconstrução da situação em Corinto: alguns estudiosos (p. ex., Thiselton, Fee) argumentam que o problema central era o 'entusiasmo espiritual' (pneumatismo proto-gnóstico) onde alguns coríntios acreditavam que já reinavam espiritualmente e haviam superado as limitações corporais (1Co 4:8; 1Co 15). Outros (p. ex., Winter) enfatizam antes o impacto do patronato social romano e da competição retórica sofística. A tradição reformada, seguindo Calvino, identifica ambas as dimensões: orgulho intelectual e desordem eclesiástica são dois lados do mesmo pecado de autonomia. Uma segunda controvérsia diz respeito a se Paulo estava respondendo a uma carta anterior dos coríntios (1Co 7:1) ou a relatos orais da 'gente de Cloé' (1Co 1:11), ou a ambos; o consenso acadêmico aceita que Paulo responde a ambas as fontes de informação."
+    },
+    "cronologiaInterna": {
+      "es": "Pablo escribe desde Éfeso (1Co 16:8) y planea permanecer allí hasta Pentecostés antes de visitar Corinto. Menciona haber escrito una carta previa (1Co 5:9) que no se ha conservado. Timoteo ya ha sido enviado a Corinto (1Co 4:17; 1Co 16:10–11). Apolo está en Éfeso o tiene planeado visitar Corinto (1Co 16:12). La carta menciona la 'gente de Cloe' (1Co 1:11) como portadores de noticias, y Estéfanas, Fortunato y Acaico como visitantes recientes de Corinto (1Co 16:17). La Cena del Señor ya está establecida como práctica regular (1Co 11:17–34). Las divisiones en la iglesia (1Co 1:10–17) y el caso de inmoralidad (1Co 5) son situaciones presentes al momento de la escritura.",
+      "en": "Paul writes from Ephesus (1Cor 16:8) and plans to remain there until Pentecost before visiting Corinth. He mentions having written a previous letter (1Cor 5:9) that has not survived. Timothy has already been sent to Corinth (1Cor 4:17; 1Cor 16:10–11). Apollos is in Ephesus or plans to visit Corinth (1Cor 16:12). The letter mentions 'Chloe's people' (1Cor 1:11) as bearers of news, and Stephanas, Fortunatus, and Achaicus as recent visitors from Corinth (1Cor 16:17). The Lord's Supper is already established as a regular practice (1Cor 11:17–34). Divisions in the church (1Cor 1:10–17) and the case of immorality (1Cor 5) are situations present at the time of writing.",
+      "pt": "Paulo escreve de Éfeso (1Co 16:8) e planeja permanecer lá até o Pentecostes antes de visitar Corinto. Ele menciona ter escrito uma carta anterior (1Co 5:9) que não foi preservada. Timóteo já foi enviado a Corinto (1Co 4:17; 1Co 16:10–11). Apolo está em Éfeso ou planeja visitar Corinto (1Co 16:12). A carta menciona a 'gente de Cloé' (1Co 1:11) como portadores de notícias, e Estéfanas, Fortunato e Acaico como visitantes recentes de Corinto (1Co 16:17). A Ceia do Senhor já está estabelecida como prática regular (1Co 11:17–34). As divisões na igreja (1Co 1:10–17) e o caso de imoralidade (1Co 5) são situações presentes no momento da escrita."
+    }
+  },
+  "ordenEnDivision": 2,
+  "ordenCanon": 46,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Cristo crucificado es el centro absoluto de 1 Corintios: toda sabiduría, poder, unidad y esperanza de la iglesia fluyen de la cruz y la resurrección. En 1Co 1:18–2:5, Pablo proclama que la cruz es la sabiduría y el poder de Dios en contraposición a la sabiduría humana; en 1Co 15, la resurrección corporal de Cristo es el fundamento de toda esperanza escatológica y el eje de la nueva creación. La Cena del Señor (1Co 11:23–26) proclama la muerte del Señor hasta que Él venga, anclando la vida comunitaria de la iglesia en el pacto de la sangre de Cristo. Los dones del Espíritu (1Co 12–14) son dado por el Señor exaltado para la edificación del cuerpo de Cristo. Cristológicamente, el libro es fundamental para la doctrina de la segunda venida y el estado intermedio (1Co 15:20–28), y para la comprensión del 'segundo Adán' en la teología del pacto (1Co 15:45–49).",
+      "en": "Christ crucified is the absolute center of 1 Corinthians: all the wisdom, power, unity, and hope of the church flow from the cross and resurrection. In 1Cor 1:18–2:5, Paul proclaims the cross as God's wisdom and power in contrast to human wisdom; in 1Cor 15, the bodily resurrection of Christ is the foundation of all eschatological hope and the axis of the new creation. The Lord's Supper (1Cor 11:23–26) proclaims the Lord's death until he comes, anchoring the church's communal life in the covenant of Christ's blood. The Spirit's gifts (1Cor 12–14) are given by the exalted Lord for the edification of Christ's body. Christologically, the book is foundational for the doctrine of the second coming and the intermediate state (1Cor 15:20–28), and for understanding the 'second Adam' in covenant theology (1Cor 15:45–49).",
+      "pt": "Cristo crucificado é o centro absoluto de 1 Coríntios: toda sabedoria, poder, unidade e esperança da igreja fluem da cruz e da ressurreição. Em 1Co 1:18–2:5, Paulo proclama que a cruz é a sabedoria e o poder de Deus em contraste com a sabedoria humana; em 1Co 15, a ressurreição corporal de Cristo é o fundamento de toda esperança escatológica e o eixo da nova criação. A Ceia do Senhor (1Co 11:23–26) proclama a morte do Senhor até que Ele venha, ancorando a vida comunitária da igreja no pacto do sangue de Cristo. Os dons do Espírito (1Co 12–14) são dados pelo Senhor exaltado para a edificação do corpo de Cristo. Cristologicamente, o livro é fundamental para a doutrina da segunda vinda e do estado intermediário (1Co 15:20–28), e para a compreensão do 'segundo Adão' na teologia do pacto (1Co 15:45–49)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El Éxodo e Israel en el desierto como tipo del nuevo éxodo de la iglesia en Cristo: Pablo aplica tipológicamente las experiencias de Israel (cruce del Mar Rojo, maná, agua de la roca, idolatría) como advertencias para la iglesia del nuevo pacto (1Co 10:1–13). La roca que los acompañaba era Cristo (1Co 10:4).",
+        "en": "The Exodus and Israel in the wilderness as a type of the church's new exodus in Christ: Paul typologically applies Israel's experiences (crossing the Red Sea, manna, water from the rock, idolatry) as warnings for the new covenant church (1Cor 10:1–13). The rock that accompanied them was Christ (1Cor 10:4).",
+        "pt": "O Êxodo e Israel no deserto como tipo do novo êxodo da igreja em Cristo: Paulo aplica tipologicamente as experiências de Israel (travessia do Mar Vermelho, maná, água da rocha, idolatria) como advertências para a igreja do novo pacto (1Co 10:1–13). A rocha que os acompanhava era Cristo (1Co 10:4)."
+      },
+      {
+        "es": "Adán como tipo del segundo Adán, Cristo resurrecto: Pablo desarrolla la tipología Adán-Cristo al contrastar la muerte traída por el primer Adán con la vida traída por Cristo, el último Adán y espíritu vivificante (1Co 15:45–49). Así se ancla la resurrección corporal en la teología del pacto de la creación y la redención.",
+        "en": "Adam as a type of the second Adam, the risen Christ: Paul develops the Adam-Christ typology by contrasting the death brought by the first Adam with the life brought by Christ, the last Adam and life-giving spirit (1Cor 15:45–49). This anchors bodily resurrection in the covenant theology of creation and redemption.",
+        "pt": "Adão como tipo do segundo Adão, Cristo ressuscitado: Paulo desenvolve a tipologia Adão-Cristo ao contrastar a morte trazida pelo primeiro Adão com a vida trazida por Cristo, o último Adão e espírito vivificante (1Co 15:45–49). Assim, a ressurreição corporal é ancorada na teologia do pacto da criação e da redenção."
+      },
+      {
+        "es": "La Pascua como tipo de Cristo, nuestro Cordero pascual: Pablo invoca explícitamente la tipología de la Pascua al llamar a Cristo 'nuestra Pascua' inmolada (1Co 5:7), fundando el llamado a la santidad de la iglesia en el cumplimiento del tipo veterotestamentario en la cruz.",
+        "en": "The Passover as a type of Christ, our paschal Lamb: Paul explicitly invokes Passover typology by calling Christ 'our Passover lamb' who has been sacrificed (1Cor 5:7), grounding the call to church holiness in the fulfillment of the Old Testament type in the cross.",
+        "pt": "A Páscoa como tipo de Cristo, nosso Cordeiro pascal: Paulo invoca explicitamente a tipologia da Páscoa ao chamar Cristo de 'nossa Páscoa' imolada (1Co 5:7), fundamentando o chamado à santidade da igreja no cumprimento do tipo veterotestamentário na cruz."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "1 Corintios es la contribución canónica única a la teología de la iglesia como cuerpo de Cristo con dones diversificados (1Co 12), al himno supremo al amor ágape (1Co 13), a la defensa más extensa del NT sobre la resurrección corporal (1Co 15) y al relato más antiguo de la institución de la Cena del Señor (1Co 11:23–26, anterior incluso a los Evangelios sinópticos). Ningún otro libro bíblico integra tan plenamente la eclesiología, la pneumatología, la escatología y la ética práctica en una sola carta.",
+    "en": "1 Corinthians is the unique canonical contribution to the theology of the church as the body of Christ with diverse gifts (1Cor 12), to the supreme hymn to agape love (1Cor 13), to the NT's most extensive defense of bodily resurrection (1Cor 15), and to the earliest account of the institution of the Lord's Supper (1Cor 11:23–26, earlier even than the Synoptic Gospels). No other biblical book integrates ecclesiology, pneumatology, eschatology, and practical ethics so fully in a single letter.",
+    "pt": "1 Coríntios é a contribuição canônica única para a teologia da igreja como corpo de Cristo com dons diversificados (1Co 12), para o hino supremo ao amor ágape (1Co 13), para a defesa mais extensa do NT sobre a ressurreição corporal (1Co 15) e para o relato mais antigo da instituição da Ceia do Senhor (1Co 11:23–26, anterior até mesmo aos Evangelhos sinópticos). Nenhum outro livro bíblico integra tão plenamente a eclesiologia, a pneumatologia, a escatologia e a ética prática em uma única carta."
+  },
+  "genero": {
+    "es": "Epístola pastoral-didáctica",
+    "en": "Pastoral-didactic epistle",
+    "pt": "Epístola pastoral-didática"
+  },
+  "palabraClave": {
+    "es": [
+      "Cruz",
+      "Resurrección",
+      "Unidad",
+      "Amor",
+      "Cuerpo"
+    ],
+    "en": [
+      "Cross",
+      "Resurrection",
+      "Unity",
+      "Love",
+      "Body"
+    ],
+    "pt": [
+      "Cruz",
+      "Ressurreição",
+      "Unidade",
+      "Amor",
+      "Corpo"
+    ]
+  },
+  "destinatario": {
+    "es": "La iglesia de Dios que está en Corinto, junto con todos los que invocan el nombre del Señor Jesucristo en todo lugar (1Co 1:2): una congregación mixta de judíos y gentiles en una ciudad portuaria cosmopolita romana, afectada por divisiones facciosas, inmoralidad sexual, litigios, confusión sobre el matrimonio y el celibato, idolatría, desórdenes en la Cena del Señor y la adoración, y negación de la resurrección.",
+    "en": "The church of God that is in Corinth, together with all those who invoke the name of the Lord Jesus Christ in every place (1Cor 1:2): a mixed Jewish and Gentile congregation in a cosmopolitan Roman port city, affected by factional divisions, sexual immorality, lawsuits, confusion about marriage and celibacy, idolatry, disorders at the Lord's Supper and in worship, and denial of the resurrection.",
+    "pt": "A igreja de Deus que está em Corinto, junto com todos os que invocam o nome do Senhor Jesus Cristo em todo lugar (1Co 1:2): uma congregação mista de judeus e gentios em uma cidade portuária cosmopolita romana, afetada por divisões facciosas, imoralidade sexual, litígios, confusão sobre o casamento e o celibato, idolatria, desordens na Ceia do Senhor e no culto, e negação da ressurreição."
+  },
+  "proposito": {
+    "es": "Propósito histórico: Corregir los múltiples problemas prácticos y doctrinales que habían llegado al conocimiento de Pablo mediante la carta de los corintios (1Co 7:1) y los informes orales de la gente de Cloe (1Co 1:11), incluyendo divisiones, inmoralidad, litigios, confusión doctrinal sobre el matrimonio, alimentos ofrecidos a ídolos, los dones espirituales y la resurrección. Propósito teológico: Reorientar toda la vida de la iglesia hacia el evangelio de Cristo crucificado y resucitado (1Co 1:18; 1Co 15:3–4), enseñando que la cruz subvierte toda sabiduría humana y que la resurrección futura fundamenta la santidad presente, el servicio sacrificial y la esperanza escatológica.",
+    "en": "Historical purpose: To correct the multiple practical and doctrinal problems that had come to Paul's attention through the letter from the Corinthians (1Cor 7:1) and the oral reports of Chloe's people (1Cor 1:11), including divisions, immorality, lawsuits, doctrinal confusion about marriage, food offered to idols, spiritual gifts, and the resurrection. Theological purpose: To reorient the entire life of the church toward the gospel of Christ crucified and risen (1Cor 1:18; 1Cor 15:3–4), teaching that the cross subverts all human wisdom and that the future resurrection grounds present holiness, sacrificial service, and eschatological hope.",
+    "pt": "Propósito histórico: Corrigir os múltiplos problemas práticos e doutrinários que chegaram ao conhecimento de Paulo por meio da carta dos coríntios (1Co 7:1) e dos relatos orais da gente de Cloé (1Co 1:11), incluindo divisões, imoralidade, litígios, confusão doutrinária sobre o casamento, alimentos oferecidos a ídolos, os dons espirituais e a ressurreição. Propósito teológico: Reorientar toda a vida da igreja em direção ao evangelho de Cristo crucificado e ressuscitado (1Co 1:18; 1Co 15:3–4), ensinando que a cruz subverte toda sabedoria humana e que a ressurreição futura fundamenta a santidade presente, o serviço sacrificial e a esperança escatológica."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pablo",
+        "en": "Paul",
+        "pt": "Paulo"
+      },
+      "hebreo": "Παῦλος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo por la voluntad de Dios, fundador de la iglesia en Corinto durante su segundo viaje misionero, autor de la carta. Escribe desde Éfeso para corregir los problemas de la iglesia corintia y reafirmar el evangelio de Cristo crucificado.",
+        "en": "Apostle of Jesus Christ by the will of God, founder of the church in Corinth during his second missionary journey, author of the letter. He writes from Ephesus to correct the problems of the Corinthian church and reaffirm the gospel of Christ crucified.",
+        "pt": "Apóstolo de Jesus Cristo pela vontade de Deus, fundador da igreja em Corinto durante sua segunda viagem missionária, autor da carta. Escreve de Éfeso para corrigir os problemas da igreja coríntia e reafirmar o evangelho de Cristo crucificado."
+      },
+      "acciones": {
+        "es": "Funda la iglesia en Corinto (1Co 3:10; 1Co 4:15), defiende su apostolado (1Co 9:1–27), corrige la inmoralidad y las divisiones (1Co 1:10–17; 1Co 5–6), instruye sobre el matrimonio y el celibato (1Co 7), la conducta en el culto (1Co 11–14) y la resurrección (1Co 15), y coordina la colecta para Jerusalén (1Co 16:1–4).",
+        "en": "He founds the church in Corinth (1Cor 3:10; 1Cor 4:15), defends his apostolate (1Cor 9:1–27), corrects immorality and divisions (1Cor 1:10–17; 1Cor 5–6), instructs on marriage and celibacy (1Cor 7), conduct in worship (1Cor 11–14) and the resurrection (1Cor 15), and coordinates the collection for Jerusalem (1Cor 16:1–4).",
+        "pt": "Funda a igreja em Corinto (1Co 3:10; 1Co 4:15), defende seu apostolado (1Co 9:1–27), corrige a imoralidade e as divisões (1Co 1:10–17; 1Co 5–6), instrui sobre o casamento e o celibato (1Co 7), a conduta no culto (1Co 11–14) e a ressurreição (1Co 15), e coordena a coleta para Jerusalém (1Co 16:1–4)."
+      },
+      "significadoTeologico": {
+        "es": "Pablo encarna el modelo apostólico del ministerio como servicio sacrificial (1Co 4:9–13; 1Co 9:19–23): abdica de derechos legítimos por el bien del evangelio. Su defensa de la necedad de la cruz (1Co 1:18–2:5) y su testimonio personal de haber recibido el evangelio por revelación (1Co 15:8–10) son fundacionales para la eclesiología reformada.",
+        "en": "Paul embodies the apostolic model of ministry as sacrificial service (1Cor 4:9–13; 1Cor 9:19–23): he waives legitimate rights for the sake of the gospel. His defense of the foolishness of the cross (1Cor 1:18–2:5) and his personal testimony of having received the gospel by revelation (1Cor 15:8–10) are foundational for Reformed ecclesiology.",
+        "pt": "Paulo encarna o modelo apostólico do ministério como serviço sacrificial (1Co 4:9–13; 1Co 9:19–23): abdica de direitos legítimos pelo bem do evangelho. Sua defesa da loucura da cruz (1Co 1:18–2:5) e seu testemunho pessoal de ter recebido o evangelho por revelação (1Co 15:8–10) são fundamentais para a eclesiologia reformada."
+      },
+      "tipo": {
+        "es": "No funciona primariamente como tipo de Cristo, sino como modelo de ministro del nuevo pacto que se identifica con la debilidad de la cruz (1Co 4:10).",
+        "en": "He does not function primarily as a type of Christ, but as a model minister of the new covenant who identifies with the weakness of the cross (1Cor 4:10).",
+        "pt": "Não funciona primariamente como tipo de Cristo, mas como modelo de ministro do novo pacto que se identifica com a fraqueza da cruz (1Co 4:10)."
+      },
+      "caracterMoral": {
+        "es": "Humilde en presencia personal pero audaz en autoridad apostólica (1Co 2:1–5; 1Co 4:21); sacrificial en el ejercicio de sus derechos (1Co 9); apasionado defensor de la doctrina ortodoxa; modelo de amor ágape como el que describe en 1Co 13.",
+        "en": "Humble in personal presence but bold in apostolic authority (1Cor 2:1–5; 1Cor 4:21); self-sacrificing in the exercise of his rights (1Cor 9); passionate defender of orthodox doctrine; a model of the agape love he describes in 1Cor 13.",
+        "pt": "Humilde em presença pessoal, mas audacioso em autoridade apostólica (1Co 2:1–5; 1Co 4:21); sacrificial no exercício de seus direitos (1Co 9); defensor apaixonado da doutrina ortodoxa; modelo do amor ágape que descreve em 1Co 13."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Pablo, apóstol llamado directamente por Cristo resucitado (1Co 15:8–9), fundó la iglesia en Corinto y ministró allí año y medio (Hch 18:11). Escribe esta carta como padre espiritual de la congregación (1Co 4:15) para corregir divisiones, inmoralidad y errores doctrinales, y para defender el evangelio de la resurrección como fundamento de toda la vida cristiana.",
+          "en": "Paul, an apostle called directly by the risen Christ (1Cor 15:8–9), founded the church in Corinth and ministered there for eighteen months (Acts 18:11). He writes this letter as the congregation's spiritual father (1Cor 4:15) to correct divisions, immorality, and doctrinal errors, and to defend the gospel of the resurrection as the foundation of all Christian life.",
+          "pt": "Paulo, apóstolo chamado diretamente por Cristo ressuscitado (1Co 15:8–9), fundou a igreja em Corinto e ministrou lá por dezoito meses (At 18:11). Ele escreve esta carta como pai espiritual da congregação (1Co 4:15) para corrigir divisões, imoralidade e erros doutrinários, e para defender o evangelho da ressurreição como fundamento de toda a vida cristã."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Co 1:1",
+          "1Co 4:15",
+          "1Co 9:1",
+          "1Co 15:8–10"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Pablo, ciudadano romano de Tarso de Cilicia, fariseo educado bajo Gamaliel (Hch 22:3), perseguidor de la iglesia convertido por una visión del Cristo resucitado en el camino a Damasco (c. 33–35 d.C.). Su tercer viaje misionero (c. 53–57 d.C.) incluyó un ministerio de dos a tres años en Éfeso desde donde escribió 1 Corintios. La inscripción proconsular de Galión en Delfos (c. 51–52 d.C.) proporciona el ancla cronológica externa más sólida para datar el ministerio paulino en Corinto.",
+          "en": "Paul, a Roman citizen from Tarsus of Cilicia, a Pharisee educated under Gamaliel (Acts 22:3), a persecutor of the church converted by a vision of the risen Christ on the road to Damascus (c. AD 33–35). His third missionary journey (c. AD 53–57) included a two-to-three-year ministry in Ephesus from which he wrote 1 Corinthians. The proconsular inscription of Gallio at Delphi (c. AD 51–52) provides the strongest external chronological anchor for dating Paul's ministry in Corinth.",
+          "pt": "Paulo, cidadão romano de Tarso da Cilícia, fariseu educado sob Gamaliel (At 22:3), perseguidor da igreja convertido por uma visão do Cristo ressuscitado no caminho para Damasco (c. 33–35 d.C.). Sua terceira viagem missionária (c. 53–57 d.C.) incluiu um ministério de dois a três anos em Éfeso, de onde escreveu 1 Coríntios. A inscrição proconsular de Gálio em Delfos (c. 51–52 d.C.) fornece a âncora cronológica externa mais sólida para datar o ministério paulino em Corinto."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Introduction",
+              "Historical Background"
+            ]
+          },
+          {
+            "titulo": "The First Epistle to the Corinthians (NIGTC)",
+            "autor": "Gordon D. Fee",
+            "año": 1987,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Author",
+              "Historical Background"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La evidencia externa (inscripción de Galión, cartas de Clemente, epístolas ignacianas) confirma ampliamente el ministerio paulino en Corinto y la autenticidad de la carta. No hay contradicción conocida entre la narrativa de Hechos y la carta.",
+          "en": "External evidence (Gallio inscription, letters of Clement, Ignatian epistles) broadly confirms Paul's ministry in Corinth and the letter's authenticity. No known contradiction exists between the Acts narrative and the letter.",
+          "pt": "As evidências externas (inscrição de Gálio, cartas de Clemente, epístolas ignacianas) confirmam amplamente o ministério paulino em Corinto e a autenticidade da carta. Não há contradição conhecida entre a narrativa de Atos e a carta."
+        }
+      },
+      "versiculosAsociados": [
+        "1Co 1:1",
+        "1Co 1:10–17",
+        "1Co 2:1–5",
+        "1Co 4:9–15",
+        "1Co 9:1–27",
+        "1Co 15:8–10"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "2Ti",
+        "Tit",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo es el autor de trece epístolas del NT. Su teología de la cruz y la resurrección desarrollada en 1 Corintios es el núcleo de todo su corpus epistolar. En Gá 2:8–9 se describe su comisión apostólica reconocida por los pilares de la iglesia.",
+        "en": "Paul is the author of thirteen NT epistles. His theology of the cross and resurrection developed in 1 Corinthians is the core of his entire epistolary corpus. In Gal 2:8–9 his apostolic commission recognized by the pillars of the church is described.",
+        "pt": "Paulo é o autor de treze epístolas do NT. Sua teologia da cruz e da ressurreição desenvolvida em 1 Coríntios é o núcleo de todo o seu corpus epistolar. Em Gl 2:8–9, é descrita sua comissão apostólica reconhecida pelos pilares da igreja."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Apolos",
+        "en": "Apollos",
+        "pt": "Apolo"
+      },
+      "hebreo": "Ἀπολλώς",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        3,
+        4,
+        16
+      ],
+      "descripcion": {
+        "es": "Erudito maestro judío alejandrino, poderoso en las Escrituras, que ministró en Corinto después de Pablo. Algunos corintios se identificaban como seguidores de Apolos, creando una facción divisiva en la iglesia (1Co 1:12).",
+        "en": "Learned Alexandrian Jewish teacher, powerful in the Scriptures, who ministered in Corinth after Paul. Some Corinthians identified themselves as followers of Apollos, creating a divisive faction in the church (1Cor 1:12).",
+        "pt": "Erudito mestre judeu alexandrino, poderoso nas Escrituras, que ministrou em Corinto depois de Paulo. Alguns coríntios se identificavam como seguidores de Apolo, criando uma facção divisiva na igreja (1Co 1:12)."
+      },
+      "acciones": {
+        "es": "Regado lo que Pablo sembró en Corinto (1Co 3:6); mencionado como colaborador apostólico sin competencia con Pablo (1Co 3:5–9; 1Co 4:6); se encuentra en Éfeso al momento de la escritura de la carta y no quiere volver a Corinto aún (1Co 16:12).",
+        "en": "Watered what Paul planted in Corinth (1Cor 3:6); mentioned as an apostolic fellow-worker without competition with Paul (1Cor 3:5–9; 1Cor 4:6); is in Ephesus at the time the letter is written and does not want to return to Corinth yet (1Cor 16:12).",
+        "pt": "Regou o que Paulo plantou em Corinto (1Co 3:6); mencionado como colaborador apostólico sem competição com Paulo (1Co 3:5–9; 1Co 4:6); está em Éfeso no momento em que a carta é escrita e não quer voltar a Corinto ainda (1Co 16:12)."
+      },
+      "significadoTeologico": {
+        "es": "La mención de Apolos sirve para ilustrar que los ministros son siervos instrumentales de Dios (1Co 3:5–9): ni Pablo ni Apolos son el fundamento de la iglesia; solo Cristo lo es (1Co 3:11). Así Pablo desmantela el culto a la personalidad que estaba destruyendo la unidad.",
+        "en": "The mention of Apollos serves to illustrate that ministers are God's instrumental servants (1Cor 3:5–9): neither Paul nor Apollos is the foundation of the church; only Christ is (1Cor 3:11). Thus Paul dismantles the personality cult that was destroying unity.",
+        "pt": "A menção de Apolo serve para ilustrar que os ministros são servos instrumentais de Deus (1Co 3:5–9): nem Paulo nem Apolo são o fundamento da igreja; somente Cristo o é (1Co 3:11). Assim Paulo desmonta o culto à personalidade que estava destruindo a unidade."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo.",
+        "en": "Does not function as a type of Christ.",
+        "pt": "Não funciona como tipo de Cristo."
+      },
+      "caracterMoral": {
+        "es": "Descrito en Hch 18:24–28 como hombre elocuente, ferviente en el espíritu, instruido en el camino del Señor. Parece haber mantenido una relación cordial con Pablo y no promovió voluntariamente las divisiones en Corinto.",
+        "en": "Described in Acts 18:24–28 as an eloquent man, fervent in spirit, instructed in the way of the Lord. He appears to have maintained a cordial relationship with Paul and did not voluntarily promote the divisions in Corinth.",
+        "pt": "Descrito em At 18:24–28 como homem eloquente, fervoroso no espírito, instruído no caminho do Senhor. Parece ter mantido uma relação cordial com Paulo e não promoveu voluntariamente as divisões em Corinto."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Apolos era un judío alejandrino elocuente que ministró en Éfeso y Corinto (Hch 18:24–19:1). En Corinto regó la semilla plantada por Pablo (1Co 3:6), pero su elocuencia fue mal utilizada por algunos corintios para crear una facción. Pablo lo defiende como colaborador, no competidor, y lo llama hermano (1Co 16:12).",
+          "en": "Apollos was an eloquent Alexandrian Jew who ministered in Ephesus and Corinth (Acts 18:24–19:1). In Corinth he watered the seed planted by Paul (1Cor 3:6), but his eloquence was misused by some Corinthians to create a faction. Paul defends him as a co-worker, not a competitor, and calls him brother (1Cor 16:12).",
+          "pt": "Apolo era um judeu alexandrino eloquente que ministrou em Éfeso e Corinto (At 18:24–19:1). Em Corinto regou a semente plantada por Paulo (1Co 3:6), mas sua eloquência foi mal utilizada por alguns coríntios para criar uma facção. Paulo o defende como colaborador, não competidor, e o chama de irmão (1Co 16:12)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Co 1:12",
+          "1Co 3:6",
+          "1Co 16:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Judío alejandrino instruido en la tradición escritural y en la retórica helenística. Alejandría era conocida por su síntesis de filosofía griega y tradición judía (Filón). Apolos fue instruido más precisamente en el camino del Señor por Priscila y Aquila en Éfeso (Hch 18:26). Ningún documento extrabíblico lo menciona directamente.",
+          "en": "An Alexandrian Jew trained in scriptural tradition and Hellenistic rhetoric. Alexandria was known for its synthesis of Greek philosophy and Jewish tradition (Philo). Apollos was more accurately instructed in the way of the Lord by Priscilla and Aquila in Ephesus (Acts 18:26). No extra-biblical document mentions him directly.",
+          "pt": "Um judeu alexandrino treinado na tradição escritural e na retórica helenística. Alexandria era conhecida por sua síntese de filosofia grega e tradição judaica (Fílon). Apolo foi mais precisamente instruído no caminho do Senhor por Priscila e Áquila em Éfeso (At 18:26). Nenhum documento extrabíblico o menciona diretamente."
+        },
+        "fuentes": [
+          {
+            "titulo": "Acts: An Exegetical Commentary",
+            "autor": "Craig S. Keener",
+            "año": 2014,
+            "editorial": "Baker Academic",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Acts 18:24–28"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Los datos internos de 1 Corintios concuerdan con la presentación de Hechos. La falta de evidencia extrabíblica no contradice el texto.",
+          "en": "The internal data of 1 Corinthians agree with the presentation in Acts. The lack of extra-biblical evidence does not contradict the text.",
+          "pt": "Os dados internos de 1 Coríntios concordam com a apresentação de Atos. A falta de evidências extrabíblicas não contradiz o texto."
+        }
+      },
+      "versiculosAsociados": [
+        "1Co 1:12",
+        "1Co 3:4–9",
+        "1Co 4:6",
+        "1Co 16:12"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Tit"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo lo menciona en Tit 3:13 como colaborador que debe ser asistido. Hch 18:24–28 provee su perfil más completo. Algunos lo han propuesto como posible autor de Hebreos, pero esto es especulativo.",
+        "en": "Paul mentions him in Titus 3:13 as a co-worker to be assisted. Acts 18:24–28 provides his most complete profile. Some have proposed him as a possible author of Hebrews, but this is speculative.",
+        "pt": "Paulo o menciona em Tt 3:13 como colaborador que deve ser assistido. At 18:24–28 fornece seu perfil mais completo. Alguns o propuseram como possível autor de Hebreus, mas isso é especulativo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Estéfanas",
+        "en": "Stephanas",
+        "pt": "Estéfanas"
+      },
+      "hebreo": "Στεφανᾶς",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        16
+      ],
+      "descripcion": {
+        "es": "Cabeza de la primera familia bautizada por Pablo en Acaya (1Co 1:16) y líder de la delegación corintia que visitó a Pablo en Éfeso (1Co 16:17). Pablo exhorta a la iglesia a sujetarse a él y a los que cooperan en la obra (1Co 16:15–16).",
+        "en": "Head of the first household baptized by Paul in Achaia (1Cor 1:16) and leader of the Corinthian delegation that visited Paul in Ephesus (1Cor 16:17). Paul urges the church to submit to him and to those who cooperate in the work (1Cor 16:15–16).",
+        "pt": "Chefe da primeira família batizada por Paulo na Acaia (1Co 1:16) e líder da delegação coríntia que visitou Paulo em Éfeso (1Co 16:17). Paulo exorta a igreja a se sujeitar a ele e aos que cooperam na obra (1Co 16:15–16)."
+      },
+      "acciones": {
+        "es": "Bautizado personalmente por Pablo (1Co 1:16); su casa se ha dedicado al servicio de los santos (1Co 16:15); visita a Pablo en Éfeso junto con Fortunato y Acaico, trayendo noticias de Corinto (1Co 16:17–18).",
+        "en": "Personally baptized by Paul (1Cor 1:16); his household has devoted itself to the service of the saints (1Cor 16:15); visits Paul in Ephesus together with Fortunatus and Achaicus, bringing news from Corinth (1Cor 16:17–18).",
+        "pt": "Batizado pessoalmente por Paulo (1Co 1:16); sua casa se dedicou ao serviço dos santos (1Co 16:15); visita Paulo em Éfeso junto com Fortunato e Acaico, trazendo notícias de Corinto (1Co 16:17–18)."
+      },
+      "significadoTeologico": {
+        "es": "Estéfanas ilustra el modelo neotestamentario de liderazgo de servicio dentro de la iglesia local: su autoridad surge del servicio a los santos, no del estatus social. Pablo lo usa como ejemplo de liderazgo legítimo frente a las facciones divisivas (1Co 16:15–16).",
+        "en": "Stephanas illustrates the New Testament model of servant leadership within the local church: his authority arises from service to the saints, not from social status. Paul uses him as an example of legitimate leadership in the face of divisive factions (1Cor 16:15–16).",
+        "pt": "Estéfanas ilustra o modelo neotestamentário de liderança de serviço dentro da igreja local: sua autoridade surge do serviço aos santos, não do status social. Paulo o usa como exemplo de liderança legítima diante das facções divisivas (1Co 16:15–16)."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo.",
+        "en": "Does not function as a type of Christ.",
+        "pt": "Não funciona como tipo de Cristo."
+      },
+      "caracterMoral": {
+        "es": "Fiel y dedicado al servicio de los santos (1Co 16:15); su visita a Pablo refresca el espíritu del apóstol (1Co 16:18).",
+        "en": "Faithful and devoted to the service of the saints (1Cor 16:15); his visit to Paul refreshes the apostle's spirit (1Cor 16:18).",
+        "pt": "Fiel e dedicado ao serviço dos santos (1Co 16:15); sua visita a Paulo refresca o espírito do apóstolo (1Co 16:18)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Estéfanas es la primicia de Acaya bautizada por Pablo (1Co 1:16; 1Co 16:15). Su casa se consagró al servicio de los santos, y Pablo lo presenta como modelo de liderazgo servicial que merece reconocimiento y sujeción de parte de la congregación.",
+          "en": "Stephanas is the firstfruits of Achaia baptized by Paul (1Cor 1:16; 1Cor 16:15). His household devoted itself to the service of the saints, and Paul presents him as a model of servant leadership worthy of recognition and submission from the congregation.",
+          "pt": "Estéfanas é as primícias da Acaia batizadas por Paulo (1Co 1:16; 1Co 16:15). Sua casa se consagrou ao serviço dos santos, e Paulo o apresenta como modelo de liderança de serviço que merece reconhecimento e sujeição por parte da congregação."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Co 1:16",
+          "1Co 16:15–18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay evidencia extrabíblica de Estéfanas. Su nombre es griego. El hecho de que su 'casa' haya sido bautizada y dedicada al servicio es consistente con la práctica de hogares como centros de la iglesia primitiva en el contexto romano del siglo I.",
+          "en": "There is no extra-biblical evidence for Stephanas. His name is Greek. The fact that his 'household' was baptized and dedicated to service is consistent with the practice of households as centers of the early church in the first-century Roman context.",
+          "pt": "Não há evidências extrabíblicas de Estéfanas. Seu nome é grego. O fato de que sua 'casa' foi batizada e dedicada ao serviço é consistente com a prática de casas como centros da igreja primitiva no contexto romano do século I."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "1 Corinthians Introduction"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "Los detalles internos de la carta son consistentes entre sí y con el contexto romano de iglesias domésticas.",
+          "en": "The internal details of the letter are consistent with each other and with the Roman context of house churches.",
+          "pt": "Os detalhes internos da carta são consistentes entre si e com o contexto romano de igrejas domésticas."
+        }
+      },
+      "versiculosAsociados": [
+        "1Co 1:16",
+        "1Co 16:15–18"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Estéfanas solo aparece en 1 Corintios. Su mención refleja el patrón de liderazgo doméstico que Pablo promueve en todas sus iglesias.",
+        "en": "Stephanas appears only in 1 Corinthians. His mention reflects the pattern of household leadership that Paul promotes in all his churches.",
+        "pt": "Estéfanas aparece apenas em 1 Coríntios. Sua menção reflete o padrão de liderança doméstica que Paulo promove em todas as suas igrejas."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Crispo",
+        "en": "Crispus",
+        "pt": "Crispo"
+      },
+      "hebreo": "Κρίσπος",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Gobernante de la sinagoga en Corinto, bautizado personalmente por Pablo junto con toda su casa (1Co 1:14; Hch 18:8). Su conversión fue un punto de inflexión en el ministerio paulino en Corinto y un testimonio público de la soberanía del evangelio sobre la élite religiosa judía de la ciudad.",
+        "en": "Ruler of the synagogue in Corinth, personally baptized by Paul along with his entire household (1Cor 1:14; Acts 18:8). His conversion was a turning point in Paul's ministry in Corinth and a public testimony to the gospel's sovereignty over the city's Jewish religious elite.",
+        "pt": "Governante da sinagoga em Corinto, batizado pessoalmente por Paulo junto com toda a sua casa (1Co 1:14; At 18:8). Sua conversão foi um ponto de inflexão no ministério paulino em Corinto e um testemunho público da soberania do evangelho sobre a elite religiosa judaica da cidade."
+      },
+      "acciones": {
+        "es": "Creyó en el Señor junto con toda su casa al escuchar la predicación de Pablo en Corinto (Hch 18:8). Pablo lo menciona en 1Co 1:14 al recordar que bautizó a pocos en Corinto, señalando que no vino a bautizar sino a predicar el evangelio, a fin de que la fe no se apoye en la sabiduría humana.",
+        "en": "He believed in the Lord together with his entire household upon hearing Paul's preaching in Corinth (Acts 18:8). Paul mentions him in 1Cor 1:14 when recalling that he baptized few in Corinth, noting that he came not to baptize but to preach the gospel, so that faith would not rest on human wisdom.",
+        "pt": "Creu no Senhor junto com toda a sua casa ao ouvir a pregação de Paulo em Corinto (At 18:8). Paulo o menciona em 1Co 1:14 ao recordar que batizou poucos em Corinto, observando que não veio para batizar, mas para pregar o evangelho, a fim de que a fé não se apoie na sabedoria humana."
+      },
+      "significadoTeologico": {
+        "es": "La conversión del gobernante de la sinagoga ilustra el principio de 1Co 1:26–29: Dios no escoge lo noble ni lo poderoso según criterios humanos, pero cuando lo hace, su conversión tiene impacto comunitario ('toda su casa'). Crispo también ejemplifica el patrón de conversión doméstica que caracteriza la extensión de la iglesia en Hechos.",
+        "en": "The conversion of the synagogue ruler illustrates the principle of 1Cor 1:26–29: God does not choose the noble or the powerful by human standards, but when he does, the conversion has communal impact ('his entire household'). Crispus also exemplifies the household conversion pattern that characterizes church expansion in Acts.",
+        "pt": "A conversão do governante da sinagoga ilustra o princípio de 1Co 1:26–29: Deus não escolhe o nobre nem o poderoso segundo critérios humanos, mas quando o faz, sua conversão tem impacto comunitário ('toda a sua casa'). Crispo também exemplifica o padrão de conversão doméstica que caracteriza a extensão da igreja em Atos."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo.",
+        "en": "Does not function as a type of Christ.",
+        "pt": "Não funciona como tipo de Cristo."
+      },
+      "caracterMoral": {
+        "es": "Su conversión junto con toda su casa implica una fe madura y responsabilidad patriarcal ante Dios. Era un líder respetado en la comunidad judía de Corinto, cuya conversión representó un alto costo social.",
+        "en": "His conversion together with his entire household implies mature faith and patriarchal responsibility before God. He was a respected leader in the Jewish community of Corinth, whose conversion represented a high social cost.",
+        "pt": "Sua conversão junto com toda a sua casa implica uma fé madura e responsabilidade patriarcal diante de Deus. Era um líder respeitado na comunidade judaica de Corinto, cuja conversão representou um alto custo social."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Crispo era el principal gobernante (ἀρχισυνάγωγος) de la sinagoga en Corinto. Según Hch 18:8, creyó en el Señor con toda su casa cuando Pablo predicaba en la sinagoga. Pablo lo identifica en 1Co 1:14 como uno de los poquísimos que bautizó personalmente en Corinto, junto con Gayo.",
+          "en": "Crispus was the chief ruler (archisunagogos) of the synagogue in Corinth. According to Acts 18:8, he believed in the Lord with his entire household when Paul was preaching in the synagogue. Paul identifies him in 1Cor 1:14 as one of the very few he personally baptized in Corinth, alongside Gaius.",
+          "pt": "Crispo era o principal governante (ἀρχισυνάγωγος) da sinagoga em Corinto. Segundo At 18:8, creu no Senhor com toda a sua casa quando Paulo pregava na sinagoga. Paulo o identifica em 1Co 1:14 como um dos pouquíssimos que batizou pessoalmente em Corinto, juntamente com Gaio."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Co 1:14",
+          "Hch 18:8"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El título ἀρχισυνάγωγος (gobernante de la sinagoga) está bien documentado en inscripciones del primer siglo en el mundo mediterráneo, indicando un cargo de liderazgo honorífico y administrativo en la sinagoga. La inscripción fragmentaria hallada en Corinto con la mención 'sinagoga de los hebreos' corrobora la presencia judía organizada en la ciudad. No hay mención extrabíblica directa de Crispo.",
+          "en": "The title archisunagogos (ruler of the synagogue) is well documented in first-century inscriptions throughout the Mediterranean world, indicating an honorific and administrative leadership role in the synagogue. The fragmentary inscription found at Corinth mentioning 'synagogue of the Hebrews' corroborates organized Jewish presence in the city. There is no direct extra-biblical mention of Crispus.",
+          "pt": "O título ἀρχισυνάγωγος (governante da sinagoga) está bem documentado em inscrições do século I em todo o mundo mediterrâneo, indicando um cargo de liderança honorífico e administrativo na sinagoga. A inscrição fragmentária encontrada em Corinto com a menção 'sinagoga dos hebreus' corrobora a presença judaica organizada na cidade. Não há menção extrabíblica direta de Crispo."
+        },
+        "fuentes": [
+          {
+            "titulo": "IVP Bible Background Commentary: NT",
+            "autor": "Craig S. Keener",
+            "año": 1993,
+            "editorial": "InterVarsity Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Acts 18:8",
+              "1 Corinthians 1:14"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "El título y función de Crispo en Hch 18:8 son plenamente coherentes con lo que se sabe del cargo de ἀρχισυνάγωγος en el judaísmo del Segundo Templo. Su mención en 1Co 1:14 es consistente con el relato de Hechos.",
+          "en": "Crispus's title and function in Acts 18:8 are fully consistent with what is known of the archisunagogos role in Second Temple Judaism. His mention in 1Cor 1:14 is consistent with the Acts account.",
+          "pt": "O título e a função de Crispo em At 18:8 são plenamente coerentes com o que se sabe do cargo de ἀρχισυνάγωγος no judaísmo do Segundo Templo. Sua menção em 1Co 1:14 é consistente com o relato de Atos."
+        }
+      },
+      "versiculosAsociados": [
+        "1Co 1:14",
+        "Hch 18:8"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Crispo aparece en 1Co 1:14 y en Hch 18:8. Algunos identifican al 'Sosténes' que aparece como co-remitente en 1Co 1:1 con el sucesor de Crispo como gobernante de la sinagoga (Hch 18:17), pero esto es especulativo.",
+        "en": "Crispus appears in 1Cor 1:14 and Acts 18:8. Some identify 'Sosthenes' who appears as co-sender in 1Cor 1:1 with Crispus's successor as synagogue ruler (Acts 18:17), but this is speculative.",
+        "pt": "Crispo aparece em 1Co 1:14 e em At 18:8. Alguns identificam 'Sóstenes', que aparece como co-remetente em 1Co 1:1, com o sucessor de Crispo como governante da sinagoga (At 18:17), mas isso é especulativo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Gayo",
+        "en": "Gaius",
+        "pt": "Gaio"
+      },
+      "hebreo": "Γάϊος",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Creyente corintio bautizado personalmente por Pablo (1Co 1:14), muy probablemente el mismo Gayo de Ro 16:23, donde es descrito como anfitrión de Pablo y de toda la iglesia. Su casa servía como punto de reunión para la congregación corintia, lo que implica un hombre de ciertos recursos económicos.",
+        "en": "Corinthian believer personally baptized by Paul (1Cor 1:14), most likely the same Gaius of Rom 16:23, where he is described as host of Paul and of the whole church. His home served as a gathering point for the Corinthian congregation, implying a man of some economic means.",
+        "pt": "Crente coríntio batizado pessoalmente por Paulo (1Co 1:14), muito provavelmente o mesmo Gaio de Rm 16:23, onde é descrito como anfitrião de Paulo e de toda a igreja. Sua casa servia como ponto de reunião para a congregação coríntia, o que implica um homem com certos recursos econômicos."
+      },
+      "acciones": {
+        "es": "Bautizado por Pablo en Corinto, uno de los poquísimos que Pablo recuerda haber bautizado personalmente (1Co 1:14–16). Si se identifica con el Gayo de Ro 16:23, hospedó a Pablo durante su estancia en Corinto y abrió su casa a toda la iglesia local.",
+        "en": "Baptized by Paul in Corinth, one of the very few whom Paul recalls having personally baptized (1Cor 1:14–16). If identified with the Gaius of Rom 16:23, he hosted Paul during his stay in Corinth and opened his home to the entire local church.",
+        "pt": "Batizado por Paulo em Corinto, um dos pouquíssimos que Paulo recorda ter batizado pessoalmente (1Co 1:14–16). Se identificado com o Gaio de Rm 16:23, hospedou Paulo durante sua estadia em Corinto e abriu sua casa para toda a igreja local."
+      },
+      "significadoTeologico": {
+        "es": "Gayo ilustra el ministerio de hospitalidad como vocación central en la iglesia del NT (Ro 16:23). Su mención en el contexto del bautismo en 1Co 1:14–17 sirve para subrayar que el poder del evangelio no descansa en quién bautiza, sino en el mensaje de Cristo crucificado.",
+        "en": "Gaius illustrates the ministry of hospitality as a central vocation in the NT church (Rom 16:23). His mention in the baptism context of 1Cor 1:14–17 serves to underscore that the power of the gospel does not rest on who baptizes, but on the message of Christ crucified.",
+        "pt": "Gaio ilustra o ministério da hospitalidade como vocação central na igreja do NT (Rm 16:23). Sua menção no contexto do batismo em 1Co 1:14–17 serve para sublinhar que o poder do evangelho não repousa em quem batiza, mas na mensagem de Cristo crucificado."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo.",
+        "en": "Does not function as a type of Christ.",
+        "pt": "Não funciona como tipo de Cristo."
+      },
+      "caracterMoral": {
+        "es": "Generoso anfitrión de la iglesia en su casa (Ro 16:23); su hospitalidad refleja el fruto del Espíritu en el creyente de nuevo pacto. Hombre de recursos económicos que los puso al servicio de la comunidad.",
+        "en": "Generous host of the church in his home (Rom 16:23); his hospitality reflects the fruit of the Spirit in the new covenant believer. A man of economic means who put them at the service of the community.",
+        "pt": "Generoso anfitrião da igreja em sua casa (Rm 16:23); sua hospitalidade reflete o fruto do Espírito no crente do novo pacto. Um homem de recursos econômicos que os colocou a serviço da comunidade."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Gayo fue bautizado por Pablo en Corinto (1Co 1:14). La identificación con el Gayo de Ro 16:23 ('Gayo, anfitrión mío y de toda la iglesia') es la más plausible, dado que ambas menciones lo ubican en Corinto durante el ministerio paulino. Esta identificación también puede conectarse con el Gayo de Hch 20:4 (de Derbe) o con el destinatario de 3 Juan, aunque estas son identificaciones más disputadas.",
+          "en": "Gaius was baptized by Paul in Corinth (1Cor 1:14). The identification with the Gaius of Rom 16:23 ('Gaius, who is host to me and to the whole church') is the most plausible, since both mentions locate him in Corinth during Paul's ministry. This identification may also connect with the Gaius of Acts 20:4 (from Derbe) or with the recipient of 3 John, though these are more disputed identifications.",
+          "pt": "Gaio foi batizado por Paulo em Corinto (1Co 1:14). A identificação com o Gaio de Rm 16:23 ('Gaio, hospedeiro meu e de toda a igreja') é a mais plausível, uma vez que ambas as menções o situam em Corinto durante o ministério paulino. Essa identificação também pode conectar-se com o Gaio de At 20:4 (de Derbe) ou com o destinatário de 3 João, embora essas sejam identificações mais disputadas."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Co 1:14",
+          "Ro 16:23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El nombre Gaius (Γάϊος) era uno de los prenombres latinos más comunes en el mundo romano del siglo I, lo que dificulta la identificación con seguridad entre los distintos Gayos del NT. La evidencia de que su casa albergaba a toda la iglesia (Ro 16:23) sugiere una persona de estatus social medio-alto (possessor de una casa lo suficientemente grande para reuniones de la congregación), coherente con lo que se sabe de la composición socioeconómica de las iglesias paulinas.",
+          "en": "The name Gaius (Γάϊος) was one of the most common Latin praenomina in the first-century Roman world, making identification between the various Gaiuses of the NT difficult to establish with certainty. The evidence that his home hosted the entire church (Rom 16:23) suggests a person of medium-to-high social status (owner of a house large enough for congregational meetings), consistent with what is known of the socioeconomic composition of Pauline churches.",
+          "pt": "O nome Gaio (Γάϊος) era um dos prenomes latinos mais comuns no mundo romano do século I, o que dificulta a identificação com segurança entre os diferentes Gaios do NT. A evidência de que sua casa abrigava toda a igreja (Rm 16:23) sugere uma pessoa de status social médio-alto (proprietário de uma casa grande o suficiente para reuniões da congregação), coerente com o que se sabe da composição socioeconômica das igrejas paulinas."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Romans 16:23",
+              "1 Corinthians 1:14"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Los datos de 1Co 1:14 y Ro 16:23 son internamente coherentes. La identificación entre todos los Gayos del NT es verosímil pero no demostrable con fuentes externas.",
+          "en": "The data of 1Cor 1:14 and Rom 16:23 are internally consistent. The identification among all the Gaiuses of the NT is plausible but cannot be demonstrated from external sources.",
+          "pt": "Os dados de 1Co 1:14 e Rm 16:23 são internamente coerentes. A identificação entre todos os Gaios do NT é verossímil, mas não pode ser demonstrada com fontes externas."
+        }
+      },
+      "versiculosAsociados": [
+        "1Co 1:14",
+        "Ro 16:23"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Ro"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo menciona a Gayo en Ro 16:23 como su anfitrión y el de toda la iglesia. Otros Gayos mencionados en el NT (Hch 19:29; Hch 20:4; 3Jn 1:1) pueden o no ser la misma persona; la identificación es debatida en la literatura académica.",
+        "en": "Paul mentions Gaius in Rom 16:23 as his host and that of the whole church. Other Gaiuses mentioned in the NT (Acts 19:29; Acts 20:4; 3John 1:1) may or may not be the same person; the identification is debated in the academic literature.",
+        "pt": "Paulo menciona Gaio em Rm 16:23 como seu anfitrião e o de toda a igreja. Outros Gaios mencionados no NT (At 19:29; At 20:4; 3Jo 1:1) podem ou não ser a mesma pessoa; a identificação é debatida na literatura acadêmica."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "1 Corintios presenta una cristología centrada en la cruz y la resurrección corporal. Pablo declara que no sabe nada sino a Jesucristo, y a éste crucificado (1Co 2:2), y que la resurrección de Cristo es el fundamento sine qua non de toda la fe cristiana (1Co 15:14–17). Cristo es el poder y la sabiduría de Dios (1Co 1:24), el verdadero fundamento de la iglesia (1Co 3:11) y el 'último Adán', espíritu vivificante, que inaugura la nueva creación (1Co 15:45–49). Su señorío abarca todas las cosas y culminará en la entrega del reino al Padre (1Co 15:24–28).",
+        "en": "1 Corinthians presents a christology centered on the cross and bodily resurrection. Paul declares that he knows nothing except Jesus Christ and him crucified (1Cor 2:2), and that Christ's resurrection is the sine qua non foundation of all Christian faith (1Cor 15:14–17). Christ is the power and wisdom of God (1Cor 1:24), the true foundation of the church (1Cor 3:11), and the 'last Adam,' a life-giving spirit, who inaugurates the new creation (1Cor 15:45–49). His lordship encompasses all things and will culminate in the handing over of the kingdom to the Father (1Cor 15:24–28).",
+        "pt": "1 Coríntios apresenta uma cristologia centrada na cruz e na ressurreição corporal. Paulo declara que não sabe nada senão Jesus Cristo, e este crucificado (1Co 2:2), e que a ressurreição de Cristo é o fundamento sine qua non de toda a fé cristã (1Co 15:14–17). Cristo é o poder e a sabedoria de Deus (1Co 1:24), o verdadeiro fundamento da igreja (1Co 3:11) e o 'último Adão', espírito vivificante, que inaugura a nova criação (1Co 15:45–49). Seu senhorio abarca todas as coisas e culminará na entrega do reino ao Pai (1Co 15:24–28)."
+      },
+      "pasajes": [
+        "1Co 1:24",
+        "1Co 2:2",
+        "1Co 3:11",
+        "1Co 15:3–4",
+        "1Co 15:45–49"
+      ],
+      "ensenanza": {
+        "es": "Cristo es poder y sabiduría de Dios para los llamados · El apóstol no sabe nada sino a Cristo crucificado · Solo Cristo es el fundamento verdadero de la iglesia · Cristo murió por nuestros pecados y resucitó al tercer día conforme a las Escrituras · Cristo, el último Adán, es espíritu vivificante que transforma la naturaleza humana",
+        "en": "Christ is the power and wisdom of God for those who are called · The apostle knows nothing except Christ crucified · Only Christ is the true foundation of the church · Christ died for our sins and rose on the third day according to the Scriptures · Christ, the last Adam, is a life-giving spirit who transforms human nature",
+        "pt": "Cristo é poder e sabedoria de Deus para os chamados · O apóstolo não sabe nada senão Cristo crucificado · Somente Cristo é o verdadeiro fundamento da igreja · Cristo morreu pelos nossos pecados e ressuscitou ao terceiro dia conforme as Escrituras · Cristo, o último Adão, é espírito vivificante que transforma a natureza humana"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada enfatiza que la soberanía de Cristo sobre todas las cosas (1Co 15:24–28) es la base de la señoría de Cristo sobre la iglesia y la cultura: todo pensamiento, institución y práctica debe ser llevado cautivo a la obediencia a Cristo. La soteriología de la substitución penal está implícita en 1Co 15:3.",
+        "en": "The Reformed tradition emphasizes that Christ's sovereignty over all things (1Cor 15:24–28) is the basis for the lordship of Christ over church and culture: every thought, institution, and practice must be brought captive to obedience to Christ. Penal substitutionary atonement is implicit in 1Cor 15:3.",
+        "pt": "A tradição reformada enfatiza que a soberania de Cristo sobre todas as coisas (1Co 15:24–28) é a base do senhorio de Cristo sobre a igreja e a cultura: todo pensamento, instituição e prática deve ser levado cativo à obediência a Cristo. A expiação substitutiva penal está implícita em 1Co 15:3."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "1 Corintios 15 es el capítulo escatológico más extenso del Nuevo Testamento sobre la resurrección corporal. Pablo refuta la negación de la resurrección (1Co 15:12) argumentando que la resurrección de Cristo es la primicia de la resurrección de todos los creyentes (1Co 15:20–23). El orden escatológico incluye la parusía, la resurrección de los muertos en Cristo, la derrota final de todos los enemigos incluyendo la muerte, y la entrega del reino al Padre (1Co 15:23–28). El cuerpo de resurrección será transformado: espiritual, incorruptible y glorioso (1Co 15:42–44), pero real y físico.",
+        "en": "1 Corinthians 15 is the most extensive eschatological chapter in the New Testament on bodily resurrection. Paul refutes the denial of the resurrection (1Cor 15:12) by arguing that Christ's resurrection is the firstfruits of the resurrection of all believers (1Cor 15:20–23). The eschatological order includes the parousia, the resurrection of the dead in Christ, the final defeat of all enemies including death, and the handing over of the kingdom to the Father (1Cor 15:23–28). The resurrection body will be transformed: spiritual, incorruptible, and glorious (1Cor 15:42–44), but real and physical.",
+        "pt": "1 Coríntios 15 é o capítulo escatológico mais extenso do Novo Testamento sobre a ressurreição corporal. Paulo refuta a negação da ressurreição (1Co 15:12) argumentando que a ressurreição de Cristo é as primícias da ressurreição de todos os crentes (1Co 15:20–23). A ordem escatológica inclui a parusia, a ressurreição dos mortos em Cristo, a derrota final de todos os inimigos incluindo a morte, e a entrega do reino ao Pai (1Co 15:23–28). O corpo de ressurreição será transformado: espiritual, incorruptível e glorioso (1Co 15:42–44), mas real e físico."
+      },
+      "pasajes": [
+        "1Co 15:20–23",
+        "1Co 15:24–28",
+        "1Co 15:42–44",
+        "1Co 15:51–57"
+      ],
+      "ensenanza": {
+        "es": "Cristo es las primicias de los que durmieron, garantía de la resurrección de todos · El orden escatológico culmina en la entrega del reino al Padre y la sujeción de todas las cosas · El cuerpo resucitado es incorruptible, glorioso y espiritual · La victoria final sobre la muerte llega con la transformación de los vivos y la resurrección de los muertos",
+        "en": "Christ is the firstfruits of those who have fallen asleep, guaranteeing the resurrection of all · The eschatological order culminates in the handing over of the kingdom to the Father and the subjection of all things · The resurrection body is incorruptible, glorious, and spiritual · The final victory over death comes with the transformation of the living and the resurrection of the dead",
+        "pt": "Cristo é as primícias dos que dormiram, garantia da ressurreição de todos · A ordem escatológica culmina na entrega do reino ao Pai e na sujeição de todas as coisas · O corpo ressuscitado é incorruptível, glorioso e espiritual · A vitória final sobre a morte vem com a transformação dos vivos e a ressurreição dos mortos"
+      },
+      "distintivaReformada": {
+        "es": "La escatología reformada, siguiendo a Pablo en 1 Corintios 15, afirma la resurrección corporal literal y rechaza tanto el espiritualismo desencarnado como el dispensacionalismo que pospone la consumación del reino. La muerte de Cristo inauguró el reino; la parusía lo consumará, no lo iniciará.",
+        "en": "Reformed eschatology, following Paul in 1 Corinthians 15, affirms the literal bodily resurrection and rejects both disembodied spiritualism and dispensationalism that postpones the consummation of the kingdom. Christ's death inaugurated the kingdom; the parousia will consummate it, not initiate it.",
+        "pt": "A escatologia reformada, seguindo Paulo em 1 Coríntios 15, afirma a ressurreição corporal literal e rejeita tanto o espiritualismo desencarnado quanto o dispensacionalismo que adia a consumação do reino. A morte de Cristo inaugurou o reino; a parusia o consumará, não o iniciará."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "1 Corintios es la epístola eclesiológica por excelencia del NT. La iglesia es el cuerpo de Cristo (1Co 12:12–27), el templo del Espíritu Santo (1Co 3:16–17; 1Co 6:19–20) y la congregación llamada a administrar la disciplina (1Co 5), celebrar la Cena del Señor ordenadamente (1Co 11:17–34) y ejercer los dones espirituales para edificación mutua (1Co 12–14). La unidad de la iglesia está fundada en Cristo, no en los líderes (1Co 1:10–17; 1Co 3:1–9); el amor ágape es el vínculo supremo de la vida comunitaria (1Co 13).",
+        "en": "1 Corinthians is the NT's pre-eminent ecclesiological epistle. The church is the body of Christ (1Cor 12:12–27), the temple of the Holy Spirit (1Cor 3:16–17; 1Cor 6:19–20), and the congregation called to administer discipline (1Cor 5), celebrate the Lord's Supper in an orderly manner (1Cor 11:17–34), and exercise spiritual gifts for mutual edification (1Cor 12–14). The unity of the church is founded on Christ, not on leaders (1Cor 1:10–17; 1Cor 3:1–9); agape love is the supreme bond of communal life (1Cor 13).",
+        "pt": "1 Coríntios é a epístola eclesiológica por excelência do NT. A igreja é o corpo de Cristo (1Co 12:12–27), o templo do Espírito Santo (1Co 3:16–17; 1Co 6:19–20) e a congregação chamada a administrar a disciplina (1Co 5), celebrar a Ceia do Senhor ordenadamente (1Co 11:17–34) e exercer os dons espirituais para edificação mútua (1Co 12–14). A unidade da igreja está fundada em Cristo, não nos líderes (1Co 1:10–17; 1Co 3:1–9); o amor ágape é o vínculo supremo da vida comunitária (1Co 13)."
+      },
+      "pasajes": [
+        "1Co 1:10",
+        "1Co 3:16–17",
+        "1Co 5:1–5",
+        "1Co 12:12–14",
+        "1Co 14:26"
+      ],
+      "ensenanza": {
+        "es": "La unidad de la iglesia exige que no haya divisiones ni facciones entre los creyentes · La congregación es templo sagrado del Espíritu y la inmoralidad la profana · La disciplina eclesiástica es mandatoria para preservar la santidad de la comunidad · Los muchos miembros forman un solo cuerpo porque todos bebieron de un mismo Espíritu · Todo en el culto debe hacerse para edificación",
+        "en": "The unity of the church demands that there be no divisions or factions among believers · The congregation is the sacred temple of the Spirit and immorality defiles it · Church discipline is mandatory to preserve the holiness of the community · The many members form one body because all drank of one Spirit · Everything in worship must be done for edification",
+        "pt": "A unidade da igreja exige que não haja divisões nem facções entre os crentes · A congregação é templo sagrado do Espírito e a imoralidade a profana · A disciplina eclesiástica é mandatória para preservar a santidade da comunidade · Os muitos membros formam um só corpo porque todos beberam de um mesmo Espírito · Tudo no culto deve ser feito para edificação"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada funda su doctrina de la disciplina eclesiástica (una de las marcas de la verdadera iglesia según Calvino y los Credos de Bélgica/Dordrecht) en 1Co 5, y su teología de la Cena del Señor como celebración comunitaria y memorial de la muerte de Cristo en 1Co 11:23–26.",
+        "en": "The Reformed tradition grounds its doctrine of church discipline (one of the marks of the true church according to Calvin and the Belgic Confession/Canons of Dort) in 1Cor 5, and its theology of the Lord's Supper as communal celebration and memorial of Christ's death in 1Cor 11:23–26.",
+        "pt": "A tradição reformada fundamenta sua doutrina da disciplina eclesiástica (uma das marcas da verdadeira igreja segundo Calvino e as Confissões de Belgica/Dort) em 1Co 5, e sua teologia da Ceia do Senhor como celebração comunitária e memorial da morte de Cristo em 1Co 11:23–26."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pneumatología",
+        "en": "Pneumatology",
+        "pt": "Pneumatologia"
+      },
+      "resumen": {
+        "es": "1 Corintios ofrece la enseñanza más extensa del NT sobre los dones espirituales (χαρίσματα). El Espíritu distribuye dones soberanamente para el bien común (1Co 12:7–11), y la diversidad de dones en la unidad del cuerpo es análoga a la de los miembros físicos (1Co 12:12–27). El Espíritu Santo también es el agente de la regeneración y la justificación (1Co 6:11) y mora en la iglesia como su templo (1Co 3:16). Los dones son subordinados al amor (1Co 13) y deben ejercerse ordenadamente para edificación (1Co 14:26–40).",
+        "en": "1 Corinthians provides the most extensive NT teaching on spiritual gifts (charismata). The Spirit sovereignly distributes gifts for the common good (1Cor 12:7–11), and the diversity of gifts in the unity of the body is analogous to that of physical members (1Cor 12:12–27). The Holy Spirit is also the agent of regeneration and justification (1Cor 6:11) and dwells in the church as his temple (1Cor 3:16). Gifts are subordinated to love (1Cor 13) and must be exercised in an orderly manner for edification (1Cor 14:26–40).",
+        "pt": "1 Coríntios oferece o ensino mais extenso do NT sobre os dons espirituais (χαρίσματα). O Espírito distribui soberanamente dons para o bem comum (1Co 12:7–11), e a diversidade de dons na unidade do corpo é análoga à dos membros físicos (1Co 12:12–27). O Espírito Santo também é o agente da regeneração e da justificação (1Co 6:11) e habita na igreja como seu templo (1Co 3:16). Os dons são subordinados ao amor (1Co 13) e devem ser exercidos ordenadamente para edificação (1Co 14:26–40)."
+      },
+      "pasajes": [
+        "1Co 2:10–13",
+        "1Co 6:11",
+        "1Co 12:4–11",
+        "1Co 14:26"
+      ],
+      "ensenanza": {
+        "es": "El Espíritu escudriña todas las cosas, incluso las profundidades de Dios, y revela los dones de Dios al creyente · El Espíritu lava, santifica y justifica a los creyentes en el nombre de Cristo · Los dones del Espíritu son variados pero proceden del mismo Señor para el bien de todos · Todo debe hacerse para edificación de la iglesia",
+        "en": "The Spirit searches all things, even the depths of God, and reveals God's gifts to the believer · The Spirit washes, sanctifies, and justifies believers in the name of Christ · The Spirit's gifts are varied but come from the same Lord for the benefit of all · All things must be done for the edification of the church",
+        "pt": "O Espírito sonda todas as coisas, até as profundezas de Deus, e revela os dons de Deus ao crente · O Espírito lava, santifica e justifica os crentes em nome de Cristo · Os dons do Espírito são variados, mas procedem do mesmo Senhor para o bem de todos · Tudo deve ser feito para edificação da igreja"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, basándose en 1Co 13:8–10 y 14:26–40, sostiene el principio regulativo del culto: solo lo que la Escritura prescribe expresamente tiene lugar en la adoración pública. Muchos reformados argumentan que los dones de señales (lenguas, profecía) cesaron con el cierre del canon, mientras otros los consideran continuos pero siempre subordinados a la Palabra.",
+        "en": "The Reformed tradition, building on 1Cor 13:8–10 and 14:26–40, upholds the regulative principle of worship: only what Scripture expressly prescribes has a place in public worship. Many Reformed theologians argue that sign gifts (tongues, prophecy) ceased with the close of the canon, while others consider them continuing but always subordinate to the Word.",
+        "pt": "A tradição reformada, baseando-se em 1Co 13:8–10 e 14:26–40, sustenta o princípio regulativo do culto: somente o que a Escritura prescreve expressamente tem lugar na adoração pública. Muitos reformados argumentam que os dons de sinais (línguas, profecia) cessaram com o fechamento do cânon, enquanto outros os consideram contínuos, mas sempre subordinados à Palavra."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "La santificación en 1 Corintios es tanto posicional como progresiva. Los corintios son llamados 'santos' y 'santificados en Cristo Jesús' (1Co 1:2), pero Pablo los exhorta a huir de la inmoralidad sexual (1Co 6:18–20), a no dejarse engañar por los ídolos (1Co 10:14) y a purgar la levadura de la malicia para ser una nueva masa (1Co 5:7–8). El cuerpo es templo del Espíritu y no debe usarse para la inmoralidad (1Co 6:19–20). La santificación tiene dimensión individual y comunitaria, y está motivada siempre por el evangelio: 'fuisteis comprados por precio'.",
+        "en": "Sanctification in 1 Corinthians is both positional and progressive. The Corinthians are called 'saints' and 'sanctified in Christ Jesus' (1Cor 1:2), but Paul exhorts them to flee sexual immorality (1Cor 6:18–20), not to be deceived by idols (1Cor 10:14), and to purge the leaven of malice to be a new lump (1Cor 5:7–8). The body is the temple of the Spirit and must not be used for immorality (1Cor 6:19–20). Sanctification has an individual and communal dimension, and is always motivated by the gospel: 'you were bought with a price.'",
+        "pt": "A santificação em 1 Coríntios é tanto posicional quanto progressiva. Os coríntios são chamados 'santos' e 'santificados em Cristo Jesus' (1Co 1:2), mas Paulo os exorta a fugir da imoralidade sexual (1Co 6:18–20), a não se deixarem enganar pelos ídolos (1Co 10:14) e a purgar o fermento da malícia para ser uma nova massa (1Co 5:7–8). O corpo é templo do Espírito e não deve ser usado para a imoralidade (1Co 6:19–20). A santificação tem dimensão individual e comunitária, e é sempre motivada pelo evangelho: 'fostes comprados por preço'."
+      },
+      "pasajes": [
+        "1Co 1:2",
+        "1Co 5:7–8",
+        "1Co 6:18–20",
+        "1Co 10:14"
+      ],
+      "ensenanza": {
+        "es": "Los creyentes son llamados santos y santificados en Cristo Jesús desde el principio · La iglesia debe purgar la inmoralidad como la vieja levadura para ser una masa nueva · El creyente debe huir de la inmoralidad sexual porque su cuerpo es miembro de Cristo y templo del Espíritu · Los creyentes deben huir de la idolatría porque no pueden beber la copa del Señor y la copa de los demonios",
+        "en": "Believers are called saints and sanctified in Christ Jesus from the beginning · The church must purge immorality like old leaven to be a new lump · The believer must flee sexual immorality because his body is a member of Christ and a temple of the Spirit · Believers must flee from idolatry because they cannot drink the cup of the Lord and the cup of demons",
+        "pt": "Os crentes são chamados santos e santificados em Cristo Jesus desde o princípio · A igreja deve purgar a imoralidade como o velho fermento para ser uma massa nova · O crente deve fugir da imoralidade sexual porque seu corpo é membro de Cristo e templo do Espírito · Os crentes devem fugir da idolatria porque não podem beber o cálice do Senhor e o cálice dos demônios"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada entiende la santificación como fruto necesario e inevitable de la justificación (no su causa), motivada por la indicativa del evangelio antes que por el imperativo moral. El patrón 'sois santo → sed santo' en 1Co 1:2 y 1Co 5:7–8 es paradigmático para la ética reformada.",
+        "en": "The Reformed tradition understands sanctification as a necessary and inevitable fruit of justification (not its cause), motivated by the gospel indicative before the moral imperative. The pattern 'you are holy → be holy' in 1Cor 1:2 and 1Cor 5:7–8 is paradigmatic for Reformed ethics.",
+        "pt": "A tradição reformada entende a santificação como fruto necessário e inevitável da justificação (não sua causa), motivada pelo indicativo do evangelho antes do imperativo moral. O padrão 'sois santos → sede santos' em 1Co 1:2 e 1Co 5:7–8 é paradigmático para a ética reformada."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "1 Corintios presenta el pecado en su dimensión tanto individual (inmoralidad sexual, 1Co 6:9–11; idolatría, 1Co 10:7–8) como comunitaria (divisiones, 1Co 1:10–13; deshonra en la Cena del Señor, 1Co 11:17–22). Pablo vincula el pecado con la sabiduría mundana (1Co 1:18–25): rechazar la locura de la cruz es la raíz del orgullo y las divisiones. El estado adámico de corrupción es el fondo teológico de la necesidad de la resurrección (1Co 15:21–22).",
+        "en": "1 Corinthians presents sin in both its individual dimension (sexual immorality, 1Cor 6:9–11; idolatry, 1Cor 10:7–8) and communal dimension (divisions, 1Cor 1:10–13; dishonoring the Lord's Supper, 1Cor 11:17–22). Paul links sin with worldly wisdom (1Cor 1:18–25): rejecting the foolishness of the cross is the root of pride and divisions. The Adamic state of corruption is the theological background for the need for resurrection (1Cor 15:21–22).",
+        "pt": "1 Coríntios apresenta o pecado em sua dimensão tanto individual (imoralidade sexual, 1Co 6:9–11; idolatria, 1Co 10:7–8) quanto comunitária (divisões, 1Co 1:10–13; desonra na Ceia do Senhor, 1Co 11:17–22). Paulo vincula o pecado com a sabedoria mundana (1Co 1:18–25): rejeitar a loucura da cruz é a raiz do orgulho e das divisões. O estado adâmico de corrupção é o pano de fundo teológico da necessidade da ressurreição (1Co 15:21–22)."
+      },
+      "pasajes": [
+        "1Co 1:18–21",
+        "1Co 6:9–11",
+        "1Co 11:27–30",
+        "1Co 15:21–22"
+      ],
+      "ensenanza": {
+        "es": "La locura de la cruz condena la sabiduría del mundo, pues Dios escogió lo necio para avergonzar a los sabios · Los injustos no heredarán el reino de Dios: la lista de pecados excluye de la herencia eterna · El que come y bebe indignamente la Cena del Señor come y bebe juicio para sí mismo · Por un hombre entró la muerte y por un hombre vino la resurrección",
+        "en": "The foolishness of the cross condemns the wisdom of the world, for God chose the foolish to shame the wise · The unrighteous will not inherit the kingdom of God: the list of sins excludes from eternal inheritance · He who eats and drinks the Lord's Supper unworthily eats and drinks judgment upon himself · By a man came death and by a man has come the resurrection",
+        "pt": "A loucura da cruz condena a sabedoria do mundo, pois Deus escolheu o que é tolo para envergonhar os sábios · Os injustos não herdarão o reino de Deus: a lista de pecados exclui da herança eterna · Quem come e bebe a Ceia do Senhor indignamente come e bebe juízo para si mesmo · Por um homem veio a morte e por um homem veio a ressurreição"
+      },
+      "distintivaReformada": {
+        "es": "La hamartiología reformada subraya que la depravación total (incluyendo el intelecto) explica la incapacidad de los corintios para discernir la sabiduría de la cruz sin la iluminación del Espíritu (1Co 2:14). El juicio sobre los que comen indignamente (1Co 11:29–30) confirma que Dios disciplina a sus hijos para preservarlos de la condenación final.",
+        "en": "Reformed hamartiology underlines that total depravity (including the intellect) explains the Corinthians' inability to discern the wisdom of the cross without the Spirit's illumination (1Cor 2:14). The judgment on those who eat unworthily (1Cor 11:29–30) confirms that God disciplines his children to preserve them from final condemnation.",
+        "pt": "A hamartiologia reformada sublinha que a depravação total (incluindo o intelecto) explica a incapacidade dos coríntios de discernir a sabedoria da cruz sem a iluminação do Espírito (1Co 2:14). O julgamento sobre os que comem indignamente (1Co 11:29–30) confirma que Deus disciplina seus filhos para preservá-los da condenação final."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Resurrección de los Muertos y del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Cristología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster cap. 25 enseña la resurrección corporal de todos los muertos y el juicio final por Cristo. 1 Corintios 15 es el texto fundacional del NT para esta doctrina: la resurrección de Cristo como primicia (1Co 15:20), la transformación del cuerpo mortal en incorruptible (1Co 15:42–44) y la victoria final sobre la muerte (1Co 15:54–57) son la base escritural de la esperanza escatológica reformada.",
+        "en": "Westminster Confession ch. 25 teaches the bodily resurrection of all the dead and the final judgment by Christ. 1 Corinthians 15 is the foundational NT text for this doctrine: Christ's resurrection as firstfruits (1Cor 15:20), the transformation of the mortal body into the incorruptible (1Cor 15:42–44), and the final victory over death (1Cor 15:54–57) are the scriptural basis for Reformed eschatological hope.",
+        "pt": "A Confissão de Westminster cap. 25 ensina a ressurreição corporal de todos os mortos e o juízo final por Cristo. 1 Coríntios 15 é o texto fundamental do NT para esta doutrina: a ressurreição de Cristo como primícias (1Co 15:20), a transformação do corpo mortal em incorruptível (1Co 15:42–44) e a vitória final sobre a morte (1Co 15:54–57) são a base escritural da esperança escatológica reformada."
+      },
+      "genesis": [
+        "1Co 15:20",
+        "1Co 15:42",
+        "1Co 15:54–57"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    },
+    {
+      "cap": "Cap. 29",
+      "titulo": {
+        "es": "De la Santa Cena del Señor",
+        "en": "Of the Lord's Supper",
+        "pt": "Da Santa Ceia do Senhor"
+      },
+      "doctrinas": [
+        "Eclesiología",
+        "Cristología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster cap. 29 establece la doctrina reformada de la Cena del Señor como memorial y proclamación de la muerte de Cristo hasta que Él venga, rechazando la transubstanciación y la presencia corporal carnal. 1 Corintios 11:23–26 es el relato más antiguo de la institución de la Cena del Señor en el NT y el texto primario para la doctrina reformada del sacramento.",
+        "en": "Westminster Confession ch. 29 establishes the Reformed doctrine of the Lord's Supper as memorial and proclamation of Christ's death until he comes, rejecting transubstantiation and carnal bodily presence. 1 Corinthians 11:23–26 is the earliest account of the institution of the Lord's Supper in the NT and the primary text for the Reformed doctrine of the sacrament.",
+        "pt": "A Confissão de Westminster cap. 29 estabelece a doutrina reformada da Ceia do Senhor como memorial e proclamação da morte de Cristo até que Ele venha, rejeitando a transubstanciação e a presença corporal carnal. 1 Coríntios 11:23–26 é o relato mais antigo da instituição da Ceia do Senhor no NT e o texto primário para a doutrina reformada do sacramento."
+      },
+      "genesis": [
+        "1Co 11:23–26",
+        "1Co 10:16–17"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-29"
+    },
+    {
+      "cap": "Cap. 30",
+      "titulo": {
+        "es": "De la Censura y Disciplina de la Iglesia",
+        "en": "Of Church Censures",
+        "pt": "Das Censuras da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster cap. 30 fundamenta la disciplina eclesiástica como marca de la iglesia verdadera. 1 Corintios 5 es el texto del NT más claro sobre la excomunión: Pablo ordena 'entregar a Satanás' al hombre incestuoso para que su espíritu sea salvo (1Co 5:5), estableciendo que la disciplina eclesiástica es un acto de amor pastoral que busca la restauración, no la mera sanción.",
+        "en": "Westminster Confession ch. 30 grounds church discipline as a mark of the true church. 1 Corinthians 5 is the clearest NT text on excommunication: Paul commands 'delivering to Satan' the incestuous man so that his spirit may be saved (1Cor 5:5), establishing that church discipline is an act of pastoral love seeking restoration, not mere sanction.",
+        "pt": "A Confissão de Westminster cap. 30 fundamenta a disciplina eclesiástica como marca da verdadeira igreja. 1 Coríntios 5 é o texto mais claro do NT sobre a excomunhão: Paulo ordena 'entregar a Satanás' o homem incestuoso para que seu espírito seja salvo (1Co 5:5), estabelecendo que a disciplina eclesiástica é um ato de amor pastoral que busca a restauração, não a mera sanção."
+      },
+      "genesis": [
+        "1Co 5:5",
+        "1Co 5:11–13"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-30"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "1Co 1:18",
+      "es": "Porque la palabra de la cruz es necedad para los que se pierden, pero para nosotros los que somos salvos, es poder de Dios.",
+      "en": "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.",
+      "pt": "Porque a palavra da cruz é loucura para os que se perdem; mas para nós, que somos salvos, é o poder de Deus.",
+      "nota": {
+        "es": "Este versículo es el tema programático de 1 Corintios: toda la carta fluye de la antítesis entre la sabiduría humana y la locura de la cruz. En teología reformada, este texto fundamenta la doctrina de la incapacidad natural del hombre para conocer a Dios sin la gracia iluminadora del Espíritu. La 'necedad' de la cruz no es irracionalidad sino escándalo para el orgullo humano.",
+        "en": "This verse is the programmatic theme of 1 Corinthians: the entire letter flows from the antithesis between human wisdom and the foolishness of the cross. In Reformed theology, this text grounds the doctrine of man's natural inability to know God without the Spirit's illuminating grace. The 'folly' of the cross is not irrationality but a scandal to human pride.",
+        "pt": "Este versículo é o tema programático de 1 Coríntios: toda a carta flui da antítese entre a sabedoria humana e a loucura da cruz. Na teologia reformada, este texto fundamenta a doutrina da incapacidade natural do homem de conhecer a Deus sem a graça iluminadora do Espírito. A 'loucura' da cruz não é irracionalidade, mas escândalo para o orgulho humano."
+      }
+    },
+    {
+      "ref": "1Co 6:19–20",
+      "es": "¿O no sabéis que vuestro cuerpo es templo del Espíritu Santo que está en vosotros, el cual tenéis de Dios, y que no sois vuestros? Porque habéis sido comprados por precio; glorificad, pues, a Dios en vuestro cuerpo.",
+      "en": "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body.",
+      "pt": "Ou não sabeis que o vosso corpo é o templo do Espírito Santo que habita em vós, o qual tendes da parte de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço; glorificai, pois, a Deus no vosso corpo.",
+      "nota": {
+        "es": "Este texto integra pneumatología, soteriología y ética corporal en un solo argumento: porque el Espíritu habita en el creyente y Cristo lo compró con su sangre, el cuerpo físico tiene dignidad sagrada y no puede usarse para la inmoralidad. Es el fundamento bíblico reformado para rechazar tanto el dualismo que desprecia el cuerpo como la licencia moral que ignora la redención.",
+        "en": "This text integrates pneumatology, soteriology, and bodily ethics in a single argument: because the Spirit dwells in the believer and Christ bought him with his blood, the physical body has sacred dignity and cannot be used for immorality. It is the Reformed biblical foundation for rejecting both the dualism that despises the body and the moral license that ignores redemption.",
+        "pt": "Este texto integra pneumatologia, soteriologia e ética corporal em um único argumento: porque o Espírito habita no crente e Cristo o comprou com seu sangue, o corpo físico tem dignidade sagrada e não pode ser usado para a imoralidade. É o fundamento bíblico reformado para rejeitar tanto o dualismo que despreza o corpo quanto a licença moral que ignora a redenção."
+      }
+    },
+    {
+      "ref": "1Co 13:13",
+      "es": "Y ahora permanecen la fe, la esperanza y el amor, estos tres; pero el mayor de ellos es el amor.",
+      "en": "So now faith, hope, and love abide, these three; but the greatest of these is love.",
+      "pt": "Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o amor.",
+      "nota": {
+        "es": "El clímax del himno al amor en 1Co 13 afirma la permanencia de las tres virtudes teologales, pero la preeminencia del amor ágape que nunca perece (1Co 13:8). En teología reformada, este texto confirma que el amor es el fruto del Espíritu que trasciende todos los dones, y que la escatología cristiana es una comunión de amor eterno con Dios, no solo de conocimiento.",
+        "en": "The climax of the love hymn in 1Cor 13 affirms the permanence of the three theological virtues, but the preeminence of agape love that never ends (1Cor 13:8). In Reformed theology, this text confirms that love is the fruit of the Spirit that transcends all gifts, and that Christian eschatology is an eternal communion of love with God, not merely of knowledge.",
+        "pt": "O clímax do hino ao amor em 1Co 13 afirma a permanência das três virtudes teologais, mas a preeminência do amor ágape que nunca perece (1Co 13:8). Na teologia reformada, este texto confirma que o amor é o fruto do Espírito que transcende todos os dons, e que a escatologia cristã é uma comunhão de amor eterno com Deus, não apenas de conhecimento."
+      }
+    },
+    {
+      "ref": "1Co 15:3–4",
+      "es": "Porque os transmití en primer lugar lo mismo que recibí: que Cristo murió por nuestros pecados, conforme a las Escrituras; que fue sepultado y que resucitó al tercer día, conforme a las Escrituras.",
+      "en": "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures.",
+      "pt": "Porque primeiramente vos entreguei o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras, e que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras.",
+      "nota": {
+        "es": "Este es el kerigma apostólico más antiguo conservado en el NT, anterior a la composición de los Evangelios. Pablo lo recibió probablemente de los apóstoles en Jerusalén (c. 35–38 d.C.) y lo transmitió como tradición ya fija. En teología reformada, este texto es el fundamento de la soteriología: la muerte expiatoria 'por nuestros pecados' afirma la substitución penal, y la resurrección 'conforme a las Escrituras' ancla el evangelio en el cumplimiento tipológico de toda la historia redentora.",
+        "en": "This is the earliest preserved apostolic kerygma in the NT, predating the composition of the Gospels. Paul received it probably from the apostles in Jerusalem (c. AD 35–38) and transmitted it as already fixed tradition. In Reformed theology, this text is the foundation of soteriology: the atoning death 'for our sins' affirms penal substitution, and the resurrection 'according to the Scriptures' anchors the gospel in the typological fulfillment of all redemptive history.",
+        "pt": "Este é o querigma apostólico mais antigo preservado no NT, anterior à composição dos Evangelhos. Paulo o recebeu provavelmente dos apóstolos em Jerusalém (c. 35–38 d.C.) e o transmitiu como tradição já fixada. Na teologia reformada, este texto é o fundamento da soteriologia: a morte expiatória 'pelos nossos pecados' afirma a substituição penal, e a ressurreição 'segundo as Escrituras' ancora o evangelho no cumprimento tipológico de toda a história redentora."
+      }
+    },
+    {
+      "ref": "1Co 15:58",
+      "es": "Así que, hermanos míos amados, estad firmes y constantes, creciendo en la obra del Señor siempre, sabiendo que vuestro trabajo en el Señor no es en vano.",
+      "en": "Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain.",
+      "pt": "Portanto, meus irmãos amados, sede firmes e constantes, sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor.",
+      "nota": {
+        "es": "La conclusión pastoral del capítulo de la resurrección revela cómo la escatología motiva la ética: porque hay resurrección futura, el trabajo presente en el Señor tiene valor eterno. En teología reformada, este texto fundamenta la doctrina de la vocación: todo trabajo realizado en el Señor, no solo el ministerio eclesiástico, tiene dignidad escatológica.",
+        "en": "The pastoral conclusion of the resurrection chapter reveals how eschatology motivates ethics: because there is a future resurrection, present work in the Lord has eternal value. In Reformed theology, this text grounds the doctrine of vocation: all work done in the Lord, not just ecclesiastical ministry, has eschatological dignity.",
+        "pt": "A conclusão pastoral do capítulo da ressurreição revela como a escatologia motiva a ética: porque há ressurreição futura, o trabalho presente no Senhor tem valor eterno. Na teologia reformada, este texto fundamenta a doutrina da vocação: todo trabalho realizado no Senhor, não apenas o ministério eclesiástico, tem dignidade escatológica."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "1 Corintios es fundamental para la teología reformada en cuatro frentes: (1) el principio regulativo del culto, fundamentado en 1Co 14:26–40, que exige que solo lo prescrito por la Escritura tenga lugar en la adoración pública; (2) la doctrina de los sacramentos, donde 1Co 10:16–17 y 1Co 11:23–26 fundamentan la Cena del Señor como memorial y proclamación del evangelio con presencia espiritual de Cristo, rechazando la transubstanciación; (3) la centralidad de la predicación de la cruz frente a la sabiduría retórica (1Co 1:18–2:5), confirmando que el poder salvífico reside en el contenido del evangelio, no en la elocuencia humana; y (4) la apologética del conocimiento: 1Co 2:14 confirma la incapacidad del hombre natural para discernir las cosas del Espíritu, fundamento de la epistemología reformada.",
+    "en": "1 Corinthians is foundational for Reformed theology on four fronts: (1) the regulative principle of worship, grounded in 1Cor 14:26–40, requiring that only what Scripture prescribes take place in public worship; (2) the doctrine of the sacraments, where 1Cor 10:16–17 and 1Cor 11:23–26 ground the Lord's Supper as a memorial and proclamation of the gospel with Christ's spiritual presence, rejecting transubstantiation; (3) the centrality of preaching the cross over rhetorical wisdom (1Cor 1:18–2:5), confirming that saving power resides in the content of the gospel, not in human eloquence; and (4) the apologetics of knowledge: 1Cor 2:14 confirms the natural man's inability to discern the things of the Spirit, a foundation of Reformed epistemology.",
+    "pt": "1 Coríntios é fundamental para a teologia reformada em quatro frentes: (1) o princípio regulativo do culto, fundamentado em 1Co 14:26–40, que exige que apenas o que a Escritura prescreve tenha lugar na adoração pública; (2) a doutrina dos sacramentos, onde 1Co 10:16–17 e 1Co 11:23–26 fundamentam a Ceia do Senhor como memorial e proclamação do evangelho com presença espiritual de Cristo, rejeitando a transubstanciação; (3) a centralidade da pregação da cruz em vez da sabedoria retórica (1Co 1:18–2:5), confirmando que o poder salvador reside no conteúdo do evangelho, não na eloquência humana; e (4) a apologética do conhecimento: 1Co 2:14 confirma a incapacidade do homem natural de discernir as coisas do Espírito, fundamento da epistemologia reformada."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "La Cruz Versus la Sabiduría Humana",
+        "en": "The Cross Versus Human Wisdom",
+        "pt": "A Cruz Versus a Sabedoria Humana"
+      },
+      "descripcion": {
+        "es": "Pablo abre la carta saludando a la iglesia como 'santificada en Cristo Jesús' (1Co 1:2) antes de confrontar de inmediato las divisiones facciosas que la desgarran: algunos se llaman de Pablo, otros de Apolos, otros de Pedro y otros de Cristo (1Co 1:12). La respuesta de Pablo no es pragmática sino teológica: la unidad de la iglesia no puede construirse sobre la base de la personalidad de los líderes porque el único fundamento es Cristo crucificado (1Co 3:11). En los capítulos 1–2 Pablo declara que el mensaje de la cruz es locura para los que se pierden pero poder de Dios para los que son salvos (1Co 1:18), subvirtiendo toda la estructura de la sabiduría sofística corintia. En los capítulos 3–4, aplica esto a los ministros: son siervos instrumentales de Dios, como el que planta y el que riega (1Co 3:6–7), y el juicio definitivo de su ministerio pertenece solo al Señor (1Co 4:4–5).",
+        "en": "Paul opens the letter greeting the church as 'sanctified in Christ Jesus' (1Cor 1:2) before immediately confronting the factional divisions that are tearing it apart: some call themselves of Paul, others of Apollos, others of Peter, and others of Christ (1Cor 1:12). Paul's response is not pragmatic but theological: the unity of the church cannot be built on the personality of leaders because the only foundation is Christ crucified (1Cor 3:11). In chapters 1–2 Paul declares that the message of the cross is folly to those who are perishing but the power of God to those who are being saved (1Cor 1:18), subverting the entire structure of Corinthian sophistic wisdom. In chapters 3–4, he applies this to ministers: they are God's instrumental servants, like the one who plants and the one who waters (1Cor 3:6–7), and the definitive judgment of their ministry belongs only to the Lord (1Cor 4:4–5).",
+        "pt": "Paulo abre a carta saudando a igreja como 'santificada em Cristo Jesus' (1Co 1:2) antes de confrontar imediatamente as divisões facciosas que a destroem: alguns se chamam de Paulo, outros de Apolo, outros de Pedro e outros de Cristo (1Co 1:12). A resposta de Paulo não é pragmática, mas teológica: a unidade da igreja não pode ser construída sobre a personalidade dos líderes porque o único fundamento é Cristo crucificado (1Co 3:11). Nos capítulos 1–2, Paulo declara que a mensagem da cruz é loucura para os que se perdem, mas poder de Deus para os que são salvos (1Co 1:18), subvertendo toda a estrutura da sabedoria sofística coríntia. Nos capítulos 3–4, aplica isso aos ministros: são servos instrumentais de Deus, como o que planta e o que rega (1Co 3:6–7), e o julgamento definitivo de seu ministério pertence somente ao Senhor (1Co 4:4–5)."
+      },
+      "eventoClave": {
+        "es": "Pablo proclama que 'la palabra de la cruz' es el poder y la sabiduría de Dios (1Co 1:18–25), estableciendo el evangelio de Cristo crucificado como el único principio unificador y normativo de la iglesia frente a todas las divisiones humanas.",
+        "en": "Paul proclaims that 'the word of the cross' is the power and wisdom of God (1Cor 1:18–25), establishing the gospel of Christ crucified as the only unifying and normative principle of the church against all human divisions.",
+        "pt": "Paulo proclama que 'a palavra da cruz' é o poder e a sabedoria de Deus (1Co 1:18–25), estabelecendo o evangelho de Cristo crucificado como o único princípio unificador e normativo da igreja diante de todas as divisões humanas."
+      },
+      "versiculoClave": "1Co 1:18",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Inmoralidad, Disciplina y Litigios",
+        "en": "Immorality, Discipline, and Lawsuits",
+        "pt": "Imoralidade, Disciplina e Litígios"
+      },
+      "descripcion": {
+        "es": "Pablo confronta dos escándalos que amenazan la santidad de la comunidad del nuevo pacto. Primero, un caso de inmoralidad sexual sin precedentes incluso entre los paganos: un hombre convive con la esposa de su padre (1Co 5:1). La iglesia, en lugar de lamentarlo, lo tolera con orgullo. Pablo ordena entregar al hombre a Satanás para destrucción de la carne, a fin de que su espíritu sea salvo (1Co 5:5), y exhorta a purgar la levadura de la maldad como Cristo, nuestra Pascua, ha sido inmolado (1Co 5:7). Segundo, los corintios llevan sus disputas ante jueces paganos (1Co 6:1–11), lo que deshonra el evangelio. Pablo arguye que los creyentes juzgarán al mundo y a los ángeles (1Co 6:2–3) y deben poder resolver sus conflictos internamente. El capítulo 6 concluye afirmando que el cuerpo del creyente es miembro de Cristo y templo del Espíritu Santo: por tanto, la fornicación es pecado contra el propio cuerpo que fue comprado por precio (1Co 6:19–20).",
+        "en": "Paul confronts two scandals threatening the holiness of the new covenant community. First, a case of sexual immorality without precedent even among the pagans: a man is living with his father's wife (1Cor 5:1). The church, instead of mourning it, tolerates it with pride. Paul commands delivering the man to Satan for the destruction of the flesh, so that his spirit may be saved (1Cor 5:5), and exhorts them to purge the leaven of malice as Christ, our Passover, has been sacrificed (1Cor 5:7). Second, the Corinthians bring their disputes before pagan judges (1Cor 6:1–11), which dishonors the gospel. Paul argues that believers will judge the world and angels (1Cor 6:2–3) and should be able to resolve their conflicts internally. Chapter 6 concludes by affirming that the believer's body is a member of Christ and a temple of the Holy Spirit: therefore, fornication is a sin against one's own body, which was bought with a price (1Cor 6:19–20).",
+        "pt": "Paulo confronta dois escândalos que ameaçam a santidade da comunidade do novo pacto. Primeiro, um caso de imoralidade sexual sem precedente até mesmo entre os pagãos: um homem convive com a esposa de seu pai (1Co 5:1). A igreja, em vez de lamentá-lo, tolera-o com orgulho. Paulo ordena entregar o homem a Satanás para a destruição da carne, a fim de que seu espírito seja salvo (1Co 5:5), e exorta a purgar o fermento da maldade como Cristo, nossa Páscoa, foi imolado (1Co 5:7). Segundo, os coríntios levam suas disputas perante juízes pagãos (1Co 6:1–11), o que desonra o evangelho. Paulo argumenta que os crentes julgarão o mundo e os anjos (1Co 6:2–3) e devem ser capazes de resolver seus conflitos internamente. O capítulo 6 conclui afirmando que o corpo do crente é membro de Cristo e templo do Espírito Santo: portanto, a fornicação é pecado contra o próprio corpo, que foi comprado por preço (1Co 6:19–20)."
+      },
+      "eventoClave": {
+        "es": "Pablo ordena la excomunión del hombre incestuoso (1Co 5:5) estableciendo el precedente apostólico de la disciplina eclesiástica como acto de amor pastoral orientado a la salvación, no como mero castigo.",
+        "en": "Paul orders the excommunication of the incestuous man (1Cor 5:5), establishing the apostolic precedent of church discipline as an act of pastoral love oriented toward salvation, not merely as punishment.",
+        "pt": "Paulo ordena a excomunhão do homem incestuoso (1Co 5:5), estabelecendo o precedente apostólico da disciplina eclesiástica como ato de amor pastoral orientado à salvação, não como mero castigo."
+      },
+      "versiculoClave": "1Co 5:7",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 7,
+      "rangoFin": 7,
+      "titulo": {
+        "es": "Matrimonio, Celibato y Vocación",
+        "en": "Marriage, Celibacy, and Calling",
+        "pt": "Casamento, Celibato e Vocação"
+      },
+      "descripcion": {
+        "es": "Pablo responde a la pregunta de los corintios sobre el matrimonio y el celibato (1Co 7:1). Su respuesta es matizada: el matrimonio es bueno y protege contra la inmoralidad (1Co 7:2–5); el celibato es preferible en términos escatológicos ('a causa de la crisis presente', 1Co 7:26) porque permite una consagración más plena al Señor (1Co 7:32–34), pero ningún estado es superior en sí mismo. El principio rector es que cada uno permanezca en el llamado en que fue llamado por Dios (1Co 7:17–24): un principio de vocación que se aplica también a la esclavitud y a la circuncisión. Para los ya casados, Pablo prohíbe el divorcio apelando al mandato del Señor (1Co 7:10–11); para los creyentes casados con incrédulos, introduce el 'privilegio paulino' (1Co 7:15). Este capítulo es fundamental para la teología reformada de la vocación y el matrimonio.",
+        "en": "Paul responds to the Corinthians' question about marriage and celibacy (1Cor 7:1). His response is nuanced: marriage is good and protects against immorality (1Cor 7:2–5); celibacy is preferable in eschatological terms ('in view of the present distress,' 1Cor 7:26) because it allows fuller consecration to the Lord (1Cor 7:32–34), but neither state is superior in itself. The governing principle is that each person should remain in the calling in which God called him (1Cor 7:17–24): a principle of vocation that also applies to slavery and circumcision. For those already married, Paul forbids divorce appealing to the Lord's command (1Cor 7:10–11); for believers married to unbelievers, he introduces the 'Pauline privilege' (1Cor 7:15). This chapter is foundational for the Reformed theology of vocation and marriage.",
+        "pt": "Paulo responde à pergunta dos coríntios sobre o casamento e o celibato (1Co 7:1). Sua resposta é matizada: o casamento é bom e protege contra a imoralidade (1Co 7:2–5); o celibato é preferível em termos escatológicos ('por causa da crise presente', 1Co 7:26) porque permite uma consagração mais plena ao Senhor (1Co 7:32–34), mas nenhum estado é superior em si mesmo. O princípio orientador é que cada um permaneça no chamado em que foi chamado por Deus (1Co 7:17–24): um princípio de vocação que também se aplica à escravidão e à circuncisão. Para os já casados, Paulo proíbe o divórcio apelando ao mandamento do Senhor (1Co 7:10–11); para os crentes casados com incrédulos, ele introduz o 'privilégio paulino' (1Co 7:15). Este capítulo é fundamental para a teologia reformada da vocação e do casamento."
+      },
+      "eventoClave": {
+        "es": "Pablo establece el principio de la vocación cristiana: 'cada uno como el Señor le ha distribuido, como Dios llamó a cada uno, así ande' (1Co 7:17), afirmando que cada estado de vida puede ser vivido para la gloria de Dios.",
+        "en": "Paul establishes the principle of Christian vocation: 'only let each person lead the life that the Lord has assigned to him, and to which God has called him' (1Cor 7:17), affirming that every state of life can be lived for God's glory.",
+        "pt": "Paulo estabelece o princípio da vocação cristã: 'cada um ande como o Senhor lhe distribuiu, como Deus chamou a cada um, assim ande' (1Co 7:17), afirmando que todo estado de vida pode ser vivido para a glória de Deus."
+      },
+      "versiculoClave": "1Co 7:17",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 8,
+      "rangoFin": 10,
+      "titulo": {
+        "es": "Libertad, Idolatría y Edificación",
+        "en": "Liberty, Idolatry, and Edification",
+        "pt": "Liberdade, Idolatria e Edificação"
+      },
+      "descripcion": {
+        "es": "Pablo aborda la cuestión de las carnes sacrificadas a los ídolos en tres movimientos progresivos. En el capítulo 8, establece el principio: aunque el conocimiento correcto dice que los ídolos no son nada (1Co 8:4–6), el amor limita el ejercicio de esa libertad cuando puede dañar la conciencia de un hermano más débil (1Co 8:9–13). En el capítulo 9, Pablo usa su propio ejemplo como apóstol que renuncia a sus derechos (sustento económico) por amor al evangelio (1Co 9:12, 1Co 9:19–23), culminando en la metáfora del atleta que se disciplina para el premio incorruptible (1Co 9:24–27). En el capítulo 10, aplica la tipología del éxodo (1Co 10:1–13) como advertencia contra la idolatría y la complacencia espiritual, y concluye con el principio de que todo debe hacerse para la gloria de Dios sin dar tropiezo a nadie (1Co 10:31–33).",
+        "en": "Paul addresses the question of meat sacrificed to idols in three progressive movements. In chapter 8, he establishes the principle: although correct knowledge says idols are nothing (1Cor 8:4–6), love limits the exercise of that freedom when it can harm the conscience of a weaker brother (1Cor 8:9–13). In chapter 9, Paul uses his own example as an apostle who waives his rights (financial support) out of love for the gospel (1Cor 9:12, 1Cor 9:19–23), culminating in the metaphor of the athlete who disciplines himself for the imperishable prize (1Cor 9:24–27). In chapter 10, he applies the typology of the exodus (1Cor 10:1–13) as a warning against idolatry and spiritual complacency, and concludes with the principle that all must be done for the glory of God without causing anyone to stumble (1Cor 10:31–33).",
+        "pt": "Paulo aborda a questão das carnes sacrificadas a ídolos em três movimentos progressivos. No capítulo 8, estabelece o princípio: embora o conhecimento correto diga que os ídolos não são nada (1Co 8:4–6), o amor limita o exercício dessa liberdade quando pode prejudicar a consciência de um irmão mais fraco (1Co 8:9–13). No capítulo 9, Paulo usa seu próprio exemplo como apóstolo que renuncia a seus direitos (sustento econômico) por amor ao evangelho (1Co 9:12, 1Co 9:19–23), culminando na metáfora do atleta que se disciplina para o prêmio incorruptível (1Co 9:24–27). No capítulo 10, aplica a tipologia do êxodo (1Co 10:1–13) como advertência contra a idolatria e a complacência espiritual, e conclui com o princípio de que tudo deve ser feito para a glória de Deus sem dar tropeço a ninguém (1Co 10:31–33)."
+      },
+      "eventoClave": {
+        "es": "Pablo aplica la tipología del éxodo como advertencia escatológica: Israel comió el maná y bebió agua de la roca espiritual que era Cristo, pero cayó en la idolatría; estas cosas les acontecieron 'como ejemplo para nosotros' (1Co 10:11), advirtiendo que ningún privilegio espiritual garantiza inmunidad ante la apostasía.",
+        "en": "Paul applies the typology of the exodus as an eschatological warning: Israel ate the manna and drank water from the spiritual rock that was Christ, but fell into idolatry; these things happened to them 'as examples for us' (1Cor 10:11), warning that no spiritual privilege guarantees immunity from apostasy.",
+        "pt": "Paulo aplica a tipologia do êxodo como advertência escatológica: Israel comeu o maná e bebeu água da rocha espiritual que era Cristo, mas caiu na idolatria; essas coisas aconteceram a eles 'como exemplo para nós' (1Co 10:11), advertindo que nenhum privilégio espiritual garante imunidade diante da apostasia."
+      },
+      "versiculoClave": "1Co 10:31",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 11,
+      "rangoFin": 11,
+      "titulo": {
+        "es": "El Orden en el Culto y la Cena del Señor",
+        "en": "Order in Worship and the Lord's Supper",
+        "pt": "Ordem no Culto e a Ceia do Senhor"
+      },
+      "descripcion": {
+        "es": "Pablo aborda dos cuestiones de orden en la asamblea. Primero, la cuestión del cubrimiento de la cabeza en el culto (1Co 11:2–16), que refleja principios de orden, distinción de géneros y relación de autoridad enraizados en la creación. Segundo, y más urgente, el escándalo de la Cena del Señor: los ricos llegan temprano y comen sus propias comidas mientras los pobres pasan hambre, convirtiendo la cena comunitaria en una exhibición de estratificación social (1Co 11:17–22). Pablo recuerda el relato más antiguo del NT sobre la institución de la Eucaristía (1Co 11:23–26): en la noche que fue entregado, el Señor tomó el pan y la copa declarándolos 'mi cuerpo' y 'el nuevo pacto en mi sangre', y ordenó hacerlo en su memoria. El que come y bebe indignamente, sin discernir el cuerpo, come y bebe juicio para sí mismo (1Co 11:29). El juicio presente sobre algunos corintios enfermos y muertos (1Co 11:30) es disciplina paternal, no condenación final.",
+        "en": "Paul addresses two questions of order in the assembly. First, the question of head covering in worship (1Cor 11:2–16), which reflects principles of order, gender distinction, and authority relationships rooted in creation. Second, and more urgently, the scandal of the Lord's Supper: the wealthy arrive early and eat their own meals while the poor go hungry, turning the communal supper into an exhibition of social stratification (1Cor 11:17–22). Paul rehearses the oldest NT account of the institution of the Eucharist (1Cor 11:23–26): on the night he was betrayed, the Lord took the bread and the cup declaring them 'my body' and 'the new covenant in my blood,' and commanded that this be done in his memory. He who eats and drinks unworthily, without discerning the body, eats and drinks judgment upon himself (1Cor 11:29). The present judgment on some sick and dead Corinthians (1Cor 11:30) is paternal discipline, not final condemnation.",
+        "pt": "Paulo aborda duas questões de ordem na assembleia. Primeiro, a questão do cobrir a cabeça no culto (1Co 11:2–16), que reflete princípios de ordem, distinção de gêneros e relação de autoridade enraizados na criação. Segundo, e mais urgente, o escândalo da Ceia do Senhor: os ricos chegam cedo e comem suas próprias refeições enquanto os pobres passam fome, transformando o jantar comunitário em uma exibição de estratificação social (1Co 11:17–22). Paulo recorda o relato mais antigo do NT sobre a instituição da Eucaristia (1Co 11:23–26): na noite em que foi traído, o Senhor tomou o pão e o cálice declarando-os 'meu corpo' e 'o novo pacto em meu sangue', e ordenou que isso fosse feito em sua memória. O que come e bebe indignamente, sem discernir o corpo, come e bebe juízo para si mesmo (1Co 11:29). O julgamento presente sobre alguns coríntios doentes e mortos (1Co 11:30) é disciplina paternal, não condenação final."
+      },
+      "eventoClave": {
+        "es": "Pablo transmite el relato más antiguo del NT sobre la institución de la Cena del Señor (1Co 11:23–26), declarando que su celebración 'proclama la muerte del Señor hasta que Él venga' y vinculando el sacramento al nuevo pacto y a la esperanza escatológica.",
+        "en": "Paul transmits the oldest NT account of the institution of the Lord's Supper (1Cor 11:23–26), declaring that its celebration 'proclaims the Lord's death until he comes' and linking the sacrament to the new covenant and eschatological hope.",
+        "pt": "Paulo transmite o relato mais antigo do NT sobre a instituição da Ceia do Senhor (1Co 11:23–26), declarando que sua celebração 'anuncia a morte do Senhor até que Ele venha' e vinculando o sacramento ao novo pacto e à esperança escatológica."
+      },
+      "versiculoClave": "1Co 11:26",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 12,
+      "rangoFin": 14,
+      "titulo": {
+        "es": "El Cuerpo de Cristo y los Dones del Espíritu",
+        "en": "The Body of Christ and the Gifts of the Spirit",
+        "pt": "O Corpo de Cristo e os Dons do Espírito"
+      },
+      "descripcion": {
+        "es": "Pablo aborda el desorden en el ejercicio de los dones espirituales con una enseñanza tripartita memorable. En el capítulo 12 establece la base cristológica y eclesiológica: el mismo Espíritu distribuye soberanamente dones diversos para el bien común (1Co 12:7–11), y todos los creyentes forman un solo cuerpo porque todos bebieron de un mismo Espíritu (1Co 12:12–13); ningún miembro puede decir que no necesita a los demás (1Co 12:21). El capítulo 13 es el 'camino más excelente' (1Co 12:31): el himno al amor ágape que supera a todos los dones porque permanece eternamente mientras los dones de señales pasarán (1Co 13:8–13). El capítulo 14 regula el ejercicio de los dones en el culto: la profecía supera a las lenguas porque edifica a la congregación (1Co 14:1–5); todo debe hacerse en orden y decencia para la edificación (1Co 14:26–40), principio fundacional del principio regulativo del culto reformado.",
+        "en": "Paul addresses the disorder in the exercise of spiritual gifts with a memorable tripartite teaching. In chapter 12 he establishes the christological and ecclesiological basis: the same Spirit sovereignly distributes diverse gifts for the common good (1Cor 12:7–11), and all believers form one body because all drank of one Spirit (1Cor 12:12–13); no member can say it does not need the others (1Cor 12:21). Chapter 13 is the 'more excellent way' (1Cor 12:31): the hymn to agape love that surpasses all gifts because it abides eternally while sign gifts will pass away (1Cor 13:8–13). Chapter 14 regulates the exercise of gifts in worship: prophecy exceeds tongues because it edifies the congregation (1Cor 14:1–5); all must be done in an orderly and decent manner for edification (1Cor 14:26–40), the foundational principle for the Reformed regulative principle of worship.",
+        "pt": "Paulo aborda a desordem no exercício dos dons espirituais com um ensino tripartite memorável. No capítulo 12, estabelece a base cristológica e eclesiológica: o mesmo Espírito distribui soberanamente dons diversos para o bem comum (1Co 12:7–11), e todos os crentes formam um só corpo porque todos beberam de um mesmo Espírito (1Co 12:12–13); nenhum membro pode dizer que não precisa dos outros (1Co 12:21). O capítulo 13 é o 'caminho mais excelente' (1Co 12:31): o hino ao amor ágape que supera todos os dons porque permanece eternamente enquanto os dons de sinais passarão (1Co 13:8–13). O capítulo 14 regula o exercício dos dons no culto: a profecia supera as línguas porque edifica a congregação (1Co 14:1–5); tudo deve ser feito com ordem e decência para edificação (1Co 14:26–40), princípio fundacional do princípio regulativo do culto reformado."
+      },
+      "eventoClave": {
+        "es": "Pablo introduce el himno al amor (1Co 13) como el 'camino más excelente' que subordina todos los dones espirituales: sin amor, incluso los dones más espectaculares son nada (1Co 13:1–3), afirmando que el amor ágape es el vínculo permanente de la escatología presente y futura.",
+        "en": "Paul introduces the love hymn (1Cor 13) as the 'more excellent way' that subordinates all spiritual gifts: without love, even the most spectacular gifts are nothing (1Cor 13:1–3), affirming that agape love is the permanent bond of present and future eschatology.",
+        "pt": "Paulo introduz o hino ao amor (1Co 13) como o 'caminho mais excelente' que subordina todos os dons espirituais: sem amor, até mesmo os dons mais espetaculares são nada (1Co 13:1–3), afirmando que o amor ágape é o vínculo permanente da escatologia presente e futura."
+      },
+      "versiculoClave": "1Co 13:13",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 15,
+      "rangoFin": 15,
+      "titulo": {
+        "es": "La Resurrección: Fundamento del Evangelio",
+        "en": "The Resurrection: Foundation of the Gospel",
+        "pt": "A Ressurreição: Fundamento do Evangelho"
+      },
+      "descripcion": {
+        "es": "El capítulo más extenso de la carta y el más desarrollado del NT sobre la resurrección corporal. Pablo comienza con el kerigma apostólico (1Co 15:3–8): Cristo murió por nuestros pecados, fue sepultado, resucitó al tercer día y se apareció a Cefas, a los doce, a más de quinientos hermanos, a Jacobo, a todos los apóstoles, y finalmente a Pablo mismo como 'el aborto'. Si Cristo no resucitó, la fe es vana y los predicadores son falsos testigos de Dios (1Co 15:14–15). Pero Cristo sí resucitó como primicias de los que durmieron (1Co 15:20): el orden escatológico progresa desde la resurrección de Cristo hasta la parusía, la derrota de todos los enemigos incluida la muerte, y la entrega del reino al Padre (1Co 15:20–28). Pablo responde la objeción sobre el tipo de cuerpo resucitado con la analogía de la semilla (1Co 15:35–44): el cuerpo se siembra corruptible y resucita incorruptible, glorioso y poderoso. La victoria final es la transformación en 'un momento, en un abrir y cerrar de ojos' cuando la muerte sea absorbida por la victoria (1Co 15:51–57).",
+        "en": "The longest chapter of the letter and the most developed in the NT on bodily resurrection. Paul begins with the apostolic kerygma (1Cor 15:3–8): Christ died for our sins, was buried, rose on the third day, and appeared to Cephas, to the twelve, to more than five hundred brothers, to James, to all the apostles, and finally to Paul himself as 'one untimely born.' If Christ has not been raised, faith is futile and the preachers are false witnesses of God (1Cor 15:14–15). But Christ has been raised as the firstfruits of those who have fallen asleep (1Cor 15:20): the eschatological order progresses from Christ's resurrection to the parousia, the defeat of all enemies including death, and the handing over of the kingdom to the Father (1Cor 15:20–28). Paul answers the objection about the kind of resurrected body with the analogy of the seed (1Cor 15:35–44): the body is sown perishable and raised imperishable, glorious, and powerful. The final victory is transformation 'in a moment, in the twinkling of an eye' when death is swallowed up in victory (1Cor 15:51–57).",
+        "pt": "O capítulo mais extenso da carta e o mais desenvolvido no NT sobre a ressurreição corporal. Paulo começa com o querigma apostólico (1Co 15:3–8): Cristo morreu pelos nossos pecados, foi sepultado, ressuscitou ao terceiro dia e apareceu a Cefas, aos doze, a mais de quinhentos irmãos, a Tiago, a todos os apóstolos, e finalmente ao próprio Paulo como 'o abortivo'. Se Cristo não ressuscitou, a fé é vã e os pregadores são falsas testemunhas de Deus (1Co 15:14–15). Mas Cristo ressuscitou como primícias dos que dormiram (1Co 15:20): a ordem escatológica progride desde a ressurreição de Cristo até a parusia, a derrota de todos os inimigos incluindo a morte, e a entrega do reino ao Pai (1Co 15:20–28). Paulo responde à objeção sobre o tipo de corpo ressuscitado com a analogia da semente (1Co 15:35–44): o corpo é semeado corruptível e ressuscita incorruptível, glorioso e poderoso. A vitória final é a transformação 'num momento, num abrir e fechar de olhos' quando a morte é absorvida pela vitória (1Co 15:51–57)."
+      },
+      "eventoClave": {
+        "es": "Pablo transmite el kerigma apostólico más antiguo del NT (1Co 15:3–8) como fundamento de toda la fe cristiana, y anuncia que la resurrección de Cristo como primicias (1Co 15:20) garantiza la resurrección futura de todos los creyentes, haciendo de la escatología el fundamento de la ética presente (1Co 15:58).",
+        "en": "Paul transmits the oldest apostolic kerygma of the NT (1Cor 15:3–8) as the foundation of all Christian faith, and announces that Christ's resurrection as firstfruits (1Cor 15:20) guarantees the future resurrection of all believers, making eschatology the foundation of present ethics (1Cor 15:58).",
+        "pt": "Paulo transmite o querigma apostólico mais antigo do NT (1Co 15:3–8) como fundamento de toda a fé cristã, e anuncia que a ressurreição de Cristo como primícias (1Co 15:20) garante a ressurreição futura de todos os crentes, fazendo da escatologia o fundamento da ética presente (1Co 15:58)."
+      },
+      "versiculoClave": "1Co 15:20",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 16,
+      "rangoFin": 16,
+      "titulo": {
+        "es": "Instrucciones Finales y Saludos",
+        "en": "Final Instructions and Greetings",
+        "pt": "Instruções Finais e Saudações"
+      },
+      "descripcion": {
+        "es": "El capítulo de cierre de 1 Corintios contiene instrucciones prácticas que reflejan la vida concreta de la red de iglesias paulinas. Pablo ordena la colecta semanal para los santos de Jerusalén (1Co 16:1–4), vinculando la solidaridad económica entre iglesias con la unidad del cuerpo de Cristo. Anuncia sus planes de visita: pasar por Macedonia, visitar Corinto y quizás pasar el invierno allí (1Co 16:5–9), y recuerda que una gran puerta eficaz se le ha abierto en Éfeso aunque hay muchos adversarios (1Co 16:9). Exhorta a recibir bien a Timoteo (1Co 16:10–11) y menciona que Apolos no tiene planes de visitar pronto (1Co 16:12). Concluye con exhortaciones a la firmeza en la fe (1Co 16:13–14), recomendaciones para Estéfanas y sus colaboradores (1Co 16:15–18), y saludos de las iglesias de Asia y los hermanos que lo acompañan. La carta termina con una maldición en arameo ('Maranata', 'Ven, Señor', 1Co 16:22) y una bendición trinitaria.",
+        "en": "The closing chapter of 1 Corinthians contains practical instructions that reflect the concrete life of the Pauline network of churches. Paul orders the weekly collection for the saints of Jerusalem (1Cor 16:1–4), linking economic solidarity between churches to the unity of the body of Christ. He announces his travel plans: passing through Macedonia, visiting Corinth and perhaps spending the winter there (1Cor 16:5–9), and notes that a wide and effective door has been opened to him in Ephesus though there are many adversaries (1Cor 16:9). He urges a good reception for Timothy (1Cor 16:10–11) and mentions that Apollos has no plans to visit soon (1Cor 16:12). He concludes with exhortations to steadfastness in the faith (1Cor 16:13–14), recommendations for Stephanas and his co-workers (1Cor 16:15–18), and greetings from the churches of Asia and the brothers who accompany him. The letter ends with an Aramaic curse formula ('Maranatha,' 'Come, Lord,' 1Cor 16:22) and a trinitarian benediction.",
+        "pt": "O capítulo de encerramento de 1 Coríntios contém instruções práticas que refletem a vida concreta da rede de igrejas paulinas. Paulo ordena a coleta semanal para os santos de Jerusalém (1Co 16:1–4), vinculando a solidariedade econômica entre igrejas à unidade do corpo de Cristo. Anuncia seus planos de viagem: passar pela Macedônia, visitar Corinto e talvez passar o inverno lá (1Co 16:5–9), e observa que uma grande porta eficaz lhe foi aberta em Éfeso, embora haja muitos adversários (1Co 16:9). Exorta a receber bem a Timóteo (1Co 16:10–11) e menciona que Apolo não tem planos de visitar em breve (1Co 16:12). Conclui com exortações à firmeza na fé (1Co 16:13–14), recomendações para Estéfanas e seus colaboradores (1Co 16:15–18), e saudações das igrejas da Ásia e dos irmãos que o acompanham. A carta termina com uma fórmula de maldição em aramaico ('Maranata', 'Vem, Senhor', 1Co 16:22) e uma bênção trinitária."
+      },
+      "eventoClave": {
+        "es": "Pablo ordena la colecta sistemática y semanal para los santos de Jerusalén (1Co 16:1–4), instituyendo un modelo de solidaridad económica intercongregacional que refleja la unidad del cuerpo de Cristo más allá de fronteras geográficas y culturales.",
+        "en": "Paul orders the systematic and weekly collection for the saints of Jerusalem (1Cor 16:1–4), instituting a model of inter-congregational economic solidarity that reflects the unity of the body of Christ beyond geographic and cultural boundaries.",
+        "pt": "Paulo ordena a coleta sistemática e semanal para os santos de Jerusalém (1Co 16:1–4), instituindo um modelo de solidariedade econômica intercongregacional que reflete a unidade do corpo de Cristo além das fronteiras geográficas e culturais."
+      },
+      "versiculoClave": "1Co 16:13",
+      "era": "Aplicación"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Wayne Grudem et al.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología",
+          "Resumen de capítulos",
+          "Versículos clave"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Theology",
+          "Chapter summaries",
+          "Key verses"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia",
+          "Resumo dos capítulos",
+          "Versículos-chave"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es la Biblia de estudio más completa de la tradición evangélica reformada, publicada por Crossway en 2008. Reúne más de noventa eruditos bíblicos y teológicos de primer nivel, con el editor general Wayne Grudem (Phoenix Seminary). Es ampliamente considerada la referencia estándar en seminarios y congregaciones reformadas del mundo anglohablante.",
+          "en": "The ESV Study Bible is the most comprehensive study Bible in the Reformed evangelical tradition, published by Crossway in 2008. It brings together over ninety top-tier biblical and theological scholars, with general editor Wayne Grudem (Phoenix Seminary). It is widely regarded as the standard reference in Reformed seminaries and congregations in the English-speaking world.",
+          "pt": "A ESV Study Bible é a Bíblia de estudo mais abrangente da tradição evangélica reformada, publicada pela Crossway em 2008. Reúne mais de noventa estudiosos bíblicos e teológicos de primeiro nível, com o editor geral Wayne Grudem (Phoenix Seminary). É amplamente considerada a referência padrão em seminários e congregações reformadas do mundo anglófono."
+        },
+        "metodo": {
+          "es": "Combina exégesis gramatical-histórica con hermenéutica bíblico-teológica reformada. Cada libro cuenta con una introducción completa, notas versículo a versículo, ensayos temáticos y mapas. El método es gramatical-histórico con sensibilidad a la historia redentora y la teología sistemática de la Westminster.",
+          "en": "Combines grammatical-historical exegesis with Reformed biblical-theological hermeneutics. Each book has a complete introduction, verse-by-verse notes, thematic essays, and maps. The method is grammatical-historical with sensitivity to redemptive history and Westminster systematic theology.",
+          "pt": "Combina exegese gramatical-histórica com hermenêutica bíblico-teológica reformada. Cada livro tem uma introdução completa, notas versículo a versículo, ensaios temáticos e mapas. O método é gramatical-histórico com sensibilidade à história redentora e à teologia sistemática da Westminster."
+        },
+        "aportacion": {
+          "es": "Provee el marco introductorio estándar para 1 Corintios: autoría, fecha, destinatarios y estructura, junto con notas exegéticas detalladas sobre los pasajes clave de la resurrección (1Co 15) y los dones del Espíritu (1Co 12–14).",
+          "en": "Provides the standard introductory framework for 1 Corinthians: authorship, date, recipients, and structure, along with detailed exegetical notes on the key passages about the resurrection (1Cor 15) and the gifts of the Spirit (1Cor 12–14).",
+          "pt": "Fornece o marco introdutório padrão para 1 Coríntios: autoria, data, destinatários e estrutura, juntamente com notas exegéticas detalhadas sobre as passagens-chave da ressurreição (1Co 15) e os dons do Espírito (1Co 12–14)."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Reader's Bible (2016)",
+          "ESV Reformation Study Bible (2015)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-case/"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / B&H Publishing",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Distintas reformadas",
+          "Anclas confesionales",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Distintivos reformados",
+          "Âncoras confessionais",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue uno de los teólogos reformados más influyentes del siglo XX, fundador de Ligonier Ministries y profesor en el Reformed Theological Seminary. Su Biblia de Estudio de la Reforma es el recurso de referencia en español para la tradición reformada confesional, utilizado en seminarios e iglesias presbiterianas y reformadas de toda América Latina.",
+          "en": "R.C. Sproul (1939–2017) was one of the most influential Reformed theologians of the 20th century, founder of Ligonier Ministries and professor at Reformed Theological Seminary. His Reformation Study Bible is the Spanish-language reference resource for the confessional Reformed tradition, used in Presbyterian and Reformed seminaries and churches throughout Latin America.",
+          "pt": "R.C. Sproul (1939–2017) foi um dos teólogos reformados mais influentes do século XX, fundador do Ligonier Ministries e professor no Reformed Theological Seminary. Sua Bíblia de Estudo da Reforma é o recurso de referência em espanhol para a tradição reformada confessional, utilizado em seminários e igrejas presbiterianas e reformadas de toda a América Latina."
+        },
+        "metodo": {
+          "es": "Exégesis reformada confessional con notas doctrinales que relacionan cada texto con la Confesión de Fe de Westminster y los Cánones de Dort. Énfasis en la soberanía de Dios, la gracia irresistible y la seguridad de la salvación como lentes interpretativas.",
+          "en": "Confessional Reformed exegesis with doctrinal notes relating each text to the Westminster Confession of Faith and the Canons of Dort. Emphasis on the sovereignty of God, irresistible grace, and the assurance of salvation as interpretive lenses.",
+          "pt": "Exegese reformada confessional com notas doutrinárias que relacionam cada texto à Confissão de Fé de Westminster e aos Cânones de Dort. Ênfase na soberania de Deus, na graça irresistível e na segurança da salvação como lentes interpretativas."
+        },
+        "aportacion": {
+          "es": "Fundamenta las distintas reformadas de 1 Corintios, especialmente el principio regulativo del culto (1Co 14:26–40), la doctrina de la Cena del Señor (1Co 11:23–26) y la hamartiología de la depravación total (1Co 2:14).",
+          "en": "Grounds the Reformed distinctives of 1 Corinthians, especially the regulative principle of worship (1Cor 14:26–40), the doctrine of the Lord's Supper (1Cor 11:23–26), and the hamartiology of total depravity (1Cor 2:14).",
+          "pt": "Fundamenta os distintivos reformados de 1 Coríntios, especialmente o princípio regulativo do culto (1Co 14:26–40), a doutrina da Ceia do Senhor (1Co 11:23–26) e a hamartiologia da depravação total (1Co 2:14)."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)",
+          "Knowing Scripture (1977)"
+        ],
+        "url": "https://es.ligonier.org/recursos/credos-confesiones/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Escatología",
+          "Pneumatología",
+          "Eclesiología"
+        ],
+        "en": [
+          "Systematic theology",
+          "Eschatology",
+          "Pneumatology",
+          "Ecclesiology"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Escatologia",
+          "Pneumatologia",
+          "Eclesiologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem (n. 1948) es profesor de Teología y Estudios Bíblicos en Phoenix Seminary y uno de los teólogos sistemáticos más leídos en el mundo evangélico reformado. Su Teología Sistemática es el manual estándar en cientos de seminarios y universidades teológicas anglohablantes.",
+          "en": "Wayne Grudem (b. 1948) is professor of Theology and Biblical Studies at Phoenix Seminary and one of the most widely read systematic theologians in the Reformed evangelical world. His Systematic Theology is the standard textbook in hundreds of English-speaking seminaries and theological universities.",
+          "pt": "Wayne Grudem (n. 1948) é professor de Teologia e Estudos Bíblicos no Phoenix Seminary e um dos teólogos sistemáticos mais lidos no mundo evangélico reformado. Sua Teologia Sistemática é o manual padrão em centenas de seminários e universidades teológicas anglófonas."
+        },
+        "metodo": {
+          "es": "Teología sistemática bíblica que deriva cada doctrina primariamente de textos bíblicos. Grudem organiza cada capítulo temáticamente con una sección de preguntas para revisión y bibliografía selecta. Su postura es evangélica, complementaria en género y continuacionista moderada en dones espirituales.",
+          "en": "Biblical systematic theology that derives each doctrine primarily from biblical texts. Grudem organizes each chapter thematically with a section of review questions and select bibliography. His position is evangelical, complementarian in gender, and moderately continuationist on spiritual gifts.",
+          "pt": "Teologia sistemática bíblica que deriva cada doutrina primariamente de textos bíblicos. Grudem organiza cada capítulo tematicamente com uma seção de perguntas de revisão e bibliografia selecionada. Sua posição é evangélica, complementarista em gênero e moderadamente continuacionista nos dons espirituais."
+        },
+        "aportacion": {
+          "es": "Provee el marco sistemático para las categorías de teología sistemática en este registro, especialmente escatología (cap. 42 sobre la resurrección), pneumatología (caps. 52–53 sobre los dones) y eclesiología (caps. 44–49 sobre la iglesia).",
+          "en": "Provides the systematic framework for the systematic theology categories in this record, especially eschatology (ch. 42 on the resurrection), pneumatology (chs. 52–53 on gifts), and ecclesiology (chs. 44–49 on the church).",
+          "pt": "Fornece o marco sistemático para as categorias de teologia sistemática neste registro, especialmente escatologia (cap. 42 sobre a ressurreição), pneumatologia (caps. 52–53 sobre os dons) e eclesiologia (caps. 44–49 sobre a igreja)."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Bible Doctrine (1999)",
+          "Politics According to the Bible (2010)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Tipología",
+          "Enfoque cristológico",
+          "Contexto de pacto"
+        ],
+        "en": [
+          "Redemptive history",
+          "Typology",
+          "Christological focus",
+          "Covenant context"
+        ],
+        "pt": [
+          "História redentora",
+          "Tipologia",
+          "Foco cristológico",
+          "Contexto de aliança"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue profesor de Teología Bíblica en el Princeton Theological Seminary durante 39 años y es considerado el padre de la teología bíblica reformada en América del Norte. Su obra integra la historia redentora con la teología del pacto de una manera que ningún otro teólogo del siglo XX había logrado.",
+          "en": "Geerhardus Vos (1862–1949) was professor of Biblical Theology at Princeton Theological Seminary for 39 years and is considered the father of Reformed biblical theology in North America. His work integrates redemptive history with covenant theology in a way no other 20th-century theologian had achieved.",
+          "pt": "Geerhardus Vos (1862–1949) foi professor de Teologia Bíblica no Princeton Theological Seminary por 39 anos e é considerado o pai da teologia bíblica reformada na América do Norte. Sua obra integra a história redentora com a teologia do pacto de uma forma que nenhum outro teólogo do século XX havia alcançado."
+        },
+        "metodo": {
+          "es": "Teología bíblica histórico-redentora: traza el desarrollo progresivo de la revelación divina a través de la historia del pacto, identificando tipos, sombras y anticipaciones que se cumplen en Cristo. Rechaza el enfoque temático de la teología sistemática en favor del histórico-progresivo.",
+          "en": "Redemptive-historical biblical theology: traces the progressive development of divine revelation through covenant history, identifying types, shadows, and anticipations fulfilled in Christ. Rejects the thematic approach of systematic theology in favor of the historical-progressive.",
+          "pt": "Teologia bíblica histórico-redentora: rastreia o desenvolvimento progressivo da revelação divina através da história do pacto, identificando tipos, sombras e antecipações cumpridas em Cristo. Rejeita a abordagem temática da teologia sistemática em favor da histórico-progressiva."
+        },
+        "aportacion": {
+          "es": "Fundamenta la tipología Adán-Cristo (1Co 15:45–49) y la tipología del éxodo (1Co 10:1–13) en el marco de la historia redentora, y provee el vocabulario escatológico para la distinción entre 'ya' y 'todavía no' que subyace a la cristología paulina en 1 Corintios.",
+          "en": "Grounds the Adam-Christ typology (1Cor 15:45–49) and the exodus typology (1Cor 10:1–13) within the redemptive-history framework, and provides the eschatological vocabulary for the 'already/not yet' distinction underlying Pauline christology in 1 Corinthians.",
+          "pt": "Fundamenta a tipologia Adão-Cristo (1Co 15:45–49) e a tipologia do êxodo (1Co 10:1–13) no âmbito da história redentora, e fornece o vocabulário escatológico para a distinção entre 'já' e 'ainda não' que subjaz à cristologia paulina em 1 Coríntios."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Grace and Glory (1922)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The First Epistle to the Corinthians (NICNT)",
+      "autor": "Gordon D. Fee",
+      "año": 1987,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Personajes",
+          "Resumen de capítulos",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Historical context",
+          "Characters",
+          "Chapter summaries",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Personagens",
+          "Resumo dos capítulos",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Gordon D. Fee (1934–2022) fue profesor emérito de Nuevo Testamento en el Regent College de Vancouver y uno de los mayores expertos mundiales en las cartas paulinas y el texto griego del NT. Su comentario sobre 1 Corintios en la serie New International Commentary on the New Testament es considerado el comentario exegético estándar sobre el libro.",
+          "en": "Gordon D. Fee (1934–2022) was professor emeritus of New Testament at Regent College in Vancouver and one of the world's foremost experts on Pauline letters and the Greek NT text. His commentary on 1 Corinthians in the New International Commentary on the New Testament series is considered the standard exegetical commentary on the book.",
+          "pt": "Gordon D. Fee (1934–2022) foi professor emérito de Novo Testamento no Regent College de Vancouver e um dos maiores especialistas mundiais nas cartas paulinas e no texto grego do NT. Seu comentário sobre 1 Coríntios na série New International Commentary on the New Testament é considerado o comentário exegético padrão sobre o livro."
+        },
+        "metodo": {
+          "es": "Exégesis gramatical-histórica rigurosa del texto griego del NT, con atención especial al trasfondo cultural grecoromano y a la reconstrucción histórica de la situación en Corinto. Fee es continuacionista en dones espirituales, lo que refleja en su tratamiento de 1Co 12–14.",
+          "en": "Rigorous grammatical-historical exegesis of the Greek NT text, with particular attention to Greco-Roman cultural background and historical reconstruction of the situation in Corinth. Fee is continuationist on spiritual gifts, which is reflected in his treatment of 1Cor 12–14.",
+          "pt": "Exegese gramatical-histórica rigorosa do texto grego do NT, com atenção especial ao contexto cultural greco-romano e à reconstrução histórica da situação em Corinto. Fee é continuacionista nos dons espirituais, o que se reflete em seu tratamento de 1Co 12–14."
+        },
+        "aportacion": {
+          "es": "Provee el análisis exegético más detallado disponible sobre cada sección de 1 Corintios, con especial valor para la reconstrucción de la situación en Corinto, el trasfondo del macellum (1Co 10:25), la institución de la Cena del Señor (1Co 11:23–26) y la escatología de la resurrección (1Co 15).",
+          "en": "Provides the most detailed exegetical analysis available on every section of 1 Corinthians, with particular value for reconstructing the situation in Corinth, the background of the macellum (1Cor 10:25), the institution of the Lord's Supper (1Cor 11:23–26), and the eschatology of the resurrection (1Cor 15).",
+          "pt": "Fornece a análise exegética mais detalhada disponível sobre cada seção de 1 Coríntios, com valor especial para a reconstrução da situação em Corinto, o contexto do macellum (1Co 10:25), a instituição da Ceia do Senhor (1Co 11:23–26) e a escatologia da ressurreição (1Co 15)."
+        },
+        "obras": [
+          "The First Epistle to the Corinthians, NICNT (1987)",
+          "God's Empowering Presence (1994)",
+          "Paul's Letter to the Philippians, NICNT (1995)",
+          "New Testament Exegesis (1983)"
+        ],
+        "url": "https://www.theopedia.com/gordon-fee"
+      }
+    },
+    {
+      "titulo": "IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Civilizaciones",
+          "Arqueología"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Civilizations",
+          "Archaeology"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Civilizações",
+          "Arqueologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener (n. 1960) es profesor de Estudios del NT en el Asbury Theological Seminary y es reconocido como uno de los especialistas más prolíficos en el contexto grecoromano del NT. Ha publicado más de 25 libros y es conocido por sus voluminosos comentarios con extensivo aparato de fuentes primarias.",
+          "en": "Craig S. Keener (b. 1960) is professor of NT Studies at Asbury Theological Seminary and is recognized as one of the most prolific specialists in the Greco-Roman context of the NT. He has published more than 25 books and is known for his voluminous commentaries with extensive primary source apparatus.",
+          "pt": "Craig S. Keener (n. 1960) é professor de Estudos do NT no Asbury Theological Seminary e é reconhecido como um dos especialistas mais prolíficos no contexto greco-romano do NT. Publicou mais de 25 livros e é conhecido por seus volumosos comentários com extenso aparato de fontes primárias."
+        },
+        "metodo": {
+          "es": "Investigación extensiva de fuentes primarias grecoromanas, judías helenísticas y del judaísmo del Segundo Templo para iluminar el trasfondo cultural y social del NT. El IVP Bible Background Commentary es una obra de referencia concisa que comprime el erudito contexto cultural en notas breves por versículo.",
+          "en": "Extensive research in Greco-Roman, Hellenistic Jewish, and Second Temple Judaism primary sources to illuminate the cultural and social background of the NT. The IVP Bible Background Commentary is a concise reference work that compresses scholarly cultural context into brief per-verse notes.",
+          "pt": "Pesquisa extensiva em fontes primárias greco-romanas, judaicas helenísticas e do Judaísmo do Segundo Templo para iluminar o contexto cultural e social do NT. O IVP Bible Background Commentary é uma obra de referência concisa que comprime o contexto cultural erudito em notas breves por versículo."
+        },
+        "aportacion": {
+          "es": "Ilumina el trasfondo grecoromano de las situaciones específicas en Corinto: el culto a Afrodita, los Juegos Ístmicos, el patronazgo social, la comida en los templos paganos, y el bema del procónsul, todos relevantes para la exégesis de 1Co 5–11.",
+          "en": "Illuminates the Greco-Roman background of specific situations in Corinth: the cult of Aphrodite, the Isthmian Games, social patronage, eating in pagan temples, and the proconsul's bema, all relevant to the exegesis of 1Cor 5–11.",
+          "pt": "Ilumina o contexto greco-romano das situações específicas em Corinto: o culto a Afrodite, os Jogos Ístmicos, o patronato social, a alimentação nos templos pagãos e o bema do procônsul, todos relevantes para a exegese de 1Co 5–11."
+        },
+        "obras": [
+          "IVP Bible Background Commentary: NT (1993)",
+          "Acts: An Exegetical Commentary, 4 vols. (2012–2015)",
+          "The Gospel of John: A Commentary, 2 vols. (2003)",
+          "Miracles: The Credibility of the NT Accounts (2011)"
+        ],
+        "url": "https://www.theopedia.com/craig-keener"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "validado",
+    "confianza": 0.87,
+    "camposMarcados": [
+      {
+        "campo": "personajes[1].biografiaHistorica.nivelEvidencia",
+        "razon": "Apolos carece de evidencia extrabíblica directa; su trasfondo se infiere del texto de Hechos y del contexto alejandrino. Nivel 'bajo' asignado.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "personajes[2].biografiaHistorica.nivelEvidencia",
+        "razon": "Estéfanas no tiene evidencia extrabíblica; nivel 'especulativo' asignado. Penalización de -0.15 aplicada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "contextoHistorico.fuentesANE",
+        "razon": "1 Corintios es un libro del NT sin fuentes del ANE stricto sensu; se sustituyeron por fuentes grecoromanas paralelas (Estrabón, Pausanias, 1 Clemente), que son el equivalente funcional para el contexto grecorromano.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "autor.año.desde/hasta",
+        "razon": "La datación exacta (53–55 d.C.) se basa en la inscripción de Galión en Delfos (c. 51–52 d.C.) como ancla cronológica; hay un margen de ±2 años en la literatura académica.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-29",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.3.0",
+      "rol": "administrador",
+      "fechaRevision": "2026-06-29"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-29",
+          "fechaFin": "2026-06-29",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

@@ -1,10 +1,11 @@
 import { useState, useEffect, useRef } from "react";
 import ebpiLogo from "../assets/ebpi.png";
+import { RAIL_BG } from "../constants";
 
 const GOLD = "#C9A84C";
 const PARCHMENT = "#F2E8D0";
 const SPINE_W = 42;
-const PAGES_W = 18;
+const PAGES_W = 30;
 
 const LABELS = {
   es: {
@@ -397,9 +398,8 @@ export default function SplashScreen({ onEnter }) {
               width: PAGES_W,
               overflow: "hidden",
               borderRadius: "0 4px 4px 0",
-              background:
-                "url('/textures/pergament.jpg')",
-              backgroundSize: "cover",
+              backgroundImage: `${RAIL_BG}, linear-gradient(180deg, rgba(30,15,3,0.18), rgba(20,10,2,0.28)), url('/textures/pergament.jpg')`,
+              backgroundSize: "auto, auto, cover",
               backgroundPosition: "center",
               borderTop: "1px solid rgba(201,168,76,0.18)",
               borderBottom: "1px solid rgba(201,168,76,0.18)",

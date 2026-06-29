@@ -475,7 +475,10 @@
     "id": "apolos",
     "color": "#3A5A8B",
     "init": "ΑΠ",
-    "xCh": 18,
+    "xCh": {
+      "Hch": 18,
+      "1Co": 3
+    },
     "side": "below",
     "badge": {
       "es": "ELOCUENTE EN LAS ESCRITURAS",
@@ -1710,6 +1713,42 @@
       "es": "COLABORADORAS EN EL EVANGELIO",
       "en": "FELLOW WORKERS IN THE GOSPEL",
       "pt": "COLABORADORAS NO EVANGELHO"
+    }
+  },
+  "Estéfanas": {
+    "id": "estefanas",
+    "color": "#8B6A1B",
+    "init": "ΣΤ",
+    "xCh": 16,
+    "side": "above",
+    "badge": {
+      "es": "PRIMICIA DE ACAYA",
+      "en": "FIRSTFRUITS OF ACHAIA",
+      "pt": "PRIMÍCIAS DA ACAIA"
+    }
+  },
+  "Crispo": {
+    "id": "crispo",
+    "color": "#7B3F8B",
+    "init": "ΚΡ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "GOBERNANTE DE LA SINAGOGA",
+      "en": "RULER OF THE SYNAGOGUE",
+      "pt": "GOVERNANTE DA SINAGOGA"
+    }
+  },
+  "Gayo": {
+    "id": "gayo",
+    "color": "#1B7A6B",
+    "init": "ΓΑ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "ANFITRIÓN DE LA IGLESIA",
+      "en": "HOST OF THE CHURCH",
+      "pt": "ANFITRIÃO DA IGREJA"
     }
   }
 }

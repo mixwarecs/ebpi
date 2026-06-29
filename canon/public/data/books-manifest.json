@@ -1489,12 +1489,13 @@
       "ordenCanon": 46,
       "capitulosTotal": 16,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Responde problemas pastorales de la iglesia de Corinto (divisiones, inmoralidad, dones espirituales, la resurrección) con instrucción teológica profunda, incluyendo el himno del amor (cap. 13) y el capítulo fundacional sobre la resurrección (cap. 15).",
         "en": "Addresses pastoral problems of the Corinthian church (divisions, immorality, spiritual gifts, resurrection) with deep theological instruction, including the hymn of love (ch. 13) and the foundational chapter on the resurrection (ch. 15).",
         "pt": "Responde a problemas pastorais da igreja de Corinto (divisões, imoralidade, dons espirituais, a ressurreição) com instrução teológica profunda, incluindo o hino do amor (cap. 13) e o capítulo fundamental sobre a ressurreição (cap. 15)."
-      }
+      },
+      "dataFile": "1corintios.json"
     },
     {
       "id": 47,
