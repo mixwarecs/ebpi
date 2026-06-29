@@ -1,0 +1,1631 @@
+{
+  "id": 55,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "ordenCanon": 55,
+  "ordenEnDivision": 11,
+  "titulo": {
+    "es": "2 Timoteo",
+    "en": "2 Timothy",
+    "pt": "2 Timóteo"
+  },
+  "tituloOriginal": "Πρὸς Τιμόθεον Β'",
+  "transliteracion": "Pros Timotheon B'",
+  "significado": {
+    "es": "Segunda carta a Timoteo",
+    "en": "Second Letter to Timothy",
+    "pt": "Segunda carta a Timóteo"
+  },
+  "capitulosTotal": 4,
+  "autor": {
+    "nombre": {
+      "es": "Pablo",
+      "en": "Paul",
+      "pt": "Paulo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La crítica liberal cuestiona la autoría paulina directa alegando diferencias de vocabulario con las epístolas principales. La tradición reformada defiende la autoría paulina genuina como la carta final de Pablo desde su segunda prisión en Roma (ca. 66–67 d.C.), posición respaldada por Ireneo, Clemente de Alejandría y el Canon Muratoriano.",
+      "en": "Liberal scholarship questions direct Pauline authorship citing vocabulary differences from the major epistles. The Reformed tradition defends genuine Pauline authorship as Paul's final letter from his second Roman imprisonment (ca. AD 66–67), a position supported by Irenaeus, Clement of Alexandria, and the Muratorian Canon.",
+      "pt": "A crítica liberal questiona a autoria paulina direta alegando diferenças de vocabulário em relação às epístolas principais. A tradição reformada defende a autoria paulina genuína como a carta final de Paulo de sua segunda prisão em Roma (ca. 66–67 d.C.), posição apoiada por Ireneu, Clemente de Alexandria e o Cânon Muratoriano."
+    }
+  },
+  "año": {
+    "desde": 66,
+    "hasta": 67,
+    "display": {
+      "es": "Fecha de escritura: ca. 66–67 d.C.",
+      "en": "Date of writing: ca. AD 66–67",
+      "pt": "Data de escrita: ca. 66–67 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Roma, durante la segunda prisión de Pablo (ca. 66–67 d.C.)",
+    "en": "Rome, during Paul's second imprisonment (ca. AD 66–67)",
+    "pt": "Roma, durante a segunda prisão de Paulo (ca. 66–67 d.C.)"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Primitivo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Roma",
+          "en": "Rome",
+          "pt": "Roma"
+        },
+        "identificacionModerna": {
+          "es": "Roma, Italia",
+          "en": "Rome, Italy",
+          "pt": "Roma, Itália"
+        },
+        "significancia": {
+          "es": "Lugar de composición de la carta; Pablo escribió desde su segunda prisión romana, probablemente en el Mamertino, mientras esperaba su ejecución bajo el emperador Nerón.",
+          "en": "Place of composition; Paul wrote from his second Roman imprisonment, likely the Mamertine Prison, while awaiting execution under Emperor Nero.",
+          "pt": "Local de composição da carta; Paulo escreveu de sua segunda prisão romana, provavelmente na Prisão Mamertina, enquanto aguardava a execução sob o imperador Nero."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Éfeso",
+          "en": "Ephesus",
+          "pt": "Éfeso"
+        },
+        "identificacionModerna": {
+          "es": "Selçuk, Turquía (costa egea)",
+          "en": "Selçuk, Turkey (Aegean coast)",
+          "pt": "Selçuk, Turquia (costa egeia)"
+        },
+        "significancia": {
+          "es": "Ciudad donde Timoteo servía como pastor y supervisor de la iglesia. Pablo le exhorta a permanecer fiel ante los falsos maestros que operaban allí (2Ti 1:18; 2Ti 4:12).",
+          "en": "City where Timothy served as pastor and overseer of the church. Paul urges him to remain faithful against false teachers operating there (2Tim 1:18; 2Tim 4:12).",
+          "pt": "Cidade onde Timóteo servia como pastor e supervisor da igreja. Paulo o exorta a permanecer fiel diante dos falsos mestres que ali atuavam (2Tm 1:18; 2Tm 4:12)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Troas",
+          "en": "Troas",
+          "pt": "Trôade"
+        },
+        "identificacionModerna": {
+          "es": "Cerca de Dalyan, provincia de Çanakkale, Turquía",
+          "en": "Near Dalyan, Çanakkale Province, Turkey",
+          "pt": "Perto de Dalyan, Província de Çanakkale, Turquia"
+        },
+        "significancia": {
+          "es": "Pablo dejó allí su capa y sus libros, lo cual sugiere un arresto repentino; pide a Timoteo que los recoja (2Ti 4:13). Evidencia la realidad histórica de la segunda detención de Pablo.",
+          "en": "Paul left his cloak and books there, suggesting a sudden arrest; he asks Timothy to bring them (2Tim 4:13). Evidence for the historical reality of Paul's second detention.",
+          "pt": "Paulo deixou ali seu manto e livros, sugerindo uma prisão repentina; pede a Timóteo que os traga (2Tm 4:13). Evidência da realidade histórica da segunda detenção de Paulo."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Corinto",
+          "en": "Corinth",
+          "pt": "Corinto"
+        },
+        "identificacionModerna": {
+          "es": "Corinto antiguo, Grecia",
+          "en": "Ancient Corinth, Greece",
+          "pt": "Corinto antigo, Grécia"
+        },
+        "significancia": {
+          "es": "Erasto se quedó allí (2Ti 4:20), lo que indica los movimientos misioneros del círculo paulino durante el ministerio tardío del apóstol.",
+          "en": "Erastus remained there (2Tim 4:20), indicating the missionary movements of the Pauline circle during the apostle's late ministry.",
+          "pt": "Erasto ficou ali (2Tm 4:20), indicando os movimentos missionários do círculo paulino durante o ministério tardio do apóstolo."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano (bajo Nerón)",
+          "en": "Roman Empire (under Nero)",
+          "pt": "Império Romano (sob Nero)"
+        },
+        "rolEnElTexto": {
+          "es": "Marco político de persecución activa contra los cristianos. Pablo escribe como prisionero del Estado romano y anticipa su ejecución (2Ti 4:6–8). El poder imperial sirve como telón de fondo para la llamada a no avergonzarse del evangelio.",
+          "en": "Political framework of active persecution against Christians. Paul writes as a prisoner of the Roman state and anticipates his execution (2Tim 4:6–8). Imperial power serves as the backdrop for the call not to be ashamed of the gospel.",
+          "pt": "Marco político de perseguição ativa contra os cristãos. Paulo escreve como prisioneiro do Estado romano e antecipa sua execução (2Tm 4:6–8). O poder imperial serve como pano de fundo para o chamado a não se envergonhar do evangelho."
+        },
+        "estadoArqueologico": {
+          "es": "Las fuentes romanas (Tácito, Suetonio) confirman la persecución neroniana de los cristianos hacia el 64–68 d.C. Las inscripciones de Éfeso y los papiros egipcios corroboran la presencia de comunidades cristianas en las ciudades del Imperio durante este período.",
+          "en": "Roman sources (Tacitus, Suetonius) confirm the Neronian persecution of Christians ca. AD 64–68. Ephesian inscriptions and Egyptian papyri corroborate the presence of Christian communities in imperial cities during this period.",
+          "pt": "As fontes romanas (Tácito, Suetônio) confirmam a perseguição neroniana dos cristãos por volta de 64–68 d.C. Inscrições efésias e papiros egípcios corroboram a presença de comunidades cristãs nas cidades do Império durante este período."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidades judías de la Diáspora",
+          "en": "Jewish Diaspora Communities",
+          "pt": "Comunidades Judaicas da Diáspora"
+        },
+        "rolEnElTexto": {
+          "es": "La herencia judía de Timoteo — su abuela Loida y su madre Eunice (2Ti 1:5) — ilustra la transmisión de la fe a través de la línea materna judía, dando a la carta un trasfondo de continuidad entre los dos Testamentos.",
+          "en": "Timothy's Jewish heritage — his grandmother Lois and mother Eunice (2Tim 1:5) — illustrates the transmission of faith through the Jewish maternal line, giving the letter a backdrop of continuity between the two Testaments.",
+          "pt": "A herança judaica de Timóteo — sua avó Loide e sua mãe Eunice (2Tm 1:5) — ilustra a transmissão da fé pela linha materna judaica, dando à carta um pano de fundo de continuidade entre os dois Testamentos."
+        },
+        "estadoArqueologico": {
+          "es": "Las sinagogas de Listra (ciudad natal de Timoteo) y Éfeso están atestiguadas por inscripciones y fuentes literarias del siglo I d.C. La educación bíblica de Timoteo desde la niñez (2Ti 3:15) es coherente con las prácticas educativas judías documentadas.",
+          "en": "Synagogues at Lystra (Timothy's hometown) and Ephesus are attested by inscriptions and first-century literary sources. Timothy's biblical education from childhood (2Tim 3:15) is consistent with documented Jewish educational practices.",
+          "pt": "As sinagogas em Listra (cidade natal de Timóteo) e Éfeso são atestadas por inscrições e fontes literárias do século I d.C. A educação bíblica de Timóteo desde a infância (2Tm 3:15) é coerente com as práticas educativas judaicas documentadas."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "No existe ningún manuscrito o inscripción directamente vinculado a la composición de 2 Timoteo. Sin embargo, la arqueología del mundo neroniano corrobora elementos centrales de su contexto: (1) La Prisión Mamertina en Roma, donde la tradición sitúa el segundo encarcelamiento de Pablo, es un sitio arqueológico real del siglo I. (2) Las excavaciones en Éfeso han descubierto estructuras de la época imperial que corresponden a la dinámica eclesiástica descrita en las Epístolas Pastorales. (3) Los papiros del siglo I que contienen cartas personales confirman el estilo íntimo y el formato de la carta paulina. (4) Las inscripciones de Listra mencionan conexiones con Asia Menor occidental, región de origen de Timoteo (Hch 16:1–3).",
+      "en": "No manuscript or inscription is directly linked to the composition of 2 Timothy. However, the archaeology of the Neronian world corroborates central elements of its context: (1) The Mamertine Prison in Rome, where tradition locates Paul's second imprisonment, is a real first-century archaeological site. (2) Excavations at Ephesus have uncovered imperial-era structures corresponding to the ecclesial dynamics described in the Pastoral Epistles. (3) First-century papyri containing personal letters confirm the intimate style and format of the Pauline letter. (4) Inscriptions at Lystra mention connections with western Asia Minor, the region of Timothy's origin (Acts 16:1–3).",
+      "pt": "Nenhum manuscrito ou inscrição está diretamente ligado à composição de 2 Timóteo. No entanto, a arqueologia do mundo neroniano corrobora elementos centrais de seu contexto: (1) A Prisão Mamertina em Roma, onde a tradição localiza a segunda prisão de Paulo, é um sítio arqueológico real do século I. (2) As escavações em Éfeso descobriram estruturas da era imperial correspondentes à dinâmica eclesiástica descrita nas Epístolas Pastorais. (3) Papiros do século I contendo cartas pessoais confirmam o estilo íntimo e o formato da carta paulina. (4) Inscrições em Listra mencionam conexões com o oeste da Ásia Menor, região de origem de Timóteo (At 16:1–3)."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Cartas personales del mundo greco-romano (papiros del siglo I d.C.)",
+          "en": "Personal letters of the Greco-Roman world (first-century AD papyri)",
+          "pt": "Cartas pessoais do mundo greco-romano (papiros do século I d.C.)"
+        },
+        "origen": {
+          "es": "Egipto (papiros de Oxirrinco y del Fayyum); British Museum y Biblioteca Bodleiana",
+          "en": "Egypt (Oxyrhynchus and Fayyum papyri); British Museum and Bodleian Library",
+          "pt": "Egito (papiros de Oxirrinco e do Fayyum); Museu Britânico e Biblioteca Bodleiana"
+        },
+        "relevancia": {
+          "es": "Los papiros personales del mundo greco-romano iluminan el género epistolar íntimo de 2 Timoteo: sus saludos personales, referencias a objetos cotidianos (la capa, los libros en 2Ti 4:13) y el tono de despedida corresponden exactamente a las cartas de última voluntad documentadas en papiros coetáneos.",
+          "en": "Personal papyri from the Greco-Roman world illuminate the intimate epistolary genre of 2 Timothy: its personal greetings, references to everyday objects (the cloak, the books in 2Tim 4:13), and farewell tone correspond exactly to last-will letters documented in contemporaneous papyri.",
+          "pt": "Os papiros pessoais do mundo greco-romano iluminam o gênero epistolar íntimo de 2 Timóteo: suas saudações pessoais, referências a objetos cotidianos (o manto, os livros em 2Tm 4:13) e o tom de despedida correspondem exatamente às cartas de última vontade documentadas em papiros contemporâneos."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Anales de Tácito (Libro XV)",
+          "en": "Tacitus, Annals (Book XV)",
+          "pt": "Anais de Tácito (Livro XV)"
+        },
+        "origen": {
+          "es": "Historiografía romana del siglo I–II d.C.; transmitida en manuscritos medievales",
+          "en": "Roman historiography of the 1st–2nd century AD; transmitted in medieval manuscripts",
+          "pt": "Historiografia romana do século I–II d.C.; transmitida em manuscritos medievais"
+        },
+        "relevancia": {
+          "es": "El relato de Tácito sobre la persecución neroniana de los cristianos (Anales XV.44) proporciona el contexto histórico externo del encarcelamiento de Pablo y la atmósfera de martirio que impregna 2 Timoteo (2Ti 4:6–7).",
+          "en": "Tacitus's account of the Neronian persecution of Christians (Annals XV.44) provides the external historical context of Paul's imprisonment and the martyr atmosphere permeating 2 Timothy (2Tim 4:6–7).",
+          "pt": "O relato de Tácito sobre a perseguição neroniana dos cristãos (Anais XV.44) fornece o contexto histórico externo da prisão de Paulo e a atmosfera de martírio que permeia 2 Timóteo (2Tm 4:6–7)."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia histórica es la autoría: los críticos liberales (Dibelius, Conzelmann, Bassler) proponen que 2 Timoteo fue escrita por un discípulo anónimo después de la muerte de Pablo (ca. 90–100 d.C.) usando su nombre como pseudónimo, alegando diferencias léxicas y teológicas con Gálatas y Romanos. La posición reformada (Marshall, Mounce, Towner, Knight) defiende la autoría paulina directa o la hipótesis de un secretario, señalando: (1) la información biográfica altamente específica (nombres, lugares, objetos) que es difícil de fabricar; (2) el tono de despedida genuinamente personal; (3) el testimonio unánime de la iglesia primitiva hasta el siglo XIX; (4) la presencia de Pablo en Roma en una segunda detención está corroborada por Clemente Romano y el Canon Muratoriano. La tradición reformada sostiene la autoría paulina como la explicación más coherente con los datos históricos y teológicos.",
+      "en": "The principal historical controversy is authorship: liberal critics (Dibelius, Conzelmann, Bassler) propose that 2 Timothy was written by an anonymous disciple after Paul's death (ca. AD 90–100) using his name as a pseudonym, citing lexical and theological differences from Galatians and Romans. The Reformed position (Marshall, Mounce, Towner, Knight) defends direct Pauline authorship or a secretary hypothesis, noting: (1) highly specific biographical details (names, places, objects) difficult to fabricate; (2) the genuinely personal farewell tone; (3) unanimous early church testimony until the nineteenth century; (4) Paul's presence in Rome for a second detention is corroborated by 1 Clement and the Muratorian Canon. The Reformed tradition holds Pauline authorship as the most coherent explanation of the historical and theological data.",
+      "pt": "A principal controvérsia histórica é a autoria: críticos liberais (Dibelius, Conzelmann, Bassler) propõem que 2 Timóteo foi escrita por um discípulo anônimo após a morte de Paulo (ca. 90–100 d.C.) usando seu nome como pseudônimo, alegando diferenças léxicas e teológicas com Gálatas e Romanos. A posição reformada (Marshall, Mounce, Towner, Knight) defende a autoria paulina direta ou a hipótese de um secretário, apontando: (1) informações biográficas altamente específicas (nomes, lugares, objetos) difíceis de fabricar; (2) o tom de despedida genuinamente pessoal; (3) o testemunho unânime da igreja primitiva até o século XIX; (4) a presença de Paulo em Roma numa segunda detenção é corroborada por 1 Clemente e pelo Cânon Muratoriano. A tradição reformada sustenta a autoria paulina como a explicação mais coerente dos dados históricos e teológicos."
+    },
+    "cronologiaInterna": {
+      "es": "La cronología interna de 2 Timoteo apunta a un momento avanzado del ministerio apostólico. Pablo ha sido abandonado por Demas y otros (2Ti 4:10), está solo excepto por Lucas (2Ti 4:11), ha enviado a Tíquico a Éfeso (2Ti 4:12), y describe su vida como una libación que ya se derrama (2Ti 4:6). Erastro quedó en Corinto y Trófimo estaba enfermo en Mileto (2Ti 4:20). La carta implica que Timoteo está en Éfeso y se le pide que venga rápidamente antes del invierno (2Ti 4:9,21). Este cuadro ubica la escritura pocas semanas o meses antes del martirio de Pablo, ca. 67 d.C.",
+      "en": "The internal chronology of 2 Timothy points to an advanced stage of the apostolic ministry. Paul has been abandoned by Demas and others (2Tim 4:10), is alone except for Luke (2Tim 4:11), has sent Tychicus to Ephesus (2Tim 4:12), and describes his life as a libation already being poured out (2Tim 4:6). Erastus remained at Corinth and Trophimus was left sick at Miletus (2Tim 4:20). The letter implies Timothy is in Ephesus and is asked to come quickly before winter (2Tim 4:9,21). This picture places composition weeks or months before Paul's martyrdom, ca. AD 67.",
+      "pt": "A cronologia interna de 2 Timóteo aponta para uma fase avançada do ministério apostólico. Paulo foi abandonado por Demas e outros (2Tm 4:10), está sozinho exceto por Lucas (2Tm 4:11), enviou Tíquico a Éfeso (2Tm 4:12) e descreve sua vida como uma libação que já está sendo derramada (2Tm 4:6). Erasto ficou em Corinto e Trófimo estava doente em Mileto (2Tm 4:20). A carta implica que Timóteo está em Éfeso e é solicitado a vir rapidamente antes do inverno (2Tm 4:9,21). Este quadro situa a composição semanas ou meses antes do martírio de Paulo, ca. 67 d.C."
+    }
+  },
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "En 2 Timoteo, Cristo es el centro del «depósito» de la fe que debe ser guardado y transmitido (2Ti 1:12–14). Pablo presenta a Jesucristo como el Resucitado, simiente de David (2Ti 2:8), cuya resurrección es el fundamento de toda esperanza en medio de la persecución. Cristo es también el Juez justo que entregará la corona de justicia (2Ti 4:8) y el Señor que libra a sus siervos (2Ti 4:17–18). Desde la perspectiva de la teología bíblica de Vos, la carta aplica los beneficios del pacto de gracia inaugurado en Cristo a la situación concreta del ministro fiel en el período post-apostólico.",
+      "en": "In 2 Timothy, Christ is the center of the 'deposit' of faith to be guarded and passed on (2Tim 1:12–14). Paul presents Jesus Christ as the Risen One, seed of David (2Tim 2:8), whose resurrection is the foundation of all hope amid persecution. Christ is also the righteous Judge who will award the crown of righteousness (2Tim 4:8) and the Lord who rescues his servants (2Tim 4:17–18). From Vos's biblical-theology perspective, the letter applies the benefits of the covenant of grace inaugurated in Christ to the concrete situation of the faithful minister in the post-apostolic period.",
+      "pt": "Em 2 Timóteo, Cristo é o centro do 'depósito' da fé que deve ser guardado e transmitido (2Tm 1:12–14). Paulo apresenta Jesus Cristo como o Ressuscitado, semente de Davi (2Tm 2:8), cuja ressurreição é o fundamento de toda esperança em meio à perseguição. Cristo é também o Juiz justo que entregará a coroa de justiça (2Tm 4:8) e o Senhor que liberta seus servos (2Tm 4:17–18). Da perspectiva da teologia bíblica de Vos, a carta aplica os benefícios do pacto da graça inaugurado em Cristo à situação concreta do ministro fiel no período pós-apostólico."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Pablo como tipo del ministro sufriente: su perseverancia fiel hasta el martirio prefigura y modela el camino de todo siervo del evangelio que, unido a Cristo, pasa por muerte para alcanzar vida (2Ti 2:11–12; 2Ti 4:6–8).",
+        "en": "Paul as a type of the suffering minister: his faithful perseverance unto martyrdom prefigures and models the path of every servant of the gospel who, united to Christ, passes through death to reach life (2Tim 2:11–12; 2Tim 4:6–8).",
+        "pt": "Paulo como tipo do ministro sofredor: sua perseverança fiel até o martírio prefigura e modela o caminho de todo servo do evangelho que, unido a Cristo, passa pela morte para alcançar a vida (2Tm 2:11–12; 2Tm 4:6–8)."
+      },
+      {
+        "es": "El soldado, el atleta y el labrador (2Ti 2:3–6) como imágenes tipológicas: recogen los tipos del AT del guerrero de Dios y del siervo fiel que esperan plenitud en Cristo, el verdadero Guerrero y Sumo Sacerdote que combate y trabaja por su pueblo.",
+        "en": "The soldier, the athlete, and the farmer (2Tim 2:3–6) as typological images: they gather OT types of the warrior of God and the faithful servant that find their fullness in Christ, the true Warrior and High Priest who fights and labors for his people.",
+        "pt": "O soldado, o atleta e o agricultor (2Tm 2:3–6) como imagens tipológicas: reúnem os tipos do AT do guerreiro de Deus e do servo fiel que encontram sua plenitude em Cristo, o verdadeiro Guerreiro e Sumo Sacerdote que combate e trabalha por seu povo."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Solo 2 Timoteo provee la última palabra documentada del apóstol Pablo: su testamento espiritual dirigido a la segunda generación de ministros. Ningún otro libro del NT combina de forma tan explícita la doctrina de la infalibilidad e inspiración de las Escrituras (2Ti 3:16–17) con el mandato de transmitir el depósito de la fe a través de generaciones sucesivas de maestros fieles (2Ti 2:2). La carta establece el patrón normativo de la sucesión apostólica reformada: no institucional-sacerdotal, sino doctrinal-fiel.",
+    "en": "Only 2 Timothy provides the Apostle Paul's last documented word: his spiritual testament addressed to the second generation of ministers. No other NT book so explicitly combines the doctrine of the inerrancy and inspiration of Scripture (2Tim 3:16–17) with the mandate to transmit the deposit of faith through successive generations of faithful teachers (2Tim 2:2). The letter establishes the normative pattern of Reformed apostolic succession: not institutional-sacerdotal, but doctrinal-faithful.",
+    "pt": "Somente 2 Timóteo fornece a última palavra documentada do apóstolo Paulo: seu testamento espiritual dirigido à segunda geração de ministros. Nenhum outro livro do NT combina de forma tão explícita a doutrina da inerrância e inspiração das Escrituras (2Tm 3:16–17) com o mandato de transmitir o depósito da fé através de gerações sucessivas de mestres fiéis (2Tm 2:2). A carta estabelece o padrão normativo da sucessão apostólica reformada: não institucional-sacerdotal, mas doutrinal-fiel."
+  },
+  "genero": {
+    "es": "Epístola pastoral personal (carta de testamento / mandato)",
+    "en": "Personal pastoral epistle (testament / charge letter)",
+    "pt": "Epístola pastoral pessoal (carta de testamento / mandato)"
+  },
+  "palabraClave": {
+    "es": [
+      "depósito",
+      "perseverancia",
+      "Escrituras",
+      "fidelidad",
+      "sufrimiento",
+      "evangelio"
+    ],
+    "en": [
+      "deposit",
+      "endurance",
+      "Scripture",
+      "faithfulness",
+      "suffering",
+      "gospel"
+    ],
+    "pt": [
+      "depósito",
+      "perseverança",
+      "Escrituras",
+      "fidelidade",
+      "sofrimento",
+      "evangelho"
+    ]
+  },
+  "destinatario": {
+    "es": "Timoteo, pastor joven y colaborador de Pablo, supervisor de la iglesia de Éfeso, llamado a permanecer fiel al evangelio y a completar su ministerio ante la inminente muerte del apóstol.",
+    "en": "Timothy, Paul's young pastor and co-worker, overseer of the church at Ephesus, called to remain faithful to the gospel and to complete his ministry in view of the apostle's imminent death.",
+    "pt": "Timóteo, jovem pastor e colaborador de Paulo, supervisor da igreja de Éfeso, chamado a permanecer fiel ao evangelho e a completar seu ministério diante da morte iminente do apóstolo."
+  },
+  "proposito": {
+    "es": "Propósito histórico: Pablo escribe su última carta desde la prisión romana para exhortar a Timoteo a no abandonar el ministerio en Éfeso a pesar de las persecuciones externas y los falsos maestros internos, y para encargarle que transmita el depósito apostólico a hombres fieles (2Ti 2:2). Propósito teológico: establecer el fundamento escritural de la continuidad del ministerio del evangelio más allá de la era apostólica, anclando la autoridad de la predicación en la suficiencia e inspiración divina de las Escrituras (2Ti 3:14–17).",
+    "en": "Historical purpose: Paul writes his final letter from Roman prison to exhort Timothy not to abandon the ministry at Ephesus despite external persecutions and internal false teachers, and to charge him with transmitting the apostolic deposit to faithful men (2Tim 2:2). Theological purpose: to establish the scriptural basis for the continuity of gospel ministry beyond the apostolic era, anchoring the authority of preaching in the sufficiency and divine inspiration of Scripture (2Tim 3:14–17).",
+    "pt": "Propósito histórico: Paulo escreve sua última carta da prisão romana para exortar Timóteo a não abandonar o ministério em Éfeso apesar das perseguições externas e dos falsos mestres internos, e para encarregá-lo de transmitir o depósito apostólico a homens fiéis (2Tm 2:2). Propósito teológico: estabelecer o fundamento escritural da continuidade do ministério do evangelho além da era apostólica, ancorando a autoridade da pregação na suficiência e inspiração divina das Escrituras (2Tm 3:14–17)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pablo",
+        "en": "Paul",
+        "pt": "Paulo"
+      },
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo, escritor de la carta, prisionero en Roma por segunda vez y próximo al martirio. Se presenta como padre espiritual de Timoteo y guardián del depósito apostólico.",
+        "en": "Apostle of Jesus Christ, writer of the letter, prisoner in Rome for the second time and near martyrdom. He presents himself as Timothy's spiritual father and guardian of the apostolic deposit.",
+        "pt": "Apóstolo de Jesus Cristo, escritor da carta, prisioneiro em Roma pela segunda vez e próximo ao martírio. Apresenta-se como pai espiritual de Timóteo e guardião do depósito apostólico."
+      },
+      "acciones": {
+        "es": "Escribe desde la prisión exhortando a Timoteo a no avergonzarse del evangelio (2Ti 1:8), a transmitir la sana doctrina (2Ti 2:2), a huir de las pasiones juveniles (2Ti 2:22), a perseverar en las Escrituras (2Ti 3:14–15) y a predicar la Palabra con urgencia (2Ti 4:2). Describe su vida como una libación que se derrama y su final como buena batalla peleada (2Ti 4:6–7).",
+        "en": "Writes from prison exhorting Timothy not to be ashamed of the gospel (2Tim 1:8), to entrust sound doctrine to faithful men (2Tim 2:2), to flee youthful passions (2Tim 2:22), to continue in Scripture (2Tim 3:14–15), and to preach the Word urgently (2Tim 4:2). He describes his life as a libation already poured out and his end as a good fight finished (2Tim 4:6–7).",
+        "pt": "Escreve da prisão exortando Timóteo a não se envergonhar do evangelho (2Tm 1:8), a transmitir a sã doutrina a homens fiéis (2Tm 2:2), a fugir das paixões juvenis (2Tm 2:22), a perseverar nas Escrituras (2Tm 3:14–15) e a pregar a Palavra com urgência (2Tm 4:2). Descreve sua vida como uma libação sendo derramada e seu fim como uma boa batalha concluída (2Tm 4:6–7)."
+      },
+      "significadoTeologico": {
+        "es": "Pablo encarna la doctrina de la perseverancia de los santos: la fidelidad hasta el martirio no es mérito propio sino fruto de la gracia que guarda el depósito (2Ti 1:12). Su testimonio es el modelo apostólico de la vida cristiana como combate espiritual sostenido por la gracia soberana de Dios.",
+        "en": "Paul embodies the doctrine of the perseverance of the saints: faithfulness unto martyrdom is not personal merit but the fruit of the grace that guards the deposit (2Tim 1:12). His witness is the apostolic model of the Christian life as spiritual combat sustained by God's sovereign grace.",
+        "pt": "Paulo encarna a doutrina da perseverança dos santos: a fidelidade até o martírio não é mérito próprio, mas fruto da graça que guarda o depósito (2Tm 1:12). Seu testemunho é o modelo apostólico da vida cristã como combate espiritual sustentado pela graça soberana de Deus."
+      },
+      "tipo": {
+        "es": "Pablo funciona como tipo del ministro sufriente que anticipa y modela la vida del siervo fiel en cada generación, siguiendo el patrón de Cristo mismo.",
+        "en": "Paul functions as a type of the suffering minister who anticipates and models the life of the faithful servant in every generation, following the pattern of Christ himself.",
+        "pt": "Paulo funciona como tipo do ministro sofredor que antecipa e modela a vida do servo fiel em cada geração, seguindo o padrão do próprio Cristo."
+      },
+      "caracterMoral": {
+        "es": "Integridad apostólica, valentía en la persecución, humildad para reconocer el abandono de sus colaboradores, amor pastoral hacia Timoteo, certeza escatológica sin presunción.",
+        "en": "Apostolic integrity, courage under persecution, humility in acknowledging abandonment by co-workers, pastoral love for Timothy, eschatological certainty without presumption.",
+        "pt": "Integridade apostólica, coragem na perseguição, humildade para reconhecer o abandono de colaboradores, amor pastoral por Timóteo, certeza escatológica sem presunção."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Pablo escribe como apóstol de Cristo Jesús nombrado por voluntad de Dios (2Ti 1:1), con conciencia limpia y fe sincera heredada (2Ti 1:3–5). Ha sido puesto como predicador, apóstol y maestro del evangelio (2Ti 1:11), ha sufrido por ello (2Ti 1:12), y confía en que Dios guardará el depósito hasta el último día (2Ti 1:12). Su vida se acerca al fin: ha peleado la buena batalla, terminado la carrera y guardado la fe (2Ti 4:7).",
+          "en": "Paul writes as an apostle of Christ Jesus appointed by God's will (2Tim 1:1), with a clear conscience and sincere inherited faith (2Tim 1:3–5). He has been appointed as preacher, apostle, and teacher of the gospel (2Tim 1:11), has suffered for it (2Tim 1:12), and trusts that God will guard the deposit to the last day (2Tim 1:12). His life is near its end: he has fought the good fight, finished the race, and kept the faith (2Tim 4:7).",
+          "pt": "Paulo escreve como apóstolo de Cristo Jesus nomeado pela vontade de Deus (2Tm 1:1), com consciência limpa e fé sincera herdada (2Tm 1:3–5). Foi designado como pregador, apóstolo e mestre do evangelho (2Tm 1:11), sofreu por isso (2Tm 1:12) e confia que Deus guardará o depósito até o último dia (2Tm 1:12). Sua vida se aproxima do fim: travou a boa batalha, completou a corrida e guardou a fé (2Tm 4:7)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Ti 1:1",
+          "2Ti 1:11–12",
+          "2Ti 4:6–8"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Pablo de Tarso (Saulo) fue ciudadano romano, fariseo educado por Gamaliel (Hch 22:3), convertido en el camino a Damasco (ca. 34 d.C.). Realizó tres viajes misioneros documentados, fue arrestado en Jerusalén (ca. 57 d.C.), pasó dos años en Cesarea y luego en Roma bajo arresto domiciliario (ca. 60–62 d.C., primera detención). La tradición antigua apoyada por Clemente Romano y el Canon Muratoriano indica una liberación, nuevos viajes y una segunda detención que terminó en martirio bajo Nerón ca. 67 d.C. El contexto histórico de 2 Timoteo corresponde a esta segunda prisión.",
+          "en": "Paul of Tarsus (Saul) was a Roman citizen, a Pharisee trained by Gamaliel (Acts 22:3), converted on the road to Damascus (ca. AD 34). He undertook three documented missionary journeys, was arrested in Jerusalem (ca. AD 57), spent two years in Caesarea, then in Rome under house arrest (ca. AD 60–62, first detention). Ancient tradition supported by 1 Clement and the Muratorian Canon indicates a release, further travels, and a second detention ending in martyrdom under Nero ca. AD 67. The historical context of 2 Timothy corresponds to this second imprisonment.",
+          "pt": "Paulo de Tarso (Saulo) era cidadão romano, fariseu educado por Gamaliel (At 22:3), convertido no caminho a Damasco (ca. 34 d.C.). Realizou três viagens missionárias documentadas, foi preso em Jerusalém (ca. 57 d.C.), passou dois anos em Cesareia e depois em Roma sob prisão domiciliar (ca. 60–62 d.C., primeira detenção). A tradição antiga apoiada por 1 Clemente e pelo Cânon Muratoriano indica uma libertação, novas viagens e uma segunda detenção que terminou em martírio sob Nero ca. 67 d.C. O contexto histórico de 2 Timóteo corresponde a esta segunda prisão."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Introduction to 2 Timothy"
+            ]
+          },
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Introduction",
+              "Historical context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La información biográfica de 2 Timoteo concuerda con fuentes romanas (Tácito, Suetonio) sobre la persecución neroniana y con Clemente Romano (1Clem 5) que confirma el martirio de Pablo. La alta especificidad de detalles personales (Troas, la capa, los libros, los colaboradores nombrados) dificulta la tesis de la pseudonimia.",
+          "en": "The biographical information in 2 Timothy agrees with Roman sources (Tacitus, Suetonius) on the Neronian persecution and with 1 Clement 5, which confirms Paul's martyrdom. The high specificity of personal details (Troas, the cloak, the books, the named co-workers) makes the pseudonymity thesis difficult.",
+          "pt": "As informações biográficas de 2 Timóteo concordam com fontes romanas (Tácito, Suetônio) sobre a perseguição neroniana e com 1 Clemente 5, que confirma o martírio de Paulo. A alta especificidade dos detalhes pessoais (Trôade, o manto, os livros, os colaboradores nomeados) dificulta a tese da pseudonimia."
+        }
+      },
+      "versiculosAsociados": [
+        "2Ti 1:1–12",
+        "2Ti 4:6–8",
+        "2Ti 4:17–18"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "Tit",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo es el autor de al menos 13 epístolas del NT. En 2 Timoteo aparece en su dimensión más personal y vulnerable, como pastor que entrega el testigo doctrinal a la siguiente generación, cerrando el corpus paulino.",
+        "en": "Paul is the author of at least 13 NT epistles. In 2 Timothy he appears in his most personal and vulnerable dimension, as a pastor passing the doctrinal baton to the next generation, closing the Pauline corpus.",
+        "pt": "Paulo é o autor de pelo menos 13 epístolas do NT. Em 2 Timóteo aparece em sua dimensão mais pessoal e vulnerável, como pastor que entrega o testemunho doutrinal à próxima geração, encerrando o corpus paulino."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Timoteo",
+        "en": "Timothy",
+        "pt": "Timóteo"
+      },
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "Pastor joven y colaborador apostólico de Pablo, responsable de la iglesia de Éfeso. Hijo de madre judía creyente y padre griego. Destinatario y sujeto central de los mandatos de la carta.",
+        "en": "Paul's young pastor and apostolic co-worker, responsible for the church at Ephesus. Son of a believing Jewish mother and a Greek father. Recipient and central subject of the letter's charges.",
+        "pt": "Jovem pastor e colaborador apostólico de Paulo, responsável pela igreja de Éfeso. Filho de mãe judaica crente e pai grego. Destinatário e sujeito central dos mandatos da carta."
+      },
+      "acciones": {
+        "es": "Timoteo es exhortado a avivar el don que recibió por la imposición de manos (2Ti 1:6), a no avergonzarse del evangelio (2Ti 1:8), a mantener la forma de las sanas palabras (2Ti 1:13), a encomendar el depósito a hombres fieles (2Ti 2:2), a ser un obrero aprobado (2Ti 2:15), a huir de las pasiones juveniles (2Ti 2:22), a permanecer en las Escrituras (2Ti 3:14–16) y a predicar la Palabra (2Ti 4:2).",
+        "en": "Timothy is exhorted to fan into flame the gift he received through the laying on of hands (2Tim 1:6), not to be ashamed of the gospel (2Tim 1:8), to hold to the pattern of sound words (2Tim 1:13), to entrust the deposit to faithful men (2Tim 2:2), to be an approved worker (2Tim 2:15), to flee youthful passions (2Tim 2:22), to continue in Scripture (2Tim 3:14–16), and to preach the Word (2Tim 4:2).",
+        "pt": "Timóteo é exortado a avivar o dom que recebeu pela imposição das mãos (2Tm 1:6), a não se envergonhar do evangelho (2Tm 1:8), a manter a forma das sãs palavras (2Tm 1:13), a confiar o depósito a homens fiéis (2Tm 2:2), a ser um obreiro aprovado (2Tm 2:15), a fugir das paixões juvenis (2Tm 2:22), a permanecer nas Escrituras (2Tm 3:14–16) e a pregar a Palavra (2Tm 4:2)."
+      },
+      "significadoTeologico": {
+        "es": "Timoteo representa la segunda generación fiel del ministerio apostólico. Su papel en 2 Timoteo es el de receptor del depósito de la fe, llamado a preservarlo y transmitirlo. En términos de teología del pacto, es el eslabón humano a través del cual la gracia de Dios en el evangelio se extiende a la iglesia post-apostólica.",
+        "en": "Timothy represents the faithful second generation of apostolic ministry. His role in 2 Timothy is that of recipient of the deposit of faith, called to preserve and transmit it. In covenant theology terms, he is the human link through which God's grace in the gospel extends to the post-apostolic church.",
+        "pt": "Timóteo representa a segunda geração fiel do ministério apostólico. Seu papel em 2 Timóteo é o de receptor do depósito da fé, chamado a preservá-lo e transmiti-lo. Em termos de teologia do pacto, é o elo humano através do qual a graça de Deus no evangelho se estende à igreja pós-apostólica."
+      },
+      "tipo": {
+        "es": "No funciona propiamente como tipo, sino como modelo histórico del ministro fiel de la segunda generación.",
+        "en": "He does not function properly as a type, but as the historical model of the faithful minister of the second generation.",
+        "pt": "Não funciona propriamente como tipo, mas como modelo histórico do ministro fiel da segunda geração."
+      },
+      "caracterMoral": {
+        "es": "Fe sincera (2Ti 1:5), tendencia a la timidez que Pablo exhorta a superar (2Ti 1:7), dedicación al ministerio desde su juventud, susceptible al desánimo por las presiones externas.",
+        "en": "Sincere faith (2Tim 1:5), tendency to timidity that Paul exhorts him to overcome (2Tim 1:7), dedication to ministry from youth, susceptible to discouragement from external pressures.",
+        "pt": "Fé sincera (2Tm 1:5), tendência à timidez que Paulo o exorta a superar (2Tm 1:7), dedicação ao ministério desde a juventude, suscetível ao desânimo pelas pressões externas."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Timoteo fue hijo de madre judía creyente (Eunice) y abuela Loida, con fe genuina desde la niñez (2Ti 1:5; 2Ti 3:15). Pablo lo llama «hijo amado» (2Ti 1:2) y recuerda sus lágrimas (2Ti 1:4), su ordenación mediante imposición de manos (2Ti 1:6) y su conocimiento de las Sagradas Escrituras desde su infancia (2Ti 3:15). La carta lo emplaza en Éfeso (2Ti 4:12) y le pide venir a Pablo antes del invierno (2Ti 4:21).",
+          "en": "Timothy was the son of a believing Jewish mother (Eunice) and grandmother Lois, with genuine faith from childhood (2Tim 1:5; 2Tim 3:15). Paul calls him 'beloved son' (2Tim 1:2), recalls his tears (2Tim 1:4), his ordination through the laying on of hands (2Tim 1:6), and his knowledge of the Holy Scriptures from childhood (2Tim 3:15). The letter locates him in Ephesus (2Tim 4:12) and asks him to come to Paul before winter (2Tim 4:21).",
+          "pt": "Timóteo era filho de mãe judaica crente (Eunice) e avó Loide, com fé genuína desde a infância (2Tm 1:5; 2Tm 3:15). Paulo o chama de 'filho amado' (2Tm 1:2), recorda suas lágrimas (2Tm 1:4), sua ordenação mediante imposição das mãos (2Tm 1:6) e seu conhecimento das Sagradas Escrituras desde a infância (2Tm 3:15). A carta o situa em Éfeso (2Tm 4:12) e pede que venha até Paulo antes do inverno (2Tm 4:21)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Ti 1:2",
+          "2Ti 1:5–6",
+          "2Ti 3:15"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Timoteo era natural de Listra (Hch 16:1). Hijo de padre griego y madre judía Eunice. Fue circuncidado por Pablo para el ministerio entre judíos (Hch 16:3). Compañero de Pablo en sus viajes misioneros (Hch 17:14–15; Hch 19:22) y colega en la composición de varias epístolas (1Ts 1:1; Fil 1:1; Col 1:1). La tradición posterior (Eusebio, Historia Eclesiástica III.4) lo identifica como primer obispo de Éfeso. Las excavaciones en Listra confirman la mezcla étnica judía y griega que caracteriza a la familia de Timoteo.",
+          "en": "Timothy was a native of Lystra (Acts 16:1). Son of a Greek father and Jewish mother Eunice. He was circumcised by Paul for ministry among Jews (Acts 16:3). Paul's travel companion on missionary journeys (Acts 17:14–15; Acts 19:22) and co-author of several epistles (1Thess 1:1; Phil 1:1; Col 1:1). Later tradition (Eusebius, Ecclesiastical History III.4) identifies him as the first bishop of Ephesus. Excavations at Lystra confirm the Jewish-Greek ethnic mix that characterizes Timothy's family.",
+          "pt": "Timóteo era natural de Listra (At 16:1). Filho de pai grego e mãe judaica Eunice. Foi circuncidado por Paulo para o ministério entre judeus (At 16:3). Companheiro de Paulo em suas viagens missionárias (At 17:14–15; At 19:22) e coautor de várias epístolas (1Ts 1:1; Fp 1:1; Cl 1:1). A tradição posterior (Eusébio, História Eclesiástica III.4) o identifica como o primeiro bispo de Éfeso. As escavações em Listra confirmam a mistura étnica judaica e grega que caracteriza a família de Timóteo."
+        },
+        "fuentes": [
+          {
+            "titulo": "Pastoral Epistles (Word Biblical Commentary)",
+            "autor": "William D. Mounce",
+            "año": 2000,
+            "editorial": "Thomas Nelson",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Introduction",
+              "Character study of Timothy"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Los datos biográficos de 2 Timoteo sobre Timoteo concuerdan plenamente con Hechos y las otras epístolas paulinas. La tradición de Éfeso como campo ministerial está corroborada por Eusebio y la arqueología del siglo I en la región.",
+          "en": "The biographical data about Timothy in 2 Timothy fully agrees with Acts and the other Pauline epistles. The tradition of Ephesus as his ministry field is corroborated by Eusebius and first-century archaeology in the region.",
+          "pt": "Os dados biográficos sobre Timóteo em 2 Timóteo concordam plenamente com Atos e as outras epístolas paulinas. A tradição de Éfeso como seu campo ministerial é corroborada por Eusébio e a arqueologia do século I na região."
+        }
+      },
+      "versiculosAsociados": [
+        "2Ti 1:2–7",
+        "2Ti 2:1–2",
+        "2Ti 3:14–15",
+        "2Ti 4:9"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "Flm",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Timoteo es el destinatario de 1 y 2 Timoteo, coautor de varias epístolas y colaborador mencionado en Hechos. Hebreos 13:23 lo menciona como recién liberado, lo que indica su continuidad ministerial.",
+        "en": "Timothy is the recipient of 1 and 2 Timothy, co-author of several epistles, and a co-worker mentioned in Acts. Heb 13:23 mentions him as recently released, indicating his continued ministry.",
+        "pt": "Timóteo é o destinatário de 1 e 2 Timóteo, coautor de várias epístolas e colaborador mencionado em Atos. Hb 13:23 o menciona como recém-libertado, indicando sua continuidade ministerial."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Onesíforo",
+        "en": "Onesiphorus",
+        "pt": "Onesíforo"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        4
+      ],
+      "descripcion": {
+        "es": "Cristiano de Éfeso que, a diferencia de muchos que abandonaron a Pablo, le buscó diligentemente en Roma y le sirvió sin avergonzarse de sus cadenas.",
+        "en": "A Christian from Ephesus who, unlike many who abandoned Paul, diligently sought him out in Rome and served him without being ashamed of his chains.",
+        "pt": "Um cristão de Éfeso que, ao contrário de muitos que abandonaram Paulo, o procurou diligentemente em Roma e o serviu sem se envergonhar de suas correntes."
+      },
+      "acciones": {
+        "es": "Buscó a Pablo en Roma hasta encontrarle y le sirvió en múltiples ocasiones (2Ti 1:17–18); había servido también en Éfeso (2Ti 1:18). Pablo pide misericordia de Dios para él y su casa (2Ti 1:16–18; 2Ti 4:19).",
+        "en": "He sought Paul out in Rome until he found him and served him on many occasions (2Tim 1:17–18); he had also served in Ephesus (2Tim 1:18). Paul requests God's mercy for him and his household (2Tim 1:16–18; 2Tim 4:19).",
+        "pt": "Procurou Paulo em Roma até encontrá-lo e o serviu em muitas ocasiões (2Tm 1:17–18); havia servido também em Éfeso (2Tm 1:18). Paulo pede misericórdia de Deus para ele e sua casa (2Tm 1:16–18; 2Tm 4:19)."
+      },
+      "significadoTeologico": {
+        "es": "Onesíforo es el ejemplo positivo de la solidaridad cristiana que no se avergüenza del evangelio ni del apóstol encarcelado. Contrasta con Demas y otros que abandonaron a Pablo, ilustrando la perseverancia fruto de la gracia.",
+        "en": "Onesiphorus is the positive example of Christian solidarity that is not ashamed of the gospel or the imprisoned apostle. He contrasts with Demas and others who abandoned Paul, illustrating perseverance as a fruit of grace.",
+        "pt": "Onesíforo é o exemplo positivo da solidariedade cristã que não se envergonha do evangelho nem do apóstolo encarcerado. Contrasta com Demas e outros que abandonaram Paulo, ilustrando a perseverança como fruto da graça."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico.",
+        "en": "He does not function as a christological type.",
+        "pt": "Não funciona como tipo cristológico."
+      },
+      "caracterMoral": {
+        "es": "Leal, diligente, valiente; no se avergonzó de las cadenas de Pablo cuando otros le abandonaron (2Ti 1:16).",
+        "en": "Loyal, diligent, courageous; he was not ashamed of Paul's chains when others had abandoned him (2Tim 1:16).",
+        "pt": "Leal, diligente, corajoso; não se envergonhou das correntes de Paulo quando outros o abandonaram (2Tm 1:16)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado solo en 2 Timoteo. Pablo ora por él y su casa (2Ti 1:16) y por misericordia divina en el día del juicio (2Ti 1:18). Su hogar está en Éfeso; sus parientes son saludados en 2Ti 4:19.",
+          "en": "Mentioned only in 2 Timothy. Paul prays for him and his household (2Tim 1:16) and for divine mercy on the day of judgment (2Tim 1:18). His home is in Ephesus; his household members are greeted in 2Tim 4:19.",
+          "pt": "Mencionado somente em 2 Timóteo. Paulo ora por ele e sua casa (2Tm 1:16) e por misericórdia divina no dia do julgamento (2Tm 1:18). Sua casa fica em Éfeso; seus familiares são saudados em 2Tm 4:19."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Ti 1:16–18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existen fuentes extrabíblicas sobre Onesíforo. Su nombre griego («portador de beneficio») y su origen en Éfeso son coherentes con el contexto histórico del siglo I.",
+          "en": "No extra-biblical sources exist for Onesiphorus. His Greek name ('benefit-bringer') and his origin in Ephesus are consistent with the first-century historical context.",
+          "pt": "Não existem fontes extrabíblicas sobre Onesíforo. Seu nome grego ('portador de benefício') e sua origem em Éfeso são coerentes com o contexto histórico do século I."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Notes on 2 Timothy 1:16"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "Los detalles son demasiado escasos para verificación histórica externa. El texto lo presenta como personaje real de la comunidad efesia conocido por Timoteo.",
+          "en": "Details are too sparse for external historical verification. The text presents him as a real figure of the Ephesian community known to Timothy.",
+          "pt": "Os detalhes são escassos demais para verificação histórica externa. O texto o apresenta como personagem real da comunidade efésia conhecido por Timóteo."
+        }
+      },
+      "versiculosAsociados": [
+        "2Ti 1:16–18",
+        "2Ti 4:19"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Aparece únicamente en 2 Timoteo.",
+        "en": "He appears only in 2 Timothy.",
+        "pt": "Aparece somente em 2 Timóteo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Demas",
+        "en": "Demas",
+        "pt": "Demas"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "Colaborador de Pablo que le abandonó amando el mundo presente, marchándose a Tesalónica (2Ti 4:10). Contraste negativo con la fidelidad de Pablo y Onesíforo.",
+        "en": "Paul's co-worker who deserted him, having loved this present world and gone to Thessalonica (2Tim 4:10). Negative contrast to the faithfulness of Paul and Onesiphorus.",
+        "pt": "Colaborador de Paulo que o abandonou por amor ao mundo presente, partindo para Tessalônica (2Tm 4:10). Contraste negativo com a fidelidade de Paulo e Onesíforo."
+      },
+      "acciones": {
+        "es": "Abandonó a Pablo «por amor a este mundo» y partió a Tesalónica (2Ti 4:10). Anteriormente mencionado positivamente como colaborador (Col 4:14; Flm 24).",
+        "en": "Deserted Paul 'in love with this present world' and departed to Thessalonica (2Tim 4:10). Previously mentioned positively as a co-worker (Col 4:14; Phlm 24).",
+        "pt": "Abandonou Paulo 'por amor ao mundo presente' e partiu para Tessalônica (2Tm 4:10). Anteriormente mencionado positivamente como colaborador (Cl 4:14; Fm 24)."
+      },
+      "significadoTeologico": {
+        "es": "Demas ilustra el peligro de amar el mundo presente (1Jn 2:15–17) y el riesgo de apostasía por presión circunstancial. Sirve como advertencia pastoral sobre la necesidad de perseverar en la tribulación.",
+        "en": "Demas illustrates the danger of loving the present world (1John 2:15–17) and the risk of apostasy under circumstantial pressure. He serves as a pastoral warning about the need to persevere in tribulation.",
+        "pt": "Demas ilustra o perigo de amar o mundo presente (1Jo 2:15–17) e o risco de apostasia por pressão circunstancial. Serve como advertência pastoral sobre a necessidade de perseverar na tribulação."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico.",
+        "en": "He does not function as a christological type.",
+        "pt": "Não funciona como tipo cristológico."
+      },
+      "caracterMoral": {
+        "es": "Apego al mundo presente que superó su compromiso con el ministerio apostólico; ejemplo de alguien que, habiendo comenzado bien, cedió ante la presión (2Ti 4:10).",
+        "en": "Attachment to the present world that overcame his commitment to the apostolic ministry; an example of someone who, having begun well, yielded to pressure (2Tim 4:10).",
+        "pt": "Apego ao mundo presente que superou seu compromisso com o ministério apostólico; exemplo de alguém que, tendo começado bem, cedeu à pressão (2Tm 4:10)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado tres veces en el NT: Col 4:14 y Flm 24 (como colaborador de Pablo) y 2Ti 4:10 (como desertor). El contraste entre las dos primeras y la última mención es theológicamente significativo.",
+          "en": "Mentioned three times in the NT: Col 4:14 and Phlm 24 (as Paul's co-worker) and 2Tim 4:10 (as a deserter). The contrast between the first two and the last mention is theologically significant.",
+          "pt": "Mencionado três vezes no NT: Cl 4:14 e Fm 24 (como colaborador de Paulo) e 2Tm 4:10 (como desertor). O contraste entre as duas primeiras e a última menção é teologicamente significativo."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Ti 4:10"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay fuentes extrabíblicas sobre Demas. El nombre puede ser una abreviación de Demetrio. Su trayectoria de colaborador a desertor es coherente con los patrones de abandono documentados en comunidades bajo persecución.",
+          "en": "No extra-biblical sources exist for Demas. The name may be an abbreviation of Demetrius. His trajectory from co-worker to deserter is consistent with patterns of abandonment documented in communities under persecution.",
+          "pt": "Não há fontes extrabíblicas sobre Demas. O nome pode ser uma abreviação de Demétrio. Sua trajetória de colaborador a desertor é coerente com os padrões de abandono documentados em comunidades sob perseguição."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Notes on 2 Timothy 4:10"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El único dato externo es su mención en Colosenses y Filemón; todo lo demás es inferible únicamente del texto de 2 Timoteo.",
+          "en": "The only external data is his mention in Colossians and Philemon; everything else is inferrable only from the text of 2 Timothy.",
+          "pt": "O único dado externo é sua menção em Colossenses e Filemom; tudo o mais é inferível somente do texto de 2 Timóteo."
+        }
+      },
+      "versiculosAsociados": [
+        "2Ti 4:10"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Col",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Mencionado en Colosenses 4:14 y Filemón 24 como colaborador de Pablo, y en 2 Timoteo 4:10 como desertor.",
+        "en": "Mentioned in Col 4:14 and Phlm 24 as Paul's co-worker, and in 2Tim 4:10 as a deserter.",
+        "pt": "Mencionado em Cl 4:14 e Fm 24 como colaborador de Paulo, e em 2Tm 4:10 como desertor."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Loida",
+        "en": "Lois",
+        "pt": "Loide"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Abuela materna de Timoteo. Pablo la cita como primera portadora de la fe genuina que luego pasó a Eunice y a Timoteo, constituyendo el eslabón fundacional de la cadena de transmisión de la fe en la familia.",
+        "en": "Timothy's maternal grandmother. Paul cites her as the first bearer of the genuine faith that then passed to Eunice and Timothy, constituting the foundational link in the family's chain of faith transmission.",
+        "pt": "Avó materna de Timóteo. Paulo a cita como a primeira portadora da fé genuína que passou a Eunice e a Timóteo, constituindo o elo fundacional da cadeia de transmissão da fé na família."
+      },
+      "acciones": {
+        "es": "Habitó en ella la fe no fingida que luego pasó a su hija Eunice y a su nieto Timoteo (2Ti 1:5). No se relatan acciones específicas; su función es la de testigo de la continuidad generacional de la gracia del pacto.",
+        "en": "Genuine faith dwelt in her and then passed to her daughter Eunice and her grandson Timothy (2Tim 1:5). No specific actions are narrated; her function is that of witness to the generational continuity of covenant grace.",
+        "pt": "A fé genuína habitou nela e depois passou para sua filha Eunice e seu neto Timóteo (2Tm 1:5). Nenhuma ação específica é narrada; sua função é a de testemunha da continuidade geracional da graça do pacto."
+      },
+      "significadoTeologico": {
+        "es": "Loida ilustra la doctrina reformada de la promesa del pacto extendida a los hijos de los crentes (Hch 2:39). La gracia no es un fenómeno individual sino que opera en y a través de la estructura familiar del pacto, de generación en generación.",
+        "en": "Lois illustrates the Reformed doctrine of the covenant promise extended to the children of believers (Acts 2:39). Grace is not an individual phenomenon but operates in and through the family structure of the covenant, from generation to generation.",
+        "pt": "Loide ilustra a doutrina reformada da promessa do pacto estendida aos filhos dos crentes (At 2:39). A graça não é um fenômeno individual, mas opera no e através da estrutura familiar do pacto, de geração em geração."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico.",
+        "en": "She does not function as a christological type.",
+        "pt": "Não funciona como tipo cristológico."
+      },
+      "caracterMoral": {
+        "es": "Fe genuina, no fingida (2Ti 1:5); fidelidad en la transmisión doméstica de la fe a sus descendientes.",
+        "en": "Genuine, sincere faith (2Tim 1:5); faithfulness in the domestic transmission of faith to her descendants.",
+        "pt": "Fé genuína, não fingida (2Tm 1:5); fidelidade na transmissão doméstica da fé a seus descendentes."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionada únicamente en 2Ti 1:5. Pablo recuerda la fe no fingida de Timoteo, «la cual habitó primero en tu abuela Loida, y también en tu madre Eunice». Su nombre griego y la referencia implican que fue judía creyente residente en Listra.",
+          "en": "Mentioned only in 2Tim 1:5. Paul recalls Timothy's sincere faith, 'which dwelt first in your grandmother Lois and your mother Eunice.' Her Greek name and the reference imply she was a believing Jewish resident of Lystra.",
+          "pt": "Mencionada somente em 2Tm 1:5. Paulo recorda a fé não fingida de Timóteo, 'a qual habitou primeiro em tua avó Loide e em tua mãe Eunice'. Seu nome grego e a referência implicam que era uma crente judaica residente em Listra."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Ti 1:5"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existen fuentes extrabíblicas sobre Loida. Su nombre griego (Λωΐς) es infrecuente pero documentado en papiros del siglo I. El contexto de Listra como ciudad con comunidad judía está corroborado por Hechos 14:1–7 y la arqueología de la región.",
+          "en": "No extra-biblical sources exist for Lois. Her Greek name (Λωΐς) is rare but documented in first-century papyri. The context of Lystra as a city with a Jewish community is corroborated by Acts 14:1–7 and the archaeology of the region.",
+          "pt": "Não existem fontes extrabíblicas sobre Loide. Seu nome grego (Λωΐς) é incomum, mas documentado em papiros do século I. O contexto de Listra como cidade com comunidade judaica é corroborado por At 14:1–7 e a arqueologia da região."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Notes on 2 Timothy 1:5"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "Solo el texto de 2 Timoteo la menciona; no hay corroboración externa. Los datos son coherentes con el trasfondo histórico de Listra en el siglo I.",
+          "en": "Only the text of 2 Timothy mentions her; there is no external corroboration. The details are consistent with the historical background of first-century Lystra.",
+          "pt": "Somente o texto de 2 Timóteo a menciona; não há corroboração externa. Os dados são coerentes com o contexto histórico de Listra no século I."
+        }
+      },
+      "versiculosAsociados": [
+        "2Ti 1:5"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Aparece únicamente en 2 Timoteo 1:5.",
+        "en": "She appears only in 2 Timothy 1:5.",
+        "pt": "Aparece somente em 2 Timóteo 1:5."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Eunice",
+        "en": "Eunice",
+        "pt": "Eunice"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Madre judía creyente de Timoteo, hija de Loida. Transmitió la fe genuina a su hijo desde su infancia, incluyendo el conocimiento de las Sagradas Escrituras (2Ti 3:15). Casada con un padre griego (Hch 16:1).",
+        "en": "Timothy's believing Jewish mother, daughter of Lois. She transmitted genuine faith to her son from infancy, including knowledge of the Holy Scriptures (2Tim 3:15). Married to a Greek father (Acts 16:1).",
+        "pt": "Mãe judaica crente de Timóteo, filha de Loide. Transmitiu a fé genuína a seu filho desde a infância, incluindo o conhecimento das Sagradas Escrituras (2Tm 3:15). Casada com um pai grego (At 16:1)."
+      },
+      "acciones": {
+        "es": "La fe no fingida habitó primero en Loida y luego en Eunice, pasando a Timoteo (2Ti 1:5). Se infiere que fue ella quien instruyó a Timoteo en las Sagradas Escrituras desde su niñez (2Ti 3:15). Hechos 16:1 la describe como judía creyente.",
+        "en": "Sincere faith dwelt first in Lois and then in Eunice, passing to Timothy (2Tim 1:5). It is inferred that she instructed Timothy in the Holy Scriptures from childhood (2Tim 3:15). Acts 16:1 describes her as a believing Jewish woman.",
+        "pt": "A fé não fingida habitou primeiro em Loide e depois em Eunice, passando a Timóteo (2Tm 1:5). Infere-se que foi ela quem instruiu Timóteo nas Sagradas Escrituras desde a infância (2Tm 3:15). At 16:1 a descreve como mulher judaica crente."
+      },
+      "significadoTeologico": {
+        "es": "Eunice es el modelo bíblico de la madre creyente como agente primario de la educación bíblica de los hijos. Su ejemplo sustenta la doctrina reformada de que la educación en las Escrituras dentro del hogar del pacto es medio ordinario de gracia para la fe de los hijos (Dt 6:6–7; Ef 6:4).",
+        "en": "Eunice is the biblical model of the believing mother as the primary agent of biblical education for children. Her example undergirds the Reformed doctrine that Scripture education within the covenant home is an ordinary means of grace for the faith of children (Deut 6:6–7; Eph 6:4).",
+        "pt": "Eunice é o modelo bíblico da mãe crente como agente primária da educação bíblica dos filhos. Seu exemplo sustenta a doutrina reformada de que a educação nas Escrituras dentro do lar do pacto é meio ordinário de graça para a fé dos filhos (Dt 6:6–7; Ef 6:4)."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico.",
+        "en": "She does not function as a christological type.",
+        "pt": "Não funciona como tipo cristológico."
+      },
+      "caracterMoral": {
+        "es": "Fe genuina y no fingida (2Ti 1:5); fidelidad en la instrucción bíblica doméstica de su hijo desde la niñez; valentía de crecer en fe en un matrimonio mixto (judía con griego).",
+        "en": "Genuine and sincere faith (2Tim 1:5); faithfulness in the domestic biblical instruction of her son from childhood; courage in growing in faith within a mixed marriage (Jewish woman with a Greek husband).",
+        "pt": "Fé genuína e não fingida (2Tm 1:5); fidelidade na instrução bíblica doméstica de seu filho desde a infância; coragem de crescer na fé em um casamento misto (mulher judaica com marido grego)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Hija de Loida y madre de Timoteo. Pablo menciona su fe sincera como raíz de la fe de Timoteo (2Ti 1:5). Hechos 16:1 la describe como «judía creyente» casada con un griego. Se infiere que fue la principal educadora bíblica de Timoteo (2Ti 3:15).",
+          "en": "Daughter of Lois and mother of Timothy. Paul mentions her sincere faith as the root of Timothy's faith (2Tim 1:5). Acts 16:1 describes her as 'a Jewish woman who was a believer' married to a Greek. It is inferred that she was Timothy's primary biblical educator (2Tim 3:15).",
+          "pt": "Filha de Loide e mãe de Timóteo. Paulo menciona sua fé sincera como raiz da fé de Timóteo (2Tm 1:5). At 16:1 a descreve como 'uma judia crente' casada com um grego. Infere-se que foi a principal educadora bíblica de Timóteo (2Tm 3:15)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Ti 1:5",
+          "2Ti 3:15"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Eunice es identificable históricamente como residente de Listra (Hch 16:1–3), ciudad de Licaonia (actual Turquía). Su matrimonio mixto judío-griego está atestiguado como práctica común en la diáspora helenística. La arqueología de Listra confirma la presencia de comunidades judías en la región durante el siglo I.",
+          "en": "Eunice is historically identifiable as a resident of Lystra (Acts 16:1–3), a city in Lycaonia (modern Turkey). Her Jewish-Greek mixed marriage is attested as a common practice in the Hellenistic Diaspora. The archaeology of Lystra confirms the presence of Jewish communities in the region during the first century.",
+          "pt": "Eunice é historicamente identificável como residente de Listra (At 16:1–3), cidade da Licaônia (atual Turquia). Seu casamento misto judeu-grego é atestado como prática comum na diáspora helenística. A arqueologia de Listra confirma a presença de comunidades judaicas na região durante o século I."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Notes on 2 Timothy 1:5",
+              "Notes on Acts 16:1"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La identificación de Eunice como judía creyente de Listra concuerda plenamente entre 2 Timoteo y Hechos. El contexto de matrimonios mixtos en la diáspora es arqueológicamente corroborado.",
+          "en": "The identification of Eunice as a believing Jewish woman of Lystra fully agrees between 2 Timothy and Acts. The context of mixed marriages in the diaspora is archaeologically corroborated.",
+          "pt": "A identificação de Eunice como mulher judaica crente de Listra concorda plenamente entre 2 Timóteo e Atos. O contexto de casamentos mistos na diáspora é arqueologicamente corroborado."
+        }
+      },
+      "versiculosAsociados": [
+        "2Ti 1:5",
+        "2Ti 3:15"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Mencionada en 2 Timoteo 1:5 y referida implícitamente en Hechos 16:1 como la madre judía creyente de Timoteo.",
+        "en": "Mentioned in 2 Timothy 1:5 and referred to implicitly in Acts 16:1 as Timothy's believing Jewish mother.",
+        "pt": "Mencionada em 2 Timóteo 1:5 e referida implicitamente em At 16:1 como a mãe judaica crente de Timóteo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Alejandro el herrero",
+        "en": "Alexander the coppersmith",
+        "pt": "Alexandre o ferreiro"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "Adversario de Pablo que le hizo mucho daño y se opuso vigorosamente a sus palabras (2Ti 4:14–15). Posiblemente el mismo Alejandro mencionado en 1 Timoteo 1:20 y en Hechos 19:33.",
+        "en": "Paul's adversary who did him great harm and strongly opposed his message (2Tim 4:14–15). Possibly the same Alexander mentioned in 1 Tim 1:20 and Acts 19:33.",
+        "pt": "Adversário de Paulo que lhe causou muito mal e se opôs vigorosamente à sua mensagem (2Tm 4:14–15). Possivelmente o mesmo Alexandre mencionado em 1Tm 1:20 e At 19:33."
+      },
+      "acciones": {
+        "es": "Hizo mucho daño a Pablo (2Ti 4:14); se opuso vigorosamente a las palabras apostólicas (2Ti 4:15). Pablo lo menciona para advertir a Timoteo y lo entrega al juicio de Dios: «El Señor le pagará conforme a sus obras» (2Ti 4:14).",
+        "en": "Did Paul great harm (2Tim 4:14); strongly opposed the apostolic words (2Tim 4:15). Paul mentions him to warn Timothy and commits him to God's judgment: 'The Lord will repay him according to his deeds' (2Tim 4:14).",
+        "pt": "Causou muito mal a Paulo (2Tm 4:14); opôs-se vigorosamente às palavras apostólicas (2Tm 4:15). Paulo o menciona para advertir Timóteo e o entrega ao julgamento de Deus: 'O Senhor lhe pagará segundo as suas obras' (2Tm 4:14)."
+      },
+      "significadoTeologico": {
+        "es": "Alejandro ilustra la hostilidad organizada contra el evangelio por parte de opositores internos o externos a la comunidad. Pablo no llama a la venganza sino que confía el juicio a Dios (Ro 12:19), modelando la respuesta reformada ante la persecución: encomendar la justicia al Señor y advertir a los hermanos.",
+        "en": "Alexander illustrates organized hostility against the gospel from opponents inside or outside the community. Paul does not call for vengeance but entrusts judgment to God (Rom 12:19), modeling the Reformed response to persecution: committing justice to the Lord and warning the brothers.",
+        "pt": "Alexandre ilustra a hostilidade organizada contra o evangelho por parte de opositores internos ou externos à comunidade. Paulo não clama por vingança, mas confia o julgamento a Deus (Rm 12:19), modelando a resposta reformada à perseguição: encomendar a justiça ao Senhor e advertir os irmãos."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico.",
+        "en": "He does not function as a christological type.",
+        "pt": "Não funciona como tipo cristológico."
+      },
+      "caracterMoral": {
+        "es": "Oposición activa al evangelio, daño deliberado al apóstol, resistencia a la sana doctrina. Pablo lo identifica con una precisión inusual (nombre y oficio), lo que sugiere que era conocido en las comunidades de Asia.",
+        "en": "Active opposition to the gospel, deliberate harm to the apostle, resistance to sound doctrine. Paul identifies him with unusual precision (name and trade), suggesting he was known in the communities of Asia.",
+        "pt": "Oposição ativa ao evangelho, dano deliberado ao apóstolo, resistência à sã doutrina. Paulo o identifica com precisão incomum (nome e ofício), sugerindo que era conhecido nas comunidades da Ásia."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado en 2Ti 4:14–15. Pablo advierte a Timoteo que se guarde de él porque se opuso vigorosamente a «nuestras palabras». Es posiblemente el mismo Alejandro entregado a Satanás en 1Ti 1:20 (junto con Himeneo) por haber naufragado en la fe, aunque la identificación no es segura.",
+          "en": "Mentioned in 2Tim 4:14–15. Paul warns Timothy to be on guard against him because he strongly opposed 'our words.' He is possibly the same Alexander delivered to Satan in 1Tim 1:20 (along with Hymenaeus) for having shipwrecked in the faith, though the identification is not certain.",
+          "pt": "Mencionado em 2Tm 4:14–15. Paulo adverte Timóteo a se guardar dele porque se opôs vigorosamente às 'nossas palavras'. É possivelmente o mesmo Alexandre entregue a Satanás em 1Tm 1:20 (junto com Himeneu) por ter naufragado na fé, embora a identificação não seja certa."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Ti 4:14–15"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El oficio de «herrero» (χαλκεύς) era común en las ciudades greco-romanas del siglo I y conllevaba conexiones comerciales y sociales amplias, lo que explicaría la capacidad de Alejandro para «hacer mucho daño» a Pablo. No existen fuentes externas que confirmen su identidad. El nombre Alejandro era extremadamente común en el mundo helenístico, lo que dificulta la identificación con otros Alejandros del NT.",
+          "en": "The trade of 'coppersmith' (χαλκεύς) was common in first-century Greco-Roman cities and carried broad commercial and social connections, which would explain Alexander's capacity to 'do great harm' to Paul. No external sources confirm his identity. The name Alexander was extremely common in the Hellenistic world, complicating identification with other Alexanders in the NT.",
+          "pt": "O ofício de 'ferreiro' (χαλκεύς) era comum nas cidades greco-romanas do século I e envolvia amplas conexões comerciais e sociais, o que explicaria a capacidade de Alexandre de 'causar muito mal' a Paulo. Não existem fontes externas que confirmem sua identidade. O nome Alexandre era extremamente comum no mundo helenístico, dificultando a identificação com outros Alexandres do NT."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Notes on 2 Timothy 4:14"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La identificación del personaje es coherente internamente con el NT, aunque la posible identidad con el Alejandro de 1Ti 1:20 o Hch 19:33 es debatida. No hay fuentes externas. El contexto artesanal greco-romano que describe el texto es arqueológicamente plausible.",
+          "en": "The character identification is internally coherent with the NT, though the possible identity with the Alexander of 1Tim 1:20 or Acts 19:33 is debated. No external sources exist. The Greco-Roman artisan context the text describes is archaeologically plausible.",
+          "pt": "A identificação do personagem é internamente coerente com o NT, embora a possível identidade com o Alexandre de 1Tm 1:20 ou At 19:33 seja debatida. Não há fontes externas. O contexto artesanal greco-romano que o texto descreve é arqueologicamente plausível."
+        }
+      },
+      "versiculosAsociados": [
+        "2Ti 4:14–15"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "1Ti"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Mencionado en 2 Timoteo 4:14–15. Posiblemente el mismo Alejandro de 1 Timoteo 1:20, entregado a Satanás junto con Himeneo.",
+        "en": "Mentioned in 2 Timothy 4:14–15. Possibly the same Alexander of 1 Timothy 1:20, delivered to Satan along with Hymenaeus.",
+        "pt": "Mencionado em 2 Timóteo 4:14–15. Possivelmente o mesmo Alexandre de 1 Timóteo 1:20, entregue a Satanás junto com Himeneu."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Bibliología",
+        "en": "Bibliology",
+        "pt": "Bibliologia"
+      },
+      "resumen": {
+        "es": "2 Timoteo 3:16–17 es el locus classicus de la doctrina de la inspiración en el NT: «Toda la Escritura es inspirada por Dios» (θεόπνευστος, literalmente «Dios-espirada»). La carta enseña que las Escrituras son completamente útiles para equipar al hombre de Dios para toda buena obra, lo que implica su suficiencia material. Pablo también insta a Timoteo a permanecer en las cosas que aprendió (2Ti 3:14), subrayando la transmisión fiel del depósito apostólico como norma de la sana doctrina.",
+        "en": "2 Timothy 3:16–17 is the NT's locus classicus of the doctrine of inspiration: 'All Scripture is breathed out by God' (θεόπνευστος, literally 'God-breathed'). The letter teaches that Scripture is completely useful for equipping the man of God for every good work, implying its material sufficiency. Paul also urges Timothy to continue in what he has learned (2Tim 3:14), underscoring the faithful transmission of the apostolic deposit as the norm of sound doctrine.",
+        "pt": "2 Timóteo 3:16–17 é o locus classicus da doutrina da inspiração no NT: 'Toda a Escritura é inspirada por Deus' (θεόπνευστος, literalmente 'soprada por Deus'). A carta ensina que as Escrituras são completamente úteis para equipar o homem de Deus para toda boa obra, implicando sua suficiência material. Paulo também insta Timóteo a permanecer nas coisas que aprendeu (2Tm 3:14), sublinhando a transmissão fiel do depósito apostólico como norma da sã doutrina."
+      },
+      "pasajes": [
+        "2Ti 3:15",
+        "2Ti 3:16–17",
+        "2Ti 1:13–14",
+        "2Ti 2:2"
+      ],
+      "ensenanza": {
+        "es": "Las Escrituras hacen sabio para la salvación · Toda la Escritura es inspirada y suficiente para todo ministerio · La sana doctrina debe mantenerse como patrón normativo · El depósito apostólico debe transmitirse a maestros fieles",
+        "en": "The Scriptures make wise unto salvation · All Scripture is God-breathed and sufficient for all ministry · Sound doctrine must be held as a normative pattern · The apostolic deposit must be entrusted to faithful teachers",
+        "pt": "As Escrituras tornam sábio para a salvação · Toda a Escritura é inspirada e suficiente para todo ministério · A sã doutrina deve ser mantida como padrão normativo · O depósito apostólico deve ser transmitido a mestres fiéis"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada usa 2Ti 3:16–17 como fundamento de la doctrina de la inerrancia e infalibilidad de las Escrituras, y de su suficiencia para toda la vida y doctrina. La Confesión de Westminster (Cap. 1) toma este pasaje como base directa para afirmar que las Escrituras son la norma final de fe y práctica, superior a toda tradición eclesiástica.",
+        "en": "The Reformed tradition uses 2Tim 3:16–17 as the foundation for the doctrine of the inerrancy and infallibility of Scripture, and its sufficiency for all of life and doctrine. The Westminster Confession (Ch. 1) takes this passage as direct basis for affirming that Scripture is the final norm of faith and practice, superior to all church tradition.",
+        "pt": "A tradição reformada usa 2Tm 3:16–17 como fundamento da doutrina da inerrância e infalibilidade das Escrituras, e de sua suficiência para toda a vida e doutrina. A Confissão de Westminster (Cap. 1) toma esta passagem como base direta para afirmar que as Escrituras são a norma final de fé e prática, superior a toda tradição eclesiástica."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "2 Timoteo 1:9–10 presenta una soteriología de elección soberana: Dios salvó a su pueblo no según sus obras, sino según su propio propósito y gracia, dada en Cristo antes de los tiempos eternos. La salvación es plenamente monergista: Dios es el sujeto activo que llama, salva y da gracia. El versículo 10 añade el componente histórico-redentor: esta gracia ahora se ha manifestado por la aparición de Cristo, que abolió la muerte y sacó a luz la inmortalidad mediante el evangelio.",
+        "en": "2 Timothy 1:9–10 presents a soteriology of sovereign election: God saved his people not according to their works but according to his own purpose and grace, given in Christ before eternal ages. Salvation is fully monergistic: God is the active subject who calls, saves, and gives grace. Verse 10 adds the redemptive-historical component: this grace has now been manifested through the appearing of Christ, who abolished death and brought life and immortality to light through the gospel.",
+        "pt": "2 Timóteo 1:9–10 apresenta uma soteriologia de eleição soberana: Deus salvou seu povo não segundo suas obras, mas segundo seu próprio propósito e graça, dada em Cristo antes dos tempos eternos. A salvação é plenamente monergística: Deus é o sujeito ativo que chama, salva e dá graça. O versículo 10 acrescenta o componente histórico-redentor: esta graça agora se manifestou pelo aparecimento de Cristo, que aboliu a morte e trouxe à luz a vida e a imortalidade pelo evangelho."
+      },
+      "pasajes": [
+        "2Ti 1:9–10",
+        "2Ti 2:10",
+        "2Ti 2:25–26"
+      ],
+      "ensenanza": {
+        "es": "La salvación es por propósito eterno y gracia soberana en Cristo, no por obras · Los elegidos de Dios obtendrán la salvación y la gloria eterna · Dios puede conceder arrepentimiento para conocer la verdad a quienes están en el lazo del diablo",
+        "en": "Salvation is by eternal purpose and sovereign grace in Christ, not by works · God's elect will obtain salvation and eternal glory · God may grant repentance unto knowledge of the truth to those trapped by the devil",
+        "pt": "A salvação é por propósito eterno e graça soberana em Cristo, não pelas obras · Os eleitos de Deus obterão a salvação e a glória eterna · Deus pode conceder arrependimento para o conhecimento da verdade aos que estão presos pelo diabo"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada ve en 2Ti 1:9 la expresión más clara del decreto eterno de elección como base de la salvación individual: la gracia fue dada «en Cristo Jesús antes de los tiempos eternos», lo que excluye cualquier base en la previsión de la fe o las obras humanas. Este texto es citado en el Catecismo de Heidelberg y sostiene la doctrina de la gracia particular.",
+        "en": "Reformed theology sees in 2Tim 1:9 the clearest expression of the eternal decree of election as the basis of individual salvation: grace was given 'in Christ Jesus before eternal ages,' which excludes any basis in foreknowledge of faith or human works. This text is cited in the Heidelberg Catechism and supports the doctrine of particular grace.",
+        "pt": "A teologia reformada vê em 2Tm 1:9 a expressão mais clara do decreto eterno de eleição como base da salvação individual: a graça foi dada 'em Cristo Jesus antes dos tempos eternos', o que exclui qualquer base na presciência da fé ou das obras humanas. Este texto é citado no Catecismo de Heidelberg e sustenta a doutrina da graça particular."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "2 Timoteo presenta dos dimensiones escatológicas entrelazadas. En primer lugar, la escatología presente: los «últimos días» ya han llegado, marcados por el aumento de la impiedad y el amor propio (2Ti 3:1–5). En segundo lugar, la escatología futura: el Señor Jesucristo juzgará a los vivos y a los muertos en su venida y en su reino (2Ti 4:1), y entregará la corona de justicia a todos los que aman su venida (2Ti 4:8). El martirio de Pablo se enmarca en esta espera escatológica como victoria, no como derrota.",
+        "en": "2 Timothy presents two interwoven eschatological dimensions. First, present eschatology: the 'last days' have already arrived, marked by increasing ungodliness and self-love (2Tim 3:1–5). Second, future eschatology: the Lord Jesus Christ will judge the living and the dead at his appearing and kingdom (2Tim 4:1), and will award the crown of righteousness to all who love his appearing (2Tim 4:8). Paul's martyrdom is framed within this eschatological expectation as victory, not defeat.",
+        "pt": "2 Timóteo apresenta duas dimensões escatológicas entrelaçadas. Primeiro, a escatologia presente: os 'últimos dias' já chegaram, marcados pelo aumento da impiedade e do amor próprio (2Tm 3:1–5). Segundo, a escatologia futura: o Senhor Jesus Cristo julgará os vivos e os mortos em sua vinda e em seu reino (2Tm 4:1), e entregará a coroa de justiça a todos os que amam a sua vinda (2Tm 4:8). O martírio de Paulo é enquadrado nesta expectativa escatológica como vitória, não como derrota."
+      },
+      "pasajes": [
+        "2Ti 3:1–5",
+        "2Ti 4:1",
+        "2Ti 4:8",
+        "2Ti 4:18"
+      ],
+      "ensenanza": {
+        "es": "Los últimos días, ya inaugurados, se caracterizan por apostasía creciente · Cristo juzgará a vivos y muertos en su venida y reino · La corona de justicia es prometida a todos los que aman la venida de Cristo · El Señor libra a sus siervos de todo mal y los guarda para su reino celestial",
+        "en": "The last days, already inaugurated, are characterized by increasing apostasy · Christ will judge the living and the dead at his appearing and kingdom · The crown of righteousness is promised to all who love Christ's appearing · The Lord rescues his servants from every evil and preserves them for his heavenly kingdom",
+        "pt": "Os últimos dias, já inaugurados, caracterizam-se por apostasia crescente · Cristo julgará os vivos e os mortos em sua vinda e reino · A coroa de justiça é prometida a todos os que amam a vinda de Cristo · O Senhor livra seus servos de todo mal e os guarda para seu reino celestial"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee la escatología de 2 Timoteo dentro del marco del reino ya-inaugurado pero-no-consumado. Los «últimos días» de 2Ti 3:1 no son una era futura sino la era presente que comenzó con la primera venida de Cristo, marcando toda la historia de la iglesia con la tensión entre el bien y el mal hasta la parusía.",
+        "en": "The Reformed tradition reads the eschatology of 2 Timothy within the already-inaugurated but not-yet-consummated kingdom framework. The 'last days' of 2Tim 3:1 are not a future era but the present era that began with Christ's first coming, marking all church history with the tension between good and evil until the parousia.",
+        "pt": "A tradição reformada lê a escatologia de 2 Timóteo dentro do quadro do reino já inaugurado mas ainda não consumado. Os 'últimos dias' de 2Tm 3:1 não são uma era futura, mas a era presente que começou com a primeira vinda de Cristo, marcando toda a história da igreja com a tensão entre o bem e o mal até a parusia."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "2 Timoteo enseña la santificación como proceso activo de separación del mal y consagración al bien. La imagen del vaso de honra (2Ti 2:20–21) ilustra que quien se limpia de las cosas indignas es santificado, útil al Señor y preparado para toda buena obra. La fuga de los deseos juveniles y la búsqueda de justicia, fe, amor y paz (2Ti 2:22) describen la dirección práctica de la santificación en el ministro.",
+        "en": "2 Timothy teaches sanctification as an active process of separation from evil and consecration to good. The image of the vessel for honorable use (2Tim 2:20–21) illustrates that whoever cleanses himself from dishonorable things is sanctified, useful to the Master, and prepared for every good work. The flight from youthful passions and the pursuit of righteousness, faith, love, and peace (2Tim 2:22) describe the practical direction of sanctification in the minister.",
+        "pt": "2 Timóteo ensina a santificação como processo ativo de separação do mal e consagração ao bem. A imagem do vaso para uso honrado (2Tm 2:20–21) ilustra que quem se limpa das coisas indignas é santificado, útil ao Senhor e preparado para toda boa obra. A fuga das paixões juvenis e a busca de justiça, fé, amor e paz (2Tm 2:22) descrevem a direção prática da santificação no ministro."
+      },
+      "pasajes": [
+        "2Ti 2:20–22",
+        "2Ti 3:12",
+        "2Ti 2:11–12"
+      ],
+      "ensenanza": {
+        "es": "Quien se limpia de lo indigno es santificado y útil al Señor para toda buena obra · Todos los que quieren vivir piadosamente en Cristo Jesús sufrirán persecución · Si morimos con Cristo viviremos con él; si perseveramos reinaremos con él",
+        "en": "Whoever cleanses himself from what is dishonorable is sanctified and useful to the Lord for every good work · All who desire to live a godly life in Christ Jesus will be persecuted · If we have died with him we will also live with him; if we endure we will also reign with him",
+        "pt": "Quem se limpa do que é indigno é santificado e útil ao Senhor para toda boa obra · Todos os que desejam viver piedosamente em Cristo Jesus sofrerão perseguição · Se morremos com ele também viveremos com ele; se perseveramos também reinaremos com ele"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada enfatiza que la santificación descrita en 2 Timoteo es un don que fluye de la unión con Cristo (2Ti 2:11–12), no un esfuerzo autónomo. La persecución como componente normal de la vida piadosa (2Ti 3:12) es un marcador reformado: la piedad verdadera siempre genera fricción con el mundo.",
+        "en": "The Reformed tradition emphasizes that the sanctification described in 2 Timothy is a gift flowing from union with Christ (2Tim 2:11–12), not an autonomous effort. Persecution as a normal component of godly life (2Tim 3:12) is a Reformed marker: true godliness always generates friction with the world.",
+        "pt": "A tradição reformada enfatiza que a santificação descrita em 2 Timóteo é um dom que flui da união com Cristo (2Tm 2:11–12), não um esforço autônomo. A perseguição como componente normal da vida piedosa (2Tm 3:12) é um marcador reformado: a piedade verdadeira sempre gera atrito com o mundo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "2 Timoteo enseña que la iglesia se sostiene mediante la transmisión fiel del depósito apostólico de generación en generación (2Ti 2:2). La sana doctrina es la columna vertebral de la vida eclesiástica y su abandono produce error moral y doctrinal (2Ti 2:16–18; 2Ti 4:3–4). El fundamento sólido de Dios permanece, y el Señor conoce a los suyos (2Ti 2:19), lo que garantiza la indestructibilidad de la iglesia verdadera a pesar de la apostasía de algunos.",
+        "en": "2 Timothy teaches that the church is sustained through the faithful transmission of the apostolic deposit from generation to generation (2Tim 2:2). Sound doctrine is the backbone of ecclesiastical life, and its abandonment produces moral and doctrinal error (2Tim 2:16–18; 2Tim 4:3–4). God's solid foundation stands, and the Lord knows those who are his (2Tim 2:19), which guarantees the indestructibility of the true church despite the apostasy of some.",
+        "pt": "2 Timóteo ensina que a igreja se sustenta mediante a transmissão fiel do depósito apostólico de geração em geração (2Tm 2:2). A sã doutrina é a espinha dorsal da vida eclesiástica e seu abandono produz erro moral e doutrinal (2Tm 2:16–18; 2Tm 4:3–4). O fundamento sólido de Deus permanece, e o Senhor conhece os seus (2Tm 2:19), o que garante a indestrutibilidade da igreja verdadeira apesar da apostasia de alguns."
+      },
+      "pasajes": [
+        "2Ti 2:2",
+        "2Ti 2:19",
+        "2Ti 4:3–4"
+      ],
+      "ensenanza": {
+        "es": "El depósito apostólico debe transmitirse a hombres fieles que puedan enseñar a otros · El fundamento de Dios permanece firme, sellado con que el Señor conoce a los suyos · Llegará el tiempo en que los hombres no soportarán la sana doctrina y se amontonarán maestros según sus propias pasiones",
+        "en": "The apostolic deposit must be entrusted to faithful men who will be able to teach others · God's firm foundation stands, sealed with the Lord's knowing those who are his · The time will come when people will not endure sound teaching but accumulate teachers to suit their own passions",
+        "pt": "O depósito apostólico deve ser confiado a homens fiéis que possam ensinar a outros · O fundamento sólido de Deus permanece, selado com que o Senhor conhece os seus · Virá o tempo em que as pessoas não suportarão a sã doutrina, mas acumularão mestres segundo suas próprias paixões"
+      },
+      "distintivaReformada": {
+        "es": "La eclesiología reformada ve en 2Ti 2:2 el modelo bíblico de la sucesión apostólica: no una sucesión de personas o cargos, sino de la doctrina apostólica transmitida fielmente. La promesa de 2Ti 2:19 («el Señor conoce a los que son suyos») es el fundamento de la doctrina reformada de la perseverancia de la iglesia a pesar de las apostasías visibles.",
+        "en": "Reformed ecclesiology sees in 2Tim 2:2 the biblical model of apostolic succession: not a succession of persons or offices, but of apostolic doctrine faithfully transmitted. The promise of 2Tim 2:19 ('The Lord knows those who are his') is the foundation of the Reformed doctrine of the perseverance of the church despite visible apostasies.",
+        "pt": "A eclesiologia reformada vê em 2Tm 2:2 o modelo bíblico da sucessão apostólica: não uma sucessão de pessoas ou cargos, mas da doutrina apostólica fielmente transmitida. A promessa de 2Tm 2:19 ('O Senhor conhece os que são seus') é o fundamento da doutrina reformada da perseverança da igreja apesar das apostasias visíveis."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 1",
+      "titulo": {
+        "es": "De las Sagradas Escrituras",
+        "en": "Of the Holy Scripture",
+        "pt": "Das Sagradas Escrituras"
+      },
+      "doctrinas": [
+        "Bibliología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster Cap. 1 afirma que las Sagradas Escrituras son la Palabra de Dios escrita, plenamente inspirada y completamente suficiente para toda la fe y práctica cristiana. 2 Timoteo 3:16–17 es el texto fundacional de esta doctrina: «Toda la Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir, para instruir en justicia». La suficiencia escritural aquí afirmada excluye la necesidad de revelación adicional.",
+        "en": "Westminster Confession Ch. 1 affirms that the Holy Scriptures are the written Word of God, fully inspired and completely sufficient for all Christian faith and practice. 2 Timothy 3:16–17 is the foundational text for this doctrine: 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.' The scriptural sufficiency affirmed here excludes the need for additional revelation.",
+        "pt": "A Confissão de Westminster Cap. 1 afirma que as Sagradas Escrituras são a Palavra de Deus escrita, plenamente inspirada e completamente suficiente para toda a fé e prática cristã. 2 Timóteo 3:16–17 é o texto fundacional desta doutrina: 'Toda a Escritura é inspirada por Deus e útil para ensinar, repreender, corrigir e instruir em justiça.' A suficiência escritural afirmada aqui exclui a necessidade de revelação adicional."
+      },
+      "genesis": [
+        "2Ti 3:16",
+        "2Ti 1:13",
+        "2Ti 2:2"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-1"
+    },
+    {
+      "cap": "Cap. 3",
+      "titulo": {
+        "es": "Del Decreto Eterno de Dios",
+        "en": "Of God's Eternal Decree",
+        "pt": "Do Eterno Decreto de Deus"
+      },
+      "doctrinas": [
+        "Elección",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "Westminster Cap. 3 enseña que Dios ha ordenado desde la eternidad todo lo que sucede, incluida la elección de algunos hombres para vida eterna, no por mérito previsto sino por su libre gracia y amor. 2 Timoteo 1:9–10 sostiene directamente esta doctrina: Dios nos llamó «no según nuestras obras, sino según su propósito y su gracia, la cual nos fue dada en Cristo Jesús antes de los tiempos eternos». El decreto de elección es eterno, gracioso y cristocéntrico.",
+        "en": "Westminster Ch. 3 teaches that God from eternity has ordained whatsoever comes to pass, including the election of certain men to eternal life, not by foreseen merit but by free grace and love. 2 Timothy 1:9–10 directly supports this doctrine: God called us 'not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began.' The decree of election is eternal, gracious, and christocentric.",
+        "pt": "Westminster Cap. 3 ensina que Deus desde a eternidade ordenou tudo o que acontece, incluindo a eleição de certos homens para a vida eterna, não por mérito previsto, mas por sua livre graça e amor. 2 Timóteo 1:9–10 sustenta diretamente esta doutrina: Deus nos chamou 'não segundo as nossas obras, mas segundo o seu próprio propósito e graça, a qual nos foi dada em Cristo Jesus antes dos tempos eternos'. O decreto de eleição é eterno, gracioso e cristocêntrico."
+      },
+      "genesis": [
+        "2Ti 1:9",
+        "2Ti 2:10"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-3"
+    },
+    {
+      "cap": "Cap. 17",
+      "titulo": {
+        "es": "De la Perseverancia de los Santos",
+        "en": "Of the Perseverance of the Saints",
+        "pt": "Da Perseverança dos Santos"
+      },
+      "doctrinas": [
+        "Soteriología",
+        "Santificación"
+      ],
+      "resumen": {
+        "es": "Westminster Cap. 17 afirma que los elegidos de Dios, siendo regenerados y llamados efectivamente, perseverarán en la gracia hasta el fin y serán salvos eternamente. Pablo en 2 Timoteo modela esta perseverancia: «he peleado la buena batalla, he terminado la carrera, he guardado la fe» (2Ti 4:7), y confía en que el Señor lo librará y lo preservará para su reino celestial (2Ti 4:18). El fundamento de la perseverancia no es la voluntad humana sino la gracia electiva de Dios (2Ti 2:19).",
+        "en": "Westminster Ch. 17 affirms that God's elect, being truly regenerated and effectually called, will persevere in grace to the end and be eternally saved. Paul in 2 Timothy models this perseverance: 'I have fought the good fight, I have finished the race, I have kept the faith' (2Tim 4:7), and trusts that the Lord will rescue him and bring him safely to his heavenly kingdom (2Tim 4:18). The foundation of perseverance is not human will but God's electing grace (2Tim 2:19).",
+        "pt": "Westminster Cap. 17 afirma que os eleitos de Deus, sendo verdadeiramente regenerados e eficazmente chamados, perseverarão na graça até o fim e serão eternamente salvos. Paulo em 2 Timóteo modela esta perseverança: 'Combati o bom combate, terminei a corrida, guardei a fé' (2Tm 4:7), e confia que o Senhor o livrará e o preservará para o seu reino celestial (2Tm 4:18). O fundamento da perseverança não é a vontade humana, mas a graça eletiva de Deus (2Tm 2:19)."
+      },
+      "genesis": [
+        "2Ti 4:7",
+        "2Ti 4:18",
+        "2Ti 2:19",
+        "2Ti 1:12"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-17"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "2Ti 1:9",
+      "es": "quien nos salvó y nos llamó con un llamamiento santo, no según nuestras obras, sino según su propósito y su gracia, la cual nos fue dada en Cristo Jesús antes de los tiempos eternos",
+      "en": "who saved us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began",
+      "pt": "o qual nos salvou e nos chamou com uma santa vocação, não segundo as nossas obras, mas segundo o seu próprio propósito e graça, que nos foi dada em Cristo Jesus antes dos tempos eternos",
+      "nota": {
+        "es": "Este versículo es el texto central de la doctrina reformada de la elección incondicional. La salvación precede a toda obra humana y está fundada en el decreto eterno de Dios «antes de los tiempos eternos». Ningún otro pasaje articula con mayor precisión la gratuidad absoluta de la gracia soberana.",
+        "en": "This verse is the central text of the Reformed doctrine of unconditional election. Salvation precedes all human work and is grounded in God's eternal decree 'before the ages began.' No other passage articulates the absolute gratuity of sovereign grace with greater precision.",
+        "pt": "Este versículo é o texto central da doutrina reformada da eleição incondicional. A salvação precede toda obra humana e está fundada no decreto eterno de Deus 'antes dos tempos eternos'. Nenhuma outra passagem articula com maior precisão a gratuidade absoluta da graça soberana."
+      }
+    },
+    {
+      "ref": "2Ti 2:2",
+      "es": "Lo que has oído de mí ante muchos testigos, eso encarga a hombres fieles que sean idóneos para enseñar también a otros",
+      "en": "and what you have heard from me in the presence of many witnesses entrust to faithful men, who will be able to teach others also",
+      "pt": "e o que ouviste de mim por muitas testemunhas, isso confia a homens fiéis que sejam idôneos para também ensinarem a outros",
+      "nota": {
+        "es": "La «cadena de transmisión» de este versículo — Pablo, Timoteo, hombres fieles, otros — establece el patrón bíblico de la continuidad doctrinal de la iglesia. La tradición reformada lo usa para fundamentar la sucesión apostólica como transmisión de doctrina, no de oficio sacerdotal.",
+        "en": "The 'chain of transmission' in this verse — Paul, Timothy, faithful men, others — establishes the biblical pattern of the church's doctrinal continuity. The Reformed tradition uses it to ground apostolic succession as transmission of doctrine, not of priestly office.",
+        "pt": "A 'cadeia de transmissão' deste versículo — Paulo, Timóteo, homens fiéis, outros — estabelece o padrão bíblico da continuidade doutrinária da igreja. A tradição reformada usa-o para fundamentar a sucessão apostólica como transmissão de doutrina, não de ofício sacerdotal."
+      }
+    },
+    {
+      "ref": "2Ti 3:16",
+      "es": "Toda la Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir, para instruir en justicia",
+      "en": "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness",
+      "pt": "Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a instrução na justiça",
+      "nota": {
+        "es": "El término griego θεόπνευστος («Dios-espirado») afirma que las Escrituras son el aliento de Dios mismo. Este versículo es la piedra angular de la bibliología reformada tal como la expresa la Confesión de Westminster Cap. 1, y fundamento de toda predicación y enseñanza bíblica.",
+        "en": "The Greek term θεόπνευστος ('God-breathed') affirms that Scripture is the very breath of God. This verse is the cornerstone of Reformed bibliology as expressed in Westminster Confession Ch. 1, and the foundation of all biblical preaching and teaching.",
+        "pt": "O termo grego θεόπνευστος ('soprado por Deus') afirma que as Escrituras são o próprio sopro de Deus. Este versículo é a pedra angular da bibliologia reformada tal como expressa na Confissão de Westminster Cap. 1, e fundamento de toda pregação e ensino bíblico."
+      }
+    },
+    {
+      "ref": "2Ti 4:7",
+      "es": "He peleado la buena batalla, he terminado la carrera, he guardado la fe",
+      "en": "I have fought the good fight, I have finished the race, I have kept the faith",
+      "pt": "Combati o bom combate, terminei a corrida, guardei a fé",
+      "nota": {
+        "es": "Las palabras finales de Pablo en forma de tricolon paralelo constituyen el testimonio definitivo de la perseverancia. La teología reformada las lee no como autoelogio sino como doxología: la fidelidad de Pablo es el fruto de la gracia de Dios que guarda su depósito (2Ti 1:12), no de la fortaleza humana.",
+        "en": "Paul's final words in parallel tricolon form constitute the ultimate testimony of perseverance. Reformed theology reads them not as self-praise but as doxology: Paul's faithfulness is the fruit of God's grace guarding his deposit (2Tim 1:12), not of human strength.",
+        "pt": "As palavras finais de Paulo em forma de tricolo paralelo constituem o testemunho definitivo da perseverança. A teologia reformada as lê não como auto-elogio, mas como doxologia: a fidelidade de Paulo é o fruto da graça de Deus que guarda seu depósito (2Tm 1:12), não da força humana."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "2 Timoteo es la Biblia del ministro fiel en tiempos de apostasía. La teología reformada extrae de ella cuatro distintivos fundamentales: (1) la doctrina de la suficiencia e inerrancia de las Escrituras (2Ti 3:16–17) como norma única de fe y práctica; (2) la elección soberana y la gracia irresistible como fundamento de toda salvación (2Ti 1:9); (3) la perseverancia de los santos asegurada por la fidelidad de Dios, no por la del creyente (2Ti 2:13,19); (4) la sucesión apostólica como transmisión doctrinal y no institucional (2Ti 2:2). Frente al catolicismo romano y el arminianismo, estos cuatro puntos definen la identidad reformada que 2 Timoteo articula con una claridad sin igual en las Epístolas Pastorales.",
+    "en": "2 Timothy is the Bible of the faithful minister in times of apostasy. Reformed theology draws from it four fundamental distinctives: (1) the doctrine of scriptural sufficiency and inerrancy (2Tim 3:16–17) as the sole norm of faith and practice; (2) sovereign election and irresistible grace as the foundation of all salvation (2Tim 1:9); (3) the perseverance of the saints secured by God's faithfulness, not the believer's (2Tim 2:13,19); (4) apostolic succession as doctrinal rather than institutional transmission (2Tim 2:2). Against Roman Catholicism and Arminianism, these four points define the Reformed identity that 2 Timothy articulates with unmatched clarity in the Pastoral Epistles.",
+    "pt": "2 Timóteo é a Bíblia do ministro fiel em tempos de apostasia. A teologia reformada extrai dela quatro distintivos fundamentais: (1) a doutrina da suficiência e inerrância das Escrituras (2Tm 3:16–17) como norma única de fé e prática; (2) a eleição soberana e a graça irresistível como fundamento de toda salvação (2Tm 1:9); (3) a perseverança dos santos assegurada pela fidelidade de Deus, não do crente (2Tm 2:13,19); (4) a sucessão apostólica como transmissão doutrinal e não institucional (2Tm 2:2). Frente ao catolicismo romano e ao arminianismo, estes quatro pontos definem a identidade reformada que 2 Timóteo articula com uma clareza sem igual nas Epístolas Pastorais."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Avivar el don: no avergonzarse",
+        "en": "Fan the Flame: Do Not Be Ashamed",
+        "pt": "Avivar o dom: não se envergonhar"
+      },
+      "descripcion": {
+        "es": "Pablo abre su testamento espiritual con una afirmación de gracia y amor filial: llama a Timoteo «hijo amado» y recuerda su fe genuina, la misma que habitó primero en su abuela Loida y su madre Eunice (2Ti 1:2–5). Frente a la tendencia de Timoteo a la timidez, Pablo le exhorta a avivar el don que recibió mediante la imposición de manos (2Ti 1:6) y a recordar que el Espíritu que Dios nos dio no es de cobardía sino de poder, amor y dominio propio (2Ti 1:7). El centro teológico del capítulo es la exhortación a no avergonzarse del testimonio del Señor ni de Pablo su prisionero (2Ti 1:8), fundada en la declaración soteriológica del pacto de gracia eterno: Dios salvó y llamó a su pueblo según su propósito y gracia dada en Cristo antes de los tiempos eternos (2Ti 1:9–10). Pablo concluye afirmando que no se avergüenza porque sabe en quién ha creído y está persuadido de que Él guardará el depósito (2Ti 1:12).",
+        "en": "Paul opens his spiritual testament with an affirmation of grace and filial love: he calls Timothy 'beloved son' and recalls his genuine faith, the same that first dwelt in his grandmother Lois and mother Eunice (2Tim 1:2–5). Against Timothy's tendency toward timidity, Paul urges him to fan into flame the gift he received through the laying on of hands (2Tim 1:6) and to remember that the Spirit God gave us is not one of cowardice but of power, love, and self-control (2Tim 1:7). The theological center of the chapter is the exhortation not to be ashamed of the testimony of the Lord or of Paul his prisoner (2Tim 1:8), grounded in the soteriological declaration of the eternal covenant of grace: God saved and called his people according to his own purpose and grace given in Christ before the ages began (2Tim 1:9–10). Paul closes by affirming that he is not ashamed because he knows whom he has believed and is convinced that God will guard the deposit (2Tim 1:12).",
+        "pt": "Paulo abre seu testamento espiritual com uma afirmação de graça e amor filial: chama Timóteo de 'filho amado' e recorda sua fé genuína, a mesma que habitou primeiro em sua avó Loide e em sua mãe Eunice (2Tm 1:2–5). Diante da tendência de Timóteo à timidez, Paulo o exorta a avivar o dom que recebeu pela imposição das mãos (2Tm 1:6) e a recordar que o Espírito que Deus nos deu não é de covardia, mas de poder, amor e domínio próprio (2Tm 1:7). O centro teológico do capítulo é a exortação a não se envergonhar do testemunho do Senhor nem de Paulo seu prisioneiro (2Tm 1:8), fundamentada na declaração soteriológica do pacto eterno da graça: Deus salvou e chamou seu povo segundo seu próprio propósito e graça dada em Cristo antes dos tempos eternos (2Tm 1:9–10). Paulo conclui afirmando que não se envergonha porque sabe em quem creu e está persuadido de que Ele guardará o depósito (2Tm 1:12)."
+      },
+      "eventoClave": {
+        "es": "Pablo exhorta a Timoteo a no avergonzarse del evangelio ni del apóstol encarcelado, anclando su valentía en la gracia electiva de Dios dada en Cristo desde la eternidad (2Ti 1:8–12).",
+        "en": "Paul urges Timothy not to be ashamed of the gospel or the imprisoned apostle, anchoring his courage in God's electing grace given in Christ from eternity (2Tim 1:8–12).",
+        "pt": "Paulo exorta Timóteo a não se envergonhar do evangelho nem do apóstolo encarcerado, ancorando sua coragem na graça eletiva de Deus dada em Cristo desde a eternidade (2Tm 1:8–12)."
+      },
+      "versiculoClave": "2Ti 1:12",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Soldado aprobado: transmitir y soportar",
+        "en": "Approved Soldier: Entrust and Endure",
+        "pt": "Soldado aprovado: transmitir e suportar"
+      },
+      "descripcion": {
+        "es": "El capítulo 2 es el corazón del mandato pastoral de la carta. Pablo ordena a Timoteo que encomien­de el depósito apostólico a hombres fieles e idóneos para enseñar a otros (2Ti 2:2), estableciendo así el modelo reformado de la sucesión doctrinal por cuatro generaciones. Para ilustrar la dedicación que requiere el ministerio, Pablo emplea tres metáforas: el soldado que no se enreda en los negocios del mundo (2Ti 2:4), el atleta que compite según las reglas (2Ti 2:5) y el labrador que trabaja antes de recibir el fruto (2Ti 2:6). El fundamento cristológico del capítulo es la proclamación del evangelio: «Acuérdate de Jesucristo, resucitado de los muertos, descendiente de David» (2Ti 2:8). Pablo introduce luego el «dicho fiel» sobre la unión con Cristo en muerte y vida (2Ti 2:11–13) y exhorta a Timoteo a presentarse a Dios aprobado como obrero que no tiene de qué avergonzarse, que corta bien la palabra de verdad (2Ti 2:15). La imagen del vaso de honra (2Ti 2:20–21) y la llamada a huir de las pasiones juveniles y seguir la justicia, fe, amor y paz (2Ti 2:22) completan el programa de santificación práctica del ministro.",
+        "en": "Chapter 2 is the pastoral mandate's heart. Paul commands Timothy to entrust the apostolic deposit to faithful men able to teach others (2Tim 2:2), establishing the Reformed model of doctrinal succession across four generations. To illustrate the dedication ministry requires, Paul uses three metaphors: the soldier who does not entangle himself in civilian pursuits (2Tim 2:4), the athlete who competes according to the rules (2Tim 2:5), and the farmer who labors before sharing the crop (2Tim 2:6). The christological foundation of the chapter is the proclamation of the gospel: 'Remember Jesus Christ, risen from the dead, the offspring of David' (2Tim 2:8). Paul then introduces the 'trustworthy saying' on union with Christ in death and life (2Tim 2:11–13) and urges Timothy to present himself to God as an approved worker who has no need to be ashamed, rightly handling the word of truth (2Tim 2:15). The image of the vessel for honorable use (2Tim 2:20–21) and the call to flee youthful passions and pursue righteousness, faith, love, and peace (2Tim 2:22) complete the practical sanctification program for the minister.",
+        "pt": "O capítulo 2 é o coração do mandato pastoral da carta. Paulo ordena a Timóteo que confie o depósito apostólico a homens fiéis e idôneos para ensinar a outros (2Tm 2:2), estabelecendo assim o modelo reformado da sucessão doutrinal por quatro gerações. Para ilustrar a dedicação que o ministério requer, Paulo emprega três metáforas: o soldado que não se enreda nos negócios do mundo (2Tm 2:4), o atleta que compete segundo as regras (2Tm 2:5) e o lavrador que trabalha antes de colher o fruto (2Tm 2:6). O fundamento cristológico do capítulo é a proclamação do evangelho: 'Lembra-te de Jesus Cristo, ressuscitado dentre os mortos, descendente de Davi' (2Tm 2:8). Paulo introduz então o 'dito fiel' sobre a união com Cristo em morte e vida (2Tm 2:11–13) e exorta Timóteo a apresentar-se a Deus como obreiro aprovado que não tem do que se envergonhar, que maneja corretamente a palavra da verdade (2Tm 2:15). A imagem do vaso de honra (2Tm 2:20–21) e o chamado a fugir das paixões juvenis e seguir a justiça, fé, amor e paz (2Tm 2:22) completam o programa de santificação prática do ministro."
+      },
+      "eventoClave": {
+        "es": "Pablo encomienda el depósito apostólico a través de cuatro generaciones (Pablo → Timoteo → hombres fieles → otros), estableciendo la norma de transmisión doctrinal que sostendrá a la iglesia más allá de la era apostólica (2Ti 2:2).",
+        "en": "Paul entrusts the apostolic deposit through four generations (Paul → Timothy → faithful men → others), establishing the norm of doctrinal transmission that will sustain the church beyond the apostolic era (2Tim 2:2).",
+        "pt": "Paulo confia o depósito apostólico através de quatro gerações (Paulo → Timóteo → homens fiéis → outros), estabelecendo a norma de transmissão doutrinal que sustentará a igreja além da era apostólica (2Tm 2:2)."
+      },
+      "versiculoClave": "2Ti 2:15",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Últimos días y Escrituras suficientes",
+        "en": "Last Days and Sufficient Scripture",
+        "pt": "Últimos dias e Escrituras suficientes"
+      },
+      "descripcion": {
+        "es": "Pablo advierte a Timoteo que en los postreros días vendrán tiempos difíciles, caracterizados por una lista de dieciocho vicios que definen la apostasía moral y espiritual de la era final (2Ti 3:1–5). Este cuadro de impiedad es presentado como ya presente, no futuro: la era final comenzó con Cristo y la iglesia ya vive en ella. Frente al peligro de los falsos maestros que tienen apariencia de piedad pero niegan su poder (2Ti 3:5), Pablo llama a Timoteo a apartarse de ellos (2Ti 3:5) y a seguir el modelo apostólico de perseverancia bajo persecución (2Ti 3:10–12). El clímax doctrinal del capítulo — y de toda la carta — es la declaración sobre las Escrituras: desde niño Timoteo conoce las sagradas letras que pueden hacerle sabio para la salvación mediante la fe en Cristo Jesús (2Ti 3:15), y «toda la Escritura es inspirada por Dios y útil para enseñar, reprender, corregir e instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra» (2Ti 3:16–17). Esta afirmación de la plena inspiración divina y la suficiencia ministerial de las Escrituras es el fundamento de toda predicación reformada.",
+        "en": "Paul warns Timothy that in the last days difficult times will come, characterized by a list of eighteen vices defining the moral and spiritual apostasy of the final age (2Tim 3:1–5). This picture of ungodliness is presented as already present, not future: the final age began with Christ and the church already lives in it. Against the danger of false teachers who have the appearance of godliness but deny its power (2Tim 3:5), Paul calls Timothy to avoid them (2Tim 3:5) and to follow the apostolic model of perseverance under persecution (2Tim 3:10–12). The doctrinal climax of the chapter — and of the entire letter — is the declaration on Scripture: from childhood Timothy has known the sacred writings able to make him wise for salvation through faith in Christ Jesus (2Tim 3:15), and 'all Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work' (2Tim 3:16–17). This affirmation of Scripture's full divine inspiration and ministerial sufficiency is the foundation of all Reformed preaching.",
+        "pt": "Paulo adverte Timóteo que nos últimos dias virão tempos difíceis, caracterizados por uma lista de dezoito vícios que definem a apostasia moral e espiritual da era final (2Tm 3:1–5). Este quadro de impiedade é apresentado como já presente, não futuro: a era final começou com Cristo e a igreja já vive nela. Diante do perigo dos falsos mestres que têm aparência de piedade, mas negam o seu poder (2Tm 3:5), Paulo chama Timóteo a se desviar deles (2Tm 3:5) e a seguir o modelo apostólico de perseverança sob perseguição (2Tm 3:10–12). O clímax doutrinário do capítulo — e de toda a carta — é a declaração sobre as Escrituras: desde criança Timóteo conhece as sagradas letras que podem torná-lo sábio para a salvação pela fé em Cristo Jesus (2Tm 3:15), e 'toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução em justiça, para que o homem de Deus seja perfeito, perfeitamente preparado para toda boa obra' (2Tm 3:16–17). Esta afirmação da plena inspiração divina e da suficiência ministerial das Escrituras é o fundamento de toda pregação reformada."
+      },
+      "eventoClave": {
+        "es": "Pablo declara que toda la Escritura es θεόπνευστος, inspirada por Dios, y suficiente para equipar al hombre de Dios para toda buena obra (2Ti 3:16–17), estableciendo el fundamento bibliológico del ministerio reformado.",
+        "en": "Paul declares that all Scripture is θεόπνευστος, God-breathed, and sufficient to equip the man of God for every good work (2Tim 3:16–17), establishing the bibliological foundation of Reformed ministry.",
+        "pt": "Paulo declara que toda a Escritura é θεόπνευστος, inspirada por Deus, e suficiente para equipar o homem de Deus para toda boa obra (2Tm 3:16–17), estabelecendo o fundamento bibliológico do ministério reformado."
+      },
+      "versiculoClave": "2Ti 3:16",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Predicar la Palabra: el testamento final",
+        "en": "Preach the Word: The Final Testament",
+        "pt": "Pregar a Palavra: o testamento final"
+      },
+      "descripcion": {
+        "es": "El capítulo final de 2 Timoteo es el testamento más solemne del corpus paulino. Pablo lanza su mandato ministerial con la solemnidad de un juramento ante Dios y Cristo Jesús como testigo: «Te encargo solemnemente, en la presencia de Dios y de Cristo Jesús, que ha de juzgar a los vivos y a los muertos por su manifestación y su reino: Predica la Palabra» (2Ti 4:1–2). La urgencia del mandato surge del contexto escatológico: llegará el momento en que los hombres no soportarán la sana doctrina y se amontonarán maestros según sus propias pasiones (2Ti 4:3–4). Frente a este cuadro, Timoteo debe mantener la sobriedad, cumplir su ministerio y soportar las aflicciones (2Ti 4:5). Pablo luego ofrece su propio testimonio escatológico: su vida se derrama como libación (2Ti 4:6), ha peleado la buena batalla, terminado la carrera y guardado la fe (2Ti 4:7), y le espera la corona de justicia que el Señor, el Juez justo, le entregará en aquel día (2Ti 4:8). Los versículos finales son de naturaleza personal: peticiones de que Timoteo venga pronto (2Ti 4:9,21), noticias de los colaboradores (2Ti 4:10–12,20), la instrucción de traer la capa y los libros de Troas (2Ti 4:13), advertencia sobre Alejandro el herrero (2Ti 4:14–15), el abandono en su primera defensa (2Ti 4:16), y la doxología final de confianza en el Señor que lo librará de todo mal (2Ti 4:17–18).",
+        "en": "The final chapter of 2 Timothy is the most solemn testament in the Pauline corpus. Paul issues his ministerial charge with the solemnity of an oath before God and Christ Jesus as witness: 'I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: preach the word' (2Tim 4:1–2). The urgency of the charge arises from the eschatological context: the time is coming when people will not endure sound teaching but accumulate teachers to suit their own passions (2Tim 4:3–4). In the face of this picture, Timothy must be sober-minded, fulfill his ministry, and endure suffering (2Tim 4:5). Paul then offers his own eschatological testimony: his life is being poured out as a drink offering (2Tim 4:6), he has fought the good fight, finished the race, and kept the faith (2Tim 4:7), and there awaits him the crown of righteousness that the Lord, the righteous Judge, will award him on that day (2Tim 4:8). The final verses are personal in nature: requests for Timothy to come soon (2Tim 4:9,21), news of co-workers (2Tim 4:10–12,20), the instruction to bring the cloak and books from Troas (2Tim 4:13), warning about Alexander the coppersmith (2Tim 4:14–15), the desertion at his first defense (2Tim 4:16), and the final doxology of trust in the Lord who will rescue him from every evil deed (2Tim 4:17–18).",
+        "pt": "O capítulo final de 2 Timóteo é o testamento mais solene do corpus paulino. Paulo lança seu mandato ministerial com a solenidade de um juramento diante de Deus e Cristo Jesus como testemunha: 'Conjuro-te solenemente, diante de Deus e de Cristo Jesus, que há de julgar os vivos e os mortos pela sua manifestação e pelo seu reino: Prega a Palavra' (2Tm 4:1–2). A urgência do mandato surge do contexto escatológico: chegará o tempo em que as pessoas não suportarão a sã doutrina, mas acumularão mestres segundo suas próprias paixões (2Tm 4:3–4). Diante deste quadro, Timóteo deve manter a sobriedade, cumprir seu ministério e suportar as aflições (2Tm 4:5). Paulo então oferece seu próprio testemunho escatológico: sua vida se derrama como libação (2Tm 4:6), combateu o bom combate, terminou a corrida e guardou a fé (2Tm 4:7), e o aguarda a coroa de justiça que o Senhor, o Juiz justo, lhe entregará naquele dia (2Tm 4:8). Os versículos finais são de natureza pessoal: pedidos para que Timóteo venha logo (2Tm 4:9,21), notícias dos colaboradores (2Tm 4:10–12,20), instrução para trazer o manto e os livros de Trôade (2Tm 4:13), advertência sobre Alexandre o ferreiro (2Tm 4:14–15), o abandono em sua primeira defesa (2Tm 4:16), e a doxologia final de confiança no Senhor que o livrará de todo mal (2Tm 4:17–18)."
+      },
+      "eventoClave": {
+        "es": "Pablo entrega su mandato apostólico final «predica la Palabra» ante el juicio venidero de Cristo (2Ti 4:1–2), y confiesa su propia victoria escatológica: ha peleado la buena batalla, terminado la carrera y guardado la fe, esperando la corona de justicia (2Ti 4:7–8).",
+        "en": "Paul delivers his final apostolic charge 'preach the word' before the coming judgment of Christ (2Tim 4:1–2), and confesses his own eschatological victory: he has fought the good fight, finished the race, and kept the faith, awaiting the crown of righteousness (2Tim 4:7–8).",
+        "pt": "Paulo entrega seu mandato apostólico final 'prega a Palavra' diante do julgamento vindouro de Cristo (2Tm 4:1–2), e confessa sua própria vitória escatológica: combateu o bom combate, terminou a corrida e guardou a fé, aguardando a coroa de justiça (2Tm 4:7–8)."
+      },
+      "versiculoClave": "2Ti 4:2",
+      "era": "Aplicación"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Wayne Grudem et al.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Notas exegéticas",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Exegetical notes",
+          "Historical context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Notas exegéticas",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible fue producida por más de cien eruditos bíblicos reformados y evangélicos bajo la dirección editorial de Wayne Grudem. Publicada por Crossway en 2008, es considerada la Biblia de estudio de referencia del mundo anglosajón reformado.",
+          "en": "The ESV Study Bible was produced by over one hundred Reformed and evangelical biblical scholars under the editorial direction of Wayne Grudem. Published by Crossway in 2008, it is considered the standard study Bible of the Reformed English-speaking world.",
+          "pt": "A ESV Study Bible foi produzida por mais de cem estudiosos bíblicos reformados e evangélicos sob a direção editorial de Wayne Grudem. Publicada pela Crossway em 2008, é considerada a Bíblia de estudo de referência do mundo anglófono reformado."
+        },
+        "metodo": {
+          "es": "Combina exégesis histórico-gramatical con teología bíblica y sistemática reformada. Las introducciones a cada libro abordan autor, fecha, destinatarios, propósito y temas teológicos; las notas al pie explican el texto versículo a versículo desde una perspectiva exegética conservadora.",
+          "en": "It combines historical-grammatical exegesis with Reformed biblical and systematic theology. The introductions to each book address author, date, recipients, purpose, and theological themes; the footnotes explain the text verse by verse from a conservative exegetical perspective.",
+          "pt": "Combina exegese histórico-gramatical com teologia bíblica e sistemática reformada. As introduções a cada livro abordam autor, data, destinatários, propósito e temas teológicos; as notas de rodapé explicam o texto versículo por versículo de uma perspectiva exegética conservadora."
+        },
+        "aportacion": {
+          "es": "Provee la introducción canónica estándar a 2 Timoteo: autoría paulina, contexto de la segunda prisión romana, propósito pastoral y resumen de los temas teológicos principales usados en este registro.",
+          "en": "Provides the standard canonical introduction to 2 Timothy: Pauline authorship, context of the second Roman imprisonment, pastoral purpose, and summary of the main theological themes used in this record.",
+          "pt": "Fornece a introdução canônica padrão a 2 Timóteo: autoria paulina, contexto da segunda prisão romana, propósito pastoral e resumo dos principais temas teológicos usados neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology — Wayne Grudem (1994)",
+          "Bible Doctrine — Wayne Grudem (1999)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-none-case/"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R. C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / B&H Español",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Teología reformada",
+          "Notas exegéticas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Introduction",
+          "Reformed theology",
+          "Exegetical notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Introdução",
+          "Teologia reformada",
+          "Notas exegéticas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R. C. Sproul (1939–2017) fue teólogo reformado, fundador de Ligonier Ministries y uno de los maestros bíblicos más influyentes del siglo XX. Editor general de la Biblia de Estudio de la Reforma, que provee notas teológicas desde la perspectiva de la Confesión de Westminster.",
+          "en": "R. C. Sproul (1939–2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential biblical teachers of the twentieth century. General editor of the Reformation Study Bible, which provides theological notes from the perspective of the Westminster Confession.",
+          "pt": "R. C. Sproul (1939–2017) foi teólogo reformado, fundador da Ligonier Ministries e um dos professores bíblicos mais influentes do século XX. Editor geral da Bíblia de Estudo da Reforma, que fornece notas teológicas desde a perspectiva da Confissão de Westminster."
+        },
+        "metodo": {
+          "es": "La Biblia de Estudio de la Reforma aplica una hermenéutica confessional reformada, leyendo cada libro canónico dentro del marco de la teología del pacto y la historia redentora. Sus notas privilegian la aplicación doctrinal y espiritual sobre la discusión técnica.",
+          "en": "The Reformation Study Bible applies a confessional Reformed hermeneutic, reading each canonical book within the framework of covenant theology and redemptive history. Its notes privilege doctrinal and spiritual application over technical discussion.",
+          "pt": "A Bíblia de Estudo da Reforma aplica uma hermenêutica confessional reformada, lendo cada livro canônico dentro do quadro da teologia do pacto e da história redentora. Suas notas privilegiam a aplicação doutrinária e espiritual sobre a discussão técnica."
+        },
+        "aportacion": {
+          "es": "Aporta las notas teológico-pastorales desde perspectiva confesional reformada para 2 Timoteo, especialmente en la doctrina de la inspiración (2Ti 3:16–17), la elección (2Ti 1:9) y la perseverancia (2Ti 4:7–8) usadas en las secciones de teología sistemática y distintivas reformadas.",
+          "en": "Contributes the theological-pastoral notes from a confessional Reformed perspective for 2 Timothy, especially on the doctrine of inspiration (2Tim 3:16–17), election (2Tim 1:9), and perseverance (2Tim 4:7–8) used in the systematic theology and Reformed distinctives sections.",
+          "pt": "Contribui com as notas teológico-pastorais de perspectiva confessional reformada para 2 Timóteo, especialmente na doutrina da inspiração (2Tm 3:16–17), eleição (2Tm 1:9) e perseverança (2Tm 4:7–8) usadas nas seções de teologia sistemática e distintivos reformados."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2015)",
+          "The Holiness of God — R.C. Sproul (1985)",
+          "Chosen by God — R.C. Sproul (1986)",
+          "What Is Reformed Theology? — R.C. Sproul (1997)"
+        ],
+        "url": "https://es.ligonier.org/recursos/credos-confesiones/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Bibliología",
+          "Soteriología",
+          "Escatología",
+          "Ecclesiología",
+          "Santificación"
+        ],
+        "en": [
+          "Bibliology",
+          "Soteriology",
+          "Eschatology",
+          "Ecclesiology",
+          "Sanctification"
+        ],
+        "pt": [
+          "Bibliologia",
+          "Soteriologia",
+          "Escatologia",
+          "Eclesiologia",
+          "Santificação"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es profesor de Teología Bíblica y Sistemática en el Phoenix Seminary y uno de los teólogos reformados más citados de habla inglesa. Su Teología Sistemática ha vendido más de 750.000 ejemplares y es texto estándar en seminarios reformados.",
+          "en": "Wayne Grudem is Professor of Biblical and Systematic Theology at Phoenix Seminary and one of the most cited Reformed theologians in the English-speaking world. His Systematic Theology has sold more than 750,000 copies and is a standard text in Reformed seminaries.",
+          "pt": "Wayne Grudem é Professor de Teologia Bíblica e Sistemática no Phoenix Seminary e um dos teólogos reformados mais citados no mundo anglófono. Sua Teologia Sistemática vendeu mais de 750.000 exemplares e é texto padrão em seminários reformados."
+        },
+        "metodo": {
+          "es": "Grudem organiza la teología sistemática por categorías doctrinales, siempre partiendo de la exégesis bíblica y aplicando cada doctrina a la vida cristiana y eclesiástica. Su método es accesible, didáctico y firmemente anclado en la tradición reformada y evangélica.",
+          "en": "Grudem organizes systematic theology by doctrinal categories, always starting from biblical exegesis and applying each doctrine to Christian and ecclesial life. His method is accessible, didactic, and firmly anchored in the Reformed and evangelical tradition.",
+          "pt": "Grudem organiza a teologia sistemática por categorias doutrinárias, partindo sempre da exegese bíblica e aplicando cada doutrina à vida cristã e eclesiástica. Seu método é acessível, didático e firmemente ancorado na tradição reformada e evangélica."
+        },
+        "aportacion": {
+          "es": "Informa las categorías de teología sistemática aplicadas a 2 Timoteo, especialmente bibliología (capítulo 4 sobre inspiración y suficiencia de las Escrituras), soteriología (elección e irresistible gracia) y escatología. Sus páginas sobre 2Ti 3:16–17 son la fuente estándar de la doctrina de inspiración en este registro.",
+          "en": "Informs the systematic theology categories applied to 2 Timothy, especially bibliology (chapter 4 on inspiration and sufficiency of Scripture), soteriology (election and irresistible grace), and eschatology. His pages on 2Tim 3:16–17 are the standard source for the inspiration doctrine in this record.",
+          "pt": "Informa as categorias de teologia sistemática aplicadas a 2 Timóteo, especialmente bibliologia (capítulo 4 sobre inspiração e suficiência das Escrituras), soteriologia (eleição e graça irresistível) e escatologia. Suas páginas sobre 2Tm 3:16–17 são a fonte padrão da doutrina de inspiração neste registro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Recovering Biblical Manhood and Womanhood (1991)"
+        ],
+        "url": "https://www.thegospelcoalition.org/blogs/justin-taylor/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras",
+          "Contexto del pacto"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows",
+          "Covenant context"
+        ],
+        "pt": [
+          "História redentora",
+          "Foco cristológico",
+          "Tipos e sombras",
+          "Contexto do pacto"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el padre de la teología bíblica reformada moderna. Profesor de Teología Bíblica en el Princeton Theological Seminary durante cuarenta años, su obra estableció el marco de la historia redentora como disciplina teológica propia dentro del calvinismo.",
+          "en": "Geerhardus Vos (1862–1949) was the father of modern Reformed biblical theology. Professor of Biblical Theology at Princeton Theological Seminary for forty years, his work established the redemptive-history framework as a distinct theological discipline within Calvinism.",
+          "pt": "Geerhardus Vos (1862–1949) foi o pai da teologia bíblica reformada moderna. Professor de Teologia Bíblica no Princeton Theological Seminary por quarenta anos, sua obra estabeleceu o quadro da história redentora como disciplina teológica própria dentro do calvinismo."
+        },
+        "metodo": {
+          "es": "Vos traza el desarrollo progresivo de la revelación divina a través de los pactos bíblicos, mostrando cómo cada libro contribuye a la historia redentora que culmina en Cristo. Su método distingue entre teología bíblica (desarrollo histórico) y sistemática (organización lógica).",
+          "en": "Vos traces the progressive development of divine revelation through the biblical covenants, showing how each book contributes to the redemptive history that culminates in Christ. His method distinguishes between biblical theology (historical development) and systematic theology (logical organization).",
+          "pt": "Vos traça o desenvolvimento progressivo da revelação divina através dos pactos bíblicos, mostrando como cada livro contribui para a história redentora que culmina em Cristo. Seu método distingue entre teologia bíblica (desenvolvimento histórico) e sistemática (organização lógica)."
+        },
+        "aportacion": {
+          "es": "Proporciona el marco de teología bíblica para la sección de historia redentora de 2 Timoteo: la carta como «Aplicación» del pacto nuevo inaugurado en Cristo, y el enfoque cristológico en la resurrección como fundamento escatológico del ministerio fiel.",
+          "en": "Provides the biblical theology framework for the redemptive history section of 2 Timothy: the letter as 'Application' of the new covenant inaugurated in Christ, and the christological focus on the resurrection as eschatological foundation of faithful ministry.",
+          "pt": "Fornece o quadro de teologia bíblica para a seção de história redentora de 2 Timóteo: a carta como 'Aplicação' do novo pacto inaugurado em Cristo, e o foco cristológico na ressurreição como fundamento escatológico do ministério fiel."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Redemptive History and Biblical Interpretation (1980)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The Pastoral Epistles (New International Greek Testament Commentary)",
+      "autor": "George W. Knight III",
+      "año": 1992,
+      "editorial": "Eerdmans / Paternoster",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Autoría",
+          "Contexto histórico",
+          "Exégesis",
+          "Personajes",
+          "Teología"
+        ],
+        "en": [
+          "Authorship",
+          "Historical context",
+          "Exegesis",
+          "Characters",
+          "Theology"
+        ],
+        "pt": [
+          "Autoria",
+          "Contexto histórico",
+          "Exegese",
+          "Personagens",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "George W. Knight III es teólogo reformado y experto en las Epístolas Pastorales. Su comentario sobre las Pastorales en el NIGTC es la obra técnica de referencia en el mundo reformado anglosajón para el estudio del texto griego de 1 y 2 Timoteo y Tito.",
+          "en": "George W. Knight III is a Reformed theologian and specialist in the Pastoral Epistles. His commentary on the Pastorals in the NIGTC is the standard technical reference work in the Reformed English-speaking world for the study of the Greek text of 1 and 2 Timothy and Titus.",
+          "pt": "George W. Knight III é teólogo reformado e especialista nas Epístolas Pastorais. Seu comentário sobre as Pastorais no NIGTC é a obra técnica de referência no mundo reformado anglófono para o estudo do texto grego de 1 e 2 Timóteo e Tito."
+        },
+        "metodo": {
+          "es": "Knight trabaja desde el texto griego con exégesis histórico-gramatical detallada, defiende la autoría paulina directa de las tres Epístolas Pastorales y provee un análisis exhaustivo de los términos técnicos pastorales y eclesiásticos.",
+          "en": "Knight works from the Greek text with detailed historical-grammatical exegesis, defends direct Pauline authorship of all three Pastoral Epistles, and provides exhaustive analysis of the technical pastoral and ecclesial terms.",
+          "pt": "Knight trabalha a partir do texto grego com exegese histórico-gramatical detalhada, defende a autoria paulina direta das três Epístolas Pastorais e fornece uma análise exaustiva dos termos técnicos pastorais e eclesiásticos."
+        },
+        "aportacion": {
+          "es": "Fundamental para los campos de autoría, contexto histórico de la segunda prisión romana, análisis exegético de 2Ti 1:9–10, 2Ti 2:2, 2Ti 3:16–17 y 2Ti 4:6–8, y las biografías históricas de Pablo y Timoteo en este registro.",
+          "en": "Foundational for the authorship field, historical context of the second Roman imprisonment, exegetical analysis of 2Tim 1:9–10, 2Tim 2:2, 2Tim 3:16–17, and 2Tim 4:6–8, and the historical biographies of Paul and Timothy in this record.",
+          "pt": "Fundamental para o campo de autoria, contexto histórico da segunda prisão romana, análise exegética de 2Tm 1:9–10, 2Tm 2:2, 2Tm 3:16–17 e 2Tm 4:6–8, e as biografias históricas de Paulo e Timóteo neste registro."
+        },
+        "obras": [
+          "The Pastoral Epistles — NIGTC (1992)",
+          "The Role Relationship of Men and Women (1985)",
+          "Commentary on the Greek New Testament (2000)"
+        ],
+        "url": "https://www.theopedia.com/george-w-knight-iii"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "validado",
+    "confianza": 0.82,
+    "camposMarcados": [
+      {
+        "campo": "contextoHistorico.arqueologia",
+        "razon": "No existe ningún sitio arqueológico ni manuscrito directamente vinculado a la composición de 2 Timoteo; el campo se basa en evidencia indirecta del mundo romano del siglo I.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "personajes[Onesíforo].biografiaHistorica.nivelEvidencia",
+        "razon": "Onesíforo aparece solo en 2 Timoteo sin corroboración externa; nivel 'especulativo' aplicado correctamente.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "personajes[Demas].biografiaHistorica.nivelEvidencia",
+        "razon": "Demas aparece en tres cartas paulinas pero sin fuentes extrabíblicas; nivel 'especulativo' aplicado.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "autor.nota",
+        "razon": "La autoría paulina es debatida académicamente; la tradición reformada defiende la autoría directa, posición adoptada en este registro conforme al principio de conflictos del pipeline.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-29T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.3.0",
+      "rol": "administrador",
+      "fechaRevision": "2026-06-29T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

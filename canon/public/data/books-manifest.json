@@ -1671,7 +1671,8 @@
       "ordenCanon": 55,
       "capitulosTotal": 4,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "2timoteo.json",
       "razon": {
         "es": "Segunda carta pastoral: el 'testamento' de Pablo, escrito poco antes de su martirio (c. 67 d.C.), exhortando a Timoteo a guardar el depósito de la fe y proclamar la Palabra con urgencia.",
         "en": "Second pastoral letter: Paul's 'testament', written shortly before his martyrdom (c. 67 AD), urging Timothy to guard the deposit of faith and preach the Word with urgency.",
@@ -1792,12 +1793,13 @@
       "ordenCanon": 61,
       "capitulosTotal": 3,
       "divisionColor": "#D06898",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Advierte contra los falsos maestros que infiltran la iglesia, conecta con Judas en su urgencia, y desarrolla la doctrina de la inspiración como origen del profetismo bíblico (2P 1:20-21).",
         "en": "Warns against false teachers infiltrating the church, connects with Jude in its urgency, and develops the doctrine of inspiration as the origin of biblical prophecy (2 Pet 1:20–21).",
         "pt": "Adverte contra os falsos mestres que se infiltram na igreja, conecta-se com Judas em sua urgência, e desenvolve a doutrina da inspiração como origem do profetismo bíblico (2Pe 1:20-21)."
-      }
+      },
+      "dataFile": "2peter.json"
     },
     {
       "id": 62,

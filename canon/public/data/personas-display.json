@@ -1615,5 +1615,77 @@
       "en": "FALSE TEACHERS",
       "pt": "FALSOS MESTRES"
     }
+  },
+  "Lot": {
+    "id": "lot",
+    "color": "#4A7A5A",
+    "init": "לט",
+    "xCh": 19,
+    "side": "above",
+    "badge": {
+      "es": "JUSTO RESCATADO",
+      "en": "RESCUED RIGHTEOUS",
+      "pt": "JUSTO RESGATADO"
+    }
+  },
+  "Onesíforo": {
+    "id": "onesiforo",
+    "color": "#2A7A6A",
+    "init": "Ον",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "SOLIDARIDAD FIEL",
+      "en": "FAITHFUL SOLIDARITY",
+      "pt": "SOLIDARIEDADE FIEL"
+    }
+  },
+  "Demas": {
+    "id": "demas",
+    "color": "#6B3A5A",
+    "init": "Δη",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "DESERTOR",
+      "en": "DESERTER",
+      "pt": "DESERTOR"
+    }
+  },
+  "Loida": {
+    "id": "loida",
+    "color": "#5A7A9B",
+    "init": "Λω",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "FE GENERACIONAL",
+      "en": "GENERATIONAL FAITH",
+      "pt": "FÉ GERACIONAL"
+    }
+  },
+  "Eunice": {
+    "id": "eunice",
+    "color": "#7A5A8B",
+    "init": "Ευ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "MADRE EN LA FE",
+      "en": "MOTHER IN FAITH",
+      "pt": "MÃE NA FÉ"
+    }
+  },
+  "Alejandro el herrero": {
+    "id": "alejandro-herrero",
+    "color": "#8B2A1A",
+    "init": "Αλ",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "OPONENTE DEL EVANGELIO",
+      "en": "GOSPEL OPPONENT",
+      "pt": "OPONENTE DO EVANGELHO"
+    }
   }
 }

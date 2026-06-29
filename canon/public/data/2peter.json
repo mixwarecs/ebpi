@@ -1,0 +1,1615 @@
+{
+  "id": 61,
+  "testamento": "Nuevo",
+  "division": "Epístolas Generales",
+  "titulo": {
+    "es": "2 Pedro",
+    "en": "2 Peter",
+    "pt": "2 Pedro"
+  },
+  "tituloOriginal": "Πέτρου Β",
+  "transliteracion": "Petrou B",
+  "significado": {
+    "es": "Segunda epístola de Pedro",
+    "en": "Second Epistle of Peter",
+    "pt": "Segunda Epístola de Pedro"
+  },
+  "capitulosTotal": 3,
+  "autor": {
+    "nombre": {
+      "es": "Pedro (Apóstol)",
+      "en": "Peter (Apostle)",
+      "pt": "Pedro (Apóstolo)"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La autoría petrina es afirmada por la tradición reformada y fue aceptada en el canon del Nuevo Testamento. Críticos modernos han cuestionado esta atribución a causa de diferencias estilísticas con 1 Pedro y la posible referencia a las cartas de Pablo como 'Escritura' (2P 3:15-16). La tradición reformada y la hermenéutica conservadora mantienen la autenticidad petrina, apoyándose en las referencias autobiográficas internas (2P 1:1, 14, 16-18), en el uso de un amanuense diferente para explicar las variaciones de estilo, y en el testimonio de la iglesia primitiva.",
+      "en": "Petrine authorship is affirmed by the Reformed tradition and was accepted in the New Testament canon. Modern critics have questioned this attribution due to stylistic differences from 1 Peter and the apparent reference to Paul's letters as 'Scripture' (2Pet 3:15-16). The Reformed tradition and conservative hermeneutics maintain Petrine authenticity, supported by internal autobiographical references (2Pet 1:1, 14, 16-18), the use of a different amanuensis to explain stylistic variations, and the testimony of the early church.",
+      "pt": "A autoria petrina é afirmada pela tradição reformada e foi aceita no cânone do Novo Testamento. Críticos modernos questionaram essa atribuição devido a diferenças estilísticas com 1 Pedro e à aparente referência às cartas de Paulo como 'Escritura' (2Pe 3:15-16). A tradição reformada e a hermenêutica conservadora mantêm a autenticidade petrina, apoiando-se nas referências autobiográficas internas (2Pe 1:1, 14, 16-18), no uso de um amanuense diferente para explicar as variações estilísticas, e no testemunho da igreja primitiva."
+    }
+  },
+  "año": {
+    "desde": 64,
+    "hasta": 68,
+    "display": {
+      "es": "Fecha de escritura: ca. 64–68 d.C.",
+      "en": "Date of writing: ca. AD 64–68",
+      "pt": "Data de escrita: ca. 64–68 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Probablemente Roma, poco antes del martirio de Pedro bajo el emperador Nerón",
+    "en": "Probably Rome, shortly before Peter's martyrdom under Emperor Nero",
+    "pt": "Provavelmente Roma, pouco antes do martírio de Pedro sob o imperador Nero"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Primitivo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Roma",
+          "en": "Rome",
+          "pt": "Roma"
+        },
+        "identificacionModerna": {
+          "es": "Roma, Italia",
+          "en": "Rome, Italy",
+          "pt": "Roma, Itália"
+        },
+        "significancia": {
+          "es": "Probable lugar de composición de la carta, donde Pedro ejerció su ministerio final y fue martirizado bajo Nerón ca. 64–68 d.C. La identificación de 'Babilonia' en 1P 5:13 como nombre encubierto de Roma es estándar en la tradición reformada; si Pedro la escribió desde Roma, esta carta constituye su testamento espiritual antes de la ejecución (2P 1:13-15).",
+          "en": "Probable place of composition of the letter, where Peter exercised his final ministry and was martyred under Nero ca. AD 64–68. The identification of 'Babylon' in 1Pet 5:13 as a coded name for Rome is standard in the Reformed tradition; if Peter wrote from Rome, this letter constitutes his spiritual testament before execution (2Pet 1:13-15).",
+          "pt": "Local provável de composição da carta, onde Pedro exerceu seu ministério final e foi martirizado sob Nero ca. 64–68 d.C. A identificação de 'Babilônia' em 1Pe 5:13 como nome encoberto de Roma é padrão na tradição reformada; se Pedro a escreveu de Roma, esta carta constitui seu testamento espiritual antes da execução (2Pe 1:13-15)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Asia Menor (Ponto, Galacia, Capadocia, Asia, Bitinia)",
+          "en": "Asia Minor (Pontus, Galatia, Cappadocia, Asia, Bithynia)",
+          "pt": "Ásia Menor (Ponto, Galácia, Capadócia, Ásia, Bitínia)"
+        },
+        "identificacionModerna": {
+          "es": "Turquía moderna",
+          "en": "Modern Turkey",
+          "pt": "Turquia moderna"
+        },
+        "significancia": {
+          "es": "Región de los destinatarios a quienes Pedro dirige su segunda carta (2P 3:1, referenciando la primera), donde comunidades de creyentes judíos y gentiles enfrentaban amenazas internas de falsos maestros libertinos y la presión externa de una sociedad greco-romana que desafiaba la esperanza en la parusía de Cristo.",
+          "en": "Region of the recipients to whom Peter addresses his second letter (2Pet 3:1, referencing the first), where communities of Jewish and Gentile believers faced internal threats from libertine false teachers and external pressure from a Greco-Roman society that challenged hope in Christ's parousia.",
+          "pt": "Região dos destinatários a quem Pedro dirige sua segunda carta (2Pe 3:1, referenciando a primeira), onde comunidades de crentes judeus e gentios enfrentavam ameaças internas de falsos mestres libertinos e a pressão externa de uma sociedade greco-romana que desafiava a esperança na parusia de Cristo."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Sodoma y Gomorra",
+          "en": "Sodom and Gomorrah",
+          "pt": "Sodoma e Gomorra"
+        },
+        "identificacionModerna": {
+          "es": "Llanura al sur del Mar Muerto, posiblemente Tall el-Hammam u otros sitios de la Jordania moderna",
+          "en": "Plain south of the Dead Sea, possibly Tall el-Hammam or other sites in modern Jordan",
+          "pt": "Planície ao sul do Mar Morto, possivelmente Tall el-Hammam ou outros sítios na Jordânia moderna"
+        },
+        "significancia": {
+          "es": "Referenciadas como ejemplo paradigmático del juicio divino sobre el pecado y de la simultánea liberación del justo (2P 2:6-8). La destrucción de estas ciudades fundamenta la certeza del juicio escatológico futuro que Pedro anuncia contra los falsos maestros.",
+          "en": "Referenced as a paradigmatic example of divine judgment on sin and the simultaneous deliverance of the righteous (2Pet 2:6-8). The destruction of these cities grounds the certainty of the future eschatological judgment that Peter announces against the false teachers.",
+          "pt": "Referenciadas como exemplo paradigmático do julgamento divino sobre o pecado e da simultânea libertação do justo (2Pe 2:6-8). A destruição dessas cidades fundamenta a certeza do julgamento escatológico futuro que Pedro anuncia contra os falsos mestres."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Monte de la Transfiguración",
+          "en": "Mount of Transfiguration",
+          "pt": "Monte da Transfiguração"
+        },
+        "identificacionModerna": {
+          "es": "Posiblemente el Monte Hermón (Siria/Israel) o el Monte Tabor (Israel)",
+          "en": "Possibly Mount Hermon (Syria/Israel) or Mount Tabor (Israel)",
+          "pt": "Possivelmente o Monte Hermom (Síria/Israel) ou o Monte Tabor (Israel)"
+        },
+        "significancia": {
+          "es": "Pedro invoca su presencia como testigo ocular de la glorificación de Cristo en la transfiguración (2P 1:16-18) para contrarrestar a los que niegan la venida gloriosa del Señor. El evento histórico fundamenta la esperanza escatológica.",
+          "en": "Peter invokes his presence as an eyewitness of Christ's glorification at the transfiguration (2Pet 1:16-18) to counter those who deny the glorious coming of the Lord. The historical event grounds eschatological hope.",
+          "pt": "Pedro invoca sua presença como testemunha ocular da glorificação de Cristo na transfiguração (2Pe 1:16-18) para contrariar os que negam a vinda gloriosa do Senhor. O evento histórico fundamenta a esperança escatológica."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano bajo Nerón",
+          "en": "Roman Empire under Nero",
+          "pt": "Império Romano sob Nero"
+        },
+        "rolEnElTexto": {
+          "es": "Contexto político que enmarca la composición de la carta. La persecución de Nerón (64–68 d.C.), que incluyó el incendio de Roma y la culpabilización de los cristianos, amenazaba a las comunidades receptoras. Pedro escribe con urgencia testamentaria, consciente de que su martirio es inminente (2P 1:14).",
+          "en": "Political context framing the composition of the letter. Nero's persecution (AD 64–68), which included the burning of Rome and the blaming of Christians, threatened the recipient communities. Peter writes with testamentary urgency, aware that his martyrdom is imminent (2Pet 1:14).",
+          "pt": "Contexto político que enquadra a composição da carta. A perseguição de Nero (64–68 d.C.), que incluiu o incêndio de Roma e a culpabilização dos cristãos, ameaçava as comunidades destinatárias. Pedro escreve com urgência testamentária, consciente de que seu martírio é iminente (2Pe 1:14)."
+        },
+        "estadoArqueologico": {
+          "es": "Las persecuciones neronianas están bien documentadas en fuentes literarias romanas (Tácito, Anales XV.44; Suetonio, Vida de Nerón 16). La arqueología de las catacumbas romanas corrobora la presencia y el martirio de cristianos durante este período.",
+          "en": "The Neronian persecutions are well documented in Roman literary sources (Tacitus, Annals XV.44; Suetonius, Life of Nero 16). The archaeology of the Roman catacombs corroborates the presence and martyrdom of Christians during this period.",
+          "pt": "As perseguições neronianas estão bem documentadas em fontes literárias romanas (Tácito, Anais XV.44; Suetônio, Vida de Nero 16). A arqueologia das catacumbas romanas corrobora a presença e o martírio de cristãos durante este período."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidades Judeo-Helenísticas de la Diáspora",
+          "en": "Hellenistic Jewish Diaspora Communities",
+          "pt": "Comunidades Judaico-Helenísticas da Diáspora"
+        },
+        "rolEnElTexto": {
+          "es": "El uso extenso de figuras del Antiguo Testamento (Noé, Lot, Balaam, ángeles caídos) refleja un trasfondo de lectores familiarizados con la tradición escritural judía, la apocalíptica del Segundo Templo y el midrás. Los falsos maestros del capítulo 2 operan probablemente dentro de un contexto judeo-cristiano.",
+          "en": "The extensive use of Old Testament figures (Noah, Lot, Balaam, fallen angels) reflects a readership familiar with the Jewish scriptural tradition, Second Temple apocalypticism, and midrash. The false teachers of chapter 2 probably operate within a Jewish-Christian context.",
+          "pt": "O uso extenso de figuras do Antigo Testamento (Noé, Ló, Balaão, anjos caídos) reflete leitores familiarizados com a tradição escritural judaica, a apocalíptica do Segundo Templo e o midraxe. Os falsos mestres do capítulo 2 provavelmente operam dentro de um contexto judaico-cristão."
+        },
+        "estadoArqueologico": {
+          "es": "La presencia de comunidades judías en Asia Menor y Roma está ampliamente atestiguada por evidencia epigráfica, sinagogal y literaria (Josefo, Filón). Excavaciones en ciudades como Sardis y Mileto han revelado grandes sinagogas del período neotestamentario.",
+          "en": "The presence of Jewish communities in Asia Minor and Rome is widely attested by epigraphic, synagogue, and literary evidence (Josephus, Philo). Excavations in cities such as Sardis and Miletus have revealed large synagogues from the New Testament period.",
+          "pt": "A presença de comunidades judaicas na Ásia Menor e em Roma é amplamente atestada por evidências epigráficas, sinagogais e literárias (Josefo, Fílon). Escavações em cidades como Sardes e Mileto revelaram grandes sinagogas do período neotestamentário."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Movimientos Proto-Gnósticos y Libertinos",
+          "en": "Proto-Gnostic and Libertine Movements",
+          "pt": "Movimentos Proto-Gnósticos e Libertinos"
+        },
+        "rolEnElTexto": {
+          "es": "Los falsos maestros de 2P 2 niegan al Señor que los redimió (2P 2:1), prometen libertad mientras son esclavos de la corrupción (2P 2:19) y desprecian la autoridad angélica. Estos rasgos apuntan a un antinomismo libertino naciente, precursor de movimientos gnósticos del siglo II que usaban la gracia como licencia moral.",
+          "en": "The false teachers of 2Pet 2 deny the Master who bought them (2Pet 2:1), promise freedom while being slaves to corruption (2Pet 2:19), and despise angelic authority. These traits point to an emerging libertine antinomianism, precursor to second-century gnostic movements that used grace as a moral license.",
+          "pt": "Os falsos mestres de 2Pe 2 negam o Senhor que os redimiu (2Pe 2:1), prometem liberdade enquanto são escravos da corrupção (2Pe 2:19) e desprezam a autoridade angelical. Esses traços apontam para um antinomismo libertino nascente, precursor de movimentos gnósticos do século II que usavam a graça como licença moral."
+        },
+        "estadoArqueologico": {
+          "es": "Textos de Nag Hammadi (siglo IV d.C. como copias) y escritos heresiológicos de Ireneo de Lyon (ca. 180 d.C.) atestiguan movimientos libertinos gnósticos. La evidencia interna de 2 Pedro indica que el problema ya existía en el siglo I, aunque en fase incipiente.",
+          "en": "Nag Hammadi texts (4th century AD as copies) and heresiological writings of Irenaeus of Lyons (ca. AD 180) attest to libertine gnostic movements. The internal evidence of 2 Peter indicates that the problem already existed in the first century, though in an incipient phase.",
+          "pt": "Textos de Nag Hammadi (século IV d.C. como cópias) e escritos heresiológicos de Irineu de Lião (ca. 180 d.C.) atestam movimentos gnósticos libertinos. A evidência interna de 2 Pedro indica que o problema já existia no século I, embora em fase incipiente."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Como carta, 2 Pedro no documenta eventos arqueológicamente verificables de manera directa. Sin embargo, el contexto arqueológico ilumina su composición: (1) El papiro P72 (Bodmer VIII, ca. siglos III-IV d.C.) es el testimonio manuscrito más antiguo de 2 Pedro y confirma su transmisión textual temprana; (2) las catacumbas de Roma y las inscripciones paleocristianas corroboran la comunidad cristiana que Pedro pastoreaba en la capital imperial; (3) la inscripción aramea de Deir Alla (s. IX a.C.) menciona a 'Balaam hijo de Beor' como vidente, confirmando la historicidad del personaje referenciado en 2P 2:15-16; (4) excavaciones en Qumrán y los rollos del Mar Muerto iluminan la apocalíptica judía del Segundo Templo, especialmente el motivo del castigo de los ángeles caídos (cf. 2P 2:4; 1 Enoc 6–19; Libro de los Vigilantes) y la esperanza en una renovación cósmica (2P 3:13).",
+      "en": "As a letter, 2 Peter does not directly document archaeologically verifiable events. However, the archaeological context illuminates its composition: (1) Papyrus P72 (Bodmer VIII, ca. 3rd–4th centuries AD) is the oldest manuscript witness to 2 Peter and confirms its early textual transmission; (2) the Roman catacombs and paleochristian inscriptions corroborate the Christian community Peter pastored in the imperial capital; (3) the Aramaic Deir Alla inscription (9th century BC) mentions 'Balaam son of Beor' as a seer, confirming the historicity of the figure referenced in 2Pet 2:15-16; (4) excavations at Qumran and the Dead Sea Scrolls illuminate the Second Temple Jewish apocalyptic, especially the motif of fallen angel punishment (cf. 2Pet 2:4; 1 Enoch 6–19; Book of Watchers) and the hope for cosmic renewal (2Pet 3:13).",
+      "pt": "Como carta, 2 Pedro não documenta diretamente eventos arqueologicamente verificáveis. Contudo, o contexto arqueológico ilumina sua composição: (1) O papiro P72 (Bodmer VIII, ca. séc. III-IV d.C.) é o testemunho manuscrito mais antigo de 2 Pedro e confirma sua transmissão textual primitiva; (2) as catacumbas de Roma e as inscrições paleocristãs corroboram a comunidade cristã que Pedro pastoreava na capital imperial; (3) a inscrição aramaica de Deir Alla (séc. IX a.C.) menciona 'Balaão filho de Beor' como vidente, confirmando a historicidade do personagem referenciado em 2Pe 2:15-16; (4) escavações em Qumrã e os Manuscritos do Mar Morto iluminam a apocalíptica judaica do Segundo Templo, especialmente o motivo do castigo dos anjos caídos (cf. 2Pe 2:4; 1 Enoque 6–19; Livro dos Vigilantes) e a esperança de renovação cósmica (2Pe 3:13)."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Anales (Tácito)",
+          "en": "Annals (Tacitus)",
+          "pt": "Anais (Tácito)"
+        },
+        "origen": {
+          "es": "Roma, ca. 109–120 d.C.; historiografía imperial romana",
+          "en": "Rome, ca. AD 109–120; Roman imperial historiography",
+          "pt": "Roma, ca. 109–120 d.C.; historiografia imperial romana"
+        },
+        "relevancia": {
+          "es": "Documenta la persecución neroniana contra los cristianos en Roma (Annales XV.44), confirmando el clima de hostilidad en que Pedro escribió su testamento espiritual y proveyendo evidencia independiente sobre el martirio de creyentes en la capital del Imperio.",
+          "en": "Documents Nero's persecution of Christians in Rome (Annales XV.44), confirming the climate of hostility in which Peter wrote his spiritual testament and providing independent evidence of the martyrdom of believers in the capital of the Empire.",
+          "pt": "Documenta a perseguição neroniana contra os cristãos em Roma (Annales XV.44), confirmando o clima de hostilidade em que Pedro escreveu seu testamento espiritual e fornecendo evidência independente sobre o martírio de crentes na capital do Império."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Antigüedades Judías (Josefo)",
+          "en": "Jewish Antiquities (Josephus)",
+          "pt": "Antiguidades Judaicas (Josefo)"
+        },
+        "origen": {
+          "es": "Roma, ca. 93–94 d.C.; historia judeo-helenística",
+          "en": "Rome, ca. AD 93–94; Jewish-Hellenistic history",
+          "pt": "Roma, ca. 93–94 d.C.; história judaico-helenística"
+        },
+        "relevancia": {
+          "es": "Proporciona información sobre el trasfondo histórico de Balaam como falso profeta en la tradición judía (Antigüedades IV.6.2-13) y sobre el juicio de Sodoma y Gomorra (Antigüedades I.11), paralelizando los exempla de juicio divino que Pedro emplea en 2P 2.",
+          "en": "Provides information on the historical background of Balaam as a false prophet in Jewish tradition (Antiquities IV.6.2-13) and on the judgment of Sodom and Gomorrah (Antiquities I.11), paralleling the exempla of divine judgment that Peter employs in 2Pet 2.",
+          "pt": "Fornece informações sobre o contexto histórico de Balaão como falso profeta na tradição judaica (Antiguidades IV.6.2-13) e sobre o julgamento de Sodoma e Gomorra (Antiguidades I.11), paralelizando os exempla de julgamento divino que Pedro emprega em 2Pe 2."
+        }
+      },
+      {
+        "nombre": {
+          "es": "1 Enoc (Libro de los Vigilantes)",
+          "en": "1 Enoch (Book of the Watchers)",
+          "pt": "1 Enoque (Livro dos Vigilantes)"
+        },
+        "origen": {
+          "es": "Tradición judía del Segundo Templo, ca. siglos III–I a.C.; literatura apocalíptica judía",
+          "en": "Second Temple Jewish tradition, ca. 3rd–1st centuries BC; Jewish apocalyptic literature",
+          "pt": "Tradição judaica do Segundo Templo, ca. séc. III–I a.C.; literatura apocalíptica judaica"
+        },
+        "relevancia": {
+          "es": "Ofrece el trasfondo de la referencia a los ángeles que pecaron y fueron arrojados al Tártaro (2P 2:4). Pedro no cita 1 Enoc como Escritura canónica, pero comparte el universo conceptual de su audiencia respecto al juicio angelical, usando ese marco para fundamentar la certeza del juicio escatológico.",
+          "en": "Provides the background for the reference to the angels who sinned and were cast into Tartarus (2Pet 2:4). Peter does not cite 1 Enoch as canonical Scripture, but shares the conceptual universe of his audience regarding angelic judgment, using that framework to ground the certainty of eschatological judgment.",
+          "pt": "Oferece o contexto da referência aos anjos que pecaram e foram lançados no Tártaro (2Pe 2:4). Pedro não cita 1 Enoque como Escritura canônica, mas compartilha o universo conceitual de sua audiência quanto ao julgamento angelical, usando esse quadro para fundamentar a certeza do julgamento escatológico."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia histórica es la autoría de 2 Pedro. Críticos histórico-críticos (Käsemann, Neyrey, y en alguna medida Bauckham) argumentan que se trata de una pseudepigrafía del período subapostólico (ca. 100–125 d.C.), basándose en: (1) diferencias marcadas de vocabulario y estilo respecto a 1 Pedro; (2) el aparente reconocimiento de las cartas de Pablo como 'Escritura' (2P 3:15-16), que sugeriría un corpus paulino ya formalizado; (3) características de las herejías combatidas que parecen propias del siglo II; (4) la aceptación canónica tardía —Eusebio la listaba entre los 'disputados' (antilegomena). La tradición reformada responde que: (1) Pedro pudo usar un amanuense distinto para esta carta, explicando las variaciones estilísticas; (2) la referencia a las cartas de Pablo no implica un canon formal, sino un reconocimiento informal ya presente en la década del 60 d.C.; (3) el proto-gnosticismo libertino existía en el primer siglo (cf. 1Co, Gá, 1Jn); (4) la aceptación canónica tardía refleja dudas sobre la autoría que no implican inautenticidad. La WCF respalda la canonicidad y autenticidad de 2 Pedro.",
+      "en": "The main historical controversy is the authorship of 2 Peter. Historical-critical scholars (Käsemann, Neyrey, and in some degree Bauckham) argue it is a subapostolic pseudepigraphy (ca. AD 100–125), based on: (1) marked differences in vocabulary and style from 1 Peter; (2) the apparent recognition of Paul's letters as 'Scripture' (2Pet 3:15-16), suggesting an already formalized Pauline corpus; (3) characteristics of the heresies combated that seem proper to the second century; (4) late canonical acceptance — Eusebius listed it among the 'disputed' (antilegomena). The Reformed tradition responds: (1) Peter may have used a different amanuensis for this letter, explaining the stylistic variations; (2) the reference to Paul's letters does not imply a formal canon but an informal recognition already present in the AD 60s; (3) libertine proto-gnosticism existed in the first century (cf. 1Cor, Gal, 1John); (4) late canonical acceptance reflects doubts about authorship that do not imply inauthenticity. The WCF supports the canonicity and authenticity of 2 Peter.",
+      "pt": "A principal controvérsia histórica é a autoria de 2 Pedro. Estudiosos histórico-críticos (Käsemann, Neyrey e, em certa medida, Bauckham) argumentam que é uma pseudepigrafia do período subapostólico (ca. 100–125 d.C.), baseando-se em: (1) diferenças marcadas de vocabulário e estilo em relação a 1 Pedro; (2) o aparente reconhecimento das cartas de Paulo como 'Escritura' (2Pe 3:15-16), sugerindo um corpus paulino já formalizado; (3) características das heresias combatidas que parecem próprias do século II; (4) aceitação canônica tardia — Eusébio a listava entre os 'disputados' (antilegomena). A tradição reformada responde: (1) Pedro pode ter usado um amanuense diferente para esta carta, explicando as variações estilísticas; (2) a referência às cartas de Paulo não implica um cânone formal, mas um reconhecimento informal já presente na década de 60 d.C.; (3) o proto-gnosticismo libertino existia no século I (cf. 1Co, Gl, 1Jo); (4) a aceitação canônica tardia reflete dúvidas sobre a autoria que não implicam inautenticidade. A WCF apoia a canonicidade e autenticidade de 2 Pedro."
+    },
+    "cronologiaInterna": {
+      "es": "El propio texto sitúa la redacción en los últimos días de la vida de Pedro: él anticipa que 'pronto deberá abandonar este tabernáculo de su cuerpo' (2P 1:14), aludiendo a la predicción de su muerte que el Señor le había comunicado (Jn 21:18-19). Pedro menciona haber escrito una carta anterior a los mismos destinatarios (2P 3:1), identificada por la tradición con 1 Pedro. También hace referencia al conocimiento de las cartas de Pablo (2P 3:15-16). El horizonte escatológico de la carta —la inminencia del Día del Señor— y su tono testamentario apuntan a una composición en los años finales de Pedro, ca. 64–68 d.C.",
+      "en": "The text itself places the writing in the final days of Peter's life: he anticipates that 'the putting off of my body will be soon' (2Pet 1:14), alluding to the prediction of his death that the Lord had communicated to him (John 21:18-19). Peter mentions having written a previous letter to the same recipients (2Pet 3:1), identified by tradition with 1 Peter. He also references his knowledge of Paul's letters (2Pet 3:15-16). The eschatological horizon of the letter — the imminence of the Day of the Lord — and its testamentary tone point to a composition in Peter's final years, ca. AD 64–68.",
+      "pt": "O próprio texto situa a redação nos dias finais da vida de Pedro: ele antecipa que 'em breve devo deixar este tabernáculo do meu corpo' (2Pe 1:14), aludindo à predição de sua morte que o Senhor lhe havia comunicado (Jo 21:18-19). Pedro menciona ter escrito uma carta anterior aos mesmos destinatários (2Pe 3:1), identificada pela tradição com 1 Pedro. Também referencia o conhecimento das cartas de Paulo (2Pe 3:15-16). O horizonte escatológico da carta — a iminência do Dia do Senhor — e seu tom testamentário apontam para uma composição nos anos finais de Pedro, ca. 64–68 d.C."
+    }
+  },
+  "ordenEnDivision": 4,
+  "ordenCanon": 61,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "En 2 Pedro, Cristo es presentado con el título teológicamente cargado de 'nuestro Dios y Salvador Jesucristo' (2P 1:1), uniendo su deidad y su función sotérica en un solo sintagma. La transfiguración es invocada como evidencia histórica ocular de la gloria divina del Señor (2P 1:16-18), base objetiva sobre la que descansa toda esperanza escatológica. Pedro fundamenta la certeza de la parusía no en mitos sino en el testimonio apostólico de la majestad divina ya revelada en Cristo (2P 1:16). La exhortación final a 'crecer en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo' (2P 3:18) sitúa a Cristo como el contenido mismo del crecimiento cristiano y el objeto de la doxología eterna. Desde el marco de la teología bíblica de Vos, 2 Pedro ancla la escatología en la revelación históricamente cumplida en Cristo: el mismo Señor que fue transfigurado es quien ha prometido el Día del Señor.",
+      "en": "In 2 Peter, Christ is presented with the theologically charged title 'our God and Savior Jesus Christ' (2Pet 1:1), uniting his deity and salvific function in a single phrase. The transfiguration is invoked as historical, eyewitness evidence of the Lord's divine glory (2Pet 1:16-18), the objective basis on which all eschatological hope rests. Peter grounds the certainty of the parousia not in myths but in the apostolic testimony of divine majesty already revealed in Christ (2Pet 1:16). The final exhortation to 'grow in the grace and knowledge of our Lord and Savior Jesus Christ' (2Pet 3:18) places Christ as the very content of Christian growth and the object of eternal doxology. From Vos's biblical-theological framework, 2 Peter anchors eschatology in the historically accomplished revelation in Christ: the same Lord who was transfigured is the one who has promised the Day of the Lord.",
+      "pt": "Em 2 Pedro, Cristo é apresentado com o título teologicamente carregado de 'nosso Deus e Salvador Jesus Cristo' (2Pe 1:1), unindo sua deidade e função sotérica em uma única expressão. A transfiguração é invocada como evidência histórica e ocular da glória divina do Senhor (2Pe 1:16-18), base objetiva sobre a qual repousa toda esperança escatológica. Pedro fundamenta a certeza da parusia não em mitos, mas no testemunho apostólico da majestade divina já revelada em Cristo (2Pe 1:16). A exortação final a 'crescer na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo' (2Pe 3:18) situa Cristo como o próprio conteúdo do crescimento cristão e o objeto da doxologia eterna. No quadro da teologia bíblica de Vos, 2 Pedro ancora a escatologia na revelação historicamente cumprida em Cristo: o mesmo Senhor que foi transfigurado é quem prometeu o Dia do Senhor."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Noé como tipo del creyente preservado por gracia en medio del juicio universal: así como Dios reservó a Noé —'pregonero de justicia'— mientras destruía el mundo impío por el diluvio (2P 2:5), así preservará a su pueblo elegido en el juicio escatológico por fuego.",
+        "en": "Noah as a type of the believer preserved by grace amid universal judgment: just as God spared Noah — 'a herald of righteousness' — while destroying the ungodly world through the flood (2Pet 2:5), so he will preserve his elect in the eschatological judgment by fire.",
+        "pt": "Noé como tipo do crente preservado pela graça em meio ao julgamento universal: assim como Deus preservou Noé — 'pregador de justiça' — enquanto destruía o mundo ímpio pelo dilúvio (2Pe 2:5), assim preservará seu povo eleito no julgamento escatológico pelo fogo."
+      },
+      {
+        "es": "Lot como tipo del justo que es rescatado de entre los perversos: Dios libró a Lot de Sodoma (2P 2:7-8), prefigurando la fidelidad divina en librar a los suyos de la destrucción final, aun cuando habitan en medio del pecado del mundo presente.",
+        "en": "Lot as a type of the righteous man rescued from among the wicked: God delivered Lot from Sodom (2Pet 2:7-8), prefiguring divine faithfulness in delivering his own from the final destruction, even as they dwell in the midst of the sin of the present world.",
+        "pt": "Ló como tipo do justo resgatado de entre os perversos: Deus livrou Ló de Sodoma (2Pe 2:7-8), prefigurando a fidelidade divina em libertar os seus da destruição final, mesmo habitando em meio ao pecado do mundo presente."
+      },
+      {
+        "es": "El diluvio como tipo del juicio escatológico por fuego: así como los cielos y la tierra antiguos fueron destruidos por el diluvio (2P 3:6), los cielos y la tierra actuales están reservados para el fuego del Día del Señor (2P 3:7), dando paso a los nuevos cielos y la nueva tierra donde mora la justicia (2P 3:13; cf. Is 65:17; Is 66:22).",
+        "en": "The flood as a type of the eschatological judgment by fire: just as the ancient heavens and earth were destroyed by the flood (2Pet 3:6), the present heavens and earth are reserved for the fire of the Day of the Lord (2Pet 3:7), giving way to the new heavens and new earth in which righteousness dwells (2Pet 3:13; cf. Isa 65:17; Isa 66:22).",
+        "pt": "O dilúvio como tipo do julgamento escatológico pelo fogo: assim como os céus e a terra antigos foram destruídos pelo dilúvio (2Pe 3:6), os céus e a terra atuais estão reservados para o fogo do Dia do Senhor (2Pe 3:7), dando lugar aos novos céus e à nova terra onde habita a justiça (2Pe 3:13; cf. Is 65:17; Is 66:22)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "2 Pedro es la única carta canónica que afirma en términos explícitos e inequívocos la inspiración divina de toda profecía escritural: 'hombres inspirados por el Espíritu Santo hablaron de parte de Dios' (2P 1:21), constituyendo el texto clásico de la doctrina reformada de la inspiración. Simultáneamente, es el único libro del NT que reconoce explícitamente las cartas de un apóstol hermano —Pablo— como 'Escritura' (2P 3:15-16), trazando el horizonte del canon neotestamentario desde adentro del propio canon. Ofrece además la descripción más detallada del NT sobre la destrucción cósmica escatológica (2P 3:10-12) y la única mención canónica de 'nuevos cielos y nueva tierra' fuera de Is 65:17; Is 66:22 y Ap 21:1. Su aportación singular es tejer en un único testamento apostólico la doctrina de la Escritura, la ética del conocimiento (épignōsis), la advertencia apologética contra el falso maestro y la esperanza escatológica de la nueva creación.",
+    "en": "2 Peter is the only canonical letter that explicitly and unequivocally affirms the divine inspiration of all scriptural prophecy: 'men spoke from God as they were carried along by the Holy Spirit' (2Pet 1:21), constituting the classic text of the Reformed doctrine of inspiration. Simultaneously, it is the only book of the NT that explicitly recognizes the letters of a fellow apostle — Paul — as 'Scripture' (2Pet 3:15-16), tracing the horizon of the New Testament canon from within the canon itself. It also provides the most detailed NT description of eschatological cosmic destruction (2Pet 3:10-12) and the only canonical mention of 'new heavens and new earth' outside of Isa 65:17; Isa 66:22; and Rev 21:1. Its singular contribution is weaving into a single apostolic testament the doctrine of Scripture, the ethics of knowledge (epignōsis), apologetic warning against the false teacher, and the eschatological hope of new creation.",
+    "pt": "2 Pedro é a única carta canônica que afirma em termos explícitos e inequívocos a inspiração divina de toda profecia escritural: 'homens santos de Deus falaram inspirados pelo Espírito Santo' (2Pe 1:21), constituindo o texto clássico da doutrina reformada da inspiração. Simultaneamente, é o único livro do NT que reconhece explicitamente as cartas de um apóstolo irmão — Paulo — como 'Escritura' (2Pe 3:15-16), traçando o horizonte do cânone neotestamentário de dentro do próprio cânone. Oferece também a descrição mais detalhada do NT sobre a destruição cósmica escatológica (2Pe 3:10-12) e a única menção canônica de 'novos céus e nova terra' fora de Is 65:17; Is 66:22 e Ap 21:1. Sua contribuição singular é entrelaçar em um único testamento apostólico a doutrina da Escritura, a ética do conhecimento (épignōsis), a advertência apologética contra o falso mestre e a esperança escatológica da nova criação."
+  },
+  "genero": {
+    "es": "Epístola general de testamento apostólico",
+    "en": "General epistle of apostolic testament",
+    "pt": "Epístola geral de testamento apostólico"
+  },
+  "palabraClave": {
+    "es": [
+      "conocimiento",
+      "falsos maestros",
+      "parusía",
+      "santidad"
+    ],
+    "en": [
+      "knowledge",
+      "false teachers",
+      "parousia",
+      "holiness"
+    ],
+    "pt": [
+      "conhecimento",
+      "falsos mestres",
+      "parusia",
+      "santidade"
+    ]
+  },
+  "destinatario": {
+    "es": "Los mismos destinatarios de la primera carta de Pedro (2P 3:1), es decir, los creyentes —tanto judíos como gentiles— dispersos por el Ponto, Galacia, Capadocia, Asia y Bitinia (cf. 1P 1:1), que enfrentan la infiltración de falsos maestros que niegan la parusía de Cristo, practican el libertinaje moral y corroen la fe apostólica desde adentro de las comunidades",
+    "en": "The same recipients of Peter's first letter (2Pet 3:1), namely, believers — both Jewish and Gentile — scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia (cf. 1Pet 1:1), who face the infiltration of false teachers who deny Christ's parousia, practice moral licentiousness, and erode the apostolic faith from within their communities",
+    "pt": "Os mesmos destinatários da primeira carta de Pedro (2Pe 3:1), isto é, os crentes — tanto judeus como gentios — dispersos pelo Ponto, Galácia, Capadócia, Ásia e Bitínia (cf. 1Pe 1:1), que enfrentam a infiltração de falsos mestres que negam a parusia de Cristo, praticam o libertinismo moral e corroem a fé apostólica de dentro das comunidades"
+  },
+  "proposito": {
+    "es": "Propósito histórico: Pedro, consciente de su muerte inminente, escribe para dejar un recordatorio permanente a los creyentes sobre las verdades fundamentales del evangelio, de modo que las tengan siempre a mano después de su partida (2P 1:12-15). Propósito teológico: (1) Llamar a los creyentes a afianzarse en el verdadero conocimiento de Cristo (épignōsis) mediante el crecimiento en virtud (2P 1:3-11); (2) advertir enérgicamente contra los falsos maestros que niegan al Señor y seducen a los inestables con promesas de libertad libertina (2P 2:1-22); (3) defender la certeza de la parusía de Cristo frente a los escépticos que la niegan con el argumento de la uniformidad del pasado, respondiendo con la soberanía de Dios sobre el tiempo y la creación (2P 3:1-16).",
+    "en": "Historical purpose: Peter, aware of his imminent death, writes to leave a permanent reminder to believers of the foundational truths of the gospel, so that they always have them at hand after his departure (2Pet 1:12-15). Theological purpose: (1) To call believers to be grounded in the true knowledge of Christ (epignōsis) through growth in virtue (2Pet 1:3-11); (2) to warn vigorously against false teachers who deny the Lord and seduce the unstable with promises of libertine freedom (2Pet 2:1-22); (3) to defend the certainty of Christ's parousia against skeptics who deny it with the argument of past uniformity, responding with God's sovereignty over time and creation (2Pet 3:1-16).",
+    "pt": "Propósito histórico: Pedro, consciente de sua morte iminente, escreve para deixar um lembrete permanente aos crentes sobre as verdades fundamentais do evangelho, de modo que as tenham sempre à mão após sua partida (2Pe 1:12-15). Propósito teológico: (1) Chamar os crentes a se firmarem no verdadeiro conhecimento de Cristo (épignōsis) mediante o crescimento em virtude (2Pe 1:3-11); (2) advertir energicamente contra os falsos mestres que negam o Senhor e seduzem os instáveis com promessas de liberdade libertina (2Pe 2:1-22); (3) defender a certeza da parusia de Cristo frente aos céticos que a negam com o argumento da uniformidade do passado, respondendo com a soberania de Deus sobre o tempo e a criação (2Pe 3:1-16)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Simón Pedro",
+        "en": "Simon Peter",
+        "pt": "Simão Pedro"
+      },
+      "hebreo": "Σίμων Πέτρος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo (2P 1:1), autor de la carta y testigo ocular de la gloria divina de Cristo en la transfiguración (2P 1:16-18). Escribe consciente de su muerte inminente para dejar un testamento espiritual a los creyentes.",
+        "en": "Apostle of Jesus Christ (2Pet 1:1), author of the letter and eyewitness of Christ's divine glory at the transfiguration (2Pet 1:16-18). He writes aware of his imminent death to leave a spiritual testament to believers.",
+        "pt": "Apóstolo de Jesus Cristo (2Pe 1:1), autor da carta e testemunha ocular da glória divina de Cristo na transfiguração (2Pe 1:16-18). Escreve consciente de sua morte iminente para deixar um testamento espiritual aos crentes."
+      },
+      "acciones": {
+        "es": "Exhorta a los creyentes a crecer en virtud y conocimiento (2P 1:3-11); defiende la certeza de la parusía apelando a su testimonio ocular (2P 1:16-18); condena a los falsos maestros con exempla del AT (2P 2:1-22); enseña sobre la soberanía de Dios sobre el tiempo y la creación nueva (2P 3:1-13); exhorta a la santidad y el crecimiento en la gracia de Cristo (2P 3:14-18).",
+        "en": "He exhorts believers to grow in virtue and knowledge (2Pet 1:3-11); defends the certainty of the parousia by appealing to his eyewitness testimony (2Pet 1:16-18); condemns the false teachers with OT exempla (2Pet 2:1-22); teaches on God's sovereignty over time and new creation (2Pet 3:1-13); exhorts to holiness and growth in the grace of Christ (2Pet 3:14-18).",
+        "pt": "Exorta os crentes a crescerem em virtude e conhecimento (2Pe 1:3-11); defende a certeza da parusia apelando ao seu testemunho ocular (2Pe 1:16-18); condena os falsos mestres com exempla do AT (2Pe 2:1-22); ensina sobre a soberania de Deus sobre o tempo e a nova criação (2Pe 3:1-13); exorta à santidade e ao crescimento na graça de Cristo (2Pe 3:14-18)."
+      },
+      "significadoTeologico": {
+        "es": "Pedro representa la autoridad apostólica que fundamenta la iglesia en la revelación histórica ya recibida: el evangelio no es mito sino testimonio ocular (2P 1:16). Su testamento espiritual encarna la responsabilidad de transmitir la fe íntegra a la siguiente generación, vinculando la escatología con la ética (el que espera la nueva creación debe vivir en santidad, 2P 3:11-14).",
+        "en": "Peter represents the apostolic authority that grounds the church in the historical revelation already received: the gospel is not myth but eyewitness testimony (2Pet 1:16). His spiritual testament embodies the responsibility to transmit the faith intact to the next generation, linking eschatology with ethics (the one who awaits the new creation must live in holiness, 2Pet 3:11-14).",
+        "pt": "Pedro representa a autoridade apostólica que fundamenta a igreja na revelação histórica já recebida: o evangelho não é mito, mas testemunho ocular (2Pe 1:16). Seu testamento espiritual encarna a responsabilidade de transmitir a fé íntegra à próxima geração, vinculando a escatologia com a ética (quem espera a nova criação deve viver em santidade, 2Pe 3:11-14)."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico en sentido estricto; es el autor inspirado que transmite la revelación ya cumplida en Cristo.",
+        "en": "Does not function as a christological type in the strict sense; he is the inspired author who transmits the revelation already accomplished in Christ.",
+        "pt": "Não funciona como tipo cristológico em sentido estrito; é o autor inspirado que transmite a revelação já cumprida em Cristo."
+      },
+      "caracterMoral": {
+        "es": "Humilde testigo de la gloria divina, urgido por el amor a sus lectores y por la certeza de su propio fin inminente. Muestra valentía profética al confrontar los falsos maestros sin ambigüedad y al defender verdades impopulares sobre el juicio escatológico.",
+        "en": "Humble witness of divine glory, prompted by love for his readers and by the certainty of his own imminent end. Shows prophetic courage in confronting false teachers without ambiguity and in defending unpopular truths about eschatological judgment.",
+        "pt": "Humilde testemunha da glória divina, movido pelo amor aos seus leitores e pela certeza de seu próprio fim iminente. Demonstra coragem profética ao confrontar os falsos mestres sem ambiguidade e ao defender verdades impopulares sobre o julgamento escatológico."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Simón, hijo de Jonás (Mt 16:17), fue llamado por Jesús junto al mar de Galilea (Mt 4:18-19), reconoció a Cristo como el Hijo de Dios vivo (Mt 16:16) y fue renombrado Pedro (Cefas). Presenció la transfiguración (Mt 17:1-8), negó a Cristo tres veces (Mt 26:69-75) y fue restaurado por el Señor resucitado (Jn 21:15-19). Predicó en Pentecostés (Hch 2:14-41), fue líder de la iglesia de Jerusalén (Gá 1:18; Gá 2:9) y extendió su ministerio a las iglesias gentiles. En 2 Pedro escribe como anciano en las postrimerías de su vida, anticipando su martirio (2P 1:14).",
+          "en": "Simon, son of Jonah (Matt 16:17), was called by Jesus by the Sea of Galilee (Matt 4:18-19), recognized Christ as the Son of the living God (Matt 16:16), and was renamed Peter (Cephas). He witnessed the transfiguration (Matt 17:1-8), denied Christ three times (Matt 26:69-75), and was restored by the risen Lord (John 21:15-19). He preached at Pentecost (Acts 2:14-41), was a leader of the Jerusalem church (Gal 1:18; Gal 2:9), and extended his ministry to Gentile churches. In 2 Peter he writes as an elder in the twilight of his life, anticipating his martyrdom (2Pet 1:14).",
+          "pt": "Simão, filho de Jonas (Mt 16:17), foi chamado por Jesus à beira do mar da Galileia (Mt 4:18-19), reconheceu Cristo como o Filho do Deus vivo (Mt 16:16) e foi renomeado Pedro (Cefas). Testemunhou a transfiguração (Mt 17:1-8), negou Cristo três vezes (Mt 26:69-75) e foi restaurado pelo Senhor ressurreto (Jo 21:15-19). Pregou no Pentecostes (At 2:14-41), foi líder da igreja de Jerusalém (Gl 1:18; Gl 2:9) e estendeu seu ministério às igrejas gentílicas. Em 2 Pedro escreve como ancião nos últimos anos de sua vida, antecipando seu martírio (2Pe 1:14)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2P 1:1",
+          "2P 1:14",
+          "2P 1:16",
+          "2P 1:17",
+          "2P 3:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Simón Pedro es una de las figuras del Nuevo Testamento mejor atestiguadas externamente. Josefo no lo menciona por nombre, pero las comunidades cristianas en Roma están bien documentadas en fuentes paganas desde Tácito (Anales XV.44). Clemente de Roma (ca. 95 d.C.) y el Fragmento de Muratori (ca. 180 d.C.) atestiguan el martirio de Pedro en Roma. La tradición de Pedro como primer obispo de Roma, aunque debatida en su forma posterior, descansa sobre una memoria histórica sólida de su muerte en la capital imperial.",
+          "en": "Simon Peter is one of the best externally attested figures of the New Testament. Josephus does not mention him by name, but Christian communities in Rome are well documented in pagan sources from Tacitus (Annals XV.44). Clement of Rome (ca. AD 95) and the Muratorian Fragment (ca. AD 180) attest to Peter's martyrdom in Rome. The tradition of Peter as the first bishop of Rome, though debated in its later form, rests on a solid historical memory of his death in the imperial capital.",
+          "pt": "Simão Pedro é uma das figuras do Novo Testamento mais bem atestadas externamente. Josefo não o menciona por nome, mas as comunidades cristãs em Roma estão bem documentadas em fontes pagãs desde Tácito (Anais XV.44). Clemente de Roma (ca. 95 d.C.) e o Fragmento de Muratori (ca. 180 d.C.) atestam o martírio de Pedro em Roma. A tradição de Pedro como primeiro bispo de Roma, embora debatida em sua forma posterior, repousa sobre uma memória histórica sólida de sua morte na capital imperial."
+        },
+        "fuentes": [
+          {
+            "titulo": "The New International Greek Testament Commentary: The Letter of Jude and the Second Letter of Peter",
+            "autor": "Richard Bauckham",
+            "año": 1983,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Introducción",
+              "Autoría",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La presentación de Pedro en 2P es consistente con el retrato que hacen los Evangelios y Hechos: un apóstol de primera hora que invoca su testimonio ocular y su autoridad apostólica. Las referencias autobiográficas (2P 1:16-18; 2P 3:1) son históricamente plausibles para el Pedro histórico.",
+          "en": "Peter's presentation in 2Pet is consistent with the portrait given in the Gospels and Acts: a first-generation apostle who invokes his eyewitness testimony and apostolic authority. The autobiographical references (2Pet 1:16-18; 2Pet 3:1) are historically plausible for the historical Peter.",
+          "pt": "A apresentação de Pedro em 2Pe é consistente com o retrato feito nos Evangelhos e em Atos: um apóstolo de primeira hora que invoca seu testemunho ocular e sua autoridade apostólica. As referências autobiográficas (2Pe 1:16-18; 2Pe 3:1) são historicamente plausíveis para o Pedro histórico."
+        }
+      },
+      "versiculosAsociados": [
+        "2P 1:1",
+        "2P 1:12",
+        "2P 1:14",
+        "2P 1:16",
+        "2P 1:17",
+        "2P 3:1",
+        "2P 3:15"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mc",
+        "Lc",
+        "Jn",
+        "Hch",
+        "1P",
+        "Gá",
+        "1Co"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pedro es protagonista de los cuatro Evangelios, de Hechos 1–12 y de sus propias cartas (1P; 2P). Pablo lo menciona como columna de la iglesia (Gá 2:9) y relata una confrontación en Antioquía (Gá 2:11-14). Es la figura apostólica más prominente del NT después de Pablo.",
+        "en": "Peter is a protagonist in all four Gospels, in Acts 1–12, and in his own letters (1Pet; 2Pet). Paul mentions him as a pillar of the church (Gal 2:9) and recounts a confrontation in Antioch (Gal 2:11-14). He is the most prominent apostolic figure in the NT after Paul.",
+        "pt": "Pedro é protagonista nos quatro Evangelhos, em Atos 1–12 e em suas próprias cartas (1Pe; 2Pe). Paulo o menciona como coluna da igreja (Gl 2:9) e relata uma confrontação em Antioquia (Gl 2:11-14). É a figura apostólica mais proeminente do NT depois de Paulo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Noé",
+        "en": "Noah",
+        "pt": "Noé"
+      },
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "Patriarca antediluviano descrito en 2P 2:5 como 'pregonero de justicia', preservado por Dios junto con siete personas mientras el diluvio destruía el mundo impío. Funciona como tipo de la preservación de los elegidos en el juicio escatológico.",
+        "en": "Antediluvian patriarch described in 2Pet 2:5 as 'a herald of righteousness,' preserved by God along with seven others while the flood destroyed the ungodly world. He functions as a type of the preservation of the elect in eschatological judgment.",
+        "pt": "Patriarca antediluviano descrito em 2Pe 2:5 como 'pregador de justiça', preservado por Deus junto com mais sete pessoas enquanto o dilúvio destruía o mundo ímpio. Funciona como tipo da preservação dos eleitos no julgamento escatológico."
+      },
+      "acciones": {
+        "es": "Preservado por Dios durante el diluvio como pregonero de justicia, mientras el diluvio castigaba al mundo impío (2P 2:5).",
+        "en": "Preserved by God during the flood as a herald of righteousness, while the flood punished the ungodly world (2Pet 2:5).",
+        "pt": "Preservado por Deus durante o dilúvio como pregador de justiça, enquanto o dilúvio castigava o mundo ímpio (2Pe 2:5)."
+      },
+      "significadoTeologico": {
+        "es": "Noé establece el patrón divino de juicio combinado con rescate: Dios sabe cómo librar a los piadosos de la prueba (2P 2:9). Su supervivencia prefigura la preservación de los elegidos en el día del juicio escatológico.",
+        "en": "Noah establishes the divine pattern of judgment combined with rescue: God knows how to rescue the godly from trials (2Pet 2:9). His survival prefigures the preservation of the elect on the day of eschatological judgment.",
+        "pt": "Noé estabelece o padrão divino de julgamento combinado com resgate: Deus sabe como livrar os piedosos da provação (2Pe 2:9). Sua sobrevivência prefigura a preservação dos eleitos no dia do julgamento escatológico."
+      },
+      "tipo": {
+        "es": "Tipo del creyente preservado en medio del juicio divino universal; anticipa la preservación escatológica del pueblo de Dios en el Día del Señor (2P 3:7-13).",
+        "en": "Type of the believer preserved amid universal divine judgment; anticipates the eschatological preservation of God's people on the Day of the Lord (2Pet 3:7-13).",
+        "pt": "Tipo do crente preservado em meio ao julgamento divino universal; antecipa a preservação escatológica do povo de Deus no Dia do Senhor (2Pe 3:7-13)."
+      },
+      "caracterMoral": {
+        "es": "Justo (Gn 6:9) y pregonero de justicia (2P 2:5), que persistió en la obediencia en un entorno de corrupción total.",
+        "en": "Righteous (Gen 6:9) and herald of righteousness (2Pet 2:5), who persisted in obedience in an environment of total corruption.",
+        "pt": "Justo (Gn 6:9) e pregador de justiça (2Pe 2:5), que persistiu na obediência em um ambiente de corrupção total."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Noé aparece primero en Gn 5:28–9:29 como el único hombre justo de su generación (Gn 6:9), elegido por Dios para construir el arca y preservar a la humanidad y a los animales durante el diluvio. En 2 Pedro es presentado como 'pregonero de justicia', subrayando su función profética y no solo su supervivencia.",
+          "en": "Noah first appears in Gen 5:28–9:29 as the only righteous man of his generation (Gen 6:9), chosen by God to build the ark and preserve humanity and animals during the flood. In 2 Peter he is presented as 'a herald of righteousness,' emphasizing his prophetic function and not just his survival.",
+          "pt": "Noé aparece primeiramente em Gn 5:28–9:29 como o único homem justo de sua geração (Gn 6:9), escolhido por Deus para construir a arca e preservar a humanidade e os animais durante o dilúvio. Em 2 Pedro é apresentado como 'pregador de justiça', sublinhando sua função profética e não apenas sua sobrevivência."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2P 2:5",
+          "Gn 6:9",
+          "He 11:7"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe corroboración arqueológica o histórica directa de Noé como personaje individual. Tradiciones de diluvio con un superviviente son comunes en culturas del Oriente Próximo (Gilgamesh, Atrahasis), pero Pedro no las cita como fuente: su argumento descansa enteramente en el texto del Génesis como revelación divina histórica.",
+          "en": "There is no direct archaeological or historical corroboration of Noah as an individual figure. Flood traditions with a survivor are common in ancient Near Eastern cultures (Gilgamesh, Atrahasis), but Peter does not cite them as a source: his argument rests entirely on the Genesis text as historical divine revelation.",
+          "pt": "Não há corroboração arqueológica ou histórica direta de Noé como personagem individual. Tradições de dilúvio com um sobrevivente são comuns em culturas do Oriente Próximo antigo (Gilgamesh, Atrahasis), mas Pedro não as cita como fonte: seu argumento repousa inteiramente no texto do Gênesis como revelação divina histórica."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway editors",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Notas de Genesis 6–9",
+              "Notas de 2 Pedro 2:5"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Pedro presenta a Noé como un personaje histórico real cuya supervivencia en el diluvio es el fundamento del argumento sobre el juicio divino. La tipología que Pedro establece requiere que el diluvio haya sido un evento histórico real, consistente con la lectura reformada de Gn 6–9 como historia literal.",
+          "en": "Peter presents Noah as a real historical figure whose survival in the flood is the basis for the argument about divine judgment. The typology Peter establishes requires the flood to have been a real historical event, consistent with the Reformed reading of Gen 6–9 as literal history.",
+          "pt": "Pedro apresenta Noé como um personagem histórico real cuja sobrevivência no dilúvio é o fundamento do argumento sobre o julgamento divino. A tipologia que Pedro estabelece requer que o dilúvio tenha sido um evento histórico real, consistente com a leitura reformada de Gn 6–9 como história literal."
+        }
+      },
+      "versiculosAsociados": [
+        "2P 2:5",
+        "2P 3:6"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Is",
+        "Ez",
+        "Mt",
+        "Lc",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Noé aparece en He 11:7 como ejemplo de fe que condena al mundo; en Mt 24:37-38 y Lc 17:26-27 como tipo de la indiferencia ante la venida del Hijo del Hombre; y en 2P 2:5 como pregonero de justicia preservado en el juicio.",
+        "en": "Noah appears in Heb 11:7 as an example of faith that condemns the world; in Matt 24:37-38 and Luke 17:26-27 as a type of indifference to the coming of the Son of Man; and in 2Pet 2:5 as a herald of righteousness preserved in judgment.",
+        "pt": "Noé aparece em Hb 11:7 como exemplo de fé que condena o mundo; em Mt 24:37-38 e Lc 17:26-27 como tipo da indiferença diante da vinda do Filho do Homem; e em 2Pe 2:5 como pregador de justiça preservado no julgamento."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Lot",
+        "en": "Lot",
+        "pt": "Ló"
+      },
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "Sobrino de Abraham (Gn 11:27), rescatado de Sodoma antes de su destrucción. En 2P 2:7-8 es descrito como 'un hombre justo que se afligía por la conducta sensual de los inicuos', paradigma del creyente angustiado que vive rodeado de pecado pero es librado por la misericordia de Dios.",
+        "en": "Nephew of Abraham (Gen 11:27), rescued from Sodom before its destruction. In 2Pet 2:7-8 he is described as 'a righteous man greatly distressed by the sensual conduct of the wicked,' a paradigm of the believer in anguish who lives surrounded by sin but is delivered by God's mercy.",
+        "pt": "Sobrinho de Abraão (Gn 11:27), resgatado de Sodoma antes de sua destruição. Em 2Pe 2:7-8 é descrito como 'um homem justo que se afligia com a conduta sensual dos ímpios', paradigma do crente angustiado que vive rodeado de pecado mas é liberto pela misericórdia de Deus."
+      },
+      "acciones": {
+        "es": "Vivió en Sodoma entre los impíos, fue afligido espiritualmente por su maldad y fue rescatado por Dios antes del juicio de fuego (2P 2:7-8).",
+        "en": "He lived in Sodom among the ungodly, was spiritually distressed by their wickedness, and was rescued by God before the judgment of fire (2Pet 2:7-8).",
+        "pt": "Viveu em Sodoma entre os ímpios, foi angustiado espiritualmente por sua maldade e foi resgatado por Deus antes do julgamento de fogo (2Pe 2:7-8)."
+      },
+      "significadoTeologico": {
+        "es": "Lot ilustra que Dios conoce cómo librar a los piadosos de la prueba (2P 2:9), al mismo tiempo que reserva a los injustos para el juicio. Su rescate es garantía de la fidelidad de Dios hacia su pueblo en el Día del Señor.",
+        "en": "Lot illustrates that God knows how to rescue the godly from trials (2Pet 2:9), while reserving the unrighteous for judgment. His rescue is a guarantee of God's faithfulness toward his people on the Day of the Lord.",
+        "pt": "Ló ilustra que Deus sabe como livrar os piedosos da provação (2Pe 2:9), ao mesmo tempo que reserva os injustos para o julgamento. Seu resgate é garantia da fidelidade de Deus para com seu povo no Dia do Senhor."
+      },
+      "tipo": {
+        "es": "Tipo del justo que vive rodeado de pecado pero es preservado por la gracia soberana de Dios hasta el día de la vindicación escatológica.",
+        "en": "Type of the righteous person who lives surrounded by sin but is preserved by God's sovereign grace until the day of eschatological vindication.",
+        "pt": "Tipo do justo que vive rodeado de pecado mas é preservado pela graça soberana de Deus até o dia da vindicação escatológica."
+      },
+      "caracterMoral": {
+        "es": "Descrito como 'justo' (δίκαιος) en 2P 2:7-8 —calificativo llamativo dado sus elecciones en Gn 13— lo que subraya que la justificación es por fe y no por perfección moral. Fue angustiado por el pecado a su alrededor, lo que revela la sensibilidad de un creyente genuino.",
+        "en": "Described as 'righteous' (dikaios) in 2Pet 2:7-8 — a striking epithet given his choices in Gen 13 — which underlines that justification is by faith and not by moral perfection. He was distressed by the sin around him, revealing the sensitivity of a genuine believer.",
+        "pt": "Descrito como 'justo' (díkaios) em 2Pe 2:7-8 — epíteto notável dado suas escolhas em Gn 13 — o que sublinha que a justificação é pela fé e não pela perfeição moral. Foi angustiado pelo pecado ao seu redor, revelando a sensibilidade de um crente genuíno."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Lot aparece en Gn 11:27–14:16 y Gn 18:16–19:38. Viajó con Abraham, se separó de él eligiendo las llanuras del Jordán (Gn 13:10-11), habitó en Sodoma (Gn 13:12), fue rescatado de cuatro reyes por Abraham (Gn 14:12-16) y fue librado por ángeles antes de la destrucción de Sodoma (Gn 19:1-22). Pedro lo cita como 'justo' (2P 2:7), enfatizando la gracia divina que preserva al creyente en medio del juicio.",
+          "en": "Lot appears in Gen 11:27–14:16 and Gen 18:16–19:38. He traveled with Abraham, separated from him by choosing the Jordan plain (Gen 13:10-11), dwelt in Sodom (Gen 13:12), was rescued from four kings by Abraham (Gen 14:12-16), and was delivered by angels before the destruction of Sodom (Gen 19:1-22). Peter calls him 'righteous' (2Pet 2:7), emphasizing the divine grace that preserves the believer in the midst of judgment.",
+          "pt": "Ló aparece em Gn 11:27–14:16 e Gn 18:16–19:38. Viajou com Abraão, separou-se dele escolhendo as planícies do Jordão (Gn 13:10-11), habitou em Sodoma (Gn 13:12), foi resgatado de quatro reis por Abraão (Gn 14:12-16) e foi liberto por anjos antes da destruição de Sodoma (Gn 19:1-22). Pedro o chama de 'justo' (2Pe 2:7), enfatizando a graça divina que preserva o crente em meio ao julgamento."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2P 2:7",
+          "2P 2:8",
+          "Gn 19:16"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia histórica o arqueológica que corrobore a Lot como individuo. La destrucción de ciudades en la llanura del Jordán en el Bronce Medio ha sido propuesta como trasfondo arqueológico posible de las ciudades de la llanura, pero no hay evidencia directa que identifique Sodoma o Gomorra con certeza.",
+          "en": "There is no historical or archaeological evidence that corroborates Lot as an individual. The destruction of cities in the Jordan plain in the Middle Bronze Age has been proposed as a possible archaeological background for the cities of the plain, but there is no direct evidence that identifies Sodom or Gomorrah with certainty.",
+          "pt": "Não há evidência histórica ou arqueológica que corrobore Ló como indivíduo. A destruição de cidades na planície do Jordão no Bronze Médio foi proposta como possível contexto arqueológico das cidades da planície, mas não há evidência direta que identifique Sodoma ou Gomorra com certeza."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway editors",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Notas de Genesis 18–19",
+              "Notas de 2 Pedro 2:7"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Pedro presenta a Lot como personaje histórico real cuya liberación fundamenta el argumento sobre la fidelidad de Dios en preservar a los suyos mientras juzga a los impíos. La calificación de Lot como 'justo' es un dato teológico importante que la tradición reformada interpreta como evidencia de la justificación por gracia.",
+          "en": "Peter presents Lot as a real historical figure whose deliverance grounds the argument about God's faithfulness in preserving his own while judging the ungodly. The designation of Lot as 'righteous' is an important theological datum that the Reformed tradition interprets as evidence of justification by grace.",
+          "pt": "Pedro apresenta Ló como personagem histórico real cuja libertação fundamenta o argumento sobre a fidelidade de Deus em preservar os seus enquanto julga os ímpios. A qualificação de Ló como 'justo' é um dado teológico importante que a tradição reformada interpreta como evidência da justificação pela graça."
+        }
+      },
+      "versiculosAsociados": [
+        "2P 2:7",
+        "2P 2:8",
+        "2P 2:9"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Lc",
+        "Jud"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Lot aparece en Lc 17:28-32 como ejemplo de quienes vivían sin preocuparse de la venida del Hijo del Hombre. En 2P 2:7-8 su descripción como 'justo' es única en el NT y aporta la perspectiva de la gracia preservadora de Dios.",
+        "en": "Lot appears in Luke 17:28-32 as an example of those living without concern for the coming of the Son of Man. In 2Pet 2:7-8 his description as 'righteous' is unique in the NT and contributes the perspective of God's preserving grace.",
+        "pt": "Ló aparece em Lc 17:28-32 como exemplo dos que viviam sem preocupação com a vinda do Filho do Homem. Em 2Pe 2:7-8 sua descrição como 'justo' é única no NT e contribui com a perspectiva da graça preservadora de Deus."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Balaam",
+        "en": "Balaam",
+        "pt": "Balaão"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "Profeta del Éufrates (Nm 22–24) convocado por Balac para maldecir a Israel, descrito en 2P 2:15-16 como paradigma del falso maestro que abandona el camino recto para seguir la ganancia del mal. Su asna reprendió su locura.",
+        "en": "Prophet from the Euphrates (Num 22–24) summoned by Balak to curse Israel, described in 2Pet 2:15-16 as a paradigm of the false teacher who abandons the right way to pursue the wages of wrongdoing. His donkey rebuked his madness.",
+        "pt": "Profeta do Eufrates (Nm 22–24) convocado por Balaque para amaldiçoar Israel, descrito em 2Pe 2:15-16 como paradigma do falso mestre que abandona o caminho reto para seguir o ganho do mal. Sua jumenta repreendeu sua loucura."
+      },
+      "acciones": {
+        "es": "Según 2P 2:15-16, amó el salario de la maldad y fue reprendido por su asna —un animal mudo que habló con voz humana— deteniendo la locura del profeta.",
+        "en": "According to 2Pet 2:15-16, he loved the wages of wrongdoing and was rebuked by his donkey — a mute animal that spoke with a human voice — restraining the prophet's madness.",
+        "pt": "Segundo 2Pe 2:15-16, amou o salário da iniquidade e foi repreendido por sua jumenta — um animal mudo que falou com voz humana — detendo a loucura do profeta."
+      },
+      "significadoTeologico": {
+        "es": "Balaam es el tipo bíblico por excelencia del falso maestro motivado por la avaricia: 'amó el salario de la maldad' (2P 2:15). Pedro lo usa para denunciar a los falsos maestros de su tiempo que explotan a los creyentes con palabras engañosas (2P 2:3). Encarna el abandono del camino recto por el lucro y la corupción del ministerio profético.",
+        "en": "Balaam is the biblical type par excellence of the false teacher motivated by greed: 'he loved gain from wrongdoing' (2Pet 2:15). Peter uses him to denounce the false teachers of his time who exploit believers with deceptive words (2Pet 2:3). He embodies the abandonment of the right way for profit and the corruption of prophetic ministry.",
+        "pt": "Balaão é o tipo bíblico por excelência do falso mestre motivado pela avareza: 'amou o salário da iniquidade' (2Pe 2:15). Pedro o usa para denunciar os falsos mestres de seu tempo que exploram os crentes com palavras enganosas (2Pe 2:3). Encarna o abandono do caminho reto pelo lucro e a corrupção do ministério profético."
+      },
+      "tipo": {
+        "es": "Tipo del falso profeta/maestro que pervierte el ministerio de la Palabra por amor al dinero y al reconocimiento humano, presente en cada generación de la iglesia.",
+        "en": "Type of the false prophet/teacher who perverts the ministry of the Word out of love for money and human recognition, present in every generation of the church.",
+        "pt": "Tipo do falso profeta/mestre que perverte o ministério da Palavra por amor ao dinheiro e ao reconhecimento humano, presente em cada geração da igreja."
+      },
+      "caracterMoral": {
+        "es": "Codicioso, dispuesto a traicionar la rectitud por ganancia económica; su caso demuestra que la posesión de don profético no garantiza la integridad moral ni la relación salvífica con Dios.",
+        "en": "Greedy, willing to betray rectitude for financial gain; his case demonstrates that the possession of prophetic gifting does not guarantee moral integrity or a saving relationship with God.",
+        "pt": "Ganancioso, disposto a trair a retidão por ganho financeiro; seu caso demonstra que a posse de dom profético não garante integridade moral nem relação salvífica com Deus."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Balaam hijo de Beor (Nm 22:5) fue convocado por Balac, rey de Moab, para maldecir a Israel. Dios convirtió sus maldiciones en bendiciones (Nm 22–24). Posteriormente enseñó a Balac a poner tropiezo ante Israel (Nm 31:16; Ap 2:14). Su asna milagrosamente le habló cuando el Ángel del Señor le cerró el camino (Nm 22:28-30).",
+          "en": "Balaam son of Beor (Num 22:5) was summoned by Balak, king of Moab, to curse Israel. God turned his curses into blessings (Num 22–24). He subsequently taught Balak to put a stumbling block before Israel (Num 31:16; Rev 2:14). His donkey miraculously spoke to him when the Angel of the Lord blocked his path (Num 22:28-30).",
+          "pt": "Balaão filho de Beor (Nm 22:5) foi convocado por Balaque, rei de Moabe, para amaldiçoar Israel. Deus converteu suas maldições em bênçãos (Nm 22–24). Posteriormente ensinou Balaque a colocar tropeço diante de Israel (Nm 31:16; Ap 2:14). Sua jumenta milagrosamente lhe falou quando o Anjo do Senhor bloqueou seu caminho (Nm 22:28-30)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2P 2:15",
+          "2P 2:16",
+          "Nm 22:28"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La inscripción de Deir Alla (ca. siglo IX a.C., hallada en Jordania en 1967) menciona a 'Balaam hijo de Beor' como vidente que recibe visiones nocturnas, lo que corrobora que el nombre de Balaam y su reputación de vidente existían en la tradición literaria del Transjordán. Esta es la única referencia extra-bíblica a Balaam conocida hasta la fecha.",
+          "en": "The Deir Alla inscription (ca. 9th century BC, discovered in Jordan in 1967) mentions 'Balaam son of Beor' as a seer who receives nocturnal visions, corroborating that the name of Balaam and his reputation as a seer existed in the literary tradition of Transjordan. This is the only known extra-biblical reference to Balaam to date.",
+          "pt": "A inscrição de Deir Alla (ca. século IX a.C., descoberta na Jordânia em 1967) menciona 'Balaão filho de Beor' como vidente que recebe visões noturnas, corroborando que o nome de Balaão e sua reputação de vidente existiam na tradição literária da Transjordânia. Esta é a única referência extra-bíblica a Balaão conhecida até o momento."
+        },
+        "fuentes": [
+          {
+            "titulo": "IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto de Números 22–24",
+              "Inscripción de Deir Alla"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La referencia de Pedro a Balaam es histórica y teológica: el texto del AT lo presenta como un vidente corrompido por la codicia. La inscripción de Deir Alla confirma que la figura era conocida en la región, pero Pedro no apela a tradiciones extra-bíblicas: su argumento descansa en el relato canónico de Nm 22–24.",
+          "en": "Peter's reference to Balaam is historical and theological: the OT text presents him as a seer corrupted by greed. The Deir Alla inscription confirms that the figure was known in the region, but Peter does not appeal to extra-biblical traditions: his argument rests on the canonical account of Num 22–24.",
+          "pt": "A referência de Pedro a Balaão é histórica e teológica: o texto do AT o apresenta como um vidente corrompido pela avareza. A inscrição de Deir Alla confirma que a figura era conhecida na região, mas Pedro não apela a tradições extra-bíblicas: seu argumento repousa no relato canônico de Nm 22–24."
+        }
+      },
+      "versiculosAsociados": [
+        "2P 2:15",
+        "2P 2:16"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Nm",
+        "Dt",
+        "Jos",
+        "Miq",
+        "Jud",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Balaam aparece en Jud 11 como paradigma de la corrupción por ganancia; en Ap 2:14 como figura cuya doctrina (enseñar a comer cosas sacrificadas a ídolos y a cometer inmoralidad sexual) había infiltrado la iglesia de Pérgamo; y en 2P 2:15-16 como tipo del falso maestro codicioso.",
+        "en": "Balaam appears in Jude 11 as a paradigm of corruption for gain; in Rev 2:14 as a figure whose doctrine (teaching to eat food sacrificed to idols and to practice sexual immorality) had infiltrated the church at Pergamum; and in 2Pet 2:15-16 as a type of the greedy false teacher.",
+        "pt": "Balaão aparece em Jd 11 como paradigma da corrupção por ganho; em Ap 2:14 como figura cuja doutrina (ensinar a comer alimentos sacrificados a ídolos e a praticar imoralidade sexual) havia infiltrado a igreja de Pérgamo; e em 2Pe 2:15-16 como tipo do falso mestre ganancioso."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Pablo (Apóstol)",
+        "en": "Paul (Apostle)",
+        "pt": "Paulo (Apóstolo)"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        3
+      ],
+      "descripcion": {
+        "es": "Mencionado por Pedro como 'nuestro amado hermano Pablo' (2P 3:15), cuyas cartas —reconocidas como 'Escritura'— son citadas como soporte de la enseñanza petrina sobre la paciencia de Dios y la parusía. Esta referencia es teológicamente determinante para la doctrina del canon neotestamentario.",
+        "en": "Mentioned by Peter as 'our beloved brother Paul' (2Pet 3:15), whose letters — recognized as 'Scripture' — are cited as support for Peter's teaching on God's patience and the parousia. This reference is theologically determinative for the doctrine of the New Testament canon.",
+        "pt": "Mencionado por Pedro como 'nosso amado irmão Paulo' (2Pe 3:15), cujas cartas — reconhecidas como 'Escritura' — são citadas como suporte do ensino petrinob sobre a paciência de Deus e a parusia. Esta referência é teologicamente determinante para a doutrina do cânone neotestamentário."
+      },
+      "acciones": {
+        "es": "Pedro afirma que Pablo, 'según la sabiduría que le fue dada', escribió sobre los temas que Pedro también trata —la parusía y la paciencia de Dios— y que sus cartas son contadas entre 'las demás Escrituras' (2P 3:15-16), aunque algunas de sus enseñanzas son difíciles de entender y son torcidas por los inestables.",
+        "en": "Peter affirms that Paul, 'according to the wisdom given him,' wrote about the themes Peter also treats — the parousia and God's patience — and that his letters are counted among 'the other Scriptures' (2Pet 3:15-16), though some of his teachings are hard to understand and are twisted by the unstable.",
+        "pt": "Pedro afirma que Paulo, 'conforme a sabedoria que lhe foi dada', escreveu sobre os temas que Pedro também trata — a parusia e a paciência de Deus — e que suas cartas são contadas entre 'as demais Escrituras' (2Pe 3:15-16), embora alguns de seus ensinamentos sejam difíceis de entender e sejam distorcidos pelos instáveis."
+      },
+      "significadoTeologico": {
+        "es": "La referencia a las cartas de Pablo como 'Escritura' (τὰς λοιπὰς γραφάς, 2P 3:16) es el único pasaje del NT en que un autor canónico reconoce explícitamente los escritos de un apóstol hermano como parte de la Escritura sagrada. Este dato es fundamental para la doctrina reformada del canon: la distinción entre Escritura y tradición humana estaba siendo trazada desde dentro del propio corpus apostólico.",
+        "en": "The reference to Paul's letters as 'Scripture' (tas loipas graphas, 2Pet 3:16) is the only passage in the NT in which a canonical author explicitly recognizes the writings of a fellow apostle as part of Holy Scripture. This datum is fundamental to the Reformed doctrine of the canon: the distinction between Scripture and human tradition was being drawn from within the apostolic corpus itself.",
+        "pt": "A referência às cartas de Paulo como 'Escritura' (tas loipas graphas, 2Pe 3:16) é a única passagem do NT em que um autor canônico reconhece explicitamente os escritos de um apóstolo irmão como parte da Sagrada Escritura. Este dado é fundamental para a doutrina reformada do cânone: a distinção entre Escritura e tradição humana estava sendo traçada de dentro do próprio corpus apostólico."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico; es el co-apóstol cuyas cartas son reconocidas como Escritura canónica, atestiguando la autoridad apostólica del NT.",
+        "en": "Does not function as a christological type; he is the co-apostle whose letters are recognized as canonical Scripture, attesting the apostolic authority of the NT.",
+        "pt": "Não funciona como tipo cristológico; é o co-apóstolo cujas cartas são reconhecidas como Escritura canônica, atestando a autoridade apostólica do NT."
+      },
+      "caracterMoral": {
+        "es": "Presentado por Pedro con profundo respeto fraternal —'nuestro amado hermano'— y reconocido como receptor de divina sabiduría para la tarea apostólica. La mención de que sus cartas son 'difíciles de entender' es un reconocimiento de la profundidad de su teología, no una crítica.",
+        "en": "Presented by Peter with deep fraternal respect — 'our beloved brother' — and recognized as a recipient of divine wisdom for the apostolic task. The mention that his letters are 'hard to understand' is an acknowledgment of the depth of his theology, not a criticism.",
+        "pt": "Apresentado por Pedro com profundo respeito fraternal — 'nosso amado irmão' — e reconhecido como receptor de sabedoria divina para a tarefa apostólica. A menção de que suas cartas são 'difíceis de entender' é um reconhecimento da profundidade de sua teologia, não uma crítica."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Pablo (Saulo de Tarso) fue fariseo (Fil 3:5), perseguidor de la iglesia (Hch 9:1-2) y fue convertido por el Cristo resucitado en el camino a Damasco (Hch 9:3-18). Recibió el encargo apostólico de llevar el evangelio a los gentiles (Gá 1:15-16) y fundó iglesias en Asia Menor, Grecia y Roma. Es autor de al menos trece cartas del NT. En 2P 3:15-16 Pedro reconoce sus cartas como 'Escritura'.",
+          "en": "Paul (Saul of Tarsus) was a Pharisee (Phil 3:5), a persecutor of the church (Acts 9:1-2), and was converted by the risen Christ on the road to Damascus (Acts 9:3-18). He received the apostolic commission to bring the gospel to the Gentiles (Gal 1:15-16) and founded churches in Asia Minor, Greece, and Rome. He is the author of at least thirteen NT letters. In 2Pet 3:15-16 Peter recognizes his letters as 'Scripture.'",
+          "pt": "Paulo (Saulo de Tarso) era fariseu (Fp 3:5), perseguidor da igreja (At 9:1-2) e foi convertido pelo Cristo ressurreto no caminho para Damasco (At 9:3-18). Recebeu o encargo apostólico de levar o evangelho aos gentios (Gl 1:15-16) e fundou igrejas na Ásia Menor, Grécia e Roma. É autor de pelo menos treze cartas do NT. Em 2Pe 3:15-16 Pedro reconhece suas cartas como 'Escritura'."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2P 3:15",
+          "2P 3:16",
+          "Hch 9:15",
+          "Gá 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Pablo es, junto con Jesús, la figura más atestiguada del Nuevo Testamento en fuentes externas. Sus cartas son los documentos más antiguos del NT (ca. 48–68 d.C.). Josefo no lo menciona por nombre, pero sí a Santiago (Antigüedades XX.9.1), el hermano del Señor y líder de la iglesia de Jerusalén con quien Pablo tuvo contacto (Hch 15; Gá 2:9). Tácito (Anales XV.44) menciona a los cristianos en Roma, contexto que incluye el ministerio y muerte de Pablo (ca. 67–68 d.C.). Clemente de Roma (1 Clem. 5:7) atestigua que Pablo llegó al extremo occidental de sus viajes y fue martirizado.",
+          "en": "Paul is, together with Jesus, the best externally attested figure of the New Testament. His letters are the oldest documents of the NT (ca. AD 48–68). Josephus does not mention him by name, but does mention James (Antiquities XX.9.1), the Lord's brother and leader of the Jerusalem church with whom Paul had contact (Acts 15; Gal 2:9). Tacitus (Annals XV.44) mentions Christians in Rome, a context that includes Paul's ministry and death (ca. AD 67–68). Clement of Rome (1 Clem. 5:7) attests that Paul reached the western extremity of his travels and was martyred.",
+          "pt": "Paulo é, junto com Jesus, a figura mais bem atestada externamente do Novo Testamento. Suas cartas são os documentos mais antigos do NT (ca. 48–68 d.C.). Josefo não o menciona por nome, mas menciona Tiago (Antiguidades XX.9.1), o irmão do Senhor e líder da igreja de Jerusalém com quem Paulo teve contato (At 15; Gl 2:9). Tácito (Anais XV.44) menciona os cristãos em Roma, contexto que inclui o ministério e a morte de Paulo (ca. 67–68 d.C.). Clemente de Roma (1 Clem. 5:7) atesta que Paulo chegou ao extremo ocidental de suas viagens e foi martirizado."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway editors",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Introducción a las cartas paulinas",
+              "Notas de 2 Pedro 3:15-16"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La referencia de Pedro a Pablo como 'nuestro amado hermano' con 'sabiduría que le fue dada' es enteramente consistente con la relación entre los dos apóstoles atestiguada en Gá 1–2 y Hch 15. El reconocimiento de sus cartas como 'Escritura' es el hecho más significativo del pasaje desde el punto de vista del canon bíblico.",
+          "en": "Peter's reference to Paul as 'our beloved brother' with 'wisdom given him' is entirely consistent with the relationship between the two apostles attested in Gal 1–2 and Acts 15. The recognition of his letters as 'Scripture' is the most significant fact in the passage from the standpoint of the biblical canon.",
+          "pt": "A referência de Pedro a Paulo como 'nosso amado irmão' com 'sabedoria que lhe foi dada' é inteiramente consistente com a relação entre os dois apóstolos atestada em Gl 1–2 e At 15. O reconhecimento de suas cartas como 'Escritura' é o fato mais significativo da passagem do ponto de vista do cânone bíblico."
+        }
+      },
+      "versiculosAsociados": [
+        "2P 3:15",
+        "2P 3:16"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "2Ti",
+        "Tit",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo es el autor del corpus epistolar más extenso del NT (13–14 cartas). Es protagonista de Hch 9–28. Pedro se refiere a él en 2P 3:15-16 como hermano apostólico cuyas cartas son Escritura. Gálatas 2:11-14 registra la confrontación entre ambos en Antioquía.",
+        "en": "Paul is the author of the most extensive epistolary corpus in the NT (13–14 letters). He is the protagonist of Acts 9–28. Peter refers to him in 2Pet 3:15-16 as an apostolic brother whose letters are Scripture. Galatians 2:11-14 records the confrontation between them in Antioch.",
+        "pt": "Paulo é o autor do corpus epistolar mais extenso do NT (13–14 cartas). É protagonista de At 9–28. Pedro se refere a ele em 2Pe 3:15-16 como irmão apostólico cujas cartas são Escritura. Gálatas 2:11-14 registra a confrontação entre os dois em Antioquia."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Bibliología",
+        "en": "Bibliology",
+        "pt": "Bibliologia"
+      },
+      "resumen": {
+        "es": "2 Pedro contiene el texto clásico de la doctrina reformada sobre la inspiración de la Escritura. Pedro afirma que la palabra profética es aún más segura que el testimonio visual directo de la gloria de Cristo (2P 1:19). Ninguna profecía de la Escritura es de interpretación privada o de origen humano (2P 1:20-21): los autores humanos fueron llevados por el Espíritu Santo y hablaron de parte de Dios. Este 'ser llevados' (φερόμενοι, pheroménoi) indica una acción soberana del Espíritu que usa instrumentos humanos sin anularlos.",
+        "en": "2 Peter contains the classic text of the Reformed doctrine on the inspiration of Scripture. Peter affirms that the prophetic word is even more sure than direct visual testimony of Christ's glory (2Pet 1:19). No prophecy of Scripture is of private interpretation or of human origin (2Pet 1:20-21): the human authors were carried along by the Holy Spirit and spoke from God. This 'being carried along' (pheroménoi) indicates a sovereign action of the Spirit who uses human instruments without annulling them.",
+        "pt": "2 Pedro contém o texto clássico da doutrina reformada sobre a inspiração da Escritura. Pedro afirma que a palavra profética é ainda mais segura do que o testemunho visual direto da glória de Cristo (2Pe 1:19). Nenhuma profecia da Escritura é de interpretação privada ou de origem humana (2Pe 1:20-21): os autores humanos foram movidos pelo Espírito Santo e falaram da parte de Deus. Este 'ser movidos' (pheroménoi) indica uma ação soberana do Espírito que usa instrumentos humanos sem anulá-los."
+      },
+      "pasajes": [
+        "2P 1:19",
+        "2P 1:20",
+        "2P 1:21"
+      ],
+      "ensenanza": {
+        "es": "La palabra profética escrita es más firme y confiable que incluso el testimonio directo de los sentidos · ninguna profecía proviene de la interpretación privada del profeta sino de la iniciativa divina · el origen de la profecía es el Espíritu Santo que llevó a los hombres santos para que hablaran de parte de Dios",
+        "en": "The written prophetic word is more firm and reliable than even direct sensory testimony · no prophecy derives from the prophet's private interpretation but from divine initiative · the origin of prophecy is the Holy Spirit who carried holy men so they spoke from God",
+        "pt": "A palavra profética escrita é mais firme e confiável do que mesmo o testemunho direto dos sentidos · nenhuma profecia provém da interpretação privada do profeta, mas da iniciativa divina · a origem da profecia é o Espírito Santo que moveu homens santos para que falassem da parte de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada emplea 2P 1:20-21 como el texto fundacional de la doctrina de la inspiración plena verbal (verbal plenary inspiration): el Espíritu Santo llevó a los autores humanos de modo que sus palabras son genuinamente las palabras de Dios, sin error. La WCF I.VIII cita este pasaje para afirmar que la Escritura es infalible en su original.",
+        "en": "The Reformed tradition employs 2Pet 1:20-21 as the foundational text for the doctrine of verbal plenary inspiration: the Holy Spirit carried the human authors so that their words are genuinely God's words, without error. WCF I.VIII cites this passage to affirm that Scripture is infallible in its original.",
+        "pt": "A tradição reformada emprega 2Pe 1:20-21 como o texto fundacional da doutrina da inspiração verbal plenária (verbal plenary inspiration): o Espírito Santo moveu os autores humanos de tal forma que suas palavras são genuinamente as palavras de Deus, sem erro. A WCF I.VIII cita esta passagem para afirmar que a Escritura é infalível em seu original."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "2 Pedro contiene la más detallada descripción del NT sobre la destrucción escatológica del cosmos y su renovación. El Día del Señor vendrá inesperadamente (2P 3:10), los cielos pasarán con grande estrépito y los elementos se disolverán con fuego ardiente. Pero el horizonte no es la aniquilación sino la renovación: los creyentes esperan 'nuevos cielos y nueva tierra donde mora la justicia' (2P 3:13). Pedro también enfrenta el escepticismo de los escépticos que niegan la parusía apelando a la uniformidad del pasado, respondiendo con la soberanía de Dios sobre el tiempo (2P 3:8) y con el precedente del diluvio (2P 3:6).",
+        "en": "2 Peter contains the most detailed NT description of the eschatological destruction of the cosmos and its renewal. The Day of the Lord will come unexpectedly (2Pet 3:10), the heavens will pass away with a roar and the elements will be dissolved with intense heat. But the horizon is not annihilation but renewal: believers await 'new heavens and a new earth in which righteousness dwells' (2Pet 3:13). Peter also confronts the skeptics who deny the parousia by appealing to the uniformity of the past, responding with God's sovereignty over time (2Pet 3:8) and with the precedent of the flood (2Pet 3:6).",
+        "pt": "2 Pedro contém a descrição mais detalhada do NT sobre a destruição escatológica do cosmos e sua renovação. O Dia do Senhor virá inesperadamente (2Pe 3:10), os céus passarão com grande estrondo e os elementos se dissolverão com fogo ardente. Mas o horizonte não é a aniquilação, mas a renovação: os crentes esperam 'novos céus e nova terra onde habita a justiça' (2Pe 3:13). Pedro também enfrenta o ceticismo dos que negam a parusia apelando à uniformidade do passado, respondendo com a soberania de Deus sobre o tempo (2Pe 3:8) e com o precedente do dilúvio (2Pe 3:6)."
+      },
+      "pasajes": [
+        "2P 3:7",
+        "2P 3:8",
+        "2P 3:10",
+        "2P 3:13"
+      ],
+      "ensenanza": {
+        "es": "Los cielos y la tierra actuales están reservados por la Palabra divina para el fuego del juicio en el día de los impíos · para el Señor un día es como mil años, desmontando la objeción uniformista sobre la tardanza · el Día del Señor vendrá como ladrón y los elementos se disolverán con gran ardor · en esa renovación cósmica los creyentes esperan nuevos cielos y nueva tierra habitados por la justicia",
+        "en": "The present heavens and earth are reserved by the divine Word for the fire of judgment on the day of the ungodly · for the Lord a day is as a thousand years, dismantling the uniformist objection about the delay · the Day of the Lord will come like a thief and the elements will be dissolved with intense heat · in that cosmic renewal believers await new heavens and new earth inhabited by righteousness",
+        "pt": "Os céus e a terra atuais estão reservados pela Palavra divina para o fogo do julgamento no dia dos ímpios · para o Senhor um dia é como mil anos, desmontando a objeção uniformista sobre a demora · o Dia do Senhor virá como ladrão e os elementos se dissolverão com grande ardor · nessa renovação cósmica os crentes esperam novos céus e nova terra habitados pela justiça"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee 2P 3:10-13 como una descripción de la renovación cósmica de toda la creación (no su destrucción ontológica), coherente con Ro 8:19-22 e Is 65:17. La WCF Cap. 33 cita este pasaje para fundamentar la doctrina del juicio final y la resurrección como consumación de la historia redentora en el Pacto de Gracia.",
+        "en": "The Reformed tradition reads 2Pet 3:10-13 as a description of the cosmic renewal of all creation (not its ontological destruction), consistent with Rom 8:19-22 and Isa 65:17. WCF Chapter 33 cites this passage to ground the doctrine of the last judgment and resurrection as the consummation of redemptive history in the Covenant of Grace.",
+        "pt": "A tradição reformada lê 2Pe 3:10-13 como uma descrição da renovação cósmica de toda a criação (não sua destruição ontológica), coerente com Rm 8:19-22 e Is 65:17. A WCF Cap. 33 cita esta passagem para fundamentar a doutrina do julgamento final e da ressurreição como consumação da história redentora no Pacto de Graça."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "2 Pedro presenta a Cristo con el título 'nuestro Dios y Salvador Jesucristo' (2P 1:1), aplicando la Regla de Granville Sharp al artículo griego único que gobierna ambos sustantivos, afirmando así la plena deidad de Jesucristo. La transfiguración es citada como evidencia histórica ocular de la majestad divina del Señor (2P 1:16-18), y la carta concluye con una doxología que atribuye a Cristo 'la gloria ahora y hasta el día de la eternidad' (2P 3:18), ubicándolo como receptor de adoración eterna.",
+        "en": "2 Peter presents Christ with the title 'our God and Savior Jesus Christ' (2Pet 1:1), applying Granville Sharp's rule to the single Greek article governing both nouns, thus affirming the full deity of Jesus Christ. The transfiguration is cited as historical eyewitness evidence of the Lord's divine majesty (2Pet 1:16-18), and the letter concludes with a doxology attributing to Christ 'the glory both now and to the day of eternity' (2Pet 3:18), placing him as the object of eternal worship.",
+        "pt": "2 Pedro apresenta Cristo com o título 'nosso Deus e Salvador Jesus Cristo' (2Pe 1:1), aplicando a Regra de Granville Sharp ao artigo grego único que governa ambos os substantivos, afirmando assim a plena deidade de Jesus Cristo. A transfiguração é citada como evidência histórica e ocular da majestade divina do Senhor (2Pe 1:16-18), e a carta conclui com uma doxologia que atribui a Cristo 'a glória, tanto agora como no dia da eternidade' (2Pe 3:18), colocando-o como receptor de adoração eterna."
+      },
+      "pasajes": [
+        "2P 1:1",
+        "2P 1:16",
+        "2P 1:17",
+        "2P 3:18"
+      ],
+      "ensenanza": {
+        "es": "La carta se dirige a quienes han obtenido una fe igualmente preciosa a través de la justicia de nuestro Dios y Salvador Jesucristo, afirmando su deidad · el autor no siguió fábulas inventadas sino que fue testigo ocular de la majestad de Cristo · el Padre mismo declaró a Cristo su Hijo amado con el que tuvo complacencia · la carta termina con gloria dirigida a Cristo por la eternidad",
+        "en": "The letter is addressed to those who have obtained a faith of equal standing through the righteousness of our God and Savior Jesus Christ, affirming his deity · the author did not follow cleverly devised myths but was an eyewitness of Christ's majesty · the Father himself declared Christ his beloved Son in whom he was well pleased · the letter ends with glory directed to Christ for eternity",
+        "pt": "A carta se dirige aos que obtiveram fé igualmente preciosa por meio da justiça de nosso Deus e Salvador Jesus Cristo, afirmando sua deidade · o autor não seguiu fábulas inventadas, mas foi testemunha ocular da majestade de Cristo · o próprio Pai declarou Cristo seu Filho amado em quem se agradou · a carta termina com glória dirigida a Cristo pela eternidade"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada emplea 2P 1:1 como uno de los textos que afirman la plena deidad de Cristo dentro del Nuevo Testamento, coherente con la doctrina trinitaria de la WCF Cap. 2. La transfiguración como fundamento de la esperanza escatológica (2P 1:16-18) ilustra el énfasis reformado en la revelación histórica objetiva como base de la fe.",
+        "en": "The Reformed tradition employs 2Pet 1:1 as one of the texts affirming the full deity of Christ within the New Testament, consistent with the trinitarian doctrine of WCF Chapter 2. The transfiguration as the foundation of eschatological hope (2Pet 1:16-18) illustrates the Reformed emphasis on objective historical revelation as the basis of faith.",
+        "pt": "A tradição reformada emprega 2Pe 1:1 como um dos textos que afirmam a plena deidade de Cristo dentro do Novo Testamento, coerente com a doutrina trinitária da WCF Cap. 2. A transfiguração como fundamento da esperança escatológica (2Pe 1:16-18) ilustra a ênfase reformada na revelação histórica objetiva como base da fé."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "El poder divino del Señor ha concedido a los creyentes 'todo lo que necesitamos para la vida y la piedad' (2P 1:3), estableciendo que la vida cristiana descansa enteramente sobre recursos divinos provistos en Cristo. Por esta misma potencia, los creyentes llegan a ser 'participantes de la naturaleza divina' (2P 1:4), lo que la tradición reformada interpreta no como deificación ontológica sino como renovación moral y espiritual a la imagen de Dios. Dios no quiere que ninguno perezca sino que todos lleguen al arrepentimiento (2P 3:9), texto que la tradición reformada interpreta en el marco de la voluntad revelada de Dios.",
+        "en": "The divine power of the Lord has granted believers 'all things that pertain to life and godliness' (2Pet 1:3), establishing that the Christian life rests entirely on divine resources provided in Christ. By this same power, believers become 'partakers of the divine nature' (2Pet 1:4), which the Reformed tradition interprets not as ontological deification but as moral and spiritual renewal in God's image. God does not wish any to perish but for all to come to repentance (2Pet 3:9), a text the Reformed tradition interprets within the framework of God's revealed will.",
+        "pt": "O poder divino do Senhor concedeu aos crentes 'tudo o que se refere à vida e à piedade' (2Pe 1:3), estabelecendo que a vida cristã repousa inteiramente sobre recursos divinos providos em Cristo. Por esse mesmo poder, os crentes se tornam 'participantes da natureza divina' (2Pe 1:4), o que a tradição reformada interpreta não como deificação ontológica, mas como renovação moral e espiritual à imagem de Deus. Deus não quer que nenhum pereça, mas que todos se convertam ao arrependimento (2Pe 3:9), texto que a tradição reformada interpreta no quadro da vontade revelada de Deus."
+      },
+      "pasajes": [
+        "2P 1:3",
+        "2P 1:4",
+        "2P 3:9"
+      ],
+      "ensenanza": {
+        "es": "El poder divino ha provisto todo lo necesario para la vida y la piedad mediante el conocimiento de Cristo, que nos llamó por su gloria y excelencia · las grandes y preciosas promesas permiten a los creyentes escapar de la corrupción del mundo y participar de la naturaleza divina · el Señor es paciente y no quiere que ninguno perezca sino que todos lleguen al arrepentimiento",
+        "en": "Divine power has provided everything needed for life and godliness through the knowledge of Christ, who called us by his own glory and excellence · the great and precious promises allow believers to escape the corruption of the world and partake of the divine nature · the Lord is patient and does not wish any to perish but for all to come to repentance",
+        "pt": "O poder divino proveu tudo o necessário para a vida e a piedade mediante o conhecimento de Cristo, que nos chamou por sua própria glória e virtude · as grandes e preciosas promessas permitem aos crentes escapar da corrupção do mundo e participar da natureza divina · o Senhor é longânime e não quer que nenhum pereça, mas que todos se convertam ao arrependimento"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada interpreta 'participantes de la naturaleza divina' (2P 1:4) como participación en los atributos comunicables de Dios mediante la unión con Cristo —no como theōsis en el sentido ortodoxo oriental— coherente con la doctrina de la santificación. Respecto a 2P 3:9, la tradición reformada distingue entre la voluntad decretiva de Dios (que incluye la elección) y su voluntad revelada o preceptiva (que desea genuinamente el arrepentimiento de todos), resolviendo la tensión sin ceder al arminianism.",
+        "en": "The Reformed tradition interprets 'partakers of the divine nature' (2Pet 1:4) as participation in God's communicable attributes through union with Christ — not as theōsis in the Eastern Orthodox sense — consistent with the doctrine of sanctification. Regarding 2Pet 3:9, the Reformed tradition distinguishes between God's decretive will (which includes election) and his revealed or preceptive will (which genuinely desires the repentance of all), resolving the tension without conceding to Arminianism.",
+        "pt": "A tradição reformada interpreta 'participantes da natureza divina' (2Pe 1:4) como participação nos atributos comunicáveis de Deus mediante a união com Cristo — não como theōsis no sentido ortodoxo oriental — coerente com a doutrina da santificação. Quanto a 2Pe 3:9, a tradição reformada distingue entre a vontade decretiva de Deus (que inclui a eleição) e sua vontade revelada ou preceptiva (que genuinamente deseja o arrependimento de todos), resolvendo a tensão sem ceder ao arminianismo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "En 2 Pedro el llamado y la elección de Dios son el fundamento sobre el que descansa la vida cristiana (2P 1:3), y los creyentes son exhortados a 'hacer firme su llamado y elección' (2P 1:10) mediante el crecimiento en virtud. Esto no significa que la elección sea incierta, sino que la diligencia en las gracias cristianas proporciona la evidencia experimental de la elección y la certeza subjetiva de la salvación. Quien así actúa 'nunca tropezará' y tendrá entrada abundante en el reino eterno de Cristo (2P 1:10-11).",
+        "en": "In 2 Peter God's call and election are the foundation on which Christian life rests (2Pet 1:3), and believers are exhorted to 'confirm your calling and election' (2Pet 1:10) through growth in virtue. This does not mean that election is uncertain, but that diligence in Christian graces provides the experiential evidence of election and the subjective assurance of salvation. Those who do so 'will never fall' and will receive a rich entrance into the eternal kingdom of Christ (2Pet 1:10-11).",
+        "pt": "Em 2 Pedro o chamado e a eleição de Deus são o fundamento sobre o qual repousa a vida cristã (2Pe 1:3), e os crentes são exortados a 'firmar a sua vocação e eleição' (2Pe 1:10) mediante o crescimento em virtude. Isso não significa que a eleição seja incerta, mas que a diligência nas graças cristãs fornece a evidência experimental da eleição e a certeza subjetiva da salvação. Quem assim age 'nunca tropeçará' e receberá entrada abundante no reino eterno de Cristo (2Pe 1:10-11)."
+      },
+      "pasajes": [
+        "2P 1:3",
+        "2P 1:10",
+        "2P 1:11"
+      ],
+      "ensenanza": {
+        "es": "El poder divino que ha provisto todo para la vida y la piedad descansa en el llamado eficaz con que Dios nos llamó · la exhortación a ser diligentes confirma que la elección se evidencia en la práctica de las virtudes, no solo en la confesión · quien hace firme su elección mediante las gracias nunca tropeçará y le será otorgada entrada abundante en el reino eterno",
+        "en": "The divine power that has provided everything for life and godliness rests on the effectual call by which God called us · the exhortation to be diligent confirms that election is evidenced in the practice of virtues, not merely in confession · those who confirm their election through the graces will never fall and will be granted rich entrance into the eternal kingdom",
+        "pt": "O poder divino que proveu tudo para a vida e a piedade repousa no chamado eficaz pelo qual Deus nos chamou · a exortação a ser diligente confirma que a eleição se evidencia na prática das virtudes, não apenas na confissão · quem firma sua eleição mediante as graças nunca tropeçará e lhe será concedida entrada abundante no reino eterno"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada entiende 2P 1:10 no como un mandato a asegurar la elección por obras, sino como la exhortación a buscar la certeza de la elección mediante los frutos de la gracia. La WCF XVIII.2 emplea la lógica de 2P 1:10-11 para afirmar que la certeza de la salvación puede alcanzarse mediante el examen de los frutos del Espíritu, sin hacer de esos frutos la base de la justificación.",
+        "en": "The Reformed tradition understands 2Pet 1:10 not as a mandate to secure election by works, but as an exhortation to seek assurance of election through the fruits of grace. WCF XVIII.2 employs the logic of 2Pet 1:10-11 to affirm that assurance of salvation can be attained through examination of the fruits of the Spirit, without making those fruits the basis of justification.",
+        "pt": "A tradição reformada entende 2Pe 1:10 não como um mandato para assegurar a eleição por obras, mas como a exortação a buscar a certeza da eleição mediante os frutos da graça. A WCF XVIII.2 emprega a lógica de 2Pe 1:10-11 para afirmar que a certeza da salvação pode ser alcançada mediante o exame dos frutos do Espírito, sem fazer desses frutos a base da justificação."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "El capítulo 2 de 2 Pedro es la descripción más intensa del NT sobre los falsos maestros y su corrupción doctrinal y moral. Estos niegan al Señor que los rescató (2P 2:1), prometen libertad mientras son esclavos de la corrupción (2P 2:19) y arrastran a los inestables a la concupiscencia de la carne (2P 2:14). Su apostasía puede involucrar un conocimiento previo del camino de justicia (2P 2:20-22), lo que plantea la gravedad agravada del pecado de quien conoció la verdad y se apartó de ella. Su condición final es peor que la inicial (2P 2:20).",
+        "en": "Chapter 2 of 2 Peter is the most intense NT description of false teachers and their doctrinal and moral corruption. They deny the Master who bought them (2Pet 2:1), promise freedom while being slaves to corruption (2Pet 2:19), and drag the unstable into fleshly desires (2Pet 2:14). Their apostasy can involve prior knowledge of the way of righteousness (2Pet 2:20-22), which raises the aggravated gravity of the sin of those who knew the truth and turned away from it. Their final condition is worse than their initial one (2Pet 2:20).",
+        "pt": "O capítulo 2 de 2 Pedro é a descrição mais intensa do NT sobre os falsos mestres e sua corrupção doutrinária e moral. Estes negam o Senhor que os redimiu (2Pe 2:1), prometem liberdade enquanto são escravos da corrupção (2Pe 2:19) e arrastam os instáveis para a concupiscência da carne (2Pe 2:14). Sua apostasia pode envolver conhecimento prévio do caminho da justiça (2Pe 2:20-22), o que levanta a gravidade agravada do pecado de quem conheceu a verdade e dela se afastou. Sua condição final é pior do que a inicial (2Pe 2:20)."
+      },
+      "pasajes": [
+        "2P 2:1",
+        "2P 2:14",
+        "2P 2:19",
+        "2P 2:20"
+      ],
+      "ensenanza": {
+        "es": "Los falsos profetas negarán al Señor que los rescató y atraerán sobre sí destrucción repentina · sus ojos están llenos de adulterio e incapacidad para cesar del pecado, seduciendo a almas inestables y practicando la codicia · prometen libertad a otros mientras ellos mismos son esclavos de la corrupción · para quienes conocieron el camino de justicia y se apartaron, su estado final es peor que el primero",
+        "en": "False prophets will deny the Master who bought them and bring swift destruction upon themselves · their eyes are full of adultery and unable to cease sinning, enticing unstable souls and practicing greed · they promise freedom to others while themselves being slaves to corruption · for those who knew the way of righteousness and turned back, their last state is worse than the first",
+        "pt": "Os falsos profetas negarão o Senhor que os redimiu e trarão sobre si destruição repentina · seus olhos estão cheios de adultério e incapacidade de parar de pecar, seduzindo almas instáveis e praticando a avareza · prometem liberdade a outros enquanto eles mesmos são escravos da corrupção · para os que conheceram o caminho da justiça e se afastaram, seu estado final é pior do que o primeiro"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada interpreta 2P 2:20-22 como una descripción de la apostasía de quienes tuvieron un conocimiento externo del evangelio (una iluminación del entendimiento sin regeneración genuina, cf. He 6:4-6) y no como prueba de la pérdida de la salvación de los verdaderamente elegidos. La perseverancia de los santos (WCF Cap. 17) implica que los verdaderos elegidos no apostatan definitivamente.",
+        "en": "The Reformed tradition interprets 2Pet 2:20-22 as a description of the apostasy of those who had an external knowledge of the gospel (an enlightening of the understanding without genuine regeneration, cf. Heb 6:4-6) and not as proof of the loss of salvation of the truly elect. The perseverance of the saints (WCF Chapter 17) implies that the truly elect do not definitively apostatize.",
+        "pt": "A tradição reformada interpreta 2Pe 2:20-22 como uma descrição da apostasia dos que tiveram um conhecimento externo do evangelho (uma iluminação do entendimento sem regeneração genuína, cf. Hb 6:4-6) e não como prova da perda da salvação dos verdadeiramente eleitos. A perseverança dos santos (WCF Cap. 17) implica que os verdadeiros eleitos não apostasiam definitivamente."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 1",
+      "titulo": {
+        "es": "De la Santa Escritura",
+        "en": "Of the Holy Scripture",
+        "pt": "Das Sagradas Escrituras"
+      },
+      "doctrinas": [
+        "Bibliología",
+        "Inspiración",
+        "Autoridad"
+      ],
+      "resumen": {
+        "es": "La WCF Cap. 1 afirma que toda la Escritura es divinamente inspirada y, por tanto, infalible e inerrante en sus autógrafos. El fundamento de esta doctrina descansa en la enseñanza explícita del NT, siendo 2P 1:20-21 el texto primario que articula el mecanismo de la inspiración: el Espíritu Santo llevó a los autores humanos de modo que sus palabras son genuinamente las palabras de Dios. La WCF distingue la autoridad de la Escritura de la autoridad de cualquier testimonio humano.",
+        "en": "WCF Chapter 1 affirms that all Scripture is divinely inspired and therefore infallible and inerrant in its autographs. The foundation of this doctrine rests on the explicit teaching of the NT, with 2Pet 1:20-21 being the primary text articulating the mechanism of inspiration: the Holy Spirit carried the human authors so that their words are genuinely God's words. The WCF distinguishes the authority of Scripture from the authority of any human testimony.",
+        "pt": "A WCF Cap. 1 afirma que toda a Escritura é divinamente inspirada e, portanto, infalível e inerrante em seus autógrafos. O fundamento desta doutrina repousa no ensino explícito do NT, sendo 2Pe 1:20-21 o texto primário que articula o mecanismo da inspiração: o Espírito Santo moveu os autores humanos de tal forma que suas palavras são genuinamente as palavras de Deus. A WCF distingue a autoridade da Escritura da autoridade de qualquer testemunho humano."
+      },
+      "genesis": [
+        "2P 1:19",
+        "2P 1:20",
+        "2P 1:21"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-1"
+    },
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Juicio",
+        "Preservación de los Elegidos"
+      ],
+      "resumen": {
+        "es": "La WCF Cap. 5 afirma que Dios gobierna soberanamente sobre todas las criaturas y sobre todos sus actos, incluyendo el juicio de los impíos y la preservación de los justos. 2 Pedro fundamenta esta doctrina al mostrar que Dios sabe cómo librar a los piadosos de la prueba y reservar a los injustos para el día del juicio (2P 2:9), ilustrado con los ejemplos de los ángeles caídos, el diluvio y Sodoma. La providencia incluye el juicio activo sobre el pecado.",
+        "en": "WCF Chapter 5 affirms that God governs sovereignly over all creatures and all their actions, including the judgment of the ungodly and the preservation of the righteous. 2 Peter grounds this doctrine by showing that God knows how to rescue the godly from trials and reserve the unrighteous for the day of judgment (2Pet 2:9), illustrated by the examples of fallen angels, the flood, and Sodom. Providence includes active judgment against sin.",
+        "pt": "A WCF Cap. 5 afirma que Deus governa soberanamente sobre todas as criaturas e sobre todos os seus atos, incluindo o julgamento dos ímpios e a preservação dos justos. 2 Pedro fundamenta esta doutrina ao mostrar que Deus sabe como livrar os piedosos da provação e reservar os injustos para o dia do julgamento (2Pe 2:9), ilustrado pelos exemplos dos anjos caídos, o dilúvio e Sodoma. A providência inclui o julgamento ativo contra o pecado."
+      },
+      "genesis": [
+        "2P 2:4",
+        "2P 2:5",
+        "2P 2:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio Final",
+        "Nueva Creación"
+      ],
+      "resumen": {
+        "es": "La WCF Cap. 33 afirma que Dios ha establecido un día en el que juzgará al mundo en justicia por Jesucristo. 2 Pedro es el texto neotestamentario que más detalladamente describe este evento: el Día del Señor vendrá inesperadamente (2P 3:10), los elementos serán disueltos con fuego, y dará paso a los nuevos cielos y la nueva tierra donde mora la justicia (2P 3:13). Pedro vincula este conocimiento con la llamada a vivir en santidad y piedad (2P 3:11-14).",
+        "en": "WCF Chapter 33 affirms that God has appointed a day on which he will judge the world in righteousness by Jesus Christ. 2 Peter is the New Testament text that most fully describes this event: the Day of the Lord will come unexpectedly (2Pet 3:10), the elements will be dissolved by fire, and it will give way to the new heavens and new earth in which righteousness dwells (2Pet 3:13). Peter links this knowledge with the call to live in holiness and godliness (2Pet 3:11-14).",
+        "pt": "A WCF Cap. 33 afirma que Deus estabeleceu um dia no qual julgará o mundo em justiça por Jesus Cristo. 2 Pedro é o texto neotestamentário que mais detalhadamente descreve este evento: o Dia do Senhor virá inesperadamente (2Pe 3:10), os elementos serão dissolvidos pelo fogo, e dará lugar aos novos céus e nova terra onde habita a justiça (2Pe 3:13). Pedro vincula este conhecimento com o chamado a viver em santidade e piedade (2Pe 3:11-14)."
+      },
+      "genesis": [
+        "2P 3:7",
+        "2P 3:10",
+        "2P 3:12",
+        "2P 3:13"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "2P 1:3",
+      "es": "Su divino poder nos ha concedido todo lo que necesitamos para la vida y la piedad, a través del verdadero conocimiento de aquel que nos llamó por su propia gloria y excelencia.",
+      "en": "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence.",
+      "pt": "Como o seu divino poder nos tem dado todas as coisas que pertencem à vida e à piedade, pelo conhecimento daquele que nos chamou para a sua própria glória e virtude.",
+      "nota": {
+        "es": "Este versículo establece el fundamento de toda la carta: la vida cristiana no descansa en el esfuerzo humano sino en el poder divino provisto en Cristo. El 'verdadero conocimiento' (épignōsis) de Cristo es el canal mediante el cual se recibe todo lo necesario para la piedad, situando el crecimiento cristiano en la relación con la persona del Señor y no en técnicas de desarrollo personal.",
+        "en": "This verse establishes the foundation of the entire letter: the Christian life rests not on human effort but on the divine power provided in Christ. The 'true knowledge' (epignōsis) of Christ is the channel through which everything needed for godliness is received, locating Christian growth in relationship with the person of the Lord rather than in techniques of personal development.",
+        "pt": "Este versículo estabelece o fundamento de toda a carta: a vida cristã não repousa no esforço humano, mas no poder divino provido em Cristo. O 'verdadeiro conhecimento' (épignōsis) de Cristo é o canal pelo qual se recebe tudo o que é necessário para a piedade, situando o crescimento cristão na relação com a pessoa do Senhor e não em técnicas de desenvolvimento pessoal."
+      }
+    },
+    {
+      "ref": "2P 1:10",
+      "es": "Por eso, hermanos, sean aún más diligentes para hacer firme su llamado y elección de parte de Dios; porque mientras practiquen estas cosas, nunca tropezarán.",
+      "en": "Therefore, brothers, be all the more diligent to confirm your calling and election, for if you practice these things, you will never fall.",
+      "pt": "Portanto, irmãos, procurai fazer mais firme a vossa vocação e eleição; porque, fazendo isso, nunca tropeçareis.",
+      "nota": {
+        "es": "Versículo clave para la doctrina reformada de la certeza de la salvación. No es un mandato a asegurar la elección de Dios (que es inmutable), sino a obtener la certeza subjetiva de la propia elección mediante el cultivo de las gracias enumeradas en 2P 1:5-7. La elección es el fundamento, y las virtudes son la evidencia visible de esa elección en la vida del creyente.",
+        "en": "A key verse for the Reformed doctrine of assurance of salvation. It is not a command to secure God's election (which is immutable), but to obtain subjective assurance of one's own election through cultivation of the graces listed in 2Pet 1:5-7. Election is the foundation, and the virtues are the visible evidence of that election in the believer's life.",
+        "pt": "Versículo chave para a doutrina reformada da certeza da salvação. Não é um mandato para assegurar a eleição de Deus (que é imutável), mas para obter a certeza subjetiva da própria eleição mediante o cultivo das graças enumeradas em 2Pe 1:5-7. A eleição é o fundamento, e as virtudes são a evidência visível dessa eleição na vida do crente."
+      }
+    },
+    {
+      "ref": "2P 1:21",
+      "es": "porque ninguna profecía fue dada jamás por la voluntad del hombre, sino que hombres inspirados por el Espíritu Santo hablaron de parte de Dios.",
+      "en": "For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.",
+      "pt": "porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo.",
+      "nota": {
+        "es": "El texto clásico de la doctrina de la inspiración plena verbal. El verbo griego φερόμενοι (pheroménoi, 'llevados') describe una acción soberana del Espíritu que usa instrumentos humanos activos sin anularlos. Los hombres hablaron —eran autores genuinos— pero lo que dijeron provino de Dios, no de su propia voluntad. Este es el fundamento exegético de la infalibilidad escritural.",
+        "en": "The classic text of the doctrine of verbal plenary inspiration. The Greek verb pheroménoi ('carried along') describes a sovereign action of the Spirit who uses active human instruments without annulling them. The men spoke — they were genuine authors — but what they said came from God, not from their own will. This is the exegetical foundation of scriptural infallibility.",
+        "pt": "O texto clássico da doutrina da inspiração verbal plenária. O verbo grego pheroménoi ('movidos') descreve uma ação soberana do Espírito que usa instrumentos humanos ativos sem anulá-los. Os homens falaram — eram autores genuínos — mas o que disseram provinha de Deus, não de sua própria vontade. Este é o fundamento exegético da infalibilidade escritural."
+      }
+    },
+    {
+      "ref": "2P 3:9",
+      "es": "El Señor no tarda en cumplir Su promesa, según algunos entienden la tardanza, sino que es paciente para con ustedes, no queriendo que nadie perezca, sino que todos lleguen al arrepentimiento.",
+      "en": "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.",
+      "pt": "O Senhor não retarda a sua promessa, ainda que alguns a tenham por tardança; mas é longânime para convosco, não querendo que nenhum pereça, mas que todos se convertam ao arrependimento.",
+      "nota": {
+        "es": "Pedro responde a los escépticos que interpretan la demora de la parusía como incumplimiento de la promesa. La respuesta es teológica: Dios no opera bajo la urgencia del tiempo humano (cf. 2P 3:8); su demora es expresión de paciencia y misericordia. La tradición reformada distingue aquí entre la voluntad decretiva de Dios y su voluntad revelada: el deseo de que 'todos lleguen al arrepentimiento' expresa su voluntad preceptiva genuina, no su decreto eterno.",
+        "en": "Peter responds to skeptics who interpret the delay of the parousia as the promise being unfulfilled. The response is theological: God does not operate under the urgency of human time (cf. 2Pet 3:8); his delay is an expression of patience and mercy. The Reformed tradition here distinguishes between God's decretive will and his revealed will: the desire that 'all should reach repentance' expresses his genuine preceptive will, not his eternal decree.",
+        "pt": "Pedro responde aos céticos que interpretam a demora da parusia como o não cumprimento da promessa. A resposta é teológica: Deus não opera sob a urgência do tempo humano (cf. 2Pe 3:8); sua demora é expressão de paciência e misericórdia. A tradição reformada distingue aqui entre a vontade decretiva de Deus e sua vontade revelada: o desejo de que 'todos se convertam ao arrependimento' expressa sua vontade preceptiva genuína, não seu decreto eterno."
+      }
+    },
+    {
+      "ref": "2P 3:18",
+      "es": "sino crezcan en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A Él sea la gloria ahora y hasta el día de la eternidad. Amén.",
+      "en": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.",
+      "pt": "Antes, crescei na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja a glória, tanto agora como no dia da eternidade. Amém.",
+      "nota": {
+        "es": "El versículo final de la carta condensa el programa teológico de 2 Pedro: el crecimiento cristiano tiene como objeto el conocimiento de Cristo, como medio la gracia, y como horizonte la eternidad. Que el crecimiento sea 'en la gracia' subraya que la santificación es obra divina; que sea 'en el conocimiento' enfatiza que la épignōsis de Cristo es el alma de la vida cristiana. La doxología final al Señor confirma la plena deidad de Cristo.",
+        "en": "The final verse of the letter condenses the theological program of 2 Peter: Christian growth has the knowledge of Christ as its object, grace as its means, and eternity as its horizon. That growth is 'in grace' underlines that sanctification is a divine work; that it is 'in knowledge' emphasizes that epignōsis of Christ is the soul of the Christian life. The final doxology to the Lord confirms the full deity of Christ.",
+        "pt": "O versículo final da carta condensa o programa teológico de 2 Pedro: o crescimento cristão tem como objeto o conhecimento de Cristo, como meio a graça, e como horizonte a eternidade. Que o crescimento seja 'na graça' sublinha que a santificação é obra divina; que seja 'no conhecimento' enfatiza que a épignōsis de Cristo é a alma da vida cristã. A doxologia final ao Senhor confirma a plena deidade de Cristo."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "2 Pedro ocupa un lugar singular en el canon reformado por tres razones principales. Primera, provee el texto fundacional de la doctrina de la inspiración verbal plenaria (2P 1:20-21), que la WCF Cap. 1 cita directamente para fundamentar la infalibilidad de la Escritura. Segunda, la exhortación a 'hacer firme el llamado y la elección' (2P 1:10) es el texto clásico de la teología reformada sobre la certeza de la elección como fruto visible —no como fundamento— de la gracia salvífica, distinguiendo la tradición reformada del armenianismo y del antinomismo. Tercera, la escatología de 2P 3 proporciona la base bíblica para la expectativa reformada de la renovación cósmica: el Día del Señor destruye el orden presente corrompido por el pecado y lo reemplaza con 'nuevos cielos y nueva tierra donde mora la justicia', que la tradición reformada lee como la restauración de la buena creación original más que su aniquilación.",
+    "en": "2 Peter occupies a singular place in the Reformed canon for three main reasons. First, it provides the foundational text for the doctrine of verbal plenary inspiration (2Pet 1:20-21), which WCF Chapter 1 cites directly to ground the infallibility of Scripture. Second, the exhortation to 'confirm your calling and election' (2Pet 1:10) is the classic Reformed theology text on assurance of election as a visible fruit — not as a foundation — of saving grace, distinguishing the Reformed tradition from Arminianism and antinomianism. Third, the eschatology of 2Pet 3 provides the biblical basis for the Reformed expectation of cosmic renewal: the Day of the Lord destroys the present order corrupted by sin and replaces it with 'new heavens and new earth in which righteousness dwells,' which the Reformed tradition reads as the restoration of the original good creation rather than its annihilation.",
+    "pt": "2 Pedro ocupa um lugar singular no cânone reformado por três razões principais. Primeira, fornece o texto fundacional da doutrina da inspiração verbal plenária (2Pe 1:20-21), que a WCF Cap. 1 cita diretamente para fundamentar a infalibilidade da Escritura. Segunda, a exortação a 'firmar a vocação e eleição' (2Pe 1:10) é o texto clássico da teologia reformada sobre a certeza da eleição como fruto visível — não como fundamento — da graça salvífica, distinguindo a tradição reformada do arminianismo e do antinomismo. Terceira, a escatologia de 2Pe 3 fornece a base bíblica para a expectativa reformada de renovação cósmica: o Dia do Senhor destrói a ordem presente corrompida pelo pecado e a substitui por 'novos céus e nova terra onde habita a justiça', que a tradição reformada lê como a restauração da boa criação original, mais do que sua aniquilação."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Fundamentos de la Vida Cristiana y la Palabra Profética",
+        "en": "Foundations of Christian Life and the Prophetic Word",
+        "pt": "Fundamentos da Vida Cristã e a Palavra Profética"
+      },
+      "descripcion": {
+        "es": "Pedro abre su carta declarando que el poder divino ha provisto todo lo necesario para la vida y la piedad mediante el conocimiento de Cristo (2P 1:3-4), y que los creyentes, como participantes de la naturaleza divina, deben añadir a su fe una cadena ascendente de virtudes: virtud, conocimiento, dominio propio, perseverancia, piedad, afecto fraternal y amor (2P 1:5-7). Esta 'escalera de virtudes' no es una lista de méritos sino la descripción del crecimiento orgánico de la gracia salvífica en el alma regenerada. Pedro los exhorta a ser diligentes para hacer firme su llamado y elección (2P 1:10), pues así se les garantiza la entrada abundante en el reino eterno de Cristo (2P 1:11). Consciente de su muerte inminente (2P 1:14), Pedro invoca su testimonio ocular en la transfiguración como base objetiva e histórica de la esperanza escatológica (2P 1:16-18) y culmina afirmando que toda la Escritura profética fue dada por el Espíritu Santo, no por voluntad humana (2P 1:20-21).",
+        "en": "Peter opens his letter declaring that divine power has provided everything needed for life and godliness through the knowledge of Christ (2Pet 1:3-4), and that believers, as partakers of the divine nature, must add to their faith an ascending chain of virtues: virtue, knowledge, self-control, steadfastness, godliness, brotherly affection, and love (2Pet 1:5-7). This 'ladder of virtues' is not a list of merits but the description of the organic growth of saving grace in the regenerate soul. Peter exhorts them to be diligent in confirming their calling and election (2Pet 1:10), for in this way an abundant entrance into the eternal kingdom of Christ is guaranteed (2Pet 1:11). Aware of his imminent death (2Pet 1:14), Peter invokes his eyewitness testimony at the transfiguration as the objective, historical basis of eschatological hope (2Pet 1:16-18) and culminates by affirming that all scriptural prophecy was given by the Holy Spirit, not by human will (2Pet 1:20-21).",
+        "pt": "Pedro abre sua carta declarando que o poder divino proveu tudo o necessário para a vida e a piedade mediante o conhecimento de Cristo (2Pe 1:3-4), e que os crentes, como participantes da natureza divina, devem acrescentar à sua fé uma cadeia ascendente de virtudes: virtude, conhecimento, domínio próprio, perseverança, piedade, afeto fraternal e amor (2Pe 1:5-7). Esta 'escada de virtudes' não é uma lista de méritos, mas a descrição do crescimento orgânico da graça salvífica na alma regenerada. Pedro os exorta a serem diligentes em firmar sua vocação e eleição (2Pe 1:10), pois assim lhes é garantida a entrada abundante no reino eterno de Cristo (2Pe 1:11). Consciente de sua morte iminente (2Pe 1:14), Pedro invoca seu testemunho ocular na transfiguração como base objetiva e histórica da esperança escatológica (2Pe 1:16-18) e culmina afirmando que toda a profecia escritural foi dada pelo Espírito Santo, não pela vontade humana (2Pe 1:20-21)."
+      },
+      "eventoClave": {
+        "es": "La doble afirmación de 2P 1:16-21 constituye el núcleo apologético del capítulo: la esperanza cristiana descansa sobre el testimonio ocular apostólico (la transfiguración, 2P 1:16-18) y sobre la Escritura inspirada (2P 1:20-21), dos fuentes objetivas e irrefutables de certeza.",
+        "en": "The double affirmation of 2Pet 1:16-21 constitutes the apologetic core of the chapter: Christian hope rests on apostolic eyewitness testimony (the transfiguration, 2Pet 1:16-18) and on inspired Scripture (2Pet 1:20-21), two objective and irrefutable sources of certainty.",
+        "pt": "A dupla afirmação de 2Pe 1:16-21 constitui o núcleo apologético do capítulo: a esperança cristã repousa no testemunho ocular apostólico (a transfiguração, 2Pe 1:16-18) e na Escritura inspirada (2Pe 1:20-21), duas fontes objetivas e irrefutáveis de certeza."
+      },
+      "versiculoClave": "2P 1:21",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Advertencia contra los Falsos Maestros y su Juicio",
+        "en": "Warning against False Teachers and Their Judgment",
+        "pt": "Advertência contra os Falsos Mestres e seu Julgamento"
+      },
+      "descripcion": {
+        "es": "Con urgencia profética, Pedro advierte que hubo falsos profetas entre el pueblo de Israel y que habrá falsos maestros entre los creyentes (2P 2:1), que introducirán encubiertamente herejías destructoras, negarán al Señor que los rescató y atraerán muchos al camino de la sensualidad. Pedro fundamenta la certeza del juicio venidero sobre estos maestros mediante tres exempla del AT: los ángeles que pecaron y fueron arrojados al Tártaro (2P 2:4), el mundo impío destruido por el diluvio mientras Noé era preservado (2P 2:5), y las ciudades de Sodoma y Gomorra que fueron condenadas al fuego mientras Lot era rescatado (2P 2:6-8). La conclusión teológica es clara: el Señor sabe cómo librar a los piadosos de la prueba y reservar a los injustos para el día del juicio (2P 2:9). Pedro concluye el capítulo describiendo el destino deplorable de los falsos maestros: habiendo conocido el camino de la justicia, se apartaron de él (2P 2:20-21), y su condición final es peor que la inicial —como el perro que vuelve a su vómito (2P 2:22; cf. Pr 26:11).",
+        "en": "With prophetic urgency, Peter warns that there were false prophets among the people of Israel and that there will be false teachers among believers (2Pet 2:1), who will secretly introduce destructive heresies, denying the Master who bought them and leading many into the way of sensuality. Peter grounds the certainty of coming judgment on these teachers through three OT exempla: the angels who sinned and were cast into Tartarus (2Pet 2:4), the ungodly world destroyed by the flood while Noah was preserved (2Pet 2:5), and the cities of Sodom and Gomorrah condemned to fire while Lot was rescued (2Pet 2:6-8). The theological conclusion is clear: the Lord knows how to rescue the godly from trials and reserve the unrighteous for the day of judgment (2Pet 2:9). Peter closes the chapter describing the deplorable fate of false teachers: having known the way of righteousness, they turned from it (2Pet 2:20-21), and their final state is worse than their first — like the dog that returns to its vomit (2Pet 2:22; cf. Prov 26:11).",
+        "pt": "Com urgência profética, Pedro adverte que houve falsos profetas entre o povo de Israel e que haverá falsos mestres entre os crentes (2Pe 2:1), que introduzirão encobertamente heresias destruidoras, negarão o Senhor que os redimiu e atrairão muitos ao caminho da sensualidade. Pedro fundamenta a certeza do julgamento vindouro sobre esses mestres mediante três exempla do AT: os anjos que pecaram e foram lançados no Tártaro (2Pe 2:4), o mundo ímpio destruído pelo dilúvio enquanto Noé era preservado (2Pe 2:5), e as cidades de Sodoma e Gomorra condenadas ao fogo enquanto Ló era resgatado (2Pe 2:6-8). A conclusão teológica é clara: o Senhor sabe como livrar os piedosos da provação e reservar os injustos para o dia do julgamento (2Pe 2:9). Pedro conclui o capítulo descrevendo o destino deplorável dos falsos mestres: tendo conhecido o caminho da justiça, deles se desviaram (2Pe 2:20-21), e sua condição final é pior do que a inicial — como o cão que volta ao seu vômito (2Pe 2:22; cf. Pv 26:11)."
+      },
+      "eventoClave": {
+        "es": "El patrón triple de juicio y rescate en 2P 2:4-9 establece el principio providencial inmutable: el mismo Dios que juzgó a los ángeles caídos, al mundo del diluvio y a Sodoma, juzgará a los falsos maestros; y el mismo que preservó a Noé y Lot, preservará a los suyos.",
+        "en": "The triple pattern of judgment and rescue in 2Pet 2:4-9 establishes the immutable providential principle: the same God who judged the fallen angels, the world of the flood, and Sodom will judge the false teachers; and the same one who preserved Noah and Lot will preserve his own.",
+        "pt": "O padrão triplo de julgamento e resgate em 2Pe 2:4-9 estabelece o princípio providencial imutável: o mesmo Deus que julgou os anjos caídos, o mundo do dilúvio e Sodoma, julgará os falsos mestres; e o mesmo que preservou Noé e Ló, preservará os seus."
+      },
+      "versiculoClave": "2P 2:9",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "El Día del Señor, la Paciencia de Dios y la Nueva Creación",
+        "en": "The Day of the Lord, God's Patience, and the New Creation",
+        "pt": "O Dia do Senhor, a Paciência de Deus e a Nova Criação"
+      },
+      "descripcion": {
+        "es": "El capítulo final de 2 Pedro confronta el principal argumento de los escépticos contra la parusía: la aparente demora del Señor (2P 3:3-4). Pedro responde con tres argumentos teológicos: primero, la pausa del Señor no es tardanza sino paciencia, pues Él no mide el tiempo como los hombres —'para el Señor un día es como mil años' (2P 3:8)— y su demora refleja su deseo de que todos lleguen al arrepentimiento (2P 3:9). Segundo, el argumento de la uniformidad pasada es refutado por el precedente del diluvio: el mundo anterior también fue destruido por la Palabra divina (2P 3:5-6), y el orden actual está igualmente reservado para el fuego del día del juicio (2P 3:7). Tercero, Pedro describe el Día del Señor con la imagen del ladrón nocturno (2P 3:10): los cielos pasarán y los elementos se disolverán, pero el horizonte es la renovación y no la aniquilación —nuevos cielos y nueva tierra donde mora la justicia (2P 3:13; cf. Is 65:17). Esta esperanza escatológica tiene consecuencias éticas inmediatas: los creyentes deben vivir en santidad y piedad (2P 3:11-14), y la carta concluye exhortando al crecimiento en la gracia y el conocimiento de Cristo (2P 3:18).",
+        "en": "The final chapter of 2 Peter confronts the main argument of skeptics against the parousia: the apparent delay of the Lord (2Pet 3:3-4). Peter responds with three theological arguments: first, the Lord's pause is not slowness but patience, for he does not measure time as men do — 'with the Lord one day is as a thousand years' (2Pet 3:8) — and his delay reflects his desire for all to come to repentance (2Pet 3:9). Second, the argument from past uniformity is refuted by the precedent of the flood: the former world was also destroyed by the divine Word (2Pet 3:5-6), and the present order is equally reserved for the fire of the day of judgment (2Pet 3:7). Third, Peter describes the Day of the Lord with the image of the nocturnal thief (2Pet 3:10): the heavens will pass away and the elements will be dissolved, but the horizon is renewal and not annihilation — new heavens and new earth in which righteousness dwells (2Pet 3:13; cf. Isa 65:17). This eschatological hope has immediate ethical consequences: believers must live in holiness and godliness (2Pet 3:11-14), and the letter concludes by exhorting growth in the grace and knowledge of Christ (2Pet 3:18).",
+        "pt": "O capítulo final de 2 Pedro confronta o principal argumento dos céticos contra a parusia: a aparente demora do Senhor (2Pe 3:3-4). Pedro responde com três argumentos teológicos: primeiro, a pausa do Senhor não é tardança, mas paciência, pois ele não mede o tempo como os homens — 'para o Senhor um dia é como mil anos' (2Pe 3:8) — e sua demora reflete o desejo de que todos se convertam ao arrependimento (2Pe 3:9). Segundo, o argumento da uniformidade passada é refutado pelo precedente do dilúvio: o mundo anterior também foi destruído pela Palavra divina (2Pe 3:5-6), e a ordem atual está igualmente reservada para o fogo do dia do julgamento (2Pe 3:7). Terceiro, Pedro descreve o Dia do Senhor com a imagem do ladrão noturno (2Pe 3:10): os céus passarão e os elementos se dissolverão, mas o horizonte é a renovação e não a aniquilação — novos céus e nova terra onde habita a justiça (2Pe 3:13; cf. Is 65:17). Esta esperança escatológica tem consequências éticas imediatas: os crentes devem viver em santidade e piedade (2Pe 3:11-14), e a carta conclui exortando ao crescimento na graça e no conhecimento de Cristo (2Pe 3:18)."
+      },
+      "eventoClave": {
+        "es": "La respuesta de 2P 3:8-9 al problema de la demora de la parusía es el momento climático del capítulo: la paciencia de Dios transforma el problema del escepticismo en la oportunidad de la misericordia, y su medida del tiempo revela su trascendencia soberana sobre la creación.",
+        "en": "The response of 2Pet 3:8-9 to the problem of the parousia's delay is the climactic moment of the chapter: God's patience transforms the problem of skepticism into the opportunity of mercy, and his measure of time reveals his sovereign transcendence over creation.",
+        "pt": "A resposta de 2Pe 3:8-9 ao problema da demora da parusia é o momento culminante do capítulo: a paciência de Deus transforma o problema do ceticismo na oportunidade da misericórdia, e sua medida do tempo revela sua transcendência soberana sobre a criação."
+      },
+      "versiculoClave": "2P 3:13",
+      "era": "Aplicación"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway editors (gen. ed. Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Notas exegéticas",
+          "Contexto histórico",
+          "Personajes",
+          "Resumen de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Exegetical notes",
+          "Historical context",
+          "Characters",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Notas exegéticas",
+          "Contexto histórico",
+          "Personagens",
+          "Resumo de capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es la Biblia de estudio más vendida en el mundo evangélico reformado anglófono, publicada por Crossway en 2008. Fue producida por más de 100 eruditos bíblicos bajo la dirección general de Wayne Grudem, con colaboración de teólogos como J.I. Packer, Thomas Schreiner y John Piper. Su autoridad académica y su perspectiva inerrancista la han convertido en referencia indispensable en instituciones como el Seminario Teológico de Westminster y el Seminario Teológico de Westminster en California.",
+          "en": "The ESV Study Bible is the best-selling study Bible in the Reformed Anglophone evangelical world, published by Crossway in 2008. It was produced by more than 100 biblical scholars under the general editorship of Wayne Grudem, with contributions from theologians such as J.I. Packer, Thomas Schreiner, and John Piper. Its scholarly authority and inerrantist perspective have made it an indispensable reference at institutions such as Westminster Theological Seminary and Westminster Seminary California.",
+          "pt": "A ESV Study Bible é a Bíblia de estudo mais vendida no mundo evangélico reformado anglófono, publicada pela Crossway em 2008. Foi produzida por mais de 100 estudiosos bíblicos sob a direção geral de Wayne Grudem, com contribuições de teólogos como J.I. Packer, Thomas Schreiner e John Piper. Sua autoridade acadêmica e sua perspectiva inerrancista a tornaram referência indispensável em instituições como o Westminster Theological Seminary e o Westminster Seminary California."
+        },
+        "metodo": {
+          "es": "La ESV Study Bible combina la fidelidad a la exégesis gramatical-histórica con la sensibilidad a la teología sistemática reformada. Sus notas buscan el sentido literal del texto en su contexto original, aplicando la tipología cristológica y el marco del pacto sin imponer esquemas dispensacionalistas. Cada libro incluye introducción, notas versículo a versículo, artículos temáticos y mapas.",
+          "en": "The ESV Study Bible combines fidelity to grammatical-historical exegesis with sensitivity to Reformed systematic theology. Its notes seek the literal meaning of the text in its original context, applying christological typology and the covenant framework without imposing dispensationalist schemes. Each book includes an introduction, verse-by-verse notes, thematic articles, and maps.",
+          "pt": "A ESV Study Bible combina a fidelidade à exegese gramatical-histórica com a sensibilidade à teologia sistemática reformada. Suas notas buscam o sentido literal do texto em seu contexto original, aplicando a tipologia cristológica e o quadro do pacto sem impor esquemas dispensacionalistas. Cada livro inclui introdução, notas versículo a versículo, artigos temáticos e mapas."
+        },
+        "aportacion": {
+          "es": "Para el registro CANON de 2 Pedro, la ESV Study Bible aportó las notas introductorias sobre autoría y fecha, las notas exegéticas sobre los versículos clave de inspiración (2P 1:20-21) y escatología (2P 3:10-13), y la síntesis teológica del capítulo 2 sobre los falsos maestros.",
+          "en": "For the 2 Peter CANON record, the ESV Study Bible contributed the introductory notes on authorship and date, the exegetical notes on key verses on inspiration (2Pet 1:20-21) and eschatology (2Pet 3:10-13), and the theological synthesis of chapter 2 on false teachers.",
+          "pt": "Para o registro CANON de 2 Pedro, a ESV Study Bible contribuiu com as notas introdutórias sobre autoria e data, as notas exegéticas sobre os versículos chave de inspiração (2Pe 1:20-21) e escatologia (2Pe 3:10-13), e a síntese teológica do capítulo 2 sobre os falsos mestres."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Reader's Bible (2016)",
+          "ESV Expository Commentary, 12 vols. (2018–2022)",
+          "ESV Single Column Journaling Bible (2011)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-case/"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / B&H Publishing",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Notas exegéticas",
+          "Teología reformada",
+          "Distintivas reformadas",
+          "Anclas confesionales"
+        ],
+        "en": [
+          "Introduction",
+          "Exegetical notes",
+          "Reformed theology",
+          "Reformed distinctives",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Introdução",
+          "Notas exegéticas",
+          "Teologia reformada",
+          "Distintivas reformadas",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue uno de los teólogos reformados más influyentes del siglo XX, fundador de Ligonier Ministries, profesor en el Reformed Theological Seminary y pastor en Saint Andrew's Chapel (Sanford, Florida). Fue el defensor más prolífico de la inerrancia bíblica y la soberanía de Dios en el mundo evangélico anglófono. La Biblia de Estudio de la Reforma, publicada en español en 2015, es su obra magna editorial.",
+          "en": "R.C. Sproul (1939–2017) was one of the most influential Reformed theologians of the 20th century, founder of Ligonier Ministries, professor at Reformed Theological Seminary, and pastor at Saint Andrew's Chapel (Sanford, Florida). He was the most prolific defender of biblical inerrancy and God's sovereignty in the Anglophone evangelical world. The Reformation Study Bible, published in Spanish in 2015, is his editorial magnum opus.",
+          "pt": "R.C. Sproul (1939–2017) foi um dos teólogos reformados mais influentes do século XX, fundador da Ligonier Ministries, professor no Reformed Theological Seminary e pastor na Saint Andrew's Chapel (Sanford, Flórida). Foi o defensor mais prolífico da inerrância bíblica e da soberania de Deus no mundo evangélico anglófono. A Bíblia de Estudo da Reforma, publicada em espanhol em 2015, é sua obra magna editorial."
+        },
+        "metodo": {
+          "es": "La Biblia de Estudio de la Reforma aplica un método exegético que integra la gramática original con la teología del pacto y la hermenéutica de la Reforma. Cada sección teológica es evaluada a la luz de la Confesión de Fe de Westminster y las Tres Formas de Unidad. Las notas priorizan la sola Scriptura, la sola gratia y la sola fide como claves interpretativas.",
+          "en": "The Reformation Study Bible applies an exegetical method that integrates original grammar with covenant theology and Reformation hermeneutics. Each theological section is evaluated in light of the Westminster Confession of Faith and the Three Forms of Unity. The notes prioritize sola Scriptura, sola gratia, and sola fide as interpretive keys.",
+          "pt": "A Bíblia de Estudo da Reforma aplica um método exegético que integra a gramática original com a teologia do pacto e a hermenêutica da Reforma. Cada seção teológica é avaliada à luz da Confissão de Fé de Westminster e das Três Formas de Unidade. As notas priorizam a sola Scriptura, a sola gratia e a sola fide como chaves interpretativas."
+        },
+        "aportacion": {
+          "es": "Para el registro CANON de 2 Pedro, la Biblia de Estudio de la Reforma aportó el marco teológico de las distintivas reformadas, especialmente el análisis de 2P 1:10 (elección y certeza), 2P 1:20-21 (inspiración) y 2P 3:9 (voluntad revelada y decretiva de Dios), además de las conexiones con la WCF.",
+          "en": "For the 2 Peter CANON record, the Reformation Study Bible contributed the theological framework for the Reformed distinctives, especially the analysis of 2Pet 1:10 (election and assurance), 2Pet 1:20-21 (inspiration), and 2Pet 3:9 (God's revealed and decretive will), as well as the connections to the WCF.",
+          "pt": "Para o registro CANON de 2 Pedro, a Bíblia de Estudo da Reforma contribuiu com o quadro teológico das distintivas reformadas, especialmente a análise de 2Pe 1:10 (eleição e certeza), 2Pe 1:20-21 (inspiração) e 2Pe 3:9 (vontade revelada e decretiva de Deus), além das conexões com a WCF."
+        },
+        "obras": [
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)",
+          "Knowing Scripture (1977)",
+          "Reformation Study Bible (2015)",
+          "What is Reformed Theology? (1997)"
+        ],
+        "url": "https://es.ligonier.org/ministerios/r-c-sproul"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Bibliología",
+          "Cristología",
+          "Soteriología",
+          "Escatología",
+          "Elección",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Bibliology",
+          "Christology",
+          "Soteriology",
+          "Eschatology",
+          "Election",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Bibliologia",
+          "Cristologia",
+          "Soteriologia",
+          "Escatologia",
+          "Eleição",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem (n. 1948) es profesor de Teología Bíblica y Sistemática en el Phoenix Seminary (Arizona) y uno de los teólogos evangélicos reformados más influyentes del siglo XXI. Es cofundador de la Alianza de Confesores y jugó un papel protagónico en la redacción de la Declaración de Chicago sobre la Inerrancia Bíblica (1978). Su Teología Sistemática, publicada en 1994, se ha convertido en el manual de referencia más usado en seminarios evangélicos reformados de habla inglesa.",
+          "en": "Wayne Grudem (b. 1948) is professor of Biblical and Systematic Theology at Phoenix Seminary (Arizona) and one of the most influential Reformed evangelical theologians of the 21st century. He is a co-founder of the Alliance of Confessing Evangelicals and played a leading role in drafting the Chicago Statement on Biblical Inerrancy (1978). His Systematic Theology, published in 1994, has become the most widely used reference textbook in Reformed evangelical seminaries in the English-speaking world.",
+          "pt": "Wayne Grudem (n. 1948) é professor de Teologia Bíblica e Sistemática no Phoenix Seminary (Arizona) e um dos teólogos evangélicos reformados mais influentes do século XXI. É cofundador da Alliance of Confessing Evangelicals e desempenhou papel protagonista na redação da Declaração de Chicago sobre a Inerrância Bíblica (1978). Sua Teologia Sistemática, publicada em 1994, tornou-se o manual de referência mais usado em seminários evangélicos reformados de língua inglesa."
+        },
+        "metodo": {
+          "es": "Grudem emplea un método que integra la exégesis bíblica inductiva con la síntesis dogmática reformada, siempre buscando los textos bíblicos que fundamentan cada doctrina antes de enunciarla. Su obra es notable por la claridad pedagógica y por su defensa de la inerrancia bíblica como el presupuesto epistemológico de toda teología cristiana.",
+          "en": "Grudem employs a method that integrates inductive biblical exegesis with Reformed dogmatic synthesis, always seeking the biblical texts that ground each doctrine before stating it. His work is notable for its pedagogical clarity and for its defense of biblical inerrancy as the epistemological presupposition of all Christian theology.",
+          "pt": "Grudem emprega um método que integra a exegese bíblica indutiva com a síntese dogmática reformada, buscando sempre os textos bíblicos que fundamentam cada doutrina antes de enunciá-la. Sua obra é notável pela clareza pedagógica e pela defesa da inerrância bíblica como o pressuposto epistemológico de toda teologia cristã."
+        },
+        "aportacion": {
+          "es": "Para el registro CANON de 2 Pedro, la Teología Sistemática de Grudem aportó el marco doctrinal de las categorías de teología sistemática, especialmente el análisis de la inspiración (cap. 4), la elección y la certeza de la salvación (cap. 32-34), y la escatología de la nueva creación (cap. 57).",
+          "en": "For the 2 Peter CANON record, Grudem's Systematic Theology contributed the doctrinal framework for the systematic theology categories, especially the analysis of inspiration (ch. 4), election and assurance of salvation (ch. 32-34), and the eschatology of new creation (ch. 57).",
+          "pt": "Para o registro CANON de 2 Pedro, a Teologia Sistemática de Grudem contribuiu com o quadro doutrinário das categorias de teologia sistemática, especialmente a análise da inspiração (cap. 4), a eleição e a certeza da salvação (cap. 32-34) e a escatologia da nova criação (cap. 57)."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Politics According to the Bible (2010)",
+          "Christian Ethics (2018)",
+          "Biblical Doctrine (2015, con John Waltke)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras",
+          "Contexto del pacto"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows",
+          "Covenant context"
+        ],
+        "pt": [
+          "História redentora",
+          "Foco cristológico",
+          "Tipos e sombras",
+          "Contexto do pacto"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el fundador de la teología bíblica moderna en el mundo reformado y primer profesor de Teología Bíblica en el Seminario Teológico de Princeton (1893–1932). Nacido en Holanda, fue formado en la tradición calvinista y se convirtió en el exponente más importante de un enfoque histórico-redentor de la Escritura que lee cada libro bíblico en su lugar dentro de la historia del pacto.",
+          "en": "Geerhardus Vos (1862–1949) was the founder of modern biblical theology in the Reformed world and the first professor of Biblical Theology at Princeton Theological Seminary (1893–1932). Born in the Netherlands, he was formed in the Calvinist tradition and became the most important exponent of a redemptive-historical approach to Scripture that reads each biblical book in its place within the history of the covenant.",
+          "pt": "Geerhardus Vos (1862–1949) foi o fundador da teologia bíblica moderna no mundo reformado e o primeiro professor de Teologia Bíblica no Princeton Theological Seminary (1893–1932). Nascido na Holanda, foi formado na tradição calvinista e tornou-se o expoente mais importante de uma abordagem histórico-redentora da Escritura que lê cada livro bíblico em seu lugar dentro da história do pacto."
+        },
+        "metodo": {
+          "es": "Vos lee la Biblia como una unidad orgánica en progreso histórico: cada etapa del pacto —Adámico, Noáico, Abrahánico, Mosaico, Davídico, Nuevo— añade nueva revelación sin contradecir la anterior, y todo el movimiento apunta a Cristo como su cumplimiento. Su método rechaza tanto el alegorismo como el literalismo plano, privilegiando el sensus literalis en su horizonte tipológico-redentor.",
+          "en": "Vos reads the Bible as an organic unity in historical progress: each stage of the covenant — Adamic, Noahic, Abrahamic, Mosaic, Davidic, New — adds new revelation without contradicting the previous, and the entire movement points to Christ as its fulfillment. His method rejects both allegorism and flat literalism, privileging the sensus literalis in its typological-redemptive horizon.",
+          "pt": "Vos lê a Bíblia como uma unidade orgânica em progresso histórico: cada etapa do pacto — Adâmico, Noáico, Abraâmico, Mosaico, Davídico, Novo — acrescenta nova revelação sem contradizer a anterior, e todo o movimento aponta para Cristo como seu cumprimento. Seu método rejeita tanto o alegorismo como o literalismo plano, privilegiando o sensus literalis em seu horizonte tipológico-redentor."
+        },
+        "aportacion": {
+          "es": "Para el registro CANON de 2 Pedro, la Teología Bíblica de Vos aportó el marco histórico-redentor para el enfoque cristológico —especialmente la relación entre la transfiguración como anticipación de la gloria escatológica— y para las tipologías de Noé, Lot y el diluvio como prefiguraciones del Día del Señor.",
+          "en": "For the 2 Peter CANON record, Vos's Biblical Theology contributed the redemptive-historical framework for the christological focus — especially the relationship between the transfiguration as an anticipation of eschatological glory — and for the typologies of Noah, Lot, and the flood as prefigurations of the Day of the Lord.",
+          "pt": "Para o registro CANON de 2 Pedro, a Teologia Bíblica de Vos contribuiu com o quadro histórico-redentor para o foco cristológico — especialmente a relação entre a transfiguração como antecipação da glória escatológica — e para as tipologias de Noé, Ló e o dilúvio como prefigurações do Dia do Senhor."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Teaching of Jesus Concerning the Kingdom of God and the Church (1903)",
+          "Redemptive History and Biblical Interpretation (1980)",
+          "Grace and Glory (1922)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Civilizaciones",
+          "Geografía",
+          "Fuentes greco-romanas"
+        ],
+        "en": [
+          "Historical context",
+          "Civilizations",
+          "Geography",
+          "Greco-Roman sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Civilizações",
+          "Geografia",
+          "Fontes greco-romanas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener (n. 1960) es profesor de Teología del Nuevo Testamento en el Asbury Theological Seminary (Wilmore, Kentucky) y uno de los expertos mundiales más prolíficos en el trasfondo histórico del Nuevo Testamento. Es autor de más de 30 libros y se destaca por su conocimiento enciclopédico de la literatura greco-romana, la literatura judía del Segundo Templo y el contexto social del mundo del NT.",
+          "en": "Craig S. Keener (b. 1960) is professor of New Testament Theology at Asbury Theological Seminary (Wilmore, Kentucky) and one of the most prolific world experts in the historical background of the New Testament. He is the author of more than 30 books and is distinguished by his encyclopedic knowledge of Greco-Roman literature, Second Temple Jewish literature, and the social context of the NT world.",
+          "pt": "Craig S. Keener (n. 1960) é professor de Teologia do Novo Testamento no Asbury Theological Seminary (Wilmore, Kentucky) e um dos especialistas mundiais mais prolíficos no contexto histórico do Novo Testamento. É autor de mais de 30 livros e se destaca pelo seu conhecimento enciclopédico da literatura greco-romana, da literatura judaica do Segundo Templo e do contexto social do mundo do NT."
+        },
+        "metodo": {
+          "es": "Keener aplica el método histórico-cultural al texto del NT, iluminando cada pasaje con paralelos de la literatura greco-romana, papiros egipcios, tradición judía rabínica y apocalíptica, e inscripciones arqueológicas. Su objetivo es mostrar cómo el texto sagrado hablaba directamente a lectores del primer siglo, lo que ilumina tanto su significado original como su aplicación contemporánea.",
+          "en": "Keener applies the historical-cultural method to the NT text, illuminating each passage with parallels from Greco-Roman literature, Egyptian papyri, rabbinic and apocalyptic Jewish tradition, and archaeological inscriptions. His goal is to show how the sacred text spoke directly to first-century readers, which illuminates both its original meaning and its contemporary application.",
+          "pt": "Keener aplica o método histórico-cultural ao texto do NT, iluminando cada passagem com paralelos da literatura greco-romana, papiros egípcios, tradição judaica rabínica e apocalíptica, e inscrições arqueológicas. Seu objetivo é mostrar como o texto sagrado falava diretamente aos leitores do primeiro século, o que ilumina tanto seu significado original como sua aplicação contemporânea."
+        },
+        "aportacion": {
+          "es": "Para el registro CANON de 2 Pedro, el comentario de Keener aportó el contexto histórico greco-romano del período neroniano, la información sobre las comunidades judeo-helenísticas en Asia Menor y Roma, y el trasfondo de los movimientos proto-gnósticos descritos en el capítulo 2.",
+          "en": "For the 2 Peter CANON record, Keener's commentary contributed the Greco-Roman historical context of the Neronian period, information on Hellenistic Jewish communities in Asia Minor and Rome, and the background of the proto-gnostic movements described in chapter 2.",
+          "pt": "Para o registro CANON de 2 Pedro, o comentário de Keener contribuiu com o contexto histórico greco-romano do período neroniano, as informações sobre as comunidades judaico-helenísticas na Ásia Menor e em Roma, e o contexto dos movimentos proto-gnósticos descritos no capítulo 2."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: New Testament (1993)",
+          "A Commentary on the Gospel of Matthew (1999)",
+          "Miracles: The Credibility of the New Testament Accounts (2011)",
+          "Acts (NICNT) (2012)",
+          "Spirit Hermeneutics (2016)"
+        ],
+        "url": "https://www.theopedia.com/craig-keener"
+      }
+    },
+    {
+      "titulo": "Jude and 2 Peter (Word Biblical Commentary, vol. 50)",
+      "autor": "Richard Bauckham",
+      "año": 1983,
+      "editorial": "Thomas Nelson / Word Books",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Autoría",
+          "Contexto histórico",
+          "Personajes",
+          "Controversias históricas",
+          "Fuentes greco-romanas"
+        ],
+        "en": [
+          "Authorship",
+          "Historical context",
+          "Characters",
+          "Historical controversies",
+          "Greco-Roman sources"
+        ],
+        "pt": [
+          "Autoria",
+          "Contexto histórico",
+          "Personagens",
+          "Controvérsias históricas",
+          "Fontes greco-romanas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Richard Bauckham (n. 1946) es profesor emérito de Nuevo Testamento en la Universidad de St Andrews (Escocia) y uno de los más importantes especialistas mundiales en las Epístolas Generales, el apocalipsis judío y el Evangelio de Juan. Aunque su posición sobre la autoría de 2 Pedro ha evolucionado a lo largo de su carrera, su comentario en el Word Biblical Commentary sigue siendo la obra académica de referencia para el estudio técnico de la carta.",
+          "en": "Richard Bauckham (b. 1946) is emeritus professor of New Testament at the University of St Andrews (Scotland) and one of the most important world specialists on the General Epistles, Jewish apocalypticism, and the Gospel of John. Although his position on the authorship of 2 Peter has evolved over his career, his commentary in the Word Biblical Commentary remains the academic reference work for the technical study of the letter.",
+          "pt": "Richard Bauckham (n. 1946) é professor emérito de Novo Testamento na Universidade de St Andrews (Escócia) e um dos mais importantes especialistas mundiais nas Epístolas Gerais, no apocalipticismo judaico e no Evangelho de João. Embora sua posição sobre a autoria de 2 Pedro tenha evoluído ao longo de sua carreira, seu comentário no Word Biblical Commentary continua sendo a obra acadêmica de referência para o estudo técnico da carta."
+        },
+        "metodo": {
+          "es": "Bauckham emplea una crítica histórica rigurosa combinada con una atención excepcional a los paralelos de la literatura judía del Segundo Templo, especialmente la apocalíptica. Su comentario es indispensable para el análisis de las fuentes de 2 Pedro (relación con Judas, 1 Enoc, tradición de Balaam) y para la evaluación de los argumentos a favor y en contra de la autoría petrina.",
+          "en": "Bauckham employs rigorous historical criticism combined with exceptional attention to parallels in Second Temple Jewish literature, especially apocalypticism. His commentary is indispensable for analyzing the sources of 2 Peter (relationship with Jude, 1 Enoch, Balaam tradition) and for evaluating the arguments for and against Petrine authorship.",
+          "pt": "Bauckham emprega uma crítica histórica rigorosa combinada com atenção excepcional aos paralelos da literatura judaica do Segundo Templo, especialmente a apocalíptica. Seu comentário é indispensável para a análise das fontes de 2 Pedro (relação com Judas, 1 Enoque, tradição de Balaão) e para a avaliação dos argumentos a favor e contra a autoria petrina."
+        },
+        "aportacion": {
+          "es": "Para el registro CANON de 2 Pedro, el comentario de Bauckham aportó el análisis de la controversia sobre la autoría (para el campo controversiasHistoricas), el trasfondo de los falsos maestros del capítulo 2 en el contexto del proto-gnosticismo, y la información histórica sobre Balaam y la inscripción de Deir Alla.",
+          "en": "For the 2 Peter CANON record, Bauckham's commentary contributed the analysis of the authorship controversy (for the controversiasHistoricas field), the background of the false teachers of chapter 2 in the context of proto-gnosticism, and the historical information on Balaam and the Deir Alla inscription.",
+          "pt": "Para o registro CANON de 2 Pedro, o comentário de Bauckham contribuiu com a análise da controvérsia sobre a autoria (para o campo controversiasHistoricas), o contexto dos falsos mestres do capítulo 2 no contexto do proto-gnosticismo, e as informações históricas sobre Balaão e a inscrição de Deir Alla."
+        },
+        "obras": [
+          "Jude and 2 Peter, Word Biblical Commentary (1983)",
+          "The Theology of the Book of Revelation (1993)",
+          "God Crucified (1998)",
+          "Jesus and the Eyewitnesses (2006)",
+          "Gospel of Glory (2015)"
+        ],
+        "url": "https://www.theopedia.com/richard-bauckham"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "extraído",
+    "confianza": 0.6,
+    "camposMarcados": [
+      {
+        "campo": "autor.nombre",
+        "razon": "La autoría petrina de 2 Pedro es debatida en la erudición moderna. La tradición reformada y la hermenéutica conservadora la afirman, pero críticos como Käsemann y Neyrey argumentan pseudoepigrafía. Este registro adopta la posición reformada estándar.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-28"
+      },
+      {
+        "campo": "año",
+        "razon": "La fecha de ca. 64–68 d.C. es una estimación conservadora consistente con la autoría petrina y la persecución neroniana. No hay evidencia interna que permita precisar el año exacto dentro de ese rango.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-28"
+      },
+      {
+        "campo": "contextoHistorico.arqueologia",
+        "razon": "Campo poblado desde conocimiento interno (ESV Study Bible, Keener, literatura secundaria). No fue verificado mediante búsqueda en línea en tiempo real durante este ciclo del pipeline.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28"
+      },
+      {
+        "campo": "teologiaSistematica",
+        "razon": "Las seis categorías y sus resúmenes fueron elaborados desde conocimiento interno (Grudem, Sproul, RSB, ESV Study Bible). Se recomienda revisión por un teólogo reformado certificado antes de publicar.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28"
+      },
+      {
+        "campo": "versiculosClave[].es / en / pt",
+        "razon": "Los textos de los versículos fueron producidos desde conocimiento interno de las versiones NBLA, ESV y ARC. Se recomienda verificación palabra por palabra contra las fuentes bíblicas oficiales antes de publicar.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-28T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "Pipeline CANON v1.3.0",
+      "rol": "administrador",
+      "fechaRevision": "2026-06-28T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
