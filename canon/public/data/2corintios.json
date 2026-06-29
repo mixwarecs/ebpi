@@ -1,0 +1,1628 @@
+{
+  "id": 47,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "titulo": {
+    "es": "2 Corintios",
+    "en": "2 Corinthians",
+    "pt": "2 Coríntios"
+  },
+  "tituloOriginal": "Β' Κορινθίους",
+  "transliteracion": "Deutera pros Korinthious",
+  "significado": {
+    "es": "Segunda carta a los Corintios",
+    "en": "Second letter to the Corinthians",
+    "pt": "Segunda carta aos Coríntios"
+  },
+  "capitulosTotal": 13,
+  "autor": {
+    "nombre": {
+      "es": "Pablo (el Apóstol)",
+      "en": "Paul (the Apostle)",
+      "pt": "Paulo (o Apóstolo)"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La autoría paulina de 2 Corintios es ampliamente aceptada tanto en la tradición reformada como en la erudición crítica. Timoteo es co-remitente (2Co 1:1), pero Pablo es el autor principal.",
+      "en": "Pauline authorship of 2 Corinthians is broadly accepted in both the Reformed tradition and critical scholarship. Timothy is listed as co-sender (2Cor 1:1), but Paul is the primary author.",
+      "pt": "A autoria paulina de 2 Coríntios é amplamente aceita tanto na tradição reformada quanto na erudição crítica. Timóteo é co-remetente (2Co 1:1), mas Paulo é o autor principal."
+    }
+  },
+  "año": {
+    "desde": 55,
+    "hasta": 56,
+    "display": {
+      "es": "Fecha de escritura: aprox. 55–56 d.C., desde Macedonia",
+      "en": "Date of writing: approx. AD 55–56, from Macedonia",
+      "pt": "Data de escrita: aprox. 55–56 d.C., da Macedônia"
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Macedonia (posiblemente Filipos o Tesalónica), durante el tercer viaje misionero de Pablo",
+    "en": "Macedonia (possibly Philippi or Thessalonica), during Paul's third missionary journey",
+    "pt": "Macedônia (possivelmente Filipos ou Tessalônica), durante a terceira viagem missionária de Paulo"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Primitivo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Corinto",
+          "en": "Corinth",
+          "pt": "Corinto"
+        },
+        "identificacionModerna": {
+          "es": "Antigua Corinto, Grecia (Peloponeso)",
+          "en": "Ancient Corinth, Greece (Peloponnese)",
+          "pt": "Antiga Corinto, Grécia (Peloponeso)"
+        },
+        "significancia": {
+          "es": "Capital de la provincia romana de Acaya, centro comercial cosmopolita y destino principal de las cartas de Pablo. La comunidad a la que escribe estaba dividida y bajo la influencia de 'súper-apóstoles' rivales.",
+          "en": "Capital of the Roman province of Achaia, a cosmopolitan commercial hub and the primary audience of Paul's letters. The community Paul addresses was divided and under the influence of rival 'super-apostles.'",
+          "pt": "Capital da província romana da Acaia, centro comercial cosmopolita e destinatário principal das cartas de Paulo. A comunidade que Paulo escreve estava dividida e sob a influência de 'super-apóstolos' rivais."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Macedonia",
+          "en": "Macedonia",
+          "pt": "Macedônia"
+        },
+        "identificacionModerna": {
+          "es": "Norte de Grecia y parte de la actual Macedonia del Norte",
+          "en": "Northern Greece and part of present-day North Macedonia",
+          "pt": "Norte da Grécia e parte da atual Macedônia do Norte"
+        },
+        "significancia": {
+          "es": "Lugar desde donde Pablo escribe la carta, tras el informe alentador de Tito (2Co 7:5–7). Las iglesias de Macedonia son también ejemplo de generosidad sacrificial en la colecta para Jerusalén (2Co 8:1–5).",
+          "en": "The location from which Paul writes the letter, following Titus's encouraging report (2Cor 7:5–7). The Macedonian churches also serve as an example of sacrificial generosity in the collection for Jerusalem (2Cor 8:1–5).",
+          "pt": "Lugar de onde Paulo escreve a carta, após o relato encorajador de Tito (2Co 7:5–7). As igrejas da Macedônia também são exemplo de generosidade sacrificial na coleta para Jerusalém (2Co 8:1–5)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Éfeso",
+          "en": "Ephesus",
+          "pt": "Éfeso"
+        },
+        "identificacionModerna": {
+          "es": "Ruinas de Éfeso, cerca de Selçuk, Turquía occidental",
+          "en": "Ruins of Ephesus, near Selçuk, western Turkey",
+          "pt": "Ruínas de Éfeso, perto de Selçuk, Turquia ocidental"
+        },
+        "significancia": {
+          "es": "Ciudad donde Pablo residió durante su tercer viaje (Hch 19) y desde donde probablemente envió la carta severa anterior. Los sufrimientos de Pablo en Asia (2Co 1:8–10) aluden a una crisis experimentada posiblemente en Éfeso.",
+          "en": "City where Paul resided during his third journey (Acts 19) and from which he likely sent the prior severe letter. Paul's sufferings in Asia (2Cor 1:8–10) allude to a crisis likely experienced in Ephesus.",
+          "pt": "Cidade onde Paulo residiu durante sua terceira viagem (At 19) e de onde provavelmente enviou a carta severa anterior. Os sofrimentos de Paulo na Ásia (2Co 1:8–10) aludem a uma crise possivelmente experimentada em Éfeso."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Jerusalén, Israel",
+          "en": "Jerusalem, Israel",
+          "pt": "Jerusalém, Israel"
+        },
+        "significancia": {
+          "es": "Destino de la colecta para los santos pobres, detallada en 2Co 8–9. La colecta simbolizaba la unidad entre las iglesias gentiles y la iglesia madre judía, reflejando la comunión del nuevo pacto.",
+          "en": "Destination of the collection for the poor saints, detailed in 2Cor 8–9. The collection symbolized unity between gentile churches and the Jewish mother church, reflecting new-covenant communion.",
+          "pt": "Destino da coleta para os santos pobres, detalhada em 2Co 8–9. A coleta simbolizava a unidade entre as igrejas gentias e a igreja-mãe judaica, refletindo a comunhão do novo pacto."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Troas",
+          "en": "Troas",
+          "pt": "Trôade"
+        },
+        "identificacionModerna": {
+          "es": "Alejandría de Troas, ruinas cerca de Dalyan, Turquía noroccidental",
+          "en": "Alexandria Troas, ruins near Dalyan, northwestern Turkey",
+          "pt": "Alexandria Trôade, ruínas perto de Dalyan, noroeste da Turquia"
+        },
+        "significancia": {
+          "es": "Pablo llegó a Troas con la esperanza de encontrar a Tito, pero al no hallarlo partió a Macedonia (2Co 2:12–13), evidenciando la angustia pastoral que impulsó la carta.",
+          "en": "Paul arrived in Troas hoping to find Titus, but not finding him departed to Macedonia (2Cor 2:12–13), evidencing the pastoral anguish that drove the letter.",
+          "pt": "Paulo chegou a Trôade esperando encontrar Tito, mas não o encontrando partiu para a Macedônia (2Co 2:12–13), evidenciando a angústia pastoral que motivou a carta."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "Marco político bajo el cual Pablo ejerce su apostolado. Las metáforas militares y triunfales de Pablo (2Co 2:14) aluden al ceremonial romano del triunfo. La ciudadanía romana de Pablo le otorgaba movilidad y cierta protección legal.",
+          "en": "The political framework under which Paul exercises his apostolate. Paul's military and triumphal metaphors (2Cor 2:14) allude to the Roman triumphal ceremony. Paul's Roman citizenship gave him mobility and some legal protection.",
+          "pt": "Marco político sob o qual Paulo exerce seu apostolado. As metáforas militares e triunfais de Paulo (2Co 2:14) aludem à cerimônia do triunfo romano. A cidadania romana de Paulo lhe concedia mobilidade e certa proteção legal."
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentado. Las excavaciones en Corinto han revelado el bēma (tribunal) donde Pablo comparecería (Hch 18:12–17), así como inscripciones que atestiguan el comercio y la vida social del siglo I d.C.",
+          "en": "Extensively documented. Excavations at Corinth have uncovered the bēma (judgment seat) before which Paul appeared (Acts 18:12–17), as well as inscriptions attesting to first-century AD commerce and social life.",
+          "pt": "Amplamente documentado. As escavações em Corinto revelaram o bēma (tribunal) diante do qual Paulo compareceu (At 18:12–17), bem como inscrições que atestam o comércio e a vida social do século I d.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Iglesia de Corinto (comunidad cristiana)",
+          "en": "Church of Corinth (Christian community)",
+          "pt": "Igreja de Corinto (comunidade cristã)"
+        },
+        "rolEnElTexto": {
+          "es": "Destinataria directa de la carta. Fundada por Pablo durante su segundo viaje (Hch 18), la iglesia enfrentó divisiones, cuestionamientos a la autoridad apostólica de Pablo y la influencia de maestros judaizantes foráneos.",
+          "en": "The direct recipient of the letter. Founded by Paul during his second journey (Acts 18), the church faced divisions, challenges to Paul's apostolic authority, and the influence of outside Judaizing teachers.",
+          "pt": "Destinatária direta da carta. Fundada por Paulo durante sua segunda viagem (At 18), a igreja enfrentou divisões, questionamentos à autoridade apostólica de Paulo e a influência de mestres judaizantes externos."
+        },
+        "estadoArqueologico": {
+          "es": "No existe evidencia arqueológica directa de la congregación, pero el contexto urbano corintio del siglo I está bien documentado. La inscripción de Erasto (Ro 16:23) es el vínculo más cercano entre la arqueología y el círculo paulino en Corinto.",
+          "en": "No direct archaeological evidence of the congregation exists, but the first-century urban Corinthian context is well documented. The Erastus inscription (Rom 16:23) is the closest link between archaeology and the Pauline circle at Corinth.",
+          "pt": "Não existe evidência arqueológica direta da congregação, mas o contexto urbano coríntio do século I está bem documentado. A inscrição de Erasto (Rm 16:23) é o elo mais próximo entre a arqueologia e o círculo paulino em Corinto."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judaísmo diaspórico helenístico",
+          "en": "Hellenistic Diaspora Judaism",
+          "pt": "Judaísmo Diaspórico Helenístico"
+        },
+        "rolEnElTexto": {
+          "es": "Los oponentes de Pablo en 2 Corintios parecen ser misioneros judíos itinerantes que también invocan su herencia hebrea (2Co 11:22). Introducen una 'teología de la gloria' que contrasta con la teología paulina de la cruz y el sufrimiento.",
+          "en": "Paul's opponents in 2 Corinthians appear to be itinerant Jewish missionaries who also invoke their Hebrew heritage (2Cor 11:22). They introduce a 'theology of glory' that contrasts with Paul's theology of the cross and suffering.",
+          "pt": "Os oponentes de Paulo em 2 Coríntios parecem ser missionários judeus itinerantes que também invocam sua herança hebraica (2Co 11:22). Introduzem uma 'teologia da glória' que contrasta com a teologia paulina da cruz e do sofrimento."
+        },
+        "estadoArqueologico": {
+          "es": "La presencia judía en Corinto está confirmada por Hch 18:4 (sinagoga) y la referencia a Aquila y Priscila. No se han identificado restos arqueológicos de la sinagoga corintia del siglo I, aunque los paralelos epigráficos son abundantes en otras ciudades.",
+          "en": "The Jewish presence in Corinth is confirmed by Acts 18:4 (synagogue) and the reference to Aquila and Priscilla. No first-century synagogue remains have been identified at Corinth archaeologically, though epigraphic parallels are abundant in other cities.",
+          "pt": "A presença judaica em Corinto é confirmada por At 18:4 (sinagoga) e a referência a Áquila e Priscila. Nenhum vestígio arqueológico da sinagoga coríntia do século I foi identificado, embora paralelos epigráficos sejam abundantes em outras cidades."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones en Corinto por la Escuela Americana de Estudios Clásicos han proporcionado un contexto invaluable. El bēma identificado en el ágora corintio (Hch 18:12) data del período en que Pablo fue llevado ante Galión. Inscripciones latinas atestiguan la estructura municipal y comercial de la ciudad. La inscripción de Erasto ('Erasto, edil de la ciudad, colocó este pavimento a su propia costa') se relaciona con el colaborador paulino mencionado en Ro 16:23. Los mosaicos y estatuas encontrados reflejan la cultura religiosa sincrética greco-romana que rodeaba a la iglesia corintia. El canal de Diolcos en el istmo confirma la descripción de Corinto como cruce comercial clave. Para 2 Corintios específicamente, la arqueología no contradice ni los viajes paulinos ni las estructuras sociales descritas en la carta.",
+      "en": "Excavations at Corinth by the American School of Classical Studies have provided invaluable context. The bēma identified in the Corinthian agora (Acts 18:12) dates to the period when Paul was brought before Gallio. Latin inscriptions attest to the city's municipal and commercial structure. The Erastus inscription ('Erastus, aedile of the city, laid this pavement at his own expense') connects to the Pauline co-worker mentioned in Rom 16:23. Mosaics and statues reflect the syncretic Greco-Roman religious culture surrounding the Corinthian church. The Diolkos channel on the isthmus confirms Corinth's description as a key commercial crossroads. For 2 Corinthians specifically, archaeology neither contradicts Paul's travels nor the social structures described in the letter.",
+      "pt": "As escavações em Corinto pela Escola Americana de Estudos Clássicos forneceram um contexto inestimável. O bēma identificado na ágora coríntia (At 18:12) data do período em que Paulo foi levado perante Galião. Inscrições latinas atestam a estrutura municipal e comercial da cidade. A inscrição de Erasto ('Erasto, edil da cidade, mandou pavimentar este espaço à sua custa') relaciona-se com o colaborador paulino mencionado em Rm 16:23. Mosaicos e estátuas refletem a cultura religiosa sincrética greco-romana que envolvia a igreja coríntia. O canal de Diolcos no istmo confirma a descrição de Corinto como encruzilhada comercial fundamental. Para 2 Coríntios especificamente, a arqueologia não contradiz as viagens paulinas nem as estruturas sociais descritas na carta."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Cartas de recomendación greco-romanas (epistolografía antigua)",
+          "en": "Greco-Roman letters of recommendation (ancient epistolography)",
+          "pt": "Cartas de recomendação greco-romanas (epistolografia antiga)"
+        },
+        "origen": {
+          "es": "Mundo greco-romano del siglo I d.C.; paralelos en papiros egipcios (Oxyrhynchus) y retórica helenística",
+          "en": "First-century AD Greco-Roman world; parallels in Egyptian papyri (Oxyrhynchus) and Hellenistic rhetoric",
+          "pt": "Mundo greco-romano do século I d.C.; paralelos em papiros egípcios (Oxirrinco) e retórica helenística"
+        },
+        "relevancia": {
+          "es": "Pablo rechaza explícitamente las 'cartas de recomendación' de sus adversarios (2Co 3:1–3), afirmando que la iglesia corintia misma es su carta escrita por el Espíritu. Este contraste refleja el sistema de patronazgo y endorsement retórico del mundo grecorromano.",
+          "en": "Paul explicitly rejects the 'letters of recommendation' of his adversaries (2Cor 3:1–3), claiming the Corinthian church itself is his letter written by the Spirit. This contrast reflects the patronage and rhetorical endorsement system of the Greco-Roman world.",
+          "pt": "Paulo rejeita explicitamente as 'cartas de recomendação' de seus adversários (2Co 3:1–3), afirmando que a própria igreja coríntia é sua carta escrita pelo Espírito. Esse contraste reflete o sistema de patronato e endosso retórico do mundo greco-romano."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Catálogos de peristasis (sufrimientos del filósofo estoico)",
+          "en": "Peristasis catalogues (Stoic philosopher's hardship lists)",
+          "pt": "Catálogos de peristasis (sofrimentos do filósofo estoico)"
+        },
+        "origen": {
+          "es": "Literatura filosófica greco-romana: Epicteto, Séneca, Cicerón y parallelos en papiros helenísticos",
+          "en": "Greco-Roman philosophical literature: Epictetus, Seneca, Cicero, and parallels in Hellenistic papyri",
+          "pt": "Literatura filosófica greco-romana: Epicteto, Sêneca, Cícero e paralelos em papiros helenísticos"
+        },
+        "relevancia": {
+          "es": "Los catálogos de sufrimientos de Pablo (2Co 4:8–9; 2Co 6:4–10; 2Co 11:23–29) utilizan y subvierten la forma retórica estoica del peristasis, en que el filósofo demuestra su virtud mediante la resistencia al sufrimiento. Pablo reorienta la forma: el sufrimiento no revela la autosuficiencia del apóstol sino el poder de Cristo en la debilidad humana.",
+          "en": "Paul's hardship catalogues (2Cor 4:8–9; 2Cor 6:4–10; 2Cor 11:23–29) use and subvert the Stoic rhetorical form of peristasis, in which the philosopher demonstrates virtue through endurance of suffering. Paul reframes the form: suffering reveals not the apostle's self-sufficiency but Christ's power in human weakness.",
+          "pt": "Os catálogos de sofrimentos de Paulo (2Co 4:8–9; 2Co 6:4–10; 2Co 11:23–29) utilizam e subvertem a forma retórica estoica do peristasis, em que o filósofo demonstra virtude mediante a resistência ao sofrimento. Paulo reorienta a forma: o sofrimento não revela a autossuficiência do apóstolo, mas o poder de Cristo na fraqueza humana."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia histórica en torno a 2 Corintios es la cuestión de su unidad literaria. Algunos críticos proponen que capítulos 10–13 constituyen una carta separada (la 'carta severa' mencionada en 2Co 2:4) enviada antes de caps. 1–9, o incluso una tercera carta. El argumento principal es el cambio brusco de tono entre caps. 9 y 10. La posición reformada conservadora defiende la unidad de la carta: el cambio de tono puede explicarse por nuevas noticias recibidas sobre el comportamiento de los adversarios, o por el carácter deliberadamente retórico de Pablo que alterna entre ánimo y advertencia. El canon recibido trata 2 Corintios como una epístola unificada, y la mayoría de los comentaristas reformados (Carson, Moo, Hughes, Barnett) sostienen la unidad. La identidad exacta de los 'súper-apóstoles' (2Co 11:5; 2Co 12:11) también es debatida: pueden ser los doce apóstoles mismos (poco probable), misioneros judaizantes de Palestina, o predicadores itinerantes influenciados por el helenismo.",
+      "en": "The main historical controversy surrounding 2 Corinthians is the question of its literary unity. Some critics propose that chapters 10–13 constitute a separate letter (the 'severe letter' mentioned in 2Cor 2:4) sent before chapters 1–9, or even a third letter. The main argument is the abrupt change in tone between chapters 9 and 10. The conservative Reformed position defends the unity of the letter: the change in tone can be explained by new reports about the adversaries' behavior, or by Paul's deliberately rhetorical style alternating between encouragement and warning. The received canon treats 2 Corinthians as a unified epistle, and most Reformed commentators (Carson, Moo, Hughes, Barnett) uphold unity. The exact identity of the 'super-apostles' (2Cor 11:5; 2Cor 12:11) is also debated: they may be the twelve apostles themselves (unlikely), Judaizing missionaries from Palestine, or itinerant preachers influenced by Hellenism.",
+      "pt": "A principal controvérsia histórica em torno de 2 Coríntios é a questão de sua unidade literária. Alguns críticos propõem que os capítulos 10–13 constituem uma carta separada (a 'carta severa' mencionada em 2Co 2:4) enviada antes dos caps. 1–9, ou mesmo uma terceira carta. O argumento principal é a mudança brusca de tom entre os caps. 9 e 10. A posição reformada conservadora defende a unidade da carta: a mudança de tom pode ser explicada por novas notícias sobre o comportamento dos adversários, ou pelo caráter deliberadamente retórico de Paulo, que alterna entre encorajamento e advertência. O cânon recebido trata 2 Coríntios como uma epístola unificada, e a maioria dos comentaristas reformados (Carson, Moo, Hughes, Barnett) sustenta a unidade. A identidade exata dos 'super-apóstolos' (2Co 11:5; 2Co 12:11) também é debatida: podem ser os doze apóstolos (pouco provável), missionários judaizantes da Palestina, ou pregadores itinerantes influenciados pelo helenismo."
+    },
+    "cronologiaInterna": {
+      "es": "La carta presupone la siguiente secuencia interna: (1) Fundación de la iglesia en Corinto (implícita, referenciada en 2Co 1:19; 2Co 11:7–9); (2) Una visita 'dolorosa' de Pablo a Corinto (2Co 2:1; 2Co 13:2), distinta del viaje fundacional; (3) Envío de una 'carta severa' con lágrimas (2Co 2:3–4; 2Co 7:8), distinta de 1 Corintios canónico según muchos intérpretes; (4) Timoteo enviado a Corinto (1Co 4:17; implícito en 2Co); (5) Tito enviado con o después de la carta severa; (6) Pablo llega a Troas esperando a Tito (2Co 2:12–13); (7) Pablo pasa a Macedonia y recibe el informe de Tito (2Co 7:5–7), que relata el arrepentimiento mayoritario de la iglesia y el castigo del ofensor; (8) Pablo escribe 2 Corintios desde Macedonia (caps. 1–9 con ánimo y caps. 10–13 con advertencia a los rebeldes); (9) Pablo planifica una tercera visita a Corinto (2Co 12:14; 2Co 13:1).",
+      "en": "The letter presupposes the following internal sequence: (1) Founding of the church at Corinth (implied, referenced in 2Cor 1:19; 2Cor 11:7–9); (2) A 'painful visit' by Paul to Corinth (2Cor 2:1; 2Cor 13:2), distinct from the founding visit; (3) Sending of a 'severe letter' with tears (2Cor 2:3–4; 2Cor 7:8), which many interpreters distinguish from canonical 1 Corinthians; (4) Timothy sent to Corinth (1Cor 4:17; implicit in 2Cor); (5) Titus sent with or after the severe letter; (6) Paul arrives at Troas expecting Titus (2Cor 2:12–13); (7) Paul moves to Macedonia and receives Titus's report (2Cor 7:5–7) relating the majority repentance of the church and the punishment of the offender; (8) Paul writes 2 Corinthians from Macedonia (chs. 1–9 with encouragement and chs. 10–13 with warnings to the unrepentant); (9) Paul plans a third visit to Corinth (2Cor 12:14; 2Cor 13:1).",
+      "pt": "A carta pressupõe a seguinte sequência interna: (1) Fundação da igreja em Corinto (implícita, referenciada em 2Co 1:19; 2Co 11:7–9); (2) Uma visita 'dolorosa' de Paulo a Corinto (2Co 2:1; 2Co 13:2), distinta da visita fundacional; (3) Envio de uma 'carta severa' com lágrimas (2Co 2:3–4; 2Co 7:8), que muitos intérpretes distinguem de 1 Coríntios canônico; (4) Timóteo enviado a Corinto (1Co 4:17; implícito em 2Co); (5) Tito enviado com ou após a carta severa; (6) Paulo chega a Trôade esperando por Tito (2Co 2:12–13); (7) Paulo passa à Macedônia e recebe o relatório de Tito (2Co 7:5–7), que relata o arrependimento majoritário da igreja e a punição do ofensor; (8) Paulo escreve 2 Coríntios da Macedônia (caps. 1–9 com encorajamento e caps. 10–13 com advertências aos recalcitrantes); (9) Paulo planeja uma terceira visita a Corinto (2Co 12:14; 2Co 13:1)."
+    }
+  },
+  "ordenEnDivision": 3,
+  "ordenCanon": 47,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "En 2 Corintios, Cristo es el ministro del nuevo pacto cuya gloria eclipsa la de Moisés (2Co 3:7–18), el sufriente cuya muerte y resurrección se reproducen en el ministerio apostólico (2Co 4:10–11), el dador de gracia que se hizo pobre para que los creyentes se enriquecieran (2Co 8:9), y el segundo Adán en quien Dios reconcilió al mundo consigo mismo (2Co 5:19–21). El 'espino en la carne' de Pablo (2Co 12:7–9) se convierte en el vehículo por el que la gracia suficiente de Cristo se manifiesta en debilidad humana, llevando la teología de la cruz al corazón de la vida del apóstol.",
+      "en": "In 2 Corinthians, Christ is the minister of the new covenant whose glory eclipses that of Moses (2Cor 3:7–18), the suffering one whose death and resurrection are reproduced in apostolic ministry (2Cor 4:10–11), the giver of grace who became poor so that believers might become rich (2Cor 8:9), and the second Adam in whom God reconciled the world to himself (2Cor 5:19–21). Paul's 'thorn in the flesh' (2Cor 12:7–9) becomes the vehicle through which Christ's sufficient grace is displayed in human weakness, bringing the theology of the cross to the heart of apostolic life.",
+      "pt": "Em 2 Coríntios, Cristo é o ministro do novo pacto cuja glória eclipsa a de Moisés (2Co 3:7–18), o sofredor cuja morte e ressurreição se reproduzem no ministério apostólico (2Co 4:10–11), o doador de graça que se fez pobre para que os crentes se enriquecessem (2Co 8:9), e o segundo Adão em quem Deus reconciliou o mundo consigo mesmo (2Co 5:19–21). O 'espinho na carne' de Paulo (2Co 12:7–9) torna-se o veículo pelo qual a graça suficiente de Cristo se manifesta na fraqueza humana, levando a teologia da cruz ao coração da vida apostólica."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El velo sobre el rostro de Moisés (Ex 34:33–35) como tipo de la ceguera espiritual que el Espíritu levanta en la nueva alianza, descubriendo la gloria de Cristo sin velo (2Co 3:13–16)",
+        "en": "The veil over Moses' face (Exod 34:33–35) as a type of the spiritual blindness that the Spirit removes in the new covenant, unveiling the glory of Christ (2Cor 3:13–16)",
+        "pt": "O véu sobre o rosto de Moisés (Ex 34:33–35) como tipo da cegueira espiritual que o Espírito remove na nova aliança, revelando a glória de Cristo sem véu (2Co 3:13–16)"
+      },
+      {
+        "es": "El ministerio de Moisés en el Sinaí (gloria que se desvanece) como tipo y contraste con el ministerio del Espíritu en el nuevo pacto (gloria permanente y superior), señalando el cumplimiento en Cristo (2Co 3:7–11)",
+        "en": "The Mosaic ministry at Sinai (fading glory) as type and contrast with the Spirit's ministry in the new covenant (permanent and greater glory), pointing to fulfillment in Christ (2Cor 3:7–11)",
+        "pt": "O ministério mosaico no Sinai (glória que se desvanece) como tipo e contraste com o ministério do Espírito no novo pacto (glória permanente e superior), apontando para o cumprimento em Cristo (2Co 3:7–11)"
+      },
+      {
+        "es": "Cristo como nuevo Adán en quien Dios obra la nueva creación: 'si alguno está en Cristo, nueva criatura es' (2Co 5:17), cumpliendo la restauración de la imagen de Dios perdida en Adán (Gn 1:26–27)",
+        "en": "Christ as new Adam in whom God works the new creation: 'if anyone is in Christ, he is a new creation' (2Cor 5:17), fulfilling the restoration of the image of God lost in Adam (Gen 1:26–27)",
+        "pt": "Cristo como novo Adão em quem Deus opera a nova criação: 'se alguém está em Cristo, é nova criatura' (2Co 5:17), cumprindo a restauração da imagem de Deus perdida em Adão (Gn 1:26–27)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Solo 2 Corintios ofrece la defensa más autobiográfica y vulnerable del apostolado paulino en todo el canon, revelando la 'teología de la cruz aplicada': el poder de Dios se perfecciona en la debilidad humana (2Co 12:9). Es el único libro que desarrolla sistemáticamente la doctrina del ministerio del nuevo pacto como superior al de Moisés (2Co 3), articula la reconciliación cósmica desde la perspectiva del embajador (2Co 5:18–21), y presenta la colecta como acto teológico de gracia y comunión inter-eclesial (2Co 8–9). Su énfasis en el sufrimiento apostólico como participación en los padecimientos de Cristo es singular dentro del corpus paulino.",
+    "en": "Only 2 Corinthians offers the most autobiographical and vulnerable defense of Pauline apostolate in the entire canon, revealing 'applied theology of the cross': God's power is made perfect in human weakness (2Cor 12:9). It is the only book that systematically develops the doctrine of new covenant ministry as superior to that of Moses (2Cor 3), articulates cosmic reconciliation from the ambassador's perspective (2Cor 5:18–21), and presents the collection as a theological act of grace and inter-ecclesial communion (2Cor 8–9). Its emphasis on apostolic suffering as participation in Christ's sufferings is unique within the Pauline corpus.",
+    "pt": "Somente 2 Coríntios oferece a defesa mais autobiográfica e vulnerável do apostolado paulino em todo o cânon, revelando a 'teologia da cruz aplicada': o poder de Deus se aperfeiçoa na fraqueza humana (2Co 12:9). É o único livro que desenvolve sistematicamente a doutrina do ministério do novo pacto como superior ao de Moisés (2Co 3), articula a reconciliação cósmica desde a perspectiva do embaixador (2Co 5:18–21) e apresenta a coleta como ato teológico de graça e comunhão inter-eclesial (2Co 8–9). Sua ênfase no sofrimento apostólico como participação nos padecimentos de Cristo é singular dentro do corpus paulino."
+  },
+  "genero": {
+    "es": "Epístola apostólica apologética y pastoral",
+    "en": "Apologetic and pastoral apostolic epistle",
+    "pt": "Epístola apostólica apologética e pastoral"
+  },
+  "palabraClave": {
+    "es": [
+      "reconciliación",
+      "debilidad",
+      "gloria",
+      "nuevo pacto",
+      "sufrimiento",
+      "consuelo",
+      "apostolado",
+      "gracia"
+    ],
+    "en": [
+      "reconciliation",
+      "weakness",
+      "glory",
+      "new covenant",
+      "suffering",
+      "comfort",
+      "apostleship",
+      "grace"
+    ],
+    "pt": [
+      "reconciliação",
+      "fraqueza",
+      "glória",
+      "novo pacto",
+      "sofrimento",
+      "consolo",
+      "apostolado",
+      "graça"
+    ]
+  },
+  "destinatario": {
+    "es": "La iglesia cristiana en Corinto y todos los santos en toda Acaya (2Co 1:1), una congregación fundada por Pablo en su segundo viaje misionero (aprox. 50–52 d.C.), compuesta principalmente por gentiles convertidos de un trasfondo politeísta griego, con una minoría judía, que enfrentaba divisiones internas, cuestionamientos a la autoridad apostólica de Pablo y la influencia de maestros rivales foráneos.",
+    "en": "The Christian church at Corinth and all the saints throughout Achaia (2Cor 1:1), a congregation founded by Paul on his second missionary journey (approx. AD 50–52), composed primarily of converts from a Greek polytheistic background with a Jewish minority, facing internal divisions, challenges to Paul's apostolic authority, and the influence of rival outside teachers.",
+    "pt": "A igreja cristã em Corinto e todos os santos em toda a Acaia (2Co 1:1), uma congregação fundada por Paulo em sua segunda viagem missionária (aprox. 50–52 d.C.), composta principalmente de convertidos de um ambiente politeísta grego com uma minoria judaica, enfrentando divisões internas, questionamentos à autoridade apostólica de Paulo e a influência de mestres rivais externos."
+  },
+  "proposito": {
+    "es": "Propósito histórico: Responder a la crisis relacional entre Pablo y la iglesia corintia precipitada por la influencia de maestros rivales ('súper-apóstoles'), comunicar alivio tras el arrepentimiento mayoritario de la congregación, advertir a quienes aún se resisten, y motivar la conclusión de la colecta para los santos pobres de Jerusalén. Propósito teológico: Articular la naturaleza del ministerio cristiano auténtico como participación en los sufrimientos y la gloria de Cristo, desarrollar la doctrina del nuevo pacto como superior al antiguo, y fundamentar la reconciliación con Dios en la obra expiatoria de Cristo en cuyo lugar murió el apóstol (2Co 5:14–21).",
+    "en": "Historical purpose: To respond to the relational crisis between Paul and the Corinthian church precipitated by rival teachers ('super-apostles'), communicate relief following the majority repentance of the congregation, warn those still resistant, and motivate the completion of the collection for the poor saints in Jerusalem. Theological purpose: To articulate the nature of authentic Christian ministry as participation in Christ's sufferings and glory, develop the doctrine of the new covenant as superior to the old, and ground reconciliation with God in Christ's atoning work on behalf of humanity (2Cor 5:14–21).",
+    "pt": "Propósito histórico: Responder à crise relacional entre Paulo e a igreja coríntia precipitada pela influência de mestres rivais ('super-apóstolos'), comunicar alívio após o arrependimento majoritário da congregação, advertir os que ainda resistem e motivar a conclusão da coleta para os santos pobres de Jerusalém. Propósito teológico: Articular a natureza do ministério cristão autêntico como participação nos sofrimentos e na glória de Cristo, desenvolver a doutrina do novo pacto como superior ao antigo, e fundamentar a reconciliação com Deus na obra expiatória de Cristo em cujo lugar morreu o apóstolo (2Co 5:14–21)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pablo (el Apóstol)",
+        "en": "Paul (the Apostle)",
+        "pt": "Paulo (o Apóstolo)"
+      },
+      "hebreo": "Παῦλος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo por la voluntad de Dios (2Co 1:1), autor y remitente de la carta. Pablo escribe desde Macedonia en un momento de profunda tensión pastoral y personal, habiendo experimentado sufrimientos extremos (2Co 1:8–10; 2Co 11:23–29) y una revelación singular del paraíso (2Co 12:1–4), y cargando la preocupación constante por todas las iglesias (2Co 11:28).",
+        "en": "Apostle of Jesus Christ by the will of God (2Cor 1:1), author and sender of the letter. Paul writes from Macedonia at a moment of profound pastoral and personal tension, having experienced extreme sufferings (2Cor 1:8–10; 2Cor 11:23–29) and a singular revelation of paradise (2Cor 12:1–4), while carrying constant anxiety for all the churches (2Cor 11:28).",
+        "pt": "Apóstolo de Jesus Cristo pela vontade de Deus (2Co 1:1), autor e remetente da carta. Paulo escreve da Macedônia em um momento de profunda tensão pastoral e pessoal, tendo experimentado sofrimentos extremos (2Co 1:8–10; 2Co 11:23–29) e uma revelação singular do paraíso (2Co 12:1–4), carregando a preocupação constante por todas as igrejas (2Co 11:28)."
+      },
+      "acciones": {
+        "es": "Escribe para defender su apostolado frente a los acusadores (2Co 10–13), consolar a los arrepentidos (2Co 1–2; 2Co 7), exhortar a la santidad (2Co 6:14–7:1), motivar la colecta (2Co 8–9), y revelar sus sufrimientos como evidencia del poder de Cristo en la debilidad (2Co 4:7–12; 2Co 12:9–10). Comparte su experiencia mística del tercer cielo (2Co 12:1–4) y su lucha con el espino en la carne (2Co 12:7–9).",
+        "en": "Writes to defend his apostolate against accusers (2Cor 10–13), comfort the repentant (2Cor 1–2; 2Cor 7), exhort to holiness (2Cor 6:14–7:1), motivate the collection (2Cor 8–9), and reveal his sufferings as evidence of Christ's power in weakness (2Cor 4:7–12; 2Cor 12:9–10). Shares his mystical experience of the third heaven (2Cor 12:1–4) and his struggle with the thorn in the flesh (2Cor 12:7–9).",
+        "pt": "Escreve para defender seu apostolado diante dos acusadores (2Co 10–13), consolar os arrependidos (2Co 1–2; 2Co 7), exortar à santidade (2Co 6:14–7:1), motivar a coleta (2Co 8–9) e revelar seus sofrimentos como evidência do poder de Cristo na fraqueza (2Co 4:7–12; 2Co 12:9–10). Compartilha sua experiência mística do terceiro céu (2Co 12:1–4) e sua luta com o espinho na carne (2Co 12:7–9)."
+      },
+      "significadoTeologico": {
+        "es": "Pablo encarna la 'teología de la cruz aplicada': su debilidad apostólica es el medio por el cual el poder de Cristo se despliega (2Co 12:9). Es al mismo tiempo el embajador de la reconciliación (2Co 5:20) y el participante sufriente de los padecimientos de Cristo para consolar a otros (2Co 1:5–7). Su ministerio ilustra el principio de que el tesoro del evangelio está en vasos de barro para que la excelencia del poder sea de Dios (2Co 4:7).",
+        "en": "Paul embodies 'applied theology of the cross': his apostolic weakness is the very medium through which Christ's power is displayed (2Cor 12:9). He is simultaneously the ambassador of reconciliation (2Cor 5:20) and the suffering participant in Christ's afflictions for the comfort of others (2Cor 1:5–7). His ministry illustrates the principle that the treasure of the gospel is in jars of clay so that the surpassing power belongs to God (2Cor 4:7).",
+        "pt": "Paulo encarna a 'teologia da cruz aplicada': sua fraqueza apostólica é o meio pelo qual o poder de Cristo se manifesta (2Co 12:9). É ao mesmo tempo o embaixador da reconciliação (2Co 5:20) e o participante sofredor dos padecimentos de Cristo para consolar os outros (2Co 1:5–7). Seu ministério ilustra o princípio de que o tesouro do evangelho está em vasos de barro para que a excelência do poder seja de Deus (2Co 4:7)."
+      },
+      "tipo": {
+        "es": "Pablo no funciona como tipo de Cristo, sino como modelo del ministerio cruciforme que refleja la muerte y resurrección de Cristo en el ejercicio del apostolado (2Co 4:10–11).",
+        "en": "Paul does not function as a type of Christ, but rather as a model of cruciform ministry that reflects Christ's death and resurrection in the exercise of apostleship (2Cor 4:10–11).",
+        "pt": "Paulo não funciona como tipo de Cristo, mas como modelo do ministério cruciforme que reflete a morte e ressurreição de Cristo no exercício do apostolado (2Co 4:10–11)."
+      },
+      "caracterMoral": {
+        "es": "Pablo se presenta con profunda humildad y transparencia: reconoce sus sufrimientos, temores y presiones sin romantizarlos (2Co 7:5). Su jactancia es solo 'en el Señor' y en sus propias debilidades (2Co 10:17; 2Co 11:30), nunca en logros que inflarían su propia reputación. Mantiene integridad financiera en la colecta (2Co 8:20–21) y coherencia entre sus cartas y su presencia personal (2Co 10:10–11).",
+        "en": "Paul presents himself with profound humility and transparency: he acknowledges his sufferings, fears, and pressures without romanticizing them (2Cor 7:5). His boasting is only 'in the Lord' and in his own weaknesses (2Cor 10:17; 2Cor 11:30), never in achievements that would inflate his own reputation. He maintains financial integrity in the collection (2Cor 8:20–21) and consistency between his letters and personal presence (2Cor 10:10–11).",
+        "pt": "Paulo apresenta-se com profunda humildade e transparência: reconhece seus sofrimentos, temores e pressões sem romantizá-los (2Co 7:5). Sua glória é apenas 'no Senhor' e em suas próprias fraquezas (2Co 10:17; 2Co 11:30), nunca em conquistas que inflariam sua própria reputação. Mantém integridade financeira na coleta (2Co 8:20–21) e coerência entre suas cartas e sua presença pessoal (2Co 10:10–11)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Pablo, apóstol de Jesucristo, es el fundador de la iglesia en Corinto (2Co 1:19; 2Co 11:7–9) y su padre espiritual. Escribió al menos dos cartas previas a la comunidad (una perdida antes de 1 Corintios, y 1 Corintios mismo). Sufrió una visita dolorosa a Corinto (2Co 2:1) y envió una carta severa con lágrimas (2Co 2:4; 2Co 7:8) antes de 2 Corintios. En la carta actual defiende su autoridad apostólica frente a acusaciones de debilidad, mentira y falta de credenciales, revelando sus sufrimientos (2Co 11:23–29), su visión del tercer cielo (2Co 12:2–4) y la gracia de Cristo en su debilidad (2Co 12:9).",
+          "en": "Paul, apostle of Jesus Christ, is the founder of the church at Corinth (2Cor 1:19; 2Cor 11:7–9) and its spiritual father. He wrote at least two prior letters to the community (one lost before 1 Corinthians, and 1 Corinthians itself). He suffered a painful visit to Corinth (2Cor 2:1) and sent a severe letter with tears (2Cor 2:4; 2Cor 7:8) before 2 Corinthians. In the present letter he defends his apostolic authority against accusations of weakness, deceit, and lack of credentials, revealing his sufferings (2Cor 11:23–29), his vision of the third heaven (2Cor 12:2–4), and Christ's grace in his weakness (2Cor 12:9).",
+          "pt": "Paulo, apóstolo de Jesus Cristo, é o fundador da igreja em Corinto (2Co 1:19; 2Co 11:7–9) e seu pai espiritual. Escreveu pelo menos duas cartas anteriores à comunidade (uma perdida antes de 1 Coríntios, e o próprio 1 Coríntios). Sofreu uma visita dolorosa a Corinto (2Co 2:1) e enviou uma carta severa com lágrimas (2Co 2:4; 2Co 7:8) antes de 2 Coríntios. Na carta atual defende sua autoridade apostólica diante de acusações de fraqueza, mentira e falta de credenciais, revelando seus sofrimentos (2Co 11:23–29), sua visão do terceiro céu (2Co 12:2–4) e a graça de Cristo em sua fraqueza (2Co 12:9)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Co 1:1",
+          "2Co 1:8–10",
+          "2Co 4:7",
+          "2Co 5:20",
+          "2Co 11:23–29",
+          "2Co 12:9–10"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Pablo (nombre hebreo: Saúl de Tarso) es uno de los personajes históricos mejor atestiguados del mundo antiguo gracias a las fuentes paulinas y los Hechos de los Apóstoles. Nació en Tarso de Cilicia como ciudadano romano, fue fariseo formado bajo Gamaliel (Hch 22:3), y se convirtió en el camino a Damasco (Hch 9). Sus viajes misioneros, incluidos los dos viajes a Corinto (Hch 18; Hch 20:2–3), están corroborados en términos generales por la arqueología y la historiografía greco-romana del siglo I. La mención del procónsul Galión en Hch 18:12 está confirmada por la inscripción délfica (53 d.C.), que fija con precisión la primera visita de Pablo a Corinto.",
+          "en": "Paul (Hebrew name: Saul of Tarsus) is one of the best historically attested figures of the ancient world through the Pauline letters and the Acts of the Apostles. Born in Tarsus of Cilicia as a Roman citizen, he was a Pharisee trained under Gamaliel (Acts 22:3) and converted on the road to Damascus (Acts 9). His missionary journeys, including two visits to Corinth (Acts 18; Acts 20:2–3), are broadly corroborated by archaeology and first-century Greco-Roman historiography. The mention of proconsul Gallio in Acts 18:12 is confirmed by the Delphi inscription (AD 53), which precisely anchors Paul's first visit to Corinth.",
+          "pt": "Paulo (nome hebraico: Saulo de Tarso) é um dos personagens históricos mais bem atestados do mundo antigo pelas cartas paulinas e os Atos dos Apóstolos. Nascido em Tarso da Cilícia como cidadão romano, foi fariseu formado sob Gamaliel (At 22:3) e converteu-se no caminho para Damasco (At 9). Suas viagens missionárias, incluindo duas visitas a Corinto (At 18; At 20:2–3), são amplamente corroboradas pela arqueologia e pela historiografia greco-romana do século I. A menção do procônsul Galião em At 18:12 é confirmada pela inscrição délfica (53 d.C.), que fixa com precisão a primeira visita de Paulo a Corinto."
+        },
+        "fuentes": [
+          {
+            "titulo": "The New International Commentary on the New Testament: The Second Epistle to the Corinthians",
+            "autor": "Paul Barnett",
+            "año": 1997,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Historical biography",
+              "Archaeological context",
+              "Authorship"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La cronología paulina inferida de 2 Corintios concuerda con los Hechos y la epigrafía. La inscripción de Galión (52–53 d.C.) y la referencia a Erasto en Ro 16:23 (corroborada arqueológicamente en Corinto) confirman el entorno histórico del ministerio paulino descrito en la carta.",
+          "en": "The Pauline chronology inferred from 2 Corinthians agrees with Acts and epigraphy. The Gallio inscription (AD 52–53) and the reference to Erastus in Rom 16:23 (archaeologically corroborated at Corinth) confirm the historical setting of the Pauline ministry described in the letter.",
+          "pt": "A cronologia paulina inferida de 2 Coríntios concorda com os Atos e a epigrafia. A inscrição de Galião (52–53 d.C.) e a referência a Erasto em Rm 16:23 (corroborada arqueologicamente em Corinto) confirmam o contexto histórico do ministério paulino descrito na carta."
+        }
+      },
+      "versiculosAsociados": [
+        "2Co 1:1",
+        "2Co 4:7",
+        "2Co 5:20",
+        "2Co 11:23–29",
+        "2Co 12:9"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "2Ti",
+        "Tit",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo aparece como autor o co-autor en trece epístolas del NT y como protagonista de la segunda mitad de Hechos. Su teología de la gracia, la justificación y el ministerio cruciforme en 2 Corintios está en continuidad con Romanos, Gálatas y Filipenses. La visión del tercer cielo (2Co 12:1–4) es única en el canon paulino.",
+        "en": "Paul appears as author or co-author in thirteen NT epistles and as the protagonist of the second half of Acts. His theology of grace, justification, and cruciform ministry in 2 Corinthians is continuous with Romans, Galatians, and Philippians. The third-heaven vision (2Cor 12:1–4) is unique in the Pauline canon.",
+        "pt": "Paulo aparece como autor ou co-autor em treze epístolas do NT e como protagonista da segunda metade dos Atos. Sua teologia da graça, justificação e ministério cruciforme em 2 Coríntios está em continuidade com Romanos, Gálatas e Filipenses. A visão do terceiro céu (2Co 12:1–4) é única no corpus paulino."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Tito",
+        "en": "Titus",
+        "pt": "Tito"
+      },
+      "hebreo": "Τίτος",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        2,
+        7,
+        8,
+        12
+      ],
+      "descripcion": {
+        "es": "Gentil convertido por Pablo (Gá 2:3), colaborador de confianza y enviado de Pablo a Corinto en múltiples ocasiones. Su regreso a Pablo con noticias del arrepentimiento corintio es el evento bisagra que hace posible la escritura de 2 Corintios (2Co 7:6–7).",
+        "en": "A Gentile convert through Paul (Gal 2:3), trusted co-worker and Paul's emissary to Corinth on multiple occasions. His return to Paul with news of Corinthian repentance is the pivot event that makes the writing of 2 Corinthians possible (2Cor 7:6–7).",
+        "pt": "Convertido gentio por Paulo (Gl 2:3), colaborador de confiança e enviado de Paulo a Corinto em múltiplas ocasiões. Seu retorno a Paulo com notícias do arrependimento coríntio é o evento-chave que torna possível a escrita de 2 Coríntios (2Co 7:6–7)."
+      },
+      "acciones": {
+        "es": "Tito es enviado para mediar la crisis (posiblemente portando la carta severa, 2Co 2:13). Su informe positivo sobre el arrepentimiento de los corintios consuela a Pablo (2Co 7:5–7). Es enviado nuevamente para completar la colecta (2Co 8:6; 2Co 8:16–17) y es elogiado por su amor genuino a la iglesia (2Co 8:16).",
+        "en": "Titus is sent to mediate the crisis (possibly carrying the severe letter, 2Cor 2:13). His positive report on the Corinthians' repentance comforts Paul (2Cor 7:5–7). He is sent again to complete the collection (2Cor 8:6; 2Cor 8:16–17) and is praised for his genuine love for the church (2Cor 8:16).",
+        "pt": "Tito é enviado para mediar a crise (possivelmente portando a carta severa, 2Co 2:13). Seu relato positivo sobre o arrependimento dos coríntios consola Paulo (2Co 7:5–7). É enviado novamente para completar a coleta (2Co 8:6; 2Co 8:16–17) e é elogiado por seu amor genuíno à igreja (2Co 8:16)."
+      },
+      "significadoTeologico": {
+        "es": "Tito personifica la eficacia del ministerio apostólico mediado a través de compañeros de confianza. Su misión exitosa demuestra que el mensaje de Pablo tiene poder transformador real en las congregaciones, y que el evangelio crea comunidades de reconciliación.",
+        "en": "Titus embodies the efficacy of apostolic ministry mediated through trusted companions. His successful mission demonstrates that Paul's message has real transformative power in congregations, and that the gospel creates communities of reconciliation.",
+        "pt": "Tito personifica a eficácia do ministério apostólico mediado por companheiros de confiança. Sua missão bem-sucedida demonstra que a mensagem de Paulo tem poder transformador real nas congregações e que o evangelho cria comunidades de reconciliação."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo en el texto.",
+        "en": "Does not function as a type of Christ in the text.",
+        "pt": "Não funciona como tipo de Cristo no texto."
+      },
+      "caracterMoral": {
+        "es": "Descrito como alguien con 'solicitud' genuina y amor espontáneo hacia los corintios (2Co 8:16–17). Modelo de integridad en el manejo de los fondos de la colecta (2Co 8:20–21).",
+        "en": "Described as someone with genuine 'earnestness' and spontaneous love toward the Corinthians (2Cor 8:16–17). A model of integrity in handling the collection funds (2Cor 8:20–21).",
+        "pt": "Descrito como alguém com 'solicitude' genuína e amor espontâneo pelos coríntios (2Co 8:16–17). Modelo de integridade no manuseio dos fundos da coleta (2Co 8:20–21)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Tito aparece en el corpus paulino como gentil que no fue circuncidado (Gá 2:3), colaborador en el trabajo misionero y destinatario de una epístola pastoral propia. En 2 Corintios se menciona cuatro veces en conexión con la misión a Corinto y la organización de la colecta.",
+          "en": "Titus appears in the Pauline corpus as a Gentile who was not circumcised (Gal 2:3), a co-worker in missionary service, and the recipient of his own pastoral epistle. In 2 Corinthians he is mentioned four times in connection with the Corinthian mission and the organization of the collection.",
+          "pt": "Tito aparece no corpus paulino como gentio que não foi circuncidado (Gl 2:3), colaborador no trabalho missionário e destinatário de sua própria epístola pastoral. Em 2 Coríntios é mencionado quatro vezes em conexão com a missão coríntia e a organização da coleta."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Co 7:6",
+          "2Co 7:13–15",
+          "2Co 8:6",
+          "2Co 8:16–17",
+          "2Co 12:18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Tito es conocido principalmente a través de las cartas de Pablo. No es mencionado en Hechos, lo que puede deberse a un conocimiento dado por supuesto o a las fuentes de Lucas. Fue compañero de Pablo en el concilio de Jerusalén (Gá 2:1–3). Más tarde sirvió en Creta (Tit 1:5). La tradición eclesiástica lo considera primer obispo de Creta. No hay evidencia arqueológica directa de su persona.",
+          "en": "Titus is known primarily through Paul's letters. He is not mentioned in Acts, possibly because his presence was assumed or due to Luke's sources. He accompanied Paul to the Jerusalem council (Gal 2:1–3). He later served in Crete (Tit 1:5). Ecclesiastical tradition regards him as the first bishop of Crete. There is no direct archaeological evidence of his person.",
+          "pt": "Tito é conhecido principalmente pelas cartas de Paulo. Não é mencionado nos Atos, possivelmente porque sua presença era pressuposta ou devido às fontes de Lucas. Acompanhou Paulo ao concílio de Jerusalém (Gl 2:1–3). Mais tarde serviu em Creta (Tt 1:5). A tradição eclesiástica o considera o primeiro bispo de Creta. Não há evidência arqueológica direta de sua pessoa."
+        },
+        "fuentes": [
+          {
+            "titulo": "The New International Commentary on the New Testament: The Second Epistle to the Corinthians",
+            "autor": "Paul Barnett",
+            "año": 1997,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Character biography",
+              "Historical context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "El papel mediador de Tito entre Pablo y Corinto es coherente con las prácticas de comunicación epistolar del mundo antiguo. Su rol como administrador de la colecta refleja la confianza depositada en representantes apostólicos de probada integridad.",
+          "en": "Titus's mediating role between Paul and Corinth is consistent with epistolary communication practices in the ancient world. His role as administrator of the collection reflects the trust placed in proven apostolic representatives.",
+          "pt": "O papel mediador de Tito entre Paulo e Corinto é coerente com as práticas de comunicação epistolar do mundo antigo. Seu papel como administrador da coleta reflete a confiança depositada em representantes apostólicos de comprovada integridade."
+        }
+      },
+      "versiculosAsociados": [
+        "2Co 2:13",
+        "2Co 7:6",
+        "2Co 7:13–15",
+        "2Co 8:6",
+        "2Co 8:16–17",
+        "2Co 12:18"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gá",
+        "2Ti",
+        "Tit"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Tito es el destinatario de la epístola pastoral que lleva su nombre (Tit), donde Pablo le encarga organizar las iglesias de Creta. Aparece como el colaborador más estratégico en los últimos años del ministerio paulino.",
+        "en": "Titus is the recipient of the pastoral epistle bearing his name (Titus), where Paul charges him to organize the churches of Crete. He appears as the most strategic co-worker in the final years of Paul's ministry.",
+        "pt": "Tito é o destinatário da epístola pastoral que leva seu nome (Tt), onde Paulo lhe incumbe de organizar as igrejas de Creta. Aparece como o colaborador mais estratégico nos últimos anos do ministério paulino."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Timoteo",
+        "en": "Timothy",
+        "pt": "Timóteo"
+      },
+      "hebreo": "Τιμόθεος",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Co-remitente de la carta (2Co 1:1) y colaborador más cercano de Pablo. Su nombre en la apertura de 2 Corintios expresa la autoridad compartida del equipo apostólico y su vínculo con la iglesia corintia, a la que había sido enviado previamente (1Co 4:17).",
+        "en": "Co-sender of the letter (2Cor 1:1) and Paul's closest collaborator. His name in the opening of 2 Corinthians expresses the shared authority of the apostolic team and his connection to the Corinthian church, to which he had been previously sent (1Cor 4:17).",
+        "pt": "Co-remetente da carta (2Co 1:1) e colaborador mais próximo de Paulo. Seu nome na abertura de 2 Coríntios expressa a autoridade compartilhada da equipe apostólica e seu vínculo com a igreja coríntia, à qual havia sido enviado anteriormente (1Co 4:17)."
+      },
+      "acciones": {
+        "es": "Mencionado solo en la salutación (2Co 1:1) como co-remitente. Pablo lo refiere implícitamente al mencionar su propio equipo misionero y los planes de viaje (2Co 1:19 — 'Silvano, Timoteo y yo').",
+        "en": "Mentioned only in the salutation (2Cor 1:1) as co-sender. Paul references him implicitly when mentioning his own missionary team and travel plans (2Cor 1:19 — 'Silvanus and Timothy and I').",
+        "pt": "Mencionado apenas na saudação (2Co 1:1) como co-remetente. Paulo o referencia implicitamente ao mencionar sua equipe missionária e planos de viagem (2Co 1:19 — 'Silvano, Timóteo e eu')."
+      },
+      "significadoTeologico": {
+        "es": "La inclusión de Timoteo como co-remitente refuerza el carácter comunitario del apostolado paulino: Pablo no actúa como individualista carismático sino como líder de un equipo apostólico. Ilustra la eclesiología paulina de pluralidad en el ministerio.",
+        "en": "Timothy's inclusion as co-sender reinforces the communal character of Pauline apostolate: Paul does not act as a charismatic individualist but as the leader of an apostolic team. This illustrates Pauline ecclesiology of plurality in ministry.",
+        "pt": "A inclusão de Timóteo como co-remetente reforça o caráter comunitário do apostolado paulino: Paulo não age como individualista carismático, mas como líder de uma equipe apostólica. Isso ilustra a eclesiologia paulina de pluralidade no ministério."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo en el texto.",
+        "en": "Does not function as a type of Christ in the text.",
+        "pt": "Não funciona como tipo de Cristo no texto."
+      },
+      "caracterMoral": {
+        "es": "Descrito en otras cartas como fiel, sin igual en su solicitud por el bienestar de los creyentes (Fil 2:20–22). En 2 Corintios se le menciona brevemente pero su presencia como co-remitente connota confiabilidad apostólica.",
+        "en": "Described in other letters as faithful, without equal in his genuine concern for believers' welfare (Phil 2:20–22). In 2 Corinthians he is mentioned briefly, but his presence as co-sender connotes apostolic trustworthiness.",
+        "pt": "Descrito em outras cartas como fiel, sem igual em sua solicitude genuína pelo bem-estar dos crentes (Fp 2:20–22). Em 2 Coríntios é mencionado brevemente, mas sua presença como co-remetente connota confiabilidade apostólica."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Timoteo, hijo de padre griego y madre judía creyente (Hch 16:1; 2Ti 1:5), fue circuncidado por Pablo para el ministerio entre los judíos (Hch 16:3). Aparece como co-remitente en 2 Corintios, Filipenses, Colosenses, 1–2 Tesalonicenses y Filemón, y como destinatario de las epístolas pastorales.",
+          "en": "Timothy, son of a Greek father and a believing Jewish mother (Acts 16:1; 2Tim 1:5), was circumcised by Paul for ministry among Jews (Acts 16:3). He appears as co-sender in 2 Corinthians, Philippians, Colossians, 1–2 Thessalonians, and Philemon, and as the recipient of the pastoral epistles.",
+          "pt": "Timóteo, filho de pai grego e mãe judia crente (At 16:1; 2Tm 1:5), foi circuncidado por Paulo para o ministério entre os judeus (At 16:3). Aparece como co-remetente em 2 Coríntios, Filipenses, Colossenses, 1–2 Tessalonicenses e Filêmon, e como destinatário das epístolas pastorais."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Co 1:1",
+          "2Co 1:19"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Timoteo es conocido a través del corpus paulino y Hechos. Como colaborador de Pablo en tres viajes misioneros y delegado a múltiples iglesias (Tesalónica, Corinto, Éfeso), su ministerio está ampliamente documentado dentro del NT. No hay evidencia arqueológica directa de su persona fuera del NT.",
+          "en": "Timothy is known through the Pauline corpus and Acts. As Paul's co-worker on three missionary journeys and delegate to multiple churches (Thessalonica, Corinth, Ephesus), his ministry is extensively documented within the NT. There is no direct archaeological evidence of his person outside the NT.",
+          "pt": "Timóteo é conhecido pelo corpus paulino e pelos Atos. Como colaborador de Paulo em três viagens missionárias e delegado a múltiplas igrejas (Tessalônica, Corinto, Éfeso), seu ministério está amplamente documentado no NT. Não há evidência arqueológica direta de sua pessoa fora do NT."
+        },
+        "fuentes": [
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway Editorial Team",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Character notes"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La mención de Timoteo como co-remitente es coherente con las prácticas de dictado y co-autoría en las cartas paulinas, y con su presencia confirmada en Macedonia durante el tercer viaje misionero (Hch 19:22; Hch 20:4).",
+          "en": "The mention of Timothy as co-sender is consistent with the practices of dictation and co-authorship in Pauline letters, and with his confirmed presence in Macedonia during the third missionary journey (Acts 19:22; Acts 20:4).",
+          "pt": "A menção de Timóteo como co-remetente é coerente com as práticas de ditado e co-autoria nas cartas paulinas, e com sua presença confirmada na Macedônia durante a terceira viagem missionária (At 19:22; At 20:4)."
+        }
+      },
+      "versiculosAsociados": [
+        "2Co 1:1",
+        "2Co 1:19"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "Flm",
+        "1Ti",
+        "2Ti",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Timoteo es destinatario de 1 y 2 Timoteo, donde Pablo le encarga el ministerio pastoral en Éfeso y le exhorta a perseverar en la sana doctrina. Es el colaborador paulino con mayor presencia en el corpus epistolar del NT.",
+        "en": "Timothy is the recipient of 1 and 2 Timothy, where Paul entrusts him with pastoral ministry in Ephesus and exhorts him to persevere in sound doctrine. He is the Pauline co-worker with the greatest presence in the NT epistolary corpus.",
+        "pt": "Timóteo é o destinatário de 1 e 2 Timóteo, onde Paulo lhe confia o ministério pastoral em Éfeso e o exorta a perseverar na sã doutrina. É o colaborador paulino com maior presença no corpus epistolar do NT."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los 'súper-apóstoles' / falsos apóstoles",
+        "en": "The 'super-apostles' / false apostles",
+        "pt": "Os 'super-apóstolos' / falsos apóstolos"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        10,
+        11,
+        12
+      ],
+      "descripcion": {
+        "es": "Maestros itinerantes que llegaron a Corinto con cartas de recomendación (2Co 3:1), afirmando ser hebreos, israelitas y descendientes de Abraham (2Co 11:22), y se presentaron como apóstoles superiores a Pablo. Pablo los llama 'falsos apóstoles' y 'obreros fraudulentos' (2Co 11:13) que se disfrazan de apóstoles de Cristo igual que Satanás se disfraza de ángel de luz (2Co 11:14).",
+        "en": "Itinerant teachers who arrived in Corinth with letters of recommendation (2Cor 3:1), claiming to be Hebrews, Israelites, and descendants of Abraham (2Cor 11:22), presenting themselves as apostles superior to Paul. Paul calls them 'false apostles' and 'deceitful workers' (2Cor 11:13) who disguise themselves as apostles of Christ just as Satan disguises himself as an angel of light (2Cor 11:14).",
+        "pt": "Mestres itinerantes que chegaram a Corinto com cartas de recomendação (2Co 3:1), afirmando ser hebreus, israelitas e descendentes de Abraão (2Co 11:22), e apresentando-se como apóstolos superiores a Paulo. Paulo os chama de 'falsos apóstolos' e 'obreiros fraudulentos' (2Co 11:13) que se disfarçam de apóstolos de Cristo assim como Satanás se disfarça de anjo de luz (2Co 11:14)."
+      },
+      "acciones": {
+        "es": "Cuestionan la autoridad de Pablo apelando a su debilidad personal, su ausencia y su renuncia al sostenimiento económico (2Co 10:10; 2Co 11:7–9). Predican 'otro Jesús', 'otro espíritu' y 'otro evangelio' (2Co 11:4). Exigen respeto por sus visiones, experiencias y credenciales judías (2Co 11:22; 2Co 12:11). Explotan económicamente a la congregación, contrariamente a Pablo (2Co 11:20).",
+        "en": "They challenge Paul's authority by appealing to his personal weakness, his absence, and his refusal of financial support (2Cor 10:10; 2Cor 11:7–9). They preach 'another Jesus,' 'a different spirit,' and 'a different gospel' (2Cor 11:4). They demand respect for their visions, experiences, and Jewish credentials (2Cor 11:22; 2Cor 12:11). They financially exploit the congregation, unlike Paul (2Cor 11:20).",
+        "pt": "Questionam a autoridade de Paulo apelando à sua fraqueza pessoal, sua ausência e sua recusa ao sustento econômico (2Co 10:10; 2Co 11:7–9). Pregam 'outro Jesus', 'outro espírito' e 'outro evangelho' (2Co 11:4). Exigem respeito por suas visões, experiências e credenciais judaicas (2Co 11:22; 2Co 12:11). Exploram economicamente a congregação, contrariamente a Paulo (2Co 11:20)."
+      },
+      "significadoTeologico": {
+        "es": "Los súper-apóstoles representan la 'teología de la gloria' que busca validar el ministerio mediante signos externos de poder, éxito y credenciales humanas. Son el contrafactual que permite a Pablo desarrollar la teología de la debilidad apostólica como el modo en que el poder de Dios se manifiesta.",
+        "en": "The super-apostles represent the 'theology of glory' that seeks to validate ministry through external signs of power, success, and human credentials. They are the foil that allows Paul to develop the theology of apostolic weakness as the mode through which God's power is manifested.",
+        "pt": "Os super-apóstolos representam a 'teologia da glória' que busca validar o ministério mediante sinais externos de poder, sucesso e credenciais humanas. São o contrafactual que permite a Paulo desenvolver a teologia da fraqueza apostólica como o modo pelo qual o poder de Deus se manifesta."
+      },
+      "tipo": {
+        "es": "No funcionan como tipo. Son el agente de la oposición satánica al evangelio (2Co 11:14–15).",
+        "en": "They do not function as types. They are the agents of satanic opposition to the gospel (2Cor 11:14–15).",
+        "pt": "Não funcionam como tipos. São os agentes da oposição satânica ao evangelho (2Co 11:14–15)."
+      },
+      "caracterMoral": {
+        "es": "Pablo los describe como engañadores que se disfrazan de siervos de la justicia pero cuyo fin está conforme a sus obras (2Co 11:15). Explotan, oprimen y golpean metafóricamente a la congregación (2Co 11:20).",
+        "en": "Paul describes them as deceivers who disguise themselves as servants of righteousness but whose end will correspond to their deeds (2Cor 11:15). They exploit, oppress, and metaphorically strike the congregation (2Cor 11:20).",
+        "pt": "Paulo os descreve como enganadores que se disfarçam de servos da justiça, mas cujo fim será conforme as suas obras (2Co 11:15). Exploram, oprimem e metaforicamente golpeiam a congregação (2Co 11:20)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Los 'súper-apóstoles' solo aparecen en 2 Corintios. Son mencionados por referencia oblicua en caps. 3–6 y atacados directamente en caps. 10–13. Pablo no los nombra individualmente. Su identidad exacta sigue siendo debatida; lo que el texto afirma es que llegaron desde fuera, con cartas de recomendación, afirmaron credenciales judías y apostólicas, y predicaron un evangelio diferente al de Pablo.",
+          "en": "The 'super-apostles' appear only in 2 Corinthians. They are obliquely referenced in chapters 3–6 and directly attacked in chapters 10–13. Paul does not name them individually. Their exact identity remains debated; what the text asserts is that they arrived from outside, with letters of recommendation, claimed Jewish and apostolic credentials, and preached a gospel different from Paul's.",
+          "pt": "Os 'super-apóstolos' aparecem apenas em 2 Coríntios. São mencionados obliquamente nos caps. 3–6 e atacados diretamente nos caps. 10–13. Paulo não os nomeia individualmente. Sua identidade exata permanece debatida; o que o texto afirma é que chegaram de fora, com cartas de recomendação, reivindicaram credenciais judaicas e apostólicas e pregaram um evangelho diferente do de Paulo."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Co 11:4–5",
+          "2Co 11:13–15",
+          "2Co 11:22–23",
+          "2Co 12:11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La identidad histórica de los oponentes de Pablo en 2 Corintios no puede determinarse con certeza fuera del texto. Las teorías principales los identifican como (a) misioneros palestinenses con conexiones jeroso limitas (Käsemann, Barrett), (b) predicadores pneumáticos helenísticos (Georgi), o (c) simplemente misioneros judíos itinerantes de trasfondo farisaico. La tradición reformada conservadora no especula más allá de lo que el texto permite.",
+          "en": "The historical identity of Paul's opponents in 2 Corinthians cannot be determined with certainty outside the text. The main theories identify them as (a) Palestinian missionaries with Jerusalem connections (Käsemann, Barrett), (b) Hellenistic pneumatic preachers (Georgi), or (c) simply itinerant Jewish missionaries from a Pharisaic background. The conservative Reformed tradition does not speculate beyond what the text permits.",
+          "pt": "A identidade histórica dos oponentes de Paulo em 2 Coríntios não pode ser determinada com certeza fora do texto. As principais teorias os identificam como (a) missionários palestinenses com conexões jerusalemitas (Käsemann, Barrett), (b) pregadores pneumáticos helenísticos (Georgi), ou (c) simplesmente missionários judeus itinerantes de fundo farisaico. A tradição reformada conservadora não especula além do que o texto permite."
+        },
+        "fuentes": [
+          {
+            "titulo": "The New International Commentary on the New Testament: The Second Epistle to the Corinthians",
+            "autor": "Paul Barnett",
+            "año": 1997,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Opponents' identity",
+              "Historical context"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La descripción que Pablo hace de sus oponentes (hebreos, israelitas, ministros de Cristo) es coherente con la presencia de predicadores judíos itinerantes en el mundo greco-romano del siglo I. No hay contradicción arqueológica o histórica con el texto.",
+          "en": "Paul's description of his opponents (Hebrews, Israelites, ministers of Christ) is consistent with the presence of itinerant Jewish preachers in the first-century Greco-Roman world. There is no archaeological or historical contradiction with the text.",
+          "pt": "A descrição que Paulo faz de seus oponentes (hebreus, israelitas, ministros de Cristo) é coerente com a presença de pregadores judeus itinerantes no mundo greco-romano do século I. Não há contradição arqueológica ou histórica com o texto."
+        }
+      },
+      "versiculosAsociados": [
+        "2Co 3:1",
+        "2Co 11:4–5",
+        "2Co 11:13–15",
+        "2Co 11:22–23",
+        "2Co 12:11"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Personajes análogos aparecen en Gálatas (los que predican otro evangelio, Gá 1:6–9) y en Filipenses (los que confían en la carne, Fil 3:2–4). La advertencia de Pablo sobre los falsos apóstoles tiene paralelo en Ap 2:2 (Éfeso reconoce a los falsos apóstoles).",
+        "en": "Analogous figures appear in Galatians (those preaching another gospel, Gal 1:6–9) and Philippians (those who put confidence in the flesh, Phil 3:2–4). Paul's warning about false apostles is echoed in Rev 2:2 (Ephesus recognizing false apostles).",
+        "pt": "Personagens análogos aparecem em Gálatas (os que pregam outro evangelho, Gl 1:6–9) e em Filipenses (os que confiam na carne, Fp 3:2–4). O aviso de Paulo sobre os falsos apóstolos tem paralelo em Ap 2:2 (Éfeso que reconhece os falsos apóstolos)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "2 Corintios presenta la reconciliación como el corazón de la salvación: Dios estaba en Cristo reconciliando al mundo consigo mismo, no tomándoles en cuenta sus pecados (2Co 5:19). El gran intercambio de 2Co 5:21 — Cristo hecho pecado para que nosotros fuéramos hechos justicia de Dios en Él — es la afirmación más compacta de la sustitución penal en todo el NT. La salvación transforma al creyente en nueva creación (2Co 5:17) y es iniciada exclusivamente por la gracia de Dios (2Co 8:9).",
+        "en": "2 Corinthians presents reconciliation as the heart of salvation: God was in Christ reconciling the world to himself, not counting their trespasses against them (2Cor 5:19). The great exchange of 2Cor 5:21 — Christ made sin so that we might become the righteousness of God in him — is the most compact statement of penal substitution in the entire NT. Salvation transforms the believer into a new creation (2Cor 5:17) and is initiated exclusively by God's grace (2Cor 8:9).",
+        "pt": "2 Coríntios apresenta a reconciliação como o coração da salvação: Deus estava em Cristo reconciliando o mundo consigo mesmo, não lhes imputando os seus pecados (2Co 5:19). O grande intercâmbio de 2Co 5:21 — Cristo feito pecado para que nós nos tornássemos a justiça de Deus nele — é a afirmação mais compacta da substituição penal em todo o NT. A salvação transforma o crente em nova criatura (2Co 5:17) e é iniciada exclusivamente pela graça de Deus (2Co 8:9)."
+      },
+      "pasajes": [
+        "2Co 5:17",
+        "2Co 5:19",
+        "2Co 5:21",
+        "2Co 8:9"
+      ],
+      "ensenanza": {
+        "es": "El creyente unido a Cristo se convierte en nueva criatura, participando de la escatología inaugurada · Dios es el sujeto activo de la reconciliación: no espera al hombre sino que actúa primero en Cristo · El gran intercambio: Cristo absorbe el pecado humano para que el creyente reciba la justicia de Dios, fundamento de la justificación forense · Cristo se empobreció voluntariamente en la encarnación para enriquecer espiritualmente a los creyentes, mostrando la iniciativa divina gratuita",
+        "en": "The believer united to Christ becomes a new creation, participating in inaugurated eschatology · God is the active subject of reconciliation: he does not wait for humanity but acts first in Christ · The great exchange: Christ absorbs human sin so the believer receives the righteousness of God, foundation of forensic justification · Christ voluntarily became poor in the incarnation to spiritually enrich believers, displaying free divine initiative",
+        "pt": "O crente unido a Cristo torna-se nova criatura, participando da escatologia inaugurada · Deus é o sujeito ativo da reconciliação: não espera o homem, mas age primeiro em Cristo · O grande intercâmbio: Cristo absorve o pecado humano para que o crente receba a justiça de Deus, fundamento da justificação forense · Cristo voluntariamente se fez pobre na encarnação para enriquecer espiritualmente os crentes, demonstrando a iniciativa divina gratuita"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada destaca que 2Co 5:21 es el texto bíblico más claro para la doctrina de la imputación doble: el pecado de los creyentes imputado a Cristo y la justicia de Cristo imputada al creyente. La Confesión de Westminster (Cap. 11) fundamenta la justificación forense precisamente en este intercambio imputable, rechazando cualquier lectura que reduzca la reconciliación a un mero cambio de actitud subjetiva.",
+        "en": "The Reformed tradition highlights that 2Cor 5:21 is the clearest biblical text for the doctrine of double imputation: the believers' sin imputed to Christ and Christ's righteousness imputed to the believer. The Westminster Confession (Ch. 11) grounds forensic justification precisely in this imputable exchange, rejecting any reading that reduces reconciliation to a mere change of subjective attitude.",
+        "pt": "A tradição reformada destaca que 2Co 5:21 é o texto bíblico mais claro para a doutrina da dupla imputação: o pecado dos crentes imputado a Cristo e a justiça de Cristo imputada ao crente. A Confissão de Westminster (Cap. 11) fundamenta a justificação forense precisamente nesta troca imputável, rejeitando qualquer leitura que reduza a reconciliação a uma mera mudança de atitude subjetiva."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "2 Corintios 3 es el texto más explícito del NT sobre la superioridad del nuevo pacto sobre el antiguo. Pablo contrasta el ministerio de muerte grabado en piedras (pacto mosaico) con el ministerio del Espíritu (nuevo pacto), la gloria que se desvanecía en el rostro de Moisés con la gloria permanente del evangelio, y el velo que cubre el corazón con la libertad que trae el Espíritu. El nuevo pacto cumple y excede al antiguo, no lo anula.",
+        "en": "2 Corinthians 3 is the most explicit NT text on the superiority of the new covenant over the old. Paul contrasts the ministry of death carved in stone (Mosaic covenant) with the ministry of the Spirit (new covenant), the fading glory on Moses' face with the permanent glory of the gospel, and the veil covering the heart with the freedom that the Spirit brings. The new covenant fulfills and exceeds the old; it does not nullify it.",
+        "pt": "2 Coríntios 3 é o texto mais explícito do NT sobre a superioridade do novo pacto sobre o antigo. Paulo contrasta o ministério da morte gravado em pedras (pacto mosaico) com o ministério do Espírito (novo pacto), a glória que se desvanecia no rosto de Moisés com a glória permanente do evangelho, e o véu que cobre o coração com a liberdade que o Espírito traz. O novo pacto cumpre e supera o antigo, não o anula."
+      },
+      "pasajes": [
+        "2Co 3:6",
+        "2Co 3:7–8",
+        "2Co 3:11",
+        "2Co 3:14–16"
+      ],
+      "ensenanza": {
+        "es": "El nuevo pacto es del Espíritu, que da vida en contraste con la letra que mata · El ministerio del Espíritu supera en gloria al ministerio de condenación asociado con la ley mosaica · La gloria permanente del nuevo pacto contrasta con la gloria transitoria del ministerio de Moisés · El velo sobre el corazón se quita solo en Cristo, revelando el cumplimiento del nuevo pacto",
+        "en": "The new covenant is of the Spirit, who gives life in contrast to the letter that kills · The ministry of the Spirit surpasses in glory the ministry of condemnation associated with the Mosaic law · The permanent glory of the new covenant contrasts with the transitory glory of Moses' ministry · The veil over the heart is removed only in Christ, revealing the fulfillment of the new covenant",
+        "pt": "O novo pacto é do Espírito, que dá vida em contraste com a letra que mata · O ministério do Espírito supera em glória o ministério da condenação associado à lei mosaica · A glória permanente do novo pacto contrasta com a glória transitória do ministério de Moisés · O véu sobre o coração é removido apenas em Cristo, revelando o cumprimento do novo pacto"
+      },
+      "distintivaReformada": {
+        "es": "La teología de pacto reformada, fundamentada en Westminster Cap. 7, lee 2 Corintios 3 como evidencia de la unidad del pacto de gracia en su progresión histórica: el pacto mosaico (administración legal) y el nuevo pacto (administración del Espíritu) son administraciones distintas del mismo pacto de gracia, no dos planes de salvación cualitativamente diferentes. La Confesión enseña que el evangelio fue prometido bajo la ley y la ley se cumple en el evangelio.",
+        "en": "Reformed covenant theology, grounded in Westminster Ch. 7, reads 2 Corinthians 3 as evidence of the unity of the covenant of grace in its historical progression: the Mosaic covenant (legal administration) and the new covenant (Spirit administration) are distinct administrations of the same covenant of grace, not two qualitatively different plans of salvation. The Confession teaches that the gospel was promised under the law and the law is fulfilled in the gospel.",
+        "pt": "A teologia de pacto reformada, fundamentada em Westminster Cap. 7, lê 2 Coríntios 3 como evidência da unidade do pacto de graça em sua progressão histórica: o pacto mosaico (administração legal) e o novo pacto (administração do Espírito) são administrações distintas do mesmo pacto de graça, não dois planos de salvação qualitativamente diferentes. A Confissão ensina que o evangelho foi prometido sob a lei e a lei se cumpre no evangelho."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pneumatología",
+        "en": "Pneumatology",
+        "pt": "Pneumatologia"
+      },
+      "resumen": {
+        "es": "El Espíritu Santo ocupa un lugar central en 2 Corintios como el agente que quita el velo espiritual (2Co 3:16–17), transforma a los creyentes de gloria en gloria (2Co 3:18), sella a los creyentes como garantía de la herencia escatológica (2Co 1:22; 2Co 5:5), y escribe el evangelio en los corazones como carta de Cristo (2Co 3:3). El Espíritu es el don escatológico del nuevo pacto que distingue la nueva era de la vieja.",
+        "en": "The Holy Spirit occupies a central place in 2 Corinthians as the agent who removes the spiritual veil (2Cor 3:16–17), transforms believers from glory to glory (2Cor 3:18), seals believers as the guarantee of eschatological inheritance (2Cor 1:22; 2Cor 5:5), and writes the gospel on hearts as a letter of Christ (2Cor 3:3). The Spirit is the eschatological gift of the new covenant that distinguishes the new era from the old.",
+        "pt": "O Espírito Santo ocupa um lugar central em 2 Coríntios como o agente que remove o véu espiritual (2Co 3:16–17), transforma os crentes de glória em glória (2Co 3:18), sela os crentes como garantia da herança escatológica (2Co 1:22; 2Co 5:5), e escreve o evangelho nos corações como carta de Cristo (2Co 3:3). O Espírito é o dom escatológico do novo pacto que distingue a nova era da antiga."
+      },
+      "pasajes": [
+        "2Co 1:22",
+        "2Co 3:3",
+        "2Co 3:17–18",
+        "2Co 5:5"
+      ],
+      "ensenanza": {
+        "es": "Dios ha sellado a los creyentes con el Espíritu como arras de la herencia futura, garantizando la consumación escatológica · El Espíritu escribe el evangelio en los corazones de carne en lugar de en tablas de piedra, cumpliendo la promesa de la nueva alianza (Jer 31:33; Ez 36:26) · El Señor es el Espíritu, y donde está el Espíritu del Señor hay libertad; el Espíritu obra la transformación a semejanza de Cristo · El Espíritu es la 'garantía' (arras) que asegura la resurrección y la vida eterna prometidas",
+        "en": "God has sealed believers with the Spirit as the down payment of the future inheritance, guaranteeing eschatological consummation · The Spirit writes the gospel on hearts of flesh rather than on stone tablets, fulfilling the new covenant promise (Jer 31:33; Ezek 36:26) · The Lord is the Spirit, and where the Spirit of the Lord is there is freedom; the Spirit works transformation into Christ's likeness · The Spirit is the 'guarantee' (down payment) that secures the promised resurrection and eternal life",
+        "pt": "Deus selou os crentes com o Espírito como arras da herança futura, garantindo a consumação escatológica · O Espírito escreve o evangelho em corações de carne em vez de em tábuas de pedra, cumprindo a promessa da nova aliança (Jr 31:33; Ez 36:26) · O Senhor é o Espírito, e onde está o Espírito do Senhor há liberdade; o Espírito opera a transformação à semelhança de Cristo · O Espírito é o 'penhor' (arras) que assegura a ressurreição e a vida eterna prometidas"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada enfatiza que en 2Co 1:22 y 2Co 5:5 el Espíritu como arras (ἀρραβών) confirma la perseverancia de los santos: el Espíritu dado es la garantía divina de que la obra de salvación será completada. Esta garantía es objetiva (de Dios al creyente), no subjetiva (del creyente a Dios), preservando la seguridad de la salvación frente a la incertidumbre arminiana.",
+        "en": "The Reformed tradition emphasizes that in 2Cor 1:22 and 2Cor 5:5 the Spirit as guarantee (ἀρραβών) confirms the perseverance of the saints: the Spirit given is God's guarantee that the work of salvation will be completed. This guarantee is objective (from God to the believer), not subjective (from the believer to God), preserving assurance of salvation over against Arminian uncertainty.",
+        "pt": "A tradição reformada enfatiza que em 2Co 1:22 e 2Co 5:5 o Espírito como garantia (ἀρραβών) confirma a perseverança dos santos: o Espírito dado é a garantia divina de que a obra da salvação será completada. Essa garantia é objetiva (de Deus ao crente), não subjetiva (do crente a Deus), preservando a segurança da salvação frente à incerteza arminiana."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "2 Corintios es la carta donde Pablo más desarrolla la santificación como transformación progresiva a la imagen de Cristo. El proceso de ser transformados 'de gloria en gloria' por el Espíritu (2Co 3:18) tiene como fundamento la contemplación de la gloria de Cristo en el evangelio. La santificación también incluye la separación de la idolatría y las alianzas impuras (2Co 6:14–7:1), y la purificación del espíritu tanto como de la carne (2Co 7:1).",
+        "en": "2 Corinthians is the letter where Paul most develops sanctification as progressive transformation into Christ's image. The process of being transformed 'from glory to glory' by the Spirit (2Cor 3:18) is grounded in beholding Christ's glory in the gospel. Sanctification also includes separation from idolatry and impure alliances (2Cor 6:14–7:1), and purification of spirit as well as flesh (2Cor 7:1).",
+        "pt": "2 Coríntios é a carta onde Paulo mais desenvolve a santificação como transformação progressiva à imagem de Cristo. O processo de ser transformado 'de glória em glória' pelo Espírito (2Co 3:18) tem como fundamento a contemplação da glória de Cristo no evangelho. A santificação também inclui a separação da idolatria e das alianças impuras (2Co 6:14–7:1) e a purificação do espírito tanto quanto da carne (2Co 7:1)."
+      },
+      "pasajes": [
+        "2Co 3:18",
+        "2Co 6:14–16",
+        "2Co 7:1"
+      ],
+      "ensenanza": {
+        "es": "La transformación a la imagen de Cristo opera por la contemplación de su gloria en el evangelio, mediada por el Espíritu · La separación de lo impuro no es mero moralismo sino la consecuencia de habitar en el templo del Dios vivo · La perfecta santidad como meta escatológica exige el esfuerzo activo del creyente en la santificación progresiva, motivado por el temor de Dios",
+        "en": "Transformation into Christ's image operates through beholding his glory in the gospel, mediated by the Spirit · Separation from impurity is not mere moralism but the consequence of inhabiting the temple of the living God · Perfect holiness as the eschatological goal demands the believer's active effort in progressive sanctification, motivated by the fear of God",
+        "pt": "A transformação à imagem de Cristo opera mediante a contemplação de sua glória no evangelho, mediada pelo Espírito · A separação do impuro não é mero moralismo, mas a consequência de habitar no templo do Deus vivo · A santidade perfeita como meta escatológica exige o esforço ativo do crente na santificação progressiva, motivado pelo temor de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La Confesión de Westminster (Cap. 13) distingue entre la justificación (acto forense de una vez por todas) y la santificación (proceso gradual de renovación). 2 Corintios 3:18 es el texto clave que la tradición reformada usa para mostrar que la santificación es obra del Espíritu mediante la revelación del evangelio, no el esfuerzo moral autónomo del creyente.",
+        "en": "The Westminster Confession (Ch. 13) distinguishes between justification (the once-for-all forensic act) and sanctification (the gradual process of renewal). 2 Corinthians 3:18 is the key text the Reformed tradition uses to show that sanctification is the Spirit's work through the revelation of the gospel, not the believer's autonomous moral effort.",
+        "pt": "A Confissão de Westminster (Cap. 13) distingue entre a justificação (ato forense de uma vez por todas) e a santificação (processo gradual de renovação). 2 Coríntios 3:18 é o texto-chave que a tradição reformada usa para mostrar que a santificação é obra do Espírito mediante a revelação do evangelho, não o esforço moral autônomo do crente."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "2 Corintios revela la cristología desde el ángulo de la kénosis y la encarnación voluntaria: Cristo siendo rico se hizo pobre (2Co 8:9), tomó el pecado ajeno (2Co 5:21) y su muerte y resurrección se convierten en el patrón de todo el ministerio apostólico (2Co 4:10–11). Cristo es también el agente de la nueva creación (2Co 5:17), el juez ante cuyo tribunal todos comparecerán (2Co 5:10), y el 'resplandor de la gloria de Dios' que ilumina el corazón del creyente (2Co 4:4–6).",
+        "en": "2 Corinthians reveals Christology from the angle of kenosis and voluntary incarnation: Christ, being rich, became poor (2Cor 8:9), took on the sin of others (2Cor 5:21), and his death and resurrection become the pattern for all apostolic ministry (2Cor 4:10–11). Christ is also the agent of new creation (2Cor 5:17), the judge before whose tribunal all will appear (2Cor 5:10), and the 'light of the glory of God' that illumines the believer's heart (2Cor 4:4–6).",
+        "pt": "2 Coríntios revela a cristologia do ângulo da kênosis e da encarnação voluntária: Cristo, sendo rico, se fez pobre (2Co 8:9), tomou sobre si o pecado alheio (2Co 5:21) e sua morte e ressurreição tornam-se o padrão de todo o ministério apostólico (2Co 4:10–11). Cristo é também o agente da nova criação (2Co 5:17), o juiz diante de cujo tribunal todos comparecerão (2Co 5:10), e o 'resplendor da glória de Deus' que ilumina o coração do crente (2Co 4:4–6)."
+      },
+      "pasajes": [
+        "2Co 4:4–6",
+        "2Co 5:10",
+        "2Co 5:21",
+        "2Co 8:9"
+      ],
+      "ensenanza": {
+        "es": "Cristo es la imagen de Dios cuya gloria el dios de este siglo intenta cegar; el evangelio resplandece como la luz de la gloria de Dios en la faz de Cristo · Todos compareceran ante el tribunal de Cristo para dar cuenta de sus obras en el cuerpo, fundamentando la ética escatológica · Cristo tomó sobre sí el pecado humano por sustitución penal para que los creyentes sean hechos justicia de Dios · La kénosis voluntaria de Cristo — haciéndose pobre en la encarnación — es el fundamento y ejemplo de la generosidad cristiana",
+        "en": "Christ is the image of God whose glory the god of this age seeks to blind; the gospel shines as the light of the glory of God in the face of Christ · All will stand before the judgment seat of Christ to give account for deeds done in the body, grounding eschatological ethics · Christ bore human sin by penal substitution so that believers might be made the righteousness of God · Christ's voluntary kenosis — becoming poor in the incarnation — is the ground and example of Christian generosity",
+        "pt": "Cristo é a imagem de Deus cuja glória o deus deste século procura cegar; o evangelho resplandece como a luz da glória de Deus no rosto de Cristo · Todos comparecerão diante do tribunal de Cristo para dar conta de suas obras no corpo, fundamentando a ética escatológica · Cristo carregou o pecado humano por substituição penal para que os crentes sejam feitos a justiça de Deus · A kênosis voluntária de Cristo — fazendo-se pobre na encarnação — é o fundamento e exemplo da generosidade cristã"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada usa 2Co 4:4 para defender la ceguera espiritual radical de la humanidad no regenerada: el 'dios de este siglo' enceguece activamente las mentes, lo que requiere la obra soberana del Espíritu para que el evangelio alumbre. Esto confirma la depravación total y la necesidad de regeneración irresistible antes de la fe, en línea con la soteriología de Westminster.",
+        "en": "The Reformed tradition uses 2Cor 4:4 to defend the radical spiritual blindness of unregenerate humanity: the 'god of this age' actively blinds minds, requiring the Spirit's sovereign work for the gospel to shine. This confirms total depravity and the need for irresistible regeneration prior to faith, in line with Westminster soteriology.",
+        "pt": "A tradição reformada usa 2Co 4:4 para defender a cegueira espiritual radical da humanidade não regenerada: o 'deus deste século' ativamente cega as mentes, o que requer a obra soberana do Espírito para que o evangelho ilumine. Isso confirma a depravação total e a necessidade de regeneração irresistível antes da fé, em linha com a soteriologia de Westminster."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "2 Corintios desarrolla la eclesiología desde la perspectiva del ministerio apostólico y la unidad de la iglesia universal. La colecta para Jerusalén (2Co 8–9) es un acto eclesiológico: expresa la comunión (κοινωνία) entre iglesias gentiles y judías dentro del único cuerpo de Cristo. La iglesia es el templo del Dios vivo (2Co 6:16), llamada a la separación de lo idolátrico. Los dones apostólicos son para la edificación, no para la destrucción (2Co 10:8; 2Co 13:10).",
+        "en": "2 Corinthians develops ecclesiology from the perspective of apostolic ministry and the unity of the universal church. The collection for Jerusalem (2Cor 8–9) is an ecclesiological act: it expresses the communion (κοινωνία) between Gentile and Jewish churches within the one body of Christ. The church is the temple of the living God (2Cor 6:16), called to separation from idolatry. Apostolic gifts are for building up, not tearing down (2Cor 10:8; 2Cor 13:10).",
+        "pt": "2 Coríntios desenvolve a eclesiologia desde a perspectiva do ministério apostólico e a unidade da igreja universal. A coleta para Jerusalém (2Co 8–9) é um ato eclesiológico: expressa a comunhão (κοινωνία) entre igrejas gentias e judaicas dentro do único corpo de Cristo. A igreja é o templo do Deus vivo (2Co 6:16), chamada à separação do idolátrico. Os dons apostólicos são para edificar, não para destruir (2Co 10:8; 2Co 13:10)."
+      },
+      "pasajes": [
+        "2Co 6:16",
+        "2Co 8:1–4",
+        "2Co 9:12–13",
+        "2Co 13:10"
+      ],
+      "ensenanza": {
+        "es": "La iglesia es el templo del Dios vivo donde Dios habita y camina entre su pueblo, cumpliendo las promesas del pacto de presencia divina · La generosidad de las iglesias macedonias (donadas desde su pobreza extrema) es el modelo de la gracia que fluye del evangelio · La colecta no solo suple necesidades materiales sino que glorifica a Dios y expresa la obediencia confesional de la iglesia gentil · La autoridad apostólica es dada por Cristo para la edificación del cuerpo, con límites claros de uso",
+        "en": "The church is the temple of the living God in whom God dwells and walks among his people, fulfilling the covenant promises of divine presence · The generosity of the Macedonian churches (given out of extreme poverty) is the model of grace flowing from the gospel · The collection not only meets material needs but glorifies God and expresses the confessional obedience of the Gentile church · Apostolic authority is given by Christ for the edification of the body, with clear limits on its use",
+        "pt": "A igreja é o templo do Deus vivo em quem Deus habita e caminha entre o seu povo, cumprindo as promessas pactais da presença divina · A generosidade das igrejas macedônicas (doada desde sua extrema pobreza) é o modelo da graça que flui do evangelho · A coleta não só supre necessidades materiais, mas glorifica a Deus e expressa a obediência confessional da igreja gentílica · A autoridade apostólica é dada por Cristo para a edificação do corpo, com limites claros de uso"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada usa 2Co 6:14–7:1 para fundamentar la separación eclesiástica de la heterodoxia y la idolatría. Asimismo, 2Co 8–9 es la base clásica para la teología reformada de la mayordomía y la generosidad: dar como expresión de gracia recibida, no de mérito ganado. Westminster Cap. 26 (De la comunión de los santos) se apoya en la koinonía inter-eclesial demostrada en la colecta paulina.",
+        "en": "The Reformed tradition uses 2Cor 6:14–7:1 to ground ecclesiastical separation from heterodoxy and idolatry. Similarly, 2Cor 8–9 is the classical basis for the Reformed theology of stewardship and generosity: giving as an expression of received grace, not earned merit. Westminster Ch. 26 (Of the Communion of Saints) draws on the inter-ecclesial koinonia demonstrated in the Pauline collection.",
+        "pt": "A tradição reformada usa 2Co 6:14–7:1 para fundamentar a separação eclesiástica da heterodoxia e da idolatria. Da mesma forma, 2Co 8–9 é a base clássica para a teologia reformada da mordomia e da generosidade: dar como expressão de graça recebida, não de mérito ganho. Westminster Cap. 26 (Da Comunhão dos Santos) apoia-se na koinonia inter-eclesial demonstrada na coleta paulina."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 7",
+      "titulo": {
+        "es": "Del Pacto de Dios con el Hombre",
+        "en": "Of God's Covenant with Man",
+        "pt": "Do Pacto de Deus com o Homem"
+      },
+      "doctrinas": [
+        "Pacto",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "Westminster Cap. 7 enseña que Dios condescendió a relacionarse con la humanidad mediante pacto. El pacto de obras con Adán fue roto, pero el pacto de gracia fue establecido en Cristo. 2 Corintios 3 es el texto paulino más explícito sobre la distinción entre las administraciones del pacto de gracia (mosaica y nueva), mostrando que la nueva administración supera a la antigua en gloria y permanencia, aunque ambas comparten el mismo fundamento redentor en Cristo.",
+        "en": "Westminster Ch. 7 teaches that God condescended to relate to humanity through covenant. The covenant of works with Adam was broken, but the covenant of grace was established in Christ. 2 Corinthians 3 is the most explicit Pauline text on the distinction between administrations of the covenant of grace (Mosaic and new), showing that the new administration surpasses the old in glory and permanence, though both share the same redemptive foundation in Christ.",
+        "pt": "Westminster Cap. 7 ensina que Deus condescendeu a relacionar-se com a humanidade mediante pacto. O pacto de obras com Adão foi rompido, mas o pacto de graça foi estabelecido em Cristo. 2 Coríntios 3 é o texto paulino mais explícito sobre a distinção entre as administrações do pacto de graça (mosaica e nova), mostrando que a nova administração supera a antiga em glória e permanência, embora ambas compartilhem o mesmo fundamento redentor em Cristo."
+      },
+      "genesis": [
+        "2Co 3:6",
+        "2Co 3:11",
+        "2Co 3:14"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-7"
+    },
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Soteriología",
+        "Justificación"
+      ],
+      "resumen": {
+        "es": "Westminster Cap. 11 enseña que Dios justifica a los elegidos no por impartir justicia en ellos sino por imputarles la justicia de Cristo y perdonar sus pecados. 2Co 5:21 es el texto fundacional de la imputación doble: el pecado del creyente imputado a Cristo y la justicia de Cristo imputada al creyente. Esta justificación forense es la base de toda la reconciliación y seguridad espiritual que Pablo predica a los corintios.",
+        "en": "Westminster Ch. 11 teaches that God justifies the elect not by infusing righteousness into them but by imputing Christ's righteousness to them and forgiving their sins. 2Cor 5:21 is the foundational text for double imputation: the believer's sin imputed to Christ and Christ's righteousness imputed to the believer. This forensic justification is the basis of all the reconciliation and spiritual assurance Paul preaches to the Corinthians.",
+        "pt": "Westminster Cap. 11 ensina que Deus justifica os eleitos não infundindo neles justiça, mas imputando-lhes a justiça de Cristo e perdoando os seus pecados. 2Co 5:21 é o texto fundacional da dupla imputação: o pecado do crente imputado a Cristo e a justiça de Cristo imputada ao crente. Essa justificação forense é a base de toda a reconciliação e segurança espiritual que Paulo prega aos coríntios."
+      },
+      "genesis": [
+        "2Co 5:19",
+        "2Co 5:21"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    },
+    {
+      "cap": "Cap. 13",
+      "titulo": {
+        "es": "De la Santificación",
+        "en": "Of Sanctification",
+        "pt": "Da Santificação"
+      },
+      "doctrinas": [
+        "Santificación",
+        "Pneumatología"
+      ],
+      "resumen": {
+        "es": "Westminster Cap. 13 enseña que los regenerados son progresivamente santificados por la Palabra y el Espíritu, aunque la corrupción permanece en esta vida. 2 Corintios 3:18 es el texto clave: el creyente es transformado de gloria en gloria por el Señor, el Espíritu. 2Co 7:1 añade la dimensión activa: los creyentes deben perfeccionar la santificación en el temor de Dios, mostrando que la santificación reformada es tanto monergista (iniciada por el Espíritu) como sinergista en su respuesta humana.",
+        "en": "Westminster Ch. 13 teaches that the regenerate are progressively sanctified by Word and Spirit, though corruption remains in this life. 2 Corinthians 3:18 is the key text: the believer is transformed from glory to glory by the Lord, the Spirit. 2Cor 7:1 adds the active dimension: believers must perfect holiness in the fear of God, showing that Reformed sanctification is both monergistic (initiated by the Spirit) and synergistic in its human response.",
+        "pt": "Westminster Cap. 13 ensina que os regenerados são progressivamente santificados pela Palavra e pelo Espírito, embora a corrupção permaneça nesta vida. 2 Coríntios 3:18 é o texto-chave: o crente é transformado de glória em glória pelo Senhor, o Espírito. 2Co 7:1 acrescenta a dimensão ativa: os crentes devem aperfeiçoar a santidade no temor de Deus, mostrando que a santificação reformada é tanto monergista (iniciada pelo Espírito) quanto sinérgica em sua resposta humana."
+      },
+      "genesis": [
+        "2Co 3:18",
+        "2Co 7:1"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-13"
+    },
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "Westminster Cap. 8 enseña que el Hijo de Dios, siendo la segunda persona de la Trinidad, se encarnó voluntariamente para reconciliar a la humanidad con Dios. 2Co 8:9 presenta la kénosis voluntaria de Cristo — haciéndose pobre siendo rico — como fundamento de la generosidad cristiana, al mismo tiempo que atestigua la preexistencia y la encarnación voluntaria del Hijo. 2Co 5:19 afirma que 'Dios estaba en Cristo', enseñando la unidad de propósito entre el Padre y el Hijo mediador en la redención.",
+        "en": "Westminster Ch. 8 teaches that the Son of God, being the second person of the Trinity, voluntarily became incarnate to reconcile humanity with God. 2Cor 8:9 presents Christ's voluntary kenosis — becoming poor while being rich — as the ground of Christian generosity, while simultaneously attesting to the Son's preexistence and voluntary incarnation. 2Cor 5:19 affirms that 'God was in Christ,' teaching the unity of purpose between the Father and the mediating Son in redemption.",
+        "pt": "Westminster Cap. 8 ensina que o Filho de Deus, sendo a segunda pessoa da Trindade, voluntariamente se encarnou para reconciliar a humanidade com Deus. 2Co 8:9 apresenta a kênosis voluntária de Cristo — fazendo-se pobre sendo rico — como fundamento da generosidade cristã, ao mesmo tempo que atesta a pré-existência e a encarnação voluntária do Filho. 2Co 5:19 afirma que 'Deus estava em Cristo', ensinando a unidade de propósito entre o Pai e o Filho mediador na redenção."
+      },
+      "genesis": [
+        "2Co 5:19",
+        "2Co 8:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "2Co 5:17",
+      "es": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas.",
+      "en": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+      "pt": "Assim que, se alguém está em Cristo, nova criatura é; as cousas velhas já passaram; eis que tudo se fez novo.",
+      "nota": {
+        "es": "Este versículo es la declaración más compacta de la escatología inaugurada en Pablo: la unión con Cristo no es meramente moral sino ontológica y escatológica. El creyente participa ya ahora de la nueva era prometida por los profetas (Is 43:18–19; Is 65:17). El tiempo perfecto griego ('han pasado') indica que la ruptura con la vieja era es definitiva.",
+        "en": "This verse is Paul's most compact declaration of inaugurated eschatology: union with Christ is not merely moral but ontological and eschatological. The believer already participates in the new age promised by the prophets (Isa 43:18–19; Isa 65:17). The Greek perfect tense ('have passed') indicates that the break with the old age is definitive.",
+        "pt": "Este versículo é a declaração mais compacta da escatologia inaugurada em Paulo: a união com Cristo não é meramente moral, mas ontológica e escatológica. O crente já participa agora da nova era prometida pelos profetas (Is 43:18–19; Is 65:17). O tempo perfeito grego ('passaram') indica que a ruptura com a velha era é definitiva."
+      }
+    },
+    {
+      "ref": "2Co 5:21",
+      "es": "Al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en él.",
+      "en": "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.",
+      "pt": "Porque aquele que não conheceu pecado, por nós o fez pecado, para que nós fôssemos feitos justiça de Deus nele.",
+      "nota": {
+        "es": "El versículo más importante del NT para la doctrina de la imputación penal sustitutiva. La afirmación 'lo hizo pecado' no significa que Cristo fuera moralmente pecaminoso, sino que cargó con la culpa y el juicio del pecado de los elegidos. La estructura de doble imputación — pecado imputado a Cristo, justicia imputada al creyente — es el fundamento de toda la soteriología reformada.",
+        "en": "The most important NT verse for the doctrine of penal substitutionary imputation. The statement 'made him to be sin' does not mean Christ was morally sinful, but that he bore the guilt and judgment of the elect's sin. The structure of double imputation — sin imputed to Christ, righteousness imputed to the believer — is the foundation of all Reformed soteriology.",
+        "pt": "O versículo mais importante do NT para a doutrina da imputação penal substitutiva. A afirmação 'o fez pecado' não significa que Cristo fosse moralmente pecaminoso, mas que carregou a culpa e o julgamento do pecado dos eleitos. A estrutura da dupla imputação — pecado imputado a Cristo, justiça imputada ao crente — é o fundamento de toda a soteriologia reformada."
+      }
+    },
+    {
+      "ref": "2Co 12:9",
+      "es": "Y me ha dicho: Bástame mi gracia; porque mi poder se perfecciona en la debilidad. Por tanto, de buena gana me gloriaré más bien en mis debilidades, para que repose sobre mí el poder de Cristo.",
+      "en": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.",
+      "pt": "E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade me gloriarei, pois, nas minhas fraquezas, para que em mim habite o poder de Cristo.",
+      "nota": {
+        "es": "La respuesta de Cristo al 'espino en la carne' de Pablo es el texto definidor de la teología de la debilidad en el NT. La gracia de Cristo es suficiente (no apenas suficiente, sino sobreabundante) precisamente donde la fuerza humana falla. Este principio subvierte toda 'teología de la gloria' que busca autenticar el ministerio mediante el éxito visible.",
+        "en": "Christ's response to Paul's 'thorn in the flesh' is the defining text of the theology of weakness in the NT. Christ's grace is sufficient (not barely sufficient, but superabundant) precisely where human strength fails. This principle subverts every 'theology of glory' that seeks to authenticate ministry through visible success.",
+        "pt": "A resposta de Cristo ao 'espinho na carne' de Paulo é o texto definidor da teologia da fraqueza no NT. A graça de Cristo é suficiente (não apenas suficiente, mas superabundante) precisamente onde a força humana falha. Esse princípio subverte toda 'teologia da glória' que busca autenticar o ministério mediante o sucesso visível."
+      }
+    },
+    {
+      "ref": "2Co 4:7",
+      "es": "Pero tenemos este tesoro en vasos de barro, para que la excelencia del poder sea de Dios, y no de nosotros.",
+      "en": "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us.",
+      "pt": "Mas temos este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.",
+      "nota": {
+        "es": "La imagen del tesoro en vasos de barro captura el principio central de 2 Corintios: el poder del evangelio no se autentica mediante la fortaleza o el éxito del portador, sino precisamente en su debilidad, de modo que la gloria sea de Dios. Este principio es teológicamente estructural para la apologética del apostolado de Pablo.",
+        "en": "The image of treasure in jars of clay captures the central principle of 2 Corinthians: the power of the gospel is authenticated not through the strength or success of its bearer, but precisely through his weakness, so that the glory belongs to God. This principle is theologically structural for Paul's apologetic of apostleship.",
+        "pt": "A imagem do tesouro em vasos de barro captura o princípio central de 2 Coríntios: o poder do evangelho não se autentica mediante a força ou o sucesso do portador, mas precisamente em sua fraqueza, de modo que a glória seja de Deus. Esse princípio é teologicamente estrutural para a apologética do apostolado de Paulo."
+      }
+    },
+    {
+      "ref": "2Co 3:18",
+      "es": "Por tanto, nosotros todos, mirando a cara descubierta como en un espejo la gloria del Señor, somos transformados de gloria en gloria en la misma imagen, como por el Espíritu del Señor.",
+      "en": "And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. For this comes from the Lord who is the Spirit.",
+      "pt": "Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor.",
+      "nota": {
+        "es": "Este versículo es el texto fundacional de la santificación como transformación progresiva por contemplación. A diferencia de Moisés, cuyos israelitas no podían ver la gloria directamente, todos los creyentes del nuevo pacto contemplan la gloria de Cristo con el rostro descubierto y son transformados. La santificación es obra del Espíritu soberano, no del esfuerzo moral autónomo.",
+        "en": "This verse is the foundational text for sanctification as progressive transformation through contemplation. Unlike Moses, whose Israelites could not see the glory directly, all new-covenant believers behold the glory of Christ with unveiled face and are transformed. Sanctification is the work of the sovereign Spirit, not autonomous moral effort.",
+        "pt": "Este versículo é o texto fundacional da santificação como transformação progressiva pela contemplação. Ao contrário de Moisés, cujos israelitas não podiam ver a glória diretamente, todos os crentes do novo pacto contemplam a glória de Cristo com o rosto descoberto e são transformados. A santificação é obra do Espírito soberano, não do esforço moral autônomo."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "2 Corintios es la fuente paulina más rica para las distinciones reformadas entre ley y evangelio, la naturaleza del ministerio cruciforme, y la doctrina de la imputación. La tradición reformada destaca: (1) La superioridad del nuevo pacto sobre el mosaico (2Co 3) como evidencia de la progresión histórico-redentora del único pacto de gracia; (2) La doble imputación en 2Co 5:21 como el texto más claro de la justificación forense por sustitución penal; (3) La gracia suficiente de Cristo en la debilidad (2Co 12:9) como refutación de la 'teología de la gloria' y confirmación de que la soberanía de Dios se despliega a través de medios débiles; (4) El Espíritu como garantía (2Co 1:22; 2Co 5:5) como fundamento bíblico de la perseverancia de los santos.",
+    "en": "2 Corinthians is the richest Pauline source for Reformed distinctions between law and gospel, the nature of cruciform ministry, and the doctrine of imputation. The Reformed tradition highlights: (1) The superiority of the new covenant over the Mosaic (2Cor 3) as evidence of the redemptive-historical progression of the one covenant of grace; (2) Double imputation in 2Cor 5:21 as the clearest text of forensic justification by penal substitution; (3) Christ's sufficient grace in weakness (2Cor 12:9) as a refutation of the 'theology of glory' and confirmation that God's sovereignty is deployed through weak means; (4) The Spirit as guarantee (2Cor 1:22; 2Cor 5:5) as the biblical foundation of the perseverance of the saints.",
+    "pt": "2 Coríntios é a fonte paulina mais rica para as distinções reformadas entre lei e evangelho, a natureza do ministério cruciforme e a doutrina da imputação. A tradição reformada destaca: (1) A superioridade do novo pacto sobre o mosaico (2Co 3) como evidência da progressão histórico-redentora do único pacto de graça; (2) A dupla imputação em 2Co 5:21 como o texto mais claro da justificação forense por substituição penal; (3) A graça suficiente de Cristo na fraqueza (2Co 12:9) como refutação da 'teologia da glória' e confirmação de que a soberania de Deus se desdobra por meios fracos; (4) O Espírito como garantia (2Co 1:22; 2Co 5:5) como fundamento bíblico da perseverança dos santos."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Consuelo, planes y perdón",
+        "en": "Comfort, plans, and forgiveness",
+        "pt": "Consolo, planos e perdão"
+      },
+      "descripcion": {
+        "es": "Pablo inicia con una doxología del Dios de todo consuelo (2Co 1:3–4) que enmarca toda la carta: el sufrimiento apostólico no es un obstáculo al ministerio sino el medio por el que el consuelo de Cristo fluye a los demás (2Co 1:5–7). Pablo menciona la aflicción casi mortal sufrida en Asia (2Co 1:8–10) y su liberación soberana por Dios, que genera una confianza escatológica en la resurrección futura. Defiende luego el cambio de sus planes de visita — no vino a Corinto por no causar otro dolor sino por misericordia (2Co 1:23–2:4) — y ordena que el ofensor que causó el crisis sea restaurado mediante el perdón y el amor de la comunidad (2Co 2:5–11), para evitar que Satanás se aproveche del rigorismo.",
+        "en": "Paul opens with a doxology to the God of all comfort (2Cor 1:3–4) that frames the entire letter: apostolic suffering is not an obstacle to ministry but the very means through which Christ's comfort flows to others (2Cor 1:5–7). Paul mentions the near-fatal affliction suffered in Asia (2Cor 1:8–10) and his sovereign deliverance by God, which generates eschatological confidence in the future resurrection. He then defends his changed travel plans — he did not come to Corinth to avoid causing further pain, not from lack of care (2Cor 1:23–2:4) — and orders that the offender who caused the crisis be restored through the community's forgiveness and love (2Cor 2:5–11), lest Satan gain advantage through excessive severity.",
+        "pt": "Paulo inicia com uma doxologia ao Deus de todo consolo (2Co 1:3–4) que enquadra toda a carta: o sofrimento apostólico não é obstáculo ao ministério, mas o meio pelo qual o consolo de Cristo flui para os outros (2Co 1:5–7). Paulo menciona a aflição quase mortal sofrida na Ásia (2Co 1:8–10) e sua libertação soberana por Deus, que gera confiança escatológica na ressurreição futura. Defende então a mudança de seus planos de visita — não foi a Corinto para não causar mais dor, não por falta de cuidado (2Co 1:23–2:4) — e ordena que o ofensor que causou a crise seja restaurado pelo perdão e amor da comunidade (2Co 2:5–11), para que Satanás não tire vantagem do rigorismo excessivo."
+      },
+      "eventoClave": {
+        "es": "Pablo ordena el perdón y la restauración del ofensor (2Co 2:7–8), convirtiendo la disciplina eclesiástica en un acto de gracia que refleja el perdón de Dios y cierra la crisis que motivó la carta severa.",
+        "en": "Paul commands the forgiveness and restoration of the offender (2Cor 2:7–8), transforming church discipline into an act of grace that reflects God's forgiveness and closes the crisis that motivated the severe letter.",
+        "pt": "Paulo ordena o perdão e a restauração do ofensor (2Co 2:7–8), transformando a disciplina eclesiástica em um ato de graça que reflete o perdão de Deus e encerra a crise que motivou a carta severa."
+      },
+      "versiculoClave": "2Co 1:3–4",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "El nuevo pacto y el tesoro apostólico",
+        "en": "The new covenant and the apostolic treasure",
+        "pt": "O novo pacto e o tesouro apostólico"
+      },
+      "descripcion": {
+        "es": "Rechazando las cartas de recomendación de sus adversarios, Pablo afirma que la iglesia corintia misma es su carta, escrita por el Espíritu en corazones de carne (2Co 3:1–3). Desarrolla luego la teología del nuevo pacto: el ministerio del Espíritu supera en gloria al ministerio de la letra que mata (2Co 3:6–11), y el velo espiritual que impedía a Israel ver la gloria de Moisés es quitado en Cristo (2Co 3:14–16). Todos los creyentes contemplan la gloria de Cristo con rostro descubierto y son transformados de gloria en gloria (2Co 3:18). Frente a la acusación de debilidad, Pablo declara que el tesoro del evangelio está en vasos de barro precisamente para que el poder sea de Dios (2Co 4:7) — sufriendo por todos lados pero nunca destruidos, llevando siempre en el cuerpo la muerte de Jesús para que su vida también sea manifestada (2Co 4:8–11).",
+        "en": "Rejecting the letters of recommendation of his adversaries, Paul asserts that the Corinthian church itself is his letter, written by the Spirit on hearts of flesh (2Cor 3:1–3). He then develops the theology of the new covenant: the ministry of the Spirit surpasses in glory the ministry of the letter that kills (2Cor 3:6–11), and the spiritual veil that prevented Israel from seeing Moses' glory is removed in Christ (2Cor 3:14–16). All believers behold the glory of Christ with unveiled face and are transformed from glory to glory (2Cor 3:18). Against the accusation of weakness, Paul declares that the treasure of the gospel is in jars of clay precisely so that the power belongs to God (2Cor 4:7) — pressed on every side but not crushed, always carrying in the body the death of Jesus so that his life too may be manifested (2Cor 4:8–11).",
+        "pt": "Rejeitando as cartas de recomendação de seus adversários, Paulo afirma que a própria igreja coríntia é sua carta, escrita pelo Espírito em corações de carne (2Co 3:1–3). Desenvolve então a teologia do novo pacto: o ministério do Espírito supera em glória o ministério da letra que mata (2Co 3:6–11), e o véu espiritual que impedia Israel de ver a glória de Moisés é removido em Cristo (2Co 3:14–16). Todos os crentes contemplam a glória de Cristo com o rosto descoberto e são transformados de glória em glória (2Co 3:18). Diante da acusação de fraqueza, Paulo declara que o tesouro do evangelho está em vasos de barro precisamente para que o poder seja de Deus (2Co 4:7) — atribulados por todos os lados, mas não angustiados; sempre carregando no corpo a morte de Jesus para que sua vida também seja manifestada (2Co 4:8–11)."
+      },
+      "eventoClave": {
+        "es": "Pablo proclama la superioridad del ministerio del Espíritu sobre el de Moisés (2Co 3:7–11), inaugurando el argumento definitivo del nuevo pacto en el NT: la gloria de Cristo eclipsa y cumple permanentemente la gloria transitoria de la ley.",
+        "en": "Paul proclaims the superiority of the Spirit's ministry over Moses' ministry (2Cor 3:7–11), launching the definitive new covenant argument in the NT: the glory of Christ permanently eclipses and fulfills the transitory glory of the law.",
+        "pt": "Paulo proclama a superioridade do ministério do Espírito sobre o de Moisés (2Co 3:7–11), inaugurando o argumento definitivo do novo pacto no NT: a glória de Cristo eclipsa e cumpre permanentemente a glória transitória da lei."
+      },
+      "versiculoClave": "2Co 4:7",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "titulo": {
+        "es": "Nueva creación y reconciliación cósmica",
+        "en": "New creation and cosmic reconciliation",
+        "pt": "Nova criação e reconciliação cósmica"
+      },
+      "descripcion": {
+        "es": "Pablo funda su esperanza en la resurrección corporal futura: si esta tienda terrenal es destruida, tiene de Dios un edificio eterno (2Co 5:1). Mientras tanto, el Espíritu es dado como garantía (2Co 5:5). Motivado por el temor del tribunal de Cristo (2Co 5:10) y el amor de Cristo que murió por todos (2Co 5:14–15), Pablo proclama que quien está en Cristo es nueva creación (2Co 5:17) — participando ya de la escatología inaugurada. El clímax es la gran declaración de la reconciliación: Dios estaba en Cristo reconciliando al mundo consigo mismo (2Co 5:19), y el apóstol es embajador de esta reconciliación (2Co 5:20). El versículo culmen (2Co 5:21) articula el gran intercambio: Cristo hecho pecado para que los creyentes sean hechos justicia de Dios, fundamento de toda la soteriología reformada.",
+        "en": "Paul grounds his hope in the future bodily resurrection: if this earthly tent is destroyed, he has from God an eternal building (2Cor 5:1). Meanwhile, the Spirit is given as guarantee (2Cor 5:5). Motivated by the fear of Christ's judgment seat (2Cor 5:10) and the love of Christ who died for all (2Cor 5:14–15), Paul proclaims that whoever is in Christ is a new creation (2Cor 5:17) — already participating in inaugurated eschatology. The climax is the great declaration of reconciliation: God was in Christ reconciling the world to himself (2Cor 5:19), and the apostle is the ambassador of this reconciliation (2Cor 5:20). The culminating verse (2Cor 5:21) articulates the great exchange: Christ made sin so that believers might become the righteousness of God, the foundation of all Reformed soteriology.",
+        "pt": "Paulo fundamenta sua esperança na ressurreição corporal futura: se esta tenda terrestre for destruída, ele tem de Deus um edifício eterno (2Co 5:1). Enquanto isso, o Espírito é dado como garantia (2Co 5:5). Motivado pelo temor do tribunal de Cristo (2Co 5:10) e pelo amor de Cristo que morreu por todos (2Co 5:14–15), Paulo proclama que quem está em Cristo é nova criatura (2Co 5:17) — já participando da escatologia inaugurada. O clímax é a grande declaração da reconciliação: Deus estava em Cristo reconciliando o mundo consigo mesmo (2Co 5:19), e o apóstolo é embaixador dessa reconciliação (2Co 5:20). O versículo culminante (2Co 5:21) articula o grande intercâmbio: Cristo feito pecado para que os crentes sejam feitos a justiça de Deus, fundamento de toda a soteriologia reformada."
+      },
+      "eventoClave": {
+        "es": "Pablo proclama el gran intercambio redentor de 2Co 5:21: Cristo tomó el pecado de los elegidos para que ellos sean hechos la justicia de Dios en Él, la formulación más precisa de la sustitución penal e imputación en todo el canon.",
+        "en": "Paul proclaims the great redemptive exchange of 2Cor 5:21: Christ took the sin of the elect so that they might become the righteousness of God in him, the most precise formulation of penal substitution and imputation in the entire canon.",
+        "pt": "Paulo proclama o grande intercâmbio redentor de 2Co 5:21: Cristo tomou o pecado dos eleitos para que eles sejam feitos a justiça de Deus nele, a formulação mais precisa da substituição penal e imputação em todo o cânon."
+      },
+      "versiculoClave": "2Co 5:21",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 6,
+      "rangoFin": 7,
+      "titulo": {
+        "es": "Llamado a la santidad y consuelo mutuo",
+        "en": "Call to holiness and mutual comfort",
+        "pt": "Chamado à santidade e consolo mútuo"
+      },
+      "descripcion": {
+        "es": "Pablo exhorta a los corintios a no recibir en vano la gracia de Dios (2Co 6:1), enumerando las pruebas del ministerio apostólico auténtico (2Co 6:4–10) para autenticar su misión. La sección de 2Co 6:14–7:1 llama a separarse del yugo desigual con los incrédulos: la iglesia es el templo del Dios vivo (2Co 6:16) y por tanto debe purificarse de toda contaminación de carne y espíritu (2Co 7:1). Tras este llamado a la separación, Pablo expresa su alivio y gozo al recibir el informe de Tito sobre el arrepentimiento de los corintios (2Co 7:5–7): aunque la carta severa les causó tristeza, fue una tristeza según Dios que produce arrepentimiento (2Co 7:10), no tristeza del mundo que conduce a muerte. La restauración de la comunión entre Pablo y Corinto ilustra la gracia del nuevo pacto que transforma la disciplina en gozo.",
+        "en": "Paul urges the Corinthians not to receive the grace of God in vain (2Cor 6:1), listing the marks of authentic apostolic ministry (2Cor 6:4–10) to authenticate his mission. The section 2Cor 6:14–7:1 calls for separation from unequal yoke with unbelievers: the church is the temple of the living God (2Cor 6:16) and therefore must cleanse itself from every defilement of flesh and spirit (2Cor 7:1). After this call to separation, Paul expresses relief and joy upon receiving Titus's report of the Corinthians' repentance (2Cor 7:5–7): though the severe letter caused them sorrow, it was godly grief that produces repentance (2Cor 7:10), not worldly grief that leads to death. The restoration of communion between Paul and Corinth illustrates new-covenant grace that transforms discipline into joy.",
+        "pt": "Paulo exorta os coríntios a não receberem em vão a graça de Deus (2Co 6:1), enumerando as marcas do ministério apostólico autêntico (2Co 6:4–10) para autenticar sua missão. A seção 2Co 6:14–7:1 chama à separação do jugo desigual com os incrédulos: a igreja é o templo do Deus vivo (2Co 6:16) e, portanto, deve purificar-se de toda contaminação de carne e espírito (2Co 7:1). Após esse chamado à separação, Paulo expressa alívio e alegria ao receber o relatório de Tito sobre o arrependimento dos coríntios (2Co 7:5–7): embora a carta severa lhes causou tristeza, foi uma tristeza segundo Deus que produz arrependimento (2Co 7:10), não a tristeza do mundo que leva à morte. A restauração da comunhão entre Paulo e Corinto ilustra a graça do novo pacto que transforma a disciplina em alegria."
+      },
+      "eventoClave": {
+        "es": "Pablo recibe el informe de Tito sobre el arrepentimiento de los corintios (2Co 7:6–7), el giro emocional y pastoral de la carta que hace posible el tono conciliador de caps. 1–9 y revela la eficacia de la tristeza según Dios.",
+        "en": "Paul receives Titus's report of the Corinthians' repentance (2Cor 7:6–7), the emotional and pastoral turning point of the letter that enables the conciliatory tone of chapters 1–9 and reveals the efficacy of godly grief.",
+        "pt": "Paulo recebe o relatório de Tito sobre o arrependimento dos coríntios (2Co 7:6–7), a virada emocional e pastoral da carta que possibilita o tom conciliador dos caps. 1–9 e revela a eficácia da tristeza segundo Deus."
+      },
+      "versiculoClave": "2Co 7:10",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 8,
+      "rangoFin": 9,
+      "titulo": {
+        "es": "La gracia de la generosidad y la colecta",
+        "en": "The grace of generosity and the collection",
+        "pt": "A graça da generosidade e a coleta"
+      },
+      "descripcion": {
+        "es": "Pablo dedica dos capítulos completos a motivar la colecta para los santos pobres de Jerusalén, elaborando la teología reformada de la mayordomía más desarrollada del NT. Las iglesias de Macedonia sirven de modelo: dieron abundantemente desde su pobreza extrema y 'a sí mismos se dieron primeramente al Señor' (2Co 8:5). El fundamento teológico es la kénosis de Cristo: 'siendo rico se hizo pobre, para que vosotros con su pobreza fueseis enriquecidos' (2Co 8:9). Pablo envía a Tito y a dos hermanos de reputación para garantizar la integridad en el manejo de los fondos (2Co 8:16–21). En 2Co 9:6–8 establece el principio de la generosidad cristiana: 'el que siembra escasamente, escasamente también segará', y 'cada uno dé como propuso en su corazón, no con tristeza ni por necesidad, porque Dios ama al dador alegre'. La colecta expresa la koinonía de la iglesia universal (2Co 9:13).",
+        "en": "Paul devotes two full chapters to motivating the collection for the poor saints in Jerusalem, elaborating the most developed Reformed theology of stewardship in the NT. The Macedonian churches serve as the model: they gave abundantly out of extreme poverty and 'first gave themselves to the Lord' (2Cor 8:5). The theological foundation is Christ's kenosis: 'though he was rich, yet for your sake he became poor, so that you by his poverty might become rich' (2Cor 8:9). Paul sends Titus and two brothers of reputation to guarantee integrity in handling the funds (2Cor 8:16–21). In 2Cor 9:6–8 he establishes the principle of Christian generosity: 'whoever sows sparingly will also reap sparingly,' and 'each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.' The collection expresses the koinonia of the universal church (2Cor 9:13).",
+        "pt": "Paulo dedica dois capítulos completos para motivar a coleta para os santos pobres de Jerusalém, elaborando a teologia reformada da mordomia mais desenvolvida do NT. As igrejas da Macedônia servem de modelo: deram abundantemente desde sua extrema pobreza e 'a si mesmos se deram primeiramente ao Senhor' (2Co 8:5). O fundamento teológico é a kênosis de Cristo: 'sendo rico, por amor de vós se fez pobre, para que pela sua pobreza vós enriquecêsseis' (2Co 8:9). Paulo envia Tito e dois irmãos de reputação para garantir a integridade no manejo dos fundos (2Co 8:16–21). Em 2Co 9:6–8 estabelece o princípio da generosidade cristã: 'quem semeia pouco, pouco ceifará', e 'cada um contribua conforme propôs no seu coração, não com tristeza ou por necessidade, porque Deus ama ao que dá com alegria'. A coleta expressa a koinonia da igreja universal (2Co 9:13)."
+      },
+      "eventoClave": {
+        "es": "Pablo proclama la kénosis de Cristo como el fundamento y modelo de la generosidad cristiana (2Co 8:9), estableciendo que todo dar cristiano es respuesta a la gracia recibida en la encarnación y la cruz, no un medio de merecer favor divino.",
+        "en": "Paul proclaims Christ's kenosis as the foundation and model of Christian generosity (2Cor 8:9), establishing that all Christian giving is a response to grace received in the incarnation and cross, not a means of earning divine favor.",
+        "pt": "Paulo proclama a kênosis de Cristo como o fundamento e modelo da generosidade cristã (2Co 8:9), estabelecendo que todo dar cristão é resposta à graça recebida na encarnação e na cruz, não um meio de merecer favor divino."
+      },
+      "versiculoClave": "2Co 9:7",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 10,
+      "rangoFin": 11,
+      "titulo": {
+        "es": "Defensa apostólica y locura del apóstol",
+        "en": "Apostolic defense and the apostle's folly",
+        "pt": "Defesa apostólica e a loucura do apóstolo"
+      },
+      "descripcion": {
+        "es": "Con el cambio de tono que comienza en 2Co 10:1, Pablo confronta directamente a los que todavía cuestionan su autoridad. Declara que sus armas no son carnales sino poderosas en Dios para derribar argumentos y toda altivez que se levanta contra el conocimiento de Dios (2Co 10:3–5) — texto fundacional para la apologética reformada. Rechaza jactarse más allá de su medida y limita su jactancia al campo designado por Dios (2Co 10:13–17). En 2Co 11, entra en la 'locura' (μωρία) de comparar sus credenciales con los súper-apóstoles: siendo hebreo como ellos, presenta en cambio el catálogo de sus sufrimientos apostólicos (2Co 11:23–29) — azotes, naufragios, peligros, vigilia, hambre — como sus verdaderas credenciales. La debilidad, no el éxito, autentica el apostolado genuino. Concluye describiendo la humillación de ser bajado en canasta por el muro de Damasco (2Co 11:32–33) como símbolo de su apostolado en la paradoja del poder divino en la debilidad humana.",
+        "en": "With the change of tone beginning in 2Cor 10:1, Paul directly confronts those who still question his authority. He declares that his weapons are not carnal but mighty through God to pull down arguments and every lofty opinion raised against the knowledge of God (2Cor 10:3–5) — a foundational text for Reformed apologetics. He refuses to boast beyond his measure and limits his boasting to the field designated by God (2Cor 10:13–17). In 2Cor 11 he enters the 'folly' (μωρία) of comparing credentials with the super-apostles: being a Hebrew like them, he presents instead the catalogue of his apostolic sufferings (2Cor 11:23–29) — beatings, shipwrecks, dangers, sleeplessness, hunger — as his true credentials. Weakness, not success, authenticates genuine apostleship. He concludes by describing the humiliation of being lowered in a basket over the Damascus wall (2Cor 11:32–33) as a symbol of his apostolate in the paradox of divine power in human weakness.",
+        "pt": "Com a mudança de tom que começa em 2Co 10:1, Paulo confronta diretamente os que ainda questionam sua autoridade. Declara que suas armas não são carnais, mas poderosas em Deus para destruir argumentos e toda altivez que se levanta contra o conhecimento de Deus (2Co 10:3–5) — texto fundacional para a apologética reformada. Recusa gloriar-se além de sua medida e limita sua glória ao campo designado por Deus (2Co 10:13–17). Em 2Co 11, entra na 'loucura' (μωρία) de comparar suas credenciais com as dos super-apóstolos: sendo hebreu como eles, apresenta em vez disso o catálogo de seus sofrimentos apostólicos (2Co 11:23–29) — açoites, naufrágios, perigos, vigília, fome — como suas verdadeiras credenciais. A fraqueza, não o sucesso, autentica o apostolado genuíno. Conclui descrevendo a humilhação de ser descido em um cesto pelo muro de Damasco (2Co 11:32–33) como símbolo de seu apostolado no paradoxo do poder divino na fraqueza humana."
+      },
+      "eventoClave": {
+        "es": "Pablo presenta el catálogo de sufrimientos apostólicos de 2Co 11:23–29 como sus verdaderas credenciales, invirtiendo los criterios del mundo grecorromano: la debilidad y el padecimiento son la firma del ministerio auténtico según el patrón del Cristo crucificado.",
+        "en": "Paul presents the apostolic suffering catalogue of 2Cor 11:23–29 as his true credentials, inverting the criteria of the Greco-Roman world: weakness and suffering are the hallmark of authentic ministry according to the pattern of the crucified Christ.",
+        "pt": "Paulo apresenta o catálogo de sofrimentos apostólicos de 2Co 11:23–29 como suas verdadeiras credenciais, invertendo os critérios do mundo greco-romano: a fraqueza e o sofrimento são a marca do ministério autêntico segundo o padrão do Cristo crucificado."
+      },
+      "versiculoClave": "2Co 10:5",
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 12,
+      "rangoFin": 13,
+      "titulo": {
+        "es": "La gracia en la debilidad y advertencias finales",
+        "en": "Grace in weakness and final warnings",
+        "pt": "Graça na fraqueza e advertências finais"
+      },
+      "descripcion": {
+        "es": "Pablo comparte la única experiencia mística de todo el corpus paulino: fue arrebatado hasta el tercer cielo, al paraíso, donde escuchó palabras inefables (2Co 12:1–4). Sin embargo, en lugar de jactarse de esta experiencia, se gloria en el espino en la carne que Dios le dio para evitar que se enalteciera (2Co 12:7). La respuesta de Cristo a su triple súplica — 'bástate mi gracia, porque mi poder se perfecciona en la debilidad' (2Co 12:9) — es el versículo definidor de la carta y de la teología paulina del ministerio. Pablo concluye anunciando su tercera visita (2Co 12:14; 2Co 13:1), advirtiendo que actuará con firmeza si encuentra a la iglesia sin arrepentirse de sus pecados (2Co 13:2). Exhorta a la auto-examinación (2Co 13:5) y concluye con la bendición trinitaria más completa del NT: 'la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo sean con todos vosotros' (2Co 13:14).",
+        "en": "Paul shares the only mystical experience in the entire Pauline corpus: he was caught up to the third heaven, into paradise, where he heard inexpressible words (2Cor 12:1–4). Yet rather than boasting in this experience, he boasts in the thorn in the flesh that God gave him to keep him from being conceited (2Cor 12:7). Christ's response to his threefold plea — 'my grace is sufficient for you, for my power is made perfect in weakness' (2Cor 12:9) — is the defining verse of the letter and of Pauline ministry theology. Paul concludes by announcing his third visit (2Cor 12:14; 2Cor 13:1), warning that he will act with firmness if he finds the church unrepentant of their sins (2Cor 13:2). He urges self-examination (2Cor 13:5) and concludes with the most complete Trinitarian benediction in the NT: 'The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all' (2Cor 13:14).",
+        "pt": "Paulo compartilha a única experiência mística de todo o corpus paulino: foi arrebatado até o terceiro céu, ao paraíso, onde ouviu palavras inefáveis (2Co 12:1–4). Porém, em vez de gloriar-se dessa experiência, gloria-se no espinho na carne que Deus lhe deu para que não se exaltasse (2Co 12:7). A resposta de Cristo à sua súplica tripla — 'a minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza' (2Co 12:9) — é o versículo definidor da carta e da teologia paulina do ministério. Paulo conclui anunciando sua terceira visita (2Co 12:14; 2Co 13:1), advertindo que agirá com firmeza se encontrar a igreja sem arrependimento de seus pecados (2Co 13:2). Exorta ao auto-exame (2Co 13:5) e conclui com a bênção trinitária mais completa do NT: 'A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo sejam com todos vós' (2Co 13:14)."
+      },
+      "eventoClave": {
+        "es": "Cristo responde al espino de Pablo con la promesa 'bástate mi gracia; mi poder se perfecciona en la debilidad' (2Co 12:9), revelando que el patrón providencial de Dios para el ministerio apostólico — y para todo ministerio cristiano — es el poder divino exhibido en la fragilidad humana.",
+        "en": "Christ responds to Paul's thorn with the promise 'my grace is sufficient for you; my power is made perfect in weakness' (2Cor 12:9), revealing that God's providential pattern for apostolic ministry — and for all Christian ministry — is divine power displayed through human frailty.",
+        "pt": "Cristo responde ao espinho de Paulo com a promessa 'a minha graça te basta; o meu poder se aperfeiçoa na fraqueza' (2Co 12:9), revelando que o padrão providencial de Deus para o ministério apostólico — e para todo ministério cristão — é o poder divino exibido na fragilidade humana."
+      },
+      "versiculoClave": "2Co 12:9",
+      "era": "Aplicación"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway Editorial Team (gen. ed. Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Resumen de capítulos",
+          "Notas teológicas",
+          "Versículos clave"
+        ],
+        "en": [
+          "Introduction",
+          "Chapter summaries",
+          "Theological notes",
+          "Key verses"
+        ],
+        "pt": [
+          "Introdução",
+          "Resumo de capítulos",
+          "Notas teológicas",
+          "Versículos-chave"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es la Biblia de estudio más comprensiva de la tradición evangélica reformada en inglés, publicada por Crossway en 2008 con más de 20.000 notas redactadas por más de 95 eruditos bíblicos de orientación reformada y evangélica. Reconocida como obra de referencia estándar en seminarios e iglesias reformadas de todo el mundo.",
+          "en": "The ESV Study Bible is the most comprehensive study Bible in the Reformed evangelical tradition in English, published by Crossway in 2008 with over 20,000 notes contributed by more than 95 biblical scholars of Reformed and evangelical orientation. Recognized as the standard reference work in Reformed seminaries and churches worldwide.",
+          "pt": "A ESV Study Bible é a Bíblia de estudo mais abrangente da tradição evangélica reformada em inglês, publicada pela Crossway em 2008 com mais de 20.000 notas redigidas por mais de 95 estudiosos bíblicos de orientação reformada e evangélica. Reconhecida como obra de referência padrão em seminários e igrejas reformadas em todo o mundo."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas versículo a versículo con ensayos introductorios por libro, artículos temáticos de teología sistemática, mapas y gráficos cronológicos. La aproximación hermenéutica es gramatical-histórica con integración de la teología bíblica del pacto.",
+          "en": "Combines verse-by-verse exegetical notes with per-book introductory essays, thematic articles on systematic theology, maps, and chronological charts. The hermeneutical approach is grammatical-historical with integration of biblical covenant theology.",
+          "pt": "Combina notas exegéticas versículo a versículo com ensaios introdutórios por livro, artigos temáticos de teologia sistemática, mapas e gráficos cronológicos. A abordagem hermenêutica é gramatical-histórica com integração da teologia bíblica do pacto."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio para la autoría, fecha, destinatarios y propósito de 2 Corintios, así como el contexto de la relación de Pablo con la iglesia corintia y las notas teológicas sobre los versículos clave.",
+          "en": "Provided the introductory framework for the authorship, date, recipients, and purpose of 2 Corinthians, as well as the context of Paul's relationship with the Corinthian church and theological notes on the key verses.",
+          "pt": "Forneceu o enquadramento introdutório para a autoria, data, destinatários e propósito de 2 Coríntios, bem como o contexto da relação de Paulo com a igreja coríntia e as notas teológicas sobre os versículos-chave."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Literary Study Bible (2007)",
+          "ESV Reader's Bible (2014)",
+          "ESV Gospel Transformation Bible (2013)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-none-case/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible (NBLA)",
+      "autor": "R. C. Sproul (ed. gen.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Poiema",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Distinciones reformadas",
+          "Anclas confesionales",
+          "Teología sistemática",
+          "Introducción"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Systematic theology",
+          "Introduction"
+        ],
+        "pt": [
+          "Distintivos reformados",
+          "Âncoras confessionais",
+          "Teologia sistemática",
+          "Introdução"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R. C. Sproul (1939–2017) fue uno de los teólogos reformados más influyentes del siglo XX, fundador de Ligonier Ministries y profesor en Reformed Theological Seminary. Su Biblia de Estudio de la Reforma, disponible en inglés y español (NBLA), es el recurso confesional de referencia para la tradición reformada en el mundo hispanohablante.",
+          "en": "R. C. Sproul (1939–2017) was one of the most influential Reformed theologians of the 20th century, founder of Ligonier Ministries, and professor at Reformed Theological Seminary. His Reformation Study Bible, available in English and Spanish (NBLA), is the standard confessional resource for the Reformed tradition in the Spanish-speaking world.",
+          "pt": "R. C. Sproul (1939–2017) foi um dos teólogos reformados mais influentes do século XX, fundador da Ligonier Ministries e professor no Reformed Theological Seminary. Sua Bíblia de Estudo da Reforma, disponível em inglês e espanhol (NBLA), é o recurso confessional de referência para a tradição reformada no mundo hispano."
+        },
+        "metodo": {
+          "es": "Las notas de la Biblia de Estudio de la Reforma aplican la hermenéutica gramatical-histórica con una fuerte orientación a la teología del pacto y la Confesión de Fe de Westminster. Enfatiza la soberanía de Dios, la gracia sola, y la gloria de Dios como fin último de toda la historia redentora.",
+          "en": "The Reformation Study Bible notes apply grammatical-historical hermeneutics with a strong orientation toward covenant theology and the Westminster Confession of Faith. It emphasizes the sovereignty of God, grace alone, and the glory of God as the ultimate end of all redemptive history.",
+          "pt": "As notas da Bíblia de Estudo da Reforma aplicam a hermenêutica gramatical-histórica com forte orientação para a teologia do pacto e a Confissão de Fé de Westminster. Enfatiza a soberania de Deus, a graça somente e a glória de Deus como fim último de toda a história redentora."
+        },
+        "aportacion": {
+          "es": "Proporcionó las distinciones reformadas sobre 2Co 5:21 (imputación doble), 2Co 3 (nuevo pacto) y 2Co 12:9 (gracia en la debilidad), así como las anclas confesionales de Westminster relacionadas con los capítulos 7, 11 y 13 de la CFW.",
+          "en": "Provided the Reformed distinctives on 2Cor 5:21 (double imputation), 2Cor 3 (new covenant), and 2Cor 12:9 (grace in weakness), as well as the Westminster confessional anchors related to WCF chapters 7, 11, and 13.",
+          "pt": "Forneceu os distintivos reformados sobre 2Co 5:21 (dupla imputação), 2Co 3 (novo pacto) e 2Co 12:9 (graça na fraqueza), bem como as âncoras confessionais de Westminster relacionadas com os capítulos 7, 11 e 13 da CFW."
+        },
+        "obras": [
+          "Reformation Study Bible ESV (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)",
+          "Faith Alone: The Evangelical Doctrine of Justification (1995)",
+          "What Is Reformed Theology? (1997)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-de-estudio-de-la-reforma"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Soteriología",
+          "Cristología",
+          "Pneumatología",
+          "Escatología"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Soteriology",
+          "Christology",
+          "Pneumatology",
+          "Eschatology"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Soteriologia",
+          "Cristologia",
+          "Pneumatologia",
+          "Escatologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es profesor de Teología Bíblica y Sistemática en Phoenix Seminary (Arizona) y uno de los teólogos evangélicos reformados más citados del siglo XXI. Su Teología Sistemática ha sido traducida a más de 15 idiomas y es el texto estándar en cientos de seminarios evangélicos en todo el mundo.",
+          "en": "Wayne Grudem is professor of Biblical and Systematic Theology at Phoenix Seminary (Arizona) and one of the most cited Reformed evangelical theologians of the 21st century. His Systematic Theology has been translated into more than 15 languages and is the standard text in hundreds of evangelical seminaries worldwide.",
+          "pt": "Wayne Grudem é professor de Teologia Bíblica e Sistemática no Phoenix Seminary (Arizona) e um dos teólogos evangélicos reformados mais citados do século XXI. Sua Teologia Sistemática foi traduzida para mais de 15 idiomas e é o texto padrão em centenas de seminários evangélicos em todo o mundo."
+        },
+        "metodo": {
+          "es": "Grudem integra la exégesis bíblica cuidadosa con las categorías de la teología sistemática clásica, siempre apuntando a la aplicación práctica. Cada capítulo incluye preguntas de revisión y una colección de 'preguntas especiales' que abordan debates históricos y contemporáneos. Su método es evangélico-reformado con matices bautistas en su eclesiología.",
+          "en": "Grudem integrates careful biblical exegesis with classical systematic theology categories, always pointing toward practical application. Each chapter includes review questions and a collection of 'special questions' addressing historical and contemporary debates. His method is Reformed evangelical with Baptist nuances in ecclesiology.",
+          "pt": "Grudem integra a exegese bíblica cuidadosa com as categorias da teologia sistemática clássica, sempre apontando para a aplicação prática. Cada capítulo inclui perguntas de revisão e uma coleção de 'perguntas especiais' que abordam debates históricos e contemporâneos. Seu método é evangélico-reformado com matizes batistas na eclesiologia."
+        },
+        "aportacion": {
+          "es": "Fundamentó las categorías de teología sistemática aplicadas a 2 Corintios, especialmente la cristología de la kénosis (2Co 8:9), la doctrina de la justificación por imputación (2Co 5:21), y la pneumatología del sello del Espíritu como garantía (2Co 1:22; 2Co 5:5).",
+          "en": "Grounded the systematic theology categories applied to 2 Corinthians, especially the Christology of kenosis (2Cor 8:9), the doctrine of justification by imputation (2Cor 5:21), and the pneumatology of the Spirit's seal as guarantee (2Cor 1:22; 2Cor 5:5).",
+          "pt": "Fundamentou as categorias de teologia sistemática aplicadas a 2 Coríntios, especialmente a cristologia da kênosis (2Co 8:9), a doutrina da justificação por imputação (2Co 5:21) e a pneumatologia do selo do Espírito como garantia (2Co 1:22; 2Co 5:5)."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Recovering Biblical Manhood and Womanhood (1991)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras",
+          "Contexto del pacto"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows",
+          "Covenant context"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras",
+          "Contexto do pacto"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el padre de la teología bíblica reformada moderna y profesor de Teología Bíblica en el Seminario Teológico de Princeton durante 39 años. Su obra Teología Bíblica estableció el marco para leer las Escrituras como una progresión histórico-redentora coherente y cristocéntrica.",
+          "en": "Geerhardus Vos (1862–1949) was the father of modern Reformed biblical theology and professor of Biblical Theology at Princeton Theological Seminary for 39 years. His Biblical Theology established the framework for reading Scripture as a coherent, Christocentric, redemptive-historical progression.",
+          "pt": "Geerhardus Vos (1862–1949) foi o pai da teologia bíblica reformada moderna e professor de Teologia Bíblica no Seminário Teológico de Princeton por 39 anos. Sua Teologia Bíblica estabeleceu o marco para ler as Escrituras como uma progressão histórico-redentora coerente e cristocêntrica."
+        },
+        "metodo": {
+          "es": "Vos analiza la revelación progresiva de Dios a través de las sucesivas etapas del pacto, buscando la unidad orgánica del canon desde la creación hasta la consumación. Distingue la teología bíblica (descripción histórica de la revelación) de la teología sistemática (organización lógica) pero las ve como complementarias.",
+          "en": "Vos analyzes God's progressive revelation through successive covenant stages, seeking the organic unity of the canon from creation to consummation. He distinguishes biblical theology (historical description of revelation) from systematic theology (logical organization) but sees them as complementary.",
+          "pt": "Vos analisa a revelação progressiva de Deus através dos sucessivos estágios do pacto, buscando a unidade orgânica do cânon desde a criação até a consumação. Distingue a teologia bíblica (descrição histórica da revelação) da teologia sistemática (organização lógica), mas as vê como complementares."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco para entender el nuevo pacto en 2Co 3 como cumplimiento orgánico del pacto mosaico dentro de la historia redentora progresiva, y la nueva creación en 2Co 5:17 como la irrupción escatológica del nuevo aión en la historia presente.",
+          "en": "Provided the framework for understanding the new covenant in 2Cor 3 as the organic fulfillment of the Mosaic covenant within progressive redemptive history, and the new creation in 2Cor 5:17 as the eschatological irruption of the new aeon into present history.",
+          "pt": "Forneceu o marco para entender o novo pacto em 2Co 3 como cumprimento orgânico do pacto mosaico dentro da história redentora progressiva, e a nova criação em 2Co 5:17 como a irrupção escatológica do novo aion na história presente."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Grace and Glory (1922)",
+          "Redemptive History and Biblical Interpretation (1980)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The New International Commentary on the New Testament: The Second Epistle to the Corinthians",
+      "autor": "Paul Barnett",
+      "año": 1997,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Biografías de personajes",
+          "Exégesis",
+          "Arqueología",
+          "Autoría y fecha"
+        ],
+        "en": [
+          "Historical context",
+          "Character biographies",
+          "Exegesis",
+          "Archaeology",
+          "Authorship and date"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Biografias de personagens",
+          "Exegese",
+          "Arqueologia",
+          "Autoria e data"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Paul Barnett es obispo anglicano emérito y distinguido estudioso del NT australiano, con doctorado en la Universidad de Londres. Ha sido profesor en Regent College (Vancouver) y Moore Theological College (Sydney). Es reconocido como uno de los principales comentaristas evangélicos de 2 Corintios y del período histórico del NT.",
+          "en": "Paul Barnett is an emeritus Anglican bishop and distinguished Australian NT scholar, with a doctorate from the University of London. He has served as professor at Regent College (Vancouver) and Moore Theological College (Sydney). He is recognized as one of the leading evangelical commentators on 2 Corinthians and the historical period of the NT.",
+          "pt": "Paul Barnett é bispo anglicano emérito e distinto estudioso australiano do NT, com doutorado pela Universidade de Londres. Foi professor no Regent College (Vancouver) e no Moore Theological College (Sydney). É reconhecido como um dos principais comentaristas evangélicos de 2 Coríntios e do período histórico do NT."
+        },
+        "metodo": {
+          "es": "Barnett combina la exégesis gramatical detallada con la investigación histórica rigurosa sobre el mundo greco-romano del siglo I y la cronología paulina. Su comentario en la serie NICNT es especialmente fuerte en la identificación de los oponentes de Pablo, el contexto cultural de Corinto y la estructura retórica de la carta.",
+          "en": "Barnett combines detailed grammatical exegesis with rigorous historical research on the first-century Greco-Roman world and Pauline chronology. His NICNT commentary is especially strong on identifying Paul's opponents, the cultural context of Corinth, and the rhetorical structure of the letter.",
+          "pt": "Barnett combina a exegese gramatical detalhada com a pesquisa histórica rigorosa sobre o mundo greco-romano do século I e a cronologia paulina. Seu comentário na série NICNT é especialmente forte na identificação dos oponentes de Paulo, o contexto cultural de Corinto e a estrutura retórica da carta."
+        },
+        "aportacion": {
+          "es": "Proporcionó la investigación histórica fundamental sobre el contexto grecorromano de 2 Corintios, la identidad de los súper-apóstoles, la cronología paulina y la información arqueológica sobre Corinto relevante para los personajes y el trasfondo de la carta.",
+          "en": "Provided the foundational historical research on the Greco-Roman context of 2 Corinthians, the identity of the super-apostles, Pauline chronology, and archaeological information about Corinth relevant to the characters and background of the letter.",
+          "pt": "Forneceu a pesquisa histórica fundamental sobre o contexto greco-romano de 2 Coríntios, a identidade dos super-apóstolos, a cronologia paulina e as informações arqueológicas sobre Corinto relevantes para os personagens e o contexto da carta."
+        },
+        "obras": [
+          "The Second Epistle to the Corinthians, NICNT (1997)",
+          "Jesus and the Rise of Early Christianity (1999)",
+          "The Birth of Christianity (2005)",
+          "Finding the Historical Christ (2009)",
+          "Paul: Missionary of Jesus (2008)"
+        ],
+        "url": "https://www.theopedia.com/paul-barnett"
+      }
+    },
+    {
+      "titulo": "IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Civilizaciones",
+          "Fuentes greco-romanas",
+          "Geografía"
+        ],
+        "en": [
+          "Historical context",
+          "Civilizations",
+          "Greco-Roman sources",
+          "Geography"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Civilizações",
+          "Fontes greco-romanas",
+          "Geografia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener es profesor de Estudios del NT en Asbury Theological Seminary y uno de los más prolíficos comentaristas del NT en la academia evangélica contemporánea. Especialista en el trasfondo histórico, retórico y cultural del mundo greco-romano del siglo I que rodea los escritos paulinos.",
+          "en": "Craig S. Keener is professor of New Testament Studies at Asbury Theological Seminary and one of the most prolific NT commentators in contemporary evangelical scholarship. A specialist in the historical, rhetorical, and cultural background of the first-century Greco-Roman world surrounding the Pauline writings.",
+          "pt": "Craig S. Keener é professor de Estudos do NT no Asbury Theological Seminary e um dos mais prolíficos comentaristas do NT na erudição evangélica contemporânea. Especialista no contexto histórico, retórico e cultural do mundo greco-romano do século I que envolve os escritos paulinos."
+        },
+        "metodo": {
+          "es": "El IVP Bible Background Commentary ofrece un comentario versículo a versículo focalizado exclusivamente en el trasfondo cultural, histórico y literario del mundo antiguo: paralelos en papiros, inscripciones, literatura judía del Segundo Templo y fuentes greco-romanas. No busca la aplicación teológica sino iluminar el mundo del texto.",
+          "en": "The IVP Bible Background Commentary provides a verse-by-verse commentary focused exclusively on the cultural, historical, and literary background of the ancient world: parallels in papyri, inscriptions, Second Temple Jewish literature, and Greco-Roman sources. It does not seek theological application but to illuminate the world of the text.",
+          "pt": "O IVP Bible Background Commentary oferece um comentário versículo a versículo focado exclusivamente no contexto cultural, histórico e literário do mundo antigo: paralelos em papiros, inscrições, literatura judaica do Segundo Templo e fontes greco-romanas. Não busca aplicação teológica, mas iluminar o mundo do texto."
+        },
+        "aportacion": {
+          "es": "Proporcionó el trasfondo cultural greco-romano de 2 Corintios, incluyendo los paralelos con las cartas de recomendación, los catálogos de peristasis estoicos, el ceremonial del triunfo romano de 2Co 2:14 y la geografía de la misión paulina en Macedonia, Corinto y Asia.",
+          "en": "Provided the Greco-Roman cultural background of 2 Corinthians, including parallels with letters of recommendation, Stoic peristasis catalogues, the Roman triumphal ceremony in 2Cor 2:14, and the geography of the Pauline mission in Macedonia, Corinth, and Asia.",
+          "pt": "Forneceu o contexto cultural greco-romano de 2 Coríntios, incluindo os paralelos com as cartas de recomendação, os catálogos de peristasis estoicos, o cerimonial do triunfo romano em 2Co 2:14 e a geografia da missão paulina na Macedônia, Corinto e Ásia."
+        },
+        "obras": [
+          "IVP Bible Background Commentary: New Testament (1993)",
+          "Commentary on the Gospel of John, 2 vols. (2003)",
+          "Commentary on Acts, 2 vols. (2012–2014)",
+          "Miracles: The Credibility of the New Testament Accounts (2011)",
+          "The IVP Bible Background Commentary: Old Testament (2000, with John Walton)"
+        ],
+        "url": "https://www.theopedia.com/craig-keener"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "validado",
+    "confianza": 0.88,
+    "camposMarcados": [
+      {
+        "campo": "personajes[3].biografiaHistorica.nivelEvidencia",
+        "razon": "Los súper-apóstoles no son identificables individualmente en fuentes externas al NT; su identidad es especulativa. Se marcó 'especulativo' conforme al vocabulario controlado, restando 0.15 de confianza.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "contextoHistorico.fuentesANE",
+        "razon": "2 Corintios es carta del NT; se incluyeron fuentes del mundo greco-romano en lugar de ANE estricto (epistolografía antigua, catálogos de peristasis estoicos). Se considera adecuado por analogía funcional.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      },
+      {
+        "campo": "autor.nota",
+        "razon": "La posible co-autoría parcial de Timoteo (2Co 1:1) y la cuestión de la unidad literaria de caps. 1-9 vs. 10-13 se documentó en controversiasHistoricas. La posición reformada conservadora de unidad fue adoptada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-06-29"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-29T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.3.0",
+      "rol": "editor",
+      "fechaRevision": "2026-06-29T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-29T00:00:00Z",
+          "fechaFin": "2026-06-29T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

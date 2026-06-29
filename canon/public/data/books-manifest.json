@@ -1510,12 +1510,13 @@
       "ordenCanon": 47,
       "capitulosTotal": 13,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La 'carta del dolor': Pablo defiende su apostolado con transparencia personal extraordinaria, revelando el sufrimiento pastoral y su paradójica fortaleza en debilidad.",
         "en": "The 'letter of pain': Paul defends his apostolate with extraordinary personal transparency, revealing pastoral suffering and his paradoxical strength in weakness.",
         "pt": "A 'carta da dor': Paulo defende seu apostolado com extraordinária transparência pessoal, revelando o sofrimento pastoral e sua paradoxal força na fraqueza."
-      }
+      },
+      "dataFile": "2corintios.json"
     },
     {
       "id": 48,

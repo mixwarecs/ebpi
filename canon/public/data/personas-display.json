@@ -1750,5 +1750,41 @@
       "en": "HOST OF THE CHURCH",
       "pt": "ANFITRIÃO DA IGREJA"
     }
+  },
+  "Pablo (el Apóstol)": {
+    "id": "pablo-el-apostol",
+    "color": "#8B1A3A",
+    "init": "Πα",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "APÓSTOL A LOS GENTILES",
+      "en": "APOSTLE TO THE GENTILES",
+      "pt": "APÓSTOLO AOS GENTIOS"
+    }
+  },
+  "Tito": {
+    "id": "tito",
+    "color": "#3A6B7A",
+    "init": "ΤΤ",
+    "xCh": 7,
+    "side": "below",
+    "badge": {
+      "es": "DELEGADO APOSTÓLICO",
+      "en": "APOSTOLIC DELEGATE",
+      "pt": "DELEGADO APOSTÓLICO"
+    }
+  },
+  "Los 'súper-apóstoles' / falsos apóstoles": {
+    "id": "super-apostoles",
+    "color": "#7A2A1A",
+    "init": "ΨΑ",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "FALSOS APÓSTOLES",
+      "en": "FALSE APOSTLES",
+      "pt": "FALSOS APÓSTOLOS"
+    }
   }
 }
