@@ -1812,12 +1812,13 @@
       "ordenCanon": 62,
       "capitulosTotal": 5,
       "divisionColor": "#D06898",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El evangelio en forma de carta: Dios es luz (1:5), amor (4:8) y vida (5:12). Define los criterios de la vida en comunión con Dios y desmonta las pretensiones gnósticas de un conocimiento espiritual sin obediencia ética.",
         "en": "The Gospel in letter form: God is light (1:5), love (4:8), and life (5:12). Defines the criteria of life in fellowship with God and dismantles Gnostic claims to spiritual knowledge without ethical obedience.",
         "pt": "O evangelho em forma de carta: Deus é luz (1:5), amor (4:8) e vida (5:12). Define os critérios da vida em comunhão com Deus e desmonta as pretensões gnósticas de um conhecimento espiritual sem obediência ética."
-      }
+      },
+      "dataFile": "1john.json"
     },
     {
       "id": 63,

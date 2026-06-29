@@ -1591,5 +1591,29 @@
       "en": "DISCIPLINED APOSTATES",
       "pt": "APÓSTATAS DISCIPLINADOS"
     }
+  },
+  "Juan el Apóstol": {
+    "id": "juan-apostol",
+    "color": "#2A6B8B",
+    "init": "Ἰω",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "TESTIGO APOSTÓLICO",
+      "en": "APOSTOLIC WITNESS",
+      "pt": "TESTEMUNHA APOSTÓLICA"
+    }
+  },
+  "Los Anticristos (Falsos Maestros)": {
+    "id": "anticristos",
+    "color": "#6B2A3A",
+    "init": "Αν",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "FALSOS MAESTROS",
+      "en": "FALSE TEACHERS",
+      "pt": "FALSOS MESTRES"
+    }
   }
 }

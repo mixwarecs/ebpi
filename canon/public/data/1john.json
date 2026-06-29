@@ -1,0 +1,1551 @@
+{
+  "id": 62,
+  "testamento": "Nuevo",
+  "division": "Epístolas Generales",
+  "ordenEnDivision": 5,
+  "ordenCanon": 62,
+  "titulo": {
+    "es": "1 Juan",
+    "en": "1 John",
+    "pt": "1 João"
+  },
+  "tituloOriginal": "Ἰωάννου Αʹ",
+  "transliteracion": "Iōannou A",
+  "significado": {
+    "es": "Primera Epístola de Juan",
+    "en": "First Epistle of John",
+    "pt": "Primeira Epístola de João"
+  },
+  "capitulosTotal": 5,
+  "autor": {
+    "nombre": {
+      "es": "Juan el Apóstol",
+      "en": "John the Apostle",
+      "pt": "João o Apóstolo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La tradición eclesiástica antigua (Ireneo, Clemente de Alejandría, Tertuliano, Eusebio) atribuye esta carta al apóstol Juan, hijo de Zebedeo, también autor del Cuarto Evangelio y del Apocalipsis. La crítica moderna ha propuesto un 'Presbítero Juan' distinto, basándose en diferencias de estilo. La posición reformada mantiene la autoría apostólica sobre la base de los abrumadores paralelos léxicos y teológicos con el Evangelio de Juan (luz/tinieblas, amor, vida, verdad, Logos) y el testimonio patrístico unánime anterior al siglo IV.",
+      "en": "Ancient church tradition (Irenaeus, Clement of Alexandria, Tertullian, Eusebius) attributes this letter to the Apostle John, son of Zebedee, also author of the Fourth Gospel and Revelation. Modern criticism has proposed a distinct 'Presbyter John' based on stylistic differences. The Reformed position maintains apostolic authorship based on overwhelming lexical and theological parallels with the Gospel of John (light/darkness, love, life, truth, Logos) and the unanimous patristic testimony before the fourth century.",
+      "pt": "A tradição eclesiástica antiga (Ireneu, Clemente de Alexandria, Tertuliano, Eusébio) atribui esta carta ao apóstolo João, filho de Zebedeu, também autor do Quarto Evangelho e do Apocalipse. A crítica moderna propôs um 'Presbítero João' distinto, com base em diferenças de estilo. A posição reformada mantém a autoria apostólica com base nos esmagadores paralelos lexicais e teológicos com o Evangelho de João (luz/trevas, amor, vida, verdade, Logos) e o testemunho patrístico unânime anterior ao século IV."
+    }
+  },
+  "año": {
+    "desde": 85,
+    "hasta": 95,
+    "display": {
+      "es": "Fecha de escritura: Aprox. 85–95 d.C.",
+      "en": "Writing date: Approx. AD 85–95",
+      "pt": "Data de escrita: Aprox. 85–95 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Éfeso, Asia Menor (actual Turquía), según la tradición eclesiástica más antigua",
+    "en": "Ephesus, Asia Minor (modern Turkey), according to the most ancient church tradition",
+    "pt": "Éfeso, Ásia Menor (atual Turquia), segundo a tradição eclesiástica mais antiga"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Tardío (70–100 d.C.)",
+      "en": "Late Roman Period (AD 70–100)",
+      "pt": "Período Romano Tardio (70–100 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Éfeso",
+          "en": "Ephesus",
+          "pt": "Éfeso"
+        },
+        "identificacionModerna": {
+          "es": "Ruinas cerca de Selçuk, provincia de İzmir, Turquía occidental",
+          "en": "Ruins near Selçuk, İzmir province, western Turkey",
+          "pt": "Ruínas próximas a Selçuk, província de İzmir, Turquia ocidental"
+        },
+        "significancia": {
+          "es": "Ciudad desde la que Juan el Apóstol ejerció su ministerio en sus últimos años y desde donde, según la tradición eclesiástica (Ireneo, Policarpo), escribió sus cartas. Metrópolis de la provincia romana de Asia, sede del templo de Artemisa —una de las siete maravillas del mundo antiguo— y un efervescente centro de religiones mistéricas y filosofía popular.",
+          "en": "City from which the Apostle John exercised his ministry in his final years and from which, according to church tradition (Irenaeus, Polycarp), he wrote his letters. Metropolis of the Roman province of Asia, home of the Temple of Artemis — one of the Seven Wonders of the Ancient World — and a vibrant center of mystery religions and popular philosophy.",
+          "pt": "Cidade a partir da qual o Apóstolo João exerceu seu ministério em seus últimos anos e de onde, segundo a tradição eclesiástica (Ireneu, Policarpo), escreveu suas cartas. Metrópole da província romana da Ásia, sede do templo de Ártemis — uma das sete maravilhas do mundo antigo — e um efervescente centro de religiões mistéricas e filosofia popular."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Asia Menor (región)",
+          "en": "Asia Minor (region)",
+          "pt": "Ásia Menor (região)"
+        },
+        "identificacionModerna": {
+          "es": "Anatolia, actual Turquía",
+          "en": "Anatolia, modern Turkey",
+          "pt": "Anatólia, atual Turquia"
+        },
+        "significancia": {
+          "es": "Región donde se encontraban las iglesias destinatarias de 1 Juan, incluyendo las siete iglesias del Apocalipsis (Ap 1–3). En la segunda mitad del siglo I era una zona de intenso fervor religioso, filosófico y de potencial persecución imperial, todo lo cual conforma el trasfondo del llamado de Juan a la fidelidad doctrinal y al amor fraternal.",
+          "en": "Region where the recipient churches of 1 John were located, including the seven churches of Revelation (Rev 1–3). In the second half of the first century it was a zone of intense religious and philosophical ferment and potential imperial persecution, all of which forms the backdrop for John's call to doctrinal faithfulness and fraternal love.",
+          "pt": "Região onde se encontravam as igrejas destinatárias de 1 João, incluindo as sete igrejas do Apocalipse (Ap 1–3). Na segunda metade do século I era uma zona de intenso fervor religioso e filosófico, além de potencial perseguição imperial, tudo o que forma o pano de fundo do chamado de João à fidelidade doutrinária e ao amor fraternal."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Palestina / Judea",
+          "en": "Palestine / Judea",
+          "pt": "Palestina / Judeia"
+        },
+        "identificacionModerna": {
+          "es": "Israel y territorios palestinos actuales",
+          "en": "Present-day Israel and Palestinian territories",
+          "pt": "Israel e territórios palestinos atuais"
+        },
+        "significancia": {
+          "es": "Tierra natal del apóstol Juan y escenario del ministerio histórico de Jesucristo, al que la carta apela continuamente mediante el testimonio apostólico ocular: 'lo que hemos oído, lo que hemos visto con nuestros ojos, lo que contemplamos' (1Jn 1:1). La destrucción de Jerusalén (70 d.C.) era ya un hecho consumado cuando Juan escribe, lo que da urgencia escatológica a su mensaje.",
+          "en": "Homeland of the Apostle John and setting of the historical ministry of Jesus Christ, to which the letter continuously appeals through apostolic eyewitness testimony: 'that which we have heard, which we have seen with our eyes, which we looked upon' (1John 1:1). The destruction of Jerusalem (AD 70) was already an accomplished fact when John writes, giving eschatological urgency to his message.",
+          "pt": "Terra natal do apóstolo João e cenário do ministério histórico de Jesus Cristo, ao qual a carta apela continuamente mediante o testemunho apostólico ocular: 'o que ouvimos, o que vimos com os nossos olhos, o que contemplamos' (1Jo 1:1). A destruição de Jerusalém (70 d.C.) já era um fato consumado quando João escreve, o que dá urgência escatológica à sua mensagem."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Patmos",
+          "en": "Patmos",
+          "pt": "Patmos"
+        },
+        "identificacionModerna": {
+          "es": "Isla de Patmos, Dodecaneso, Grecia",
+          "en": "Island of Patmos, Dodecanese, Greece",
+          "pt": "Ilha de Patmos, Dodecaneso, Grécia"
+        },
+        "significancia": {
+          "es": "Lugar de exilio donde Juan recibió el Apocalipsis (Ap 1:9), probablemente durante el reinado de Domiciano (81–96 d.C.). Su exilio confirma el contexto de hostilidad imperial que las cartas joánicas presuponen al hablar del 'mundo' como fuerza opositora (1Jn 2:15–17; 5:4–5).",
+          "en": "Place of exile where John received the Apocalypse (Rev 1:9), probably during Domitian's reign (AD 81–96). His exile confirms the context of imperial hostility that the Johannine letters presuppose when speaking of 'the world' as an opposing force (1John 2:15–17; 5:4–5).",
+          "pt": "Local de exílio onde João recebeu o Apocalipse (Ap 1:9), provavelmente durante o reinado de Domiciano (81–96 d.C.). Seu exílio confirma o contexto de hostilidade imperial que as cartas joaninas pressupõem ao falar do 'mundo' como força opositora (1Jo 2:15–17; 5:4–5)."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano bajo Domiciano",
+          "en": "Roman Empire under Domitian",
+          "pt": "Império Romano sob Domiciano"
+        },
+        "rolEnElTexto": {
+          "es": "Proporciona el contexto político de potencial persecución en el que las comunidades joánicas vivían su fe. Juan exhorta a la firmeza frente a 'el mundo' (1Jn 2:15–17) en un contexto donde el poder imperial exigía lealtad religiosa absoluta. El templo del culto imperial a Domiciano en Éfeso (ca. 90 d.C.) intensificaba la tensión entre la confesión cristiana y las demandas del Estado.",
+          "en": "Provides the political context of potential persecution in which the Johannine communities lived out their faith. John exhorts steadfastness against 'the world' (1John 2:15–17) in a context where imperial power demanded absolute religious loyalty. The imperial cult temple of Domitian in Ephesus (ca. AD 90) intensified the tension between Christian confession and state demands.",
+          "pt": "Fornece o contexto político de potencial perseguição no qual as comunidades joaninas viviam sua fé. João exorta à firmeza diante do 'mundo' (1Jo 2:15–17) em um contexto onde o poder imperial exigia lealdade religiosa absoluta. O templo do culto imperial a Domiciano em Éfeso (ca. 90 d.C.) intensificava a tensão entre a confissão cristã e as exigências do Estado."
+        },
+        "estadoArqueologico": {
+          "es": "Las excavaciones del Instituto Arqueológico Austríaco en Éfeso han confirmado la presencia del templo del culto imperial a Domiciano (ca. 89–96 d.C.), junto con estatuas colosales del emperador. Estos hallazgos corroboran el contexto de competencia religiosa e ideológica que refleja la carta.",
+          "en": "Excavations by the Austrian Archaeological Institute at Ephesus have confirmed the presence of the imperial cult temple of Domitian (ca. AD 89–96), along with colossal statues of the emperor. These findings corroborate the context of religious and ideological competition that the letter reflects.",
+          "pt": "As escavações do Instituto Arqueológico Austríaco em Éfeso confirmaram a presença do templo do culto imperial a Domiciano (ca. 89–96 d.C.), juntamente com estátuas colossais do imperador. Essas descobertas corroboram o contexto de competição religiosa e ideológica que a carta reflete."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidades Joánicas",
+          "en": "Johannine Communities",
+          "pt": "Comunidades Joaninas"
+        },
+        "rolEnElTexto": {
+          "es": "Las iglesias a las que Juan escribe estaban siendo desestabilizadas por maestros que se habían separado voluntariamente de la comunidad (1Jn 2:19) y negaban que Jesús vino en carne. Estas comunidades necesitaban tanto criterios de discernimiento cristológico (1Jn 4:1–6) como reafirmación de su identidad como 'hijos de Dios' (1Jn 3:1) e instrucción sobre la certeza de la salvación (1Jn 5:13).",
+          "en": "The churches to which John writes were being destabilized by teachers who had voluntarily separated from the community (1John 2:19) and denied that Jesus came in the flesh. These communities needed both Christological discernment criteria (1John 4:1–6) and reaffirmation of their identity as 'children of God' (1John 3:1) and instruction on the assurance of salvation (1John 5:13).",
+          "pt": "As igrejas às quais João escreve estavam sendo desestabilizadas por mestres que se haviam separado voluntariamente da comunidade (1Jo 2:19) e negavam que Jesus veio em carne. Essas comunidades precisavam tanto de critérios de discernimento cristológico (1Jo 4:1–6) quanto de reafirmação de sua identidade como 'filhos de Deus' (1Jo 3:1) e de instrução sobre a certeza da salvação (1Jo 5:13)."
+        },
+        "estadoArqueologico": {
+          "es": "La existencia de comunidades cristianas activas en Éfeso y Asia Menor hacia el fin del siglo I d.C. está bien atestiguada por la correspondencia de Plinio el Joven con Trajano (ca. 110 d.C.), que describe su organización, prácticas litúrgicas y su negativa a rendir culto al emperador.",
+          "en": "The existence of active Christian communities in Ephesus and Asia Minor toward the end of the first century AD is well attested by Pliny the Younger's correspondence with Trajan (ca. AD 110), which describes their organization, liturgical practices, and refusal to worship the emperor.",
+          "pt": "A existência de comunidades cristãs ativas em Éfeso e na Ásia Menor no final do século I d.C. está bem documentada pela correspondência de Plínio, o Jovem, com Trajano (ca. 110 d.C.), que descreve sua organização, práticas litúrgicas e recusa em adorar o imperador."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Corrientes Proto-Gnósticas y Docetistas",
+          "en": "Proto-Gnostic and Docetist Currents",
+          "pt": "Correntes Proto-Gnósticas e Docetistas"
+        },
+        "rolEnElTexto": {
+          "es": "Los 'anticristos' de 1 Juan representan un proto-gnosticismo o docetismo incipiente: negaban la encarnación real de Cristo (1Jn 4:2–3), probablemente afirmando que Jesús solo 'pareció' venir en carne, y reclamaban una iluminación espiritual superior que los eximía de obediencia moral. Juan refuta estas ideas por medio de las tres pruebas: doctrinal (confesar la encarnación), ética (practicar la justicia) y relacional (amar a los hermanos).",
+          "en": "The 'antichrists' of 1 John represent an incipient proto-Gnosticism or Docetism: they denied the real incarnation of Christ (1John 4:2–3), probably affirming that Jesus only 'seemed' to come in the flesh, and claimed a superior spiritual illumination that exempted them from moral obedience. John refutes these ideas through three tests: doctrinal (confessing the incarnation), ethical (practicing righteousness), and relational (loving the brethren).",
+          "pt": "Os 'anticristos' de 1 João representam um proto-gnosticismo ou docetismo incipiente: negavam a encarnação real de Cristo (1Jo 4:2–3), provavelmente afirmando que Jesus apenas 'pareceu' vir em carne, e reivindicavam uma iluminação espiritual superior que os eximia da obediência moral. João refuta essas ideias por meio de três provas: doutrinária (confessar a encarnação), ética (praticar a justiça) e relacional (amar os irmãos)."
+        },
+        "estadoArqueologico": {
+          "es": "Aunque el gnosticismo pleno se sistematizó en el siglo II d.C., los escritos de Ignacio de Antioquía (ca. 107 d.C.) combaten el docetismo en las mismas iglesias de Asia Menor, confirmando que formas embrionarias de estas ideas circulaban ya en vida del apóstol Juan. Los textos de Nag Hammadi (Egipto, siglo II d.C.) proveen evidencia de los sistemas desarrollados que surgieron de estas semillas.",
+          "en": "Although full-blown Gnosticism was systematized in the second century AD, the writings of Ignatius of Antioch (ca. AD 107) combat Docetism in the same Asia Minor churches, confirming that embryonic forms of these ideas were already circulating during the Apostle John's lifetime. The Nag Hammadi texts (Egypt, second century AD) provide evidence of the developed systems that arose from these seeds.",
+          "pt": "Embora o gnosticismo pleno tenha sido sistematizado no século II d.C., os escritos de Inácio de Antioquia (ca. 107 d.C.) combatem o docetismo nas mesmas igrejas da Ásia Menor, confirmando que formas embrionárias dessas ideias já circulavam durante a vida do apóstolo João. Os textos de Nag Hammadi (Egito, século II d.C.) fornecem evidências dos sistemas desenvolvidos que surgiram dessas sementes."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones en Éfeso (dirigidas principalmente por el Instituto Arqueológico Austríaco desde el siglo XIX) han revelado la magnificencia de la ciudad en que Juan ministraba: el templo de Artemisa, la Biblioteca de Celso, el odeón, las termas, el templo del culto imperial a Domiciano y la gran ágora comercial. Estos hallazgos confirman que Éfeso era una metrópolis cosmopolita donde múltiples religiones —el culto a Artemisa, los misterios de Cibele, el culto imperial y diversas corrientes filosóficas— competían por la lealtad de sus habitantes. No existe evidencia epigráfica directa de la presencia del apóstol Juan en Éfeso (inscripciones con su nombre, monumentos asociados claramente a él), aunque la tradición es muy antigua, consistente y geográficamente localizada. La llamada 'Casa de la Virgen' en el monte Bulbul y la basílica de San Juan (siglo VI d.C.) atestiguan la veneración temprana a Juan en la región.",
+      "en": "Excavations at Ephesus (led primarily by the Austrian Archaeological Institute since the 19th century) have revealed the magnificence of the city where John ministered: the Temple of Artemis, the Library of Celsus, the odeon, the baths, the imperial cult temple of Domitian, and the great commercial agora. These finds confirm that Ephesus was a cosmopolitan metropolis where multiple religions — the cult of Artemis, the mysteries of Cybele, the imperial cult, and diverse philosophical currents — competed for the loyalty of its inhabitants. There is no direct epigraphic evidence of the Apostle John's presence in Ephesus (inscriptions bearing his name, monuments clearly associated with him), although the tradition is very ancient, consistent, and geographically localized. The so-called 'House of the Virgin' on Mount Bulbul and the Basilica of St. John (6th century AD) attest to early veneration of John in the region.",
+      "pt": "As escavações em Éfeso (conduzidas principalmente pelo Instituto Arqueológico Austríaco desde o século XIX) revelaram a magnificência da cidade onde João ministrava: o templo de Ártemis, a Biblioteca de Celso, o odeão, as termas, o templo do culto imperial a Domiciano e o grande ágora comercial. Esses achados confirmam que Éfeso era uma metrópole cosmopolita onde múltiplas religiões — o culto a Ártemis, os mistérios de Cibele, o culto imperial e diversas correntes filosóficas — competiam pela lealdade de seus habitantes. Não há evidência epigráfica direta da presença do apóstolo João em Éfeso (inscrições com seu nome, monumentos claramente associados a ele), embora a tradição seja muito antiga, consistente e geograficamente localizada. A chamada 'Casa da Virgem' no monte Bulbul e a basílica de São João (século VI d.C.) atestam a veneração precoce a João na região."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Epístolas de Plinio el Joven a Trajano (Epistulae X.96–97)",
+          "en": "Pliny the Younger's Letters to Trajan (Epistulae X.96–97)",
+          "pt": "Epístolas de Plínio, o Jovem, a Trajano (Epistulae X.96–97)"
+        },
+        "origen": {
+          "es": "Correspondencia romana oficial, ca. 111–113 d.C., Bitinia-Ponto, Imperio Romano",
+          "en": "Official Roman correspondence, ca. AD 111–113, Bithynia-Pontus, Roman Empire",
+          "pt": "Correspondência oficial romana, ca. 111–113 d.C., Bitínia-Ponto, Império Romano"
+        },
+        "relevancia": {
+          "es": "Describe la presencia y prácticas de comunidades cristianas en Asia Menor apenas dos décadas después de 1 Juan: su organización litúrgica, su canto a Cristo 'como a un dios', su negativa al culto imperial y la persecución oficial que sufrían. Estas cartas confirman históricamente el contexto de tensión con el 'mundo' que Juan presupone en toda la epístola.",
+          "en": "Describes the presence and practices of Christian communities in Asia Minor barely two decades after 1 John: their liturgical organization, their singing to Christ 'as to a god', their refusal of the imperial cult, and the official persecution they suffered. These letters historically confirm the context of tension with 'the world' that John presupposes throughout the epistle.",
+          "pt": "Descreve a presença e as práticas de comunidades cristãs na Ásia Menor apenas duas décadas após 1 João: sua organização litúrgica, seu canto a Cristo 'como a um deus', sua recusa ao culto imperial e a perseguição oficial que sofriam. Essas cartas confirmam historicamente o contexto de tensão com o 'mundo' que João pressupõe em toda a epístola."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cartas de Ignacio de Antioquía (especialmente Tralianos y Esmirniotas)",
+          "en": "Letters of Ignatius of Antioch (especially Trallians and Smyrnaeans)",
+          "pt": "Cartas de Inácio de Antioquia (especialmente Tralianos e Esmirnenses)"
+        },
+        "origen": {
+          "es": "Literatura epistolar cristiana primitiva, ca. 107–110 d.C., Antioquía / Esmirna, Imperio Romano",
+          "en": "Early Christian epistolary literature, ca. AD 107–110, Antioch / Smyrna, Roman Empire",
+          "pt": "Literatura epistolar cristã primitiva, ca. 107–110 d.C., Antioquia / Esmirna, Império Romano"
+        },
+        "relevancia": {
+          "es": "Ignacio combate activamente el docetismo en las mismas iglesias de Asia Menor a las que Juan escribió (Tralianos 10; Esmirniotas 1–3), afirmando que Cristo padeció 'de verdad' y no solo en apariencia. Esto provee evidencia directa y geográficamente precisa de que la herejía que 1 Juan refuta era real, activa y amenazante en la misma generación siguiente a la del apóstol.",
+          "en": "Ignatius actively combats Docetism in the same Asia Minor churches to which John wrote (Trallians 10; Smyrnaeans 1–3), affirming that Christ suffered 'truly' and not merely in appearance. This provides direct and geographically precise evidence that the heresy 1 John refutes was real, active, and threatening in the very generation following the Apostle.",
+          "pt": "Inácio combate ativamente o docetismo nas mesmas igrejas da Ásia Menor às quais João escreveu (Tralianos 10; Esmirnenses 1–3), afirmando que Cristo padeceu 'de verdade' e não apenas na aparência. Isso fornece evidência direta e geograficamente precisa de que a heresia que 1 João refuta era real, ativa e ameaçadora na própria geração seguinte à do apóstolo."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La controversia histórica principal concierne a la identidad exacta de los oponentes de Juan. Las propuestas principales son: (1) Cerintianismo —una herejía gnóstica temprana atribuida a Cerinto de Éfeso, quien según Ireneo separaba al Jesús humano del Cristo espiritual—; (2) un docetismo más difuso sin figura fundacional identificable; (3) una facción interna cismática con tendencias entusiastas o pneumáticas sin filiación filosófica clara. Una segunda controversia es la autoría: la crítica moderna ha propuesto un 'Presbítero Juan' distinto del apóstol, citando diferencias de vocabulario y la ausencia de remitente identificado. La posición reformada responde que las diferencias de estilo respecto al Evangelio se explican por el género literario (epístola vs. evangelio), que los paralelos teológicos son abrumadores, y que la tradición patrística antes del siglo IV es virtualmente unánime en atribuir la carta al apóstol Juan. La cuestión de la identidad precisa de los oponentes es secundaria a la respuesta teológica de la carta, que refuta cualquier sistema que niegue la encarnación real del Hijo de Dios.",
+      "en": "The main historical controversy concerns the exact identity of John's opponents. The main proposals are: (1) Cerinthianism — an early Gnostic heresy attributed to Cerinthus of Ephesus, who according to Irenaeus separated the human Jesus from the spiritual Christ; (2) a more diffuse Docetism without an identifiable founding figure; (3) an internal schismatic faction with enthusiastic or pneumatic tendencies without clear philosophical affiliation. A second controversy is authorship: modern criticism has proposed a 'Presbyter John' distinct from the Apostle, citing vocabulary differences and the absence of an identified sender. The Reformed position responds that style differences from the Gospel are explained by literary genre (epistle vs. gospel), that the theological parallels are overwhelming, and that patristic tradition before the fourth century is virtually unanimous in attributing the letter to the Apostle John. The question of the precise identity of the opponents is secondary to the letter's theological response, which refutes any system that denies the real incarnation of the Son of God.",
+      "pt": "A controvérsia histórica principal diz respeito à identidade exata dos oponentes de João. As principais propostas são: (1) cerintianismo — uma heresia gnóstica primitiva atribuída a Cerinto de Éfeso, que segundo Ireneu separava o Jesus humano do Cristo espiritual; (2) um docetismo mais difuso sem figura fundacional identificável; (3) uma facção interna cismática com tendências entusiastas ou pneumáticas sem filiação filosófica clara. Uma segunda controvérsia é a autoria: a crítica moderna propôs um 'Presbítero João' distinto do apóstolo, citando diferenças de vocabulário e a ausência de remetente identificado. A posição reformada responde que as diferenças de estilo em relação ao Evangelho se explicam pelo gênero literário (epístola vs. evangelho), que os paralelos teológicos são esmagadores e que a tradição patrística anterior ao século IV é virtualmente unânime em atribuir a carta ao apóstolo João. A questão da identidade precisa dos oponentes é secundária à resposta teológica da carta, que refuta qualquer sistema que negue a encarnação real do Filho de Deus."
+    },
+    "cronologiaInterna": {
+      "es": "La carta no sigue una cronología narrativa sino una estructura epistolar y temática de espiral progresiva, retomando los mismos temas (luz, amor, vida, verdad, encarnación) con profundidad creciente. Las referencias temporales más significativas son: (1) 'desde el principio' (1Jn 1:1; 2:7,13,14,24; 3:8,11), que apunta tanto al origen eterno del Verbo como al mensaje apostólico original recibido por la comunidad; (2) 'la última hora' (1Jn 2:18), que indica que la comunidad vive ya en el tiempo escatológico final inaugurado por la primera venida de Cristo, como lo demuestra la presencia de múltiples anticristos; (3) 'ahora somos hijos de Dios, aunque todavía no se ha manifestado lo que hemos de ser' (1Jn 3:2), articulando la tensión escatológica entre el 'ya' de la adopción divina y el 'todavía no' de la glorificación final.",
+      "en": "The letter does not follow a narrative chronology but a progressively spiraling epistolary and thematic structure, returning to the same themes (light, love, life, truth, incarnation) with increasing depth. The most significant temporal references are: (1) 'from the beginning' (1John 1:1; 2:7,13,14,24; 3:8,11), pointing both to the eternal origin of the Word and to the original apostolic message received by the community; (2) 'the last hour' (1John 2:18), indicating that the community is already living in the final eschatological time inaugurated by Christ's first coming, as demonstrated by the presence of many antichrists; (3) 'we are God's children now, and what we will be has not yet appeared' (1John 3:2), articulating the eschatological tension between the 'already' of divine adoption and the 'not yet' of final glorification.",
+      "pt": "A carta não segue uma cronologia narrativa, mas uma estrutura epistolar e temática de espiral progressiva, retomando os mesmos temas (luz, amor, vida, verdade, encarnação) com profundidade crescente. As referências temporais mais significativas são: (1) 'desde o princípio' (1Jo 1:1; 2:7,13,14,24; 3:8,11), apontando tanto para a origem eterna do Verbo quanto para a mensagem apostólica original recebida pela comunidade; (2) 'a última hora' (1Jo 2:18), indicando que a comunidade já vive no tempo escatológico final inaugurado pela primeira vinda de Cristo, como demonstrado pela presença de muitos anticristos; (3) 'agora somos filhos de Deus, e o que havemos de ser ainda não se manifestou' (1Jo 3:2), articulando a tensão escatológica entre o 'já' da adoção divina e o 'ainda não' da glorificação final."
+    }
+  },
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Primera de Juan presenta a Cristo como el Verbo eterno que irrumpió en la historia visible y palpable (1Jn 1:1–4), el Justo que es a la vez Abogado ante el Padre y propiciación por nuestros pecados (1Jn 2:1–2), el Hijo de Dios que se manifestó para destruir las obras del diablo (1Jn 3:8) y el Amor de Dios hecho carne (1Jn 4:9–10). Desde la perspectiva de la teología bíblica de Vos, la carta aplica la cristología del nuevo pacto a la vida comunitaria: el Cristo encarnado —confesado como tal frente a los docetistas— es el único Mediador que garantiza la comunión con el Padre (1Jn 1:3), provee al Espíritu Santo como sello de esa unión (1Jn 3:24; 4:13) y es la fuente de la vida eterna que los creyentes ya poseen (1Jn 5:11–12). La carta es exclusivamente aplicación del cumplimiento ya realizado; no desarrolla tipos, sino que proclama al Antitype en toda su plenitud encarnada.",
+      "en": "First John presents Christ as the eternal Word who broke into visible and tangible history (1John 1:1–4), the Righteous One who is both Advocate with the Father and propitiation for our sins (1John 2:1–2), the Son of God who appeared to destroy the works of the devil (1John 3:8), and the love of God made flesh (1John 4:9–10). From Vos's biblical-theology perspective, the letter applies the new-covenant Christology to communal life: the incarnate Christ — confessed as such against the Docetists — is the sole Mediator who guarantees fellowship with the Father (1John 1:3), provides the Holy Spirit as the seal of that union (1John 3:24; 4:13), and is the source of eternal life that believers already possess (1John 5:11–12). The letter is exclusively an application of the already-accomplished fulfillment; it develops no types but proclaims the Antitype in all his incarnate fullness.",
+      "pt": "Primeira de João apresenta Cristo como o Verbo eterno que irrompeu na história visível e palpável (1Jo 1:1–4), o Justo que é ao mesmo tempo Advogado junto ao Pai e propiciação pelos nossos pecados (1Jo 2:1–2), o Filho de Deus que se manifestou para destruir as obras do diabo (1Jo 3:8) e o Amor de Deus feito carne (1Jo 4:9–10). Da perspectiva da teologia bíblica de Vos, a carta aplica a cristologia do novo pacto à vida comunitária: o Cristo encarnado — confessado como tal frente aos docetistas — é o único Mediador que garante a comunhão com o Pai (1Jo 1:3), provê o Espírito Santo como selo dessa união (1Jo 3:24; 4:13) e é a fonte da vida eterna que os crentes já possuem (1Jo 5:11–12). A carta é exclusivamente aplicação do cumprimento já realizado; não desenvolve tipos, mas proclama o Antítipo em toda a sua plenitude encarnada."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El sistema sacrificial levítico del Día de Expiación —especialmente el kapporet o propiciatorio sobre el arca— como tipo del Cristo que es 'propiciación por nuestros pecados' (1Jn 2:2), satisfaciendo perfectamente la ira divina de una vez por todas (He 9:11–14; Ro 3:25)",
+        "en": "The Levitical sacrificial system of the Day of Atonement — especially the kapporet or mercy seat over the ark — as a type of Christ who is 'the propitiation for our sins' (1John 2:2), perfectly satisfying divine wrath once for all (Heb 9:11–14; Rom 3:25)",
+        "pt": "O sistema sacrificial levítico do Dia da Expiação — especialmente o kapporet ou propiciatório sobre a arca — como tipo do Cristo que é 'a propiciação pelos nossos pecados' (1Jo 2:2), satisfazendo perfeitamente a ira divina de uma vez por todas (Hb 9:11–14; Rm 3:25)"
+      },
+      {
+        "es": "El mandamiento del amor al prójimo del Antiguo Testamento (Lv 19:18) como tipo anticipatorio del mandamiento nuevo que Cristo da y perfecciona (1Jn 2:7–8; Jn 13:34–35): solo el Nuevo Pacto en la sangre de Cristo hace posible el amor en toda su plenitud transformadora",
+        "en": "The Old Testament commandment of love for neighbor (Lev 19:18) as an anticipatory type of the new commandment that Christ gives and perfects (1John 2:7–8; John 13:34–35): only the New Covenant in Christ's blood makes love possible in all its transforming fullness",
+        "pt": "O mandamento veterotestamentário do amor ao próximo (Lv 19:18) como tipo antecipatório do mandamento novo que Cristo dá e aperfeiçoa (1Jo 2:7–8; Jo 13:34–35): somente o Novo Pacto no sangue de Cristo torna o amor possível em toda a sua plenitude transformadora"
+      },
+      {
+        "es": "Caín como tipo del que odia al hermano y permanece en muerte (1Jn 3:12), en contraste con Abel cuya sangre clamaba desde la tierra (Gn 4:10; He 12:24): el amor de Cristo derramando su propia sangre invierte el patrón de Caín y hace posible el amor sacrificial entre los creyentes",
+        "en": "Cain as a type of the one who hates his brother and remains in death (1John 3:12), in contrast to Abel whose blood cried out from the ground (Gen 4:10; Heb 12:24): Christ's love in shedding his own blood reverses the Cain pattern and makes sacrificial love among believers possible",
+        "pt": "Caim como tipo daquele que odeia o irmão e permanece na morte (1Jo 3:12), em contraste com Abel cujo sangue clamava da terra (Gn 4:10; Hb 12:24): o amor de Cristo derramando seu próprio sangue reverte o padrão de Caim e torna possível o amor sacrificial entre os crentes"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Ningún otro libro canónico articula con la misma intensidad la tríada joánica de pruebas para el creyente genuino: la prueba doctrinal (confesar que Jesucristo ha venido en carne, 1Jn 4:2), la prueba ética (practicar la justicia, 1Jn 3:10) y la prueba relacional (amar a los hermanos, 1Jn 3:14). Además, 1 Juan es el único libro del canon que declara explícitamente que 'Dios es luz' (1Jn 1:5) y 'Dios es amor' (1Jn 4:8,16), definiciones de la esencia divina sin paralelo en toda la Escritura. Finalmente, la declaración de propósito de 1Jn 5:13 —'para que sepan que tienen vida eterna'— convierte a la carta en el texto fundamental de la doctrina reformada de la certeza de salvación: el creyente puede y debe saber objetivamente que posee vida eterna.",
+    "en": "No other canonical book articulates with the same intensity the Johannine triad of tests for the genuine believer: the doctrinal test (confessing that Jesus Christ has come in the flesh, 1John 4:2), the ethical test (practicing righteousness, 1John 3:10), and the relational test (loving the brethren, 1John 3:14). Furthermore, 1 John is the only book of the canon that explicitly declares that 'God is light' (1John 1:5) and 'God is love' (1John 4:8,16), definitions of the divine essence unparalleled in all of Scripture. Finally, the purpose statement of 1John 5:13 — 'that you may know that you have eternal life' — makes the letter the foundational text of the Reformed doctrine of assurance of salvation: the believer can and ought to know objectively that he possesses eternal life.",
+    "pt": "Nenhum outro livro canônico articula com a mesma intensidade a tríade joanina de provas para o crente genuíno: a prova doutrinária (confessar que Jesus Cristo veio em carne, 1Jo 4:2), a prova ética (praticar a justiça, 1Jo 3:10) e a prova relacional (amar os irmãos, 1Jo 3:14). Além disso, 1 João é o único livro do cânon que declara explicitamente que 'Deus é luz' (1Jo 1:5) e 'Deus é amor' (1Jo 4:8,16), definições da essência divina sem paralelo em toda a Escritura. Por fim, a declaração de propósito de 1Jo 5:13 — 'para que saibais que tendes a vida eterna' — torna a carta o texto fundamental da doutrina reformada da certeza da salvação: o crente pode e deve saber objetivamente que possui vida eterna."
+  },
+  "genero": {
+    "es": "Epístola general / discurso pastoral homilético",
+    "en": "General epistle / homiletic pastoral discourse",
+    "pt": "Epístola geral / discurso pastoral homilético"
+  },
+  "palabraClave": {
+    "es": [
+      "comunión",
+      "amor",
+      "vida eterna",
+      "verdad",
+      "luz",
+      "propiciación"
+    ],
+    "en": [
+      "fellowship",
+      "love",
+      "eternal life",
+      "truth",
+      "light",
+      "propitiation"
+    ],
+    "pt": [
+      "comunhão",
+      "amor",
+      "vida eterna",
+      "verdade",
+      "luz",
+      "propiciação"
+    ]
+  },
+  "destinatario": {
+    "es": "Comunidades cristianas de Asia Menor (probablemente en la esfera de influencia de Éfeso) a finales del siglo I d.C., amenazadas por maestros cismáticos proto-gnósticos que negaban la plena humanidad de Cristo y relativizaban la obediencia moral como condición de la fe genuina",
+    "en": "Christian communities in Asia Minor (probably within Ephesus's sphere of influence) at the end of the first century AD, threatened by proto-Gnostic schismatic teachers who denied the full humanity of Christ and relativized moral obedience as a condition of genuine faith",
+    "pt": "Comunidades cristãs da Ásia Menor (provavelmente na esfera de influência de Éfeso) no final do século I d.C., ameaçadas por mestres cismáticos proto-gnósticos que negavam a plena humanidade de Cristo e relativizavam a obediência moral como condição da fé genuína"
+  },
+  "proposito": {
+    "es": "Propósito histórico: confrontar la enseñanza de maestros cismáticos (proto-gnósticos/docetistas) que habían abandonado la comunidad joánica (1Jn 2:19) y negaban que Jesucristo había venido en carne, y proveer tres pruebas de discernimiento (doctrinal, ética, relacional) para que los creyentes confirmaran quiénes eran los verdaderos hijos de Dios. Propósito teológico: afirmar la plena humanidad y deidad del Verbo encarnado como fundamento de la comunión con el Padre y el Hijo (1Jn 1:3), proveer bases para la certeza objetiva de la salvación de los creyentes genuinos (1Jn 5:13) y llamar a la comunidad a vivir en la plenitud del amor de Dios mediante la confesión de pecado, el amor fraternal y la obediencia a los mandamientos.",
+    "en": "Historical purpose: to confront the teaching of schismatic teachers (proto-Gnostic/Docetist) who had left the Johannine community (1John 2:19) and denied that Jesus Christ had come in the flesh, and to provide three tests of discernment (doctrinal, ethical, relational) so that believers could confirm who the true children of God were. Theological purpose: to affirm the full humanity and deity of the incarnate Word as the foundation of fellowship with the Father and the Son (1John 1:3), to provide grounds for the objective assurance of salvation for genuine believers (1John 5:13), and to call the community to live in the fullness of God's love through confession of sin, fraternal love, and obedience to the commandments.",
+    "pt": "Propósito histórico: confrontar o ensino de mestres cismáticos (proto-gnósticos/docetistas) que haviam deixado a comunidade joanina (1Jo 2:19) e negavam que Jesus Cristo havia vindo em carne, e fornecer três provas de discernimento (doutrinária, ética, relacional) para que os crentes confirmassem quem eram os verdadeiros filhos de Deus. Propósito teológico: afirmar a plena humanidade e divindade do Verbo encarnado como fundamento da comunhão com o Pai e o Filho (1Jo 1:3), fornecer bases para a certeza objetiva da salvação dos crentes genuínos (1Jo 5:13) e convocar a comunidade a viver na plenitude do amor de Deus mediante a confissão do pecado, o amor fraternal e a obediência aos mandamentos."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Jesucristo",
+        "en": "Jesus Christ",
+        "pt": "Jesus Cristo"
+      },
+      "hebreo": "Ἰησοῦς Χριστός",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "descripcion": {
+        "es": "El Verbo eterno que existía desde el principio y se manifestó en la historia como objeto de la experiencia apostólica sensorial —visto, oído y palpado (1Jn 1:1–2)—. En 1 Juan se presenta a Cristo como el Hijo de Dios encarnado, el Justo, el Abogado, la propiciación, el que destruye las obras del diablo y la fuente de la vida eterna.",
+        "en": "The eternal Word who existed from the beginning and manifested in history as the object of apostolic sensory experience — seen, heard, and touched (1John 1:1–2). In 1 John, Christ is presented as the incarnate Son of God, the Righteous One, the Advocate, the propitiation, the one who destroys the works of the devil, and the source of eternal life.",
+        "pt": "O Verbo eterno que existia desde o princípio e se manifestou na história como objeto da experiência apostólica sensorial — visto, ouvido e apalpado (1Jo 1:1–2). Em 1 João, Cristo é apresentado como o Filho de Deus encarnado, o Justo, o Advogado, a propiciação, aquele que destrói as obras do diabo e a fonte da vida eterna."
+      },
+      "acciones": {
+        "es": "Se encarnó para revelarse como la vida (1Jn 1:2); ofrece comunión con el Padre mediante su persona (1Jn 1:3); actúa como Abogado ante el Padre cuando los creyentes pecan (1Jn 2:1); es la propiciación por los pecados del mundo entero (1Jn 2:2); fue enviado por el Padre en amor para que vivamos por medio de Él (1Jn 4:9); destruyó las obras del diablo (1Jn 3:8); y da al creyente la vida eterna que reside en Él mismo (1Jn 5:11).",
+        "en": "He became incarnate to reveal himself as life (1John 1:2); offers fellowship with the Father through his person (1John 1:3); acts as Advocate with the Father when believers sin (1John 2:1); is the propitiation for the sins of the whole world (1John 2:2); was sent by the Father in love so that we might live through him (1John 4:9); destroyed the works of the devil (1John 3:8); and gives the believer eternal life that resides in himself (1John 5:11).",
+        "pt": "Encarnou-se para revelar-se como a vida (1Jo 1:2); oferece comunhão com o Pai mediante sua pessoa (1Jo 1:3); atua como Advogado junto ao Pai quando os crentes pecam (1Jo 2:1); é a propiciação pelos pecados de todo o mundo (1Jo 2:2); foi enviado pelo Pai em amor para que vivamos por meio dele (1Jo 4:9); destruiu as obras do diabo (1Jo 3:8); e dá ao crente a vida eterna que reside nele mesmo (1Jo 5:11)."
+      },
+      "significadoTeologico": {
+        "es": "Cristo es el eje de toda la carta: la comunión con Dios es posible solo por Él (1Jn 1:3); la propiciación que resuelve el problema del pecado es su obra (1Jn 2:2); la prueba definitiva del Espíritu de Dios es la confesión de su encarnación (1Jn 4:2); y el conocimiento de su persona es el contenido de la vida eterna (1Jn 5:20). Sin Cristo encarnado no hay comunión, ni perdón, ni certeza, ni vida. La carta es así una defensa del Christus totus —plenamente divino y plenamente humano— contra cualquier reducción.",
+        "en": "Christ is the axis of the entire letter: fellowship with God is possible only through him (1John 1:3); the propitiation that resolves the problem of sin is his work (1John 2:2); the decisive test of the Spirit of God is the confession of his incarnation (1John 4:2); and the knowledge of his person is the content of eternal life (1John 5:20). Without the incarnate Christ there is no fellowship, no forgiveness, no assurance, no life. The letter is thus a defense of the Christus totus — fully divine and fully human — against any reduction.",
+        "pt": "Cristo é o eixo de toda a carta: a comunhão com Deus é possível somente por meio dele (1Jo 1:3); a propiciação que resolve o problema do pecado é sua obra (1Jo 2:2); a prova decisiva do Espírito de Deus é a confissão de sua encarnação (1Jo 4:2); e o conhecimento de sua pessoa é o conteúdo da vida eterna (1Jo 5:20). Sem Cristo encarnado não há comunhão, nem perdão, nem certeza, nem vida. A carta é, assim, uma defesa do Christus totus — plenamente divino e plenamente humano — contra qualquer redução."
+      },
+      "tipo": {
+        "es": "Cristo no funciona como tipo de sí mismo sino como el Antitype que cumple todos los tipos veterotestamentarios: el propiciatorio (He 9:5; Ro 3:25), el sumo sacerdote intercesor (He 7:25) y el cordero de la Pascua (Jn 1:29; 1Co 5:7). En 1 Juan, su función como propiciación (1Jn 2:2) evoca directamente el lenguaje del Día de Expiación.",
+        "en": "Christ does not function as a type of himself but as the Antitype who fulfills all Old Testament types: the mercy seat (Heb 9:5; Rom 3:25), the interceding high priest (Heb 7:25), and the Passover lamb (John 1:29; 1Cor 5:7). In 1 John, his function as propitiation (1John 2:2) directly evokes the language of the Day of Atonement.",
+        "pt": "Cristo não funciona como tipo de si mesmo, mas como o Antítipo que cumpre todos os tipos veterotestamentários: o propiciatório (Hb 9:5; Rm 3:25), o sumo sacerdote intercessor (Hb 7:25) e o cordeiro da Páscoa (Jo 1:29; 1Co 5:7). Em 1 João, sua função como propiciação (1Jo 2:2) evoca diretamente a linguagem do Dia da Expiação."
+      },
+      "caracterMoral": {
+        "es": "Cristo es presentado en 1 Juan como el Justo por excelencia (1Jn 2:1), la Luz en quien no hay ninguna tiniebla (1Jn 1:5 aplicado a su persona), el puro (1Jn 3:3) y el que no cometió pecado (1Jn 3:5). Su carácter moral es la norma a la cual el creyente se conforma progresivamente (1Jn 2:6).",
+        "en": "Christ is presented in 1 John as the Righteous One par excellence (1John 2:1), the Light in whom there is no darkness (1John 1:5 applied to his person), the pure one (1John 3:3), and the one who committed no sin (1John 3:5). His moral character is the standard to which the believer progressively conforms (1John 2:6).",
+        "pt": "Cristo é apresentado em 1 João como o Justo por excelência (1Jo 2:1), a Luz em quem não há nenhuma treva (1Jo 1:5 aplicado à sua pessoa), o puro (1Jo 3:3) e aquele que não cometeu pecado (1Jo 3:5). Seu caráter moral é a norma à qual o crente se conforma progressivamente (1Jo 2:6)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Juan declara que el Verbo de vida —que existía desde la eternidad— fue visto, oído y palpado por los apóstoles (1Jn 1:1–2). Vino en carne (1Jn 4:2), murió como propiciación por los pecados (1Jn 2:2), fue enviado por el Padre en amor para que vivamos por medio de Él (1Jn 4:9), y resucitó para ser el Abogado de los creyentes ante el Padre (1Jn 2:1). Se manifestó para destruir las obras del diablo (1Jn 3:8) y para que los creyentes posean vida eterna en su persona (1Jn 5:11–12). La carta concluye afirmando que Él es el Dios verdadero y la vida eterna (1Jn 5:20).",
+          "en": "John declares that the Word of life — who existed from eternity — was seen, heard, and touched by the apostles (1John 1:1–2). He came in the flesh (1John 4:2), died as propitiation for sins (1John 2:2), was sent by the Father in love so that we might live through him (1John 4:9), and rose to be the believers' Advocate with the Father (1John 2:1). He appeared to destroy the works of the devil (1John 3:8) and so that believers might possess eternal life in his person (1John 5:11–12). The letter concludes by affirming that he is the true God and eternal life (1John 5:20).",
+          "pt": "João declara que o Verbo da vida — que existia desde a eternidade — foi visto, ouvido e apalpado pelos apóstolos (1Jo 1:1–2). Veio em carne (1Jo 4:2), morreu como propiciação pelos pecados (1Jo 2:2), foi enviado pelo Pai em amor para que vivamos por meio dele (1Jo 4:9) e ressuscitou para ser o Advogado dos crentes junto ao Pai (1Jo 2:1). Manifestou-se para destruir as obras do diabo (1Jo 3:8) e para que os crentes possuam vida eterna em sua pessoa (1Jo 5:11–12). A carta conclui afirmando que ele é o Deus verdadeiro e a vida eterna (1Jo 5:20)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Jn 1:1",
+          "1Jn 2:1",
+          "1Jn 2:2",
+          "1Jn 3:5",
+          "1Jn 3:8",
+          "1Jn 4:2",
+          "1Jn 4:9",
+          "1Jn 5:11",
+          "1Jn 5:20"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La existencia histórica de Jesús de Nazaret está atestiguada fuera del canon cristiano por Tácito (Anales 15.44: ejecución bajo Poncio Pilato, ca. 30–33 d.C.) y por Josefo (Antigüedades 18.3.3, el Testimonium Flavianum, cuya forma actual incluye interpolaciones cristianas pero cuyo núcleo se considera auténtico por la mayoría de los historiadores). La ejecución romana en Judea bajo Pilato (26–36 d.C.) corresponde plenamente con los datos del relato joánico. La resurrección es afirmada por los apóstoles como testimonio ocular y es el hecho fundante de toda la proclamación apostólica.",
+          "en": "The historical existence of Jesus of Nazareth is attested outside the Christian canon by Tacitus (Annals 15.44: execution under Pontius Pilate, ca. AD 30–33) and by Josephus (Antiquities 18.3.3, the Testimonium Flavianum, whose current form includes Christian interpolations but whose core is considered authentic by most historians). The Roman execution in Judea under Pilate (AD 26–36) fully corresponds with the data of the Johannine account. The resurrection is affirmed by the apostles as eyewitness testimony and is the founding fact of all apostolic proclamation.",
+          "pt": "A existência histórica de Jesus de Nazaré está atestada fora do cânon cristão por Tácito (Anais 15.44: execução sob Pôncio Pilatos, ca. 30–33 d.C.) e por Josefo (Antiguidades 18.3.3, o Testimonium Flavianum, cuja forma atual inclui interpolações cristãs, mas cujo núcleo é considerado autêntico pela maioria dos historiadores). A execução romana na Judeia sob Pilatos (26–36 d.C.) corresponde plenamente com os dados do relato joanino. A ressurreição é afirmada pelos apóstolos como testemunho ocular e é o fato fundante de toda a proclamação apostólica."
+        },
+        "fuentes": [
+          {
+            "titulo": "Annals",
+            "autor": "Cornelius Tacitus",
+            "año": 117,
+            "editorial": "Classical Latin source",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "contextoHistorico"
+            ]
+          },
+          {
+            "titulo": "Antiquities of the Jews",
+            "autor": "Flavius Josephus",
+            "año": 93,
+            "editorial": "Classical source",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Los datos externos (ejecución bajo Pilato, en Judea, bajo Tiberio) concuerdan plenamente con la cronología implícita del ministerio apostólico que Juan presupone. La insistencia de Juan en el testimonio ocular ('lo que hemos visto', 1Jn 1:1) es internamente coherente con el relato de un autor que reclama haber conocido a Jesús personalmente.",
+          "en": "The external data (execution under Pilate, in Judea, under Tiberius) fully agrees with the implied chronology of the apostolic ministry that John presupposes. John's insistence on eyewitness testimony ('what we have seen,' 1John 1:1) is internally coherent with the account of an author who claims to have known Jesus personally.",
+          "pt": "Os dados externos (execução sob Pilatos, na Judeia, sob Tibério) concordam plenamente com a cronologia implícita do ministério apostólico que João pressupõe. A insistência de João no testemunho ocular ('o que vimos', 1Jo 1:1) é internamente coerente com o relato de um autor que reivindica ter conhecido Jesus pessoalmente."
+        }
+      },
+      "versiculosAsociados": [
+        "1Jn 1:1",
+        "1Jn 1:2",
+        "1Jn 2:1",
+        "1Jn 2:2",
+        "1Jn 3:5",
+        "1Jn 3:8",
+        "1Jn 4:2",
+        "1Jn 4:9",
+        "1Jn 5:11",
+        "1Jn 5:20"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mc",
+        "Lc",
+        "Jn",
+        "Hch",
+        "Ro",
+        "1Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "He",
+        "1P",
+        "2P",
+        "2Jn",
+        "3Jn",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "En el Cuarto Evangelio, Juan describe la encarnación del Verbo en términos cósmicos (Jn 1:1–14) y presenta el ministerio, señales, pasión y resurrección de Jesús. En el Apocalipsis (Ap 1:5; 5:6–14; 19:11–16), Cristo aparece como el Señor resucitado que juzgará al mundo. En 1 Juan, estas dimensiones se aplican pastoralmente: la encarnación que el Evangelio declara se convierte en el criterio de discernimiento doctrinal, y la victoria que el Apocalipsis anuncia se convierte en el fundamento de la certeza del creyente.",
+        "en": "In the Fourth Gospel, John describes the incarnation of the Word in cosmic terms (John 1:1–14) and presents the ministry, signs, passion, and resurrection of Jesus. In Revelation (Rev 1:5; 5:6–14; 19:11–16), Christ appears as the risen Lord who will judge the world. In 1 John, these dimensions are applied pastorally: the incarnation that the Gospel declares becomes the criterion of doctrinal discernment, and the victory that Revelation announces becomes the foundation of the believer's assurance.",
+        "pt": "No Quarto Evangelho, João descreve a encarnação do Verbo em termos cósmicos (Jo 1:1–14) e apresenta o ministério, sinais, paixão e ressurreição de Jesus. No Apocalipse (Ap 1:5; 5:6–14; 19:11–16), Cristo aparece como o Senhor ressuscitado que julgará o mundo. Em 1 João, essas dimensões são aplicadas pastoralmente: a encarnação que o Evangelho declara torna-se o critério de discernimento doutrinário, e a vitória que o Apocalipse anuncia torna-se o fundamento da certeza do crente."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los Anticristos (Falsos Maestros)",
+        "en": "The Antichrists (False Teachers)",
+        "pt": "Os Anticristos (Falsos Mestres)"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        2,
+        4
+      ],
+      "descripcion": {
+        "es": "Maestros anónimos que pertenecieron a la comunidad joánica pero la abandonaron voluntariamente (1Jn 2:19), señal para Juan de que nunca fueron verdaderamente parte de ella. Negaban que Jesús es el Cristo (1Jn 2:22) y que el Verbo vino en carne (1Jn 4:2–3), probablemente separando al Jesús histórico del Cristo divino.",
+        "en": "Anonymous teachers who belonged to the Johannine community but voluntarily left it (1John 2:19), a sign for John that they were never truly part of it. They denied that Jesus is the Christ (1John 2:22) and that the Word came in the flesh (1John 4:2–3), probably separating the historical Jesus from the divine Christ.",
+        "pt": "Mestres anônimos que pertenceram à comunidade joanina, mas a abandonaram voluntariamente (1Jo 2:19), sinal para João de que nunca foram verdadeiramente parte dela. Negavam que Jesus é o Cristo (1Jo 2:22) e que o Verbo veio em carne (1Jo 4:2–3), provavelmente separando o Jesus histórico do Cristo divino."
+      },
+      "acciones": {
+        "es": "Se separaron de la comunidad (1Jn 2:19); negaron la identidad de Jesús como el Cristo (1Jn 2:22); afirmaron conocer a Dios mientras desobedecían sus mandamientos (1Jn 2:4); reclamaban no tener pecado (1Jn 1:8–10); difundieron su enseñanza entre las iglesias (1Jn 4:1); y según el espíritu que los guiaba, promovían un sistema doctrinal que disolvía la encarnación del Hijo de Dios (1Jn 4:3).",
+        "en": "They separated from the community (1John 2:19); denied Jesus's identity as the Christ (1John 2:22); claimed to know God while disobeying his commandments (1John 2:4); claimed to be without sin (1John 1:8–10); spread their teaching among the churches (1John 4:1); and through the spirit guiding them, promoted a doctrinal system that dissolved the incarnation of the Son of God (1John 4:3).",
+        "pt": "Separaram-se da comunidade (1Jo 2:19); negaram a identidade de Jesus como o Cristo (1Jo 2:22); afirmaram conhecer a Deus enquanto desobedeciam seus mandamentos (1Jo 2:4); reivindicavam não ter pecado (1Jo 1:8–10); difundiram seu ensino pelas igrejas (1Jo 4:1); e, segundo o espírito que os guiava, promoviam um sistema doutrinário que dissolvia a encarnação do Filho de Deus (1Jo 4:3)."
+      },
+      "significadoTeologico": {
+        "es": "Los anticristos ejemplifican que la herejía es tanto intelectual como moral y relacional: negaban la encarnación (error doctrinal), reclamaban conocimiento de Dios sin obediencia (error ético) y mostraban desinterés por los hermanos necesitados (error relacional). Su existencia en la 'última hora' (1Jn 2:18) es señal escatológica de que el espíritu del anticristo ya opera en el mundo, anticipando al anticristo final (Ap 13).",
+        "en": "The antichrists exemplify that heresy is simultaneously intellectual, moral, and relational: they denied the incarnation (doctrinal error), claimed knowledge of God without obedience (ethical error), and showed disregard for needy brothers (relational error). Their existence in 'the last hour' (1John 2:18) is an eschatological sign that the spirit of antichrist is already operating in the world, anticipating the final antichrist (Rev 13).",
+        "pt": "Os anticristos exemplificam que a heresia é simultaneamente intelectual, moral e relacional: negavam a encarnação (erro doutrinário), reivindicavam conhecimento de Deus sem obediência (erro ético) e demonstravam desinteresse pelos irmãos necessitados (erro relacional). Sua existência na 'última hora' (1Jo 2:18) é sinal escatológico de que o espírito do anticristo já opera no mundo, antecipando o anticristo final (Ap 13)."
+      },
+      "tipo": {
+        "es": "No funcionan como tipo de Cristo sino como antitipos negativos: representan al espíritu del anticristo que se opone a la obra de Cristo en el mundo (1Jn 4:3), anticipando tipológicamente la manifestación final del engaño escatológico (Ap 13; 2Ts 2:3–10).",
+        "en": "They do not function as types of Christ but as negative antitypes: they represent the spirit of antichrist that opposes Christ's work in the world (1John 4:3), typologically anticipating the final manifestation of eschatological deception (Rev 13; 2Thess 2:3–10).",
+        "pt": "Não funcionam como tipos de Cristo, mas como antitipos negativos: representam o espírito do anticristo que se opõe à obra de Cristo no mundo (1Jo 4:3), antecipando tipologicamente a manifestação final do engano escatológico (Ap 13; 2Ts 2:3–10)."
+      },
+      "caracterMoral": {
+        "es": "Se caracterizan por el engaño (1Jn 2:26), la mentira (1Jn 2:22: 'mentiroso es el que niega'), el rechazo a la obediencia (1Jn 2:4) y la falta de amor fraternal, evidenciada por su separación voluntaria de la comunidad. Su estilo de vida refleja el 'mundo' que pasa con sus deseos (1Jn 2:17).",
+        "en": "They are characterized by deception (1John 2:26), falsehood (1John 2:22: 'he is the liar who denies'), rejection of obedience (1John 2:4), and lack of fraternal love, evidenced by their voluntary separation from the community. Their way of life reflects 'the world' that is passing away with its desires (1John 2:17).",
+        "pt": "Caracterizam-se pelo engano (1Jo 2:26), pela mentira (1Jo 2:22: 'mentiroso é aquele que nega'), pela rejeição à obediência (1Jo 2:4) e pela falta de amor fraternal, evidenciada por sua separação voluntária da comunidade. Seu estilo de vida reflete o 'mundo' que passa com as suas concupiscências (1Jo 2:17)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Son descritos como 'anticristos' (1Jn 2:18) que 'salieron de nosotros, pero no eran de nosotros' (1Jn 2:19). Niegan que Jesús es el Cristo (1Jn 2:22), no confiesan que Jesucristo ha venido en carne (1Jn 4:2–3) y no permanecen en la enseñanza apostólica. Juan los identifica como portadores del 'espíritu del anticristo' (1Jn 4:3) que ya está en el mundo y los contrasta con los creyentes verdaderos que tienen la unción del Espíritu Santo (1Jn 2:20,27).",
+          "en": "They are described as 'antichrists' (1John 2:18) who 'went out from us, but they were not of us' (1John 2:19). They deny that Jesus is the Christ (1John 2:22), do not confess that Jesus Christ has come in the flesh (1John 4:2–3), and do not abide in the apostolic teaching. John identifies them as bearers of 'the spirit of antichrist' (1John 4:3) that is already in the world and contrasts them with true believers who have the anointing of the Holy Spirit (1John 2:20,27).",
+          "pt": "São descritos como 'anticristos' (1Jo 2:18) que 'saíram de nós, mas não eram de nós' (1Jo 2:19). Negam que Jesus é o Cristo (1Jo 2:22), não confessam que Jesus Cristo veio em carne (1Jo 4:2–3) e não permanecem no ensino apostólico. João os identifica como portadores do 'espírito do anticristo' (1Jo 4:3) que já está no mundo e os contrasta com os crentes verdadeiros que têm a unção do Espírito Santo (1Jo 2:20,27)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Jn 2:18",
+          "1Jn 2:19",
+          "1Jn 2:22",
+          "1Jn 4:2",
+          "1Jn 4:3"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No se puede identificar a los oponentes de 1 Juan con plena certeza histórica. La hipótesis más sólida históricamente es que representan una forma incipiente del cerintianismo (asociado a Cerinto de Éfeso, contemporáneo de Juan según Ireneo, Adv. Haer. 3.3.4) o de un docetismo más difuso. El cerintianismo separaba al 'Cristo' espiritual del Jesús humano, afirmando que el Cristo descendió sobre Jesús en el bautismo y lo abandonó antes de la crucifixión. Los escritos de Ignacio de Antioquía (ca. 107 d.C.) confirman que el docetismo era una amenaza real en las iglesias de Asia Menor en la generación inmediatamente posterior a Juan.",
+          "en": "The opponents of 1 John cannot be identified with full historical certainty. The historically strongest hypothesis is that they represent an incipient form of Cerinthianism (associated with Cerinthus of Ephesus, John's contemporary according to Irenaeus, Adv. Haer. 3.3.4) or a more diffuse Docetism. Cerinthianism separated the spiritual 'Christ' from the human Jesus, affirming that the Christ descended upon Jesus at baptism and abandoned him before the crucifixion. The writings of Ignatius of Antioch (ca. AD 107) confirm that Docetism was a real threat in Asia Minor churches in the generation immediately after John.",
+          "pt": "Os oponentes de 1 João não podem ser identificados com plena certeza histórica. A hipótese historicamente mais sólida é que representam uma forma incipiente do cerintianismo (associado a Cerinto de Éfeso, contemporâneo de João segundo Ireneu, Adv. Haer. 3.3.4) ou de um docetismo mais difuso. O cerintianismo separava o 'Cristo' espiritual do Jesus humano, afirmando que o Cristo desceu sobre Jesus no batismo e o abandonou antes da crucificação. Os escritos de Inácio de Antioquia (ca. 107 d.C.) confirmam que o docetismo era uma ameaça real nas igrejas da Ásia Menor na geração imediatamente posterior a João."
+        },
+        "fuentes": [
+          {
+            "titulo": "Against Heresies (Adversus Haereses)",
+            "autor": "Irenaeus of Lyons",
+            "año": 180,
+            "editorial": "Classical patristic source",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "controversiasHistoricas"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La descripción de los oponentes en 1 Juan es coherente con lo que los padres apostólicos y Ireneo reportan del cerintianismo y el docetismo: negación de la identidad del Jesús histórico con el Cristo, rechazo de la plena encarnación y tendencias antinomistas. La afirmación de Juan de que 'salieron de nosotros' (1Jn 2:19) concuerda con el patrón histórico de maestros carismáticos que buscaban seguidores al separarse de las comunidades establecidas.",
+          "en": "The description of the opponents in 1 John is consistent with what the apostolic fathers and Irenaeus report of Cerinthianism and Docetism: denial of the identity of the historical Jesus with the Christ, rejection of the full incarnation, and antinomian tendencies. John's affirmation that 'they went out from us' (1John 2:19) agrees with the historical pattern of charismatic teachers who sought followers upon separating from established communities.",
+          "pt": "A descrição dos oponentes em 1 João é coerente com o que os pais apostólicos e Ireneu relatam do cerintianismo e do docetismo: negação da identidade do Jesus histórico com o Cristo, rejeição da plena encarnação e tendências antinomistas. A afirmação de João de que 'saíram de nós' (1Jo 2:19) concorda com o padrão histórico de mestres carismáticos que buscavam seguidores ao se separar das comunidades estabelecidas."
+        }
+      },
+      "versiculosAsociados": [
+        "1Jn 2:18",
+        "1Jn 2:19",
+        "1Jn 2:22",
+        "1Jn 2:26",
+        "1Jn 4:1",
+        "1Jn 4:2",
+        "1Jn 4:3",
+        "1Jn 4:6"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2Jn",
+        "Jud",
+        "2P",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Maestros análogos aparecen en 2 Juan (v. 7: 'muchos engañadores han salido al mundo, los que no confiesan que Jesucristo ha venido en carne'), en Judas (v. 4: 'ciertos hombres... han entrado encubiertamente') y en 2 Pedro (2P 2:1: 'falsos profetas... introducirán herejías destructoras'). El Apocalipsis alude a sus análogos en las cartas a las siete iglesias (Nicolaítas, Jezabel, la sinagoga de Satanás).",
+        "en": "Analogous teachers appear in 2 John (v. 7: 'many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh'), in Jude (v. 4: 'certain people... have crept in unnoticed'), and in 2 Peter (2Pet 2:1: 'false prophets... will secretly bring in destructive heresies'). Revelation alludes to their analogues in the letters to the seven churches (Nicolaitans, Jezebel, the synagogue of Satan).",
+        "pt": "Mestres análogos aparecem em 2 João (v. 7: 'muitos enganadores têm saído pelo mundo fora, os que não confessam que Jesus Cristo veio em carne'), em Judas (v. 4: 'certos homens... introduziram-se sub-repticiamente') e em 2 Pedro (2Pe 2:1: 'falsos profetas... introduzirão heresias destruidoras'). O Apocalipse alude a seus análogos nas cartas às sete igrejas (Nicolaítas, Jezabel, a sinagoga de Satanás)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Juan el Apóstol",
+        "en": "John the Apostle",
+        "pt": "João o Apóstolo"
+      },
+      "hebreo": "Ἰωάννης",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "descripcion": {
+        "es": "Hijo de Zebedeo y Salomé, hermano de Santiago, pescador de Galilea y uno de los tres apóstoles del círculo más íntimo de Jesús. En 1 Juan se presenta como el portavoz del testimonio apostólico ocular ('nosotros hemos visto y testificamos', 1Jn 4:14) y como pastor que escribe a sus 'hijos amados' para asegurarlos en la fe (1Jn 2:1; 5:13).",
+        "en": "Son of Zebedee and Salome, brother of James, a fisherman from Galilee and one of the three apostles in Jesus's innermost circle. In 1 John he presents himself as the spokesperson of apostolic eyewitness testimony ('we have seen and testify,' 1John 4:14) and as a pastor writing to his 'beloved children' to assure them in the faith (1John 2:1; 5:13).",
+        "pt": "Filho de Zebedeu e Salomé, irmão de Tiago, pescador da Galileia e um dos três apóstolos do círculo mais íntimo de Jesus. Em 1 João apresenta-se como o porta-voz do testemunho apostólico ocular ('nós vimos e testificamos', 1Jo 4:14) e como pastor que escreve a seus 'filhinhos' para assegurá-los na fé (1Jo 2:1; 5:13)."
+      },
+      "acciones": {
+        "es": "Fue testigo ocular del ministerio de Cristo (1Jn 1:1–4); anuncia el mensaje apostólico de la luz y el amor de Dios; advierte contra los anticristos (1Jn 2:18–27); exhorta al amor fraternal como evidencia de la vida eterna (1Jn 3:14–18); y concluye la carta con garantías de la certeza de la salvación para los creyentes genuinos (1Jn 5:13).",
+        "en": "He was an eyewitness of Christ's ministry (1John 1:1–4); proclaims the apostolic message of God's light and love; warns against the antichrists (1John 2:18–27); exhorts fraternal love as evidence of eternal life (1John 3:14–18); and closes the letter with assurances of the certainty of salvation for genuine believers (1John 5:13).",
+        "pt": "Foi testemunha ocular do ministério de Cristo (1Jo 1:1–4); proclama a mensagem apostólica da luz e do amor de Deus; adverte contra os anticristos (1Jo 2:18–27); exorta ao amor fraternal como evidência da vida eterna (1Jo 3:14–18); e conclui a carta com garantias da certeza da salvação para os crentes genuínos (1Jo 5:13)."
+      },
+      "significadoTeologico": {
+        "es": "Juan encarna en 1 Juan la función apostólica de custodio y transmisor del depósito de la fe (1Jn 1:1–4): lo que fue visto y oído en la historia —la encarnación del Verbo— debe ser proclamado fiel e íntegramente a cada nueva generación. Su autoridad pastoral no se funda en rango jerárquico sino en el testimonio ocular y apostólico del que fue objeto.",
+        "en": "John embodies in 1 John the apostolic function of guardian and transmitter of the deposit of the faith (1John 1:1–4): what was seen and heard in history — the incarnation of the Word — must be proclaimed faithfully and completely to each new generation. His pastoral authority is grounded not in hierarchical rank but in the eyewitness and apostolic testimony to which he was a party.",
+        "pt": "João encarna em 1 João a função apostólica de guardião e transmissor do depósito da fé (1Jo 1:1–4): o que foi visto e ouvido na história — a encarnação do Verbo — deve ser proclamado fielmente e integralmente a cada nova geração. Sua autoridade pastoral não se fundamenta em hierarquia, mas no testemunho ocular e apostólico do qual foi parte."
+      },
+      "tipo": {
+        "es": "Juan no funciona como tipo de Cristo. Actúa como el apóstol-testigo que garantiza la continuidad entre el Cristo histórico y el mensaje proclamado a la comunidad, análogamente a la función que Moisés cumplía como mediador del testimonio del Sinaí, aunque en superioridad infinita dado el carácter definitivo de la revelación apostólica.",
+        "en": "John does not function as a type of Christ. He acts as the apostle-witness who guarantees the continuity between the historical Christ and the message proclaimed to the community, analogously to the function Moses played as mediator of the Sinai testimony, though in infinite superiority given the definitive character of apostolic revelation.",
+        "pt": "João não funciona como tipo de Cristo. Atua como o apóstolo-testemunha que garante a continuidade entre o Cristo histórico e a mensagem proclamada à comunidade, analogamente à função que Moisés cumpria como mediador do testemunho do Sinai, embora em superioridade infinita dado o caráter definitivo da revelação apostólica."
+      },
+      "caracterMoral": {
+        "es": "Juan se presenta con la autoridad y el calor pastoral del anciano (presbuterōs) que llama a sus destinatarios 'hijitos' (teknia, 1Jn 2:1). Exhibe urgencia doctrinal frente a la herejía, firmeza en la verdad revelada y profunda preocupación por el bienestar espiritual y la certeza de la comunidad.",
+        "en": "John presents himself with the authority and pastoral warmth of the elder (presbuteros) who calls his recipients 'little children' (teknia, 1John 2:1). He exhibits doctrinal urgency in the face of heresy, firmness in revealed truth, and deep concern for the community's spiritual well-being and assurance.",
+        "pt": "João apresenta-se com a autoridade e o calor pastoral do ancião (presbyteros) que chama seus destinatários de 'filhinhos' (teknia, 1Jo 2:1). Exibe urgência doutrinária diante da heresia, firmeza na verdade revelada e profunda preocupação pelo bem-estar espiritual e pela certeza da comunidade."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Aunque Juan no se nombra explícitamente en 1 Juan, el 'nosotros' apostólico de 1Jn 1:1–4 lo presenta como portavoz del grupo de testigos oculares que vieron, oyeron y palparon al Verbo de vida. Su autoridad pastoral aparece en las fórmulas 'les escribo' y 'les escribo estas cosas' (1Jn 2:1,7,8,12–14,21,26; 5:13), que estructuran la carta y demuestran una voz pastoral única y reconocida.",
+          "en": "Although John is not named explicitly in 1 John, the apostolic 'we' of 1John 1:1–4 presents him as the spokesperson of the group of eyewitnesses who saw, heard, and touched the Word of life. His pastoral authority appears in the formulas 'I am writing to you' and 'I write these things to you' (1John 2:1,7,8,12–14,21,26; 5:13), which structure the letter and demonstrate a unique, recognized pastoral voice.",
+          "pt": "Embora João não seja nomeado explicitamente em 1 João, o 'nós' apostólico de 1Jo 1:1–4 o apresenta como porta-voz do grupo de testemunhas oculares que viram, ouviram e apalparam o Verbo da vida. Sua autoridade pastoral aparece nas fórmulas 'escrevo-vos' e 'escrevi-vos estas coisas' (1Jo 2:1,7,8,12–14,21,26; 5:13), que estruturam a carta e demonstram uma voz pastoral única e reconhecida."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1Jn 1:1",
+          "1Jn 1:4",
+          "1Jn 2:1",
+          "1Jn 4:14",
+          "1Jn 5:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Juan ben Zebedeo, pescador de Betsaida/Galilea, fue llamado por Jesús junto con su hermano Santiago (Mc 1:19–20). Formó parte del círculo íntimo (Pedro, Santiago, Juan) que presenció la Transfiguración y la agonía en Getsemaní (Mc 9:2; 14:33). Estuvo presente en la crucifixión (Jn 19:26–27) y fue uno de los primeros testigos del sepulcro vacío (Jn 20:1–10). Se convirtió en pilar de la iglesia de Jerusalén junto con Pedro y Santiago el Hermano del Señor (Gá 2:9). Según Ireneo (Adv. Haer. 2.22.5; 3.1.1), Juan vivió en Éfeso hasta el reinado de Trajano (98–117 d.C.) y fue el único apóstol que no murió mártir. Su discípulo Policarpo de Esmirna fue a su vez maestro de Ireneo, estableciendo una cadena de transmisión directa que la historiografía eclesiástica considera sólida.",
+          "en": "John son of Zebedee, a fisherman from Bethsaida/Galilee, was called by Jesus along with his brother James (Mark 1:19–20). He was part of the inner circle (Peter, James, John) that witnessed the Transfiguration and the agony in Gethsemane (Mark 9:2; 14:33). He was present at the crucifixion (John 19:26–27) and was one of the first witnesses of the empty tomb (John 20:1–10). He became a pillar of the Jerusalem church along with Peter and James the Lord's Brother (Gal 2:9). According to Irenaeus (Adv. Haer. 2.22.5; 3.1.1), John lived in Ephesus until the reign of Trajan (AD 98–117) and was the only apostle who did not die as a martyr. His disciple Polycarp of Smyrna was in turn the teacher of Irenaeus, establishing a direct chain of transmission that ecclesiastical historiography considers solid.",
+          "pt": "João filho de Zebedeu, pescador de Betsaida/Galileia, foi chamado por Jesus juntamente com seu irmão Tiago (Mc 1:19–20). Fez parte do círculo íntimo (Pedro, Tiago, João) que testemunhou a Transfiguração e a agonia em Getsêmani (Mc 9:2; 14:33). Esteve presente na crucificação (Jo 19:26–27) e foi uma das primeiras testemunhas do sepulcro vazio (Jo 20:1–10). Tornou-se pilar da igreja de Jerusalém junto com Pedro e Tiago, o Irmão do Senhor (Gl 2:9). Segundo Ireneu (Adv. Haer. 2.22.5; 3.1.1), João viveu em Éfeso até o reinado de Trajano (98–117 d.C.) e foi o único apóstolo que não morreu mártir. Seu discípulo Policarpo de Esmirna foi por sua vez mestre de Ireneu, estabelecendo uma cadeia de transmissão direta que a historiografia eclesiástica considera sólida."
+        },
+        "fuentes": [
+          {
+            "titulo": "Against Heresies (Adversus Haereses)",
+            "autor": "Irenaeus of Lyons",
+            "año": 180,
+            "editorial": "Classical patristic source",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "autor"
+            ]
+          },
+          {
+            "titulo": "Ecclesiastical History",
+            "autor": "Eusebius of Caesarea",
+            "año": 313,
+            "editorial": "Classical patristic source",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "autor"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La afirmación del testimonio ocular en 1Jn 1:1–4 concuerda con los datos históricos: si Juan escribió desde Éfeso en la década de 80–90 d.C., habría sido testigo ocular del ministerio de Jesús unos 50–60 años antes, lo cual es histórica y biológicamente plausible. La cadena Policarpo–Ireneo que reporta el ministerio efesino de Juan es lo suficientemente cercana al evento como para merecer credibilidad histórica seria.",
+          "en": "The eyewitness claim in 1John 1:1–4 agrees with the historical data: if John wrote from Ephesus in the AD 80–90s, he would have been an eyewitness of Jesus's ministry some 50–60 years earlier, which is historically and biologically plausible. The Polycarp-Irenaeus chain reporting John's Ephesian ministry is close enough to the event to deserve serious historical credibility.",
+          "pt": "A afirmação do testemunho ocular em 1Jo 1:1–4 concorda com os dados históricos: se João escreveu de Éfeso na década de 80–90 d.C., teria sido testemunha ocular do ministério de Jesus cerca de 50–60 anos antes, o que é histórica e biologicamente plausível. A cadeia Policarpo–Ireneu que relata o ministério efesino de João está suficientemente próxima do evento para merecer credibilidade histórica séria."
+        }
+      },
+      "versiculosAsociados": [
+        "1Jn 1:1",
+        "1Jn 1:3",
+        "1Jn 1:4",
+        "1Jn 2:1",
+        "1Jn 2:7",
+        "1Jn 4:14",
+        "1Jn 5:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mc",
+        "Lc",
+        "Jn",
+        "Hch",
+        "Gá",
+        "Ap",
+        "2Jn",
+        "3Jn"
+      ],
+      "enElNuevoTestamento": {
+        "es": "En el Evangelio de Juan es el discípulo amado (Jn 13:23; 19:26; 20:2; 21:7,20), testigo clave de la pasión, resurrección y apariciones del Señor. En Hechos aparece como compañero de Pedro en la misión inicial de la iglesia (Hch 3–4; 8:14). En Gálatas 2:9 es reconocido como pilar junto con Pedro y Santiago. En el Apocalipsis (Ap 1:1,4,9) figura como el receptor de la visión en Patmos. En 2–3 Juan actúa como 'el anciano' que dirige cartas de doctrina y comunión a iglesias específicas.",
+        "en": "In the Gospel of John he is the beloved disciple (John 13:23; 19:26; 20:2; 21:7,20), a key witness of the passion, resurrection, and appearances of the Lord. In Acts he appears as Peter's companion in the church's initial mission (Acts 3–4; 8:14). In Galatians 2:9 he is recognized as a pillar alongside Peter and James. In Revelation (Rev 1:1,4,9) he appears as the recipient of the vision on Patmos. In 2–3 John he acts as 'the elder' directing letters on doctrine and communion to specific churches.",
+        "pt": "No Evangelho de João é o discípulo amado (Jo 13:23; 19:26; 20:2; 21:7,20), testemunha-chave da paixão, ressurreição e aparições do Senhor. Em Atos aparece como companheiro de Pedro na missão inicial da igreja (At 3–4; 8:14). Em Gálatas 2:9 é reconhecido como pilar junto com Pedro e Tiago. No Apocalipse (Ap 1:1,4,9) figura como o receptor da visão em Patmos. Em 2–3 João atua como 'o ancião' que dirige cartas de doutrina e comunhão a igrejas específicas."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "Primera de Juan es el documento bíblico más explícito en afirmar la encarnación del Verbo eterno como eje de toda la fe cristiana. El Verbo que existía 'desde el principio' se hizo perceptible a los sentidos —visto, oído, palpado (1Jn 1:1–2)—, confutando todo intento de espiritualizar o disolver la humanidad real de Cristo. La confesión de que 'Jesucristo ha venido en carne' es la prueba cristológica decisiva para discernir los espíritus (1Jn 4:2), y la carta termina con la declaración más alta del NT fuera del Evangelio de Juan: Jesucristo es 'el Dios verdadero y la vida eterna' (1Jn 5:20).",
+        "en": "First John is the most explicit biblical document in affirming the incarnation of the eternal Word as the axis of all Christian faith. The Word who existed 'from the beginning' became perceptible to the senses — seen, heard, touched (1John 1:1–2) — confuting every attempt to spiritualize or dissolve the real humanity of Christ. The confession that 'Jesus Christ has come in the flesh' is the decisive Christological test for discerning the spirits (1John 4:2), and the letter ends with the highest statement in the NT outside the Gospel of John: Jesus Christ is 'the true God and eternal life' (1John 5:20).",
+        "pt": "Primeira de João é o documento bíblico mais explícito em afirmar a encarnação do Verbo eterno como eixo de toda a fé cristã. O Verbo que existia 'desde o princípio' tornou-se perceptível aos sentidos — visto, ouvido, apalpado (1Jo 1:1–2) —, refutando toda tentativa de espiritualizar ou dissolver a humanidade real de Cristo. A confissão de que 'Jesus Cristo veio em carne' é a prova cristológica decisiva para discernir os espíritos (1Jo 4:2), e a carta termina com a declaração mais elevada do NT fora do Evangelho de João: Jesus Cristo é 'o Deus verdadeiro e a vida eterna' (1Jo 5:20)."
+      },
+      "pasajes": [
+        "1Jn 1:1",
+        "1Jn 1:2",
+        "1Jn 4:2",
+        "1Jn 4:15",
+        "1Jn 5:1",
+        "1Jn 5:20"
+      ],
+      "ensenanza": {
+        "es": "El Verbo existía desde la eternidad y se manifestó en la historia · La vida eterna se hizo visible en la persona del Hijo · Confesar la encarnación es la prueba del Espíritu de Dios · Quien confiesa que Jesús es el Hijo de Dios permanece en Dios · La fe que vence al mundo es creer que Jesús es el Hijo de Dios · El Hijo encarnado es el Dios verdadero y la vida eterna",
+        "en": "The Word existed from eternity and was manifested in history · Eternal life became visible in the person of the Son · Confessing the incarnation is the test of the Spirit of God · Whoever confesses that Jesus is the Son of God abides in God · The faith that overcomes the world is believing that Jesus is the Son of God · The incarnate Son is the true God and eternal life",
+        "pt": "O Verbo existia desde a eternidade e se manifestou na história · A vida eterna tornou-se visível na pessoa do Filho · Confessar a encarnação é a prova do Espírito de Deus · Quem confessa que Jesus é o Filho de Deus permanece em Deus · A fé que vence o mundo é crer que Jesus é o Filho de Deus · O Filho encarnado é o Deus verdadeiro e a vida eterna"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, siguiendo a Calcedonia (451 d.C.) y la Confesión de Westminster (cap. 8), afirma que Cristo es una sola persona en dos naturalezas —plenamente divina y plenamente humana, sin mezcla ni confusión—. La insistencia de Juan en la encarnación física y verificable históricamente (1Jn 1:1–2) es, para el calvinismo, el fundamento de que la propiciación fue objetivamente real y eficaz: solo el Dios-Hombre podía satisfacer la justicia divina a favor de los escogidos.",
+        "en": "The Reformed tradition, following Chalcedon (AD 451) and the Westminster Confession (ch. 8), affirms that Christ is one person in two natures — fully divine and fully human, without mixture or confusion. John's insistence on the physically and historically verifiable incarnation (1John 1:1–2) is, for Calvinism, the foundation for the objective reality and efficacy of the propitiation: only the God-Man could satisfy divine justice on behalf of the elect.",
+        "pt": "A tradição reformada, seguindo Calcedônia (451 d.C.) e a Confissão de Westminster (cap. 8), afirma que Cristo é uma só pessoa em duas naturezas — plenamente divina e plenamente humana, sem mistura nem confusão. A insistência de João na encarnação física e historicamente verificável (1Jo 1:1–2) é, para o calvinismo, o fundamento de que a propiciação foi objetivamente real e eficaz: somente o Deus-Homem poderia satisfazer a justiça divina a favor dos eleitos."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "Primera de Juan presenta una doctrina del pecado equilibrada entre la gravedad del pecado y la gracia mayor de Dios. El pecado es transgresión de la ley (1Jn 3:4) y su origen está en el diablo (1Jn 3:8), no en la materia (contra el gnosticismo). La carta rechaza dos extremos igualmente peligrosos: afirmar que el cristiano no puede pecar (perfectismo, 1Jn 1:8) y concluir que el creyente verdadero puede vivir habitual e inconfesadamente en el pecado (antinomismo, 1Jn 3:6–9). La provisión de Dios para el pecado del creyente es la confesión (1Jn 1:9) y el ministerio intercesor y propiciatorio de Cristo (1Jn 2:1–2).",
+        "en": "First John presents a doctrine of sin that is balanced between the gravity of sin and the greater grace of God. Sin is lawlessness (1John 3:4) and its origin is in the devil (1John 3:8), not in matter (against Gnosticism). The letter rejects two equally dangerous extremes: affirming that the Christian cannot sin (perfectionism, 1John 1:8) and concluding that the true believer can habitually and unrepentantly live in sin (antinomianism, 1John 3:6–9). God's provision for the believer's sin is confession (1John 1:9) and Christ's intercessory and propitiatory ministry (1John 2:1–2).",
+        "pt": "Primeira de João apresenta uma doutrina do pecado equilibrada entre a gravidade do pecado e a graça maior de Deus. O pecado é transgressão da lei (1Jo 3:4) e sua origem está no diabo (1Jo 3:8), não na matéria (contra o gnosticismo). A carta rejeita dois extremos igualmente perigosos: afirmar que o cristão não pode pecar (perfeccionismo, 1Jo 1:8) e concluir que o crente verdadeiro pode viver habitual e impenitentemente no pecado (antinomismo, 1Jo 3:6–9). A provisão de Deus para o pecado do crente é a confissão (1Jo 1:9) e o ministério intercessor e propiciatório de Cristo (1Jo 2:1–2)."
+      },
+      "pasajes": [
+        "1Jn 1:8",
+        "1Jn 1:9",
+        "1Jn 1:10",
+        "1Jn 3:4",
+        "1Jn 3:8"
+      ],
+      "ensenanza": {
+        "es": "Afirmar que no tenemos pecado es engañarse a uno mismo · La confesión de pecado activa la fidelidad y justicia de Dios para perdonar · Negar haber pecado hace a Dios mentiroso · El pecado es esencialmente transgresión de la ley de Dios · El pecado tiene su origen en el diablo, no en la materia creada",
+        "en": "Claiming to have no sin is self-deception · Confessing sin activates God's faithfulness and justice to forgive · Denying that we have sinned makes God a liar · Sin is essentially lawlessness, the transgression of God's law · Sin has its origin in the devil, not in created matter",
+        "pt": "Afirmar que não temos pecado é enganar a si mesmo · A confissão do pecado ativa a fidelidade e a justiça de Deus para perdoar · Negar ter pecado faz de Deus um mentiroso · O pecado é essencialmente transgressão da lei de Deus · O pecado tem sua origem no diabo, não na matéria criada"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada rechaza tanto el perfeccionismo wesleyano (que postula una segunda gracia capaz de erradicar el pecado en esta vida) como el antinomismo (que niega la obligatoriedad moral de la ley para el creyente). Primera de Juan es usada por la teología reformada para mostrar que la depravación total implica que incluso el creyente más maduro necesita confesión continua (1Jn 1:8–10), mientras que la perseverancia de los santos implica que el creyente verdadero no puede practicar el pecado como patrón de vida (1Jn 3:9).",
+        "en": "The Reformed tradition rejects both Wesleyan perfectionism (which posits a second grace capable of eradicating sin in this life) and antinomianism (which denies the moral obligation of the law for the believer). First John is used by Reformed theology to show that total depravity means that even the most mature believer needs continuous confession (1John 1:8–10), while the perseverance of the saints means that the true believer cannot practice sin as a pattern of life (1John 3:9).",
+        "pt": "A tradição reformada rejeita tanto o perfeccionismo wesleyano (que postula uma segunda graça capaz de erradicar o pecado nesta vida) quanto o antinomismo (que nega a obrigatoriedade moral da lei para o crente). Primeira de João é usada pela teologia reformada para mostrar que a depravação total implica que mesmo o crente mais maduro necessita de confissão contínua (1Jo 1:8–10), enquanto a perseverança dos santos implica que o crente verdadeiro não pode praticar o pecado como padrão de vida (1Jo 3:9)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "La soteriología de 1 Juan tiene como centro la propiciación de Cristo (1Jn 2:2; 4:10): Dios el Padre, movido por su amor eterno, envió al Hijo como propiciación que satisface su justa ira contra el pecado y provee el perdón pleno de los creyentes. La vida eterna no es un estado futuro solamente sino una realidad presente poseída en la persona del Hijo (1Jn 5:11–12). La certeza de la salvación —'para que sepan que tienen vida eterna' (1Jn 5:13)— es la meta pastoral explícita de la carta y el fruto de la obra propiciatoria de Cristo.",
+        "en": "The soteriology of 1 John centers on Christ's propitiation (1John 2:2; 4:10): God the Father, moved by his eternal love, sent the Son as the propitiation that satisfies his righteous wrath against sin and provides the complete forgiveness of believers. Eternal life is not only a future state but a present reality possessed in the person of the Son (1John 5:11–12). The assurance of salvation — 'that you may know that you have eternal life' (1John 5:13) — is the letter's explicit pastoral goal and the fruit of Christ's propitiatory work.",
+        "pt": "A soteriologia de 1 João tem como centro a propiciação de Cristo (1Jo 2:2; 4:10): Deus Pai, movido pelo seu amor eterno, enviou o Filho como propiciação que satisfaz a sua ira justa contra o pecado e provê o perdão pleno dos crentes. A vida eterna não é apenas um estado futuro, mas uma realidade presente possuída na pessoa do Filho (1Jo 5:11–12). A certeza da salvação — 'para que saibais que tendes a vida eterna' (1Jo 5:13) — é o objetivo pastoral explícito da carta e o fruto da obra propiciatória de Cristo."
+      },
+      "pasajes": [
+        "1Jn 2:2",
+        "1Jn 4:10",
+        "1Jn 5:11",
+        "1Jn 5:12",
+        "1Jn 5:13"
+      ],
+      "ensenanza": {
+        "es": "Cristo es la propiciación por los pecados de todo el mundo · Dios nos amó primero y envió al Hijo como propiciación · El Padre ha dado vida eterna a los creyentes en la persona del Hijo · Quien tiene al Hijo tiene la vida; quien no tiene al Hijo no tiene la vida · Los creyentes pueden saber con certeza que poseen la vida eterna",
+        "en": "Christ is the propitiation for the sins of the whole world · God loved us first and sent the Son as propitiation · The Father has given eternal life to believers in the person of the Son · Whoever has the Son has life; whoever does not have the Son does not have life · Believers can know with certainty that they possess eternal life",
+        "pt": "Cristo é a propiciação pelos pecados de todo o mundo · Deus nos amou primeiro e enviou o Filho como propiciação · O Pai deu vida eterna aos crentes na pessoa do Filho · Quem tem o Filho tem a vida; quem não tem o Filho não tem a vida · Os crentes podem saber com certeza que possuem a vida eterna"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada interpreta 'propiciación' (hilasmos, 1Jn 2:2) en sentido objetivo: Cristo satisfizo la ira justa de Dios —no meramente la 'alejó' o la dejó sin objeto (expiación moral)—. La cláusula 'no solo por los nuestros sino también por los del mundo entero' es interpretada por la posición reformada, no como redención universal, sino como afirmación de que la propiciación es suficiente para todos, aunque eficaz solo para los creyentes. Primera de Juan es así un texto central para la doctrina de la expiación particular (o redención definitiva).",
+        "en": "Reformed theology interprets 'propitiation' (hilasmos, 1John 2:2) in an objective sense: Christ satisfied God's righteous wrath — he did not merely 'turn it away' or leave it without an object (moral expiation). The clause 'not for ours only but also for the sins of the whole world' is interpreted by the Reformed position not as universal redemption but as an affirmation that the propitiation is sufficient for all, though efficacious only for believers. First John is thus a central text for the doctrine of particular atonement (or definite atonement).",
+        "pt": "A teologia reformada interpreta 'propiciação' (hilasmos, 1Jo 2:2) em sentido objetivo: Cristo satisfez a ira justa de Deus — não apenas a 'afastou' ou a deixou sem objeto (expiação moral). A cláusula 'não somente pelos nossos, mas também pelos de todo o mundo' é interpretada pela posição reformada não como redenção universal, mas como afirmação de que a propiciação é suficiente para todos, embora eficaz apenas para os crentes. Primeira de João é assim um texto central para a doutrina da expiação particular (ou redenção definitiva)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "Primera de Juan es el gran texto neotestamentario sobre las evidencias prácticas de la vida regenerada: el creyente verdadero guarda los mandamientos (1Jn 2:3–6), camina en la luz (1Jn 1:7), practica la justicia (1Jn 3:10), ama a los hermanos (1Jn 3:14–18) y no practica el pecado como estilo de vida (1Jn 3:9). La santificación es presentada como la consecuencia inevitable y verificable de la unión con Cristo ('el que dice que permanece en Él debe andar como Él anduvo', 1Jn 2:6), alimentada por la morada del Espíritu Santo (1Jn 3:24).",
+        "en": "First John is the great New Testament text on the practical evidences of the regenerate life: the true believer keeps the commandments (1John 2:3–6), walks in the light (1John 1:7), practices righteousness (1John 3:10), loves the brethren (1John 3:14–18), and does not practice sin as a way of life (1John 3:9). Sanctification is presented as the inevitable and verifiable consequence of union with Christ ('whoever says he abides in him ought to walk in the same way in which he walked,' 1John 2:6), nourished by the indwelling of the Holy Spirit (1John 3:24).",
+        "pt": "Primeira de João é o grande texto neotestamentário sobre as evidências práticas da vida regenerada: o crente verdadeiro guarda os mandamentos (1Jo 2:3–6), anda na luz (1Jo 1:7), pratica a justiça (1Jo 3:10), ama os irmãos (1Jo 3:14–18) e não pratica o pecado como estilo de vida (1Jo 3:9). A santificação é apresentada como a consequência inevitável e verificável da união com Cristo ('quem diz que nele permanece deve andar como ele andou', 1Jo 2:6), alimentada pela habitação do Espírito Santo (1Jo 3:24)."
+      },
+      "pasajes": [
+        "1Jn 1:7",
+        "1Jn 2:3",
+        "1Jn 2:6",
+        "1Jn 3:3",
+        "1Jn 3:9"
+      ],
+      "ensenanza": {
+        "es": "Caminar en la luz produce comunión entre los creyentes y limpieza por la sangre de Cristo · Guardar los mandamientos es la prueba de que conocemos verdaderamente a Dios · El que permanece en Cristo debe andar como Cristo anduvo · La esperanza de la venida de Cristo motiva la purificación progresiva · El nacido de Dios no puede practicar el pecado como patrón habitual de vida",
+        "en": "Walking in the light produces fellowship among believers and cleansing through Christ's blood · Keeping the commandments is proof that we truly know God · Whoever abides in Christ must walk as Christ walked · The hope of Christ's coming motivates progressive purification · The one born of God cannot practice sin as a habitual pattern of life",
+        "pt": "Andar na luz produz comunhão entre os crentes e purificação pelo sangue de Cristo · Guardar os mandamentos é a prova de que conhecemos verdadeiramente a Deus · Quem permanece em Cristo deve andar como Cristo andou · A esperança da vinda de Cristo motiva a purificação progressiva · O nascido de Deus não pode praticar o pecado como padrão habitual de vida"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada entiende la santificación en 1 Juan como definitiva (en el nuevo nacimiento, 1Jn 3:9), progresiva (la caminata continua en la luz, 1Jn 1:7) y futura (completada en la glorificación, 1Jn 3:2). Las tres 'pruebas' de 1 Juan (doctrinal, ética, relacional) son usadas por la tradición reformada como herramientas para la auto-examinación de la fe verdadera, en línea con la introspección pastoral que Calvino y los puritanos promovían como parte del proceso de santificación.",
+        "en": "Reformed theology understands sanctification in 1 John as definitive (in the new birth, 1John 3:9), progressive (the continual walk in the light, 1John 1:7), and future (completed in glorification, 1John 3:2). The three 'tests' of 1 John (doctrinal, ethical, relational) are used by the Reformed tradition as tools for self-examination of true faith, in line with the pastoral introspection that Calvin and the Puritans promoted as part of the sanctification process.",
+        "pt": "A teologia reformada entende a santificação em 1 João como definitiva (no novo nascimento, 1Jo 3:9), progressiva (a caminhada contínua na luz, 1Jo 1:7) e futura (completada na glorificação, 1Jo 3:2). As três 'provas' de 1 João (doutrinária, ética, relacional) são usadas pela tradição reformada como ferramentas para o auto-exame da fé verdadeira, em consonância com a introspecção pastoral que Calvino e os puritanos promoviam como parte do processo de santificação."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Primera de Juan opera en una tensión escatológica entre el 'ya' y el 'todavía no': los creyentes ya son hijos de Dios (1Jn 3:1–2), ya poseen la vida eterna (1Jn 5:13) y ya han vencido al maligno (1Jn 4:4), pero todavía aguardan la manifestación de lo que serán cuando Cristo se manifieste (1Jn 3:2). La existencia de los anticristos es una señal de que viven en la 'última hora' inaugurada por la primera venida de Cristo (1Jn 2:18). La esperanza escatológica de ver a Cristo tal como Él es (1Jn 3:2) funciona como motor de la purificación progresiva del creyente.",
+        "en": "First John operates in an eschatological tension between the 'already' and 'not yet': believers are already children of God (1John 3:1–2), already possess eternal life (1John 5:13), and have already overcome the evil one (1John 4:4), but they still await the manifestation of what they will be when Christ is manifested (1John 3:2). The existence of antichrists is a sign that they live in 'the last hour' inaugurated by Christ's first coming (1John 2:18). The eschatological hope of seeing Christ as he is (1John 3:2) functions as the engine of the believer's progressive purification.",
+        "pt": "Primeira de João opera em uma tensão escatológica entre o 'já' e o 'ainda não': os crentes já são filhos de Deus (1Jo 3:1–2), já possuem a vida eterna (1Jo 5:13) e já venceram o maligno (1Jo 4:4), mas ainda aguardam a manifestação do que serão quando Cristo se manifestar (1Jo 3:2). A existência dos anticristos é sinal de que vivem na 'última hora' inaugurada pela primeira vinda de Cristo (1Jo 2:18). A esperança escatológica de ver Cristo tal como ele é (1Jo 3:2) funciona como motor da purificação progressiva do crente."
+      },
+      "pasajes": [
+        "1Jn 2:18",
+        "1Jn 3:2",
+        "1Jn 4:4",
+        "1Jn 5:4",
+        "1Jn 5:13"
+      ],
+      "ensenanza": {
+        "es": "La multiplicación de anticristos anuncia que estamos en la última hora · Somos hijos de Dios ahora, pero aún no se ha revelado lo que seremos · Mayor es el que está en los creyentes que el que está en el mundo · La fe es la victoria que vence al mundo · Los creyentes pueden saber ahora que poseen la vida eterna",
+        "en": "The multiplication of antichrists announces that we are in the last hour · We are children of God now, but what we will be has not yet been revealed · Greater is he who is in believers than he who is in the world · Faith is the victory that overcomes the world · Believers can know now that they possess eternal life",
+        "pt": "A multiplicação dos anticristos anuncia que estamos na última hora · Somos filhos de Deus agora, mas o que havemos de ser ainda não foi revelado · Maior é aquele que está nos crentes do que aquele que está no mundo · A fé é a vitória que vence o mundo · Os crentes podem saber agora que possuem a vida eterna"
+      },
+      "distintivaReformada": {
+        "es": "La escatología reformada es inaugurada y amilenial o posimilenial en su mayoría: el reino ya ha sido inaugurado con la primera venida de Cristo, la 'última hora' es toda la era de la iglesia (1Jn 2:18), y los anticristos son una realidad recurrente a lo largo de la historia —no solo una figura futura singular—. Primera de Juan, al declarar que 'ya' hay muchos anticristos, apoya la lectura reformada de que el texto no habla de un único futuro Anticristo sino de una presencia de engaño escatológico que marca toda la era eclesial.",
+        "en": "Reformed eschatology is inaugurated and amillennial or postmillennial in the majority: the kingdom has already been inaugurated with Christ's first coming, 'the last hour' is the entire church age (1John 2:18), and antichrists are a recurring reality throughout history — not merely a singular future figure. First John, by declaring that 'already' there are many antichrists, supports the Reformed reading that the text does not speak of a single future Antichrist but of a presence of eschatological deception that marks the entire ecclesial age.",
+        "pt": "A escatologia reformada é inaugurada e amilenista ou pós-milenista em sua maioria: o reino já foi inaugurado com a primeira vinda de Cristo, a 'última hora' é toda a era da igreja (1Jo 2:18), e os anticristos são uma realidade recorrente ao longo da história — não apenas uma figura futura singular. Primeira de João, ao declarar que 'já' há muitos anticristos, apoia a leitura reformada de que o texto não fala de um único Anticristo futuro, mas de uma presença de engano escatológico que marca toda a era eclesial."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster enseña que el Hijo de Dios, la segunda persona de la Trinidad, asumió la naturaleza humana en las entrañas de la Virgen María, siendo así plenamente Dios y plenamente hombre, una persona con dos naturalezas distintas sin mezcla ni confusión. Este Mediador unipersonal ofreció una obediencia perfecta y sufrió la muerte como sacrificio de propiciación, satisfaciendo la justicia divina y reconciliando a los escogidos con Dios. Primera de Juan fundamenta este capítulo al insistir en la plena encarnación del Verbo (1Jn 1:1–2; 4:2) y en la propiciación como obra objetiva de Cristo (1Jn 2:2).",
+        "en": "The Westminster Confession teaches that the Son of God, the second person of the Trinity, assumed human nature in the womb of the Virgin Mary, thus being fully God and fully man, one person with two distinct natures without mixture or confusion. This unipersonal Mediator offered perfect obedience and suffered death as a sacrifice of propitiation, satisfying divine justice and reconciling the elect to God. First John grounds this chapter by insisting on the full incarnation of the Word (1John 1:1–2; 4:2) and on the propitiation as Christ's objective work (1John 2:2).",
+        "pt": "A Confissão de Westminster ensina que o Filho de Deus, a segunda pessoa da Trindade, assumiu a natureza humana no ventre da Virgem Maria, sendo assim plenamente Deus e plenamente homem, uma pessoa com duas naturezas distintas sem mistura nem confusão. Esse Mediador unipessoal ofereceu obediência perfeita e sofreu a morte como sacrifício de propiciação, satisfazendo a justiça divina e reconciliando os eleitos com Deus. Primeira de João fundamenta este capítulo ao insistir na plena encarnação do Verbo (1Jo 1:1–2; 4:2) e na propiciação como obra objetiva de Cristo (1Jo 2:2)."
+      },
+      "genesis": [
+        "1Jn 1:1",
+        "1Jn 2:2",
+        "1Jn 4:2",
+        "1Jn 5:20"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    },
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Justificación",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que Dios justifica gratuitamente a los creyentes, no por ninguna obra en ellos sino por la imputación de la obediencia activa y pasiva de Cristo. Esta justificación incluye el perdón de los pecados y el ser tenido por justo delante de Dios. En 1 Juan, la fidelidad y justicia de Dios en perdonar a quien confiesa su pecado (1Jn 1:9) refleja exactamente este fundamento: el perdón no descansa en la disposición subjetiva del creyente sino en la justicia objetiva de Dios satisfecha por Cristo, el Justo (1Jn 2:1).",
+        "en": "The Confession teaches that God freely justifies believers, not by anything in them but by the imputation of Christ's active and passive obedience. This justification includes the forgiveness of sins and being reckoned righteous before God. In 1 John, God's faithfulness and justice in forgiving the one who confesses sin (1John 1:9) reflects exactly this foundation: forgiveness rests not on the believer's subjective disposition but on the objective justice of God satisfied by Christ, the Righteous One (1John 2:1).",
+        "pt": "A Confissão ensina que Deus justifica gratuitamente os crentes, não por nada neles, mas pela imputação da obediência ativa e passiva de Cristo. Essa justificação inclui o perdão dos pecados e ser considerado justo diante de Deus. Em 1 João, a fidelidade e a justiça de Deus em perdoar quem confessa seu pecado (1Jo 1:9) reflete exatamente esse fundamento: o perdão não repousa na disposição subjetiva do crente, mas na justiça objetiva de Deus satisfeita por Cristo, o Justo (1Jo 2:1)."
+      },
+      "genesis": [
+        "1Jn 1:9",
+        "1Jn 2:1",
+        "1Jn 2:2"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    },
+    {
+      "cap": "Cap. 13",
+      "titulo": {
+        "es": "De la Santificación",
+        "en": "Of Sanctification",
+        "pt": "Da Santificação"
+      },
+      "doctrinas": [
+        "Santificación",
+        "Eclesiología"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que los efectivamente llamados y regenerados tienen en ellos un principio nuevo de vida y de gracia por el cual son santificados realmente, aunque imperfectamente, a lo largo de toda su vida. En 1 Juan, el creyente es exhortado a caminar como Cristo caminó (1Jn 2:6), purificarse a sí mismo como Él es puro (1Jn 3:3) y guardar sus mandamientos (1Jn 2:3–4). El nuevo nacimiento (1Jn 3:9) garantiza que el creyente no puede persistir en el pecado como patrón de vida —doctrina de la perseverancia de los santos—.",
+        "en": "The Confession teaches that those effectually called and regenerated have in them a new principle of life and grace, by which they are truly though imperfectly sanctified throughout their entire lives. In 1 John, the believer is exhorted to walk as Christ walked (1John 2:6), to purify himself as Christ is pure (1John 3:3), and to keep his commandments (1John 2:3–4). The new birth (1John 3:9) guarantees that the believer cannot persist in sin as a pattern of life — the doctrine of the perseverance of the saints.",
+        "pt": "A Confissão ensina que os eficazmente chamados e regenerados têm neles um novo princípio de vida e graça, pelo qual são verdadeira, embora imperfeitamente, santificados ao longo de toda a sua vida. Em 1 João, o crente é exortado a andar como Cristo andou (1Jo 2:6), a purificar-se a si mesmo como ele é puro (1Jo 3:3) e a guardar os seus mandamentos (1Jo 2:3–4). O novo nascimento (1Jo 3:9) garante que o crente não pode persistir no pecado como padrão de vida — a doutrina da perseverança dos santos."
+      },
+      "genesis": [
+        "1Jn 2:3",
+        "1Jn 2:6",
+        "1Jn 3:3",
+        "1Jn 3:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-13"
+    },
+    {
+      "cap": "Cap. 18",
+      "titulo": {
+        "es": "De la Certeza de la Gracia y la Salvación",
+        "en": "Of the Assurance of Grace and Salvation",
+        "pt": "Da Certeza da Graça e da Salvação"
+      },
+      "doctrinas": [
+        "Soteriología",
+        "Escatología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster enseña que los verdaderos creyentes pueden alcanzar una certeza infalible de su salvación, fundada no en una revelación especial sino en las promesas divinas de salvación, el testimonio interno del Espíritu Santo y el fruto del Espíritu en su vida. Primera de Juan es el texto bíblico más directo de respaldo a esta doctrina: 'Les he escrito estas cosas... para que sepan que tienen vida eterna' (1Jn 5:13). Las tres pruebas de la carta (doctrinal, ética, relacional) son los criterios objetivos que los creyentes usan para examinar su propia fe.",
+        "en": "The Westminster Confession teaches that true believers can attain an infallible assurance of their salvation, grounded not in special revelation but in the divine promises of salvation, the inward testimony of the Holy Spirit, and the fruit of the Spirit in their lives. First John is the most direct biblical text supporting this doctrine: 'I write these things to you... that you may know that you have eternal life' (1John 5:13). The letter's three tests (doctrinal, ethical, relational) are the objective criteria by which believers examine their own faith.",
+        "pt": "A Confissão de Westminster ensina que os crentes verdadeiros podem alcançar uma certeza infalível da sua salvação, fundamentada não em uma revelação especial, mas nas promessas divinas de salvação, no testemunho interno do Espírito Santo e no fruto do Espírito em suas vidas. Primeira de João é o texto bíblico mais direto de respaldo a essa doutrina: 'Escrevi-vos estas coisas... para que saibais que tendes a vida eterna' (1Jo 5:13). As três provas da carta (doutrinária, ética, relacional) são os critérios objetivos pelos quais os crentes examinam a própria fé."
+      },
+      "genesis": [
+        "1Jn 3:14",
+        "1Jn 4:13",
+        "1Jn 5:13"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-18"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "1Jn 1:5",
+      "es": "Este es el mensaje que hemos oído de Él y que les anunciamos: Dios es Luz y en Él no hay ninguna tiniebla.",
+      "en": "This is the message we have heard from him and proclaim to you, that God is light, and in him is no darkness at all.",
+      "pt": "Esta é a mensagem que temos ouvido dele e que vos anunciamos: que Deus é luz e não há nele treva alguma.",
+      "nota": {
+        "es": "La declaración 'Dios es Luz' es una de las dos definiciones de la esencia divina que solo aparecen en 1 Juan (la otra es 'Dios es amor', 1Jn 4:8). Establece la naturaleza moral absoluta de Dios como fundamento de toda la ética y la epistemología cristiana: solo quien camina en la luz tiene comunión real con este Dios. Desde la perspectiva reformada, revela que la santidad de Dios no es un atributo más entre otros sino la atmósfera misma de su ser.",
+        "en": "The declaration 'God is light' is one of the two definitions of the divine essence found only in 1 John (the other being 'God is love,' 1John 4:8). It establishes the absolute moral nature of God as the foundation of all Christian ethics and epistemology: only those who walk in the light have real fellowship with this God. From the Reformed perspective, it reveals that God's holiness is not merely one attribute among others but the very atmosphere of his being.",
+        "pt": "A declaração 'Deus é luz' é uma das duas definições da essência divina encontradas somente em 1 João (a outra é 'Deus é amor', 1Jo 4:8). Estabelece a natureza moral absoluta de Deus como fundamento de toda a ética e epistemologia cristã: somente quem anda na luz tem comunhão real com esse Deus. Da perspectiva reformada, revela que a santidade de Deus não é apenas um atributo entre outros, mas a própria atmosfera do seu ser."
+      }
+    },
+    {
+      "ref": "1Jn 1:9",
+      "es": "Si confesamos nuestros pecados, Él es fiel y justo para perdonarnos los pecados y para limpiarnos de toda maldad.",
+      "en": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+      "pt": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.",
+      "nota": {
+        "es": "Este versículo provee la base objetiva del perdón: no la intensidad de la emoción del creyente al confesar, sino la fidelidad y justicia de Dios como atributos que sustentan su promesa. La 'justicia' de Dios en perdonar remite a la propiciación ya realizada por Cristo (1Jn 2:2): el perdón es justo porque la deuda ya fue pagada. Es el texto reformado cardinal para refutar la penitencia meritoria y fundamentar la confesión como acto de fe, no de mérito.",
+        "en": "This verse provides the objective basis for forgiveness: not the intensity of the believer's emotion in confessing, but the faithfulness and justice of God as attributes that underwrite his promise. God's 'justice' in forgiving points to the propitiation already accomplished by Christ (1John 2:2): forgiveness is just because the debt has already been paid. It is the cardinal Reformed text for refuting meritorious penance and grounding confession as an act of faith, not of merit.",
+        "pt": "Este versículo fornece a base objetiva do perdão: não a intensidade da emoção do crente ao confessar, mas a fidelidade e a justiça de Deus como atributos que sustentam a sua promessa. A 'justiça' de Deus em perdoar remete à propiciação já realizada por Cristo (1Jo 2:2): o perdão é justo porque a dívida já foi paga. É o texto reformado cardinal para refutar a penitência meritória e fundamentar a confissão como ato de fé, não de mérito."
+      }
+    },
+    {
+      "ref": "1Jn 2:2",
+      "es": "y Él mismo es la propiciación por nuestros pecados; y no solo por los nuestros, sino también por los de todo el mundo.",
+      "en": "He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.",
+      "pt": "e ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo.",
+      "nota": {
+        "es": "La palabra griega hilasmos designa el sacrificio que apacigua la ira santa de Dios, no una mera 'expiación' que limpia al pecador sin referencia a la ira divina. La teología reformada distingue suficiencia universal (la obra de Cristo es de valor infinito, suficiente para todo hombre) de eficacia particular (efectivamente aplicada a los escogidos). Este versículo es uno de los textos centrales del debate sobre la extensión de la expiación entre arminianos y calvinistas.",
+        "en": "The Greek word hilasmos designates the sacrifice that appeases God's holy wrath, not a mere 'expiation' that cleanses the sinner without reference to divine wrath. Reformed theology distinguishes universal sufficiency (Christ's work is of infinite value, sufficient for every person) from particular efficacy (effectively applied to the elect). This verse is one of the central texts of the debate over the extent of the atonement between Arminians and Calvinists.",
+        "pt": "A palavra grega hilasmos designa o sacrifício que aplaca a ira santa de Deus, não uma mera 'expiação' que limpa o pecador sem referência à ira divina. A teologia reformada distingue suficiência universal (a obra de Cristo é de valor infinito, suficiente para todo homem) de eficácia particular (efetivamente aplicada aos eleitos). Este versículo é um dos textos centrais do debate sobre a extensão da expiação entre arminianos e calvinistas."
+      }
+    },
+    {
+      "ref": "1Jn 4:8",
+      "es": "El que no ama no conoce a Dios, porque Dios es amor.",
+      "en": "Anyone who does not love does not know God, because God is love.",
+      "pt": "Aquele que não ama não conhece a Deus, porque Deus é amor.",
+      "nota": {
+        "es": "Esta declaración —junto con 'Dios es Luz' (1Jn 1:5)— forma la pareja más concisa de definiciones de la naturaleza divina en toda la Escritura. 'Dios es amor' no equivale a 'el amor es Dios': el amor es una propiedad del carácter de Dios, no una categoría que subsume a Dios. Desde la perspectiva reformada, el amor de Dios es un amor que actúa en su soberanía y en su justicia: Dios nos amó enviando a Cristo como propiciación (1Jn 4:10), no eliminando su ira sino satisfaciéndola.",
+        "en": "This declaration — alongside 'God is light' (1John 1:5) — forms the most concise pair of definitions of the divine nature in all of Scripture. 'God is love' does not mean 'love is God': love is a property of God's character, not a category that subsumes God. From the Reformed perspective, God's love is a love that acts within his sovereignty and his justice: God loved us by sending Christ as propitiation (1John 4:10), not by eliminating his wrath but by satisfying it.",
+        "pt": "Essa declaração — ao lado de 'Deus é luz' (1Jo 1:5) — forma o par mais conciso de definições da natureza divina em toda a Escritura. 'Deus é amor' não equivale a 'o amor é Deus': o amor é uma propriedade do caráter de Deus, não uma categoria que subsume a Deus. Da perspectiva reformada, o amor de Deus é um amor que atua em sua soberania e em sua justiça: Deus nos amou enviando Cristo como propiciação (1Jo 4:10), não eliminando a sua ira, mas satisfazendo-a."
+      }
+    },
+    {
+      "ref": "1Jn 5:13",
+      "es": "Estas cosas les he escrito a ustedes que creen en el nombre del Hijo de Dios, para que sepan que tienen vida eterna.",
+      "en": "I write these things to you who believe in the name of the Son of God, that you may know that you have eternal life.",
+      "pt": "Estas coisas vos escrevi a vós que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna.",
+      "nota": {
+        "es": "Este es el versículo de propósito de la carta y el texto bíblico más directo en afirmar que el creyente puede conocer con certeza su salvación. El verbo 'sepan' (eidēte, forma perfecta de oida) denota conocimiento firme y objetivo, no mera esperanza subjetiva. La tradición reformada lo usa para refutar cualquier sistema que niegue la posibilidad de la seguridad de salvación (como el catolicismo romano pre-Tridentino o el arminianismo consecuente) y para fundamentar la doctrina de la perseverancia de los santos.",
+        "en": "This is the letter's purpose verse and the most direct biblical text affirming that the believer can know their salvation with certainty. The verb 'know' (eidēte, perfect form of oida) denotes firm and objective knowledge, not mere subjective hope. The Reformed tradition uses it to refute any system that denies the possibility of assurance of salvation (such as pre-Tridentine Roman Catholicism or consistent Arminianism) and to ground the doctrine of the perseverance of the saints.",
+        "pt": "Este é o versículo de propósito da carta e o texto bíblico mais direto a afirmar que o crente pode conhecer com certeza a sua salvação. O verbo 'saibais' (eidēte, forma perfeita de oida) denota conhecimento firme e objetivo, não mera esperança subjetiva. A tradição reformada o usa para refutar qualquer sistema que negue a possibilidade da certeza da salvação (como o catolicismo romano pré-tridentino ou o arminianismo consequente) e para fundamentar a doutrina da perseverança dos santos."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "Primera de Juan es un texto fundacional para al menos tres doctrinas distintivamente reformadas. Primero, la propiciación objetiva (1Jn 2:2; 4:10): frente a las teologías de la expiación moral o gubernamental, la tradición reformada afirma que la cruz satisfizo la ira santa de Dios —no la eludió. Segundo, la certeza de salvación (1Jn 5:13): contra el catolicismo romano y el arminianismo consecuente, los reformados enseñan que el creyente puede y debe saber que tiene vida eterna, basado en promesas objetivas y no en estados emocionales. Tercero, la perseverancia de los santos (1Jn 3:9): el regenerado no puede practicar el pecado como patrón habitual de vida —no porque no peque, sino porque la simiente de Dios permanece en él y produce fruto verificable de santificación.",
+    "en": "First John is a foundational text for at least three distinctively Reformed doctrines. First, objective propitiation (1John 2:2; 4:10): over against moral or governmental theories of atonement, the Reformed tradition affirms that the cross satisfied God's holy wrath — it did not circumvent it. Second, assurance of salvation (1John 5:13): against Roman Catholicism and consistent Arminianism, the Reformed teach that the believer can and ought to know that he has eternal life, based on objective promises and not on emotional states. Third, the perseverance of the saints (1John 3:9): the regenerate cannot practice sin as a habitual pattern of life — not because he does not sin, but because God's seed remains in him and produces verifiable fruit of sanctification.",
+    "pt": "Primeira de João é um texto fundacional para pelo menos três doutrinas distintivamente reformadas. Primeiro, a propiciação objetiva (1Jo 2:2; 4:10): diante das teologias da expiação moral ou governamental, a tradição reformada afirma que a cruz satisfez a ira santa de Deus — não a contornou. Segundo, a certeza da salvação (1Jo 5:13): contra o catolicismo romano e o arminianismo consequente, os reformados ensinam que o crente pode e deve saber que tem vida eterna, baseado em promessas objetivas e não em estados emocionais. Terceiro, a perseverança dos santos (1Jo 3:9): o regenerado não pode praticar o pecado como padrão habitual de vida — não porque não peque, mas porque a semente de Deus permanece nele e produz fruto verificável de santificação."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "El Verbo de Vida y la Luz",
+        "en": "The Word of Life and the Light",
+        "pt": "O Verbo da Vida e a Luz"
+      },
+      "descripcion": {
+        "es": "El capítulo inaugural establece el fundamento apostólico de la carta: el Verbo eterno que existía desde el principio se hizo audible, visible y tangible, y los apóstoles fueron testigos oculares de esta revelación (1Jn 1:1–4), vinculando así el nuevo pacto con hechos históricos verificables. La proclamación de que Dios es Luz sin ninguna tiniebla (1Jn 1:5) establece el carácter moral absoluto de Dios como el referente de toda la ética cristiana y de la comunión del nuevo pacto. Caminar en la luz produce el doble fruto del pacto: comunión genuina entre los creyentes y limpieza continua mediante la sangre del Hijo (1Jn 1:7). El capítulo cierra refutando el perfectismo proto-gnóstico al afirmar que reclamar ausencia de pecado es autoengaño (1Jn 1:8,10), mientras que la confesión activa la fidelidad y justicia de Dios —atributos del pacto— para perdonar y purificar al creyente (1Jn 1:9).",
+        "en": "The opening chapter establishes the apostolic foundation of the letter: the eternal Word who existed from the beginning became audible, visible, and tangible, and the apostles were eyewitnesses of this revelation (1John 1:1–4), thereby anchoring the new covenant to verifiable historical facts. The proclamation that God is light with no darkness in him (1John 1:5) establishes the absolute moral character of God as the reference point for all Christian ethics and new-covenant fellowship. Walking in the light produces the double fruit of the covenant: genuine fellowship among believers and continual cleansing through the Son's blood (1John 1:7). The chapter closes by refuting proto-Gnostic perfectionism in asserting that claiming sinlessness is self-deception (1John 1:8,10), while confession activates God's faithfulness and justice — covenant attributes — to forgive and cleanse the believer (1John 1:9).",
+        "pt": "O capítulo inaugural estabelece o fundamento apostólico da carta: o Verbo eterno que existia desde o princípio tornou-se audível, visível e tangível, e os apóstolos foram testemunhas oculares dessa revelação (1Jo 1:1–4), ancorando assim o novo pacto a fatos históricos verificáveis. A proclamação de que Deus é Luz sem nenhuma treva (1Jo 1:5) estabelece o caráter moral absoluto de Deus como referência de toda a ética cristã e da comunhão do novo pacto. Andar na luz produz o duplo fruto do pacto: comunhão genuína entre os crentes e purificação contínua pelo sangue do Filho (1Jo 1:7). O capítulo conclui refutando o perfeccionismo proto-gnóstico ao afirmar que reivindicar ausência de pecado é autoengano (1Jo 1:8,10), enquanto a confissão ativa a fidelidade e a justiça de Deus — atributos do pacto — para perdoar e purificar o crente (1Jo 1:9)."
+      },
+      "eventoClave": {
+        "es": "La doble afirmación de que Dios es Luz (1Jn 1:5) y de que la confesión del pecado desencadena el perdón judicial de Dios (1Jn 1:9) establece el eje moral y soteriológico sobre el cual toda la epístola descansa.",
+        "en": "The twin affirmation that God is light (1John 1:5) and that confession of sin triggers God's judicial forgiveness (1John 1:9) establishes the moral and soteriological axis on which the entire epistle rests.",
+        "pt": "A dupla afirmação de que Deus é Luz (1Jo 1:5) e de que a confissão do pecado desencadeia o perdão judicial de Deus (1Jo 1:9) estabelece o eixo moral e soteriológico sobre o qual toda a epístola repousa."
+      },
+      "versiculoClave": "1Jn 1:9"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "El Abogado, el Amor Nuevo y el Anticristo",
+        "en": "The Advocate, the New Love, and the Antichrist",
+        "pt": "O Advogado, o Amor Novo e o Anticristo"
+      },
+      "descripcion": {
+        "es": "El capítulo presenta a Cristo como el Abogado (paráklētos) ante el Padre y como propiciación que resuelve objetivamente el problema del pecado del creyente (1Jn 2:1–2), fundamentando toda la ética joánica en la persona y obra de Cristo. La prueba práctica de conocer a Dios es guardar sus mandamientos (1Jn 2:3–6), particularmente el mandamiento del amor, que es simultáneamente antiguo —pues proviene del Antiguo Testamento— y nuevo —pues Cristo lo renueva y hace posible por el Espíritu (1Jn 2:7–11). Juan llama a los creyentes a no amar el mundo —la tríada de la concupiscencia de la carne, los ojos y el orgullo de la vida (1Jn 2:15–17)— porque el mundo pasa, mientras que el que hace la voluntad de Dios permanece para siempre. La segunda mitad del capítulo revela la crisis eclesial: los anticristos que salieron de la comunidad (1Jn 2:18–19) son señal escatológica de la última hora, pero los creyentes tienen la unción del Espíritu Santo que los guarda en la verdad (1Jn 2:20,27).",
+        "en": "The chapter presents Christ as the Advocate (paraklētos) with the Father and as the propitiation that objectively resolves the problem of the believer's sin (1John 2:1–2), grounding all Johannine ethics in Christ's person and work. The practical test of knowing God is keeping his commandments (1John 2:3–6), particularly the love commandment, which is simultaneously old — arising from the Old Testament — and new — renewed by Christ and made possible by the Spirit (1John 2:7–11). John calls believers not to love the world — the triad of the lust of the flesh, the eyes, and the pride of life (1John 2:15–17) — because the world passes away, while the one who does God's will abides forever. The second half of the chapter reveals the ecclesial crisis: the antichrists who went out from the community (1John 2:18–19) are an eschatological sign of the last hour, but believers possess the anointing of the Holy Spirit that keeps them in the truth (1John 2:20,27).",
+        "pt": "O capítulo apresenta Cristo como o Advogado (paráklētos) junto ao Pai e como a propiciação que resolve objetivamente o problema do pecado do crente (1Jo 2:1–2), fundamentando toda a ética joanina na pessoa e obra de Cristo. A prova prática de conhecer a Deus é guardar os seus mandamentos (1Jo 2:3–6), particularmente o mandamento do amor, que é simultaneamente antigo — proveniente do Antigo Testamento — e novo — renovado por Cristo e tornado possível pelo Espírito (1Jo 2:7–11). João chama os crentes a não amar o mundo — a tríade da concupiscência da carne, dos olhos e do orgulho da vida (1Jo 2:15–17) — porque o mundo passa, enquanto aquele que faz a vontade de Deus permanece para sempre. A segunda metade do capítulo revela a crise eclesial: os anticristos que saíram da comunidade (1Jo 2:18–19) são sinal escatológico da última hora, mas os crentes têm a unção do Espírito Santo que os guarda na verdade (1Jo 2:20,27)."
+      },
+      "eventoClave": {
+        "es": "La identificación de los anticristos como personas que 'salieron de nosotros' (1Jn 2:19) define heresiológicamente que la apostasía revela que la pertenencia al pacto nunca fue real: la perseverancia es la prueba de la elección genuina.",
+        "en": "The identification of the antichrists as those who 'went out from us' (1John 2:19) defines heresiologically that apostasy reveals that covenant membership was never real: perseverance is the proof of genuine election.",
+        "pt": "A identificação dos anticristos como aqueles que 'saíram de nós' (1Jo 2:19) define heresiologicamente que a apostasia revela que o pertencimento ao pacto nunca foi real: a perseverança é a prova da eleição genuína."
+      },
+      "versiculoClave": "1Jn 2:2"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "Hijos de Dios y Amor Fraternal",
+        "en": "Children of God and Fraternal Love",
+        "pt": "Filhos de Deus e Amor Fraternal"
+      },
+      "descripcion": {
+        "es": "El capítulo se abre con una de las exclamaciones más gozosas del Nuevo Testamento: que el Padre nos haya dado el privilegio de ser llamados hijos de Dios (1Jn 3:1–2), una realidad presente de adopción en el nuevo pacto que el mundo no comprende porque no conoció al Padre. La esperanza escatológica de la parusía —ver a Cristo tal como Él es— funciona como motor de la santificación presente: el creyente se purifica activamente a sí mismo porque espera ser como Cristo (1Jn 3:2–3). Juan traza una distinción radical entre el que practica la justicia —nacido de Dios— y el que practica el pecado —del diablo— (1Jn 3:4–10), aclarando que el nacido de Dios no puede hacer del pecado su patrón habitual de vida porque la simiente divina permanece en él. El amor concreto entre los hermanos —opuesto al odio homicida de Caín (1Jn 3:12)— es la señal verificable del tránsito de la muerte a la vida (1Jn 3:14), y el modelo supremo de ese amor es el autosacrificio de Cristo (1Jn 3:16).",
+        "en": "The chapter opens with one of the most joyful exclamations in the New Testament: that the Father has given us the privilege of being called children of God (1John 3:1–2), a present reality of adoption in the new covenant that the world does not understand because it did not know the Father. The eschatological hope of the parousia — seeing Christ as he is — functions as the engine of present sanctification: the believer actively purifies himself because he hopes to be like Christ (1John 3:2–3). John draws a radical distinction between the one who practices righteousness — born of God — and the one who practices sin — of the devil — (1John 3:4–10), clarifying that the one born of God cannot make sin his habitual pattern of life because God's seed abides in him. Concrete love among the brethren — opposed to Cain's murderous hatred (1John 3:12) — is the verifiable sign of the passage from death to life (1John 3:14), and the supreme model of that love is Christ's self-sacrifice (1John 3:16).",
+        "pt": "O capítulo se abre com uma das exclamações mais jubilosas do Novo Testamento: que o Pai nos tenha dado o privilégio de ser chamados filhos de Deus (1Jo 3:1–2), uma realidade presente de adoção no novo pacto que o mundo não compreende porque não conheceu o Pai. A esperança escatológica da parusia — ver a Cristo tal como ele é — funciona como motor da santificação presente: o crente purifica a si mesmo ativamente porque espera ser como Cristo (1Jo 3:2–3). João traça uma distinção radical entre aquele que pratica a justiça — nascido de Deus — e aquele que pratica o pecado — do diabo — (1Jo 3:4–10), esclarecendo que o nascido de Deus não pode fazer do pecado seu padrão habitual de vida porque a semente divina permanece nele. O amor concreto entre os irmãos — oposto ao ódio homicida de Caim (1Jo 3:12) — é o sinal verificável da passagem da morte para a vida (1Jo 3:14), e o modelo supremo desse amor é o autossacrifício de Cristo (1Jo 3:16)."
+      },
+      "eventoClave": {
+        "es": "La declaración de que el nacido de Dios no practica el pecado habitualmente porque la simiente de Dios permanece en él (1Jn 3:9) es el fundamento bíblico de la doctrina reformada de la perseverancia de los santos y de la necesidad de frutos verificables de regeneración.",
+        "en": "The declaration that the one born of God does not habitually practice sin because God's seed abides in him (1John 3:9) is the biblical foundation for the Reformed doctrine of the perseverance of the saints and the necessity of verifiable fruits of regeneration.",
+        "pt": "A declaração de que o nascido de Deus não pratica habitualmente o pecado porque a semente de Deus permanece nele (1Jo 3:9) é o fundamento bíblico da doutrina reformada da perseverança dos santos e da necessidade de frutos verificáveis de regeneração."
+      },
+      "versiculoClave": "1Jn 3:1"
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "Probad los Espíritus: Dios es Amor",
+        "en": "Test the Spirits: God Is Love",
+        "pt": "Provai os Espíritos: Deus é Amor"
+      },
+      "descripcion": {
+        "es": "El capítulo manda discernir los espíritus mediante el criterio cristológico de la encarnación (1Jn 4:1–3): todo espíritu que confiesa que Jesucristo vino en carne es de Dios; todo espíritu que lo niega es el espíritu del anticristo. La razón de la victoria de los creyentes sobre los falsos profetas es teológicamente radical: 'Mayor es el que está en ustedes que el que está en el mundo' (1Jn 4:4), la morada del Espíritu Santo como garantía de la elección divina. Juan introduce entonces la gran declaración 'Dios es amor' (1Jn 4:8,16), pero la ancla no en un sentimiento universal sino en un acto histórico y particular: Dios envió a su Hijo unigénito al mundo para que vivamos por medio de Él y como propiciación por nuestros pecados (1Jn 4:9–10). El amor entre los creyentes es la prueba visible de la morada invisible de Dios en ellos (1Jn 4:12), y el amor perfecto —que es el amor de Dios mismo derramado en el corazón— expulsa el temor al juicio (1Jn 4:18), proveyendo la certeza pastoral de la seguridad de salvación.",
+        "en": "The chapter commands discerning the spirits through the Christological criterion of the incarnation (1John 4:1–3): every spirit that confesses that Jesus Christ has come in the flesh is from God; every spirit that denies this is the spirit of antichrist. The reason for believers' victory over false prophets is theologically radical: 'He who is in you is greater than he who is in the world' (1John 4:4), the indwelling of the Holy Spirit as the guarantee of divine election. John then introduces the great declaration 'God is love' (1John 4:8,16), but anchors it not in a universal sentiment but in a historical and particular act: God sent his only Son into the world so that we might live through him and as the propitiation for our sins (1John 4:9–10). Love among believers is the visible proof of God's invisible indwelling in them (1John 4:12), and perfect love — which is God's own love poured into the heart — casts out fear of judgment (1John 4:18), providing the pastoral assurance of the certainty of salvation.",
+        "pt": "O capítulo manda discernir os espíritos mediante o critério cristológico da encarnação (1Jo 4:1–3): todo espírito que confessa que Jesus Cristo veio em carne é de Deus; todo espírito que nega isso é o espírito do anticristo. A razão da vitória dos crentes sobre os falsos profetas é teologicamente radical: 'Maior é aquele que está em vós do que aquele que está no mundo' (1Jo 4:4), a habitação do Espírito Santo como garantia da eleição divina. João introduz então a grande declaração 'Deus é amor' (1Jo 4:8,16), mas a ancora não em um sentimento universal, mas em um ato histórico e particular: Deus enviou o seu Filho unigênito ao mundo para que vivamos por meio dele e como propiciação pelos nossos pecados (1Jo 4:9–10). O amor entre os crentes é a prova visível da habitação invisível de Deus neles (1Jo 4:12), e o amor perfeito — que é o próprio amor de Deus derramado no coração — expulsa o temor do juízo (1Jo 4:18), provendo a certeza pastoral da segurança da salvação."
+      },
+      "eventoClave": {
+        "es": "La doble proclamación 'Dios es amor' (1Jn 4:8,16) fundamentada en el envío del Hijo como propiciación (1Jn 4:10) es el corazón teológico del capítulo: el amor de Dios es definido por su acción redentora objetiva, no por un sentimiento subjetivo.",
+        "en": "The double proclamation 'God is love' (1John 4:8,16) grounded in the sending of the Son as propitiation (1John 4:10) is the theological heart of the chapter: God's love is defined by his objective redemptive action, not by a subjective feeling.",
+        "pt": "A dupla proclamação 'Deus é amor' (1Jo 4:8,16) fundamentada no envio do Filho como propiciação (1Jo 4:10) é o coração teológico do capítulo: o amor de Deus é definido por sua ação redentora objetiva, não por um sentimento subjetivo."
+      },
+      "versiculoClave": "1Jn 4:8"
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "era": "Aplicación",
+      "titulo": {
+        "es": "La Fe que Vence al Mundo",
+        "en": "The Faith that Overcomes the World",
+        "pt": "A Fé que Vence o Mundo"
+      },
+      "descripcion": {
+        "es": "El capítulo final define la fe que vence al mundo: creer que Jesús es el Hijo de Dios (1Jn 5:1,5), conectando esta fe salvífica con el amor a Dios y el guardar sus mandamientos (1Jn 5:2–3) —una obediencia que, lejos de ser onerosa, fluye de la vida nueva—. El testimonio tripartito del Espíritu, el agua y la sangre (1Jn 5:6–8) establece la base objetiva e histórica de la fe: el Espíritu que internamente da testimonio, el agua del bautismo de Cristo y la sangre de su cruz. El versículo de propósito de toda la carta (1Jn 5:13) resume la meta pastoral de Juan: que los creyentes puedan saber con certeza que poseen vida eterna, no como presunción sino como conocimiento fundado en las promesas de Dios y en el testimonio del Espíritu. La carta concluye con la exhortación a interceder por el hermano que peca (1Jn 5:16), con la triple certeza de que el creyente no practica el pecado, el mundo yace bajo el maligno, y el Hijo de Dios ha venido y nos ha dado entendimiento para conocer al que es verdadero (1Jn 5:18–20), finalizando con el imperativo 'Guardaos de los ídolos' (1Jn 5:21).",
+        "en": "The final chapter defines the faith that overcomes the world: believing that Jesus is the Son of God (1John 5:1,5), connecting this saving faith with love for God and keeping his commandments (1John 5:2–3) — an obedience that, far from being burdensome, flows from the new life. The tripartite testimony of the Spirit, the water, and the blood (1John 5:6–8) establishes the objective and historical basis of faith: the Spirit who inwardly testifies, the water of Christ's baptism, and the blood of his cross. The purpose verse of the entire letter (1John 5:13) summarizes John's pastoral goal: that believers may know with certainty that they possess eternal life, not as presumption but as knowledge grounded in God's promises and the Spirit's testimony. The letter concludes with the exhortation to intercede for a sinning brother (1John 5:16), with the triple assurance that the believer does not practice sin, the world lies under the evil one, and the Son of God has come and given us understanding to know him who is true (1John 5:18–20), closing with the imperative 'Little children, keep yourselves from idols' (1John 5:21).",
+        "pt": "O capítulo final define a fé que vence o mundo: crer que Jesus é o Filho de Deus (1Jo 5:1,5), conectando essa fé salvífica com o amor a Deus e o guardar os seus mandamentos (1Jo 5:2–3) — uma obediência que, longe de ser onerosa, flui da vida nova. O testemunho tripartido do Espírito, a água e o sangue (1Jo 5:6–8) estabelece a base objetiva e histórica da fé: o Espírito que internamente testemunha, a água do batismo de Cristo e o sangue da sua cruz. O versículo de propósito de toda a carta (1Jo 5:13) resume o objetivo pastoral de João: que os crentes possam saber com certeza que possuem vida eterna, não como presunção, mas como conhecimento fundamentado nas promessas de Deus e no testemunho do Espírito. A carta conclui com a exortação a interceder pelo irmão que peca (1Jo 5:16), com a tríplice certeza de que o crente não pratica o pecado, o mundo está sob o maligno, e o Filho de Deus veio e nos deu entendimento para conhecer aquele que é verdadeiro (1Jo 5:18–20), encerrando com o imperativo 'Filhinhos, guardai-vos dos ídolos' (1Jo 5:21)."
+      },
+      "eventoClave": {
+        "es": "La declaración de propósito 'para que sepan que tienen vida eterna' (1Jn 5:13), junto con el triple testimonio del Espíritu, el agua y la sangre (1Jn 5:8), constituye el fundamento bíblico más claro de la doctrina reformada de la certeza de salvación.",
+        "en": "The purpose statement 'that you may know that you have eternal life' (1John 5:13), together with the triple testimony of the Spirit, the water, and the blood (1John 5:8), constitutes the clearest biblical foundation for the Reformed doctrine of the assurance of salvation.",
+        "pt": "A declaração de propósito 'para que saibais que tendes a vida eterna' (1Jo 5:13), juntamente com o testemunho tríplice do Espírito, a água e o sangue (1Jo 5:8), constitui o fundamento bíblico mais claro da doutrina reformada da certeza da salvação."
+      },
+      "versiculoClave": "1Jn 5:13"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Wayne Grudem, J.I. Packer, Thomas Schreiner et al. (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Teología",
+          "Personajes",
+          "Resúmenes de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Theology",
+          "Characters",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Teologia",
+          "Personagens",
+          "Resumos de capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible fue producida por un equipo de más de 90 eruditos evangélicos bajo la supervisión editorial general de Wayne Grudem. Publicada por Crossway en 2008, representa el estado del arte de la erudición evangélica y reformada en exégesis y teología bíblica en el mundo angloparlante del siglo XXI, y es considerada la Biblia de estudio estándar en la tradición reformada inglesa.",
+          "en": "The ESV Study Bible was produced by a team of over 90 evangelical scholars under the general editorial oversight of Wayne Grudem. Published by Crossway in 2008, it represents the state of the art of evangelical and Reformed scholarship in exegesis and biblical theology in the twenty-first-century English-speaking world, and is considered the standard study Bible in the English Reformed tradition.",
+          "pt": "A ESV Study Bible foi produzida por uma equipe de mais de 90 eruditos evangélicos sob a supervisão editorial geral de Wayne Grudem. Publicada pela Crossway em 2008, representa o estado da arte da erudição evangélica e reformada em exegese e teologia bíblica no mundo anglófono do século XXI, e é considerada a Bíblia de estudo padrão na tradição reformada inglesa."
+        },
+        "metodo": {
+          "es": "Combina exégesis gramatical-histórica rigurosa, introducción literaria e histórica a cada libro, comentarios teológicos versículo a versículo y ensayos temáticos sobre doctrinas bíblicas. Su enfoque es confessional-evangélico, con atención constante a la unidad del canon y la historia redentora.",
+          "en": "Combines rigorous grammatical-historical exegesis, literary and historical introduction to each book, verse-by-verse theological commentary, and thematic essays on biblical doctrines. Its approach is confessional-evangelical, with constant attention to the unity of the canon and redemptive history.",
+          "pt": "Combina exegese gramatical-histórica rigorosa, introdução literária e histórica a cada livro, comentários teológicos versículo a versículo e ensaios temáticos sobre doutrinas bíblicas. Sua abordagem é confessional-evangélica, com atenção constante à unidade do cânon e à história redentora."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco introductorio sobre la autoría, datación y ocasión de 1 Juan, el análisis de la identidad de los anticristos y comentario detallado sobre los versículos de propiciación (1Jn 2:2) y certeza de salvación (1Jn 5:13).",
+          "en": "Provided the introductory framework on the authorship, dating, and occasion of 1 John, the analysis of the identity of the antichrists, and detailed commentary on the propitiation (1John 2:2) and assurance of salvation (1John 5:13) verses.",
+          "pt": "Forneceu o quadro introdutório sobre a autoria, datação e ocasião de 1 João, a análise da identidade dos anticristos e o comentário detalhado sobre os versículos de propiciação (1Jo 2:2) e certeza da salvação (1Jo 5:13)."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)",
+          "ESV Reader's Bible (2016)",
+          "ESV Archaeology Study Bible (2017)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-none-case/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible (NBLA) / Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. gen.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Editorial Portavoz",
+      "nivel": 1,
+      "idioma": "todos",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Distintivas reformadas",
+          "Âncoras confesionales",
+          "Propósito"
+        ],
+        "en": [
+          "Systematic theology",
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Purpose"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Distintivas reformadas",
+          "Âncoras confessionais",
+          "Propósito"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue el fundador de Ligonier Ministries y uno de los teólogos reformados más influyentes del siglo XX. Doctorado por la Free University of Amsterdam, fue profesor de teología sistemática en Reformed Theological Seminary y Gordon-Conwell. Su obra abarca más de cien libros y décadas de docencia que hicieron accesible la teología de la Reforma al creyente común.",
+          "en": "R.C. Sproul (1939–2017) was the founder of Ligonier Ministries and one of the most influential Reformed theologians of the twentieth century. He earned his doctorate from the Free University of Amsterdam and served as a professor of systematic theology at Reformed Theological Seminary and Gordon-Conwell. His work spans more than one hundred books and decades of teaching that made Reformation theology accessible to the ordinary believer.",
+          "pt": "R.C. Sproul (1939–2017) foi o fundador da Ligonier Ministries e um dos teólogos reformados mais influentes do século XX. Doutorado pela Vrije Universiteit de Amsterdã, foi professor de teologia sistemática no Reformed Theological Seminary e Gordon-Conwell. Sua obra abrange mais de cem livros e décadas de ensino que tornaram a teologia da Reforma acessível ao crente comum."
+        },
+        "metodo": {
+          "es": "Usa la Confesión de Westminster como ancla confesional para la interpretación de cada pasaje. Los comentarios identifican constantemente la doctrina reformada implicada en el texto, con aplicación pastoral clara y atención a las controversias teológicas históricas.",
+          "en": "Uses the Westminster Confession as the confessional anchor for the interpretation of each passage. The notes constantly identify the Reformed doctrine implicit in the text, with clear pastoral application and attention to historical theological controversies.",
+          "pt": "Usa a Confissão de Westminster como âncora confessional para a interpretação de cada passagem. As notas identificam constantemente a doutrina reformada implícita no texto, com aplicação pastoral clara e atenção às controvérsias teológicas históricas."
+        },
+        "aportacion": {
+          "es": "Orientó la identificación de las âncoras confesionales de la Confesión de Westminster con 1 Juan (capítulos 8, 11, 13, 18) y proveyó las distintivas reformadas sobre propiciación, certeza de salvación y perseverancia de los santos.",
+          "en": "Guided the identification of the Westminster Confession confessional anchors for 1 John (chapters 8, 11, 13, 18) and provided the Reformed distinctives on propitiation, assurance of salvation, and perseverance of the saints.",
+          "pt": "Orientou a identificação das âncoras confessionais da Confissão de Westminster com 1 João (capítulos 8, 11, 13, 18) e forneceu as distintivas reformadas sobre propiciação, certeza da salvação e perseverança dos santos."
+        },
+        "obras": [
+          "Reformation Study Bible ESV (2015)",
+          "Biblia de Estudio de la Reforma NBLA (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)",
+          "Faith Alone: The Evangelical Doctrine of Justification (1995)"
+        ],
+        "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology: An Introduction to Biblical Doctrine",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Hamartiología",
+          "Soteriología",
+          "Cristología"
+        ],
+        "en": [
+          "Systematic theology",
+          "Hamartiology",
+          "Soteriology",
+          "Christology"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Hamartiologia",
+          "Soteriologia",
+          "Cristologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem (n. 1948) es profesor de teología y estudios bíblicos en Phoenix Seminary. Doctorado por la Universidad de Cambridge, es uno de los teólogos evangélicos más citados de nuestra era y co-fundador del Council on Biblical Manhood and Womanhood. Ha sido un defensor destacado de la inerrancia bíblica y la teología reformada en el ámbito académico evangélico.",
+          "en": "Wayne Grudem (b. 1948) is a professor of theology and biblical studies at Phoenix Seminary. He earned his doctorate from the University of Cambridge and is one of the most widely cited evangelical theologians of our era and co-founder of the Council on Biblical Manhood and Womanhood. He has been a prominent defender of biblical inerrancy and Reformed theology in the evangelical academic world.",
+          "pt": "Wayne Grudem (n. 1948) é professor de teologia e estudos bíblicos no Phoenix Seminary. Doutorado pela Universidade de Cambridge, é um dos teólogos evangélicos mais citados de nossa era e co-fundador do Council on Biblical Manhood and Womanhood. Tem sido um defensor proeminente da inerrância bíblica e da teologia reformada no âmbito acadêmico evangélico."
+        },
+        "metodo": {
+          "es": "Organiza toda la doctrina bíblica en categorías sistemáticas, citando abundantemente la Escritura para cada afirmación doctrinal. Aunque usa un lenguaje accesible, no sacrifica la precisión teológica. Cada capítulo incluye preguntas de revisión y perspectivas históricas sobre debates doctrinales.",
+          "en": "Organizes all biblical doctrine into systematic categories, citing Scripture abundantly for each doctrinal affirmation. Although he uses accessible language, he does not sacrifice theological precision. Each chapter includes review questions and historical perspectives on doctrinal debates.",
+          "pt": "Organiza toda a doutrina bíblica em categorias sistemáticas, citando abundantemente a Escritura para cada afirmação doutrinária. Embora use linguagem acessível, não sacrifica a precisão teológica. Cada capítulo inclui questões de revisão e perspectivas históricas sobre debates doutrinários."
+        },
+        "aportacion": {
+          "es": "Sus capítulos sobre la propiciación (cap. 27), la justificación (cap. 36), la certeza de salvación (cap. 40) y la perseverancia de los santos (cap. 40) informaron directamente los campos de teologíaSistematica y distintivasReformadas del registro de 1 Juan.",
+          "en": "His chapters on propitiation (ch. 27), justification (ch. 36), assurance of salvation (ch. 40), and the perseverance of the saints (ch. 40) directly informed the teologiaSistematica and distintivasReformadas fields of the 1 John record.",
+          "pt": "Seus capítulos sobre a propiciação (cap. 27), a justificação (cap. 36), a certeza da salvação (cap. 40) e a perseverança dos santos (cap. 40) informaram diretamente os campos de teologiaSistematica e distintivasReformadas do registro de 1 João."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "The Gift of Prophecy in the New Testament and Today (1988)",
+          "Recovering Biblical Manhood and Womanhood (1991, ed.)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth Trust",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Tipos y sombras",
+          "Enfoque cristológico",
+          "Escatología"
+        ],
+        "en": [
+          "Redemptive history",
+          "Types and shadows",
+          "Christological focus",
+          "Eschatology"
+        ],
+        "pt": [
+          "História redentora",
+          "Tipos e sombras",
+          "Enfoque cristológico",
+          "Escatologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue un teólogo reformado neerlandés-estadounidense que enseñó Teología Bíblica en el Seminario Teológico de Princeton durante 39 años. Considerado el padre de la teología bíblica reformada, su obra integra la revelación progresiva de Dios con el desarrollo orgánico de la historia redentora. Su influencia se siente en toda la teología bíblica contemporánea de orientación reformada.",
+          "en": "Geerhardus Vos (1862–1949) was a Dutch-American Reformed theologian who taught Biblical Theology at Princeton Theological Seminary for 39 years. Considered the father of Reformed biblical theology, his work integrates God's progressive revelation with the organic development of redemptive history. His influence is felt throughout contemporary Reformed-oriented biblical theology.",
+          "pt": "Geerhardus Vos (1862–1949) foi um teólogo reformado holandês-americano que ensinou Teologia Bíblica no Seminário Teológico de Princeton por 39 anos. Considerado o pai da teologia bíblica reformada, sua obra integra a revelação progressiva de Deus com o desenvolvimento orgânico da história redentora. Sua influência se faz sentir em toda a teologia bíblica contemporânea de orientação reformada."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo orgánico y progresivo de la revelación de Dios a través de la historia de la redención, desde la creación hasta la consumación. Entiende cada etapa de la revelación como preparación orgánica de la siguiente, culminando en Cristo como clave hermenéutica de todo el canon.",
+          "en": "Traces the organic and progressive development of God's revelation through the history of redemption, from creation to consummation. He understands each stage of revelation as the organic preparation of the next, culminating in Christ as the hermeneutical key to the entire canon.",
+          "pt": "Traça o desenvolvimento orgânico e progressivo da revelação de Deus através da história da redenção, da criação à consumação. Entende cada etapa da revelação como preparação orgânica da seguinte, culminando em Cristo como chave hermenêutica de todo o cânon."
+        },
+        "aportacion": {
+          "es": "Su marco de escatología inaugurada y la tensión 'ya / todavía no' fue aplicado directamente al análisis de 1Jn 2:18 ('la última hora') y 1Jn 3:2 ('todavía no se ha manifestado'), e informó el campo enfoqueCristologico.",
+          "en": "His framework of inaugurated eschatology and the 'already / not yet' tension was applied directly to the analysis of 1John 2:18 ('the last hour') and 1John 3:2 ('what we will be has not yet appeared'), and informed the enfoqueCristologico field.",
+          "pt": "Seu quadro de escatologia inaugurada e a tensão 'já / ainda não' foi aplicado diretamente à análise de 1Jo 2:18 ('a última hora') e 1Jo 3:2 ('o que havemos de ser ainda não se manifestou'), e informou o campo enfoqueCristologico."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)",
+          "Grace and Glory (1922)",
+          "The Kingdom of God and the Church (1903)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The Letters of John",
+      "autor": "John R.W. Stott",
+      "año": 1988,
+      "editorial": "Inter-Varsity Press (Tyndale New Testament Commentary)",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Personajes",
+          "Teología sistemática",
+          "Resúmenes de capítulos",
+          "Controversias históricas"
+        ],
+        "en": [
+          "Introduction",
+          "Characters",
+          "Systematic theology",
+          "Chapter summaries",
+          "Historical controversies"
+        ],
+        "pt": [
+          "Introdução",
+          "Personagens",
+          "Teologia sistemática",
+          "Resumos de capítulos",
+          "Controvérsias históricas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John R.W. Stott (1921–2011) fue rector emérito de All Souls Church en Langham Place, Londres, y uno de los predicadores y teólogos evangélicos más influyentes del siglo XX. Co-redactor del Pacto de Lausana (1974) y consejero de varios movimientos de evangelización mundial, fue reconocido por su habilidad para unir la exégesis rigurosa con la aplicación pastoral clara.",
+          "en": "John R.W. Stott (1921–2011) was rector emeritus of All Souls Church in Langham Place, London, and one of the most influential evangelical preachers and theologians of the twentieth century. Co-drafter of the Lausanne Covenant (1974) and advisor to several world evangelism movements, he was recognized for his ability to unite rigorous exegesis with clear pastoral application.",
+          "pt": "John R.W. Stott (1921–2011) foi reitor emérito da All Souls Church em Langham Place, Londres, e um dos pregadores e teólogos evangélicos mais influentes do século XX. Co-redator do Pacto de Lausana (1974) e conselheiro de vários movimentos de evangelização mundial, era reconhecido por sua habilidade de unir exegese rigorosa com aplicação pastoral clara."
+        },
+        "metodo": {
+          "es": "Exégesis versículo a versículo con atención constante al texto griego, al contexto histórico y a la aplicación contemporánea. Sus comentarios se caracterizan por una claridad expositiva excepcional y un compromiso profundo con la autoridad e inerrancia de la Escritura.",
+          "en": "Verse-by-verse exegesis with constant attention to the Greek text, historical context, and contemporary application. His commentaries are characterized by exceptional expository clarity and a deep commitment to the authority and inerrancy of Scripture.",
+          "pt": "Exegese versículo a versículo com atenção constante ao texto grego, ao contexto histórico e à aplicação contemporânea. Seus comentários caracterizam-se por uma clareza expositiva excepcional e um compromisso profundo com a autoridade e a inerrância da Escritura."
+        },
+        "aportacion": {
+          "es": "El análisis de Stott de las tres pruebas de la fe genuina en 1 Juan —doctrinal, ética y social/relacional— estructuró el enfoque teológico del registro y proveyó contexto para los personajes antagonistas y los resúmenes por capítulo.",
+          "en": "Stott's analysis of the three tests of genuine faith in 1 John — doctrinal, ethical, and social/relational — structured the theological approach of the record and provided context for the antagonist characters and the chapter-by-chapter summaries.",
+          "pt": "A análise de Stott das três provas da fé genuína em 1 João — doutrinária, ética e social/relacional — estruturou a abordagem teológica do registro e forneceu contexto para os personagens antagonistas e os resumos por capítulo."
+        },
+        "obras": [
+          "The Letters of John: Tyndale NT Commentary (1988)",
+          "The Cross of Christ (1986)",
+          "Basic Christianity (1958)",
+          "The Message of Romans (1994)",
+          "Christian Mission in the Modern World (1975)"
+        ],
+        "url": "https://www.theopedia.com/john-stott"
+      }
+    },
+    {
+      "titulo": "The Epistles of John",
+      "autor": "I. Howard Marshall",
+      "año": 1978,
+      "editorial": "Eerdmans (New International Commentary on the New Testament)",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Personajes",
+          "Autor",
+          "Controversias históricas",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Historical context",
+          "Characters",
+          "Author",
+          "Historical controversies",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Personagens",
+          "Autor",
+          "Controvérsias históricas",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "I. Howard Marshall (1934–2015) fue profesor emérito de Nuevo Testamento en la Universidad de Aberdeen. Evangelista metodista formado en la tradición crítica rigurosa, fue uno de los exégetas evangélicos más cuidadosos del siglo XX, conocido por su tratamiento exhaustivo del texto griego y del trasfondo histórico del Nuevo Testamento.",
+          "en": "I. Howard Marshall (1934–2015) was emeritus professor of New Testament at the University of Aberdeen. A Methodist evangelical trained in the rigorous critical tradition, he was one of the most careful evangelical exegetes of the twentieth century, known for his exhaustive treatment of the Greek text and the historical background of the New Testament.",
+          "pt": "I. Howard Marshall (1934–2015) foi professor emérito do Novo Testamento na Universidade de Aberdeen. Evangelista metodista formado na tradição crítica rigorosa, foi um dos exegetas evangélicos mais cuidadosos do século XX, conhecido por seu tratamento exaustivo do texto grego e do contexto histórico do Novo Testamento."
+        },
+        "metodo": {
+          "es": "Exégesis técnica del texto griego con amplio aparato de notas, discusión de variantes textuales y análisis detallado del vocabulario joánico. Incorpora debate con la erudición crítica moderna sin abandonar una postura evangélica hacia el texto.",
+          "en": "Technical exegesis of the Greek text with an extensive apparatus of notes, discussion of textual variants, and detailed analysis of Johannine vocabulary. Incorporates debate with modern critical scholarship without abandoning an evangelical posture toward the text.",
+          "pt": "Exegese técnica do texto grego com extenso aparato de notas, discussão de variantes textuais e análise detalhada do vocabulário joanino. Incorpora debate com a erudição crítica moderna sem abandonar uma postura evangélica em relação ao texto."
+        },
+        "aportacion": {
+          "es": "Proveyó análisis técnico de hilasmos ('propiciación') en 1Jn 2:2, el debate sobre la identidad de los anticristos cerintianos, y el trasfondo histórico del proto-gnosticismo que informa los campos contextoHistorico y personajes del registro.",
+          "en": "Provided technical analysis of hilasmos ('propitiation') in 1John 2:2, the debate over the Cerinthian identity of the antichrists, and the historical background of proto-Gnosticism that informs the contextoHistorico and personajes fields of the record.",
+          "pt": "Forneceu análise técnica de hilasmos ('propiciação') em 1Jo 2:2, o debate sobre a identidade cerintiana dos anticristos e o contexto histórico do proto-gnosticismo que informa os campos contextoHistorico e personajes do registro."
+        },
+        "obras": [
+          "The Epistles of John: NICNT (1978)",
+          "The Gospel of Luke: NIGTC (1978)",
+          "I Believe in the Historical Jesus (1977)",
+          "New Testament Theology (2004)",
+          "Aspects of the Atonement (2007)"
+        ],
+        "url": "https://www.theopedia.com/i-howard-marshall"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Civilizaciones",
+          "Geografía",
+          "Fuentes ANE / greco-romanas"
+        ],
+        "en": [
+          "Historical context",
+          "Civilizations",
+          "Geography",
+          "ANE / Greco-Roman sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Civilizações",
+          "Geografia",
+          "Fontes ANE / greco-romanas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener (n. 1960) es profesor de Nuevo Testamento en el Asbury Theological Seminary. Es uno de los eruditos del NT más prolíficos de nuestra era, conocido por sus estudios monumentales sobre el trasfondo cultural y social del mundo greco-romano y judío en el que nació el Nuevo Testamento. Su obra de comentario sobre Juan tiene más de 1.600 páginas de material de trasfondo.",
+          "en": "Craig S. Keener (b. 1960) is professor of New Testament at Asbury Theological Seminary. He is one of the most prolific NT scholars of our era, known for his monumental studies on the cultural and social background of the Greco-Roman and Jewish world in which the New Testament was born. His commentary work on John runs to more than 1,600 pages of background material.",
+          "pt": "Craig S. Keener (n. 1960) é professor do Novo Testamento no Asbury Theological Seminary. É um dos eruditos do NT mais prolíficos de nossa era, conhecido por seus estudos monumentais sobre o contexto cultural e social do mundo greco-romano e judaico em que o Novo Testamento nasceu. Seu trabalho de comentário sobre João tem mais de 1.600 páginas de material de contexto."
+        },
+        "metodo": {
+          "es": "Identifica para cada pasaje del NT los paralelos más relevantes de la literatura primaria greco-romana y judía contemporánea: papiros, inscripciones, literatura filosófica, textos judaicos del período del Segundo Templo. Su método es comparativo-histórico, buscando iluminar el texto desde su mundo cultural originario.",
+          "en": "Identifies for each NT passage the most relevant parallels from contemporary Greco-Roman and Jewish primary literature: papyri, inscriptions, philosophical literature, Jewish texts from the Second Temple period. His method is comparative-historical, seeking to illuminate the text from its original cultural world.",
+          "pt": "Identifica para cada passagem do NT os paralelos mais relevantes da literatura primária greco-romana e judaica contemporânea: papiros, inscrições, literatura filosófica, textos judaicos do período do Segundo Templo. Seu método é comparativo-histórico, buscando iluminar o texto a partir do seu mundo cultural originário."
+        },
+        "aportacion": {
+          "es": "Informó el trasfondo de la ciudad de Éfeso (culto a Artemisa, estructuras del culto imperial, redes comerciales) y el contexto de las corrientes filosófico-religiosas de Asia Menor que conforman el trasfondo de los oponentes de 1 Juan.",
+          "en": "Informed the background of the city of Ephesus (cult of Artemis, imperial cult structures, commercial networks) and the context of the philosophical-religious currents of Asia Minor that form the backdrop for 1 John's opponents.",
+          "pt": "Informou o contexto da cidade de Éfeso (culto a Ártemis, estruturas do culto imperial, redes comerciais) e o contexto das correntes filosófico-religiosas da Ásia Menor que formam o pano de fundo dos oponentes de 1 João."
+        },
+        "obras": [
+          "IVP Bible Background Commentary: New Testament (1993)",
+          "The Gospel of John: A Commentary, 2 vols. (2003)",
+          "Acts: NICNT (2012)",
+          "1–2 Corinthians: NCBC (2005)",
+          "Romans: NCBC (2009)"
+        ],
+        "url": "https://www.theopedia.com/craig-keener"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.3.0",
+    "estado": "extraído",
+    "confianza": 0.75,
+    "camposMarcados": [
+      {
+        "campo": "personajes[Los Anticristos].biografiaHistorica.nivelEvidencia",
+        "razon": "La identidad exacta de los oponentes de 1 Juan (cerintianos, docetistas difusos, o facción interna) no puede determinarse con certeza histórica; se optó por 'medio' como compromiso que refleja el paralelo con Ignacio sin sobreidentificar al grupo.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28T00:00:00Z"
+      },
+      {
+        "campo": "año.desde / año.hasta",
+        "razon": "La fecha de composición 85-95 d.C. es la estimación reformada conservadora; algunos eruditos evangélicos proponen un rango más amplio (ca. 80-100 d.C.) o una fecha más temprana (ca. 60-65 d.C. antes de la destrucción de Jerusalén). Se adoptó el rango más común en los comentarios reformados estándar.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28T00:00:00Z"
+      },
+      {
+        "campo": "teologiaSistematica / distintivasReformadas / historiaRedentora",
+        "razon": "Los campos de interpretación teológica (categorías de teología sistemática, enfoque cristológico, distintivas reformadas) se basan primariamente en conocimiento interno (Grudem, Vos, Sproul, WCF), sin acceso directo a fuentes primarias digitales en esta sesión. Se calificó con deducción estándar de confianza (-0.05 por campo).",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28T00:00:00Z"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt (texto bíblico)",
+        "razon": "Los textos de los versículos clave se reprodujeron desde conocimiento interno de las versiones NBLA (es), ESV (en) y ARC (pt). Deben verificarse contra las ediciones digitales oficiales antes de publicar, especialmente el texto ARC que es menos frecuentemente citado en fuentes de consulta inmediata.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28T00:00:00Z"
+      },
+      {
+        "campo": "fuentes[].popup.url",
+        "razon": "Las URLs de los recursos de Theopedia, Crossway y Ligonier se proporcionaron desde conocimiento interno de la estructura típica de esos sitios. Deben verificarse que sean URLs activos y estables antes de publicar.",
+        "resuelto": false,
+        "fechaMarcado": "2026-06-28T00:00:00Z"
+      }
+    ],
+    "ultimaActualizacion": "2026-06-28T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.3.0",
+      "rol": "administrador",
+      "fechaRevision": "2026-06-28T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 3,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-06-28T00:00:00Z",
+          "fechaFin": "2026-06-28T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
