@@ -245,7 +245,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                       </VerseLink>
                       {nota && (
                         <div style={{fontSize: 14, lineHeight: 1.65, color: "rgba(22,8,2,0.78)", marginTop: 5, fontStyle: "italic"}}>
-                          {nota}
+                          {linkifyVerses(nota, lang)}
                         </div>
                       )}
                     </div>
