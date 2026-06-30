@@ -2428,274 +2428,561 @@
       "rangoInicio": 1,
       "rangoFin": 2,
       "titulo": {
-        "es": "Genealogía y Nacimiento",
-        "en": "Genealogy and Birth Narratives",
-        "pt": "Genealogia e Nascimento"
+        "es": "Nacimiento del Rey Prometido",
+        "en": "Birth of the Promised King",
+        "pt": "Nascimento do Rei Prometido"
       },
       "descripcion": {
-        "es": "Mateo abre con la genealogía de Jesús desde Abraham hasta David y hasta José (Mt 1:1–17), estableciendo su derecho davídico al trono, y narra su concepción virginal, nacimiento en Belén, la visita de los magos, la huida a Egipto y el regreso a Nazaret, presentando cada episodio como cumplimiento explícito de profecías del Antiguo Testamento.",
-        "en": "Matthew opens with Jesus' genealogy from Abraham through David to Joseph (Matt 1:1–17), establishing his Davidic right to the throne, and narrates his virginal conception, birth in Bethlehem, the visit of the magi, the flight to Egypt, and the return to Nazareth, presenting each episode as the explicit fulfillment of Old Testament prophecies.",
-        "pt": "Mateus abre com a genealogia de Jesus desde Abraão até Davi e até José (Mt 1:1–17), estabelecendo seu direito davídico ao trono, e narra sua concepção virginal, nascimento em Belém, a visita dos magos, a fuga para o Egito e o retorno a Nazaré, apresentando cada episódio como cumprimento explícito de profecias do Antigo Testamento."
+        "es": "La genealogía en tres series de catorce generaciones (Mt 1:1–17) ancla a Jesús en los pactos abrahámico y davídico. El Espíritu Santo engendra al Hijo en el vientre de María, cumpliendo Is 7:14 (Mt 1:22–23), y José lo reconoce legalmente como hijo de David. Magos del oriente adoran al niño mientras Herodes ordena la masacre de los inocentes; la huida a Egipto recapitula la historia de Israel (Mt 2:15; Os 11:1). El regreso a Nazaret completa cuatro cumplimientos explícitos que establecen a Jesús como el verdadero Israel.",
+        "en": "The genealogy in three sets of fourteen generations (Matt 1:1–17) anchors Jesus in the Abrahamic and Davidic covenants. The Holy Spirit conceives the Son in Mary's womb, fulfilling Isa 7:14 (Matt 1:22–23), and Joseph legally acknowledges him as son of David. Magi from the east worship the child while Herod orders the massacre of the innocents; the flight to Egypt recapitulates Israel's history (Matt 2:15; Hos 11:1). The return to Nazareth completes four explicit fulfillments establishing Jesus as the true Israel.",
+        "pt": "A genealogia em três séries de catorze gerações (Mt 1:1–17) ancora Jesus nas alianças abraâmica e davídica. O Espírito Santo concebe o Filho no ventre de Maria, cumprindo Is 7:14 (Mt 1:22–23), e José o reconhece legalmente como filho de Davi. Magos do oriente adoram a criança enquanto Herodes ordena a chacina dos inocentes; a fuga para o Egito recapitula a história de Israel (Mt 2:15; Os 11:1). O retorno a Nazaré completa quatro cumprimentos explícitos que estabelecem Jesus como o verdadeiro Israel."
       },
       "eventoClave": {
-        "es": "El nacimiento virginal de Jesús en Belén y la huida a Egipto",
-        "en": "The virgin birth of Jesus in Bethlehem and the flight to Egypt",
-        "pt": "O nascimento virginal de Jesus em Belém e a fuga para o Egito"
+        "es": "El nacimiento virginal en Belén cumple Is 7:14 y establece a Jesús como el Hijo de David, el heredero legítimo de todos los pactos divinos prometidos a Abraham y a David.",
+        "en": "The virgin birth in Bethlehem fulfills Isa 7:14 and establishes Jesus as the Son of David, the legitimate heir of all the divine covenants promised to Abraham and to David.",
+        "pt": "O nascimento virginal em Belém cumpre Is 7:14 e estabelece Jesus como o Filho de Davi, o herdeiro legítimo de todas as alianças divinas prometidas a Abraão e a Davi."
       },
       "versiculoClave": "Mt 1:23",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 7:14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La concepción virginal cumple la señal dada a la casa de David en tiempos de Acaz.",
+            "en": "The virginal conception fulfills the sign given to the house of David in the days of Ahaz.",
+            "pt": "A concepção virginal cumpre o sinal dado à casa de Davi nos dias de Acaz."
+          }
+        },
+        {
+          "ref": "Os 11:1",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La huida a Egipto y el regreso aplican la vocación de Israel al Hijo que recapitula la historia de su pueblo.",
+            "en": "The flight to Egypt and return apply Israel's calling to the Son who recapitulates his people's history.",
+            "pt": "A fuga para o Egito e o retorno aplicam a vocação de Israel ao Filho que recapitula a história de seu povo."
+          }
+        },
+        {
+          "ref": "Mi 5:2",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El nacimiento en Belén cumple la profecía del gobernante que saldrá de la ciudad de David.",
+            "en": "The birth in Bethlehem fulfills the prophecy of the ruler who will come from the city of David.",
+            "pt": "O nascimento em Belém cumpre a profecia do governante que sairá da cidade de Davi."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 3,
       "rangoFin": 4,
       "titulo": {
-        "es": "Bautismo y Tentación",
-        "en": "Baptism and Temptation",
-        "pt": "Batismo e Tentação"
+        "es": "Bautismo, Filiación y Tentación",
+        "en": "Baptism, Sonship, and Temptation",
+        "pt": "Batismo, Filiação e Tentação"
       },
       "descripcion": {
-        "es": "Juan el Bautista predica el arrepentimiento y bautiza a Jesús, sobre quien desciende el Espíritu y el Padre declara su filiación divina; Jesús es luego tentado por Satanás durante cuarenta días en el desierto, resistiendo con la Escritura, y comienza su ministerio público en Galilea llamando a sus primeros discípulos.",
-        "en": "John the Baptist preaches repentance and baptizes Jesus, upon whom the Spirit descends and the Father declares his divine sonship; Jesus is then tempted by Satan for forty days in the wilderness, resisting with Scripture, and begins his public ministry in Galilee by calling his first disciples.",
-        "pt": "João Batista prega o arrependimento e batiza Jesus, sobre quem desce o Espírito e o Pai declara sua filiação divina; Jesus é então tentado por Satanás durante quarenta dias no deserto, resistindo com a Escritura, e começa seu ministério público na Galileia chamando seus primeiros discípulos."
+        "es": "Juan el Bautista predica arrepentimiento en el Jordán y bautiza a Jesús, sobre quien desciende el Espíritu como paloma mientras el Padre declara su filiación divina (Mt 3:17), cumpliendo Is 42:1. Jesús es llevado al desierto cuarenta días, recapitulando los cuarenta años de Israel (Dt 8:2), y vence a Satanás citando tres veces el Deuteronomio donde Israel fracasó. De regreso a Galilea cumple Is 9:1–2 (Mt 4:14–16), llama a Simón, Andrés, Jacobo y Juan, y proclama: 'Arrepentíos, porque el reino de los cielos se ha acercado' (Mt 4:17).",
+        "en": "John the Baptist preaches repentance at the Jordan and baptizes Jesus, upon whom the Spirit descends as a dove while the Father declares his divine sonship (Matt 3:17), fulfilling Isa 42:1. Jesus is led into the wilderness forty days, recapitulating Israel's forty years (Deut 8:2), and defeats Satan by quoting Deuteronomy three times where Israel had failed. Returning to Galilee, he fulfills Isa 9:1–2 (Matt 4:14–16), calls Simon, Andrew, James, and John, and proclaims: 'Repent, for the kingdom of heaven is at hand' (Matt 4:17).",
+        "pt": "João Batista prega arrependimento no Jordão e batiza Jesus, sobre quem desce o Espírito como pomba enquanto o Pai declara sua filiação divina (Mt 3:17), cumprindo Is 42:1. Jesus é levado ao deserto por quarenta dias, recapitulando os quarenta anos de Israel (Dt 8:2), e vence Satanás citando três vezes o Deuteronômio onde Israel havia falhado. De volta à Galileia, cumpre Is 9:1–2 (Mt 4:14–16), chama Simão, André, Tiago e João, e proclama: 'Arrependei-vos, porque o reino dos céus está próximo' (Mt 4:17)."
       },
       "eventoClave": {
-        "es": "El bautismo de Jesús y su victoria sobre la tentación en el desierto",
-        "en": "Jesus' baptism and his victory over temptation in the wilderness",
-        "pt": "O batismo de Jesus e sua vitória sobre a tentação no deserto"
+        "es": "El bautismo de Jesús inaugura su ministerio mesiánico con la voz del Padre y el Espíritu, mientras su victoria en el desierto revierte el fracaso histórico de Israel.",
+        "en": "Jesus' baptism inaugurates his messianic ministry with the Father's voice and the Spirit, while his desert victory reverses Israel's historic failure.",
+        "pt": "O batismo de Jesus inaugura seu ministério messiânico com a voz do Pai e o Espírito, enquanto sua vitória no deserto reverte o fracasso histórico de Israel."
       },
       "versiculoClave": "Mt 3:17",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 42:1",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La voz del Padre en el bautismo evoca al Siervo sobre quien Dios pone su Espíritu según Is 42:1.",
+            "en": "The Father's voice at the baptism evokes the Servant upon whom God places his Spirit per Isa 42:1.",
+            "pt": "A voz do Pai no batismo evoca o Servo sobre quem Deus coloca seu Espírito conforme Is 42:1."
+          }
+        },
+        {
+          "ref": "Dt 8:2",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Los cuarenta días de tentación recapitulan los cuarenta años de Israel en el desierto, cumpliendo donde Israel falló.",
+            "en": "The forty days of temptation recapitulate Israel's forty years in the wilderness, succeeding where Israel failed.",
+            "pt": "Os quarenta dias de tentação recapitulam os quarenta anos de Israel no deserto, vencendo onde Israel falhou."
+          }
+        },
+        {
+          "ref": "Is 9:1-2",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El inicio del ministerio en Galilea de los Gentiles cumple la promesa de luz para Zabulón y Neftalí.",
+            "en": "The beginning of ministry in Galilee of the Gentiles fulfills the promise of light for Zebulun and Naphtali.",
+            "pt": "O início do ministério na Galileia dos Gentios cumpre a promessa de luz para Zebulom e Naftali."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 5,
       "rangoFin": 7,
       "titulo": {
-        "es": "El Sermón del Monte",
-        "en": "The Sermon on the Mount",
-        "pt": "O Sermão do Monte"
+        "es": "La Ley del Nuevo Pacto",
+        "en": "The Law of the New Covenant",
+        "pt": "A Lei da Nova Aliança"
       },
       "descripcion": {
-        "es": "Como nuevo Moisés, Jesús sube a un monte y proclama la ley definitiva del reino: las Bienaventuranzas, la sal y la luz, las antítesis que intensifican la ley mosaica revelando su sentido pleno, enseñanzas sobre la oración, el ayuno y las riquezas, y la exhortación final a edificar la vida sobre la roca de su palabra.",
-        "en": "As the new Moses, Jesus goes up a mountain and proclaims the definitive law of the kingdom: the Beatitudes, salt and light, the antitheses that intensify the Mosaic law by revealing its full sense, teachings on prayer, fasting, and wealth, and the final exhortation to build one's life on the rock of his word.",
-        "pt": "Como o novo Moisés, Jesus sobe a um monte e proclama a lei definitiva do reino: as Bem-aventuranças, o sal e a luz, as antíteses que intensificam a lei mosaica revelando seu sentido pleno, ensinamentos sobre a oração, o jejum e as riquezas, e a exortação final a edificar a vida sobre a rocha de sua palavra."
+        "es": "Como nuevo Moisés, Jesús sube al monte y proclama las Bienaventuranzas (Mt 5:3–12) como perfil del ciudadano del reino, declarando que no ha venido a abolir la ley sino a cumplirla (Mt 5:17). Las seis antítesis ('Oísteis... pero yo os digo') revelan el sentido espiritual pleno de la Torá, internalizando la ley en el corazón conforme a Jr 31:33. Mt 6 enseña sobre la limosna, la oración y el ayuno practicados ante Dios, coronados por el Padrenuestro. Mt 7 exhorta a edificar la vida sobre la roca de obediencia a Cristo, cuya autoridad asombra a las multitudes.",
+        "en": "As the new Moses, Jesus ascends the mountain and proclaims the Beatitudes (Matt 5:3–12) as the profile of the kingdom citizen, declaring he came not to abolish the law but to fulfill it (Matt 5:17). The six antitheses ('You have heard… but I say') reveal the law's full spiritual meaning, internalizing it in the heart according to Jer 31:33. Matt 6 teaches almsgiving, prayer, and fasting before God, crowned by the Lord's Prayer. Matt 7 exhorts building life on the rock of obedience to Christ, whose authority astonishes the crowds.",
+        "pt": "Como novo Moisés, Jesus sobe ao monte e proclama as Bem-aventuranças (Mt 5:3–12) como perfil do cidadão do reino, declarando que não veio abolir a lei, mas cumpri-la (Mt 5:17). As seis antíteses ('Ouvistes... mas eu vos digo') revelam o sentido espiritual pleno da Torá, internalizando-a no coração conforme Jr 31:33. Mt 6 ensina a esmola, a oração e o jejum diante de Deus, coroados pelo Pai-nosso. Mt 7 exorta a edificar a vida sobre a rocha da obediência a Cristo, cuja autoridade assombra as multidões."
       },
       "eventoClave": {
-        "es": "La proclamación de la ley del reino desde el monte",
-        "en": "The proclamation of the kingdom's law from the mountain",
-        "pt": "A proclamação da lei do reino a partir do monte"
+        "es": "La proclamación de las Bienaventuranzas y la ley del reino desde el monte establece a Jesús como el nuevo Moisés y legislador del nuevo pacto de gracia inaugurado.",
+        "en": "The proclamation of the Beatitudes and the kingdom's law from the mountain establishes Jesus as the new Moses and lawgiver of the inaugurated new covenant of grace.",
+        "pt": "A proclamação das Bem-aventuranças e da lei do reino a partir do monte estabelece Jesus como o novo Moisés e legislador da nova aliança de graça inaugurada."
       },
       "versiculoClave": "Mt 5:17",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jr 31:33",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Las antítesis revelan la ley escrita en el corazón prometida en el nuevo pacto de Jr 31.",
+            "en": "The antitheses reveal the law written on the heart promised in the new covenant of Jer 31.",
+            "pt": "As antíteses revelam a lei escrita no coração prometida na nova aliança de Jr 31."
+          }
+        },
+        {
+          "ref": "Ex 19:3",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Jesús sube al monte como Moisés al Sinaí, pero promulga la ley con autoridad propia como Dios mismo.",
+            "en": "Jesus ascends the mountain as Moses did Sinai, but promulgates the law with his own authority as God himself.",
+            "pt": "Jesus sobe ao monte como Moisés ao Sinai, mas promulga a lei com autoridade própria como o próprio Deus."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 8,
       "rangoFin": 9,
       "titulo": {
-        "es": "Milagros de Poder y Compasión",
-        "en": "Miracles of Power and Compassion",
-        "pt": "Milagres de Poder e Compaixão"
+        "es": "Milagros que Acreditan al Mesías",
+        "en": "Miracles Accrediting the Messiah",
+        "pt": "Milagres que Credenciam o Messias"
       },
       "descripcion": {
-        "es": "Jesús sana a un leproso, al siervo de un centurión y a la suegra de Pedro, calma una tempestad, expulsa demonios, perdona y sana a un paralítico, llama a Mateo el publicano, resucita a la hija de un oficial y devuelve la vista a los ciegos, demostrando su autoridad sobre la enfermedad, la naturaleza, los demonios y la muerte.",
-        "en": "Jesus heals a leper, a centurion's servant, and Peter's mother-in-law, calms a storm, casts out demons, forgives and heals a paralytic, calls Matthew the tax collector, raises an official's daughter, and restores sight to the blind, demonstrating his authority over sickness, nature, demons, and death.",
-        "pt": "Jesus cura um leproso, o servo de um centurião e a sogra de Pedro, acalma uma tempestade, expulsa demônios, perdoa e cura um paralítico, chama Mateus, o publicano, ressuscita a filha de um oficial e devolve a visão aos cegos, demonstrando sua autoridade sobre a doença, a natureza, os demônios e a morte."
+        "es": "Tras el Sermón, Jesús realiza diez milagros que demuestran autoridad sobre la enfermedad, los demonios y la muerte: sana al leproso (Mt 8:3), al siervo de un centurión gentil cuya fe supera a Israel (Mt 8:10), a la suegra de Pedro; calma el mar de Galilea; expulsa una legión de demonios; perdona y sana a un paralítico; llama a Mateo el publicano; resucita a la hija de Jairo y sana a la mujer con flujo de sangre; devuelve la vista a dos ciegos. Mateo interpreta esta cadena citando Is 53:4 (Mt 8:17), vinculando los milagros al Siervo sufriente del pacto.",
+        "en": "After the Sermon, Jesus performs ten miracles demonstrating authority over sickness, demons, and death: he heals a leper (Matt 8:3), a Gentile centurion's servant whose faith surpasses Israel's (Matt 8:10), and Peter's mother-in-law; calms the Sea of Galilee; casts out a legion of demons; forgives and heals a paralytic; calls Matthew the tax collector; raises Jairus's daughter and heals the hemorrhaging woman; restores sight to two blind men. Matthew interprets this chain by citing Isa 53:4 (Matt 8:17), linking the miracles to the covenant Suffering Servant.",
+        "pt": "Após o Sermão, Jesus realiza dez milagres que demonstram autoridade sobre a doença, os demônios e a morte: cura o leproso (Mt 8:3), o servo de um centurião gentio cuja fé supera a de Israel (Mt 8:10), e a sogra de Pedro; acalma o mar da Galileia; expulsa uma legião de demônios; perdoa e cura um paralítico; chama Mateus, o publicano; ressuscita a filha de Jairo e cura a mulher com hemorragia; devolve a visão a dois cegos. Mateus interpreta essa cadeia citando Is 53:4 (Mt 8:17), vinculando os milagres ao Servo sofredor da aliança."
       },
       "eventoClave": {
-        "es": "La serie de milagros que confirma la autoridad mesiánica de Jesús",
-        "en": "The series of miracles confirming Jesus' messianic authority",
-        "pt": "A série de milagres que confirma a autoridade messiânica de Jesus"
+        "es": "La serie de diez milagros, interpretada desde Is 53:4, acredita a Jesús como el Mesías-Siervo del pacto que carga con las dolencias físicas y espirituales de su pueblo.",
+        "en": "The series of ten miracles, interpreted through Isa 53:4, accredits Jesus as the covenant Messiah-Servant who bears his people's physical and spiritual infirmities.",
+        "pt": "A série de dez milagres, interpretada a partir de Is 53:4, credencia Jesus como o Messias-Servo da aliança que carrega as enfermidades físicas e espirituais de seu povo."
       },
-      "versiculoClave": "Mt 8:16-17",
-      "era": "Cumplimiento"
+      "versiculoClave": "Mt 8:17",
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 53:4",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Mateo cita Is 53:4 para interpretar las sanidades de Jesús como cumplimiento del Siervo sufriente.",
+            "en": "Matthew cites Isa 53:4 to interpret Jesus' healings as fulfillment of the Suffering Servant.",
+            "pt": "Mateus cita Is 53:4 para interpretar as curas de Jesus como cumprimento do Servo sofredor."
+          }
+        },
+        {
+          "ref": "Sal 107:28-29",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El dominio de Jesús sobre el mar de Galilea evoca la soberanía de Yahvé sobre las aguas en los Salmos.",
+            "en": "Jesus' dominion over the Sea of Galilee evokes Yahweh's sovereignty over the waters in the Psalms.",
+            "pt": "O domínio de Jesus sobre o mar da Galileia evoca a soberania de Javé sobre as águas nos Salmos."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 10,
       "rangoFin": 10,
       "titulo": {
-        "es": "El Discurso de Misión",
-        "en": "The Mission Discourse",
-        "pt": "O Discurso da Missão"
+        "es": "El Discurso Misionero de los Doce",
+        "en": "The Missionary Discourse of the Twelve",
+        "pt": "O Discurso Missionário dos Doze"
       },
       "descripcion": {
-        "es": "Jesús reúne a los Doce, los enumera por nombre y los envía a predicar el reino y sanar en las ciudades de Israel, instruyéndolos sobre la dependencia, la persecución que enfrentarán y la promesa de que quien los reciba a ellos recibe a quien los envió.",
-        "en": "Jesus gathers the Twelve, names them, and sends them out to preach the kingdom and heal in the cities of Israel, instructing them about dependence, the persecution they will face, and the promise that whoever receives them receives the one who sent them.",
-        "pt": "Jesus reúne os Doze, os enumera pelo nome e os envia para pregar o reino e curar nas cidades de Israel, instruindo-os sobre a dependência, a perseguição que enfrentarão e a promessa de que quem os recebe recebe aquele que os enviou."
+        "es": "Jesús llama a los doce discípulos, los enumera por nombre como los patriarcas de un nuevo Israel y les confiere autoridad para sanar, resucitar y expulsar demonios (Mt 10:1). Los envía inicialmente solo a las ovejas perdidas de Israel (Mt 10:6), instruyéndolos sobre la dependencia radical y la hospitalidad misionera. La segunda mitad amplía el horizonte hacia la persecución ante gobernadores, la división familiar y la promesa de que recibir a estos enviados equivale a recibir al Padre mismo (Mt 10:40). Este discurso anticipa la extensión universal que se consumará en Mt 28:19.",
+        "en": "Jesus calls the twelve disciples, names them as the patriarchs of a new Israel, and gives them authority to heal, raise the dead, and cast out demons (Matt 10:1). He sends them initially only to the lost sheep of Israel (Matt 10:6), instructing them on radical dependence and missionary hospitality. The second half expands the horizon to persecution before governors, family division, and the promise that receiving these envoys means receiving the Father himself (Matt 10:40). This discourse anticipates the universal extension consummated in Matt 28:19.",
+        "pt": "Jesus chama os doze discípulos, os enumera pelo nome como os patriarcas de um novo Israel e lhes confere autoridade para curar, ressuscitar e expulsar demônios (Mt 10:1). Os envia inicialmente apenas às ovelhas perdidas de Israel (Mt 10:6), instruindo-os sobre a dependência radical e a hospitalidade missionária. A segunda metade amplia o horizonte para a perseguição diante de governadores, a divisão familiar e a promessa de que receber esses enviados equivale a receber o próprio Pai (Mt 10:40). Este discurso antecipa a extensão universal que se consumará em Mt 28:19."
       },
       "eventoClave": {
-        "es": "El envío de los Doce apóstoles a Israel",
-        "en": "The sending out of the Twelve apostles to Israel",
-        "pt": "O envio dos Doze apóstolos a Israel"
+        "es": "El envío de los Doce con autoridad apostólica para sanar y proclamar el reino constituye el núcleo del nuevo Israel misionero enviado a las ovejas perdidas de la casa de Israel.",
+        "en": "The sending of the Twelve with apostolic authority to heal and proclaim the kingdom constitutes the nucleus of the new missionary Israel sent to the lost sheep of the house of Israel.",
+        "pt": "O envio dos Doze com autoridade apostólica para curar e proclamar o reino constitui o núcleo do novo Israel missionário enviado às ovelhas perdidas da casa de Israel."
       },
       "versiculoClave": "Mt 10:7",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ez 34:15-16",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La búsqueda de las ovejas perdidas de Israel se enmarca en la promesa pastoral mesiánica de Ez 34.",
+            "en": "The search for Israel's lost sheep is framed by the messianic pastoral promise of Ezek 34.",
+            "pt": "A busca das ovelhas perdidas de Israel se enquadra na promessa pastoral messiânica de Ez 34."
+          }
+        },
+        {
+          "ref": "Is 6:9-10",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La advertencia de persecución y rechazo recuerda la comisión de Isaías de proclamar ante un pueblo que no escucharía.",
+            "en": "The warning of persecution and rejection recalls Isaiah's commission to proclaim to a people who would not hear.",
+            "pt": "O aviso de perseguição e rejeição recorda a comissão de Isaías de proclamar a um povo que não ouviria."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 11,
       "rangoFin": 12,
       "titulo": {
-        "es": "Respuestas a Jesús y Conflicto",
-        "en": "Responses to Jesus and Conflict",
-        "pt": "Respostas a Jesus e Conflito"
+        "es": "Incredulidad, Conflicto y el Siervo Elegido",
+        "en": "Unbelief, Conflict, and the Chosen Servant",
+        "pt": "Incredulidade, Conflito e o Servo Eleito"
       },
       "descripcion": {
-        "es": "Juan el Bautista, desde la prisión, cuestiona la identidad de Jesús; Jesús pronuncia ayes contra las ciudades incrédulas y ofrece descanso a los cansados; los fariseos lo confrontan por sanar y por la observancia del sábado, y Jesús responde afirmando ser mayor que el templo y el Señor del sábado.",
-        "en": "John the Baptist, from prison, questions Jesus' identity; Jesus pronounces woes against unbelieving cities and offers rest to the weary; the Pharisees confront him over healing and Sabbath observance, and Jesus responds by affirming he is greater than the temple and Lord of the Sabbath.",
-        "pt": "João Batista, da prisão, questiona a identidade de Jesus; Jesus pronuncia ais contra as cidades incrédulas e oferece descanso aos cansados; os fariseus o confrontam por curar e pela observância do sábado, e Jesus responde afirmando ser maior que o templo e Senhor do sábado."
+        "es": "Juan el Bautista pregunta desde la cárcel si Jesús es el esperado (Mt 11:3); Jesús responde con los signos de Is 35 y pronuncia ayes sobre Corazín y Capernaúm. Los fariseos lo confrontan dos veces sobre el sábado y Jesús se declara Señor del sábado (Mt 12:8). Mateo cita Is 42:1–4 (Mt 12:17–21): el Siervo manso extenderá la justicia a las naciones. La blasfemia contra el Espíritu (Mt 12:31) y la señal de Jonás (Mt 12:40) revelan el endurecimiento final de los líderes.",
+        "en": "John the Baptist asks from prison whether Jesus is the one expected (Matt 11:3); Jesus responds with the signs of Isa 35 and pronounces woes on Chorazin and Capernaum. The Pharisees confront him twice over the Sabbath and Jesus declares himself Lord of the Sabbath (Matt 12:8). Matthew cites Isa 42:1–4 (Matt 12:17–21): the gentle Servant will extend justice to the nations. The blasphemy against the Spirit (Matt 12:31) and the sign of Jonah (Matt 12:40) reveal the leaders' final hardening.",
+        "pt": "João Batista, preso, pergunta se Jesus é o esperado (Mt 11:3); Jesus responde com os sinais de Is 35 e pronuncia ais sobre Corazim, Betsaida e Cafarnaum. Os fariseus o confrontam duas vezes sobre o sábado — discípulos colhendo espigas e a cura da mão seca — e Jesus declara ser maior que o templo e Senhor do sábado (Mt 12:8). Mateus vê a rejeição como cumprimento de Is 42:1–4 (Mt 12:17–21): o Servo manso não contenderá, mas estenderá a justiça às nações. A blasfêmia contra o Espírito (Mt 12:31) e o sinal de Jonas (Mt 12:40) revelam o endurecimento final dos líderes religiosos."
       },
       "eventoClave": {
-        "es": "La intensificación del conflicto con los fariseos sobre el sábado",
-        "en": "The intensifying conflict with the Pharisees over the Sabbath",
-        "pt": "A intensificação do conflito com os fariseus sobre o sábado"
+        "es": "La declaración de Jesús como Señor del sábado y el cumplimiento de Is 42:1–4 revelan al Siervo manso cuyo rechazo por Israel abre la puerta a los gentiles.",
+        "en": "Jesus' declaration as Lord of the Sabbath and the fulfillment of Isa 42:1–4 reveal the gentle Servant whose rejection by Israel opens the door to the Gentiles.",
+        "pt": "A declaração de Jesus como Senhor do sábado e o cumprimento explícito de Is 42:1–4 revelam o Servo manso cuja rejeição por Israel abre a porta ao mundo gentílico."
       },
-      "versiculoClave": "Mt 12:8",
-      "era": "Cumplimiento"
+      "versiculoClave": "Mt 12:18",
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 42:1-4",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Mateo cita Is 42:1–4 para interpretar la mansedumbre de Jesús ante el rechazo de los fariseos.",
+            "en": "Matthew explicitly cites Isa 42:1–4 to interpret Jesus' gentleness in the face of the Pharisees' rejection.",
+            "pt": "Mateus cita Is 42:1–4 explicitamente para interpretar a mansidão de Jesus diante da rejeição dos fariseus."
+          }
+        },
+        {
+          "ref": "Is 35:5-6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Las obras de Jesús —ciegos que ven, cojos que andan— cumplen los signos del año de salvación de Is 35.",
+            "en": "Jesus' works — blind seeing, lame walking — fulfill the signs of the year of salvation in Isa 35.",
+            "pt": "As obras de Jesus — cegos que veem, coxos que andam — cumprem os sinais do ano de salvação de Is 35."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 13,
       "rangoFin": 13,
       "titulo": {
-        "es": "Parábolas del Reino",
-        "en": "Parables of the Kingdom",
-        "pt": "Parábolas do Reino"
+        "es": "Parábolas del Misterio del Reino",
+        "en": "Parables of the Kingdom's Mystery",
+        "pt": "Parábolas do Mistério do Reino"
       },
       "descripcion": {
-        "es": "Jesús enseña en parábolas sobre la naturaleza del reino de los cielos: el sembrador, el trigo y la cizaña, la semilla de mostaza, la levadura, el tesoro escondido, la perla de gran precio y la red, revelando su crecimiento gradual, su valor incomparable y su juicio final.",
-        "en": "Jesus teaches in parables about the nature of the kingdom of heaven: the sower, the wheat and the weeds, the mustard seed, the leaven, the hidden treasure, the pearl of great price, and the net, revealing its gradual growth, its incomparable value, and its final judgment.",
-        "pt": "Jesus ensina em parábolas sobre a natureza do reino dos céus: o semeador, o trigo e o joio, o grão de mostarda, o fermento, o tesouro escondido, a pérola de grande valor e a rede, revelando seu crescimento gradual, seu valor incomparável e seu juízo final."
+        "es": "Ante el rechazo de Israel, Jesús imparte el tercer gran discurso desde una barca (Mt 13:1–3): el sembrador revela cuatro clases de respuesta al evangelio según el suelo del corazón; el trigo y la cizaña enseñan que el juicio final separará a los justos sin erradicación prematura. La semilla de mostaza y la levadura ilustran el crecimiento invisible del reino (Mt 13:31–33); el tesoro y la perla exaltan su valor que justifica todo sacrificio. Mateo señala que Jesús cumple Sal 78:2 (Mt 13:35), velando el misterio a los endurecidos y revelándolo a quienes tienen oídos para oír.",
+        "en": "Facing Israel's rejection, Jesus delivers the third great discourse from a boat (Matt 13:1–3): the sower reveals four responses to the gospel according to the heart's soil; the wheat and weeds teach that final judgment will separate the righteous without premature eradication. The mustard seed and leaven illustrate the kingdom's hidden growth (Matt 13:31–33); the treasure and the pearl exalt its value that justifies every sacrifice. Matthew notes that Jesus fulfills Ps 78:2 (Matt 13:35), veiling the mystery from the hardened and revealing it to those with ears to hear.",
+        "pt": "Diante da rejeição de Israel, Jesus apresenta o terceiro grande discurso de um barco (Mt 13:1–3): o semeador revela quatro respostas ao evangelho conforme o solo do coração; o trigo e o joio ensinam que o juízo final separará os justos sem erradicação prematura. O grão de mostarda e o fermento ilustram o crescimento oculto do reino (Mt 13:31–33); o tesouro e a pérola exaltam seu valor que justifica todo sacrifício. Mateus nota que Jesus cumpre Sl 78:2 (Mt 13:35), velando o mistério aos endurecidos e revelando-o aos que têm ouvidos para ouvir."
       },
       "eventoClave": {
-        "es": "El discurso de las parábolas sobre el reino de los cielos",
-        "en": "The discourse of parables about the kingdom of heaven",
-        "pt": "O discurso das parábolas sobre o reino dos céus"
+        "es": "El discurso parabólico que cumple Sal 78:2 revela el misterio soberano del reino a los discípulos creyentes, mientras lo vela a los líderes religiosos endurecidos de Israel.",
+        "en": "The parabolic discourse fulfilling Ps 78:2 reveals the kingdom's sovereign mystery to the believing disciples while veiling it from the hardened religious leaders of Israel.",
+        "pt": "O discurso parabólico que cumpre Sl 78:2 revela o mistério soberano do reino aos discípulos crentes, ao mesmo tempo em que o vela dos líderes religiosos endurecidos de Israel."
       },
-      "versiculoClave": "Mt 13:31-32",
-      "era": "Cumplimiento"
+      "versiculoClave": "Mt 13:11",
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 78:2",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Mateo cita Sal 78:2 explícitamente para justificar las parábolas como revelación velada del misterio del reino.",
+            "en": "Matthew explicitly cites Ps 78:2 to justify the parables as the veiled revelation of the kingdom's mystery.",
+            "pt": "Mateus cita Sl 78:2 explicitamente para justificar as parábolas como revelação velada do mistério do reino."
+          }
+        },
+        {
+          "ref": "Is 6:9-10",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Enseñar en parábolas para velar la verdad a los endurecidos recuerda la comisión de Isaías de predicar a un pueblo que no oiría.",
+            "en": "Teaching in parables to veil truth from the hardened recalls Isaiah's commission to preach to a people who would not hear.",
+            "pt": "Ensinar em parábolas para velar a verdade dos endurecidos recorda a comissão de Isaías de pregar a um povo que não ouviria."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 14,
       "rangoFin": 17,
       "titulo": {
-        "es": "Ministerio Creciente y Transfiguración",
-        "en": "Expanding Ministry and the Transfiguration",
-        "pt": "Ministério Crescente e Transfiguração"
+        "es": "Ministerio Expandido y Gloria Revelada",
+        "en": "Expanding Ministry and Revealed Glory",
+        "pt": "Ministério Expandido e Glória Revelada"
       },
       "descripcion": {
-        "es": "Herodes decapita a Juan el Bautista; Jesús multiplica panes, camina sobre el agua, confronta la hipocresía farisea, alimenta a cuatro mil, y en Cesarea de Filipo Pedro lo confiesa como el Cristo; Jesús predice su pasión y es transfigurado ante Pedro, Jacobo y Juan, confirmando su gloria divina.",
-        "en": "Herod beheads John the Baptist; Jesus multiplies loaves, walks on water, confronts Pharisaic hypocrisy, feeds four thousand, and at Caesarea Philippi Peter confesses him as the Christ; Jesus predicts his passion and is transfigured before Peter, James, and John, confirming his divine glory.",
-        "pt": "Herodes decapita João Batista; Jesus multiplica pães, caminha sobre a água, confronta a hipocrisia fariseia, alimenta quatro mil, e em Cesareia de Filipe Pedro o confessa como o Cristo; Jesus prediz sua paixão e é transfigurado diante de Pedro, Tiago e João, confirmando sua glória divina."
+        "es": "Herodes Antipas decapita a Juan el Bautista (Mt 14:10); Jesús multiplica cinco panes para cinco mil, evocando el maná del desierto; camina sobre el agua y rescata a Pedro. Confronta la hipocresía farisea sobre la pureza, sana a la hija de una mujer cananea, expandiendo la misión hacia los gentiles, y alimenta a cuatro mil. En Cesarea de Filipo Pedro confiesa: 'Tú eres el Cristo, el Hijo del Dios viviente' (Mt 16:16), y Jesús promete edificar su Iglesia. Jesús es transfigurado ante Pedro, Jacobo y Juan con Moisés y Elías, confirmando que la ley y los profetas convergen en él (Mt 17:5).",
+        "en": "Herod Antipas beheads John the Baptist (Matt 14:10); Jesus multiplies five loaves for five thousand, evoking the wilderness manna; he walks on water and rescues Peter. He confronts Pharisaic hypocrisy on purity, heals the daughter of a Canaanite woman — expanding the mission toward Gentiles — and feeds four thousand. At Caesarea Philippi Peter confesses: 'You are the Christ, the Son of the living God' (Matt 16:16), and Jesus promises to build his church. Jesus is transfigured before Peter, James, and John with Moses and Elijah, confirming that the law and prophets converge in him (Matt 17:5).",
+        "pt": "Herodes Antipas decapita João Batista (Mt 14:10); Jesus multiplica cinco pães para cinco mil, evocando o maná do deserto; caminha sobre a água e resgata Pedro. Confronta a hipocrisia fariseia sobre a pureza, cura a filha de uma mulher cananeia — expandindo a missão em direção aos gentios — e alimenta quatro mil. Em Cesareia de Filipe, Pedro confessa: 'Tu és o Cristo, o Filho do Deus vivo' (Mt 16:16), e Jesus promete edificar sua Igreja. Jesus é transfigurado diante de Pedro, Tiago e João com Moisés e Elias, confirmando que a lei e os profetas convergem nele (Mt 17:5)."
       },
       "eventoClave": {
-        "es": "La confesión de Pedro y la transfiguración de Jesús",
-        "en": "Peter's confession and the transfiguration of Jesus",
-        "pt": "A confissão de Pedro e a transfiguração de Jesus"
+        "es": "La confesión de Pedro y la transfiguración de Jesús con Moisés y Elías revelan su identidad divina como cumplimiento de toda la ley y todos los profetas.",
+        "en": "Peter's confession and Jesus' transfiguration with Moses and Elijah reveal his divine identity as the fulfillment of the entire law and all the prophets.",
+        "pt": "A confissão de Pedro e a transfiguração de Jesus com Moisés e Elias revelam sua identidade divina como cumprimento de toda a lei e de todos os profetas."
       },
       "versiculoClave": "Mt 16:16",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 18:15",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La voz del Padre en la transfiguración ('Escuchadle') identifica a Jesús como el profeta como Moisés de Dt 18:15.",
+            "en": "The Father's voice at the transfiguration ('Listen to him') identifies Jesus as the prophet like Moses of Deut 18:15.",
+            "pt": "A voz do Pai na transfiguração ('Ouvi-o') identifica Jesus como o profeta como Moisés de Dt 18:15."
+          }
+        },
+        {
+          "ref": "Dn 7:13-14",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La promesa del Hijo del Hombre que vendrá en gloria (Mt 16:27) anticipa la investidura del Hijo del Hombre en Dn 7.",
+            "en": "The promise of the Son of Man coming in glory (Matt 16:27) anticipates the investiture of the Son of Man in Dan 7.",
+            "pt": "A promessa do Filho do Homem que virá em glória (Mt 16:27) antecipa a investidura do Filho do Homem em Dn 7."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 18,
       "rangoFin": 18,
       "titulo": {
-        "es": "Discurso sobre la Comunidad",
-        "en": "Discourse on the Community",
-        "pt": "Discurso sobre a Comunidade"
+        "es": "Vida Comunitaria del Reino",
+        "en": "Community Life in the Kingdom",
+        "pt": "Vida Comunitária do Reino"
       },
       "descripcion": {
-        "es": "Jesús enseña sobre la humildad como condición de entrada al reino, la gravedad de hacer tropezar a los pequeños, la búsqueda de la oveja perdida, el procedimiento de disciplina eclesial y la parábola del siervo despiadado sobre el perdón ilimitado entre hermanos.",
-        "en": "Jesus teaches about humility as the condition for entering the kingdom, the gravity of causing little ones to stumble, the search for the lost sheep, the procedure of church discipline, and the parable of the unforgiving servant on unlimited forgiveness among brothers.",
-        "pt": "Jesus ensina sobre a humildade como condição de entrada no reino, a gravidade de fazer os pequenos tropeçarem, a busca da ovelha perdida, o procedimento de disciplina eclesial e a parábola do servo impiedoso sobre o perdão ilimitado entre irmãos."
+        "es": "El cuarto discurso responde a quién es mayor en el reino (Mt 18:1): Jesús coloca a un niño como modelo de humildad y advierte sobre escandalizar a los creyentes vulnerables. La parábola de la oveja perdida (Mt 18:12–14) ilustra que cada miembro vale para el Padre. El procedimiento de disciplina eclesial en pasos progresivos (Mt 18:15–20) otorga a la Iglesia autoridad de atar y desatar, con la presencia de Cristo garantizada donde dos o tres se reúnen en su nombre. La parábola del siervo despiadado (Mt 18:23–35) enseña que el perdón recibido de Dios debe fluir hacia los hermanos.",
+        "en": "The fourth discourse answers who is greatest in the kingdom (Matt 18:1): Jesus places a child as the model of humility and warns against scandalizing vulnerable believers. The parable of the lost sheep (Matt 18:12–14) illustrates that every member matters to the Father. The church discipline procedure in progressive steps (Matt 18:15–20) grants the church authority to bind and loose, with Christ's presence guaranteed where two or three gather in his name. The parable of the unforgiving servant (Matt 18:23–35) teaches that forgiveness received from God must flow toward brothers.",
+        "pt": "O quarto discurso responde a quem é maior no reino (Mt 18:1): Jesus coloca uma criança como modelo de humildade e adverte sobre escandalizar os crentes vulneráveis. A parábola da ovelha perdida (Mt 18:12–14) ilustra que cada membro importa para o Pai. O procedimento de disciplina eclesial em etapas progressivas (Mt 18:15–20) outorga à Igreja autoridade de atar e desatar, com a presença de Cristo garantida onde dois ou três se reúnem em seu nome. A parábola do servo impiedoso (Mt 18:23–35) ensina que o perdão recebido de Deus deve fluir para os irmãos."
       },
       "eventoClave": {
-        "es": "El establecimiento del procedimiento de disciplina eclesial",
-        "en": "The establishment of the church discipline procedure",
-        "pt": "O estabelecimento do procedimento de disciplina eclesial"
+        "es": "El procedimiento de disciplina eclesial y la promesa de la presencia de Cristo donde dos o tres se reúnen en su nombre (Mt 18:20) definen el orden del nuevo pueblo de pacto.",
+        "en": "The church discipline procedure and the promise of Christ's presence wherever two or three gather in his name (Matt 18:20) define the order of the new covenant people.",
+        "pt": "O procedimento de disciplina eclesial e a promessa da presença de Cristo onde dois ou três se reúnem em seu nome (Mt 18:20) definem a ordem do novo povo da aliança."
       },
       "versiculoClave": "Mt 18:20",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ez 34:11-12",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La parábola de la oveja perdida aplica la promesa de Yahvé de buscar las ovejas dispersas de Ez 34 a la comunidad del reino.",
+            "en": "The lost sheep parable applies Yahweh's promise to seek the scattered sheep of Ezek 34 to the kingdom community.",
+            "pt": "A parábola da ovelha perdida aplica a promessa de Javé de buscar as ovelhas dispersas de Ez 34 à comunidade do reino."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 19,
       "rangoFin": 20,
       "titulo": {
-        "es": "Camino a Jerusalén",
-        "en": "On the Way to Jerusalem",
-        "pt": "Caminho para Jerusalém"
+        "es": "Enseñanzas en el Camino a Jerusalén",
+        "en": "Teachings on the Road to Jerusalem",
+        "pt": "Ensinamentos no Caminho para Jerusalém"
       },
       "descripcion": {
-        "es": "Jesús enseña sobre el matrimonio y el divorcio, bendice a los niños, dialoga con el joven rico sobre las riquezas y la vida eterna, narra la parábola de los obreros de la viña sobre la gracia, predice por tercera vez su pasión y sana a dos ciegos en Jericó.",
-        "en": "Jesus teaches on marriage and divorce, blesses the children, dialogues with the rich young man about wealth and eternal life, narrates the parable of the laborers in the vineyard about grace, predicts his passion for the third time, and heals two blind men in Jericho.",
-        "pt": "Jesus ensina sobre o casamento e o divórcio, bendiz as crianças, dialoga com o jovem rico sobre as riquezas e a vida eterna, narra a parábola dos trabalhadores da vinha sobre a graça, prediz pela terceira vez sua paixão e cura dois cegos em Jericó."
+        "es": "Cruzando el Jordán hacia Judea, Jesús enseña sobre el matrimonio (Mt 19:3–9), restaurando el ideal creacional de Gn 2:24 sobre las concesiones de la Torá, y bendice a los niños como representantes del reino. El joven rico revela la imposibilidad humana de salvarse por obras (Mt 19:26). La parábola de los obreros de la viña (Mt 20:1–16) ilustra que la gracia soberana recompensa según la benevolencia divina, no el mérito. Jesús predice su pasión por tercera vez y enseña que la grandeza es servicio, siendo el Hijo del Hombre el modelo supremo: dar su vida en rescate por muchos (Mt 20:28).",
+        "en": "Crossing the Jordan into Judea, Jesus teaches on marriage (Matt 19:3–9), restoring the creational ideal of Gen 2:24 over Torah concessions, and blesses children as kingdom heirs. The rich young man exposes the impossibility of salvation by works (Matt 19:26). The parable of the vineyard laborers (Matt 20:1–16) shows sovereign grace rewarding by generosity, not merit. Jesus predicts his passion a third time and teaches that greatness is service; the Son of Man himself gives his life as a ransom for many (Matt 20:28).",
+        "pt": "Cruzando o Jordão em direção à Judeia, Jesus ensina sobre o casamento (Mt 19:3–9), restaurando o ideal criacional de Gn 2:24 sobre as concessões da Torá, e abençoa as crianças como representantes do reino. O jovem rico revela a impossibilidade humana de ser salvo pelas obras (Mt 19:26). A parábola dos trabalhadores da vinha (Mt 20:1–16) ilustra que a graça soberana recompensa conforme a generosidade divina, não o mérito. Jesus prediz sua paixão pela terceira vez e ensina que a grandeza é o serviço, sendo o Filho do Homem o modelo supremo: dar sua vida em resgate por muitos (Mt 20:28)."
       },
       "eventoClave": {
-        "es": "El diálogo con el joven rico y la tercera predicción de la pasión",
-        "en": "The dialogue with the rich young man and the third passion prediction",
-        "pt": "O diálogo com o jovem rico e a terceira predição da paixão"
+        "es": "La declaración del Hijo del Hombre que da su vida en rescate por muchos (Mt 20:28) es la cristología soteriológica más densa antes de la narrativa de la Pasión.",
+        "en": "The declaration of the Son of Man giving his life as a ransom for many (Matt 20:28) is the most concentrated soteriological Christology before the Passion narrative.",
+        "pt": "A declaração do Filho do Homem dando sua vida em resgate por muitos (Mt 20:28) é a cristologia soteriológica mais concentrada antes da narrativa da Paixão."
       },
       "versiculoClave": "Mt 20:28",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 53:10-12",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El rescate por muchos de Mt 20:28 recoge el lenguaje del Siervo que lleva los pecados de muchos de Is 53:12.",
+            "en": "The ransom for many in Matt 20:28 draws on the Servant language of bearing the sins of many in Isa 53:12.",
+            "pt": "O resgate por muitos em Mt 20:28 retoma a linguagem do Servo que carrega os pecados de muitos em Is 53:12."
+          }
+        },
+        {
+          "ref": "Gn 2:24",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Gn 2:24 para anclar la indisolubilidad del matrimonio en el orden creacional, sobre la casuística farisea.",
+            "en": "Jesus quotes Gen 2:24 to anchor the indissolubility of marriage in the creational order, above Pharisaic casuistry.",
+            "pt": "Jesus cita Gn 2:24 para ancorar a indissolubilidade do casamento na ordem criacional, acima da casuística fariseia."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 21,
       "rangoFin": 23,
       "titulo": {
-        "es": "Entrada a Jerusalén y Conflicto Final",
-        "en": "Entry into Jerusalem and Final Conflict",
-        "pt": "Entrada em Jerusalém e Conflito Final"
+        "es": "Conflicto Final en Jerusalén",
+        "en": "Final Conflict in Jerusalem",
+        "pt": "Conflito Final em Jerusalém"
       },
       "descripcion": {
-        "es": "Jesús entra triunfalmente a Jerusalén sobre un asno, cumpliendo la profecía de Zacarías, purifica el templo, enseña en parábolas de juicio contra los líderes religiosos (los dos hijos, los labradores malvados, la fiesta de bodas), responde a sus intentos de atraparlo, y pronuncia siete ayes contra los escribas y fariseos.",
-        "en": "Jesus enters Jerusalem triumphantly on a donkey, fulfilling Zechariah's prophecy, cleanses the temple, teaches judgment parables against the religious leaders (the two sons, the wicked tenants, the wedding feast), responds to their attempts to trap him, and pronounces seven woes against the scribes and Pharisees.",
-        "pt": "Jesus entra triunfalmente em Jerusalém sobre um jumento, cumprindo a profecia de Zacarias, purifica o templo, ensina em parábolas de juízo contra os líderes religiosos (os dois filhos, os lavradores maus, a festa de casamento), responde às tentativas de ser capturado, e pronuncia sete ais contra os escribas e fariseus."
+        "es": "Jesús entra a Jerusalén sobre un asno cumpliendo Zac 9:9 (Mt 21:4–5) y purifica el templo con Is 56:7 y Jr 7:11. Las parábolas de los dos hijos, los labradores malvados —que citan Sal 118:22–23 sobre la piedra desechada— y el banquete de bodas revelan el juicio sobre Israel incrédulo y la inclusión gentil. Los líderes religiosos intentan atraparlo sobre el tributo, la resurrección y el gran mandamiento; Jesús los silencia citando Sal 110:1. Los siete ayes contra escribas y fariseos (Mt 23) culminan en el lamento sobre Jerusalén (Mt 23:37–39), cerrando la controversia final.",
+        "en": "Jesus enters Jerusalem on a donkey fulfilling Zech 9:9 (Matt 21:4–5) and purifies the temple with Isa 56:7 and Jer 7:11. The parables of the two sons, the wicked tenants — citing Ps 118:22–23 on the rejected stone — and the wedding banquet reveal judgment on unbelieving Israel and Gentile inclusion. The religious leaders try to trap him on tribute, resurrection, and the great commandment; Jesus silences them by citing Ps 110:1. The seven woes against scribes and Pharisees (Matt 23) culminate in the lament over Jerusalem (Matt 23:37–39), closing the final controversy.",
+        "pt": "Jesus entra em Jerusalém sobre um jumento cumprindo Zc 9:9 (Mt 21:4–5) e purifica o templo com Is 56:7 e Jr 7:11. As parábolas dos dois filhos, dos lavradores maus — citando Sl 118:22–23 sobre a pedra rejeitada — e do banquete de casamento revelam o juízo sobre Israel incrédulo e a inclusão gentílica. Os líderes religiosos tentam apanhá-lo sobre o tributo, a ressurreição e o grande mandamento; Jesus os silencia citando Sl 110:1. Os sete ais contra escribas e fariseus (Mt 23) culminam no lamento sobre Jerusalém (Mt 23:37–39), encerrando o conflito final."
       },
       "eventoClave": {
-        "es": "La entrada triunfal y la purificación del templo",
-        "en": "The triumphal entry and the cleansing of the temple",
-        "pt": "A entrada triunfal e a purificação do templo"
+        "es": "La entrada triunfal que cumple Zac 9:9 y la purificación del templo inauguran la última semana en que Jesús confronta a los líderes de Israel como Rey-Siervo.",
+        "en": "The triumphal entry fulfilling Zech 9:9 and the temple cleansing inaugurate the final week in which Jesus confronts Israel's leaders as the King-Servant.",
+        "pt": "A entrada triunfal que cumpre Zc 9:9 e a purificação do templo inauguram a semana final em que Jesus confronta os líderes religiosos de Israel como o Rei-Servo do pacto."
       },
       "versiculoClave": "Mt 21:9",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Zac 9:9",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Mateo cita Zac 9:9 para interpretar la entrada sobre el asno como la llegada del rey manso y justo a Sión.",
+            "en": "Matthew cites Zech 9:9 to interpret the entry on the donkey as the coming of the humble, righteous king to Zion.",
+            "pt": "Mateus cita Zc 9:9 para interpretar a entrada sobre o jumento como a chegada do rei manso e justo a Sião."
+          }
+        },
+        {
+          "ref": "Sal 118:22-23",
+          "tipo": "cita",
+          "nota": {
+            "es": "La piedra desechada por los constructores citada por Jesús anuncia el juicio sobre los líderes de Israel.",
+            "en": "The stone rejected by the builders, cited by Jesus, announces judgment on Israel's leaders.",
+            "pt": "A pedra rejeitada pelos construtores, citada por Jesus, anuncia o juízo sobre os líderes de Israel."
+          }
+        },
+        {
+          "ref": "Jr 7:11",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Jr 7:11 para denunciar que el templo se ha convertido en cueva de ladrones.",
+            "en": "Jesus cites Jer 7:11 to denounce that the temple has become a den of robbers.",
+            "pt": "Jesus cita Jr 7:11 para denunciar que o templo se tornou covil de ladrões."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 24,
       "rangoFin": 25,
       "titulo": {
-        "es": "El Discurso del Monte de los Olivos",
-        "en": "The Mount of Olives Discourse",
+        "es": "Discurso del Monte de los Olivos",
+        "en": "The Olivet Discourse",
         "pt": "O Discurso do Monte das Oliveiras"
       },
       "descripcion": {
-        "es": "Jesús predice la destrucción del templo y describe las señales del fin, exhortando a la vigilancia mediante las parábolas de las diez vírgenes y los talentos, y culmina con la visión del juicio final en que el Hijo del Hombre separa a las ovejas de los cabritos según su trato hacia los necesitados.",
-        "en": "Jesus predicts the destruction of the temple and describes the signs of the end, exhorting watchfulness through the parables of the ten virgins and the talents, and culminates with the vision of the final judgment in which the Son of Man separates the sheep from the goats according to their treatment of the needy.",
-        "pt": "Jesus prediz a destruição do templo e descreve os sinais do fim, exortando à vigilância por meio das parábolas das dez virgens e dos talentos, e culmina com a visão do juízo final em que o Filho do Homem separa as ovelhas dos cabritos conforme seu trato com os necessitados."
+        "es": "Frente al templo en el Monte de los Olivos, Jesús responde a la pregunta sobre las señales de su venida (Mt 24:3): predice la destrucción del templo, guerras, persecuciones, la abominación desoladora de Dn 9:27 y la gran tribulación. La venida del Hijo del Hombre sobre las nubes (Mt 24:30) se enmarca en Dn 7:13–14. Las parábolas de las diez vírgenes (Mt 25:1–13), los talentos (Mt 25:14–30) y el juicio de las ovejas y los cabritos (Mt 25:31–46) exhortan a la vigilancia activa, la fidelidad y la compasión hacia los necesitados como criterios del reino.",
+        "en": "Facing the temple on the Mount of Olives, Jesus answers the question about the signs of his coming (Matt 24:3): he predicts the destruction of the temple, wars, persecutions, the abomination of desolation from Dan 9:27, and the great tribulation. The coming of the Son of Man on the clouds (Matt 24:30) is framed by Dan 7:13–14. The parables of the ten virgins (Matt 25:1–13), the talents (Matt 25:14–30), and the judgment of the sheep and goats (Matt 25:31–46) call for active watchfulness, faithfulness, and compassion toward the needy as criteria of the kingdom.",
+        "pt": "De frente ao templo no Monte das Oliveiras, Jesus responde à pergunta sobre os sinais de sua vinda (Mt 24:3): prediz a destruição do templo, guerras, perseguições, a abominação da desolação de Dn 9:27 e a grande tribulação. A vinda do Filho do Homem sobre as nuvens (Mt 24:30) se enquadra em Dn 7:13–14. As parábolas das dez virgens (Mt 25:1–13), dos talentos (Mt 25:14–30) e do juízo das ovelhas e dos cabritos (Mt 25:31–46) exortam à vigilância ativa, à fidelidade e à compaixão com os necessitados como critérios do reino."
       },
       "eventoClave": {
-        "es": "La profecía escatológica y la parábola del juicio final",
-        "en": "The eschatological prophecy and the parable of the final judgment",
-        "pt": "A profecia escatológica e a parábola do juízo final"
+        "es": "La promesa de la venida gloriosa del Hijo del Hombre enmarcada en Dn 7:13–14 y el juicio final de todas las naciones según la compasión mostrada hacia los más pequeños.",
+        "en": "The promise of the Son of Man's glorious coming framed by Dan 7:13–14 and the final judgment of all the nations according to compassion shown toward the least of his brothers.",
+        "pt": "A promessa da vinda gloriosa do Filho do Homem enquadrada em Dn 7:13–14 e o juízo final de todas as nações segundo a compaixão demonstrada para com os mais pequeninos."
       },
-      "versiculoClave": "Mt 25:31-32",
-      "era": "Cumplimiento"
+      "versiculoClave": "Mt 24:30",
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dn 7:13-14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La venida del Hijo del Hombre sobre las nubes en Mt 24:30 y la autoridad universal que recibe cumplen la visión de Dn 7.",
+            "en": "The Son of Man's coming on the clouds in Matt 24:30 and the universal authority he receives fulfill the vision of Dan 7.",
+            "pt": "A vinda do Filho do Homem sobre as nuvens em Mt 24:30 e a autoridade universal que recebe cumprem a visão de Dn 7."
+          }
+        },
+        {
+          "ref": "Dn 9:27",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La abominación desoladora (Mt 24:15) recoge la profecía de las setenta semanas sobre la profanación del templo.",
+            "en": "The abomination of desolation (Matt 24:15) draws on the seventy-weeks prophecy about the desecration of the temple.",
+            "pt": "A abominação da desolação (Mt 24:15) retoma a profecia das setenta semanas sobre a profanação do templo."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 26,
       "rangoFin": 27,
       "titulo": {
-        "es": "La Pasión",
-        "en": "The Passion",
-        "pt": "A Paixão"
+        "es": "El Nuevo Pacto en Sangre",
+        "en": "The New Covenant in Blood",
+        "pt": "A Nova Aliança em Sangue"
       },
       "descripcion": {
-        "es": "Jesús celebra la Última Cena instituyendo la nueva Cena del pacto, ora en Getsemaní, es traicionado por Judas y arrestado, juzgado ante el Sanedrín y Caifás, negado por Pedro, entregado a Pilato, condenado a la crucifixión en lugar de Barrabás, y muere en la cruz, con el velo del templo rasgándose en señal de un nuevo acceso a Dios.",
-        "en": "Jesus celebrates the Last Supper, instituting the new covenant meal, prays in Gethsemane, is betrayed by Judas and arrested, tried before the Sanhedrin and Caiaphas, denied by Peter, handed over to Pilate, condemned to crucifixion in place of Barabbas, and dies on the cross, with the temple veil torn as a sign of new access to God.",
-        "pt": "Jesus celebra a Última Ceia, instituindo a nova ceia da aliança, ora em Getsêmani, é traído por Judas e preso, julgado diante do Sinédrio e de Caifás, negado por Pedro, entregue a Pilatos, condenado à crucificação no lugar de Barrabás, e morre na cruz, com o véu do templo se rasgando como sinal de novo acesso a Deus."
+        "es": "Judas acuerda traicionar a Jesús por treinta piezas de plata, cumpliendo Zac 11:12–13 (Mt 27:9–10). En la Última Cena, Jesús declara que su sangre es 'la del nuevo pacto derramada por muchos para remisión de pecados' (Mt 26:28), instituyendo la cena covenantal que reemplaza la Pascua. Ora tres veces en Getsemaní y es arrestado; el Sanedrín lo condena por blasfemia y Pilato lo entrega a la crucifixión. A mediodía oscurece la tierra; al expirar cita Sal 22:1 (Mt 27:46), el velo del templo se rasga de arriba abajo y el centurión romano confiesa que era Hijo de Dios (Mt 27:54).",
+        "en": "Judas betrays Jesus for thirty pieces of silver, fulfilling Zech 11:12–13 (Matt 27:9–10). At the Last Supper, Jesus declares his blood is 'that of the new covenant poured out for many for forgiveness of sins' (Matt 26:28), instituting the covenantal meal that replaces Passover. He prays in Gethsemane and is arrested; the Sanhedrin condemns him and Pilate orders crucifixion. Darkness covers the land at noon; dying, he cites Ps 22:1 (Matt 27:46), the temple veil tears, and the centurion confesses he was the Son of God (Matt 27:54).",
+        "pt": "Judas concorda em trair Jesus por trinta peças de prata, cumprindo Zc 11:12–13 (Mt 27:9–10). Na Última Ceia, Jesus declara que seu sangue é 'o da nova aliança derramado por muitos para remissão dos pecados' (Mt 26:28), instituindo a ceia covenantal que substitui a Páscoa. Ele ora três vezes em Getsêmani e é preso; o Sinédrio o condena por blasfêmia e Pilatos o entrega à crucificação. Ao meio-dia as trevas cobrem a terra; ao expirar cita Sl 22:1 (Mt 27:46), o véu do templo se rasga de cima a baixo e o centurião romano confessa que ele era o Filho de Deus (Mt 27:54)."
       },
       "eventoClave": {
-        "es": "La crucifixión de Jesús y el rasgado del velo del templo",
-        "en": "The crucifixion of Jesus and the tearing of the temple veil",
-        "pt": "A crucificação de Jesus e o rasgar do véu do templo"
+        "es": "La crucifixión de Jesús, sellada por el velo del templo rasgado y la oscuridad cósmica, consuma el sacrificio expiatorio del nuevo pacto profetizado en Jr 31:31–34.",
+        "en": "Jesus' crucifixion, sealed by the torn temple veil and cosmic darkness, consummates the atoning sacrifice of the new covenant prophesied in Jer 31:31–34 and inaugurated at the Last Supper.",
+        "pt": "A crucificação de Jesus, selada pelo véu do templo rasgado e pelas trevas cósmicas, consuma o sacrifício expiatório da nova aliança profetizada em Jr 31:31–34 e inaugurada na Última Ceia."
       },
-      "versiculoClave": "Mt 27:50-51",
-      "era": "Cumplimiento"
+      "versiculoClave": "Mt 26:28",
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jr 31:31-34",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Las palabras de institución ('sangre del nuevo pacto') declaran que la muerte de Jesús inaugura el nuevo pacto de Jr 31.",
+            "en": "The words of institution ('blood of the new covenant') declare that Jesus' death inaugurates the new covenant of Jer 31.",
+            "pt": "As palavras de instituição ('sangue da nova aliança') declaram que a morte de Jesus inaugura a nova aliança de Jr 31."
+          }
+        },
+        {
+          "ref": "Sal 22:1",
+          "tipo": "cita",
+          "nota": {
+            "es": "El grito de derelicción cita Sal 22:1, el salmo del justo sufriente que culmina en vindicación divina.",
+            "en": "The cry of dereliction quotes Ps 22:1, the psalm of the suffering righteous one that culminates in divine vindication.",
+            "pt": "O grito de derelição cita Sl 22:1, o salmo do justo sofredor que culmina em vindicação divina."
+          }
+        },
+        {
+          "ref": "Zac 11:12-13",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Mateo cita Zac 11:12–13 para interpretar las treinta piezas de plata de Judas y el campo del alfarero.",
+            "en": "Matthew cites Zech 11:12–13 to interpret Judas's thirty pieces of silver and the potter's field.",
+            "pt": "Mateus cita Zc 11:12–13 para interpretar as trinta peças de prata de Judas e o campo do oleiro."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 28,
@@ -2706,17 +2993,37 @@
         "pt": "Ressurreição e Grande Comissão"
       },
       "descripcion": {
-        "es": "Las mujeres descubren la tumba vacía y un ángel anuncia la resurrección; el Jesús resucitado se aparece a las mujeres y luego a los Once en Galilea, declarando recibir toda autoridad en el cielo y en la tierra y comisionándolos a hacer discípulos de todas las naciones, prometiendo su presencia continua hasta el fin del mundo.",
-        "en": "The women discover the empty tomb and an angel announces the resurrection; the risen Jesus appears to the women and then to the Eleven in Galilee, declaring he has received all authority in heaven and on earth and commissioning them to make disciples of all nations, promising his continuing presence until the end of the age.",
-        "pt": "As mulheres descobrem o sepulcro vazio e um anjo anuncia a ressurreição; o Jesus ressuscitado aparece às mulheres e depois aos Onze na Galileia, declarando ter recebido toda autoridade no céu e na terra e os comissionando a fazer discípulos de todas as nações, prometendo sua presença contínua até o fim dos tempos."
+        "es": "Al amanecer del primer día María Magdalena y la otra María hallan la tumba vacía; un ángel declara: 'Ha resucitado' (Mt 28:6). El Jesús resucitado se les aparece y ellas lo adoran. En el monte de Galilea, ante los Once, declara haber recibido toda autoridad —cumpliendo Dn 7:13–14— y los comisiona a hacer discípulos de todas las naciones bautizándolos en el nombre trinitario (Mt 28:19). La promesa de su presencia hasta el fin del siglo cierra el evangelio en arco con Emanuel de Mt 1:23.",
+        "en": "At dawn on the first day Mary Magdalene and the other Mary find the empty tomb; an angel declares: 'He has risen' (Matt 28:6). The risen Jesus appears to them and they worship him. On the appointed mountain in Galilee, before the Eleven, he declares he has received all authority — fulfilling Dan 7:13–14 — and commissions them to make disciples of all nations, baptizing them in the Trinitarian name (Matt 28:19). The promise of his presence to the end of the age closes the Gospel in an arc with Emmanuel of Matt 1:23.",
+        "pt": "Ao amanhecer do primeiro dia da semana, Maria Madalena e a outra Maria encontram o sepulcro vazio; um anjo declara: 'Ressuscitou' (Mt 28:6) e as envia à Galileia. O Jesus ressuscitado aparece a elas e elas o adoram. No monte designado na Galileia, diante dos Onze, Jesus declara ter recebido toda autoridade no céu e na terra — cumprindo Dn 7:13–14 — e os comissiona a fazer discípulos de todas as nações, batizando-os em nome trinitário (Mt 28:19). A promessa final de sua presença até o fim dos séculos fecha o evangelho em arco com Emanuel de Mt 1:23, selando a fidelidade pactual de Deus."
       },
       "eventoClave": {
-        "es": "La resurrección de Jesús y la Gran Comisión",
-        "en": "The resurrection of Jesus and the Great Commission",
-        "pt": "A ressurreição de Jesus e a Grande Comissão"
+        "es": "La Gran Comisión fundamentada en la autoridad resucitada del Hijo del Hombre lanza la misión universal a todas las naciones, extendiendo la bendición abrahénica.",
+        "en": "The Great Commission grounded in the risen Son of Man's covenantal authority launches the universal mission to all nations, extending the Abrahamic blessing to every people.",
+        "pt": "A Grande Comissão fundamentada na autoridade ressuscitada do Filho do Homem lança a missão universal a todas as nações, estendendo a bênção abraâmica."
       },
       "versiculoClave": "Mt 28:18-20",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dn 7:13-14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La declaración de 'toda autoridad en el cielo y en la tierra' recoge la investidura del Hijo del Hombre en Dn 7:13–14.",
+            "en": "The declaration of 'all authority in heaven and on earth' draws on the investiture of the Son of Man in Dan 7:13–14.",
+            "pt": "A declaração de 'toda autoridade no céu e na terra' retoma a investidura do Filho do Homem em Dn 7:13–14."
+          }
+        },
+        {
+          "ref": "Gn 12:3",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La comisión de hacer discípulos de todas las naciones extiende la bendición abrahénica de Gn 12:3 a toda la humanidad.",
+            "en": "The commission to make disciples of all nations extends the Abrahamic blessing of Gen 12:3 to all humanity.",
+            "pt": "A comissão de fazer discípulos de todas as nações estende a bênção abraâmica de Gn 12:3 a toda a humanidade."
+          }
+        }
+      ]
     }
   ],
   "fuentes": [

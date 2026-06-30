@@ -1,8 +1,14 @@
 import { useState, useEffect, useRef } from "react";
+import { createPortal } from "react-dom";
 import { Share2, Check, ExternalLink } from "lucide-react";
-import { GOLD, PARCHMENT, BOOKS, BIBLE_VERSION } from "../../constants";
-import { linkifyVerses } from "../../utils";
+import { GOLD, PARCHMENT, BOOKS, BIBLE_VERSION, GS, UI } from "../../constants";
+import { linkifyVerses, verseUrl } from "../../utils";
 import VerseLink from "../VerseLink";
+
+const TIPO_COLORS = {
+  cumplimiento: "#1E4A7A", tipología: "#8A6420", paralelo: "#1E6858",
+  doctrinal: "#4A2E8A", cita: "#8A1A1A", alusión: "#5A3E1A",
+};
 
 const ERA_COLORS = {
   "Primordial":"#A0C080","Patriarcal":"#C4A86A","Ley":"#E0B830","Éxodo":"#E0B830",
@@ -160,6 +166,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
   const [activeIdx, setActiveIdx] = useState(null);
   const [playingIdx, setPlayingIdx] = useState(null);
   const [highlightIdx, setHighlightIdx] = useState(initialChapterIdx);
+  const [activeRefs, setActiveRefs] = useState(null);
   const entryRefs = useRef([]);
   const didScrollToInitial = useRef(false);
   const currentAudioRef = useRef(null);
@@ -193,6 +200,64 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
       padding: "20px 28px 28px",
       textAlign: "left",
     }}>
+      {activeRefs && createPortal(
+        <div style={GS.overlay(true)} onClick={e => { if (e.target === e.currentTarget) setActiveRefs(null); }}>
+          <div style={{...GS.popupCard, maxWidth: 560}}>
+            <button style={GS.closeBtn} onClick={() => setActiveRefs(null)}>✕</button>
+            <div style={GS.popupHeader}>
+              <div style={{flex: 1}}>
+                <div style={GS.popupBadge("#3E2E8A")}>
+                  {CHAPTER_LABELS[lang] || "Cap."} {activeRefs.rangoInicio === activeRefs.rangoFin ? String(activeRefs.rangoInicio) : `${activeRefs.rangoInicio}–${activeRefs.rangoFin}`}
+                </div>
+                <div style={GS.popupName}>{activeRefs.titulo?.[lang] || activeRefs.titulo?.es || ""}</div>
+              </div>
+            </div>
+            <div style={GS.popupBody}>
+              <div style={GS.popupSectionTitle}>✦ {UI[lang]?.crossRefLabels?.title || "REFERENCIAS RELACIONADAS"}</div>
+              {activeRefs.referenciasRelacionadas.map((r, ri) => {
+                const tipoColor = TIPO_COLORS[r.tipo] || "#5A3E1A";
+                const tipoLabel = UI[lang]?.crossRefLabels?.tipos?.[r.tipo] || r.tipo.toUpperCase();
+                const nota = r.nota ? (r.nota[lang] || r.nota.es || "") : "";
+                return (
+                  <div key={ri} style={{
+                    display: "flex",
+                    gap: 12,
+                    padding: "12px 0",
+                    borderBottom: ri < activeRefs.referenciasRelacionadas.length - 1 ? "1px solid rgba(139,90,20,0.10)" : "none",
+                    alignItems: "flex-start",
+                  }}>
+                    <div style={{
+                      fontSize: 9,
+                      letterSpacing: 2.5,
+                      fontWeight: 700,
+                      color: tipoColor,
+                      border: `1px solid ${tipoColor}55`,
+                      background: `${tipoColor}12`,
+                      padding: "3px 8px",
+                      borderRadius: 2,
+                      flexShrink: 0,
+                      marginTop: 3,
+                      whiteSpace: "nowrap",
+                    }}>{tipoLabel}</div>
+                    <div style={{flex: 1}}>
+                      <VerseLink lang={lang} style={{fontSize: 14, fontWeight: 700, letterSpacing: 0.5}}>
+                        {r.ref}
+                      </VerseLink>
+                      {nota && (
+                        <div style={{fontSize: 14, lineHeight: 1.65, color: "rgba(22,8,2,0.78)", marginTop: 5, fontStyle: "italic"}}>
+                          {nota}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </div>,
+        document.body
+      )}
+
       {rawChapters.map((c, i) => {
         const title = c.titulo?.[lang] || c.titulo?.es || "";
         const desc  = c.descripcion?.[lang] || c.descripcion?.es || "";
@@ -265,44 +330,94 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
               minWidth: 0,
             }}>
               <div style={{
-                fontSize: 17,
-                fontWeight: 700,
-                color: "rgba(22,8,2,0.90)",
-                lineHeight: 1.3,
-                marginBottom: 8,
-                letterSpacing: 0.2,
                 display: "flex",
                 alignItems: "center",
-                gap: 6,
+                gap: 8,
+                marginBottom: 8,
               }}>
-                <ChapterShareButton bookNum={bookNum} lang={lang} chapterIdx={i} />
-                {title}
+                <div style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: 6,
+                  flex: 1,
+                  minWidth: 0,
+                }}>
+                  <ChapterShareButton bookNum={bookNum} lang={lang} chapterIdx={i} />
+                  <span style={{
+                    fontSize: 17,
+                    fontWeight: 700,
+                    color: "rgba(22,8,2,0.90)",
+                    lineHeight: 1.3,
+                    letterSpacing: 0.2,
+                  }}>{title}</span>
+                </div>
+                {c.versiculoClave && (() => {
+                  const url = verseUrl(c.versiculoClave, lang);
+                  return (
+                    <a
+                      href={url || undefined}
+                      target={url ? "_blank" : undefined}
+                      rel="noopener noreferrer"
+                      onClick={(e) => e.stopPropagation()}
+                      style={{
+                        display: "inline-flex",
+                        alignItems: "center",
+                        gap: 6,
+                        height: 32,
+                        boxSizing: "border-box",
+                        fontSize: 12,
+                        letterSpacing: 0.8,
+                        color: "#1E4A7A",
+                        background: "rgba(30,74,122,0.08)",
+                        border: "1px solid rgba(30,74,122,0.35)",
+                        borderRadius: 2,
+                        padding: "0 13px",
+                        textDecoration: "none",
+                        fontFamily: "'Georgia', serif",
+                        flexShrink: 0,
+                        cursor: url ? "pointer" : "default",
+                      }}
+                    >
+                      <ExternalLink size={11} strokeWidth={2} />
+                      <strong style={{ fontWeight: 700 }}>{c.versiculoClave}</strong>
+                      <span style={{ opacity: 0.55 }}>
+                        · {UI[lang]?.crossRefLabels?.verseKeyLabel || "Vers. clave"}
+                      </span>
+                    </a>
+                  );
+                })()}
+                {c.referenciasRelacionadas?.length > 0 && (
+                  <button
+                    onClick={(e) => { e.stopPropagation(); setActiveRefs(c); }}
+                    style={{
+                      display: "inline-flex",
+                      alignItems: "center",
+                      height: 32,
+                      boxSizing: "border-box",
+                      fontSize: 12,
+                      letterSpacing: 0.8,
+                      color: "#3E2E8A",
+                      background: "rgba(62,46,138,0.08)",
+                      border: "1px solid rgba(62,46,138,0.35)",
+                      borderRadius: 2,
+                      padding: "0 13px",
+                      cursor: "pointer",
+                      fontFamily: "'Georgia', serif",
+                      flexShrink: 0,
+                    }}
+                  >
+                    {UI[lang]?.crossRefLabels?.trigger?.(c.referenciasRelacionadas.length) ?? `↔ ${c.referenciasRelacionadas.length}`}
+                  </button>
+                )}
               </div>
 
               <div style={{
                 fontSize: 17,
                 lineHeight: 1.80,
                 color: "rgba(22,8,2,0.82)",
-                marginBottom: c.versiculoClave ? 10 : 0,
               }}>
                 {lv(desc)}
               </div>
-
-              {c.versiculoClave && (
-                <div style={{ display: "inline-block" }}>
-                  <VerseLink lang={lang} style={{
-                    fontSize: 11,
-                    letterSpacing: 1,
-                    color: "#1E4A7A",
-                    background: "rgba(30,74,122,0.08)",
-                    border: "1px solid rgba(30,74,122,0.35)",
-                    borderRadius: 2,
-                    padding: "2px 9px",
-                  }}>
-                    {c.versiculoClave}
-                  </VerseLink>
-                </div>
-              )}
 
               <ChapterAudio
                 lang={lang}

@@ -137,6 +137,13 @@ Rules: only include categories actually prominent in this book; minimum 3 entrie
 - **`descripcion` quality standard** — **3–5 sentences, 350–600 characters per language**. Must include inline verse references (e.g. `Gn 1:3`, `Gen 3:15–16`, `Rm 1:17`) using the book's standard abbreviation per language. Connect explicitly to Covenant Theology and/or redemptive history. Name specific characters, events, and theological themes. A one- or two-sentence description does not meet the bar.
 - **`eventoClave`** — 1–2 sentences (150–250 chars per language) identifying the single most theologically significant event or turning point in the unit, from a Reformed/Covenant Theology perspective.
 - **`era` is required on every unit** — use the `historiaRedentora.epoca` value for this book (e.g. `"Ley"` for Exodus–Deuteronomy). If `era` is missing or empty the viewer silently falls back to Genesis era bands, which is the wrong display for every other book.
+- **`referenciasRelacionadas` — add when a unit has clear cross-testament connections or explicit NT citations of an OT passage.** Omit entirely when none apply — do NOT force entries. Each item requires:
+  - `ref`: ES abbreviation (same convention as `versiculoClave`, e.g. `"Ro 5:14"`, `"He 7:1–3"`)
+  - `tipo`: one of `"cumplimiento"` · `"tipología"` · `"paralelo"` · `"doctrinal"` · `"cita"` · `"alusión"` — choose the most specific that applies
+  - `nota` (optional): trilingual `{es, en, pt}` 1–2 sentences when `tipo` alone doesn't explain the connection
+  - **Scope constraint**: every entry must be relevant to the **specific content of this chapter range**, not the book generally. A cross-reference that fits Genesis 22 does not belong on the Genesis 1–2 unit.
+  - **Priority targets**: OT chapters with protoevangelium / type-antitype material; chapters quoted verbatim in NT; NT books pointing back to the OT passage being fulfilled
+  - **Limit**: 1–4 entries per unit — most theologically significant only
 - Always connect to the redemptive-historical flow
 
 ### Step 9 — Sources registry
@@ -195,6 +202,7 @@ Before outputting the final JSON, verify every item:
 - [ ] No `ensenanza` gloss starts with a verse reference — each gloss is pure explanatory text (the ref is already in `pasajes`)
 - [ ] `resumenCapitulos` covers every chapter with no gaps
 - [ ] Every `resumenCapitulos[]` entry has a non-empty `era` field matching `historiaRedentora.epoca`
+- [ ] `referenciasRelacionadas` entries (when present) each have `ref` (ES abbreviation) and `tipo` from the controlled enum; `nota` is trilingual `{es,en,pt}` if present
 - [ ] `meta.confianza` is calculated, not left at default
 - [ ] `fuentes` lists ≥3 sources, each with a complete `popup` block (bio/metodo/aportacion are trilingual objects)
 

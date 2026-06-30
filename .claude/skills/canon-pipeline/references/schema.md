@@ -185,7 +185,14 @@ This is the complete field-by-field shape every CANON book record must follow. A
       "titulo":      { "es": "", "en": "", "pt": "" },
       "descripcion": { "es": "", "en": "", "pt": "" },
       "eventoClave": { "es": "", "en": "", "pt": "" },
-      "versiculoClave": "bare verse ref e.g. 'Gn 1:1'"
+      "versiculoClave": "bare verse ref e.g. 'Gn 1:1'",
+      "referenciasRelacionadas": [
+        {
+          "ref":  "bare ES verse ref e.g. 'Ro 5:14'",
+          "tipo": "enum: cumplimiento | tipología | paralelo | doctrinal | cita | alusión",
+          "nota": { "es": "optional 1–2 sentence explanation", "en": "", "pt": "" }
+        }
+      ]
     }
   ],
 
@@ -248,6 +255,7 @@ This is the complete field-by-field shape every CANON book record must follow. A
 - **`personajes[].biografiaBiblica.fuenteTexto`** and **`meta.versionBiblia`** are both locked to the exact triple `{ "es": "NBLA", "en": "ESV", "pt": "ARC" }` — never vary these
 - **`año.display.es`** must read "Fecha de escritura" as its label, not "Datación" or any other phrasing
 - **`resumenCapitulos`** must cover every chapter of the book with no numeric gaps between consecutive units' `rangoFin`/`rangoInicio`
+- **`resumenCapitulos[].referenciasRelacionadas`** — optional array; omit the key entirely when empty (never write `[]`). Each item: `ref` uses ES abbreviations (same as `versiculoClave`); `tipo` must be one of the six controlled values (`cumplimiento`, `tipología`, `paralelo`, `doctrinal`, `cita`, `alusión`); `nota` is optional but must be a full trilingual `{es,en,pt}` object when present. `minItems: 1` if the array key is present at all. Scope constraint: every entry must relate to the content of that specific chapter range, not the book in general.
 - **Verse reference format** — `"Libro Cap:Verso"` or `"Libro Cap:Verso-Verso"` (hyphen or en-dash both acceptable for ranges), e.g. `Gn 1:1`, `Gn 1:26-27`, `Ro 5:12–21`. Use the standard Spanish book abbreviations (Gn, Ex, Lv, Nm, Dt, Jos, Jue, Rt, 1S, 2S, 1R, 2R, 1Cr, 2Cr, Esd, Neh, Est, Job, Sal, Pr, Ec, Cnt, Is, Jer, Lm, Ez, Dn, Os, Jl, Am, Abd, Jon, Miq, Nah, Hab, Sof, Hag, Zac, Mal, Mt, Mr/Mc, Lc, Jn, Hch, Ro, 1Co, 2Co, Gá, Ef, Fil, Col, 1Ts, 2Ts, 1Ti, 2Ti, Tit, Flm, He, Stg, 1P, 2P, 1Jn, 2Jn, 3Jn, Jud, Ap)
 
 ## Schema version history
@@ -265,3 +273,4 @@ This is the complete field-by-field shape every CANON book record must follow. A
   - `contextoHistorico.civilizaciones[].nombre`: `string` → `trilingual`
   - `contextoHistorico.fuentesANE[].nombre` and `.origen`: `string` → `trilingual`
   - `personajes[].hebreo`: new optional string field for original-language name characters
+- **v1.4.0** — added optional `referenciasRelacionadas` array to `resumenCapituloEntry`; new `referenciaRelacionadaEntry` definition with `ref` (verseRef, ES abbreviation), `tipo` (6-value enum: cumplimiento · tipología · paralelo · doctrinal · cita · alusión), and optional trilingual `nota`

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { createPortal } from "react-dom";
-import { ExternalLink, Play, ChevronsDown, Share2 } from "lucide-react";
+import { ExternalLink, Play, ChevronsDown, Share2, BookOpen } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
 import { GOLD, LAPIS, LAPIS_DEEP, PARCHMENT, SIENNA, BOOKS, CHAPTER_ERAS, UI, TABS, GS } from "../constants";
 import { linkifyVerses, verseUrl, cap } from "../utils";
@@ -424,7 +424,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               borderBottom:"1px solid rgba(139,90,20,0.12)",
             }}>
               {(UI[lang].summariesSteps || []).map((text, idx) => {
-                const Icon = [ExternalLink, Play, ChevronsDown, Share2][idx];
+                const Icon = [ExternalLink, Play, ChevronsDown, Share2, BookOpen][idx] || BookOpen;
                 return (
                   <div key={idx} style={{ display:"flex", alignItems:"flex-start", gap:8 }}>
                     <Icon size={13} color="rgba(139,90,20,0.7)" style={{ flexShrink:0, marginTop:2 }} />

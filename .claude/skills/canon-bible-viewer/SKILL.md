@@ -204,6 +204,43 @@ If the book uses an era not in this table, add it to `ERA_COLORS` in `canonToVie
 
 ---
 
+## Chapter Summary Cross-References (`referenciasRelacionadas`)
+
+Chapter summary cards automatically display an inline cross-reference trigger chip and popup whenever a `resumenCapitulos` entry contains a `referenciasRelacionadas` array (added in pipeline schema v1.4.0). No integration step is required — the feature activates automatically from the JSON data.
+
+### How it works
+
+`ChapterSummaries.jsx` reads `rawChapters` directly from `bookData.resumenCapitulos` (the raw JSON, not the adapted output). It renders:
+
+1. **Trigger chip** — a purple `↔ N` badge that appears inline beside the `versiculoClave` chip. Clicking it opens the popup (`e.stopPropagation()` prevents row highlighting).
+2. **Portal popup** — follows the same `GS.overlay + GS.popupCard + GS.closeBtn` pattern used by the character popup in `BookViewer.jsx`. Rendered via `createPortal` to `document.body`. Dismisses on X click or backdrop click.
+
+Each cross-reference entry in the popup shows:
+- A colored **tipo badge** (type label, colored per hermeneutical category)
+- The **ref** as a `VerseLink` that opens BibleGateway in a new tab
+- An optional **nota** text (italic, 1–2 sentences) when present in the JSON
+
+### Tipo badge colors
+
+| `tipo` value | Color | UI label (es / en / pt) |
+|---|---|---|
+| `cumplimiento` | `#1E4A7A` (blue) | CUMPLIMIENTO / FULFILLMENT / CUMPRIMENTO |
+| `tipología` | `#8A6420` (amber) | TIPOLOGÍA / TYPOLOGY / TIPOLOGIA |
+| `paralelo` | `#1E6858` (teal) | PARALELO / PARALLEL / PARALELO |
+| `doctrinal` | `#4A2E8A` (purple) | DOCTRINAL / DOCTRINAL / DOUTRINAL |
+| `cita` | `#8A1A1A` (dark red) | CITA / QUOTATION / CITAÇÃO |
+| `alusión` | `#5A3E1A` (brown) | ALUSIÓN / ALLUSION / ALUSÃO |
+
+### UI label source
+
+`crossRefLabels` in `constants.js → UI[lang]` provides the popup section header and all tipo translations. This is the only place these strings live — do not hardcode tipo labels in the component.
+
+### Data requirement
+
+The trigger chip only appears when `c.referenciasRelacionadas?.length > 0`. If the array key is absent (most books for now — the field is optional), the chapter card renders as before with no chip. No adapter changes are needed.
+
+---
+
 ## Common Errors
 
 | Symptom | Cause | Fix |

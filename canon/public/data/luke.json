@@ -2494,7 +2494,36 @@
         "pt": "O nascimento de Jesus em Belém durante o censo de Augusto"
       },
       "versiculoClave": "Lc 2:11",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 7:14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La anunciación a María cumple la profecía del Emanuel concebido de una virgen. Lc 1:31-35 muestra el cumplimiento directo de esta señal davídica: el Espíritu Santo vendrá sobre ella y el niño será llamado Hijo de Dios.",
+            "en": "The annunciation to Mary fulfills the prophecy of the Emmanuel born of a virgin. Luke 1:31-35 shows the direct fulfillment of this Davidic sign: the Holy Spirit will come upon her and the child will be called Son of God.",
+            "pt": "O anúncio a Maria cumpre a profecia do Emanuel concebido de uma virgem. Lc 1:31-35 mostra o cumprimento direto deste sinal davídico: o Espírito Santo virá sobre ela e a criança será chamada Filho de Deus."
+          }
+        },
+        {
+          "ref": "Mi 5:2",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El nacimiento en Belén (Lc 2:1-7), provocado por el censo imperial, cumple la profecía de Miqueas: de Belén saldrá el gobernante de Israel cuyo origen es desde la antigüedad, desde los días de la eternidad.",
+            "en": "The birth in Bethlehem (Luke 2:1-7), prompted by the imperial census, fulfills Micah's prophecy: from Bethlehem will come the ruler of Israel whose origins are from of old, from ancient times.",
+            "pt": "O nascimento em Belém (Lc 2:1-7), provocado pelo censo imperial, cumpre a profecia de Miquéias: de Belém sairá o governante de Israel cujas origens são desde a antiguidade, desde os dias da eternidade."
+          }
+        },
+        {
+          "ref": "Mal 3:1",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El anuncio del ángel sobre Juan el Bautista (Lc 1:17,76) lo identifica como el mensajero que prepara el camino delante del Señor, cumpliendo la promesa de Malaquías sobre el precursor del día del Señor.",
+            "en": "The angel's announcement about John the Baptist (Luke 1:17,76) identifies him as the messenger who prepares the way before the Lord, fulfilling Malachi's promise about the forerunner of the day of the Lord.",
+            "pt": "O anúncio do anjo sobre João Batista (Lc 1:17,76) o identifica como o mensageiro que prepara o caminho diante do Senhor, cumprindo a promessa de Malaquias sobre o precursor do dia do Senhor."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 3,
@@ -2515,7 +2544,36 @@
         "pt": "A proclamação de Jesus na sinagoga de Nazaré"
       },
       "versiculoClave": "Lc 4:18-19",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 40:3–5",
+          "tipo": "cita",
+          "nota": {
+            "es": "Lucas 3:4-6 cita Is 40:3-5 con mayor extensión que Mateo y Marcos, añadiendo «y verá toda carne la salvación de Dios», subrayando el énfasis lucano en la universalidad de la salvación mesiánica.",
+            "en": "Luke 3:4-6 quotes Isa 40:3-5 more extensively than Matthew and Mark, adding 'and all flesh shall see the salvation of God,' underscoring Luke's emphasis on the universality of messianic salvation.",
+            "pt": "Lucas 3:4-6 cita Is 40:3-5 com maior extensão do que Mateus e Marcos, acrescentando 'e toda carne verá a salvação de Deus', sublinhando a ênfase lucana na universalidade da salvação messiânica."
+          }
+        },
+        {
+          "ref": "Is 61:1–2",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús lee Is 61:1-2 en la sinagoga de Nazaret y declara su cumplimiento inmediato (Lc 4:18-21), definiendo su programa mesiánico como liberación a los cautivos, vista a los ciegos y año de gracia del Señor.",
+            "en": "Jesus reads Isa 61:1-2 in the Nazareth synagogue and declares its immediate fulfillment (Luke 4:18-21), defining his messianic program as liberation for captives, sight for the blind, and the year of the Lord's favor.",
+            "pt": "Jesus lê Is 61:1-2 na sinagoga de Nazaré e declara seu cumprimento imediato (Lc 4:18-21), definindo seu programa messiânico como libertação aos cativos, visão aos cegos e o ano da graça do Senhor."
+          }
+        },
+        {
+          "ref": "Dt 8:3",
+          "tipo": "cita",
+          "nota": {
+            "es": "En la tentación del desierto (Lc 4:4), Jesús cita Dt 8:3 —«no solo de pan vivirá el hombre»— recapitulando la prueba de Israel en el desierto pero obedeciendo donde Israel falló.",
+            "en": "In the desert temptation (Luke 4:4), Jesus cites Deut 8:3 — 'man shall not live by bread alone' — recapitulating Israel's wilderness test but obeying where Israel failed.",
+            "pt": "Na tentação no deserto (Lc 4:4), Jesus cita Dt 8:3 — 'o homem não viverá só de pão' — recapitulando a prova de Israel no deserto, mas obedecendo onde Israel falhou."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 5,
@@ -2536,7 +2594,18 @@
         "pt": "O chamado dos primeiros discípulos e a designação dos Doze"
       },
       "versiculoClave": "Lc 5:10-11",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1S 21:1–6",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jesús justifica recoger espigas en sábado citando la conducta de David en Nob (Lc 6:3-4; 1S 21:1-6): así como David tomó el pan sagrado por necesidad, el Hijo del Hombre —señor del sábado— actúa con la misma autoridad real.",
+            "en": "Jesus justifies gleaning grain on the Sabbath by citing David's conduct at Nob (Luke 6:3-4; 1 Sam 21:1-6): just as David took the sacred bread out of necessity, the Son of Man—lord of the Sabbath—acts with the same royal authority.",
+            "pt": "Jesus justifica colher espigas no sábado citando a conduta de Davi em Nobe (Lc 6:3-4; 1Sm 21:1-6): assim como Davi tomou o pão sagrado por necessidade, o Filho do Homem — senhor do sábado — age com a mesma autoridade real."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 7,
@@ -2557,7 +2626,36 @@
         "pt": "A ressurreição do filho da viúva de Naim"
       },
       "versiculoClave": "Lc 7:13-14",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 35:5–6",
+          "tipo": "cita",
+          "nota": {
+            "es": "En respuesta a Juan el Bautista, Jesús cita Is 35:5-6 y 61:1 (Lc 7:22): los milagros de sanidad son la credencial mesiánica que las Escrituras prometían, demostrando que el reino de Dios ha irrumpido en la historia.",
+            "en": "In response to John the Baptist, Jesus cites Isa 35:5-6 and 61:1 (Luke 7:22): the healing miracles are the messianic credentials Scripture promised, demonstrating that the kingdom of God has broken into history.",
+            "pt": "Em resposta a João Batista, Jesus cita Is 35:5-6 e 61:1 (Lc 7:22): os milagres de cura são a credencial messiânica que as Escrituras prometiam, demonstrando que o reino de Deus irrompeu na história."
+          }
+        },
+        {
+          "ref": "Mal 3:1",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús aplica Mal 3:1 explícitamente a Juan el Bautista (Lc 7:27), confirmando que Juan cumple el rol del mensajero precursor y situando el ministerio de Jesús como el cumplimiento del «día del Señor» anunciado por los profetas.",
+            "en": "Jesus explicitly applies Mal 3:1 to John the Baptist (Luke 7:27), confirming that John fulfills the role of the forerunner messenger and situating Jesus' ministry as the fulfillment of the 'day of the Lord' announced by the prophets.",
+            "pt": "Jesus aplica explicitamente Ml 3:1 a João Batista (Lc 7:27), confirmando que João cumpre o papel do mensageiro precursor e situando o ministério de Jesus como o cumprimento do 'dia do Senhor' anunciado pelos profetas."
+          }
+        },
+        {
+          "ref": "1R 17:17–24",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La resurrección del hijo de la viuda de Naín (Lc 7:11-17) evoca y supera la resurrección realizada por Elías en Sarepta: la multitud lo reconoce como «gran profeta», pero Jesús actúa con autoridad directa, no derivada.",
+            "en": "The resurrection of the widow's son at Nain (Luke 7:11-17) evokes and surpasses Elijah's resurrection at Zarephath: the crowd recognizes him as a 'great prophet,' but Jesus acts with direct, not derived, authority.",
+            "pt": "A ressurreição do filho da viúva de Naim (Lc 7:11-17) evoca e supera a ressurreição de Elias em Sarepta: a multidão o reconhece como 'grande profeta', mas Jesus age com autoridade direta, não derivada."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 9,
@@ -2578,7 +2676,36 @@
         "pt": "O início da jornada a Jerusalém após a transfiguração"
       },
       "versiculoClave": "Lc 9:51",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 18:15",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La voz del Padre en la Transfiguración —«a él oíd» (Lc 9:35)— identifica divinamente a Jesús como el profeta como Moisés prometido en Dt 18:15, exigiendo obediencia absoluta y superando la mediación de Moisés y Elías.",
+            "en": "The Father's voice at the Transfiguration — 'listen to him' (Luke 9:35) — divinely identifies Jesus as the prophet like Moses promised in Deut 18:15, demanding absolute obedience and surpassing the mediation of Moses and Elijah.",
+            "pt": "A voz do Pai na Transfiguração — 'a ele ouvi' (Lc 9:35) — identifica divinamente Jesus como o profeta como Moisés prometido em Dt 18:15, exigindo obediência absoluta e superando a mediação de Moisés e Elias."
+          }
+        },
+        {
+          "ref": "Ex 24:15–18",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La nube que cubre a Jesús en la Transfiguración (Lc 9:34-35) recapitula la shekiná que cubrió a Moisés en el Sinaí, presentando a Jesús como el nuevo Moisés cuya gloria anticipa el nuevo pacto que sellará con su sangre.",
+            "en": "The cloud that overshadows Jesus at the Transfiguration (Luke 9:34-35) recapitulates the Shekinah that covered Moses on Sinai, presenting Jesus as the new Moses whose glory anticipates the new covenant he will seal with his blood.",
+            "pt": "A nuvem que cobre Jesus na Transfiguração (Lc 9:34-35) recapitula a shekinah que cobriu Moisés no Sinai, apresentando Jesus como o novo Moisés cuja glória antecipa a nova aliança que selará com seu sangue."
+          }
+        },
+        {
+          "ref": "2R 4:42–44",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La alimentación de los cinco mil (Lc 9:12-17) supera el milagro de Eliseo que alimentó a cien hombres con veinte panes, señalando la abundancia mesiánica escatológica del reino de Dios que Jesús inaugura.",
+            "en": "The feeding of the five thousand (Luke 9:12-17) surpasses Elisha's miracle of feeding a hundred men with twenty loaves, pointing to the eschatological messianic abundance of the kingdom of God that Jesus inaugurates.",
+            "pt": "A alimentação dos cinco mil (Lc 9:12-17) supera o milagre de Eliseu que alimentou cem homens com vinte pães, apontando para a abundância messiânica escatológica do reino de Deus que Jesus inaugura."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 10,
@@ -2599,7 +2726,31 @@
         "pt": "A parábola do Bom Samaritano"
       },
       "versiculoClave": "Lc 10:36-37",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 6:5",
+          "tipo": "cita"
+        },
+        {
+          "ref": "Lv 19:18",
+          "tipo": "cita",
+          "nota": {
+            "es": "En Lc 10:27, Jesús sintetiza toda la Ley en el amor a Dios (Dt 6:5) y al prójimo (Lv 19:18), estableciendo el amor pactual como marco hermenéutico que unifica la Torá y que la parábola del buen samaritano ilustra concretamente.",
+            "en": "In Luke 10:27, Jesus synthesizes the entire Law in love for God (Deut 6:5) and neighbor (Lev 19:18), establishing covenantal love as the hermeneutical framework unifying the Torah, which the Good Samaritan parable concretely illustrates.",
+            "pt": "Em Lc 10:27, Jesus sintetiza toda a Lei no amor a Deus (Dt 6:5) e ao próximo (Lv 19:18), estabelecendo o amor pactual como quadro hermenêutico que unifica a Torá e que a parábola do bom samaritano ilustra concretamente."
+          }
+        },
+        {
+          "ref": "Jon 1:17",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jesús invoca la señal de Jonás (Lc 11:29-30): así como Jonás fue señal para Nínive al regresar de las profundidades, el Hijo del Hombre lo será para Israel mediante su muerte y resurrección.",
+            "en": "Jesus invokes the sign of Jonah (Luke 11:29-30): just as Jonah was a sign to Nineveh by returning from the deep, so the Son of Man will be a sign to Israel through his death and resurrection.",
+            "pt": "Jesus invoca o sinal de Jonas (Lc 11:29-30): assim como Jonas foi sinal para Nínive ao retornar das profundezas, o Filho do Homem o será para Israel por meio de sua morte e ressurreição."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 12,
@@ -2620,7 +2771,18 @@
         "pt": "O chamado urgente ao arrependimento e a cura no sábado"
       },
       "versiculoClave": "Lc 13:3",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 5:1–7",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La parábola de la higuera estéril (Lc 13:6-9) retoma la imagen del viñedo-Israel de Is 5:1-7: Israel lleva tres años sin dar fruto. La intercesión del viñador pospone el juicio, pero la amenaza del hacha permanece si no hay arrepentimiento.",
+            "en": "The parable of the barren fig tree (Luke 13:6-9) takes up Isaiah's vineyard-Israel image (Isa 5:1-7): Israel has borne no fruit for three years. The vinedresser's intercession postpones judgment, but the axe's threat remains without repentance.",
+            "pt": "A parábola da figueira estéril (Lc 13:6-9) retoma a imagem do vinhedo-Israel de Is 5:1-7: Israel está há três anos sem dar fruto. A intercessão do vinheiro adia o julgamento, mas a ameaça do machado permanece sem arrependimento."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 14,
@@ -2641,7 +2803,27 @@
         "pt": "A parábola do filho pródigo"
       },
       "versiculoClave": "Lc 15:20",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 25:6–8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La parábola del gran banquete (Lc 14:15-24) cumple la visión isaiana del banquete mesiánico para todas las naciones. La invitación extendida a pobres, cojos y ciegos revela que el reino se abre universalmente a los excluidos.",
+            "en": "The parable of the great banquet (Luke 14:15-24) fulfills Isaiah's vision of the messianic feast for all nations. The invitation extended to the poor, lame, and blind reveals that the kingdom opens universally to the excluded.",
+            "pt": "A parábola do grande banquete (Lc 14:15-24) cumpre a visão isaiana do banquete messiânico para todas as nações. O convite estendido a pobres, coxos e cegos revela que o reino se abre universalmente aos excluídos."
+          }
+        },
+        {
+          "ref": "Ez 34:11–16",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Las tres parábolas de lo perdido (Lc 15) desarrollan Ez 34: allí Dios promete buscar personalmente a sus ovejas perdidas. Jesús se identifica como ese pastor divino, cumpliendo la promesa de que YHWH mismo vendría a buscar al Israel disperso.",
+            "en": "The three parables of the lost (Luke 15) develop Ezek 34: there God promises to personally seek his lost sheep. Jesus identifies himself as that divine shepherd, fulfilling the promise that YHWH himself would come to seek scattered Israel.",
+            "pt": "As três parábolas do perdido (Lc 15) desenvolvem Ez 34: ali Deus promete buscar pessoalmente suas ovelhas perdidas. Jesus se identifica como esse pastor divino, cumprindo a promessa de que o próprio YHWH viria buscar o Israel disperso."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 16,
@@ -2662,7 +2844,18 @@
         "pt": "A cura dos dez leprosos e a gratidão do samaritano"
       },
       "versiculoClave": "Lc 17:15-16",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 58:6–7",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La parábola del Rico y Lázaro (Lc 16:19-31) expresa la ética pactual de Is 58:6-7: el ayuno verdadero incluye compartir pan con el hambriento. La indiferencia del rico ante Lázaro es la negación práctica de «Moisés y los profetas» que él dice respetar.",
+            "en": "The parable of the Rich Man and Lazarus (Luke 16:19-31) expresses the covenantal ethic of Isa 58:6-7: true fasting includes sharing bread with the hungry. The rich man's indifference to Lazarus is the practical denial of 'Moses and the Prophets' he claims to respect.",
+            "pt": "A parábola do Rico e Lázaro (Lc 16:19-31) expressa a ética pactual de Is 58:6-7: o jejum verdadeiro inclui compartilhar pão com o faminto. A indiferença do rico diante de Lázaro é a negação prática de 'Moisés e os profetas' que ele diz respeitar."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 18,
@@ -2683,7 +2876,31 @@
         "pt": "A conversão de Zaqueu"
       },
       "versiculoClave": "Lc 19:9-10",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Zac 9:9",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La entrada triunfal montado en un pollino (Lc 19:28-44) cumple Zac 9:9: el rey de Sión llega humilde, sobre un asno, trayendo salvación. Jesús rechaza la expectativa de un mesías guerrero y viene como rey de paz.",
+            "en": "The triumphal entry riding on a colt (Luke 19:28-44) fulfills Zech 9:9: the king of Zion comes humble, on a donkey, bringing salvation. Jesus rejects the expectation of a warrior messiah and comes as the king of peace.",
+            "pt": "A entrada triunfal montado num potro (Lc 19:28-44) cumpre Zc 9:9: o rei de Sião chega humilde, num jumento, trazendo salvação. Jesus rejeita a expectativa de um messias guerreiro e vem como rei da paz."
+          }
+        },
+        {
+          "ref": "Is 56:7",
+          "tipo": "cita"
+        },
+        {
+          "ref": "Jr 7:11",
+          "tipo": "cita",
+          "nota": {
+            "es": "En la purificación del templo (Lc 19:46), Jesús cita Is 56:7 («mi casa será casa de oración») y Jr 7:11 («cueva de ladrones»), convocando el juicio profético sobre la corrupción del culto que convierte el santuario en instrumento de seguridad falsa.",
+            "en": "In the cleansing of the temple (Luke 19:46), Jesus cites Isa 56:7 ('my house shall be a house of prayer') and Jer 7:11 ('den of robbers'), invoking the prophetic judgment on the corruption of worship that turns the sanctuary into an instrument of false security.",
+            "pt": "Na purificação do templo (Lc 19:46), Jesus cita Is 56:7 ('minha casa será casa de oração') e Jr 7:11 ('covil de ladrões'), invocando o julgamento profético sobre a corrupção do culto que transforma o santuário em instrumento de falsa segurança."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 20,
@@ -2704,7 +2921,36 @@
         "pt": "O discurso profético sobre a destruição de Jerusalém e a vinda do Filho do Homem"
       },
       "versiculoClave": "Lc 21:27",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 5:1–7",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La parábola de los labradores malvados (Lc 20:9-16) alude al viñedo de Is 5:1-7, identificando a los líderes de Israel como los arrendatarios que rechazaron al Hijo del dueño y sobre quienes recaerá el juicio del viñedo abandonado.",
+            "en": "The parable of the wicked tenants (Luke 20:9-16) alludes to Isaiah's vineyard (Isa 5:1-7), identifying Israel's leaders as the tenants who rejected the owner's Son and on whom the judgment of the abandoned vineyard will fall.",
+            "pt": "A parábola dos lavradores malvados (Lc 20:9-16) alude ao vinhedo de Is 5:1-7, identificando os líderes de Israel como os arrendatários que rejeitaram o Filho do dono e sobre quem recairá o julgamento do vinhedo abandonado."
+          }
+        },
+        {
+          "ref": "Sal 118:22",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Sal 118:22 en Lc 20:17 tras la parábola: la piedra rechazada por los constructores se convierte en piedra angular, legitimando su mesianismo por la Escritura y anunciando que el rechazo de Israel es el fundamento del nuevo edificio de Dios.",
+            "en": "Jesus cites Ps 118:22 in Luke 20:17 after the parable: the stone rejected by the builders becomes the cornerstone, legitimizing his messiahship through Scripture and announcing that Israel's rejection is the foundation of God's new building.",
+            "pt": "Jesus cita Sl 118:22 em Lc 20:17 após a parábola: a pedra rejeitada pelos construtores torna-se pedra angular, legitimando seu messianismo pela Escritura e anunciando que a rejeição de Israel é o fundamento do novo edifício de Deus."
+          }
+        },
+        {
+          "ref": "Dn 7:13–14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El discurso escatológico aplica Dn 7:13-14 a la parusía: el Hijo del Hombre vendrá en una nube con poder y gran gloria (Lc 21:27), inaugurando el reino eterno que el Anciano de Días otorgó al Hijo del Hombre en la visión de Daniel.",
+            "en": "The eschatological discourse applies Dan 7:13-14 to the parousia: the Son of Man will come on a cloud with power and great glory (Luke 21:27), inaugurating the eternal kingdom that the Ancient of Days granted to the Son of Man in Daniel's vision.",
+            "pt": "O discurso escatológico aplica Dn 7:13-14 à parusia: o Filho do Homem virá numa nuvem com poder e grande glória (Lc 21:27), inaugurando o reino eterno que o Ancião de Dias outorgou ao Filho do Homem na visão de Daniel."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 22,
@@ -2725,7 +2971,27 @@
         "pt": "A instituição da Ceia do Senhor e a oração em Getsêmani"
       },
       "versiculoClave": "Lc 22:19-20",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jr 31:31–34",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Las palabras de institución de la Cena —«esta copa es el nuevo pacto en mi sangre» (Lc 22:20)— inauguran explícitamente el nuevo pacto de Jr 31:31-34, escrito ahora en corazones mediante la sangre expiatoria de Cristo como sumo sacerdote.",
+            "en": "The words of institution of the Supper — 'this cup is the new covenant in my blood' (Luke 22:20) — explicitly inaugurate the new covenant of Jer 31:31-34, now written on hearts through Christ's atoning blood as high priest.",
+            "pt": "As palavras de instituição da Ceia — 'este cálice é a nova aliança no meu sangue' (Lc 22:20) — inauguram explicitamente a nova aliança de Jr 31:31-34, agora escrita nos corações por meio do sangue expiatório de Cristo como sumo sacerdote."
+          }
+        },
+        {
+          "ref": "Is 53:12",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Is 53:12 en Lc 22:37 («con los transgresores fue contado»), identificándose conscientemente con el Siervo que carga el pecado ajeno y da sentido teológico a su arresto como cumplimiento escritural necesario.",
+            "en": "Jesus cites Isa 53:12 in Luke 22:37 ('he was numbered with transgressors'), consciously identifying himself as the Servant who bears others' sin and giving theological meaning to his arrest as necessary scriptural fulfillment.",
+            "pt": "Jesus cita Is 53:12 em Lc 22:37 ('foi contado entre os transgressores'), identificando-se conscientemente com o Servo que carrega o pecado alheio e dando sentido teológico à sua prisão como cumprimento escritural necessário."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 23,
@@ -2746,7 +3012,36 @@
         "pt": "A crucificação de Jesus entre dois malfeitores"
       },
       "versiculoClave": "Lc 23:46",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 22:18",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La crucifixión cumple detalles del Sal 22: la burla de los gobernantes (Lc 23:35 ↔ Sal 22:8) y el sorteo de las vestiduras (Lc 23:34 ↔ Sal 22:18) muestran que la muerte del Mesías fue predeterminada por Dios en la Escritura.",
+            "en": "The crucifixion fulfills details of Ps 22: the mockery by rulers (Luke 23:35 ↔ Ps 22:8) and the division of garments (Luke 23:34 ↔ Ps 22:18) show that the Messiah's death was scripturally predetermined by God.",
+            "pt": "A crucificação cumpre detalhes do Sl 22: a zombaria dos governantes (Lc 23:35 ↔ Sl 22:8) e o sorteio das vestes (Lc 23:34 ↔ Sl 22:18) mostram que a morte do Messias foi predeterminada por Deus na Escritura."
+          }
+        },
+        {
+          "ref": "Sal 31:5",
+          "tipo": "cita",
+          "nota": {
+            "es": "Las últimas palabras de Jesús en Lucas —«Padre, en tus manos encomiendo mi espíritu» (Lc 23:46)— citan Sal 31:5, expresando la confianza filial del Siervo justo en el Dios que lo vindica mediante la resurrección.",
+            "en": "Jesus' last words in Luke — 'Father, into your hands I commit my spirit' (Luke 23:46) — quote Ps 31:5, expressing the filial trust of the righteous Servant in the God who will vindicate him through resurrection.",
+            "pt": "As últimas palavras de Jesus em Lucas — 'Pai, nas tuas mãos entrego o meu espírito' (Lc 23:46) — citam Sl 31:5, expressando a confiança filial do Servo justo no Deus que o vindica mediante a ressurreição."
+          }
+        },
+        {
+          "ref": "Is 53:3–9",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La descripción del siervo sufriente de Is 53 —despreciado, llevando nuestras enfermedades, traspasado por nuestras transgresiones— alcanza su cumplimiento histórico en el juicio, la crucifixión y la sepultura de Jesús narrados en Lc 23.",
+            "en": "Isaiah's description of the suffering servant (Isa 53) — despised, bearing our griefs, pierced for our transgressions — finds its historical fulfillment in the trial, crucifixion, and burial of Jesus narrated in Luke 23.",
+            "pt": "A descrição do servo sofredor de Is 53 — desprezado, levando nossas doenças, traspassado por nossas transgressões — alcança seu cumprimento histórico no julgamento, crucificação e sepultamento de Jesus narrados em Lc 23."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 24,
@@ -2767,7 +3062,36 @@
         "pt": "A ascensão de Jesus após comissionar seus discípulos"
       },
       "versiculoClave": "Lc 24:50-51",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 16:10",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La enseñanza de Jesús en el camino a Emaús (Lc 24:27,44-46) incluye Sal 16:10, que Pedro citará en Hch 2:27-31 como profecía directa de la resurrección: el Santo de Dios no vería corrupción, pues Dios no abandonaría su alma en el Seol.",
+            "en": "Jesus' teaching on the Emmaus road (Luke 24:27,44-46) includes Ps 16:10, which Peter will cite in Acts 2:27-31 as a direct prophecy of the resurrection: God's Holy One would not see corruption, for God would not abandon his soul to Hades.",
+            "pt": "O ensinamento de Jesus no caminho de Emaús (Lc 24:27,44-46) inclui Sl 16:10, que Pedro citará em At 2:27-31 como profecia direta da ressurreição: o Santo de Deus não veria a corrupção, pois Deus não abandonaria sua alma no Hades."
+          }
+        },
+        {
+          "ref": "Is 53:5–6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La explicación de la necesidad de sufrir para entrar en gloria (Lc 24:26,46) interpreta la pasión a la luz del Siervo de Is 53: el Mesías fue herido por nuestras transgresiones y su muerte expiatoria era necesaria según el plan del Padre.",
+            "en": "The explanation of the necessity of suffering to enter glory (Luke 24:26,46) interprets the passion in light of the Servant of Isa 53: the Messiah was wounded for our transgressions and his atoning death was necessary according to the Father's plan.",
+            "pt": "A explicação da necessidade de sofrer para entrar na glória (Lc 24:26,46) interpreta a paixão à luz do Servo de Is 53: o Messias foi ferido por nossas transgressões e sua morte expiatória era necessária segundo o plano do Pai."
+          }
+        },
+        {
+          "ref": "Os 6:2",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La resurrección «al tercer día» (Lc 24:46; Os 6:2) no es una cita directa sino un patrón escritural de restauración: la tradición reformada (1Co 15:4) ve Os 6:2 como anticipación tipológica de la resurrección del Mesías al tercer día.",
+            "en": "The resurrection 'on the third day' (Luke 24:46; Hos 6:2) is not a direct quotation but a scriptural pattern of restoration: the Reformed tradition (1 Cor 15:4) sees Hos 6:2 as a typological anticipation of the Messiah's resurrection on the third day.",
+            "pt": "A ressurreição 'no terceiro dia' (Lc 24:46; Os 6:2) não é uma citação direta, mas um padrão escritural de restauração: a tradição reformada (1Co 15:4) vê Os 6:2 como antecipação tipológica da ressurreição do Messias no terceiro dia."
+          }
+        }
+      ]
     }
   ],
   "fuentes": [
