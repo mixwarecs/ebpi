@@ -1711,7 +1711,36 @@
         "pt": "Ascensão de Cristo e mandato missionário tripartite"
       },
       "versiculoClave": "Hch 1:8",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 69:25",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita este salmo davídico en Hch 1:20 para justificar la necesidad de reemplazar a Judas, aplicando la imprecación de David sobre su traidor al traidor del Mesías.",
+            "en": "Peter quotes this Davidic psalm in Acts 1:20 to justify the need to replace Judas, applying David's imprecation on his betrayer to the betrayer of the Messiah.",
+            "pt": "Pedro cita este salmo davídico em At 1:20 para justificar a necessidade de substituir Judas, aplicando a imprecação de Davi sobre seu traidor ao traidor do Messias."
+          }
+        },
+        {
+          "ref": "Sal 109:8",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita este salmo en Hch 1:20 para fundamentar la elección de Matías: 'tome otro su oficio', estableciendo la continuidad del colegio apostólico del nuevo Israel.",
+            "en": "Peter quotes this psalm in Acts 1:20 to ground the election of Matthias: 'let another take his office,' establishing the continuity of the apostolic college of the new Israel.",
+            "pt": "Pedro cita este salmo em At 1:20 para fundamentar a eleição de Matias: 'tome outro o seu cargo', estabelecendo a continuidade do colégio apostólico do novo Israel."
+          }
+        },
+        {
+          "ref": "Lc 24:44–53",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El evangelio de Lucas relata la misma Ascensión y el mandato misionero que abre Hechos, mostrando la continuidad narrativa entre ambas obras del mismo autor.",
+            "en": "The Gospel of Luke narrates the same Ascension and missionary mandate that opens Acts, showing the narrative continuity between both works of the same author.",
+            "pt": "O evangelho de Lucas relata a mesma Ascensão e o mandato missionário que abre Atos, mostrando a continuidade narrativa entre ambas as obras do mesmo autor."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 2,
@@ -1732,7 +1761,36 @@
         "pt": "Derramamento do Espírito Santo e conversão de três mil"
       },
       "versiculoClave": "Hch 2:38",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jl 2:28–32",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita directamente esta profecía de Joel en Hch 2:17–21 para explicar el derramamiento del Espíritu en Pentecostés como su cumplimiento escatológico en la era del nuevo pacto.",
+            "en": "Peter directly quotes this prophecy from Joel in Acts 2:17–21 to explain the outpouring of the Spirit at Pentecost as its eschatological fulfillment in the new covenant era.",
+            "pt": "Pedro cita diretamente esta profecia de Joel em At 2:17–21 para explicar o derramamento do Espírito no Pentecostes como seu cumprimento escatológico na era do novo pacto."
+          }
+        },
+        {
+          "ref": "Sal 16:8–11",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita este salmo de David en Hch 2:25–28 para demostrar que David mismo profetizó la resurrección del Mesías, ya que David murió y fue sepultado pero el Santo no vería corrupción.",
+            "en": "Peter cites this Psalm of David in Acts 2:25–28 to demonstrate that David himself prophesied the resurrection of the Messiah, since David died and was buried but the Holy One would not see corruption.",
+            "pt": "Pedro cita este salmo de Davi em At 2:25–28 para demonstrar que Davi mesmo profetizou a ressurreição do Messias, pois Davi morreu e foi sepultado, mas o Santo não veria corrupção."
+          }
+        },
+        {
+          "ref": "Sal 110:1",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita este salmo davídico en Hch 2:34–35 para proclamar la exaltación de Cristo a la diestra del Padre, demostrando que David no ascendió al cielo sino que habló del Mesías entronizado.",
+            "en": "Peter cites this Davidic psalm in Acts 2:34–35 to proclaim Christ's exaltation to the Father's right hand, demonstrating that David did not ascend to heaven but spoke of the enthroned Messiah.",
+            "pt": "Pedro cita este salmo davídico em At 2:34–35 para proclamar a exaltação de Cristo à destra do Pai, demonstrando que Davi não subiu ao céu, mas falou do Messias entronizado."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 3,
@@ -1753,7 +1811,36 @@
         "pt": "Cura do coxo e defesa apostólica perante o Sinédrio"
       },
       "versiculoClave": "Hch 4:12",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 18:15",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita la promesa mosaica del profeta venidero en Hch 3:22, afirmando su cumplimiento en Jesús como el profeta como Moisés al que Israel debía escuchar, so pena de ser exterminado del pueblo.",
+            "en": "Peter quotes the Mosaic promise of the coming prophet in Acts 3:22, affirming its fulfillment in Jesus as the prophet like Moses whom Israel was bound to hear, under penalty of being cut off from the people.",
+            "pt": "Pedro cita a promessa mosaica do profeta vindouro em At 3:22, afirmando seu cumprimento em Jesus como o profeta como Moisés a quem Israel devia ouvir, sob pena de ser extirpado do povo."
+          }
+        },
+        {
+          "ref": "Gn 22:18",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pedro cita la promesa abrahàmica en Hch 3:25, mostrando que en la misión apostólica se cumple que en la descendencia de Abraham serán benditas todas las familias de la tierra.",
+            "en": "Peter quotes the Abrahamic promise in Acts 3:25, showing that the apostolic mission fulfills that in Abraham's offspring all the families of the earth shall be blessed.",
+            "pt": "Pedro cita a promessa abraâmica em At 3:25, mostrando que na missão apostólica se cumpre que na descendência de Abraão serão abençoadas todas as famílias da terra."
+          }
+        },
+        {
+          "ref": "Sal 118:22",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro aplica la imagen de la piedra desechada a Cristo en Hch 4:11, contrastando el rechazo de Jesús por los líderes judíos con su exaltación como piedra angular de la única salvación.",
+            "en": "Peter applies the image of the rejected stone to Christ in Acts 4:11, contrasting Jesus's rejection by Jewish leaders with his exaltation as the cornerstone of the only salvation.",
+            "pt": "Pedro aplica a imagem da pedra rejeitada a Cristo em At 4:11, contrastando a rejeição de Jesus pelos líderes judeus com sua exaltação como pedra angular da única salvação."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 5,
@@ -1774,7 +1861,18 @@
         "pt": "Morte de Ananias e Safira; libertação apostólica da prisão"
       },
       "versiculoClave": "Hch 5:41",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jos 7:10–26",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La muerte de Ananías y Safira por mentir a Dios dentro de la comunidad del pacto refleja el juicio sobre Acán en el campamento de Israel: el pecado oculto que contamina al pueblo santo recibe juicio inmediato y preserva la santidad de la congregación.",
+            "en": "The death of Ananias and Sapphira for lying to God within the covenant community mirrors the judgment on Achan in the camp of Israel: hidden sin that contaminates the holy people receives immediate judgment and preserves the holiness of the congregation.",
+            "pt": "A morte de Ananias e Safira por mentir a Deus dentro da comunidade do pacto reflete o julgamento sobre Acã no acampamento de Israel: o pecado oculto que contamina o povo santo recebe julgamento imediato e preserva a santidade da congregação."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 6,
@@ -1795,7 +1893,45 @@
         "pt": "Discurso histórico-redentor de Estêvão e seu martírio por apedrejamento"
       },
       "versiculoClave": "Hch 7:55",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 18:15",
+          "tipo": "cita",
+          "nota": {
+            "es": "Esteban cita en Hch 7:37 la promesa del profeta como Moisés para mostrar que el rechazo de Jesús repite el patrón de Israel que siempre rechazó a los profetas que Dios les envió.",
+            "en": "Stephen quotes in Acts 7:37 the promise of the prophet like Moses to show that the rejection of Jesus repeats the pattern of Israel always rejecting the prophets God sent them.",
+            "pt": "Estêvão cita em At 7:37 a promessa do profeta como Moisés para mostrar que a rejeição de Jesus repete o padrão de Israel que sempre rejeitou os profetas que Deus lhes enviou."
+          }
+        },
+        {
+          "ref": "Am 5:25–27",
+          "tipo": "cita",
+          "nota": {
+            "es": "Esteban cita al profeta Amós en Hch 7:42–43 para demostrar que la idolatría de Israel en el desierto es un patrón de rebeldía recurrente que el Sanedrín perpetúa al rechazar al Espíritu Santo.",
+            "en": "Stephen quotes the prophet Amos in Acts 7:42–43 to demonstrate that Israel's idolatry in the wilderness is a recurring pattern of rebellion that the Sanhedrin perpetuates by rejecting the Holy Spirit.",
+            "pt": "Estêvão cita o profeta Amós em At 7:42–43 para demonstrar que a idolatria de Israel no deserto é um padrão recorrente de rebeldia que o Sinédrio perpetua ao rejeitar o Espírito Santo."
+          }
+        },
+        {
+          "ref": "Is 66:1–2",
+          "tipo": "cita",
+          "nota": {
+            "es": "Esteban cita esta proclamación de Isaías en Hch 7:49–50 para refutar la acusación de blasfemia contra el Templo: el Dios del universo no está confinado a ningún edificio construido por manos humanas.",
+            "en": "Stephen quotes this proclamation of Isaiah in Acts 7:49–50 to refute the charge of blasphemy against the Temple: the God of the universe is not confined to any building made by human hands.",
+            "pt": "Estêvão cita esta proclamação de Isaías em At 7:49–50 para refutar a acusação de blasfêmia contra o Templo: o Deus do universo não está confinado a nenhum edifício construído por mãos humanas."
+          }
+        },
+        {
+          "ref": "Lc 23:34",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La oración de perdón de Esteban por sus ejecutores (Hch 7:60) refleja la intercesión de Cristo en la cruz por quienes lo crucificaron, mostrando a Esteban como el primer mártir cristiano que imita la muerte de su Señor.",
+            "en": "Stephen's prayer of forgiveness for his executioners (Acts 7:60) mirrors Christ's intercession on the cross for those who crucified him, showing Stephen as the first Christian martyr who imitates his Lord's death.",
+            "pt": "A oração de perdão de Estêvão por seus executores (At 7:60) reflete a intercessão de Cristo na cruz pelos que o crucificaram, mostrando Estêvão como o primeiro mártir cristão que imita a morte de seu Senhor."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 8,
@@ -1816,7 +1952,27 @@
         "pt": "Evangelização da Samaria e conversão do eunuco etíope"
       },
       "versiculoClave": "Hch 8:35",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 53:7–8",
+          "tipo": "cita",
+          "nota": {
+            "es": "Felipe encuentra al eunuco etíope leyendo exactamente este pasaje del Siervo Sufriente (Hch 8:32–33) y lo usa como punto de partida para anunciarle a Jesús, mostrando que Is 53 es la clave hermenéutica del evangelio.",
+            "en": "Philip finds the Ethiopian eunuch reading precisely this passage of the Suffering Servant (Acts 8:32–33) and uses it as the starting point to announce Jesus to him, showing that Isa 53 is the hermeneutical key of the gospel.",
+            "pt": "Filipe encontra o eunuco etíope lendo exatamente esta passagem do Servo Sofredor (At 8:32–33) e a usa como ponto de partida para anunciar-lhe Jesus, mostrando que Is 53 é a chave hermenêutica do evangelho."
+          }
+        },
+        {
+          "ref": "Is 56:3–8",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La promesa de Isaías de que los eunucos y los extranjeros serán incluidos en la casa de Dios se cumple en la conversión del eunuco etíope, inaugurando la expansión del evangelio al continente africano.",
+            "en": "Isaiah's promise that eunuchs and foreigners will be included in God's house is fulfilled in the conversion of the Ethiopian eunuch, inaugurating the expansion of the gospel to the African continent.",
+            "pt": "A promessa de Isaías de que os eunucos e os estrangeiros serão incluídos na casa de Deus se cumpre na conversão do eunuco etíope, inaugurando a expansão do evangelho ao continente africano."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 9,
@@ -1837,7 +1993,27 @@
         "pt": "Conversão de Saulo de Tarso no caminho para Damasco"
       },
       "versiculoClave": "Hch 9:15",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gal 1:11–17",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo describe su conversión en Gálatas como una revelación directa del Cristo resucitado sin mediación humana, confirmando la naturaleza sobrenatural y apostólicamente fundante del encuentro narrado en Hch 9.",
+            "en": "Paul describes his conversion in Galatians as a direct revelation of the risen Christ without human mediation, confirming the supernatural and apostolically foundational nature of the encounter narrated in Acts 9.",
+            "pt": "Paulo descreve sua conversão em Gálatas como uma revelação direta do Cristo ressurreto sem mediação humana, confirmando a natureza sobrenatural e apostolicamente fundante do encontro narrado em At 9."
+          }
+        },
+        {
+          "ref": "1 Ti 1:12–16",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo considera su propia conversión —siendo el peor de los pecadores— como la demostración paradigmática de la paciencia de Cristo para salvar a cualquiera, fundamentando la esperanza universal del evangelio.",
+            "en": "Paul considers his own conversion — as the foremost of sinners — as the paradigmatic demonstration of Christ's patience to save anyone, grounding the universal hope of the gospel.",
+            "pt": "Paulo considera sua própria conversão — sendo o pior dos pecadores — como a demonstração paradigmática da paciência de Cristo para salvar qualquer um, fundamentando a esperança universal do evangelho."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 10,
@@ -1858,7 +2034,27 @@
         "pt": "Conversão de Cornélio e abertura oficial do evangelho aos gentios"
       },
       "versiculoClave": "Hch 10:34",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 49:6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La conversión de Cornelio es la primera realización concreta de la promesa del Siervo de ser 'luz a las naciones', extendiendo la salvación más allá de Israel hacia los confines de la tierra.",
+            "en": "The conversion of Cornelius is the first concrete realization of the Servant's promise to be 'a light to the nations,' extending salvation beyond Israel to the ends of the earth.",
+            "pt": "A conversão de Cornélio é a primeira realização concreta da promessa do Servo de ser 'luz para as nações', estendendo a salvação além de Israel até os confins da terra."
+          }
+        },
+        {
+          "ref": "Ef 2:14–16",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La visión de Pedro sobre los alimentos y la conversión de Cornelio anticipan la realidad proclamada por Pablo: Cristo derribo la pared de separación entre judíos y gentiles, creando un solo nuevo hombre en el cuerpo de Cristo.",
+            "en": "Peter's vision about foods and the conversion of Cornelius anticipate the reality proclaimed by Paul: Christ broke down the dividing wall between Jews and Gentiles, creating one new man in the body of Christ.",
+            "pt": "A visão de Pedro sobre os alimentos e a conversão de Cornélio antecipam a realidade proclamada por Paulo: Cristo derrubou a parede de separação entre judeus e gentios, criando um só novo homem no corpo de Cristo."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 12,
@@ -1879,7 +2075,18 @@
         "pt": "Libertação milagrosa de Pedro e morte de Herodes Agripa I"
       },
       "versiculoClave": "Hch 12:24",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 34:7",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La liberación de Pedro por el ángel del Señor ilustra la promesa del salmo: 'El ángel del Señor acampa alrededor de los que le temen y los libra', contrastando la protección divina con el poder lethal de Herodes.",
+            "en": "Peter's liberation by the angel of the Lord illustrates the psalm's promise: 'The angel of the LORD encamps around those who fear him, and delivers them,' contrasting divine protection with Herod's lethal power.",
+            "pt": "A libertação de Pedro pelo anjo do Senhor ilustra a promessa do salmo: 'O anjo do Senhor acampa ao redor dos que o temem e os livra', contrastando a proteção divina com o poder letal de Herodes."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 13,
@@ -1900,7 +2107,36 @@
         "pt": "Fundação de igrejas na Ásia Menor com presbíteros constituídos apostolicamente"
       },
       "versiculoClave": "Hch 13:38",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 2:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita este salmo mesiánico en Hch 13:33 para demostrar que la resurrección de Jesús es el cumplimiento del decreto divino de que el Hijo de Dios reinaría, siendo el Ungido prometido al mundo.",
+            "en": "Paul quotes this messianic psalm in Acts 13:33 to demonstrate that Jesus's resurrection is the fulfillment of the divine decree that the Son of God would reign, being the Anointed One promised to the world.",
+            "pt": "Paulo cita este salmo messiânico em At 13:33 para demonstrar que a ressurreição de Jesus é o cumprimento do decreto divino de que o Filho de Deus reinaria, sendo o Ungido prometido ao mundo."
+          }
+        },
+        {
+          "ref": "Is 55:3",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita la promesa davídica de las 'misericordias seguras' en Hch 13:34 para demostrar que la resurrección de Cristo es el fundamento del cumplimiento del pacto davídico para la nueva creación.",
+            "en": "Paul quotes the Davidic promise of 'holy and sure blessings' in Acts 13:34 to demonstrate that Christ's resurrection is the foundation for fulfilling the Davidic covenant for the new creation.",
+            "pt": "Paulo cita a promessa davídica das 'misericórdias fiéis' em At 13:34 para demonstrar que a ressurreição de Cristo é o fundamento do cumprimento do pacto davídico para a nova criação."
+          }
+        },
+        {
+          "ref": "Is 49:6",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo y Bernabé citan este versículo en Hch 13:47 como su mandato apostólico explícito, identificándose como instrumentos del Siervo para llevar la salvación de Dios hasta los confines de la tierra.",
+            "en": "Paul and Barnabas quote this verse in Acts 13:47 as their explicit apostolic mandate, identifying themselves as instruments of the Servant to bring God's salvation to the ends of the earth.",
+            "pt": "Paulo e Barnabé citam este versículo em At 13:47 como seu mandato apostólico explícito, identificando-se como instrumentos do Servo para levar a salvação de Deus até os confins da terra."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 15,
@@ -1921,7 +2157,27 @@
         "pt": "Resolução conciliar sobre a salvação dos gentios sem circuncisão"
       },
       "versiculoClave": "Hch 15:11",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Am 9:11–12",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jacobo cita esta profecía de Amós en Hch 15:16–17 para demostrar que la inclusión de los gentiles no es novedad sino el plan eterno de Dios de restaurar el tabernáculo de David para que todas las naciones busquen al Señor.",
+            "en": "James quotes this prophecy of Amos in Acts 15:16–17 to demonstrate that the inclusion of Gentiles is not a novelty but God's eternal plan to restore David's tabernacle so that all nations would seek the Lord.",
+            "pt": "Tiago cita esta profecia de Amós em At 15:16–17 para demonstrar que a inclusão dos gentios não é novidade, mas o plano eterno de Deus de restaurar o tabernáculo de Davi para que todas as nações busquem o Senhor."
+          }
+        },
+        {
+          "ref": "Gal 2:1–10",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo describe en Gálatas el mismo encuentro en Jerusalén, añadiendo que los pilares de la iglesia le extendieron la diestra de compañerismo, reconociendo públicamente su evangelio a los gentiles sin circuncisión.",
+            "en": "Paul describes in Galatians the same meeting in Jerusalem, adding that the pillars of the church extended the right hand of fellowship, publicly recognizing his gospel to the Gentiles without circumcision.",
+            "pt": "Paulo descreve em Gálatas o mesmo encontro em Jerusalém, acrescentando que os pilares da igreja lhe estenderam a destra de comunhão, reconhecendo publicamente seu evangelho aos gentios sem circuncisão."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 16,
@@ -1942,7 +2198,27 @@
         "pt": "Visão macedônica, conversões em Filipos e discurso no Areópago de Atenas"
       },
       "versiculoClave": "Hch 16:14",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Fl 1:1–11",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La carta a los Filipenses es la epístola que Pablo dirige a la primera iglesia fundada en suelo europeo (Hch 16:12–15), cuya comunidad nació con la conversión de Lidia en Filipos.",
+            "en": "The letter to the Philippians is the epistle Paul addresses to the first church founded on European soil (Acts 16:12–15), whose community was born with the conversion of Lydia in Philippi.",
+            "pt": "A carta aos Filipenses é a epístola que Paulo dirige à primeira igreja fundada em solo europeu (At 16:12–15), cuja comunidade nasceu com a conversão de Lídia em Filipos."
+          }
+        },
+        {
+          "ref": "Ro 1:19–23",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El discurso de Pablo en el Areópago sobre el Dios Creador que no habita en templos humanos (Hch 17:24–28) desarrolla la misma teología de la revelación natural que Pablo sistematizará en Romanos.",
+            "en": "Paul's Areopagus speech about the Creator God who does not dwell in human temples (Acts 17:24–28) develops the same theology of natural revelation that Paul will systematize in Romans.",
+            "pt": "O discurso de Paulo no Areópago sobre o Deus Criador que não habita em templos humanos (At 17:24–28) desenvolve a mesma teologia da revelação natural que Paulo sistematizará em Romanos."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 18,
@@ -1963,7 +2239,27 @@
         "pt": "Ministério de 18 meses em Corinto e comparecimento perante Gálio"
       },
       "versiculoClave": "Hch 18:10",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1 Co 1:1–9",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La Primera Carta a los Corintios es la epístola que Pablo dirige a la iglesia fundada en este ministerio de dieciocho meses, abordando los conflictos y desórdenes que surgieron en la comunidad que él mismo plantó.",
+            "en": "First Corinthians is the epistle Paul addresses to the church he founded during this eighteen-month ministry, addressing the conflicts and disorders that arose in the community he himself planted.",
+            "pt": "A Primeira Carta aos Coríntios é a epístola que Paulo dirige à igreja fundada neste ministério de dezoito meses, abordando os conflitos e desordens que surgiram na comunidade que ele mesmo plantou."
+          }
+        },
+        {
+          "ref": "2 Co 1:1–7",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La Segunda Carta a los Corintios revela la profundidad del vínculo pastoral de Pablo con la iglesia coríntica y la continuación de su ministerio apostólico entre los creyentes que conoció en este segundo viaje.",
+            "en": "Second Corinthians reveals the depth of Paul's pastoral bond with the Corinthian church and the continuation of his apostolic ministry among the believers he met on this second journey.",
+            "pt": "A Segunda Carta aos Coríntios revela a profundidade do vínculo pastoral de Paulo com a igreja coríntica e a continuação de seu ministério apostólico entre os crentes que conheceu nesta segunda viagem."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 19,
@@ -1984,7 +2280,36 @@
         "pt": "Ministério em Éfeso e discurso de despedida aos presbíteros em Mileto"
       },
       "versiculoClave": "Hch 20:28",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ef 1:1–14",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La Epístola a los Efesios es la carta que Pablo dirige a la iglesia de Éfeso, fundada durante el ministerio de tres años narrado en Hch 19, mostrando la madurez doctrinal alcanzada por esa comunidad.",
+            "en": "The Epistle to the Ephesians is the letter Paul addresses to the church of Ephesus, founded during the three-year ministry narrated in Acts 19, showing the doctrinal maturity attained by that community.",
+            "pt": "A Epístola aos Efésios é a carta que Paulo dirige à igreja de Éfeso, fundada durante o ministério de três anos narrado em At 19, mostrando a maturidade doutrinária alcançada por aquela comunidade."
+          }
+        },
+        {
+          "ref": "Ez 33:1–9",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El deber del atalaya de advertir al pueblo bajo pena de ser responsable de su sangre (Ez 33:8) resuena en la declaración de Pablo ante los ancianos: 'soy limpio de la sangre de todos' (Hch 20:26), mostrando su fidelidad al modelo del centinela profético.",
+            "en": "The watchman's duty to warn the people under pain of being responsible for their blood (Ezek 33:8) echoes in Paul's declaration to the elders: 'I am innocent of the blood of all of you' (Acts 20:26), showing his faithfulness to the prophetic sentinel model.",
+            "pt": "O dever do sentinela de advertir o povo sob pena de ser responsável por seu sangue (Ez 33:8) ressoa na declaração de Paulo perante os presbíteros: 'sou puro do sangue de todos' (At 20:26), mostrando sua fidelidade ao modelo do sentinela profético."
+          }
+        },
+        {
+          "ref": "1 Ti 1:3–7",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo deja a Timoteo en Éfeso para guardar la sana doctrina contra los falsos maestros, continuando el mandato de supervisión pastoral que él mismo inauguró con el discurso de despedida en Mileto.",
+            "en": "Paul leaves Timothy in Ephesus to guard sound doctrine against false teachers, continuing the pastoral oversight mandate that he himself inaugurated with the farewell speech at Miletus.",
+            "pt": "Paulo deixa Timóteo em Éfeso para guardar a sã doutrina contra os falsos mestres, continuando o mandato de supervisão pastoral que ele mesmo inaugurou com o discurso de despedida em Mileto."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 21,
@@ -2005,7 +2330,27 @@
         "pt": "Prisão de Paulo no Templo e promessa divina de testemunho em Roma"
       },
       "versiculoClave": "Hch 23:11",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2 Co 11:23–28",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo cataloga en Segunda Corintios sus sufrimientos apostólicos incluyendo prisiones y peligros en Jerusalén, contextualizando el arresto de Hch 21 dentro del patrón de sufrimiento por el evangelio que caracteriza su ministerio.",
+            "en": "Paul catalogs in Second Corinthians his apostolic sufferings including prisons and dangers in Jerusalem, contextualizing the arrest of Acts 21 within the pattern of suffering for the gospel that characterizes his ministry.",
+            "pt": "Paulo cataloga em Segunda Coríntios seus sofrimentos apostólicos incluindo prisões e perigos em Jerusalém, contextualizando a prisão de At 21 dentro do padrão de sofrimento pelo evangelho que caracteriza seu ministério."
+          }
+        },
+        {
+          "ref": "Fl 1:19–26",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Desde su prisión Pablo escribe a los Filipenses que 'para mí el vivir es Cristo y el morir es ganancia', una perspectiva forjada en la experiencia de arresto iniciada en Jerusalén y continuada hasta Roma.",
+            "en": "From prison Paul writes to the Philippians that 'for me to live is Christ and to die is gain,' a perspective forged in the experience of arrest that began in Jerusalem and continued to Rome.",
+            "pt": "Da prisão Paulo escreve aos Filipenses que 'para mim o viver é Cristo e o morrer é lucro', uma perspectiva forjada na experiência de prisão que começou em Jerusalém e continuou até Roma."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 24,
@@ -2026,7 +2371,27 @@
         "pt": "Apelação de Paulo ao César e defesa perante o rei Agripa II"
       },
       "versiculoClave": "Hch 26:18",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 42:6–7",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La vocación de Pablo de abrir los ojos de los gentiles y convertirlos de las tinieblas a la luz (Hch 26:18) es casi una cita directa de la misión del Siervo en Is 42:6–7, mostrando que Pablo se entiende como instrumento del cumplimiento de la profecía isaiánica.",
+            "en": "Paul's calling to open the eyes of the Gentiles and turn them from darkness to light (Acts 26:18) is nearly a direct quote of the Servant's mission in Isa 42:6–7, showing that Paul understands himself as an instrument of the fulfillment of Isaiah's prophecy.",
+            "pt": "A vocação de Paulo de abrir os olhos dos gentios e convertê-los das trevas à luz (At 26:18) é quase uma citação direta da missão do Servo em Is 42:6–7, mostrando que Paulo se entende como instrumento do cumprimento da profecia isaiânica."
+          }
+        },
+        {
+          "ref": "2 Ti 4:16–17",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo escribe desde Roma que en su primera defensa nadie estuvo a su lado pero el Señor lo asistió, un patrón que comienza en las audiencias ante Félix, Festo y Agripa donde el Señor lo sostuvo para que el mensaje llegara hasta los gentiles.",
+            "en": "Paul writes from Rome that at his first defense no one stood by him but the Lord assisted him, a pattern that begins in the hearings before Felix, Festus, and Agrippa where the Lord sustained him so that the message would reach the Gentiles.",
+            "pt": "Paulo escreve de Roma que em sua primeira defesa ninguém esteve ao seu lado, mas o Senhor o assistiu, um padrão que começa nas audiências perante Félix, Festo e Agripa, onde o Senhor o sustentou para que a mensagem chegasse até os gentios."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 27,
@@ -2047,7 +2412,27 @@
         "pt": "Chegada de Paulo a Roma e proclamação do evangelho sem impedimento"
       },
       "versiculoClave": "Hch 28:31",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 6:9–10",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cierra Hechos citando este oráculo de Isaías en Hch 28:26–27 para explicar el rechazo judío en Roma, identificando el endurecimiento de Israel como un patrón profético que no invalida la soberanía de Dios ni el avance del evangelio.",
+            "en": "Paul closes Acts by quoting this oracle of Isaiah in Acts 28:26–27 to explain the Jewish rejection in Rome, identifying Israel's hardening as a prophetic pattern that does not invalidate God's sovereignty nor the advance of the gospel.",
+            "pt": "Paulo fecha Atos citando este oráculo de Isaías em At 28:26–27 para explicar a rejeição judaica em Roma, identificando o endurecimento de Israel como um padrão profético que não invalida a soberania de Deus nem o avanço do evangelho."
+          }
+        },
+        {
+          "ref": "Ro 11:25–32",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El endurecimiento parcial de Israel y la plenitud de los gentiles declarados al final de Hechos son la realidad histórica que Pablo elabora teológicamente en Romanos 11, mostrando el misterioso propósito redentor de Dios para ambos pueblos.",
+            "en": "The partial hardening of Israel and the fullness of the Gentiles declared at the end of Acts is the historical reality that Paul theologizes in Romans 11, showing God's mysterious redemptive purpose for both peoples.",
+            "pt": "O endurecimento parcial de Israel e a plenitude dos gentios declarados no final de Atos é a realidade histórica que Paulo elabora teologicamente em Romanos 11, mostrando o misterioso propósito redentor de Deus para ambos os povos."
+          }
+        }
+      ]
     }
   ],
   "fuentes": [
