@@ -2390,7 +2390,36 @@
         "pt": "O batismo de Jesus e a proclamação do Pai: 'Tu és o meu Filho amado; em ti me comprazo' (Mc 1:11)"
       },
       "versiculoClave": "Mc 1:11",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mal 3:1",
+          "tipo": "cita",
+          "nota": {
+            "es": "Marcos abre su evangelio citando Mal 3:1 —«He aquí yo envío mi mensajero delante de tu faz»— junto con Is 40:3 (Mc 1:2-3), identificando a Juan el Bautista como el precursor prometido que prepara la llegada del Señor mismo.",
+            "en": "Mark opens his Gospel by quoting Mal 3:1 — 'Behold, I send my messenger before your face' — alongside Isa 40:3 (Mark 1:2-3), identifying John the Baptist as the promised forerunner who prepares the coming of the Lord himself.",
+            "pt": "Marcos abre seu evangelho citando Ml 3:1 — 'Eis que eu envio o meu mensageiro diante da tua face' — junto com Is 40:3 (Mc 1:2-3), identificando João Batista como o precursor prometido que prepara a vinda do próprio Senhor."
+          }
+        },
+        {
+          "ref": "Is 40:3",
+          "tipo": "cita",
+          "nota": {
+            "es": "«Voz del que clama en el desierto: preparad el camino del Señor» (Mc 1:3; Is 40:3) define el ministerio de Juan como preparación del éxodo escatológico: el regreso de YHWH a Sión que Isaías había prometido al Israel en exilio.",
+            "en": "'The voice of one crying in the wilderness: prepare the way of the Lord' (Mark 1:3; Isa 40:3) defines John's ministry as preparation for the eschatological exodus: the return of YHWH to Zion that Isaiah had promised to Israel in exile.",
+            "pt": "'Voz do que clama no deserto: preparai o caminho do Senhor' (Mc 1:3; Is 40:3) define o ministério de João como preparação do êxodo escatológico: o retorno de YHWH a Sião que Isaías havia prometido ao Israel no exílio."
+          }
+        },
+        {
+          "ref": "Is 42:1",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La voz del cielo en el bautismo de Jesús —«Tú eres mi Hijo amado, en ti me he complacido» (Mc 1:11)— fusiona Sal 2:7 (entronización real) con Is 42:1 («mi siervo... mi elegido, en quien mi alma se deleita»), declarando que Jesús inaugura su ministerio como Rey ungido y Siervo sufriente a la vez.",
+            "en": "The voice from heaven at Jesus' baptism — 'You are my beloved Son; with you I am well pleased' (Mark 1:11) — fuses Ps 2:7 (royal enthronement) with Isa 42:1 ('my servant... my chosen, in whom my soul delights'), declaring that Jesus inaugurates his ministry as both anointed King and Suffering Servant.",
+            "pt": "A voz do céu no batismo de Jesus — 'Tu és o meu Filho amado, em ti me comprazo' (Mc 1:11) — funde Sl 2:7 (entronização real) com Is 42:1 ('meu servo... meu escolhido, em quem a minha alma se deleita'), declarando que Jesus inaugura seu ministério como Rei ungido e Servo sofredor ao mesmo tempo."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 2,
@@ -2411,7 +2440,27 @@
         "pt": "O perdão dos pecados ao paralítico — 'Filho, os teus pecados te são perdoados' — que desencadeia o primeiro conflito aberto com os escribas por blasfêmia (Mc 2:5)"
       },
       "versiculoClave": "Mc 2:10",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1S 21:1–6",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jesús defiende a sus discípulos por arrancar espigas en sábado citando a David en Nob (Mc 2:25-26; 1S 21:1-6): el rey davídico actúa con autoridad sobre las prescripciones rituales por necesidad. El Hijo del Hombre es señor del sábado con la misma —y mayor— autoridad real.",
+            "en": "Jesus defends his disciples for plucking grain on the Sabbath by citing David at Nob (Mark 2:25-26; 1 Sam 21:1-6): the Davidic king acts with authority over ritual prescriptions out of necessity. The Son of Man is lord of the Sabbath with the same — and greater — royal authority.",
+            "pt": "Jesus defende seus discípulos por colherem espigas no sábado citando Davi em Nobe (Mc 2:25-26; 1Sm 21:1-6): o rei davídico age com autoridade sobre as prescrições rituais por necessidade. O Filho do Homem é senhor do sábado com a mesma — e maior — autoridade real."
+          }
+        },
+        {
+          "ref": "Dn 7:13–14",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La primera aparición de «Hijo del Hombre» en Marcos ocurre al reclamar autoridad para perdonar pecados en la tierra (Mc 2:10). La expresión evoca Dn 7:13-14, donde uno «como un Hijo de Hombre» recibe de Dios dominio, gloria y reino: Jesús reclama esa autoridad divina en su ministerio terrenal.",
+            "en": "The first appearance of 'Son of Man' in Mark occurs when claiming authority to forgive sins on earth (Mark 2:10). The expression evokes Dan 7:13-14, where one 'like a son of man' receives dominion, glory, and kingdom from God: Jesus claims that divine authority in his earthly ministry.",
+            "pt": "A primeira aparição de 'Filho do Homem' em Marcos ocorre ao reivindicar autoridade para perdoar pecados na terra (Mc 2:10). A expressão evoca Dn 7:13-14, onde um 'como filho de homem' recebe de Deus domínio, glória e reino: Jesus reivindica essa autoridade divina em seu ministério terreno."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 4,
@@ -2432,7 +2481,36 @@
         "pt": "A ressurreição da filha de Jairo — 'Talitha cumi... e a menina se levantou' — revelando o poder de Jesus sobre a própria morte (Mc 5:41–42)"
       },
       "versiculoClave": "Mc 4:41",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 6:9–10",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Is 6:9-10 para explicar por qué enseña en parábolas (Mc 4:12): así como Isaías fue enviado a un pueblo que vería sin percibir, el mismo juicio de endurecimiento recae sobre quienes rechazan el reino. Las parábolas son simultáneamente revelación para los que tienen oídos y velo para los endurecidos.",
+            "en": "Jesus quotes Isa 6:9-10 to explain why he teaches in parables (Mark 4:12): just as Isaiah was sent to a people who would see without perceiving, the same judgment of hardening falls on those who reject the kingdom. Parables are simultaneously revelation for those with ears and a veil for the hardened.",
+            "pt": "Jesus cita Is 6:9-10 para explicar por que ensina em parábolas (Mc 4:12): assim como Isaías foi enviado a um povo que veria sem perceber, o mesmo julgamento de endurecimento recai sobre os que rejeitam o reino. As parábolas são simultaneamente revelação para os que têm ouvidos e véu para os endurecidos."
+          }
+        },
+        {
+          "ref": "Ez 17:22–24",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La parábola del grano de mostaza que se convierte en árbol donde anidan las aves (Mc 4:30-32) evoca Ez 17:22-24, donde YHWH planta una rama del cedro que crece hasta que «en sus ramas anidan toda clase de aves». Jesús describe el reino de Dios como el árbol escatológico de Ezequiel, pequeño en su origen pero de alcance universal.",
+            "en": "The parable of the mustard seed growing into a tree where birds nest (Mark 4:30-32) evokes Ezek 17:22-24, where YHWH plants a cedar sprig that grows until 'under it will nest every kind of bird.' Jesus describes the kingdom of God as Ezekiel's eschatological tree, small in origin but universal in reach.",
+            "pt": "A parábola do grão de mostarda que se torna árvore onde os pássaros fazem ninhos (Mc 4:30-32) evoca Ez 17:22-24, onde YHWH planta um ramo de cedro que cresce até que 'debaixo dele aninharão todas as aves'. Jesus descreve o reino de Deus como a árvore escatológica de Ezequiel, pequena na origem mas de alcance universal."
+          }
+        },
+        {
+          "ref": "1R 17:17–24",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La resurrección de la hija de Jairo (Mc 5:41-42) supera tipológicamente la resurrección realizada por Elías en Sarepta (1R 17:17-24): Elías oró tres veces tendido sobre el niño; Jesús simplemente tomó la mano de la niña y pronunció una orden. La autoridad directa de Jesús sobre la muerte contrasta con la mediación orante del profeta.",
+            "en": "The resurrection of Jairus' daughter (Mark 5:41-42) typologically surpasses Elijah's resurrection at Zarephath (1 Kgs 17:17-24): Elijah prayed three times lying on the child; Jesus simply took the girl's hand and spoke a command. Jesus' direct authority over death contrasts with the prophet's prayerful mediation.",
+            "pt": "A ressurreição da filha de Jairo (Mc 5:41-42) supera tipologicamente a ressurreição realizada por Elias em Sarepta (1Rs 17:17-24): Elias orou três vezes deitado sobre a criança; Jesus simplesmente tomou a mão da menina e pronunciou uma ordem. A autoridade direta de Jesus sobre a morte contrasta com a mediação orante do profeta."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 6,
@@ -2453,7 +2531,36 @@
         "pt": "A primeira multiplicação dos pães: Jesus alimenta cinco mil com cinco pães e dois peixes, e recolhe doze cestos de sobras (Mc 6:41–44)"
       },
       "versiculoClave": "Mc 6:52",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2R 4:42–44",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La alimentación de los cinco mil (Mc 6:30-44) supera el milagro de Eliseo que alimentó a cien hombres con veinte panes (2R 4:42-44). El excedente de doce canastas subraya la abundancia escatológica: Jesús es el profeta escatológico mayor que Eliseo, que inaugura el banquete mesiánico del reino.",
+            "en": "The feeding of the five thousand (Mark 6:30-44) surpasses Elisha's miracle of feeding a hundred men with twenty loaves (2 Kgs 4:42-44). The surplus of twelve baskets underscores eschatological abundance: Jesus is the eschatological prophet greater than Elisha, inaugurating the messianic banquet of the kingdom.",
+            "pt": "A alimentação dos cinco mil (Mc 6:30-44) supera o milagre de Eliseu que alimentou cem homens com vinte pães (2Rs 4:42-44). O excedente de doze cestos sublinha a abundância escatológica: Jesus é o profeta escatológico maior que Eliseu, inaugurando o banquete messiânico do reino."
+          }
+        },
+        {
+          "ref": "1R 19:1–3",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La muerte de Juan el Bautista (Mc 6:14-29) recapitula la persecución de Elías: Herodías busca la vida de Juan como Jezabel buscó la de Elías (1R 19:1-3), y Herodes, que tiene miedo de Juan pero cede ante la presión, repite el patrón de Acab. El profeta que anuncia la justicia de Dios siempre enfrenta la ira del poder político corrompido.",
+            "en": "The death of John the Baptist (Mark 6:14-29) recapitulates Elijah's persecution: Herodias seeks John's life as Jezebel sought Elijah's (1 Kgs 19:1-3), and Herod, who fears John but yields to pressure, repeats the pattern of Ahab. The prophet who announces God's justice always faces the wrath of corrupt political power.",
+            "pt": "A morte de João Batista (Mc 6:14-29) recapitula a perseguição de Elias: Herodias busca a vida de João como Jezabel buscou a de Elias (1Rs 19:1-3), e Herodes, que teme João mas cede à pressão, repete o padrão de Acabe. O profeta que anuncia a justiça de Deus sempre enfrenta a ira do poder político corrompido."
+          }
+        },
+        {
+          "ref": "Is 53:3",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El rechazo de Jesús en su propia ciudad (Mc 6:1-6) —por sus paisanos que escandalizan en él— cumple el perfil del Siervo de Is 53:3: «despreciado y rechazado entre los hombres». El que vino a los suyos y los suyos no le recibieron (Jn 1:11) experimenta el mismo desprecio que el Siervo profetizado.",
+            "en": "Jesus' rejection in his hometown (Mark 6:1-6) — by his neighbors who take offense at him — fulfills the profile of the Servant in Isa 53:3: 'despised and rejected by men.' The one who came to his own and his own did not receive him (John 1:11) experiences the same contempt foretold of the Servant.",
+            "pt": "A rejeição de Jesus em sua própria cidade (Mc 6:1-6) — pelos seus conterrâneos que se escandalizaram nele — cumpre o perfil do Servo de Is 53:3: 'desprezado e rejeitado pelos homens'. Aquele que veio aos seus e os seus não o receberam (Jo 1:11) experimenta o mesmo desprezo profetizado do Servo."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 7,
@@ -2474,7 +2581,36 @@
         "pt": "A confissão de Pedro em Cesareia de Filipe — 'Tu és o Cristo' — e a primeira predição da paixão (Mc 8:29–31)"
       },
       "versiculoClave": "Mc 8:34",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 29:13",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús responde a los fariseos citando Is 29:13 —«este pueblo me honra con los labios, pero su corazón está lejos de mí; en vano me rinden culto, enseñando como doctrinas preceptos de hombres»— (Mc 7:6-7). La tradición oral que anula la Palabra de Dios es exactamente el vano culto que Isaías denunció.",
+            "en": "Jesus responds to the Pharisees by quoting Isa 29:13 — 'this people honors me with their lips, but their heart is far from me; in vain do they worship me, teaching as doctrines the commandments of men' — (Mark 7:6-7). The oral tradition that nullifies the Word of God is precisely the vain worship Isaiah condemned.",
+            "pt": "Jesus responde aos fariseus citando Is 29:13 — 'este povo me honra com os lábios, mas o seu coração está longe de mim; em vão me adoram, ensinando como doutrinas os preceitos dos homens' — (Mc 7:6-7). A tradição oral que anula a Palavra de Deus é exatamente o culto vão que Isaías denunciou."
+          }
+        },
+        {
+          "ref": "Is 35:5–6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La curación del sordomudo en Mc 7:31-37 cumple Is 35:5-6: «los oídos de los sordos se abrirán... la lengua del mudo cantará». El evangelista preserva la palabra aramea Efatá —«ábrete»— como registro del acto creador de Jesús que restituye los sentidos perdidos como signo del reino que irrumpe.",
+            "en": "The healing of the deaf-mute in Mark 7:31-37 fulfills Isa 35:5-6: 'the ears of the deaf shall be opened... the tongue of the mute shall sing.' The evangelist preserves the Aramaic word Ephphatha — 'be opened' — as a record of Jesus' creative act restoring lost senses as a sign of the breaking-in kingdom.",
+            "pt": "A cura do surdo-mudo em Mc 7:31-37 cumpre Is 35:5-6: 'os ouvidos dos surdos se abrirão... a língua do mudo cantará'. O evangelista preserva a palavra aramaica Effatá — 'abre-te' — como registro do ato criador de Jesus que restaura os sentidos perdidos como sinal do reino que irrompe."
+          }
+        },
+        {
+          "ref": "Is 53:11–12",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La primera predicción de la pasión (Mc 8:31) —«es necesario que el Hijo del Hombre padezca mucho, sea rechazado... y sea muerto»— refleja Is 53:11-12: el Siervo justificará a muchos cargando sus iniquidades y será contado entre los transgresores. Pedro rechaza esta trayectoria porque no comprende que el mesianismo davídico se cumple a través del sufrimiento del Siervo.",
+            "en": "The first passion prediction (Mark 8:31) — 'the Son of Man must suffer many things, be rejected... and be killed' — reflects Isa 53:11-12: the Servant will justify many by bearing their iniquities and be numbered with transgressors. Peter rejects this trajectory because he does not understand that Davidic messiahship is fulfilled through the Servant's suffering.",
+            "pt": "A primeira predição da paixão (Mc 8:31) — 'é necessário que o Filho do Homem sofra muitas coisas, seja rejeitado... e seja morto' — reflete Is 53:11-12: o Servo justificará a muitos carregando suas iniquidades e será contado entre os transgressores. Pedro rejeita essa trajetória porque não compreende que o messianismo davídico se cumpre por meio do sofrimento do Servo."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 9,
@@ -2495,7 +2631,36 @@
         "pt": "A transfiguração: 'E se transfigurou diante deles... Este é o meu Filho amado; a ele ouvi' (Mc 9:2–7)"
       },
       "versiculoClave": "Mc 10:45",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 18:15",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La voz del Padre en la Transfiguración —«Este es mi Hijo amado; a él oíd» (Mc 9:7)— cumple Dt 18:15: «profeta te levantaré de en medio de tus hermanos... a él oiréis». La presencia de Moisés y Elías confirma que Jesús es la consumación de la ley y los profetas, y la orden divina desplaza su mediación en favor de él.",
+            "en": "The Father's voice at the Transfiguration — 'This is my beloved Son; listen to him' (Mark 9:7) — fulfills Deut 18:15: 'a prophet I will raise up from among your brothers... to him you shall listen.' The presence of Moses and Elijah confirms that Jesus is the consummation of the Law and the Prophets, and the divine command displaces their mediation in his favor.",
+            "pt": "A voz do Pai na Transfiguração — 'Este é o meu Filho amado; a ele ouvi' (Mc 9:7) — cumpre Dt 18:15: 'profeta levantarei do meio de teus irmãos... a ele ouvireis'. A presença de Moisés e Elias confirma que Jesus é a consumação da lei e dos profetas, e o comando divino desloca sua mediação em favor dele."
+          }
+        },
+        {
+          "ref": "Gn 1:27",
+          "tipo": "cita",
+          "nota": {
+            "es": "Al responder sobre el divorcio (Mc 10:6-8), Jesús cita Gn 1:27 —«varón y hembra los hizo»— y Gn 2:24 —«serán una sola carne»—, apelando al orden creacional para trascender la concesión mosaica. La teología del matrimonio radica en la intención original del Creador, no en la acomodación posterior a la dureza del corazón.",
+            "en": "When answering about divorce (Mark 10:6-8), Jesus quotes Gen 1:27 — 'male and female he made them' — and Gen 2:24 — 'they shall become one flesh' — appealing to the creational order to transcend the Mosaic concession. Marriage theology rests on the Creator's original intention, not on the later accommodation to hardness of heart.",
+            "pt": "Ao responder sobre o divórcio (Mc 10:6-8), Jesus cita Gn 1:27 — 'macho e fêmea os criou' — e Gn 2:24 — 'serão uma só carne' —, apelando à ordem criacional para transcender a concessão mosaica. A teologia do matrimônio repousa na intenção original do Criador, não na acomodação posterior à dureza do coração."
+          }
+        },
+        {
+          "ref": "Is 53:10–12",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "«El Hijo del Hombre no vino para ser servido, sino para servir y para dar su vida en rescate por muchos» (Mc 10:45) es la clave hermenéutica del evangelio de Marcos y la cita más explícita del Siervo Sufriente de Is 53:10-12: el Siervo ofrecerá su vida como expiación y justificará a muchos cargando sus iniquidades.",
+            "en": "'The Son of Man came not to be served but to serve, and to give his life as a ransom for many' (Mark 10:45) is the hermeneutical key of Mark's Gospel and the most explicit citation of the Suffering Servant of Isa 53:10-12: the Servant will make himself an offering for guilt and justify many by bearing their iniquities.",
+            "pt": "'O Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos' (Mc 10:45) é a chave hermenêutica do evangelho de Marcos e a citação mais explícita do Servo Sofredor de Is 53:10-12: o Servo oferecerá sua vida como expiação e justificará a muitos carregando suas iniquidades."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 11,
@@ -2516,7 +2681,45 @@
         "pt": "A purificação do templo: Jesus expulsa os cambistas e vendedores, declarando que fizeram da casa de oração 'covil de ladrões' (Mc 11:15–17)"
       },
       "versiculoClave": "Mc 11:17",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Zac 9:9",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La entrada de Jesús en Jerusalén montado en un pollino (Mc 11:1-10) cumple Zac 9:9: el rey de Sión llega humilde, sobre un asno, trayendo salvación. Los que aclamaban «Hosanna» del Sal 118:25-26 creían recibir al mesías davídico guerrero; la montura del asno reorienta la expectativa hacia un rey que conquista mediante la humillación.",
+            "en": "Jesus' entry into Jerusalem riding on a colt (Mark 11:1-10) fulfills Zech 9:9: the king of Zion comes humble, on a donkey, bringing salvation. Those who acclaimed 'Hosanna' from Ps 118:25-26 expected the Davidic warrior-messiah; the donkey reorients the expectation toward a king who conquers through humiliation.",
+            "pt": "A entrada de Jesus em Jerusalém montado num potro (Mc 11:1-10) cumpre Zc 9:9: o rei de Sião chega humilde, num jumento, trazendo salvação. Os que aclamavam 'Hosana' do Sl 118:25-26 esperavam o messias guerreiro davídico; a montaria do jumento reorienta a expectativa para um rei que conquista por meio da humilhação."
+          }
+        },
+        {
+          "ref": "Is 56:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Al purificar el templo (Mc 11:17), Jesús cita Is 56:7 —«mi casa será llamada casa de oración para todos los pueblos»— junto con Jr 7:11 —«cueva de ladrones»—. Marcos incluye «para todos los pueblos», subrayando la dimensión universal que los mercaderes habían obstruido al ocupar el atrio de los gentiles.",
+            "en": "When cleansing the temple (Mark 11:17), Jesus quotes Isa 56:7 — 'my house shall be called a house of prayer for all the peoples' — together with Jer 7:11 — 'den of robbers.' Mark includes 'for all the peoples,' underscoring the universal dimension that the merchants had blocked by occupying the court of the Gentiles.",
+            "pt": "Ao purificar o templo (Mc 11:17), Jesus cita Is 56:7 — 'a minha casa será chamada casa de oração para todos os povos' — junto com Jr 7:11 — 'covil de ladrões'. Marcos inclui 'para todos os povos', sublinhando a dimensão universal que os mercadores tinham obstruído ao ocupar o átrio dos gentios."
+          }
+        },
+        {
+          "ref": "Sal 118:22",
+          "tipo": "cita",
+          "nota": {
+            "es": "Tras la parábola de los labradores malvados, Jesús cita Sal 118:22 (Mc 12:10-11): «la piedra que desecharon los edificadores, esta fue hecha la principal del ángulo». El rechazo de los líderes de Israel sobre el Hijo es el mismo acto que Dios convierte en fundamento de su nuevo edificio, la Iglesia.",
+            "en": "After the parable of the wicked tenants, Jesus quotes Ps 118:22 (Mark 12:10-11): 'the stone that the builders rejected has become the cornerstone.' The rejection of the Son by Israel's leaders is the very act God transforms into the foundation of his new building, the Church.",
+            "pt": "Após a parábola dos lavradores malvados, Jesus cita Sl 118:22 (Mc 12:10-11): 'a pedra que os construtores rejeitaram tornou-se a pedra angular'. A rejeição do Filho pelos líderes de Israel é o próprio ato que Deus transforma no fundamento de seu novo edifício, a Igreja."
+          }
+        },
+        {
+          "ref": "Sal 110:1",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Sal 110:1 —«dijo el Señor a mi Señor: siéntate a mi diestra»— (Mc 12:36) para demostrar que el Mesías es superior a David: si David lo llama «Señor», no puede ser meramente su hijo. La pregunta sin respuesta expone la insuficiencia de una cristología meramente davídica y apunta a la divinidad del Mesías.",
+            "en": "Jesus quotes Ps 110:1 — 'the Lord said to my Lord: sit at my right hand' — (Mark 12:36) to demonstrate that the Messiah transcends David: if David calls him 'Lord,' he cannot be merely his son. The unanswered question exposes the insufficiency of a merely Davidic Christology and points to the Messiah's divinity.",
+            "pt": "Jesus cita Sl 110:1 — 'disse o Senhor ao meu Senhor: assenta-te à minha direita' — (Mc 12:36) para demonstrar que o Messias transcende Davi: se Davi o chama de 'Senhor', não pode ser meramente seu filho. A pergunta sem resposta expõe a insuficiência de uma cristologia meramente davídica e aponta para a divindade do Messias."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 13,
@@ -2537,7 +2740,36 @@
         "pt": "A predição da vinda gloriosa do Filho do Homem para reunir seus eleitos, e o mandato de vigilância: 'O que vos digo, a todos digo: Vigiai' (Mc 13:26–27,37)"
       },
       "versiculoClave": "Mc 13:37",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dn 9:27",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús cita explícitamente «la abominación desoladora» de Dn 9:27 (Mc 13:14) como la señal que deberá reconocerse cuando ocurra. La profecía de Daniel sobre el cese del sacrificio y la profanación del santuario halla su referente histórico en el 70 d.C. y su consumación escatológica en la parusía.",
+            "en": "Jesus explicitly cites 'the abomination of desolation' from Dan 9:27 (Mark 13:14) as the sign to be recognized when it occurs. Daniel's prophecy about the cessation of sacrifice and desecration of the sanctuary finds its historical referent in AD 70 and its eschatological consummation at the parousia.",
+            "pt": "Jesus cita explicitamente 'a abominação da desolação' de Dn 9:27 (Mc 13:14) como o sinal que deverá ser reconhecido quando ocorrer. A profecia de Daniel sobre a cessação do sacrifício e a profanação do santuário encontra seu referente histórico no ano 70 d.C. e sua consumação escatológica na parusia."
+          }
+        },
+        {
+          "ref": "Dn 7:13–14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "«Verán al Hijo del Hombre venir entre las nubes con gran poder y gloria» (Mc 13:26) aplica Dn 7:13-14 a la parusía: el mismo que ante el Sanedrín declaró «seré visto sentado a la diestra del Padre» (Mc 14:62) vendrá en la gloria del Anciano de Días para recoger a sus elegidos de los cuatro vientos.",
+            "en": "'They will see the Son of Man coming in clouds with great power and glory' (Mark 13:26) applies Dan 7:13-14 to the parousia: the same one who before the Sanhedrin declared 'you will see me seated at the right hand' (Mark 14:62) will come in the glory of the Ancient of Days to gather his elect from the four winds.",
+            "pt": "'Verão o Filho do Homem vindo nas nuvens com grande poder e glória' (Mc 13:26) aplica Dn 7:13-14 à parusia: o mesmo que diante do Sinédrio declarou 'me vereis assentado à direita' (Mc 14:62) virá na glória do Ancião de Dias para recolher seus eleitos dos quatro ventos."
+          }
+        },
+        {
+          "ref": "Is 13:10",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Los signos cósmicos del discurso del Monte de los Olivos —sol oscurecido, luna sin luz, estrellas que caen (Mc 13:24-25)— retoman el lenguaje apocalíptico de Is 13:10 (juicio sobre Babilonia) y Jl 2:10, empleado por los profetas para describir el trastorno del orden cósmico que acompaña las irrupciones del juicio de Dios en la historia.",
+            "en": "The cosmic signs in the Olivet Discourse — darkened sun, moonless moon, falling stars (Mark 13:24-25) — take up the apocalyptic language of Isa 13:10 (judgment on Babylon) and Joel 2:10, employed by the prophets to describe the disruption of the cosmic order that accompanies the irruptions of God's judgment in history.",
+            "pt": "Os sinais cósmicos do discurso do Monte das Oliveiras — sol escurecido, lua sem luz, estrelas que caem (Mc 13:24-25) — retomam a linguagem apocalíptica de Is 13:10 (julgamento sobre a Babilônia) e Jl 2:10, empregada pelos profetas para descrever a perturbação da ordem cósmica que acompanha as irrupções do julgamento de Deus na história."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 14,
@@ -2558,7 +2790,45 @@
         "pt": "A morte de Jesus na cruz: o véu do templo se rasga e o centurião confessa sua filiação divina (Mc 15:37–39)"
       },
       "versiculoClave": "Mc 15:39",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Zac 13:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Zac 13:7 —«heriré al pastor y las ovejas serán dispersadas»— (Mc 14:27) anticipando que su arresto dispersará a los discípulos. El versículo continúa: «y volveré mi mano sobre los pequeños», señalando la restauración posterior; Jesús los precede a Galilea (Mc 14:28; 16:7) como el pastor que reúne al rebaño.",
+            "en": "Jesus quotes Zech 13:7 — 'I will strike the shepherd, and the sheep will be scattered' — (Mark 14:27) anticipating that his arrest will scatter the disciples. The verse continues: 'and I will turn my hand toward the little ones,' pointing to subsequent restoration; Jesus goes before them to Galilee (Mark 14:28; 16:7) as the shepherd who regathers the flock.",
+            "pt": "Jesus cita Zc 13:7 — 'ferirei o pastor e as ovelhas serão dispersas' — (Mc 14:27) antecipando que seu arresto dispersará os discípulos. O versículo continua: 'voltarei minha mão para os pequeninos', apontando para a restauração posterior; Jesus os precede na Galileia (Mc 14:28; 16:7) como o pastor que reúne o rebanho."
+          }
+        },
+        {
+          "ref": "Ex 24:8",
+          "tipo": "tipología",
+          "nota": {
+            "es": "«Esta es mi sangre del pacto» (Mc 14:24) evoca Ex 24:8, donde Moisés roció sangre sobre el pueblo diciendo «he aquí la sangre del pacto». Jesús usa la misma expresión para inaugurar el nuevo pacto: la sangre del Sinaí era sello del pacto mosaico; la sangre de Cristo es sello del nuevo pacto prometido por Jr 31:31-34.",
+            "en": "'This is my blood of the covenant' (Mark 14:24) evokes Exod 24:8, where Moses sprinkled blood on the people saying 'behold the blood of the covenant.' Jesus uses the same expression to inaugurate the new covenant: the blood of Sinai was the seal of the Mosaic covenant; the blood of Christ is the seal of the new covenant promised in Jer 31:31-34.",
+            "pt": "'Este é o meu sangue do pacto' (Mc 14:24) evoca Ex 24:8, onde Moisés aspergiu sangue sobre o povo dizendo 'eis o sangue do pacto'. Jesus usa a mesma expressão para inaugurar a nova aliança: o sangue do Sinai era o selo do pacto mosaico; o sangue de Cristo é o selo da nova aliança prometida em Jr 31:31-34."
+          }
+        },
+        {
+          "ref": "Jr 31:31–34",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La Última Cena inaugura el nuevo pacto de Jr 31:31-34: aquel pacto prometía perdón de pecados y ley escrita en el corazón. La sangre de Jesús derramada «por muchos» (Mc 14:24) es el acto fundacional del nuevo pacto, que sustituye la alianza sinaítica que Israel quebrantó y provee la base de la comunión con Dios.",
+            "en": "The Last Supper inaugurates the new covenant of Jer 31:31-34: that covenant promised forgiveness of sins and law written on the heart. Jesus' blood poured out 'for many' (Mark 14:24) is the foundational act of the new covenant, replacing the Sinai covenant that Israel broke and providing the basis of communion with God.",
+            "pt": "A Última Ceia inaugura a nova aliança de Jr 31:31-34: aquela aliança prometia perdão de pecados e lei escrita no coração. O sangue de Jesus derramado 'por muitos' (Mc 14:24) é o ato fundacional da nova aliança, que substitui a aliança sinaítica que Israel quebrou e provê a base da comunhão com Deus."
+          }
+        },
+        {
+          "ref": "Sal 22:1",
+          "tipo": "cita",
+          "nota": {
+            "es": "Las últimas palabras de Jesús en la cruz —«Dios mío, Dios mío, ¿por qué me has abandonado?» (Mc 15:34)— citan Sal 22:1 en arameo. El salmo abre con el abandono y cierra con la vindicación de YHWH (Sal 22:24-31); al citar su apertura, Jesús asume toda la trayectoria del justo sufriente que termina en la alabanza de todas las naciones.",
+            "en": "Jesus' last words on the cross — 'My God, my God, why have you forsaken me?' (Mark 15:34) — quote Ps 22:1 in Aramaic. The psalm opens with abandonment and closes with YHWH's vindication (Ps 22:24-31); by quoting its opening, Jesus takes on the entire trajectory of the suffering righteous one that ends in the praise of all nations.",
+            "pt": "As últimas palavras de Jesus na cruz — 'Deus meu, Deus meu, por que me abandonaste?' (Mc 15:34) — citam Sl 22:1 em aramaico. O salmo abre com o abandono e fecha com a vindicação de YHWH (Sl 22:24-31); ao citar sua abertura, Jesus assume toda a trajetória do justo sofredor que termina no louvor de todas as nações."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 16,
@@ -2579,7 +2849,36 @@
         "pt": "O anúncio do anjo no sepulcro vazio: 'Ele ressuscitou, não está aqui... ide, dizei aos seus discípulos e a Pedro que ele vai adiante de vós para a Galileia' (Mc 16:6–7)"
       },
       "versiculoClave": "Mc 16:6",
-      "era": "Cumplimiento"
+      "era": "Cumplimiento",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 16:10",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El anuncio del ángel —«ha resucitado, no está aquí» (Mc 16:6)— es el cumplimiento de Sal 16:10: «no dejarás mi alma en el Seol, ni permitirás que tu santo vea corrupción». Pedro citará este salmo en Hch 2:27-31 como la profecía que exigía que el Mesías resucitara; Marcos narra el evento que hace necesaria esa explicación.",
+            "en": "The angel's announcement — 'he has risen; he is not here' (Mark 16:6) — is the fulfillment of Ps 16:10: 'you will not abandon my soul to Sheol, or let your holy one see corruption.' Peter will cite this psalm in Acts 2:27-31 as the prophecy that required the Messiah to rise; Mark narrates the event that makes that explanation necessary.",
+            "pt": "O anúncio do anjo — 'ressuscitou, não está aqui' (Mc 16:6) — é o cumprimento do Sl 16:10: 'não abandonarás a minha alma no Seol, nem permitirás que o teu santo veja a corrupção'. Pedro citará este salmo em At 2:27-31 como a profecia que exigia que o Messias ressuscitasse; Marcos narra o evento que torna necessária essa explicação."
+          }
+        },
+        {
+          "ref": "Os 6:2",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La resurrección «al tercer día» (cf. 1Co 15:4) no cita a Os 6:2 explícitamente, pero el patrón de restauración «al tercer día» de Os 6:2 forma parte del horizonte profético que Pablo describe como «según las Escrituras». La tradición reformada ve en Os 6:2 una anticipación tipológica de la resurrección del Mesías que Marcos narra.",
+            "en": "The resurrection 'on the third day' (cf. 1 Cor 15:4) does not explicitly quote Hos 6:2, but the 'third day' restoration pattern of Hos 6:2 forms part of the prophetic horizon Paul describes as 'according to the Scriptures.' The Reformed tradition sees in Hos 6:2 a typological anticipation of the Messiah's resurrection that Mark narrates.",
+            "pt": "A ressurreição 'no terceiro dia' (cf. 1Co 15:4) não cita explicitamente Os 6:2, mas o padrão de restauração 'no terceiro dia' de Os 6:2 faz parte do horizonte profético que Paulo descreve como 'segundo as Escrituras'. A tradição reformada vê em Os 6:2 uma antecipação tipológica da ressurreição do Messias que Marcos narra."
+          }
+        },
+        {
+          "ref": "Is 53:10–11",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La resurrección narrada en Mc 16 es la vindicación del Siervo prometida en Is 53:10-11: «prolongará sus días» y «verá el fruto de la aflicción de su alma». El Siervo que fue contado entre los transgresores y murió como expiación ve ahora cumplida la promesa de vida que el Padre le había garantizado.",
+            "en": "The resurrection narrated in Mark 16 is the vindication of the Servant promised in Isa 53:10-11: 'he shall prolong his days' and 'he shall see the fruit of the anguish of his soul.' The Servant who was numbered with transgressors and died as an offering now sees fulfilled the promise of life the Father had guaranteed him.",
+            "pt": "A ressurreição narrada em Mc 16 é a vindicação do Servo prometida em Is 53:10-11: 'prolongará os seus dias' e 'verá o fruto da aflição da sua alma'. O Servo que foi contado entre os transgressores e morreu como expiação vê agora cumprida a promessa de vida que o Pai lhe havia garantido."
+          }
+        }
+      ]
     }
   ],
   "fuentes": [
