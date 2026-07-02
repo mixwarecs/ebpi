@@ -1090,7 +1090,61 @@
         "pt": "Paulo ordena o perdão e a restauração do ofensor (2Co 2:7–8), transformando a disciplina eclesiástica em um ato de graça que reflete o perdão de Deus e encerra a crise que motivou a carta severa."
       },
       "versiculoClave": "2Co 1:3–4",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 40:1–2",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La doxología que abre la carta —'Padre de misericordias y Dios de toda consolación' (2Co 1:3–4)— evoca la gran promesa de Is 40:1–2: 'Consolad, consolad a mi pueblo... hablad al corazón de Jerusalén y decidle que ya terminó su tiempo de servicio'; el ministerio apostólico de Pablo es la extensión misionera del consuelo divino prometido a Israel.",
+            "en": "The doxology opening the letter — 'Father of mercies and God of all comfort' (2Cor 1:3–4) — evokes the great promise of Isa 40:1–2: 'Comfort, comfort my people... speak tenderly to Jerusalem and cry to her that her warfare is ended'; Paul's apostolic ministry is the missionary extension of the divine consolation promised to Israel.",
+            "pt": "A doxologia que abre a carta — 'Pai das misericórdias e Deus de toda consolação' (2Co 1:3–4) — evoca a grande promessa de Is 40:1–2: 'Consolai, consolai o meu povo... falai ao coração de Jerusalém e clamai-lhe que já terminou o seu tempo de serviço'; o ministério apostólico de Paulo é a extensão missionária do consolo divino prometido a Israel."
+          }
+        },
+        {
+          "ref": "Is 53:4",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La afirmación de que 'las aflicciones de Cristo abundan en nosotros' (2Co 1:5) aplica la teología del Siervo Sufriente: Is 53:4 declara que 'Él llevó nuestras enfermedades y sufrió nuestros dolores'; Pablo concibe la participación apostólica en el sufrimiento de Cristo como incorporación al mismo trayecto del Siervo que pasa por el padecimiento hacia la consolación y la gloria.",
+            "en": "The affirmation that 'the sufferings of Christ abound in us' (2Cor 1:5) applies the Suffering Servant theology: Isa 53:4 declares that 'he has borne our griefs and carried our sorrows'; Paul conceives apostolic participation in Christ's suffering as incorporation into the Servant's trajectory that passes through affliction toward consolation and glory.",
+            "pt": "A afirmação de que 'os sofrimentos de Cristo abundam em nós' (2Co 1:5) aplica a teologia do Servo Sofredor: Is 53:4 declara que 'ele tomou sobre si as nossas doenças e as nossas dores carregou'; Paulo concebe a participação apostólica no sofrimento de Cristo como incorporação à mesma trajetória do Servo que passa pelo padecimento em direção à consolação e à glória."
+          }
+        },
+        {
+          "ref": "Mt 18:21–22",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La orden apostólica de perdonar y restaurar al ofensor (2Co 2:7–8) aplica la enseñanza de Jesús sobre el perdón sin límite —'no te digo hasta siete, sino hasta setenta veces siete' (Mt 18:22)— a la crisis concreta de Corinto: el perdón comunitario es el antídoto contra las artimañas de Satanás (2Co 2:11) y el reflejo del perdón divino recibido.",
+            "en": "The apostolic command to forgive and restore the offender (2Cor 2:7–8) applies Jesus's teaching on unlimited forgiveness — 'not seven times, but seventy-seven times' (Matt 18:22) — to Corinth's concrete crisis: communal forgiveness is the antidote to Satan's designs (2Cor 2:11) and the reflection of the divine forgiveness received.",
+            "pt": "A ordem apostólica de perdoar e restaurar o ofensor (2Co 2:7–8) aplica o ensinamento de Jesus sobre o perdão ilimitado — 'não te digo até sete vezes, mas até setenta vezes sete' (Mt 18:22) — à crise concreta de Corinto: o perdão comunitário é o antídoto contra as maquinações de Satanás (2Co 2:11) e o reflexo do perdão divino recebido."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Siervo Sufriente": {
+            "es": "La participación del apóstol en las aflicciones de Cristo es el canal del consuelo divino: 'como las aflicciones de Cristo abundan en nosotros, así también abunda nuestra consolación por Cristo' (2Co 1:5); el patrón del Siervo —sufrimiento para beneficio de otros— define el ministerio apostólico genuino.",
+            "en": "The apostle's participation in Christ's sufferings is the channel of divine comfort: 'as we share abundantly in Christ's sufferings, so through Christ we share abundantly in comfort too' (2Cor 1:5); the Servant's pattern — suffering for the benefit of others — defines genuine apostolic ministry.",
+            "pt": "A participação do apóstolo nos sofrimentos de Cristo é o canal do consolo divino: 'como os sofrimentos de Cristo abundam em nós, assim também pelo mesmo Cristo abunda a nossa consolação' (2Co 1:5); o padrão do Servo — sofrimento para o benefício de outros — define o ministério apostólico genuíno."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "Pablo bendice al 'Padre de misericordias y Dios de toda consolación' (2Co 1:3) cuya fidelidad pactual se manifiesta en consolar a los afligidos para que puedan consolar a otros (2Co 1:4): el hesed de Dios no es abstracto sino que fluye a través de la experiencia apostólica del sufrimiento y la liberación.",
+              "en": "Paul blesses the 'Father of mercies and God of all comfort' (2Cor 1:3) whose covenant faithfulness manifests in comforting the afflicted so they can comfort others (2Cor 1:4): God's hesed is not abstract but flows through the apostolic experience of suffering and deliverance.",
+              "pt": "Paulo bendiz ao 'Pai das misericórdias e Deus de toda consolação' (2Co 1:3) cuja fidelidade pactual se manifesta em consolar os aflitos para que possam consolar a outros (2Co 1:4): o hesed de Deus não é abstrato, mas flui através da experiência apostólica do sofrimento e da libertação."
+            }
+          },
+          {
+            "Reconciliación": {
+              "es": "La orden de perdonar y restaurar al ofensor (2Co 2:7–8) aplica concretamente la reconciliación evangélica: el mismo amor de Dios que reconcilia al pecador consigo mismo debe expresarse en la comunidad que perdona al hermano que pecó, evitando que Satanás saque ventaja del rigorismo eclesiástico (2Co 2:11).",
+              "en": "The command to forgive and restore the offender (2Cor 2:7–8) applies the gospel reconciliation concretely: the same love of God that reconciles the sinner to himself must be expressed in the community that forgives the brother who sinned, preventing Satan from taking advantage of ecclesial rigorism (2Cor 2:11).",
+              "pt": "A ordem de perdoar e restaurar o ofensor (2Co 2:7–8) aplica concretamente a reconciliação evangélica: o mesmo amor de Deus que reconcilia o pecador consigo mesmo deve se expressar na comunidade que perdoa o irmão que pecou, impedindo que Satanás tire vantagem do rigorismo eclesiástico (2Co 2:11)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 3,
@@ -1111,7 +1165,61 @@
         "pt": "Paulo proclama a superioridade do ministério do Espírito sobre o de Moisés (2Co 3:7–11), inaugurando o argumento definitivo do novo pacto no NT: a glória de Cristo eclipsa e cumpre permanentemente a glória transitória da lei."
       },
       "versiculoClave": "2Co 4:7",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jer 31:31–34",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pablo identifica su ministerio como el cumplimiento del nuevo pacto de Jer 31:31–34: la iglesia corintia es 'carta de Cristo... escrita no en tablas de piedra sino en tablas de corazones de carne' (2Co 3:3), y Pablo es 'ministro de un nuevo pacto, no de la letra sino del Espíritu' (2Co 3:6), realizando la promesa de la ley escrita en el corazón.",
+            "en": "Paul identifies his ministry as the fulfillment of the new covenant of Jer 31:31–34: the Corinthian church is 'a letter from Christ... written not on tablets of stone but on tablets of human hearts' (2Cor 3:3), and Paul is 'a minister of a new covenant, not of the letter but of the Spirit' (2Cor 3:6), fulfilling the promise of the law written on the heart.",
+            "pt": "Paulo identifica seu ministério como o cumprimento da nova aliança de Jr 31:31–34: a igreja coríntia é 'carta de Cristo... escrita não em tábuas de pedra, mas em tábuas de corações de carne' (2Co 3:3), e Paulo é 'ministro de um novo pacto, não da letra, mas do Espírito' (2Co 3:6), realizando a promessa da lei escrita no coração."
+          }
+        },
+        {
+          "ref": "Ex 34:29–35",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El argumento de 2Co 3:7–18 es un midrás extendido sobre Ex 34:29–35: el rostro glorioso de Moisés y el velo que lo cubría son tipo del ministerio de la ley cuya gloria era transitoria y velada; Cristo quita el velo (2Co 3:14–16) y los creyentes contemplan la gloria definitiva de Cristo con rostro descubierto y son transformados de gloria en gloria (2Co 3:18).",
+            "en": "The argument of 2Cor 3:7–18 is an extended midrash on Exod 34:29–35: Moses's radiant face and the veil that covered it are a type of the ministry of the law whose glory was transitory and veiled; Christ removes the veil (2Cor 3:14–16) and believers behold the definitive glory of Christ with unveiled faces and are transformed from glory to glory (2Cor 3:18).",
+            "pt": "O argumento de 2Co 3:7–18 é um midraxe estendido sobre Ex 34:29–35: o rosto glorioso de Moisés e o véu que o cobria são tipo do ministério da lei cuja glória era transitória e velada; Cristo remove o véu (2Co 3:14–16) e os crentes contemplam a glória definitiva de Cristo com rosto descoberto e são transformados de glória em glória (2Co 3:18)."
+          }
+        },
+        {
+          "ref": "Ez 36:26",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La imagen de la carta escrita 'en tablas de corazones de carne' (2Co 3:3) cumple Ez 36:26: 'os daré corazón nuevo... quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne'; la transformación que Ezequiel profetizó para la restauración de Israel se cumple en la obra del Espíritu en la comunidad del nuevo pacto.",
+            "en": "The image of the letter written 'on tablets of human hearts' (2Cor 3:3) fulfills Ezek 36:26: 'I will give you a new heart... I will remove the heart of stone from your flesh and give you a heart of flesh'; the transformation Ezekiel prophesied for Israel's restoration is fulfilled in the Spirit's work in the new covenant community.",
+            "pt": "A imagem da carta escrita 'em tábuas de corações de carne' (2Co 3:3) cumpre Ez 36:26: 'darei a vós um coração novo... tirarei da vossa carne o coração de pedra e vos darei um coração de carne'; a transformação que Ezequiel profetizou para a restauração de Israel se cumpre na obra do Espírito na comunidade da nova aliança."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Pablo identifica su ministerio como el del nuevo pacto: 'ministros de un nuevo pacto, no de la letra sino del Espíritu; porque la letra mata, pero el Espíritu vivifica' (2Co 3:6); toda la sección 2Co 3–4 es una comparación sistemática entre el antiguo pacto (transitorio, velado, de condenación) y el nuevo (permanente, descubierto, de justicia).",
+            "en": "Paul identifies his ministry as that of the new covenant: 'ministers of a new covenant, not of the letter but of the Spirit; for the letter kills, but the Spirit gives life' (2Cor 3:6); the entire section 2Cor 3–4 is a systematic comparison between the old covenant (transitory, veiled, of condemnation) and the new (permanent, unveiled, of righteousness).",
+            "pt": "Paulo identifica seu ministério como o da nova aliança: 'ministros de uma nova aliança, não da letra, mas do Espírito; porque a letra mata, mas o Espírito vivifica' (2Co 3:6); toda a seção 2Co 3–4 é uma comparação sistemática entre a antiga aliança (transitória, velada, de condenação) e a nova (permanente, descoberta, de justiça)."
+          }
+        },
+        "secundarios": [
+          {
+            "Espíritu Santo": {
+              "es": "El Espíritu es el agente central del nuevo pacto: escribe la carta de Cristo 'no con tinta sino con el Espíritu del Dios vivo' (2Co 3:3), transforma al creyente de gloria en gloria (2Co 3:18), y da libertad donde hay presencia del Señor (2Co 3:17), superando la función externa y temporal de la ley mosaica.",
+              "en": "The Spirit is the central agent of the new covenant: he writes Christ's letter 'not with ink but with the Spirit of the living God' (2Cor 3:3), transforms the believer from glory to glory (2Cor 3:18), and gives freedom where the Lord's presence is (2Cor 3:17), surpassing the external and temporary function of the Mosaic law.",
+              "pt": "O Espírito é o agente central da nova aliança: escreve a carta de Cristo 'não com tinta, mas com o Espírito do Deus vivo' (2Co 3:3), transforma o crente de glória em glória (2Co 3:18), e dá liberdade onde há presença do Senhor (2Co 3:17), superando a função externa e temporária da lei mosaica."
+            }
+          },
+          {
+            "Siervo Sufriente": {
+              "es": "El tesoro del evangelio en 'vasos de barro' (2Co 4:7) expresa el patrón del Siervo en el ministerio apostólico: 'llevamos siempre en el cuerpo la muerte de Jesús para que también la vida de Jesús se manifieste en nuestros cuerpos' (2Co 4:10); la debilidad apostólica es el medio soberano por el que el poder de Dios se exhibe.",
+              "en": "The treasure of the gospel in 'jars of clay' (2Cor 4:7) expresses the Servant pattern in apostolic ministry: 'we always carry in the body the death of Jesus, so that the life of Jesus may also be manifested in our bodies' (2Cor 4:10); apostolic weakness is the sovereign means by which God's power is displayed.",
+              "pt": "O tesouro do evangelho em 'vasos de barro' (2Co 4:7) expressa o padrão do Servo no ministério apostólico: 'sempre trazemos no corpo o morrer de Jesus, para que também a vida de Jesus se manifeste em nosso corpo' (2Co 4:10); a fraqueza apostólica é o meio soberano pelo qual o poder de Deus é exibido."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -1132,7 +1240,61 @@
         "pt": "Paulo proclama o grande intercâmbio redentor de 2Co 5:21: Cristo tomou o pecado dos eleitos para que eles sejam feitos a justiça de Deus nele, a formulação mais precisa da substituição penal e imputação em todo o cânon."
       },
       "versiculoClave": "2Co 5:21",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 43:18–19",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La proclamación 'si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron, he aquí todas son hechas nuevas' (2Co 5:17) cumple Is 43:18–19: 'no os acordéis de las cosas pasadas... he aquí hago yo una cosa nueva'; la nueva creación escatológica prometida a Israel se realiza ya en todo el que se une a Cristo por la fe.",
+            "en": "The proclamation 'if anyone is in Christ, he is a new creation; the old has passed away; behold, the new has come' (2Cor 5:17) fulfills Isa 43:18–19: 'remember not the former things... behold, I am doing a new thing'; the eschatological new creation promised to Israel is already realized in everyone who is united to Christ by faith.",
+            "pt": "A proclamação 'se alguém está em Cristo, é nova criatura; as coisas velhas passaram; eis que tudo se fez novo' (2Co 5:17) cumpre Is 43:18–19: 'não vos lembreis das coisas passadas... eis que faço uma coisa nova'; a nova criação escatológica prometida a Israel já se realiza em todo aquele que se une a Cristo pela fé."
+          }
+        },
+        {
+          "ref": "Is 53:6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El gran intercambio de 2Co 5:21 —'al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en Él'— cumple Is 53:6: 'el Señor cargó en Él el pecado de todos nosotros'; la doble imputación del pecado al Siervo y su justicia a los creyentes es el núcleo de la soteriología paulina y reformada.",
+            "en": "The great exchange of 2Cor 5:21 — 'for our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God' — fulfills Isa 53:6: 'the LORD has laid on him the iniquity of us all'; the double imputation of sin to the Servant and his righteousness to believers is the core of Pauline and Reformed soteriology.",
+            "pt": "O grande intercâmbio de 2Co 5:21 — 'àquele que não conheceu pecado, o fez pecado por nós, para que nele nos tornássemos justiça de Deus' — cumpre Is 53:6: 'o SENHOR fez recair sobre ele a iniquidade de todos nós'; a dupla imputação do pecado ao Servo e de sua justiça aos crentes é o núcleo da soteriologia paulina e reformada."
+          }
+        },
+        {
+          "ref": "Ro 5:10–11",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La declaración de que 'Dios estaba en Cristo reconciliando al mundo consigo mismo' (2Co 5:19) tiene su paralelo más cercano en Ro 5:10–11: 'cuando éramos enemigos, fuimos reconciliados con Dios por la muerte de su Hijo'; ambos pasajes presentan la reconciliación como iniciativa divina unilateral que transforma a los enemigos de Dios en embajadores de su gracia.",
+            "en": "The declaration that 'God was in Christ reconciling the world to himself' (2Cor 5:19) has its closest parallel in Rom 5:10–11: 'while we were enemies we were reconciled to God by the death of his Son'; both passages present reconciliation as a unilateral divine initiative that transforms God's enemies into ambassadors of his grace.",
+            "pt": "A declaração de que 'Deus estava em Cristo reconciliando o mundo consigo mesmo' (2Co 5:19) tem seu paralelo mais próximo em Rm 5:10–11: 'quando éramos inimigos, fomos reconciliados com Deus pela morte de seu Filho'; ambas as passagens apresentam a reconciliação como iniciativa divina unilateral que transforma os inimigos de Deus em embaixadores de sua graça."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reconciliación": {
+            "es": "El centro teológico de 2Co 5 es la iniciativa unilateral de Dios: 'Dios estaba en Cristo reconciliando al mundo consigo mismo, no tomándoles en cuenta a los hombres sus pecados' (2Co 5:19); la reconciliación es el acto divino que fundamenta la nueva creación (2Co 5:17) y que el apóstol proclama como embajador de Cristo.",
+            "en": "The theological center of 2Cor 5 is God's unilateral initiative: 'God was in Christ reconciling the world to himself, not counting their trespasses against them' (2Cor 5:19); reconciliation is the divine act that grounds the new creation (2Cor 5:17) and that the apostle proclaims as Christ's ambassador.",
+            "pt": "O centro teológico de 2Co 5 é a iniciativa unilateral de Deus: 'Deus estava em Cristo reconciliando o mundo consigo mesmo, não imputando aos homens as suas transgressões' (2Co 5:19); a reconciliação é o ato divino que fundamenta a nova criação (2Co 5:17) e que o apóstolo proclama como embaixador de Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Creación/Nueva Creación": {
+              "es": "La declaración 'si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron, he aquí todas son hechas nuevas' (2Co 5:17) es uno de los enunciados más condensados de la escatología inaugurada: el creyente ya participa de la nueva creación prometida para el fin de los tiempos por virtud de su unión con Cristo.",
+              "en": "The declaration 'if anyone is in Christ, he is a new creation; the old has passed away; behold, the new has come' (2Cor 5:17) is one of the most condensed statements of realized eschatology: the believer already participates in the new creation promised for the end of the age by virtue of union with Christ.",
+              "pt": "A declaração 'se alguém está em Cristo, é nova criatura; as coisas velhas passaram; eis que tudo se fez novo' (2Co 5:17) é um dos enunciados mais condensados da escatologia inaugurada: o crente já participa da nova criação prometida para o fim dos tempos em virtude de sua união com Cristo."
+            }
+          },
+          {
+            "Sustitución": {
+              "es": "El versículo culmen 2Co 5:21 —'al que no conoció pecado, por nosotros lo hizo pecado, para que nosotros fuésemos hechos justicia de Dios en Él'— es la formulación más precisa de la sustitución penal e imputación doble en el NT: Cristo tomó el pecado de los creyentes y les transfirió su justicia, fundamento de toda la soteriología reformada.",
+              "en": "The climactic verse 2Cor 5:21 — 'for our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God' — is the most precise formulation of penal substitution and double imputation in the NT: Christ took believers' sin and transferred his righteousness to them, the foundation of all Reformed soteriology.",
+              "pt": "O versículo culminante 2Co 5:21 — 'àquele que não conheceu pecado, o fez pecado por nós, para que nele nos tornássemos justiça de Deus' — é a formulação mais precisa da substituição penal e imputação dupla no NT: Cristo tomou o pecado dos crentes e transferiu sua justiça a eles, fundamento de toda a soteriologia reformada."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 6,
@@ -1153,7 +1315,61 @@
         "pt": "Paulo recebe o relatório de Tito sobre o arrependimento dos coríntios (2Co 7:6–7), a virada emocional e pastoral da carta que possibilita o tom conciliador dos caps. 1–9 e revela a eficácia da tristeza segundo Deus."
       },
       "versiculoClave": "2Co 7:10",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 49:8",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Is 49:8 en 2Co 6:2 —'en tiempo aceptable te escuché, y en el día de salvación te socorrí'— para declarar que ese tiempo prometido al Siervo se ha cumplido: 'he aquí ahora el tiempo aceptable; he aquí ahora el día de salvación' (2Co 6:2), convirtiendo el ministerio apostólico en el anuncio de la actualidad del cumplimiento escatológico.",
+            "en": "Paul cites Isa 49:8 in 2Cor 6:2 — 'in a favorable time I listened to you, and in a day of salvation I have helped you' — to declare that the time promised to the Servant has been fulfilled: 'behold, now is the favorable time; behold, now is the day of salvation' (2Cor 6:2), making the apostolic ministry the announcement of the present fulfillment of the eschatological promise.",
+            "pt": "Paulo cita Is 49:8 em 2Co 6:2 — 'em tempo aceitável te ouvi e no dia da salvação te socorri' — para declarar que esse tempo prometido ao Servo foi cumprido: 'eis agora o tempo aceitável; eis agora o dia da salvação' (2Co 6:2), tornando o ministério apostólico o anúncio da atualidade do cumprimento escatológico."
+          }
+        },
+        {
+          "ref": "Lv 26:12",
+          "tipo": "cita",
+          "nota": {
+            "es": "La llamada a la separación (2Co 6:16) se ancla en la fórmula del pacto: 'habitaré y andaré entre ellos, y seré su Dios, y ellos serán mi pueblo', citando Lv 26:12 y Ez 37:27; ser el templo del Dios vivo exige una pureza que refleja el carácter santo del Dios que mora en medio de su pueblo del nuevo pacto.",
+            "en": "The call to separation (2Cor 6:16) is anchored in the covenant formula: 'I will make my dwelling among them and walk among them, and I will be their God, and they shall be my people,' citing Lev 26:12 and Ezek 37:27; being the temple of the living God requires a purity reflecting the holy character of the God who dwells among his new covenant people.",
+            "pt": "O chamado à separação (2Co 6:16) se ancora na fórmula da aliança: 'habitarei e andarei entre eles, e serei o seu Deus, e eles serão o meu povo', citando Lv 26:12 e Ez 37:27; ser o templo do Deus vivo exige uma pureza que reflete o caráter santo do Deus que habita no meio do seu povo da nova aliança."
+          }
+        },
+        {
+          "ref": "Is 52:11",
+          "tipo": "cita",
+          "nota": {
+            "es": "La exhortación de 2Co 6:17 cita directamente Is 52:11: 'salid de en medio de ellos, y apartaos, dice el Señor, y no toquéis lo inmundo'; la llamada del segundo éxodo profético —salir de Babilonia como Israel salió de Egipto— se aplica a la separación moral de los creyentes de las prácticas corruptas del mundo sin anular su presencia en él.",
+            "en": "The exhortation of 2Cor 6:17 directly cites Isa 52:11: 'go out from their midst, and be separate from them, says the Lord, and touch no unclean thing'; the call of the prophetic second exodus — to depart from Babylon as Israel departed from Egypt — is applied to believers' moral separation from the corrupt practices of the world without removing them from it.",
+            "pt": "A exortação de 2Co 6:17 cita diretamente Is 52:11: 'saí do meio deles e separai-vos, diz o Senhor, e não toqueis em coisa imunda'; o chamado do segundo êxodo profético — sair da Babilônia como Israel saiu do Egito — é aplicado à separação moral dos crentes das práticas corruptas do mundo sem retirá-los dele."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "Pablo llama a la iglesia a purificarse 'de toda contaminación de carne y de espíritu, perfeccionando la santidad en el temor de Dios' (2Co 7:1) porque es el templo del Dios vivo (2Co 6:16): la santidad no es opcional sino la respuesta necesaria a la presencia divina en medio del pueblo del nuevo pacto.",
+            "en": "Paul calls the church to cleanse itself 'from every defilement of body and spirit, bringing holiness to completion in the fear of God' (2Cor 7:1) because it is the temple of the living God (2Cor 6:16): holiness is not optional but the necessary response to the divine presence in the midst of the new covenant people.",
+            "pt": "Paulo chama a igreja a purificar-se 'de toda imundícia da carne e do espírito, aperfeiçoando a santificação no temor de Deus' (2Co 7:1) porque é o templo do Deus vivo (2Co 6:16): a santidade não é opcional, mas a resposta necessária à presença divina no meio do povo da nova aliança."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "La base de la separación moral exigida es que la iglesia es 'el templo del Dios vivo' (2Co 6:16) en quien se cumple la fórmula pactual: 'habitaré y andaré entre ellos, y seré su Dios, y ellos serán mi pueblo'; la presencia divina que moraba en el tabernáculo y el templo ahora habita en la comunidad del nuevo pacto.",
+              "en": "The basis for the moral separation demanded is that the church is 'the temple of the living God' (2Cor 6:16) in whom the covenant formula is fulfilled: 'I will make my dwelling among them and walk among them, and I will be their God, and they shall be my people'; the divine presence that dwelt in the tabernacle and temple now dwells in the new covenant community.",
+              "pt": "A base da separação moral exigida é que a igreja é 'o templo do Deus vivo' (2Co 6:16) em quem se cumpre a fórmula pactual: 'habitarei e andarei entre eles, e serei o seu Deus, e eles serão o meu povo'; a presença divina que habitava no tabernáculo e no templo agora habita na comunidade da nova aliança."
+            }
+          },
+          {
+            "Corazón Nuevo/Nuevo Nacimiento": {
+              "es": "El arrepentimiento de los corintios ante la carta severa ilustra la 'tristeza según Dios' que 'produce arrepentimiento para salvación, de que no hay que arrepentirse' (2Co 7:10): es el Espíritu del nuevo pacto quien transforma la tristeza natural en el arrepentimiento genuino que renueva el corazón y restaura la comunión.",
+              "en": "The Corinthians' repentance in response to the severe letter illustrates the 'godly grief' that 'produces a repentance that leads to salvation without regret' (2Cor 7:10): it is the Spirit of the new covenant who transforms natural sorrow into the genuine repentance that renews the heart and restores fellowship.",
+              "pt": "O arrependimento dos coríntios diante da carta severa ilustra a 'tristeza segundo Deus' que 'produz um arrependimento para salvação que não tem arrependimento' (2Co 7:10): é o Espírito da nova aliança que transforma a tristeza natural no arrependimento genuíno que renova o coração e restaura a comunhão."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 8,
@@ -1174,7 +1390,61 @@
         "pt": "Paulo proclama a kênosis de Cristo como o fundamento e modelo da generosidade cristã (2Co 8:9), estabelecendo que todo dar cristão é resposta à graça recebida na encarnação e na cruz, não um meio de merecer favor divino."
       },
       "versiculoClave": "2Co 9:7",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 112:9",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Sal 112:9 en 2Co 9:9 —'repartió, dio a los pobres; su justicia permanece para siempre'— para describir al dador cristiano: la liberalidad de la iglesia en la colecta es participación en el carácter del Dios que da a los pobres, y su justicia —el fruto de esa generosidad— no es temporal sino permanente ante Dios.",
+            "en": "Paul cites Ps 112:9 in 2Cor 9:9 — 'he has distributed freely, he has given to the poor; his righteousness endures forever' — to describe the Christian giver: the church's liberality in the collection is participation in the character of the God who gives to the poor, and his righteousness — the fruit of that generosity — is not temporal but permanent before God.",
+            "pt": "Paulo cita Sl 112:9 em 2Co 9:9 — 'repartiu, deu aos pobres; a sua justiça permanece para sempre' — para descrever o doador cristão: a liberalidade da igreja na coleta é participação no caráter do Deus que dá aos pobres, e a sua justiça — o fruto dessa generosidade — não é temporal, mas permanente diante de Deus."
+          }
+        },
+        {
+          "ref": "Ro 15:25–28",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La colecta para los pobres de Jerusalén de 2Co 8–9 es la misma iniciativa descrita teológicamente en Ro 15:25–28, donde Pablo la llama 'servicio a los santos de Jerusalén' y deuda de amor de los gentiles hacia quienes les compartieron los bienes espirituales: ambas cartas presentan la solidaridad material como expresión concreta de la unidad del cuerpo de Cristo.",
+            "en": "The collection for the poor of Jerusalem in 2Cor 8–9 is the same initiative described theologically in Rom 15:25–28, where Paul calls it 'ministry to the saints in Jerusalem' and a debt of love from Gentiles toward those who shared their spiritual goods: both letters present material solidarity as a concrete expression of the unity of Christ's body.",
+            "pt": "A coleta para os pobres de Jerusalém de 2Co 8–9 é a mesma iniciativa descrita teologicamente em Rm 15:25–28, onde Paulo a chama de 'ministério aos santos de Jerusalém' e dívida de amor dos gentios para com aqueles que lhes compartilharam os bens espirituais: ambas as cartas apresentam a solidariedade material como expressão concreta da unidade do corpo de Cristo."
+          }
+        },
+        {
+          "ref": "Fil 4:10–19",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La teología de la generosidad cristiana como acto de koinonía y ofrenda fragante a Dios (Fil 4:18) es el paralelo más cercano a 2Co 9:7–13: en ambas cartas Pablo vincula el dar material con el lenguaje litúrgico del AT, presentando la dadivosidad de la iglesia como la nueva liturgia sacrificial que honra a Dios con frutos concretos y genera la acción de gracias de los receptores.",
+            "en": "The theology of Christian generosity as an act of koinonia and a fragrant offering to God (Phil 4:18) is the closest parallel to 2Cor 9:7–13: in both letters Paul links material giving with OT liturgical language, presenting the church's generosity as the new sacrificial liturgy that honors God with concrete fruit and generates thanksgiving from the recipients.",
+            "pt": "A teologia da generosidade cristã como ato de koinonia e perfume de suavidade a Deus (Fp 4:18) é o paralelo mais próximo de 2Co 9:7–13: em ambas as cartas Paulo vincula o dar material à linguagem litúrgica do AT, apresentando a dadivosidade da igreja como a nova liturgia sacrificial que honra a Deus com frutos concretos e gera ação de graças dos receptores."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fruto/Fructificación": {
+            "es": "Pablo articula el principio de la siembra y la cosecha como ley de la generosidad cristiana: 'el que siembra escasamente, escasamente también segará; y el que siembra generosamente, generosamente también segará' (2Co 9:6); la dadivosidad de la iglesia es fruto tangible de la gracia recibida y semilla de una cosecha futura de justicia (2Co 9:10).",
+            "en": "Paul articulates the sowing-and-harvesting principle as the law of Christian generosity: 'whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully' (2Cor 9:6); the church's generosity is the tangible fruit of grace received and the seed of a future harvest of righteousness (2Cor 9:10).",
+            "pt": "Paulo articula o princípio da semeadura e da colheita como lei da generosidade cristã: 'quem semeia moderadamente, moderadamente também ceifará; quem semeia em abundância, em abundância também ceifará' (2Co 9:6); a dadivosidade da igreja é o fruto tangível da graça recebida e a semente de uma colheita futura de justiça (2Co 9:10)."
+          }
+        },
+        "secundarios": [
+          {
+            "Siervo Sufriente": {
+              "es": "El fundamento cristológico de la generosidad es la kenosis del Siervo: 'siendo rico, por amor a vosotros se hizo pobre, para que vosotros con su pobreza fueseis enriquecidos' (2Co 8:9); el vaciamiento voluntario del Señor de sus prerrogativas divinas para enriquecer a los pobres es el patrón del Siervo que motiva y modela el dar sacrificial de la iglesia.",
+              "en": "The christological foundation of generosity is the kenosis of the Servant: 'though he was rich, yet for your sake he became poor, so that you by his poverty might become rich' (2Cor 8:9); the Lord's voluntary emptying of his divine prerogatives to enrich the poor is the Servant pattern that motivates and models the church's sacrificial giving.",
+              "pt": "O fundamento cristológico da generosidade é a kênose do Servo: 'sendo rico, por amor de vós se fez pobre, para que pela sua pobreza vós vos tornásseis ricos' (2Co 8:9); o esvaziamento voluntário do Senhor de suas prerrogativas divinas para enriquecer os pobres é o padrão do Servo que motiva e modela o dar sacrificial da igreja."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "A colecta para os santos pobres de Jerusalém (2Co 8–9) é o projeto que más concretamente realiza la unidad de Israel e Iglesia en Cristo: las iglesias gentiles de Macedonia y Acaya sustentan materialmente a la comunidad judeocristiana, y los receptores glorifican a Dios por 'la generosa contribución... en favor de ellos y de todos' (2Co 9:13).",
+              "en": "The collection for the poor saints of Jerusalem (2Cor 8–9) is the project that most concretely realizes the unity of Israel and Church in Christ: the Gentile churches of Macedonia and Achaia materially support the Jewish-Christian community, and the recipients glorify God for 'the generosity of your contribution... for them and for all' (2Cor 9:13).",
+              "pt": "A coleta para os santos pobres de Jerusalém (2Co 8–9) é o projeto que mais concretamente realiza a unidade de Israel e Igreja em Cristo: as igrejas gentias da Macedônia e da Acaia sustentam materialmente a comunidade judaico-cristã, e os receptores glorificam a Deus pela 'generosidade de sua contribuição... para eles e para todos' (2Co 9:13)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 10,
@@ -1195,7 +1465,54 @@
         "pt": "Paulo apresenta o catálogo de sofrimentos apostólicos de 2Co 11:23–29 como suas verdadeiras credenciais, invertendo os critérios do mundo greco-romano: a fraqueza e o sofrimento são a marca do ministério autêntico segundo o padrão do Cristo crucificado."
       },
       "versiculoClave": "2Co 10:5",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jer 9:23–24",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Jer 9:23–24 en 2Co 10:17 —'el que se gloría, gloríese en el Señor'— para establecer el único límite legítimo de la jactancia: frente a los súper-apóstoles que se miden entre sí y alardean de credenciales, Pablo solo se gloría en el campo que Dios le asignó (2Co 10:13) y en el Señor que lo comisionó.",
+            "en": "Paul cites Jer 9:23–24 in 2Cor 10:17 — 'let the one who boasts, boast in the Lord' — to establish the only legitimate limit of boasting: in contrast to the super-apostles who measure themselves by each other and vaunt their credentials, Paul boasts only in the field God assigned him (2Cor 10:13) and in the Lord who commissioned him.",
+            "pt": "Paulo cita Jr 9:23–24 em 2Co 10:17 — 'quem se gloriar, glorie-se no Senhor' — para estabelecer o único limite legítimo da jactância: em contraste com os super-apóstolos que se medem entre si e se gabam de credenciais, Paulo só se gloria no campo que Deus lhe designou (2Co 10:13) e no Senhor que o comissionou."
+          }
+        },
+        {
+          "ref": "Ef 6:10–17",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La declaración de que las armas apostólicas 'no son carnales sino poderosas en Dios para derribar fortalezas' y 'llevar cautivo todo pensamiento a la obediencia a Cristo' (2Co 10:3–5) describe la misma realidad que la armadura de Dios en Ef 6:10–17: ambos pasajes presentan el ministerio cristiano como guerra espiritual librada con armas divinas, no con poder humano.",
+            "en": "The declaration that the apostolic weapons 'are not of the flesh but have divine power to destroy strongholds' and 'take every thought captive to obey Christ' (2Cor 10:3–5) describes the same reality as the armor of God in Eph 6:10–17: both passages present Christian ministry as spiritual warfare waged with divine weapons, not human power.",
+            "pt": "A declaração de que as armas apostólicas 'não são carnais, mas poderosas em Deus para derrubar fortalezas' e 'reduzir todo pensamento à obediência de Cristo' (2Co 10:3–5) descreve a mesma realidade que a armadura de Deus em Ef 6:10–17: ambas as passagens apresentam o ministério cristão como guerra espiritual travada com armas divinas, não com poder humano."
+          }
+        },
+        {
+          "ref": "Hch 9:23–25",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El episodio de ser bajado en canasta por el muro de Damasco (2Co 11:32–33) es el mismo evento narrado en Hch 9:23–25, revelando la paradoja apostólica: el mismo apóstol que derriba fortalezas espirituales (2Co 10:4) huye humillado de la ciudad que lo perseguía, autenticando su ministerio precisamente en la debilidad y no en la gloria.",
+            "en": "The episode of being lowered in a basket through the Damascus wall (2Cor 11:32–33) is the same event narrated in Acts 9:23–25, revealing the apostolic paradox: the same apostle who tears down spiritual strongholds (2Cor 10:4) flees in humiliation from the city pursuing him, authenticating his ministry precisely in weakness and not in glory.",
+            "pt": "O episódio de ser descido em um cesto pela muralha de Damasco (2Co 11:32–33) é o mesmo evento narrado em At 9:23–25, revelando o paradoxo apostólico: o mesmo apóstolo que derruba fortalezas espirituais (2Co 10:4) foge humilhado da cidade que o perseguia, autenticando seu ministério precisamente na fraqueza e não na glória."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Siervo Sufriente": {
+            "es": "El catálogo de sufrimientos apostólicos —azotes, naufragios, hambre, peligros, vigilia (2Co 11:23–29)— son las verdaderas credenciales del apostolado genuino: frente a los súper-apóstoles que exhiben poder y elocuencia, Pablo muestra que el patrón del Siervo que pasa por la humillación hacia la exaltación define el ministerio auténtico.",
+            "en": "The catalog of apostolic sufferings — beatings, shipwrecks, hunger, dangers, sleeplessness (2Cor 11:23–29) — are the true credentials of genuine apostleship: in contrast to the super-apostles who display power and eloquence, Paul shows that the Servant pattern of passing through humiliation toward exaltation defines authentic ministry.",
+            "pt": "O catálogo de sofrimentos apostólicos — açoites, naufrágios, fome, perigos, vigília (2Co 11:23–29) — são as verdadeiras credenciais do apostolado genuíno: em contraste com os super-apóstolos que exibem poder e eloquência, Paulo mostra que o padrão do Servo que passa pela humilhação em direção à exaltação define o ministério autêntico."
+          }
+        },
+        "secundarios": [
+          {
+            "Sabiduría": {
+              "es": "La polêmica contra los súper-apóstoles es también epistemológica: 'el que se gloría, gloríese en el Señor' (2Co 10:17, citando Jer 9:24) rechaza toda sabiduría que se mide por credenciales humanas —educación, elocuencia, éxito—, afirmando que la única medida del ministerio es la que Dios mismo asigna (2Co 10:13), no la autocomparación con otros.",
+              "en": "The polemic against the super-apostles is also epistemological: 'let the one who boasts, boast in the Lord' (2Cor 10:17, citing Jer 9:24) rejects all wisdom measured by human credentials — education, eloquence, success —, affirming that the only measure of ministry is the one God himself assigns (2Cor 10:13), not self-comparison with others.",
+              "pt": "A polêmica contra os super-apóstolos é também epistemológica: 'quem se gloriar, glorie-se no Senhor' (2Co 10:17, citando Jr 9:24) rejeita toda sabedoria que se mede por credenciais humanas — educação, eloquência, sucesso —, afirmando que a única medida do ministério é a que Deus mesmo designa (2Co 10:13), não a autocomparação com outros."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 12,
@@ -1216,7 +1533,61 @@
         "pt": "Cristo responde ao espinho de Paulo com a promessa 'a minha graça te basta; o meu poder se aperfeiçoa na fraqueza' (2Co 12:9), revelando que o padrão providencial de Deus para o ministério apostólico — e para todo ministério cristão — é o poder divino exibido na fragilidade humana."
       },
       "versiculoClave": "2Co 12:9",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 19:15",
+          "tipo": "cita",
+          "nota": {
+            "es": "La advertencia de que visitará por tercera vez y que 'en boca de dos o tres testigos se resolverá todo asunto' (2Co 13:1) cita directamente Dt 19:15; Pablo aplica el principio judicial del doble o triple testimonio del AT al proceso de disciplina eclesiástica, mostrando la continuidad de los estándares de justicia del pacto mosaico en la iglesia del nuevo pacto.",
+            "en": "The warning that he will come a third time and that 'every charge must be established by the evidence of two or three witnesses' (2Cor 13:1) directly cites Deut 19:15; Paul applies the OT judicial principle of double or triple testimony to the church discipline process, showing the continuity of Mosaic covenant justice standards in the new covenant church.",
+            "pt": "A advertência de que visitará pela terceira vez e que 'pela boca de duas ou três testemunhas será estabelecido todo fato' (2Co 13:1) cita diretamente Dt 19:15; Paulo aplica o princípio judicial veterotestamentário do duplo ou triplo testemunho ao processo de disciplina eclesiástica, mostrando a continuidade dos padrões de justiça da aliança mosaica na igreja da nova aliança."
+          }
+        },
+        {
+          "ref": "Jó 2:6",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El 'espino en la carne, un mensajero de Satanás que me abofetee' (2Co 12:7) refleja el patrón soberano de Jó 2:6: 'el Señor dijo a Satanás: He aquí, él está en tu mano'; en ambos casos Dios permite soberanamente la aflicción satánica para un propósito redentor — en Job para demostrar fidelidad, en Pablo para mantener la humildad y exhibir el poder divino en la debilidad (2Co 12:9).",
+            "en": "The 'thorn in the flesh, a messenger of Satan to harass me' (2Cor 12:7) reflects the sovereign pattern of Job 2:6: 'the LORD said to Satan: Behold, he is in your hand'; in both cases God sovereignly permits satanic affliction for a redemptive purpose — in Job to demonstrate faithfulness, in Paul to maintain humility and display divine power in weakness (2Cor 12:9).",
+            "pt": "O 'espinho na carne, um mensageiro de Satanás para me abofetear' (2Co 12:7) reflete o padrão soberano de Jó 2:6: 'o SENHOR disse a Satanás: Eis que ele está na tua mão'; em ambos os casos Deus soberanamente permite a aflição satânica para um propósito redentor — em Jó para demonstrar fidelidade, em Paulo para manter a humildade e exibir o poder divino na fraqueza (2Co 12:9)."
+          }
+        },
+        {
+          "ref": "Fil 4:13",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La paradoja 'cuando soy débil, entonces soy fuerte' (2Co 12:10) tiene su paralelo paulino más cercano en Fil 4:13: 'todo lo puedo en Cristo que me fortalece'; ambas declaraciones articulan la misma teología desde ángulos complementarios — la debilidad humana es el espacio privilegiado donde el poder suficiente de Cristo se manifiesta y se glorifica.",
+            "en": "The paradox 'when I am weak, then I am strong' (2Cor 12:10) has its closest Pauline parallel in Phil 4:13: 'I can do all things through him who strengthens me'; both statements articulate the same theology from complementary angles — human weakness is the privileged space where Christ's sufficient power is manifested and glorified.",
+            "pt": "O paradoxo 'quando sou fraco, então é que sou forte' (2Co 12:10) tem seu paralelo paulino mais próximo em Fp 4:13: 'tudo posso naquele que me fortalece'; ambas as declarações articulam a mesma teologia de ângulos complementares — a fraqueza humana é o espaço privilegiado onde o poder suficiente de Cristo se manifesta e se glorifica."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Presencia de Dios": {
+            "es": "La promesa de Cristo al apóstol afligido —'bástate mi gracia; porque mi poder se perfecciona en la debilidad' (2Co 12:9)— es el paradigma de la presencia divina que no elimina el sufrimiento sino que lo transciende, alcanzando su expresión plena en la bendición trinitaria: 'la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo sean con todos vosotros' (2Co 13:14).",
+            "en": "Christ's promise to the afflicted apostle — 'my grace is sufficient for you, for my power is made perfect in weakness' (2Cor 12:9) — is the paradigm of the divine presence that does not eliminate suffering but transcends it, finding its fullest expression in the Trinitarian benediction: 'the grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all' (2Cor 13:14).",
+            "pt": "A promessa de Cristo ao apóstolo aflito — 'a minha graça te basta, porque o poder se aperfeiçoa na fraqueza' (2Co 12:9) — é o paradigma da presença divina que não elimina o sofrimento, mas o transcende, alcançando sua expressão plena na bênção trinitária: 'a graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo sejam com todos vós' (2Co 13:14)."
+          }
+        },
+        "secundarios": [
+          {
+            "Siervo Sufriente": {
+              "es": "El espino en la carne —'un mensajero de Satanás que me abofetee para que no me enaltezca' (2Co 12:7)— es la forma concreta de la participación del apóstol en el patrón del Siervo: como el Siervo fue 'herido por nuestras transgresiones' para la gloria de Dios (Is 53:5), Pablo es afligido para que 'el poder de Cristo more' en su debilidad (2Co 12:9).",
+              "en": "The thorn in the flesh — 'a messenger of Satan to harass me, to keep me from being too elated' (2Cor 12:7) — is the concrete form of the apostle's participation in the Servant pattern: as the Servant was 'pierced for our transgressions' for God's glory (Isa 53:5), Paul is afflicted so that 'the power of Christ may rest upon' his weakness (2Cor 12:9).",
+              "pt": "O espinho na carne — 'um mensageiro de Satanás para me dar socos e impedir que eu me exalte' (2Co 12:7) — é a forma concreta da participação do apóstolo no padrão do Servo: como o Servo foi 'traspassado por nossas transgressões' para a glória de Deus (Is 53:5), Paulo é aflito para que 'o poder de Cristo repouse sobre' sua fraqueza (2Co 12:9)."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "Pablo exhorta a los corintios a 'examinarse a sí mismos si están en la fe' (2Co 13:5) antes de su tercera visita, cuando actuará con firmeza contra los que no se hayan arrepentido (2Co 13:2–4): la auto-examinación y la demanda de santidad son el marco pastoral que cierra la carta más intensa y personal del corpus paulino.",
+              "en": "Paul exhorts the Corinthians to 'examine yourselves to see whether you are in the faith' (2Cor 13:5) before his third visit, when he will act firmly against those who have not repented (2Cor 13:2–4): self-examination and the demand for holiness are the pastoral framework that closes the most intense and personal letter of the Pauline corpus.",
+              "pt": "Paulo exorta os coríntios a 'examinarem-se a si mesmos para ver se estão na fé' (2Co 13:5) antes de sua terceira visita, quando agirá com firmeza contra os que não se arrependeram (2Co 13:2–4): o autoexame e a demanda de santidade são o quadro pastoral que fecha a carta mais intensa e pessoal do corpus paulino."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [

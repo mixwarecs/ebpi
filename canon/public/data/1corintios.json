@@ -1127,7 +1127,61 @@
         "pt": "Paulo proclama que 'a palavra da cruz' é o poder e a sabedoria de Deus (1Co 1:18–25), estabelecendo o evangelho de Cristo crucificado como o único princípio unificador e normativo da igreja diante de todas as divisões humanas."
       },
       "versiculoClave": "1Co 1:18",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 29:14",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Is 29:14 en 1Co 1:19 —'destruiré la sabiduría de los sabios y desecharé el entendimiento de los entendidos'— para demostrar que el evangelio de la cruz no es un fracaso ante la filosofía griega sino el cumplimiento del juicio divino sobre toda sabiduría humana que se erige autónomamente ante Dios.",
+            "en": "Paul cites Isa 29:14 in 1 Cor 1:19 — 'I will destroy the wisdom of the wise, and the discernment of the discerning I will thwart' — to demonstrate that the gospel of the cross is not a failure before Greek philosophy but the fulfillment of God's judgment on all human wisdom that sets itself up autonomously before God.",
+            "pt": "Paulo cita Is 29:14 em 1Co 1:19 — 'destruirei a sabedoria dos sábios e aniquilarei a inteligência dos inteligentes' — para demonstrar que o evangelho da cruz não é um fracasso diante da filosofia grega, mas o cumprimento do juízo divino sobre toda sabedoria humana que se erige autonomamente diante de Deus."
+          }
+        },
+        {
+          "ref": "Jer 9:23–24",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cierra el argumento de 1Co 1:26–31 citando Jer 9:23–24 —'el que se gloría, gloríese en el Señor'— aplicando la advertencia profética contra gloriarse en sabiduría, valentía o riquezas a los corintios que se enorgullecían de sus maestros, y afirmando que la única gloria legítima es en Cristo, hecho para nosotros sabiduría, justicia, santificación y redención.",
+            "en": "Paul closes the argument of 1 Cor 1:26–31 by citing Jer 9:23–24 — 'let the one who boasts, boast in the Lord' — applying the prophetic warning against boasting in wisdom, valor, or riches to the Corinthians who prided themselves in their teachers, affirming that the only legitimate boast is in Christ, made for us wisdom, righteousness, sanctification, and redemption.",
+            "pt": "Paulo fecha o argumento de 1Co 1:26–31 citando Jr 9:23–24 — 'quem se gloriar, glorie-se no Senhor' — aplicando o aviso profético contra a glória na sabedoria, no valor ou nas riquezas aos coríntios que se orgulhavam de seus mestres, afirmando que a única glória legítima é em Cristo, feito para nós sabedoria, justiça, santificação e redenção."
+          }
+        },
+        {
+          "ref": "Is 64:4",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Is 64:4 en 1Co 2:9 —'cosas que ojo no vio, ni oído oyó, ni han entrado en corazón de hombre, son las que Dios ha preparado para los que le aman'— para describir la sabiduría del misterio que solo el Espíritu puede revelar, fundamentando la epistemología revelacional cristiana en la tradición profética del AT.",
+            "en": "Paul cites Isa 64:4 in 1 Cor 2:9 — 'what no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him' — to describe the wisdom of the mystery that only the Spirit can reveal, grounding the Christian revelational epistemology in the OT prophetic tradition.",
+            "pt": "Paulo cita Is 64:4 em 1Co 2:9 — 'o que olhos não viram, nem ouvidos ouviram, nem o coração do homem imaginou, o que Deus preparou para os que o amam' — para descrever a sabedoria do mistério que só o Espírito pode revelar, fundamentando a epistemologia revelacional cristã na tradição profética do AT."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sabiduría": {
+            "es": "Pablo contrapone la 'sabiduría de este mundo' al evangelio de Cristo crucificado como 'poder de Dios y sabiduría de Dios' (1Co 1:24), revelando que la verdadera sabiduría es el conocimiento revelado por el Espíritu (1Co 2:10–13), no la especulación filosófica.",
+            "en": "Paul contrasts the 'wisdom of this world' with the gospel of Christ crucified as 'the power of God and the wisdom of God' (1Cor 1:24), revealing that true wisdom is Spirit-revealed knowledge (1Cor 2:10–13), not philosophical speculation.",
+            "pt": "Paulo contrasta a 'sabedoria deste mundo' com o evangelho de Cristo crucificado como 'poder de Deus e sabedoria de Deus' (1Co 1:24), revelando que a verdadeira sabedoria é o conhecimento revelado pelo Espírito (1Co 2:10–13), não a especulação filosófica."
+          }
+        },
+        "secundarios": [
+          {
+            "Justificación": {
+              "es": "Cristo ha sido hecho para la iglesia 'sabiduría, justificación, santificación y redención' (1Co 1:30): la justificación del pecador no es resultado del mérito o la sabiduría humana sino don gratuito del evangelio de la cruz.",
+              "en": "Christ has been made for the church 'wisdom, righteousness, sanctification and redemption' (1Cor 1:30): the justification of the sinner is not the result of human merit or wisdom but a free gift of the gospel of the cross.",
+              "pt": "Cristo foi feito para a igreja 'sabedoria, justiça, santificação e redenção' (1Co 1:30): a justificação do pecador não é resultado do mérito ou da sabedoria humana, mas dom gratuito do evangelho da cruz."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "Las divisiones facciosas de Corinto —'yo soy de Pablo, yo de Apolos, yo de Pedro' (1Co 1:12)— amenazan la unidad de la iglesia edificada sobre el único fundamento que es Cristo (1Co 3:11), revelando que la fragmentación eclesiástica es siempre idolatría hacia los líderes humanos.",
+              "en": "The factious divisions of Corinth — 'I follow Paul, I follow Apollos, I follow Cephas' (1Cor 1:12) — threaten the unity of the church built on the one foundation which is Christ (1Cor 3:11), revealing that ecclesial fragmentation is always idolatry toward human leaders.",
+              "pt": "As divisões facciosas de Corinto — 'eu sou de Paulo, eu de Apolo, eu de Pedro' (1Co 1:12) — ameaçam a unidade da igreja edificada sobre o único fundamento que é Cristo (1Co 3:11), revelando que a fragmentação eclesiástica é sempre idolatria aos líderes humanos."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -1148,7 +1202,61 @@
         "pt": "Paulo ordena a excomunhão do homem incestuoso (1Co 5:5), estabelecendo o precedente apostólico da disciplina eclesiástica como ato de amor pastoral orientado à salvação, não como mero castigo."
       },
       "versiculoClave": "1Co 5:7",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ex 12:15",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La exhortación de Pablo a 'purgar la vieja levadura' (1Co 5:7–8) aplica la purga prepascual de los panes con levadura (Ex 12:15) a la expulsión del pecado de la comunidad: Cristo, nuestra Pascua, ya fue sacrificado, por lo que la Iglesia debe ser la comunidad de los ázimos, limpia del pecado como Israel debía estarlo de la levadura.",
+            "en": "Paul's exhortation to 'cleanse out the old leaven' (1 Cor 5:7–8) applies the pre-Passover purging of leavened bread (Exod 12:15) to the expulsion of sin from the community: Christ, our Passover lamb, has already been sacrificed, so the Church must be the community of unleavened bread, cleansed of sin as Israel was required to be of leaven.",
+            "pt": "A exortação de Paulo para 'purgar o velho fermento' (1Co 5:7–8) aplica a remoção pré-pascal dos pães com fermento (Ex 12:15) à expulsão do pecado da comunidade: Cristo, nossa Páscoa, já foi sacrificado, de modo que a Igreja deve ser a comunidade dos ázimos, limpa do pecado como Israel devia estar livre do fermento."
+          }
+        },
+        {
+          "ref": "Dt 17:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "La orden de Pablo de expulsar al incestuoso —'quitad, pues, a ese perverso de entre vosotros' (1Co 5:13)— es una cita del principio mosaico de Dt 17:7 ('quitarás el mal de en medio de ti'), mostrando que la disciplina eclesiástica apostólica aplica directamente el principio de santidad comunitaria del pacto al nuevo pueblo de Dios.",
+            "en": "Paul's command to expel the incestuous man — 'purge the evil person from among you' (1 Cor 5:13) — is a citation of the Mosaic principle of Deut 17:7 ('so you shall purge the evil from your midst'), showing that apostolic church discipline directly applies the OT covenant community holiness principle to the new people of God.",
+            "pt": "A ordem de Paulo para expulsar o homem incestuoso — 'tirai o perverso dentre vós' (1Co 5:13) — é uma citação do princípio mosaico de Dt 17:7 ('assim eliminarás o mal do meio de ti'), mostrando que a disciplina eclesiástica apostólica aplica diretamente o princípio de santidade comunitária da aliança ao novo povo de Deus."
+          }
+        },
+        {
+          "ref": "Gn 2:24",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Gn 2:24 en 1Co 6:16 —'los dos serán una sola carne'— para argumentar que unirse a una prostituta incorpora el cuerpo del creyente al de ella, profanando el cuerpo que pertenece a Cristo (1Co 6:15): el principio creacional de la unión conyugal hace que toda inmoralidad sexual sea una violación del diseño original de Dios.",
+            "en": "Paul cites Gen 2:24 in 1 Cor 6:16 — 'the two will become one flesh' — to argue that joining oneself to a prostitute incorporates the believer's body into hers, defiling the body that belongs to Christ (1 Cor 6:15): the creational principle of conjugal union means every act of sexual immorality is a violation of God's original design.",
+            "pt": "Paulo cita Gn 2:24 em 1Co 6:16 — 'os dois serão uma só carne' — para argumentar que unir-se a uma prostituta incorpora o corpo do crente ao dela, profanando o corpo que pertence a Cristo (1Co 6:15): o princípio criacional da união conjugal faz com que toda imoralidade sexual seja uma violação do design original de Deus."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "La expulsión del hombre incestuoso (1Co 5:13) y la exhortación a huir de la fornicación porque el cuerpo es 'templo del Espíritu Santo' comprado por precio (1Co 6:19–20) fundamentan la santidad comunitaria e individual en la obra expiatoria de Cristo.",
+            "en": "The expulsion of the incestuous man (1Cor 5:13) and the exhortation to flee fornication because the body is 'a temple of the Holy Spirit' bought with a price (1Cor 6:19–20) ground communal and individual holiness in Christ's atoning work.",
+            "pt": "A expulsão do homem incestuoso (1Co 5:13) e a exortação para fugir da fornicação porque o corpo é 'templo do Espírito Santo' comprado por um preço (1Co 6:19–20) fundamentam a santidade comunitária e individual na obra expiatória de Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Pascua/Cordero de Dios": {
+              "es": "Pablo funda la disciplina eclesiástica en la tipología pascual: 'purgad la vieja levadura... porque nuestra Pascua, que es Cristo, ya fue sacrificada' (1Co 5:7–8), convirtiendo la Pascua del éxodo en paradigma del juicio que purifica al pueblo del nuevo pacto.",
+              "en": "Paul grounds church discipline in the Paschal typology: 'cleanse out the old leaven... for Christ, our Passover lamb, has been sacrificed' (1Cor 5:7–8), making the Exodus Passover the paradigm of the judgment that purifies the new covenant people.",
+              "pt": "Paulo fundamenta a disciplina eclesiástica na tipologia pascal: 'purgai o velho fermento... porque Cristo, nossa Páscoa, foi sacrificado' (1Co 5:7–8), tornando a Páscoa do êxodo o paradigma do julgamento que purifica o povo da nova aliança."
+            }
+          },
+          {
+            "Templo/Tabernáculo": {
+              "es": "La declaración de que el cuerpo del creyente es 'templo del Espíritu Santo' que mora en él (1Co 6:19) aplica la teología del templo al individuo: el cuerpo perteneciente a Cristo es el espacio sagrado donde Dios habita, haciendo la inmoralidad sexual una profanación del santuario.",
+              "en": "The declaration that the believer's body is 'a temple of the Holy Spirit' dwelling within it (1Cor 6:19) applies temple theology to the individual: the body belonging to Christ is the sacred space where God dwells, making sexual immorality a desecration of the sanctuary.",
+              "pt": "A declaração de que o corpo do crente é 'templo do Espírito Santo' que nele habita (1Co 6:19) aplica a teologia do templo ao indivíduo: o corpo pertencente a Cristo é o espaço sagrado onde Deus habita, tornando a imoralidade sexual uma profanação do santuário."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 7,
@@ -1169,7 +1277,54 @@
         "pt": "Paulo estabelece o princípio da vocação cristã: 'cada um ande como o Senhor lhe distribuiu, como Deus chamou a cada um, assim ande' (1Co 7:17), afirmando que todo estado de vida pode ser vivido para a glória de Deus."
       },
       "versiculoClave": "1Co 7:17",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 2:18",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La enseñanza de Pablo sobre el matrimonio en 1Co 7 descansa implícitamente en Gn 2:18 —'no es bueno que el hombre esté solo'— como fundamento creacional: el matrimonio no es concesión a la debilidad sino institución divina de Gn 2, y el celibato es un don escatológico particular (1Co 7:7), no la norma universal.",
+            "en": "Paul's teaching on marriage in 1 Cor 7 rests implicitly on Gen 2:18 — 'it is not good that the man should be alone' — as its creational foundation: marriage is not a concession to weakness but a divine institution from Gen 2, while celibacy is a particular eschatological gift (1 Cor 7:7), not the universal norm.",
+            "pt": "O ensinamento de Paulo sobre o casamento em 1Co 7 repousa implicitamente em Gn 2:18 — 'não é bom que o homem esteja só' — como fundamento criacional: o casamento não é uma concessão à fraqueza, mas uma instituição divina de Gn 2, e o celibato é um dom escatológico particular (1Co 7:7), não a norma universal."
+          }
+        },
+        {
+          "ref": "Mc 10:2–12",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La prohibición del divorcio en 1Co 7:10–11 se apoya explícitamente en 'el mandato del Señor', que es la enseñanza de Jesús sobre el matrimonio y el divorcio registrada en Mc 10:2–12 y Mt 19:3–9; Pablo transmite el mandato apostólico del Señor resucitado como norma vinculante para la iglesia, distinguiéndola de su propia opinión apostólica (1Co 7:12).",
+            "en": "The prohibition of divorce in 1 Cor 7:10–11 rests explicitly on 'the command of the Lord,' which is Jesus's teaching on marriage and divorce recorded in Mark 10:2–12 and Matt 19:3–9; Paul transmits the apostolic command of the risen Lord as binding norm for the church, distinguishing it from his own apostolic opinion (1 Cor 7:12).",
+            "pt": "A proibição do divórcio em 1Co 7:10–11 se apoia explicitamente no 'mandato do Senhor', que é o ensinamento de Jesus sobre o casamento e o divórcio registrado em Mc 10:2–12 e Mt 19:3–9; Paulo transmite o mandato apostólico do Senhor ressuscitado como norma vinculante para a igreja, distinguindo-o de sua própria opinião apostólica (1Co 7:12)."
+          }
+        },
+        {
+          "ref": "Dt 24:1–4",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La ley mosaica del divorcio en Dt 24:1–4 —que permite la carta de divorcio 'por alguna indecencia'— es el trasfondo histórico-legal de la enseñanza del Señor sobre el divorcio que Pablo cita en 1Co 7:10–11; Jesús y Pablo coinciden en elevar el estándar más allá de la concesión mosaica, apelando al propósito creacional de Gn 2 por encima de la tolerancia temporal de Dt 24.",
+            "en": "The Mosaic divorce law of Deut 24:1–4 — which permits the certificate of divorce 'for some indecency' — is the historical-legal background for the Lord's teaching on divorce that Paul cites in 1 Cor 7:10–11; Jesus and Paul agree in raising the standard beyond the Mosaic concession, appealing to the creational purpose of Gen 2 over the temporary tolerance of Deut 24.",
+            "pt": "A lei mosaica do divórcio em Dt 24:1–4 — que permite a carta de divórcio 'por alguma coisa indecente' — é o pano de fundo histórico-legal do ensinamento do Senhor sobre o divórcio que Paulo cita em 1Co 7:10–11; Jesus e Paulo concordam em elevar o padrão além da concessão mosaica, apelando ao propósito criacional de Gn 2 acima da tolerância temporária de Dt 24."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Matrimonio": {
+            "es": "Pablo establece una teología integral del matrimonio y el celibato: el matrimonio protege contra la inmoralidad y refleja el propósito creacional (1Co 7:2–5), mientras el celibato es un don para la consagración más plena al Señor (1Co 7:32–34), siendo ambos estados vocaciones legítimas.",
+            "en": "Paul establishes a comprehensive theology of marriage and celibacy: marriage guards against immorality and reflects the creational purpose (1Cor 7:2–5), while celibacy is a gift for more complete devotion to the Lord (1Cor 7:32–34), both being legitimate vocations.",
+            "pt": "Paulo estabelece uma teologia integral do casamento e do celibato: o casamento protege contra a imoralidade e reflete o propósito criacional (1Co 7:2–5), enquanto o celibato é um dom para a consagração mais plena ao Senhor (1Co 7:32–34), sendo ambos vocações legítimas."
+          }
+        },
+        "secundarios": [
+          {
+            "Trabajo/Vocación": {
+              "es": "El principio rector del capítulo es la teología reformada de la vocación: 'cada uno como el Señor le distribuyó... como Dios llamó a cada uno, así ande' (1Co 7:17), afirmando que el matrimonio, el celibato, la esclavitud y la libertad son estados en que Dios llama a servir.",
+              "en": "The governing principle of the chapter is the Reformed theology of vocation: 'let each person lead the life that the Lord has assigned to him, as God has called him' (1Cor 7:17), affirming that marriage, celibacy, slavery, and freedom are all states in which God calls one to serve.",
+              "pt": "O princípio regente do capítulo é a teologia reformada da vocação: 'cada um ande como o Senhor lhe distribuiu... como Deus chamou cada um, assim ande' (1Co 7:17), afirmando que o casamento, o celibato, a escravidão e a liberdade são estados em que Deus chama a servir."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 8,
@@ -1190,7 +1345,61 @@
         "pt": "Paulo aplica a tipologia do êxodo como advertência escatológica: Israel comeu o maná e bebeu água da rocha espiritual que era Cristo, mas caiu na idolatria; essas coisas aconteceram a eles 'como exemplo para nós' (1Co 10:11), advertindo que nenhum privilégio espiritual garante imunidade diante da apostasia."
       },
       "versiculoClave": "1Co 10:31",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ex 17:6",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Pablo interpreta los eventos del éxodo como tipos sacramentales del nuevo pacto: 'bebían de la roca espiritual que los seguía, y la roca era Cristo' (1Co 10:4), identificando el agua milagrosa de la roca (Ex 17:6; Nm 20:11) con Cristo mismo, quien es la fuente de la vida espiritual que sostuvo a Israel y que ahora sustenta a la Iglesia en sus propios sacramentos.",
+            "en": "Paul interprets the Exodus events as sacramental types of the new covenant: 'they drank from the spiritual Rock that followed them, and the Rock was Christ' (1 Cor 10:4), typologically identifying the miraculous water from the rock (Exod 17:6; Num 20:11) with Christ himself, the source of spiritual life that sustained Israel and now sustains the Church in its own sacraments.",
+            "pt": "Paulo interpreta os eventos do êxodo como tipos sacramentais da nova aliança: 'bebiam da pedra espiritual que os seguia, e a pedra era Cristo' (1Co 10:4), identificando tipologicamente a água milagrosa da pedra (Ex 17:6; Nm 20:11) com o próprio Cristo, fonte de vida espiritual que sustentou Israel e que agora sustenta a Igreja em seus próprios sacramentos."
+          }
+        },
+        {
+          "ref": "Ex 32:6",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Ex 32:6 —'el pueblo se sentó a comer y a beber, y se levantó a jugar'— en 1Co 10:7 como advertencia directa contra los banquetes idolátricos de Corinto: el festín alrededor del becerro de oro es el prototipo escritural de toda complacencia espiritual que lleva a la idolatría, y 'estas cosas les acontecieron como ejemplo para nosotros' (1Co 10:11).",
+            "en": "Paul cites Exod 32:6 — 'the people sat down to eat and drink and rose up to play' — in 1 Cor 10:7 as a direct warning against Corinth's idolatrous banquets: the feast around the golden calf is the scriptural prototype of all spiritual complacency that leads to idolatry, and 'these things happened to them as an example, but they were written down for our instruction' (1 Cor 10:11).",
+            "pt": "Paulo cita Ex 32:6 — 'o povo assentou-se para comer e beber e levantou-se para folgar' — em 1Co 10:7 como advertência direta contra os banquetes idolátricos de Corinto: o festim ao redor do bezerro de ouro é o protótipo escritural de toda complacência espiritual que leva à idolatria, e 'essas coisas lhes aconteceram como exemplos, e foram escritas para advertência nossa' (1Co 10:11)."
+          }
+        },
+        {
+          "ref": "Sal 24:1",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Sal 24:1 —'del Señor es la tierra y su plenitud'— en 1Co 10:26 como fundamento teológico para comer sin escrúpulos cualquier alimento del mercado: si toda la creación pertenece al Señor, ningún alimento es en sí mismo impuro; el creyente puede recibirlo con acción de gracias porque la santidad no reside en la sustancia sino en la relación con Dios.",
+            "en": "Paul cites Ps 24:1 — 'the earth is the Lord's, and the fullness thereof' — in 1 Cor 10:26 as the theological foundation for eating without scruple any food from the market: if all creation belongs to the Lord, no food is inherently impure; the believer can receive it with thanksgiving because holiness resides not in the substance but in the relationship with God.",
+            "pt": "Paulo cita Sl 24:1 — 'do Senhor é a terra e tudo o que ela contém' — em 1Co 10:26 como fundamento teológico para comer sem escrúpulos qualquer alimento do mercado: se toda a criação pertence ao Senhor, nenhum alimento é em si mesmo impuro; o crente pode recebê-lo com ação de graças porque a santidade não reside na substância, mas na relação com Deus."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Idolatría": {
+            "es": "Pablo condena la participación en los banquetes idolátricos de Corinto (1Co 10:14–22) apelando al ejemplo del Israel del desierto que cayó en idolatría a pesar de sus privilegios espirituales (1Co 10:1–12): 'huid de la idolatría' (1Co 10:14) es el imperativo central del bloque.",
+            "en": "Paul condemns participation in Corinth's idolatrous banquets (1Cor 10:14–22) by appealing to wilderness Israel, which fell into idolatry despite its spiritual privileges (1Cor 10:1–12): 'flee from idolatry' (1Cor 10:14) is the central imperative of the section.",
+            "pt": "Paulo condena a participação nos banquetes idolátricos de Corinto (1Co 10:14–22) apelando ao Israel do deserto, que caiu na idolatria apesar de seus privilégios espirituais (1Co 10:1–12): 'fugi da idolatria' (1Co 10:14) é o imperativo central do bloco."
+          }
+        },
+        "secundarios": [
+          {
+            "Éxodo/Liberación": {
+              "es": "Pablo interpreta el éxodo tipológicamente como prefiguración de los sacramentos del nuevo pacto (1Co 10:1–4: el mar como bautismo, el maná y el agua de la roca como la Cena), convirtiendo los fracasos de Israel en advertencias escatológicas escritas 'para nuestro ejemplo' (1Co 10:11).",
+              "en": "Paul interprets the Exodus typologically as a prefiguration of the new covenant sacraments (1Cor 10:1–4: the sea as baptism, the manna and water from the rock as the Supper), making Israel's failures eschatological warnings written 'for our instruction' (1Cor 10:11).",
+              "pt": "Paulo interpreta o êxodo tipologicamente como prefiguração dos sacramentos da nova aliança (1Co 10:1–4: o mar como batismo, o maná e a água da pedra como a Ceia), tornando os fracassos de Israel em avisos escatológicos escritos 'para nosso exemplo' (1Co 10:11)."
+            }
+          },
+          {
+            "Gloria de Dios": {
+              "es": "El principio que resuelve todos los conflictos éticos del bloque es 'hacéis todo para la gloria de Dios' (1Co 10:31): la gloria divina es la medida última que determina cuándo la libertad puede ejercerse y cuándo debe limitarse por amor al prójimo (1Co 10:32–33).",
+              "en": "The principle that resolves all the ethical conflicts of the section is 'do all to the glory of God' (1Cor 10:31): God's glory is the ultimate measure that determines when freedom may be exercised and when it must be limited out of love for the neighbor (1Cor 10:32–33).",
+              "pt": "O princípio que resolve todos os conflitos éticos do bloco é 'fazei tudo para a glória de Deus' (1Co 10:31): a glória divina é a medida última que determina quando a liberdade pode ser exercida e quando deve ser limitada por amor ao próximo (1Co 10:32–33)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 11,
@@ -1211,7 +1420,61 @@
         "pt": "Paulo transmite o relato mais antigo do NT sobre a instituição da Ceia do Senhor (1Co 11:23–26), declarando que sua celebração 'anuncia a morte do Senhor até que Ele venha' e vinculando o sacramento ao novo pacto e à esperança escatológica."
       },
       "versiculoClave": "1Co 11:26",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jer 31:31–34",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Las palabras de institución de la Cena —'este cáliz es el nuevo pacto en mi sangre' (1Co 11:25)— son el cumplimiento directo de la promesa de Jer 31:31–34: el nuevo pacto que Dios prometió hacer con Israel, con la ley escrita en el corazón y el perdón total de los pecados, queda ratificado con la sangre de Cristo en la última cena.",
+            "en": "The words of institution — 'this cup is the new covenant in my blood' (1 Cor 11:25) — are the direct fulfillment of the promise of Jer 31:31–34: the new covenant God promised to make with Israel, with the law written on the heart and full forgiveness of sins, is ratified with Christ's blood at the last supper.",
+            "pt": "As palavras de instituição — 'este cálice é a nova aliança no meu sangue' (1Co 11:25) — são o cumprimento direto da promessa de Jr 31:31–34: a nova aliança que Deus prometeu fazer com Israel, com a lei escrita no coração e o perdão total dos pecados, é ratificada com o sangue de Cristo na última ceia."
+          }
+        },
+        {
+          "ref": "Ex 24:8",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Moisés roció la sangre del pacto sinaítico sobre el pueblo declarando 'he aquí la sangre del pacto que el Señor ha hecho con vosotros' (Ex 24:8); las palabras de institución —'este cáliz es el nuevo pacto en mi sangre' (1Co 11:25)— replican deliberadamente este lenguaje, presentando la sangre de Cristo como el cumplimiento tipológico de la sangre del Sinaí.",
+            "en": "Moses sprinkled the blood of the Sinai covenant on the people declaring 'behold the blood of the covenant that the LORD has made with you' (Exod 24:8); the words of institution — 'this cup is the new covenant in my blood' (1 Cor 11:25) — deliberately echo this language, presenting Christ's blood as the typological fulfillment of the Sinai blood.",
+            "pt": "Moisés aspergiu o sangue da aliança sinaítica sobre o povo declarando 'eis aqui o sangue da aliança que o SENHOR fez convosco' (Ex 24:8); as palavras de instituição — 'este cálice é a nova aliança no meu sangue' (1Co 11:25) — replicam deliberadamente essa linguagem, apresentando o sangue de Cristo como o cumprimento tipológico do sangue do Sinai."
+          }
+        },
+        {
+          "ref": "Lc 22:14–20",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El relato de Pablo en 1Co 11:23–26 es el más antiguo del NT sobre la institución de la Cena (escrito ca. 53–55 d.C.) y el más cercano al de Lucas (Lc 22:14–20): ambos incluyen el mandato 'haced esto en memoria de mí' y la identificación de la copa con 'el nuevo pacto', elementos ausentes en la tradición mateana y marcana.",
+            "en": "Paul's account in 1 Cor 11:23–26 is the oldest in the NT on the institution of the Supper (written ca. 53–55 AD) and closest to Luke's (Luke 22:14–20): both include the command 'do this in remembrance of me' and the identification of the cup with 'the new covenant' — elements absent from the Matthean and Markan tradition.",
+            "pt": "O relato de Paulo em 1Co 11:23–26 é o mais antigo do NT sobre a instituição da Ceia (escrito ca. 53–55 d.C.) e o mais próximo ao de Lucas (Lc 22:14–20): ambos incluem o mandato 'fazei isso em memória de mim' e a identificação do cálice com 'a nova aliança' — elementos ausentes na tradição mateia e marcana."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Las palabras de institución de la Cena del Señor —'este cáliz es el nuevo pacto en mi sangre' (1Co 11:25)— son la declaración más directa del NT sobre el pacto establecido por Cristo: el nuevo pacto de Jer 31:31–34 queda ratificado en la sangre de Jesús y celebrado en la Cena.",
+            "en": "The words of institution of the Lord's Supper — 'this cup is the new covenant in my blood' (1Cor 11:25) — are the most direct NT declaration of the covenant Christ established: the new covenant of Jer 31:31–34 is ratified in Jesus's blood and celebrated at the Table.",
+            "pt": "As palavras de instituição da Ceia do Senhor — 'este cálice é a nova aliança no meu sangue' (1Co 11:25) — são a declaração mais direta do NT sobre a aliança estabelecida por Cristo: a nova aliança de Jr 31:31–34 é ratificada no sangue de Jesus e celebrada na Ceia."
+          }
+        },
+        "secundarios": [
+          {
+            "Sacrificio/Expiación": {
+              "es": "La Cena del Señor proclama 'la muerte del Señor hasta que Él venga' (1Co 11:26): cada celebración eucarística es un anuncio visible del sacrificio expiatorio de Cristo como el evento central y permanente de la historia redentora.",
+              "en": "The Lord's Supper proclaims 'the Lord's death until he comes' (1Cor 11:26): each Eucharistic celebration is a visible announcement of Christ's atoning sacrifice as the central and permanent event of redemptive history.",
+              "pt": "A Ceia do Senhor proclama 'a morte do Senhor até que Ele venha' (1Co 11:26): cada celebração eucarística é um anúncio visível do sacrifício expiatório de Cristo como o evento central e permanente da história redentora."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "Pablo exige discernir el cuerpo del Señor al participar de la Cena (1Co 11:29): comer indignamente trae juicio (1Co 11:30), mostrando que la eucaristía no es rito automático sino celebración que requiere santidad de vida y autoexamen espiritual.",
+              "en": "Paul demands that the body of the Lord be discerned when partaking of the Supper (1Cor 11:29): eating unworthily brings judgment (1Cor 11:30), showing that the Eucharist is not an automatic rite but a celebration requiring holiness of life and spiritual self-examination.",
+              "pt": "Paulo exige que se discirna o corpo do Senhor ao participar da Ceia (1Co 11:29): comer indignamente traz julgamento (1Co 11:30), mostrando que a eucaristia não é rito automático, mas celebração que requer santidade de vida e autoexame espiritual."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 12,
@@ -1232,7 +1495,61 @@
         "pt": "Paulo introduz o hino ao amor (1Co 13) como o 'caminho mais excelente' que subordina todos os dons espirituais: sem amor, até mesmo os dons mais espetaculares são nada (1Co 13:1–3), afirmando que o amor ágape é o vínculo permanente da escatologia presente e futura."
       },
       "versiculoClave": "1Co 13:13",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 28:11–12",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Is 28:11–12 en 1Co 14:21 —'en otras lenguas y con otros labios hablaré a este pueblo'— para interpretar el don de lenguas como señal profética dirigida a los incrédulos, transformando una profecía de juicio sobre el Israel desobediente en el fundamento escritural del don pentecostal corintio.",
+            "en": "Paul cites Isa 28:11–12 in 1 Cor 14:21 — 'by people of strange tongues and by the lips of foreigners will I speak to this people' — to interpret the gift of tongues as a prophetic sign directed at unbelievers, transforming a prophecy of judgment on disobedient Israel into the scriptural foundation for the Corinthian Pentecostal gift.",
+            "pt": "Paulo cita Is 28:11–12 em 1Co 14:21 — 'por meio de homens de outras línguas e por lábios de estrangeiros falarei a este povo' — para interpretar o dom de línguas como sinal profético dirigido aos incrédulos, transformando uma profecia de julgamento sobre o Israel desobediente no fundamento escritural do dom pentecostal coríntio."
+          }
+        },
+        {
+          "ref": "Ro 12:4–8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La enseñanza de 1Co 12:4–27 sobre el único cuerpo con miembros y dones diversos —'como en un cuerpo tenemos muchos miembros... así también Cristo'— tiene su paralelo más próximo en Ro 12:4–8, revelando que la eclesiología del cuerpo con dones del Espíritu es una enseñanza consistente y central en Pablo, no una respuesta ad hoc a los desórdenes de Corinto.",
+            "en": "The teaching of 1 Cor 12:4–27 on the one body with diverse members and gifts — 'as in one body we have many members... so it is with Christ' — has its closest parallel in Rom 12:4–8, revealing that the ecclesiology of the Spirit-gifted body is a consistent and central teaching in Paul, not an ad hoc response to Corinthian disorders.",
+            "pt": "O ensinamento de 1Co 12:4–27 sobre o único corpo com membros e dons diversos — 'como em um só corpo temos muitos membros... assim também Cristo' — tem seu paralelo mais próximo em Rm 12:4–8, revelando que a eclesiologia do corpo com dons do Espírito é um ensinamento consistente e central em Paulo, não uma resposta ad hoc às desordens de Corinto."
+          }
+        },
+        {
+          "ref": "Ef 4:7–16",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La distribución soberana de dones ministeriales por Cristo ascendido para la 'edificación del cuerpo' en Ef 4:7–16 es el paralelo más rico al gobierno eclesial de 1Co 12–14: ambos pasajes subordinan los dones al amor y a la edificación como criterio último, y presentan la diversidad de dones como el medio de Dios para la madurez colectiva del pueblo.",
+            "en": "The sovereign distribution of ministerial gifts by the ascended Christ for 'building up the body' in Eph 4:7–16 is the richest parallel to the ecclesial governance of 1 Cor 12–14: both passages subordinate gifts to love and edification as the ultimate criterion, and present the diversity of gifts as God's means for the collective maturity of his people.",
+            "pt": "A distribuição soberana de dons ministeriais pelo Cristo ascendido para a 'edificação do corpo' em Ef 4:7–16 é o paralelo mais rico ao governo eclesial de 1Co 12–14: ambas as passagens subordinam os dons ao amor e à edificação como critério último, e apresentam a diversidade de dons como o meio de Deus para a maturidade coletiva do seu povo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Espíritu Santo": {
+            "es": "El mismo Espíritu distribuye soberanamente dones diversos 'para el bien común' (1Co 12:7–11) y unifica en un solo cuerpo a creyentes de toda procedencia: 'todos bebimos de un mismo Espíritu' (1Co 12:13), haciendo del Espíritu el agente de la unidad y la diversidad eclesiástica.",
+            "en": "The same Spirit sovereignly distributes diverse gifts 'for the common good' (1Cor 12:7–11) and unifies believers of every background in one body: 'all were made to drink of one Spirit' (1Cor 12:13), making the Spirit the agent of both ecclesial unity and diversity.",
+            "pt": "O mesmo Espírito distribui soberanamente dons diversos 'para o proveito de todos' (1Co 12:7–11) e unifica em um só corpo crentes de toda procedência: 'todos fomos batizados em um mesmo Espírito' (1Co 12:13), tornando o Espírito o agente da unidade e da diversidade eclesiástica."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "La imagen del cuerpo con muchos miembros (1Co 12:12–27) articula la eclesiología paulina: la Iglesia es un organismo vivo cuya unidad proviene del Espíritu y cuya diversidad funcional es necesaria —'el ojo no puede decir a la mano: no te necesito' (1Co 12:21).",
+              "en": "The image of the body with many members (1Cor 12:12–27) articulates Pauline ecclesiology: the Church is a living organism whose unity comes from the Spirit and whose functional diversity is necessary — 'the eye cannot say to the hand: I have no need of you' (1Cor 12:21).",
+              "pt": "A imagem do corpo com muitos membros (1Co 12:12–27) articula a eclesiologia paulina: a Igreja é um organismo vivo cuja unidade provém do Espírito e cuja diversidade funcional é necessária — 'o olho não pode dizer à mão: não preciso de ti' (1Co 12:21)."
+            }
+          },
+          {
+            "Fruto/Fructificación": {
+              "es": "El himno al amor de 1Co 13 presenta el ágape como el 'camino más excelente' (1Co 12:31): sin amor, incluso los dones más espectaculares 'de nada sirven' (1Co 13:3), convirtiendo el amor en el fruto del Espíritu que valida y orienta todo ejercicio carismático.",
+              "en": "The love hymn of 1Cor 13 presents agape as 'the more excellent way' (1Cor 12:31): without love, even the most spectacular gifts 'profit nothing' (1Cor 13:3), making love the fruit of the Spirit that validates and directs every charismatic exercise.",
+              "pt": "O hino ao amor de 1Co 13 apresenta o ágape como o 'caminho mais excelente' (1Co 12:31): sem amor, até os dons mais espetaculares 'nada aproveitam' (1Co 13:3), tornando o amor o fruto do Espírito que valida e orienta todo exercício carismático."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 15,
@@ -1253,7 +1570,61 @@
         "pt": "Paulo transmite o querigma apostólico mais antigo do NT (1Co 15:3–8) como fundamento de toda a fé cristã, e anuncia que a ressurreição de Cristo como primícias (1Co 15:20) garante a ressurreição futura de todos os crentes, fazendo da escatologia o fundamento da ética presente (1Co 15:58)."
       },
       "versiculoClave": "1Co 15:20",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 2:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Gn 2:7 en 1Co 15:45 —'el primer hombre Adán fue hecho alma viviente'— para establecer la tipología de los dos Adanes: el primer Adán formado del polvo recibió vida natural; el último Adán, Cristo resucitado, se convirtió en 'espíritu vivificante', mostrando que la resurrección corporal de Cristo es el cumplimiento del propósito creacional para el que el primer hombre fue formado.",
+            "en": "Paul cites Gen 2:7 in 1 Cor 15:45 — 'the first man Adam became a living being' — to establish the two-Adam typology: the first Adam formed from dust received natural life; the last Adam, the risen Christ, became 'a life-giving spirit,' showing that Christ's bodily resurrection is the fulfillment of the creational purpose for which the first man was formed.",
+            "pt": "Paulo cita Gn 2:7 em 1Co 15:45 — 'o primeiro homem Adão tornou-se alma vivente' — para estabelecer a tipologia dos dois Adões: o primeiro Adão formado do pó recebeu vida natural; o último Adão, o Cristo ressuscitado, tornou-se 'espírito vivificante', mostrando que a ressurreição corporal de Cristo é o cumprimento do propósito criacional para o qual o primeiro homem foi formado."
+          }
+        },
+        {
+          "ref": "Is 25:8",
+          "tipo": "cita",
+          "nota": {
+            "es": "El grito triunfal de 1Co 15:54 —'sorbida es la muerte en victoria'— cita Is 25:8 ('destruirá a la muerte para siempre'), la gran promesa del banquete escatológico de Sión donde Dios 'enjugará las lágrimas de todos los rostros'; Pablo la aplica al momento de la resurrección cuando el cuerpo mortal se revista de inmortalidad, cumpliendo así la esperanza central del AT.",
+            "en": "The triumphal cry of 1 Cor 15:54 — 'death is swallowed up in victory' — cites Isa 25:8 ('he will swallow up death forever'), the great promise of the eschatological Zion banquet where God 'will wipe away tears from all faces'; Paul applies it to the moment of resurrection when the mortal body puts on immortality, thereby fulfilling the central hope of the OT.",
+            "pt": "O clamor triunfal de 1Co 15:54 — 'a morte foi absorvida na vitória' — cita Is 25:8 ('devorará a morte para sempre'), a grande promessa do banquete escatológico de Sião onde Deus 'enxugará as lágrimas de todos os rostos'; Paulo a aplica ao momento da ressurreição quando o corpo mortal se revestir de imortalidade, cumprindo assim a esperança central do AT."
+          }
+        },
+        {
+          "ref": "Os 13:14",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Os 13:14 en 1Co 15:55 —'¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?'— transformando lo que en Oseas era una amenaza de juicio sobre Israel en un grito de victoria pascual: la resurrección de Cristo convierte la amenaza del Seol en rendición de la muerte ante el poder del evangelio.",
+            "en": "Paul cites Hos 13:14 in 1 Cor 15:55 — 'O death, where is your sting? O grave, where is your victory?' — transforming what in Hosea was a threat of judgment against Israel into a Paschal shout of victory: Christ's resurrection turns the Sheol threat into death's surrender before the power of the gospel.",
+            "pt": "Paulo cita Os 13:14 em 1Co 15:55 — 'Ó morte, onde está o teu aguilhão? Ó sepulcro, onde está a tua vitória?' — transformando o que em Oseias era uma ameaça de julgamento sobre Israel em um grito de vitória pascal: a ressurreição de Cristo transforma a ameaça do Sheol na rendição da morte diante do poder do evangelho."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Resurrección": {
+            "es": "Pablo transmite el kerigma más antiguo del NT (1Co 15:3–8) con Cristo resucitado como primicias de los que durmieron (1Co 15:20), estableciendo que la resurrección corporal de Cristo es el fundamento ontológico del evangelio: 'si Cristo no resucitó, vana es vuestra fe' (1Co 15:17).",
+            "en": "Paul transmits the oldest NT kerygma (1Cor 15:3–8) with the risen Christ as the firstfruits of those who have died (1Cor 15:20), establishing that Christ's bodily resurrection is the ontological foundation of the gospel: 'if Christ has not been raised, your faith is futile' (1Cor 15:17).",
+            "pt": "Paulo transmite o kerigma mais antigo do NT (1Co 15:3–8) com Cristo ressurrecto como primícias dos que dormiram (1Co 15:20), estabelecendo que a ressurreição corporal de Cristo é o fundamento ontológico do evangelho: 'se Cristo não ressuscitou, é vã a vossa fé' (1Co 15:17)."
+          }
+        },
+        "secundarios": [
+          {
+            "Último Adán": {
+              "es": "Pablo desarrolla la tipología de los dos Adanes en 1Co 15:22,45–49: 'como en Adán todos mueren, también en Cristo todos serán vivificados'; el primer Adán, alma viviente del polvo (Gn 2:7), prefigura al último Adán, espíritu vivificante que garantiza la resurrección de los suyos.",
+              "en": "Paul develops the two-Adam typology in 1Cor 15:22,45–49: 'as in Adam all die, so also in Christ shall all be made alive'; the first Adam, a living soul from the dust (Gen 2:7), prefigures the last Adam, a life-giving spirit who guarantees the resurrection of his own.",
+              "pt": "Paulo desenvolve a tipologia dos dois Adões em 1Co 15:22,45–49: 'como em Adão todos morrem, assim também em Cristo todos serão vivificados'; o primeiro Adão, alma vivente do pó (Gn 2:7), prefigura o último Adão, espírito vivificante que garante a ressurreição dos seus."
+            }
+          },
+          {
+            "Segunda Venida": {
+              "es": "La resurrección corporal de los creyentes ocurrirá en la parusía de Cristo (1Co 15:23): 'en un momento, en un abrir y cerrar de ojos' los muertos resucitarán incorruptibles y los vivos serán transformados (1Co 15:51–52), derrota definitiva de la muerte como último enemigo (1Co 15:26).",
+              "en": "The bodily resurrection of believers will occur at Christ's parousia (1Cor 15:23): 'in a moment, in the twinkling of an eye' the dead will be raised imperishable and the living transformed (1Cor 15:51–52), the definitive defeat of death as the last enemy (1Cor 15:26).",
+              "pt": "A ressurreição corporal dos crentes ocorrerá na parusia de Cristo (1Co 15:23): 'num momento, num abrir e fechar de olhos' os mortos ressuscitarão incorruptíveis e os vivos serão transformados (1Co 15:51–52), derrota definitiva da morte como o último inimigo (1Co 15:26)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 16,
@@ -1274,7 +1645,54 @@
         "pt": "Paulo ordena a coleta sistemática e semanal para os santos de Jerusalém (1Co 16:1–4), instituindo um modelo de solidariedade econômica intercongregacional que reflete a unidade do corpo de Cristo além das fronteiras geográficas e culturais."
       },
       "versiculoClave": "1Co 16:13",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 15:25–28",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La colecta para los santos de Jerusalén que Pablo ordena en 1Co 16:1–4 es la misma iniciativa que desarrolla teológicamente en Ro 15:25–28, donde la describe como 'servicio a los santos de Jerusalén' y como la deuda de amor de los gentiles hacia quienes les compartieron los bienes espirituales, mostrando la solidaridad del cuerpo de Cristo sin fronteras étnicas.",
+            "en": "The collection for the saints in Jerusalem that Paul orders in 1 Cor 16:1–4 is the same initiative he develops theologically in Rom 15:25–28, where he describes it as 'ministry to the saints in Jerusalem' and as the debt of love from Gentiles toward those who shared their spiritual goods, showing the solidarity of Christ's body across ethnic boundaries.",
+            "pt": "A coleta para os santos de Jerusalém que Paulo ordena em 1Co 16:1–4 é a mesma iniciativa que desenvolve teologicamente em Rm 15:25–28, onde a descreve como 'ministério aos santos de Jerusalém' e como a dívida de amor dos gentios para com aqueles que lhes compartilharam os bens espirituais, mostrando a solidariedade do corpo de Cristo sem fronteiras étnicas."
+          }
+        },
+        {
+          "ref": "2Co 9:6–15",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La instrucción lacónica de 1Co 16:1–4 sobre la colecta se amplía en 2Co 9:6–15, donde Pablo desarrolla la teología de la dadivosidad: 'el que siembra escasamente, escasamente también segará; y el que siembra generosamente, generosamente también segará' (2Co 9:6), vinculando la generosidad material con la promesa de la siembra y la cosecha del AT.",
+            "en": "The brief instruction of 1 Cor 16:1–4 on the collection is expanded in 2 Cor 9:6–15, where Paul develops the theology of generosity: 'whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully' (2 Cor 9:6), linking material generosity to the OT sowing-and-harvesting promise.",
+            "pt": "A instrução lacônica de 1Co 16:1–4 sobre a coleta é ampliada em 2Co 9:6–15, onde Paulo desenvolve a teologia da dadivosidade: 'quem semeia moderadamente, moderadamente também ceifará; quem semeia em abundância, em abundância também ceifará' (2Co 9:6), vinculando a generosidade material à promessa veterotestamentária da semeadura e da colheita."
+          }
+        },
+        {
+          "ref": "Ap 22:20",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La aclamación litúrgica aramea 'Maranata' —'Ven, Señor'— de 1Co 16:22 es la misma oración que cierra el Apocalipsis en griego: 'Ven, Señor Jesús' (Ap 22:20), revelando que la expectativa de la parusía no es una innovación tardía sino la más antigua oración litúrgica de la iglesia apostólica, transmitida del arameo judeocristiano original al griego de las iglesias paulinas.",
+            "en": "The Aramaic liturgical acclamation 'Maranatha' — 'Come, Lord' — of 1 Cor 16:22 is the same prayer that closes Revelation in Greek: 'Come, Lord Jesus' (Rev 22:20), revealing that the expectation of the parousia is not a late innovation but the oldest liturgical prayer of the apostolic church, transmitted from the original Judeo-Christian Aramaic to the Greek of the Pauline churches.",
+            "pt": "A aclamação litúrgica aramaica 'Maranata' — 'Vem, Senhor' — de 1Co 16:22 é a mesma oração que fecha o Apocalipse em grego: 'Vem, Senhor Jesus' (Ap 22:20), revelando que a expectativa da parusia não é uma inovação tardia, mas a mais antiga oração litúrgica da igreja apostólica, transmitida do aramaico judaico-cristão original para o grego das igrejas paulinas."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "La colecta semanal para los santos de Jerusalén (1Co 16:1–4) expresa la unidad del cuerpo de Cristo más allá de fronteras étnicas: las iglesias gentiles de Corinto y Macedonia sostienen materialmente a la comunidad judeocristiana, realizando la unidad de Israel e Iglesia en Cristo.",
+            "en": "The weekly collection for the saints in Jerusalem (1Cor 16:1–4) expresses the unity of Christ's body beyond ethnic boundaries: the Gentile churches of Corinth and Macedonia materially support the Jewish-Christian community, realizing the unity of Israel and Church in Christ.",
+            "pt": "A coleta semanal para os santos de Jerusalém (1Co 16:1–4) expressa a unidade do corpo de Cristo além das fronteiras étnicas: as igrejas gentias de Corinto e Macedônia sustentam materialmente a comunidade judaico-cristã, realizando a unidade de Israel e Igreja em Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Segunda Venida": {
+              "es": "La aclamación litúrgica aramea 'Maranata' —'Ven, Señor' (1Co 16:22)— es la oración más antigua del NT y expresa la expectativa central de la iglesia apostólica: la venida del Señor como el evento que culminará la historia redentora y vindicará a los santos.",
+              "en": "The Aramaic liturgical acclamation 'Maranatha' — 'Come, Lord' (1Cor 16:22) — is the oldest prayer in the NT and expresses the central expectation of the apostolic church: the Lord's coming as the event that will consummate redemptive history and vindicate the saints.",
+              "pt": "A aclamação litúrgica aramaica 'Maranata' — 'Vem, Senhor' (1Co 16:22) — é a oração mais antiga do NT e expressa a expectativa central da igreja apostólica: a vinda do Senhor como o evento que consumará a história redentora e vindicará os santos."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [
