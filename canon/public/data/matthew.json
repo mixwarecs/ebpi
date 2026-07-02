@@ -2472,7 +2472,32 @@
             "pt": "O nascimento em Belém cumpre a profecia do governante que sairá da cidade de Davi."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "La genealogía tripartita (Mt 1:1–17) y los cuatro cumplimientos proféticos establecen a Jesús como el Mesías prometido, Hijo de David e Hijo de Abraham, cuyo nacimiento de la virgen cumple Is 7:14 (Mt 1:22–23).",
+            "en": "The tripartite genealogy (Matt 1:1–17) and four prophetic fulfillments establish Jesus as the promised Messiah, Son of David and Son of Abraham, whose virgin birth fulfills Isa 7:14 (Matt 1:22–23).",
+            "pt": "A genealogia tripartida (Mt 1:1–17) e os quatro cumprimentos proféticos estabelecem Jesus como o Messias prometido, Filho de Davi e Filho de Abraão, cujo nascimento da virgem cumpre Is 7:14 (Mt 1:22–23)."
+          }
+        },
+        "secundarios": [
+          {
+            "Verdadero Israel": {
+              "es": "A huida ao Egito e o retorno recapitulam a história de Israel: como Israel saiu do Egito, o Filho sai do Egito cumprindo Os 11:1 (Mt 2:15), mostrando que Jesús es el Israel verdadero.",
+              "en": "The flight to Egypt and the return recapitulate Israel's history: as Israel came out of Egypt, the Son comes out of Egypt, fulfilling Hos 11:1 (Matt 2:15), showing Jesus to be the true Israel.",
+              "pt": "A fuga para o Egito e o retorno recapitulam a história de Israel: como Israel saiu do Egito, o Filho sai do Egito cumprindo Os 11:1 (Mt 2:15), mostrando que Jesus é o verdadeiro Israel."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Cuatro citas de cumplimiento explícito (Is 7:14; Os 11:1; Jr 31:15; Miq 5:2) anclan cada episodio del nacimiento en la promesa veterotestamentaria, estableciendo el patrón hermenéutico del evangelio.",
+              "en": "Four explicit fulfillment quotations (Isa 7:14; Hos 11:1; Jer 31:15; Mic 5:2) anchor each nativity episode in Old Testament promise, establishing the hermeneutical pattern of the Gospel.",
+              "pt": "Quatro citações de cumprimento explícito (Is 7:14; Os 11:1; Jr 31:15; Miq 5:2) ancoram cada episódio do nascimento na promessa veterotestamentária, estabelecendo o padrão hermenêutico do evangelho."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 3,
@@ -2522,7 +2547,32 @@
             "pt": "O início do ministério na Galileia dos Gentios cumpre a promessa de luz para Zebulom e Naftali."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Verdadero Israel": {
+            "es": "Los cuarenta días de ayuno en el desierto recapitulan los cuarenta años de Israel (Dt 8:2) y Jesús vence a Satanás citando tres veces el Deuteronomio (Mt 4:4,7,10), revirtiendo el fracaso histórico de Israel como el verdadero Israel obediente.",
+            "en": "The forty days of fasting in the wilderness recapitulate Israel's forty years (Deut 8:2) and Jesus defeats Satan by quoting Deuteronomy three times (Matt 4:4,7,10), reversing Israel's historic failure as the true obedient Israel.",
+            "pt": "Os quarenta dias de jejum no deserto recapitulam os quarenta anos de Israel (Dt 8:2) e Jesus vence Satanás citando três vezes o Deuteronômio (Mt 4:4,7,10), revertendo o fracasso histórico de Israel como o verdadeiro Israel obediente."
+          }
+        },
+        "secundarios": [
+          {
+            "Espíritu Santo": {
+              "es": "El Espíritu desciende sobre Jesús como paloma en el bautismo (Mt 3:16), consagrándolo como Siervo ungido sobre quien Yahvé pone su Espíritu conforme a Is 42:1, e inmediatamente lo guía al desierto (Mt 4:1).",
+              "en": "The Spirit descends on Jesus as a dove at the baptism (Matt 3:16), consecrating him as the anointed Servant on whom Yahweh places his Spirit per Isa 42:1, and immediately leads him into the wilderness (Matt 4:1).",
+              "pt": "O Espírito desce sobre Jesus como pomba no batismo (Mt 3:16), consagrando-o como o Servo ungido sobre quem Javé coloca seu Espírito conforme Is 42:1, e imediatamente o conduz ao deserto (Mt 4:1)."
+            }
+          },
+          {
+            "Reino de Dios": {
+              "es": "El inicio del ministerio galileo se centra en la proclamación 'Arrepentíos, porque el reino de los cielos se ha acercado' (Mt 4:17), repitiendo literalmente el mensaje de Juan y abriendo la era del cumplimiento escatológico.",
+              "en": "The launch of Galilean ministry centers on the proclamation 'Repent, for the kingdom of heaven is at hand' (Matt 4:17), repeating John's message verbatim and opening the era of eschatological fulfillment.",
+              "pt": "O início do ministério galileu centra-se na proclamação 'Arrependei-vos, porque o reino dos céus está próximo' (Mt 4:17), repetindo literalmente a mensagem de João e abrindo a era do cumprimento escatológico."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -2563,7 +2613,32 @@
             "pt": "Jesus sobe ao monte como Moisés ao Sinai, mas promulga a lei com autoridade própria como o próprio Deus."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "Jesús declara que no vino a abolir la ley sino a cumplirla en su plenitud (Mt 5:17) y con las seis antítesis ('pero yo os digo') revela el sentido espiritual pleno de la Torá, internalizando sus exigencias en el corazón conforme a Jr 31:33.",
+            "en": "Jesus declares he came not to abolish the law but to fulfill it completely (Matt 5:17) and with the six antitheses ('but I say to you') reveals the law's full spiritual meaning, internalizing its demands in the heart per Jer 31:33.",
+            "pt": "Jesus declara que não veio abolir a lei, mas cumpri-la plenamente (Mt 5:17) e com as seis antíteses ('mas eu vos digo') revela o sentido espiritual pleno da Torá, internalizando suas exigências no coração conforme Jr 31:33."
+          }
+        },
+        "secundarios": [
+          {
+            "Reino de Dios": {
+              "es": "Las Bienaventuranzas (Mt 5:3–12) definen el perfil del ciudadano del reino de los cielos y cada antítesis aplica la ética del reino a dominios concretos de la vida, mostrando que el Sermón es la constitución del pueblo del reino.",
+              "en": "The Beatitudes (Matt 5:3–12) define the profile of the kingdom-of-heaven citizen, and each antithesis applies the kingdom's ethic to concrete life domains, showing the Sermon to be the constitution of the kingdom people.",
+              "pt": "As Bem-aventuranças (Mt 5:3–12) definem o perfil do cidadão do reino dos céus, e cada antítese aplica a ética do reino a domínios concretos da vida, mostrando que o Sermão é a constituição do povo do reino."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "Como nuevo Moisés que sube al monte (Mt 5:1), Jesús promulga la ley del nuevo pacto con autoridad propia ('pero yo os digo'), articulando el cumplimiento de la promesa de Jr 31:33 de escribir la ley en el corazón.",
+              "en": "As the new Moses who ascends the mountain (Matt 5:1), Jesus promulgates the new covenant's law with his own authority ('but I say to you'), articulating the fulfillment of Jer 31:33's promise to write the law on the heart.",
+              "pt": "Como novo Moisés que sobe ao monte (Mt 5:1), Jesus promulga a lei da nova aliança com autoridade própria ('mas eu vos digo'), articulando o cumprimento da promessa de Jr 31:33 de escrever a lei no coração."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 8,
@@ -2604,7 +2679,32 @@
             "pt": "O domínio de Jesus sobre o mar da Galileia evoca a soberania de Javé sobre as águas nos Salmos."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "La cadena de diez milagros, interpretada desde Is 53:4 (Mt 8:17), acredita a Jesús como el Mesías-Siervo ungido cuya autoridad sobre enfermedad, demonios y muerte demuestra la llegada del reino prometido.",
+            "en": "The chain of ten miracles, interpreted through Isa 53:4 (Matt 8:17), accredits Jesus as the anointed Messiah-Servant whose authority over sickness, demons, and death demonstrates the arrival of the promised kingdom.",
+            "pt": "A cadeia de dez milagres, interpretada a partir de Is 53:4 (Mt 8:17), credencia Jesus como o Messias-Servo ungido cuja autoridade sobre doenças, demônios e morte demonstra a chegada do reino prometido."
+          }
+        },
+        "secundarios": [
+          {
+            "Siervo Sufriente": {
+              "es": "Mateo cita explícitamente Is 53:4 (Mt 8:17) para vincular las sanidades de Jesús al Siervo que cargó con nuestras enfermedades, anticipando la dimensión expiatoria de su ministerio.",
+              "en": "Matthew explicitly cites Isa 53:4 (Matt 8:17) to link Jesus' healings to the Servant who bore our infirmities, anticipating the atoning dimension of his ministry.",
+              "pt": "Mateus cita explicitamente Is 53:4 (Mt 8:17) para vincular as curas de Jesus ao Servo que carregou nossas enfermidades, antecipando a dimensão expiatória de seu ministério."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "La fe del centurión gentil declarada mayor que la de Israel (Mt 8:10) y el llamado de Mateo el publicano (Mt 9:9) anticipan la redefinición del pueblo de Dios más allá de las fronteras étnicas de Israel.",
+              "en": "The Gentile centurion's faith declared greater than Israel's (Matt 8:10) and the calling of Matthew the tax collector (Matt 9:9) anticipate the redefinition of God's people beyond Israel's ethnic boundaries.",
+              "pt": "A fé do centurião gentio declarada maior do que a de Israel (Mt 8:10) e a chamada de Mateus, o publicano (Mt 9:9), antecipam a redefinição do povo de Deus além das fronteiras étnicas de Israel."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 10,
@@ -2645,7 +2745,32 @@
             "pt": "O aviso de perseguição e rejeição recorda a comissão de Isaías de proclamar a um povo que não ouviria."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "Los Doce son enumerados por nombre como los doce patriarcas de un nuevo Israel (Mt 10:1–4) y enviados primero a las ovejas perdidas de la casa de Israel (Mt 10:6), constituyendo el núcleo apostólico del nuevo pueblo de Dios.",
+            "en": "The Twelve are named as the twelve patriarchs of a new Israel (Matt 10:1–4) and sent first to the lost sheep of the house of Israel (Matt 10:6), forming the apostolic nucleus of God's new people.",
+            "pt": "Os Doze são enumerados como os doze patriarcas de um novo Israel (Mt 10:1–4) e enviados primeiramente às ovelhas perdidas da casa de Israel (Mt 10:6), constituindo o núcleo apostólico do novo povo de Deus."
+          }
+        },
+        "secundarios": [
+          {
+            "Reino de Dios": {
+              "es": "La misión de los Doce es proclamar 'el reino de los cielos se ha acercado' (Mt 10:7) y confirmarlo con señales del reino: sanar enfermos, limpiar leprosos y resucitar muertos (Mt 10:8).",
+              "en": "The Twelve's mission is to proclaim 'the kingdom of heaven is at hand' (Matt 10:7) and confirm it with kingdom signs: healing the sick, cleansing lepers, and raising the dead (Matt 10:8).",
+              "pt": "A missão dos Doze é proclamar 'o reino dos céus está próximo' (Mt 10:7) e confirmá-lo com sinais do reino: curar enfermos, limpar leprosos e ressuscitar mortos (Mt 10:8)."
+            }
+          },
+          {
+            "Profeta/Profecía": {
+              "es": "La advertencia sobre persecución ante gobernadores y reyes (Mt 10:17–18) y la promesa del Espíritu que hablará por ellos (Mt 10:20) ubican a los discípulos en la línea profética de los mensajeros rechazados de Israel.",
+              "en": "The warning about persecution before governors and kings (Matt 10:17–18) and the promise of the Spirit who will speak through them (Matt 10:20) place the disciples in the prophetic line of Israel's rejected messengers.",
+              "pt": "O aviso sobre perseguição diante de governadores e reis (Mt 10:17–18) e a promessa do Espírito que falará por eles (Mt 10:20) colocam os discípulos na linha profética dos mensageiros rejeitados de Israel."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 11,
@@ -2686,7 +2811,32 @@
             "pt": "As obras de Jesus — cegos que veem, coxos que andam — cumprem os sinais do ano de salvação de Is 35."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Siervo Sufriente": {
+            "es": "Mateo cita Is 42:1–4 en su versión más larga del NT (Mt 12:17–21) para interpretar la mansedumbre de Jesús ante el rechazo fariseo como el cumplimiento del Siervo elegido que no contenderá sino que extenderá la justicia a los gentiles.",
+            "en": "Matthew quotes Isa 42:1–4 in its longest NT citation (Matt 12:17–21) to interpret Jesus' gentleness under Pharisaic rejection as the fulfillment of the chosen Servant who will not quarrel but will extend justice to the Gentiles.",
+            "pt": "Mateus cita Is 42:1–4 em sua mais longa citação neotestamentária (Mt 12:17–21) para interpretar a mansidão de Jesus diante da rejeição farisaica como o cumprimento do Servo eleito que não contenderá, mas estenderá a justiça aos gentios."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Los ayes sobre Corazín, Betsaida y Capernaúm (Mt 11:21–24) y la advertencia sobre la blasfemia imperdonable contra el Espíritu (Mt 12:31–32) revelan el juicio divino sobre la incredulidad deliberada de Israel.",
+              "en": "The woes on Chorazin, Bethsaida, and Capernaum (Matt 11:21–24) and the warning about the unforgivable blasphemy against the Spirit (Matt 12:31–32) reveal divine judgment on Israel's deliberate unbelief.",
+              "pt": "Os ais sobre Corazim, Betsaida e Cafarnaum (Mt 11:21–24) e o aviso sobre a blasfêmia imperdoável contra o Espírito (Mt 12:31–32) revelam o juízo divino sobre a incredulidade deliberada de Israel."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "La acción de gracias de Jesús al Padre por revelar las cosas a los pequeños y ocultarlas a los sabios (Mt 11:25–27) afirma la elección soberana como el fundamento del discipulado, y la invitación 'venid a mí' (Mt 11:28) es el llamado eficaz del Hijo.",
+              "en": "Jesus' thanksgiving to the Father for revealing things to the little ones and hiding them from the wise (Matt 11:25–27) affirms sovereign election as the foundation of discipleship, and the invitation 'come to me' (Matt 11:28) is the Son's effectual call.",
+              "pt": "A ação de graças de Jesus ao Pai por revelar as coisas aos pequenos e ocultá-las dos sábios (Mt 11:25–27) afirma a eleição soberana como o fundamento do discipulado, e o convite 'vinde a mim' (Mt 11:28) é o chamado eficaz do Filho."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 13,
@@ -2727,7 +2877,32 @@
             "pt": "Ensinar em parábolas para velar a verdade dos endurecidos recorda a comissão de Isaías de pregar a um povo que não ouviria."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reino de Dios": {
+            "es": "Todas las parábolas del capítulo 13 describen explícitamente 'el reino de los cielos' (Mt 13:11,24,31,33,44,45,47), revelando cómo crece invisiblemente, convive con el mal hasta el juicio final y vale más que todo lo demás.",
+            "en": "All the parables of chapter 13 explicitly describe 'the kingdom of heaven' (Matt 13:11,24,31,33,44,45,47), revealing how it grows invisibly, coexists with evil until the final judgment, and surpasses everything else in value.",
+            "pt": "Todas as parábolas do capítulo 13 descrevem explicitamente 'o reino dos céus' (Mt 13:11,24,31,33,44,45,47), revelando como cresce invisivelmente, coexiste com o mal até o juízo final e supera tudo o mais em valor."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "El misterio del reino es revelado solo a los discípulos: 'A vosotros os es dado conocer los misterios del reino' (Mt 13:11), mientras que a los de fuera se vela cumpliendo Is 6:9–10 (Mt 13:14–15), afirmando la elección como condición de la comprensión espiritual.",
+              "en": "The mystery of the kingdom is revealed only to disciples: 'To you it has been given to know the secrets of the kingdom' (Matt 13:11), while it is veiled to outsiders, fulfilling Isa 6:9–10 (Matt 13:14–15), affirming election as the condition of spiritual understanding.",
+              "pt": "O mistério do reino é revelado apenas aos discípulos: 'A vós é dado conhecer os mistérios do reino' (Mt 13:11), enquanto é velado aos de fora, cumprindo Is 6:9–10 (Mt 13:14–15), afirmando a eleição como condição do entendimento espiritual."
+            }
+          },
+          {
+            "Juicio Final": {
+              "es": "La parábola del trigo y la cizaña (Mt 13:24–30,36–43) enseña que el juicio final separará a los justos de los malos a cargo de los ángeles, y la parábola de la red (Mt 13:47–50) repite la misma separación escatológica.",
+              "en": "The parable of the wheat and weeds (Matt 13:24–30,36–43) teaches that the final judgment will separate the righteous from the wicked by angels, and the parable of the net (Matt 13:47–50) repeats the same eschatological separation.",
+              "pt": "A parábola do trigo e do joio (Mt 13:24–30,36–43) ensina que o juízo final separará os justos dos maus pelos anjos, e a parábola da rede (Mt 13:47–50) repete a mesma separação escatológica."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 14,
@@ -2768,7 +2943,32 @@
             "pt": "A promessa do Filho do Homem que virá em glória (Mt 16:27) antecipa a investidura do Filho do Homem em Dn 7."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "La confesión de Pedro 'Tú eres el Cristo, el Hijo del Dios viviente' (Mt 16:16), reconocida como revelación del Padre, es el clímax cristológico del evangelio y el fundamento sobre el que Jesús promete edificar su Iglesia.",
+            "en": "Peter's confession 'You are the Christ, the Son of the living God' (Matt 16:16), acknowledged as the Father's revelation, is the Christological climax of the Gospel and the foundation on which Jesus promises to build his church.",
+            "pt": "A confissão de Pedro 'Tu és o Cristo, o Filho do Deus vivo' (Mt 16:16), reconhecida como revelação do Pai, é o clímax cristológico do evangelho e o fundamento sobre o qual Jesus promete edificar sua Igreja."
+          }
+        },
+        "secundarios": [
+          {
+            "Gloria de Dios": {
+              "es": "En la transfiguración, el rostro de Jesús resplandece como el sol y sus vestidos se vuelven blancos como la luz (Mt 17:2), manifestando la gloria divina ante Pedro, Jacobo y Juan, mientras la voz del Padre lo confirma como el Hijo amado.",
+              "en": "At the transfiguration, Jesus' face shines like the sun and his garments become as white as light (Matt 17:2), manifesting divine glory before Peter, James, and John, while the Father's voice confirms him as the beloved Son.",
+              "pt": "Na transfiguração, o rosto de Jesus resplandece como o sol e suas vestes ficam brancas como a luz (Mt 17:2), manifestando a glória divina diante de Pedro, Tiago e João, enquanto a voz do Pai o confirma como o Filho amado."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La presencia de Moisés y Elías en la transfiguración (Mt 17:3) confirma que la ley y los profetas convergen en Jesús, a quien la voz del Padre identifica como el profeta como Moisés de Dt 18:15 al decir 'Escuchadle' (Mt 17:5).",
+              "en": "The presence of Moses and Elijah at the transfiguration (Matt 17:3) confirms that the law and prophets converge in Jesus, whom the Father's voice identifies as the prophet like Moses of Deut 18:15 by saying 'Listen to him' (Matt 17:5).",
+              "pt": "A presença de Moisés e Elias na transfiguração (Mt 17:3) confirma que a lei e os profetas convergem em Jesus, a quem a voz do Pai identifica como o profeta como Moisés de Dt 18:15 ao dizer 'Ouvi-o' (Mt 17:5)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 18,
@@ -2800,7 +3000,32 @@
             "pt": "A parábola da ovelha perdida aplica a promessa de Javé de buscar as ovelhas dispersas de Ez 34 à comunidade do reino."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "El cuarto discurso regula la vida de la Iglesia —la palabra ἐκκλησία aparece por segunda vez (Mt 18:17)— mediante disciplina en pasos progresivos (Mt 18:15–17) y la promesa de autoridad de atar y desatar (Mt 18:18), definiendo el nuevo pueblo del pacto.",
+            "en": "The fourth discourse regulates the life of the Church — ἐκκλησία appears for the second time (Matt 18:17) — through progressive-step discipline (Matt 18:15–17) and the authority to bind and loose (Matt 18:18), defining the new covenant people.",
+            "pt": "O quarto discurso regula a vida da Igreja — ἐκκλησία aparece pela segunda vez (Mt 18:17) — por meio de disciplina em etapas progressivas (Mt 18:15–17) e da autoridade de atar e desatar (Mt 18:18), definindo o novo povo da aliança."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "La promesa 'donde dos o tres están reunidos en mi nombre, allí estoy yo en medio de ellos' (Mt 18:20) extiende la presencia de Emanuel (Mt 1:23) a la asamblea del nuevo pacto, haciendo de la Iglesia el lugar de la presencia divina.",
+              "en": "The promise 'where two or three are gathered in my name, there am I among them' (Matt 18:20) extends the Emmanuel presence (Matt 1:23) to the new covenant assembly, making the church the locus of divine presence.",
+              "pt": "A promessa 'onde dois ou três estão reunidos em meu nome, ali estou eu no meio deles' (Mt 18:20) estende a presença de Emanuel (Mt 1:23) à assembleia da nova aliança, tornando a Igreja o lugar da presença divina."
+            }
+          },
+          {
+            "Reconciliación": {
+              "es": "La parábola del siervo despiadado (Mt 18:23–35) fundamenta el perdón entre hermanos en el perdón inmensurable que Dios otorga al deudor, estableciendo la reconciliación como norma inexorable de la vida comunitaria del reino.",
+              "en": "The parable of the unforgiving servant (Matt 18:23–35) grounds forgiveness between brothers in the immeasurable forgiveness God extends to the debtor, establishing reconciliation as the inexorable norm of kingdom community life.",
+              "pt": "A parábola do servo impiedoso (Mt 18:23–35) fundamenta o perdão entre irmãos no perdão imensurável que Deus concede ao devedor, estabelecendo a reconciliação como norma inexorável da vida comunitária do reino."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 19,
@@ -2841,7 +3066,32 @@
             "pt": "Jesus cita Gn 2:24 para ancorar a indissolubilidade do casamento na ordem criacional, acima da casuística fariseia."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sustitución": {
+            "es": "La declaración 'el Hijo del Hombre no vino para ser servido, sino para servir y para dar su vida en rescate por muchos' (Mt 20:28) anticipa la expiación sustitutoria, enmarcada en el lenguaje del Siervo de Is 53:12 que carga los pecados de muchos.",
+            "en": "The declaration 'the Son of Man came not to be served but to serve, and to give his life as a ransom for many' (Matt 20:28) anticipates the substitutionary atonement, framed in the Servant language of Isa 53:12 who bears the sins of many.",
+            "pt": "A declaração 'o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos' (Mt 20:28) antecipa a expiação substitutória, enquadrada na linguagem do Servo de Is 53:12 que carrega os pecados de muitos."
+          }
+        },
+        "secundarios": [
+          {
+            "Matrimonio": {
+              "es": "Jesús restaura el orden creacional del matrimonio citando Gn 2:24 (Mt 19:5), afirmando que la indisolubilidad del matrimonio refleja el diseño original de Dios que la Torá solo toleró temporalmente por la dureza del corazón (Mt 19:8).",
+              "en": "Jesus restores the creational order of marriage by citing Gen 2:24 (Matt 19:5), affirming that the indissolubility of marriage reflects God's original design which the Torah only tolerated temporarily because of hardness of heart (Matt 19:8).",
+              "pt": "Jesus restaura a ordem criacional do casamento citando Gn 2:24 (Mt 19:5), afirmando que a indissolubilidade do casamento reflete o design original de Deus, que a Torá apenas tolerou temporariamente por causa da dureza do coração (Mt 19:8)."
+            }
+          },
+          {
+            "Redención/Rescate": {
+              "es": "La parábola de los obreros de la viña (Mt 20:1–16) ilustra la gracia soberana que recompensa a los últimos igual que a los primeros, revelando la lógica redentora del reino que opera por la generosidad de Dios, no por el mérito humano.",
+              "en": "The parable of the vineyard laborers (Matt 20:1–16) illustrates sovereign grace rewarding the last the same as the first, revealing the kingdom's redemptive logic that operates by God's generosity, not human merit.",
+              "pt": "A parábola dos trabalhadores da vinha (Mt 20:1–16) ilustra a graça soberana que recompensa os últimos igualmente aos primeiros, revelando a lógica redentora do reino que opera pela generosidade de Deus, não pelo mérito humano."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 21,
@@ -2891,7 +3141,32 @@
             "pt": "Jesus cita Jr 7:11 para denunciar que o templo se tornou covil de ladrões."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Realeza/Trono de David": {
+            "es": "La entrada triunfal de Jesús en Jerusalén sobre un asno cumpliendo Zac 9:9 (Mt 21:4–5) lo presenta como el rey manso de Sión, y las multitudes lo aclaman con el hosanna mesiánico de Sal 118:25–26, reconociendo al Hijo de David.",
+            "en": "Jesus' triumphal entry into Jerusalem on a donkey fulfilling Zech 9:9 (Matt 21:4–5) presents him as Zion's humble king, and the crowds acclaim him with the messianic hosanna of Ps 118:25–26, recognizing the Son of David.",
+            "pt": "A entrada triunfal de Jesus em Jerusalém sobre um jumento, cumprindo Zc 9:9 (Mt 21:4–5), o apresenta como o rei manso de Sião, e as multidões o aclamam com o hosana messiânico de Sl 118:25–26, reconhecendo o Filho de Davi."
+          }
+        },
+        "secundarios": [
+          {
+            "Templo/Tabernáculo": {
+              "es": "La purificación del templo citando Is 56:7 y Jr 7:11 (Mt 21:12–13) y la parábola de los labradores malvados (Mt 21:33–41) revelan que el templo corrompido será juzgado y reemplazado por la piedra angular rechazada (Sal 118:22–23).",
+              "en": "The temple cleansing quoting Isa 56:7 and Jer 7:11 (Matt 21:12–13) and the parable of the wicked tenants (Matt 21:33–41) reveal that the corrupted temple will be judged and replaced by the rejected cornerstone (Ps 118:22–23).",
+              "pt": "A purificação do templo citando Is 56:7 e Jr 7:11 (Mt 21:12–13) e a parábola dos lavradores maus (Mt 21:33–41) revelam que o templo corrompido será julgado e substituído pela pedra angular rejeitada (Sl 118:22–23)."
+            }
+          },
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Los siete ayes contra escribas y fariseos (Mt 23:13–36) y el lamento sobre Jerusalén (Mt 23:37–39) revelan el juicio divino sobre los líderes de Israel que rechazaron al Mesías y sobre la ciudad que mata a los profetas.",
+              "en": "The seven woes against scribes and Pharisees (Matt 23:13–36) and the lament over Jerusalem (Matt 23:37–39) reveal divine judgment on Israel's leaders who rejected the Messiah and on the city that kills the prophets.",
+              "pt": "Os sete ais contra escribas e fariseus (Mt 23:13–36) e o lamento sobre Jerusalém (Mt 23:37–39) revelam o juízo divino sobre os líderes de Israel que rejeitaram o Messias e sobre a cidade que mata os profetas."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 24,
@@ -2932,7 +3207,32 @@
             "pt": "A abominação da desolação (Mt 24:15) retoma a profecia das setenta semanas sobre a profanação do templo."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Segunda Venida": {
+            "es": "El discurso completo responde a las señales de la venida de Cristo (Mt 24:3) y culmina con la descripción de su parusía gloriosa sobre las nubes del cielo (Mt 24:30), enmarcada en la investidura del Hijo del Hombre de Dn 7:13–14.",
+            "en": "The entire discourse responds to the signs of Christ's coming (Matt 24:3) and culminates in the description of his glorious parousia on the clouds of heaven (Matt 24:30), framed by the investiture of the Son of Man in Dan 7:13–14.",
+            "pt": "O discurso inteiro responde aos sinais da vinda de Cristo (Mt 24:3) e culmina na descrição de sua vinda gloriosa sobre as nuvens do céu (Mt 24:30), enquadrada pela investidura do Filho do Homem em Dn 7:13–14."
+          }
+        },
+        "secundarios": [
+          {
+            "Juicio Final": {
+              "es": "El juicio de las ovejas y los cabritos (Mt 25:31–46) describe el juicio escatológico del Hijo del Hombre sentado en el trono de su gloria, donde todas las naciones serán separadas según la compasión mostrada a los más pequeños.",
+              "en": "The judgment of the sheep and goats (Matt 25:31–46) describes the eschatological judgment of the Son of Man seated on his glorious throne, where all nations will be separated according to the compassion shown to the least of his brothers.",
+              "pt": "O juízo das ovelhas e dos cabritos (Mt 25:31–46) descreve o juízo escatológico do Filho do Homem sentado no trono de sua glória, onde todas as nações serão separadas conforme a compaixão demonstrada para com os mais pequeninos."
+            }
+          },
+          {
+            "Hijo del Hombre": {
+              "es": "El título 'Hijo del Hombre' aparece repetidamente en este discurso (Mt 24:27,30,37,39,44; Mt 25:31) describiendo al que vendrá en las nubes con poder y gran gloria, acumulando las expectativas de Dn 7 sobre el Juez escatológico.",
+              "en": "The title 'Son of Man' appears repeatedly in this discourse (Matt 24:27,30,37,39,44; Matt 25:31) describing the one coming on the clouds with power and great glory, gathering the expectations of Dan 7 about the eschatological Judge.",
+              "pt": "O título 'Filho do Homem' aparece repetidamente neste discurso (Mt 24:27,30,37,39,44; Mt 25:31) descrevendo aquele que virá nas nuvens com poder e grande glória, acumulando as expectativas de Dn 7 sobre o Juiz escatológico."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 26,
@@ -2982,7 +3282,32 @@
             "pt": "Mateus cita Zc 11:12–13 para interpretar as trinta peças de prata de Judas e o campo do oleiro."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacrificio/Expiación": {
+            "es": "La crucifixión de Jesús con la oscuridad cósmica (Mt 27:45), el velo del templo rasgado (Mt 27:51) y el grito de Sal 22:1 (Mt 27:46) presentan su muerte como el sacrificio expiatorio que inaugura el acceso directo al Padre y cumple la promesa del nuevo pacto.",
+            "en": "The crucifixion with cosmic darkness (Matt 27:45), the torn temple veil (Matt 27:51), and the cry of Ps 22:1 (Matt 27:46) present Jesus' death as the atoning sacrifice that inaugurates direct access to the Father and fulfills the new covenant promise.",
+            "pt": "A crucificação com as trevas cósmicas (Mt 27:45), o véu do templo rasgado (Mt 27:51) e o grito de Sl 22:1 (Mt 27:46) apresentam a morte de Jesus como o sacrifício expiatório que inaugura o acesso direto ao Pai e cumpre a promessa da nova aliança."
+          }
+        },
+        "secundarios": [
+          {
+            "Pacto": {
+              "es": "En la Última Cena, Jesús declara que su sangre es 'la del nuevo pacto derramada por muchos para remisión de pecados' (Mt 26:28), instituyendo la cena covenantal que reemplaza la Pascua e inaugura la alianza profetizada en Jr 31:31–34.",
+              "en": "At the Last Supper, Jesus declares his blood is 'that of the new covenant poured out for many for the forgiveness of sins' (Matt 26:28), instituting the covenantal meal that replaces Passover and inaugurates the covenant prophesied in Jer 31:31–34.",
+              "pt": "Na Última Ceia, Jesus declara que seu sangue é 'o da nova aliança derramado por muitos para remissão dos pecados' (Mt 26:28), instituindo a ceia covenantal que substitui a Páscoa e inaugura a aliança profetizada em Jr 31:31–34."
+            }
+          },
+          {
+            "Pascua/Cordero de Dios": {
+              "es": "La Última Cena se celebra en el contexto de la Pascua (Mt 26:17–19), y la sangre de Jesús 'derramada por muchos' reinterpreta el sacrificio pascual, estableciendo a Cristo como el verdadero Cordero cuya muerte libera al pueblo de la esclavitud del pecado.",
+              "en": "The Last Supper is celebrated in the Passover context (Matt 26:17–19), and Jesus' blood 'poured out for many' reinterprets the Passover sacrifice, establishing Christ as the true Lamb whose death delivers the people from slavery to sin.",
+              "pt": "A Última Ceia é celebrada no contexto da Páscoa (Mt 26:17–19), e o sangue de Jesus 'derramado por muitos' reinterpreta o sacrifício pascal, estabelecendo Cristo como o verdadeiro Cordeiro cuja morte liberta o povo da escravidão do pecado."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 28,
@@ -3023,7 +3348,32 @@
             "pt": "A comissão de fazer discípulos de todas as nações estende a bênção abraâmica de Gn 12:3 a toda a humanidade."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Resurrección": {
+            "es": "El ángel declara 'Ha resucitado, como dijo' (Mt 28:6) ante el sepulcro vacío, y el Jesús resucitado se aparece a las mujeres (Mt 28:9) y a los Once en Galilea (Mt 28:16–17), inaugurando la nueva creación y confirmando su victoria sobre la muerte.",
+            "en": "The angel declares 'He has risen, as he said' (Matt 28:6) at the empty tomb, and the risen Jesus appears to the women (Matt 28:9) and to the Eleven in Galilee (Matt 28:16–17), inaugurating the new creation and confirming his victory over death.",
+            "pt": "O anjo declara 'Ressuscitou, como havia dito' (Mt 28:6) ante o sepulcro vazio, e o Jesus ressuscitado se aparece às mulheres (Mt 28:9) e aos Onze na Galileia (Mt 28:16–17), inaugurando a nova criação e confirmando sua vitória sobre a morte."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La declaración 'se me ha dado toda autoridad en el cielo y en la tierra' (Mt 28:18) cumple la investidura del Hijo del Hombre de Dn 7:13–14, y la misión a todas las naciones extiende la bendición abrahénica de Gn 12:3, cerrando el arco promesa-cumplimiento del evangelio.",
+              "en": "The declaration 'all authority in heaven and on earth has been given to me' (Matt 28:18) fulfills the Son of Man's investiture in Dan 7:13–14, and the mission to all nations extends the Abrahamic blessing of Gen 12:3, closing the Gospel's promise-fulfillment arc.",
+              "pt": "A declaração 'toda autoridade no céu e na terra me foi dada' (Mt 28:18) cumpre a investidura do Filho do Homem de Dn 7:13–14, e a missão a todas as nações estende a bênção abraâmica de Gn 12:3, fechando o arco promessa-cumprimento do evangelho."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "La promesa final 'estaré con vosotros todos los días hasta el fin del siglo' (Mt 28:20) cierra el evangelio en arco con 'Emanuel, que significa Dios con nosotros' (Mt 1:23), revelando que la Gran Comisión es sostenida por la presencia perpetua de Cristo.",
+              "en": "The final promise 'I am with you always, to the end of the age' (Matt 28:20) closes the Gospel in an arc with 'Emmanuel, which means God with us' (Matt 1:23), revealing that the Great Commission is sustained by Christ's perpetual presence.",
+              "pt": "A promessa final 'estarei convosco todos os dias até o fim dos séculos' (Mt 28:20) fecha o evangelho em arco com 'Emanuel, que quer dizer Deus conosco' (Mt 1:23), revelando que a Grande Comissão é sustentada pela presença perpétua de Cristo."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [

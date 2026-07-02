@@ -451,7 +451,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 1:1",
@@ -580,7 +580,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 1:7",
@@ -684,7 +684,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 3:2",
@@ -780,7 +780,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 11:4",
@@ -878,7 +878,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 11:16",
@@ -980,7 +980,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 18:33",
@@ -1099,7 +1099,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 1:42",
@@ -1218,7 +1218,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 13:23",
@@ -1328,7 +1328,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 6:70",
@@ -1434,7 +1434,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 1:41",
@@ -1533,7 +1533,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 1:43",
@@ -1637,7 +1637,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 1:46",
@@ -1738,7 +1738,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 19:25",
@@ -1838,7 +1838,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 2:3",
@@ -1948,7 +1948,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 11:21",
@@ -2047,7 +2047,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jn 11:32",
@@ -2462,7 +2462,32 @@
             "pt": "'Cheio de graça e de verdade' (Jo 1:14) traduz o hebraico ḥesed we-emet — 'misericórdia e fidelidade' — que YHWH proclamou como seu nome divino diante de Moisés (Ex 34:6), declarando que a glória do Verbo encarnado é a plenitude da mesma glória do pacto do Sinai."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Presencia de Dios": {
+            "es": "El Logos eterno que estaba 'con Dios' (Jn 1:1) 'habitó entre nosotros' (Jn 1:14), lenguaje que evoca la Shekiná del tabernáculo: Dios tomando residencia permanente en carne humana.",
+            "en": "The eternal Logos who was 'with God' (John 1:1) 'dwelt among us' (John 1:14), tabernacle language evoking the Shekinah: God taking up permanent residence in human flesh.",
+            "pt": "O Logos eterno que estava 'com Deus' (Jo 1:1) 'habitou entre nós' (Jo 1:14), linguagem tabernacular que evoca a Shekiná: Deus estabelecendo residência permanente na carne humana."
+          }
+        },
+        "secundarios": [
+          {
+            "Pascua/Cordero de Dios": {
+              "es": "João Batista proclama 'He aquí el Cordero de Dios que quita el pecado del mundo' (Jn 1:29), identificando a Jesús como cumplimiento del sistema sacrificial pascual desde el inicio del evangelio.",
+              "en": "John the Baptist proclaims 'Behold the Lamb of God who takes away the sin of the world' (John 1:29), identifying Jesus as the fulfillment of the Passover sacrificial system from the opening of the Gospel.",
+              "pt": "João Batista proclama 'Eis o Cordeiro de Deus que tira o pecado do mundo' (Jo 1:29), identificando Jesus como o cumprimento do sistema sacrificial pascal desde o início do evangelho."
+            }
+          },
+          {
+            "Creación/Nueva Creación": {
+              "es": "'En el principio era el Verbo' (Jn 1:1) replantea deliberadamente Gn 1:1, presentando a Cristo como el agente de la creación original y, mediante la encarnación, el iniciador de la nueva creación (Jn 1:3,10).",
+              "en": "'In the beginning was the Word' (John 1:1) deliberately reframes Gen 1:1, presenting Christ as the agent of the original creation and, through the incarnation, the initiator of the new creation (John 1:3,10).",
+              "pt": "'No princípio era o Verbo' (Jo 1:1) reescreve deliberadamente Gn 1:1, apresentando Cristo como agente da criação original e, mediante a encarnação, o iniciador de uma nova criação (Jo 1:3,10)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 2,
@@ -2512,7 +2537,32 @@
             "pt": "Nascer 'de água e do Espírito' (Jo 3:5) cumpre a promessa de Ez 36:25-27: Deus aspergiria água limpa sobre Israel, removeria o coração de pedra e colocaria seu Espírito por dentro, produzindo a regeneração que o novo nascimento joanino descreve."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Corazón Nuevo/Nuevo Nacimiento": {
+            "es": "Jesús declara a Nicodemo que nadie puede ver el reino de Dios sin nacer de nuevo (Jn 3:3,7), y que este nacimiento viene 'del agua y del Espíritu' (Jn 3:5), cumpliendo la promesa de Ez 36:26 de un corazón nuevo.",
+            "en": "Jesus tells Nicodemus that no one can see the kingdom of God without being born again (John 3:3,7), and that this birth comes 'of water and the Spirit' (John 3:5), fulfilling Ezekiel 36:26's promise of a new heart.",
+            "pt": "Jesus declara a Nicodemos que ninguém pode ver o reino de Deus sem nascer de novo (Jo 3:3,7), e que este nascimento vem 'da água e do Espírito' (Jo 3:5), cumprindo a promessa de Ez 36:26 de um coração novo."
+          }
+        },
+        "secundarios": [
+          {
+            "Verdadero Templo": {
+              "es": "Jesús declara su cuerpo como el verdadero templo que será destruido y levantado en tres días (Jn 2:19–21), desplazando el templo de piedra como centro de la presencia divina.",
+              "en": "Jesus declares his body to be the true temple that will be destroyed and raised in three days (John 2:19–21), displacing the stone temple as the center of divine presence.",
+              "pt": "Jesus declara que seu corpo é o verdadeiro templo que será destruído e levantado em três dias (Jo 2:19–21), deslocando o templo de pedra como centro da presença divina."
+            }
+          },
+          {
+            "Sacrificio/Expiación": {
+              "es": "La purificación del templo (Jn 2:13–22) anticipa el reemplazo del sistema sacrificial con el cuerpo de Cristo como el único lugar donde el pecado es quitado (Jn 2:19; cf. Jn 1:29).",
+              "en": "The temple cleansing (John 2:13–22) anticipates the replacement of the sacrificial system with Christ's body as the only place where sin is removed (John 2:19; cf. John 1:29).",
+              "pt": "A purificação do templo (Jo 2:13–22) antecipa a substituição do sistema sacrificial pelo corpo de Cristo como o único lugar onde o pecado é removido (Jo 2:19; cf. Jo 1:29)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 4,
@@ -2562,7 +2612,32 @@
             "pt": "A água que jorrou da rocha em Refidim quando Moisés a feriu (Ex 17:6) tipifica Cristo de quem flui a água viva (1Co 10:4). A samaritana busca água no poço de Jacó; Jesus revela que ele mesmo é a rocha espiritual que dá a água que salta para a vida eterna (Jo 4:14)."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "Jesús se revela explícitamente como el Mesías a la mujer samaritana: 'Yo soy, el que habla contigo' (Jn 4:26), la declaración mesiánica más directa del evangelio hasta este punto.",
+            "en": "Jesus explicitly reveals himself as the Messiah to the Samaritan woman: 'I who speak to you am he' (John 4:26), the most direct messianic self-identification in the Gospel to this point.",
+            "pt": "Jesus se revela explicitamente como o Messias à mulher samaritana: 'Eu sou, eu que falo contigo' (Jo 4:26), a identificação messiânica mais direta do evangelho até este ponto."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "Jesús revela que la adoración verdadera no está atada a Jerusalén ni al Gerizim, sino que se da 'en espíritu y en verdad' (Jn 4:21–24), redefiniendo el lugar de la presencia divina en torno a su propia persona.",
+              "en": "Jesus reveals that true worship is no longer tied to Jerusalem or Gerizim but is offered 'in spirit and in truth' (John 4:21–24), redefining the locus of divine presence around his own person.",
+              "pt": "Jesus revela que a adoração verdadeira não está mais ligada a Jerusalém ou ao Gerizim, mas se dá 'em espírito e em verdade' (Jo 4:21–24), redefinindo o lugar da presença divina em torno da sua própria pessoa."
+            }
+          },
+          {
+            "Vida Eterna": {
+              "es": "Jesús ofrece agua viva que se convierte en 'un manantial de agua que brota para vida eterna' (Jn 4:14), presentando la vida eterna no como recompensa futura sino como realidad presente que surge de la unión con él.",
+              "en": "Jesus offers living water that becomes 'a spring of water welling up to eternal life' (John 4:14), presenting eternal life not as a future reward but as a present reality that springs from union with him.",
+              "pt": "Jesus oferece água viva que se torna 'uma fonte de água que jorra para a vida eterna' (Jo 4:14), apresentando a vida eterna não como recompensa futura, mas como realidade presente que brota da união com ele."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -2612,7 +2687,32 @@
             "pt": "A visão do vale dos ossos secos (Ez 37:1-14) tipifica o poder vivificador do Espírito de Deus sobre a morte. Jesus reivindica esse mesmo poder em Jo 5:21-26: assim como o Pai ressuscita os mortos e dá vida, também o Filho dá vida a quem quer, sendo o agente escatológico da ressurreição."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Vida Eterna": {
+            "es": "Jesús reclama autoridad para dar vida a quienes él quiere (Jn 5:21) y declara que quien oye su palabra y cree ya pasó de muerte a vida (Jn 5:24), y que todos en los sepulcros oirán su voz y resucitarán (Jn 5:28–29).",
+            "en": "Jesus claims authority to give life to whom he will (John 5:21) and declares that those who hear his word and believe have already passed from death to life (John 5:24), and that all in the tombs will hear his voice and come out (John 5:28–29).",
+            "pt": "Jesus reivindica autoridade para dar vida a quem quer (Jo 5:21) e declara que quem ouve sua palavra e crê já passou da morte para a vida (Jo 5:24), e que todos nos sepulcros ouvirão sua voz e ressuscitarão (Jo 5:28–29)."
+          }
+        },
+        "secundarios": [
+          {
+            "Juicio Final": {
+              "es": "El Padre ha encomendado todo el juicio al Hijo (Jn 5:22,27) para que la hora llegue en que todos saldrán de los sepulcros: los que hicieron el bien para resurrección de vida, y los que hicieron el mal para resurrección de condenación (Jn 5:29).",
+              "en": "The Father has entrusted all judgment to the Son (John 5:22,27), so that the hour is coming when all in the tombs will come out — those who did good to the resurrection of life, those who did evil to the resurrection of judgment (John 5:29).",
+              "pt": "O Pai entregou todo o julgamento ao Filho (Jo 5:22,27), de modo que a hora vem em que todos nos sepulcros sairão — os que fizeram o bem para a ressurreição da vida, os que praticaram o mal para a ressurreição da condenação (Jo 5:29)."
+            }
+          },
+          {
+            "Hijo del Hombre": {
+              "es": "El Padre dio al Hijo del Hombre autoridad para ejecutar el juicio (Jn 5:27), vinculando el título apocalíptico de Dn 7:13–14 con el Jesús histórico que reclama poder de resurrección y juicio en el presente.",
+              "en": "The Father gave the Son of Man authority to execute judgment (John 5:27), linking the apocalyptic title of Dan 7:13–14 with the historical Jesus who now claims resurrection and judicial power in the present.",
+              "pt": "O Pai deu ao Filho do Homem autoridade para executar o julgamento (Jo 5:27), vinculando o título apocalíptico de Dn 7:13–14 com o Jesus histórico que reivindica poder de ressurreição e julgamento no presente."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 6,
@@ -2662,7 +2762,32 @@
             "pt": "Jesus cita Is 54:13 — 'todos serão ensinados por Deus' — em Jo 6:45 para explicar que somente quem o Pai atrai pode vir a ele: a fé no pão da vida é resultado do ensino divino prometido para a era da nova aliança."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Éxodo/Liberación": {
+            "es": "Jesús alimenta a cinco mil (eco del maná en el desierto), camina sobre el mar (eco del Éxodo) y se declara 'el pan vivo que descendió del cielo' (Jn 6:51), contrastando el maná temporal de Moisés con el pan eterno que él mismo provee (Jn 6:32–35).",
+            "en": "Jesus feeds five thousand (echoing the wilderness manna), walks on water (echoing the Exodus sea-crossing), and declares himself 'the living bread that came down from heaven' (John 6:51), contrasting Moses' temporary manna with the eternal bread he himself provides (John 6:32–35).",
+            "pt": "Jesus alimenta cinco mil (eco do maná no deserto), caminha sobre o mar (eco da travessia do Êxodo) e se declara 'o pão vivo que desceu do céu' (Jo 6:51), contrastando o maná temporário de Moisés com o pão eterno que ele mesmo provê (Jo 6:32–35)."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "Todo lo que el Padre le da al Hijo vendrá a él (Jn 6:37), y nadie puede venir al Hijo a menos que el Padre que lo envió lo atraiga (Jn 6:44) — la soberanía divina en la salvación expuesta con claridad singular.",
+              "en": "All that the Father gives to the Son will come to him (John 6:37), and no one can come to the Son unless the Father who sent him draws him (John 6:44) — divine sovereignty in salvation stated with singular clarity.",
+              "pt": "Tudo o que o Pai dá ao Filho virá a ele (Jo 6:37), e ninguém pode vir ao Filho a menos que o Pai que o enviou o atraia (Jo 6:44) — a soberania divina na salvação exposta com clareza singular."
+            }
+          },
+          {
+            "Vida Eterna": {
+              "es": "Comer la carne y beber la sangre del Hijo del Hombre otorga vida eterna y garantiza la resurrección en el último día (Jn 6:54), vinculando la participación en el Hijo con la vida escatológica definitiva.",
+              "en": "Eating the flesh and drinking the blood of the Son of Man grants eternal life and guarantees resurrection on the last day (John 6:54), linking participation in the Son with definitive eschatological life.",
+              "pt": "Comer a carne e beber o sangue do Filho do Homem concede vida eterna e garante a ressurreição no último dia (Jo 6:54), vinculando a participação no Filho com a vida escatológica definitiva."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 7,
@@ -2712,7 +2837,32 @@
             "pt": "'Antes que Abraão existisse, eu sou' (Jo 8:58) não apenas afirma pré-existência, mas evoca o nome divino 'EU SOU' revelado a Moisés (Ex 3:14). Os ouvintes o entenderam como blasfêmia e pegaram pedras, confirmando que reconheceram a reivindicação do nome de YHWH."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Nombre de Dios": {
+            "es": "Jesús pronuncia las declaraciones absolutas 'YO SOY' (ἐγώ εἰμι) sin predicado (Jn 8:24,28,58), culminando en 'antes que Abraham fuese, YO SOY' (Jn 8:58), apropiación directa del nombre divino de Ex 3:14 que provoca el intento de lapidación.",
+            "en": "Jesus utters the absolute 'I AM' (ἐγώ εἰμι) declarations (John 8:24,28,58), culminating in 'before Abraham was, I AM' (John 8:58), a direct appropriation of the divine name from Exod 3:14 that prompts an attempt to stone him.",
+            "pt": "Jesus pronuncia as declarações absolutas 'EU SOU' (ἐγώ εἰμι) sem predicado (Jo 8:24,28,58), culminando em 'antes que Abraão existisse, EU SOU' (Jo 8:58), apropriação direta do nome divino de Êx 3:14 que provoca tentativa de apedrejamento."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "Jesús se declara 'la luz del mundo' (Jn 8:12), la presencia luminosa de la Shekiná que guió a Israel en el desierto (Ex 13:21), ahora encarnada y ofrecida a todo el que le siga.",
+              "en": "Jesus declares himself 'the light of the world' (John 8:12), the luminous Shekinah presence that guided Israel in the wilderness (Exod 13:21), now incarnate and offered to all who follow him.",
+              "pt": "Jesus se declara 'a luz do mundo' (Jo 8:12), a presença luminosa da Shekiná que guiou Israel no deserto (Êx 13:21), agora encarnada e oferecida a todos que o seguem."
+            }
+          },
+          {
+            "Gloria de Dios": {
+              "es": "Jesús no busca su propia gloria sino la del Padre que lo envió (Jn 8:50,54), y el Padre glorifica al Hijo en correspondencia mutua, revelando que la gloria divina compartida es el substrato de toda la controversia cristológica.",
+              "en": "Jesus does not seek his own glory but that of the Father who sent him (John 8:50,54), and the Father glorifies the Son in mutual correspondence, revealing that the shared divine glory is the substrate of all the Christological controversy.",
+              "pt": "Jesus não busca sua própria glória, mas a do Pai que o enviou (Jo 8:50,54), e o Pai glorifica o Filho em correspondência mútua, revelando que a glória divina compartilhada é o substrato de toda a controvérsia cristológica."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 9,
@@ -2762,7 +2912,32 @@
             "pt": "Diante da acusação de blasfêmia, Jesus cita Sl 82:6 — 'eu disse: vós sois deuses' — (Jo 10:34), argumentando a fortiori: se a Escritura chamou 'deuses' aos juízes de Israel a quem a Palavra veio, como blasfema ele — a quem o Pai santificou e enviou — ao dizer que é Filho de Deus?"
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pastor/Rey": {
+            "es": "Jesús se identifica como el Buen Pastor que conoce sus ovejas, da su vida por ellas y tiene otras ovejas fuera del redil (Jn 10:11,14–16), cumpliendo Ez 34 donde Dios promete venir él mismo a pastorear a su rebaño disperso.",
+            "en": "Jesus identifies himself as the Good Shepherd who knows his sheep, lays down his life for them, and has other sheep not of this fold (John 10:11,14–16), fulfilling Ezekiel 34 where God promises to come himself to shepherd his scattered flock.",
+            "pt": "Jesus se identifica como o Bom Pastor que conhece suas ovelhas, dá sua vida por elas e tem outras ovelhas fora deste aprisco (Jo 10:11,14–16), cumprindo Ez 34 onde Deus promete vir ele mesmo pastorear seu rebanho disperso."
+          }
+        },
+        "secundarios": [
+          {
+            "Redención/Rescate": {
+              "es": "El buen pastor da su vida voluntariamente por las ovejas (Jn 10:11,15,17–18) y nadie se la quita — es un acto soberano de amor redentor que anticipa directamente la pasión y establece el precio del rescate.",
+              "en": "The Good Shepherd voluntarily lays down his life for the sheep (John 10:11,15,17–18) and no one takes it from him — a sovereign act of redemptive love that directly anticipates the passion and establishes the ransom price.",
+              "pt": "O Bom Pastor entrega voluntariamente sua vida pelas ovelhas (Jo 10:11,15,17–18) e ninguém a tira dele — ato soberano de amor redentor que antecipa diretamente a paixão e estabelece o preço do resgate."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "Las ovejas de Cristo oyen su voz, él las conoce y ellas le siguen (Jn 10:3,14,27); quienes no creen no son de sus ovejas (Jn 10:26), mostrando que el reconocimiento mutuo entre el pastor y las ovejas es el fundamento de la elección.",
+              "en": "Christ's sheep hear his voice, he knows them, and they follow him (John 10:3,14,27); those who do not believe are not his sheep (John 10:26), showing that the mutual recognition between the shepherd and the sheep is the foundation of election.",
+              "pt": "As ovelhas de Cristo ouvem sua voz, ele as conhece e elas o seguem (Jo 10:3,14,27); os que não creem não são suas ovelhas (Jo 10:26), mostrando que o reconhecimento mútuo entre o pastor e as ovelhas é o fundamento da eleição."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 11,
@@ -2812,7 +2987,32 @@
             "pt": "João cita Is 6:9-10 em Jo 12:40 — 'cegou os olhos deles e endureceu o coração deles' — como segunda Escritura explicando a rejeição: o endurecimento de Israel diante de Jesus é o mesmo julgamento judicial que Isaías foi comissionado a executar contra o Israel incrédulo de sua época."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacrificio/Expiación": {
+            "es": "Caifás profetiza involuntariamente que conviene que un solo hombre muera por el pueblo (Jn 11:50–51); María unge a Jesús para el día de su sepultura (Jn 12:7); Jesús habla de su muerte como la hora de glorificación que atraerá a todos hacia sí (Jn 12:23–24,32).",
+            "en": "Caiaphas unwittingly prophesies that it is expedient for one man to die for the people (John 11:50–51); Mary anoints Jesus for the day of his burial (John 12:7); Jesus speaks of his death as the hour of glorification that will draw all people to himself (John 12:23–24,32).",
+            "pt": "Caifás profetiza involuntariamente que convém que um só homem morra pelo povo (Jo 11:50–51); Maria unge Jesus para o dia da sua sepultura (Jo 12:7); Jesus fala de sua morte como a hora de glorificação que atrairá todos para si (Jo 12:23–24,32)."
+          }
+        },
+        "secundarios": [
+          {
+            "Resurrección": {
+              "es": "La resurrección de Lázaro (Jn 11:43–44) es el gran signo que demuestra que Jesús es 'la resurrección y la vida' (Jn 11:25): quien cree en él, aunque muera, vivirá, y quien vive y cree no morirá jamás.",
+              "en": "The raising of Lazarus (John 11:43–44) is the climactic sign demonstrating that Jesus is 'the resurrection and the life' (John 11:25): whoever believes in him, though he dies, yet shall he live, and whoever lives and believes shall never die.",
+              "pt": "A ressurreição de Lázaro (Jo 11:43–44) é o grande sinal que demonstra que Jesus é 'a ressurreição e a vida' (Jo 11:25): quem crê nele, ainda que morra, viverá, e quem vive e crê jamais morrerá."
+            }
+          },
+          {
+            "Siervo Sufriente": {
+              "es": "El grano de trigo que cae en tierra y muere lleva mucho fruto (Jn 12:24), imagen del Siervo de Is 53 que al entregar su vida como ofrenda por el pecado verá descendencia y prosperará — la muerte como camino hacia la multiplicación.",
+              "en": "The grain of wheat that falls into the earth and dies bears much fruit (John 12:24), evoking the Servant of Isa 53 who, by giving his life as an offering for sin, will see offspring and prosper — death as the path to multiplication.",
+              "pt": "O grão de trigo que cai na terra e morre produz muito fruto (Jo 12:24), evocando o Servo de Is 53 que, ao entregar sua vida como oferta pelo pecado, verá descendência e prosperará — a morte como caminho para a multiplicação."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 13,
@@ -2862,7 +3062,32 @@
             "pt": "A promessa de Jl 2:28-29 — 'derramarei o meu Espírito sobre toda carne' — é o fundamento profético do envio do Paráclito (Jo 14:26; 15:26). O que Pedro citará no Pentecostes (At 2:16-17) como cumprimento do derramamento, João apresenta como a promessa que Jesus antecipa no cenáculo."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Espíritu Santo": {
+            "es": "Jesús promete enviar al Paracleto, 'el Espíritu de verdad' que morará con los discípulos para siempre (Jn 14:16–17), los enseñará todas las cosas y les recordará todo lo que él les dijo (Jn 14:26) — el contenido central del Discurso del Aposento Alto.",
+            "en": "Jesus promises to send the Paraclete, 'the Spirit of truth' who will remain with the disciples forever (John 14:16–17), teach them all things, and remind them of everything Jesus said (John 14:26) — the central content of the Upper Room Discourse.",
+            "pt": "Jesus promete enviar o Parácleto, 'o Espírito da verdade' que permanecerá com os discípulos para sempre (Jo 14:16–17), os ensinará todas as coisas e os lembrará de tudo o que Jesus disse (Jo 14:26) — o conteúdo central do Discurso do Cenáculo."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "Cristo promete no dejar a los suyos como huérfanos y que él volverá (Jn 14:18); el Padre y el Hijo vendrán a morar con quien le ame (Jn 14:23), cumpliendo la promesa del tabernáculo de Dios habitando en medio de su pueblo.",
+              "en": "Christ promises not to leave his disciples as orphans and that he will come to them (John 14:18); the Father and the Son will come and make their home with the one who loves him (John 14:23), fulfilling the tabernacle promise of God dwelling among his people.",
+              "pt": "Cristo promete não deixar os seus como órfãos e que voltará a eles (Jo 14:18); o Pai e o Filho virão e habitarão com quem o ama (Jo 14:23), cumprindo a promessa do tabernáculo de Deus habitando no meio do seu povo."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "El mandamiento nuevo de amarse los unos a los otros como Cristo los amó (Jn 13:34) es la obligación de la comunidad del nuevo pacto y el sello distintivo de los discípulos ante el mundo (Jn 13:35).",
+              "en": "The new commandment to love one another as Christ loved (John 13:34) is the covenant obligation of the new covenant community and the distinguishing mark of the disciples before the world (John 13:35).",
+              "pt": "O mandamento novo de amar uns aos outros como Cristo os amou (Jo 13:34) é a obrigação da comunidade do novo pacto e o sinal distintivo dos discípulos diante do mundo (Jo 13:35)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 15,
@@ -2912,7 +3137,32 @@
             "pt": "A promessa do Consolador que convencerá o mundo de pecado, justiça e julgamento (Jo 16:8-11) é o cumprimento do Espírito que colocaria dentro do povo da nova aliança a sua lei (Ez 36:26-27), transformando os corações e inaugurando a era em que o mundo pode ser confrontado com a verdade de Deus."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Verdadero Israel": {
+            "es": "Jesús se declara 'la vid verdadera' (Jn 15:1), imagen que Israel no logró encarnar (Is 5:1–7; Sal 80:8–16); los discípulos son los sarmientos que solo fructifican permaneciendo en él, redefiniendo la comunidad del pacto en torno a la unión con Cristo.",
+            "en": "Jesus declares himself 'the true vine' (John 15:1), the image Israel failed to embody (Isa 5:1–7; Ps 80:8–16); the disciples are the branches that bear fruit only by abiding in him, redefining the covenant community around union with Christ.",
+            "pt": "Jesus se declara 'a videira verdadeira' (Jo 15:1), imagem que Israel não conseguiu encarnar (Is 5:1–7; Sl 80:8–16); os discípulos são os ramos que frutificam somente permanecendo nele, redefinindo a comunidade do pacto em torno da união com Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Fruto/Fructificación": {
+              "es": "Cristo eligió y designó a los discípulos para que fueran y llevaran fruto permanente (Jn 15:16), vinculando la elección divina con el propósito misional de la comunidad que permanece en la vid.",
+              "en": "Christ chose and appointed the disciples to go and bear fruit that abides (John 15:16), linking divine election to the missional purpose of the community that abides in the vine.",
+              "pt": "Cristo escolheu e designou os discípulos para irem e darem fruto que permaneça (Jo 15:16), vinculando a eleição divina ao propósito missional da comunidade que permanece na videira."
+            }
+          },
+          {
+            "Espíritu Santo": {
+              "es": "El Paracleto convencerá al mundo de pecado, de justicia y de juicio (Jn 16:8) y guiará a los discípulos a toda la verdad (Jn 16:13), continuando la obra de Jesús desde dentro de la comunidad de la vid.",
+              "en": "The Paraclete will convict the world of sin, righteousness, and judgment (John 16:8), and will guide the disciples into all truth (John 16:13), continuing Jesus' work from within the community of the vine.",
+              "pt": "O Parácleto convencerá o mundo de pecado, de justiça e de julgamento (Jo 16:8) e guiará os discípulos a toda a verdade (Jo 16:13), continuando a obra de Jesus de dentro da comunidade da videira."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 17,
@@ -2962,7 +3212,32 @@
             "pt": "'Como tu me enviaste ao mundo, assim eu os enviei ao mundo' (Jo 17:18) cumpre a missão universal do Servo de Is 49:6: 'eu te farei luz das nações, para que a minha salvação chegue até os confins da terra'. A missão dos discípulos é a extensão da missão do Servo."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "La oración de Jn 17 cumple el papel intercesor del sumo sacerdote: Jesús se consagra a sí mismo como sacrificio por sus discípulos (Jn 17:19), intercede por los once (Jn 17:9–19) y por todos los creyentes futuros (Jn 17:20–26).",
+            "en": "The prayer of John 17 fulfills the intercessory role of the high priest: Jesus consecrates himself as a sacrifice for his disciples (John 17:19), intercedes for the eleven (John 17:9–19), and for all future believers (John 17:20–26).",
+            "pt": "A oração de Jo 17 cumpre o papel intercessor do sumo sacerdote: Jesus se consagra como sacrifício por seus discípulos (Jo 17:19), intercede pelos onze (Jo 17:9–19) e por todos os futuros crentes (Jo 17:20–26)."
+          }
+        },
+        "secundarios": [
+          {
+            "Vida Eterna": {
+              "es": "Jesús define la vida eterna en términos de conocimiento relacional: 'que te conozcan a ti, el único Dios verdadero, y a Jesucristo, a quien tú has enviado' (Jn 17:3), situando la vida eterna en la comunión presente con el Padre y el Hijo.",
+              "en": "Jesus defines eternal life in relational terms: 'that they know you, the only true God, and Jesus Christ whom you have sent' (John 17:3), situating eternal life in present communion with the Father and the Son.",
+              "pt": "Jesus define a vida eterna em termos relacionais: 'que te conheçam, o único Deus verdadeiro, e a Jesus Cristo, a quem enviaste' (Jo 17:3), situando a vida eterna na comunhão presente com o Pai e o Filho."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "Jesús ora no solo por los once sino por 'los que han de creer en mí por medio de su palabra' (Jn 17:20), uniendo a la comunidad apostólica con la iglesia futura en una sola comunidad sacerdotal bajo su intercesión.",
+              "en": "Jesus prays not only for the eleven but for 'those who will believe in me through their word' (John 17:20), uniting the apostolic community with the future church in one priestly community under his intercession.",
+              "pt": "Jesus ora não apenas pelos onze, mas por 'aqueles que crerão em mim por meio da sua palavra' (Jo 17:20), unindo a comunidade apostólica com a igreja futura em uma só comunidade sacerdotal sob sua intercessão."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 18,
@@ -3012,7 +3287,32 @@
             "pt": "João cita Zc 12:10 — 'olharão para aquele que traspassaram' — para interpretar a lançada no lado de Jesus (Jo 19:34,37). YHWH prometeu que Israel olharia com luto penitente para aquele que traspassou; João vê esse olhar de fé na contemplação do Cristo crucificado, fonte de água e sangue que fluem de seu lado."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pascua/Cordero de Dios": {
+            "es": "Juan estructura la pasión en torno al calendario pascual: Jesús es condenado a la hora en que los sacerdotes sacrifican los corderos (Jn 19:14); sus huesos no son quebrados (Jn 19:36), cumpliendo la ordenanza de Ex 12:46 que señalaba al Cordero definitivo.",
+            "en": "John structures the passion around the Passover calendar: Jesus is condemned at the hour the priests slaughter the Passover lambs (John 19:14); his bones are not broken (John 19:36), fulfilling the ordinance of Exod 12:46 that pointed to the ultimate Lamb.",
+            "pt": "João estrutura a paixão em torno ao calendário pascal: Jesus é condenado na hora em que os sacerdotes sacrificam os cordeiros (Jo 19:14); seus ossos não são quebrados (Jo 19:36), cumprindo a ordenança de Êx 12:46 que apontava para o Cordeiro definitivo."
+          }
+        },
+        "secundarios": [
+          {
+            "Sustitución": {
+              "es": "Barrabás, culpable, es liberado mientras el inocente Jesús es condenado (Jn 18:39–40), dramatizando el principio de sustitución: el justo muere en lugar del culpable como cumplimiento del sistema sacrificial del AT.",
+              "en": "Barabbas, the guilty one, is released while the innocent Jesus is condemned (John 18:39–40), dramatizing the substitutionary principle: the righteous one dies in the place of the guilty as the fulfillment of the OT sacrificial system.",
+              "pt": "Barrabás, o culpado, é libertado enquanto o inocente Jesus é condenado (Jo 18:39–40), dramatizando o princípio da substituição: o justo morre no lugar do culpado como cumprimento do sistema sacrificial do AT."
+            }
+          },
+          {
+            "Sacrificio/Expiación": {
+              "es": "'Todo está consumado' (Jn 19:30) señala el pago completo de la deuda sacrificial; la rama de hisopo usada para dar el vinagre (Jn 19:29) remite al hisopo del rito pascual (Ex 12:22), confirmando que la muerte de Jesús es el sacrificio expiatorio definitivo.",
+              "en": "'It is finished' (John 19:30) marks the complete payment of the sacrificial debt; the hyssop branch used to offer the sour wine (John 19:29) recalls the hyssop of the Passover rite (Exod 12:22), confirming that Jesus' death is the definitive atoning sacrifice.",
+              "pt": "'Está consumado' (Jo 19:30) marca o pagamento completo da dívida sacrificial; o ramo de hissopo usado para oferecer o vinagre (Jo 19:29) remete ao hissopo do rito pascal (Êx 12:22), confirmando que a morte de Jesus é o sacrifício expiatório definitivo."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 20,
@@ -3062,7 +3362,32 @@
             "pt": "A visão de Ezequiel descreve o rio escatológico que flui do templo enchendo o Mar Morto de peixes em grande abundância (Ez 47:9-10). A pesca milagrosa de 153 peixes em Jo 21:6-11 evoca essa abundância: o Ressuscitado como novo templo gera, da margem do mar de Tiberíades, a plenitude da restauração prometida."
           }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Creación/Nueva Creación": {
+            "es": "La resurrección ocurre 'el primer día de la semana' (Jn 20:1,19), el mismo día de la creación original; Jesús sopla sobre los discípulos (Jn 20:22) recordando el soplo divino que dio vida a Adán (Gn 2:7), inaugurando la nueva creación con la humanidad restaurada.",
+            "en": "The resurrection occurs 'on the first day of the week' (John 20:1,19), the same day as the original creation; Jesus breathes on the disciples (John 20:22), recalling God's breath that gave life to Adam (Gen 2:7), inaugurating the new creation with restored humanity.",
+            "pt": "A ressurreição ocorre 'no primeiro dia da semana' (Jo 20:1,19), o mesmo dia da criação original; Jesus sopra sobre os discípulos (Jo 20:22), evocando o sopro divino que deu vida a Adão (Gn 2:7), inaugurando a nova criação com a humanidade restaurada."
+          }
+        },
+        "secundarios": [
+          {
+            "Resurrección": {
+              "es": "Tomás proclama 'Señor mío y Dios mío' (Jn 20:28) ante el Cristo resucitado, y Jesús declara bienaventurados a los que crean sin haber visto (Jn 20:29), estableciendo la fe en la resurrección corporal como fundamento de la vida cristiana.",
+              "en": "Thomas proclaims 'My Lord and my God!' (John 20:28) before the risen Christ, and Jesus declares blessed those who believe without having seen (John 20:29), establishing faith in the bodily resurrection as the foundation of Christian life.",
+              "pt": "Tomé proclama 'Senhor meu e Deus meu!' (Jo 20:28) diante do Cristo ressuscitado, e Jesus declara bem-aventurados os que creem sem ter visto (Jo 20:29), estabelecendo a fé na ressurreição corporal como fundamento da vida cristã."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "La restauración triple de Pedro — 'Apacienta mis ovejas' (Jn 21:15–17) — reconstituye a la comunidad apostólica como pastores del nuevo Israel, retomando el llamado original bajo el señorío del Resucitado.",
+              "en": "The threefold restoration of Peter — 'Feed my sheep' (John 21:15–17) — reconstitutes the apostolic community as shepherds of the new Israel, renewing the original call under the lordship of the Risen One.",
+              "pt": "A restauração tripla de Pedro — 'Apascenta minhas ovelhas' (Jo 21:15–17) — reconstitui a comunidade apostólica como pastores do novo Israel, renovando o chamado original sob o senhorio do Ressuscitado."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [
@@ -3547,7 +3872,7 @@
     "versionBiblia": {
       "es": "NBLA",
       "en": "ESV",
-      "pt": "NAA"
+      "pt": "ARC"
     },
     "pipeline": {
       "faseActual": 3,

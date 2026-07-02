@@ -241,6 +241,89 @@ The trigger chip only appears when `c.referenciasRelacionadas?.length > 0`. If t
 
 ---
 
+## Chapter Summary Themes (`temasBiblicoteologicos`)
+
+Chapter summary cards automatically display a themed trigger button and popup whenever a `resumenCapitulos` entry contains a `temasBiblicoteologicos` object (added in pipeline schema v1.5.0). No integration step is required — the feature activates automatically from the JSON data.
+
+### How it works
+
+`ChapterSummaries.jsx` reads `temasBiblicoteologicos` directly from the raw chapter unit. It renders:
+
+1. **Trigger button** — a `✦ N Temas` button aligned to the **lower right** of the chapter card, above the audio player. The button's color (background, border, text) is derived from the `principal` theme's category using `CATEGORIA_COLORS`. Clicking opens the popup (`e.stopPropagation()` prevents row highlighting).
+2. **Portal popup** — follows the same `GS.overlay + GS.popupCard + GS.closeBtn` pattern as the cross-reference popup. Rendered via `createPortal` to `document.body`. Dismisses on X click or backdrop click.
+
+Each theme entry in the popup shows:
+- A **category badge** — small, color-coded by the theme's category (e.g. green for CREACIÓN Y HUMANIDAD, blue for PACTO Y RELACIÓN)
+- The **theme name** — bold for `principal`, normal weight for `secundarios`
+- A **role label** — "TEMA PRINCIPAL" or "TEMA SECUNDARIO" (localized via `temasLabels`)
+- An optional **nota** text — the reason this theme was identified in the unit (italic, 1 sentence in Spanish). Rendered when the nota value is non-empty.
+
+### 11-category color system
+
+The component owns two lookup constants — `TEMA_CATEGORIA` (maps each of the 53 theme strings to its category) and `CATEGORIA_COLORS` (maps each category to `{ bg, border, text }`):
+
+| Category | Button/badge color |
+|---|---|
+| CREACIÓN Y HUMANIDAD | Green `#1E6E1E` |
+| PACTO Y RELACIÓN | Blue `#1E4A7A` |
+| REINO Y GOBIERNO | Violet `#5A2D8C` |
+| REDENCIÓN Y SALVACIÓN | Red `#8A1A1A` |
+| ADORACIÓN Y ESPACIO SAGRADO | Amber `#8A6A10` |
+| PECADO Y JUICIO | Slate `#3C3C50` |
+| PUEBLO DE DIOS | Teal `#14786E` |
+| SABIDURÍA Y PALABRA | Orange `#B45A14` |
+| ESPÍRITU Y TRANSFORMACIÓN | Sky `#1464A0` |
+| ESCATOLOGÍA | Indigo `#323296` |
+| TEMAS CENTRADOS EN CRISTO | Rose `#A02850` |
+
+If a `principal` value is not found in `TEMA_CATEGORIA` (e.g. a typo in the JSON), the button falls back to a warm brown `#645028` — a visible signal that the value is out of vocabulary.
+
+### UI label source
+
+`temasLabels` in `constants.js → UI[lang]` provides all localized strings — the popup section title, trigger button text, and PRINCIPAL/SECUNDARIO role labels. This is the only place these strings live — do not hardcode them in the component.
+
+| Key | ES | EN | PT |
+|---|---|---|---|
+| `title` | TEMAS BÍBLICO-TEOLÓGICOS | BIBLICAL-THEOLOGICAL THEMES | TEMAS BÍBLICO-TEOLÓGICOS |
+| `trigger(n)` | ✦ N Tema/Temas | ✦ N Theme/Themes | ✦ N Tema/Temas |
+| `principal` | TEMA PRINCIPAL | MAIN THEME | TEMA PRINCIPAL |
+| `secundario` | TEMA SECUNDARIO | SECONDARY THEME | TEMA SECUNDÁRIO |
+
+### Data shape
+
+```json
+"temasBiblicoteologicos": {
+  "principal": {
+    "Espíritu Santo": {
+      "es": "El Espíritu Santo es prometido como Consolador permanente (Jn 14:16–17) que morará con los discípulos y les enseñará todo lo que Jesús les dijo (Jn 14:26).",
+      "en": "The Holy Spirit is promised as the permanent Comforter (John 14:16–17) who will dwell with the disciples and teach them everything Jesus said (John 14:26).",
+      "pt": "O Espírito Santo é prometido como Consolador permanente (Jo 14:16–17) que permanecerá com os discípulos e os ensinará tudo o que Jesus disse (Jo 14:26)."
+    }
+  },
+  "secundarios": [
+    {
+      "Presencia de Dios": {
+        "es": "Cristo promete no dejar a los suyos como huérfanos (Jn 14:18,23).",
+        "en": "Christ promises not to leave his disciples as orphans (John 14:18,23).",
+        "pt": "Cristo promete não deixar os seus como órfãos (Jo 14:18,23)."
+      }
+    }
+  ]
+}
+```
+
+Each theme is a single-key object: the key is the theme name (controlled vocabulary string), the value is a **trilingual `{es, en, pt}` nota** — 1–2 sentences citing specific verses from the chapter range. The component extracts the theme name with `Object.keys(obj)[0]`, then picks the nota for the current language with `nota[lang] || nota.es`.
+
+### Data requirement
+
+The button only appears when `c.temasBiblicoteologicos` is present and truthy. If the field is absent (existing books without it), the chapter card renders as before with no button. `principal` is the only required sub-field; `secundarios` defaults to `[]` if omitted.
+
+All theme-name keys must be exact strings from the 53-value controlled vocabulary in `references/controlled-vocabularies.md → Temas Bíblico-Teológicos`. Out-of-vocabulary keys will render with the fallback brown color. An empty string nota is valid — the nota block is only shown when non-empty.
+
+No adapter changes are needed — `canonToViewer.js` is not involved.
+
+---
+
 ## Common Errors
 
 | Symptom | Cause | Fix |
@@ -252,6 +335,8 @@ The trigger chip only appears when `c.referenciasRelacionadas?.length > 0`. If t
 | All chapter dots grey | `era` field is present but value not found in `ERA_COLORS` | Step 4 (add to ERA_COLORS) |
 | Timeline squashed into left 80% | `capitulosTotal` wrong in manifest OR book has wrong chapter count | Check manifest |
 | Chapters link to wrong book on BibleGateway | `titulo.en` wrong in CANON JSON | Fix in JSON |
+| Themes button shows brown/fallback color | `temasBiblicoteologicos.principal` value is not in the 53-value controlled vocabulary (typo or invented string) | Fix the JSON value to match exactly the string in `controlled-vocabularies.md → Temas Bíblico-Teológicos` |
+| Themes button does not appear | `temasBiblicoteologicos` field is absent from the chapter unit — field is optional, Step 8b was not run for this book | Re-run Step 8b in the pipeline for this book |
 
 ---
 

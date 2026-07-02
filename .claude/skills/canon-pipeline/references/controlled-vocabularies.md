@@ -102,6 +102,23 @@ NT: `"Período Romano Temprano (63 a.C.–70 d.C.)"` | `"Período Romano Tardío
 ### Teología Sistemática (controlled vocabulary)
 `Bibliología` · `Teología Propia` · `Cristología` · `Pneumatología` · `Antropología` · `Hamartiología` · `Soteriología` · `Eclesiología` · `Escatología` · `Angelología` · `Creación` · `Providencia` · `Pacto` · `Elección` · `Santificación` · `Justificación` · `Ley`
 
+### Temas Bíblico-Teológicos (53 values — `temasBiblicoteologicos.principal` and `secundarios`)
+
+Use the exact Spanish string listed. These are the only valid values for both `principal` and `secundarios`.
+
+| Categoría | Temas |
+|---|---|
+| CREACIÓN Y HUMANIDAD | `Creación/Nueva Creación` · `Imago Dei` · `Sábado/Descanso` · `Matrimonio` · `Trabajo/Vocación` · `Jardín/Edén` |
+| PACTO Y RELACIÓN | `Pacto` · `Promesa/Cumplimiento` · `Presencia de Dios` · `Fidelidad/Hesed` |
+| REINO Y GOBIERNO | `Reino de Dios` · `Realeza/Trono de David` · `Pastor/Rey` |
+| REDENCIÓN Y SALVACIÓN | `Éxodo/Liberación` · `Redención/Rescate` · `Sacrificio/Expiación` · `Pascua/Cordero de Dios` · `Sustitución` · `Justificación` · `Reconciliación` |
+| ADORACIÓN Y ESPACIO SAGRADO | `Templo/Tabernáculo` · `Sacerdocio` · `Santidad` · `Gloria de Dios` · `Nombre de Dios` |
+| PECADO Y JUICIO | `Caída/Pecado` · `Maldición` · `Exilio/Desierto` · `Ira de Dios/Juicio` · `Idolatría` |
+| PUEBLO DE DIOS | `Israel/Iglesia` · `Remanente` · `Elección/Llamado` · `Simiente/Descendencia` |
+| SABIDURÍA Y PALABRA | `Sabiduría` · `Palabra de Dios/Ley` · `Profeta/Profecía` · `Temor del Señor` |
+| ESPÍRITU Y TRANSFORMACIÓN | `Espíritu Santo` · `Corazón Nuevo/Nuevo Nacimiento` · `Fruto/Fructificación` |
+| ESCATOLOGÍA | `Cielos Nuevos/Tierra Nueva` · `Resurrección` · `Segunda Venida` · `Juicio Final` · `Bodas del Cordero` · `Vida Eterna` |
+| TEMAS CENTRADOS EN CRISTO | `Mesías/Ungido` · `Siervo Sufriente` · `Hijo del Hombre` · `Último Adán` · `Verdadero Israel` · `Verdadero Templo` |
 
 ---
 

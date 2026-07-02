@@ -192,7 +192,25 @@ This is the complete field-by-field shape every CANON book record must follow. A
           "tipo": "enum: cumplimiento | tipología | paralelo | doctrinal | cita | alusión",
           "nota": { "es": "optional 1–2 sentence explanation", "en": "", "pt": "" }
         }
-      ]
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Espíritu Santo": {
+            "es": "El Espíritu Santo es prometido como Consolador permanente (Jn 14:16–17) que morará con los discípulos y les enseñará todo lo que Jesús les dijo (Jn 14:26).",
+            "en": "The Holy Spirit is promised as the permanent Comforter (John 14:16–17) who will dwell with the disciples and teach them everything Jesus said (John 14:26).",
+            "pt": "O Espírito Santo é prometido como Consolador permanente (Jo 14:16–17) que permanecerá com os discípulos e os ensinará tudo o que Jesus disse (Jo 14:26)."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "Cristo promete no dejar a los suyos como huérfanos y que el Padre y el Hijo vendrán a morar con quien le ame (Jn 14:18,23).",
+              "en": "Christ promises not to leave his disciples as orphans and that the Father and Son will come and make their home with the one who loves him (John 14:18,23).",
+              "pt": "Cristo promete não deixar os seus como órfãos e que o Pai e o Filho virão habitar com quem o ama (Jo 14:18,23)."
+            }
+          }
+        ]
+      }
     }
   ],
 

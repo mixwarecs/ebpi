@@ -10,6 +10,48 @@ const TIPO_COLORS = {
   doctrinal: "#4A2E8A", cita: "#8A1A1A", alusión: "#5A3E1A",
 };
 
+const TEMA_CATEGORIA = {
+  "Creación/Nueva Creación": "CREACIÓN Y HUMANIDAD", "Imago Dei": "CREACIÓN Y HUMANIDAD",
+  "Sábado/Descanso": "CREACIÓN Y HUMANIDAD", "Matrimonio": "CREACIÓN Y HUMANIDAD",
+  "Trabajo/Vocación": "CREACIÓN Y HUMANIDAD", "Jardín/Edén": "CREACIÓN Y HUMANIDAD",
+  "Pacto": "PACTO Y RELACIÓN", "Promesa/Cumplimiento": "PACTO Y RELACIÓN",
+  "Presencia de Dios": "PACTO Y RELACIÓN", "Fidelidad/Hesed": "PACTO Y RELACIÓN",
+  "Reino de Dios": "REINO Y GOBIERNO", "Realeza/Trono de David": "REINO Y GOBIERNO", "Pastor/Rey": "REINO Y GOBIERNO",
+  "Éxodo/Liberación": "REDENCIÓN Y SALVACIÓN", "Redención/Rescate": "REDENCIÓN Y SALVACIÓN",
+  "Sacrificio/Expiación": "REDENCIÓN Y SALVACIÓN", "Pascua/Cordero de Dios": "REDENCIÓN Y SALVACIÓN",
+  "Sustitución": "REDENCIÓN Y SALVACIÓN", "Justificación": "REDENCIÓN Y SALVACIÓN", "Reconciliación": "REDENCIÓN Y SALVACIÓN",
+  "Templo/Tabernáculo": "ADORACIÓN Y ESPACIO SAGRADO", "Sacerdocio": "ADORACIÓN Y ESPACIO SAGRADO",
+  "Santidad": "ADORACIÓN Y ESPACIO SAGRADO", "Gloria de Dios": "ADORACIÓN Y ESPACIO SAGRADO", "Nombre de Dios": "ADORACIÓN Y ESPACIO SAGRADO",
+  "Caída/Pecado": "PECADO Y JUICIO", "Maldición": "PECADO Y JUICIO",
+  "Exilio/Desierto": "PECADO Y JUICIO", "Ira de Dios/Juicio": "PECADO Y JUICIO", "Idolatría": "PECADO Y JUICIO",
+  "Israel/Iglesia": "PUEBLO DE DIOS", "Remanente": "PUEBLO DE DIOS",
+  "Elección/Llamado": "PUEBLO DE DIOS", "Simiente/Descendencia": "PUEBLO DE DIOS",
+  "Sabiduría": "SABIDURÍA Y PALABRA", "Palabra de Dios/Ley": "SABIDURÍA Y PALABRA",
+  "Profeta/Profecía": "SABIDURÍA Y PALABRA", "Temor del Señor": "SABIDURÍA Y PALABRA",
+  "Espíritu Santo": "ESPÍRITU Y TRANSFORMACIÓN", "Corazón Nuevo/Nuevo Nacimiento": "ESPÍRITU Y TRANSFORMACIÓN",
+  "Fruto/Fructificación": "ESPÍRITU Y TRANSFORMACIÓN",
+  "Cielos Nuevos/Tierra Nueva": "ESCATOLOGÍA", "Resurrección": "ESCATOLOGÍA",
+  "Segunda Venida": "ESCATOLOGÍA", "Juicio Final": "ESCATOLOGÍA",
+  "Bodas del Cordero": "ESCATOLOGÍA", "Vida Eterna": "ESCATOLOGÍA",
+  "Mesías/Ungido": "TEMAS CENTRADOS EN CRISTO", "Siervo Sufriente": "TEMAS CENTRADOS EN CRISTO",
+  "Hijo del Hombre": "TEMAS CENTRADOS EN CRISTO", "Último Adán": "TEMAS CENTRADOS EN CRISTO",
+  "Verdadero Israel": "TEMAS CENTRADOS EN CRISTO", "Verdadero Templo": "TEMAS CENTRADOS EN CRISTO",
+};
+
+const CATEGORIA_COLORS = {
+  "CREACIÓN Y HUMANIDAD":          { bg: "rgba(46,120,46,0.12)",   border: "rgba(46,120,46,0.50)",   text: "#1E6E1E" },
+  "PACTO Y RELACIÓN":              { bg: "rgba(30,74,122,0.12)",   border: "rgba(30,74,122,0.50)",   text: "#1E4A7A" },
+  "REINO Y GOBIERNO":              { bg: "rgba(90,45,140,0.12)",   border: "rgba(90,45,140,0.50)",   text: "#5A2D8C" },
+  "REDENCIÓN Y SALVACIÓN":         { bg: "rgba(138,26,26,0.12)",   border: "rgba(138,26,26,0.50)",   text: "#8A1A1A" },
+  "ADORACIÓN Y ESPACIO SAGRADO":   { bg: "rgba(160,120,20,0.12)",  border: "rgba(160,120,20,0.50)",  text: "#8A6A10" },
+  "PECADO Y JUICIO":               { bg: "rgba(60,60,80,0.12)",    border: "rgba(60,60,80,0.50)",    text: "#3C3C50" },
+  "PUEBLO DE DIOS":                { bg: "rgba(20,120,110,0.12)",  border: "rgba(20,120,110,0.50)",  text: "#14786E" },
+  "SABIDURÍA Y PALABRA":           { bg: "rgba(180,90,20,0.12)",   border: "rgba(180,90,20,0.50)",   text: "#B45A14" },
+  "ESPÍRITU Y TRANSFORMACIÓN":     { bg: "rgba(20,100,160,0.12)",  border: "rgba(20,100,160,0.50)",  text: "#1464A0" },
+  "ESCATOLOGÍA":                   { bg: "rgba(50,50,150,0.12)",   border: "rgba(50,50,150,0.50)",   text: "#323296" },
+  "TEMAS CENTRADOS EN CRISTO":     { bg: "rgba(160,40,80,0.12)",   border: "rgba(160,40,80,0.50)",   text: "#A02850" },
+};
+
 const ERA_COLORS = {
   "Primordial":"#A0C080","Patriarcal":"#C4A86A","Ley":"#E0B830","Éxodo":"#E0B830",
   "Anticipación":"#7EC87E","Conquista":"#7EC87E","Monarquía":"#6AAAD4","Exilio":"#C07AAA",
@@ -167,6 +209,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
   const [playingIdx, setPlayingIdx] = useState(null);
   const [highlightIdx, setHighlightIdx] = useState(initialChapterIdx);
   const [activeRefs, setActiveRefs] = useState(null);
+  const [activeThemes, setActiveThemes] = useState(null);
   const entryRefs = useRef([]);
   const didScrollToInitial = useRef(false);
   const currentAudioRef = useRef(null);
@@ -252,6 +295,80 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                   </div>
                 );
               })}
+            </div>
+          </div>
+        </div>,
+        document.body
+      )}
+
+      {activeThemes && createPortal(
+        <div style={GS.overlay(true)} onClick={e => { if (e.target === e.currentTarget) setActiveThemes(null); }}>
+          <div style={{...GS.popupCard, maxWidth: 520}}>
+            <button style={GS.closeBtn} onClick={() => setActiveThemes(null)}>✕</button>
+            <div style={GS.popupHeader}>
+              <div style={{flex: 1}}>
+                <div style={GS.popupBadge("#8A6A10")}>
+                  {CHAPTER_LABELS[lang] || "Cap."} {activeThemes.rangoInicio === activeThemes.rangoFin ? String(activeThemes.rangoInicio) : `${activeThemes.rangoInicio}–${activeThemes.rangoFin}`}
+                </div>
+                <div style={GS.popupName}>{activeThemes.titulo?.[lang] || activeThemes.titulo?.es || ""}</div>
+              </div>
+            </div>
+            <div style={GS.popupBody}>
+              <div style={GS.popupSectionTitle}>✦ {UI[lang]?.temasLabels?.title || "TEMAS BÍBLICO-TEOLÓGICOS"}</div>
+              {(() => {
+                const tb = activeThemes.temasBiblicoteologicos;
+                const principalName = Object.keys(tb.principal)[0];
+                const allEntries = [
+                  { tema: principalName, nota: tb.principal[principalName], isPrincipal: true },
+                  ...(tb.secundarios || []).map(obj => { const n = Object.keys(obj)[0]; return { tema: n, nota: obj[n], isPrincipal: false }; }),
+                ];
+                return allEntries.map(({ tema, nota, isPrincipal }, ti) => {
+                  const cat = TEMA_CATEGORIA[tema] || "";
+                  const clr = CATEGORIA_COLORS[cat] || { bg: "rgba(100,80,40,0.10)", border: "rgba(100,80,40,0.40)", text: "#645028" };
+                  const roleLabel = isPrincipal
+                    ? (UI[lang]?.temasLabels?.principal || "TEMA PRINCIPAL")
+                    : (UI[lang]?.temasLabels?.secundario || "TEMA SECUNDARIO");
+                  return (
+                    <div key={ti} style={{
+                      display: "flex",
+                      gap: 12,
+                      padding: "12px 0",
+                      borderBottom: ti < allEntries.length - 1 ? "1px solid rgba(139,90,20,0.10)" : "none",
+                      alignItems: "flex-start",
+                    }}>
+                      <div style={{
+                        fontSize: 9,
+                        letterSpacing: 2.5,
+                        fontWeight: 700,
+                        color: clr.text,
+                        border: `1px solid ${clr.border}`,
+                        background: clr.bg,
+                        padding: "3px 8px",
+                        borderRadius: 2,
+                        flexShrink: 0,
+                        marginTop: 3,
+                        whiteSpace: "nowrap",
+                      }}>{roleLabel}</div>
+                      <div style={{flex: 1}}>
+                        <div style={{
+                          fontSize: 14,
+                          fontWeight: 700,
+                          color: clr.text,
+                          lineHeight: 1.3,
+                          letterSpacing: 0.5,
+                        }}>{UI[lang]?.temasLabels?.temas?.[tema] || tema}</div>
+                        <div style={{
+                          fontSize: 9,
+                          letterSpacing: 2,
+                          color: "rgba(22,8,2,0.45)",
+                          marginTop: 3,
+                        }}>{UI[lang]?.temasLabels?.categorias?.[cat] || cat}</div>
+                        {(() => { const n = nota?.[lang] || nota?.es || ""; return n ? <div style={{fontSize: 14, lineHeight: 1.65, color: "rgba(22,8,2,0.78)", marginTop: 5, fontStyle: "italic"}}>{lv(n)}</div> : null; })()}
+                      </div>
+                    </div>
+                  );
+                });
+              })()}
             </div>
           </div>
         </div>,
@@ -418,6 +535,37 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
               }}>
                 {lv(desc)}
               </div>
+
+              {c.temasBiblicoteologicos && (() => {
+                const principalName = Object.keys(c.temasBiblicoteologicos.principal)[0];
+                const count = 1 + (c.temasBiblicoteologicos.secundarios?.length || 0);
+                const clr = CATEGORIA_COLORS[TEMA_CATEGORIA[principalName]] || { bg: "rgba(100,80,40,0.10)", border: "rgba(100,80,40,0.40)", text: "#645028" };
+                return (
+                  <div style={{ display: "flex", justifyContent: "flex-end", marginTop: 10, marginBottom: 4 }}>
+                    <button
+                      onClick={(e) => { e.stopPropagation(); setActiveThemes(c); }}
+                      style={{
+                        display: "inline-flex",
+                        alignItems: "center",
+                        height: 32,
+                        boxSizing: "border-box",
+                        fontSize: 12,
+                        letterSpacing: 0.8,
+                        color: clr.text,
+                        background: clr.bg,
+                        border: `1px solid ${clr.border}`,
+                        borderRadius: 2,
+                        padding: "0 13px",
+                        cursor: "pointer",
+                        fontFamily: "'Georgia', serif",
+                        flexShrink: 0,
+                      }}
+                    >
+                      {UI[lang]?.temasLabels?.trigger?.(count) ?? `✦ ${count} Temas`}
+                    </button>
+                  </div>
+                );
+              })()}
 
               <ChapterAudio
                 lang={lang}

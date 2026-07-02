@@ -404,7 +404,8 @@
           "items": { "$ref": "#/definitions/referenciaRelacionadaEntry" },
           "minItems": 1,
           "description": "Optional structured cross-references for this chapter unit. Omit entirely when none apply."
-        }
+        },
+        "temasBiblicoteologicos": { "$ref": "#/definitions/temasBiblicoteologicosEntry" }
       },
       "required": ["rangoInicio", "rangoFin", "titulo", "descripcion", "eventoClave", "versiculoClave"],
       "additionalProperties": false
@@ -422,6 +423,53 @@
         "nota": { "$ref": "#/definitions/trilingual" }
       },
       "required": ["ref", "tipo"],
+      "additionalProperties": false
+    },
+
+    "temaBiblicoteologicoEnum": {
+      "type": "string",
+      "description": "A biblical-theological theme from the 11-category controlled vocabulary. Use the exact Spanish string.",
+      "enum": [
+        "Creación/Nueva Creación", "Imago Dei", "Sábado/Descanso", "Matrimonio", "Trabajo/Vocación", "Jardín/Edén",
+        "Pacto", "Promesa/Cumplimiento", "Presencia de Dios", "Fidelidad/Hesed",
+        "Reino de Dios", "Realeza/Trono de David", "Pastor/Rey",
+        "Éxodo/Liberación", "Redención/Rescate", "Sacrificio/Expiación", "Pascua/Cordero de Dios", "Sustitución", "Justificación", "Reconciliación",
+        "Templo/Tabernáculo", "Sacerdocio", "Santidad", "Gloria de Dios", "Nombre de Dios",
+        "Caída/Pecado", "Maldición", "Exilio/Desierto", "Ira de Dios/Juicio", "Idolatría",
+        "Israel/Iglesia", "Remanente", "Elección/Llamado", "Simiente/Descendencia",
+        "Sabiduría", "Palabra de Dios/Ley", "Profeta/Profecía", "Temor del Señor",
+        "Espíritu Santo", "Corazón Nuevo/Nuevo Nacimiento", "Fruto/Fructificación",
+        "Cielos Nuevos/Tierra Nueva", "Resurrección", "Segunda Venida", "Juicio Final", "Bodas del Cordero", "Vida Eterna",
+        "Mesías/Ungido", "Siervo Sufriente", "Hijo del Hombre", "Último Adán", "Verdadero Israel", "Verdadero Templo"
+      ]
+    },
+
+    "temasBiblicoteologicosEntry": {
+      "type": "object",
+      "description": "Biblical-theological themes present in a chapter summary unit. 'principal' is an object with exactly one key — the dominant theme name from the controlled vocabulary — whose value is a trilingual nota explaining why that theme governs this unit, with verse citations. 'secundarios' is an array of the same single-key objects for up to 3 additional clearly-present themes.",
+      "properties": {
+        "principal": {
+          "type": "object",
+          "description": "Exactly one key: the dominant theme name (from temaBiblicoteologicoEnum). Value: trilingual {es, en, pt} nota with 1–2 sentences citing specific verses from the chapter range.",
+          "minProperties": 1,
+          "maxProperties": 1,
+          "propertyNames": { "$ref": "#/definitions/temaBiblicoteologicoEnum" },
+          "additionalProperties": { "$ref": "#/definitions/trilingual" }
+        },
+        "secundarios": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "description": "One key: theme name (from temaBiblicoteologicoEnum). Value: trilingual {es, en, pt} nota.",
+            "minProperties": 1,
+            "maxProperties": 1,
+            "propertyNames": { "$ref": "#/definitions/temaBiblicoteologicoEnum" },
+            "additionalProperties": { "$ref": "#/definitions/trilingual" }
+          },
+          "maxItems": 3
+        }
+      },
+      "required": ["principal"],
       "additionalProperties": false
     },
 

@@ -146,6 +146,60 @@ Rules: only include categories actually prominent in this book; minimum 3 entrie
   - **Limit**: 1–4 entries per unit — most theologically significant only
 - Always connect to the redemptive-historical flow
 
+### Step 8b — Clasificación de Temas Bíblico-Teológicos
+**Field:** `temasBiblicoteologicos` on each `resumenCapitulos[]` entry
+
+This is a **separate focused pass** that runs after Step 8 is fully complete. Step 8 writes `part6-chapters.json`; Step 8b reads it, annotates each entry with themes, and overwrites it in place. No new part file — the merge script is unchanged.
+
+**How to run Step 8b:**
+1. Read `part6-chapters.json` from the scratchpad
+2. For each chapter unit, apply the 7-step identification method:
+   - Identify vocabulary indicators present in the unit's `descripcion` and `eventoClave`
+   - Locate the unit in the redemptive-historical arc (creation → fall → redemption → consummation)
+   - Detect echoes/allusions to earlier canonical texts
+   - Match against the controlled vocabulary in `references/controlled-vocabularies.md → Temas Bíblico-Teológicos`
+   - Select `principal` — the **single dominant theme** governing this unit's movement (every unit requires one)
+   - Add up to 3 `secundarios` only for themes that are **genuinely prominent** in this unit, not merely mentioned
+   - Before finalizing, scan all units together and ensure the `principal` assignments tell a coherent thematic arc across the book
+3. Write the annotated array back to `part6-chapters.json` (overwrite)
+
+**Data shape** — each theme is a single-key object: the key is the theme name (exact controlled-vocabulary string), the value is a **trilingual `{es, en, pt}` nota** explaining why that theme was identified in this unit, with verse citations:
+```json
+"temasBiblicoteologicos": {
+  "principal": {
+    "Espíritu Santo": {
+      "es": "El Espíritu Santo es prometido como Consolador permanente (Jn 14:16–17) que morará con los discípulos y les enseñará todo lo que Jesús les dijo (Jn 14:26).",
+      "en": "The Holy Spirit is promised as the permanent Comforter (John 14:16–17) who will dwell with the disciples and teach them everything Jesus said (John 14:26).",
+      "pt": "O Espírito Santo é prometido como Consolador permanente (Jo 14:16–17) que permanecerá com os discípulos e os ensinará tudo o que Jesus disse (Jo 14:26)."
+    }
+  },
+  "secundarios": [
+    {
+      "Presencia de Dios": {
+        "es": "Cristo promete no dejar a los suyos como huérfanos y que el Padre y el Hijo vendrán a morar con quien le ame (Jn 14:18,23).",
+        "en": "Christ promises not to leave his disciples as orphans and that the Father and Son will come and make their home with the one who loves him (John 14:18,23).",
+        "pt": "Cristo promete não deixar os seus como órfãos e que o Pai e o Filho virão habitar com quem o ama (Jo 14:18,23)."
+      }
+    }
+  ]
+}
+```
+
+**Nota quality standard** — each nota must:
+- Cite at least one specific verse from the chapter range (ES abbreviations in `es`, EN in `en`, PT in `pt`)
+- State the textual evidence for the theme, not just assert it — explain *why* the text points to this theme
+- Be 1–2 sentences, 120–250 characters per language
+
+**Failing** nota: `"es": "Este capítulo trata sobre el Espíritu Santo."` — asserts without evidence  
+**Passing** nota: `"es": "El Espíritu Santo es prometido como Consolador permanente (Jn 14:16–17) que morará con los discípulos (Jn 14:26)."` — cites verses and explains the connection
+
+**Rules:**
+- `principal` is **required** on every unit — never omit it
+- `secundarios` is optional — omit the key entirely when only `principal` applies (never write `"secundarios": []`)
+- No duplicates between `principal` and `secundarios`
+- All theme-name keys must be exact strings from the controlled vocabulary — no paraphrasing, no inventing new themes
+- Do not force secondary themes; one dominant theme per unit is often sufficient
+
 ### Step 9 — Sources registry
 **Fields:** all `fuentes[]` fields, including the `popup` sub-object
 
@@ -203,6 +257,7 @@ Before outputting the final JSON, verify every item:
 - [ ] `resumenCapitulos` covers every chapter with no gaps
 - [ ] Every `resumenCapitulos[]` entry has a non-empty `era` field matching `historiaRedentora.epoca`
 - [ ] `referenciasRelacionadas` entries (when present) each have `ref` (ES abbreviation) and `tipo` from the controlled enum; `nota` is trilingual `{es,en,pt}` if present
+- [ ] Every `resumenCapitulos[]` entry has `temasBiblicoteologicos.principal` set to an exact controlled-vocabulary string; `secundarios` (if present) has ≤ 3 entries with no duplicates of `principal`
 - [ ] `meta.confianza` is calculated, not left at default
 - [ ] `fuentes` lists ≥3 sources, each with a complete `popup` block (bio/metodo/aportacion are trilingual objects)
 
@@ -230,7 +285,7 @@ Write one file per pipeline step, using the scratchpad directory:
 | `[book]-part3-canonical-literary.json` | Steps 4–5: `historiaRedentora`, `aportacionAlCanon`, `genero`, `palabraClave`, `destinatario`, `proposito` |
 | `[book]-part4-characters.json` | Step 6: `personajes` array |
 | `[book]-part5-theology.json` | Step 7: `teologiaSistematica`, `anclasConfesionales`, `versiculosClave`, `distintivasReformadas` |
-| `[book]-part6-chapters.json` | Step 8: `resumenCapitulos` array |
+| `[book]-part6-chapters.json` | Step 8: `resumenCapitulos` array · Step 8b: overwrites in place adding `temasBiblicoteologicos` |
 | `[book]-part7-sources.json` | Step 9: `fuentes` array |
 | `[book]-part8-meta.json` | Step 10: `meta` object |
 
