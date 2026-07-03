@@ -441,7 +441,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Dt 1:1",
@@ -576,7 +576,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Dt 31:7",
@@ -976,7 +976,61 @@
         "pt": "A rebelião em Cades-Barneia e a condenação da primeira geração a morrer no deserto (Dt 1:34–40)"
       },
       "versiculoClave": "Dt 4:2",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 7:2–53",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El sermón de Esteban (Hch 7:2–53) repite el método del primer discurso de Moisés en Dt 1–4: un repaso histórico de la fidelidad de YHWH y la infidelidad de Israel que culmina en un llamado a la conversión, convirtiendo Dt 1–4 en el arquetipo de la predicación profético-histórica.",
+            "en": "Stephen's sermon (Acts 7:2–53) repeats the method of Moses's first address in Deut 1–4: a historical review of YHWH's faithfulness and Israel's unfaithfulness culminating in a call to conversion, making Deut 1–4 the archetype of prophetic-historical preaching.",
+            "pt": "O sermão de Estêvão (At 7:2–53) repete o método do primeiro discurso de Moisés em Dt 1–4: uma revisão histórica da fidelidade de YHWH e da infidelidade de Israel que culmina em um chamado à conversão, tornando Dt 1–4 o arquétipo da pregação profético-histórica."
+          }
+        },
+        {
+          "ref": "He 12:29",
+          "tipo": "cita",
+          "nota": {
+            "es": "La advertencia de Dt 4:24 —'YHWH tu Dios es fuego consumidor, Dios celoso'— es citada en He 12:29 para fundamentar el temor reverente ante la presencia divina, elevando la teología del Sinaí al nivel de la exhortación escatológica del NT.",
+            "en": "The warning of Deut 4:24 — 'the LORD your God is a consuming fire, a jealous God' — is cited in Heb 12:29 to ground reverential fear before the divine presence, elevating Sinai theology to the level of NT eschatological exhortation.",
+            "pt": "A advertência de Dt 4:24 — 'o SENHOR teu Deus é fogo consumidor, Deus zeloso' — é citada em Hb 12:29 para fundamentar o temor reverente diante da presença divina, elevando a teologia do Sinai ao nível da exortação escatológica do NT."
+          }
+        },
+        {
+          "ref": "Ap 22:18–19",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El mandato de Dt 4:2 de no añadir ni quitar de la ley divina halla su eco canónico en la advertencia final de Ap 22:18–19 sobre no añadir ni quitar del libro de la profecía, enmarcando el canon bíblico completo entre dos prohibiciones gemelas de alteración.",
+            "en": "The command of Deut 4:2 not to add to or subtract from the divine law finds its canonical echo in the final warning of Rev 22:18–19 not to add to or subtract from the book of prophecy, framing the complete biblical canon between two twin prohibitions against alteration.",
+            "pt": "O mandamento de Dt 4:2 de não acrescentar nem tirar da lei divina encontra seu eco canônico na advertência final de Ap 22:18–19 sobre não acrescentar nem tirar do livro da profecia, enquadrando o cânon bíblico completo entre duas proibições gêmeas de alteração."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "El primer discurso culmina en la exhortación de Dt 4:1–8 a guardar los estatutos divinos como señal de sabiduría ante las naciones, y en la prohibición de añadir o quitar de la ley (Dt 4:2), estableciendo la palabra de YHWH como la norma inviolable e inmutable de la vida del pacto.",
+            "en": "The first address culminates in the exhortation of Deut 4:1–8 to keep the divine statutes as a sign of wisdom before the nations, and in the prohibition against adding to or subtracting from the law (Deut 4:2), establishing YHWH's word as the inviolable and immutable norm of covenant life.",
+            "pt": "O primeiro discurso culmina na exortação de Dt 4:1–8 a guardar os estatutos divinos como sinal de sabedoria diante das nações, e na proibição de acrescentar ou tirar da lei (Dt 4:2), estabelecendo a palavra de YHWH como a norma inviolável e imutável da vida da aliança."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "El repaso histórico de Dt 1–3 testifica que YHWH cumplió su promesa a cada paso: derrotó a Sehón y Og (Dt 2:30–3:11) y designó ciudades de refugio (Dt 4:41–43), su hesed activo incluso en el período del juicio sobre la primera generación.",
+              "en": "The historical review of Deut 1–3 testifies that YHWH fulfilled his promise at every step: he defeated Sihon and Og (Deut 2:30–3:11) and designated cities of refuge (Deut 4:41–43), his active hesed even during the period of judgment on the first generation.",
+              "pt": "A revisão histórica de Dt 1–3 testemunha que YHWH cumpriu sua promessa a cada passo: derrotou Seom e Ogue (Dt 2:30–3:11) e designou cidades de refúgio (Dt 4:41–43), seu hesed ativo mesmo durante o período de juízo sobre a primeira geração."
+            }
+          },
+          {
+            "Caída/Pecado": {
+              "es": "La rebelión de Cades-Barnea (Dt 1:19–46) es el evento que define la narrativa: la incredulidad de Israel ante las promesas de YHWH generó cuarenta años de juicio, y Moisés la recuerda con detalle para advertir a la segunda generación contra repetir el error.",
+              "en": "The Kadesh-barnea rebellion (Deut 1:19–46) is the defining narrative event: Israel's unbelief before YHWH's promises generated forty years of judgment, and Moses recalls it in detail to warn the second generation against repeating the error.",
+              "pt": "A rebelião de Cades-Barneia (Dt 1:19–46) é o evento que define a narrativa: a incredulidade de Israel diante das promessas de YHWH gerou quarenta anos de juízo, e Moisés a recorda em detalhe para advertir a segunda geração contra repetir o erro."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -997,7 +1051,61 @@
         "pt": "A proclamação do Shemá e o grande mandamento do amor (Dt 6:4–9)"
       },
       "versiculoClave": "Dt 6:4",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 22:37–38",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita el shemá de Dt 6:4–5 —'amarás al SEÑOR tu Dios con todo tu corazón, con toda tu alma y con toda tu mente'— como el mandamiento más grande de toda la ley (Mt 22:37–38), elevando el núcleo del segundo discurso de Moisés al centro de la ética del reino.",
+            "en": "Jesus cites the Shema of Deut 6:4–5 — 'you shall love the LORD your God with all your heart and with all your soul and with all your mind' — as the greatest commandment in the entire law (Matt 22:37–38), elevating the core of Moses's second address to the center of kingdom ethics.",
+            "pt": "Jesus cita o Shemá de Dt 6:4–5 — 'amarás o SENHOR teu Deus de todo o teu coração, de toda a tua alma e de todo o teu entendimento' — como o maior mandamento de toda a lei (Mt 22:37–38), elevando o núcleo do segundo discurso de Moisés ao centro da ética do reino."
+          }
+        },
+        {
+          "ref": "Ro 10:19",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Dt 32:21 (dentro del bloque temático de Dt 5–11 sobre la elección de Israel) y también Dt 9:4–6 en el argumento de Ro 10:19 sobre que Israel debería haber comprendido que YHWH provocaría su celo con 'no-pueblo', mostrando cómo Deuteronomio fundamenta la teología paulina de Israel y los gentiles.",
+            "en": "Paul cites Deut 32:21 (within the thematic block of Deut 5–11 on Israel's election) and also Deut 9:4–6 in the Rom 10:19 argument that Israel should have understood that YHWH would provoke their jealousy with 'no-people,' showing how Deuteronomy grounds Paul's theology of Israel and the Gentiles.",
+            "pt": "Paulo cita Dt 32:21 (dentro do bloco temático de Dt 5–11 sobre a eleição de Israel) e também Dt 9:4–6 no argumento de Rm 10:19 de que Israel deveria ter compreendido que YHWH provocaria seu ciúme com 'não-povo', mostrando como Deuteronômio fundamenta a teologia paulina de Israel e os gentios."
+          }
+        },
+        {
+          "ref": "Ef 6:4",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El mandato de Dt 6:6–9 —enseñar la ley a los hijos en todo momento, en el hogar y en el camino— es el trasfondo veterotestamentario de la exhortación de Pablo: 'criadlos en disciplina y amonestación del Señor' (Ef 6:4), transponiendo la instrucción deuteronómica al hogar cristiano.",
+            "en": "The command of Deut 6:6–9 — to teach the law to children at all times, at home and on the road — is the OT background of Paul's exhortation: 'bring them up in the discipline and instruction of the Lord' (Eph 6:4), transposing the Deuteronomic instruction to the Christian home.",
+            "pt": "O mandamento de Dt 6:6–9 — ensinar a lei aos filhos em todo momento, em casa e no caminho — é o pano de fundo veterotestamentário da exortação de Paulo: 'criai-os na disciplina e instrução do Senhor' (Ef 6:4), transpondo a instrução deuteronômica para o lar cristão."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "El segundo discurso fundamenta la obediencia en la elección soberana de YHWH: Israel no fue elegido por su grandeza sino por el amor gratuito de YHWH y su juramento a los patriarcas (Dt 7:6–8), y la justicia de Israel no es la causa de sus victorias sino la gracia electiva de Dios (Dt 9:4–6).",
+            "en": "The second address grounds obedience in YHWH's sovereign election: Israel was not chosen for its greatness but because of YHWH's free love and his oath to the patriarchs (Deut 7:6–8), and Israel's righteousness is not the cause of its victories but God's elective grace (Deut 9:4–6).",
+            "pt": "O segundo discurso fundamenta a obediência na eleição soberana de YHWH: Israel não foi escolhido por sua grandeza, mas pelo amor gratuito de YHWH e seu juramento aos patriarcas (Dt 7:6–8), e a justiça de Israel não é a causa de suas vitórias, mas a graça eletiva de Deus (Dt 9:4–6)."
+          }
+        },
+        "secundarios": [
+          {
+            "Pacto": {
+              "es": "El shemá (Dt 6:4–5) y el mandato de amar a YHWH con toda la persona son la expresión afectiva del pacto: la relación entre YHWH e Israel no es meramente jurídica sino personal y amorosa, cuya respuesta adecuada es el amor total del corazón, la mente y las fuerzas.",
+              "en": "The Shema (Deut 6:4–5) and the command to love YHWH with the whole person are the affective expression of the covenant: the relationship between YHWH and Israel is not merely juridical but personal and loving, whose fitting response is the total love of heart, mind, and strength.",
+              "pt": "O Shemá (Dt 6:4–5) e o mandamento de amar a YHWH com toda a pessoa são a expressão afetiva da aliança: a relação entre YHWH e Israel não é meramente jurídica, mas pessoal e amorosa, cuja resposta adequada é o amor total do coração, da mente e das forças."
+            }
+          },
+          {
+            "Palabra de Dios/Ley": {
+              "es": "El mandato de Dt 6:6–9 de inscribir la ley en el corazón y enseñarla sin cesar a los hijos establece la transmisión intergeneracional de la Palabra como el mecanismo de continuidad del pacto: la ley no es meramente legislación sino la instrucción vital del pueblo de Dios.",
+              "en": "The command of Deut 6:6–9 to inscribe the law on the heart and teach it unceasingly to children establishes intergenerational transmission of the Word as the covenant's continuity mechanism: the law is not merely legislation but the vital instruction of God's people.",
+              "pt": "O mandamento de Dt 6:6–9 de inscrever a lei no coração e ensiná-la incessantemente aos filhos estabelece a transmissão intergeracional da Palavra como o mecanismo de continuidade da aliança: a lei não é meramente legislação, mas a instrução vital do povo de Deus."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 12,
@@ -1018,7 +1126,61 @@
         "pt": "O mandato da centralização do culto no lugar escolhido pelo SENHOR (Dt 12:5–7)"
       },
       "versiculoClave": "Dt 12:5",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 4:20–24",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La mujer samaritana apela al debate sobre el lugar de culto centralizado (Dt 12:5) y Jesús responde que la hora llega cuando los verdaderos adoradores adorarán en espíritu y verdad (Jn 4:21–24), cumpliendo y trascendiendo la centralización del culto deuteronómica en su propia persona.",
+            "en": "The Samaritan woman appeals to the debate over centralized worship (Deut 12:5) and Jesus responds that the hour is coming when true worshipers will worship in spirit and truth (John 4:21–24), fulfilling and transcending the Deuteronomic centralization of worship in his own person.",
+            "pt": "A mulher samaritana apela ao debate sobre o lugar de culto centralizado (Dt 12:5) e Jesus responde que a hora vem em que os verdadeiros adoradores adorarão em espírito e verdade (Jo 4:21–24), cumprindo e transcendendo a centralização do culto deuteronômica em sua própria pessoa."
+          }
+        },
+        {
+          "ref": "Mc 7:14–19",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús declara limpios todos los alimentos (Mc 7:19), aboliendo la dimensión ceremonial de las leyes alimentarias de Dt 14 y señalando que la impureza es moral —lo que sale del corazón— no ritual, cumpliendo el propósito de separación de Dt 14 en un nivel más profundo.",
+            "en": "Jesus declares all foods clean (Mark 7:19), abolishing the ceremonial dimension of Deut 14's dietary laws and indicating that impurity is moral — what comes out of the heart — not ritual, fulfilling the separating purpose of Deut 14 at a deeper level.",
+            "pt": "Jesus declara todos os alimentos limpos (Mc 7:19), abolindo a dimensão cerimonial das leis alimentares de Dt 14 e indicando que a impureza é moral — o que vem do coração — não ritual, cumprindo o propósito de separação de Dt 14 em um nível mais profundo."
+          }
+        },
+        {
+          "ref": "1Co 5:7–8",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La Pascua de Dt 16:1–8 con el mandato de eliminar toda levadura halla su cumplimiento en la exhortación de Pablo: 'limpiad la vieja levadura… porque Cristo, nuestra pascua, ya fue sacrificada' (1Co 5:7–8), transponiendo la festividad deuteronómica a la ética de la comunidad del nuevo pacto.",
+            "en": "The Passover of Deut 16:1–8 with the command to remove all leaven finds its fulfillment in Paul's exhortation: 'cleanse out the old leaven… for Christ, our Passover lamb, has been sacrificed' (1Cor 5:7–8), transposing the Deuteronomic festival to the ethics of the new covenant community.",
+            "pt": "A Páscoa de Dt 16:1–8 com o mandato de eliminar todo o fermento encontra seu cumprimento na exortação de Paulo: 'limpai o velho fermento… porque Cristo, nossa Páscoa, foi sacrificado' (1Co 5:7–8), transpondo a festividade deuteronômica para a ética da comunidade do novo pacto."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "El código deuteronómico I exige la separación radical de las prácticas religiosas cananeas (Dt 12:29–31) y la centralización del culto en el lugar elegido por YHWH (Dt 12:5), expresando que la santidad del pueblo de Dios requiere tanto unidad en la adoración como separación de la idolatría circundante.",
+            "en": "Deuteronomic code I demands radical separation from Canaanite religious practices (Deut 12:29–31) and centralization of worship at the place YHWH will choose (Deut 12:5), expressing that the holiness of God's people requires both unity in worship and separation from surrounding idolatry.",
+            "pt": "O código deuteronômico I exige a separação radical das práticas religiosas cananéias (Dt 12:29–31) e a centralização do culto no lugar escolhido por YHWH (Dt 12:5), expressando que a santidade do povo de Deus requer tanto unidade na adoração quanto separação da idolatria circundante."
+          }
+        },
+        "secundarios": [
+          {
+            "Templo/Tabernáculo": {
+              "es": "La fórmula 'el lugar que YHWH vuestro Dios elegirá' (Dt 12:5,11,14,18,21,26) apunta tipológicamente hacia Jerusalén y el templo como el locus único de la presencia divina, que Cristo mismo reemplaza como el verdadero templo (Jn 2:19–21).",
+              "en": "The formula 'the place that the LORD your God will choose' (Deut 12:5,11,14,18,21,26) typologically points toward Jerusalem and the temple as the unique locus of divine presence, which Christ himself replaces as the true temple (John 2:19–21).",
+              "pt": "A fórmula 'o lugar que o SENHOR vosso Deus escolherá' (Dt 12:5,11,14,18,21,26) aponta tipologicamente para Jerusalém e o templo como o locus único da presença divina, que o próprio Cristo substitui como o verdadeiro templo (Jo 2:19–21)."
+            }
+          },
+          {
+            "Pascua/Cordero de Dios": {
+              "es": "La Pascua como la primera de las tres fiestas de peregrinación (Dt 16:1–8) y la instrucción de comer el cordero 'con apresuramiento' (Dt 16:3) graban en el calendario litúrgico de Israel la memoria de la liberación de Egipto como el paradigma de toda redención.",
+              "en": "Passover as the first of the three pilgrimage festivals (Deut 16:1–8) and the instruction to eat the lamb 'in haste' (Deut 16:3) engrave into Israel's liturgical calendar the memory of liberation from Egypt as the paradigm of all redemption.",
+              "pt": "A Páscoa como a primeira das três festas de peregrinação (Dt 16:1–8) e a instrução de comer o cordeiro 'apressadamente' (Dt 16:3) gravam no calendário litúrgico de Israel a memória da libertação do Egito como o paradigma de toda redenção."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 17,
@@ -1039,7 +1201,61 @@
         "pt": "A promessa do profeta como Moisés: o eixo cristológico do Pentateuco (Dt 18:15–19)"
       },
       "versiculoClave": "Dt 18:15",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 3:22–23",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pedro cita directamente Dt 18:15–19 en su sermón del pórtico de Salomón: 'Moisés dijo: El Señor vuestro Dios os levantará profeta de entre vuestros hermanos… a él oiréis' (Hch 3:22–23), identificando a Jesús como el cumplimiento del profeta prometido en Deuteronomio.",
+            "en": "Peter directly cites Deut 18:15–19 in his Solomon's Portico sermon: 'Moses said: The Lord God will raise up for you a prophet like me from your brothers… you shall listen to him in whatever he tells you' (Acts 3:22–23), identifying Jesus as the fulfillment of the Deuteronomic prophet promise.",
+            "pt": "Pedro cita diretamente Dt 18:15–19 em seu sermão no pórtico de Salomão: 'Moisés disse: O Senhor Deus de vós levantará profeta dentre vossos irmãos… a ele ouvireis' (At 3:22–23), identificando Jesus como o cumprimento do profeta prometido em Deuteronômio."
+          }
+        },
+        {
+          "ref": "Jn 6:14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Tras la multiplicación de los panes, la multitud exclama: 'Este es verdaderamente el profeta que había de venir al mundo' (Jn 6:14), identificando a Jesús con el profeta como Moisés de Dt 18:15, y posteriormente en Jn 7:40 el mismo reconocimiento se repite al escuchar sus enseñanzas.",
+            "en": "After the multiplication of the loaves, the crowd exclaims: 'This is indeed the Prophet who is to come into the world' (John 6:14), identifying Jesus with the prophet like Moses of Deut 18:15, and later in John 7:40 the same recognition is repeated upon hearing his teaching.",
+            "pt": "Após a multiplicação dos pães, a multidão exclama: 'Este é verdadeiramente o profeta que havia de vir ao mundo' (Jo 6:14), identificando Jesus com o profeta como Moisés de Dt 18:15, e posteriormente em Jo 7:40 o mesmo reconhecimento se repete ao ouvir seus ensinamentos."
+          }
+        },
+        {
+          "ref": "He 2:2–3",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La advertencia de Dt 18:19 —que quien no escuche al profeta como Moisés será juzgado por Dios— subyace en He 2:2–3: 'si la palabra dicha por medio de ángeles fue firme… ¿cómo escaparemos nosotros si descuidamos una salvación tan grande?', amplificando la advertencia deuteronómica al nivel cristológico.",
+            "en": "The warning of Deut 18:19 — that whoever does not listen to the prophet like Moses will be judged by God — underlies Heb 2:2–3: 'if the message declared by angels proved to be reliable… how shall we escape if we neglect such a great salvation?', amplifying the Deuteronomic warning to the christological level.",
+            "pt": "A advertência de Dt 18:19 — que quem não ouvir o profeta como Moisés será julgado por Deus — subjaz em Hb 2:2–3: 'se a palavra falada por meio de anjos foi firme… como escaparemos nós, se descuidarmos de uma tão grande salvação?', amplificando a advertência deuteronômica ao nível cristológico."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Profeta/Profecía": {
+            "es": "La promesa del profeta como Moisés (Dt 18:15–19) es el eje cristológico del Pentateuco: YHWH promete levantar un profeta único de entre Israel a quien los creyentes deben escuchar, texto que el NT identifica directamente con Jesús (Hch 3:22–23; Jn 6:14; Jn 7:40).",
+            "en": "The promise of the prophet like Moses (Deut 18:15–19) is the christological axis of the Pentateuch: YHWH promises to raise up a unique prophet from within Israel whom believers must heed, a text the NT directly identifies with Jesus (Acts 3:22–23; John 6:14; John 7:40).",
+            "pt": "A promessa do profeta como Moisés (Dt 18:15–19) é o eixo cristológico do Pentateuco: YHWH promete levantar um profeta único dentro de Israel a quem os crentes devem ouvir, texto que o NT identifica diretamente com Jesus (At 3:22–23; Jo 6:14; Jo 7:40)."
+          }
+        },
+        "secundarios": [
+          {
+            "Mesías/Ungido": {
+              "es": "La ley del rey de Dt 17:14–20 —que no acumule caballos, mujeres ni riquezas, sino que lea la ley todos los días— define el perfil del rey mesiánico ideal cuya virtud solo Cristo cumple perfectamente: rey que sirve en lugar de dominar y cuya autoridad se fundamenta en la Palabra.",
+              "en": "The law of the king in Deut 17:14–20 — not to accumulate horses, wives, or wealth, but to read the law every day — defines the ideal messianic king's profile whose virtue only Christ perfectly fulfills: a king who serves rather than dominates and whose authority is grounded in the Word.",
+              "pt": "A lei do rei de Dt 17:14–20 — que não acumule cavalos, mulheres nem riquezas, mas leia a lei todos os dias — define o perfil do rei messiânico ideal cuja virtude apenas Cristo cumpre perfeitamente: rei que serve em vez de dominar e cuja autoridade se fundamenta na Palavra."
+            }
+          },
+          {
+            "Redención/Rescate": {
+              "es": "Las ciudades de refugio de Dt 19 proveen asilo al homicida involuntario, tipificando el refugio en Cristo: el que huye al lugar designado está a salvo del vengador de sangre, anticipando cómo la muerte de Cristo provee el refugio definitivo para quienes huyen al amparo de su nombre.",
+              "en": "The cities of refuge in Deut 19 provide asylum to the unintentional manslayer, typifying refuge in Christ: the one who flees to the designated place is safe from the blood avenger, anticipating how Christ's death provides the ultimate refuge for those who flee to shelter under his name.",
+              "pt": "As cidades de refúgio de Dt 19 proveem asilo ao homicida involuntário, tipificando o refúgio em Cristo: aquele que foge para o lugar designado está a salvo do vingador de sangue, antecipando como a morte de Cristo provê o refúgio definitivo para os que fogem ao amparo de seu nome."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 23,
@@ -1060,7 +1276,61 @@
         "pt": "A liturgia das primícias: recitação do credo histórico de Israel e oferta ao SENHOR (Dt 26:1–11)"
       },
       "versiculoClave": "Dt 26:5",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 10:6–8",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita la declaración de Dt 30:12–14 (dentro del contexto del pacto que Dt 23–26 codifica) en Ro 10:6–8 para mostrar que la justicia por la fe no busca subir al cielo ni descender al abismo, sino que 'la palabra está cerca de ti', reinterpretando el lenguaje del pacto deuteronómico como anuncio del evangelio.",
+            "en": "Paul cites the declaration of Deut 30:12–14 (within the covenant context codified in Deut 23–26) in Rom 10:6–8 to show that the righteousness of faith does not seek to ascend to heaven or descend to the abyss, but rather 'the word is near you,' reinterpreting Deuteronomic covenant language as the announcement of the gospel.",
+            "pt": "Paulo cita a declaração de Dt 30:12–14 (dentro do contexto da aliança codificada em Dt 23–26) em Rm 10:6–8 para mostrar que a justiça pela fé não busca subir ao céu nem descer ao abismo, mas sim 'a palavra está perto de ti', reinterpretando a linguagem da aliança deuteronômica como anúncio do evangelho."
+          }
+        },
+        {
+          "ref": "2Co 9:7",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La liturgia de las primicias (Dt 26:1–11) —ofrendar con alegría el primer fruto como acto de reconocimiento de que YHWH es el dador de todo bien— es el trasfondo de la enseñanza de Pablo sobre la ofrenda voluntaria: 'cada uno dé como propuso en su corazón… porque Dios ama al dador alegre' (2Co 9:7).",
+            "en": "The firstfruits liturgy (Deut 26:1–11) — offering with joy the first fruit as an act of acknowledging that YHWH is the giver of all good — is the background of Paul's teaching on voluntary giving: 'each one must give as he has decided in his heart… for God loves a cheerful giver' (2Cor 9:7).",
+            "pt": "A liturgia das primícias (Dt 26:1–11) — oferecer com alegria o primeiro fruto como ato de reconhecimento de que YHWH é o dador de todo bem — é o pano de fundo do ensino de Paulo sobre a oferta voluntária: 'cada um dê conforme propôs em seu coração… porque Deus ama ao que dá com alegria' (2Co 9:7)."
+          }
+        },
+        {
+          "ref": "Mt 5:42",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Las leyes sobre préstamos sin interés a los pobres (Dt 23:19–20) y los derechos de los trabajadores y vulnerables (Dt 24:14–22) son el trasfondo veterotestamentario de las enseñanzas de Jesús sobre generosidad radical en el Sermón del Monte (Mt 5:42), llevando la ética deuteronómica a su expresión escatológica.",
+            "en": "The laws on interest-free loans to the poor (Deut 23:19–20) and the rights of workers and the vulnerable (Deut 24:14–22) are the OT background of Jesus's teachings on radical generosity in the Sermon on the Mount (Matt 5:42), taking Deuteronomic ethics to their eschatological expression.",
+            "pt": "As leis sobre empréstimos sem juros aos pobres (Dt 23:19–20) e os direitos dos trabalhadores e vulneráveis (Dt 24:14–22) são o pano de fundo veterotestamentário dos ensinamentos de Jesus sobre generosidade radical no Sermão do Monte (Mt 5:42), levando a ética deuteronômica à sua expressão escatológica."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La liturgia de las primicias y la declaración mutua del pacto (Dt 26:16–19) son el climax del código deuteronómico: YHWH declara a Israel su pueblo atesorado (ʿam segullāh) e Israel declara a YHWH su Dios, una fórmula de mutua apropiación que define la esencia misma del pacto bíblico.",
+            "en": "The firstfruits liturgy and the mutual covenant declaration (Deut 26:16–19) are the climax of the Deuteronomic code: YHWH declares Israel his treasured people (ʿam segullāh) and Israel declares YHWH their God, a formula of mutual appropriation that defines the very essence of the biblical covenant.",
+            "pt": "A liturgia das primícias e a declaração mútua da aliança (Dt 26:16–19) são o clímax do código deuteronômico: YHWH declara Israel seu povo precioso (ʿam segullāh) e Israel declara YHWH seu Deus, uma fórmula de mútua apropriação que define a própria essência da aliança bíblica."
+          }
+        },
+        "secundarios": [
+          {
+            "Éxodo/Liberación": {
+              "es": "El credo histórico de las primicias —'mi padre era un arameo errante… los egipcios nos maltrataron… clamamos a YHWH, quien nos sacó de Egipto' (Dt 26:5–8)— arraiga toda la ética social del código en la experiencia de liberación del Éxodo: Israel trata bien al pobre porque fue pobre y YHWH lo redimió.",
+              "en": "The historical creed of the firstfruits — 'a wandering Aramean was my father… the Egyptians treated us harshly… we cried to the LORD, who brought us out of Egypt' (Deut 26:5–8) — roots all the code's social ethics in the Exodus liberation experience: Israel treats the poor well because it was poor and YHWH redeemed it.",
+              "pt": "O credo histórico das primícias — 'meu pai era um arameu errante… os egípcios nos maltrataram… clamamos ao SENHOR, que nos tirou do Egito' (Dt 26:5–8) — enraíza toda a ética social do código na experiência de libertação do Êxodo: Israel trata bem o pobre porque foi pobre e YHWH o redimiu."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "La legislación de Dt 23–25 sobre los excluidos de la asamblea (Dt 23:1–8), los vulnerables (Dt 24:17–22) y la justicia comercial (Dt 25:13–16) define los contornos sociales y éticos de la comunidad del pacto: quién pertenece, cómo se trata al prójimo y qué estándares de justicia rigen la vida comunitaria.",
+              "en": "The legislation of Deut 23–25 about those excluded from the assembly (Deut 23:1–8), the vulnerable (Deut 24:17–22), and commercial justice (Deut 25:13–16) defines the social and ethical contours of the covenant community: who belongs, how the neighbor is treated, and what standards of justice govern communal life.",
+              "pt": "A legislação de Dt 23–25 sobre os excluídos da assembleia (Dt 23:1–8), os vulneráveis (Dt 24:17–22) e a justiça comercial (Dt 25:13–16) define os contornos sociais e éticos da comunidade da aliança: quem pertence, como se trata o próximo e quais padrões de justiça regem a vida comunitária."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 27,
@@ -1081,7 +1351,61 @@
         "pt": "As maldições da aliança (Dt 27:26) que Paulo cita em Gálatas 3:10 como a sentença que Cristo tomou sobre si mesmo"
       },
       "versiculoClave": "Dt 28:1",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gá 3:10–13",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita directamente Dt 27:26 —'maldito todo aquel que no permanece en todas las cosas escritas en el libro de la ley'— para demostrar que todos están bajo maldición (Gá 3:10), y Dt 21:23 para afirmar que 'Cristo nos redimió de la maldición de la ley, hecho por nosotros maldición' (Gá 3:13).",
+            "en": "Paul directly cites Deut 27:26 — 'cursed be everyone who does not abide by all things written in the Book of the Law' — to demonstrate that all are under a curse (Gal 3:10), and Deut 21:23 to affirm that 'Christ redeemed us from the curse of the law by becoming a curse for us' (Gal 3:13).",
+            "pt": "Paulo cita diretamente Dt 27:26 — 'maldito todo aquele que não persevera em todas as coisas escritas no livro da lei' — para demonstrar que todos estão sob maldição (Gl 3:10), e Dt 21:23 para afirmar que 'Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós' (Gl 3:13)."
+          }
+        },
+        {
+          "ref": "Lc 19:43–44",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús profetiza la destrucción de Jerusalén (Lc 19:43–44) en términos que eco las maldiciones de Dt 28:52–57 sobre el asedio de las ciudades hasta consumirse, cumplimiento histórico de las maldiciones del pacto en el 70 d.C. bajo el asedio romano.",
+            "en": "Jesus prophesies the destruction of Jerusalem (Luke 19:43–44) in terms that echo the curses of Deut 28:52–57 about the siege of cities until they are consumed, the historical fulfillment of the covenant curses in 70 A.D. under the Roman siege.",
+            "pt": "Jesus profetiza a destruição de Jerusalém (Lc 19:43–44) em termos que ecoam as maldições de Dt 28:52–57 sobre o cerco das cidades até serem consumidas, cumprimento histórico das maldições da aliança em 70 d.C. sob o cerco romano."
+          }
+        },
+        {
+          "ref": "Ap 22:3",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La promesa escatológica de Ap 22:3 —'no habrá más maldición'— es la reversión definitiva de las maldiciones del pacto de Dt 27–28 en la nueva creación: lo que la desobediencia de Israel desencadenó, la obra de Cristo anula para siempre en la consumación.",
+            "en": "The eschatological promise of Rev 22:3 — 'no longer will there be anything accursed' — is the definitive reversal of the Deut 27–28 covenant curses in the new creation: what Israel's disobedience unleashed, Christ's work annuls forever in the consummation.",
+            "pt": "A promessa escatológica de Ap 22:3 — 'não haverá mais maldição alguma' — é a reversão definitiva das maldições da aliança de Dt 27–28 na nova criação: o que a desobediência de Israel desencadeou, a obra de Cristo anula para sempre na consumação."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Los capítulos 27–28 constituyen la sección de sanciones del tratado de suzeranía: la ceremonia de Ebal/Gerizim (Dt 27), las doce maldiciones (Dt 27:15–26), las bendiciones por obediencia (Dt 28:1–14) y las devastadoras maldiciones por desobediencia (Dt 28:15–68) son el mecanismo jurídico del pacto que garantiza sus consecuencias.",
+            "en": "Chapters 27–28 constitute the treaty's sanctions section: the Ebal/Gerizim ceremony (Deut 27), the twelve curses (Deut 27:15–26), the blessings for obedience (Deut 28:1–14), and the devastating curses for disobedience (Deut 28:15–68) are the legal mechanism of the covenant guaranteeing its consequences.",
+            "pt": "Os capítulos 27–28 constituem a seção de sanções do tratado: a cerimônia de Ebal/Gerizim (Dt 27), as doze maldições (Dt 27:15–26), as bênçãos pela obediência (Dt 28:1–14) e as devastadoras maldições pela desobediência (Dt 28:15–68) são o mecanismo jurídico da aliança que garante suas consequências."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Las maldiciones de Dt 28:15–68 —que abarcan 54 versículos frente a 14 de bendiciones— predicen con precisión profética el asedio, la esclavitud y el exilio de Israel entre las naciones, cumplidas en 722 a.C. (Samaria) y 586 a.C. (Jerusalén), certificando que la ira judicial de YHWH es inexorable.",
+              "en": "The curses of Deut 28:15–68 — covering 54 verses against 14 of blessings — predict with prophetic precision the siege, slavery, and scattering of Israel among the nations, fulfilled in 722 BC (Samaria) and 586 BC (Jerusalem), certifying that YHWH's judicial wrath is inexorable.",
+              "pt": "As maldições de Dt 28:15–68 — abrangendo 54 versículos contra 14 de bênçãos — predizem com precisão profética o cerco, a escravidão e a dispersão de Israel entre as nações, cumpridas em 722 a.C. (Samaria) e 586 a.C. (Jerusalém), certificando que a ira judicial de YHWH é inexorável."
+            }
+          },
+          {
+            "Sustitución": {
+              "es": "La maldición de Dt 27:26 que recae sobre todo el que no guarda toda la ley es la que Pablo identifica como la sentencia que Cristo tomó sobre sí (Gá 3:13), haciendo de las maldiciones deuteronómicas el fundamento jurídico de la doctrina de la sustitución penal de Cristo.",
+              "en": "The curse of Deut 27:26 that falls on everyone who does not keep the entire law is what Paul identifies as the sentence Christ took upon himself (Gal 3:13), making the Deuteronomic curses the legal foundation of the doctrine of Christ's penal substitution.",
+              "pt": "A maldição de Dt 27:26 que recai sobre todo aquele que não guarda toda a lei é o que Paulo identifica como a sentença que Cristo tomou sobre si (Gl 3:13), tornando as maldições deuteronômicas o fundamento jurídico da doutrina da substituição penal de Cristo."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 29,
@@ -1102,7 +1426,61 @@
         "pt": "A promessa de restauração escatológica e circuncisão do coração (Dt 30:1–6)"
       },
       "versiculoClave": "Dt 30:6",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 10:6–8",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Dt 30:12–14 en Ro 10:6–8 para mostrar que la justicia de la fe no requiere obras imposibles: 'la palabra está cerca de ti, en tu boca y en tu corazón', reinterpretando la accesibilidad de la ley del pacto de Dt 30 como la proclamación del evangelio de Cristo.",
+            "en": "Paul cites Deut 30:12–14 in Rom 10:6–8 to show that the righteousness of faith does not require impossible works: 'the word is near you, in your mouth and in your heart,' reinterpreting the accessibility of Deut 30's covenant law as the proclamation of the gospel of Christ.",
+            "pt": "Paulo cita Dt 30:12–14 em Rm 10:6–8 para mostrar que a justiça da fé não requer obras impossíveis: 'a palavra está perto de ti, na tua boca e no teu coração', reinterpretando a acessibilidade da lei da aliança de Dt 30 como a proclamação do evangelho de Cristo."
+          }
+        },
+        {
+          "ref": "Ro 2:29",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La promesa de Dt 30:6 —'circuncidará YHWH tu Dios tu corazón y el corazón de tu descendencia'— es citada tipológicamente en Ro 2:29: 'la circuncisión es la del corazón, en espíritu, no en letra', señalando que la promesa deuteronómica se cumple en la obra del Espíritu Santo en el nuevo pacto.",
+            "en": "The promise of Deut 30:6 — 'the LORD your God will circumcise your heart and the heart of your offspring' — is typologically cited in Rom 2:29: 'circumcision is a matter of the heart, by the Spirit, not by the letter,' indicating that the Deuteronomic promise is fulfilled in the Holy Spirit's work in the new covenant.",
+            "pt": "A promessa de Dt 30:6 — 'o SENHOR teu Deus circuncidará o teu coração e o coração de tua descendência' — é citada tipologicamente em Rm 2:29: 'a circuncisão é a do coração, em espírito, não em letra', indicando que a promessa deuteronômica se cumpre na obra do Espírito Santo no novo pacto."
+          }
+        },
+        {
+          "ref": "Jer 31:31–34",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La promesa de Dt 30:6 de circuncidar el corazón de Israel es el texto seminal que los profetas posteriores desarrollan: Jer 31:31–34 (nuevo pacto con la ley escrita en el corazón) y Ez 36:26–27 (corazón nuevo y espíritu nuevo) son la elaboración profética directa de la promesa de Dt 30:6.",
+            "en": "The promise of Deut 30:6 to circumcise Israel's heart is the seminal text that the later prophets develop: Jer 31:31–34 (new covenant with the law written on the heart) and Ezek 36:26–27 (a new heart and new spirit) are the direct prophetic elaboration of the Deut 30:6 promise.",
+            "pt": "A promessa de Dt 30:6 de circuncidar o coração de Israel é o texto seminal que os profetas posteriores desenvolvem: Jr 31:31–34 (novo pacto com a lei escrita no coração) e Ez 36:26–27 (coração novo e espírito novo) são a elaboração profética direta da promessa de Dt 30:6."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Corazón Nuevo/Nuevo Nacimiento": {
+            "es": "La promesa de Dt 30:6 —'YHWH tu Dios circuncidará tu corazón'— es la promesa más explícita de regeneración en el Pentateuco: el nuevo obediente corazón que Israel necesita no vendrá de su esfuerzo sino de la acción directa de YHWH sobre el órgano volitivo, anticipando la obra del Espíritu en el nuevo pacto.",
+            "en": "The promise of Deut 30:6 — 'the LORD your God will circumcise your heart' — is the most explicit promise of regeneration in the Pentateuch: the new obedient heart Israel needs will not come from its own effort but from YHWH's direct action on the volitional organ, anticipating the Spirit's work in the new covenant.",
+            "pt": "A promessa de Dt 30:6 — 'o SENHOR teu Deus circuncidará o teu coração' — é a promessa mais explícita de regeneração no Pentateuco: o novo coração obediente que Israel precisa não virá de seu esforço, mas da ação direta de YHWH sobre o órgão volitivo, antecipando a obra do Espírito no novo pacto."
+          }
+        },
+        "secundarios": [
+          {
+            "Pacto": {
+              "es": "El pacto de Dt 29 alcanza a quienes no están presentes (Dt 29:15), estableciendo el principio de la transmisión generacional: el pacto del Sinaí obliga a todas las generaciones futuras de Israel, no solo a los presentes en el momento de su ratificación.",
+              "en": "The Deut 29 covenant reaches those not present (Deut 29:15), establishing the principle of generational transmission: the Sinai covenant binds all future generations of Israel, not only those present at the moment of its ratification.",
+              "pt": "A aliança de Dt 29 alcança os que não estão presentes (Dt 29:15), estabelecendo o princípio da transmissão geracional: a aliança do Sinai obriga todas as gerações futuras de Israel, não apenas os presentes no momento de sua ratificação."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Dt 30:1–10 anticipa con precisión profética el exilio (Dt 30:1,4) y la restauración: si Israel confiesa y regresa desde cualquier rincón del mundo, YHWH lo recogerá, restaurará su fortuna y circuncidará su corazón —promesa cuyo cumplimiento se inicia en el retorno del exilio y se consuma en el nuevo pacto.",
+              "en": "Deut 30:1–10 anticipates with prophetic precision the exile (Deut 30:1,4) and restoration: if Israel confesses and returns from anywhere in the world, YHWH will gather them, restore their fortunes, and circumcise their hearts — a promise whose fulfillment begins in the return from exile and is consummated in the new covenant.",
+              "pt": "Dt 30:1–10 antecipa com precisão profética o exílio (Dt 30:1,4) e a restauração: se Israel confessar e retornar de qualquer parte do mundo, YHWH o recolherá, restaurará sua fortuna e circuncidará seu coração — promessa cujo cumprimento começa no retorno do exílio e se consuma no novo pacto."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 31,
@@ -1123,7 +1501,52 @@
         "pt": "A comissão pública e divina de Josué como sucessor de Moisés (Dt 31:7–8,14–23)"
       },
       "versiculoClave": "Dt 31:8",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 13:5",
+          "tipo": "cita",
+          "nota": {
+            "es": "La promesa de Dt 31:6,8 —'no te dejaré ni te abandonaré'— es citada directamente en He 13:5 como fundamento de la contentamiento cristiano: la misma promesa que YHWH dio a Josué ante la muerte de Moisés es aplicada por el autor a los creyentes del nuevo pacto.",
+            "en": "The promise of Deut 31:6,8 — 'I will not leave you or forsake you' — is directly cited in Heb 13:5 as the foundation of Christian contentment: the same promise YHWH gave Joshua before Moses' death is applied by the author to new covenant believers.",
+            "pt": "A promessa de Dt 31:6,8 — 'não te deixarei nem te abandonarei' — é citada diretamente em Hb 13:5 como fundamento do contentamento cristão: a mesma promessa que YHWH deu a Josué diante da morte de Moisés é aplicada pelo autor aos crentes do novo pacto."
+          }
+        },
+        {
+          "ref": "Jos 1:5–9",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La comisión de Josué en Dt 31:7–8 halla su cumplimiento inmediato en Jos 1:5–9, donde YHWH repite directamente los términos de la comisión de Dt 31: 'esfuérzate y sé valiente… no te dejaré ni te abandonaré', pasando el mando de Moisés a Josué bajo garantía divina.",
+            "en": "Joshua's commission in Deut 31:7–8 finds its immediate fulfillment in Josh 1:5–9, where YHWH directly repeats the terms of the Deut 31 commission: 'be strong and courageous… I will not leave you or forsake you,' passing command from Moses to Joshua under divine guarantee.",
+            "pt": "A comissão de Josué em Dt 31:7–8 encontra seu cumprimento imediato em Js 1:5–9, onde YHWH repete diretamente os termos da comissão de Dt 31: 'sê forte e corajoso… não te deixarei nem te abandonarei', passando o comando de Moisés a Josué sob garantia divina."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "La doble investidura de Josué —pública por Moisés (Dt 31:7–8) y divina en el tabernáculo (Dt 31:14–23)— establece el patrón del liderazgo del pacto: la elección divina precede y legitima el reconocimiento humano, y la comisión de YHWH es el fundamento irrevocable de la misión.",
+            "en": "Joshua's double investiture — public by Moses (Deut 31:7–8) and divine at the tent of meeting (Deut 31:14–23) — establishes the covenant leadership pattern: divine election precedes and legitimates human recognition, and YHWH's commission is the irrevocable foundation of the mission.",
+            "pt": "A dupla investidura de Josué — pública por Moisés (Dt 31:7–8) e divina no tabernáculo (Dt 31:14–23) — estabelece o padrão da liderança da aliança: a eleição divina precede e legitima o reconhecimento humano, e a comissão de YHWH é o fundamento irrevogável da missão."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "El depósito de la ley escrita con los sacerdotes levitas y la lectura pública cada siete años (Dt 31:9–13,24–26) institucionalizan la lectura pública de la Escritura como el mecanismo de renovación del pacto: la palabra de Dios proclamada ante todo el pueblo es el instrumento de formación intergeneracional.",
+              "en": "The deposit of the written law with the Levitical priests and the public reading every seven years (Deut 31:9–13,24–26) institutionalize the public reading of Scripture as the covenant renewal mechanism: the word of God proclaimed before all the people is the intergenerational formation instrument.",
+              "pt": "O depósito da lei escrita com os sacerdotes levitas e a leitura pública a cada sete anos (Dt 31:9–13,24–26) institucionalizam a leitura pública da Escritura como o mecanismo de renovação da aliança: a palavra de Deus proclamada diante de todo o povo é o instrumento de formação intergeracional."
+            }
+          },
+          {
+            "Profeta/Profecía": {
+              "es": "El cántico que YHWH ordena escribir a Moisés como 'testimonio' contra Israel (Dt 31:19–22) establece la función canónica de la poesía profética: cuando Israel se aparte de YHWH, el cántico será testigo contra ellos, anticipando la función de acusación de los profetas escribas del AT.",
+              "en": "The song that YHWH commands Moses to write as a 'witness' against Israel (Deut 31:19–22) establishes the canonical function of prophetic poetry: when Israel turns away from YHWH, the song will testify against them, anticipating the accusatory function of the OT writing prophets.",
+              "pt": "O cântico que YHWH ordena Moisés a escrever como 'testemunho' contra Israel (Dt 31:19–22) estabelece a função canônica da poesia profética: quando Israel se afastar de YHWH, o cântico testificará contra eles, antecipando a função de acusação dos profetas escritores do AT."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 32,
@@ -1144,7 +1567,61 @@
         "pt": "A doxologia final do cântico: o SENHOR vindica seu povo e tem misericórdia de seus servos (Dt 32:36–43)"
       },
       "versiculoClave": "Dt 32:4",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 15:10",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Dt 32:43 —'Alabad, naciones, a su pueblo'— en su catena de textos sobre la inclusión de los gentiles (Ro 15:10), demostrando que el cántico de Moisés ya contenía la promesa de que las naciones participarían en la alabanza del Dios de Israel junto con su pueblo.",
+            "en": "Paul cites Deut 32:43 — 'Rejoice, O Gentiles, with his people' — in his catena of texts on Gentile inclusion (Rom 15:10), demonstrating that the Song of Moses already contained the promise that the nations would share in praising Israel's God alongside his people.",
+            "pt": "Paulo cita Dt 32:43 — 'Alegrai-vos, nações, com o seu povo' — em sua catena de textos sobre a inclusão dos gentios (Rm 15:10), demonstrando que o cântico de Moisés já continha a promessa de que as nações participariam do louvor ao Deus de Israel junto com seu povo."
+          }
+        },
+        {
+          "ref": "He 1:6",
+          "tipo": "cita",
+          "nota": {
+            "es": "El autor de Hebreos cita la LXX de Dt 32:43 —'adórenle todos los ángeles de Dios'— como escritura que apunta al Hijo de Dios (He 1:6), leyendo el cántico de Moisés como una profecía sobre la adoración que el Mesías recibirá de todas las huestes celestiales en su venida.",
+            "en": "The author of Hebrews cites the LXX of Deut 32:43 — 'let all God's angels worship him' — as Scripture pointing to the Son of God (Heb 1:6), reading the Song of Moses as a prophecy about the worship the Messiah will receive from all the heavenly hosts at his coming.",
+            "pt": "O autor de Hebreus cita a LXX de Dt 32:43 — 'adorem-no todos os anjos de Deus' — como escritura que aponta para o Filho de Deus (Hb 1:6), lendo o cântico de Moisés como uma profecia sobre a adoração que o Messias receberá de todas as hostes celestiais em sua vinda."
+          }
+        },
+        {
+          "ref": "Ap 15:3–4",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "En Ap 15:3–4, los vencedores que han triunfado sobre la bestia cantan 'el cántico de Moisés siervo de Dios y el cántico del Cordero', identificando el Dt 32 con el himno escatológico final: el triunfo del Dios que es la Roca (Dt 32:4) sobre sus enemigos halla su consumación en el juicio apocalíptico.",
+            "en": "In Rev 15:3–4, the victors who have triumphed over the beast sing 'the song of Moses, the servant of God, and the song of the Lamb,' identifying Deut 32 with the final eschatological hymn: the triumph of the God who is the Rock (Deut 32:4) over his enemies finds its consummation in the apocalyptic judgment.",
+            "pt": "Em Ap 15:3–4, os vencedores que triunfaram sobre a besta cantam 'o cântico de Moisés, servo de Deus, e o cântico do Cordeiro', identificando Dt 32 com o hino escatológico final: o triunfo do Deus que é a Rocha (Dt 32:4) sobre seus inimigos encontra sua consumação no julgamento apocalíptico."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "El cántico de Moisés proclama a YHWH como la Roca cuyas obras son perfectas, cuyo camino es recto y que es fiel sin iniquidad (Dt 32:4), contrastando su perfecta fidelidad con la rebeldía de Israel. La estructura completa del cántico es un testimonio de la fidelidad inquebrantable de YHWH que vindica a su pueblo (Dt 32:36–43).",
+            "en": "The Song of Moses proclaims YHWH as the Rock whose works are perfect, whose way is upright, and who is faithful without iniquity (Deut 32:4), contrasting his perfect faithfulness with Israel's rebellion. The song's entire structure is a testimony to YHWH's unbreakable faithfulness that vindicates his people (Deut 32:36–43).",
+            "pt": "O cântico de Moisés proclama YHWH como a Rocha cujas obras são perfeitas, cujo caminho é reto e que é fiel sem iniquidade (Dt 32:4), contrastando sua perfeita fidelidade com a rebelião de Israel. A estrutura completa do cântico é um testemunho da fidelidade inabalável de YHWH que vindica seu povo (Dt 32:36–43)."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "El centro diagnóstico del cántico es la apostasía de Israel: Jeshurun engordó y abandonó a Dios que lo creó (Dt 32:15–18), sacrificando a demonios y a dioses que no conocía (Dt 32:17), haciendo de la idolatría el pecado radical que desencadena todos los juicios que siguen.",
+              "en": "The diagnostic center of the song is Israel's apostasy: Jeshurun grew fat and abandoned the God who made him (Deut 32:15–18), sacrificing to demons and to gods they had not known (Deut 32:17), making idolatry the radical sin that unleashes all the judgments that follow.",
+              "pt": "O centro diagnóstico do cântico é a apostasia de Israel: Jesurum engordou e abandonou o Deus que o criou (Dt 32:15–18), sacrificando a demônios e a deuses que não conhecia (Dt 32:17), tornando a idolatria o pecado radical que desencadeia todos os julgamentos que se seguem."
+            }
+          },
+          {
+            "Ira de Dios/Juicio": {
+              "es": "El juicio anunciado en Dt 32:19–35 —esconder el rostro divino, usar a las naciones como instrumento de juicio, fuego que devora hasta el sheol— revela la ira judicial de YHWH como el reverso necesario de su amor de pacto: el que puede bendecir también puede juzgar con fuego.",
+              "en": "The judgment announced in Deut 32:19–35 — hiding the divine face, using the nations as an instrument of judgment, fire that devours to Sheol — reveals YHWH's judicial wrath as the necessary obverse of his covenant love: the one who can bless can also judge with fire.",
+              "pt": "O julgamento anunciado em Dt 32:19–35 — esconder o rosto divino, usar as nações como instrumento de julgamento, fogo que devora até o sheol — revela a ira judicial de YHWH como o reverso necessário de seu amor de aliança: aquele que pode abençoar também pode julgar com fogo."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 33,
@@ -1165,7 +1642,52 @@
         "pt": "O hino final à incomparabilidade do SENHOR como escudo e espada de Israel (Dt 33:26–29)"
       },
       "versiculoClave": "Dt 33:27",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 49:1–28",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La bendición de Moisés sobre las doce tribus (Dt 33) es el paralelo estructural directo de la bendición de Jacob en Gn 49:1–28: ambas son bendiciones proféticas en forma poética dadas antes de la muerte del patriarca-líder sobre las doce tribus, siguiendo el mismo patrón de testamento profético.",
+            "en": "Moses's blessing over the twelve tribes (Deut 33) is the direct structural parallel of Jacob's blessing in Gen 49:1–28: both are prophetic blessings in poetic form given before the death of the patriarch-leader over the twelve tribes, following the same prophetic testament pattern.",
+            "pt": "A bênção de Moisés sobre as doze tribos (Dt 33) é o paralelo estrutural direto da bênção de Jacó em Gn 49:1–28: ambas são bênçãos proféticas em forma poética dadas antes da morte do patriarca-líder sobre as doze tribos, seguindo o mesmo padrão de testamento profético."
+          }
+        },
+        {
+          "ref": "He 11:21",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El autor de Hebreos cita la bendición de Jacob sobre las tribus (He 11:21) como ejemplo paradigmático de la fe que actúa proféticamente antes de la muerte, estableciendo que Moisés en Dt 33 participa del mismo patrón de fe profético-testamentaria que el capítulo 11 celebra.",
+            "en": "The author of Hebrews cites Jacob's blessing of the tribes (Heb 11:21) as a paradigmatic example of faith that acts prophetically before death, establishing that Moses in Deut 33 participates in the same prophetic-testamentary faith pattern that chapter 11 celebrates.",
+            "pt": "O autor de Hebreus cita a bênção de Jacó sobre as tribos (Hb 11:21) como exemplo paradigmático da fé que age profeticamente antes da morte, estabelecendo que Moisés em Dt 33 participa do mesmo padrão de fé profético-testamentário que o capítulo 11 celebra."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "La bendición de las doce tribus (Dt 33) define el carácter diferenciado del pueblo de Dios: cada tribu recibe su vocación y destino particulares dentro de la unidad del pueblo del pacto, mostrando que Israel es orgánicamente uno pero no uniformemente idéntico en sus llamados y roles.",
+            "en": "The blessing of the twelve tribes (Deut 33) defines the differentiated character of God's people: each tribe receives its particular vocation and destiny within the unity of the covenant people, showing that Israel is organically one but not uniformly identical in its callings and roles.",
+            "pt": "A bênção das doze tribos (Dt 33) define o caráter diferenciado do povo de Deus: cada tribo recebe sua vocação e destino particulares dentro da unidade do povo da aliança, mostrando que Israel é organicamente um, mas não uniformemente idêntico em seus chamados e papéis."
+          }
+        },
+        "secundarios": [
+          {
+            "Reino de Dios": {
+              "es": "El himno que enmarca la bendición (Dt 33:2–5,26–29) proclama a YHWH como rey de Jeshurun y guerrero que 'cabalga sobre los cielos en tu ayuda' (Dt 33:26), estableciendo el tema del reino de YHWH como el fundamento teológico sobre el que descansa toda bendición tribal.",
+              "en": "The hymn framing the blessing (Deut 33:2–5,26–29) proclaims YHWH as king of Jeshurun and warrior who 'rides through the heavens to your help' (Deut 33:26), establishing the theme of YHWH's kingdom as the theological foundation on which all tribal blessing rests.",
+              "pt": "O hino que enquadra a bênção (Dt 33:2–5,26–29) proclama YHWH como rei de Jesurum e guerreiro que 'cavalga pelos céus em teu socorro' (Dt 33:26), estabelecendo o tema do reino de YHWH como o fundamento teológico sobre o qual repousa toda bênção tribal."
+            }
+          },
+          {
+            "Sacerdocio": {
+              "es": "La bendición sobre Leví (Dt 33:8–11) define el rol sacerdotal y docente de la tribu: guardar el Urim y Tumim (Dt 33:8), enseñar los estatutos a Jacob (Dt 33:10) y ofrecer el incienso y el holocausto (Dt 33:10), consolidando al sacerdocio levítico como el ministerio mediador y docente de Israel.",
+              "en": "The blessing on Levi (Deut 33:8–11) defines the priestly and teaching role of the tribe: keeping the Thummim and Urim (Deut 33:8), teaching Jacob the statutes (Deut 33:10), and offering incense and burnt offerings (Deut 33:10), consolidating the Levitical priesthood as Israel's mediating and teaching ministry.",
+              "pt": "A bênção sobre Levi (Dt 33:8–11) define o papel sacerdotal e docente da tribo: guardar o Tumim e o Urim (Dt 33:8), ensinar os estatutos a Jacó (Dt 33:10) e oferecer o incenso e o holocausto (Dt 33:10), consolidando o sacerdócio levítico como o ministério mediador e docente de Israel."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 34,
@@ -1186,7 +1708,61 @@
         "pt": "A morte de Moisés e o elogio final: 'Nunca mais se levantou em Israel um profeta como Moisés, a quem o SENHOR conhecia face a face' (Dt 34:10)"
       },
       "versiculoClave": "Dt 34:10",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 17:3",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Moisés, que murió sin entrar a la tierra prometida (Dt 34:4–5), aparece glorificado en la Transfiguración junto a Elías y Jesús (Mt 17:3): el mayor profeta del AT que 'nunca más se levantó' (Dt 34:10) es presentado en gloria ante los discípulos, señalando que su obra culminó en Cristo.",
+            "en": "Moses, who died without entering the promised land (Deut 34:4–5), appears glorified at the Transfiguration alongside Elijah and Jesus (Matt 17:3): the greatest OT prophet who 'never arose again' (Deut 34:10) is presented in glory before the disciples, indicating that his work culminated in Christ.",
+            "pt": "Moisés, que morreu sem entrar na terra prometida (Dt 34:4–5), aparece glorificado na Transfiguração ao lado de Elias e Jesus (Mt 17:3): o maior profeta do AT que 'nunca mais se levantou' (Dt 34:10) é apresentado em glória diante dos discípulos, sinalizando que sua obra culminou em Cristo."
+          }
+        },
+        {
+          "ref": "He 3:5–6",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El elogio de Dt 34:10–12 que presenta a Moisés como el siervo fiel que conoció a Dios cara a cara es el trasfondo de He 3:5–6: 'Moisés a la verdad fue fiel en toda la casa de Dios, como siervo… pero Cristo como Hijo sobre su propia casa', señalando la superioridad tipológica de Cristo sobre Moisés.",
+            "en": "The Deut 34:10–12 eulogy presenting Moses as the faithful servant who knew God face to face is the background of Heb 3:5–6: 'Moses was faithful in all God's house as a servant… but Christ is faithful over God's house as a Son,' pointing to the typological superiority of Christ over Moses.",
+            "pt": "O elogio de Dt 34:10–12 que apresenta Moisés como o servo fiel que conheceu a Deus face a face é o pano de fundo de Hb 3:5–6: 'Moisés foi fiel em toda a casa de Deus como servo… mas Cristo como Filho sobre a sua própria casa', apontando para a superioridade tipológica de Cristo sobre Moisés."
+          }
+        },
+        {
+          "ref": "Jud 1:9",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El sepulcro de Moisés que nadie conoce (Dt 34:6) es el trasfondo de la alusión de Judas al arcángel Miguel contendiendo con el diablo por el cuerpo de Moisés (Jud 9), tradición que refleja la importancia escatológica del cuerpo del mayor profeta para la esperanza de la resurrección.",
+            "en": "The tomb of Moses that no one knows (Deut 34:6) is the background of Jude's allusion to the archangel Michael contending with the devil over Moses's body (Jude 9), a tradition reflecting the eschatological importance of the greatest prophet's body for the hope of resurrection.",
+            "pt": "O sepulcro de Moisés que ninguém conhece (Dt 34:6) é o pano de fundo da alusão de Judas ao arcanjo Miguel contendendo com o diabo pelo corpo de Moisés (Jd 9), tradição que reflete a importância escatológica do corpo do maior profeta para a esperança da ressurreição."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Profeta/Profecía": {
+            "es": "El elogio final —'nunca más se levantó en Israel profeta como Moisés, a quien YHWH conoció cara a cara' (Dt 34:10)— es tanto una clausura histórica como una apertura canónica: al declarar que ningún profeta lo ha igualado, el texto crea la expectativa de un profeta mayor que Moisés, cumplida en Cristo (Hch 3:22–23).",
+            "en": "The closing eulogy — 'there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face' (Deut 34:10) — is both a historical closure and a canonical opening: by declaring that no prophet has equaled him, the text creates the expectation of a prophet greater than Moses, fulfilled in Christ (Acts 3:22–23).",
+            "pt": "O elogio final — 'nunca mais se levantou em Israel um profeta como Moisés, a quem o SENHOR conhecia face a face' (Dt 34:10) — é ao mesmo tempo um encerramento histórico e uma abertura canônica: ao declarar que nenhum profeta o igualou, o texto cria a expectativa de um profeta maior que Moisés, cumprida em Cristo (At 3:22–23)."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "YHWH muestra a Moisés 'toda la tierra… la tierra que juré a Abraham, a Isaac y a Jacob' (Dt 34:4): el patriarca que no puede entrar ve la promesa cumplida ante sus ojos, certificando que YHWH es fiel incluso cuando el cumplimiento llega a través de la muerte y la sucesión.",
+              "en": "YHWH shows Moses 'all the land… the land that I swore to Abraham, to Isaac, and to Jacob' (Deut 34:4): the patriarch who cannot enter sees the promise fulfilled before his eyes, certifying that YHWH is faithful even when fulfillment comes through death and succession.",
+              "pt": "YHWH mostra a Moisés 'toda a terra… a terra que jurei a Abraão, a Isaque e a Jacó' (Dt 34:4): o patriarca que não pode entrar vê a promessa cumprida diante de seus olhos, certificando que YHWH é fiel mesmo quando o cumprimento vem através da morte e da sucessão."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "YHWH mismo sepulta a Moisés en lugar desconocido (Dt 34:6): el siervo más grande del AT no recibe monumento ni tumba conocida, porque su grandeza no consiste en la perpetuación de su memoria humana sino en haber sido llamado, comisionado y consumado por la soberanía divina.",
+              "en": "YHWH himself buries Moses in an unknown place (Deut 34:6): the greatest servant of the OT receives no monument or known tomb, because his greatness consists not in perpetuating his human memory but in having been called, commissioned, and completed by divine sovereignty.",
+              "pt": "O próprio YHWH sepulta Moisés em lugar desconhecido (Dt 34:6): o maior servo do AT não recebe monumento nem sepulcro conhecido, porque sua grandeza não consiste em perpetuar sua memória humana, mas em ter sido chamado, comissionado e consumado pela soberania divina."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [
@@ -1606,7 +2182,7 @@
     "versionBiblia": {
       "es": "NBLA",
       "en": "ESV",
-      "pt": "NAA"
+      "pt": "ARC"
     },
     "pipeline": {
       "faseActual": 3,

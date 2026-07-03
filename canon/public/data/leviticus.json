@@ -414,7 +414,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Lv 1:1",
@@ -554,7 +554,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Lv 8:1",
@@ -666,7 +666,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Lv 10:1-2",
@@ -1051,7 +1051,61 @@
         "pt": "YHWH estabelece o princípio de que o aroma agradável das ofertas sobe a ele quando apresentadas conforme suas instruções (Lv 1:9,13,17; 2:2; 3:5,16)"
       },
       "versiculoClave": "Lv 1:4",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 10:1–10",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El autor de Hebreos contrasta las ofrendas levíticas repetidas —mera sombra de los bienes venideros (He 10:1)— con el sacrificio único y perfecto de Cristo que cumple y abole el sistema de Lv 1–3.",
+            "en": "The author of Hebrews contrasts the repeated Levitical offerings — mere shadow of the good things to come (Heb 10:1) — with Christ's single and perfect sacrifice that fulfills and abolishes the system of Lev 1–3.",
+            "pt": "O autor de Hebreus contrasta as ofertas levíticas repetidas — mera sombra dos bens futuros (Hb 10:1) — com o sacrifício único e perfeito de Cristo que cumpre e abole o sistema de Lv 1–3."
+          }
+        },
+        {
+          "ref": "Ef 5:2",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pablo aplica directamente el lenguaje del 'aroma fragante' (Lv 1:9,13,17) a la ofrenda de Cristo: 'se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante' (Ef 5:2).",
+            "en": "Paul directly applies the 'pleasing aroma' language (Lev 1:9,13,17) to Christ's offering: 'gave himself up for us, a fragrant offering and sacrifice to God' (Eph 5:2).",
+            "pt": "Paulo aplica diretamente a linguagem do 'aroma suave' (Lv 1:9,13,17) à oferta de Cristo: 'se entregou a si mesmo por nós como oferta e sacrifício a Deus, em cheiro suave' (Ef 5:2)."
+          }
+        },
+        {
+          "ref": "Ro 12:1",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Pablo transforma el lenguaje del holocausto (ofrenda consumida completamente, Lv 1) en la exhortación cristiana: 'presentéis vuestros cuerpos como sacrificio vivo, santo, agradable a Dios' (Ro 12:1).",
+            "en": "Paul transforms the burnt-offering language (totally consumed, Lev 1) into Christian exhortation: 'present your bodies as a living sacrifice, holy and acceptable to God' (Rom 12:1).",
+            "pt": "Paulo transforma a linguagem do holocausto (oferta totalmente consumida, Lv 1) na exortação cristã: 'apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus' (Rm 12:1)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacrificio/Expiación": {
+            "es": "Las tres ofrendas de Lv 1–3 —holocausto, ofrenda de grano y de paz— establecen el principio de que el acceso a YHWH requiere una sustitución sin defecto presentada en su lugar (Lv 1:3–4), prefigurando el sacrificio perfecto de Cristo.",
+            "en": "The three offerings of Lev 1–3 — burnt, grain, and peace offerings — establish the principle that access to YHWH requires an unblemished substitute presented in one's place (Lev 1:3–4), foreshadowing Christ's perfect sacrifice.",
+            "pt": "As três ofertas de Lv 1–3 — holocausto, oferta de cereal e de paz — estabelecem o princípio de que o acesso a YHWH requer um substituto sem defeito apresentado em seu lugar (Lv 1:3–4), prefigurando o sacrifício perfeito de Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "La exigencia de animales sin defecto (tamîm, Lv 1:3,10; 3:1) refleja que la santidad de YHWH no puede ser honrada con ofrendas defectuosas, tipificando la perfección moral absoluta de Cristo como ofrenda (He 9:14).",
+              "en": "The requirement for unblemished animals (tamîm, Lev 1:3,10; 3:1) reflects that YHWH's holiness cannot be honored with defective offerings, typifying the absolute moral perfection of Christ as offering (Heb 9:14).",
+              "pt": "A exigência de animais sem defeito (tamîm, Lv 1:3,10; 3:1) reflete que a santidade de YHWH não pode ser honrada com ofertas defeituosas, tipificando a perfeição moral absoluta de Cristo como oferta (Hb 9:14)."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "El 'aroma agradable a YHWH' (Lv 1:9,13,17; 2:2; 3:5,16) indica que las ofrendas correctamente presentadas son aceptadas ante su presencia en el tabernáculo, restaurando la comunión entre el oferente y Dios.",
+              "en": "The 'pleasing aroma to YHWH' (Lev 1:9,13,17; 2:2; 3:5,16) indicates that correctly presented offerings are accepted before his presence in the tabernacle, restoring fellowship between the offerer and God.",
+              "pt": "O 'aroma suave a YHWH' (Lv 1:9,13,17; 2:2; 3:5,16) indica que as ofertas corretamente apresentadas são aceitas diante de sua presença no tabernáculo, restaurando a comunhão entre o ofertante e Deus."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 4,
@@ -1072,7 +1126,61 @@
         "pt": "O sacerdote faz expiação pela pessoa que pecou e ela é perdoada (Lv 4:35; 5:10), estabelecendo o princípio de que a expiação efetua perdão real"
       },
       "versiculoClave": "Lv 4:2",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 9:13–14",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El contraste de Hebreos entre la sangre de toros y machos cabríos (Lv 4–5) que purifica la carne y la sangre de Cristo que purifica la conciencia revela el cumplimiento y superación del sistema levítico.",
+            "en": "Hebrews' contrast between the blood of bulls and goats (Lev 4–5) that purifies the flesh and the blood of Christ that purifies the conscience reveals the fulfillment and supersession of the Levitical system.",
+            "pt": "O contraste de Hebreus entre o sangue de touros e bodes (Lv 4–5) que purifica a carne e o sangue de Cristo que purifica a consciência revela o cumprimento e a superação do sistema levítico."
+          }
+        },
+        {
+          "ref": "Is 53:10",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El Siervo de YHWH es descrito como ofrenda por la culpa (ʾāšām, Is 53:10), el mismo término técnico de Lv 5, conectando el sistema levítico directamente con la obra expiatoria de Cristo.",
+            "en": "YHWH's Servant is described as a guilt offering (ʾāšām, Isa 53:10), the same technical term as in Lev 5, directly connecting the Levitical system with Christ's atoning work.",
+            "pt": "O Servo de YHWH é descrito como oferta pela culpa (ʾāšām, Is 53:10), o mesmo termo técnico de Lv 5, conectando diretamente o sistema levítico com a obra expiatória de Cristo."
+          }
+        },
+        {
+          "ref": "Ro 8:3",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pablo usa la terminología de la ofrenda por el pecado (ḥaṭṭāʾt) al afirmar que Dios envió a su Hijo 'en semejanza de carne de pecado y a causa del pecado' (Ro 8:3), cumpliendo lo que los sacrificios de Lv 4 prefiguraban.",
+            "en": "Paul uses sin-offering (ḥaṭṭāʾt) terminology in affirming that God sent his Son 'in the likeness of sinful flesh and for sin' (Rom 8:3), fulfilling what the Lev 4 sacrifices foreshadowed.",
+            "pt": "Paulo usa a terminologia da oferta pelo pecado (ḥaṭṭāʾt) ao afirmar que Deus enviou seu Filho 'em semelhança da carne do pecado e por causa do pecado' (Rm 8:3), cumprindo o que os sacrifícios de Lv 4 prefiguravam."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacrificio/Expiación": {
+            "es": "Las ofrendas ḥaṭṭāʾt y ʾāšām instituyen el principio expiatorio central: el sacerdote hace expiación y la persona es perdonada (Lv 4:35; 5:10), anticipando la obra de Cristo como sumo sacerdote y víctima en una sola persona.",
+            "en": "The ḥaṭṭāʾt and ʾāšām offerings institute the central expiatory principle: the priest makes atonement and the person is forgiven (Lev 4:35; 5:10), anticipating Christ's work as both high priest and victim in one person.",
+            "pt": "As ofertas ḥaṭṭāʾt e ʾāšām instituem o princípio expiatório central: o sacerdote faz expiação e a pessoa é perdoada (Lv 4:35; 5:10), antecipando a obra de Cristo como sumo sacerdote e vítima em uma só pessoa."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "La diferenciación de pecados involuntarios según el rango del pecador (sacerdote, congregación, gobernante, individuo en Lv 4:2–27) revela la condición universal del pecado que contamina a toda la comunidad del pacto.",
+              "en": "The differentiation of unintentional sins according to the rank of the sinner (priest, congregation, ruler, individual in Lev 4:2–27) reveals the universal condition of sin that contaminates the entire covenant community.",
+              "pt": "A diferenciação dos pecados involuntários segundo a posição do pecador (sacerdote, congregação, governante, indivíduo em Lv 4:2–27) revela a condição universal do pecado que contamina toda a comunidade da aliança."
+            }
+          },
+          {
+            "Sustitución": {
+              "es": "La imposición de manos sobre la cabeza del animal (Lv 4:4,24,29,33) transfiere la culpa del oferente a la víctima, estableciendo la sustitución como principio constitutivo de la expiación levítica.",
+              "en": "The laying of hands on the animal's head (Lev 4:4,24,29,33) transfers the offerer's guilt to the victim, establishing substitution as the constitutive principle of Levitical atonement.",
+              "pt": "A imposição das mãos sobre a cabeça do animal (Lv 4:4,24,29,33) transfere a culpa do ofertante para a vítima, estabelecendo a substituição como princípio constitutivo da expiação levítica."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 6,
@@ -1093,7 +1201,52 @@
         "pt": "O mandamento de que o fogo do altar arda continuamente sem nunca se apagar (Lv 6:12-13), simbolizando a adoração perpétua e ininterrupta que YHWH merece"
       },
       "versiculoClave": "Lv 6:13",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 7:27",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Las instrucciones sacerdotales de Lv 6–7 para las ofrendas diarias y los procedimientos repetidos hallan su antítipo en Cristo, quien 'no necesita ofrecer sacrificios cada día… porque esto lo hizo una vez para siempre' (He 7:27).",
+            "en": "The priestly instructions of Lev 6–7 for daily offerings and repeated procedures find their antitype in Christ, who 'has no need to offer sacrifices daily… for he did this once for all' (Heb 7:27).",
+            "pt": "As instruções sacerdotais de Lv 6–7 para as ofertas diárias e os procedimentos repetidos encontram seu antítipo em Cristo, que 'não precisa oferecer sacrifícios diariamente… porque fez isso uma vez para sempre' (Hb 7:27)."
+          }
+        },
+        {
+          "ref": "1Co 9:13–14",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo apela directamente a la norma de Lv 6–7 —los sacerdotes reciben su sustento del altar— para defender el derecho de los ministros evangélicos a ser sostenidos por las iglesias (1Co 9:13–14).",
+            "en": "Paul directly appeals to the norm of Lev 6–7 — priests receive their sustenance from the altar — to defend the right of gospel ministers to be supported by churches (1Cor 9:13–14).",
+            "pt": "Paulo apela diretamente à norma de Lv 6–7 — os sacerdotes recebem seu sustento do altar — para defender o direito dos ministros evangélicos de serem sustentados pelas igrejas (1Co 9:13–14)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "Los capítulos 6–7 están dirigidos específicamente a los sacerdotes (Lv 6:9,25; 7:1) y definen el servicio mediatorial continuo del sacerdocio levítico, cuyo signo más prominente es el fuego que nunca se apaga (Lv 6:12–13).",
+            "en": "Chapters 6–7 are addressed specifically to the priests (Lev 6:9,25; 7:1) and define the continuous mediatorial service of the Levitical priesthood, whose most prominent sign is the fire that never goes out (Lev 6:12–13).",
+            "pt": "Os capítulos 6–7 são dirigidos especificamente aos sacerdotes (Lv 6:9,25; 7:1) e definem o serviço mediatorial contínuo do sacerdócio levítico, cujo sinal mais proeminente é o fogo que nunca se apaga (Lv 6:12–13)."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "El fuego perpétuo del altar (Lv 6:12–13) y la santidad de las porciones sacerdotales (Lv 6:17,25) simbolizan que el culto levítico es continuo y consagrado, sin interrupciones ni contaminaciones.",
+              "en": "The perpetual altar fire (Lev 6:12–13) and the holiness of priestly portions (Lev 6:17,25) symbolize that Levitical worship is continuous and consecrated, with no interruptions or contaminations.",
+              "pt": "O fogo perpétuo do altar (Lv 6:12–13) e a santidade das porções sacerdotais (Lv 6:17,25) simbolizam que o culto levítico é contínuo e consagrado, sem interrupções nem contaminações."
+            }
+          },
+          {
+            "Sacrificio/Expiación": {
+              "es": "Los procedimientos detallados para cada tipo de ofrenda (Lv 6:14–7:38) garantizan que la función expiatoria y de comunión de los sacrificios se ejecute fielmente según los estándares de YHWH.",
+              "en": "The detailed procedures for each offering type (Lev 6:14–7:38) ensure that the atoning and fellowship functions of sacrifices are faithfully executed according to YHWH's standards.",
+              "pt": "Os procedimentos detalhados para cada tipo de oferta (Lv 6:14–7:38) garantem que a função expiatória e de comunhão dos sacrifícios seja executada fielmente segundo os padrões de YHWH."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 8,
@@ -1114,7 +1267,61 @@
         "pt": "O fogo de YHWH desce do céu para consumir o primeiro holocausto oficial de Arão e todo o povo grita de alegria e cai com o rosto em terra (Lv 9:23-24)"
       },
       "versiculoClave": "Lv 9:24",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 5:1–6",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La ordenación de Aarón (Lv 8) es el tipo de la designación de Cristo como sumo sacerdote: ambos son llamados por Dios, no se nombran a sí mismos (He 5:4–6), aunque Cristo es sacerdote según el orden de Melquisedec, superior al aarónico.",
+            "en": "Aaron's ordination (Lev 8) is the type of Christ's appointment as high priest: both are called by God, not self-appointed (Heb 5:4–6), though Christ is priest after the order of Melchizedek, superior to the Aaronic.",
+            "pt": "A ordenação de Arão (Lv 8) é o tipo da designação de Cristo como sumo sacerdote: ambos são chamados por Deus, não se nomeiam a si mesmos (Hb 5:4–6), embora Cristo seja sacerdote segundo a ordem de Melquisedeque, superior à aaronita."
+          }
+        },
+        {
+          "ref": "He 7:26–28",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Mientras Aarón necesitaba purificarse a sí mismo antes de ministrar (Lv 8:6–9; 9:7–8), Cristo es 'santo, inocente, sin mancha, apartado de los pecadores' (He 7:26), sin necesitar sacrificio personal.",
+            "en": "While Aaron needed to purify himself before ministering (Lev 8:6–9; 9:7–8), Christ is 'holy, innocent, unstained, separated from sinners' (Heb 7:26), requiring no personal sacrifice.",
+            "pt": "Enquanto Arão precisava purificar-se a si mesmo antes de ministrar (Lv 8:6–9; 9:7–8), Cristo é 'santo, inocente, sem mácula, separado dos pecadores' (Hb 7:26), sem necessitar de sacrifício pessoal."
+          }
+        },
+        {
+          "ref": "Jn 1:14",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El descenso del fuego de YHWH sobre el tabernáculo inaugurado (Lv 9:23–24) prefigura la encarnación: el Verbo 'tabernaculizó entre nosotros y vimos su gloria' (Jn 1:14), gloria que ahora mora en Cristo en lugar del tabernáculo.",
+            "en": "The descent of YHWH's fire on the newly inaugurated tabernacle (Lev 9:23–24) foreshadows the incarnation: the Word 'tabernacled among us and we have seen his glory' (John 1:14), glory now dwelling in Christ rather than the tabernacle.",
+            "pt": "A descida do fogo de YHWH sobre o tabernáculo recém-inaugurado (Lv 9:23–24) prefigura a encarnação: o Verbo 'tabernaculou entre nós e vimos a sua glória' (Jo 1:14), glória que agora mora em Cristo em vez do tabernáculo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "La ordenación de Aarón y sus hijos (Lv 8) y la inauguración oficial de su ministerio (Lv 9) establece el sacerdocio levítico como la institución mediatorial central del pacto mosaico, tipificando el sacerdocio eterno de Cristo.",
+            "en": "The ordination of Aaron and his sons (Lev 8) and the official inauguration of their ministry (Lev 9) establishes the Levitical priesthood as the central mediatorial institution of the Mosaic covenant, typifying Christ's eternal priesthood.",
+            "pt": "A ordenação de Arão e seus filhos (Lv 8) e a inauguração oficial de seu ministério (Lv 9) estabelece o sacerdócio levítico como a instituição mediatorial central da aliança mosaica, tipificando o sacerdócio eterno de Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Gloria de Dios": {
+              "es": "El fuego de YHWH que desciende del cielo para consumir el holocausto de Aarón (Lv 9:23–24) es una teofanía de gloria que certifica la aceptación divina del nuevo sacerdocio y anticipa la gloria de Cristo.",
+              "en": "YHWH's fire descending from heaven to consume Aaron's burnt offering (Lev 9:23–24) is a theophany of glory certifying divine acceptance of the new priesthood and anticipating the glory of Christ.",
+              "pt": "O fogo de YHWH que desce do céu para consumir o holocausto de Arão (Lv 9:23–24) é uma teofania de glória que certifica a aceitação divina do novo sacerdócio e antecipa a glória de Cristo."
+            }
+          },
+          {
+            "Palabra de Dios/Ley": {
+              "es": "La fórmula 'como el SEÑOR lo mandó a Moisés' (siete veces en Lv 8) subraya que la obediencia exacta a la palabra divina es condición de la adoración aceptable, no la innovación ni la iniciativa humana.",
+              "en": "The formula 'as the LORD commanded Moses' (seven times in Lev 8) underscores that exact obedience to the divine word is the condition of acceptable worship, not human innovation or initiative.",
+              "pt": "A fórmula 'como o SENHOR ordenou a Moisés' (sete vezes em Lv 8) sublinha que a obediência exata à palavra divina é condição da adoração aceitável, não a inovação nem a iniciativa humana."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 10,
@@ -1135,7 +1342,52 @@
         "pt": "A morte de Nadabe e Abiú por oferecer fogo não autorizado demonstra dramaticamente que a santidade de YHWH exige adoração em seus próprios termos, não nos dos adoradores (Lv 10:1-3)"
       },
       "versiculoClave": "Lv 10:3",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 12:28–29",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El juicio sobre Nadab y Abiú (Lv 10:2) fundamenta la advertencia de He 12:28–29: 'nuestro Dios es fuego consumidor', por lo que debemos servir a Dios con reverencia y temor, no con familiaridad irreverente.",
+            "en": "The judgment on Nadab and Abihu (Lev 10:2) grounds the warning of Heb 12:28–29: 'our God is a consuming fire,' so we must serve God with reverence and awe, not irreverent familiarity.",
+            "pt": "O julgamento sobre Nadabe e Abiú (Lv 10:2) fundamenta o aviso de Hb 12:28–29: 'o nosso Deus é fogo consumidor', por isso devemos servir a Deus com reverência e temor, não com familiaridade irreverente."
+          }
+        },
+        {
+          "ref": "1Co 11:27–30",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Así como Nadab y Abiú fueron juzgados por acercarse a YHWH de manera indigna (Lv 10:1–3), Pablo advierte que comer la Cena del Señor de manera indigna trae juicio divino (1Co 11:27–30), ambos casos estableciendo el principio de la adoración regulada.",
+            "en": "Just as Nadab and Abihu were judged for approaching YHWH unworthily (Lev 10:1–3), Paul warns that eating the Lord's Supper unworthily brings divine judgment (1Cor 11:27–30), both cases establishing the principle of regulated worship.",
+            "pt": "Assim como Nadabe e Abiú foram julgados por se aproximar de YHWH de maneira indigna (Lv 10:1–3), Paulo adverte que comer a Ceia do Senhor de maneira indigna traz julgamento divino (1Co 11:27–30), ambos os casos estabelecendo o princípio da adoração regulada."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "La muerte de Nadab y Abiú (Lv 10:1–2) por ofrecer fuego no autorizado y la interpretación de Moisés —'entre los que a mí se acercan me santificaré' (Lv 10:3)— establece que la santidad de YHWH impone condiciones absolutas a la adoración.",
+            "en": "The death of Nadab and Abihu (Lev 10:1–2) for offering unauthorized fire and Moses' interpretation — 'among those who are near me I will be sanctified' (Lev 10:3) — establishes that YHWH's holiness imposes absolute conditions on worship.",
+            "pt": "A morte de Nadabe e Abiú (Lv 10:1–2) por oferecer fogo não autorizado e a interpretação de Moisés — 'entre os que a mim se aproximam serei santificado' (Lv 10:3) — estabelece que a santidade de YHWH impõe condições absolutas à adoração."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "El fuego divino que consume a Nadab y Abiú (Lv 10:2) es un acto directo de la ira judicial de YHWH contra la profanación de su santuario, demostrando que la santidad divina no tolera la irreverencia.",
+              "en": "The divine fire consuming Nadab and Abihu (Lev 10:2) is a direct act of YHWH's judicial wrath against the desecration of his sanctuary, demonstrating that divine holiness does not tolerate irreverence.",
+              "pt": "O fogo divino que consome Nadabe e Abiú (Lv 10:2) é um ato direto da ira judicial de YHWH contra a profanação de seu santuário, demonstrando que a santidade divina não tolera a irreverência."
+            }
+          },
+          {
+            "Sacerdocio": {
+              "es": "El incidente delimita con sangre los límites de la autoridad sacerdotal: los sacerdotes deben distinguir entre lo santo y lo profano, lo limpio y lo inmundo, y enseñar al pueblo los estatutos de YHWH (Lv 10:8–11).",
+              "en": "The incident marks with blood the limits of priestly authority: priests must distinguish between the holy and the profane, the clean and the unclean, and teach the people YHWH's statutes (Lev 10:8–11).",
+              "pt": "O incidente delimita com sangue os limites da autoridade sacerdotal: os sacerdotes devem distinguir entre o santo e o profano, o limpo e o imundo, e ensinar ao povo os estatutos de YHWH (Lv 10:8–11)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 11,
@@ -1156,7 +1408,61 @@
         "pt": "O mandamento 'Eu sou o SENHOR vosso Deus; portanto, santificai-vos e sede santos, porque eu sou santo' (Lv 11:44-45) que fundamenta todas as leis de pureza no caráter de YHWH"
       },
       "versiculoClave": "Lv 11:44",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1P 1:15–16",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita directamente Lv 11:44–45 —'sed santos, porque yo soy santo'— para fundamentar la ética cristiana, transponiendo el imperativo levítico de santidad ritual al nuevo ámbito de la conducta transformada por el Espíritu.",
+            "en": "Peter directly quotes Lev 11:44–45 — 'be holy, for I am holy' — to ground Christian ethics, transposing the Levitical imperative of ritual holiness to the new realm of Spirit-transformed conduct.",
+            "pt": "Pedro cita diretamente Lv 11:44–45 — 'sede santos, porque eu sou santo' — para fundamentar a ética cristã, transpondo o imperativo levítico de santidade ritual para o novo âmbito da conduta transformada pelo Espírito."
+          }
+        },
+        {
+          "ref": "Hch 10:9–16",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La visión de Pedro con los animales impuros (Hch 10:9–16) señala el cumplimiento de las leyes de Lv 11: en Cristo, la barrera entre limpio e inmundo ha sido removida, abriendo el evangelio a los gentiles.",
+            "en": "Peter's vision of unclean animals (Acts 10:9–16) signals the fulfillment of Lev 11's laws: in Christ, the barrier between clean and unclean has been removed, opening the gospel to the Gentiles.",
+            "pt": "A visão de Pedro com os animais impuros (At 10:9–16) sinaliza o cumprimento das leis de Lv 11: em Cristo, a barreira entre limpo e imundo foi removida, abrindo o evangelho aos gentios."
+          }
+        },
+        {
+          "ref": "Mc 7:14–23",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús declara todos los alimentos limpios (Mc 7:19), aboliendo la dimensión ceremonial de Lv 11 y señalando que la verdadera impureza es moral —'lo que sale del corazón'— no alimentaria.",
+            "en": "Jesus declares all foods clean (Mark 7:19), abolishing the ceremonial dimension of Lev 11 and pointing out that true impurity is moral — 'what comes from the heart' — not dietary.",
+            "pt": "Jesus declara todos os alimentos limpos (Mc 7:19), abolindo a dimensão cerimonial de Lv 11 e apontando que a verdadeira impureza é moral — 'o que vem do coração' — não alimentar."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "El imperativo teológico que fundamenta todas las leyes de pureza de Lv 11–15 es la santidad de YHWH: 'seréis santos, porque yo el SEÑOR vuestro Dios soy santo' (Lv 11:44–45), que transpone el carácter divino a la vida cotidiana de Israel.",
+            "en": "The theological imperative grounding all purity laws of Lev 11–15 is YHWH's holiness: 'you shall be holy, for I the LORD your God am holy' (Lev 11:44–45), transposing the divine character into Israel's daily life.",
+            "pt": "O imperativo teológico que fundamenta todas as leis de pureza de Lv 11–15 é a santidade de YHWH: 'sede santos, porque eu, o SENHOR vosso Deus, sou santo' (Lv 11:44–45), transpondo o caráter divino para a vida cotidiana de Israel."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "La impureza excluye de la presencia de YHWH en el santuario (Lv 12:4; 15:31), y los ritos de purificación restauran el acceso, revelando que la comunión con Dios requiere la eliminación de toda mancha.",
+              "en": "Impurity excludes from YHWH's presence in the sanctuary (Lev 12:4; 15:31), and purification rites restore access, revealing that communion with God requires the removal of all defilement.",
+              "pt": "A impureza exclui da presença de YHWH no santuário (Lv 12:4; 15:31), e os ritos de purificação restauram o acesso, revelando que a comunhão com Deus requer a eliminação de toda mancha."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "Las distinciones entre limpio e inmundo separan a Israel de las naciones vecinas (Lv 11:2; 20:25–26), constituyendo al pueblo de YHWH como una comunidad diferenciada, santa y separada para él.",
+              "en": "The distinctions between clean and unclean separate Israel from surrounding nations (Lev 11:2; 20:25–26), constituting YHWH's people as a differentiated community, holy and set apart for him.",
+              "pt": "As distinções entre limpo e imundo separam Israel das nações vizinhas (Lv 11:2; 20:25–26), constituindo o povo de YHWH como uma comunidade diferenciada, santa e separada para ele."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 16,
@@ -1177,7 +1483,61 @@
         "pt": "O rito do bode expiatório: Arão impõe as mãos sobre o bode e confessa 'todas as iniquidades dos filhos de Israel, e todas as suas transgressões, todos os seus pecados', que o animal carrega e leva ao deserto (Lv 16:20-22), tipificando Cristo que 'levou nossos pecados em seu corpo sobre o madeiro' (1Pe 2:24)"
       },
       "versiculoClave": "Lv 16:30",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 9:1–28",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Hebreos 9 es el comentario exhaustivo de Lv 16: Cristo entró al tabernáculo celestial no con sangre de machos cabríos sino con su propia sangre (He 9:11–12), logrando una redención eterna que los ritos anuales de Yom Kippur solo podían prefigurar.",
+            "en": "Hebrews 9 is the exhaustive commentary on Lev 16: Christ entered the heavenly tabernacle not with the blood of goats but with his own blood (Heb 9:11–12), achieving an eternal redemption that the annual Yom Kippur rites could only foreshadow.",
+            "pt": "Hebreus 9 é o comentário exaustivo de Lv 16: Cristo entrou no tabernáculo celestial não com sangue de bodes mas com seu próprio sangue (Hb 9:11–12), alcançando uma redenção eterna que os ritos anuais do Yom Kippur podiam apenas prefigurar."
+          }
+        },
+        {
+          "ref": "He 10:1–14",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La repetición anual del Yom Kippur (Lv 16:29–34) revela su propia insuficiencia: si perfeccionara, no se repetiría (He 10:1–2). Cristo ofrece un solo sacrificio para siempre (He 10:14), clausurando el tipo levítico.",
+            "en": "The annual repetition of Yom Kippur (Lev 16:29–34) reveals its own inadequacy: if it had perfected, it would not be repeated (Heb 10:1–2). Christ offers a single sacrifice forever (Heb 10:14), closing the Levitical type.",
+            "pt": "A repetição anual do Yom Kippur (Lv 16:29–34) revela sua própria insuficiência: se aperfeiçoasse, não seria repetido (Hb 10:1–2). Cristo oferece um único sacrifício para sempre (Hb 10:14), encerrando o tipo levítico."
+          }
+        },
+        {
+          "ref": "Ro 3:25",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pablo usa el término hilastērion (propiciatorio/mercy seat, Lv 16:14–15) para describir a Cristo: Dios lo propuso como propiciación por medio de la fe en su sangre (Ro 3:25), identificando a Cristo con el lugar de la expiación anual.",
+            "en": "Paul uses the term hilastērion (mercy seat, Lev 16:14–15) to describe Christ: God put him forward as a propitiation through faith in his blood (Rom 3:25), identifying Christ with the place of annual atonement.",
+            "pt": "Paulo usa o termo hilastērion (propiciatório, Lv 16:14–15) para descrever Cristo: Deus o propôs como propiciação pela fé em seu sangue (Rm 3:25), identificando Cristo com o lugar da expiação anual."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacrificio/Expiación": {
+            "es": "El Yom Kippur (Lv 16) es el ápice del sistema sacrificial levítico: la expiación anual y comprehensiva de todos los pecados de Israel a través de dos ritos complementarios —el sacrificio y el macho cabrío expiatorio (Lv 16:15–22)— que hallan su cumplimiento en Cristo.",
+            "en": "Yom Kippur (Lev 16) is the apex of the Levitical sacrificial system: the annual and comprehensive atonement for all Israel's sins through two complementary rites — the sacrifice and the scapegoat (Lev 16:15–22) — that find their fulfillment in Christ.",
+            "pt": "O Yom Kippur (Lv 16) é o ápice do sistema sacrificial levítico: a expiação anual e abrangente de todos os pecados de Israel por meio de dois ritos complementares — o sacrifício e o bode expiatório (Lv 16:15–22) — que encontram seu cumprimento em Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Sustitución": {
+              "es": "El macho cabrío expiatorio que carga todas las iniquidades de Israel (Lv 16:21–22) es el más claro tipo veterotestamentario de la sustitución penal: Cristo 'llevó nuestros pecados en su cuerpo sobre el madero' (1P 2:24).",
+              "en": "The scapegoat that bears all of Israel's iniquities (Lev 16:21–22) is the clearest Old Testament type of penal substitution: Christ 'bore our sins in his body on the tree' (1Pet 2:24).",
+              "pt": "O bode expiatório que carrega todas as iniquidades de Israel (Lv 16:21–22) é o tipo veterotestamentário mais claro da substituição penal: Cristo 'levou nossos pecados em seu corpo sobre o madeiro' (1Pe 2:24)."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "La entrada del sumo sacerdote al Lugar Santísimo —el único acceso anual al trono de YHWH (Lv 16:2,14–15)— tipifica la apertura del camino al Padre a través de Cristo, cuya muerte rasgó el velo del templo (Mt 27:51).",
+              "en": "The high priest's entry into the Most Holy Place — the sole annual access to YHWH's throne (Lev 16:2,14–15) — typifies the opening of the way to the Father through Christ, whose death tore the temple veil (Matt 27:51).",
+              "pt": "A entrada do sumo sacerdote no Santo dos Santos — o único acesso anual ao trono de YHWH (Lv 16:2,14–15) — tipifica a abertura do caminho ao Pai por meio de Cristo, cuja morte rasgou o véu do templo (Mt 27:51)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 17,
@@ -1198,7 +1558,61 @@
         "pt": "A dupla fórmula do mandamento central: 'Sede santos, porque eu, o SENHOR vosso Deus, sou santo' (Lv 19:2) e 'Amarás o teu próximo como a ti mesmo: Eu sou o SENHOR' (Lv 19:18), que Jesus declara o segundo maior mandamento (Mt 22:39)"
       },
       "versiculoClave": "Lv 19:18",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 22:39",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita directamente Lv 19:18 —'amarás a tu prójimo como a ti mismo'— como el segundo mandamiento más grande, elevando la ética del Código de Santidad al centro de su enseñanza moral (Mt 22:39).",
+            "en": "Jesus directly quotes Lev 19:18 — 'you shall love your neighbor as yourself' — as the second greatest commandment, elevating the Holiness Code's ethics to the center of his moral teaching (Matt 22:39).",
+            "pt": "Jesus cita diretamente Lv 19:18 — 'amarás o teu próximo como a ti mesmo' — como o segundo maior mandamento, elevando a ética do Código de Santidade ao centro de seu ensino moral (Mt 22:39)."
+          }
+        },
+        {
+          "ref": "Ro 13:9",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo recoge Lv 19:18 como el resumen de toda la segunda tabla del Decálogo (Ro 13:9), confirmando que el mandamiento del amor al prójimo es el principio hermenéutico clave de la ética del Antiguo Testamento.",
+            "en": "Paul takes up Lev 19:18 as the summary of the entire second table of the Decalogue (Rom 13:9), confirming that the love-neighbor commandment is the key hermeneutical principle of Old Testament ethics.",
+            "pt": "Paulo retoma Lv 19:18 como o resumo de toda a segunda tábua do Decálogo (Rm 13:9), confirmando que o mandamento de amar o próximo é o princípio hermenêutico-chave da ética do Antigo Testamento."
+          }
+        },
+        {
+          "ref": "Gá 5:14",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo afirma que 'toda la ley en esta sola palabra se cumple: Amarás a tu prójimo como a ti mismo' (Gá 5:14), citando Lv 19:18 como el principio que resume la función normativa del Código de Santidad en la ética cristiana.",
+            "en": "Paul affirms that 'the whole law is fulfilled in one word: You shall love your neighbor as yourself' (Gal 5:14), citing Lev 19:18 as the principle that summarizes the normative function of the Holiness Code in Christian ethics.",
+            "pt": "Paulo afirma que 'toda a lei se cumpre em uma só palavra: Amarás o teu próximo como a ti mesmo' (Gl 5:14), citando Lv 19:18 como o princípio que resume a função normativa do Código de Santidade na ética cristã."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "El imperativo fundacional del Código de Santidad —'seréis santos, porque yo el SEÑOR vuestro Dios soy santo' (Lv 19:2)— extiende la santidad levítica a todas las dimensiones de la vida: ritual (Lv 19:5–8), social (Lv 19:9–16) y ética (Lv 19:17–37).",
+            "en": "The foundational imperative of the Holiness Code — 'you shall be holy, for I the LORD your God am holy' (Lev 19:2) — extends Levitical holiness to every dimension of life: ritual (Lev 19:5–8), social (Lev 19:9–16), and ethical (Lev 19:17–37).",
+            "pt": "O imperativo fundacional do Código de Santidade — 'sede santos, porque eu, o SENHOR vosso Deus, sou santo' (Lv 19:2) — estende a santidade levítica a todas as dimensões da vida: ritual (Lv 19:5–8), social (Lv 19:9–16) e ética (Lv 19:17–37)."
+          }
+        },
+        "secundarios": [
+          {
+            "Pacto": {
+              "es": "La fórmula repetida 'Yo soy YHWH (vuestro Dios)' (más de 20 veces en Lv 18–20) ancla cada mandamiento ético en la relación de pacto, haciendo de la obediencia moral una respuesta a la gracia redentora y no una obra de mérito.",
+              "en": "The repeated formula 'I am YHWH (your God)' (more than 20 times in Lev 18–20) anchors each ethical command in the covenant relationship, making moral obedience a response to redeeming grace rather than meritorious work.",
+              "pt": "A fórmula repetida 'Eu sou YHWH (vosso Deus)' (mais de 20 vezes em Lv 18–20) ancora cada mandamento ético na relação de aliança, tornando a obediência moral uma resposta à graça redentora e não uma obra de mérito."
+            }
+          },
+          {
+            "Sacrificio/Expiación": {
+              "es": "La prohibición de consumir sangre (Lv 17:10–14) establece que 'la vida de la carne en la sangre está, y yo os la he dado para hacer expiación sobre el altar' (Lv 17:11), revelando la base sacrificial de todo el código de santidad.",
+              "en": "The prohibition of consuming blood (Lev 17:10–14) establishes that 'the life of the flesh is in the blood, and I have given it for you on the altar to make atonement' (Lev 17:11), revealing the sacrificial basis of the entire holiness code.",
+              "pt": "A proibição de consumir sangue (Lv 17:10–14) estabelece que 'a vida da carne está no sangue, e eu vo-lo dei sobre o altar para fazerdes expiação' (Lv 17:11), revelando a base sacrificial de todo o código de santidade."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 21,
@@ -1219,7 +1633,52 @@
         "pt": "A proibição de qualquer sacerdote com defeito físico de se aproximar do altar (Lv 21:16-23), sublinhando tipologicamente que apenas Cristo, o sacerdote perfeito sem nenhum defeito, poderia ser o sacrifício e o ministro supremo diante de Deus (He 4:15)"
       },
       "versiculoClave": "Lv 22:20",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 4:15",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Las restricciones físicas del sacerdocio (Lv 21:16–23) tipifican a Cristo como el sumo sacerdote 'que fue tentado en todo según nuestra semejanza, pero sin pecado' (He 4:15): perfecto donde los sacerdotes levíticos solo lo podían ser externamente.",
+            "en": "The physical restrictions of the priesthood (Lev 21:16–23) typify Christ as the high priest 'who in every respect has been tempted as we are, yet without sin' (Heb 4:15): perfect where Levitical priests could only be so externally.",
+            "pt": "As restrições físicas do sacerdócio (Lv 21:16–23) tipificam Cristo como o sumo sacerdote 'que em tudo foi tentado como nós, mas sem pecado' (Hb 4:15): perfeito onde os sacerdotes levíticos podiam sê-lo apenas externamente."
+          }
+        },
+        {
+          "ref": "1P 1:19",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El requisito de ofrendas sin defecto (tamîm, Lv 22:19–21) halla su cumplimiento en Cristo, redimido 'con la sangre preciosa de Cristo, como de un cordero sin mancha y sin defecto' (1P 1:19).",
+            "en": "The requirement for unblemished offerings (tamîm, Lev 22:19–21) finds its fulfillment in Christ, redeemed 'with the precious blood of Christ, like that of a lamb without blemish or defect' (1Pet 1:19).",
+            "pt": "O requisito de ofertas sem defeito (tamîm, Lv 22:19–21) encontra seu cumprimento em Cristo, redimido 'com o sangue precioso de Cristo, como de cordeiro sem defeito e sem mácula' (1Pe 1:19)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "Las regulaciones de pureza sacerdotal (Lv 21) y las normas para las ofrendas (Lv 22) tipifican que el sumo sacerdote eterno debe ser perfectamente puro en su persona y en su sacrificio, lo que solo Cristo cumple (He 7:26–28).",
+            "en": "The priestly purity regulations (Lev 21) and offering standards (Lev 22) typify that the eternal high priest must be perfectly pure in person and sacrifice, which only Christ fulfills (Heb 7:26–28).",
+            "pt": "Os regulamentos de pureza sacerdotal (Lv 21) e as normas para as ofertas (Lv 22) tipificam que o sumo sacerdote eterno deve ser perfeitamente puro em sua pessoa e em seu sacrifício, o que apenas Cristo cumpre (Hb 7:26–28)."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "Las restricciones específicas para los sacerdotes —más severas que para el pueblo común— reflejan que la proximidad a la santidad de YHWH exige mayor pureza: 'santos serán para su Dios' (Lv 21:6).",
+              "en": "The specific restrictions for priests — more severe than for common people — reflect that proximity to YHWH's holiness demands greater purity: 'they shall be holy to their God' (Lev 21:6).",
+              "pt": "As restrições específicas para os sacerdotes — mais severas do que para o povo comum — refletem que a proximidade da santidade de YHWH exige maior pureza: 'serão santos para o seu Deus' (Lv 21:6)."
+            }
+          },
+          {
+            "Sacrificio/Expiación": {
+              "es": "Solo animales sin defecto (Lv 22:19–25) son aceptables en el altar, principio que apunta a la perfección moral del sacrificio de Cristo: 'un cordero sin mancha y sin contaminación' (1P 1:19).",
+              "en": "Only unblemished animals (Lev 22:19–25) are acceptable on the altar, a principle pointing to the moral perfection of Christ's sacrifice: 'a lamb without blemish or spot' (1Pet 1:19).",
+              "pt": "Apenas animais sem defeito (Lv 22:19–25) são aceitáveis no altar, princípio que aponta para a perfeição moral do sacrifício de Cristo: 'cordeiro sem defeito e sem mácula' (1Pe 1:19)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 23,
@@ -1240,7 +1699,61 @@
         "pt": "O mandamento de que as festas sejam 'santas convocações' (miqrāʾê qōdeš, Lv 23:2) sublinha que o tempo, assim como o espaço (o tabernáculo) e a pessoa (o sacerdote), é santificado para YHWH no sistema levítico"
       },
       "versiculoClave": "Lv 23:2",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Col 2:16–17",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pablo declara que las fiestas de Lv 23 son 'sombra de lo que había de venir; pero el cuerpo es de Cristo' (Col 2:16–17): cada una de las siete fiestas tiene su antítipo en la persona y obra de Cristo.",
+            "en": "Paul declares that the feasts of Lev 23 are 'a shadow of the things to come, but the substance belongs to Christ' (Col 2:16–17): each of the seven feasts has its antitype in the person and work of Christ.",
+            "pt": "Paulo declara que as festas de Lv 23 são 'sombra das coisas futuras; mas o corpo é de Cristo' (Cl 2:16–17): cada uma das sete festas tem seu antítipo na pessoa e obra de Cristo."
+          }
+        },
+        {
+          "ref": "1Co 5:7",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La Pascua de Lv 23:4–8 halla su cumplimiento directo en Cristo: 'nuestra pascua, que es Cristo, ya fue sacrificada' (1Co 5:7), estableciendo que el cordero pascual era tipo del sacrificio redentor de Cristo.",
+            "en": "The Passover of Lev 23:4–8 finds its direct fulfillment in Christ: 'Christ, our Passover lamb, has been sacrificed' (1Cor 5:7), establishing that the paschal lamb was a type of Christ's redemptive sacrifice.",
+            "pt": "A Páscoa de Lv 23:4–8 encontra seu cumprimento direto em Cristo: 'Cristo, nossa Páscoa, foi sacrificado' (1Co 5:7), estabelecendo que o cordeiro pascal era tipo do sacrifício redentor de Cristo."
+          }
+        },
+        {
+          "ref": "Hch 2:1–4",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El Pentecostés/Semanas (Lv 23:15–22) halla su cumplimiento en Hechos 2: el Espíritu Santo es derramado sobre los discípulos precisamente en el día de la fiesta, señalando la primicia de la nueva creación.",
+            "en": "The Feast of Weeks/Pentecost (Lev 23:15–22) finds its fulfillment in Acts 2: the Holy Spirit is poured out on the disciples precisely on the feast day, signaling the firstfruits of the new creation.",
+            "pt": "O Pentecostes/Semanas (Lv 23:15–22) encontra seu cumprimento em Atos 2: o Espírito Santo é derramado sobre os discípulos precisamente no dia da festa, sinalizando as primícias da nova criação."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Promesa/Cumplimiento": {
+            "es": "Las siete fiestas de Lv 23 —Pascua, Panes sin Levadura, Primicias, Pentecostés, Trompetas, Expiación y Tabernáculos— son 'santas convocaciones' (Lv 23:2) que proyectan hacia el cumplimiento mesiánico; Pablo las declara sombra cuyo cuerpo es Cristo (Col 2:16–17).",
+            "en": "The seven feasts of Lev 23 — Passover, Unleavened Bread, Firstfruits, Pentecost, Trumpets, Atonement, and Tabernacles — are 'holy convocations' (Lev 23:2) that project toward messianic fulfillment; Paul declares them shadows whose body is Christ (Col 2:16–17).",
+            "pt": "As sete festas de Lv 23 — Páscoa, Pães Asmos, Primícias, Pentecostes, Trombetas, Expiação e Tabernáculos — são 'santas convocações' (Lv 23:2) que projetam para o cumprimento messiânico; Paulo as declara sombra cujo corpo é Cristo (Cl 2:16–17)."
+          }
+        },
+        "secundarios": [
+          {
+            "Sábado/Descanso": {
+              "es": "El calendario sagrado de Lv 23 está estructurado en torno al principio del sábado (Lv 23:1–3), extendiendo el patrón divino del descanso a la semana, al mes y al año para santificar el tiempo a YHWH.",
+              "en": "The sacred calendar of Lev 23 is structured around the Sabbath principle (Lev 23:1–3), extending the divine rest pattern to week, month, and year to sanctify time to YHWH.",
+              "pt": "O calendário sagrado de Lv 23 está estruturado em torno ao princípio do sábado (Lv 23:1–3), estendendo o padrão divino do descanso à semana, ao mês e ao ano para santificar o tempo a YHWH."
+            }
+          },
+          {
+            "Pascua/Cordero de Dios": {
+              "es": "La Pascua abre el ciclo anual de fiestas (Lv 23:4–8) como el evento fundacional de la identidad redentora de Israel, y su cordero sin defecto prefigura directamente a Cristo como 'nuestro Cordero pascual' (1Co 5:7).",
+              "en": "Passover opens the annual feast cycle (Lev 23:4–8) as the foundational event of Israel's redemptive identity, and its unblemished lamb directly foreshadows Christ as 'our Passover lamb' (1Cor 5:7).",
+              "pt": "A Páscoa abre o ciclo anual das festas (Lv 23:4–8) como o evento fundacional da identidade redentora de Israel, e seu cordeiro sem defeito prefigura diretamente Cristo como 'nosso Cordeiro pascal' (1Co 5:7)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 24,
@@ -1261,7 +1774,61 @@
         "pt": "A execução do blasfemador por mandato divino (Lv 24:10-16,23), que estabelece que profanar o Nome de YHWH — o fundamento da identidade da aliança — é o delito comunitário mais grave e não pode ficar impune"
       },
       "versiculoClave": "Lv 24:16",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 8:12",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La lámpara de aceite que arde continuamente ante YHWH (Lv 24:1–4) halla su cumplimiento simbólico en la declaración de Jesús: 'Yo soy la luz del mundo' (Jn 8:12), quien reemplaza al candelabro levítico como fuente de luz perpetua.",
+            "en": "The oil lamp burning continually before YHWH (Lev 24:1–4) finds its symbolic fulfillment in Jesus' declaration: 'I am the light of the world' (John 8:12), who replaces the Levitical lampstand as the source of perpetual light.",
+            "pt": "A lâmpada de azeite que arde continuamente diante de YHWH (Lv 24:1–4) encontra seu cumprimento simbólico na declaração de Jesus: 'Eu sou a luz do mundo' (Jo 8:12), que substitui o candelabro levítico como fonte de luz perpétua."
+          }
+        },
+        {
+          "ref": "Jn 6:35",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Los panes de la proposición —doce panes perpetuamente ante YHWH (Lv 24:5–9)— son trasfondo del anuncio de Jesús: 'Yo soy el pan de vida' (Jn 6:35), quien cumple lo que los panes del santuario simbolizaban.",
+            "en": "The showbread — twelve loaves perpetually before YHWH (Lev 24:5–9) — is the background of Jesus' announcement: 'I am the bread of life' (John 6:35), who fulfills what the sanctuary loaves symbolized.",
+            "pt": "Os pães da proposição — doze pães perpetuamente diante de YHWH (Lv 24:5–9) — são o pano de fundo do anúncio de Jesus: 'Eu sou o pão da vida' (Jo 6:35), que cumpre o que os pães do santuário simbolizavam."
+          }
+        },
+        {
+          "ref": "Mt 5:38–39",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Jesús cita el lex talionis de Lv 24:17–22 ('ojo por ojo, diente por diente') en el Sermón del Monte (Mt 5:38–39), no para abolirlo sino para llevarlo a su aplicación escatológica bajo el reino de Dios.",
+            "en": "Jesus cites the lex talionis from Lev 24:17–22 ('eye for eye, tooth for tooth') in the Sermon on the Mount (Matt 5:38–39), not to abolish it but to bring it to its eschatological application under God's kingdom.",
+            "pt": "Jesus cita o lex talionis de Lv 24:17–22 ('olho por olho, dente por dente') no Sermão do Monte (Mt 5:38–39), não para aboli-lo mas para levá-lo à sua aplicação escatológica sob o reino de Deus."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Nombre de Dios": {
+            "es": "El caso del blasfemo (Lv 24:10–16,23) establece que el Nombre de YHWH —fundamento de la identidad del pacto— es la realidad más sagrada en la comunidad de Israel, cuya profanación requiere la pena máxima.",
+            "en": "The blasphemer case (Lev 24:10–16,23) establishes that YHWH's Name — the foundation of covenant identity — is the most sacred reality in Israel's community, whose profanation requires the maximum penalty.",
+            "pt": "O caso do blasfemador (Lv 24:10–16,23) estabelece que o Nome de YHWH — fundamento da identidade da aliança — é a realidade mais sagrada na comunidade de Israel, cuja profanação requer a pena máxima."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "La lámpara perpetua y los panes de la proposición (Lv 24:1–9) mantienen el espacio sagrado del tabernáculo en estado de consagración continua, señalando que la presencia de YHWH no tolera interrupción ni negligencia.",
+              "en": "The perpetual lamp and showbread (Lev 24:1–9) maintain the tabernacle's sacred space in a state of continuous consecration, signaling that YHWH's presence tolerates no interruption or neglect.",
+              "pt": "A lâmpada perpétua e os pães da proposição (Lv 24:1–9) mantêm o espaço sagrado do tabernáculo em estado de consagração contínua, sinalizando que a presença de YHWH não tolera interrupção nem negligência."
+            }
+          },
+          {
+            "Palabra de Dios/Ley": {
+              "es": "El lex talionis (Lv 24:17–22) establece la justicia igualitaria de YHWH: la misma ley aplica al extranjero y al nativo sin acepción de personas, fundamento de la ética jurídica del pacto.",
+              "en": "The lex talionis (Lev 24:17–22) establishes YHWH's egalitarian justice: the same law applies to the foreigner and the native without partiality, foundation of the covenant's legal ethics.",
+              "pt": "O lex talionis (Lv 24:17–22) estabelece a justiça igualitária de YHWH: a mesma lei aplica-se ao estrangeiro e ao nativo sem parcialidade, fundamento da ética jurídica da aliança."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 25,
@@ -1282,7 +1849,52 @@
         "pt": "O mandamento de proclamar o Ano do Jubileu: 'Proclamareis liberdade em toda a terra a todos os seus habitantes; será um jubileu para vós' (Lv 25:10), que Cristo proclama cumprido em sua pessoa (Lc 4:18-21)"
       },
       "versiculoClave": "Lv 25:10",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Lc 4:18–21",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús lee Is 61:1–2 —que describe el Jubileo de Lv 25— en la sinagoga de Nazaret y declara: 'Hoy se ha cumplido esta Escritura' (Lc 4:21), identificándose como el cumplimiento del Jubileo mesiánico de libertad y restauración.",
+            "en": "Jesus reads Isa 61:1–2 — which describes the Jubilee of Lev 25 — in the Nazareth synagogue and declares: 'Today this Scripture has been fulfilled' (Luke 4:21), identifying himself as the fulfillment of the messianic Jubilee of freedom and restoration.",
+            "pt": "Jesus lê Is 61:1–2 — que descreve o Jubileu de Lv 25 — na sinagoga de Nazaré e declara: 'Hoje se cumpriu esta Escritura' (Lc 4:21), identificando-se como o cumprimento do Jubileu messiânico de liberdade e restauração."
+          }
+        },
+        {
+          "ref": "2Co 5:17–19",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El Año del Jubileo —tierra restaurada, esclavos liberados, deudas canceladas (Lv 25:10–55)— es el tipo de la nueva creación en Cristo: 'todo lo antiguo pasó, he aquí, todo es hecho nuevo' (2Co 5:17), la reconciliación cósmica que el Jubileo prefiguraba.",
+            "en": "The Year of Jubilee — land restored, slaves freed, debts cancelled (Lev 25:10–55) — is the type of new creation in Christ: 'the old has passed away; behold, the new has come' (2Cor 5:17), the cosmic reconciliation that the Jubilee foreshadowed.",
+            "pt": "O Ano do Jubileu — terra restaurada, escravos libertados, dívidas canceladas (Lv 25:10–55) — é o tipo da nova criação em Cristo: 'as coisas velhas já passaram; eis que tudo se tornou novo' (2Co 5:17), a reconciliação cósmica que o Jubileu prefigurava."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Redención/Rescate": {
+            "es": "El Año del Jubileo (Lv 25:8–55) es la institución suprema de redención en el AT: YHWH rescata la tierra, los esclavos y los deudores de su cautiverio, fundamentando la ley en su identidad como redentor del Éxodo ('yo soy el SEÑOR vuestro Dios, que os saqué de Egipto', Lv 25:38,42,55).",
+            "en": "The Year of Jubilee (Lev 25:8–55) is the supreme redemption institution of the OT: YHWH rescues land, slaves, and debtors from their bondage, grounding the law in his identity as Exodus redeemer ('I am the LORD your God, who brought you out of Egypt,' Lev 25:38,42,55).",
+            "pt": "O Ano do Jubileu (Lv 25:8–55) é a suprema instituição de redenção do AT: YHWH resgata a terra, os escravos e os devedores do seu cativeiro, fundamentando a lei em sua identidade como redentor do Êxodo ('eu sou o SENHOR vosso Deus, que vos tirei do Egito', Lv 25:38,42,55)."
+          }
+        },
+        "secundarios": [
+          {
+            "Sábado/Descanso": {
+              "es": "El año sabático (Lv 25:1–7) extiende el patrón del séptimo día a la creación agrícola: la tierra misma descansa de toda labranza cada séptimo año, señalando que todo orden creacional participa en el ritmo sabático de YHWH.",
+              "en": "The sabbatical year (Lev 25:1–7) extends the seventh-day pattern to agricultural creation: the land itself rests from all farming every seventh year, signaling that all created order participates in YHWH's sabbatical rhythm.",
+              "pt": "O ano sabático (Lv 25:1–7) estende o padrão do sétimo dia à criação agrícola: a própria terra descansa de todo cultivo a cada sétimo ano, sinalizando que toda a ordem criada participa no ritmo sabático de YHWH."
+            }
+          },
+          {
+            "Éxodo/Liberación": {
+              "es": "La motivación teológica del Jubileo apela explícitamente al Éxodo: porque YHWH liberó a Israel de Egipto, Israel no puede esclavizar permanentemente a sus hermanos (Lv 25:42,55), convirtiendo el Éxodo en el modelo ético de todas las relaciones sociales.",
+              "en": "The Jubilee's theological motivation explicitly appeals to the Exodus: because YHWH freed Israel from Egypt, Israel cannot permanently enslave its brothers (Lev 25:42,55), making the Exodus the ethical model for all social relationships.",
+              "pt": "A motivação teológica do Jubileu apela explicitamente ao Êxodo: porque YHWH libertou Israel do Egito, Israel não pode escravizar permanentemente seus irmãos (Lv 25:42,55), tornando o Êxodo o modelo ético de todas as relações sociais."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 26,
@@ -1303,7 +1915,61 @@
         "pt": "A promessa inabalável de graça no meio da maldição da aliança: 'Contudo, ainda com tudo isso, quando estiverem na terra dos seus inimigos, não os desprezarei, nem os abominarei para consumi-los, nem invalidarei a minha aliança com eles' (Lv 26:44), fundamento da esperança de Israel mesmo no exílio"
       },
       "versiculoClave": "Lv 26:12",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gá 3:10–13",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Las maldiciones del pacto de Lv 26 hallan su resolución en Pablo: 'Cristo nos redimió de la maldición de la ley, hecho por nosotros maldición' (Gá 3:13), absorbiendo la maldición del pacto sinaítico que Israel mereció.",
+            "en": "The covenant curses of Lev 26 find their resolution in Paul: 'Christ redeemed us from the curse of the law by becoming a curse for us' (Gal 3:13), absorbing the Sinaitic covenant curse that Israel deserved.",
+            "pt": "As maldições da aliança de Lv 26 encontram sua resolução em Paulo: 'Cristo nos resgatou da maldição da lei, tendo-se feito maldição por nós' (Gl 3:13), absorvendo a maldição da aliança sinaítica que Israel merecia."
+          }
+        },
+        {
+          "ref": "Ro 11:26–29",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La promesa de Lv 26:44–45 —que YHWH no abandonará a Israel ni romperá su pacto incluso en el exilio— es el fundamento del argumento de Pablo sobre la irrevocabilidad de los dones y el llamamiento de Israel (Ro 11:28–29).",
+            "en": "The promise of Lev 26:44–45 — that YHWH will not abandon Israel or break his covenant even in exile — is the foundation of Paul's argument about the irrevocability of Israel's gifts and calling (Rom 11:28–29).",
+            "pt": "A promessa de Lv 26:44–45 — que YHWH não abandonará Israel nem romperá sua aliança mesmo no exílio — é o fundamento do argumento de Paulo sobre a irrevogabilidade dos dons e do chamamento de Israel (Rm 11:28–29)."
+          }
+        },
+        {
+          "ref": "Dt 28:1",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Las bendiciones y maldiciones de Lv 26 hallan una formulación paralela y expandida en Dt 28, ambos capítulos siguiendo la estructura formal del tratado de suzeranía hitita del Bronce Tardío que organiza la relación entre YHWH e Israel.",
+            "en": "The blessings and curses of Lev 26 find a parallel and expanded formulation in Deut 28, both chapters following the formal structure of Late Bronze Age Hittite suzerainty treaties organizing the relationship between YHWH and Israel.",
+            "pt": "As bênçãos e maldições de Lv 26 encontram uma formulação paralela e expandida em Dt 28, ambos os capítulos seguindo a estrutura formal do tratado de suserania hitita do Bronze Tardio que organiza a relação entre YHWH e Israel."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "El capítulo climático del pacto sinaítico (Lv 26) presenta las sanciones formales del tratado: bendiciones para la obediencia (Lv 26:3–13) y maldiciones progresivas para la desobediencia (Lv 26:14–39), selladas por la promesa de gracia incondicional (Lv 26:44–45).",
+            "en": "The climactic covenant chapter (Lev 26) presents the treaty's formal sanctions: blessings for obedience (Lev 26:3–13) and progressive curses for disobedience (Lev 26:14–39), sealed by an unconditional grace promise (Lev 26:44–45).",
+            "pt": "O capítulo clímax da aliança (Lv 26) apresenta as sanções formais do tratado: bênçãos para a obediência (Lv 26:3–13) e maldições progressivas para a desobediência (Lv 26:14–39), seladas pela promessa de graça incondicional (Lv 26:44–45)."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Las maldiciones progresivas de Lv 26 —siete veces más severas en cuatro escaladas (Lv 26:18,21,24,28)— revelan la justicia judicial de YHWH que ejecuta las sanciones del pacto con intensidad proporcional a la persistencia en la rebelión.",
+              "en": "The progressive curses of Lev 26 — sevenfold more severe in four escalations (Lev 26:18,21,24,28) — reveal YHWH's judicial justice executing covenant sanctions with intensity proportional to persistent rebellion.",
+              "pt": "As maldições progressivas de Lv 26 — sete vezes mais severas em quatro escaladas (Lv 26:18,21,24,28) — revelam a justiça judicial de YHWH que executa as sanções da aliança com intensidade proporcional à persistência na rebelião."
+            }
+          },
+          {
+            "Fidelidad/Hesed": {
+              "es": "En el punto más oscuro de la maldición —el exilio— YHWH promete su hesed irrevocable: 'recordaré mi pacto con Jacob, y asimismo mi pacto con Isaac' (Lv 26:42,44), revelando que la fidelidad divina no depende de la obediencia de Israel.",
+              "en": "At the darkest point of the curse — exile — YHWH promises his irrevocable hesed: 'I will remember my covenant with Jacob, and my covenant with Isaac' (Lev 26:42,44), revealing that divine faithfulness does not depend on Israel's obedience.",
+              "pt": "No ponto mais sombrio da maldição — o exílio — YHWH promete seu hesed irrevogável: 'me lembrarei da minha aliança com Jacó, e também da minha aliança com Isaque' (Lv 26:42,44), revelando que a fidelidade divina não depende da obediência de Israel."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 27,
@@ -1324,7 +1990,52 @@
         "pt": "A declaração de encerramento do livro: 'Estes são os mandamentos que o SENHOR ordenou a Moisés para os filhos de Israel no monte Sinai' (Lv 27:34), certificando a autoridade divina e a autoria mosaica de toda a legislação do Levítico"
       },
       "versiculoClave": "Lv 27:34",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 5:33–37",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Las regulaciones sobre votos a YHWH (Lv 27) son el trasfondo de la enseñanza de Jesús sobre los juramentos en el Sermón del Monte (Mt 5:33–37): Jesús lleva el principio levítico de cumplir lo prometido a Dios a su aplicación escatológica radical.",
+            "en": "The regulations about vows to YHWH (Lev 27) are the background of Jesus' teaching on oaths in the Sermon on the Mount (Matt 5:33–37): Jesus takes the Levitical principle of fulfilling what is promised to God to its radical eschatological application.",
+            "pt": "Os regulamentos sobre votos a YHWH (Lv 27) são o pano de fundo do ensino de Jesus sobre os juramentos no Sermão do Monte (Mt 5:33–37): Jesus leva o princípio levítico de cumprir o que foi prometido a Deus à sua aplicação escatológica radical."
+          }
+        },
+        {
+          "ref": "He 7:1–10",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El principio del diezmo como 'cosa santa para YHWH' (Lv 27:30–33) es retomado por He 7:1–10 en la discusión de Melquisedec: Abraham dio el diezmo al sacerdote eterno, señalando la superioridad del sacerdocio de Cristo sobre el levítico.",
+            "en": "The tithe principle as 'holy to YHWH' (Lev 27:30–33) is taken up by Heb 7:1–10 in the Melchizedek discussion: Abraham gave a tithe to the eternal priest, pointing to the superiority of Christ's priesthood over the Levitical.",
+            "pt": "O princípio do dízimo como 'coisa santa para o SENHOR' (Lv 27:30–33) é retomado por Hb 7:1–10 na discussão de Melquisedeque: Abraão deu o dízimo ao sacerdote eterno, apontando para a superioridade do sacerdócio de Cristo sobre o levítico."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "El capítulo final establece que todo lo dedicado a YHWH se convierte en 'cosa santa para el SEÑOR' (qōdeš laYHWH, Lv 27:9,21,28,30,32), extendiendo el principio de santidad hasta la esfera de los votos, propiedades y diezmos del pueblo.",
+            "en": "The final chapter establishes that everything dedicated to YHWH becomes 'holy to the LORD' (qōdeš laYHWH, Lev 27:9,21,28,30,32), extending the holiness principle into the sphere of the people's vows, properties, and tithes.",
+            "pt": "O capítulo final estabelece que tudo dedicado a YHWH torna-se 'coisa santa para o SENHOR' (qōdeš laYHWH, Lv 27:9,21,28,30,32), estendendo o princípio da santidade até a esfera dos votos, propriedades e dízimos do povo."
+          }
+        },
+        "secundarios": [
+          {
+            "Redención/Rescate": {
+              "es": "El sistema de rescate monetario para personas, animales y propiedades consagradas (Lv 27:1–25) incorpora el principio redentor al corazón del culto: lo dado a YHWH puede ser recuperado mediante el pago del valor de rescate más un quinto.",
+              "en": "The monetary redemption system for consecrated persons, animals, and properties (Lev 27:1–25) incorporates the redemption principle into the heart of worship: what is given to YHWH can be reclaimed by paying the redemption value plus a fifth.",
+              "pt": "O sistema de resgate monetário para pessoas, animais e propriedades consagradas (Lv 27:1–25) incorpora o princípio redentor ao coração do culto: o que é dado a YHWH pode ser recuperado mediante o pagamento do valor de resgate mais um quinto."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "La declaración de cierre —'estos son los mandamientos que YHWH ordenó a Moisés para los hijos de Israel en el monte Sinaí' (Lv 27:34)— certifica toda la legislación levítica como la constitución del pacto sinaítico entregada en el Sinaí.",
+              "en": "The closing declaration — 'these are the commandments that YHWH commanded Moses for the people of Israel on Mount Sinai' (Lev 27:34) — certifies all Levitical legislation as the Sinaitic covenant constitution delivered at Sinai.",
+              "pt": "A declaração de encerramento — 'estes são os mandamentos que YHWH ordenou a Moisés para os filhos de Israel no monte Sinai' (Lv 27:34) — certifica toda a legislação levítica como a constituição da aliança sinaítica entregue no Sinai."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [
@@ -1751,7 +2462,7 @@
     "versionBiblia": {
       "es": "NBLA",
       "en": "ESV",
-      "pt": "NAA"
+      "pt": "ARC"
     },
     "pipeline": {
       "faseActual": 3,

@@ -429,7 +429,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Ex 3:10",
@@ -556,7 +556,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Ex 1:8",
@@ -670,7 +670,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Ex 4:14",
@@ -776,7 +776,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Ex 2:4",
@@ -1111,7 +1111,61 @@
         "pt": "O nascimento e a preservação providencial de Moisés (Ex 2:1–10), figura do libertador que Deus prepara em segredo enquanto o seu povo sofre"
       },
       "versiculoClave": "Ex 2:10",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 11:23",
+          "tipo": "cita",
+          "nota": {
+            "es": "Hebreos 11 cita la fe de los padres de Moisés al esconderlo durante tres meses (He 11:23), convirtiendo el relato de Ex 2:2 en modelo canónico de fe que actúa bajo peligro de muerte.",
+            "en": "Hebrews 11 cites the faith of Moses' parents who hid him for three months (Heb 11:23), making the narrative of Ex 2:2 a canonical model of faith acting under threat of death.",
+            "pt": "Hebreus 11 cita a fé dos pais de Moisés ao escondê-lo por três meses (Hb 11:23), tornando o relato de Ex 2:2 um modelo canônico de fé que age diante da ameaça de morte."
+          }
+        },
+        {
+          "ref": "Hch 7:17-22",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El discurso de Esteban (Hch 7:17–22) recapitula el crecimiento de Israel en Egipto y la infancia de Moisés para demostrar el patrón divino de rechazo-y-rescate que culmina en Cristo.",
+            "en": "Stephen's speech (Acts 7:17–22) recaps Israel's growth in Egypt and Moses' infancy to demonstrate the divine pattern of rejection-and-rescue that culminates in Christ.",
+            "pt": "O discurso de Estêvão (At 7:17–22) recapitula o crescimento de Israel no Egito e a infância de Moisés para demonstrar o padrão divino de rejeição-e-resgate que culmina em Cristo."
+          }
+        },
+        {
+          "ref": "Mt 2:13-15",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La huida de Jesús a Egipto y su retorno cumple Os 11:1 ('De Egipto llamé a mi hijo') siguiendo el patrón mosaico: como Moisés fue preservado de la matanza de infantes, el verdadero Israel es rescatado del nuevo Herodes.",
+            "en": "Jesus' flight to Egypt and return fulfills Hos 11:1 ('Out of Egypt I called my son') following the Mosaic pattern: as Moses was preserved from infant slaughter, the true Israel is rescued from the new Herod.",
+            "pt": "A fuga de Jesus ao Egito e seu retorno cumpre Os 11:1 ('Do Egito chamei o meu filho') seguindo o padrão mosaico: assim como Moisés foi preservado da matança de crianças, o verdadeiro Israel é resgatado do novo Herodes."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Éxodo/Liberación": {
+            "es": "YHWH prepara en secreto al libertador (Ex 2:1–10) mientras Israel gime bajo la opresión egipcia (Ex 2:23–24), estableciendo el patrón canónico de redención: Dios actúa cuando su pueblo clama.",
+            "en": "YHWH secretly prepares the deliverer (Exod 2:1–10) while Israel groans under Egyptian oppression (Exod 2:23–24), establishing the canonical pattern of redemption: God acts when his people cry out.",
+            "pt": "YHWH prepara secretamente o libertador (Ex 2:1–10) enquanto Israel geme sob a opressão egípcia (Ex 2:23–24), estabelecendo o padrão canônico da redenção: Deus age quando o seu povo clama."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "Moisés é preservado providencialmente desde o nascimento (Ex 2:2) entre milhares de crianças hebreias, sinalizando que Deus o apartou soberanamente antes de qualquer mérito pessoal.",
+              "en": "Moses is providentially preserved from birth (Exod 2:2) among thousands of Hebrew children, signaling that God has sovereignly set him apart before any personal merit.",
+              "pt": "Moisés é preservado providencialmente desde o nascimento (Ex 2:2) entre milhares de crianças hebreias, sinalizando que Deus o apartou soberanamente antes de qualquer mérito pessoal."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "El crecimiento extraordinario de Israel en Egipto (Ex 1:7: 'fueron fecundos y se multiplicaron en gran manera') cumple la promesa patriarcal de Gn 12:2, demostrando que la opresión no puede frustrar la fidelidad de Dios al pacto.",
+              "en": "Israel's extraordinary growth in Egypt (Exod 1:7: 'the people of Israel were fruitful and multiplied greatly') fulfills the patriarchal promise of Gen 12:2, demonstrating that oppression cannot frustrate God's covenant faithfulness.",
+              "pt": "O crescimento extraordinário de Israel no Egito (Ex 1:7: 'os israelitas eram fecundos e se multiplicavam') cumpre a promessa patriarcal de Gn 12:2, demonstrando que a opressão não pode frustrar a fidelidade de Deus ao pacto."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 3,
@@ -1132,7 +1186,61 @@
         "pt": "A revelação do nome divino 'Eu Sou o que Sou' (Ex 3:14): o momento teológico central do livro"
       },
       "versiculoClave": "Ex 3:14",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mr 12:26",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Ex 3:6 ('Yo soy el Dios de Abraham, de Isaac y de Jacob') para demostrar la resurrección: si Dios se identifica en tiempo presente con los patriarcas muertos, ellos deben estar vivos ante Él.",
+            "en": "Jesus quotes Ex 3:6 ('I am the God of Abraham, Isaac, and Jacob') to prove the resurrection: if God identifies himself in the present tense with dead patriarchs, they must be alive before him.",
+            "pt": "Jesus cita Ex 3:6 ('Eu sou o Deus de Abraão, de Isaque e de Jacó') para provar a ressurreição: se Deus se identifica no tempo presente com os patriarcas mortos, eles devem estar vivos diante dEle."
+          }
+        },
+        {
+          "ref": "Jn 8:58",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Cuando Jesús declara 'Antes que Abraham fuese, yo soy' (Jn 8:58), emplea el nombre divino revelado en Ex 3:14 ('Yo soy el que soy') como autoafirmación de su eternidad e identidad con YHWH.",
+            "en": "When Jesus declares 'Before Abraham was, I am' (John 8:58), he employs the divine name revealed in Ex 3:14 ('I AM WHO I AM') as a self-affirmation of his eternity and identity with YHWH.",
+            "pt": "Quando Jesus declara 'Antes que Abraão existisse, eu sou' (Jo 8:58), emprega o nome divino revelado em Ex 3:14 ('EU SOU O QUE SOU') como autoafirmação de sua eternidade e identidade com YHWH."
+          }
+        },
+        {
+          "ref": "Hch 7:30-35",
+          "tipo": "cita",
+          "nota": {
+            "es": "Esteban cita explícitamente la zarza ardiente y las palabras de Ex 3:5–10 para identificar al Moisés rechazado por Israel como el mismo libertador enviado por Dios — tipo directo de Cristo rechazado y exaltado.",
+            "en": "Stephen explicitly quotes the burning bush and the words of Ex 3:5–10 to identify the Moses rejected by Israel as the same deliverer sent by God — a direct type of the rejected and exalted Christ.",
+            "pt": "Estêvão cita explicitamente a sarça ardente e as palavras de Ex 3:5–10 para identificar o Moisés rejeitado por Israel como o mesmo libertador enviado por Deus — tipo direto de Cristo rejeitado e exaltado."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Nombre de Dios": {
+            "es": "La revelación del nombre divino 'Yo soy el que soy' (Ex 3:14) es el momento teológico central del libro: YHWH declara su aseidad y eternidad, fundamento de toda confianza en sus promesas del pacto.",
+            "en": "The revelation of the divine name 'I AM WHO I AM' (Exod 3:14) is the book's central theological moment: YHWH declares his aseity and eternity, the foundation of all trust in his covenant promises.",
+            "pt": "A revelação do nome divino 'EU SOU O QUE SOU' (Ex 3:14) é o momento teológico central do livro: YHWH declara sua aseidade e eternidade, fundamento de toda confiança em suas promessas do pacto."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "Dios llama a Moisés por su nombre desde la zarza (Ex 3:4) y lo envía como representante ante Faraón (Ex 3:10), mostrando la elección soberana de un instrumento improbable — pastor fugitivo — para la misión redentora.",
+              "en": "God calls Moses by name from the bush (Exod 3:4) and sends him as his representative before Pharaoh (Exod 3:10), showing the sovereign election of an unlikely instrument — a fugitive shepherd — for the redemptive mission.",
+              "pt": "Deus chama Moisés pelo nome da sarça (Ex 3:4) e o envia como seu representante diante do Faraó (Ex 3:10), mostrando a eleição soberana de um instrumento improvável — pastor fugitivo — para a missão redentora."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "La promesa 'Ciertamente yo estaré contigo' (Ex 3:12) fundamenta todo el llamado de Moisés: la misión no descansa en la capacidad humana sino en la presencia activa de YHWH, patrón que el NT cumple en la promesa del Espíritu (Mt 28:20).",
+              "en": "The promise 'I will certainly be with you' (Exod 3:12) grounds Moses' entire call: the mission rests not on human capability but on YHWH's active presence, a pattern the NT fulfills in the promise of the Spirit (Matt 28:20).",
+              "pt": "A promessa 'Certamente estarei contigo' (Ex 3:12) fundamenta todo o chamado de Moisés: a missão não repousa na capacidade humana, mas na presença ativa de YHWH, padrão que o NT cumpre na promessa do Espírito (Mt 28:20)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -1153,7 +1261,52 @@
         "pt": "Deus revela a progressão da revelação do seu nome: conhecido como 'El Shaddai' pelos patriarcas, agora plenamente revelado como YHWH (Ex 6:3)"
       },
       "versiculoClave": "Ex 6:6",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 3:1-6",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Hebreos compara a Moisés y a Cristo como siervos fieles en la casa de Dios (He 3:2–6): Moisés fue fiel como siervo ('testigo de lo que había de decirse'), mientras Cristo es fiel como Hijo sobre la misma casa.",
+            "en": "Hebrews compares Moses and Christ as faithful servants in God's house (Heb 3:2–6): Moses was faithful as a servant ('witness of things to be spoken'), while Christ is faithful as the Son over that very house.",
+            "pt": "Hebreus compara Moisés e Cristo como servos fiéis na casa de Deus (Hb 3:2–6): Moisés foi fiel como servo ('testemunha das coisas que seriam anunciadas'), enquanto Cristo é fiel como Filho sobre essa mesma casa."
+          }
+        },
+        {
+          "ref": "2 Co 3:7-11",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La resistencia de Faraón al mensaje de Moisés anticipa el contraste paulino entre el ministerio de la letra que mata y el del Espíritu que da vida (2 Co 3:7–11): la gloria del ministerio mosaico era temporal y debía ser superada.",
+            "en": "Pharaoh's resistance to Moses' message anticipates the Pauline contrast between the ministry of the letter that kills and the Spirit that gives life (2 Cor 3:7–11): the glory of the Mosaic ministry was temporary and destined to be surpassed.",
+            "pt": "A resistência de Faraó à mensagem de Moisés antecipa o contraste paulino entre o ministério da letra que mata e o do Espírito que dá vida (2 Co 3:7–11): a glória do ministério mosaico era temporária e destinada a ser superada."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Ante la primera resistencia de Faraón, Dios renueva el pacto abrahámico con siete promesas (Ex 6:6–8): 'Os sacaré… os libraré… os redimiré… os tomaré por pueblo mío', cubriendo el arco completo desde liberación hasta comunión, fundamento del pacto de gracia.",
+            "en": "Against Pharaoh's first resistance, God renews the Abrahamic covenant with seven promises (Exod 6:6–8): 'I will bring you out… deliver you… redeem you… take you as my people,' covering the complete arc from liberation to communion, the foundation of the covenant of grace.",
+            "pt": "Diante da primeira resistência do Faraó, Deus renova o pacto abraâmico com sete promessas (Ex 6:6–8): 'Vos tirarei… vos livrarei… vos resgatarei… vos tomarei por meu povo', cobrindo o arco completo desde a libertação até a comunhão, fundamento do pacto da graça."
+          }
+        },
+        "secundarios": [
+          {
+            "Nombre de Dios": {
+              "es": "El nombre YHWH no fue conocido por los patriarcas en la misma plenitud que ahora se revela (Ex 6:3): la progresión en la revelación del nombre divino muestra que cada administración del pacto trae una revelación más plena de quién es Dios.",
+              "en": "The name YHWH was not known by the patriarchs with the same fullness now revealed (Exod 6:3): the progression in the revelation of the divine name shows that each covenant administration brings a fuller revelation of who God is.",
+              "pt": "O nome YHWH não era conhecido pelos patriarcas com a mesma plenitude agora revelada (Ex 6:3): a progressão na revelação do nome divino mostra que cada administração do pacto traz uma revelação mais plena de quem é Deus."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Dios declara que 'se acordó de su pacto' con Abraham, Isaac y Jacob (Ex 6:5), conectando explícitamente el éxodo con la promesa de Gn 15:13–14 y demostrando que el tiempo de la opresión era parte del plan redentor, no su fracaso.",
+              "en": "God declares that he 'remembered his covenant' with Abraham, Isaac, and Jacob (Exod 6:5), explicitly connecting the exodus with the promise of Gen 15:13–14 and demonstrating that the time of oppression was part of the redemptive plan, not its failure.",
+              "pt": "Deus declara que 'se lembrou do seu pacto' com Abraão, Isaque e Jacó (Ex 6:5), conectando explicitamente o êxodo com a promessa de Gn 15:13–14 e demonstrando que o tempo da opressão era parte do plano redentor, não seu fracasso."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 7,
@@ -1174,7 +1327,52 @@
         "pt": "As dez pragas como julgamento divino sobre os deuses do Egito (Ex 12:12): YHWH demonstra a sua soberania sobre todo o panteão egípcio"
       },
       "versiculoClave": "Ex 9:16",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 9:17-18",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Ex 9:16 directamente ('Para esto mismo te he levantado, para mostrar en ti mi poder') a fin de demostrar que el endurecimiento soberano de Faraón es evidencia de la libertad absoluta de Dios en la elección y el rechazo.",
+            "en": "Paul quotes Ex 9:16 directly ('For this very purpose I have raised you up, to show my power in you') to demonstrate that Pharaoh's sovereign hardening is evidence of God's absolute freedom in election and reprobation.",
+            "pt": "Paulo cita Ex 9:16 diretamente ('Para isso mesmo te levantei, para mostrar em ti o meu poder') a fim de demonstrar que o endurecimento soberano de Faraó é evidência da liberdade absoluta de Deus na eleição e no repúdio."
+          }
+        },
+        {
+          "ref": "Ap 8:7",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Las trompetas del Apocalipsis (Ap 8–9) están estructuradas tipológicamente sobre las plagas de Egipto: granizo y fuego (Ap 8:7 / Ex 9:23), oscuridad (Ap 8:12 / Ex 10:22) y langostas (Ap 9:3 / Ex 10:12), mostrando que el juicio escatológico recapitula el éxodo.",
+            "en": "The trumpets of Revelation (Rev 8–9) are typologically structured on the plagues of Egypt: hail and fire (Rev 8:7 / Ex 9:23), darkness (Rev 8:12 / Ex 10:22), and locusts (Rev 9:3 / Ex 10:12), showing that eschatological judgment recapitulates the exodus.",
+            "pt": "As trombetas do Apocalipse (Ap 8–9) estão estruturadas tipologicamente sobre as pragas do Egito: granizo e fogo (Ap 8:7 / Ex 9:23), trevas (Ap 8:12 / Ex 10:22) e gafanhotos (Ap 9:3 / Ex 10:12), mostrando que o juízo escatológico recapitula o êxodo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "Las nueve plagas son juicios divinos progresivos sobre Egipto y sus dioses (Ex 7–10), culminando en la confesión de los magos: 'El dedo de Dios es esto' (Ex 8:19); el endurecimiento soberano del corazón de Faraón (Ex 9:12) revela que Dios dirige la historia del juicio hacia sus propósitos redentores.",
+            "en": "The nine plagues are progressive divine judgments on Egypt and its gods (Exod 7–10), culminating in the magicians' confession: 'This is the finger of God' (Exod 8:19); the sovereign hardening of Pharaoh's heart (Exod 9:12) reveals that God directs the history of judgment toward his redemptive purposes.",
+            "pt": "As nove pragas são juízos divinos progressivos sobre o Egito e seus deuses (Ex 7–10), culminando na confissão dos magos: 'Isto é o dedo de Deus' (Ex 8:19); o endurecimento soberano do coração do Faraó (Ex 9:12) revela que Deus dirige a história do juízo em direção aos seus propósitos redentores."
+          }
+        },
+        "secundarios": [
+          {
+            "Nombre de Dios": {
+              "es": "El leitmotiv de cada plaga es que Egipto 'sabrá que yo soy YHWH' (Ex 7:5; Ex 8:22; Ex 9:14): las plagas son actos de auto-revelación divina que demuestran la soberanía de YHWH sobre todo el cosmos que el panteón egipcio pretendía gobernar.",
+              "en": "The leitmotif of each plague is that Egypt 'will know that I am YHWH' (Exod 7:5; Exod 8:22; Exod 9:14): the plagues are acts of divine self-revelation demonstrating YHWH's sovereignty over all the cosmos the Egyptian pantheon claimed to govern.",
+              "pt": "O leitmotiv de cada praga é que o Egito 'saberá que eu sou YHWH' (Ex 7:5; Ex 8:22; Ex 9:14): as pragas são atos de auto-revelação divina que demonstram a soberania de YHWH sobre todo o cosmos que o panteão egípcio pretendia governar."
+            }
+          },
+          {
+            "Idolatría": {
+              "es": "Cada plaga apunta a una deidad egipcia específica —Nilo (Hapi), ranas (Hequet), oscuridad (Ra)— exponiendo su impotencia ante YHWH: el juicio divino desmonta sistemáticamente el sistema idolátrico que sustentaba el poder de Faraón (Ex 12:12).",
+              "en": "Each plague targets a specific Egyptian deity — Nile (Hapi), frogs (Heqet), darkness (Ra) — exposing their impotence before YHWH: divine judgment systematically dismantles the idolatrous system sustaining Pharaoh's power (Exod 12:12).",
+              "pt": "Cada praga aponta para uma divindade egípcia específica — Nilo (Hápi), rãs (Hequet), trevas (Rá) — expondo sua impotência diante de YHWH: o juízo divino desmonta sistematicamente o sistema idolátrico que sustentava o poder do Faraó (Ex 12:12)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 11,
@@ -1195,7 +1393,70 @@
         "pt": "A instituição da Páscoa e a passagem da primeira noite: o sangue do cordeiro como proteção da ira divina (Ex 12:13)"
       },
       "versiculoClave": "Ex 12:13",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1 Co 5:7",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pablo declara explícitamente que 'Cristo, nuestra Pascua, ya fue sacrificado' (1 Co 5:7), identificando al cordero pascual de Ex 12 como tipo directo de la expiación de Cristo: la sangre que protege de la ira de Dios halla su antitipo en la cruz.",
+            "en": "Paul explicitly declares 'Christ, our Passover lamb, has been sacrificed' (1 Cor 5:7), identifying the Passover lamb of Ex 12 as a direct type of Christ's atonement: the blood that protects from God's wrath finds its antitype in the cross.",
+            "pt": "Paulo declara explicitamente que 'Cristo, o nosso Cordeiro pascal, foi imolado' (1 Co 5:7), identificando o cordeiro pascal de Ex 12 como tipo direto da expiação de Cristo: o sangue que protege da ira de Deus encontra seu antítipo na cruz."
+          }
+        },
+        {
+          "ref": "Jn 1:29",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La proclamación de Juan el Bautista 'He aquí el Cordero de Dios, que quita el pecado del mundo' (Jn 1:29) aplica directamente la tipología del cordero pascual sin defecto (Ex 12:5) a Jesús, señalándolo como el antitype que cumple lo que la Pascua prefiguró.",
+            "en": "John the Baptist's proclamation 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29) directly applies the typology of the unblemished Passover lamb (Ex 12:5) to Jesus, pointing to him as the antitype fulfilling what the Passover foreshadowed.",
+            "pt": "A proclamação de João Batista 'Eis o Cordeiro de Deus, que tira o pecado do mundo' (Jo 1:29) aplica diretamente a tipologia do cordeiro pascal sem defeito (Ex 12:5) a Jesus, apontando-o como o antítipo que cumpre o que a Páscoa prefigurou."
+          }
+        },
+        {
+          "ref": "Jn 19:36",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El evangelista cita Ex 12:46 ('No le quebrarán hueso alguno') para señalar que los soldados no quebraron los huesos de Jesús crucificado (Jn 19:36), identificando explícitamente su muerte con el rito pascual.",
+            "en": "The evangelist quotes Ex 12:46 ('Not one of his bones will be broken') to note that soldiers did not break Jesus' bones on the cross (John 19:36), explicitly identifying his death with the Passover ritual.",
+            "pt": "O evangelista cita Ex 12:46 ('Nenhum dos seus ossos será quebrado') para assinalar que os soldados não quebraram os ossos de Jesus crucificado (Jo 19:36), identificando explicitamente sua morte com o rito pascal."
+          }
+        },
+        {
+          "ref": "He 11:28",
+          "tipo": "cita",
+          "nota": {
+            "es": "Hebreos 11 menciona la Pascua como acto de fe de Moisés (He 11:28), reencuadrando el rito cultual como respuesta de confianza en la promesa de Dios antes de ver el resultado — paradigma de la fe como 'certeza de lo que se espera'.",
+            "en": "Hebrews 11 mentions the Passover as an act of Moses' faith (Heb 11:28), reframing the cultic rite as a trusting response to God's promise before seeing the outcome — a paradigm of faith as 'the assurance of things hoped for'.",
+            "pt": "Hebreus 11 menciona a Páscoa como ato de fé de Moisés (Hb 11:28), reenquadrando o rito cúltico como resposta de confiança na promessa de Deus antes de ver o resultado — paradigma da fé como 'certeza do que se espera'."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pascua/Cordero de Dios": {
+            "es": "La institución de la Pascua (Ex 12:1–13) es el ritual redentor central del AT: la sangre del cordero sin defecto (Ex 12:5) aplicada en los dinteles protege de la ira divina (Ex 12:13), estableciendo el principio de sustitución que se cumple definitivamente en Cristo como 'nuestra Pascua' (1Co 5:7).",
+            "en": "The institution of the Passover (Exod 12:1–13) is the OT's central redemptive ritual: the blood of the unblemished lamb (Exod 12:5) applied to the doorposts protects from divine wrath (Exod 12:13), establishing the substitutionary principle definitively fulfilled in Christ as 'our Passover' (1 Cor 5:7).",
+            "pt": "A instituição da Páscoa (Ex 12:1–13) é o ritual redentor central do AT: o sangue do cordeiro sem defeito (Ex 12:5) aplicado nas ombreiras protege da ira divina (Ex 12:13), estabelecendo o princípio da substituição definitivamente cumprido em Cristo como 'nossa Páscoa' (1Co 5:7)."
+          }
+        },
+        "secundarios": [
+          {
+            "Éxodo/Liberación": {
+              "es": "La salida de Israel de Egipto (Ex 12:31–42) —cerca de 600.000 hombres a pie más el grupo mixto— es el acto fundacional que define la identidad de Israel para siempre: un pueblo rescatado de la esclavitud por el brazo redentor de YHWH, no por su mérito.",
+              "en": "Israel's departure from Egypt (Exod 12:31–42) — about 600,000 men on foot plus the mixed multitude — is the foundational act that defines Israel's identity forever: a people rescued from slavery by YHWH's redeeming arm, not by their own merit.",
+              "pt": "A saída de Israel do Egito (Ex 12:31–42) — cerca de 600.000 homens a pé mais o grupo misto — é o ato fundacional que define a identidade de Israel para sempre: um povo resgatado da escravidão pelo braço redentor de YHWH, não pelo seu mérito."
+            }
+          },
+          {
+            "Sacrificio/Expiación": {
+              "es": "El cordero pascual debe ser macho, de un año, sin defecto (Ex 12:5): la perfección del sacrificio y la necesidad de sangre para proteger del juicio (Ex 12:13) tipifican el único sacrificio que puede satisfacer plenamente la santidad divina — la muerte expiatoria de Cristo (Jn 1:29).",
+              "en": "The Passover lamb must be male, one year old, without blemish (Exod 12:5): the sacrifice's perfection and the need for blood to protect from judgment (Exod 12:13) typify the only sacrifice that can fully satisfy divine holiness — the atoning death of Christ (John 1:29).",
+              "pt": "O cordeiro pascal deve ser macho, de um ano, sem defeito (Ex 12:5): a perfeição do sacrifício e a necessidade do sangue para proteger do juízo (Ex 12:13) tipificam o único sacrifício que pode satisfazer plenamente a santidade divina — a morte expiatória de Cristo (Jo 1:29)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 13,
@@ -1216,7 +1477,61 @@
         "pt": "A travessia do Mar Vermelho: o ato redentor mais importante do AT, paradigma de toda salvação divina (Ex 14:21–28)"
       },
       "versiculoClave": "Ex 14:30",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1 Co 10:1-2",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Pablo identifica el cruce del Mar Rojo como un 'bautismo en Moisés' (1 Co 10:1–2), estableciendo una correspondencia tipológica entre el paso por las aguas del Mar Rojo (Ex 14:21–22) y el bautismo cristiano: ambos marcan la separación del pueblo de Dios del dominio del pecado.",
+            "en": "Paul identifies the crossing of the Red Sea as a 'baptism into Moses' (1 Cor 10:1–2), establishing a typological correspondence between passing through the waters of the Red Sea (Ex 14:21–22) and Christian baptism: both mark the separation of God's people from the dominion of sin.",
+            "pt": "Paulo identifica a travessia do Mar Vermelho como um 'batismo em Moisés' (1 Co 10:1–2), estabelecendo uma correspondência tipológica entre a passagem pelas águas do Mar Vermelho (Ex 14:21–22) e o batismo cristão: ambos marcam a separação do povo de Deus do domínio do pecado."
+          }
+        },
+        {
+          "ref": "He 11:29",
+          "tipo": "cita",
+          "nota": {
+            "es": "Hebreos incorpora el cruce del Mar Rojo a la galería de la fe (He 11:29): Israel cruzó por fe, mientras los egipcios que lo intentaron perecieron, ilustrando que la misma acción salvadora condena al que no tiene fe.",
+            "en": "Hebrews incorporates the Red Sea crossing into the faith gallery (Heb 11:29): Israel crossed by faith, while the Egyptians who attempted it perished, illustrating that the same saving act condemns those without faith.",
+            "pt": "Hebreus incorpora a travessia do Mar Vermelho à galeria da fé (Hb 11:29): Israel atravessou pela fé, enquanto os egípcios que tentaram o mesmo pereceram, ilustrando que o mesmo ato salvador condena quem não tem fé."
+          }
+        },
+        {
+          "ref": "Ap 15:3",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Los vencedores escatológicos en el Apocalipsis cantan 'el cántico de Moisés siervo de Dios y el cántico del Cordero' (Ap 15:3), uniendo el himno de Ex 15 con la victoria final de Cristo: el éxodo del Mar Rojo prefigura la liberación definitiva de la bestia.",
+            "en": "The eschatological victors in Revelation sing 'the song of Moses, the servant of God, and the song of the Lamb' (Rev 15:3), uniting the hymn of Ex 15 with Christ's final victory: the Red Sea exodus foreshadows the ultimate deliverance from the beast.",
+            "pt": "Os vencedores escatológicos no Apocalipse cantam 'o cântico de Moisés, servo de Deus, e o cântico do Cordeiro' (Ap 15:3), unindo o hino de Ex 15 com a vitória final de Cristo: o êxodo do Mar Vermelho prefigura a libertação definitiva da besta."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Éxodo/Liberación": {
+            "es": "El cruce del Mar Rojo (Ex 14:21–28) es el acto redentor paradigmático del AT: YHWH abre paso en las aguas, Israel cruza en tierra seca y el ejército egipcio perece; este único evento es citado en toda la Escritura como el modelo de toda salvación divina (Is 43:16–17; 1Co 10:1–2).",
+            "en": "The crossing of the Red Sea (Exod 14:21–28) is the OT's paradigmatic redemptive act: YHWH opens a way through the waters, Israel crosses on dry ground, and the Egyptian army perishes; this single event is cited throughout Scripture as the model for all divine salvation (Isa 43:16–17; 1 Cor 10:1–2).",
+            "pt": "A travessia do Mar Vermelho (Ex 14:21–28) é o ato redentor paradigmático do AT: YHWH abre caminho nas águas, Israel cruza em terra seca e o exército egípcio perece; este único evento é citado em toda a Escritura como o modelo de toda salvação divina (Is 43:16–17; 1Co 10:1–2)."
+          }
+        },
+        "secundarios": [
+          {
+            "Redención/Rescate": {
+              "es": "El cántico de Moisés (Ex 15:1–18) proclama a YHWH como guerrero divino que en su hesed guió al pueblo que redimió (Ex 15:13): la redención es siempre iniciativa soberana de Dios, no capacidad ni mérito del hombre, y merece adoración perpetua.",
+              "en": "The Song of Moses (Exod 15:1–18) proclaims YHWH as the divine warrior who in his steadfast love guided the people he redeemed (Exod 15:13): redemption is always God's sovereign initiative, not human ability or merit, and it warrants perpetual worship.",
+              "pt": "O cântico de Moisés (Ex 15:1–18) proclama YHWH como guerreiro divino que em seu hesed guiou o povo que resgatou (Ex 15:13): a redenção é sempre iniciativa soberana de Deus, não capacidade ou mérito humano, e merece adoração perpétua."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "La columna de nube de día y de fuego de noche (Ex 13:21–22) que guía a Israel es la presencia visible de YHWH: la shekiná que precede al pueblo en el éxodo anticipa la morada permanente de Dios en el tabernáculo y, finalmente, en la encarnación del Verbo (Jn 1:14).",
+              "en": "The pillar of cloud by day and fire by night (Exod 13:21–22) guiding Israel is the visible presence of YHWH: the Shekinah leading the people in the exodus anticipates God's permanent dwelling in the tabernacle and, ultimately, in the incarnation of the Word (John 1:14).",
+              "pt": "A coluna de nuvem de dia e de fogo de noite (Ex 13:21–22) que guia Israel é a presença visível de YHWH: a shekiná que precede o povo no êxodo antecipa a habitação permanente de Deus no tabernáculo e, por fim, na encarnação do Verbo (Jo 1:14)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 16,
@@ -1237,7 +1552,52 @@
         "pt": "A provisão do maná do céu (Ex 16:14–15): o sustento sobrenatural de Israel prefigura Cristo como o pão da vida (Jo 6:31–35)"
       },
       "versiculoClave": "Ex 16:15",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 6:31-35",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Jesús recoge la cita 'pan del cielo les dio a comer' (Jn 6:31, aludiendo a Ex 16:4) para declararse a sí mismo como el verdadero pan que desciende del cielo (Jn 6:35): el maná satisfacía el hambre física temporalmente; Cristo satisface el hambre espiritual eternamente.",
+            "en": "Jesus takes up the quotation 'He gave them bread from heaven to eat' (John 6:31, alluding to Ex 16:4) to declare himself the true bread that comes down from heaven (John 6:35): the manna satisfied physical hunger temporarily; Christ satisfies spiritual hunger eternally.",
+            "pt": "Jesus retoma a citação 'deu-lhes a comer pão do céu' (Jo 6:31, aludindo a Ex 16:4) para se declarar o verdadeiro pão que desce do céu (Jo 6:35): o maná saciava a fome física temporariamente; Cristo satisfaz a fome espiritual eternamente."
+          }
+        },
+        {
+          "ref": "1 Co 10:3-4",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Pablo declara que los israelitas 'todos comieron el mismo alimento espiritual y todos bebieron la misma bebida espiritual, porque bebían de la roca espiritual que los seguía, y la roca era Cristo' (1 Co 10:3–4), identificando el maná (Ex 16) y el agua de la roca (Ex 17:6) como tipos de la provisión de Cristo.",
+            "en": "Paul declares that the Israelites 'all ate the same spiritual food and all drank the same spiritual drink, for they drank from the spiritual Rock that followed them, and the Rock was Christ' (1 Cor 10:3–4), identifying the manna (Ex 16) and the water from the rock (Ex 17:6) as types of Christ's provision.",
+            "pt": "Paulo declara que os israelitas 'todos comeram o mesmo alimento espiritual e todos beberam a mesma bebida espiritual, porque bebiam da pedra espiritual que os seguia, e a pedra era Cristo' (1 Co 10:3–4), identificando o maná (Ex 16) e a água da rocha (Ex 17:6) como tipos da provisão de Cristo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Exilio/Desierto": {
+            "es": "El período en el desierto (Ex 16–18) es tiempo de prueba y formación: Dios envía el maná para 'probarlos, si andarán en mi ley o no' (Ex 16:4), revelando que el desierto es disciplina pedagógica de Dios que forma al pueblo pactual antes de la entrada en Canaán.",
+            "en": "The wilderness period (Exod 16–18) is a time of testing and formation: God sends manna 'to test them, whether they will walk in my law or not' (Exod 16:4), revealing that the desert is God's pedagogical discipline that shapes the covenant people before their entry into Canaan.",
+            "pt": "O período no deserto (Ex 16–18) é tempo de prova e formação: Deus envia o maná para 'provar se andariam na minha lei ou não' (Ex 16:4), revelando que o deserto é disciplina pedagógica de Deus que forma o povo pactual antes da entrada em Canaã."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "La doble provisión de maná (Ex 16:14–15) y agua de la roca (Ex 17:6) ante la murmuración de Israel demuestra el hesed de YHWH: Dios sostiene a su pueblo no porque lo merezca sino porque su fidelidad al pacto no depende del estado espiritual de Israel.",
+              "en": "The double provision of manna (Exod 16:14–15) and water from the rock (Exod 17:6) in response to Israel's grumbling demonstrates YHWH's hesed: God sustains his people not because they deserve it but because his covenant faithfulness does not depend on Israel's spiritual condition.",
+              "pt": "A dupla provisão de maná (Ex 16:14–15) e água da rocha (Ex 17:6) diante da murmuração de Israel demonstra o hesed de YHWH: Deus sustenta o seu povo não porque o mereça, mas porque sua fidelidade ao pacto não depende do estado espiritual de Israel."
+            }
+          },
+          {
+            "Palabra de Dios/Ley": {
+              "es": "Las instrucciones sobre el maná (Ex 16:4–5) —recoger solo lo de cada día, doble el sexto— prueban la obediencia de Israel a mandatos concretos antes de recibir la Ley en el Sinaí: la formación espiritual del pueblo comienza con la disciplina de confiar en la Palabra divina diariamente.",
+              "en": "The manna instructions (Exod 16:4–5) — gather only a day's portion, double on the sixth — test Israel's obedience to concrete commands before receiving the Law at Sinai: the spiritual formation of the people begins with the discipline of trusting the divine Word daily.",
+              "pt": "As instruções sobre o maná (Ex 16:4–5) — recolher apenas a porção diária, o dobro no sexto dia — provam a obediência de Israel a mandamentos concretos antes de receber a Lei no Sinai: a formação espiritual do povo começa com a disciplina de confiar na Palavra divina diariamente."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 19,
@@ -1258,7 +1618,68 @@
         "pt": "A proclamação do Decálogo (Ex 20:1–17): o núcleo legislativo-moral da aliança mosaica e fundamento de toda ética reformada"
       },
       "versiculoClave": "Ex 20:2",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 12:18-21",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Hebreos contrasta el Sinaí aterrador (He 12:18–21, citando Ex 19:12–13; 20:18–19) con el Monte Sión al que se acercan los creyentes del nuevo pacto: el terror de la teofanía mosaica resalta por contraste la gracia y la libertad del acceso cristiano a Dios.",
+            "en": "Hebrews contrasts the terrifying Sinai (Heb 12:18–21, quoting Ex 19:12–13; 20:18–19) with Mount Zion to which new covenant believers draw near: the terror of the Mosaic theophany highlights by contrast the grace and freedom of Christian access to God.",
+            "pt": "Hebreus contrasta o Sinai aterrorizante (Hb 12:18–21, citando Ex 19:12–13; 20:18–19) com o Monte Sião ao qual se aproximam os crentes do novo pacto: o terror da teofania mosaica destaca, por contraste, a graça e a liberdade do acesso cristão a Deus."
+          }
+        },
+        {
+          "ref": "Mt 5:17-18",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La declaración de Jesús 'No he venido para abolir la ley sino para cumplirla' (Mt 5:17) establece su relación con el Decálogo de Ex 20: Él no deroga los mandamientos sino que los lleva a su plena intención, internalizando la ley e intensificando su demanda moral.",
+            "en": "Jesus' declaration 'I have not come to abolish the Law but to fulfill it' (Matt 5:17) establishes his relationship with the Decalogue of Ex 20: he does not abrogate the commandments but brings them to their full intention, internalizing the law and intensifying its moral demand.",
+            "pt": "A declaração de Jesus 'Não vim para abolir a lei, mas para cumpri-la' (Mt 5:17) estabelece sua relação com o Decálogo de Ex 20: Ele não revoga os mandamentos, mas os leva à sua plena intenção, internalizando a lei e intensificando sua exigência moral."
+          }
+        },
+        {
+          "ref": "2 Co 3:7-11",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo contrasta la gloria transitoria del ministerio de la ley grabada en piedras (2 Co 3:7, aludiendo a Ex 20) con la gloria permanente del ministerio del Espíritu: la ley del Sinaí cumplió una función pedagógica real, pero fue superada por el nuevo pacto.",
+            "en": "Paul contrasts the fading glory of the ministry of the law engraved on stone (2 Cor 3:7, alluding to Ex 20) with the surpassing glory of the Spirit's ministry: the Sinai law fulfilled a real pedagogical function, but was surpassed by the new covenant.",
+            "pt": "Paulo contrasta a glória transitória do ministério da lei gravada em pedras (2 Co 3:7, aludindo a Ex 20) com a glória permanente do ministério do Espírito: a lei do Sinai cumpriu uma função pedagógica real, mas foi superada pelo novo pacto."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "El Decálogo (Ex 20:1–17) es el núcleo moral del pacto sinaítico: precedido por el prólogo redentor 'Yo soy YHWH tu Dios, que te saqué de Egipto' (Ex 20:2), la ley no es camino de salvación sino respuesta agradecida al rescate, constituyendo la ética del pueblo ya redimido.",
+            "en": "The Decalogue (Exod 20:1–17) is the Sinaitic covenant's moral core: preceded by the redemptive prologue 'I am YHWH your God, who brought you out of Egypt' (Exod 20:2), the law is not a way of salvation but a grateful response to rescue, constituting the ethics of the already redeemed people.",
+            "pt": "O Decálogo (Ex 20:1–17) é o núcleo moral do pacto sinaítico: precedido pelo prólogo redentor 'Eu sou YHWH teu Deus, que te tirei do Egito' (Ex 20:2), a lei não é caminho de salvação, mas resposta grata ao resgate, constituindo a ética do povo já redimido."
+          }
+        },
+        "secundarios": [
+          {
+            "Pacto": {
+              "es": "La convocatoria al Sinaí como 'reino de sacerdotes y nación santa' (Ex 19:6) es la formalización nacional del pacto de gracia: el pacto sinaítico no crea una nueva vía de salvación por obras sino que es la administración mosaica del único pacto de gracia iniciado con Adán y Abraham.",
+              "en": "The Sinai summons as 'a kingdom of priests and a holy nation' (Exod 19:6) is the national formalization of the covenant of grace: the Sinaitic covenant does not create a new way of salvation by works but is the Mosaic administration of the one covenant of grace begun with Adam and Abraham.",
+              "pt": "A convocação ao Sinai como 'reino de sacerdotes e nação santa' (Ex 19:6) é a formalização nacional do pacto da graça: o pacto sinaítico não cria uma nova via de salvação por obras, mas é a administração mosaica do único pacto da graça iniciado com Adão e Abraão."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "La teofanía del Sinaí (Ex 19:16–19) —fuego, truenos, relámpagos, humo— revela la santidad de YHWH; el pueblo aterrorizado pide a Moisés como mediador (Ex 20:18–19), anticipando la necesidad de un sumo sacerdote que pueda acercarse a Dios en nombre de Israel (He 12:18–21).",
+              "en": "The Sinai theophany (Exod 19:16–19) — fire, thunder, lightning, smoke — reveals YHWH's holiness; the terrified people ask Moses to serve as mediator (Exod 20:18–19), anticipating the need for a high priest who can approach God on Israel's behalf (Heb 12:18–21).",
+              "pt": "A teofania do Sinai (Ex 19:16–19) — fogo, trovões, relâmpagos, fumaça — revela a santidade de YHWH; o povo aterrorizado pede a Moisés como mediador (Ex 20:18–19), antecipando a necessidade de um sumo sacerdote que possa se aproximar de Deus em nome de Israel (Hb 12:18–21)."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "YHWH 'descenderá sobre el monte Sinaí a la vista de todo el pueblo' (Ex 19:11), convirtiendo el monte en espacio sagrado mediado por su santidad; esta presencia teofánica es la más intensa del AT antes del tabernáculo y contrasta con la accesibilidad que Cristo abre en el nuevo pacto.",
+              "en": "YHWH 'will come down on Mount Sinai in the sight of all the people' (Exod 19:11), turning the mountain into sacred space mediated by his holiness; this theophanic presence is the most intense in the OT before the tabernacle and contrasts with the accessibility Christ opens in the new covenant.",
+              "pt": "YHWH 'descerá sobre o monte Sinai à vista de todo o povo' (Ex 19:11), tornando o monte em espaço sagrado mediado por sua santidade; essa presença teofânica é a mais intensa do AT antes do tabernáculo e contrasta com a acessibilidade que Cristo abre no novo pacto."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 21,
@@ -1279,7 +1700,61 @@
         "pt": "A entrega do Livro da Aliança como constituição civil e cerimonial de Israel (Ex 24:7): 'Tudo o que o SENHOR disse faremos'"
       },
       "versiculoClave": "Ex 23:20",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 5:38-39",
+          "tipo": "cita",
+          "nota": {
+            "es": "En el Sermón del Monte, Jesús cita la lex talionis de Ex 21:24 ('ojo por ojo, diente por diente') para contrastarlo con el principio superior del reino: la ley de retribución equitativa fue justa para Israel civil, pero la ética del reino exige sobrepasar la reciprocidad.",
+            "en": "In the Sermon on the Mount, Jesus quotes the lex talionis of Ex 21:24 ('an eye for an eye, a tooth for a tooth') to contrast it with the higher kingdom principle: the law of proportional retribution was just for civil Israel, but kingdom ethics demands going beyond reciprocity.",
+            "pt": "No Sermão da Montanha, Jesus cita a lex talionis de Ex 21:24 ('olho por olho, dente por dente') para contrastá-la com o princípio superior do reino: a lei de retribuição equitativa era justa para Israel civil, mas a ética do reino exige ir além da reciprocidade."
+          }
+        },
+        {
+          "ref": "Gá 3:19",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo afirma que la ley (incluyendo el Libro del Pacto de Ex 21–23) fue añadida 'a causa de las transgresiones' (Gá 3:19) como administración temporal hasta la venida de Cristo, subordinando el código civil-ceremonial mosaico al propósito redentor del pacto de gracia.",
+            "en": "Paul affirms that the law (including the Book of the Covenant in Ex 21–23) was added 'because of transgressions' (Gal 3:19) as a temporary administration until Christ came, subordinating the Mosaic civil-ceremonial code to the redemptive purpose of the covenant of grace.",
+            "pt": "Paulo afirma que a lei (incluindo o Livro do Pacto de Ex 21–23) foi acrescentada 'por causa das transgressões' (Gl 3:19) como administração temporária até a vinda de Cristo, subordinando o código civil-cerimonial mosaico ao propósito redentor do pacto da graça."
+          }
+        },
+        {
+          "ref": "Ro 13:9",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Pablo resume los mandamientos del Libro del Pacto en el amor al prójimo (Ro 13:9), mostrando que la legislación de Ex 21–23 tenía como núcleo el amor y que el nuevo pacto no abole sino que cumple esa intención en el Espíritu.",
+            "en": "Paul summarizes the commandments of the Book of the Covenant in love for neighbor (Rom 13:9), showing that the legislation of Ex 21–23 had love at its core and that the new covenant does not abolish but fulfills that intention through the Spirit.",
+            "pt": "Paulo resume os mandamentos do Livro do Pacto no amor ao próximo (Rm 13:9), mostrando que a legislação de Ex 21–23 tinha o amor como núcleo e que o novo pacto não abole, mas cumpre essa intenção no Espírito."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "El Libro del Pacto (Ex 21–23) aplica el Decálogo a la vida social, judicial y litúrgica de Israel: sus leyes sobre esclavitud (Ex 21:1–11), violencia (Ex 21:12–36), propiedad (Ex 22:1–15) y justicia social (Ex 22:16–23:9) revelan que la Palabra de Dios gobierna toda dimensión de la vida pactual.",
+            "en": "The Book of the Covenant (Exod 21–23) applies the Decalogue to Israel's social, judicial, and liturgical life: its laws on slavery (Exod 21:1–11), violence (Exod 21:12–36), property (Exod 22:1–15), and social justice (Exod 22:16–23:9) reveal that God's Word governs every dimension of covenant life.",
+            "pt": "O Livro do Pacto (Ex 21–23) aplica o Decálogo à vida social, judicial e litúrgica de Israel: suas leis sobre escravidão (Ex 21:1–11), violência (Ex 21:12–36), propriedade (Ex 22:1–15) e justiça social (Ex 22:16–23:9) revelam que a Palavra de Deus governa toda dimensão da vida pactual."
+          }
+        },
+        "secundarios": [
+          {
+            "Pacto": {
+              "es": "Las leyes del Libro del Pacto son 'estipulaciones' de la relación de Israel con YHWH: como en los tratados de suzerainía del Próximo Oriente Antiguo, el soberano divino especifica las obligaciones del vasallo, mostrando que el pacto sinaítico abarca tanto la fe como la conducta pública (Ex 24:7).",
+              "en": "The Book of the Covenant's laws are the 'stipulations' of Israel's relationship with YHWH: as in Ancient Near Eastern suzerainty treaties, the divine sovereign specifies the vassal's obligations, showing that the Sinaitic covenant encompasses both faith and public conduct (Exod 24:7).",
+              "pt": "As leis do Livro do Pacto são as 'estipulações' da relação de Israel com YHWH: como nos tratados de suserania do Próximo Oriente Antigo, o soberano divino especifica as obrigações do vassalo, mostrando que o pacto sinaítico abarca tanto a fé quanto a conduta pública (Ex 24:7)."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "Las leyes de protección a extranjeros, viudas y huérfanos (Ex 22:21–24) y de honestidad judicial (Ex 23:1–9) reflejan que la santidad de Dios exige una comunidad radicalmente diferente de las naciones: Israel debe parecerse a su Dios en justicia y misericordia (Lv 19:2).",
+              "en": "The laws protecting foreigners, widows, and orphans (Exod 22:21–24) and requiring judicial honesty (Exod 23:1–9) reflect that God's holiness demands a community radically different from the nations: Israel must resemble its God in justice and mercy (Lev 19:2).",
+              "pt": "As leis de proteção a estrangeiros, viúvas e órfãos (Ex 22:21–24) e de honestidade judicial (Ex 23:1–9) refletem que a santidade de Deus exige uma comunidade radicalmente diferente das nações: Israel deve assemelhar-se ao seu Deus em justiça e misericórdia (Lv 19:2)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 24,
@@ -1300,7 +1775,52 @@
         "pt": "A ratificação da aliança com sangue (Ex 24:7–8): 'Este é o sangue da aliança que o SENHOR fez convosco', citada por Jesus na Última Ceia (Mt 26:28)"
       },
       "versiculoClave": "Ex 24:8",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 9:18-20",
+          "tipo": "cita",
+          "nota": {
+            "es": "El escritor de Hebreos cita Ex 24:8 casi textualmente ('Esta es la sangre del pacto que Dios os ha mandado', He 9:20) para demostrar que todo pacto requiere derramamiento de sangre y que la sangre de Cristo ratifica el nuevo pacto de manera superior e irrevocable.",
+            "en": "The writer of Hebrews quotes Ex 24:8 nearly verbatim ('This is the blood of the covenant that God commanded you,' Heb 9:20) to demonstrate that every covenant requires blood-shedding and that Christ's blood ratifies the new covenant in a superior and irrevocable way.",
+            "pt": "O escritor de Hebreus cita Ex 24:8 quase textualmente ('Este é o sangue do pacto que Deus vos ordenou', Hb 9:20) para demonstrar que todo pacto requer derramamento de sangue e que o sangue de Cristo ratifica o novo pacto de maneira superior e irrevogável."
+          }
+        },
+        {
+          "ref": "Mt 26:28",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "En la Última Cena, Jesús pronuncia 'Esta es mi sangre del nuevo pacto' (Mt 26:28) con deliberada alusión a Ex 24:8, declarando que su muerte cumple y supera la ratificación del pacto sinaítico con sangre de animales: el tipo cede ante el antitipo.",
+            "en": "At the Last Supper, Jesus pronounces 'This is my blood of the new covenant' (Matt 26:28) with deliberate allusion to Ex 24:8, declaring that his death fulfills and surpasses the Sinai covenant ratification with animal blood: the type yields to the antitype.",
+            "pt": "Na Última Ceia, Jesus pronuncia 'Este é o meu sangue do novo pacto' (Mt 26:28) com deliberada alusão a Ex 24:8, declarando que sua morte cumpre e supera a ratificação do pacto sinaítico com sangue de animais: o tipo cede ao antítipo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La ratificación del pacto sinaítico (Ex 24:3–8) combina tres actos: lectura del Libro del Pacto, promesa de obediencia del pueblo y aspersión de sangre ('Esta es la sangre del pacto', Ex 24:8), los tres elementos del ratificación de pacto en el mundo antiguo, citados directamente por Jesús en la Última Cena (Mt 26:28).",
+            "en": "The ratification of the Sinaitic covenant (Exod 24:3–8) combines three acts: reading of the Book of the Covenant, the people's promise of obedience, and blood sprinkling ('This is the blood of the covenant,' Exod 24:8) — the three elements of covenant ratification in the ancient world, directly cited by Jesus at the Last Supper (Matt 26:28).",
+            "pt": "A ratificação do pacto sinaítico (Ex 24:3–8) combina três atos: leitura do Livro do Pacto, promessa de obediência do povo e aspersão de sangue ('Este é o sangue do pacto', Ex 24:8) — os três elementos da ratificação de pacto no mundo antigo, citados diretamente por Jesus na Última Ceia (Mt 26:28)."
+          }
+        },
+        "secundarios": [
+          {
+            "Sacrificio/Expiación": {
+              "es": "La aspersão da sangre do pacto sobre o povo (Ex 24:8) antecipa He 9:22: 'sem derramamento de sangue não há remissão'; todo pacto bíblico requer sustitución sangrienta como sello, apuntando al sacrifício definitivo de Cristo que sella el nuevo pacto con su propia sangre (He 9:15).",
+              "en": "The sprinkling of covenant blood on the people (Exod 24:8) anticipates Heb 9:22: 'without the shedding of blood there is no forgiveness'; every biblical covenant requires bloody substitution as a seal, pointing to Christ's definitive sacrifice that seals the new covenant with his own blood (Heb 9:15).",
+              "pt": "A aspersão do sangue do pacto sobre o povo (Ex 24:8) antecipa Hb 9:22: 'sem derramamento de sangue não há remissão'; todo pacto bíblico requer substituição sangrenta como selo, apontando para o sacrifício definitivo de Cristo que sela o novo pacto com o seu próprio sangue (Hb 9:15)."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "Los setenta ancianos suben y ven a Dios sin morir (Ex 24:10–11: 'vieron a Dios y comieron y bebieron'), anticipando el banquete escatológico del Cordero: la comunión cara a cara con Dios es la meta del pacto, accesible solo porque la sangre del pacto cubre al pueblo.",
+              "en": "The seventy elders ascend and see God without dying (Exod 24:10–11: 'they saw God, and ate and drank'), anticipating the eschatological Lamb's banquet: face-to-face communion with God is the covenant's goal, accessible only because covenant blood covers the people.",
+              "pt": "Os setenta anciãos sobem e veem a Deus sem morrer (Ex 24:10–11: 'viram a Deus, e comeram e beberam'), antecipando o banquete escatológico do Cordeiro: a comunhão face a face com Deus é a meta do pacto, acessível apenas porque o sangue do pacto cobre o povo."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 25,
@@ -1321,7 +1841,68 @@
         "pt": "O design do propiciatório (Ex 25:17–22): a tampa da arca onde Deus se encontrava com Moisés, tipo de Cristo como 'propiciação' (Rm 3:25; 1Jo 2:2)"
       },
       "versiculoClave": "Ex 25:8",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 8:5",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Hebreos cita Ex 25:40 ('Mira, y hazlos conforme al modelo que te fue mostrado en el monte') para argumentar que el tabernáculo de Moisés fue construido según el patrón del santuario celestial (He 8:5): cada detalle de Ex 25–31 es sombra de realidades eternas cumplidas en Cristo.",
+            "en": "Hebrews quotes Ex 25:40 ('See that you make everything according to the pattern that was shown you on the mountain') to argue that Moses' tabernacle was built according to the heavenly sanctuary's pattern (Heb 8:5): every detail of Ex 25–31 is a shadow of eternal realities fulfilled in Christ.",
+            "pt": "Hebreus cita Ex 25:40 ('Vê, e faze-o tudo segundo o modelo que te foi mostrado no monte') para argumentar que o tabernáculo de Moisés foi construído segundo o padrão do santuário celestial (Hb 8:5): cada detalhe de Ex 25–31 é sombra de realidades eternas cumpridas em Cristo."
+          }
+        },
+        {
+          "ref": "He 9:1-5",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Hebreos describe el mobiliario del tabernáculo (He 9:1–5, aludiendo a Ex 25–27) como 'símbolos para el tiempo presente', cuyo significado pleno solo se revela a la luz del sumo sacerdocio de Cristo: el lugar santísimo con el propiciatorio apunta al acceso definitivo que Cristo abre.",
+            "en": "Hebrews describes the tabernacle furnishings (Heb 9:1–5, alluding to Ex 25–27) as 'symbols for the present age,' whose full meaning is only revealed in light of Christ's high priesthood: the Most Holy Place with the mercy seat points to the definitive access Christ opens.",
+            "pt": "Hebreus descreve o mobiliário do tabernáculo (Hb 9:1–5, aludindo a Ex 25–27) como 'símbolos para o tempo presente', cujo significado pleno só se revela à luz do sumo sacerdócio de Cristo: o lugar santíssimo com o propiciatório aponta para o acesso definitivo que Cristo abre."
+          }
+        },
+        {
+          "ref": "Ro 3:25",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Pablo describe a Cristo como 'propiciatorio' (ἱλαστήριον, Ro 3:25), la misma palabra griega usada en la LXX para el kapporet de Ex 25:17–22: Cristo es el lugar donde la santidad de Dios y su misericordia se encuentran, cumpliendo lo que el propiciatorio del arca prefiguraba.",
+            "en": "Paul describes Christ as the 'propitiation' or 'mercy seat' (ἱλαστήριον, Rom 3:25), the same Greek word used in the LXX for the kapporet of Ex 25:17–22: Christ is the place where God's holiness and mercy meet, fulfilling what the ark's mercy seat foreshadowed.",
+            "pt": "Paulo descreve Cristo como 'propiciatório' (ἱλαστήριον, Rm 3:25), a mesma palavra grega usada na LXX para o kapporet de Ex 25:17–22: Cristo é o lugar onde a santidade de Deus e sua misericórdia se encontram, cumprindo o que o propiciatório da arca prefigurava."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Templo/Tabernáculo": {
+            "es": "Los siete capítulos de instrucciones (Ex 25–31) diseñan el tabernáculo como morada de Dios en medio de Israel: cada elemento —arca, propiciatorio, mesa, candelabro, altar— es construido según el patrón celestial (Ex 25:40), revelando que el tabernáculo es sombra del santuario eterno donde Cristo ministra (He 8:5).",
+            "en": "The seven chapters of instructions (Exod 25–31) design the tabernacle as God's dwelling in Israel's midst: each element — ark, mercy seat, table, lampstand, altar — is built according to the heavenly pattern (Exod 25:40), revealing that the tabernacle is a shadow of the eternal sanctuary where Christ ministers (Heb 8:5).",
+            "pt": "Os sete capítulos de instruções (Ex 25–31) projetam o tabernáculo como habitação de Deus no meio de Israel: cada elemento — arca, propiciatório, mesa, candelabro, altar — é construído segundo o padrão celestial (Ex 25:40), revelando que o tabernáculo é sombra do santuário eterno onde Cristo ministra (Hb 8:5)."
+          }
+        },
+        "secundarios": [
+          {
+            "Sacerdocio": {
+              "es": "La consagración de Aarón y sus hijos (Ex 28–29) establece el sacerdocio levítico mediador entre Israel y YHWH: sus vestiduras de gloria (Ex 28:2), unciones y sacrificios tipifican el sumo sacerdocio eterno de Cristo que intercede permanentemente por su pueblo (He 7:24–25).",
+              "en": "The consecration of Aaron and his sons (Exod 28–29) establishes the Levitical priesthood to mediate between Israel and YHWH: their garments of glory (Exod 28:2), anointings, and sacrifices typify Christ's eternal high priesthood permanently interceding for his people (Heb 7:24–25).",
+              "pt": "A consagração de Arão e seus filhos (Ex 28–29) estabelece o sacerdócio levítico mediador entre Israel e YHWH: suas vestes de glória (Ex 28:2), unções e sacrifícios tipificam o sumo sacerdócio eterno de Cristo que intercede permanentemente por seu povo (Hb 7:24–25)."
+            }
+          },
+          {
+            "Sábado/Descanso": {
+              "es": "La reiteración del sábado al final de las instrucciones del tabernáculo (Ex 31:12–17) como 'señal eterna del pacto' vincula el descanso sabático con la presencia divina en el santuario: ambos son señales del pacto que apuntan al reposo eterno que el pueblo de Dios aún espera (He 4:9).",
+              "en": "The reiteration of the Sabbath at the end of the tabernacle instructions (Exod 31:12–17) as 'an eternal covenant sign' links Sabbath rest with divine presence in the sanctuary: both are covenant signs pointing to the eternal rest that God's people still await (Heb 4:9).",
+              "pt": "A reiteração do sábado ao final das instruções do tabernáculo (Ex 31:12–17) como 'sinal eterno do pacto' vincula o descanso sabático com a presença divina no santuário: ambos são sinais do pacto que apontam para o repouso eterno que o povo de Deus ainda aguarda (Hb 4:9)."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "El propiciatorio del arca es el lugar donde Dios se encontrará con Moisés y hablará con él (Ex 25:22): todo el diseño del tabernáculo tiene un único propósito — crear el espacio donde la presencia santa de YHWH pueda habitar en medio de un pueblo pecador sin consumirlo.",
+              "en": "The mercy seat of the ark is the place where God will meet with Moses and speak with him (Exod 25:22): the entire tabernacle design has one purpose — to create the space where YHWH's holy presence can dwell among a sinful people without consuming them.",
+              "pt": "O propiciatório da arca é o lugar onde Deus se encontrará com Moisés e lhe falará (Ex 25:22): todo o projeto do tabernáculo tem um único propósito — criar o espaço onde a presença santa de YHWH possa habitar no meio de um povo pecador sem consumi-lo."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 32,
@@ -1342,7 +1923,68 @@
         "pt": "A intercessão de Moisés pelo Israel pecador (Ex 32:30–32): 'Mas agora, se quiseres perdoar o seu pecado… e se não, risca-me do teu livro' — prefiguração da intercessão substitutiva de Cristo (Rm 8:34)"
       },
       "versiculoClave": "Ex 34:6",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1 Co 10:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Ex 32:6 ('El pueblo se sentó a comer y a beber, y se levantó a jugar') en 1 Co 10:7 como advertencia explícita contra la idolatría para los corintios, estableciendo al Israel del desierto como tipo negativo cuyo castigo fue escrito para instrucción de los creyentes del nuevo pacto.",
+            "en": "Paul quotes Ex 32:6 ('The people sat down to eat and drink and rose up to play') in 1 Cor 10:7 as an explicit warning against idolatry for the Corinthians, establishing wilderness Israel as a negative type whose punishment was written for the instruction of new covenant believers.",
+            "pt": "Paulo cita Ex 32:6 ('O povo assentou-se para comer e beber, e levantou-se para se divertir') em 1 Co 10:7 como advertência explícita contra a idolatria para os coríntios, estabelecendo Israel no deserto como tipo negativo cujo castigo foi escrito para instrução dos crentes do novo pacto."
+          }
+        },
+        {
+          "ref": "Ro 9:14-15",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Ex 33:19 ('Tendré misericordia del que yo tenga misericordia, y me compadeceré del que yo me compadezca') en Ro 9:15 para fundamentar la soberanía absoluta de Dios en la elección: la renovación del pacto tras el becerro de oro muestra que la misericordia divina no está condicionada por mérito humano.",
+            "en": "Paul quotes Ex 33:19 ('I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion') in Rom 9:15 to ground God's absolute sovereignty in election: the covenant renewal after the golden calf shows that divine mercy is not conditioned by human merit.",
+            "pt": "Paulo cita Ex 33:19 ('Terei misericórdia de quem eu tiver misericórdia, e me compadecerei de quem eu me compadecer') em Rm 9:15 para fundamentar a soberania absoluta de Deus na eleição: a renovação do pacto após o bezerro de ouro mostra que a misericórdia divina não está condicionada ao mérito humano."
+          }
+        },
+        {
+          "ref": "Jn 1:14-17",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La petición de Moisés de ver la gloria divina (Ex 33:18) y la revelación del nombre de YHWH ('misericordioso y clemente… lleno de gracia y de verdad', Ex 34:6–7) son la base de la declaración de Juan de que Cristo es 'lleno de gracia y de verdad' (Jn 1:14): lo que Moisés vio de espaldas, los discípulos lo contemplan cara a cara en el Verbo encarnado.",
+            "en": "Moses' petition to see the divine glory (Ex 33:18) and the revelation of YHWH's name ('merciful and gracious… full of steadfast love and faithfulness,' Ex 34:6–7) are the basis for John's declaration that Christ is 'full of grace and truth' (John 1:14): what Moses saw from behind, the disciples behold face to face in the incarnate Word.",
+            "pt": "O pedido de Moisés de ver a glória divina (Ex 33:18) e a revelação do nome de YHWH ('misericordioso e clemente… cheio de graça e de verdade', Ex 34:6–7) são a base da declaração de João de que Cristo é 'cheio de graça e de verdade' (Jo 1:14): o que Moisés viu de costas, os discípulos contemplam face a face no Verbo encarnado."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Idolatría": {
+            "es": "La fabricación del becerro de oro (Ex 32:1–6) ocurre 40 días después de la teofanía del Sinaí: Israel rompe inmediatamente el primero y segundo mandamientos (Ex 20:3–4), revelando que la profundidad de la corrupción humana requiere no solo legislación sino regeneración del corazón, que el nuevo pacto provee (Jr 31:33).",
+            "en": "The golden calf's making (Exod 32:1–6) occurs 40 days after the Sinai theophany: Israel immediately breaks the first and second commandments (Exod 20:3–4), revealing that the depth of human corruption requires not merely legislation but heart regeneration, which the new covenant provides (Jer 31:33).",
+            "pt": "A fabricação do bezerro de ouro (Ex 32:1–6) ocorre 40 dias após a teofania do Sinai: Israel quebra imediatamente o primeiro e segundo mandamentos (Ex 20:3–4), revelando que a profundidade da corrupção humana requer não apenas legislação, mas regeneração do coração, que o novo pacto provê (Jr 31:33)."
+          }
+        },
+        "secundarios": [
+          {
+            "Nombre de Dios": {
+              "es": "La renovación del pacto incluye la revelación más completa del carácter de Dios en el AT: 'YHWH, YHWH, Dios compasivo y clemente, lento para la ira y grande en misericordia y fidelidad' (Ex 34:6–7), el autorretrato divino que Pablo cita para fundamentar la misericordia soberana en la elección (Ro 9:15).",
+              "en": "The covenant renewal includes the OT's most complete revelation of God's character: 'YHWH, YHWH, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness' (Exod 34:6–7), the divine self-portrait Paul cites to ground sovereign mercy in election (Rom 9:15).",
+              "pt": "A renovação do pacto inclui a revelação mais completa do caráter de Deus no AT: 'YHWH, YHWH, Deus compassivo e misericordioso, tardio em irar-se, e grande em misericórdia e fidelidade' (Ex 34:6–7), o autorretrato divino que Paulo cita para fundamentar a misericórdia soberana na eleição (Rm 9:15)."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "Moisés quiebra las tablas como acto legal que simboliza la ruptura del pacto (Ex 32:19), pero YHWH renueva el pacto (Ex 34:10) por gracia soberana, no por mérito de Israel — anticipando que el nuevo pacto tampoco reposa en la fidelidad humana sino en la mediación de Cristo (He 9:15).",
+              "en": "Moses shatters the tablets as a legal act symbolizing covenant rupture (Exod 32:19), but YHWH renews the covenant (Exod 34:10) by sovereign grace, not Israel's merit — anticipating that the new covenant also rests not on human faithfulness but on Christ's mediation (Heb 9:15).",
+              "pt": "Moisés quebra as tábuas como ato legal que simboliza a ruptura do pacto (Ex 32:19), mas YHWH renova o pacto (Ex 34:10) por graça soberana, não pelo mérito de Israel — antecipando que o novo pacto também não repousa na fidelidade humana, mas na mediação de Cristo (Hb 9:15)."
+            }
+          },
+          {
+            "Gloria de Dios": {
+              "es": "La cara radiante de Moisés al descender del monte (Ex 34:29–35) refleja la gloria de YHWH vista de espaldas (Ex 33:22–23): esta gloria transitoria (2Co 3:7–13) señala que la revelación mosaica era gloriosa pero provisional, destinada a ser superada por la gloria permanente del rostro de Cristo (2Co 4:6).",
+              "en": "Moses' radiant face when he descends from the mountain (Exod 34:29–35) reflects the glory of YHWH seen from behind (Exod 33:22–23): this fading glory (2 Cor 3:7–13) signals that the Mosaic revelation was glorious but provisional, destined to be surpassed by the permanent glory of Christ's face (2 Cor 4:6).",
+              "pt": "O rosto radiante de Moisés ao descer do monte (Ex 34:29–35) reflete a glória de YHWH vista de costas (Ex 33:22–23): essa glória transitória (2Co 3:7–13) sinaliza que a revelação mosaica era gloriosa, mas provisória, destinada a ser superada pela glória permanente do rosto de Cristo (2Co 4:6)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 35,
@@ -1363,7 +2005,68 @@
         "pt": "A glória de YHWH enche o tabernáculo (Ex 40:34–35): a Shekiná habita com o seu povo — tipo da encarnação onde o Verbo 'tabernaculou entre nós' (Jo 1:14)"
       },
       "versiculoClave": "Ex 40:34",
-      "era": "Ley"
+      "era": "Ley",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 1:14",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El verbo griego σκηνόω ('tabernacular, poner su tienda') en Jn 1:14 es una alusión deliberada al tabernáculo de Ex 40: la gloria shekiná que llenó el tabernáculo recién construido (Ex 40:34–35) es el tipo que se cumple en la encarnación del Verbo que 'tabernaculó entre nosotros'.",
+            "en": "The Greek verb σκηνόω ('to tabernacle, to pitch a tent') in John 1:14 is a deliberate allusion to the tabernacle of Ex 40: the Shekinah glory that filled the newly constructed tabernacle (Ex 40:34–35) is the type fulfilled in the incarnation of the Word who 'tabernacled among us'.",
+            "pt": "O verbo grego σκηνόω ('tabernacar, armar sua tenda') em Jo 1:14 é uma alusão deliberada ao tabernáculo de Ex 40: a glória shekiná que encheu o tabernáculo recém-construído (Ex 40:34–35) é o tipo cumprido na encarnação do Verbo que 'tabernacou entre nós'."
+          }
+        },
+        {
+          "ref": "He 9:11-12",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Cristo entró 'en el tabernáculo más grande y más perfecto, no hecho por manos de hombre' (He 9:11), cumpliendo y superando el tabernáculo construido en Ex 35–40: su entrada al santuario celestial con su propia sangre hace obsoleto el sistema ritual que Ex 40 inaugura.",
+            "en": "Christ entered 'into the greater and more perfect tabernacle, not made by hands' (Heb 9:11), fulfilling and surpassing the tabernacle built in Ex 35–40: his entry into the heavenly sanctuary with his own blood renders obsolete the ritual system Ex 40 inaugurates.",
+            "pt": "Cristo entrou 'no tabernáculo maior e mais perfeito, não feito por mãos humanas' (Hb 9:11), cumprindo e superando o tabernáculo construído em Ex 35–40: sua entrada no santuário celestial com o próprio sangue torna obsoleto o sistema ritual que Ex 40 inaugura."
+          }
+        },
+        {
+          "ref": "Ap 21:3",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La voz celestial de Ap 21:3 anuncia 'El tabernáculo de Dios está con los hombres; Él morará con ellos' (Ap 21:3), recapitulando y consumando la promesa que el tabernáculo de Ex 40 simbolizó: la presencia divina que llenó el tabernáculo del desierto habitará eternamente con su pueblo redimido en la nueva creación.",
+            "en": "The heavenly voice of Rev 21:3 announces 'Behold, the dwelling place of God is with man; he will dwell with them' (Rev 21:3), recapitulating and consummating the promise the tabernacle of Ex 40 symbolized: the divine presence that filled the wilderness tabernacle will dwell eternally with his redeemed people in the new creation.",
+            "pt": "A voz celestial de Ap 21:3 anuncia 'O tabernáculo de Deus está com os homens; Ele habitará com eles' (Ap 21:3), recapitulando e consumando a promessa que o tabernáculo de Ex 40 simbolizou: a presença divina que encheu o tabernáculo do deserto habitará eternamente com seu povo redimido na nova criação."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Gloria de Dios": {
+            "es": "La gloria de YHWH que llena el tabernáculo recién erigido (Ex 40:34–35) es el clímax y propósito del libro entero: la misma gloria que reveló su 'espalda' a Moisés (Ex 33:22) mora ahora permanentemente en medio de su pueblo, tipo de la gloria encarnada que Juan contempla en Cristo (Jn 1:14).",
+            "en": "The glory of YHWH filling the newly erected tabernacle (Exod 40:34–35) is the climax and purpose of the entire book: the same glory that showed its 'back' to Moses (Exod 33:22) now permanently dwells among his people, a type of the incarnate glory John beholds in Christ (John 1:14).",
+            "pt": "A glória de YHWH que enche o tabernáculo recém-erguido (Ex 40:34–35) é o clímax e o propósito de todo o livro: a mesma glória que revelou suas 'costas' a Moisés (Ex 33:22) habita agora permanentemente no meio do seu povo, tipo da glória encarnada que João contempla em Cristo (Jo 1:14)."
+          }
+        },
+        "secundarios": [
+          {
+            "Templo/Tabernáculo": {
+              "es": "La construcción repite siete veces 'como YHWH mandó a Moisés' (Ex 39:1,5,7,21,26,29,31), culminando con la erección el 1 del mes 1 del año 2 (Ex 40:17): la obediencia exacta al patrón celestial consagra el tabernáculo como el primer santuario verdadero de Israel, sombra del eterno (He 9:11).",
+              "en": "The construction repeats seven times 'as YHWH commanded Moses' (Exod 39:1,5,7,21,26,29,31), culminating with erection on day 1 of month 1 of year 2 (Exod 40:17): exact obedience to the heavenly pattern consecrates the tabernacle as Israel's first true sanctuary, a shadow of the eternal (Heb 9:11).",
+              "pt": "A construção repete sete vezes 'como YHWH ordenou a Moisés' (Ex 39:1,5,7,21,26,29,31), culminando com a ereção no dia 1 do mês 1 do ano 2 (Ex 40:17): a obediência exata ao padrão celestial consagra o tabernáculo como o primeiro santuário verdadeiro de Israel, sombra do eterno (Hb 9:11)."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "La nube y el fuego que guían cada movimiento de Israel desde el tabernáculo (Ex 40:36–38) son la presencia visible de YHWH: lo que comenzó con la zarza ardiente (Ex 3) y la columna en el Mar Rojo (Ex 14) culmina en una morada permanente —presencia que el NT identifica con el Espíritu que habita en la iglesia (1Co 3:16).",
+              "en": "The cloud and fire guiding Israel's every movement from the tabernacle (Exod 40:36–38) are YHWH's visible presence: what began with the burning bush (Exod 3) and the pillar at the Red Sea (Exod 14) culminates in a permanent dwelling — presence the NT identifies with the Spirit who inhabits the church (1 Cor 3:16).",
+              "pt": "A nuvem e o fogo que guiam cada movimento de Israel a partir do tabernáculo (Ex 40:36–38) são a presença visível de YHWH: o que começou com a sarça ardente (Ex 3) e a coluna no Mar Vermelho (Ex 14) culmina em uma habitação permanente — presença que o NT identifica com o Espírito que habita na igreja (1Co 3:16)."
+            }
+          },
+          {
+            "Espíritu Santo": {
+              "es": "Bezaleel es 'lleno del Espíritu de Dios en sabiduría, en inteligencia, en ciencia y en todo arte' para ejecutar la obra del tabernáculo (Ex 31:3; Ex 35:31): el primer caso explícito de plenitud del Espíritu en la Escritura equipa a un artesano para construir el lugar de la presencia divina.",
+              "en": "Bezalel is 'filled with the Spirit of God, with ability, intelligence, and knowledge and all craftsmanship' to execute the tabernacle's work (Exod 31:3; Exod 35:31): the first explicit case of Spirit-filling in Scripture equips a craftsman to build the place of divine presence.",
+              "pt": "Bezalel é 'cheio do Espírito de Deus, em sabedoria, em inteligência, em conhecimento e em toda sorte de artíficio' para executar a obra do tabernáculo (Ex 31:3; Ex 35:31): o primeiro caso explícito de llenura do Espírito na Escritura equipa um artesão para construir o lugar da presença divina."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [
@@ -1791,7 +2494,7 @@
     "versionBiblia": {
       "es": "NBLA",
       "en": "ESV",
-      "pt": "NAA"
+      "pt": "ARC"
     },
     "pipeline": {
       "faseActual": 3,

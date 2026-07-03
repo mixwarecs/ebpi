@@ -655,6 +655,11 @@
 
     "distintivasReformadas": { "$ref": "#/definitions/trilingual" },
 
+    "resumenGeneral": {
+      "$ref": "#/definitions/trilingual",
+      "description": "2–4 sentence theological arc of the book (genre-appropriate: narrative arc, argument, oracular arc, etc.). Added in pipeline v1.3.0 (Step 1b). Optional for older records."
+    },
+
     "fuentes": {
       "type": "array",
       "items": { "$ref": "#/definitions/fuente" },

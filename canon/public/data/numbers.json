@@ -488,7 +488,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Nm 12:3",
@@ -617,7 +617,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Nm 17:8",
@@ -722,7 +722,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Nm 13:30",
@@ -822,7 +822,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Nm 22:38",
@@ -925,7 +925,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Nm 25:7-8",
@@ -1023,7 +1023,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Nm 16:3",
@@ -1389,7 +1389,52 @@
         "en": "First census of Israel: 603,550 men fit for war",
         "pt": "Primeiro censo de Israel: 603.550 homens aptos para a guerra"
       },
-      "versiculoClave": "Nm 1:46"
+      "versiculoClave": "Nm 1:46",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ap 7:4–8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Los 144.000 sellados de las doce tribus de Israel (Ap 7:4–8) evoca el lenguaje del censo de Nm 1, donde cada tribu es contada como ejército del pacto convocado para la batalla del Señor.",
+            "en": "The 144,000 sealed from the twelve tribes of Israel (Rev 7:4–8) evokes the census language of Num 1, where each tribe is counted as a covenant army mustered for the LORD's battle.",
+            "pt": "Os 144.000 selados das doze tribos de Israel (Ap 7:4–8) evoca a linguagem do censo de Nm 1, onde cada tribo é contada como exército da aliança convocado para a batalha do SENHOR."
+          }
+        },
+        {
+          "ref": "1P 2:9–10",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La organización de Israel como nación santa en torno al tabernáculo (Nm 2:2) prefigura la declaración de Pedro sobre la iglesia: 'linaje escogido, real sacerdocio, nación santa' (1P 2:9), el nuevo Israel organizado en torno a Cristo.",
+            "en": "Israel's organization as a holy nation around the tabernacle (Num 2:2) prefigures Peter's declaration about the church: 'a chosen race, a royal priesthood, a holy nation' (1Pet 2:9), the new Israel organized around Christ.",
+            "pt": "A organização de Israel como nação santa ao redor do tabernáculo (Nm 2:2) prefigura a declaração de Pedro sobre a igreja: 'geração eleita, sacerdócio real, nação santa' (1Pe 2:9), o novo Israel organizado ao redor de Cristo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "El censo de 603.550 guerreros (Nm 1:46) y la disposición de las tribus alrededor del tabernáculo (Nm 2) constituyen a Israel como el ejército santo del pacto organizado bajo la presencia de YHWH, tipo del nuevo Israel congregado en torno a Cristo.",
+            "en": "The census of 603,550 warriors (Num 1:46) and the tribes' arrangement around the tabernacle (Num 2) constitute Israel as the holy covenant army organized under YHWH's presence, a type of the new Israel gathered around Christ.",
+            "pt": "O censo de 603.550 guerreiros (Nm 1:46) e a disposição das tribos ao redor do tabernáculo (Nm 2) constituem Israel como o exército santo da aliança organizado sob a presença de YHWH, tipo do novo Israel congregado ao redor de Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Templo/Tabernáculo": {
+              "es": "El tabernáculo ocupa el centro geométrico del campamento (Nm 2:2,17): las doce tribus lo rodean y los levitas lo custodian, subrayando que la presencia de YHWH es el núcleo ordenador de toda la vida comunitaria de Israel.",
+              "en": "The tabernacle occupies the geometric center of the camp (Num 2:2,17): the twelve tribes surround it and the Levites guard it, underscoring that YHWH's presence is the organizing nucleus of all of Israel's communal life.",
+              "pt": "O tabernáculo ocupa o centro geométrico do acampamento (Nm 2:2,17): as doze tribos o rodeiam e os levitas o guardam, sublinhando que a presença de YHWH é o núcleo organizador de toda a vida comunitária de Israel."
+            }
+          },
+          {
+            "Sacerdocio": {
+              "es": "Los levitas son separados del censo militar y entregados a Aarón como guardianes del santuario (Nm 3:5–13), estableciendo el sacerdocio levítico como distinto del resto de Israel por vocación divina, no por mérito propio.",
+              "en": "The Levites are separated from the military census and given to Aaron as guardians of the sanctuary (Num 3:5–13), establishing the Levitical priesthood as distinct from the rest of Israel by divine vocation, not personal merit.",
+              "pt": "Os levitas são separados do censo militar e entregues a Arão como guardiães do santuário (Nm 3:5–13), estabelecendo o sacerdócio levítico como distinto do restante de Israel por vocação divina, não por mérito próprio."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -1410,7 +1455,52 @@
         "en": "Establishment of the Nazirite vow and the Aaronic blessing",
         "pt": "Estabelecimento do voto nazareno e da bênção aarônica"
       },
-      "versiculoClave": "Nm 6:24"
+      "versiculoClave": "Nm 6:24",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Nm 6:24–26",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La bendición aarónica tripartita (Nm 6:24–26) —YHWH te bendiga, te guarde; haga resplandecer su rostro; alce su rostro sobre ti y te dé paz— halla su eco en las bendiciones apostólicas trinitarias del NT (2Co 13:14; Ef 1:3–14).",
+            "en": "The tripartite Aaronic blessing (Num 6:24–26) — the LORD bless you and keep you; make his face shine; lift up his countenance upon you and give you peace — finds its echo in the trinitarian apostolic blessings of the NT (2Cor 13:14; Eph 1:3–14).",
+            "pt": "A bênção aarônica tripartite (Nm 6:24–26) — o SENHOR te abençoe e te guarde; faça resplandecer o seu rosto; erga o seu rosto sobre ti e te dê paz — encontra seu eco nas bênçãos apostólicas trinitárias do NT (2Co 13:14; Ef 1:3–14)."
+          }
+        },
+        {
+          "ref": "He 7:26",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El nazareo consagrado a Dios (Nm 6:1–21) —separado de la muerte, del vino y de la contaminación— tipifica a Cristo como el Nazareo supremo: 'santo, inocente, sin mancha, apartado de los pecadores' (He 7:26), consagrado a YHWH en toda su vida.",
+            "en": "The Nazirite consecrated to God (Num 6:1–21) — separated from death, wine, and contamination — typifies Christ as the supreme Nazirite: 'holy, innocent, unstained, separated from sinners' (Heb 7:26), consecrated to YHWH throughout his life.",
+            "pt": "O nazareno consagrado a Deus (Nm 6:1–21) — separado da morte, do vinho e da contaminação — tipifica Cristo como o Nazareno supremo: 'santo, inocente, sem mácula, separado dos pecadores' (Hb 7:26), consagrado a YHWH em toda a sua vida."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "Las leyes de pureza del campamento (Nm 5:1–4) y el voto nazareo (Nm 6:1–21) expresan la misma exigencia: el campamento de YHWH debe ser santo porque él mora en medio de su pueblo (Nm 5:3), convirtiendo toda la vida de Israel en espacio consagrado.",
+            "en": "The camp purity laws (Num 5:1–4) and the Nazirite vow (Num 6:1–21) express the same demand: YHWH's camp must be holy because he dwells in its midst (Num 5:3), making all of Israel's life consecrated space.",
+            "pt": "As leis de pureza do acampamento (Nm 5:1–4) e o voto nazareno (Nm 6:1–21) expressam a mesma exigência: o acampamento de YHWH deve ser santo porque ele habita no meio do seu povo (Nm 5:3), tornando toda a vida de Israel espaço consagrado."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "La bendición aarónica sella la presencia de YHWH sobre su pueblo: 'pondrán mi nombre sobre los hijos de Israel, y yo los bendeciré' (Nm 6:27), haciendo del Nombre divino el sello de la presencia protectora y propicia de Dios sobre Israel.",
+              "en": "The Aaronic blessing seals YHWH's presence on his people: 'they shall put my name on the people of Israel, and I will bless them' (Num 6:27), making the divine Name the seal of God's protective and propitious presence over Israel.",
+              "pt": "A bênção aarônica sela a presença de YHWH sobre seu povo: 'porão o meu nome sobre os filhos de Israel, e eu os abençoarei' (Nm 6:27), tornando o Nome divino o selo da presença protetora e propícia de Deus sobre Israel."
+            }
+          },
+          {
+            "Sacrificio/Expiación": {
+              "es": "La conclusión del voto nazareo exige ofrendas expiatorias completas (Nm 6:14–20), señalando que incluso la consagración voluntaria requiere el sistema sacrificial para ser aceptable ante YHWH.",
+              "en": "The completion of the Nazirite vow requires full atoning offerings (Num 6:14–20), indicating that even voluntary consecration requires the sacrificial system to be acceptable before YHWH.",
+              "pt": "A conclusão do voto nazareno exige ofertas expiatórias completas (Nm 6:14–20), indicando que mesmo a consagração voluntária requer o sistema sacrificial para ser aceitável diante de YHWH."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 7,
@@ -1431,7 +1521,52 @@
         "en": "The cloud of divine presence guides the camp's movement",
         "pt": "A nuvem da presença divina guia o movimento do acampamento"
       },
-      "versiculoClave": "Nm 9:23"
+      "versiculoClave": "Nm 9:23",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Co 10:1–4",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La nube que guía cada movimiento de Israel (Nm 9:15–23) es el trasfondo del argumento de Pablo: 'todos estuvieron bajo la nube' (1Co 10:1), siendo la nube y el mar tipos del bautismo, y la roca tipo de Cristo.",
+            "en": "The cloud guiding Israel's every movement (Num 9:15–23) is the background of Paul's argument: 'all were under the cloud' (1Cor 10:1), the cloud and the sea being types of baptism, and the rock a type of Christ.",
+            "pt": "A nuvem que guia cada movimento de Israel (Nm 9:15–23) é o pano de fundo do argumento de Paulo: 'todos estiveram sob a nuvem' (1Co 10:1), sendo a nuvem e o mar tipos do batismo, e a pedra tipo de Cristo."
+          }
+        },
+        {
+          "ref": "1Co 5:7",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La segunda Pascua en el Sinaí (Nm 9:1–14), con provisión especial para los ceremonialmente impuros, prefigura la amplitud de la Pascua definitiva: 'Cristo, nuestra pascua, ya fue sacrificada' (1Co 5:7), abierta a todos.",
+            "en": "The second Passover at Sinai (Num 9:1–14), with special provision for the ceremonially unclean, foreshadows the breadth of the final Passover: 'Christ, our Passover lamb, has been sacrificed' (1Cor 5:7), open to all.",
+            "pt": "A segunda Páscoa no Sinai (Nm 9:1–14), com provisão especial para os cerimonialmente impuros, prefigura a amplitude da Páscoa definitiva: 'Cristo, nossa Páscoa, foi sacrificado' (1Co 5:7), aberta a todos."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Presencia de Dios": {
+            "es": "La nube de día y el fuego de noche que guían cada movimiento del campamento (Nm 9:15–23) —Israel avanza cuando la nube se levanta y descansa cuando permanece— hace de la presencia de YHWH el único motor soberano del peregrinaje.",
+            "en": "The cloud by day and fire by night guiding every movement of the camp (Num 9:15–23) — Israel advances when the cloud lifts and rests when it remains — makes YHWH's presence the sole sovereign motor of the pilgrimage.",
+            "pt": "A nuvem de dia e o fogo de noite que guiam cada movimento do acampamento (Nm 9:15–23) — Israel avança quando a nuvem se levanta e descansa quando permanece — faz da presença de YHWH o único motor soberano da peregrinação."
+          }
+        },
+        "secundarios": [
+          {
+            "Templo/Tabernáculo": {
+              "es": "La dedicación del altar durante doce días (Nm 7) con ofrendas idénticas de cada tribu establece el tabernáculo como el centro litúrgico igualitario de toda Israel: cada tribu contribuye por igual al culto de YHWH.",
+              "en": "The twelve-day altar dedication (Num 7) with identical offerings from each tribe establishes the tabernacle as the egalitarian liturgical center of all Israel: each tribe contributes equally to YHWH's worship.",
+              "pt": "A dedicação do altar durante doze dias (Nm 7) com oferendas idênticas de cada tribo estabelece o tabernáculo como o centro litúrgico igualitário de todo Israel: cada tribo contribui igualmente para o culto de YHWH."
+            }
+          },
+          {
+            "Pascua/Cordero de Dios": {
+              "es": "La segunda Pascua con provisión para impuros (Nm 9:1–14) muestra que YHWH adapta sus ordenanzas para incluir a quienes genuinamente desean participar, revelando la gracia dentro del sistema de la ley.",
+              "en": "The second Passover with provision for the unclean (Num 9:1–14) shows that YHWH adapts his ordinances to include those who genuinely desire to participate, revealing grace within the law's system.",
+              "pt": "A segunda Páscoa com provisão para os impuros (Nm 9:1–14) mostra que YHWH adapta suas ordenanças para incluir aqueles que genuinamente desejam participar, revelando graça dentro do sistema da lei."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 10,
@@ -1452,7 +1587,52 @@
         "en": "Israel departs from Sinai and the complaints that characterize the wandering begin",
         "pt": "Israel parte do Sinai e começam as queixas que caracterizam a peregrinação"
       },
-      "versiculoClave": "Nm 11:1"
+      "versiculoClave": "Nm 11:1",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Co 10:6–10",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo usa las quejas de Israel en el desierto (Nm 11; 12) como advertencias directas para los corintios: 'estas cosas sucedieron como ejemplos para nosotros' (1Co 10:6,11), tipificando la murmuración como pecado que provoca la ira divina.",
+            "en": "Paul uses Israel's wilderness complaints (Num 11; 12) as direct warnings for the Corinthians: 'these things happened as examples for us' (1Cor 10:6,11), typifying grumbling as a sin that provokes divine wrath.",
+            "pt": "Paulo usa as queixas de Israel no deserto (Nm 11; 12) como advertências diretas para os coríntios: 'essas coisas aconteceram como exemplos para nós' (1Co 10:6,11), tipificando a murmuração como pecado que provoca a ira divina."
+          }
+        },
+        {
+          "ref": "Jud 16:1",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Judas caracteriza a los falsos maestros como 'murmuradores, quejumbrosos' (Jud 16), evocando el patrón de murmuración de Israel en Nm 11–12 como el arquetipo del corazón rebelde contra la providencia de Dios.",
+            "en": "Jude characterizes false teachers as 'grumblers, malcontents' (Jude 16), evoking Israel's murmuring pattern in Num 11–12 as the archetype of the heart rebellious against God's providence.",
+            "pt": "Judas caracteriza os falsos mestres como 'murmuradores, queixosos' (Jd 16), evocando o padrão de murmuração de Israel em Nm 11–12 como o arquétipo do coração rebelde contra a providência de Deus."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Exilio/Desierto": {
+            "es": "La partida del Sinaí inaugura el período de prueba en el desierto: las quejas de Tabera (Nm 11:1–3), el deseo de carne (Nm 11:4–34) y la oposición de Miriam y Aarón (Nm 12) revelan la dureza del corazón que definirá la generación del desierto.",
+            "en": "The departure from Sinai inaugurates the wilderness testing period: the complaints at Taberah (Num 11:1–3), the craving for meat (Num 11:4–34), and Miriam and Aaron's opposition (Num 12) reveal the hardness of heart that will define the wilderness generation.",
+            "pt": "A partida do Sinai inaugura o período de prova no deserto: as queixas de Tabera (Nm 11:1–3), o desejo de carne (Nm 11:4–34) e a oposição de Miriã e Arão (Nm 12) revelam a dureza do coração que definirá a geração do deserto."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "La murmuración repetida de Israel —por el fuego (Nm 11:1), por la carne (Nm 11:4), por el liderazgo de Moisés (Nm 12:1–2)— revela la condición de pecado radical que persiste incluso después de la liberación del Éxodo y la revelación del Sinaí.",
+              "en": "Israel's repeated murmuring — over fire (Num 11:1), over meat (Num 11:4), over Moses's leadership (Num 12:1–2) — reveals the radical sin condition that persists even after the liberation of the Exodus and the Sinai revelation.",
+              "pt": "A murmuração repetida de Israel — pelo fogo (Nm 11:1), pela carne (Nm 11:4), pela liderança de Moisés (Nm 12:1–2) — revela a condição de pecado radical que persiste mesmo após a libertação do Êxodo e a revelação do Sinai."
+            }
+          },
+          {
+            "Profeta/Profecía": {
+              "es": "La defensa de Moisés por YHWH (Nm 12:6–8) establece la unicidad de su oficio profético: mientras otros profetas reciben visiones y sueños, Moisés habla a Dios cara a cara, anticipando al profeta definitivo prometido en Dt 18:15.",
+              "en": "YHWH's defense of Moses (Num 12:6–8) establishes the uniqueness of his prophetic office: while other prophets receive visions and dreams, Moses speaks to God face to face, anticipating the ultimate prophet promised in Deut 18:15.",
+              "pt": "A defesa de Moisés por YHWH (Nm 12:6–8) estabelece a unicidade de seu ofício profético: enquanto outros profetas recebem visões e sonhos, Moisés fala com Deus face a face, antecipando o profeta definitivo prometido em Dt 18:15."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 13,
@@ -1473,7 +1653,61 @@
         "en": "Israel's unbelief results in 40 years of condemnation to die in the wilderness",
         "pt": "A incredulidade de Israel resulta em 40 anos de condenação a morrer no deserto"
       },
-      "versiculoClave": "Nm 14:23"
+      "versiculoClave": "Nm 14:23",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 3:7–19",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Hebreos 3 cita la rebelión de Cades como la advertencia paradigmática contra la apostasía: 'no endurezcáis vuestros corazones como en la provocación' (He 3:8,15), usando Nm 13–14 para señalar que la incredulidad impide entrar al reposo de Dios.",
+            "en": "Hebrews 3 cites the Kadesh rebellion as the paradigmatic warning against apostasy: 'do not harden your hearts as in the rebellion' (Heb 3:8,15), using Num 13–14 to show that unbelief prevents entering God's rest.",
+            "pt": "Hebreus 3 cita a rebelião de Cades como o aviso paradigmático contra a apostasia: 'não endureçais os vossos corações como na provocação' (Hb 3:8,15), usando Nm 13–14 para mostrar que a incredulidade impede de entrar no descanso de Deus."
+          }
+        },
+        {
+          "ref": "He 4:1–11",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El reposo de Canaán que Israel no pudo entrar por incredulidad (Nm 14:22–23) es el tipo del reposo escatológico que Cristo ofrece: 'queda, pues, un reposo para el pueblo de Dios' (He 4:9), más grande que la tierra prometida.",
+            "en": "The Canaan rest Israel could not enter because of unbelief (Num 14:22–23) is the type of the eschatological rest Christ offers: 'so then, there remains a Sabbath rest for the people of God' (Heb 4:9), greater than the promised land.",
+            "pt": "O descanso de Canaã que Israel não pôde entrar por incredulidade (Nm 14:22–23) é o tipo do descanso escatológico que Cristo oferece: 'resta, pois, um descanso sabático para o povo de Deus' (Hb 4:9), maior que a terra prometida."
+          }
+        },
+        {
+          "ref": "Jud 5:1",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Judas recuerda que 'el Señor, habiendo salvado al pueblo sacándolo de Egipto, después destruyó a los que no creyeron' (Jud 5), citando el juicio de Nm 14 como advertencia solemne de que la salvación inicial no garantiza la perseverancia.",
+            "en": "Jude recalls that 'Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe' (Jude 5), citing the Num 14 judgment as a solemn warning that initial salvation does not guarantee perseverance.",
+            "pt": "Judas lembra que 'o Senhor, tendo salvo o povo tirando-o do Egito, depois destruiu os que não creram' (Jd 5), citando o juízo de Nm 14 como advertência solene de que a salvação inicial não garante a perseverança."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "La rebelión de Cades es el nadir del Pentateuco: la incredulidad de los diez espías contagia a toda la congregación (Nm 14:1–4), que rechaza la promesa de YHWH y desea volver a Egipto, el pecado que define y condena a toda la primera generación.",
+            "en": "The Kadesh rebellion is the nadir of the Pentateuch: the ten spies' unbelief infects the entire congregation (Num 14:1–4), which rejects YHWH's promise and desires to return to Egypt, the sin that defines and condemns the entire first generation.",
+            "pt": "A rebelião de Cades é o nadir do Pentateuco: a incredulidade dos dez espias contamina toda a congregação (Nm 14:1–4), que rejeita a promessa de YHWH e deseja voltar ao Egito, o pecado que define e condena toda a primeira geração."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "El juicio de YHWH sobre la primera generación (Nm 14:22–35) —cuarenta años de peregrinaje hasta que todos mueran en el desierto— es el acto judicial más severo de Números, proporcional a la gravedad de rechazar la promesa divina.",
+              "en": "YHWH's judgment on the first generation (Num 14:22–35) — forty years of wandering until all die in the wilderness — is the most severe judicial act in Numbers, proportional to the gravity of rejecting the divine promise.",
+              "pt": "O juízo de YHWH sobre a primeira geração (Nm 14:22–35) — quarenta anos de peregrinação até que todos morram no deserto — é o ato judicial mais severo de Números, proporcional à gravidade de rejeitar a promessa divina."
+            }
+          },
+          {
+            "Fidelidad/Hesed": {
+              "es": "La intercesión de Moisés apela al hesed de YHWH (Nm 14:18–19) y Dios responde preservando a Israel del exterminio, revelando que su gracia opera a través del juicio: el pacto no es anulado sino redirigido hacia la segunda generación.",
+              "en": "Moses's intercession appeals to YHWH's hesed (Num 14:18–19) and God responds by preserving Israel from annihilation, revealing that his grace operates through judgment: the covenant is not annulled but redirected toward the second generation.",
+              "pt": "A intercessão de Moisés apela ao hesed de YHWH (Nm 14:18–19) e Deus responde preservando Israel do extermínio, revelando que sua graça opera através do juízo: a aliança não é anulada, mas redirecionada para a segunda geração."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 15,
@@ -1494,7 +1728,52 @@
         "en": "Command for tassels on garments as a memorial aid to obedience",
         "pt": "Mandamento das franjas nas vestes como auxílio memorial à obediência"
       },
-      "versiculoClave": "Nm 15:40"
+      "versiculoClave": "Nm 15:40",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 10:26–27",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La distinción de Nm 15 entre pecado inadvertido (con expiación) y pecado presuntuoso (sin expiación, Nm 15:30–31) es el trasfondo de He 10:26–27: 'si pecamos voluntariamente… ya no queda más sacrificio por los pecados', la misma lógica teológica.",
+            "en": "Num 15's distinction between inadvertent sin (with atonement) and presumptuous sin (without atonement, Num 15:30–31) is the background of Heb 10:26–27: 'if we go on sinning deliberately… there no longer remains a sacrifice for sins,' the same theological logic.",
+            "pt": "A distinção de Nm 15 entre pecado inadvertido (com expiação) e pecado presunçoso (sem expiação, Nm 15:30–31) é o pano de fundo de Hb 10:26–27: 'se pecamos voluntariamente… já não resta sacrifício pelos pecados', a mesma lógica teológica."
+          }
+        },
+        {
+          "ref": "Mt 23:5",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Jesús critica a los fariseos que 'ensanchan sus filacterias y extienden los flecos de sus mantos' (Mt 23:5), haciendo de los flecos ordenados en Nm 15:38–40 como memoriales de obediencia un símbolo de ostentación religiosa hipócrita.",
+            "en": "Jesus criticizes the Pharisees who 'make their phylacteries broad and their fringes long' (Matt 23:5), turning the tassels commanded in Num 15:38–40 as obedience memorials into symbols of hypocritical religious ostentation.",
+            "pt": "Jesus critica os fariseus que 'alargam os seus filactérios e aumentam as franjas dos seus mantos' (Mt 23:5), transformando as franjas ordenadas em Nm 15:38–40 como memoriais de obediência em símbolos de ostentação religiosa hipócrita."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "Tras el juicio de Cades, YHWH reitera las leyes de ofrendas para cuando Israel entre a la tierra (Nm 15:1–21) y distingue entre pecado inadvertido y presuntuoso (Nm 15:22–31), reafirmando la permanencia de la ley del pacto incluso después del mayor fracaso de Israel.",
+            "en": "After the Kadesh judgment, YHWH reiterates the offering laws for when Israel enters the land (Num 15:1–21) and distinguishes between inadvertent and presumptuous sin (Num 15:22–31), reaffirming the permanence of the covenant law even after Israel's greatest failure.",
+            "pt": "Após o juízo de Cades, YHWH reitera as leis de oferendas para quando Israel entrar na terra (Nm 15:1–21) e distingue entre pecado inadvertido e presunçoso (Nm 15:22–31), reafirmando a permanência da lei da aliança mesmo após o maior fracasso de Israel."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "La distinción entre pecado inadvertido (ḥaṭṭāʾt disponible) y pecado con mano alzada (sin expiación, Nm 15:30) revela una teología precisa del pecado: la arrogancia deliberada contra YHWH constituye una ruptura diferente del pacto.",
+              "en": "The distinction between inadvertent sin (ḥaṭṭāʾt available) and high-handed sin (no atonement, Num 15:30) reveals a precise theology of sin: deliberate arrogance against YHWH constitutes a different kind of covenant rupture.",
+              "pt": "A distinção entre pecado inadvertido (ḥaṭṭāʾt disponível) e pecado com mão levantada (sem expiação, Nm 15:30) revela uma teologia precisa do pecado: a arrogância deliberada contra YHWH constitui uma ruptura diferente da aliança."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "Los flecos (tsitsit) en las vestiduras (Nm 15:38–41) son recordatorios táctiles y visuales de los mandamientos de YHWH, incorporando la santidad requerida en la vida cotidiana: 'recordaréis todos los mandamientos del SEÑOR para ponerlos por obra' (Nm 15:40).",
+              "en": "The tassels (tsitsit) on garments (Num 15:38–41) are tactile and visual reminders of YHWH's commandments, embedding required holiness into daily life: 'you shall remember all the commandments of the LORD, to do them' (Num 15:40).",
+              "pt": "As franjas (tsitsit) nas vestes (Nm 15:38–41) são lembretes táteis e visuais dos mandamentos de YHWH, incorporando a santidade requerida na vida cotidiana: 'vos lembrareis de todos os mandamentos do SENHOR para cumpri-los' (Nm 15:40)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 16,
@@ -1515,7 +1794,52 @@
         "en": "The earth swallows Korah and Aaron's rod blossoms, confirming the divine election of the priesthood",
         "pt": "A terra engole Coré e a vara de Arão floresce, confirmando a eleição divina do sacerdócio"
       },
-      "versiculoClave": "Nm 17:8"
+      "versiculoClave": "Nm 17:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jud 11:1",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Judas incluye la rebelión de Coré como uno de los tres patrones arquetípicos de apostasía: 'perecieron en la contradicción de Coré' (Jud 11), haciendo de Nm 16 el tipo canónico de la rebelión presuntuosa contra el liderazgo designado por Dios.",
+            "en": "Jude includes Korah's rebellion as one of three archetypal apostasy patterns: 'perished in Korah's rebellion' (Jude 11), making Num 16 the canonical type of presumptuous rebellion against God-appointed leadership.",
+            "pt": "Judas inclui a rebelião de Coré como um dos três padrões arquetípicos de apostasia: 'pereceram na contradição de Coré' (Jd 11), fazendo de Nm 16 o tipo canônico da rebelião presunçosa contra a liderança designada por Deus."
+          }
+        },
+        {
+          "ref": "He 5:4",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La rebelión de Coré que exige igualdad sacerdotal (Nm 16:3) es el trasfondo negativo de He 5:4: 'nadie toma para sí esta honra, sino el que es llamado por Dios, como lo fue Aarón', principio que también aplica al sacerdocio único de Cristo.",
+            "en": "Korah's rebellion demanding priestly equality (Num 16:3) is the negative background of Heb 5:4: 'no one takes this honor for himself, but only when called by God, just as Aaron was,' a principle that also applies to Christ's unique priesthood.",
+            "pt": "A rebelião de Coré que exige igualdade sacerdotal (Nm 16:3) é o pano de fundo negativo de Hb 5:4: 'ninguém toma esta honra para si mesmo, mas aquele que é chamado por Deus, como o foi Arão', princípio que também se aplica ao sacerdócio único de Cristo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "La rebelión de Coré (Nm 16) y la vara de Aarón (Nm 17) forman una unidad que defiende la exclusividad del sacerdocio aarónico: la tierra traga a los usurpadores y la vara milagrosa confirma que YHWH elige a sus sacerdotes soberanamente (Nm 17:5,8).",
+            "en": "Korah's rebellion (Num 16) and Aaron's rod (Num 17) form a unit defending the exclusivity of the Aaronic priesthood: the earth swallows the usurpers and the miraculous rod confirms that YHWH sovereignly chooses his priests (Num 17:5,8).",
+            "pt": "A rebelião de Coré (Nm 16) e a vara de Arão (Nm 17) formam uma unidade que defende a exclusividade do sacerdócio aarônico: a terra engole os usurpadores e a vara milagrosa confirma que YHWH escolhe soberanamente seus sacerdotes (Nm 17:5,8)."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La tierra que se abre para tragar a Coré (Nm 16:31–33) y el fuego que consume a los 250 (Nm 16:35), seguidos por una plaga que mata a 14.700 (Nm 16:49), revelan la ira judicial de YHWH contra la profanación de su sacerdocio establecido.",
+              "en": "The earth opening to swallow Korah (Num 16:31–33) and the fire consuming the 250 (Num 16:35), followed by a plague killing 14,700 (Num 16:49), reveal YHWH's judicial wrath against the desecration of his established priesthood.",
+              "pt": "A terra que se abre para engolir Coré (Nm 16:31–33) e o fogo que consome os 250 (Nm 16:35), seguidos por uma praga que mata 14.700 (Nm 16:49), revelam a ira judicial de YHWH contra a profanação de seu sacerdócio estabelecido."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "La vara de Aarón que florece, da brotes y produce almendras (Nm 17:8) es la confirmación sobrenatural de la elección divina: el sacerdocio no es una conquista humana sino un don unilateral de YHWH que la señal milagrosa certifica de forma irrevocable.",
+              "en": "Aaron's rod that sprouts, blossoms, and produces almonds (Num 17:8) is the supernatural confirmation of divine election: the priesthood is not a human achievement but a unilateral gift from YHWH, certified irrevocably by the miraculous sign.",
+              "pt": "A vara de Arão que brota, floresce e produz amêndoas (Nm 17:8) é a confirmação sobrenatural da eleição divina: o sacerdócio não é uma conquista humana, mas um dom unilateral de YHWH, certificado de forma irrevogável pelo sinal milagroso."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 18,
@@ -1536,7 +1860,52 @@
         "en": "The red heifer ritual establishes purification from impurity through contact with death",
         "pt": "O rito da novilha vermelha estabelece a purificação da impureza por contato com a morte"
       },
-      "versiculoClave": "Nm 19:9"
+      "versiculoClave": "Nm 19:9",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 9:13–14",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El rito de la vaca alazana de Nm 19 —cuyas cenizas purifican la impureza por contacto con la muerte— es citado en He 9:13–14 como el tipo que la sangre de Cristo supera: si las cenizas santifican la carne, cuánto más la sangre de Cristo purificará la conciencia.",
+            "en": "The red heifer ritual of Num 19 — whose ashes purify impurity from contact with death — is cited in Heb 9:13–14 as the type surpassed by Christ's blood: if the ashes sanctify the flesh, how much more will Christ's blood purify the conscience.",
+            "pt": "O rito da novilha vermelha de Nm 19 — cujas cinzas purificam a impureza por contato com a morte — é citado em Hb 9:13–14 como o tipo que o sangue de Cristo supera: se as cinzas santificam a carne, quanto mais o sangue de Cristo purificará a consciência."
+          }
+        },
+        {
+          "ref": "1Co 9:13–14",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El principio de Nm 18 —que los sacerdotes sin heredad en la tierra son sostenidos por las ofrendas del altar (Nm 18:20–21)— es el argumento que Pablo cita en 1Co 9:13–14 para defender el derecho de los ministros evangélicos al sostenimiento.",
+            "en": "The principle of Num 18 — that priests without territorial inheritance are sustained by altar offerings (Num 18:20–21) — is the argument Paul cites in 1Cor 9:13–14 to defend the right of gospel ministers to financial support.",
+            "pt": "O princípio de Nm 18 — que os sacerdotes sem herança territorial são sustentados pelas oferendas do altar (Nm 18:20–21) — é o argumento que Paulo cita em 1Co 9:13–14 para defender o direito dos ministros evangélicos ao sustento."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "Los capítulos 18–19 regulan el sacerdocio post-Coré: YHWH define las responsabilidades del sacerdocio aarónnico y levítico (Nm 18:1–7), su provisión económica (Nm 18:8–32) y su función purificadora ante la muerte (Nm 19), haciendo del sacerdote el mediador total entre Israel y la santidad de YHWH.",
+            "en": "Chapters 18–19 regulate the post-Korah priesthood: YHWH defines the responsibilities of the Aaronic and Levitical priesthood (Num 18:1–7), their economic provision (Num 18:8–32), and their purifying function before death (Num 19), making the priest the total mediator between Israel and YHWH's holiness.",
+            "pt": "Os capítulos 18–19 regulam o sacerdócio pós-Coré: YHWH define as responsabilidades do sacerdócio aarônico e levítico (Nm 18:1–7), sua provisão econômica (Nm 18:8–32) e sua função purificadora diante da morte (Nm 19), tornando o sacerdote o mediador total entre Israel e a santidade de YHWH."
+          }
+        },
+        "secundarios": [
+          {
+            "Sacrificio/Expiación": {
+              "es": "La vaca alazana (Nm 19) tipifica la expiación de Cristo de manera única: su sacrificio fuera del campamento (Nm 19:3–4), su aspersión hacia el tabernáculo y sus cenizas que purifican la impureza mortal prefiguran la obra de Cristo que purifica lo que la ley no podía alcanzar (He 9:14).",
+              "en": "The red heifer (Num 19) uniquely typifies Christ's atonement: its sacrifice outside the camp (Num 19:3–4), its sprinkling toward the tabernacle, and its ashes that purify mortal impurity foreshadow Christ's work that purifies what the law could not reach (Heb 9:14).",
+              "pt": "A novilha vermelha (Nm 19) tipifica de forma única a expiação de Cristo: seu sacrifício fora do acampamento (Nm 19:3–4), sua aspersão em direção ao tabernáculo e suas cinzas que purificam a impureza mortal prefiguram a obra de Cristo que purifica o que a lei não podia alcançar (Hb 9:14)."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "YHWH declara que él es la porción de los sacerdotes (Nm 18:20): la renuncia a la herencia territorial a cambio de YHWH mismo es la más alta expresión de consagración, señalando que la santidad plena consiste en tener a Dios como única posesión.",
+              "en": "YHWH declares that he is the priests' portion (Num 18:20): the renunciation of territorial inheritance in exchange for YHWH himself is the highest expression of consecration, signaling that full holiness consists in having God alone as one's only possession.",
+              "pt": "YHWH declara que ele é a porção dos sacerdotes (Nm 18:20): a renúncia à herança territorial em troca do próprio YHWH é a mais alta expressão de consagração, sinalizando que a santidade plena consiste em ter Deus como única possessão."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 20,
@@ -1557,7 +1926,61 @@
         "en": "The bronze serpent: whoever looks at it in faith is healed (type of Christ's crucifixion)",
         "pt": "A serpente de bronze: quem olha para ela em fé é curado (tipo da crucificação de Cristo)"
       },
-      "versiculoClave": "Nm 21:8"
+      "versiculoClave": "Nm 21:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 3:14–15",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús aplica la serpiente de bronce de Nm 21:8–9 directamente a su muerte: 'como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado' (Jn 3:14), haciendo de este tipo el más explícito de la crucifixión en el Pentateuco.",
+            "en": "Jesus directly applies the bronze serpent of Num 21:8–9 to his death: 'as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up' (John 3:14), making this type the most explicit of the crucifixion in the Pentateuch.",
+            "pt": "Jesus aplica diretamente a serpente de bronze de Nm 21:8–9 à sua morte: 'assim como Moisés levantou a serpente no deserto, assim importa que o Filho do Homem seja levantado' (Jo 3:14), tornando este tipo o mais explícito da crucificação no Pentateuco."
+          }
+        },
+        {
+          "ref": "1Co 10:4",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La roca golpeada por Moisés en Meribá (Nm 20:7–11) es identificada por Pablo como Cristo: 'la roca espiritual que los seguía, y la roca era Cristo' (1Co 10:4), el tipo más directo de Cristo como fuente de agua viva en el AT.",
+            "en": "The rock struck by Moses at Meribah (Num 20:7–11) is identified by Paul as Christ: 'the spiritual Rock that followed them, and the Rock was Christ' (1Cor 10:4), the most direct type of Christ as the source of living water in the OT.",
+            "pt": "A rocha golpeada por Moisés em Meribá (Nm 20:7–11) é identificada por Paulo como Cristo: 'a Pedra espiritual que os seguia, e a Pedra era Cristo' (1Co 10:4), o tipo mais direto de Cristo como fonte de água viva no AT."
+          }
+        },
+        {
+          "ref": "1Co 10:9",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo usa la plaga de serpientes de Nm 21:4–9 como advertencia para los corintios: 'ni tentéis a Cristo, como también algunos de ellos le tentaron, y perecieron por las serpientes' (1Co 10:9), aplicando el juicio del desierto a la tentación de probar a Cristo.",
+            "en": "Paul uses the serpent plague of Num 21:4–9 as a warning for the Corinthians: 'we must not put Christ to the test, as some of them did and were destroyed by serpents' (1Cor 10:9), applying the wilderness judgment to the temptation of testing Christ.",
+            "pt": "Paulo usa a praga de serpentes de Nm 21:4–9 como advertência para os coríntios: 'nem tentemos a Cristo, como alguns deles o tentaram, e foram destruídos pelas serpentes' (1Co 10:9), aplicando o juízo do deserto à tentação de testar Cristo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacrificio/Expiación": {
+            "es": "La serpiente de bronce de Nm 21:8–9 es el tipo expiatorio más explícito de Números: el que mira en fe al símbolo del juicio divino sobre el pecado es sanado, tipificando directamente la crucifixión de Cristo levantado para que todo el que crea en él no perezca (Jn 3:14–16).",
+            "en": "The bronze serpent of Num 21:8–9 is the most explicit expiatory type in Numbers: the one who looks in faith at the symbol of divine judgment on sin is healed, directly typifying the crucifixion of Christ lifted up so that all who believe in him might not perish (John 3:14–16).",
+            "pt": "A serpente de bronze de Nm 21:8–9 é o tipo expiatório mais explícito de Números: aquele que olha em fé para o símbolo do juízo divino sobre o pecado é curado, tipificando diretamente a crucificação de Cristo levantado para que todo aquele que nele crer não pereça (Jo 3:14–16)."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "El pecado de Moisés al golpear la roca (Nm 20:11–12) y la queja de Israel contra Dios y Moisés (Nm 21:5) muestran que el pecado persiste en el liderazgo y el pueblo hasta el final de la generación del desierto, confirmando la necesidad de un mediador perfecto.",
+              "en": "Moses's sin in striking the rock (Num 20:11–12) and Israel's complaint against God and Moses (Num 21:5) show that sin persists in both leadership and people to the end of the wilderness generation, confirming the need for a perfect mediator.",
+              "pt": "O pecado de Moisés ao golpear a rocha (Nm 20:11–12) e a queixa de Israel contra Deus e Moisés (Nm 21:5) mostram que o pecado persiste tanto na liderança quanto no povo até o fim da geração do deserto, confirmando a necessidade de um mediador perfeito."
+            }
+          },
+          {
+            "Éxodo/Liberación": {
+              "es": "Las victorias sobre Sihón y Og (Nm 21:21–35) inauguran la era de conquista: la misma potencia liberadora que sacó a Israel de Egipto ahora derrota a los reyes amoreos, mostrando que YHWH actúa como guerrero redentor a través del desierto hasta Canaán.",
+              "en": "The victories over Sihon and Og (Num 21:21–35) inaugurate the conquest era: the same liberating power that brought Israel out of Egypt now defeats the Amorite kings, showing YHWH acting as redeeming warrior from wilderness through to Canaan.",
+              "pt": "As vitórias sobre Seom e Ogue (Nm 21:21–35) inauguram a era da conquista: o mesmo poder libertador que tirou Israel do Egito agora derrota os reis amorreus, mostrando YHWH agindo como guerreiro redentor desde o deserto até Canaã."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 22,
@@ -1578,7 +2001,61 @@
         "en": "Balaam prophesies blessings over Israel including the messianic promise of the star of Jacob",
         "pt": "Balaão profetiza bênçãos sobre Israel incluindo a promessa messiânica da estrela de Jacó"
       },
-      "versiculoClave": "Nm 24:17"
+      "versiculoClave": "Nm 24:17",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2P 2:15–16",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pedro usa a Balaam como paradigma del falso maestro motivado por la codicia: 'siguiendo el camino de Balaam… que amó el premio de la maldad' (2P 2:15), con la burra que le reprendió como señal de la absurda ceguera del profeta codicioso.",
+            "en": "Peter uses Balaam as the paradigm of the false teacher motivated by greed: 'following the way of Balaam… who loved gain from wrongdoing' (2Pet 2:15), with the donkey that rebuked him as a sign of the covetous prophet's absurd blindness.",
+            "pt": "Pedro usa Balaão como paradigma do falso mestre motivado pela cobiça: 'seguindo o caminho de Balaão… que amou o prêmio da iniquidade' (2Pe 2:15), com a jumenta que o repreendeu como sinal da absurda cegueira do profeta cobiçoso."
+          }
+        },
+        {
+          "ref": "Mt 2:2",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La profecía de 'la estrella de Jacob' (Nm 24:17) es considerada por la tradición reformada el trasfondo del 'astro' seguido por los magos (Mt 2:2,9–10), señalando que la promesa mesiánica de Nm 24 encontró cumplimiento en el nacimiento del rey de los judíos.",
+            "en": "The prophecy of 'the star out of Jacob' (Num 24:17) is considered by Reformed tradition the background of the 'star' followed by the Magi (Matt 2:2,9–10), indicating that the messianic promise of Num 24 found fulfillment in the birth of the king of the Jews.",
+            "pt": "A profecia da 'estrela de Jacó' (Nm 24:17) é considerada pela tradição reformada o pano de fundo do 'astro' seguido pelos magos (Mt 2:2,9–10), indicando que a promessa messiânica de Nm 24 encontrou cumprimento no nascimento do rei dos judeus."
+          }
+        },
+        {
+          "ref": "Ap 2:14",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Cristo reprende a la iglesia de Pérgamo por seguir la 'doctrina de Balaam' (Ap 2:14), refiriéndose a cómo Balaam aconsejó a Balac tender una trampa a Israel mediante la fornicación e idolatría (Nm 31:16), haciendo de Nm 22–24 el trasfondo del conflicto en Pérgamo.",
+            "en": "Christ rebukes the Pergamum church for following 'the teaching of Balaam' (Rev 2:14), referring to how Balaam counseled Balak to set a trap for Israel through sexual immorality and idolatry (Num 31:16), making Num 22–24 the background of the Pergamum conflict.",
+            "pt": "Cristo repreende a igreja de Pérgamo por seguir 'o ensino de Balaão' (Ap 2:14), referindo-se a como Balaão aconselhou Balaque a armar uma armadilha a Israel mediante imoralidade sexual e idolatria (Nm 31:16), tornando Nm 22–24 o pano de fundo do conflito em Pérgamo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "Los oráculos de Balaam demuestran que ninguna maldición externa puede revertir la bendición del Dios del pacto: 'Dios no es hombre para que mienta… ¿lo ha dicho y no lo hará?' (Nm 23:19). La fidelidad de YHWH a sus promesas convierte la maldición contratada en bendición (Nm 23:20).",
+            "en": "Balaam's oracles demonstrate that no external curse can reverse the blessing of the covenant God: 'God is not man, that he should lie… Has he said, and will he not do it?' (Num 23:19). YHWH's faithfulness to his promises turns the contracted curse into blessing (Num 23:20).",
+            "pt": "Os oráculos de Balaão demonstram que nenhuma maldição externa pode reverter a bênção do Deus da aliança: 'Deus não é homem para que minta… Acaso disse algo e não o fará?' (Nm 23:19). A fidelidade de YHWH às suas promessas transforma a maldição contratada em bênção (Nm 23:20)."
+          }
+        },
+        "secundarios": [
+          {
+            "Mesías/Ungido": {
+              "es": "El cuarto oráculo de Balaam profetiza la 'estrella de Jacob y el cetro de Israel' (Nm 24:17): el rey messiánico que surgirá de Israel y derrotará a los enemigos del pueblo de Dios, una de las promesas reales mesiánicas más antiguas del canon.",
+              "en": "Balaam's fourth oracle prophesies 'a star out of Jacob and a scepter out of Israel' (Num 24:17): the messianic king who will arise from Israel and defeat the enemies of God's people, one of the oldest royal messianic promises in the canon.",
+              "pt": "O quarto oráculo de Balaão profetiza 'uma estrela de Jacó e um cetro de Israel' (Nm 24:17): o rei messiânico que surgirá de Israel e derrotará os inimigos do povo de Deus, uma das mais antigas promessas reais messiânicas do cânon."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Los tres intentos fallidos de maldecir a Israel (Nm 23:1–24:9) demuestran que las promesas abrahámicas (Gn 12:3) son absolutamente inviolables: YHWH no puede ser manipulado por ningún poder externo para abandonar a su pueblo elegido.",
+              "en": "The three failed attempts to curse Israel (Num 23:1–24:9) demonstrate that the Abrahamic promises (Gen 12:3) are absolutely inviolable: YHWH cannot be manipulated by any external power to abandon his chosen people.",
+              "pt": "As três tentativas fracassadas de amaldiçoar Israel (Nm 23:1–24:9) demonstram que as promessas abraâmicas (Gn 12:3) são absolutamente invioláveis: YHWH não pode ser manipulado por nenhum poder externo para abandonar seu povo eleito."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 25,
@@ -1599,7 +2076,52 @@
         "en": "The Baal-Peor apostasy: 24,000 dead and Phinehas's zeal stops the plague",
         "pt": "A apostasia de Baal-Peor: 24.000 mortos e o zelo de Finéias detém a praga"
       },
-      "versiculoClave": "Nm 25:12"
+      "versiculoClave": "Nm 25:12",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Co 10:8",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo cita explícitamente la apostasía de Baal-Peor como advertencia para los corintios: 'tampoco forniquemos, como algunos de ellos fornicaron, y cayeron en un día veintitrés mil' (1Co 10:8), haciendo de Nm 25 el tipo canónico de la idolatría sexual.",
+            "en": "Paul explicitly cites the Baal-Peor apostasy as a warning for the Corinthians: 'we must not indulge in sexual immorality as some of them did, and twenty-three thousand fell in a single day' (1Cor 10:8), making Num 25 the canonical type of sexual idolatry.",
+            "pt": "Paulo cita explicitamente a apostasia de Baal-Peor como advertência para os coríntios: 'também não pequemos sexualmente, como alguns deles pecaram, e num só dia caíram vinte e três mil' (1Co 10:8), fazendo de Nm 25 o tipo canônico da idolatria sexual."
+          }
+        },
+        {
+          "ref": "Sal 106:28–31",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El Salmo 106 recuerda Baal-Peor como parte de la historia de rebelión de Israel (Sal 106:28–31), con el zeloso acto de Finees que le fue 'contado por justicia de generación en generación para siempre' (Sal 106:31), anticipando la imputación de justicia.",
+            "en": "Psalm 106 recalls Baal-Peor as part of Israel's rebellion history (Ps 106:28–31), with Phinehas's zealous act 'counted to him as righteousness from generation to generation forever' (Ps 106:31), anticipating the imputation of righteousness.",
+            "pt": "O Salmo 106 recorda Baal-Peor como parte da história de rebelião de Israel (Sl 106:28–31), com o ato zeloso de Finéias que lhe foi 'contado como justiça de geração em geração para sempre' (Sl 106:31), antecipando a imputação de justiça."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Idolatría": {
+            "es": "La apostasía de Baal-Peor (Nm 25:1–3) representa la idolatría en su forma más peligrosa: la unión sexual con mujeres de otras naciones como puerta al culto de dioses extranjeros, el pecado que el AT cita repetidamente como el nadir moral del peregrinaje.",
+            "en": "The Baal-Peor apostasy (Num 25:1–3) represents idolatry in its most dangerous form: sexual union with foreign women as a gateway to the worship of foreign gods, the sin the OT repeatedly cites as the moral nadir of the wilderness journey.",
+            "pt": "A apostasia de Baal-Peor (Nm 25:1–3) representa a idolatria em sua forma mais perigosa: a união sexual com mulheres de outras nações como porta para o culto de deuses estrangeiros, o pecado que o AT cita repetidamente como o nadir moral da peregrinação."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La plaga que mata a 24.000 (Nm 25:9) y la ejecución pública de los jefes del pueblo (Nm 25:4–5) revelan la ira de YHWH encendida contra la infidelidad del pacto: la santa celosa de Israel no tolera ninguna rivalidad con los dioses de las naciones.",
+              "en": "The plague killing 24,000 (Num 25:9) and the public execution of the leaders of the people (Num 25:4–5) reveal YHWH's anger kindled against covenant unfaithfulness: the holy jealousy of Israel's God tolerates no rivalry with the gods of the nations.",
+              "pt": "A praga que mata 24.000 (Nm 25:9) e a execução pública dos chefes do povo (Nm 25:4–5) revelam a ira de YHWH acesa contra a infidelidade da aliança: o ciúme santo do Deus de Israel não tolera nenhuma rivalidade com os deuses das nações."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "El pacto de paz y de sacerdocio perpetuo otorgado a Finees (Nm 25:12–13) por su celo revela que la fidelidad al pacto en el momento de la apostasía máxima es honrada por YHWH con una promesa dinástica sacerdotal.",
+              "en": "The covenant of peace and perpetual priesthood granted to Phinehas (Num 25:12–13) for his zeal reveals that covenant faithfulness at the moment of maximum apostasy is honored by YHWH with a dynastic priestly promise.",
+              "pt": "A aliança de paz e de sacerdócio perpétuo concedida a Finéias (Nm 25:12–13) por seu zelo revela que a fidelidade à aliança no momento da apostasia máxima é honrada por YHWH com uma promessa dinástica sacerdotal."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 26,
@@ -1620,7 +2142,43 @@
         "en": "Second census: confirms that only Caleb and Joshua survived from the first generation",
         "pt": "Segundo censo: confirma que apenas Calebe e Josué sobreviveram da primeira geração"
       },
-      "versiculoClave": "Nm 26:65"
+      "versiculoClave": "Nm 26:65",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 3:17–19",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El segundo censo confirma visualmente la advertencia de He 3:17–19: los 603.550 del primer censo están todos muertos en el desierto (Nm 26:64–65), exactamente 'aquellos que pecaron, cuyos cuerpos cayeron en el desierto… los que no creyeron'.",
+            "en": "The second census visually confirms the warning of Heb 3:17–19: all 603,550 from the first census are dead in the wilderness (Num 26:64–65), exactly 'those who sinned, whose bodies fell in the wilderness… those who were disobedient.'",
+            "pt": "O segundo censo confirma visualmente o aviso de Hb 3:17–19: todos os 603.550 do primeiro censo estão mortos no deserto (Nm 26:64–65), exatamente 'aqueles que pecaram, cujos corpos caíram no deserto… os que foram desobedientes'."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Promesa/Cumplimiento": {
+            "es": "El segundo censo (601.730 hombres, Nm 26:51) con la confirmación de que solo Caleb y Josué sobrevivieron de la primera generación (Nm 26:64–65) certifica el cumplimiento exacto del juicio de Nm 14 y establece a la segunda generación como los herederos de la promesa de la tierra.",
+            "en": "The second census (601,730 men, Num 26:51) with the confirmation that only Caleb and Joshua survived from the first generation (Num 26:64–65) certifies the exact fulfillment of the Num 14 judgment and establishes the second generation as heirs of the land promise.",
+            "pt": "O segundo censo (601.730 homens, Nm 26:51) com a confirmação de que apenas Calebe e Josué sobreviveram da primeira geração (Nm 26:64–65) certifica o cumprimento exato do juízo de Nm 14 e estabelece a segunda geração como herdeiros da promessa da terra."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La ausencia de cualquier nombre de la primera generación en el segundo censo (salvo Caleb y Josué, Nm 26:65) es la prueba documental de que el juicio de YHWH fue ejecutado con exactitud absoluta: 'morirán en el desierto' (Nm 14:35) se cumplió al pie de la letra.",
+              "en": "The absence of any first-generation name in the second census (except Caleb and Joshua, Num 26:65) is the documentary proof that YHWH's judgment was executed with absolute exactness: 'they shall die in the wilderness' (Num 14:35) was fulfilled to the letter.",
+              "pt": "A ausência de qualquer nome da primeira geração no segundo censo (exceto Calebe e Josué, Nm 26:65) é a prova documental de que o juízo de YHWH foi executado com exatidão absoluta: 'morrerão no deserto' (Nm 14:35) cumpriu-se à risca."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "El segundo censo sirve como base para la distribución proporcional de la tierra entre las tribus (Nm 26:52–56), mostrando que la herencia de la promesa de la tierra es un asunto de ordenamiento pactal justo, no de privilegio arbitrario.",
+              "en": "The second census serves as the basis for proportional land distribution among the tribes (Num 26:52–56), showing that inheritance of the land promise is a matter of fair covenant ordering, not arbitrary privilege.",
+              "pt": "O segundo censo serve como base para a distribuição proporcional da terra entre as tribos (Nm 26:52–56), mostrando que a herança da promessa da terra é uma questão de ordenamento pactal justo, não de privilégio arbitrário."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 27,
@@ -1641,7 +2199,52 @@
         "en": "Joshua is invested as Moses's successor through the laying on of hands",
         "pt": "Josué é investido como sucessor de Moisés pela imposição de mãos"
       },
-      "versiculoClave": "Nm 27:18"
+      "versiculoClave": "Nm 27:18",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 34:9",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La investidura de Josué mediante imposición de manos (Nm 27:18–23) halla su confirmación en Dt 34:9: 'Josué hijo de Nun estaba lleno del espíritu de sabiduría, porque Moisés había puesto sus manos sobre él', estableciendo la continuidad del liderazgo del pacto.",
+            "en": "Joshua's investiture by laying on of hands (Num 27:18–23) finds its confirmation in Deut 34:9: 'Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him,' establishing continuity of covenant leadership.",
+            "pt": "A investidura de Josué pela imposição de mãos (Nm 27:18–23) encontra sua confirmação em Dt 34:9: 'Josué, filho de Num, estava cheio do espírito de sabedoria, porque Moisés tinha posto as suas mãos sobre ele', estabelecendo a continuidade da liderança da aliança."
+          }
+        },
+        {
+          "ref": "1Ti 4:14",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La imposición de manos de Moisés sobre Josué ante la congregación (Nm 27:18–23) establece el precedente veterotestamentario para la ordenación ministerial por imposición de manos, patrón que Pablo aplica a Timoteo (1Ti 4:14) y a la estructura de la iglesia.",
+            "en": "Moses's laying on of hands on Joshua before the congregation (Num 27:18–23) establishes the Old Testament precedent for ministerial ordination by laying on of hands, a pattern Paul applies to Timothy (1Tim 4:14) and church structure.",
+            "pt": "A imposição de mãos de Moisés sobre Josué diante da congregação (Nm 27:18–23) estabelece o precedente veterotestamentário para a ordenação ministerial pela imposição de mãos, padrão que Paulo aplica a Timóteo (1Tm 4:14) e à estrutura da igreja."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "YHWH designa soberanamente a Josué como sucesor de Moisés (Nm 27:18), describiendo al elegido como 'varón en quien hay espíritu': la elección divina para el liderazgo del pacto precede y fundamenta la investidura pública, no al revés.",
+            "en": "YHWH sovereignly designates Joshua as Moses's successor (Num 27:18), describing the chosen one as 'a man in whom is the Spirit': divine election for covenant leadership precedes and grounds the public investiture, not the reverse.",
+            "pt": "YHWH designa soberanamente Josué como sucessor de Moisés (Nm 27:18), descrevendo o eleito como 'homem em quem há espírito': a eleição divina para a liderança da aliança precede e fundamenta a investidura pública, não o contrário."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "El anuncio de YHWH a Moisés de que verá la tierra prometida pero no entrará (Nm 27:12–14) cumple exactamente la sentencia de Nm 20:12, mostrando que la palabra de YHWH se cumple inexorablemente incluso respecto a su siervo más fiel.",
+              "en": "YHWH's announcement to Moses that he will see the promised land but not enter it (Num 27:12–14) exactly fulfills the sentence of Num 20:12, showing that YHWH's word is fulfilled inexorably even regarding his most faithful servant.",
+              "pt": "O anúncio de YHWH a Moisés de que verá a terra prometida mas não entrará (Nm 27:12–14) cumpre exatamente a sentença de Nm 20:12, mostrando que a palavra de YHWH cumpre-se inexoravelmente mesmo em relação ao seu servo mais fiel."
+            }
+          },
+          {
+            "Israel/Iglesia": {
+              "es": "Las filhas de Zelofehad que reciben heredad (Nm 27:1–11) muestran la justicia del pacto ampliada más allá de las normas patrilineales: YHWH acoge el reclamo de las marginadas y establece un precedente legal que expande los límites de la herencia del pacto.",
+              "en": "Zelophehad's daughters who receive an inheritance (Num 27:1–11) show covenant justice extended beyond patrilineal norms: YHWH upholds the marginalized women's claim and establishes a legal precedent expanding the boundaries of covenant inheritance.",
+              "pt": "As filhas de Zelofeade que recebem herança (Nm 27:1–11) mostram a justiça da aliança ampliada além das normas patrilineares: YHWH acolhe a reivindicação das marginalizadas e estabelece um precedente legal que expande os limites da herança da aliança."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 28,
@@ -1662,7 +2265,52 @@
         "en": "Israel's complete liturgical calendar: the offerings of the sacred year",
         "pt": "O calendário litúrgico completo de Israel: as oferendas do ano sagrado"
       },
-      "versiculoClave": "Nm 28:2"
+      "versiculoClave": "Nm 28:2",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 10:1–14",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El calendario de ofrendas diarias, semanales y anuales de Nm 28–29 —repetidas incesantemente— es el trasfondo de He 10:1–3: las mismas ofrendas año tras año nunca pueden perfeccionar al adorador, prueba de que apuntaban a un sacrificio definitivo.",
+            "en": "The calendar of daily, weekly, and annual offerings of Num 28–29 — repeated incessantly — is the background of Heb 10:1–3: the same offerings year after year can never perfect the worshiper, proof that they pointed to a definitive sacrifice.",
+            "pt": "O calendário de oferendas diárias, semanais e anuais de Nm 28–29 — repetidas incessantemente — é o pano de fundo de Hb 10:1–3: as mesmas oferendas ano após ano nunca podem aperfeiçoar o adorador, prova de que apontavam para um sacrifício definitivo."
+          }
+        },
+        {
+          "ref": "Col 2:16–17",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Las fiestas, lunas nuevas y sábados del calendario de Nm 28–29 son 'sombra de lo que había de venir; pero el cuerpo es de Cristo' (Col 2:16–17): el cumplimiento de cada tipo litúrgico del calendario numérico está en la persona y obra de Cristo.",
+            "en": "The feasts, new moons, and Sabbaths of the Num 28–29 calendar are 'a shadow of the things to come, but the substance belongs to Christ' (Col 2:16–17): the fulfillment of each liturgical type in the Numbers calendar is in the person and work of Christ.",
+            "pt": "As festas, luas novas e sábados do calendário de Nm 28–29 são 'sombra das coisas futuras; mas o corpo é de Cristo' (Cl 2:16–17): o cumprimento de cada tipo litúrgico do calendário numérico está na pessoa e obra de Cristo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacrificio/Expiación": {
+            "es": "El calendario completo de ofrendas (Nm 28–29) —diarias, semanales, mensuales y de las siete fiestas— organiza el año entero de Israel alrededor del sistema sacrificial, subrayando que el acceso continuo a YHWH requiere expiación continua, prefigurando el sacrificio único y permanente de Cristo.",
+            "en": "The complete offering calendar (Num 28–29) — daily, weekly, monthly, and the seven feasts — organizes Israel's entire year around the sacrificial system, underscoring that continuous access to YHWH requires continuous atonement, prefiguring Christ's single and permanent sacrifice.",
+            "pt": "O calendário completo de oferendas (Nm 28–29) — diárias, semanais, mensais e das sete festas — organiza o ano inteiro de Israel ao redor do sistema sacrificial, sublinhando que o acesso contínuo a YHWH requer expiação contínua, prefigurando o sacrifício único e permanente de Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Sábado/Descanso": {
+              "es": "El calendario está estructurado por el ritmo sabático: la ofrenda diaria (Nm 28:3–8) cadencia cada día, la ofrenda sabática (Nm 28:9–10) cadencia cada semana, y la luna nueva cada mes (Nm 28:11–15), incorporando el descanso de Dios en el tejido temporal de Israel.",
+              "en": "The calendar is structured by the sabbatical rhythm: the daily offering (Num 28:3–8) cadences each day, the Sabbath offering (Num 28:9–10) each week, and the new moon each month (Num 28:11–15), weaving God's rest into Israel's temporal fabric.",
+              "pt": "O calendário é estruturado pelo ritmo sabático: a oferta diária (Nm 28:3–8) cadencia cada dia, a oferta sabática (Nm 28:9–10) cada semana e a lua nova cada mês (Nm 28:11–15), tecendo o descanso de Deus na estrutura temporal de Israel."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "La instrucción de 'ofrecéis a mí a su tiempo' (Nm 28:2) subordina el tiempo de Israel al señorío de YHWH: el calendario litúrgico es el instrumento principal por el cual la soberanía del pacto se inscribe en la estructura del año.",
+              "en": "The instruction to 'offer to me at its appointed time' (Num 28:2) subordinates Israel's time to YHWH's lordship: the liturgical calendar is the primary instrument by which covenant sovereignty is inscribed into the structure of the year.",
+              "pt": "A instrução de 'oferecer-me no seu tempo determinado' (Nm 28:2) subordina o tempo de Israel ao senhorio de YHWH: o calendário litúrgico é o instrumento principal pelo qual a soberania da aliança é inscrita na estrutura do ano."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 31,
@@ -1683,7 +2331,43 @@
         "en": "Israel defeats Midian by divine command and Balaam dies in battle",
         "pt": "Israel derrota Midiã por mandato divino e Balaão morre em batalha"
       },
-      "versiculoClave": "Nm 31:8"
+      "versiculoClave": "Nm 31:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ap 19:11–16",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La guerra santa de Israel contra Madián (Nm 31) bajo el liderazgo de Finees con los utensilios del santuario (Nm 31:6) prefigura la guerra escatológica del Apocalipsis: Cristo como guerrero divino que ejecuta el juicio definitivo sobre las naciones enemigas (Ap 19:11–16).",
+            "en": "Israel's holy war against Midian (Num 31) under Phinehas with the sanctuary vessels (Num 31:6) prefigures the eschatological war of Revelation: Christ as the divine warrior who executes the final judgment on the enemy nations (Rev 19:11–16).",
+            "pt": "A guerra santa de Israel contra Midiã (Nm 31) sob a liderança de Finéias com os utensílios do santuário (Nm 31:6) prefigura a guerra escatológica do Apocalipse: Cristo como guerreiro divino que executa o julgamento definitivo sobre as nações inimigas (Ap 19:11–16)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "La guerra contra Madián es explícitamente el juicio de YHWH en retribución por Baal-Peor (Nm 25:16–18; 31:3): Dios ejecuta su venganza a través de su ejército del pacto, haciendo de la guerra santa el instrumento de la justicia divina en la historia.",
+            "en": "The war against Midian is explicitly YHWH's judgment in retribution for Baal-Peor (Num 25:16–18; 31:3): God executes his vengeance through his covenant army, making holy war the instrument of divine justice in history.",
+            "pt": "A guerra contra Midiã é explicitamente o juízo de YHWH em retribuição por Baal-Peor (Nm 25:16–18; 31:3): Deus executa sua vingança através de seu exército da aliança, tornando a guerra santa o instrumento da justiça divina na história."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "Israel actúa como ejército del pacto bajo el liderazgo sacerdotal de Finees que lleva los utensilios del santuario (Nm 31:6), mostrando que la guerra santa es una función litúrgica del pueblo de YHWH, no meramente una empresa militar.",
+              "en": "Israel acts as a covenant army under the priestly leadership of Phinehas carrying the sanctuary vessels (Num 31:6), showing that holy war is a liturgical function of YHWH's people, not merely a military enterprise.",
+              "pt": "Israel age como exército da aliança sob a liderança sacerdotal de Finéias que carrega os utensílios do santuário (Nm 31:6), mostrando que a guerra santa é uma função litúrgica do povo de YHWH, não meramente uma empresa militar."
+            }
+          },
+          {
+            "Idolatría": {
+              "es": "La muerte de Balaam (Nm 31:8) como el instigador intelectual de Baal-Peor (Nm 31:16) cierra el arco narrativo de Nm 22–25: el profeta codicioso que enseñó al enemigo cómo corromper a Israel finalmente recibe el juicio que el instrumento de maldición merecía.",
+              "en": "Balaam's death (Num 31:8) as the intellectual instigator of Baal-Peor (Num 31:16) closes the narrative arc of Num 22–25: the covetous prophet who taught the enemy how to corrupt Israel finally receives the judgment the instrument of corruption deserved.",
+              "pt": "A morte de Balaão (Nm 31:8) como o instigador intelectual de Baal-Peor (Nm 31:16) fecha o arco narrativo de Nm 22–25: o profeta cobiçoso que ensinou ao inimigo como corromper Israel finalmente recebe o juízo que o instrumento de corrupção merecia."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 32,
@@ -1704,7 +2388,43 @@
         "en": "The tribes of Reuben, Gad, and half Manasseh receive Transjordan with commitment to participate in the conquest",
         "pt": "As tribos de Rúben, Gade e meia Manassés recebem a Transjordânia com compromisso de participar da conquista"
       },
-      "versiculoClave": "Nm 32:22"
+      "versiculoClave": "Nm 32:22",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jos 22:1–4",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El compromiso de Nm 32 —que las tribus de Transjordania cruzarían el Jordán para ayudar en la conquista— halla su cumplimiento en Jos 22:1–4: Josué las despide con elogio: 'habéis guardado todo lo que Moisés siervo del SEÑOR os mandó', cerrando el arco narrativo.",
+            "en": "The Num 32 commitment — that the Transjordanian tribes would cross the Jordan to help in the conquest — finds its fulfillment in Josh 22:1–4: Joshua dismisses them with praise: 'you have kept all that Moses the servant of the LORD commanded you,' closing the narrative arc.",
+            "pt": "O compromisso de Nm 32 — que as tribos transjordânicas atravessariam o Jordão para ajudar na conquista — encontra seu cumprimento em Js 22:1–4: Josué as dispensa com elogio: 'guardastes tudo o que Moisés, servo do SENHOR, vos ordenou', fechando o arco narrativo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La negociación de Nm 32 ilustra la solidaridad del pacto: las tribus orientales pueden recibir su herencia en Transjordania solo bajo el compromiso de participar en la conquista de todo Israel (Nm 32:20–22), porque el pacto es colectivo, no meramente individual.",
+            "en": "The Num 32 negotiation illustrates covenant solidarity: the eastern tribes can receive their Transjordanian inheritance only under commitment to participate in all Israel's conquest (Num 32:20–22), because the covenant is collective, not merely individual.",
+            "pt": "A negociação de Nm 32 ilustra a solidariedade da aliança: as tribos orientais podem receber sua herança na Transjordânia somente sob o compromisso de participar da conquista de todo Israel (Nm 32:20–22), porque a aliança é coletiva, não meramente individual."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La asignación de Transjordania a Rubén, Gad y media Manasés (Nm 32:33) es el primer cumplimiento parcial y tangible de la promesa de la tierra, un anticipo concreto de la herencia completa que la segunda generación recibirá.",
+              "en": "The assignment of Transjordan to Reuben, Gad, and half Manasseh (Num 32:33) is the first partial and tangible fulfillment of the land promise, a concrete foretaste of the full inheritance the second generation will receive.",
+              "pt": "A atribuição da Transjordânia a Rúben, Gade e meia Manassés (Nm 32:33) é o primeiro cumprimento parcial e tangível da promessa da terra, um antegosto concreto da herança completa que a segunda geração receberá."
+            }
+          },
+          {
+            "Caída/Pecado": {
+              "es": "La alarma de Moisés ante la petición (Nm 32:6–15) y su comparación explícita con la generación de Cades revela la vigilancia pastoral: cada nueva generación enfrenta la misma tentación de cobardía ante el mandato de avanzar en fe.",
+              "en": "Moses's alarm at the request (Num 32:6–15) and his explicit comparison with the Kadesh generation reveals pastoral vigilance: each new generation faces the same temptation to cowardice before the mandate to advance in faith.",
+              "pt": "O alarme de Moisés diante do pedido (Nm 32:6–15) e sua comparação explícita com a geração de Cades revela vigilância pastoral: cada nova geração enfrenta a mesma tentação de covardia diante do mandato de avançar em fé."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 33,
@@ -1725,7 +2445,43 @@
         "en": "Record of the 42 stages of the wandering: a memorial of God's faithfulness through the wilderness",
         "pt": "Registro das 42 etapas da peregrinação: memorial da fidelidade de Deus ao longo do deserto"
       },
-      "versiculoClave": "Nm 33:2"
+      "versiculoClave": "Nm 33:2",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Co 10:1–11",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El itinerario de 42 etapas (Nm 33) documenta el peregrinaje que Pablo convierte en paradigma doctrinal en 1Co 10:1–11: 'estas cosas les acontecieron como ejemplos, y están escritas para amonestarnos a nosotros', dotando al itinerario de función normativa para la iglesia.",
+            "en": "The 42-stage itinerary (Num 33) documents the journey Paul turns into a doctrinal paradigm in 1Cor 10:1–11: 'these things happened to them as an example, and they were written down for our instruction,' giving the itinerary normative function for the church.",
+            "pt": "O itinerário de 42 etapas (Nm 33) documenta a peregrinação que Paulo transforma em paradigma doutrinal em 1Co 10:1–11: 'essas coisas lhes aconteceram como exemplos, e foram escritas para nossa instrução', dando ao itinerário função normativa para a igreja."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "Las 42 etapas del itinerario (Nm 33:1–49) son un memorial de la fidelidad de YHWH: cada nombre de lugar registrado por mandato divino (Nm 33:2) certifica que Dios guió a Israel en cada etapa del peregrinaje, sin abandonarlo a pesar de la rebelión repetida.",
+            "en": "The 42-stage itinerary (Num 33:1–49) is a memorial of YHWH's faithfulness: each place name recorded by divine command (Num 33:2) certifies that God guided Israel at every stage of the journey, not abandoning them despite repeated rebellion.",
+            "pt": "O itinerário de 42 etapas (Nm 33:1–49) é um memorial da fidelidade de YHWH: cada nome de lugar registrado por mandato divino (Nm 33:2) certifica que Deus guiou Israel em cada etapa da peregrinação, sem os abandonar apesar da rebelião repetida."
+          }
+        },
+        "secundarios": [
+          {
+            "Exilio/Desierto": {
+              "es": "Los cuarenta años condensados en 42 etapas (Nm 33:38) representan el período de disciplina y formación del pueblo de Dios: el desierto no es un accidente sino el espacio pedagógico donde YHWH moldea a Israel para recibir la tierra prometida.",
+              "en": "The forty years condensed in 42 stages (Num 33:38) represent the period of discipline and formation of God's people: the wilderness is not an accident but the pedagogical space where YHWH shapes Israel to receive the promised land.",
+              "pt": "Os quarenta anos condensados em 42 etapas (Nm 33:38) representam o período de disciplina e formação do povo de Deus: o deserto não é um acidente, mas o espaço pedagógico onde YHWH molda Israel para receber a terra prometida."
+            }
+          },
+          {
+            "Palabra de Dios/Ley": {
+              "es": "Moisés registra el itinerario 'por mandato del SEÑOR' (Nm 33:2), estableciendo la historia del peregrinaje como texto canónico de la providencia divina: la escritura de la fidelidad de Dios es en sí misma un acto de obediencia al mandato divino.",
+              "en": "Moses records the itinerary 'at the command of the LORD' (Num 33:2), establishing the wandering's history as canonical text of divine providence: the writing down of God's faithfulness is itself an act of obedience to the divine command.",
+              "pt": "Moisés registra o itinerário 'por mandato do SENHOR' (Nm 33:2), estabelecendo a história da peregrinação como texto canônico da providência divina: a escritura da fidelidade de Deus é em si mesma um ato de obediência ao mandato divino."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 34,
@@ -1746,7 +2502,52 @@
         "en": "Establishment of the 6 cities of refuge as protection for the unintentional manslayer",
         "pt": "Estabelecimento das 6 cidades de refúgio como proteção para o homicida involuntário"
       },
-      "versiculoClave": "Nm 35:15"
+      "versiculoClave": "Nm 35:15",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 6:18",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Las ciudades de refugio (Nm 35:9–34) que dan asilo al homicida involuntario son el tipo más claro del refugio en Cristo: 'para asir la esperanza puesta delante de nosotros. Esta esperanza… es como ancla del alma' (He 6:18–19), a la que los que huyen de la condenación se acogen.",
+            "en": "The cities of refuge (Num 35:9–34) that give asylum to the unintentional manslayer are the clearest type of refuge in Christ: 'to hold fast to the hope set before us. We have this as a sure and steadfast anchor' (Heb 6:18–19), to which those fleeing condemnation take hold.",
+            "pt": "As cidades de refúgio (Nm 35:9–34) que dão asilo ao homicida involuntário são o tipo mais claro do refúgio em Cristo: 'para alcançar a esperança proposta diante de nós. Esta esperança… é âncora da alma' (Hb 6:18–19), à qual os que fogem da condenação se agarram."
+          }
+        },
+        {
+          "ref": "He 9:15",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La muerte del sumo sacerdote como el evento que libera al refugiado (Nm 35:25,28) tipifica la muerte expiatoria de Cristo: 'es mediador de un nuevo pacto… para que, interviniendo muerte para la remisión de las transgresiones… los llamados reciban la promesa' (He 9:15).",
+            "en": "The high priest's death as the event releasing the refugee (Num 35:25,28) typifies Christ's atoning death: 'he is the mediator of a new covenant… so that those who are called may receive the promised eternal inheritance' through his death (Heb 9:15).",
+            "pt": "A morte do sumo sacerdote como o evento que liberta o refugiado (Nm 35:25,28) tipifica a morte expiatória de Cristo: 'é mediador de um novo pacto… para que, intervindo morte para remissão das transgressões… os chamados recebam a promessa' (Hb 9:15)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Promesa/Cumplimiento": {
+            "es": "Las fronteras precisas de Canaán (Nm 34:1–15), las 48 ciudades levíticas (Nm 35:1–8) y las 6 ciudades de refugio (Nm 35:9–34) constituyen el marco legal-territorial detallado para la distribución de la tierra prometida, señalando la inminencia del cumplimiento de la promesa abrahémica.",
+            "en": "The precise Canaan boundaries (Num 34:1–15), the 48 Levitical cities (Num 35:1–8), and the 6 cities of refuge (Num 35:9–34) constitute the detailed legal-territorial framework for the distribution of the promised land, signaling the imminence of the Abrahamic promise's fulfillment.",
+            "pt": "As fronteiras precisas de Canaã (Nm 34:1–15), as 48 cidades levíticas (Nm 35:1–8) e as 6 cidades de refúgio (Nm 35:9–34) constituem o quadro jurídico-territorial detalhado para a distribuição da terra prometida, sinalizando a iminência do cumprimento da promessa abraâmica."
+          }
+        },
+        "secundarios": [
+          {
+            "Redención/Rescate": {
+              "es": "Las ciudades de refugio tipifican la redención en Cristo: el que huye a la ciudad está seguro dentro de sus límites hasta la muerte del sumo sacerdote que lo libera (Nm 35:25,28), tipo de cómo la muerte expiatoria de Cristo libera al pecador de la condenación permanente.",
+              "en": "The cities of refuge typify redemption in Christ: the one who flees to the city is safe within its limits until the high priest's death that frees him (Num 35:25,28), a type of how Christ's atoning death frees the sinner from permanent condemnation.",
+              "pt": "As cidades de refúgio tipificam a redenção em Cristo: aquele que foge para a cidade está seguro dentro de seus limites até a morte do sumo sacerdote que o liberta (Nm 35:25,28), tipo de como a morte expiatória de Cristo liberta o pecador da condenação permanente."
+            }
+          },
+          {
+            "Sacerdocio": {
+              "es": "La muerte del sumo sacerdote como el evento redentor que libera al refugiado (Nm 35:25,28) eleva al sumo sacerdote a una función vicaria única: su muerte tiene efecto expiatorio sobre la comunidad, tipo eminente del sumo sacerdocio de Cristo.",
+              "en": "The high priest's death as the redemptive event releasing the refugee (Num 35:25,28) elevates the high priest to a unique vicarious function: his death has expiatory effect on the community, an eminent type of Christ's high priesthood.",
+              "pt": "A morte do sumo sacerdote como o evento redentor que liberta o refugiado (Nm 35:25,28) eleva o sumo sacerdote a uma função vicária única: sua morte tem efeito expiatório sobre a comunidade, tipo eminente do sumo sacerdócio de Cristo."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [
@@ -2251,7 +3052,7 @@
     "versionBiblia": {
       "es": "NBLA",
       "en": "ESV",
-      "pt": "NAA"
+      "pt": "ARC"
     },
     "pipeline": {
       "faseActual": 3,
