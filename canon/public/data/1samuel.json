@@ -2259,7 +2259,61 @@
         "pt": "O SENHOR chama Samuel pelo nome no tabernáculo (1Sm 3:4–10), estabelecendo o jovem como profeta e inaugurando o ofício profético em Israel em sua nova forma institucional, como voz direta de Deus diante do rei."
       },
       "versiculoClave": "1S 3:19–21",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Lc 1:46–55",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La oración de Ana (1S 2:1–10) es el modelo literario y teológico del Magnificat de María (Lc 1:46–55): ambas proclaman que YHWH derriba al poderoso y exalta al humilde, llena al hambriento y enriquece al pobre, y ambas culminan en la promesa del Rey Ungido venidero (1S 2:10; Lc 1:52–55), convirtiendo la oración de Ana en la primera profecía mesiánica del libro.",
+            "en": "Hannah's prayer (1Sam 2:1–10) is the literary and theological model of Mary's Magnificat (Luke 1:46–55): both proclaim that YHWH brings down the mighty and lifts up the humble, fills the hungry and enriches the poor, and both culminate in the promise of the coming Anointed King (1Sam 2:10; Luke 1:52–55), making Hannah's prayer the book's first messianic prophecy.",
+            "pt": "A oração de Ana (1Sm 2:1–10) é o modelo literário e teológico do Magnificat de Maria (Lc 1:46–55): ambas proclamam que YHWH derruba o poderoso e exalta o humilde, enche o faminto e enriquece o pobre, e ambas culminam na promessa do Rei Ungido vindouro (1Sm 2:10; Lc 1:52–55), tornando a oração de Ana a primeira profecia messiânica do livro."
+          }
+        },
+        {
+          "ref": "He 1:1–2",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El establecimiento de Samuel como profeta cuya palabra nunca cae en tierra (1S 3:19–21) inaugura la era de la profecía institucional en Israel, de la cual He 1:1–2 dice: 'Dios, habiendo hablado hace mucho tiempo, en muchas ocasiones y de muchas maneras a los padres por los profetas, en estos últimos días nos ha hablado por su Hijo', señalando a Samuel como parte del canal profético que desemboca en Cristo.",
+            "en": "The establishment of Samuel as a prophet whose word never falls to the ground (1Sam 3:19–21) inaugurates the era of institutional prophecy in Israel, of which Heb 1:1–2 says: 'Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son,' pointing to Samuel as part of the prophetic channel that flows into Christ.",
+            "pt": "O estabelecimento de Samuel como profeta cuja palavra nunca cai em terra (1Sm 3:19–21) inaugura a era da profecia institucional em Israel, da qual Hb 1:1–2 diz: 'Havendo Deus outrora falado, muitas vezes e de muitas maneiras, aos pais pelos profetas, nestes últimos dias nos falou pelo Filho', apontando Samuel como parte do canal profético que desemboca em Cristo."
+          }
+        },
+        {
+          "ref": "1Co 1:26–29",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "YHWH elige al niño Samuel sobre los sacerdotes establecidos (los hijos de Elí) y a David sobre los siete hermanos mayores de Isaí, siguiendo el patrón que 1Co 1:26–29 enuncia: 'Dios escogió lo necio del mundo para avergonzar a los sabios; escogió lo débil del mundo para avergonzar a lo que es fuerte', pues la oración de la estéril despreciada produce al profeta que los ungidos de nacimiento no pudieron ser.",
+            "en": "YHWH chooses the child Samuel over the established priests (Eli's sons) and David over Jesse's seven older brothers, following the pattern 1Cor 1:26–29 states: 'God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong,' for the prayer of the despised barren woman produces the prophet that those anointed by birth could not be.",
+            "pt": "YHWH escolhe a criança Samuel sobre os sacerdotes estabelecidos (os filhos de Eli) e Davi sobre os sete irmãos mais velhos de Jessé, seguindo o padrão que 1Co 1:26–29 enuncia: 'Deus escolheu as coisas loucas do mundo para confundir as sábias; escolheu as coisas fracas do mundo para confundir as fortes', pois a oração da estéril desprezada produz o profeta que os ungidos de nascimento não puderam ser."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "YHWH llama a Samuel directamente en el tabernáculo (1S 3:4–10), pasando por alto a la casa de Elí que ocupaba el sacerdocio formal, y elige al niño dedicado por la fe de una madre estéril; el patrón del ciclo inaugura el principio rector del libro: el llamado divino produce al siervo fiel donde la institución religiosa corrupta ha fallado.",
+            "en": "YHWH calls Samuel directly in the tabernacle (1Sam 3:4–10), bypassing the house of Eli that occupied the formal priesthood, and chooses the child dedicated by a barren mother's faith; the cycle's pattern inaugurates the book's governing principle: the divine call produces the faithful servant where the corrupt religious institution has failed.",
+            "pt": "YHWH chama Samuel diretamente no tabernáculo (1Sm 3:4–10), contornando a casa de Eli que ocupava o sacerdócio formal, e escolhe a criança dedicada pela fé de uma mãe estéril; o padrão do ciclo inaugura o princípio orientador do livro: o chamado divino produz o servo fiel onde a instituição religiosa corrupta falhou."
+          }
+        },
+        "secundarios": [
+          {
+            "Profeta/Profecía": {
+              "es": "Samuel es constituido profeta de modo explícito en 1S 3:19–21: 'el SEÑOR estaba con Samuel, y ninguna de sus palabras caía en tierra; y todo Israel… supo que Samuel había sido confirmado como profeta del SEÑOR', inaugurando el oficio profético institucional que mediará la Palabra de Dios entre YHWH y su pueblo a través de toda la historia monárquica.",
+              "en": "Samuel is explicitly constituted as a prophet in 1Sam 3:19–21: 'the LORD was with Samuel and let none of his words fall to the ground; and all Israel… knew that Samuel was established as a prophet of the LORD,' inaugurating the institutional prophetic office that will mediate God's Word between YHWH and his people throughout the entire monarchical history.",
+              "pt": "Samuel é constituído profeta de modo explícito em 1Sm 3:19–21: 'o SENHOR estava com Samuel, e nenhuma das suas palavras caiu em terra; e todo Israel… soube que Samuel tinha sido confirmado como profeta do SENHOR', inaugurando o ofício profético institucional que mediará a Palavra de Deus entre YHWH e seu povo através de toda a história monárquica."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "El contraste entre los hijos de Elí —que profanan el santuario robando las ofrendas, acostándose con las mujeres que sirven (1S 2:12–17,22)— y el crecimiento de Samuel en favor con Dios y con los hombres (1S 2:26) define la santidad como la división fundamental entre el ministerio auténtico y el que ocupa posición religiosa sin obediencia al pacto.",
+              "en": "The contrast between Eli's sons — who profane the sanctuary by stealing the offerings and lying with the women who served (1Sam 2:12–17,22) — and Samuel's growth in favor with God and man (1Sam 2:26) defines holiness as the fundamental division between authentic ministry and that which occupies religious position without covenant obedience.",
+              "pt": "O contraste entre os filhos de Eli — que profanam o santuário roubando as ofertas e deitando-se com as mulheres que servem (1Sm 2:12–17,22) — e o crescimento de Samuel em graça com Deus e com os homens (1Sm 2:26) define a santidade como a divisão fundamental entre o ministério autêntico e aquele que ocupa posição religiosa sem obediência à aliança."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 4,
@@ -2280,7 +2334,61 @@
         "pt": "A captura da arca pelos filisteus e o anúncio 'Icabode—a glória se afastou de Israel' (1Sm 4:21–22) constitui o ponto mais baixo espiritual do período, revelando que a presença de Deus não pode ser instrumentalizada e que o julgamento sobre a casa de Eli se cumpre."
       },
       "versiculoClave": "1S 7:12",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 4:21–24",
+          "tipo": "alusión",
+          "nota": {
+            "es": "Israel lleva el arca al campo de batalla como un talismán —'para que venga entre nosotros y nos salve' (1S 4:3)— y sufre derrota catastrófica; este error ilustra lo que Jesús enseña en Jn 4:21–24: la presencia de Dios no puede ser reducida a la posesión de un objeto sagrado, pues 'los verdaderos adoradores adorarán al Padre en espíritu y en verdad', no mediante la manipulación de lo sagrado.",
+            "en": "Israel brings the ark to the battlefield as a talisman — 'that it may come among us and save us from the power of our enemies' (1Sam 4:3) — and suffers catastrophic defeat; this error illustrates what Jesus teaches in John 4:21–24: God's presence cannot be reduced to possession of a sacred object, for 'true worshipers will worship the Father in spirit and truth,' not through manipulation of the sacred.",
+            "pt": "Israel leva a arca ao campo de batalha como um talismã — 'para que ela venha ao meio de nós e nos salve da mão dos nossos inimigos' (1Sm 4:3) — e sofre derrota catastrófica; este erro ilustra o que Jesus ensina em Jo 4:21–24: a presença de Deus não pode ser reduzida à posse de um objeto sagrado, pois 'os verdadeiros adoradores adorarão o Pai em espírito e em verdade', não mediante a manipulação do sagrado."
+          }
+        },
+        {
+          "ref": "He 9:4–5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El autor de He 9:4–5 describe el arca del pacto con su propiciatorio y los querubines de gloria como el corazón del santuario, cuya significación tipológica apunta a Cristo; la narrativa de 1S 4–7 demuestra por qué: el arca encarna la presencia misma de YHWH, que no puede ser capturada por los enemigos (1S 5:3–11) ni instrumentalizada por Israel (1S 4:3–11), sino que pertenece al reino eterno cuyo sumo sacerdote es Cristo.",
+            "en": "The author of Heb 9:4–5 describes the ark of the covenant with its mercy seat and the cherubim of glory as the sanctuary's heart, whose typological significance points to Christ; the narrative of 1Sam 4–7 demonstrates why: the ark embodies YHWH's very presence, which cannot be captured by enemies (1Sam 5:3–11) or instrumentalized by Israel (1Sam 4:3–11), but belongs to the eternal kingdom whose high priest is Christ.",
+            "pt": "O autor de Hb 9:4–5 descreve a arca da aliança com seu propiciatório e os querubins da glória como o coração do santuário, cuja significação tipológica aponta para Cristo; a narrativa de 1Sm 4–7 demonstra por quê: a arca encarna a própria presença de YHWH, que não pode ser capturada pelos inimigos (1Sm 5:3–11) nem instrumentalizada por Israel (1Sm 4:3–11), mas pertence ao reino eterno cujo sumo sacerdote é Cristo."
+          }
+        },
+        {
+          "ref": "Ap 11:19",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El arca que en tierra filistea derriba al ídolo Dagón dos veces (1S 5:3–4) y produce plagas sobre sus captores tipifica la victoria escatológica de Ap 11:19, donde el arca del pacto aparece en el templo celestial abierto como señal del reinado universal de Dios que ninguna potencia puede subyugar: la soberanía de YHWH sobre Dagón en Asdod es el anticipo de su soberanía final sobre toda oposición.",
+            "en": "The ark that in Philistine territory topples the idol Dagon twice (1Sam 5:3–4) and produces plagues on its captors typifies the eschatological victory of Rev 11:19, where the ark of the covenant appears in the opened heavenly temple as a sign of God's universal reign that no power can subjugate: YHWH's sovereignty over Dagon at Ashdod is the foreshadowing of his final sovereignty over all opposition.",
+            "pt": "A arca que em território filisteu derruba o ídolo Dagom duas vezes (1Sm 5:3–4) e produz pragas sobre seus captores tipifica a vitória escatológica de Ap 11:19, onde a arca do pacto aparece no templo celestial aberto como sinal do reinado universal de Deus que nenhuma potência pode subjugar: a soberania de YHWH sobre Dagom em Asdode é o antecipo de sua soberania final sobre toda oposição."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Presencia de Dios": {
+            "es": "La narrativa del arca (1S 4–7) gira enteramente sobre la presencia de YHWH: Israel la instrumentaliza y pierde el arca (1S 4:11), la gloria parte de Israel —'Icabod' (1S 4:21)— pero YHWH demuestra que su presencia es indomable en territorio enemigo, derribando a Dagón (1S 5:3–4) y enviando plagas (1S 5:6–12), hasta que el arca regresa y la presencia restaurada produce victoria (1S 7:10–12).",
+            "en": "The ark narrative (1Sam 4–7) revolves entirely around YHWH's presence: Israel instrumentalizes it and loses the ark (1Sam 4:11), the glory departs from Israel — 'Ichabod' (1Sam 4:21) — but YHWH demonstrates that his presence is untameable in enemy territory, toppling Dagon (1Sam 5:3–4) and sending plagues (1Sam 5:6–12), until the ark returns and the restored presence produces victory (1Sam 7:10–12).",
+            "pt": "A narrativa da arca (1Sm 4–7) gira inteiramente em torno da presença de YHWH: Israel a instrumentaliza e perde a arca (1Sm 4:11), a glória parte de Israel — 'Icabode' (1Sm 4:21) — mas YHWH demonstra que sua presença é indomável em território inimigo, derrubando Dagom (1Sm 5:3–4) e enviando pragas (1Sm 5:6–12), até que a arca retorna e a presença restaurada produz vitória (1Sm 7:10–12)."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La captura del arca y la muerte de los hijos de Elí en un solo día (1S 4:11) es el cumplimiento exacto del juicio anunciado en 1S 3:11–14; las plagas sobre los filisteos (1S 5:6–12) demuestran que la ira de YHWH opera fuera de las fronteras de Israel; y la muerte de los hombres de Bet-semes que miraron dentro del arca (1S 6:19) muestra que el juicio divino también recae sobre Israel cuando profana lo santo.",
+              "en": "The capture of the ark and the death of Eli's sons on a single day (1Sam 4:11) is the exact fulfillment of the judgment announced in 1Sam 3:11–14; the plagues on the Philistines (1Sam 5:6–12) demonstrate that YHWH's wrath operates beyond Israel's borders; and the death of the Beth-shemesh men who looked inside the ark (1Sam 6:19) shows that divine judgment also falls on Israel when it profanes the holy.",
+              "pt": "A captura da arca e a morte dos filhos de Eli num único dia (1Sm 4:11) é o cumprimento exato do julgamento anunciado em 1Sm 3:11–14; as pragas sobre os filisteus (1Sm 5:6–12) demonstram que a ira de YHWH opera fora das fronteiras de Israel; e a morte dos homens de Bete-semes que olharam dentro da arca (1Sm 6:19) mostra que o julgamento divino também recai sobre Israel quando profana o sagrado."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "El arca no puede ser manipulada impunemente ni por los filisteos ni por Israel: su presencia exige acercamiento correcto, pues Dagón cae postrado ante ella (1S 5:3–4) y los de Bet-semes mueren por mirarla con irreverencia (1S 6:19), estableciendo que la santidad de YHWH demanda el tipo de adoración que él mismo prescribió, no la que el adorador considera conveniente.",
+              "en": "The ark cannot be manipulated with impunity by either the Philistines or Israel: its presence demands correct approach, for Dagon falls prostrate before it (1Sam 5:3–4) and the Beth-shemesh men die for looking at it irreverently (1Sam 6:19), establishing that YHWH's holiness demands the kind of worship he himself prescribed, not what the worshiper considers convenient.",
+              "pt": "A arca não pode ser manipulada impunemente nem pelos filisteus nem por Israel: sua presença exige abordagem correta, pois Dagom cai prostrado diante dela (1Sm 5:3–4) e os de Bete-semes morrem por olhá-la com irreverência (1Sm 6:19), estabelecendo que a santidade de YHWH exige o tipo de adoração que ele mesmo prescreveu, não o que o adorador considera conveniente."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 8,
@@ -2301,7 +2409,52 @@
         "pt": "O SENHOR declara a Samuel que o pedido do povo por um rei humano é uma rejeição ao próprio Deus como rei (1Sm 8:7), estabelecendo o princípio teológico central do livro: a crise não é política, mas espiritual, e a solução não pode ser meramente institucional, mas requer o coração transformado."
       },
       "versiculoClave": "1S 8:7",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 19:15",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La demanda de Israel de un rey 'como todas las naciones' (1S 8:5,19) y la interpretación divina de que es un rechazo de YHWH como rey (1S 8:7) halla su paralelo definitivo en Jn 19:15: cuando Pilato pregunta '¿A vuestro Rey crucificaré?', los principales sacerdotes responden 'No tenemos más rey que César', consumando el mismo rechazo del reinado de Dios que 1S 8 inauguró.",
+            "en": "Israel's demand for a king 'like all the nations' (1Sam 8:5,19) and the divine interpretation that it is a rejection of YHWH as king (1Sam 8:7) finds its definitive parallel in John 19:15: when Pilate asks 'Shall I crucify your King?', the chief priests reply 'We have no king but Caesar,' consummating the same rejection of God's kingship that 1Sam 8 inaugurated.",
+            "pt": "A demanda de Israel por um rei 'como todas as nações' (1Sm 8:5,19) e a interpretação divina de que é uma rejeição de YHWH como rei (1Sm 8:7) encontra seu paralelo definitivo em Jo 19:15: quando Pilatos pergunta 'Crucificarei o vosso Rei?', os principais sacerdotes respondem 'Não temos rei senão César', consumando a mesma rejeição do reinado de Deus que 1Sm 8 inaugurou."
+          }
+        },
+        {
+          "ref": "He 7:25",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Samuel declara en 1S 12:23: 'Lejos sea de mí pecar contra el SEÑOR cesando de rogar por vosotros', estableciendo la intercesión profética permanente como su ministerio ante YHWH en favor de Israel; este patrón tipifica la intercesión perpetua de Cristo en He 7:25: 'vive siempre para interceder por ellos', quien cumple como Sumo Sacerdote lo que Samuel realizó como profeta-intercesor.",
+            "en": "Samuel declares in 1Sam 12:23: 'Far be it from me that I should sin against the LORD by ceasing to pray for you,' establishing permanent prophetic intercession as his ministry before YHWH on Israel's behalf; this pattern typifies Christ's perpetual intercession in Heb 7:25: 'he always lives to make intercession for them,' who fulfills as High Priest what Samuel performed as prophet-intercessor.",
+            "pt": "Samuel declara em 1Sm 12:23: 'Longe de mim pecar contra o SENHOR, cessando de orar por vós', estabelecendo a intercessão profética permanente como seu ministério diante de YHWH em favor de Israel; esse padrão tipifica a intercessão perpétua de Cristo em Hb 7:25: 'vive sempre para interceder por eles', que cumpre como Sumo Sacerdote o que Samuel realizou como profeta-intercessor."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reino de Dios": {
+            "es": "El rechazo teológico que subyace al pedido de un rey humano (1S 8:7: 'no te han rechazado a ti, sino a mí para que no reine sobre ellos') revela que el verdadero conflicto del libro es entre el reinado de YHWH y la soberanía humana sustitutiva; la monarquía humana es permitida por Dios pero está subordinada al reinado divino cuyo cumplimiento definitivo es el Mesías.",
+            "en": "The theological rejection underlying the demand for a human king (1Sam 8:7: 'they have not rejected you, but they have rejected me from being king over them') reveals that the book's true conflict is between YHWH's reign and substitute human sovereignty; the human monarchy is permitted by God but is subordinate to the divine reign whose definitive fulfillment is the Messiah.",
+            "pt": "A rejeição teológica subjacente ao pedido de um rei humano (1Sm 8:7: 'não te rejeitaram a ti, mas a mim, para que eu não reine sobre eles') revela que o verdadeiro conflito do livro é entre o reinado de YHWH e a soberania humana substitutiva; a monarquia humana é permitida por Deus, mas está subordinada ao reinado divino cujo cumprimento definitivo é o Messias."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "El deseo de ser 'como todas las naciones' (1S 8:5,20) es una forma de apostasía: Israel quiere asimilarse a los patrones de poder pagano en lugar de depender de la teocracia distintiva de YHWH, repitiendo el patrón del Edén (querer ser como otros) y de la torre de Babel (querer estabilidad por la propia construcción institucional).",
+              "en": "The desire to be 'like all the nations' (1Sam 8:5,20) is a form of apostasy: Israel wants to assimilate to pagan power patterns rather than depend on YHWH's distinctive theocracy, repeating the Eden pattern (wanting to be like others) and Babel pattern (wanting stability through their own institutional construction).",
+              "pt": "O desejo de ser 'como todas as nações' (1Sm 8:5,20) é uma forma de apostasia: Israel quer assimilar-se aos padrões de poder pagãos em vez de depender da teocracia distintiva de YHWH, repetindo o padrão do Éden (querer ser como outros) e de Babel (querer estabilidade pela própria construção institucional)."
+            }
+          },
+          {
+            "Pacto": {
+              "es": "El discurso de despedida de Samuel (1S 12) es una renovación de pacto con admonición solemne: la monarquía es condicional —si el pueblo y el rey obedecen la voz del SEÑOR habrá bendición, de lo contrario juicio (1S 12:14–15)— estableciendo que la monarquía israelita está subordinada al marco pactual del Sinaí, no sobre él.",
+              "en": "Samuel's farewell address (1Sam 12) is a covenant renewal with solemn admonition: the monarchy is conditional — if people and king obey YHWH's voice there will be blessing, otherwise judgment (1Sam 12:14–15) — establishing that Israel's monarchy is subordinate to the Sinai covenant framework, not above it.",
+              "pt": "O discurso de despedida de Samuel (1Sm 12) é uma renovação de aliança com admonição solene: a monarquia é condicional — se o povo e o rei obedecerem a voz do SENHOR haverá bênção, caso contrário julgamento (1Sm 12:14–15) — estabelecendo que a monarquia israelita está subordinada ao quadro pactual do Sinai, não acima dele."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 13,
@@ -2322,7 +2475,61 @@
         "pt": "A sentença de Samuel a Saul — 'Porque rejeitaste a palavra do SENHOR, Ele também te rejeitou para que não sejas rei' (1Sm 15:23) — é o ponto de inflexão teológico do livro: o primeiro rei é desqualificado e a busca pelo verdadeiro ungido do SENHOR se torna urgente."
       },
       "versiculoClave": "1S 15:22",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Os 6:6",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La sentencia de Samuel —'¿Se complace el SEÑOR tanto en los holocaustos y sacrificios como en la obediencia a la voz del SEÑOR? He aquí, el obedecer es mejor que el sacrificio' (1S 15:22)— enuncia el principio que Os 6:6 condensa: 'misericordia quiero y no sacrificio', texto que Jesús citará dos veces (Mt 9:13; Mt 12:7) para señalar que el corazón obediente siempre supera la performance ritual.",
+            "en": "Samuel's verdict — 'Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice' (1Sam 15:22) — states the principle that Hos 6:6 condenses: 'I desire steadfast love and not sacrifice,' a text Jesus will cite twice (Matt 9:13; Matt 12:7) to indicate that the obedient heart always surpasses ritual performance.",
+            "pt": "A sentença de Samuel — 'Porventura o SENHOR tem tanto prazer em holocaustos e sacrifícios como em obedecer à voz do SENHOR? Eis que obedecer é melhor do que o sacrifício' (1Sm 15:22) — enuncia o princípio que Os 6:6 condensa: 'porque misericórdia quero, e não sacrifícios', texto que Jesus citará duas vezes (Mt 9:13; Mt 12:7) para indicar que o coração obediente sempre supera a performance ritual."
+          }
+        },
+        {
+          "ref": "Ro 8:6–8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El patrón de Saúl —obedece en parte, desacata en parte, luego justifica sus elecciones (1S 13:11–12; 1S 15:15,20–21)— ilustra la dinámica que Pablo describe en Ro 8:6–8: 'la mente carnal es enemistad contra Dios, pues no se sujeta a la ley de Dios, ni tampoco puede', pues la obediencia de Saúl es siempre condicional a sus propios cálculos de conveniencia.",
+            "en": "Saul's pattern — obeying in part, disobeying in part, then justifying his choices (1Sam 13:11–12; 1Sam 15:15,20–21) — illustrates the dynamic Paul describes in Rom 8:6–8: 'the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed it cannot,' for Saul's obedience is always conditional on his own calculations of convenience.",
+            "pt": "O padrão de Saul — obedece em parte, desobedece em parte, depois justifica suas escolhas (1Sm 13:11–12; 1Sm 15:15,20–21) — ilustra a dinâmica que Paulo descreve em Rm 8:6–8: 'a mente carnal é inimizade contra Deus, pois não está sujeita à lei de Deus, nem pode estar', pois a obediência de Saul é sempre condicional a seus próprios cálculos de conveniência."
+          }
+        },
+        {
+          "ref": "Mt 12:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Os 6:6 —que es la versión profética de 1S 15:22— en Mt 12:7 para defender a sus discípulos ante la acusación farisaica de violar el sábado: 'si supieseis qué significa: misericordia quiero y no sacrificio, no condenaríais a los inocentes', estableciendo que el principio enunciado por Samuel ante Saúl sigue siendo el criterio hermenéutico del corazón de YHWH en el NT.",
+            "en": "Jesus cites Hos 6:6 — which is the prophetic version of 1Sam 15:22 — in Matt 12:7 to defend his disciples before the Pharisaic accusation of Sabbath violation: 'if you had known what this means, \"I desire mercy, and not sacrifice\", you would not have condemned the guiltless,' establishing that the principle Samuel stated before Saul remains the NT's hermeneutical criterion of YHWH's heart.",
+            "pt": "Jesus cita Os 6:6 — que é a versão profética de 1Sm 15:22 — em Mt 12:7 para defender seus discípulos diante da acusação farisaica de violar o sábado: 'e se soubésseis o que significa: misericórdia quero, e não sacrifício, não condenarias os inocentes', estabelecendo que o princípio enunciado por Samuel diante de Saul continua sendo o critério hermenêutico do coração de YHWH no NT."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "La desobediencia de Saúl traza la anatomía del pecado en el líder religioso: el sacrificio usurpado en Gilgal motivado por el miedo (1S 13:11–12), la obediencia selectiva con los amalecitas racionalizada como ofrenda (1S 15:9,15), y la insistencia de haber obedecido incluso después de la condena profética (1S 15:20–21) revelan el patrón de un corazón que usa el lenguaje religioso para encubrir la voluntad propia.",
+            "en": "Saul's disobedience traces the anatomy of sin in the religious leader: the usurped sacrifice at Gilgal motivated by fear (1Sam 13:11–12), selective obedience with the Amalekites rationalized as an offering (1Sam 15:9,15), and insistence on having obeyed even after prophetic condemnation (1Sam 15:20–21) reveal the pattern of a heart that uses religious language to conceal its own will.",
+            "pt": "A desobediência de Saul traça a anatomia do pecado no líder religioso: o sacrifício usurpado em Gilgal motivado pelo medo (1Sm 13:11–12), a obediência seletiva com os amalequitas racionalizada como oferta (1Sm 15:9,15), e a insistência em ter obedecido mesmo após a condenação profética (1Sm 15:20–21) revelam o padrão de um coração que usa a linguagem religiosa para encobrir a própria vontade."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "El veredicto de 1S 15:22–23 —'obedecer es mejor que el sacrificio; porque como pecado de adivinación es la rebelión, y como ídolos e idolatría la obstinación'— establece que la Palabra de Dios no puede ser sustituida por la devoción religiosa humana: la obediencia a lo que Dios dijo es el criterio supremo, y la resistencia a ella es equivalente teológicamente a la brujería y la idolatría.",
+              "en": "The verdict of 1Sam 15:22–23 — 'to obey is better than sacrifice; for rebellion is as the sin of divination, and presumption is as iniquity and idolatry' — establishes that God's Word cannot be replaced by human religious devotion: obedience to what God said is the supreme criterion, and resistance to it is theologically equivalent to witchcraft and idolatry.",
+              "pt": "O veredicto de 1Sm 15:22–23 — 'obedecer é melhor do que o sacrifício; porque a rebeldia é como o pecado da adivinhação, e a obstinação é como a iniquidade e a idolatria' — estabelece que a Palavra de Deus não pode ser substituída pela devoção religiosa humana: a obediência ao que Deus disse é o critério supremo, e a resistência a ela é teologicamente equivalente à bruxaria e à idolatria."
+            }
+          },
+          {
+            "Profeta/Profecía": {
+              "es": "Samuel funge como el fiscal del pacto en 1S 15: pronuncia el juicio de YHWH sobre el rey incumplidor ('el SEÑOR te ha rechazado para que no seas rey', 1S 15:23), llora la sentencia (1S 15:35) y nunca la revoca, estableciendo que el profeta habla la Palabra de Dios con una autoridad que no depende de la posición del destinatario ni puede ser negociada por el afecto personal.",
+              "en": "Samuel acts as the covenant prosecutor in 1Sam 15: he pronounces YHWH's judgment on the unfaithful king ('the LORD has rejected you from being king,' 1Sam 15:23), mourns the sentence (1Sam 15:35), and never revokes it, establishing that the prophet speaks God's Word with an authority that depends neither on the recipient's position nor can be negotiated by personal affection.",
+              "pt": "Samuel atua como o fiscal da aliança em 1Sm 15: pronuncia o julgamento de YHWH sobre o rei infiel ('o SENHOR te rejeitou para que não sejas rei', 1Sm 15:23), chora a sentença (1Sm 15:35) e nunca a revoga, estabelecendo que o profeta fala a Palavra de Deus com uma autoridade que não depende da posição do destinatário nem pode ser negociada pelo afeto pessoal."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 16,
@@ -2343,7 +2550,61 @@
         "pt": "A unção de Davi por Samuel em Belém (1Sm 16:13) com o Espírito do SENHOR vindo sobre ele é o momento fundacional da história redentora neste livro: o ungido do SENHOR recebe a investidura divina que o prepara para o reinado e que tipifica a unção do Espírito sobre o Messias."
       },
       "versiculoClave": "1S 16:13",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 13:22",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pablo cita en Hch 13:22 la declaración de YHWH sobre David —'He hallado a David hijo de Isaí, varón conforme a mi corazón, que hará todo lo que yo quiero'— conectando directamente la unción de 1S 16 con el anuncio del Mesías venidero (Hch 13:23), pues David no es el cumplimiento sino el tipo del verdadero Hijo que cumplirá perfectamente el corazón de Dios.",
+            "en": "Paul cites in Acts 13:22 YHWH's declaration about David — 'I have found in David the son of Jesse a man after my heart, who will do all my will' — directly connecting the 1Sam 16 anointing with the announcement of the coming Messiah (Acts 13:23), for David is not the fulfillment but the type of the true Son who will perfectly fulfill God's heart.",
+            "pt": "Paulo cita em At 13:22 a declaração de YHWH sobre Davi — 'Achei Davi, filho de Jessé, homem segundo o meu coração, que fará toda a minha vontade' — conectando diretamente a unção de 1Sm 16 com o anúncio do Messias vindouro (At 13:23), pois Davi não é o cumprimento, mas o tipo do verdadeiro Filho que cumprirá perfeitamente o coração de Deus."
+          }
+        },
+        {
+          "ref": "Lc 18:9–14",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El principio divino de 1S 16:7 —'el hombre mira lo que está delante de sus ojos, pero el SEÑOR mira el corazón'— es el fundamento teológico de la parábola del fariseo y el publicano (Lc 18:9–14): Dios no justifica por apariencia externa de piedad religiosa sino por la postura del corazón ante él, y el que humildemente se presenta vacío es exaltado sobre el que presume de sus méritos externos.",
+            "en": "The divine principle of 1Sam 16:7 — 'man looks on the outward appearance, but the LORD looks on the heart' — is the theological foundation of the parable of the Pharisee and tax collector (Luke 18:9–14): God does not justify by external appearance of religious piety but by the heart's posture before him, and the one who humbly presents himself empty is exalted over the one who presumes on external merits.",
+            "pt": "O princípio divino de 1Sm 16:7 — 'o homem vê o que está diante dos olhos, porém o SENHOR vê o coração' — é o fundamento teológico da parábola do fariseu e do publicano (Lc 18:9–14): Deus não justifica pela aparência externa de piedade religiosa, mas pela postura do coração diante dele, e aquele que humildemente se apresenta vazio é exaltado sobre o que presume de seus méritos externos."
+          }
+        },
+        {
+          "ref": "1Co 1:27–29",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "YHWH elige al hijo menor ausente de la convocatoria (1S 16:11–13) y usa al pastor adolescente con honda y piedras para derrotar al campeón de nueve pies (1S 17:45–47): el episodio completo es la ilustración narrativa más potente del AT para 1Co 1:27–29, pues David afirma explícitamente que la batalla es del SEÑOR (1S 17:47), reconociendo que el instrumento débil fue elegido para que nadie se gloríe delante de Dios.",
+            "en": "YHWH chooses the youngest son absent from the convocation (1Sam 16:11–13) and uses the adolescent shepherd with sling and stones to defeat the nine-foot champion (1Sam 17:45–47): the entire episode is the OT's most powerful narrative illustration of 1Cor 1:27–29, for David explicitly affirms that the battle belongs to the LORD (1Sam 17:47), acknowledging that the weak instrument was chosen so that no one might boast before God.",
+            "pt": "YHWH escolhe o filho mais jovem ausente da convocação (1Sm 16:11–13) e usa o pastor adolescente com funda e pedras para derrotar o campeão de nove palmos (1Sm 17:45–47): o episódio completo é a ilustração narrativa mais poderosa do AT para 1Co 1:27–29, pois Davi afirma explicitamente que a batalha é do SENHOR (1Sm 17:47), reconhecendo que o instrumento fraco foi escolhido para que ninguém se glorie diante de Deus."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "La unción de David en Belén (1S 16:13) —con el Espíritu del SEÑOR viniendo sobre él desde ese día— es el acto constitutivo del mesianismo en los libros históricos: David recibe la investidura divina del Espíritu que lo prepara para el reinado y que tipifica la unción del Espíritu sin medida sobre Jesús el Cristo (Lc 4:18; Hch 10:38), el verdadero Ungido cuyo reinado no tendrá fin.",
+            "en": "David's anointing in Bethlehem (1Sam 16:13) — with the Spirit of the LORD coming upon him from that day — is the constitutive act of messianism in the historical books: David receives the Spirit's divine investiture that prepares him for kingship and typifies the anointing of the Spirit without measure on Jesus the Christ (Luke 4:18; Acts 10:38), the true Anointed One whose reign will have no end.",
+            "pt": "A unção de Davi em Belém (1Sm 16:13) — com o Espírito do SENHOR vindo sobre ele desde aquele dia — é o ato constitutivo do messianismo nos livros históricos: Davi recebe a investidura divina do Espírito que o prepara para o reinado e que tipifica a unção do Espírito sem medida sobre Jesus o Cristo (Lc 4:18; At 10:38), o verdadeiro Ungido cujo reinado não terá fim."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "La elección del menor ausente (1S 16:11–13) sobre los siete presentes revela el principio soberano de la elección divina: YHWH no elige según los criterios humanos de primogenitura, estatura o credenciales sociales (1S 16:7), sino según el corazón que él mismo formó para recibirle, convirtiendo a David en el caso más elocuente de la elección soberana en el AT.",
+              "en": "The choice of the absent youngest (1Sam 16:11–13) over the seven present reveals the sovereign principle of divine election: YHWH does not choose according to human criteria of birthright, stature, or social credentials (1Sam 16:7), but according to the heart that he himself formed to receive him, making David the most eloquent case of sovereign election in the OT.",
+              "pt": "A escolha do mais jovem ausente (1Sm 16:11–13) sobre os sete presentes revela o princípio soberano da eleição divina: YHWH não escolhe segundo os critérios humanos de primogenitura, estatura ou credenciais sociais (1Sm 16:7), mas segundo o coração que ele mesmo formou para recebê-lo, tornando Davi o caso mais eloquente da eleição soberana no AT."
+            }
+          },
+          {
+            "Gloria de Dios": {
+              "es": "El discurso de David ante Goliat (1S 17:45–47) es explícitamente doxológico: 'para que toda la tierra sepa que hay Dios en Israel, y para que toda esta asamblea sepa que el SEÑOR no salva con espada ni con lanza, porque la batalla pertenece al SEÑOR'; la victoria no es un logro heroico sino una manifestación de la gloria de YHWH ante las naciones.",
+              "en": "David's speech before Goliath (1Sam 17:45–47) is explicitly doxological: 'so that all the earth may know that there is a God in Israel, and that all this assembly may know that the LORD saves not with sword and spear, for the battle is the LORD's'; the victory is not a heroic achievement but a manifestation of YHWH's glory before the nations.",
+              "pt": "O discurso de Davi diante de Golias (1Sm 17:45–47) é explicitamente doxológico: 'para que toda a terra saiba que há Deus em Israel, e para que toda esta multidão saiba que o SENHOR não salva com espada nem com lança, porque do SENHOR é a batalha'; a vitória não é uma conquista heroica, mas uma manifestação da glória de YHWH diante das nações."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 18,
@@ -2364,7 +2625,52 @@
         "pt": "Jônatas faz um pacto com Davi reconhecendo que ele será rei de Israel (1Sm 20:31,42), um ato de graça que inverte a ordem dinástica natural: o herdeiro legítimo cede ao escolhido de Deus, prefigurando a ética do reino onde os últimos serão os primeiros."
       },
       "versiculoClave": "1S 18:3",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jn 15:13",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El pacto de Jonatán con David (1S 18:3–4; 1S 20:16–17) —entregando su manto, su armadura, su espada y su arco al elegido de Dios, y renunciando implícitamente a su derecho dinástico— es el más poderoso ejemplo veterotestamentario del amor que describe Jn 15:13: 'nadie tiene mayor amor que este, que uno ponga su vida por sus amigos'; Jonatán sacrifica su herencia para honrar la elección de Dios.",
+            "en": "Jonathan's covenant with David (1Sam 18:3–4; 1Sam 20:16–17) — giving his robe, armor, sword, and bow to God's chosen one, and implicitly relinquishing his dynastic right — is the most powerful OT example of the love John 15:13 describes: 'greater love has no one than this, that someone lay down his life for his friends'; Jonathan sacrifices his inheritance to honor God's election.",
+            "pt": "O pacto de Jônatas com Davi (1Sm 18:3–4; 1Sm 20:16–17) — entregando seu manto, sua armadura, sua espada e seu arco ao escolhido de Deus, e renunciando implicitamente ao seu direito dinástico — é o exemplo veterotestamentário mais poderoso do amor que Jo 15:13 descreve: 'ninguém tem maior amor do que este: de dar alguém a sua vida pelos seus amigos'; Jônatas sacrifica sua herança para honrar a escolha de Deus."
+          }
+        },
+        {
+          "ref": "Ro 8:31",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El favor de YHWH sobre David (1S 18:14: 'David se conducía prudentemente en todos sus caminos, y el SEÑOR estaba con él') que resiste todos los intentos de Saúl de destruirlo (1S 18:10–11; 1S 19:1–2,10) ilustra el principio de Ro 8:31: 'si Dios está de nuestra parte, ¿quién estará contra nosotros?', pues la elección divina produce una protección que ninguna envidia ni poder humano puede neutralizar.",
+            "en": "YHWH's favor on David (1Sam 18:14: 'David behaved wisely in all his ways, and the LORD was with him') that resists all of Saul's attempts to destroy him (1Sam 18:10–11; 1Sam 19:1–2,10) illustrates the principle of Rom 8:31: 'If God is for us, who can be against us?', for divine election produces a protection that no envy or human power can neutralize.",
+            "pt": "O favor de YHWH sobre Davi (1Sm 18:14: 'Davi se conduzia sabiamente em todos os seus caminhos, e o SENHOR estava com ele') que resiste a todas as tentativas de Saul de destruí-lo (1Sm 18:10–11; 1Sm 19:1–2,10) ilustra o princípio de Rm 8:31: 'se Deus é por nós, quem será contra nós?', pois a eleição divina produz uma proteção que nenhuma inveja nem poder humano pode neutralizar."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "El pacto de Jonatán con David (1S 18:3; 1S 20:42) es el hesed humano más conspicuo del libro: Jonatán, heredero del trono, entrega todo lo que lo define como príncipe (manto, armadura, armas) al elegido de Dios, y mantiene su lealtad pactual a David incluso frente a las iras homicidas de su padre, encarnando el amor de pacto sacrificial que distingue al pueblo del SEÑOR.",
+            "en": "Jonathan's covenant with David (1Sam 18:3; 1Sam 20:42) is the book's most conspicuous human hesed: Jonathan, heir to the throne, gives everything that defines him as prince (robe, armor, weapons) to God's chosen one, and maintains his covenant loyalty to David even in the face of his father's homicidal rage, embodying the sacrificial covenant love that distinguishes YHWH's people.",
+            "pt": "O pacto de Jônatas com Davi (1Sm 18:3; 1Sm 20:42) é o hesed humano mais conspícuo do livro: Jônatas, herdeiro do trono, entrega tudo o que o define como príncipe (manto, armadura, armas) ao escolhido de Deus, e mantém sua lealdade pactual a Davi mesmo diante da raiva homicida de seu pai, encarnando o amor de aliança sacrificial que distingue o povo do SENHOR."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "El contraste entre el Espíritu malo que atormenta a Saúl (1S 18:10; 1S 19:9) y el Espíritu del SEÑOR que prospera a David (1S 18:12,14,28–29) demuestra que la elección divina produce una inviolabilidad ante la oposición humana: todo intento de Saúl de destruir a David solo confirma la soberanía del llamado de YHWH que ningún poder humano puede revocar.",
+              "en": "The contrast between the evil spirit that torments Saul (1Sam 18:10; 1Sam 19:9) and the Spirit of the LORD that prospers David (1Sam 18:12,14,28–29) demonstrates that divine election produces an inviolability against human opposition: every attempt of Saul to destroy David only confirms the sovereignty of YHWH's call that no human power can revoke.",
+              "pt": "O contraste entre o espírito mau que atormenta Saul (1Sm 18:10; 1Sm 19:9) e o Espírito do SENHOR que prospera a Davi (1Sm 18:12,14,28–29) demonstra que a eleição divina produz uma inviolabilidade ante a oposição humana: toda tentativa de Saul de destruir Davi apenas confirma a soberania do chamado de YHWH que nenhum poder humano pode revogar."
+            }
+          },
+          {
+            "Caída/Pecado": {
+              "es": "La envidia de Saúl ante el éxito de David —'a Saúl han atribuido miles, pero a David diez miles' (1S 18:8)— desencadena una espiral de celos, miedo y paranoia (1S 18:9,12,15,29) que lo lleva a múltiples intentos de homicidio; el capítulo es un estudio detallado de cómo la envidia, si no se combate, destruye al envidioso antes que al envidiado.",
+              "en": "Saul's envy at David's success — 'Saul has struck down his thousands, and David his ten thousands' (1Sam 18:8) — unleashes a spiral of jealousy, fear, and paranoia (1Sam 18:9,12,15,29) that leads him to multiple murder attempts; the chapter is a detailed study of how envy, if uncombated, destroys the envious before it destroys the envied.",
+              "pt": "A inveja de Saul ante o sucesso de Davi — 'Saul feriu os seus milhares, e Davi os seus dez milhares' (1Sm 18:8) — desencadeia uma espiral de ciúme, medo e paranoia (1Sm 18:9,12,15,29) que o leva a múltiplas tentativas de homicídio; o capítulo é um estudo detalhado de como a inveja, se não for combatida, destrói o invejoso antes que o invejado."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 21,
@@ -2385,7 +2691,52 @@
         "pt": "Davi poupa a vida de Saul na caverna de En-Gedi (1Sm 24:4–7), recusando-se a matar o ungido do SENHOR apesar da pressão de seus homens, estabelecendo o princípio teológico de que o julgamento sobre o ungido pertence somente a Deus, não àquele que vem substituí-lo."
       },
       "versiculoClave": "1S 24:6",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 12:3–4",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita explícitamente el episodio del pan de la proposición que Ahimelec da a David en Nob (1S 21:1–6) en Mt 12:3–4 para defender a sus discípulos de la acusación de violar el sábado, argumentando que la necesidad humana genuina puede superar la ley ceremonial; Jesús entonces eleva el argumento: 'algo mayor que el templo está aquí' (Mt 12:6), presionando la tipología davídica hasta su conclusión cristológica.",
+            "en": "Jesus explicitly cites the showbread episode where Ahimelech gives David the consecrated bread at Nob (1Sam 21:1–6) in Matt 12:3–4 to defend his disciples from the Sabbath-violation accusation, arguing that genuine human need can supersede ceremonial law; Jesus then elevates the argument: 'something greater than the temple is here' (Matt 12:6), pressing the Davidic typology to its christological conclusion.",
+            "pt": "Jesus cita explicitamente o episódio do pão da presença que Aimeloque dá a Davi em Nobe (1Sm 21:1–6) em Mt 12:3–4 para defender seus discípulos da acusação de violar o sábado, argumentando que a necessidade humana genuína pode superar a lei cerimonial; Jesus então eleva o argumento: 'algo maior do que o templo está aqui' (Mt 12:6), pressionando a tipologia davídica até sua conclusão cristológica."
+          }
+        },
+        {
+          "ref": "Ro 12:19",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La negativa de David a matar a Saúl en la cueva de En-gadi (1S 24:6–7) y su declaración 'no extenderé mi mano contra el ungido del SEÑOR' (1S 24:10) es la realización narrativa del principio de Ro 12:19: 'no os venguéis vosotros mismos, amados míos, sino dejad lugar a la ira de Dios; porque escrito está: Mía es la venganza, yo pagaré, dice el SEÑOR'; David deja la vindicación a YHWH.",
+            "en": "David's refusal to kill Saul in the cave of En-gedi (1Sam 24:6–7) and his declaration 'I will not put out my hand against my lord, for he is the LORD's anointed' (1Sam 24:10) is the narrative realization of the principle of Rom 12:19: 'Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, \"Vengeance is mine, I will repay, says the Lord\"'; David leaves vindication to YHWH.",
+            "pt": "A recusa de Davi de matar Saul na caverna de En-Gedi (1Sm 24:6–7) e sua declaração 'não estenderei a minha mão contra o ungido do SENHOR' (1Sm 24:10) é a realização narrativa do princípio de Rm 12:19: 'não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus; porque está escrito: A vingança é minha; eu retribuirei, diz o Senhor'; Davi deixa a vindicação a YHWH."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "La doble reverencia de David al ungido del SEÑOR —en la cueva de En-gadi (1S 24:6,10)— establece que el oficio mesiánico es sagrado independientemente de la dignidad moral del que lo ocupa: David sufre injustamente a manos del ungido indigno sin levantarse contra él, tipificando al Cristo que en su pasión fue entregado a quienes ostentaban autoridad ilegítima sin resistirla con violencia.",
+            "en": "David's double reverence for the LORD's anointed — in the cave of En-gedi (1Sam 24:6,10) — establishes that the messianic office is sacred regardless of the moral dignity of its occupant: David suffers unjustly at the hands of the unworthy anointed without rising against him, typifying the Christ who in his passion was handed over to those wielding illegitimate authority without resisting it with violence.",
+            "pt": "A dupla reverência de Davi ao ungido do SENHOR — na caverna de En-Gedi (1Sm 24:6,10) — estabelece que o ofício messiânico é sagrado independentemente da dignidade moral de quem o ocupa: Davi sofre injustamente nas mãos do ungido indigno sem se levantar contra ele, tipificando o Cristo que em sua paixão foi entregue aos que exerciam autoridade ilegítima sem resistir com violência."
+          }
+        },
+        "secundarios": [
+          {
+            "Redención/Rescate": {
+              "es": "David, en la cueva de Adulam, congrega a cuatrocientos hombres 'en apuros, endeudados y amargados de alma' (1S 22:2) que se convierten en el núcleo de su ejército real: el futuro rey reúne primero a los marginados y quebrantados, prefigurando al Cristo que reúne a los pecadores y oprimidos como los primeros ciudadanos de su reino.",
+              "en": "David, in the cave of Adullam, gathers four hundred men 'who were in distress, or in debt, or bitter in soul' (1Sam 22:2) who become the nucleus of his royal army: the future king first gathers the marginalized and broken, prefiguring the Christ who gathers sinners and the oppressed as the first citizens of his kingdom.",
+              "pt": "Davi, na caverna de Adulão, congrega quatrocentos homens 'em apuros, endividados e amargos de alma' (1Sm 22:2) que se tornam o núcleo de seu exército real: o futuro rei reúne primeiro os marginalizados e quebrantados, prefigurando o Cristo que reúne pecadores e oprimidos como os primeiros cidadãos de seu reino."
+            }
+          },
+          {
+            "Fidelidad/Hesed": {
+              "es": "La negativa de David a matar al ungido que lo persigue injustamente no es debilidad táctica sino hesed covenantal: el respeto de David por el orden de YHWH —que él mismo lo ungirá en el tiempo correcto— supera el instinto de supervivencia y la lógica de la auto-defensa, demostrando que el hesed hacia el orden de Dios puede exigir soportar la injusticia sin represalia.",
+              "en": "David's refusal to kill the anointed who unjustly persecutes him is not tactical weakness but covenantal hesed: David's respect for YHWH's order — that he himself will enthrone him at the right time — surpasses the survival instinct and the logic of self-defense, demonstrating that hesed toward God's order may require enduring injustice without retaliation.",
+              "pt": "A recusa de Davi de matar o ungido que o persegue injustamente não é fraqueza tática, mas hesed pactual: o respeito de Davi pela ordem de YHWH — que ele mesmo o entronizará no momento certo — supera o instinto de sobrevivência e a lógica da auto-defesa, demonstrando que o hesed para com a ordem de Deus pode exigir suportar a injustiça sem retaliação."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 25,
@@ -2406,7 +2757,52 @@
         "pt": "Abigail intercepta Davi antes que ele cometa um derramamento de sangue injustificado contra Nabal (1Sm 25:23–34), sendo reconhecida por Davi como mensageira providencial de Deus que preservou sua integridade como futuro rei. A morte imediata de Nabal confirma que a vindicação pertence a Deus."
       },
       "versiculoClave": "1S 25:33",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Pr 16:9",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La intercesión providencial de Abigail —que intercepta a David en camino a cometer una masacre vengativa (1S 25:23–34)— y la muerte súbita de Nabal (1S 25:38) ilustran el principio de Pr 16:9: 'el corazón del hombre traza su camino, pero el SEÑOR dirige sus pasos'; David planeaba la venganza, pero la providencia de Dios la redirigió a través de un instrumento inesperado.",
+            "en": "The providential intercession of Abigail — who intercepts David on his way to commit a vengeful massacre (1Sam 25:23–34) — and the sudden death of Nabal (1Sam 25:38) illustrate the principle of Prov 16:9: 'The heart of man plans his way, but the LORD establishes his steps'; David planned vengeance, but God's providence redirected it through an unexpected instrument.",
+            "pt": "A intercessão providencial de Abigail — que intercepta Davi a caminho de cometer um massacre vingativo (1Sm 25:23–34) — e a morte súbita de Nabal (1Sm 25:38) ilustram o princípio de Pv 16:9: 'o coração do homem traça o seu caminho, mas o SENHOR dirige os seus passos'; Davi planejava a vingança, mas a providência de Deus a redirecionou por meio de um instrumento inesperado."
+          }
+        },
+        {
+          "ref": "Ro 12:19–21",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El doble perdón de Saúl —en En-gadi (1S 24) y en Haquila (1S 26)— y el reconocimiento de David de que la muerte de Nabal fue obra de YHWH, no de su propia espada (1S 25:39), encarnan el principio de Ro 12:19–21: no tomar venganza sino dejar lugar a la ira de Dios y vencer el mal con el bien; David practica sistemáticamente en el desierto lo que Pablo enseñará dogmáticamente siglos después.",
+            "en": "David's double pardon of Saul — at En-gedi (1Sam 24) and at Hachilah (1Sam 26) — and his recognition that Nabal's death was YHWH's work, not his own sword (1Sam 25:39), embody the principle of Rom 12:19–21: not taking vengeance but leaving room for God's wrath and overcoming evil with good; David systematically practices in the wilderness what Paul will teach dogmatically centuries later.",
+            "pt": "O duplo perdão de Saul — em En-Gedi (1Sm 24) e em Haquila (1Sm 26) — e o reconhecimento de Davi de que a morte de Nabal foi obra de YHWH, não de sua própria espada (1Sm 25:39), encarnam o princípio de Rm 12:19–21: não tomar vingança, mas deixar lugar à ira de Deus e vencer o mal com o bem; Davi pratica sistematicamente no deserto o que Paulo ensinará dogmaticamente séculos depois."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "La sección está estructurada por la prueba del hesed de David en tres momentos: la providencia que lo impide derramar sangre injusta (Abigail, 1S 25), la segunda oportunidad de matar al perseguidor que rehúsa (Saúl en Haquila, 1S 26:8–11), y la alianza ambigua con Aquis (1S 27) donde la fidelidad a Israel se mantiene en secreto; en cada caso David demuestra hesed a YHWH priorizando el orden divino sobre sus impulsos de autoprotección.",
+            "en": "The section is structured by the testing of David's hesed at three moments: the providence that prevents him from shedding unjust blood (Abigail, 1Sam 25), the second opportunity to kill the persecutor he refuses (Saul at Hachilah, 1Sam 26:8–11), and the ambiguous alliance with Achish (1Sam 27) where fidelity to Israel is maintained in secret; in each case David demonstrates hesed to YHWH by prioritizing divine order over his self-protection impulses.",
+            "pt": "A seção é estruturada pelo teste do hesed de Davi em três momentos: a providência que o impede de derramar sangue injusto (Abigail, 1Sm 25), a segunda oportunidade de matar o perseguidor que recusa (Saul em Haquila, 1Sm 26:8–11), e a aliança ambígua com Aquis (1Sm 27) onde a fidelidade a Israel se mantém em segredo; em cada caso Davi demonstra hesed a YHWH priorizando a ordem divina sobre seus impulsos de autoprotecção."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "La muerte de Samuel (1S 25:1) —el ancla profética del llamado de David— obliga al ungido a perseverar en el desierto sin la confirmación continua del profeta, y el fortalecimiento de David en el SEÑOR ante el motín de Siclag (1S 30:6) demuestra que el llamado divino sostiene al siervo cuando toda otra fuente de seguridad ha desaparecido.",
+              "en": "The death of Samuel (1Sam 25:1) — the prophetic anchor of David's calling — forces the anointed to persevere in the wilderness without the prophet's ongoing confirmation, and David's strengthening himself in the LORD at the Ziklag crisis (1Sam 30:6) demonstrates that the divine calling sustains the servant when every other source of security has disappeared.",
+              "pt": "A morte de Samuel (1Sm 25:1) — a âncora profética do chamado de Davi — obriga o ungido a perseverar no deserto sem a confirmação contínua do profeta, e o fortalecimento de Davi no SENHOR diante do motim de Ziclague (1Sm 30:6) demonstra que o chamado divino sustenta o servo quando toda outra fonte de segurança desapareceu."
+            }
+          },
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La muerte repentina de Nabal por mano directa del SEÑOR (1S 25:38: 'hirió el SEÑOR a Nabal y murió') —exactamente diez días después del rechazo arrogante de David— demuestra que la vindicación del ungido pertenece a YHWH; David reconoce que ha sido YHWH quien juzgó la causa de su humillación (1S 25:39), confirmando que la ira judicial de Dios actúa donde la mano del siervo no interviene.",
+              "en": "The sudden death of Nabal by the LORD's direct hand (1Sam 25:38: 'the LORD struck Nabal, and he died') — exactly ten days after his arrogant rejection of David — demonstrates that the vindication of the anointed belongs to YHWH; David recognizes that it was YHWH who judged the cause of his humiliation (1Sam 25:39), confirming that God's judicial wrath acts where the servant's hand does not intervene.",
+              "pt": "A morte repentina de Nabal pela mão direta do SENHOR (1Sm 25:38: 'o SENHOR feriu a Nabal e ele morreu') — exatamente dez dias após a rejeição arrogante de Davi — demonstra que a vindicação do ungido pertence a YHWH; Davi reconhece que foi YHWH quem julgou a causa de sua humilhação (1Sm 25:39), confirmando que a ira judicial de Deus age onde a mão do servo não intervém."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 28,
@@ -2427,7 +2823,61 @@
         "pt": "A morte de Saul e seus filhos no monte Gilboa (1Sm 31:1–6) fecha o ciclo do primeiro reinado fracassado e abre a porta para o reinado de Davi como o ungido do SENHOR, cuja história de preparação e sofrimento injusto é a grande tipologia do Messias sofredor de Isaías 53."
       },
       "versiculoClave": "1S 30:6",
-      "era": "Anticipación Profética"
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 8:19–20",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La consulta de Saúl a la médium de Endor (1S 28:7–19) es la infracción más grave de la ley en su reinado (Lv 19:31; Dt 18:10–11); Is 8:19–20 responde directamente a esta práctica: '¿por qué consultáis a los muertos en favor de los vivos? ¡A la ley y al testimonio!', estableciendo que el rechazo de la Palabra de Dios lleva inevitablemente a buscar guía en fuentes que Dios prohibió, y que medir la apostasía de Saúl es exactamente la función de ese texto.",
+            "en": "Saul's consultation of the medium at Endor (1Sam 28:7–19) is the gravest law violation of his reign (Lev 19:31; Deut 18:10–11); Isa 8:19–20 directly addresses this practice: 'why do you consult the dead on behalf of the living? To the teaching and to the testimony!', establishing that rejection of God's Word inevitably leads to seeking guidance from sources God prohibited, and that measuring Saul's apostasy is exactly this text's function.",
+            "pt": "A consulta de Saul à necromante de En-Dor (1Sm 28:7–19) é a infração mais grave da lei em seu reinado (Lv 19:31; Dt 18:10–11); Is 8:19–20 responde diretamente a essa prática: 'por que consultais os mortos em favor dos vivos? À lei e ao testemunho!', estabelecendo que a rejeição da Palavra de Deus leva inevitavelmente a buscar orientação em fontes que Deus proibiu, e que medir a apostasia de Saul é exatamente a função desse texto."
+          }
+        },
+        {
+          "ref": "He 11:32–34",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "David en Siclag, cuando sus hombres hablan de apedrearlo por la pérdida de sus familias en el ataque amalecita, 'se fortaleció en el SEÑOR su Dios' (1S 30:6); este acto de fortalecimiento en Dios ante la adversidad extrema es el tipo de la fe que He 11:32–34 celebra —obtener fortaleza de la debilidad, ser valerosos en la batalla— y que solo florece cuando todas las circunstancias humanas han colapsado.",
+            "en": "David at Ziklag, when his men speak of stoning him for the loss of their families in the Amalekite raid, 'strengthened himself in the LORD his God' (1Sam 30:6); this act of strengthening oneself in God amid extreme adversity is the type of faith that Heb 11:32–34 celebrates — gaining strength from weakness, being courageous in battle — and that only flourishes when all human circumstances have collapsed.",
+            "pt": "Davi em Ziclague, quando seus homens falam em apedrejá-lo pela perda de suas famílias no ataque amalequita, 'fortaleceu-se no SENHOR seu Deus' (1Sm 30:6); esse ato de fortalecimento em Deus diante de adversidade extrema é o tipo de fé que Hb 11:32–34 celebra — obter forças da fraqueza, ser corajoso na batalha — e que só floresce quando todas as circunstâncias humanas colapsaram."
+          }
+        },
+        {
+          "ref": "Gá 6:7–8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La muerte de Saúl en el monte Gilboa (1S 31:1–6) cosecha exactamente lo que sembró: rechazó la palabra de YHWH (1S 15:23), persiguió al ungido inocente, consultó a los muertos (1S 28:7–19), y murió abandonado por el Espíritu que una vez lo llenó (1S 16:14); Gá 6:7–8 enuncia el principio: 'lo que el hombre siembre, eso también segará', y el final de Saúl es su ilustración más completa.",
+            "en": "Saul's death at Mount Gilboa (1Sam 31:1–6) reaps exactly what he sowed: he rejected YHWH's word (1Sam 15:23), persecuted the innocent anointed, consulted the dead (1Sam 28:7–19), and died abandoned by the Spirit that once filled him (1Sam 16:14); Gal 6:7–8 states the principle: 'whatever one sows, that will he also reap,' and Saul's end is its most complete illustration.",
+            "pt": "A morte de Saul no monte Gilboa (1Sm 31:1–6) colhe exatamente o que semeou: rejeitou a palavra de YHWH (1Sm 15:23), perseguiu o ungido inocente, consultou os mortos (1Sm 28:7–19), e morreu abandonado pelo Espírito que outrora o encheu (1Sm 16:14); Gl 6:7–8 enuncia o princípio: 'tudo o que o homem semear, isso também ceifará', e o fim de Saul é sua ilustração mais completa."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "La muerte de Saúl en Gilboa es el cumplimiento de la sentencia de YHWH pronunciada en 1S 13 y 1S 15: el rey que rechazó la palabra de Dios es rechazado por Dios, termina consultando los muertos que él mismo prohibió (1S 28:3), y muere lanzándose sobre su propia espada (1S 31:4) —imagen del hombre destruido por sus propias elecciones— ejecutándose así la ira retributiva de YHWH sobre el liderazgo desobediente.",
+            "en": "Saul's death at Gilboa is the fulfillment of YHWH's sentence pronounced in 1Sam 13 and 1Sam 15: the king who rejected God's word is rejected by God, ends up consulting the dead he himself banned (1Sam 28:3), and dies by falling on his own sword (1Sam 31:4) — the image of a man destroyed by his own choices — thus executing YHWH's retributive wrath on disobedient leadership.",
+            "pt": "A morte de Saul no Gilboa é o cumprimento da sentença de YHWH pronunciada em 1Sm 13 e 1Sm 15: o rei que rejeitou a palavra de Deus é rejeitado por Deus, acaba consultando os mortos que ele mesmo proibiu (1Sm 28:3), e morre lançando-se sobre a própria espada (1Sm 31:4) — imagem do homem destruído por suas próprias escolhas — executando assim a ira retributiva de YHWH sobre a liderança desobediente."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "El fortalecimiento de David en el SEÑOR en Siclag (1S 30:6) —cuando sus propios hombres hablan de apedrearlo y Samuel ha muerto— demuestra que el llamado divino es el único ancla cuando todas las circunstancias de apoyo han colapsado; la perseverancia del ungido en la adversidad extrema valida la realidad de su llamado mucho más que sus éxitos anteriores.",
+              "en": "David's strengthening himself in the LORD at Ziklag (1Sam 30:6) — when his own men speak of stoning him and Samuel is dead — demonstrates that the divine calling is the only anchor when all supporting circumstances have collapsed; the anointed's perseverance in extreme adversity validates the reality of his calling far more than his previous successes.",
+              "pt": "O fortalecimento de Davi no SENHOR em Ziclague (1Sm 30:6) — quando seus próprios homens falam em apedrejá-lo e Samuel está morto — demonstra que o chamado divino é a única âncora quando todas as circunstâncias de apoio colapsaram; a perseverança do ungido na adversidade extrema valida a realidade de seu chamado muito mais do que seus sucessos anteriores."
+            }
+          },
+          {
+            "Profeta/Profecía": {
+              "es": "La aparición post-mortem de Samuel en Endor (1S 28:15–19) reitera la sentencia profética ya pronunciada en vida —'mañana tú y tus hijos estaréis conmigo' (1S 28:19)— demostrando que la Palabra profética de YHWH no puede ser revocada por la muerte del profeta ni negociada por la angustia del rey; la palabra dicha en el nombre del SEÑOR permanece en vigor hasta su total cumplimiento.",
+              "en": "The post-mortem appearance of Samuel at Endor (1Sam 28:15–19) reiterates the prophetic sentence already pronounced in life — 'tomorrow you and your sons shall be with me' (1Sam 28:19) — demonstrating that YHWH's prophetic word cannot be revoked by the prophet's death or negotiated away by the king's anguish; the word spoken in the LORD's name remains in force until its complete fulfillment.",
+              "pt": "A aparição post-mortem de Samuel em En-Dor (1Sm 28:15–19) reitera a sentença profética já pronunciada em vida — 'amanhã, tu e teus filhos estareis comigo' (1Sm 28:19) — demonstrando que a Palavra profética de YHWH não pode ser revogada pela morte do profeta nem negociada pela angústia do rei; a palavra falada em nome do SENHOR permanece em vigor até seu total cumprimento."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [

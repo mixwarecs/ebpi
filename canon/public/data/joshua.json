@@ -442,7 +442,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jos 1:2",
@@ -566,7 +566,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jos 14:7",
@@ -671,7 +671,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jos 2:9",
@@ -773,7 +773,7 @@
         "fuenteTexto": {
           "es": "NBLA",
           "en": "ESV",
-          "pt": "NAA"
+          "pt": "ARC"
         },
         "versiculosClave": [
           "Jos 7:1",
@@ -1129,7 +1129,61 @@
         "en": "God commands Joshua: 'Be strong and courageous. Do not be frightened, and do not be dismayed' (Josh 1:9), anchoring the conquest in divine presence",
         "pt": "Deus comanda Josué: 'Sê forte e corajoso! Não te apavores nem te atemorizes' (Js 1:9), ancorando a conquista na presença divina"
       },
-      "versiculoClave": "Jos 1:8"
+      "versiculoClave": "Jos 1:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 13:5",
+          "tipo": "cita",
+          "nota": {
+            "es": "La promesa de YHWH a Josué —'no te dejaré ni te abandonaré' (Jos 1:5)— es citada directamente en He 13:5 como el fundamento del contentamiento cristiano, aplicando la garantía dada al sucesor de Moisés a todos los creyentes del nuevo pacto.",
+            "en": "YHWH's promise to Joshua — 'I will not leave you or forsake you' (Josh 1:5) — is directly cited in Heb 13:5 as the ground of Christian contentment, applying the guarantee given to Moses's successor to all new covenant believers.",
+            "pt": "A promessa de YHWH a Josué — 'não te deixarei nem te abandonarei' (Js 1:5) — é citada diretamente em Hb 13:5 como o fundamento do contentamento cristão, aplicando a garantia dada ao sucessor de Moisés a todos os crentes do novo pacto."
+          }
+        },
+        {
+          "ref": "Sal 1:1–3",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El mandato de meditar en el libro de la ley de día y de noche (Jos 1:8) es la realización narrativa exacta del ideal del Sal 1:2–3, convirtiendo la comisión de Josué en el prototipo del hombre bienaventurado cuya delicia está en la ley del SEÑOR.",
+            "en": "The command to meditate on the book of the law day and night (Josh 1:8) is the precise narrative realization of the ideal of Ps 1:2–3, making Joshua's commission the prototype of the blessed man whose delight is in the law of the LORD.",
+            "pt": "O mandamento de meditar no livro da lei de dia e de noite (Js 1:8) é a realização narrativa exata do ideal do Sl 1:2–3, tornando a comissão de Josué o protótipo do homem bem-aventurado cuja delícia está na lei do SENHOR."
+          }
+        },
+        {
+          "ref": "2Ti 1:7",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La triple exhortación divina a Josué a 'ser fuerte y valiente' (Jos 1:6,7,9) —fundamentada en la presencia de Dios, no en la capacidad humana— es el trasfondo veterotestamentario de la declaración de Pablo: 'Dios no nos ha dado espíritu de cobardía, sino de poder' (2Ti 1:7).",
+            "en": "The triple divine exhortation to Joshua to 'be strong and courageous' (Josh 1:6,7,9) — grounded in God's presence, not human ability — is the OT background of Paul's declaration: 'God gave us a spirit not of fear but of power' (2Tim 1:7).",
+            "pt": "A tripla exortação divina a Josué para 'ser forte e corajoso' (Js 1:6,7,9) — fundamentada na presença de Deus, não na capacidade humana — é o pano de fundo veterotestamentário da declaração de Paulo: 'Deus não nos deu espírito de covardia, mas de poder' (2Tm 1:7)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "YHWH elige soberanamente a Josué como sucesor de Moisés (Jos 1:1–2), lo comisiona con autoridad divina, le repite tres veces la orden de ser fuerte y valiente (Jos 1:6,7,9) y garantiza su presencia, estableciendo que el liderazgo del pacto descansa en el llamado divino, no en el mérito humano.",
+            "en": "YHWH sovereignly appoints Joshua as Moses's successor (Josh 1:1–2), commissions him with divine authority, repeats three times the order to be strong and courageous (Josh 1:6,7,9), and guarantees his presence, establishing that covenant leadership rests on divine calling, not human merit.",
+            "pt": "YHWH escolhe soberanamente Josué como sucessor de Moisés (Js 1:1–2), o comissiona com autoridade divina, repete três vezes a ordem de ser forte e corajoso (Js 1:6,7,9) e garante sua presença, estabelecendo que a liderança da aliança repousa no chamado divino, não no mérito humano."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "La meditación continua en el libro de la ley (Jos 1:8) se establece como la condición central del liderazgo exitoso: no la habilidad táctica ni la fuerza física, sino la obediencia a la Palabra de Dios garantizará el 'buen éxito' (Jos 1:8) de Josué en la conquista.",
+              "en": "Continuous meditation on the book of the law (Josh 1:8) is established as the central condition of successful leadership: not tactical skill or physical strength, but obedience to God's Word will guarantee Joshua's 'good success' (Josh 1:8) in the conquest.",
+              "pt": "A meditação contínua no livro da lei (Js 1:8) é estabelecida como a condição central da liderança bem-sucedida: não a habilidade tática nem a força física, mas a obediência à Palavra de Deus garantirá o 'bom êxito' (Js 1:8) de Josué na conquista."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La comisión de Josué (Jos 1:1–9) marca el inicio del cumplimiento de la promesa de la tierra hecha a los patriarcas: el mismo YHWH que juró a Abraham, Isaac y Jacob entrega ahora la señal del cumplimiento al sucesor de Moisés, mostrando la continuidad del propósito redentor.",
+              "en": "Joshua's commission (Josh 1:1–9) marks the beginning of the fulfillment of the land promise made to the patriarchs: the same YHWH who swore to Abraham, Isaac, and Jacob now gives the signal of fulfillment to Moses's successor, showing the continuity of the redemptive purpose.",
+              "pt": "A comissão de Josué (Js 1:1–9) marca o início do cumprimento da promessa da terra feita aos patriarcas: o mesmo YHWH que jurou a Abraão, Isaque e Jacó agora dá o sinal do cumprimento ao sucessor de Moisés, mostrando a continuidade do propósito redentor."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 2,
@@ -1150,7 +1204,61 @@
         "en": "Rahab confesses: 'the LORD your God, he is God in the heavens above and on the earth beneath' (Josh 2:11)",
         "pt": "Raabe confessa: 'o SENHOR, vosso Deus, é Deus em cima nos céus e embaixo na terra' (Js 2:11)"
       },
-      "versiculoClave": "Jos 2:11"
+      "versiculoClave": "Jos 2:11",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 11:31",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El autor de Hebreos incluye a Rahab en el canon de la fe: 'Por la fe Rahab la prostituta no pereció junto con los desobedientes, habiendo recibido a los espías en paz' (He 11:31), certificando que la fe de su confesión en Jos 2:9–11 es la fe salvadora que el NT celebra.",
+            "en": "The author of Hebrews includes Rahab in the canon of faith: 'By faith Rahab the prostitute did not perish with those who were disobedient, because she had given a friendly welcome to the spies' (Heb 11:31), certifying that the faith of her confession in Josh 2:9–11 is the saving faith that the NT celebrates.",
+            "pt": "O autor de Hebreus inclui Raabe no cânon da fé: 'Pela fé Raabe, a prostituta, não pereceu com os que foram desobedientes, porque recebeu os espias com paz' (Hb 11:31), certificando que a fé de sua confissão em Js 2:9–11 é a fé salvadora que o NT celebra."
+          }
+        },
+        {
+          "ref": "Stg 2:25",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Santiago cita a Rahab como su segundo ejemplo paradigmático de que 'la fe sin obras es muerta' (Stg 2:25): su fe (confesión en Jos 2:11) se probó por sus obras (esconder los espías y colgar el cordón escarlata), estableciendo la unidad inseparable de fe y acción.",
+            "en": "James cites Rahab as his second paradigmatic example that 'faith apart from works is dead' (Jas 2:25): her faith (confession in Josh 2:11) was proven by her works (hiding the spies and hanging the scarlet cord), establishing the inseparable unity of faith and action.",
+            "pt": "Tiago cita Raabe como seu segundo exemplo paradigmático de que 'a fé sem obras é morta' (Tg 2:25): sua fé (confissão em Js 2:11) foi provada por suas obras (esconder os espias e pendurar o cordão escarlate), estabelecendo a unidade inseparável de fé e ação."
+          }
+        },
+        {
+          "ref": "Mt 1:5",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Rahab aparece en la genealogía de Jesús como madre de Boaz (Mt 1:5), mostrando que la prostituta cananea que creyó en YHWH (Jos 2:11) fue incorporada en la línea mesiánica, demostrando que la gracia electiva de Dios incluye a los gentiles que se acogen a su nombre.",
+            "en": "Rahab appears in Jesus's genealogy as the mother of Boaz (Matt 1:5), showing that the Canaanite prostitute who believed in YHWH (Josh 2:11) was incorporated into the messianic line, demonstrating that God's elective grace includes Gentiles who take refuge under his name.",
+            "pt": "Raabe aparece na genealogia de Jesus como mãe de Boaz (Mt 1:5), mostrando que a prostituta cananéia que creu em YHWH (Js 2:11) foi incorporada à linhagem messiânica, demonstrando que a graça eletiva de Deus inclui os gentios que se refugiam sob seu nome."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Justificación": {
+            "es": "Rahab es el primer caso explícito de justificación por fe en Josué: su confesión —'el SEÑOR vuestro Dios es Dios arriba en los cielos y abajo en la tierra' (Jos 2:11)— anticipa la fórmula de fe salvadora que el NT celebra en He 11:31 y Stg 2:25, salvada no por méritos sino por creer en el Dios de Israel.",
+            "en": "Rahab is the first explicit case of justification by faith in Joshua: her confession — 'the LORD your God, he is God in the heavens above and on the earth beneath' (Josh 2:11) — anticipates the saving-faith formula that the NT celebrates in Heb 11:31 and Jas 2:25, saved not by merit but by believing in the God of Israel.",
+            "pt": "Raabe é o primeiro caso explícito de justificação pela fé em Josué: sua confissão — 'o SENHOR vosso Deus é Deus em cima nos céus e embaixo na terra' (Js 2:11) — antecipa a fórmula de fé salvadora que o NT celebra em Hb 11:31 e Tg 2:25, salva não por méritos, mas por crer no Deus de Israel."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "Rahab, una prostituta cananea y representante de los pueblos destinados al juicio, es rescatada, incorporada al pueblo de Israel (Jos 6:25) y eventualmente a la línea mesiánica (Mt 1:5), prefigurando la inclusión de los gentiles en el pueblo de Dios mediante la fe en Cristo.",
+              "en": "Rahab, a Canaanite prostitute and representative of the peoples destined for judgment, is rescued, incorporated into the people of Israel (Josh 6:25), and eventually into the messianic line (Matt 1:5), prefiguring the inclusion of Gentiles in God's people through faith in Christ.",
+              "pt": "Raabe, uma prostituta cananéia e representante dos povos destinados ao julgamento, é resgatada, incorporada ao povo de Israel (Js 6:25) e eventualmente à linhagem messiânica (Mt 1:5), prefigurando a inclusão dos gentios no povo de Deus mediante a fé em Cristo."
+            }
+          },
+          {
+            "Redención/Rescate": {
+              "es": "El cordón escarlata (Jos 2:18–21) que salva a toda la casa de Rahab de la destrucción de Jericó sigue el patrón tipológico de la sangre en los postes del Éxodo: una señal visible provista por los enviados de Dios que separa al rescatado del juicio que cae sobre los demás.",
+              "en": "The scarlet cord (Josh 2:18–21) that saves all of Rahab's household from Jericho's destruction follows the typological pattern of the Exodus blood on the doorposts: a visible sign provided by God's sent ones that separates the rescued from the judgment falling on all others.",
+              "pt": "O cordão escarlate (Js 2:18–21) que salva toda a casa de Raabe da destruição de Jericó segue o padrão tipológico do sangue nos umbrais do Êxodo: um sinal visível provido pelos enviados de Deus que separa o resgatado do julgamento que cai sobre os demais."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 3,
@@ -1171,7 +1279,52 @@
         "en": "The waters of the Jordan stop at Adam when the priests step into the flooded water, and Israel crosses on dry ground (Josh 3:16–17)",
         "pt": "As águas do Jordão param em Adã quando os sacerdotes pisam na água cheia, e Israel cruza em seco (Js 3:16–17)"
       },
-      "versiculoClave": "Jos 3:17"
+      "versiculoClave": "Jos 3:17",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ex 14:21–22",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jos 4:23 traza explícitamente el paralelo: 'YHWH vuestro Dios hizo con el Jordán lo que había hecho con el Mar Rojo hasta que pasamos', estableciendo el cruce del Jordán como una tipología del Éxodo y a Josué como un nuevo Moisés que conduce al pueblo a través de las aguas divididas.",
+            "en": "Josh 4:23 explicitly draws the parallel: 'the LORD your God dried up the waters of the Jordan for you until you passed over, as the LORD your God did to the Red Sea,' establishing the Jordan crossing as an Exodus typology and Joshua as a new Moses who leads the people through divided waters.",
+            "pt": "Js 4:23 traça explicitamente o paralelo: 'o SENHOR vosso Deus fez ao Jordão o que havia feito ao Mar Vermelho até passarmos', estabelecendo a travessia do Jordão como uma tipologia do Êxodo e Josué como um novo Moisés que conduz o povo através das águas divididas."
+          }
+        },
+        {
+          "ref": "Ro 6:3–4",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La travesía del Jordán —pasar a través de las aguas hacia la tierra de la promesa y el reposo— tipifica el bautismo cristológico descrito en Ro 6:3–4: morir con Cristo (sumergirse) y resucitar con él para andar en novedad de vida, entrando en la herencia prometida.",
+            "en": "The Jordan crossing — passing through the waters into the land of promise and rest — typifies the christological baptism described in Rom 6:3–4: dying with Christ (submerging) and being raised with him to walk in newness of life, entering the promised inheritance.",
+            "pt": "A travessia do Jordão — passar pelas águas em direção à terra da promessa e do descanso — tipifica o batismo cristológico descrito em Rm 6:3–4: morrer com Cristo (submergir) e ressuscitar com ele para andar em novidade de vida, entrando na herança prometida."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Éxodo/Liberación": {
+            "es": "El cruce del Jordán es conscientemente modelado como un nuevo Éxodo: Jos 4:23 cita el Mar Rojo como el precedente divino, el arca reemplaza a la columna de nube/fuego, y las doce piedras (Jos 4:9,20) replican los memoriales del Éxodo, estableciendo la conquista como la consumación de la liberación comenzada en Egipto.",
+            "en": "The Jordan crossing is consciously modeled as a new Exodus: Josh 4:23 cites the Red Sea as the divine precedent, the ark replaces the pillar of cloud/fire, and the twelve stones (Josh 4:9,20) replicate the Exodus memorials, establishing the conquest as the consummation of the liberation begun in Egypt.",
+            "pt": "A travessia do Jordão é conscientemente modelada como um novo Êxodo: Js 4:23 cita o Mar Vermelho como o precedente divino, a arca substitui a coluna de nuvem/fogo, e as doze pedras (Js 4:9,20) replicam os memoriais do Êxodo, estabelecendo a conquista como a consumação da libertação iniciada no Egito."
+          }
+        },
+        "secundarios": [
+          {
+            "Presencia de Dios": {
+              "es": "El arca del pacto ocupa el lugar central en la travesía: los sacerdotes se quedan de pie en el lecho seco del Jordán con el arca mientras todo Israel pasa (Jos 3:17), y las aguas solo se detienen cuando sus pies tocan el borde (Jos 3:15–16), demostrando que la presencia de YHWH es el único agente del milagro.",
+              "en": "The ark of the covenant occupies the central place in the crossing: the priests stand in the dry Jordan bed with the ark while all Israel passes (Josh 3:17), and the waters only stop when their feet touch the edge (Josh 3:15–16), demonstrating that YHWH's presence is the sole agent of the miracle.",
+              "pt": "A arca do pacto ocupa o lugar central na travessia: os sacerdotes ficam de pé no leito seco do Jordão com a arca enquanto todo Israel passa (Js 3:17), e as águas só param quando seus pés tocam a margem (Js 3:15–16), demonstrando que a presença de YHWH é o único agente do milagre."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Las doce piedras de Gilgal (Jos 4:20–24) son instaladas como memorial perpetuo del cumplimiento: YHWH cumplió su promesa de introducir a Israel en Canaán a pesar de la generación que pereció en el desierto, certificando que ningún fracaso humano puede frustrar la fidelidad del pacto divino.",
+              "en": "The twelve stones at Gilgal (Josh 4:20–24) are set up as a perpetual memorial of fulfillment: YHWH fulfilled his promise to bring Israel into Canaan despite the generation that perished in the wilderness, certifying that no human failure can frustrate divine covenant faithfulness.",
+              "pt": "As doze pedras em Gilgal (Js 4:20–24) são instaladas como memorial perpétuo do cumprimento: YHWH cumpriu sua promessa de introduzir Israel em Canaã apesar da geração que pereceu no deserto, certificando que nenhuma falha humana pode frustrar a fidelidade do pacto divino."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -1192,7 +1345,61 @@
         "en": "The commander of the LORD's army appears to Joshua and orders him to remove his sandals, consecrating the conquest as holy (Josh 5:14–15)",
         "pt": "O Príncipe do exército do SENHOR aparece a Josué e lhe ordena que tire as sandálias, consagrando a conquista como santa (Js 5:14–15)"
       },
-      "versiculoClave": "Jos 5:14"
+      "versiculoClave": "Jos 5:14",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Col 2:11–12",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La circuncisión masiva en Gilgal (Jos 5:2–8) que restaura la señal del pacto abrahámico es la tipología de la que habla Col 2:11–12: 'en él fuisteis también circuncidados… en la circuncisión de Cristo, sepultados con él en el bautismo', señalando que la operación física apunta a la circuncisión del corazón por el Espíritu.",
+            "en": "The mass circumcision at Gilgal (Josh 5:2–8) that restores the Abrahamic covenant sign is the typology Paul speaks of in Col 2:11–12: 'in him you were also circumcised… with the circumcision of Christ, having been buried with him in baptism,' pointing to the physical operation as the type of spiritual heart circumcision by the Spirit.",
+            "pt": "A circuncisão em massa em Gilgal (Js 5:2–8) que restaura o sinal da aliança abraâmica é a tipologia da qual Paulo fala em Cl 2:11–12: 'nele também fostes circuncidados… na circuncisão de Cristo, sepultados com ele no batismo', indicando que a operação física aponta para a circuncisão do coração pelo Espírito."
+          }
+        },
+        {
+          "ref": "Ex 3:5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El Príncipe del ejército del SEÑOR ordena a Josué: 'quita el calzado de tus pies, porque el lugar donde estás es santo' (Jos 5:15), exactamente las mismas palabras que el SEÑOR dijo a Moisés en la zarza ardiente (Ex 3:5), identificando la teofanía de Gilgal como una continuación de la consagración del Sinaí y a Josué como el nuevo Moisés.",
+            "en": "The Commander of the LORD's army orders Joshua: 'take off your sandals from your feet, for the place where you are standing is holy' (Josh 5:15), exactly the same words the LORD spoke to Moses at the burning bush (Exod 3:5), identifying the Gilgal theophany as a continuation of Sinai's consecration and Joshua as the new Moses.",
+            "pt": "O Príncipe do exército do SENHOR ordena a Josué: 'tira as sandálias dos teus pés, porque o lugar em que estás é santo' (Js 5:15), exatamente as mesmas palavras que o SENHOR disse a Moisés na sarça ardente (Ex 3:5), identificando a teofania de Gilgal como uma continuação da consagração do Sinai e Josué como o novo Moisés."
+          }
+        },
+        {
+          "ref": "1Co 5:7–8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La Pascua celebrada en Canaán (Jos 5:10–11) —la primera vez que Israel observa la fiesta en la tierra prometida— es el paralelo del que Pablo extrae su aplicación: 'Cristo, nuestra pascua, ya fue sacrificada' (1Co 5:7), pues cada Pascua en la tierra apuntaba al cumplimiento en el Cordero definitivo.",
+            "en": "The Passover celebrated in Canaan (Josh 5:10–11) — the first time Israel observes the feast in the promised land — is the parallel from which Paul draws his application: 'Christ, our Passover lamb, has been sacrificed' (1Cor 5:7), for each Passover in the land pointed forward to fulfillment in the definitive Lamb.",
+            "pt": "A Páscoa celebrada em Canaã (Js 5:10–11) — a primeira vez que Israel observa a festa na terra prometida — é o paralelo do qual Paulo extrai sua aplicação: 'Cristo, nossa Páscoa, foi sacrificado' (1Co 5:7), pois cada Páscoa na terra apontava para o cumprimento no Cordeiro definitivo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Gilgal es el mayor acto de renovación del pacto en Josué: la circuncisión restaura la señal del pacto abrahámico (Jos 5:2–8), la Pascua reactiva la memoria del pacto sinaítico (Jos 5:10–11), y la teofanía del Príncipe del ejército (Jos 5:13–15) consagra la empresa bajo la autoridad divina, convirtiendo Gilgal en el umbral sacro de la conquista.",
+            "en": "Gilgal is the greatest covenant renewal act in Joshua: circumcision restores the Abrahamic covenant sign (Josh 5:2–8), the Passover reactivates the Sinaiatic covenant memory (Josh 5:10–11), and the theophany of the Commander (Josh 5:13–15) consecrates the enterprise under divine authority, making Gilgal the sacred threshold of the conquest.",
+            "pt": "Gilgal é o maior ato de renovação da aliança em Josué: a circuncisão restaura o sinal da aliança abraâmica (Js 5:2–8), a Páscoa reativa a memória da aliança sinaítica (Js 5:10–11), e a teofania do Príncipe do exército (Js 5:13–15) consagra o empreendimento sob a autoridade divina, tornando Gilgal o limiar sagrado da conquista."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "La teofanía del Príncipe del ejército del SEÑOR que ordena descalzarse (Jos 5:15) proclama que la conquista de Canaán no es una campaña política sino una guerra santa bajo dirección divina directa, consagrando el suelo cananeo como tierra santa en la que el ejército de YHWH opera.",
+              "en": "The theophany of the Commander of the LORD's army commanding the removal of sandals (Josh 5:15) proclaims that the conquest of Canaan is not a political campaign but a holy war under direct divine direction, consecrating Canaanite soil as holy ground on which YHWH's army operates.",
+              "pt": "A teofania do Príncipe do exército do SENHOR que ordena tirar as sandálias (Js 5:15) proclama que a conquista de Canaã não é uma campanha política, mas uma guerra santa sob direção divina direta, consagrando o solo cananeu como terra santa na qual o exército de YHWH opera."
+            }
+          },
+          {
+            "Presencia de Dios": {
+              "es": "El cese del maná al día siguiente de la Pascua (Jos 5:12) señala una transición en la modalidad de la presencia sustentadora de YHWH: de la provisión sobrenatural del desierto al fruto natural de la tierra prometida, demostrando que la presencia de Dios sostendrá a su pueblo en cada nueva etapa de su historia.",
+              "en": "The cessation of manna the day after the Passover (Josh 5:12) signals a transition in the mode of YHWH's sustaining presence: from the supernatural provision of the wilderness to the natural fruit of the promised land, demonstrating that God's presence will sustain his people at every new stage of their history.",
+              "pt": "A cessação do maná no dia seguinte à Páscoa (Js 5:12) sinaliza uma transição no modo da presença sustentadora de YHWH: da provisão sobrenatural do deserto ao fruto natural da terra prometida, demonstrando que a presença de Deus sustentará seu povo em cada nova etapa de sua história."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 6,
@@ -1213,7 +1420,52 @@
         "en": "At the seventh shout of the people, Jericho's walls collapse and the city falls completely into Israel's hands (Josh 6:20)",
         "pt": "No sétimo grito do povo, as muralhas de Jericó desabam e a cidade cai completamente nas mãos de Israel (Js 6:20)"
       },
-      "versiculoClave": "Jos 6:20"
+      "versiculoClave": "Jos 6:20",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 11:30",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El autor de Hebreos atribuye la caída de Jericó explícitamente a la fe: 'Por la fe cayeron los muros de Jericó, después de ser rodeados durante siete días' (He 11:30), estableciendo que la victoria sobre la ciudad más fuertemente fortificada de Canaán fue un acto de fe pura, sin apoyo en táctica militar.",
+            "en": "The author of Hebrews explicitly attributes the fall of Jericho to faith: 'By faith the walls of Jericho fell down after they had been encircled for seven days' (Heb 11:30), establishing that the victory over Canaan's most strongly fortified city was an act of pure faith, without reliance on military tactics.",
+            "pt": "O autor de Hebreus atribui explicitamente a queda de Jericó à fé: 'Pela fé caíram os muros de Jericó, depois de serem cercados durante sete dias' (Hb 11:30), estabelecendo que a vitória sobre a cidade mais fortemente fortificada de Canaã foi um ato de fé pura, sem apoio em táticas militares."
+          }
+        },
+        {
+          "ref": "1Co 1:27–28",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La metodología de Jericó —sacerdotes, trompetas, gritos y siete días de marcha— ilustra perfectamente la teología de 1Co 1:27–28: 'Dios eligió lo necio del mundo para avergonzar a los sabios', pues la táctica del Señor fue deliberadamente insensata a los ojos de toda estrategia militar.",
+            "en": "Jericho's methodology — priests, trumpets, shouts, and seven days of marching — perfectly illustrates the theology of 1Cor 1:27–28: 'God chose what is foolish in the world to shame the wise,' for the Lord's tactic was deliberately senseless by any military strategy standard.",
+            "pt": "A metodologia de Jericó — sacerdotes, trombetas, gritos e sete dias de marcha — ilustra perfeitamente a teologia de 1Co 1:27–28: 'Deus escolheu as coisas loucas do mundo para envergonhar as sábias', pois a tática do Senhor era deliberadamente insensata aos olhos de qualquer estratégia militar."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "YHWH da Jericó a Israel tal como prometió (Jos 6:2: 'yo he entregado en tu mano a Jericó'), y la victoria se obtiene exactamente como él ordenó —sin táctica humana— demostrando que el hesed activo de YHWH cumple sus promesas precisamente como las anunció, haciendo de Jericó el sello de su fidelidad conquistadora.",
+            "en": "YHWH gives Jericho to Israel exactly as he promised (Josh 6:2: 'I have given Jericho into your hand'), and the victory is obtained exactly as he commanded — without human tactics — demonstrating that YHWH's active hesed fulfills his promises precisely as he announced them, making Jericho the seal of his conquering faithfulness.",
+            "pt": "YHWH dá Jericó a Israel exatamente como prometeu (Js 6:2: 'eu entreguei nas tuas mãos a Jericó'), e a vitória é obtida exatamente como ele ordenou — sem táticas humanas — demonstrando que o hesed ativo de YHWH cumpre suas promessas precisamente como as anunciou, fazendo de Jericó o selo de sua fidelidade conquistadora."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "El herem (interdicto total) que consagra a Jericó para destrucción (Jos 6:17–19) expresa la absoluta santidad de YHWH sobre los primeros frutos de la conquista: la ciudad y todo lo que en ella hay pertenece a YHWH como ofrenda de primicia, y profanarlo —como lo hará Acán— es usurpar lo sagrado.",
+              "en": "The herem (total dedication to destruction) that consecrates Jericho for destruction (Josh 6:17–19) expresses YHWH's absolute holiness over the firstfruits of the conquest: the city and everything in it belongs to YHWH as a firstfruits offering, and profaning it — as Achan will do — is to usurp the sacred.",
+              "pt": "O herem (interdito total) que consagra Jericó para a destruição (Js 6:17–19) expressa a absoluta santidade de YHWH sobre as primícias da conquista: a cidade e tudo o que nela há pertence a YHWH como oferta de primícias, e profaná-la — como Acã fará — é usurpar o sagrado."
+            }
+          },
+          {
+            "Redención/Rescate": {
+              "es": "La salvación de toda la casa de Rahab gracias al cordón escarlata en la ventana (Jos 6:22–25) sigue el patrón del Éxodo: una señal visible provista por los enviados de Dios separa al hogar redimido de la destrucción que cae sobre todos los demás, haciendo del cordón una figura de la sangre redentora.",
+              "en": "The salvation of all Rahab's household through the scarlet cord in the window (Josh 6:22–25) follows the Exodus pattern: a visible sign provided by God's sent ones separates the redeemed household from the destruction falling on all others, making the cord a figure of redemptive blood.",
+              "pt": "A salvação de toda a casa de Raabe graças ao cordão escarlate na janela (Js 6:22–25) segue o padrão do Êxodo: um sinal visível provido pelos enviados de Deus separa o lar remido da destruição que cai sobre todos os demais, tornando o cordão uma figura do sangue redentor."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 7,
@@ -1234,7 +1486,52 @@
         "en": "Achan confesses: 'Truly I have sinned against the LORD God of Israel'; his stolen goods are found buried beneath his tent (Josh 7:20–22)",
         "pt": "Acã confessa: 'De verdade, pequei contra o SENHOR, o Deus de Israel'; seus bens roubados são encontrados enterrados sob sua tenda (Js 7:20–22)"
       },
-      "versiculoClave": "Jos 7:11"
+      "versiculoClave": "Jos 7:11",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Co 5:6–7",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El principio de solidaridad pactual que hace que el pecado oculto de Acán traiga derrota sobre toda la congregación (Jos 7:1,11–12) es el mismo principio que Pablo aplica en 1Co 5:6–7: 'un poco de levadura leuda toda la masa', advirtiendo que el pecado no juzgado en la comunidad la contamina a toda.",
+            "en": "The covenant solidarity principle that makes Achan's hidden sin bring defeat on the entire congregation (Josh 7:1,11–12) is the same principle Paul applies in 1Cor 5:6–7: 'a little leaven leavens the whole lump,' warning that unjudged sin in the community contaminates the whole.",
+            "pt": "O princípio de solidariedade pactual que faz o pecado oculto de Acã trazer derrota sobre toda a congregação (Js 7:1,11–12) é o mesmo princípio que Paulo aplica em 1Co 5:6–7: 'um pouco de fermento leveda toda a massa', advertindo que o pecado não julgado na comunidade a contamina toda."
+          }
+        },
+        {
+          "ref": "Os 2:15",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El Valle de Acor —'valle del problema'— que lleva el nombre del juicio de Jos 7:26 es redimido proféticamente en Os 2:15, donde YHWH promete convertirlo en 'puerta de esperanza' en la restauración escatológica, transformando el lugar del mayor fracaso pactual de la conquista en señal de gracia futura.",
+            "en": "The Valley of Achor — 'valley of trouble' — named after the judgment of Josh 7:26 is prophetically redeemed in Hos 2:15, where YHWH promises to make it a 'door of hope' in the eschatological restoration, transforming the place of the conquest's greatest covenant failure into a sign of future grace.",
+            "pt": "O Vale de Acor — 'vale da perturbação' — que recebe o nome do julgamento de Js 7:26 é profeticamente redimido em Os 2:15, onde YHWH promete transformá-lo em 'porta de esperança' na restauração escatológica, convertendo o lugar do maior fracasso pactual da conquista em sinal de graça futura."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "El pecado de Acán (Jos 7:20–21) ilustra la naturaleza contagiosa del pecado en la comunidad del pacto: la codicia individual —ver, codiciar, tomar y esconder (Jos 7:21)— repite el patrón de la Caída (Gn 3:6) y sus consecuencias trascienden al individuo, trayendo derrota sobre toda la comunidad.",
+            "en": "Achan's sin (Josh 7:20–21) illustrates the contagious nature of sin in the covenant community: individual covetousness — seeing, coveting, taking, and hiding (Josh 7:21) — repeats the Fall pattern (Gen 3:6) and its consequences transcend the individual, bringing defeat on the entire community.",
+            "pt": "O pecado de Acã (Js 7:20–21) ilustra a natureza contagiosa do pecado na comunidade da aliança: a cobiça individual — ver, cobiçar, tomar e esconder (Js 7:21) — repete o padrão da Queda (Gn 3:6) e suas consequências transcendem o indivíduo, trazendo derrota sobre toda a comunidade."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La derrota de Israel ante Hai y la ejecución de Acán y su familia en el Valle de Acor (Jos 7:24–26) revelan que la ira de YHWH contra la violación del herem es inexorable: ningún pecado oculto escapa su juicio, y la restauración de la comunidad requiere la purga completa del mal (Jos 7:13).",
+              "en": "Israel's defeat at Ai and the execution of Achan and his family in the Valley of Achor (Josh 7:24–26) reveal that YHWH's wrath against herem violation is inexorable: no hidden sin escapes his judgment, and restoring the community requires complete purging of the evil (Josh 7:13).",
+              "pt": "A derrota de Israel em Ai e a execução de Acã e sua família no Vale de Acor (Js 7:24–26) revelam que a ira de YHWH contra a violação do herem é inexorável: nenhum pecado oculto escapa ao seu julgamento, e a restauração da comunidade requer a purga completa do mal (Js 7:13)."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "El herem violado por Acán no era una preferencia ritual sino una afirmación de la santidad absoluta de YHWH sobre las primicias de la conquista: robar lo consagrado a la destrucción es usurpar lo que pertenece exclusivamente a Dios, convirtiendo el pecado de Acán en idolatría práctica del corazón.",
+              "en": "The herem violated by Achan was not a ritual preference but an affirmation of YHWH's absolute holiness over the conquest's firstfruits: to steal what was consecrated to destruction is to usurp what belongs exclusively to God, making Achan's sin practical idolatry of the heart.",
+              "pt": "O herem violado por Acã não era uma preferência ritual, mas uma afirmação da santidade absoluta de YHWH sobre as primícias da conquista: roubar o que foi consagrado à destruição é usurpar o que pertence exclusivamente a Deus, tornando o pecado de Acã idolatria prática do coração."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 8,
@@ -1255,7 +1552,52 @@
         "en": "Joshua reads the entire law of Moses — blessings and curses — before all Israel assembled between mounts Ebal and Gerizim, fulfilling the command of Deut 27 (Josh 8:34–35)",
         "pt": "Josué lê toda a lei de Moisés — bênçãos e maldições — diante de todo Israel reunido entre os montes Ebal e Gerizim, cumprindo o mandamento de Dt 27 (Js 8:34–35)"
       },
-      "versiculoClave": "Jos 8:34"
+      "versiculoClave": "Jos 8:34",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 27:4–8",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El altar en el monte Ebal, la inscripción de la ley sobre piedras y la lectura pública de todas las bendiciones y maldiciones (Jos 8:30–35) cumplen exactamente el mandato de Dt 27:4–8, colocando la renovación pactual en el corazón geográfico de Canaán y convirtiendo la conquista en una empresa teológica, no meramente militar.",
+            "en": "The altar on Mount Ebal, the inscription of the law on stones, and the public reading of all the blessings and curses (Josh 8:30–35) exactly fulfill the command of Deut 27:4–8, placing covenant renewal at the geographic heart of Canaan and converting the conquest into a theological, not merely military, enterprise.",
+            "pt": "O altar no monte Ebal, a inscrição da lei sobre pedras e a leitura pública de todas as bênçãos e maldições (Js 8:30–35) cumprem exatamente o mandamento de Dt 27:4–8, colocando a renovação pactual no coração geográfico de Canaã e convertendo a conquista em uma empresa teológica, não meramente militar."
+          }
+        },
+        {
+          "ref": "Ne 8:1–8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La lectura pública de toda la ley ante todo Israel reunido en Siquem (Jos 8:34–35) establece el patrón que Esdras y Nehemías replican en la restauración: la proclamación solemne de la Escritura ante la asamblea del pueblo como el acto fundacional de renovación de la comunidad del pacto.",
+            "en": "The public reading of the entire law before all Israel assembled at Shechem (Josh 8:34–35) establishes the pattern that Ezra and Nehemiah replicate at the restoration: the solemn proclamation of Scripture before the people's assembly as the founding act of covenant community renewal.",
+            "pt": "A leitura pública de toda a lei diante de todo Israel reunido em Siquém (Js 8:34–35) estabelece o padrão que Esdras e Neemias replicam na restauração: a proclamação solene da Escritura diante da assembleia do povo como o ato fundacional de renovação da comunidade da aliança."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La ceremonia de Ebal/Gerizim (Jos 8:30–35) es la afirmación más explícita del libro de que la conquista es una empresa pactual: Josué cumple el mandato de Dt 27, construye el altar, escribe la ley y lee las bendiciones y maldiciones ante toda la asamblea, declarando que la tierra se recibe en el marco del pacto de Moisés.",
+            "en": "The Ebal/Gerizim ceremony (Josh 8:30–35) is the book's most explicit affirmation that the conquest is a covenant enterprise: Joshua fulfills the Deut 27 command, builds the altar, writes the law, and reads the blessings and curses before the entire assembly, declaring that the land is received within the Mosaic covenant framework.",
+            "pt": "A cerimônia de Ebal/Gerizim (Js 8:30–35) é a afirmação mais explícita do livro de que a conquista é uma empresa pactual: Josué cumpre o mandamento de Dt 27, constrói o altar, escreve a lei e lê as bênçãos e maldições diante de toda a assembleia, declarando que a terra é recebida no âmbito da aliança mosaica."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "La lectura pública de 'toda la ley, las bendiciones y las maldiciones, conforme a todo lo que está escrito en el libro de la ley' (Jos 8:34) ante toda la congregación —mujeres, niños y extranjeros— establece la proclamación pública de la Escritura como el mecanismo de formación y renovación del pueblo del pacto.",
+              "en": "The public reading of 'all the words of the law, the blessing and the curse, according to all that is written in the Book of the Law' (Josh 8:34) before the entire congregation — women, children, and sojourners — establishes the public proclamation of Scripture as the mechanism of formation and renewal of the covenant people.",
+              "pt": "A leitura pública de 'todas as palavras da lei, as bênçãos e as maldições, conforme tudo o que está escrito no livro da lei' (Js 8:34) diante de toda a congregação — mulheres, crianças e estrangeiros — estabelece a proclamação pública da Escritura como o mecanismo de formação e renovação do povo da aliança."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La victoria renovada sobre Hai (Jos 8:1–29), que llega después de la purga de Acán, demuestra que el fracaso anterior no fue permanente: YHWH restaura la victoria cuando la santidad pactual es restablecida, confirmando que sus promesas de éxito se cumplen precisamente por los caminos que él mismo prescribe.",
+              "en": "The renewed victory over Ai (Josh 8:1–29), coming after the purging of Achan, demonstrates that the previous failure was not permanent: YHWH restores victory when covenant holiness is reestablished, confirming that his promises of success are fulfilled precisely by the paths he himself prescribes.",
+              "pt": "A vitória renovada sobre Ai (Js 8:1–29), que chega após a purga de Acã, demonstra que o fracasso anterior não foi permanente: YHWH restaura a vitória quando a santidade pactual é restabelecida, confirmando que suas promessas de sucesso se cumprem precisamente pelos caminhos que ele mesmo prescreve."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 9,
@@ -1276,7 +1618,52 @@
         "en": "Israel makes a peace treaty with the Gibeonites without consulting God, failing to seek divine guidance (Josh 9:14)",
         "pt": "Israel faz um tratado de paz com os gibeonitas sem consultar a Deus, falhando em buscar a orientação divina (Js 9:14)"
       },
-      "versiculoClave": "Jos 9:14"
+      "versiculoClave": "Jos 9:14",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2S 21:1–14",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El juramento de paz con los gabaonitas (Jos 9:15–20) tiene consecuencias multigeneracionales: cuando Saúl viola ese pacto en 2S 21:1–14, YHWH envía una hambruna de tres años sobre Israel en tiempos de David, demostrando que los juramentos hechos en nombre del SEÑOR son vinculantes a través de generaciones.",
+            "en": "The peace oath with the Gibeonites (Josh 9:15–20) has multigenerational consequences: when Saul violates that covenant in 2Sam 21:1–14, YHWH sends a three-year famine on Israel in David's time, demonstrating that oaths made in the LORD's name are binding across generations.",
+            "pt": "O juramento de paz com os gibeonitas (Js 9:15–20) tem consequências multigeracionais: quando Saul viola esse pacto em 2Sm 21:1–14, YHWH envia uma seca de três anos sobre Israel nos tempos de Davi, demonstrando que os juramentos feitos em nome do SENHOR são vinculantes através das gerações."
+          }
+        },
+        {
+          "ref": "Nm 30:2",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El principio que hace irrevocable el tratado con los gabaonitas a pesar del engaño (Jos 9:19–20) se fundamenta en la ley de los votos de Nm 30:2: 'Cuando un hombre haga un voto al SEÑOR… no violará su palabra', estableciendo que la santidad del nombre divino invocado en el juramento supera el medio fraudulento por el que fue obtenido.",
+            "en": "The principle that makes the Gibeonite treaty irrevocable despite the deception (Josh 9:19–20) is grounded in the vow law of Num 30:2: 'When a man vows a vow to the LORD… he shall not break his word,' establishing that the holiness of the divine name invoked in the oath supersedes the fraudulent means by which it was obtained.",
+            "pt": "O princípio que torna o tratado com os gibeonitas irrevogável apesar do engano (Js 9:19–20) se fundamenta na lei dos votos de Nm 30:2: 'Quando um homem fizer um voto ao SENHOR… não quebrará a sua palavra', estabelecendo que a santidade do nome divino invocado no juramento supera o meio fraudulento pelo qual foi obtido."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "El tratado con los gabaonitas (Jos 9) revela la absoluta inviolabilidad del juramento hecho en nombre de YHWH: aunque el pacto fue obtenido por engaño, Josué lo cumple (Jos 9:19–20) porque la invocación del nombre divino crea una obligación que supera cualquier circunstancia humana, enseñando la seriedad solemne de todo compromiso pactual.",
+            "en": "The treaty with the Gibeonites (Josh 9) reveals the absolute inviolability of an oath made in YHWH's name: although the covenant was obtained by deception, Joshua keeps it (Josh 9:19–20) because the invocation of the divine name creates an obligation that supersedes any human circumstance, teaching the solemn gravity of every covenant commitment.",
+            "pt": "O tratado com os gibeonitas (Js 9) revela a absoluta inviolabilidade do juramento feito em nome de YHWH: embora o pacto tenha sido obtido por engano, Josué o cumpre (Js 9:19–20) porque a invocação do nome divino cria uma obrigação que supera qualquer circunstância humana, ensinando a gravidade solene de todo compromisso pactual."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "Los gabaonitas —cananeos que engañan a Israel pero que profesan haber oído de las obras de YHWH (Jos 9:9–10)— son incorporados como sirvientes del santuario (Jos 9:23,27), prefigurando la incorporación de pueblos foráneos al culto de YHWH y la eventual inclusión de los gentiles en la comunidad del nuevo pacto.",
+              "en": "The Gibeonites — Canaanites who deceive Israel but who profess to have heard of YHWH's deeds (Josh 9:9–10) — are incorporated as servants of the sanctuary (Josh 9:23,27), prefiguring the incorporation of foreign peoples into YHWH's worship and the eventual inclusion of Gentiles in the new covenant community.",
+              "pt": "Os gibeonitas — cananeus que enganam Israel, mas que professam ter ouvido das obras de YHWH (Js 9:9–10) — são incorporados como serventes do santuário (Js 9:23,27), prefigurando a incorporação de povos estrangeiros no culto de YHWH e a eventual inclusão dos gentios na comunidade do novo pacto."
+            }
+          },
+          {
+            "Sabiduría": {
+              "es": "La falla crítica de Israel —'no consultaron al SEÑOR' (Jos 9:14)— convierte este episodio en una enseñanza sobre la sabiduría: la prudencia humana puede ser engañada por apariencias externas, pero la dirección divina hubiera revelado el engaño, estableciendo que toda decisión importante debe ser precedida por la búsqueda del consejo de YHWH.",
+              "en": "Israel's critical failure — 'they did not ask counsel from the LORD' (Josh 9:14) — turns this episode into a wisdom teaching: human prudence can be deceived by external appearances, but divine direction would have revealed the deception, establishing that every important decision must be preceded by seeking YHWH's counsel.",
+              "pt": "A falha crítica de Israel — 'não consultaram o SENHOR' (Js 9:14) — transforma este episódio em um ensinamento sobre a sabedoria: a prudência humana pode ser enganada por aparências externas, mas a direção divina teria revelado o engano, estabelecendo que toda decisão importante deve ser precedida pela busca do conselho de YHWH."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 10,
@@ -1297,7 +1684,52 @@
         "en": "The sun stands still over Gibeon and the moon over the Valley of Aijalon for almost a full day while the LORD fights for Israel (Josh 10:13–14)",
         "pt": "O sol para sobre Gibeão e a lua sobre o vale de Aijalom por quase um dia completo, enquanto o SENHOR pelea por Israel (Js 10:13–14)"
       },
-      "versiculoClave": "Jos 10:14"
+      "versiculoClave": "Jos 10:14",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hab 3:11",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La visión teofánica de Habacuc en Hab 3:11 —'el sol y la luna se detuvieron en su lugar a la luz de tus saetas'— evoca el milagro de Jos 10:13–14, celebrando la intervención guerrera de YHWH como paradigma escatológico: lo que YHWH hizo por Israel en Gabaón anuncia lo que hará al final de los tiempos.",
+            "en": "Habakkuk's theophanic vision in Hab 3:11 — 'the sun and moon stood still in their place at the light of your arrows' — evokes the miracle of Josh 10:13–14, celebrating YHWH's warrior intervention as an eschatological paradigm: what YHWH did for Israel at Gibeon announces what he will do at the end of the ages.",
+            "pt": "A visão teofânica de Habacuque em Hc 3:11 — 'o sol e a lua se detiveram em seu lugar à luz das tuas flechas' — evoca o milagre de Js 10:13–14, celebrando a intervenção guerreira de YHWH como paradigma escatológico: o que YHWH fez por Israel em Gibeão anuncia o que fará no fim dos tempos."
+          }
+        },
+        {
+          "ref": "Ro 8:31",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La declaración de Jos 10:14 —'no hubo día semejante a éste, ni antes ni después, en que el SEÑOR escuchara la voz de un hombre, porque el SEÑOR peleaba por Israel'— es el paradigma narrativo del que brota la certeza teológica de Ro 8:31: 'si Dios está por nosotros, ¿quién estará contra nosotros?'.",
+            "en": "The declaration of Josh 10:14 — 'there has been no day like it before or since, when the LORD heeded the voice of a man, for the LORD fought for Israel' — is the narrative paradigm from which flows the theological certainty of Rom 8:31: 'If God is for us, who can be against us?'.",
+            "pt": "A declaração de Js 10:14 — 'não houve dia semelhante a este, nem antes nem depois, em que o SENHOR ouviu a voz de um homem, porque o SENHOR pelejava por Israel' — é o paradigma narrativo do qual brota a certeza teológica de Rm 8:31: 'Se Deus é por nós, quem será contra nós?'."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "YHWH interviene directamente en la batalla del sur: lanza grandes piedras de granizo que matan más enemigos que la espada (Jos 10:11) y detiene el sol sobre Gabaón para garantizar la victoria completa (Jos 10:12–14), demostrando que su hesed activo cumple la promesa de la tierra a través de su acción directa, no de la habilidad de Israel.",
+            "en": "YHWH intervenes directly in the southern battle: he throws large hailstones that kill more enemies than the sword (Josh 10:11) and stops the sun over Gibeon to guarantee complete victory (Josh 10:12–14), demonstrating that his active hesed fulfills the land promise through his direct action, not Israel's skill.",
+            "pt": "YHWH intervém diretamente na batalha do sul: lança grandes pedras de granizo que matam mais inimigos do que a espada (Js 10:11) e detém o sol sobre Gibeão para garantir a vitória completa (Js 10:12–14), demonstrando que seu hesed ativo cumpre a promessa da terra por meio de sua ação direta, não da habilidade de Israel."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La derrota total de los cinco reyes amorreos y la conquista de toda la región del sur (Jos 10:40–42) es la realización de la promesa de Jos 1:5: 'ningún hombre podrá hacerte frente en todos los días de tu vida', transformando la geografía entera del sur cananeo en evidencia del cumplimiento de la palabra de YHWH.",
+              "en": "The total defeat of the five Amorite kings and the conquest of the entire southern region (Josh 10:40–42) is the realization of the Josh 1:5 promise: 'no man shall be able to stand before you all the days of your life,' transforming the entire southern Canaanite geography into evidence of YHWH's word-fulfillment.",
+              "pt": "A derrota total dos cinco reis amorreus e a conquista de toda a região do sul (Js 10:40–42) é a realização da promessa de Js 1:5: 'nenhum homem poderá resistir diante de ti em todos os dias da tua vida', transformando toda a geografia do sul cananeu em evidência do cumprimento da palavra de YHWH."
+            }
+          },
+          {
+            "Gloria de Dios": {
+              "es": "El prodigio sin precedente del sol detenido sobre Gabaón (Jos 10:13–14) —YHWH que escucha la voz de un hombre y comanda los cuerpos celestes— manifiesta la gloria de YHWH como Creator-Señor que domina la creación para el bien de su pueblo, desbordando toda capacidad de la fuerza militar humana.",
+              "en": "The unprecedented wonder of the sun standing still over Gibeon (Josh 10:13–14) — YHWH heeding a man's voice and commanding the celestial bodies — manifests YHWH's glory as Creator-Lord who commands creation for his people's good, overflowing every capacity of human military force.",
+              "pt": "O prodígio sem precedente do sol detido sobre Gibeão (Js 10:13–14) — YHWH ouvindo a voz de um homem e comandando os corpos celestes — manifesta a glória de YHWH como Criador-Senhor que domina a criação para o bem de seu povo, ultrapassando toda capacidade da força militar humana."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 11,
@@ -1318,7 +1750,52 @@
         "en": "Joshua defeats the great northern coalition, destroys Hazor and burns its chariots, showing that Israel must not rely on its own military strength (Josh 11:6–11)",
         "pt": "Josué derrota a grande coalizão do norte, destrói Hazor e queima seus carros, mostrando que Israel não deve se apoiar em sua própria força militar (Js 11:6–11)"
       },
-      "versiculoClave": "Jos 11:23"
+      "versiculoClave": "Jos 11:23",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 135:10–12",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El Sal 135:10–12 celebra litúrgicamente la conquista: 'Él hirió a naciones numerosas y mató a reyes poderosos', convirtiendo el resumen de los 31 reyes vencidos (Jos 12) en material de adoración en el culto de Israel, demostrando que la historia de la conquista es fundamentalmente teología doxológica.",
+            "en": "Ps 135:10–12 liturgically celebrates the conquest: 'He struck down many nations and killed mighty kings,' turning the summary of the 31 defeated kings (Josh 12) into worship material in Israel's cult, demonstrating that the conquest history is fundamentally doxological theology.",
+            "pt": "Sl 135:10–12 celebra liturgicamente a conquista: 'Ele feriu muitas nações e matou reis poderosos', convertendo o resumo dos 31 reis vencidos (Js 12) em material de adoração no culto de Israel, demonstrando que a história da conquista é fundamentalmente teologia doxológica."
+          }
+        },
+        {
+          "ref": "Gn 15:16",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "YHWH declaró a Abraham que la iniquidad del amorreo 'aún no ha llegado a su colmo' (Gn 15:16) y que su descendencia volvería en la cuarta generación: la destrucción de las naciones cananeas en Jos 11–12 es el juicio prometido sobre los amorreos cuya medida de pecado había alcanzado el punto divino de requerimiento.",
+            "en": "YHWH told Abraham that the iniquity of the Amorites 'is not yet complete' (Gen 15:16) and that his descendants would return in the fourth generation: the destruction of the Canaanite nations in Josh 11–12 is the promised judgment on the Amorites whose measure of sin had reached the divine point of reckoning.",
+            "pt": "YHWH disse a Abraão que a iniquidade dos amorreus 'ainda não está completa' (Gn 15:16) e que seus descendentes voltariam na quarta geração: a destruição das nações cananéias em Js 11–12 é o julgamento prometido sobre os amorreus cuja medida de pecado havia alcançado o ponto divino de prestação de contas."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Promesa/Cumplimiento": {
+            "es": "Jos 11:23 declara el hito teológico de la campaña: 'Josué tomó toda la tierra, conforme a todo lo que el SEÑOR había dicho a Moisés', y Jos 12 lista 31 reyes vencidos como inventario exhaustivo del cumplimiento, convirtiendo la historia de la conquista en una demostración de que la palabra de YHWH se cumple con exactitud geográfica.",
+            "en": "Josh 11:23 declares the theological milestone of the campaign: 'Joshua took the whole land, just as the LORD had spoken to Moses,' and Josh 12 lists 31 defeated kings as an exhaustive fulfillment inventory, turning the conquest history into a demonstration that YHWH's word is fulfilled with geographic precision.",
+            "pt": "Js 11:23 declara o marco teológico da campanha: 'Josué tomou toda a terra, conforme tudo o que o SENHOR havia dito a Moisés', e Js 12 lista 31 reis vencidos como inventário exaustivo do cumprimento, convertendo a história da conquista em uma demonstração de que a palavra de YHWH se cumpre com exatidão geográfica."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "La orden de YHWH a Josué de destruir los caballos y quemar los carros de la coalición del norte (Jos 11:6) para que Israel no se apoye en poder militar propio es un acto de pedagogía divina: el hesed de YHWH quiere que Israel aprenda que su seguridad depende de Dios, no del armamento.",
+              "en": "YHWH's order to Joshua to hamstring the horses and burn the chariots of the northern coalition (Josh 11:6) so that Israel does not rely on its own military power is an act of divine pedagogy: YHWH's hesed wants Israel to learn that its security depends on God, not on armaments.",
+              "pt": "A ordem de YHWH a Josué de jarretar os cavalos e queimar os carros da coalizão do norte (Js 11:6) para que Israel não se apoie em poder militar próprio é um ato de pedagogia divina: o hesed de YHWH quer que Israel aprenda que sua segurança depende de Deus, não do armamento."
+            }
+          },
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La destrucción de las naciones cananeas no es genocidio étnico sino juicio divino cumplido: Gn 15:16 había anunciado que las naciones serían destruidas cuando su iniquidad hubiera alcanzado su colmo, y Jos 11–12 es la ejecución de esa sentencia divina diferida durante siglos.",
+              "en": "The destruction of the Canaanite nations is not ethnic genocide but fulfilled divine judgment: Gen 15:16 had announced that the nations would be destroyed when their iniquity had reached its full measure, and Josh 11–12 is the execution of that divine sentence deferred for centuries.",
+              "pt": "A destruição das nações cananéias não é genocídio étnico, mas julgamento divino cumprido: Gn 15:16 havia anunciado que as nações seriam destruídas quando sua iniquidade tivesse alcançado sua plenitude, e Js 11–12 é a execução dessa sentença divina diferida por séculos."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 13,
@@ -1339,7 +1816,61 @@
         "en": "Caleb, at age 85, claims the promised inheritance of Hebron saying: 'the LORD will be with me, and I shall drive them out just as the LORD said' (Josh 14:12)",
         "pt": "Calebe, com 85 anos, reivindica a herança prometida de Hebrom dizendo: 'o SENHOR será comigo, e os expulsarei como o SENHOR disse' (Js 14:12)"
       },
-      "versiculoClave": "Jos 14:12"
+      "versiculoClave": "Jos 14:12",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 15:18–21",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La distribución territorial de Jos 13–19 es el cumplimiento concreto de la promesa de Gn 15:18–21, donde YHWH prometió a Abraham 'esta tierra, desde el río de Egipto hasta el gran río Éufrates': cada ciudad nombrada, cada límite tribal trazado, es la realización geográficamente exacta del pacto abrahámico.",
+            "en": "The territorial distribution of Josh 13–19 is the concrete fulfillment of the Gen 15:18–21 promise, where YHWH promised Abraham 'this land, from the river of Egypt to the great river, the river Euphrates': every named city, every traced tribal boundary, is the geographically precise realization of the Abrahamic covenant.",
+            "pt": "A distribuição territorial de Js 13–19 é o cumprimento concreto da promessa de Gn 15:18–21, onde YHWH prometeu a Abraão 'esta terra, desde o rio do Egito até o grande rio Eufrates': cada cidade nomeada, cada limite tribal traçado, é a realização geograficamente exata da aliança abraâmica."
+          }
+        },
+        {
+          "ref": "He 11:13",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Los patriarcas 'murieron en fe, sin haber recibido las promesas, sino mirándolas de lejos' (He 11:13); el reparto de la tierra (Jos 13–19) es el momento en que lo que Abraham, Isaac y Jacob vislumbraron desde lejos es recibido en concretos lotes territoriales por sus descendientes, certificando la cadena de promesa-cumplimiento que atraviesa generaciones.",
+            "en": "The patriarchs 'died in faith, not having received the things promised, but having seen them and greeted them from afar' (Heb 11:13); the distribution of the land (Josh 13–19) is the moment when what Abraham, Isaac, and Jacob glimpsed from afar is received in concrete territorial lots by their descendants, certifying the promise-fulfillment chain spanning generations.",
+            "pt": "Os patriarcas 'morreram na fé, sem ter recebido as promessas, mas as avistaram e saudaram de longe' (Hb 11:13); o reparto da terra (Js 13–19) é o momento em que o que Abraão, Isaque e Jacó vislumbraram de longe é recebido em concretos lotes territoriais por seus descendentes, certificando a cadeia promessa-cumprimento que atravessa gerações."
+          }
+        },
+        {
+          "ref": "Ap 7:4–8",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La estructura de doce tribus del reparto (Jos 15–19) es el tipo de la que Ap 7:4–8 describe: las doce tribus selladas del pueblo de Dios en la consumación escatológica, estableciendo la continuidad orgánica entre el Israel del pacto que recibe la tierra y el pueblo de Dios que hereda la nueva creación.",
+            "en": "The twelve-tribe structure of the distribution (Josh 15–19) is the type of which Rev 7:4–8 speaks: the twelve sealed tribes of God's people in the eschatological consummation, establishing the organic continuity between the covenant Israel that receives the land and the people of God who inherit the new creation.",
+            "pt": "A estrutura de doze tribos do reparto (Js 15–19) é o tipo do qual Ap 7:4–8 fala: as doze tribos seladas do povo de Deus na consumação escatológica, estabelecendo a continuidade orgânica entre o Israel da aliança que recebe a terra e o povo de Deus que herda a nova criação."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Promesa/Cumplimiento": {
+            "es": "El reparto de la tierra entre las doce tribus (Jos 13–19) es la dimensión geográfica del cumplimiento del pacto abrahámico: cada nombre de ciudad, cada límite tribal, cada herencia particular es la realización espacial de la promesa de Gn 15:18–21, mostrando que YHWH cumple sus promesas con una precisión que no omite ningún detalle.",
+            "en": "The division of the land among the twelve tribes (Josh 13–19) is the geographic dimension of the Abrahamic covenant's fulfillment: every city name, every tribal boundary, every particular inheritance is the spatial realization of the Gen 15:18–21 promise, showing that YHWH fulfills his promises with a precision that omits no detail.",
+            "pt": "O reparto da terra entre as doze tribos (Js 13–19) é a dimensão geográfica do cumprimento da aliança abraâmica: cada nome de cidade, cada limite tribal, cada herança particular é a realização espacial da promessa de Gn 15:18–21, mostrando que YHWH cumpre suas promessas com uma precisão que não omite nenhum detalhe."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "La distribución tribal define la identidad social del pueblo del pacto: Israel no es una masa uniforme sino doce familias con herencias distintas, vocaciones diferenciadas y territorios propios dentro de la unidad pactual, prefigurando la diversidad de dones dentro de la unidad orgánica del cuerpo de Cristo.",
+              "en": "The tribal distribution defines the social identity of the covenant people: Israel is not a uniform mass but twelve families with distinct inheritances, differentiated vocations, and particular territories within covenant unity, prefiguring the diversity of gifts within the organic unity of Christ's body.",
+              "pt": "A distribuição tribal define a identidade social do povo da aliança: Israel não é uma massa uniforme, mas doze famílias com heranças distintas, vocações diferenciadas e territórios próprios dentro da unidade pactual, prefigurando a diversidade de dons dentro da unidade orgânica do corpo de Cristo."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "El reparto por suerte en Silo (Jos 14:2; 18:6–8) —bajo la dirección de Eleazar el sacerdote y Josué— garantiza que la distribución no es fruto de la negociación política sino de la voluntad soberana de YHWH, estableciendo que cada herencia en la tierra es un don de la elección divina.",
+              "en": "The distribution by lot at Shiloh (Josh 14:2; 18:6–8) — under the direction of Eleazar the priest and Joshua — guarantees that the distribution is not the product of political negotiation but of YHWH's sovereign will, establishing that every land inheritance is a gift of divine election.",
+              "pt": "O reparto por sorte em Siló (Js 14:2; 18:6–8) — sob a direção de Eleazar o sacerdote e Josué — garante que a distribuição não é fruto de negociação política, mas da vontade soberana de YHWH, estabelecendo que cada herança na terra é um dom da eleição divina."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 20,
@@ -1360,7 +1891,52 @@
         "en": "The book declares its theological climax: 'Not one word of all the good promises that the LORD had made to the house of Israel had failed; all came to pass' (Josh 21:45)",
         "pt": "O livro declara seu clímax teológico: 'Nenhuma das boas promessas que o SENHOR fizera à casa de Israel falhou; tudo se cumpriu' (Js 21:45)"
       },
-      "versiculoClave": "Jos 21:45"
+      "versiculoClave": "Jos 21:45",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 6:18",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Las ciudades de refugio (Jos 20) donde el homicida involuntario huye y encuentra protección del vengador son el tipo veterotestamentario de Cristo como nuestro refugio; He 6:18 usa este mismo lenguaje: 'los que hemos huido para asirnos de la esperanza propuesta', aplicando el patrón de Jos 20 al cristiano que se acoge a Cristo.",
+            "en": "The cities of refuge (Josh 20) where the unintentional manslayer flees and finds protection from the avenger are the OT type of Christ as our refuge; Heb 6:18 uses this same language: 'we who have fled for refuge to hold fast to the hope set before us,' applying the Josh 20 pattern to the Christian who takes refuge in Christ.",
+            "pt": "As cidades de refúgio (Js 20) onde o homicida involuntário foge e encontra proteção do vingador são o tipo veterotestamentário de Cristo como nosso refúgio; Hb 6:18 usa essa mesma linguagem: 'nós, que nos refugiamos para lançar mão da esperança proposta', aplicando o padrão de Js 20 ao cristão que se acolhe em Cristo."
+          }
+        },
+        {
+          "ref": "2Co 1:20",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La declaración climática de Jos 21:45 —'no faltó ni una sola palabra de todas las buenas palabras que el SEÑOR había hablado a la casa de Israel; todo se cumplió'— es el precedente narrativo del principio de 2Co 1:20: 'todas las promesas de Dios son sí en él', demostrando que en Cristo se consuma lo que Josué vio cumplirse en la tierra.",
+            "en": "The climactic declaration of Josh 21:45 — 'not one word of all the good promises that the LORD had made to the house of Israel had failed; all came to pass' — is the narrative precedent for the principle of 2Cor 1:20: 'all the promises of God find their Yes in him,' demonstrating that in Christ is consummated what Joshua saw fulfilled in the land.",
+            "pt": "A declaração climática de Js 21:45 — 'não falhou nem uma só palavra de todas as boas palavras que o SENHOR havia falado à casa de Israel; tudo se cumpriu' — é o precedente narrativo do princípio de 2Co 1:20: 'todas as promessas de Deus são sim nele', demonstrando que em Cristo se consuma o que Josué viu cumprir-se na terra."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Promesa/Cumplimiento": {
+            "es": "Jos 21:43–45 es el climax teológico del libro: 'les dio el SEÑOR a Israel toda la tierra que había jurado dar a sus padres… No faltó ni una sola palabra de todas las buenas palabras que el SEÑOR había hablado', declarando el cumplimiento total del pacto abrahámico como el veredicto definitivo sobre la era de la conquista.",
+            "en": "Josh 21:43–45 is the theological climax of the book: 'the LORD gave to Israel all the land that he swore to give to their fathers… Not one word of all the good promises that the LORD had made to the house of Israel had failed,' declaring the total fulfillment of the Abrahamic covenant as the definitive verdict on the conquest era.",
+            "pt": "Js 21:43–45 é o clímax teológico do livro: 'o SENHOR deu a Israel toda a terra que havia jurado dar a seus pais… não falhou nem uma só palavra de todas as boas palavras que o SENHOR havia falado', declarando o cumprimento total da aliança abraâmica como o veredicto definitivo sobre a era da conquista."
+          }
+        },
+        "secundarios": [
+          {
+            "Redención/Rescate": {
+              "es": "Las seis ciudades de refugio (Jos 20:7–9) proveen amparo al homicida involuntario hasta la muerte del sumo sacerdote, tipificando a Cristo como el único refugio para los culpables: quien huye a él está protegido de la pena que merece, y su muerte provee la liberación definitiva del vengador.",
+              "en": "The six cities of refuge (Josh 20:7–9) provide shelter to the unintentional manslayer until the high priest's death, typifying Christ as the only refuge for the guilty: whoever flees to him is protected from the penalty deserved, and his death provides definitive liberation from the avenger.",
+              "pt": "As seis cidades de refúgio (Js 20:7–9) proveem amparo ao homicida involuntário até a morte do sumo sacerdote, tipificando Cristo como o único refúgio para os culpados: quem foge a ele está protegido da pena que merece, e sua morte provê a libertação definitiva do vingador."
+            }
+          },
+          {
+            "Sacerdocio": {
+              "es": "Las 48 ciudades levíticas dispersas en el territorio de cada tribu (Jos 21:1–42) garantizan la presencia del ministerio sacerdotal y la enseñanza de la ley en toda la extensión de Israel, estableciendo el principio de que el pueblo del pacto debe tener acceso al ministerio de la Palabra en cada rincón de la tierra.",
+              "en": "The 48 Levitical cities dispersed throughout every tribe's territory (Josh 21:1–42) guarantee the presence of priestly ministry and Torah teaching across all of Israel, establishing the principle that the covenant people must have access to the ministry of the Word in every corner of the land.",
+              "pt": "As 48 cidades levíticas dispersas no território de cada tribo (Js 21:1–42) garantem a presença do ministério sacerdotal e o ensino da lei em toda a extensão de Israel, estabelecendo o princípio de que o povo da aliança deve ter acesso ao ministério da Palavra em cada canto da terra."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 22,
@@ -1381,7 +1957,52 @@
         "en": "The eastern tribes explain that their altar is a witness that they also belong to the LORD, preventing civil war among the tribes of Israel (Josh 22:26–28)",
         "pt": "As tribos orientais explicam que seu altar é uma testemunha de que eles também pertencem ao SENHOR, evitando a guerra civil entre as tribos de Israel (Js 22:26–28)"
       },
-      "versiculoClave": "Jos 22:27"
+      "versiculoClave": "Jos 22:27",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 12:5–14",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La controversia del altar oriental se centra en si viola Dt 12:5–14, que restringe los sacrificios al lugar que YHWH elija; las tribus orientales aclaran que su altar no es para holocaustos sino como 'testimonio' de pertenencia a YHWH (Jos 22:26–28), demostrando que la ley de Deuteronomio es el estándar por el que se juzgan las acciones en la tierra.",
+            "en": "The eastern altar controversy centers on whether it violates Deut 12:5–14, which restricts sacrifices to the place YHWH chooses; the eastern tribes clarify that their altar is not for burnt offerings but as a 'witness' of belonging to YHWH (Josh 22:26–28), demonstrating that Deuteronomy's law is the standard by which actions in the land are judged.",
+            "pt": "A controvérsia do altar oriental centra-se em se viola Dt 12:5–14, que restringe os sacrifícios ao lugar que YHWH escolher; as tribos orientais esclarecem que seu altar não é para holocaustos, mas como 'testemunho' de pertencimento a YHWH (Js 22:26–28), demonstrando que a lei de Deuteronômio é o padrão pelo qual as ações na terra são julgadas."
+          }
+        },
+        {
+          "ref": "Ro 14:1–4",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La disposición de la asamblea de Israel a investigar antes de juzgar (Jos 22:13–20) —enviando mensajeros para escuchar la explicación de las tribus orientales antes de declarar la guerra— anticipa el principio de Ro 14:1–4 de recibir al hermano sin contenciones sobre opiniones, priorizando la unidad pactual sobre la reacción irreflexiva.",
+            "en": "The assembly of Israel's willingness to investigate before judging (Josh 22:13–20) — sending messengers to hear the eastern tribes' explanation before declaring war — anticipates the principle of Rom 14:1–4 of receiving the brother without contentions over opinions, prioritizing covenant unity over unreflective reaction.",
+            "pt": "A disposição da assembleia de Israel de investigar antes de julgar (Js 22:13–20) — enviando mensageiros para ouvir a explicação das tribos orientais antes de declarar guerra — antecipa o princípio de Rm 14:1–4 de receber o irmão sem contendas sobre opiniões, priorizando a unidade pactual sobre a reação irrefletida."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La controversia del altar (Jos 22) gira enteramente en torno a la unidad del pacto: tanto las tribus occidentales (que amenazan guerra por temor a la apostasía) como las orientales (que construyen el altar para certificar su participación en el pacto) actúan desde el mismo compromiso pactual, y la crisis se resuelve cuando ambas partes reconocen su fidelidad compartida a YHWH.",
+            "en": "The altar controversy (Josh 22) revolves entirely around covenant unity: both the western tribes (who threaten war out of fear of apostasy) and the eastern tribes (who build the altar to certify their covenant participation) act from the same covenant commitment, and the crisis is resolved when both parties recognize their shared fidelity to YHWH.",
+            "pt": "A controvérsia do altar (Js 22) gira inteiramente em torno da unidade da aliança: tanto as tribos ocidentais (que ameaçam guerra por temor à apostasia) quanto as orientais (que constroem o altar para certificar sua participação na aliança) agem a partir do mesmo compromisso pactual, e a crise se resolve quando ambas as partes reconhecem sua fidelidade compartilhada a YHWH."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "El riesgo de fractura entre las tribus del este y del oeste —que el Jordán separara dos pueblos distintos— y su resolución pacífica (Jos 22:30–34) afirman que el pueblo del pacto es uno solo a pesar de las fronteras geográficas, estableciendo el principio de que la unidad eclesial trasciende toda división territorial.",
+              "en": "The risk of fracture between the eastern and western tribes — that the Jordan would separate two distinct peoples — and its peaceful resolution (Josh 22:30–34) affirm that the covenant people is one despite geographic boundaries, establishing the principle that ecclesial unity transcends every territorial division.",
+              "pt": "O risco de fratura entre as tribos do leste e do oeste — que o Jordão separasse dois povos distintos — e sua resolução pacífica (Js 22:30–34) afirmam que o povo da aliança é um só apesar das fronteiras geográficas, estabelecendo o princípio de que a unidade eclesial transcende toda divisão territorial."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "La reacción inmediata de guerra ante el supuesto altar ilegal (Jos 22:11–12) revela la profundidad con que las tribus occidentales habían interiorizado el mandato de Dt 12: para ellas, la pureza del culto único es una cuestión de obediencia total, no de preferencia, y la contaminación del culto traería juicio colectivo sobre todo Israel.",
+              "en": "The immediate war reaction to the supposed illegal altar (Josh 22:11–12) reveals how deeply the western tribes had internalized the Deut 12 command: for them, the purity of unified worship is a matter of total obedience, not preference, and cult contamination would bring collective judgment on all Israel.",
+              "pt": "A reação imediata de guerra ao suposto altar ilegal (Js 22:11–12) revela a profundidade com que as tribos ocidentais haviam internalizado o mandamento de Dt 12: para elas, a pureza do culto único é uma questão de obediência total, não de preferência, e a contaminação do culto traria julgamento coletivo sobre todo Israel."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 23,
@@ -1402,7 +2023,52 @@
         "en": "Joshua testifies: 'one man of you puts to flight a thousand, since it is the LORD your God who fights for you, just as he promised you' (Josh 23:10)",
         "pt": "Josué testifica: 'um só homem de vós perseguia mil; porque o SENHOR, vosso Deus, foi quem pelejou por vós, como prometeu' (Js 23:10)"
       },
-      "versiculoClave": "Jos 23:14"
+      "versiculoClave": "Jos 23:14",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 20:17–32",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El discurso de despedida de Pablo a los ancianos de Éfeso (Hch 20:17–32) sigue exactamente el patrón del discurso de Jos 23: recapitulación de la obra de Dios, advertencia sobre peligros futuros, exhortación a la fidelidad y declaración de inocencia personal, estableciendo el discurso de despedida como una forma canónica de testamento de fe.",
+            "en": "Paul's farewell address to the Ephesian elders (Acts 20:17–32) follows exactly the pattern of Josh 23: recapitulation of God's work, warning about future dangers, exhortation to faithfulness, and personal declaration of innocence, establishing the farewell discourse as a canonical form of faith testament.",
+            "pt": "O discurso de despedida de Paulo aos anciãos de Éfeso (At 20:17–32) segue exatamente o padrão do discurso de Js 23: recapitulação da obra de Deus, advertência sobre perigos futuros, exortação à fidelidade e declaração de inocência pessoal, estabelecendo o discurso de despedida como uma forma canônica de testamento de fé."
+          }
+        },
+        {
+          "ref": "1R 2:1–4",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El encargo final de David a Salomón (1R 2:1–4) —'sé fuerte… guarda los mandatos del SEÑOR tu Dios'— replica directamente la estructura del discurso de Jos 23, estableciendo una cadena de testamentos pactales en la narrativa bíblica que va de Moisés a Josué, de Josué a David, de David a Salomón, y tipifica el encargo de Cristo a sus discípulos.",
+            "en": "David's final charge to Solomon (1Kgs 2:1–4) — 'be strong… keep the charge of the LORD your God' — directly replicates the structure of the Josh 23 address, establishing a chain of covenant testaments in the biblical narrative running from Moses to Joshua, Joshua to David, David to Solomon, and typifying Christ's charge to his disciples.",
+            "pt": "O encargo final de Davi a Salomão (1Rs 2:1–4) — 'sê forte… guarda os mandamentos do SENHOR teu Deus' — replica diretamente a estrutura do discurso de Js 23, estabelecendo uma cadeia de testamentos pactais na narrativa bíblica que vai de Moisés a Josué, de Josué a Davi, de Davi a Salomão, e tipifica o encargo de Cristo a seus discípulos."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "El discurso de despedida de Josué es una confesión doxológica de la fidelidad de YHWH: 'el SEÑOR vuestro Dios es quien ha peleado por vosotros' (Jos 23:3) y 'no ha faltado una sola palabra de todas las buenas palabras que el SEÑOR habló' (Jos 23:14), convirtiendo la vida entera de Josué en un testimonio del hesed activo de Dios.",
+            "en": "Joshua's farewell address is a doxological confession of YHWH's faithfulness: 'the LORD your God who fought for you' (Josh 23:3) and 'not one word has failed of all the good things that the LORD your God promised' (Josh 23:14), turning Joshua's entire life into a testimony of God's active hesed.",
+            "pt": "O discurso de despedida de Josué é uma confissão doxológica da fidelidade de YHWH: 'o SENHOR vosso Deus é quem tem pelejado por vós' (Js 23:3) e 'não falhou nem uma só palavra de todas as boas coisas que o SENHOR vosso Deus prometeu' (Js 23:14), convertendo toda a vida de Josué em um testemunho do hesed ativo de Deus."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "La exhortación central del discurso es la obediencia irrestricta a la ley de Moisés (Jos 23:6): no apartarse a la derecha ni a la izquierda, no invocar los nombres de los dioses ajenos (Jos 23:7), estableciendo que la Palabra de Dios es la norma única del pueblo asentado en la tierra prometida.",
+              "en": "The central exhortation of the address is unrestricted obedience to the law of Moses (Josh 23:6): not turning aside to the right or to the left, not invoking the names of foreign gods (Josh 23:7), establishing that God's Word is the sole norm for the people settled in the promised land.",
+              "pt": "A exortação central do discurso é a obediência irrestrita à lei de Moisés (Js 23:6): não se desviar à direita nem à esquerda, não invocar os nomes dos deuses estranhos (Js 23:7), estabelecendo que a Palavra de Deus é a norma única do povo assentado na terra prometida."
+            }
+          },
+          {
+            "Idolatría": {
+              "es": "La advertencia más urgente del discurso es contra la asimilación religiosa: si Israel se une a las naciones restantes y se casa con ellas, los ídolos de esos pueblos se convertirán en 'trampa y lazo, azote para vuestro costado y espinas para vuestros ojos' (Jos 23:13), anticipando la apostasía que el libro de Jueces narrará.",
+              "en": "The most urgent warning of the address is against religious assimilation: if Israel joins the remaining nations and intermarries with them, the idols of those peoples will become 'a snare and a trap for you, a whip on your sides and thorns in your eyes' (Josh 23:13), anticipating the apostasy that the book of Judges will narrate.",
+              "pt": "A advertência mais urgente do discurso é contra a assimilação religiosa: se Israel se juntar às nações restantes e se casar com elas, os ídolos desses povos se tornarão 'laço e armadilha para vós, açoite para os vossos lados e espinhos para os vossos olhos' (Js 23:13), antecipando a apostasia que o livro de Juízes narrará."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 24,
@@ -1423,7 +2089,52 @@
         "en": "Joshua exhorts: 'Choose this day whom you will serve... But as for me and my house, we will serve the LORD' (Josh 24:15)",
         "pt": "Josué exorta: 'Escolhei hoje a quem servireis... Mas eu e a minha casa serviremos ao SENHOR' (Js 24:15)"
       },
-      "versiculoClave": "Jos 24:15"
+      "versiculoClave": "Jos 24:15",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 7:2–34",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El discurso de Josué en Siquem (Jos 24:2–13) —un repaso de la historia redentora desde Abraham hasta la conquista para fundamentar una decisión de fidelidad— es el patrón retórico que Esteban replica en Hch 7:2–34, estableciendo la recapitulación histórico-redentora como la forma canónica de predicación que llama a una elección definitiva.",
+            "en": "Joshua's Shechem address (Josh 24:2–13) — a review of redemptive history from Abraham to the conquest to ground a fidelity decision — is the rhetorical pattern that Stephen replicates in Acts 7:2–34, establishing the redemptive-historical recapitulation as the canonical form of preaching that calls to a definitive choice.",
+            "pt": "O discurso de Josué em Siquém (Js 24:2–13) — uma revisão da história redentora desde Abraão até a conquista para fundamentar uma decisão de fidelidade — é o padrão retórico que Estêvão replica em At 7:2–34, estabelecendo a recapitulação histórico-redentora como a forma canônica de pregação que chama a uma escolha definitiva."
+          }
+        },
+        {
+          "ref": "Ro 9:11–16",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El preámbulo histórico de Jos 24:2–4 —'vuestros padres habitaron al otro lado del río y sirvieron a otros dioses'— establece que la elección de Abraham fue de gracia pura, no de mérito: YHWH llamó a un idólatra pagano, base narrativa del argumento de Ro 9:11–16 sobre la elección soberana de Dios que no depende de obras sino de él que llama.",
+            "en": "The historical preamble of Josh 24:2–4 — 'your fathers lived beyond the Euphrates and served other gods' — establishes that Abraham's election was of pure grace, not merit: YHWH called a pagan idolater, the narrative basis of the argument of Rom 9:11–16 on God's sovereign election that depends not on works but on him who calls.",
+            "pt": "O preâmbulo histórico de Js 24:2–4 — 'vossos pais habitaram além do Rio e serviram a outros deuses' — estabelece que a eleição de Abraão foi de graça pura, não de mérito: YHWH chamou um idólatra pagão, base narrativa do argumento de Rm 9:11–16 sobre a eleição soberana de Deus que não depende de obras, mas daquele que chama."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La renovación del pacto en Siquem (Jos 24) es el acto climático del libro: el repaso de la gracia de Dios (Jos 24:2–13), el desafío de la elección (Jos 24:14–15), el compromiso del pueblo (Jos 24:16–24), la documentación del pacto en el libro de la ley (Jos 24:25–26) y la piedra testigo (Jos 24:27) constituyen una ceremonia de renovación pactual completa.",
+            "en": "The covenant renewal at Shechem (Josh 24) is the book's climactic act: the review of God's grace (Josh 24:2–13), the choice challenge (Josh 24:14–15), the people's commitment (Josh 24:16–24), the documentation of the covenant in the book of the law (Josh 24:25–26), and the witness stone (Josh 24:27) constitute a complete covenant renewal ceremony.",
+            "pt": "A renovação da aliança em Siquém (Js 24) é o ato climático do livro: a revisão da graça de Deus (Js 24:2–13), o desafio da escolha (Js 24:14–15), o compromisso do povo (Js 24:16–24), a documentação da aliança no livro da lei (Js 24:25–26) e a pedra testemunha (Js 24:27) constituem uma cerimônia completa de renovação pactual."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "El repaso histórico de Jos 24:2–13 —desde el llamamiento de Abraham hasta la posesión de la tierra— es una antología de los cumplimientos del pacto que muestra que toda la historia narrada en el Génesis, Éxodo, Números y Josué es una secuencia de promesas cumplidas por gracia soberana de YHWH.",
+              "en": "The historical review of Josh 24:2–13 — from Abraham's calling to the possession of the land — is an anthology of covenant fulfillments that shows that all the history narrated in Genesis, Exodus, Numbers, and Joshua is a sequence of promises fulfilled by YHWH's sovereign grace.",
+              "pt": "A revisão histórica de Js 24:2–13 — desde o chamamento de Abraão até a posse da terra — é uma antologia dos cumprimentos da aliança que mostra que toda a história narrada em Gênesis, Êxodo, Números e Josué é uma sequência de promessas cumpridas pela graça soberana de YHWH."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "La declaración de Josué —'yo y mi casa serviremos al SEÑOR' (Jos 24:15)— es el paradigma bíblico de la respuesta individual y familiar al llamado divino: frente a la soberanía de la gracia electiva narrada en Jos 24:2–13, Josué responde con la entrega total y convoca al pueblo a hacer lo mismo.",
+              "en": "Joshua's declaration — 'as for me and my house, we will serve the LORD' (Josh 24:15) — is the biblical paradigm of individual and family response to the divine call: in the face of the elective grace sovereignty narrated in Josh 24:2–13, Joshua responds with total surrender and summons the people to do likewise.",
+              "pt": "A declaração de Josué — 'eu e a minha casa serviremos ao SENHOR' (Js 24:15) — é o paradigma bíblico da resposta individual e familiar ao chamado divino: diante da soberania da graça eletiva narrada em Js 24:2–13, Josué responde com a entrega total e convoca o povo a fazer o mesmo."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [
@@ -1921,7 +2632,7 @@
     "versionBiblia": {
       "es": "NBLA",
       "en": "ESV",
-      "pt": "NAA"
+      "pt": "ARC"
     },
     "pipeline": {
       "faseActual": 3,
