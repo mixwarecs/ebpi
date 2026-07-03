@@ -888,7 +888,61 @@
         "pt": "Paulo apresenta sua própria conversão como o paradigma supremo da graça soberana de Cristo (1Tm 1:15–16), estabelecendo o fundamento evangélico de todas as instruções que se seguirão."
       },
       "versiculoClave": "1Ti 1:15",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Justificación": {
+            "es": "Pablo se presenta como el «peor de los pecadores» al que Cristo salvó por misericordia como paradigma supremo de la gracia soberana (1Ti 1:15–16), estableciendo la justificación gratuita como el fundamento evangélico de toda la carta.",
+            "en": "Paul presents himself as the 'worst of sinners' whom Christ saved by mercy as the supreme paradigm of sovereign grace (1Tim 1:15–16), establishing free justification as the evangelical foundation of the entire letter.",
+            "pt": "Paulo se apresenta como o 'pior dos pecadores' a quem Cristo salvou por misericórdia como o paradigma supremo da graça soberana (1Tm 1:15–16), estabelecendo a justificação gratuita como fundamento evangélico de toda a carta."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "Pablo urge a Timoteo a confrontar a quienes enseñan «doctrinas extrañas» (1Ti 1:3–4), contrastando el uso ilegítimo de la ley por los falsos maestros (1Ti 1:7) con la sana doctrina del evangelio (1Ti 1:10–11).",
+              "en": "Paul urges Timothy to confront those teaching 'different doctrines' (1Tim 1:3–4), contrasting the false teachers' unlawful use of the law (1Tim 1:7) with the sound doctrine of the gospel (1Tim 1:10–11).",
+              "pt": "Paulo urge Timóteo a confrontar os que ensinam 'doutrinas estranhas' (1Tm 1:3–4), contrastando o uso ilegítimo da lei pelos falsos mestres (1Tm 1:7) com a sã doutrina do evangelho (1Tm 1:10–11)."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "Pablo reconoce que fue «puesto» en el ministerio por gracia, no por mérito, siendo el «mayor de los pecadores» elegido soberanamente como testimonio de la misericordia de Cristo (1Ti 1:12–14).",
+              "en": "Paul acknowledges he was 'appointed' to ministry by grace, not by merit, being the 'worst of sinners' sovereignly chosen as a witness to Christ's mercy (1Tim 1:12–14).",
+              "pt": "Paulo reconhece que foi 'posto' no ministério por graça, não por mérito, sendo o 'pior dos pecadores' soberanamente escolhido como testemunho da misericórdia de Cristo (1Tm 1:12–14)."
+            }
+          }
+        ]
+      },
+      "referenciasRelacionadas": [
+        {
+          "ref": "Lc 19:10",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La «palabra fiel» de que «Cristo Jesús vino al mundo para salvar a los pecadores» (1Ti 1:15) resuena con la declaración del mismo Jesús en Lc 19:10: «el Hijo del Hombre vino a buscar y a salvar lo que se había perdido».",
+            "en": "The 'trustworthy saying' that 'Christ Jesus came into the world to save sinners' (1Tim 1:15) echoes Jesus' own declaration in Luke 19:10: 'the Son of Man came to seek and to save the lost.'",
+            "pt": "A 'palavra fiel' de que 'Cristo Jesus veio ao mundo para salvar os pecadores' (1Tm 1:15) ressoa com a declaração do próprio Jesus em Lc 19:10: 'o Filho do Homem veio buscar e salvar o que estava perdido.'"
+          }
+        },
+        {
+          "ref": "Gá 1:13–16",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El testimonio autobiográfico de Pablo sobre su persecución a la iglesia y su llamado apostólico en Gá 1:13–16 es el paralelo biográfico directo del paradigma de gracia soberana que presenta en 1Ti 1:13–16.",
+            "en": "Paul's autobiographical testimony about his persecution of the church and apostolic calling in Gal 1:13–16 is the direct biographical parallel to the paradigm of sovereign grace he presents in 1Tim 1:13–16.",
+            "pt": "O testemunho autobiográfico de Paulo sobre sua perseguição à igreja e seu chamado apostólico em Gl 1:13–16 é o paralelo biográfico direto do paradigma de graça soberana que apresenta em 1Tm 1:13–16."
+          }
+        },
+        {
+          "ref": "Ro 7:12",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La distinción entre el uso legítimo e ilegítimo de la ley (1Ti 1:8–11) encuentra su desarrollo teológico más profundo en Ro 7:12–25, donde Pablo afirma que «la ley a la verdad es santa» aunque sea instrumentalizada por el pecado.",
+            "en": "The distinction between the lawful and unlawful use of the law (1Tim 1:8–11) finds its deepest theological development in Rom 7:12–25, where Paul affirms that 'the law is holy' even as sin uses it for ill.",
+            "pt": "A distinção entre o uso legítimo e ilegítimo da lei (1Tm 1:8–11) encontra seu desenvolvimento teológico mais profundo em Rm 7:12–25, onde Paulo afirma que 'a lei é santa' mesmo que o pecado a instrumente para o mal."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 2,
@@ -909,7 +963,61 @@
         "pt": "A declaração do único Deus e do único Mediador Cristo Jesus (1Tm 2:5) como fundamento teológico da oração universal da igreja, estabelecendo o princípio de acesso exclusivo a Deus por meio de Cristo."
       },
       "versiculoClave": "1Ti 2:5",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "Cristo Jesús es declarado el único mediador entre Dios y los hombres que «se dio a sí mismo como rescate por todos» (1Ti 2:5–6), cumpliendo el rol sacerdotal definitivo que fundamenta toda oración e intercesión de la iglesia.",
+            "en": "Christ Jesus is declared the one mediator between God and men who 'gave himself as a ransom for all' (1Tim 2:5–6), fulfilling the definitive priestly role that grounds all prayer and intercession of the church.",
+            "pt": "Cristo Jesus é declarado o único mediador entre Deus e os homens que 'se deu em resgate por todos' (1Tm 2:5–6), cumprindo o papel sacerdotal definitivo que fundamenta toda oração e intercessão da igreja."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "Pablo regula la conducta litúrgica de hombres y mujeres en la asamblea (1Ti 2:8–12), ordenando la vida corporativa de la iglesia conforme al orden de creación y la revelación apostólica.",
+              "en": "Paul regulates the liturgical conduct of men and women in the assembly (1Tim 2:8–12), ordering the corporate life of the church according to the creational order and apostolic revelation.",
+              "pt": "Paulo regula a conduta litúrgica de homens e mulheres na assembleia (1Tm 2:8–12), ordenando a vida corporativa da igreja conforme a ordem da criação e a revelação apostólica."
+            }
+          },
+          {
+            "Redención/Rescate": {
+              "es": "La motivación de la oración universal es el deseo de Dios de que «todos sean salvos» (1Ti 2:4) y el rescate de Cristo por todos (1Ti 2:6), anclando la intercesión eclesial en la obra redentora consumada.",
+              "en": "The motivation for universal prayer is God's desire that 'all people be saved' (1Tim 2:4) and Christ's ransom for all (1Tim 2:6), anchoring ecclesial intercession in the accomplished redemptive work.",
+              "pt": "A motivação da oração universal é o desejo de Deus de que 'todos sejam salvos' (1Tm 2:4) e o resgate de Cristo por todos (1Tm 2:6), ancorando a intercessão eclesial na obra redentora consumada."
+            }
+          }
+        ]
+      },
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mc 10:45",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El término ἀντίλυτρον («rescate por todos», 1Ti 2:6) es un eco deliberado del λύτρον de Mc 10:45, donde Cristo declara que vino «a dar su vida en rescate por muchos», fundamentando la mediación de la oración eclesial en la obra expiatoria.",
+            "en": "The term ἀντίλυτρον ('ransom for all', 1Tim 2:6) is a deliberate echo of the λύτρον of Mark 10:45, where Christ declares he came 'to give his life as a ransom for many', grounding ecclesial mediation in the atoning work.",
+            "pt": "O termo ἀντίλυτρον ('resgate por todos', 1Tm 2:6) é um eco deliberado do λύτρον de Mc 10:45, onde Cristo declara ter vindo 'dar a sua vida em resgate por muitos', fundamentando a mediação eclesial na obra expiatória."
+          }
+        },
+        {
+          "ref": "He 9:15",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La afirmación del único mediador entre Dios y los hombres (1Ti 2:5) encuentra su elaboración más completa en He 9:15, donde Cristo es presentado como «mediador del nuevo pacto» cuya muerte redime las transgresiones cometidas bajo el antiguo.",
+            "en": "The affirmation of the one mediator between God and men (1Tim 2:5) finds its fullest elaboration in Heb 9:15, where Christ is presented as 'the mediator of a new covenant' whose death redeems transgressions committed under the former covenant.",
+            "pt": "A afirmação do único mediador entre Deus e os homens (1Tm 2:5) encontra sua elaboração mais completa em Hb 9:15, onde Cristo é apresentado como 'mediador de uma nova aliança' cuja morte redime as transgressões cometidas sob o antigo pacto."
+          }
+        },
+        {
+          "ref": "Gn 2:22",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El argumento del orden de creación (1Ti 2:13, «porque Adán fue formado primero, después Eva») remite directamente a Gn 2:22, anclando el orden litúrgico neotestamentario en la secuencia de la creación original de Dios.",
+            "en": "The creation-order argument (1Tim 2:13, 'for Adam was formed first, then Eve') refers directly to Gen 2:22, anchoring the New Testament liturgical order in the sequence of God's original creative act.",
+            "pt": "O argumento da ordem da criação (1Tm 2:13, 'pois Adão foi formado primeiro, depois Eva') remete diretamente a Gn 2:22, ancorando a ordem litúrgica neotestamentária na sequência do ato criativo original de Deus."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 3,
@@ -930,7 +1038,61 @@
         "pt": "A proclamação da igreja como 'coluna e firmamento da verdade' (1Tm 3:15) e o hino cristológico de 1Tm 3:16, que constituem o coração teológico da carta e o fundamento de toda instrução eclesiástica."
       },
       "versiculoClave": "1Ti 3:15",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "Pablo establece los requisitos para obispos y diáconos (1Ti 3:1–13) y proclama a la iglesia «columna y sostén de la verdad» (1Ti 3:15), articulando la naturaleza, estructura y misión del pueblo de Dios en la era del cumplimiento.",
+            "en": "Paul establishes requirements for overseers and deacons (1Tim 3:1–13) and proclaims the church 'a pillar and buttress of the truth' (1Tim 3:15), articulating the nature, structure, and mission of God's people in the era of fulfillment.",
+            "pt": "Paulo estabelece os requisitos para bispos e diáconos (1Tm 3:1–13) e proclama a igreja 'coluna e sustentáculo da verdade' (1Tm 3:15), articulando a natureza, estrutura e missão do povo de Deus na era do cumprimento."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "Los requisitos de carácter irreprensible para obispos y diáconos (1Ti 3:2–7,8–12) reflejan que el liderazgo de la iglesia debe encarnar la santidad de Dios, siendo la vida privada el espejo del carácter ministerial.",
+              "en": "The requirements of irreproachable character for overseers and deacons (1Tim 3:2–7,8–12) reflect that church leadership must embody God's holiness, with private life serving as the mirror of ministerial character.",
+              "pt": "Os requisitos de caráter irrepreensível para bispos e diáconos (1Tm 3:2–7,8–12) refletem que a liderança da igreja deve encarnar a santidade de Deus, sendo a vida privada o espelho do caráter ministerial."
+            }
+          },
+          {
+            "Mesías/Ungido": {
+              "es": "El himno cristológico de 1Ti 3:16 confiesa el «misterio de la piedad»: Cristo manifestado en carne, justificado en el Espíritu, ascendido en gloria — el Ungido cuya obra es el fundamento de toda la eclesiología pastoral.",
+              "en": "The Christological hymn of 1Tim 3:16 confesses the 'mystery of godliness': Christ manifested in the flesh, vindicated by the Spirit, taken up in glory — the Anointed One whose work is the foundation of all pastoral ecclesiology.",
+              "pt": "O hino cristológico de 1Tm 3:16 confessa o 'mistério da piedade': Cristo manifestado na carne, justificado no Espírito, recebido na glória — o Ungido cuja obra é o fundamento de toda a eclesiologia pastoral."
+            }
+          }
+        ]
+      },
+      "referenciasRelacionadas": [
+        {
+          "ref": "Tit 1:5–9",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Los requisitos para obispos en 1Ti 3:1–7 son reproducidos casi literalmente en Tit 1:5–9, constituyendo el doble testimonio apostólico del estándar de ordenación para la iglesia en las cartas pastorales.",
+            "en": "The requirements for overseers in 1Tim 3:1–7 are reproduced almost verbatim in Titus 1:5–9, forming the dual apostolic witness to the ordination standard for the church in the Pastoral Epistles.",
+            "pt": "Os requisitos para bispos em 1Tm 3:1–7 são reproduzidos quase literalmente em Tt 1:5–9, constituindo o duplo testemunho apostólico do padrão de ordenação para a igreja nas cartas pastorais."
+          }
+        },
+        {
+          "ref": "Fil 2:6–11",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El himno cristológico de 1Ti 3:16, con su estructura ternaria de encarnación-vindicación-exaltación, comparte la arquitectura del himno kenótico de Fil 2:6–11, siendo ambos formulaciones tempranas de la cristología apostólica.",
+            "en": "The Christological hymn of 1Tim 3:16, with its threefold structure of incarnation–vindication–exaltation, shares the architecture of the kenotic hymn in Phil 2:6–11, both being early formulations of apostolic Christology.",
+            "pt": "O hino cristológico de 1Tm 3:16, com sua estrutura ternária de encarnação-vindicação-exaltação, compartilha a arquitetura do hino kenótico de Fp 2:6–11, sendo ambos formulações precoces da cristologia apostólica."
+          }
+        },
+        {
+          "ref": "Jn 1:14",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La cláusula inaugural del himno —«manifestado en carne» (1Ti 3:16)— es la formulación más concisa de lo que Jn 1:14 expresa como «el Verbo se hizo carne y habitó entre nosotros», el misterio central del evangelio.",
+            "en": "The opening clause of the hymn — 'manifested in the flesh' (1Tim 3:16) — is the most concise formulation of what John 1:14 expresses as 'the Word became flesh and dwelt among us', the central mystery of the gospel.",
+            "pt": "A cláusula inaugural do hino — 'manifestado na carne' (1Tm 3:16) — é a formulação mais concisa do que Jo 1:14 expressa como 'o Verbo se fez carne e habitou entre nós', o mistério central do evangelho."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 4,
@@ -951,7 +1113,61 @@
         "pt": "A exortação a Timóteo de exercitar-se na piedade e não negligenciar o dom ministerial dado pelo presbitério (1Tm 4:7–8; 1Tm 4:14), estabelecendo a doutrina reformada da ordenação e da disciplina espiritual como respostas pastorais à apostasia."
       },
       "versiculoClave": "1Ti 4:8",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "Frente a la apostasía de los «últimos tiempos» (1Ti 4:1), Pablo llama a Timoteo a nutrirse con «las palabras de la fe y de la sana doctrina» (1Ti 4:6), dedicarse a la lectura pública de la Escritura y a la enseñanza (1Ti 4:13), como antídoto ministerial a la falsa gnosis.",
+            "en": "Confronting the apostasy of 'later times' (1Tim 4:1), Paul calls Timothy to be nourished on 'the words of the faith and of the good doctrine' (1Tim 4:6) and to devote himself to public reading of Scripture and teaching (1Tim 4:13) as the ministerial antidote to false gnosis.",
+            "pt": "Diante da apostasia dos 'últimos tempos' (1Tm 4:1), Paulo chama Timóteo a nutrir-se com 'as palavras da fé e da boa doutrina' (1Tm 4:6) e a dedicar-se à leitura pública das Escrituras e ao ensino (1Tm 4:13) como antídoto ministerial à falsa gnose."
+          }
+        },
+        "secundarios": [
+          {
+            "Creación/Nueva Creación": {
+              "es": "Pablo refuta el ascetismo gnóstico afirmando que «todo lo creado por Dios es bueno» y santificado mediante la Palabra y la oración (1Ti 4:4–5), vinculando la bondad de la creación original con la gratitud eucarística de la nueva comunidad.",
+              "en": "Paul refutes Gnostic asceticism by affirming that 'everything created by God is good' and sanctified through the Word and prayer (1Tim 4:4–5), linking the goodness of original creation to the eucharistic gratitude of the new community.",
+              "pt": "Paulo refuta o ascetismo gnóstico afirmando que 'tudo o que Deus criou é bom' e santificado pela Palavra e pela oração (1Tm 4:4–5), vinculando a bondade da criação original à gratidão eucarística da nova comunidade."
+            }
+          },
+          {
+            "Elección/Llamado": {
+              "es": "El don ministerial de Timoteo, dado «por profecía con la imposición de manos del presbiterio» (1Ti 4:14), manifiesta el llamado soberano de Dios que equipa y comisiona a sus siervos para el ministerio de la Palabra en la iglesia.",
+              "en": "Timothy's ministerial gift, given 'through prophecy with the laying on of hands of the council of elders' (1Tim 4:14), manifests God's sovereign call that equips and commissions his servants for the ministry of the Word in the church.",
+              "pt": "O dom ministerial de Timóteo, dado 'por profecia com a imposição das mãos do presbitério' (1Tm 4:14), manifesta o chamado soberano de Deus que equipa e comissiona seus servos para o ministério da Palavra na igreja."
+            }
+          }
+        ]
+      },
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 1:31",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La declaración «todo lo creado por Dios es bueno» (1Ti 4:4) reproduce el veredicto divino de Gn 1:31 («era bueno en gran manera»), refutando el dualismo gnóstico con la bondad ontológica de la creación material.",
+            "en": "The declaration 'everything created by God is good' (1Tim 4:4) reproduces the divine verdict of Gen 1:31 ('it was very good'), refuting Gnostic dualism with the ontological goodness of material creation.",
+            "pt": "A declaração 'tudo o que Deus criou é bom' (1Tm 4:4) reproduz o veredicto divino de Gn 1:31 ('e era muito bom'), refutando o dualismo gnóstico com a bondade ontológica da criação material."
+          }
+        },
+        {
+          "ref": "Nm 27:18–23",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La imposición de manos del presbiterio sobre Timoteo «con profecía» (1Ti 4:14) enlaza tipológicamente con la comisión de Josué por Moisés en Nm 27:18–23, patrón inaugural de la ordenación profético-comunitaria para el ministerio.",
+            "en": "The laying on of hands by the elders on Timothy 'with prophecy' (1Tim 4:14) typologically connects to Moses' commissioning of Joshua in Num 27:18–23, the inaugural pattern of prophetic-communal ordination for ministry.",
+            "pt": "A imposição das mãos do presbitério sobre Timóteo 'com profecia' (1Tm 4:14) conecta tipologicamente ao comissionamento de Josué por Moisés em Nm 27:18–23, padrão inaugural da ordenação profético-comunitária para o ministério."
+          }
+        },
+        {
+          "ref": "2Ti 3:1–5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La advertencia de apostasía «en los últimos tiempos» de 1Ti 4:1 es el antecedente directo del desarrollo más extenso de 2Ti 3:1–5, donde Pablo describe con precisión los caracteres morales de los apóstatas de la última era.",
+            "en": "The apostasy warning 'in later times' of 1Tim 4:1 is the direct antecedent of the more extensive development in 2Tim 3:1–5, where Paul precisely describes the moral characteristics of last-days apostates.",
+            "pt": "O aviso de apostasia 'nos últimos tempos' de 1Tm 4:1 é o antecedente direto do desenvolvimento mais extenso de 2Tm 3:1–5, onde Paulo descreve com precisão os traços morais dos apóstatas dos últimos dias."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 5,
@@ -972,7 +1188,61 @@
         "pt": "O estabelecimento do princípio de 'dupla honra' para os presbíteros que governam bem e trabalham na Palavra (1Tm 5:17), fundamento reformado do sustento financeiro do ministério pastoral e da distinção entre presbítero governante e presbítero ensinante."
       },
       "versiculoClave": "1Ti 5:17",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "Pablo regula las relaciones entre viudas, jóvenes, familias y ancianos (1Ti 5:1–22), articulando la responsabilidad mutua de la iglesia como familia espiritual del pacto que cuida a sus miembros y honra a sus líderes.",
+            "en": "Paul regulates relations among widows, youth, families, and elders (1Tim 5:1–22), articulating the mutual responsibility of the church as the covenant spiritual family that cares for its members and honors its leaders.",
+            "pt": "Paulo regula as relações entre viúvas, jovens, famílias e presbíteros (1Tm 5:1–22), articulando a responsabilidade mútua da igreja como família espiritual do pacto que cuida de seus membros e honra seus líderes."
+          }
+        },
+        "secundarios": [
+          {
+            "Trabajo/Vocación": {
+              "es": "El principio de «doble honor» para los ancianos que gobiernan bien y trabajan en la Palabra y la enseñanza (1Ti 5:17–18) afirma la vocación pastoral como trabajo legítimo merecedor de sostenimiento económico por la comunidad.",
+              "en": "The principle of 'double honor' for elders who rule well and labor in preaching and teaching (1Tim 5:17–18) affirms the pastoral vocation as legitimate work deserving of economic support by the community.",
+              "pt": "O princípio de 'honra dupla' para os presbíteros que governam bem e trabalham na pregação e no ensino (1Tm 5:17–18) afirma a vocação pastoral como trabalho legítimo merecedor de sustento econômico pela comunidade."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "La exhortación a no imponer manos precipitadamente sobre nadie y a no participar de los pecados ajenos (1Ti 5:22) establece la santidad como criterio irrenunciable para la ordenación y la disciplina eclesiástica.",
+              "en": "The exhortation not to be hasty in laying on hands and not to share in others' sins (1Tim 5:22) establishes holiness as the non-negotiable criterion for ordination and ecclesial discipline.",
+              "pt": "A exortação a não impor mãos precipitadamente sobre ninguém e a não participar dos pecados alheios (1Tm 5:22) estabelece a santidade como critério irrenunciável para a ordenação e a disciplina eclesiástica."
+            }
+          }
+        ]
+      },
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 25:4",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita explícitamente Dt 25:4 en 1Ti 5:18 —«no pondrás bozal al buey cuando trilla»— para fundamentar el sostenimiento económico de los ancianos, aplicando la legislación mosaica al ministerio cristiano (cf. 1Co 9:9).",
+            "en": "Paul explicitly cites Deut 25:4 in 1Tim 5:18 — 'You shall not muzzle an ox when it treads out the grain' — to ground the financial support of elders, applying Mosaic legislation to Christian ministry (cf. 1Cor 9:9).",
+            "pt": "Paulo cita explicitamente Dt 25:4 em 1Tm 5:18 — 'Não atarás a boca ao boi que debulha' — para fundamentar o sustento econômico dos presbíteros, aplicando a legislação mosaica ao ministério cristão (cf. 1Co 9:9)."
+          }
+        },
+        {
+          "ref": "Lc 10:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita «digno es el obrero de su salario» (Lc 10:7) junto a Dt 25:4 como «Escritura» en 1Ti 5:18, siendo una de las instancias más tempranas en que un texto evangélico recibe autoridad canónica equivalente a la Torah.",
+            "en": "Paul cites 'the laborer deserves his wages' (Luke 10:7) alongside Deut 25:4 as 'Scripture' in 1Tim 5:18, making this one of the earliest instances in which a Gospel text receives canonical authority equivalent to the Torah.",
+            "pt": "Paulo cita 'o obreiro é digno do seu salário' (Lc 10:7) ao lado de Dt 25:4 como 'Escritura' em 1Tm 5:18, sendo uma das instâncias mais antigas em que um texto evangélico recebe autoridade canônica equivalente à Torah."
+          }
+        },
+        {
+          "ref": "Dt 19:15",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La norma de que la acusación contra un anciano requiere «dos o tres testigos» (1Ti 5:19) aplica directamente el estándar judicial de Dt 19:15 al proceso disciplinario eclesiástico, demostrando la continuidad del principio bíblico de justicia.",
+            "en": "The rule requiring 'two or three witnesses' before an accusation against an elder (1Tim 5:19) directly applies the judicial standard of Deut 19:15 to the ecclesial disciplinary process, demonstrating the continuity of the biblical justice principle.",
+            "pt": "A norma que exige 'duas ou três testemunhas' antes de uma acusação contra um presbítero (1Tm 5:19) aplica diretamente o padrão judicial de Dt 19:15 ao processo disciplinar eclesial, demonstrando a continuidade do princípio bíblico de justiça."
+          }
+        }
+      ]
     },
     {
       "rangoInicio": 6,
@@ -993,7 +1263,61 @@
         "pt": "A exortação final de 'guardar o depósito' evitando a falsa gnose (1Tm 6:20), que resume o mandato central de toda a carta e constitui a primeira referência canônica ao termo gnōsis como ameaça doutrinária para a igreja."
       },
       "versiculoClave": "1Ti 6:20",
-      "era": "Aplicación"
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "La exhortación final a «guardar el depósito» evitando la falsa gnosis y las controversias vanas (1Ti 6:20) resume el mandato central de toda la carta: la custodia fiel de la sana doctrina apostólica como responsabilidad primaria del ministro cristiano.",
+            "en": "The final exhortation to 'guard the deposit' by avoiding false gnosis and vain controversies (1Tim 6:20) summarizes the central mandate of the entire letter: the faithful custody of sound apostolic doctrine as the Christian minister's primary responsibility.",
+            "pt": "A exortação final a 'guardar o depósito' evitando a falsa gnose e as controvérsias vãs (1Tm 6:20) resume o mandato central de toda a carta: a guarda fiel da sã doutrina apostólica como responsabilidade primária do ministro cristão."
+          }
+        },
+        "secundarios": [
+          {
+            "Vida Eterna": {
+              "es": "Pablo exhorta a Timoteo a «echar mano de la vida eterna» a la cual fue llamado (1Ti 6:12), orientando toda la lucha ministerial y la renuncia a las riquezas temporales (1Ti 6:6–10) hacia la esperanza escatológica.",
+              "en": "Paul exhorts Timothy to 'take hold of the eternal life' to which he was called (1Tim 6:12), orienting all ministerial struggle and renunciation of temporal wealth (1Tim 6:6–10) toward the eschatological hope.",
+              "pt": "Paulo exorta Timóteo a 'apoderar-se da vida eterna' à qual foi chamado (1Tm 6:12), orientando toda a luta ministerial e a renúncia às riquezas temporais (1Tm 6:6–10) para a esperança escatológica."
+            }
+          },
+          {
+            "Segunda Venida": {
+              "es": "Pablo encarga guardar el mandamiento «hasta la aparición de nuestro Señor Jesucristo» que el Dios bienaventurado manifestará a su tiempo (1Ti 6:14–15), vinculando la fidelidad ministerial presente con la certeza de la parusía.",
+              "en": "Paul charges the keeping of the commandment 'until the appearing of our Lord Jesus Christ' that the blessed God will display at the proper time (1Tim 6:14–15), linking present ministerial faithfulness to the certainty of the parousia.",
+              "pt": "Paulo manda guardar o mandamento 'até a manifestação de nosso Senhor Jesus Cristo' que o Deus bem-aventurado mostrará a seu tempo (1Tm 6:14–15), vinculando a fidelidade ministerial presente à certeza da parusia."
+            }
+          }
+        ]
+      },
+      "referenciasRelacionadas": [
+        {
+          "ref": "Job 1:21",
+          "tipo": "alusión",
+          "nota": {
+            "es": "«Nada trajimos al mundo, y nada podemos llevarnos de él» (1Ti 6:7) es un eco de Job 1:21 —«Desnudo salí del vientre de mi madre, y desnudo volveré allá»—, fundamentando el contentamiento cristiano en la misma confesión de finitud creaturalque Job.",
+            "en": "'We brought nothing into the world, and we cannot take anything out of it' (1Tim 6:7) echoes Job 1:21 — 'Naked I came from my mother's womb, and naked shall I return' — grounding Christian contentment in the same confession of creaturely finitude as Job.",
+            "pt": "'Nada trouxemos para este mundo, e nada podemos levar daqui' (1Tm 6:7) ecoa Jó 1:21 — 'Nu saí do ventre de minha mãe e nu voltarei' —, fundamentando o contentamento cristão na mesma confissão de finitude criatural que Jó."
+          }
+        },
+        {
+          "ref": "Dt 10:17",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La doxología «Rey de reyes y Señor de señores» (1Ti 6:15) es un eco directo de Dt 10:17 —«Dios de dioses y Señor de señores»—, transfiriendo a Cristo el título de soberanía absoluta que el AT reserva para YHWH.",
+            "en": "The doxology 'King of kings and Lord of lords' (1Tim 6:15) directly echoes Deut 10:17 — 'God of gods and Lord of lords' — transferring to Christ the title of absolute sovereignty that the OT reserves for YHWH.",
+            "pt": "A doxologia 'Rei dos reis e Senhor dos senhores' (1Tm 6:15) ecoa diretamente Dt 10:17 — 'Deus dos deuses e Senhor dos senhores' —, transferindo a Cristo o título de soberania absoluta que o AT reserva para YHWH."
+          }
+        },
+        {
+          "ref": "2Ti 1:14",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La exhortación a «guardar el buen depósito que te fue encomendado» (1Ti 6:20) es retomada con palabras casi idénticas en 2Ti 1:14, constituyendo el mandato programático que une temáticamente ambas cartas pastorales.",
+            "en": "The exhortation to 'guard the good deposit entrusted to you' (1Tim 6:20) is taken up in nearly identical words in 2Tim 1:14, forming the programmatic charge that thematically unites both Pastoral Epistles.",
+            "pt": "A exortação a 'guardar o bom depósito que te foi confiado' (1Tm 6:20) é retomada com palavras quase idênticas em 2Tm 1:14, constituindo o mandato programático que une tematicamente as duas cartas pastorais."
+          }
+        }
+      ]
     }
   ],
   "fuentes": [

@@ -1080,7 +1080,61 @@
         "en": "Peter proclaims the living hope born from Christ's resurrection (1Pet 1:3), linking the historical act of resurrection with the believer's current regeneration and future inheritance, the foundation of the letter's entire theology.",
         "pt": "Pedro proclama a esperança viva nascida da ressurreição de Cristo (1Pe 1:3), vinculando o ato histórico da ressurreição com a regeneração atual do crente e sua herança futura, fundamento de toda a teologia da carta."
       },
-      "versiculoClave": "1P 1:3"
+      "versiculoClave": "1P 1:3",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Lv 11:44",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita explícitamente Lv 11:44 —«Seréis santos porque yo soy santo»— en 1P 1:15–16, transfiriendo el imperativo de santidad de la legislación levítica al pueblo del nuevo pacto y fundamentando la ética cristiana en el carácter inmutable de Dios.",
+            "en": "Peter explicitly cites Lev 11:44 — 'You shall be holy, for I am holy' — in 1Pet 1:15–16, transferring the holiness imperative from Levitical legislation to the new covenant people and grounding Christian ethics in the unchanging character of God.",
+            "pt": "Pedro cita explicitamente Lv 11:44 — 'Sede santos, porque eu sou santo' — em 1Pe 1:15–16, transferindo o imperativo de santidade da legislação levítica para o povo da nova aliança e fundamentando a ética cristã no caráter imutável de Deus."
+          }
+        },
+        {
+          "ref": "Is 40:6–8",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita Is 40:6–8 en 1P 1:24–25 —«Toda carne es como hierba... pero la palabra del Señor permanece para siempre»— para fundamentar el nuevo nacimiento: la transitoriedad de la carne contrasta con la permanencia eterna de la Palabra que engendró a los creyentes.",
+            "en": "Peter cites Isa 40:6–8 in 1Pet 1:24–25 — 'All flesh is like grass... but the word of the Lord remains forever' — to ground the new birth: the transience of the flesh contrasts with the eternal permanence of the Word that begot believers.",
+            "pt": "Pedro cita Is 40:6–8 em 1Pe 1:24–25 — 'Toda a carne é como erva... mas a palavra do Senhor permanece para sempre' — para fundamentar o novo nascimento: a transitoriedade da carne contrasta com a permanência eterna da Palavra que gerou os crentes."
+          }
+        },
+        {
+          "ref": "Ef 1:3–5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La declaración trinitaria de la elección en 1P 1:2 —elegidos según la presciencia del Padre, por la obra santificadora del Espíritu, para obedecer a Cristo— es el paralelo más próximo de Ef 1:3–5, donde Pablo proclama que Dios «nos escogió en él antes de la fundación del mundo» para ser santos e irreprensibles.",
+            "en": "The trinitarian declaration of election in 1Pet 1:2 — chosen according to the Father's foreknowledge, through the Spirit's sanctifying work, for obedience to Christ — is the closest parallel to Eph 1:3–5, where Paul proclaims that God 'chose us in him before the foundation of the world' to be holy and blameless.",
+            "pt": "A declaração trinitária da eleição em 1Pe 1:2 — eleitos segundo a presciência do Pai, pela obra santificadora do Espírito, para obedecer a Cristo — é o paralelo mais próximo de Ef 1:3–5, onde Paulo proclama que Deus 'nos elegeu nele antes da fundação do mundo' para sermos santos e irrepreensíveis."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "La carta abre con la declaración trinitaria de que los creyentes son «elegidos según la presciencia de Dios Padre, por la obra santificadora del Espíritu, para obedecer a Jesucristo» (1P 1:2), y de ella fluyen la esperanza viva, la herencia reservada en los cielos y el imperativo de santidad que estructuran todo el capítulo.",
+            "en": "The letter opens with the trinitarian declaration that believers are 'chosen according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ' (1Pet 1:2), from which flow the living hope, the inheritance reserved in heaven, and the holiness imperative that structure the entire chapter.",
+            "pt": "A carta abre com a declaração trinitária de que os crentes são 'eleitos segundo a presciência de Deus Pai, pela obra santificadora do Espírito, para obedecer a Jesus Cristo' (1Pe 1:2), e dela fluem a esperança viva, a herança reservada nos céus e o imperativo de santidade que estruturam todo o capítulo."
+          }
+        },
+        "secundarios": [
+          {
+            "Corazón Nuevo/Nuevo Nacimiento": {
+              "es": "Los creyentes han sido «regenerados, no de simiente corruptible sino de incorruptible, por la Palabra de Dios que vive y permanece» (1P 1:23), vinculando el nuevo nacimiento directamente con la permanencia eterna de la Palabra que cita Is 40:8, haciendo del texto bíblico el instrumento de la regeneración.",
+              "en": "Believers have been 'born again, not of perishable seed but of imperishable, through the living and abiding word of God' (1Pet 1:23), linking the new birth directly to the eternal permanence of the Word that cites Isa 40:8, making the biblical text the instrument of regeneration.",
+              "pt": "Os crentes foram 'regenerados, não de semente corruptível, mas de incorruptível, pela Palavra de Deus que vive e permanece' (1Pe 1:23), vinculando o novo nascimento diretamente à permanência eterna da Palavra que cita Is 40:8, fazendo do texto bíblico o instrumento da regeneração."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "El imperativo «sed santos, porque yo soy santo» (1P 1:15–16, citando Lv 11:44) ancla la ética del nuevo pacto en el carácter inmutable de Dios, convirtiendo la santidad no en una aspiración moral sino en la consecuencia necesaria de la elección divina y del nuevo nacimiento.",
+              "en": "The imperative 'be holy, for I am holy' (1Pet 1:15–16, citing Lev 11:44) anchors new covenant ethics in the unchanging character of God, making holiness not a moral aspiration but the necessary consequence of divine election and new birth.",
+              "pt": "O imperativo 'sede santos, porque eu sou santo' (1Pe 1:15–16, citando Lv 11:44) ancora a ética da nova aliança no caráter imutável de Deus, tornando a santidade não uma aspiração moral mas a consequência necessária da eleição divina e do novo nascimento."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 2,
@@ -1101,7 +1155,70 @@
         "en": "Peter proclaims the corporate identity of the church as the new covenant Israel: 'a chosen race, a royal priesthood, a holy nation, a people for his own possession' (1Pet 2:9), transferring the covenantal titles of Exod 19:5–6 to new covenant believers — the most theologically significant moment in the letter's ecclesiology.",
         "pt": "Pedro proclama a identidade corporativa da igreja como novo Israel da aliança: 'geração eleita, sacerdócio real, nação santa, povo adquirido' (1Pe 2:9), transferindo os títulos pactuais de Ex 19:5–6 aos crentes da nova aliança — o momento teológico mais importante da eclesiologia da carta."
       },
-      "versiculoClave": "1P 2:9"
+      "versiculoClave": "1P 2:9",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ex 19:5–6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La identidad corporativa de 1P 2:9 —«linaje escogido, real sacerdocio, nación santa, pueblo adquirido»— es el cumplimiento directo de Ex 19:5–6, donde Dios constituyó a Israel en el Sinaí como «reino de sacerdotes y nación santa»; Pedro transfiere estos títulos pactales al nuevo Israel del nuevo pacto.",
+            "en": "The corporate identity of 1Pet 2:9 — 'a chosen race, a royal priesthood, a holy nation, a people for his own possession' — is the direct fulfillment of Exod 19:5–6, where God constituted Israel at Sinai as 'a kingdom of priests and a holy nation'; Peter transfers these covenant titles to the new Israel of the new covenant.",
+            "pt": "A identidade corporativa de 1Pe 2:9 — 'geração eleita, sacerdócio real, nação santa, povo adquirido' — é o cumplimento direto de Ex 19:5–6, onde Deus constituiu Israel no Sinai como 'reino de sacerdotes e nação santa'; Pedro transfere esses títulos pactais ao novo Israel da nova aliança."
+          }
+        },
+        {
+          "ref": "Is 53:4–6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La declaración «él mismo llevó nuestros pecados en su cuerpo en el madero» (1P 2:24) cumple directamente Is 53:4–6, el canto del Siervo Sufriente que profetizó la muerte vicaria del Ungido; Pedro aplica esta tipología al sufrimiento injusto de los siervos como imitación del patrón del Siervo.",
+            "en": "The declaration 'he himself bore our sins in his body on the tree' (1Pet 2:24) directly fulfills Isa 53:4–6, the Suffering Servant song that prophesied the Anointed One's vicarious death; Peter applies this typology to the unjust suffering of servants as imitation of the Servant's pattern.",
+            "pt": "A declaração 'ele mesmo levou os nossos pecados em seu corpo sobre o madeiro' (1Pe 2:24) cumpre diretamente Is 53:4–6, o cântico do Servo Sofredor que profetizou a morte vicária do Ungido; Pedro aplica essa tipologia ao sofrimento injusto dos servos como imitação do padrão do Servo."
+          }
+        },
+        {
+          "ref": "Sal 118:22",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita Sal 118:22 en 1P 2:7 —«la piedra que desecharon los edificadores ha venido a ser la cabeza del ángulo»— identificando a Cristo como la Piedra rechazada por Israel pero vindicada por Dios en la resurrección, el mismo versículo que Jesús aplicó a sí mismo en Mt 21:42 y Pedro en su discurso en Hch 4:11.",
+            "en": "Peter cites Ps 118:22 in 1Pet 2:7 — 'the stone that the builders rejected has become the cornerstone' — identifying Christ as the Stone rejected by Israel but vindicated by God in the resurrection, the same verse Jesus applied to himself in Matt 21:42 and Peter cited in his speech in Acts 4:11.",
+            "pt": "Pedro cita Sl 118:22 em 1Pe 2:7 — 'a pedra que os construtores rejeitaram tornou-se a pedra angular' — identificando Cristo como a Pedra rejeitada por Israel mas vindicada por Deus na ressurreição, o mesmo versículo que Jesus aplicou a si mesmo em Mt 21:42 e Pedro citou em seu discurso em At 4:11."
+          }
+        },
+        {
+          "ref": "Is 28:16",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita Is 28:16 en 1P 2:6 —«He aquí, pongo en Sion una piedra angular, escogida y preciosa; y el que crea en él no será avergonzado»— aplicando el oráculo de Isaías a Cristo como el cimiento divino escogido sobre el que Dios edifica su nueva casa espiritual.",
+            "en": "Peter cites Isa 28:16 in 1Pet 2:6 — 'Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame' — applying Isaiah's oracle to Christ as the divinely chosen foundation on which God builds his new spiritual house.",
+            "pt": "Pedro cita Is 28:16 em 1Pe 2:6 — 'Eis que coloco em Sião uma pedra angular, eleita e preciosa; e aquele que nela crer não será envergonhado' — aplicando o oráculo de Isaías a Cristo como o fundamento divinamente escolhido sobre o qual Deus edifica sua nova casa espiritual."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "Pedro transforma la identidad pactual de Israel en la identidad de la iglesia del nuevo pacto: «linaje escogido, real sacerdocio, nación santa, pueblo adquirido» (1P 2:9, cumpliendo Ex 19:5–6), haciendo de la iglesia el nuevo Israel cuya misión es «proclamar las excelencias» de Dios ante las naciones.",
+            "en": "Peter transforms the covenant identity of Israel into the identity of the new covenant church: 'a chosen race, a royal priesthood, a holy nation, a people for his own possession' (1Pet 2:9, fulfilling Exod 19:5–6), making the church the new Israel whose mission is to 'proclaim the excellencies' of God before the nations.",
+            "pt": "Pedro transforma a identidade pactual de Israel na identidade da igreja da nova aliança: 'geração eleita, sacerdócio real, nação santa, povo adquirido' (1Pe 2:9, cumprindo Ex 19:5–6), fazendo da igreja o novo Israel cuja missão é 'proclamar as excelências' de Deus diante das nações."
+          }
+        },
+        "secundarios": [
+          {
+            "Sacerdocio": {
+              "es": "Los creyentes son edificados como «piedras vivas» en «sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Jesucristo» (1P 2:5), constituyendo la iglesia entera como comunidad sacerdotal mediadora, cumplimiento del «real sacerdocio» de Ex 19:6.",
+              "en": "Believers are built as 'living stones' into 'a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ' (1Pet 2:5), constituting the entire church as a mediating priestly community, fulfillment of the 'royal priesthood' of Exod 19:6.",
+              "pt": "Os crentes são edificados como 'pedras vivas' em 'sacerdócio santo, para oferecer sacrifícios espirituais aceitáveis a Deus por meio de Jesus Cristo' (1Pe 2:5), constituindo a igreja inteira como comunidade sacerdotal mediadora, cumprimento do 'sacerdócio real' de Ex 19:6."
+            }
+          },
+          {
+            "Siervo Sufriente": {
+              "es": "Cristo como modelo del sufrimiento injusto —«él mismo llevó nuestros pecados en su cuerpo en el madero» (1P 2:24, cumpliendo Is 53:4–6)— establece el patrón del Siervo como norma de vida para los creyentes que son «forasteros y peregrinos» llamados a seguir sus pisadas (1P 2:11,21).",
+              "en": "Christ as the model of unjust suffering — 'he himself bore our sins in his body on the tree' (1Pet 2:24, fulfilling Isa 53:4–6) — establishes the Servant pattern as the norm of life for believers who are 'sojourners and exiles' called to follow in his steps (1Pet 2:11,21).",
+              "pt": "Cristo como modelo do sofrimento injusto — 'ele mesmo levou os nossos pecados em seu corpo sobre o madeiro' (1Pe 2:24, cumprindo Is 53:4–6) — estabelece o padrão do Servo como norma de vida para os crentes que são 'peregrinos e forasteiros' chamados a seguir seus passos (1Pe 2:11,21)."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 3,
@@ -1122,7 +1239,61 @@
         "en": "Christ 'put to death in the flesh but made alive in the spirit' proclaims his victory over all spiritual powers and ascends to heaven where 'angels, authorities, and powers have been subjected to him' (1Pet 3:22), affirming the cosmic sovereignty of the risen Christ as the foundation of the persecuted believer's hope.",
         "pt": "Cristo 'morto na carne, mas vivificado em espírito' proclama sua vitória sobre todas as potestades espirituais e ascende ao céu onde 'anjos, autoridades e potestades lhe estão sujeitos' (1Pe 3:22), afirmando a soberania cósmica do Cristo ressuscitado como fundamento da esperança do crente perseguido."
       },
-      "versiculoClave": "1P 3:18"
+      "versiculoClave": "1P 3:18",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 34:12–16",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita extensamente Sal 34:12–16 en 1P 3:10–12 —«El que quiera amar la vida... porque los ojos del Señor están sobre los justos»—, usando la sabiduría de David sobre la conducta justa frente al mal como fundamento escritural de la ética del sufrimiento inocente.",
+            "en": "Peter extensively cites Ps 34:12–16 in 1Pet 3:10–12 — 'Whoever desires to love life... for the eyes of the Lord are on the righteous' — using David's wisdom on the righteous conduct before evil as the scriptural foundation for the ethics of innocent suffering.",
+            "pt": "Pedro cita extensamente Sl 34:12–16 em 1Pe 3:10–12 — 'Aquele que quiser amar a vida... porque os olhos do Senhor estão sobre os justos' —, usando a sabedoria de Davi sobre a conduta justa diante do mal como fundamento escritural da ética do sofrimento inocente."
+          }
+        },
+        {
+          "ref": "Gn 6:5–8",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Pedro presenta a Noé y los ocho salvados «a través del agua» (1P 3:20–21) como tipo del bautismo que ahora salva: así como el agua del diluvio destruyó el mundo antiguo y preservó al remanente fiel, el bautismo significa el paso del creyente por la muerte de Cristo hacia la nueva creación del pacto.",
+            "en": "Peter presents Noah and the eight saved 'through water' (1Pet 3:20–21) as a type of the baptism that now saves: just as the flood waters destroyed the old world and preserved the faithful remnant, baptism signifies the believer's passage through Christ's death into the new covenant creation.",
+            "pt": "Pedro apresenta Noé e os oito salvos 'através da água' (1Pe 3:20–21) como tipo do batismo que agora salva: assim como as águas do dilúvio destruíram o mundo antigo e preservaram o remanescente fiel, o batismo significa a passagem do crente pela morte de Cristo para a nova criação da aliança."
+          }
+        },
+        {
+          "ref": "Sal 110:1",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La declaración de que Cristo, habiendo subido al cielo, está «a la diestra de Dios, con ángeles, autoridades y potestades sujetas a él» (1P 3:22) es el cumplimiento de Sal 110:1 —«Siéntate a mi diestra»—, el texto mesiánico más citado del NT, que afirma la soberanía cósmica del Cristo resucitado como fundamento de la esperanza del creyente perseguido.",
+            "en": "The declaration that Christ, having gone into heaven, is 'at the right hand of God, with angels, authorities, and powers having been subjected to him' (1Pet 3:22) fulfills Ps 110:1 — 'Sit at my right hand' — the most-cited messianic text in the NT, affirming the cosmic sovereignty of the risen Christ as the foundation of the persecuted believer's hope.",
+            "pt": "A declaração de que Cristo, tendo subido ao céu, está 'à direita de Deus, com anjos, autoridades e potestades a ele sujeitos' (1Pe 3:22) é o cumprimento de Sl 110:1 — 'Senta-te à minha direita' —, o texto messiânico mais citado no NT, que afirma a soberania cósmica do Cristo ressuscitado como fundamento da esperança do crente perseguido."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Resurrección": {
+            "es": "El clímax cristológico del capítulo es Cristo «muerto en la carne pero vivificado en el espíritu» (1P 3:18), quien asciende al cielo donde «ángeles, autoridades y potestades le están sujetos» (1P 3:22): la resurrección no es solo personal sino cósmica, y la soberanía del Cristo resucitado es el fundamento de la esperanza del creyente perseguido.",
+            "en": "The Christological climax of the chapter is Christ 'put to death in the flesh but made alive in the spirit' (1Pet 3:18), who ascends to heaven where 'angels, authorities, and powers have been subjected to him' (1Pet 3:22): the resurrection is not merely personal but cosmic, and the sovereignty of the risen Christ is the foundation of the persecuted believer's hope.",
+            "pt": "O clímax cristológico do capítulo é Cristo 'morto na carne, mas vivificado no espírito' (1Pe 3:18), que ascende ao céu onde 'anjos, autoridades e potestades lhe estão sujeitos' (1Pe 3:22): a ressurreição não é apenas pessoal mas cósmica, e a soberania do Cristo ressuscitado é o fundamento da esperança do crente perseguido."
+          }
+        },
+        "secundarios": [
+          {
+            "Matrimonio": {
+              "es": "Las instrucciones para esposas y esposos (1P 3:1–7) articulan el orden del matrimonio dentro de la comunidad del pacto: las esposas ganan a sus maridos mediante conducta pura (1P 3:1–2) y los esposos las honran como «coherederas de la gracia de la vida» (1P 3:7), elevando el matrimonio a señal de la gracia pactual.",
+              "en": "The instructions for wives and husbands (1Pet 3:1–7) articulate the order of marriage within the covenant community: wives win their husbands through pure conduct (1Pet 3:1–2) and husbands honor them as 'co-heirs of the grace of life' (1Pet 3:7), elevating marriage to a sign of covenant grace.",
+              "pt": "As instruções para esposas e esposos (1Pe 3:1–7) articulam a ordem do matrimônio dentro da comunidade da aliança: as esposas ganham seus maridos mediante conduta pura (1Pe 3:1–2) e os esposos as honram como 'co-herdeiras da graça da vida' (1Pe 3:7), elevando o matrimônio a sinal da graça pactual."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "Pedro llama a toda la comunidad a un espíritu «afable y tranquilo» (1P 3:4) y a no devolver «mal por mal» (1P 3:9), fundamentando la ética de la paz en Sal 34:12–16 (1P 3:10–12): la conducta santa bajo sufrimiento injusto refleja la confianza en que el Señor resucitado vela por los justos.",
+              "en": "Peter calls the entire community to a 'gentle and quiet spirit' (1Pet 3:4) and not to return 'evil for evil' (1Pet 3:9), grounding the ethics of peace in Ps 34:12–16 (1Pet 3:10–12): holy conduct under unjust suffering reflects trust that the risen Lord watches over the righteous.",
+              "pt": "Pedro chama toda a comunidade a um espírito 'manso e tranquilo' (1Pe 3:4) e a não retribuir 'mal por mal' (1Pe 3:9), fundamentando a ética da paz em Sl 34:12–16 (1Pe 3:10–12): a conduta santa sob sofrimento injusto reflete a confiança em que o Senhor ressuscitado vela pelos justos."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 4,
@@ -1143,7 +1314,70 @@
         "en": "Peter declares that the believer's suffering is not accidental but constitutive: 'as you share Christ's sufferings, rejoice, so that you may also rejoice and be glad when his glory is revealed' (1Pet 4:13), establishing the soteriological parallelism between present suffering and future glory.",
         "pt": "Pedro declara que o sofrimento do crente não é acidental, mas constitutivo: 'na medida em que sois participantes dos sofrimentos de Cristo, alegrai-vos, para que também na revelação da sua glória vos alegreis com exultação' (1Pe 4:13), estabelecendo o paralelismo soteriológico entre o sofrimento presente e a glória futura."
       },
-      "versiculoClave": "1P 4:13"
+      "versiculoClave": "1P 4:13",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Pr 10:12",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La máxima «el amor cubrirá multitud de pecados» (1P 4:8) alude directamente a Pr 10:12 —«el odio suscita rencillas, pero el amor cubre todas las faltas»—, un principio proverbial citado también en Stg 5:20, convirtiéndolo en piedra angular de la ética comunitaria bajo persecución.",
+            "en": "The maxim 'love covers a multitude of sins' (1Pet 4:8) directly alludes to Prov 10:12 — 'hatred stirs up strife, but love covers all offenses' — a proverbial principle also cited in Jas 5:20, making it a cornerstone of communal ethics under persecution.",
+            "pt": "A máxima 'o amor cobrirá multidão de pecados' (1Pe 4:8) alude diretamente a Pv 10:12 — 'o ódio suscita contendas, mas o amor cobre todas as faltas' —, um princípio proverbial também citado em Tg 5:20, tornando-o pedra angular da ética comunitária sob perseguição."
+          }
+        },
+        {
+          "ref": "Ez 9:6",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La afirmación de que «el juicio comience por la casa de Dios» (1P 4:17) evoca la visión de Ez 9:6, donde el ángel exterminador inicia el juicio divino «por el santuario»; Pedro aplica este patrón del AT a la persecución de la iglesia como disciplina purificadora de Dios sobre su propio pueblo.",
+            "en": "The affirmation that 'judgment must begin at the household of God' (1Pet 4:17) evokes the vision of Ezek 9:6, where the destroying angel begins divine judgment 'at the sanctuary'; Peter applies this OT pattern to the persecution of the church as God's purifying discipline on his own people.",
+            "pt": "A afirmação de que 'o juízo há de começar pela casa de Deus' (1Pe 4:17) evoca a visão de Ez 9:6, onde o anjo destruidor inicia o julgamento divino 'pelo santuário'; Pedro aplica esse padrão do AT à perseguição da igreja como disciplina purificadora de Deus sobre o seu próprio povo."
+          }
+        },
+        {
+          "ref": "Pr 11:31",
+          "tipo": "cita",
+          "nota": {
+            "es": "«Si el justo con dificultad se salva, ¿en dónde aparecerá el impío y el pecador?» (1P 4:18) cita Pr 11:31 LXX, usando la lógica proverbial para subrayar la gravedad del juicio escatológico: si el creyente atraviesa la purificación del sufrimiento, cuánto más severa será la suerte del que rechaza a Dios.",
+            "en": "'If the righteous is scarcely saved, what will become of the ungodly and the sinner?' (1Pet 4:18) cites Prov 11:31 LXX, using proverbial logic to underscore the gravity of eschatological judgment: if the believer passes through the purification of suffering, how much more severe will be the lot of those who reject God.",
+            "pt": "'Se o justo com dificuldade se salva, onde aparecerá o ímpio e o pecador?' (1Pe 4:18) cita Pv 11:31 LXX, usando a lógica proverbial para sublinhar a gravidade do julgamento escatológico: se o crente atravessa a purificação do sofrimento, quão mais severa será a sorte de quem rejeita a Deus."
+          }
+        },
+        {
+          "ref": "Ro 8:17",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La correspondencia entre participar de los padecimientos de Cristo y participar de su gloria (1P 4:13) es el paralelo exacto de Ro 8:17: «si en verdad padecemos juntamente con él, para que juntamente con él seamos glorificados», formulando el principio soteriológico fundamental de que la vía a la gloria pasa por la cruz.",
+            "en": "The correspondence between sharing in Christ's sufferings and sharing in his glory (1Pet 4:13) is the precise parallel of Rom 8:17: 'if we suffer with him we may also be glorified with him', formulating the fundamental soteriological principle that the path to glory passes through the cross.",
+            "pt": "A correspondência entre participar dos sofrimentos de Cristo e participar de sua glória (1Pe 4:13) é o paralelo exato de Rm 8:17: 'se de fato sofremos com ele, para que também com ele sejamos glorificados', formulando o princípio soteriológico fundamental de que o caminho para a glória passa pela cruz."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Siervo Sufriente": {
+            "es": "El capítulo aplica el patrón del Siervo Sufriente a la vida del creyente: «puesto que Cristo ha padecido en la carne, armaos vosotros también del mismo propósito» (1P 4:1), y la «prueba de fuego» no es extraña sino participación en «los padecimientos de Cristo» que garantiza la co-glorificación en su revelación (1P 4:13).",
+            "en": "The chapter applies the Suffering Servant pattern to the believer's life: 'since Christ suffered in the flesh, arm yourselves with the same way of thinking' (1Pet 4:1), and the 'fiery trial' is not strange but participation in 'the sufferings of Christ' that guarantees co-glorification at his appearing (1Pet 4:13).",
+            "pt": "O capítulo aplica o padrão do Servo Sofredor à vida do crente: 'pois Cristo padeceu na carne, armai-vos também do mesmo propósito' (1Pe 4:1), e a 'prova de fogo' não é estranha mas participação nos 'sofrimentos de Cristo' que garante a co-glorificação em sua revelação (1Pe 4:13)."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La urgencia de que «el fin de todas las cosas se acerca» (1P 4:7) y la declaración de que «el juicio ha de comenzar por la casa de Dios» (1P 4:17, evocando Ez 9:6) enmarcan el sufrimiento de la iglesia dentro del juicio purificador de Dios que anticipa y precede al juicio final del impío.",
+              "en": "The urgency that 'the end of all things is at hand' (1Pet 4:7) and the declaration that 'judgment must begin at the household of God' (1Pet 4:17, evoking Ezek 9:6) frame the church's suffering within God's purifying judgment that anticipates and precedes the final judgment of the ungodly.",
+              "pt": "A urgência de que 'o fim de todas as coisas está próximo' (1Pe 4:7) e a declaração de que 'o juízo há de começar pela casa de Deus' (1Pe 4:17, evocando Ez 9:6) enquadram o sofrimento da igreja no julgamento purificador de Deus que antecipa e precede o julgamento final do ímpio."
+            }
+          },
+          {
+            "Santidad": {
+              "es": "El sufrimiento con Cristo produce ruptura efectiva con el pecado: el creyente «ya no vive conforme a las concupiscencias de los hombres, sino conforme a la voluntad de Dios» (1P 4:2), convirtiendo la participación en los padecimientos de Cristo en el instrumento de la santificación progresiva del creyente.",
+              "en": "Suffering with Christ produces an effective break with sin: the believer 'no longer lives for human passions but for the will of God' (1Pet 4:2), making participation in Christ's sufferings the instrument of the believer's progressive sanctification.",
+              "pt": "O sofrimento com Cristo produz ruptura efetiva com o pecado: o crente 'já não vive segundo as concupiscências dos homens, mas segundo a vontade de Deus' (1Pe 4:2), convertendo a participação nos sofrimentos de Cristo no instrumento da santificação progressiva do crente."
+            }
+          }
+        ]
+      }
     },
     {
       "rangoInicio": 5,
@@ -1164,7 +1398,70 @@
         "en": "Peter proclaims God's doxological promise to the believer who has suffered: 'the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you' after a little while (1Pet 5:10), sealing the suffering theology of the entire letter with the certainty of final glory.",
         "pt": "Pedro proclama a promessa doxológica de Deus ao crente que sofreu: 'o Deus de toda a graça, que em Cristo Jesus vos chamou para a sua glória eterna, depois que tiverdes sofrido um pouco, ele mesmo vos aperfeiçoará, confirmará, fortalecerá e estabelecerá' (1Pe 5:10), selando a teologia do sofrimento de toda a carta com a certeza da glória final."
       },
-      "versiculoClave": "1P 5:10"
+      "versiculoClave": "1P 5:10",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Pr 3:34",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pedro cita Pr 3:34 en 1P 5:5 —«Dios resiste a los soberbios, pero da gracia a los humildes»—, texto compartido también con Stg 4:6, que establece el fundamento escritural del llamado a la humildad mutua: la persecución exterior solo puede resistirse con la gracia que Dios otorga al humilde.",
+            "en": "Peter cites Prov 3:34 in 1Pet 5:5 — 'God opposes the proud but gives grace to the humble' — a text shared also with Jas 4:6, establishing the scriptural foundation for the call to mutual humility: external persecution can only be withstood with the grace God grants to the humble.",
+            "pt": "Pedro cita Pv 3:34 em 1Pe 5:5 — 'Deus resiste aos soberbos, mas dá graça aos humildes' —, texto compartilhado também com Tg 4:6, que estabelece o fundamento escritural do chamado à humildade mútua: a perseguição exterior só pode ser resistida com a graça que Deus outorga ao humilde."
+          }
+        },
+        {
+          "ref": "Ez 34:1–16",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El llamado a los ancianos a «pastorear el rebaño de Dios» (1P 5:2) y el título de «Pastor Supremo» reservado a Cristo (1P 5:4) evocan Ez 34:1–16, donde Dios condena a los pastores falsos de Israel y promete ser él mismo el Pastor que buscará a las ovejas perdidas; Cristo es el cumplimiento de ese Pastor prometido.",
+            "en": "The call to elders to 'shepherd the flock of God' (1Pet 5:2) and the title of 'Chief Shepherd' reserved for Christ (1Pet 5:4) evoke Ezek 34:1–16, where God condemns Israel's false shepherds and promises to be himself the Shepherd who will seek the lost sheep; Christ is the fulfillment of that promised Shepherd.",
+            "pt": "O chamado aos presbíteros a 'apascentar o rebanho de Deus' (1Pe 5:2) e o título de 'Pastor Supremo' reservado a Cristo (1Pe 5:4) evocam Ez 34:1–16, onde Deus condena os pastores falsos de Israel e promete ser ele mesmo o Pastor que buscará as ovelhas perdidas; Cristo é o cumprimento desse Pastor prometido."
+          }
+        },
+        {
+          "ref": "Sal 55:22",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La exhortación «echad toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros» (1P 5:7) es un eco de Sal 55:22 —«Echa sobre el SEÑOR tu carga, y él te sustentará»—, trasladando la confianza del salmista perseguido a la experiencia de los creyentes que confían en el cuidado providencial del Cristo exaltado.",
+            "en": "The exhortation 'cast all your anxieties on him, because he cares for you' (1Pet 5:7) echoes Ps 55:22 — 'Cast your burden on the LORD, and he will sustain you' — transferring the persecuted psalmist's trust to the experience of believers who trust in the providential care of the exalted Christ.",
+            "pt": "A exortação 'lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós' (1Pe 5:7) ecoa Sl 55:22 — 'Lança sobre o Senhor o teu fardo, e ele te sustentará' —, transferindo a confiança do salmista perseguido para a experiência dos crentes que confiam no cuidado providencial do Cristo exaltado."
+          }
+        },
+        {
+          "ref": "Jn 21:15–17",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La exhortación de Pedro a los ancianos a «pastorear el rebaño de Dios» (1P 5:2) está autobiográficamente arraigada en el mandato personal que Cristo le dio al mismo Pedro en Jn 21:15–17 —«Pastorea mis ovejas»—, dando a su instrucción la autoridad de quien recibió directamente la comisión del Pastor Supremo.",
+            "en": "Peter's exhortation to elders to 'shepherd the flock of God' (1Pet 5:2) is autobiographically rooted in the personal mandate Christ gave to Peter himself in John 21:15–17 — 'Tend my sheep' — giving his instruction the authority of one who personally received the commission from the Chief Shepherd himself.",
+            "pt": "A exortação de Pedro aos presbíteros a 'apascentar o rebanho de Deus' (1Pe 5:2) está autobiograficamente enraizada no mandato pessoal que Cristo deu ao próprio Pedro em Jo 21:15–17 — 'Apascenta as minhas ovelhas' —, dando à sua instrução a autoridade de quem recebeu diretamente a comissão do Pastor Supremo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pastor/Rey": {
+            "es": "Cristo es proclamado «Pastor Supremo» (1P 5:4) ante quien los ancianos rendirán cuentas; la imagen cumple la profecía de Ez 34 donde Dios prometió ser él mismo el Pastor de Israel, y la carta cierra con la promesa de que ese mismo Dios «os perfeccione, afirme, fortalezca y establezca» para su gloria eterna (1P 5:10).",
+            "en": "Christ is proclaimed 'Chief Shepherd' (1Pet 5:4) before whom elders will give account; the image fulfills the prophecy of Ezek 34 where God promised to be himself the Shepherd of Israel, and the letter closes with the promise that that same God will 'restore, confirm, strengthen, and establish you' for his eternal glory (1Pet 5:10).",
+            "pt": "Cristo é proclamado 'Pastor Supremo' (1Pe 5:4) diante de quem os presbíteros prestarão contas; a imagem cumpre a profecia de Ez 34, onde Deus prometeu ser ele mesmo o Pastor de Israel, e a carta fecha com a promessa de que esse mesmo Deus 'vos aperfeiçoe, confirme, fortaleça e estabeleça' para sua glória eterna (1Pe 5:10)."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "Pedro exhorta a «revestirse de humildad» (1P 5:5, citando Pr 3:34) y a resistir al diablo «firmes en la fe» (1P 5:9), articulando la humildad y la vigilancia espiritual como las marcas de santidad práctica del pueblo del Buen Pastor que sabe que la misma clase de sufrimientos se cumple en sus hermanos en el mundo (1P 5:9).",
+              "en": "Peter exhorts to 'clothe yourselves with humility' (1Pet 5:5, citing Prov 3:34) and to resist the devil 'firm in your faith' (1Pet 5:9), articulating humility and spiritual vigilance as the marks of practical holiness of the Good Shepherd's people who know the same kinds of suffering are being experienced by their brothers throughout the world (1Pet 5:9).",
+              "pt": "Pedro exorta a 'revestir-se de humildade' (1Pe 5:5, citando Pv 3:34) e a resistir ao diabo 'firmes na fé' (1Pe 5:9), articulando a humildade e a vigilância espiritual como marcas de santidade prática do povo do Bom Pastor que sabe que os mesmos sofrimentos se cumprem em seus irmãos no mundo (1Pe 5:9)."
+            }
+          },
+          {
+            "Gloria de Dios": {
+              "es": "La carta cierra con la promessa doxológica de que «el Dios de toda gracia, que os llamó a su gloria eterna en Jesucristo, después que hayáis padecido un poco de tiempo, él mismo os perfeccione, afirme, fortalezca y establezca» (1P 5:10), vinculando el sufrimiento presente con la gloria eterna de Dios como meta final del pacto.",
+              "en": "The letter closes with the doxological promise that 'the God of all grace, who has called you to his eternal glory in Christ, after you have suffered a little while, will himself restore, confirm, strengthen, and establish you' (1Pet 5:10), linking present suffering to the eternal glory of God as the covenant's ultimate goal.",
+              "pt": "A carta fecha com a promessa doxológica de que 'o Deus de toda graça, que vos chamou para a sua glória eterna em Cristo Jesus, depois que houverdes sofrido um pouco, ele mesmo vos aperfeiçoe, confirme, fortaleça e estabeleça' (1Pe 5:10), vinculando o sofrimento presente à glória eterna de Deus como meta final da aliança."
+            }
+          }
+        ]
+      }
     }
   ],
   "fuentes": [

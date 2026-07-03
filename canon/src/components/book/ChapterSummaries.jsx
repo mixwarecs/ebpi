@@ -134,7 +134,7 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, on
         <div style={{
           fontSize: 10,
           letterSpacing: 1.5,
-          color: "rgba(201,168,76,0.6)",
+          color: "rgba(22,8,2,0.72)",
           marginBottom: 4,
           textTransform: "uppercase",
         }}>
@@ -164,7 +164,7 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, on
           width: "100%",
           height: 28,
           filter: "invert(0.85) sepia(0.4) hue-rotate(10deg)",
-          opacity: 0.75,
+          opacity: 0.92,
         }}
       />
     </div>
@@ -359,8 +359,9 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                         }}>{UI[lang]?.temasLabels?.temas?.[tema] || tema}</div>
                         <div style={{
                           fontSize: 9,
+                          fontWeight: 700,
                           letterSpacing: 2,
-                          color: "rgba(22,8,2,0.45)",
+                          color: "rgba(22,8,2,0.72)",
                           marginTop: 3,
                         }}>{UI[lang]?.temasLabels?.categorias?.[cat] || cat}</div>
                         {(() => { const n = nota?.[lang] || nota?.es || ""; return n ? <div style={{fontSize: 14, lineHeight: 1.65, color: "rgba(22,8,2,0.78)", marginTop: 5, fontStyle: "italic"}}>{lv(n)}</div> : null; })()}
@@ -497,7 +498,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                     >
                       <ExternalLink size={11} strokeWidth={2} />
                       <strong style={{ fontWeight: 700 }}>{c.versiculoClave}</strong>
-                      <span style={{ opacity: 0.55 }}>
+                      <span style={{ opacity: 0.80 }}>
                         · {UI[lang]?.crossRefLabels?.verseKeyLabel || "Vers. clave"}
                       </span>
                     </a>

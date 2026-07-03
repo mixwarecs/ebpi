@@ -33,7 +33,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
                 transition:"all 0.15s",
               }}>
               <div style={{fontSize:15, fontFamily:"'Georgia',serif", fontWeight: isActive ? 700 : 500,
-                color: isActive ? "rgba(50,22,5,1)" : isHovered ? "rgba(50,22,5,0.85)" : "rgba(70,38,10,0.65)",
+                color: isActive ? "rgba(22,8,2,1)" : isHovered ? "rgba(22,8,2,0.88)" : "rgba(22,8,2,0.72)",
                 lineHeight:1.25, whiteSpace:"nowrap", overflow:"hidden", textOverflow:"ellipsis", transition:"color 0.15s",
               }}>
                 {cat.categoria}
@@ -115,7 +115,7 @@ export default function TheologyTab({ theology, wcfAnchors, bookTitle, categoria
             }}>
               {TL.readFull}
             </a>
-            <div style={{marginTop:12, fontSize:12, color:"rgba(65,38,10,0.55)", fontStyle:"italic"}}>
+            <div style={{marginTop:12, fontSize:12, color:"rgba(22,8,2,0.65)", fontStyle:"italic"}}>
               Haz clic en una doctrina arriba para volver al panel de teología sistemática
             </div>
           </div>

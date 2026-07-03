@@ -20,6 +20,7 @@ This is the complete field-by-field shape every CANON book record must follow. A
   "tituloOriginal": "Hebrew or Greek characters",
   "transliteracion": "phonetic romanization",
   "significado": { "es": "", "en": "", "pt": "" },
+  "resumenGeneral": { "es": "2–4 sentences tracing the theological arc of the book from opening to close", "en": "...", "pt": "..." },
   "capitulosTotal": 16,
 
   "autor": {
@@ -271,6 +272,7 @@ This is the complete field-by-field shape every CANON book record must follow. A
 - **`contextoHistorico.geografia`** — minimum 3 entries (added v1.2.0; required for every book, not optional)
 - **`contextoHistorico.fuentesANE`** — minimum 1 entry for OT books
 - **`personajes[].biografiaBiblica.fuenteTexto`** and **`meta.versionBiblia`** are both locked to the exact triple `{ "es": "NBLA", "en": "ESV", "pt": "ARC" }` — never vary these
+- **`resumenGeneral`** — trilingual object `{es, en, pt}`. Narrative arc of the book — the theological movement from opening to close. 2–4 sentences per language. Must cite specific chapter ranges and verse anchors. Does NOT duplicate `proposito` (purpose), `autor` (authorship), or `aportacionAlCanon` (canonical contribution). Arc framing must match the book's genre: "narrative arc" for narrative books; "argument" for epistles; "oracular arc" for prophetic; "thematic arc" for wisdom; "vision arc" for apocalyptic. This is the field rendered in the viewer's Overview tab.
 - **`año.display.es`** must read "Fecha de escritura" as its label, not "Datación" or any other phrasing
 - **`resumenCapitulos`** must cover every chapter of the book with no numeric gaps between consecutive units' `rangoFin`/`rangoInicio`
 - **`resumenCapitulos[].referenciasRelacionadas`** — optional array; omit the key entirely when empty (never write `[]`). Each item: `ref` uses ES abbreviations (same as `versiculoClave`); `tipo` must be one of the six controlled values (`cumplimiento`, `tipología`, `paralelo`, `doctrinal`, `cita`, `alusión`); `nota` is optional but must be a full trilingual `{es,en,pt}` object when present. `minItems: 1` if the array key is present at all. Scope constraint: every entry must relate to the content of that specific chapter range, not the book in general.
@@ -292,3 +294,4 @@ This is the complete field-by-field shape every CANON book record must follow. A
   - `contextoHistorico.fuentesANE[].nombre` and `.origen`: `string` → `trilingual`
   - `personajes[].hebreo`: new optional string field for original-language name characters
 - **v1.4.0** — added optional `referenciasRelacionadas` array to `resumenCapituloEntry`; new `referenciaRelacionadaEntry` definition with `ref` (verseRef, ES abbreviation), `tipo` (6-value enum: cumplimiento · tipología · paralelo · doctrinal · cita · alusión), and optional trilingual `nota`
+- **v1.5.0** — added `resumenGeneral` (trilingual) as a top-level field between `significado` and `capitulosTotal`; contains the book's theological arc (2–4 sentences per language, genre-appropriate framing); replaces `proposito` in the viewer's Overview tab (proposito remains in the Purpose tab)

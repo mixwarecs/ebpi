@@ -30,7 +30,7 @@ export default function SourcesTab({ sources, lang }) {
           </div>
         ))}
       </div>
-      <div style={{marginTop:20, fontSize:9, letterSpacing:3, color:"rgba(118,84,22,0.45)", textAlign:"center"}}>{UI[lang].pipeline}</div>
+      <div style={{marginTop:20, fontSize:9, letterSpacing:3, color:"rgba(22,8,2,0.55)", textAlign:"center"}}>{UI[lang].pipeline}</div>
 
       {activeSource && createPortal(
         <div style={GS.overlay(true)} onClick={e => { if (e.target === e.currentTarget) setActiveSource(null); }}>
@@ -40,7 +40,7 @@ export default function SourcesTab({ sources, lang }) {
               <div style={{display:"flex", alignItems:"flex-start", gap:18}}>
                 <div style={{width:56, height:56, borderRadius:3, flexShrink:0, background:`rgba(235,218,185,0.85)`, border:`1px solid rgba(139,90,20,0.35)`, display:"flex", alignItems:"center", justifyContent:"center", fontSize:22, color:"rgba(100,68,18,0.85)"}}>✦</div>
                 <div style={{flex:1}}>
-                  <div style={{fontSize:9, letterSpacing:3, color:"rgba(100,68,18,0.75)", marginBottom:4}}>{activeSource.tier} · {activeSource.meta}</div>
+                  <div style={{fontSize:9, letterSpacing:3, color:"rgba(22,8,2,0.70)", marginBottom:4}}>{activeSource.tier} · {activeSource.meta}</div>
                   <div style={{fontSize:22, fontWeight:700, color:"rgba(22,8,2,0.92)", lineHeight:1.2, marginBottom:4}}>{activeSource.title}</div>
                   <div style={{fontSize:15, fontStyle:"italic", color:"rgba(22,8,2,0.72)"}}>{activeSource.author}</div>
                 </div>

@@ -63,8 +63,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
     switch (activeTab) {
       case "overview": return (
         <div style={GS.prose}>
-          {bookData && (bookData.proposito[lang] || bookData.proposito.es)
-            ? lv(cap(bookData.proposito[lang] || bookData.proposito.es))
+          {bookData && (bookData.resumenGeneral?.[lang] || bookData.resumenGeneral?.es || bookData.proposito[lang] || bookData.proposito.es)
+            ? lv(cap(bookData.resumenGeneral?.[lang] || bookData.resumenGeneral?.es || bookData.proposito[lang] || bookData.proposito.es))
             : <>
                 Génesis es <strong style={{color:GOLD}}>el libro de los principios</strong>: el origen del cosmos, de la humanidad, del pecado y de la redención.
                 Como primer libro del canon, provee los fundamentos absolutos de toda la teología bíblica.
@@ -169,7 +169,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                   </div>
                 ))}
               </div>
-              <div style={{marginTop:10, fontSize:12, fontStyle:"italic", color:"rgba(60,35,8,0.55)"}}>
+              <div style={{marginTop:10, fontSize:12, fontStyle:"italic", color:"rgba(22,8,2,0.72)"}}>
                 {HL.chronologyNote}
               </div>
             </div>
@@ -178,8 +178,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fill,minmax(280px,1fr))", gap:12}}>
                 {HG.map((g, i) => (
                   <div key={i} style={{background:"rgba(201,168,76,0.06)", border:`1px solid rgba(139,90,20,0.2)`, borderRadius:3, padding:"15px 18px"}}>
-                    <div style={{fontSize:15, fontWeight:700, color:"rgba(100,68,18,0.90)", marginBottom:3}}>{g.lugar}</div>
-                    <div style={{fontSize:12, letterSpacing:0.5, color:"rgba(65,38,8,0.62)", marginBottom:8}}>{g.moderna}</div>
+                    <div style={{fontSize:15, fontWeight:700, color:"rgba(22,8,2,0.90)", marginBottom:3}}>{g.lugar}</div>
+                    <div style={{fontSize:12, letterSpacing:0.5, color:"rgba(22,8,2,0.70)", marginBottom:8}}>{g.moderna}</div>
                     <div style={{fontSize:14, lineHeight:1.65, color:"rgba(22,8,2,0.85)"}}>{lv(cap(g.desc))}</div>
                   </div>
                 ))}
@@ -202,7 +202,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 {HA.map((a, i) => (
                   <div key={i} style={{display:"flex", flexDirection:"column", gap:5, padding:"15px 0", borderBottom:`1px solid rgba(139,90,20,0.10)`}}>
                     <div style={{fontSize:16, fontWeight:700, color:"rgba(22,8,2,0.90)", lineHeight:1.3}}>{a.nombre}</div>
-                    <div style={{fontSize:13, letterSpacing:0.5, color:"rgba(100,68,18,0.75)", marginBottom:2}}>{a.origen}</div>
+                    <div style={{fontSize:13, letterSpacing:0.5, color:"rgba(22,8,2,0.70)", marginBottom:2}}>{a.origen}</div>
                     <div style={{fontSize:14, lineHeight:1.68, color:"rgba(22,8,2,0.82)"}}>{lv(cap(a.desc))}</div>
                   </div>
                 ))}
@@ -305,7 +305,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             ];
             return (
               <div key={label} style={{borderLeft:`2px solid rgba(201,168,76,0.3)`, paddingLeft:12}}>
-                <div style={{fontSize:10, letterSpacing:3, color:"rgba(110,60,15,0.85)", marginBottom:4, textTransform:"uppercase"}}>{label}</div>
+                <div style={{fontSize:10, fontWeight:700, letterSpacing:3, color:"rgba(22,8,2,0.80)", marginBottom:4, textTransform:"uppercase"}}>{label}</div>
                 <div style={{fontSize:14, color:"rgba(22,10,3,0.88)", lineHeight:1.4}}>{values[i]}</div>
               </div>
             );
@@ -385,7 +385,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             maskSize:"2% 100%", maskPosition:"50% 0", maskRepeat:"no-repeat",
           }}>
           <>
-            <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(70,38,10,0.65)", fontStyle:"italic", letterSpacing:1}}>
+            <div style={{textAlign:"center", padding:"10px 20px 4px", fontSize:13, color:"rgba(22,8,2,0.80)", fontStyle:"italic", letterSpacing:1}}>
               {UI[lang].hint}
             </div>
             <Timeline
@@ -427,8 +427,8 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 const Icon = [ExternalLink, Play, ChevronsDown, Share2, BookOpen][idx] || BookOpen;
                 return (
                   <div key={idx} style={{ display:"flex", alignItems:"flex-start", gap:8 }}>
-                    <Icon size={13} color="rgba(139,90,20,0.7)" style={{ flexShrink:0, marginTop:2 }} />
-                    <span style={{ fontSize:12, color:"rgba(55,28,8,0.70)", lineHeight:1.5 }}>{text}</span>
+                    <Icon size={13} color="rgba(0,0,0,0.75)" style={{ flexShrink:0, marginTop:2 }} />
+                    <span style={{ fontSize:12, color:"rgba(0,0,0,0.85)", lineHeight:1.5 }}>{text}</span>
                   </div>
                 );
               })}

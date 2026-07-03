@@ -47,6 +47,27 @@ Work through these in order. Each step lists its target fields — cross-referen
 - `capitulosTotal`: integer — the canonical chapter count for this book (e.g. `16` for Romans, `50` for Genesis). **Required** — the viewer uses this for timeline scaling and for clamping cross-book character positions. Without it the timeline falls back to 50 chapters, compressing shorter books and misplacing characters.
 - Source: internal knowledge
 
+### Step 1b — Resumen General
+**Field:** `resumenGeneral` — trilingual `{es, en, pt}`
+
+Write 2–4 sentences per language describing the theological arc of the book — the movement from its opening to its close. This is NOT a purpose statement (that belongs in `proposito`) and NOT an author bio (that belongs in `autor`). Focus exclusively on:
+
+- Where the book starts theologically
+- How it moves (key structural turns, narrative reversals, argumentative build)
+- Where it lands and what it leaves open or resolved
+
+**Genre-specific arc language** — match framing to the book's genre:
+- Narrative (Genesis–Joshua, Judges–Kings, Gospels, Acts): "narrative arc" — story movement, plot turns, crisis and resolution
+- Epistle (all NT letters): "argument" — logical/theological progression, how the case builds section by section
+- Prophetic (Isaiah–Malachi): "oracular arc" — judgment-to-salvation movement, structural divisions (e.g. Is 1–39 / 40–66)
+- Wisdom (Job, Psalmos, Proverbios, Eclesiastés): "thematic arc" — organizing structure or framing device and movement within it
+- Apocalyptic (Daniel, Revelation): "vision arc" — vision sequence, escalation, eschatological resolution
+- Mixed-genre books: name both registers and trace the arc across the structural seam
+
+Quality standard: the arc must cite specific chapter ranges and verse anchors (e.g. `Gn 12:1–3` in ES, `Gen 12:1–3` in EN, `Gn 12:1–3` in PT). A description that could apply to any book of the same genre fails the bar. The reader should finish the arc and feel oriented to read the book in a new way.
+
+Do NOT repeat: author, occasion, date, purpose, or canonical contribution — those live in other fields already rendered in the viewer.
+
 ### Step 2 — Authorship & fecha de escritura
 **Fields:** `autor`, `año`, `idiomaOriginal`, `escritoEn`
 - Search Blue Letter Bible for book introduction, confirm with Bible Gateway
@@ -258,6 +279,7 @@ Before outputting the final JSON, verify every item:
 - [ ] Every `resumenCapitulos[]` entry has a non-empty `era` field matching `historiaRedentora.epoca`
 - [ ] `referenciasRelacionadas` entries (when present) each have `ref` (ES abbreviation) and `tipo` from the controlled enum; `nota` is trilingual `{es,en,pt}` if present
 - [ ] Every `resumenCapitulos[]` entry has `temasBiblicoteologicos.principal` set to an exact controlled-vocabulary string; `secundarios` (if present) has ≤ 3 entries with no duplicates of `principal`
+- [ ] `resumenGeneral` is present with `{es, en, pt}` populated; cites specific chapter ranges and verse anchors; reads as a narrative/argumentative arc appropriate to the book's genre; does not repeat `proposito` or author information
 - [ ] `meta.confianza` is calculated, not left at default
 - [ ] `fuentes` lists ≥3 sources, each with a complete `popup` block (bio/metodo/aportacion are trilingual objects)
 
@@ -280,7 +302,7 @@ Write one file per pipeline step, using the scratchpad directory:
 
 | File | Steps |
 |---|---|
-| `[book]-part1-identification.json` | Steps 0–2: `id`, `testamento`, `division`, `titulo`, `autor`, `año`, `idiomaOriginal`, `escritoEn` |
+| `[book]-part1-identification.json` | Steps 0–2: `id`, `testamento`, `division`, `titulo`, `autor`, `año`, `idiomaOriginal`, `escritoEn`, `resumenGeneral` |
 | `[book]-part2-historical.json` | Step 3: entire `contextoHistorico` object |
 | `[book]-part3-canonical-literary.json` | Steps 4–5: `historiaRedentora`, `aportacionAlCanon`, `genero`, `palabraClave`, `destinatario`, `proposito` |
 | `[book]-part4-characters.json` | Step 6: `personajes` array |
