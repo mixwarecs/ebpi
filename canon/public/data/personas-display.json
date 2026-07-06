@@ -119,6 +119,18 @@
       "pt": "MEDIADOR DA ALIANÇA"
     }
   },
+  "Melquisedec": {
+    "id": "melquisedec",
+    "color": "#A67C3D",
+    "init": "מצ",
+    "xCh": 7,
+    "side": "above",
+    "badge": {
+      "es": "REY-SACERDOTE ETERNO",
+      "en": "ETERNAL KING-PRIEST",
+      "pt": "REI-SACERDOTE ETERNO"
+    }
+  },
   "Faraón": {
     "id": "faraon",
     "color": "#8B3A2A",
@@ -303,7 +315,7 @@
     "id": "esau",
     "color": "#7A4A2A",
     "init": "Ἠσ",
-    "xCh": 9,
+    "xCh": { "Ro": 9, "He": 12 },
     "side": "above",
     "badge": {
       "es": "TIPO: REPROBADO",
@@ -1575,7 +1587,7 @@
     "id": "timoteo",
     "color": "#1B5E8B",
     "init": "ΤΙ",
-    "xCh": 1,
+    "xCh": { "1Ti": 1, "2Co": 1, "2Ti": 1, "Fil": 1, "He": 13 },
     "side": "above",
     "badge": {
       "es": "HIJO EN LA FE",

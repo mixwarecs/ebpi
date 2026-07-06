@@ -1735,7 +1735,8 @@
       "ordenCanon": 58,
       "capitulosTotal": 13,
       "divisionColor": "#D06898",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "hebrews.json",
       "razon": {
         "es": "El mayor argumento tipológico del NT: demuestra que Cristo cumple y supera cada elemento del culto levítico (sacerdocio, tabernáculo, sacrificios), siendo el sumo sacerdote eterno del orden de Melquisedec.",
         "en": "The greatest typological argument in the NT: demonstrates that Christ fulfills and surpasses every element of the Levitical worship (priesthood, tabernacle, sacrifices), being the eternal high priest after the order of Melchizedek.",
