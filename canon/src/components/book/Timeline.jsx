@@ -10,11 +10,18 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
   const [charTooltip, setCharTooltip] = useState(null);
   const dragRef = useRef({ isDown: false, startX: 0, scrollLeft: 0 });
 
-  const TOTAL_W = Math.max(totalChapters * 99, 1200);
-  const xOf = (ch) => ((ch - 0.5) / totalChapters) * TOTAL_W;
+  // Scale the timeline by the highest dot actually present rather than the raw
+  // totalChapters prop. For ordinary books these are identical (chapters run
+  // 1..totalChapters with no gaps). For single-chapter books whose units are
+  // remapped to sequential positions by adaptCapitulos (see canonToViewer.js),
+  // totalChapters stays 1 while the dots run 1..unitCount — using totalChapters
+  // here would stretch the timeline to absurd widths.
+  const layoutTotal = chapters.length ? Math.max(...chapters.map(d => d.ch)) : totalChapters;
+  const TOTAL_W = Math.max(layoutTotal * 99, 1200);
+  const xOf = (ch) => ((ch - 0.5) / layoutTotal) * TOTAL_W;
   // Left/right edges of a chapter's slot (xOf gives the center) — used to size
   // era bands so they span full chapter slots instead of being offset by half a slot.
-  const slotLeftEdge = (ch) => ((ch - 1) / totalChapters) * TOTAL_W;
+  const slotLeftEdge = (ch) => ((ch - 1) / layoutTotal) * TOTAL_W;
 
   // Multi-character distribution per chapter:
   //   1 char  → keep original side from data
@@ -84,7 +91,10 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
 
           {chapters.map(d => {
             const bookEnName = bookData?.titulo?.en || "Genesis";
-            const url = `https://www.biblegateway.com/passage/?search=${bookEnName}+${d.ch}&version=${BIBLE_VERSION[lang] || "NBLA"}&interface=print`;
+            // linkCh (verse-range units on single-chapter books) wins over the
+            // dot's sequential position ch — see adaptCapitulos in canonToViewer.js.
+            const linkCh = d.linkCh ?? d.ch;
+            const url = `https://www.biblegateway.com/passage/?search=${bookEnName}+${linkCh}&version=${BIBLE_VERSION[lang] || "NBLA"}&interface=print`;
             return (
               <div key={d.ch}
                 style={{ position:"absolute", top:"50%", left:xOf(d.ch), transform:"translate(-50%,-50%)",
@@ -98,7 +108,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
                   background:LAPIS_DEEP, display:"flex", alignItems:"center", justifyContent:"center",
                   boxShadow:`0 0 10px ${d.color}40`, transition:"transform 0.15s, box-shadow 0.15s",
                 }}>
-                  <span style={{fontSize:15, fontWeight:700, color:d.color, fontFamily:"'Georgia',serif", lineHeight:1}}>{d.ch}</span>
+                  <span style={{fontSize:d.label ? 11 : 15, fontWeight:700, color:d.color, fontFamily:"'Georgia',serif", lineHeight:1}}>{d.label || d.ch}</span>
                 </div>
               </div>
             );
@@ -146,7 +156,7 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
 
       {tooltip && createPortal(
         <div style={{ ...GS.chTooltip, left:Math.min(tooltip.x + 12, window.innerWidth - 300), top:tooltip.y - 120 }}>
-          <div style={GS.chTooltipCh}>{(bookData?.titulo?.[lang] || bookData?.titulo?.es || "GÉNESIS").toUpperCase()} {tooltip.data.ch}</div>
+          <div style={GS.chTooltipCh}>{(bookData?.titulo?.[lang] || bookData?.titulo?.es || "GÉNESIS").toUpperCase()} {tooltip.data.label || tooltip.data.ch}</div>
           <div style={GS.chTooltipTitle}>{tooltip.data.title}</div>
           <div style={GS.chTooltipDesc}>{tooltip.data.desc}</div>
           <VerseLink lang={lang} style={{fontSize:9, letterSpacing:2}}>{tooltip.data.verse}</VerseLink>

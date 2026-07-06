@@ -1,0 +1,1403 @@
+{
+  "id": 64,
+  "testamento": "Nuevo",
+  "division": "Epístolas Generales",
+  "titulo": {
+    "es": "3 Juan",
+    "en": "3 John",
+    "pt": "3 João"
+  },
+  "tituloOriginal": "Ἰωάννου Γʹ",
+  "transliteracion": "Iōannou G",
+  "significado": {
+    "es": "Yahvé ha tenido misericordia / Yahvé es clemente",
+    "en": "The LORD has been gracious / The LORD is gracious",
+    "pt": "O SENHOR teve misericórdia / O SENHOR é gracioso"
+  },
+  "resumenGeneral": {
+    "es": "La carta abre con afecto personal: el Anciano ora por la prosperidad y salud de Gayo 'así como prospera tu alma' (3Jn 1:2), y se goza de que anda en la verdad (3Jn 1:3-4). El argumento avanza hacia la commendación concreta de la hospitalidad de Gayo hacia misioneros itinerantes que salieron 'por causa del Nombre' (3Jn 1:5-8), convirtiendo el servicio doméstico en cooperación misionera. El giro decisivo llega con Diótrefes, quien 'ama tener el primer lugar', rechaza la autoridad del Anciano, difama con palabras malignas y expulsa de la iglesia a quienes reciben a los hermanos (3Jn 1:9-10) — un abuso de poder eclesial que el Anciano confronta con un principio universal: 'el que hace lo bueno es de Dios; el que hace lo malo no ha visto a Dios' (3Jn 1:11). La carta cierra con el contraste positivo de Demetrio, atestiguado 'por todos, y aun por la verdad misma' (3Jn 1:12), y con el mismo anhelo de un encuentro personal que cierra 2 Juan (3Jn 1:13-14), dejando sin resolver en el texto mismo la confrontación con Diótrefes, que el Anciano promete abordar en persona.",
+    "en": "The letter opens with personal affection: the Elder prays for Gaius's prosperity and health 'as it goes well with your soul' (3John 1:2), rejoicing that he walks in the truth (3John 1:3-4). The argument moves toward concretely commending Gaius's hospitality to itinerant missionaries who went out 'for the sake of the Name' (3John 1:5-8), turning domestic service into missionary cooperation. The decisive turn comes with Diotrephes, who 'likes to put himself first,' rejects the Elder's authority, slanders him with malicious words, and expels from the church those who welcome the brothers (3John 1:9-10) — an abuse of ecclesial power the Elder confronts with a universal principle: 'whoever does good is from God; whoever does evil has not seen God' (3John 1:11). The letter closes with the positive contrast of Demetrius, attested 'by everyone, and even by the truth itself' (3John 1:12), and with the same longing for a face-to-face meeting that closes 2 John (3John 1:13-14), leaving the confrontation with Diotrephes unresolved within the text itself, promised for a future personal visit.",
+    "pt": "A carta abre com afeto pessoal: o Ancião ora pela prosperidade e saúde de Gaio 'assim como bem vai a tua alma' (3Jo 1:2), alegrando-se por ele andar na verdade (3Jo 1:3-4). O argumento avança até a comendação concreta da hospitalidade de Gaio para com missionários itinerantes que saíram 'por causa do Nome' (3Jo 1:5-8), transformando o serviço doméstico em cooperação missionária. O giro decisivo chega com Diótrefes, que 'ama ter o primeiro lugar', rejeita a autoridade do Ancião, difama com palavras maliciosas e expulsa da igreja os que recebem os irmãos (3Jo 1:9-10) — um abuso de poder eclesial que o Ancião enfrenta com um princípio universal: 'quem faz o bem é de Deus; quem faz o mal não tem visto a Deus' (3Jo 1:11). A carta se encerra com o contraste positivo de Demétrio, atestado 'por todos, e até pela própria verdade' (3Jo 1:12), e com o mesmo anseio por um encontro pessoal que encerra 2 João (3Jo 1:13-14), deixando sem resolver no próprio texto o confronto com Diótrefes, que o Ancião promete tratar pessoalmente."
+  },
+  "capitulosTotal": 1,
+  "autor": {
+    "nombre": {
+      "es": "Juan el Apóstol",
+      "en": "John the Apostle",
+      "pt": "João, o Apóstolo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "Como en 2 Juan, el autor se autodenomina 'el Anciano' (3Jn 1:1), no 'apóstol'. La tradición eclesial (Ireneo, citando a Policarpo; Papías vía Eusebio) identifica a este Anciano con el apóstol Juan, hijo de Zebedeo, escribiendo en su vejez desde Éfeso. El estilo, vocabulario y preocupaciones pastorales son prácticamente idénticos a los de 2 Juan, lo cual refuerza la autoría común de ambas cartas. La tradición reformada sostiene la autoría apostólica juanina.",
+      "en": "As in 2 John, the author calls himself 'the Elder' (3John 1:1), not 'apostle.' Church tradition (Irenaeus, citing Polycarp; Papias via Eusebius) identifies this Elder with the apostle John, son of Zebedee, writing in old age from Ephesus. The style, vocabulary, and pastoral concerns are virtually identical to those of 2 John, reinforcing common authorship of both letters. The Reformed tradition holds to apostolic Johannine authorship.",
+      "pt": "Como em 2 João, o autor se autodenomina 'o Ancião' (3Jo 1:1), não 'apóstolo'. A tradição eclesiástica (Ireneu, citando Policarpo; Papias via Eusébio) identifica esse Ancião com o apóstolo João, filho de Zebedeu, escrevendo em sua velhice a partir de Éfeso. O estilo, vocabulário e preocupações pastorais são praticamente idênticos aos de 2 João, o que reforça a autoria comum de ambas as cartas. A tradição reformada sustenta a autoria apostólica joanina."
+    }
+  },
+  "año": {
+    "desde": 90,
+    "hasta": 95,
+    "display": {
+      "es": "Fecha de escritura: c. 90–95 d.C.",
+      "en": "Date of writing: c. AD 90–95",
+      "pt": "Data de escrita: c. 90–95 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Éfeso (tradicionalmente), provincia romana de Asia",
+    "en": "Ephesus (traditionally), Roman province of Asia",
+    "pt": "Éfeso (tradicionalmente), província romana da Ásia"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Tardío (70–100 d.C.)",
+      "en": "Late Roman Period (AD 70–100)",
+      "pt": "Período Romano Tardio (70–100 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Éfeso",
+          "en": "Ephesus",
+          "pt": "Éfeso"
+        },
+        "identificacionModerna": {
+          "es": "Selçuk, cerca de Izmir, Turquía",
+          "en": "Selçuk, near Izmir, Turkey",
+          "pt": "Selçuk, perto de Izmir, Turquia"
+        },
+        "significancia": {
+          "es": "Base tradicional del ministerio final del apóstol Juan y probable lugar de origen de la carta, desde donde supervisaba las iglesias de la provincia de Asia y coordinaba a los misioneros itinerantes mencionados en 3Jn 1:5-8.",
+          "en": "Traditional base of the apostle John's final ministry and the letter's probable place of origin, from where he oversaw the churches of the province of Asia and coordinated the itinerant missionaries mentioned in 3John 1:5-8.",
+          "pt": "Base tradicional do ministério final do apóstolo João e provável local de origem da carta, de onde supervisionava as igrejas da província da Ásia e coordenava os missionários itinerantes mencionados em 3Jo 1:5-8."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Provincia romana de Asia",
+          "en": "Roman Province of Asia",
+          "pt": "Província romana da Ásia"
+        },
+        "identificacionModerna": {
+          "es": "Región occidental de la actual Turquía",
+          "en": "Western region of modern-day Turkey",
+          "pt": "Região ocidental da atual Turquia"
+        },
+        "significancia": {
+          "es": "Región donde operaba la red de misioneros itinerantes que Gayo hospedaba y Diótrefes rechazaba, conectada por calzadas romanas entre las iglesias urbanas de la zona.",
+          "en": "The region where the network of itinerant missionaries operated — those Gaius hosted and Diotrephes refused — connected by Roman roads between the area's urban churches.",
+          "pt": "Região onde operava a rede de missionários itinerantes que Gaio hospedava e Diótrefes rejeitava, conectada por estradas romanas entre as igrejas urbanas da área."
+        }
+      },
+      {
+        "lugar": {
+          "es": "La congregación local de Gayo y Diótrefes",
+          "en": "The local congregation of Gaius and Diotrephes",
+          "pt": "A congregação local de Gaio e Diótrefes"
+        },
+        "identificacionModerna": {
+          "es": "Ciudad no identificada en la provincia de Asia, posiblemente cercana a Éfeso",
+          "en": "Unidentified city in the province of Asia, possibly near Ephesus",
+          "pt": "Cidade não identificada na província da Ásia, possivelmente perto de Éfeso"
+        },
+        "significancia": {
+          "es": "Escenario del conflicto de autoridad narrado en la carta: una iglesia local (o casa-iglesia) donde Diótrefes ejercía influencia suficiente para rechazar cartas del Anciano y expulsar miembros (3Jn 1:9-10).",
+          "en": "The setting of the authority conflict narrated in the letter: a local church (or house church) where Diotrephes wielded enough influence to reject the Elder's letters and expel members (3John 1:9-10).",
+          "pt": "O cenário do conflito de autoridade narrado na carta: uma igreja local (ou igreja doméstica) onde Diótrefes exercia influência suficiente para rejeitar cartas do Ancião e expulsar membros (3Jo 1:9-10)."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano (Provincia de Asia)",
+          "en": "Roman Empire (Province of Asia)",
+          "pt": "Império Romano (Província da Ásia)"
+        },
+        "rolEnElTexto": {
+          "es": "Provee la infraestructura de caminos y el marco social bajo el cual viajaban los misioneros itinerantes hospedados por Gayo.",
+          "en": "Provides the road infrastructure and social framework under which the itinerant missionaries hosted by Gaius traveled.",
+          "pt": "Fornece a infraestrutura de estradas e o quadro social sob o qual viajavam os missionários itinerantes hospedados por Gaio."
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente confirmado por restos de calzadas romanas, inscripciones y ruinas urbanas en Éfeso y ciudades vecinas de Asia Menor.",
+          "en": "Widely confirmed by remains of Roman roads, inscriptions, and urban ruins at Ephesus and neighboring Asia Minor cities.",
+          "pt": "Amplamente confirmado por vestígios de estradas romanas, inscrições e ruínas urbanas em Éfeso e cidades vizinhas da Ásia Menor."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidades cristianas joáninas de Asia Menor",
+          "en": "Johannine Christian communities of Asia Minor",
+          "pt": "Comunidades cristãs joaninas da Ásia Menor"
+        },
+        "rolEnElTexto": {
+          "es": "Forman la red de iglesias y misioneros itinerantes en la que se desarrolla el conflicto entre la autoridad apostólica del Anciano y el control local de Diótrefes.",
+          "en": "They form the network of churches and itinerant missionaries within which the conflict between the Elder's apostolic authority and Diotrephes's local control unfolds.",
+          "pt": "Formam a rede de igrejas e missionários itinerantes na qual se desenrola o conflito entre a autoridade apostólica do Ancião e o controle local de Diótrefes."
+        },
+        "estadoArqueologico": {
+          "es": "Atestiguadas indirectamente por las cartas a las siete iglesias de Apocalipsis 2-3 y por escritos patrísticos tempranos (Ignacio, Policarpo, y la Didajé) que reflejan tensiones similares entre autoridad itinerante y liderazgo local.",
+          "en": "Attested indirectly by the letters to the seven churches in Revelation 2-3 and by early patristic writings (Ignatius, Polycarp, and the Didache) reflecting similar tensions between itinerant authority and local leadership.",
+          "pt": "Atestadas indiretamente pelas cartas às sete igrejas do Apocalipse 2-3 e por escritos patrísticos primitivos (Inácio, Policarpo e o Didaquê) que refletem tensões semelhantes entre autoridade itinerante e liderança local."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cultura de patronazgo greco-romana",
+          "en": "Greco-Roman patronage culture",
+          "pt": "Cultura de patronato greco-romana"
+        },
+        "rolEnElTexto": {
+          "es": "Diótrefes 'ama tener el primer lugar' (3Jn 1:9), un comportamiento que refleja la búsqueda greco-romana de honor y estatus (philoprōteuōn) aplicada, de forma corrupta, al liderazgo eclesial.",
+          "en": "Diotrephes 'loves to put himself first' (3John 1:9), behavior that reflects the Greco-Roman pursuit of honor and status (philoprōteuōn) corruptly applied to church leadership.",
+          "pt": "Diótrefes 'ama ter o primeiro lugar' (3Jo 1:9), comportamento que reflete a busca greco-romana por honra e status (philoprōteuōn) aplicada, de forma corrupta, à liderança eclesial."
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentada en inscripciones honoríficas y papiros del período helenístico-romano que registran la competencia por títulos y precedencia pública.",
+          "en": "Widely documented in honorific inscriptions and papyri from the Hellenistic-Roman period recording competition for titles and public precedence.",
+          "pt": "Amplamente documentada em inscrições honoríficas e papiros do período helenístico-romano que registram a competição por títulos e precedência pública."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "No existe evidencia arqueológica directa que confirme la identidad de Gayo, Diótrefes o Demetrio, dado el carácter privado y ocasional de la carta. Las excavaciones de Éfeso confirman, sin embargo, el trasfondo urbano portuario del siglo I consistente con el origen tradicional de la carta. Inscripciones honoríficas de Asia Menor documentan ampliamente la cultura de búsqueda de precedencia (philoprōteuōn) que caracteriza el comportamiento de Diótrefes, y la Didajé (c. 100 d.C.) atestigua criterios muy similares para poner a prueba a maestros y apóstoles itinerantes, confirmando que la tensión entre autoridad viajera y control local documentada en 3 Juan era un fenómeno extendido en la iglesia de este período.",
+      "en": "No direct archaeological evidence confirms the identity of Gaius, Diotrephes, or Demetrius, given the letter's private and occasional character. Excavations at Ephesus, however, confirm the first-century port-city backdrop consistent with the letter's traditional origin. Honorific inscriptions from Asia Minor extensively document the status-seeking culture (philoprōteuōn) characterizing Diotrephes's behavior, and the Didache (c. AD 100) attests very similar criteria for testing itinerant teachers and apostles, confirming that the tension between traveling authority and local control documented in 3 John was a widespread phenomenon in the church of this period.",
+      "pt": "Não há evidência arqueológica direta que confirme a identidade de Gaio, Diótrefes ou Demétrio, dado o caráter privado e ocasional da carta. As escavações de Éfeso confirmam, contudo, o pano de fundo urbano portuário do século I consistente com a origem tradicional da carta. Inscrições honoríficas da Ásia Menor documentam amplamente a cultura de busca por precedência (philoprōteuōn) que caracteriza o comportamento de Diótrefes, e o Didaquê (c. 100 d.C.) atesta critérios muito semelhantes para testar mestres e apóstolos itinerantes, confirmando que a tensão entre autoridade itinerante e controle local documentada em 3 João era um fenômeno generalizado na igreja desse período."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Didajé (Enseñanza de los Doce Apóstoles), caps. 11-13",
+          "en": "Didache (Teaching of the Twelve Apostles), chs. 11-13",
+          "pt": "Didaquê (Ensino dos Doze Apóstolos), caps. 11-13"
+        },
+        "origen": {
+          "es": "Manual cristiano primitivo de disciplina y práctica eclesial, c. finales del siglo I / inicios del siglo II d.C., de origen sirio o de Asia Menor",
+          "en": "Early Christian manual of church discipline and practice, c. late first / early second century AD, of Syrian or Asia Minor origin",
+          "pt": "Manual cristão primitivo de disciplina e prática eclesial, c. final do século I / início do século II d.C., de origem síria ou da Ásia Menor"
+        },
+        "relevancia": {
+          "es": "Ofrece criterios prácticos casi contemporáneos para distinguir a los apóstoles y profetas itinerantes genuinos de los falsos, iluminando el trasfondo social exacto del conflicto entre el Anciano y Diótrefes sobre a quién recibir y hospedar.",
+          "en": "It offers nearly contemporary practical criteria for distinguishing genuine itinerant apostles and prophets from false ones, illuminating the exact social backdrop of the conflict between the Elder and Diotrephes over whom to receive and host.",
+          "pt": "Oferece critérios práticos quase contemporâneos para distinguir apóstolos e profetas itinerantes genuínos dos falsos, iluminando o pano de fundo social exato do conflito entre o Ancião e Diótrefes sobre quem receber e hospedar."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "El principal debate histórico concierne a la identidad y motivación de Diótrefes: ¿representa una figura de ambición puramente personal, o un episodio temprano en el desarrollo del oficio monoepiscopal (un solo obispo con autoridad local), que algunos eruditos citan como evidencia de tensión entre estructuras itinerantes y locales de gobierno eclesial hacia finales del siglo I? El texto mismo no describe un oficio formal, solo una conducta. La tradición reformada lee el episodio como una advertencia atemporal contra la ambición y el abuso de poder eclesial, sin tomarlo como evidencia decisiva a favor de una forma específica de gobierno eclesiástico. Un segundo debate menor concierne a la identidad de Gayo, dado que el nombre era extremadamente común; no puede identificarse con certeza con ningún otro Gayo mencionado en el Nuevo Testamento (Ro 16:23; 1Co 1:14; Hch 19:29; Hch 20:4).",
+      "en": "The main historical debate concerns the identity and motivation of Diotrephes: does he represent a figure of purely personal ambition, or an early episode in the development of monepiscopal office (a single bishop with local authority), which some scholars cite as evidence of tension between itinerant and local structures of church government toward the end of the first century? The text itself describes no formal office, only conduct. The Reformed tradition reads the episode as a timeless warning against ambition and abuse of ecclesial power, without taking it as decisive evidence for any specific form of church government. A secondary, minor debate concerns the identity of Gaius, since the name was extremely common; he cannot be identified with certainty with any other Gaius mentioned in the New Testament (Rom 16:23; 1Cor 1:14; Acts 19:29; Acts 20:4).",
+      "pt": "O principal debate histórico diz respeito à identidade e motivação de Diótrefes: ele representa uma figura de ambição puramente pessoal, ou um episódio inicial no desenvolvimento do ofício monoepiscopal (um único bispo com autoridade local), que alguns estudiosos citam como evidência de tensão entre estruturas itinerantes e locais de governo eclesiástico no final do século I? O próprio texto não descreve um ofício formal, apenas uma conduta. A tradição reformada lê o episódio como uma advertência atemporal contra a ambição e o abuso de poder eclesial, sem tomá-lo como evidência decisiva a favor de uma forma específica de governo eclesiástico. Um segundo debate, menor, diz respeito à identidade de Gaio, já que o nome era extremamente comum; ele não pode ser identificado com certeza com nenhum outro Gaio mencionado no Novo Testamento (Rm 16:23; 1Co 1:14; At 19:29; At 20:4)."
+    },
+    "cronologiaInterna": {
+      "es": "La carta implica una secuencia breve de eventos recientes: el Anciano ya escribió antes 'algo a la iglesia' (3Jn 1:9), probablemente una carta anterior perdida (no necesariamente 2 Juan); Diótrefes rechazó esa carta y ya ha expulsado de la iglesia a quienes recibieron a los hermanos itinerantes (3Jn 1:9-10); el Anciano ahora escribe esta segunda carta a Gayo, y anuncia una visita personal inminente ('espero verte en breve', 3Jn 1:14) en la cual confrontará directamente la conducta de Diótrefes (3Jn 1:10).",
+      "en": "The letter implies a brief sequence of recent events: the Elder had already written before 'something to the church' (3John 1:9), probably an earlier, now-lost letter (not necessarily 2 John); Diotrephes rejected that letter and has already expelled from the church those who welcomed the itinerant brothers (3John 1:9-10); the Elder now writes this second letter to Gaius, and announces an imminent personal visit ('I hope to see you soon,' 3John 1:14) in which he will directly confront Diotrephes's conduct (3John 1:10).",
+      "pt": "A carta implica uma sequência breve de eventos recentes: o Ancião já havia escrito antes 'algo à igreja' (3Jo 1:9), provavelmente uma carta anterior, hoje perdida (não necessariamente 2 João); Diótrefes rejeitou essa carta e já expulsou da igreja os que receberam os irmãos itinerantes (3Jo 1:9-10); o Ancião agora escreve esta segunda carta a Gaio, e anuncia uma visita pessoal iminente ('espero ver-te em breve', 3Jo 1:14) na qual confrontará diretamente a conduta de Diótrefes (3Jo 1:10)."
+    }
+  },
+  "ordenEnDivision": 7,
+  "ordenCanon": 64,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "3 Juan centra su cristología en 'el Nombre' (3Jn 1:7) por el cual los misioneros itinerantes salieron sin aceptar apoyo de los gentiles: su misión y su sustento dependen exclusivamente de la autoridad y provisión de Cristo, no del patronazgo pagano. El criterio final de autenticidad espiritual —'el que hace lo bueno es de Dios; el que hace lo malo no ha visto a Dios' (3Jn 1:11)— presupone que conocer a Dios se manifiesta en una conducta moldeada por Cristo, el mismo vínculo entre confesión y conducta que 2 Juan aplica a la cristología encarnacional.",
+      "en": "3 John centers its Christology on 'the Name' (3John 1:7) for whose sake the itinerant missionaries went out without accepting support from the Gentiles: their mission and sustenance depend exclusively on Christ's authority and provision, not on pagan patronage. The final criterion of spiritual authenticity —'whoever does good is from God; whoever does evil has not seen God' (3John 1:11)— presupposes that knowing God is manifested in conduct shaped by Christ, the same bond between confession and conduct that 2 John applies to incarnational Christology.",
+      "pt": "3 João centra sua cristologia em 'o Nome' (3Jo 1:7) pelo qual os missionários itinerantes saíram sem aceitar apoio dos gentios: sua missão e seu sustento dependem exclusivamente da autoridade e provisão de Cristo, não do patronato pagão. O critério final de autenticidade espiritual —'quem faz o bem é de Deus; quem faz o mal não tem visto a Deus' (3Jo 1:11)— pressupõe que conhecer a Deus se manifesta numa conduta moldada por Cristo, o mesmo vínculo entre confissão e conduta que 2 João aplica à cristologia encarnacional."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Diótrefes ejemplifica la antítesis del buen pastor bíblico que apacienta en lugar de dominar (Ez 34:2-4; Jn 10:11-13; 1P 5:2-3), pues 'ama tener el primer lugar' y expulsa a las ovejas fieles en vez de recibirlas (3Jn 1:9-10).",
+        "en": "Diotrephes exemplifies the antithesis of the biblical good shepherd who feeds rather than dominates (Ezek 34:2-4; John 10:11-13; 1Pet 5:2-3), since he 'loves to put himself first' and expels the faithful sheep instead of receiving them (3John 1:9-10).",
+        "pt": "Diótrefes exemplifica a antítese do bom pastor bíblico que apascenta em vez de dominar (Ez 34:2-4; Jo 10:11-13; 1Pe 5:2-3), pois 'ama ter o primeiro lugar' e expulsa as ovelhas fiéis em vez de recebê-las (3Jo 1:9-10)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "3 Juan es el único libro del canon que ofrece una instantánea histórica concreta de un conflicto de autoridad eclesial nombrando explícitamente a sus protagonistas: Gayo el hospitalario, Diótrefes el ambicioso, y Demetrio el bien atestiguado. Ningún otro texto del Nuevo Testamento describe con tal detalle personal el abuso de poder de un líder local contra la autoridad apostólica itinerante, ni ofrece un caso positivo tan concreto de hospitalidad cristiana como cooperación misionera ('colaborador con la verdad', 3Jn 1:8). Junto con 2 Juan, completa el retrato joánico de la iglesia primitiva como una red de relaciones personales nombradas, no una institución abstracta.",
+    "en": "3 John is the only canonical book that offers a concrete historical snapshot of an ecclesial authority conflict, explicitly naming its protagonists: Gaius the hospitable, Diotrephes the ambitious, and Demetrius the well-attested. No other New Testament text describes in such personal detail the abuse of power by a local leader against itinerant apostolic authority, nor offers as concrete a positive case of Christian hospitality as missionary cooperation ('a fellow worker for the truth,' 3John 1:8). Together with 2 John, it completes the Johannine portrait of the early church as a network of named personal relationships, not an abstract institution.",
+    "pt": "3 João é o único livro canônico que oferece um retrato histórico concreto de um conflito de autoridade eclesial, nomeando explicitamente seus protagonistas: Gaio, o hospitaleiro; Diótrefes, o ambicioso; e Demétrio, o bem atestado. Nenhum outro texto do Novo Testamento descreve com tal detalhe pessoal o abuso de poder de um líder local contra a autoridade apostólica itinerante, nem oferece um caso positivo tão concreto de hospitalidade cristã como cooperação missionária ('cooperador da verdade', 3Jo 1:8). Junto com 2 João, completa o retrato joanino da igreja primitiva como uma rede de relacionamentos pessoais nomeados, não uma instituição abstrata."
+  },
+  "genero": {
+    "es": "Epístola personal (carta de recomendación y disciplina pastoral)",
+    "en": "Personal epistle (letter of commendation and pastoral discipline)",
+    "pt": "Epístola pessoal (carta de recomendação e disciplina pastoral)"
+  },
+  "palabraClave": {
+    "es": [
+      "Verdad",
+      "Hospitalidad",
+      "Autoridad apostólica",
+      "Ambición",
+      "Testimonio"
+    ],
+    "en": [
+      "Truth",
+      "Hospitality",
+      "Apostolic authority",
+      "Ambition",
+      "Testimony"
+    ],
+    "pt": [
+      "Verdade",
+      "Hospitalidade",
+      "Autoridade apostólica",
+      "Ambição",
+      "Testemunho"
+    ]
+  },
+  "destinatario": {
+    "es": "Gayo, un creyente particular y probablemente cabeza de una casa-iglesia en la provincia romana de Asia, personalmente conocido y amado por el Anciano, y elogiado por su fidelidad y hospitalidad hacia los misioneros itinerantes",
+    "en": "Gaius, a particular believer and probably the head of a house church in the Roman province of Asia, personally known and loved by the Elder, and commended for his faithfulness and hospitality toward the itinerant missionaries",
+    "pt": "Gaio, um crente específico e provavelmente cabeça de uma igreja doméstica na província romana da Ásia, pessoalmente conhecido e amado pelo Ancião, e elogiado por sua fidelidade e hospitalidade para com os missionários itinerantes"
+  },
+  "proposito": {
+    "es": "Histórico: agradecer y animar a Gayo a continuar hospedando a los misioneros itinerantes, advertirle sobre la conducta de Diótrefes, y recomendarle a Demetrio, probablemente el portador de la carta. Teológico: establecer que sostener a los obreros del evangelio es participación activa en la misión ('colaborador con la verdad'), que la autoridad eclesial legítima está sujeta a la verdad apostólica y no a la ambición personal, y que la autenticidad espiritual se demuestra mediante la conducta observable y el testimonio público, no mediante la posición de poder.",
+    "en": "Historical: to thank and encourage Gaius to continue hosting the itinerant missionaries, to warn him about Diotrephes's conduct, and to commend Demetrius, probably the letter's bearer. Theological: to establish that supporting gospel workers is active participation in the mission ('a fellow worker for the truth'), that legitimate church authority is subject to apostolic truth rather than personal ambition, and that spiritual authenticity is demonstrated through observable conduct and public testimony, not through positional power.",
+    "pt": "Histórico: agradecer e encorajar Gaio a continuar hospedando os missionários itinerantes, adverti-lo sobre a conduta de Diótrefes, e recomendar Demétrio, provavelmente o portador da carta. Teológico: estabelecer que sustentar os obreiros do evangelho é participação ativa na missão ('cooperador da verdade'), que a autoridade eclesial legítima está sujeita à verdade apostólica e não à ambição pessoal, e que a autenticidade espiritual se demonstra pela conduta observável e pelo testemunho público, não pela posição de poder."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "El Anciano (Juan el Apóstol)",
+        "en": "The Elder (John the Apostle)",
+        "pt": "O Ancião (João, o Apóstolo)"
+      },
+      "hebreo": "ὁ πρεσβύτερος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El autor de la carta, quien se autodenomina 'el Anciano', el mismo título de autoridad usado en 2 Juan. Escribe a un amigo personal (Gayo) con afecto pastoral, mientras enfrenta un conflicto de autoridad con un líder local (Diótrefes) que rechaza su oficio apostólico.",
+        "en": "The letter's author, who calls himself 'the Elder,' the same title of authority used in 2 John. He writes to a personal friend (Gaius) with pastoral affection, while confronting an authority conflict with a local leader (Diotrephes) who rejects his apostolic office.",
+        "pt": "O autor da carta, que se autodenomina 'o Ancião', o mesmo título de autoridade usado em 2 João. Escreve a um amigo pessoal (Gaio) com afeto pastoral, ao mesmo tempo em que enfrenta um conflito de autoridade com um líder local (Diótrefes) que rejeita seu ofício apostólico."
+      },
+      "acciones": {
+        "es": "Ora por la prosperidad de Gayo, se goza de su fidelidad, lo commenda por hospedar a misioneros itinerantes, denuncia a Diótrefes por rechazar su autoridad y expulsar a los fieles, commenda a Demetrio, y anuncia una visita personal inminente (3Jn 1:1-14).",
+        "en": "He prays for Gaius's prosperity, rejoices in his faithfulness, commends him for hosting itinerant missionaries, denounces Diotrephes for rejecting his authority and expelling the faithful, commends Demetrius, and announces an imminent personal visit (3John 1:1-14).",
+        "pt": "Ora pela prosperidade de Gaio, alegra-se com sua fidelidade, o elogia por hospedar missionários itinerantes, denuncia Diótrefes por rejeitar sua autoridade e expulsar os fiéis, elogia Demétrio, e anuncia uma visita pessoal iminente (3Jo 1:1-14)."
+      },
+      "significadoTeologico": {
+        "es": "Modela el ejercicio legítimo de la autoridad apostólica: firme frente al abuso de poder de Diótrefes, pero afectuoso y personal con Gayo y Demetrio, mostrando que la autoridad genuina sirve a la verdad y a las personas, no a sí misma.",
+        "en": "He models the legitimate exercise of apostolic authority: firm against Diotrephes's abuse of power, yet affectionate and personal with Gaius and Demetrius, showing that genuine authority serves truth and people, not itself.",
+        "pt": "Modela o exercício legítimo da autoridade apostólica: firme diante do abuso de poder de Diótrefes, porém afetuoso e pessoal com Gaio e Demétrio, mostrando que a autoridade genuína serve à verdade e às pessoas, não a si mesma."
+      },
+      "tipo": {
+        "es": "No funge como tipo cristológico; representa el oficio pastoral-apostólico continuo que guarda la sana doctrina y la salud relacional de la iglesia primitiva.",
+        "en": "He does not function as a christological type; he represents the continuing pastoral-apostolic office that guards sound doctrine and the relational health of the early church.",
+        "pt": "Não funciona como tipo cristológico; representa o ofício pastoral-apostólico contínuo que guarda a sã doutrina e a saúde relacional da igreja primitiva."
+      },
+      "caracterMoral": {
+        "es": "Fiel, afectuoso, pastoralmente firme frente al abuso de autoridad, generoso en la alabanza de la fidelidad ajena.",
+        "en": "Faithful, affectionate, pastorally firm against the abuse of authority, generous in praising others' faithfulness.",
+        "pt": "Fiel, afetuoso, pastoralmente firme diante do abuso de autoridade, generoso ao elogiar a fidelidade alheia."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Se presenta como 'el Anciano' que ama a Gayo 'en la verdad' (3Jn 1:1), ora por su prosperidad (3Jn 1:2), se goza de su fidelidad (3Jn 1:3-4), lo commenda por su hospitalidad (3Jn 1:5-8), denuncia a Diótrefes (3Jn 1:9-10), commenda a Demetrio (3Jn 1:12), y prefiere hablar cara a cara antes que seguir escribiendo (3Jn 1:13-14).",
+          "en": "He presents himself as 'the Elder' who loves Gaius 'in truth' (3John 1:1), prays for his prosperity (3John 1:2), rejoices in his faithfulness (3John 1:3-4), commends him for his hospitality (3John 1:5-8), denounces Diotrephes (3John 1:9-10), commends Demetrius (3John 1:12), and prefers to speak face to face rather than keep writing (3John 1:13-14).",
+          "pt": "Apresenta-se como 'o Ancião' que ama Gaio 'em verdade' (3Jo 1:1), ora por sua prosperidade (3Jo 1:2), alegra-se com sua fidelidade (3Jo 1:3-4), o elogia por sua hospitalidade (3Jo 1:5-8), denuncia Diótrefes (3Jo 1:9-10), elogia Demétrio (3Jo 1:12), e prefere falar face a face em vez de continuar escrevendo (3Jo 1:13-14)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "3Jn 1:1",
+          "3Jn 1:9",
+          "3Jn 1:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La tradición eclesial temprana (Ireneo, citando a Policarpo; Papías vía Eusebio) identifica a 'el Anciano' con el apóstol Juan, hijo de Zebedeo, en su ministerio final desde Éfeso. El estilo y vocabulario de 3 Juan son prácticamente indistinguibles de los de 2 Juan, lo cual respalda una autoría común entre ambas cartas breves.",
+          "en": "Early church tradition (Irenaeus, citing Polycarp; Papias via Eusebius) identifies 'the Elder' with the apostle John, son of Zebedee, in his final ministry from Ephesus. The style and vocabulary of 3 John are virtually indistinguishable from those of 2 John, supporting common authorship between both brief letters.",
+          "pt": "A tradição eclesiástica primitiva (Ireneu, citando Policarpo; Papias via Eusébio) identifica 'o Ancião' com o apóstolo João, filho de Zebedeu, em seu ministério final a partir de Éfeso. O estilo e o vocabulário de 3 João são praticamente indistinguíveis dos de 2 João, o que sustenta uma autoria comum entre ambas as cartas breves."
+        },
+        "fuentes": [
+          {
+            "titulo": "An Introduction to the New Testament",
+            "autor": "D. A. Carson & Douglas J. Moo",
+            "año": 2005,
+            "editorial": "Zondervan",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Autoría",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "El tono de autoridad personal y afectuosa, sin apelar a un título formal más allá de 'el Anciano', concuerda con una figura apostólica bien conocida por sus destinatarios.",
+          "en": "The tone of personal, affectionate authority, without appeal to any formal title beyond 'the Elder,' concords with an apostolic figure well known to his recipients.",
+          "pt": "O tom de autoridade pessoal e afetuosa, sem apelar a um título formal além de 'o Ancião', concorda com uma figura apostólica bem conhecida por seus destinatários."
+        }
+      },
+      "versiculosAsociados": [
+        "3Jn 1:1",
+        "3Jn 1:9",
+        "3Jn 1:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Jn",
+        "1Jn",
+        "2Jn",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "La identidad compartida del autor vincula el Evangelio de Juan, las tres epístolas y Apocalipsis en un mismo testimonio apostólico centrado en la verdad, el amor y la vigilancia pastoral de la iglesia.",
+        "en": "The author's shared identity links the Gospel of John, the three epistles, and Revelation in one apostolic testimony centered on truth, love, and pastoral vigilance over the church.",
+        "pt": "A identidade compartilhada do autor vincula o Evangelho de João, as três epístolas e o Apocalipse num mesmo testemunho apostólico centrado na verdade, no amor e na vigilância pastoral da igreja."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Gayo",
+        "en": "Gaius",
+        "pt": "Gaio"
+      },
+      "hebreo": "Γάϊος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El destinatario de la carta, un creyente personalmente amado por el Anciano y elogiado por su fidelidad y su hospitalidad concreta hacia misioneros itinerantes, probablemente cabeza de una casa-iglesia con recursos suficientes para hospedar viajeros.",
+        "en": "The letter's recipient, a believer personally loved by the Elder and commended for his faithfulness and concrete hospitality toward itinerant missionaries, probably the head of a house church with sufficient means to host travelers.",
+        "pt": "O destinatário da carta, um crente pessoalmente amado pelo Ancião e elogiado por sua fidelidade e hospitalidade concreta para com missionários itinerantes, provavelmente cabeça de uma igreja doméstica com recursos suficientes para hospedar viajantes."
+      },
+      "acciones": {
+        "es": "Recibe oración por su prosperidad y salud (3Jn 1:2), es alabado por otros hermanos por andar en la verdad (3Jn 1:3), y hospeda y sostiene a misioneros itinerantes 'de una manera digna de Dios' (3Jn 1:5-6).",
+        "en": "He receives prayer for his prosperity and health (3John 1:2), is praised by other brothers for walking in the truth (3John 1:3), and hosts and supports itinerant missionaries 'in a manner worthy of God' (3John 1:5-6).",
+        "pt": "Recebe oração por sua prosperidade e saúde (3Jo 1:2), é elogiado por outros irmãos por andar na verdade (3Jo 1:3), e hospeda e sustenta missionários itinerantes 'de modo digno de Deus' (3Jo 1:5-6)."
+      },
+      "significadoTeologico": {
+        "es": "Ejemplifica la hospitalidad cristiana como cooperación activa con la misión del evangelio: al sostener a los obreros itinerantes se convierte en 'colaborador con la verdad' (3Jn 1:8), no un mero anfitrión pasivo.",
+        "en": "He exemplifies Christian hospitality as active cooperation with the gospel mission: by supporting the itinerant workers he becomes 'a fellow worker for the truth' (3John 1:8), not a mere passive host.",
+        "pt": "Exemplifica a hospitalidade cristã como cooperação ativa com a missão do evangelho: ao sustentar os obreiros itinerantes, torna-se 'cooperador da verdade' (3Jo 1:8), não um mero anfitrião passivo."
+      },
+      "tipo": {
+        "es": "No funge como tipo cristológico; ejemplifica la virtud cristiana de la hospitalidad como participación concreta en la misión de Cristo.",
+        "en": "He does not function as a christological type; he exemplifies the Christian virtue of hospitality as concrete participation in Christ's mission.",
+        "pt": "Não funciona como tipo cristológico; exemplifica a virtude cristã da hospitalidade como participação concreta na missão de Cristo."
+      },
+      "caracterMoral": {
+        "es": "Fiel, hospitalario, generoso y públicamente reconocido por andar en la verdad.",
+        "en": "Faithful, hospitable, generous, and publicly recognized for walking in the truth.",
+        "pt": "Fiel, hospitaleiro, generoso e publicamente reconhecido por andar na verdade."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Amado 'en la verdad' por el Anciano (3Jn 1:1), objeto de oración por su prosperidad y salud 'así como prospera tu alma' (3Jn 1:2), atestiguado por hermanos que llegaron ante la iglesia dando testimonio de su amor (3Jn 1:3,6), y exhortado a seguir ayudando a los misioneros itinerantes 'de una manera digna de Dios' (3Jn 1:6).",
+          "en": "Loved 'in the truth' by the Elder (3John 1:1), the object of prayer for his prosperity and health 'as it goes well with your soul' (3John 1:2), attested by brothers who came before the church testifying of his love (3John 1:3,6), and urged to keep helping the itinerant missionaries 'in a manner worthy of God' (3John 1:6).",
+          "pt": "Amado 'em verdade' pelo Ancião (3Jo 1:1), objeto de oração por sua prosperidade e saúde 'assim como bem vai a tua alma' (3Jo 1:2), atestado por irmãos que vieram diante da igreja testemunhando de seu amor (3Jo 1:3,6), e exortado a continuar ajudando os missionários itinerantes 'de modo digno de Deus' (3Jo 1:6)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "3Jn 1:1",
+          "3Jn 1:3",
+          "3Jn 1:6"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "'Gayo' (latín Gaius) era uno de los nombres romanos más comunes del período, lo cual impide identificar con certeza a este Gayo con otros mencionados en el Nuevo Testamento: Gayo de Corinto (Ro 16:23; 1Co 1:14), Gayo de Macedonia (Hch 19:29), o Gayo de Derbe (Hch 20:4). No existe evidencia externa que permita distinguirlo de forma definitiva.",
+          "en": "'Gaius' (Latin Gaius) was one of the most common Roman names of the period, which prevents certainly identifying this Gaius with others mentioned in the New Testament: Gaius of Corinth (Rom 16:23; 1Cor 1:14), Gaius of Macedonia (Acts 19:29), or Gaius of Derbe (Acts 20:4). No external evidence allows a definitive distinction.",
+          "pt": "'Gaio' (latim Gaius) era um dos nomes romanos mais comuns do período, o que impede identificar com certeza este Gaio com outros mencionados no Novo Testamento: Gaio de Corinto (Rm 16:23; 1Co 1:14), Gaio da Macedônia (At 19:29), ou Gaio de Derbe (At 20:4). Não há evidência externa que permita uma distinção definitiva."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letters of John (Pillar New Testament Commentary)",
+            "autor": "Colin G. Kruse",
+            "año": 2000,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Identidad del destinatario",
+              "Onomástica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El texto lo presenta como un individuo con recursos suficientes para hospedar y proveer para misioneros viajeros, un perfil consistente con el de un patrón de casa-iglesia en una ciudad de Asia Menor.",
+          "en": "The text presents him as an individual with sufficient means to host and provide for traveling missionaries, a profile consistent with that of a house-church patron in an Asia Minor city.",
+          "pt": "O texto o apresenta como um indivíduo com recursos suficientes para hospedar e prover para missionários viajantes, um perfil consistente com o de um patrono de igreja doméstica numa cidade da Ásia Menor."
+        }
+      },
+      "versiculosAsociados": [
+        "3Jn 1:1",
+        "3Jn 1:2",
+        "3Jn 1:5",
+        "3Jn 1:6"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "El nombre 'Gayo' aparece también en Romanos 16:23, 1 Corintios 1:14, Hechos 19:29 y Hechos 20:4, pero dada la frecuencia del nombre no puede establecerse con certeza si se trata de la misma persona.",
+        "en": "The name 'Gaius' also appears in Romans 16:23, 1 Corinthians 1:14, Acts 19:29, and Acts 20:4, but given the name's frequency it cannot be established with certainty whether this is the same person.",
+        "pt": "O nome 'Gaio' também aparece em Romanos 16:23, 1 Coríntios 1:14, Atos 19:29 e Atos 20:4, mas dada a frequência do nome não se pode estabelecer com certeza se se trata da mesma pessoa."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Diótrefes",
+        "en": "Diotrephes",
+        "pt": "Diótrefes"
+      },
+      "hebreo": "Διοτρεφής",
+      "principal": true,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Un líder local, probablemente en la misma congregación de Gayo o en una cercana, descrito por el Anciano como alguien que 'ama tener el primer lugar' y que rechaza abiertamente la autoridad apostólica.",
+        "en": "A local leader, probably in Gaius's own congregation or a nearby one, described by the Elder as one who 'likes to put himself first' and who openly rejects apostolic authority.",
+        "pt": "Um líder local, provavelmente na própria congregação de Gaio ou numa próxima, descrito pelo Ancião como alguém que 'ama ter o primeiro lugar' e que rejeita abertamente a autoridade apostólica."
+      },
+      "acciones": {
+        "es": "Rechaza una carta previa del Anciano, difunde 'palabras malignas' contra él, se niega a recibir a los hermanos itinerantes, y expulsa de la iglesia a quienes sí desean recibirlos (3Jn 1:9-10).",
+        "en": "He rejects an earlier letter from the Elder, spreads 'wicked nonsense' against him, refuses to welcome the itinerant brothers, and expels from the church those who do wish to welcome them (3John 1:9-10).",
+        "pt": "Rejeita uma carta anterior do Ancião, espalha 'palavras maliciosas' contra ele, recusa-se a receber os irmãos itinerantes, e expulsa da igreja os que desejam recebê-los (3Jo 1:9-10)."
+      },
+      "significadoTeologico": {
+        "es": "Encarna el peligro de la ambición eclesial y el abuso del liderazgo local contra la autoridad apostólica y bíblica, funcionando como un caso de estudio negativo en gobierno de la iglesia.",
+        "en": "He embodies the danger of ecclesiastical ambition and the abuse of local leadership against apostolic and biblical authority, functioning as a negative case study in church government.",
+        "pt": "Encarna o perigo da ambição eclesial e o abuso da liderança local contra a autoridade apostólica e bíblica, funcionando como um estudo de caso negativo em governo eclesiástico."
+      },
+      "tipo": {
+        "es": "Antítesis del buen pastor bíblico que sirve en lugar de dominar (Ez 34:2-4; Jn 10:11-13; 1P 5:2-3), pues Diótrefes usa su posición para excluir a las ovejas fieles en vez de recibirlas.",
+        "en": "Antithesis of the biblical good shepherd who serves rather than dominates (Ezek 34:2-4; John 10:11-13; 1Pet 5:2-3), since Diotrephes uses his position to exclude the faithful sheep instead of receiving them.",
+        "pt": "Antítese do bom pastor bíblico que serve em vez de dominar (Ez 34:2-4; Jo 10:11-13; 1Pe 5:2-3), pois Diótrefes usa sua posição para excluir as ovelhas fiéis em vez de recebê-las."
+      },
+      "caracterMoral": {
+        "es": "Negativo: ambicioso, difamador, autoritario y obstructor de la hospitalidad evangélica.",
+        "en": "Negative: ambitious, slanderous, authoritarian, and obstructive of gospel hospitality.",
+        "pt": "Negativo: ambicioso, difamador, autoritário e obstrutor da hospitalidade evangélica."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Descrito como quien 'ama tener el primer lugar entre ellos' y por eso 'no nos acepta' (3Jn 1:9). El Anciano promete recordar sus obras al llegar: parlotear con palabras malignas, negarse a recibir a los hermanos, e impedir y expulsar de la iglesia a quienes sí quieren recibirlos (3Jn 1:10).",
+          "en": "Described as one who 'likes to put himself first' and therefore 'does not acknowledge our authority' (3John 1:9). The Elder promises to bring up his deeds upon arrival: talking wicked nonsense, refusing to welcome the brothers, and stopping and expelling from the church those who do want to welcome them (3John 1:10).",
+          "pt": "Descrito como quem 'procura ter entre eles o primado' e por isso 'não nos recebe' (3Jo 1:9). O Ancião promete trazer à memória suas obras ao chegar: proferir palavras maliciosas, recusar-se a receber os irmãos, e impedir e expulsar da igreja os que desejam recebê-los (3Jo 1:10)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "3Jn 1:9",
+          "3Jn 1:10"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia externa que confirme su identidad. El episodio se cita a menudo en discusiones eruditas sobre el desarrollo histórico del oficio monoepiscopal en Asia Menor, aunque el texto mismo describe conducta personal, no un cargo formal. La Didajé (caps. 11-13), casi contemporánea, atestigua tensiones similares sobre a quién recibir entre maestros y apóstoles itinerantes.",
+          "en": "No external evidence confirms his identity. The episode is often cited in scholarly discussions of the historical development of monepiscopal office in Asia Minor, though the text itself describes personal conduct, not a formal post. The nearly contemporary Didache (chs. 11-13) attests to similar tensions over whom to receive among itinerant teachers and apostles.",
+          "pt": "Não há evidência externa que confirme sua identidade. O episódio é frequentemente citado em discussões eruditas sobre o desenvolvimento histórico do ofício monoepiscopal na Ásia Menor, embora o próprio texto descreva conduta pessoal, não um cargo formal. O Didaquê (caps. 11-13), quase contemporâneo, atesta tensões semelhantes sobre quem receber entre mestres e apóstolos itinerantes."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letters of John (Pillar New Testament Commentary)",
+            "autor": "Colin G. Kruse",
+            "año": 2000,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Trasfondo histórico",
+              "Gobierno eclesial"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "Su conducta encaja con la cultura greco-romana de búsqueda de precedencia (philoprōteuōn) ampliamente documentada en inscripciones honoríficas del período, aplicada aquí de forma corrupta al liderazgo de la iglesia local.",
+          "en": "His conduct fits the Greco-Roman culture of status-seeking (philoprōteuōn) widely documented in honorific inscriptions of the period, corruptly applied here to local church leadership.",
+          "pt": "Sua conduta encaixa-se na cultura greco-romana de busca por precedência (philoprōteuōn) amplamente documentada em inscrições honoríficas do período, aplicada aqui de forma corrupta à liderança da igreja local."
+        }
+      },
+      "versiculosAsociados": [
+        "3Jn 1:9",
+        "3Jn 1:10"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Único en 3 Juan; su 'amor al primer lugar' recuerda la reprensión de Jesús a los discípulos que discutían sobre la grandeza (Mc 10:42-45; Lc 22:24-27).",
+        "en": "Unique to 3 John; his 'love of preeminence' recalls Jesus's rebuke of the disciples who argued about greatness (Mark 10:42-45; Luke 22:24-27).",
+        "pt": "Único em 3 João; seu 'amor ao primeiro lugar' recorda a repreensão de Jesus aos discípulos que discutiam sobre grandeza (Mc 10:42-45; Lc 22:24-27)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Demetrio",
+        "en": "Demetrius",
+        "pt": "Demétrio"
+      },
+      "hebreo": "Δημήτριος",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Un creyente commendado por el Anciano con un triple testimonio a su favor, probablemente el portador de esta misma carta ante Gayo, presentado en contraste deliberado con Diótrefes.",
+        "en": "A believer commended by the Elder with a threefold testimony in his favor, probably the bearer of this very letter to Gaius, presented in deliberate contrast with Diotrephes.",
+        "pt": "Um crente elogiado pelo Ancião com um tríplice testemunho a seu favor, provavelmente o portador desta mesma carta a Gaio, apresentado em contraste deliberado com Diótrefes."
+      },
+      "acciones": {
+        "es": "Recibe testimonio positivo 'de parte de todos, y de parte de la verdad misma', y también del propio Anciano (3Jn 1:12).",
+        "en": "He receives positive testimony 'from everyone, and from the truth itself,' and also from the Elder himself (3John 1:12).",
+        "pt": "Recebe testemunho positivo 'de parte de todos, e da própria verdade', e também do próprio Ancião (3Jo 1:12)."
+      },
+      "significadoTeologico": {
+        "es": "Modela el carácter cristiano públicamente acreditado, sirviendo de contraste rectórico deliberado frente al caso de Diótrefes justo antes de él en la carta.",
+        "en": "He models publicly attested Christian character, serving as a deliberate rhetorical contrast to the case of Diotrephes just before him in the letter.",
+        "pt": "Modela o caráter cristão publicamente atestado, servindo de contraste retórico deliberado com o caso de Diótrefes, situado logo antes dele na carta."
+      },
+      "tipo": {
+        "es": "Ninguna función típica significativa; sirve como testigo ejemplar, no como tipo cristológico.",
+        "en": "No significant typological function; he serves as an exemplary witness, not a christological type.",
+        "pt": "Nenhuma função típica significativa; serve como testemunha exemplar, não como tipo cristológico."
+      },
+      "caracterMoral": {
+        "es": "Positivo: bien atestiguado, confiable, coherente con la verdad misma.",
+        "en": "Positive: well-attested, trustworthy, consistent with the truth itself.",
+        "pt": "Positivo: bem atestado, confiável, coerente com a própria verdade."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Recibe testimonio 'de todos, y de la verdad misma; y también nosotros damos testimonio, y sabéis que nuestro testimonio es verdadero' (3Jn 1:12), un triple respaldo —comunitario, objetivo (la verdad) y apostólico— sin paralelo en el resto de la carta.",
+          "en": "He receives testimony 'from everyone, and from the truth itself; and we also testify, and you know that our testimony is true' (3John 1:12), a threefold endorsement —communal, objective (the truth), and apostolic— unparalleled elsewhere in the letter.",
+          "pt": "Recebe testemunho 'de todos, e da própria verdade; e nós também damos testemunho, e sabeis que o nosso testemunho é verdadeiro' (3Jo 1:12), um tríplice respaldo —comunitário, objetivo (a verdade) e apostólico— sem paralelo no restante da carta."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "3Jn 1:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia externa firme sobre su identidad. Es plausible, dada la práctica epistolar antigua, que fuera el portador de esta carta y que la commendación sirviera como una carta de recomendación anticipada para asegurar su buena acogida ante Gayo.",
+          "en": "There is no firm external evidence about his identity. Given ancient epistolary practice, it is plausible that he was the letter's bearer and that the commendation served as an advance letter of recommendation to secure his warm reception by Gaius.",
+          "pt": "Não há evidência externa firme sobre sua identidade. É plausível, dada a prática epistolar antiga, que ele fosse o portador desta carta e que a comendação servisse como uma carta de recomendação antecipada para assegurar sua boa acolhida por Gaio."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letters of John (Pillar New Testament Commentary)",
+            "autor": "Colin G. Kruse",
+            "año": 2000,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Convención epistolar",
+              "Identidad"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La ubicación de su commendación justo antes del cierre de la carta coincide con la convención antigua de insertar una carta de recomendación para un portador o viajero.",
+          "en": "The placement of his commendation right before the letter's closing matches the ancient convention of inserting a letter of recommendation for a bearer or traveler.",
+          "pt": "A localização de sua comendação logo antes do encerramento da carta coincide com a convenção antiga de inserir uma carta de recomendação para um portador ou viajante."
+        }
+      },
+      "versiculosAsociados": [
+        "3Jn 1:12"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No debe confundirse con el platero Demetrio de Hechos 19:24, una figura distinta y anterior sin conexión textual con este pasaje.",
+        "en": "He should not be confused with Demetrius the silversmith of Acts 19:24, a distinct and earlier figure with no textual connection to this passage.",
+        "pt": "Não deve ser confundido com o ourives Demétrio de Atos 19:24, uma figura distinta e anterior sem conexão textual com esta passagem."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "3 Juan expone un conflicto concreto de autoridad eclesial: Diótrefes rechaza la autoridad apostólica del Anciano, difunde acusaciones maliciosas contra él, y expulsa de la iglesia local a quienes reciben a los hermanos itinerantes (3Jn 1:9-10). La carta afirma implícitamente que la autoridad legítima en la iglesia debe estar sujeta a la verdad apostólica, no a la ambición personal de un líder local.",
+        "en": "3 John presents a concrete conflict over church authority: Diotrephes rejects the Elder's apostolic authority, spreads malicious accusations against him, and expels from the local church those who welcome the itinerant brothers (3John 1:9-10). The letter implicitly affirms that legitimate authority in the church must be subject to apostolic truth, not to a local leader's personal ambition.",
+        "pt": "3 João expõe um conflito concreto de autoridade eclesial: Diótrefes rejeita a autoridade apostólica do Ancião, espalha acusações maliciosas contra ele, e expulsa da igreja local os que recebem os irmãos itinerantes (3Jo 1:9-10). A carta afirma implicitamente que a autoridade legítima na igreja deve estar sujeita à verdade apostólica, não à ambição pessoal de um líder local."
+      },
+      "pasajes": [
+        "3Jn 1:9",
+        "3Jn 1:10"
+      ],
+      "ensenanza": {
+        "es": "Diótrefes rechaza la autoridad apostólica del Anciano y difunde acusaciones maliciosas · Expulsa de la iglesia local a quienes reciben a los hermanos itinerantes",
+        "en": "Diotrephes rejects the Elder's apostolic authority and spreads malicious accusations · He expels from the local church those who welcome the itinerant brothers",
+        "pt": "Diótrefes rejeita a autoridade apostólica do Ancião e espalha acusações maliciosas · Expulsa da igreja local os que recebem os irmãos itinerantes"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, en consonancia con la Confesión de Westminster sobre la iglesia y las censuras eclesiásticas, sostiene que ningún oficio eclesial es autónomo respecto a la autoridad de la Palabra apostólica; el abuso de poder de Diótrefes queda expuesto como pecado eclesial, no como ejercicio legítimo de gobierno.",
+        "en": "The Reformed tradition, in line with the Westminster Confession on the church and church censures, holds that no ecclesiastical office is autonomous from the authority of the apostolic Word; Diotrephes's abuse of power is exposed as ecclesial sin, not legitimate governance.",
+        "pt": "A tradição reformada, em consonância com a Confissão de Westminster sobre a igreja e as censuras eclesiásticas, sustenta que nenhum ofício eclesiástico é autônomo em relação à autoridade da Palavra apostólica; o abuso de poder de Diótrefes é exposto como pecado eclesial, não como exercício legítimo de governo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "El gozo del Anciano al oír que sus hijos espirituales 'andan en la verdad' (3Jn 1:4) y el principio universal 'el que hace lo bueno es de Dios; el que hace lo malo no ha visto a Dios' (3Jn 1:11) presentan la conducta observable como la evidencia legítima —y la única prueba disponible— de una relación genuina con Dios.",
+        "en": "The Elder's joy at hearing that his spiritual children 'walk in the truth' (3John 1:4) and the universal principle 'whoever does good is from God; whoever does evil has not seen God' (3John 1:11) present observable conduct as the legitimate evidence —and the only available test— of a genuine relationship with God.",
+        "pt": "A alegria do Ancião ao ouvir que seus filhos espirituais 'andam na verdade' (3Jo 1:4) e o princípio universal 'quem faz o bem é de Deus; quem faz o mal não tem visto a Deus' (3Jo 1:11) apresentam a conduta observável como a evidência legítima —e o único teste disponível— de um relacionamento genuíno com Deus."
+      },
+      "pasajes": [
+        "3Jn 1:4",
+        "3Jn 1:11"
+      ],
+      "ensenanza": {
+        "es": "El caminar fiel de los hijos espirituales del Anciano es motivo de su mayor gozo · Hacer el bien identifica a quien es de Dios; hacer el mal revela que no ha visto a Dios",
+        "en": "The Elder's spiritual children walking faithfully is the cause of his greatest joy · Doing good identifies one as being from God; doing evil reveals one has not seen God",
+        "pt": "O caminhar fiel dos filhos espirituais do Ancião é motivo de sua maior alegria · Fazer o bem identifica quem é de Deus; fazer o mal revela que não tem visto a Deus"
+      },
+      "distintivaReformada": {
+        "es": "Consistente con la doctrina reformada de la santificación como fruto necesario, aunque no meritorio, de la regeneración, la tradición reformada lee 3Jn 1:11 como criterio de seguridad de salvación observable en la conducta, en línea con la enseñanza más amplia de 1 Juan.",
+        "en": "Consistent with the Reformed doctrine of sanctification as a necessary, though non-meritorious, fruit of regeneration, the Reformed tradition reads 3John 1:11 as a criterion of assurance of salvation observable in conduct, in line with the broader teaching of 1 John.",
+        "pt": "Consistente com a doutrina reformada da santificação como fruto necessário, ainda que não meritório, da regeneração, a tradição reformada lê 3Jo 1:11 como critério de segurança da salvação observável na conduta, em linha com o ensino mais amplo de 1 João."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "Sostener a los misioneros itinerantes 'de una manera digna de Dios' (3Jn 1:6), quienes salieron 'por causa del Nombre, sin aceptar nada de los gentiles' (3Jn 1:7), convierte a Gayo en 'colaborador con la verdad' (3Jn 1:8), integrando la hospitalidad doméstica dentro de la solidaridad pactal de la comunidad de creyentes con la misión compartida del evangelio.",
+        "en": "Supporting the itinerant missionaries 'in a manner worthy of God' (3John 1:6), who went out 'for the sake of the Name, accepting nothing from the Gentiles' (3John 1:7), makes Gaius 'a fellow worker for the truth' (3John 1:8), integrating domestic hospitality into the covenantal solidarity of the believing community with the shared mission of the gospel.",
+        "pt": "Sustentar os missionários itinerantes 'de modo digno de Deus' (3Jo 1:6), que saíram 'por causa do Nome, nada aceitando dos gentios' (3Jo 1:7), torna Gaio 'cooperador da verdade' (3Jo 1:8), integrando a hospitalidade doméstica na solidariedade pactual da comunidade de crentes com a missão compartilhada do evangelho."
+      },
+      "pasajes": [
+        "3Jn 1:6",
+        "3Jn 1:8"
+      ],
+      "ensenanza": {
+        "es": "Ayudar a los misioneros en su viaje es un servicio digno de Dios · Sostener a los obreros del evangelio hace a Gayo colaborador con la verdad",
+        "en": "Helping the missionaries on their journey is a service worthy of God · Supporting the gospel workers makes Gaius a fellow worker for the truth",
+        "pt": "Ajudar os missionários em sua viagem é um serviço digno de Deus · Sustentar os obreiros do evangelho torna Gaio cooperador da verdade"
+      },
+      "distintivaReformada": {
+        "es": "La teología del pacto entiende esta hospitalidad como expresión concreta de la unidad del cuerpo de Cristo bajo el Nuevo Pacto: la obligación mutua de la comunidad del pacto se extiende más allá de la congregación local hacia toda la obra itinerante del evangelio.",
+        "en": "Covenant theology understands this hospitality as a concrete expression of the unity of the body of Christ under the New Covenant: the covenant community's mutual obligation extends beyond the local congregation to the whole itinerant work of the gospel.",
+        "pt": "A teologia do pacto entende essa hospitalidade como expressão concreta da unidade do corpo de Cristo sob a Nova Aliança: a obrigação mútua da comunidade do pacto se estende para além da congregação local a toda a obra itinerante do evangelho."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Iglesia",
+        "en": "Of the Church",
+        "pt": "Da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología",
+        "Autoridad eclesial"
+      ],
+      "resumen": {
+        "es": "La Confesión reconoce que las iglesias visibles pueden estar más o menos corrompidas según la conducta de sus miembros y líderes. El rechazo de Diótrefes a la autoridad apostólica y su expulsión de los fieles (3Jn 1:9-10) ejemplifica precisamente esa corrupción práctica del gobierno eclesial.",
+        "en": "The Confession recognizes that visible churches may be more or less corrupted according to the conduct of their members and leaders. Diotrephes's rejection of apostolic authority and his expulsion of the faithful (3John 1:9-10) exemplify precisely this practical corruption of church government.",
+        "pt": "A Confissão reconhece que as igrejas visíveis podem estar mais ou menos corrompidas conforme a conduta de seus membros e líderes. A rejeição de Diótrefes à autoridade apostólica e sua expulsão dos fiéis (3Jo 1:9-10) exemplificam precisamente essa corrupção prática do governo eclesiástico."
+      },
+      "genesis": [
+        "3Jn 1:9",
+        "3Jn 1:10"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    },
+    {
+      "cap": "Cap. 26",
+      "titulo": {
+        "es": "De la Comunión de los Santos",
+        "en": "Of the Communion of Saints",
+        "pt": "Da Comunhão dos Santos"
+      },
+      "doctrinas": [
+        "Comunión de los Santos",
+        "Hospitalidad"
+      ],
+      "resumen": {
+        "es": "La Confesión describe la obligación mutua de los santos de socorrerse en los dones espirituales y externos. La hospitalidad de Gayo hacia los misioneros itinerantes 'por causa del Nombre' (3Jn 1:5-7) es una aplicación concreta de esta comunión práctica más allá de la congregación local.",
+        "en": "The Confession describes the saints' mutual obligation to relieve one another in spiritual and outward gifts. Gaius's hospitality toward the itinerant missionaries 'for the sake of the Name' (3John 1:5-7) is a concrete application of this practical communion beyond the local congregation.",
+        "pt": "A Confissão descreve a obrigação mútua dos santos de se socorrerem nos dons espirituais e externos. A hospitalidade de Gaio para com os missionários itinerantes 'por causa do Nome' (3Jo 1:5-7) é uma aplicação concreta dessa comunhão prática além da congregação local."
+      },
+      "genesis": [
+        "3Jn 1:5",
+        "3Jn 1:6"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-26"
+    },
+    {
+      "cap": "Cap. 30",
+      "titulo": {
+        "es": "De las Censuras de la Iglesia",
+        "en": "Of Church Censures",
+        "pt": "Das Censuras da Igreja"
+      },
+      "doctrinas": [
+        "Disciplina eclesiástica",
+        "Abuso de poder"
+      ],
+      "resumen": {
+        "es": "La Confesión establece que el poder de censura eclesiástica existe para la reforma de los ofensores, no para el beneficio de quien lo ejerce. Diótrefes invierte este principio al usar su influencia para expulsar a los fieles en lugar de corregir el error (3Jn 1:10), un ejercicio ilegítimo de disciplina que la carta denuncia abiertamente.",
+        "en": "The Confession establishes that the power of church censure exists for the reformation of offenders, not for the benefit of the one who exercises it. Diotrephes inverts this principle by using his influence to expel the faithful rather than correct error (3John 1:10), an illegitimate exercise of discipline that the letter openly denounces.",
+        "pt": "A Confissão estabelece que o poder de censura eclesiástica existe para a reforma dos ofensores, não para o benefício de quem o exerce. Diótrefes inverte esse princípio ao usar sua influência para expulsar os fiéis em vez de corrigir o erro (3Jo 1:10), um exercício ilegítimo de disciplina que a carta denuncia abertamente."
+      },
+      "genesis": [
+        "3Jn 1:10",
+        "3Jn 1:11"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-30"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "3Jn 1:2",
+      "es": "Amado, ruego que seas prosperado en todo, así como prospera tu alma, y que tengas buena salud.",
+      "en": "Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul.",
+      "pt": "Amado, desejo que te vá bem em todas as coisas, e que tenhas saúde, assim como bem vai a tua alma.",
+      "nota": {
+        "es": "El orden de la oración —salud del alma primero, luego prosperidad y salud corporal— establece la jerarquía teológica correcta entre lo espiritual y lo material sin despreciar el cuerpo.",
+        "en": "The prayer's order —the soul's health first, then bodily prosperity and health— establishes the correct theological hierarchy between the spiritual and the material without disparaging the body.",
+        "pt": "A ordem da oração —saúde da alma primeiro, depois prosperidade e saúde corporal— estabelece a hierarquia teológica correta entre o espiritual e o material sem desprezar o corpo."
+      }
+    },
+    {
+      "ref": "3Jn 1:4",
+      "es": "Ningún gozo tengo mayor que este: oír que mis hijos andan en la verdad.",
+      "en": "I have no greater joy than to hear that my children are walking in the truth.",
+      "pt": "Não tenho maior alegria do que esta: a de ouvir que os meus filhos andam na verdade.",
+      "nota": {
+        "es": "El mismo lenguaje de paternidad espiritual y gozo pastoral que aparece en 2 Juan 1:4 confirma la autoría común y la prioridad joánica de la fidelidad observable sobre cualquier otro logro.",
+        "en": "The same language of spiritual fatherhood and pastoral joy found in 2 John 1:4 confirms common authorship and the Johannine priority of observable faithfulness over any other achievement.",
+        "pt": "A mesma linguagem de paternidade espiritual e alegria pastoral que aparece em 2 João 1:4 confirma a autoria comum e a prioridade joanina da fidelidade observável sobre qualquer outra conquista."
+      }
+    },
+    {
+      "ref": "3Jn 1:9",
+      "es": "Escribí algo a la iglesia, pero Diótrefes, a quien le gusta tener el primer lugar entre ellos, no nos acepta.",
+      "en": "I have written something to the church, but Diotrephes, who likes to put himself first, does not acknowledge our authority.",
+      "pt": "Tenho escrito à igreja; mas Diótrefes, que procura ter entre eles o primado, não nos recebe.",
+      "nota": {
+        "es": "El versículo central del conflicto: identifica la ambición de estatus (philoprōteuōn) como la raíz concreta del rechazo a la autoridad apostólica, no una diferencia doctrinal.",
+        "en": "The central verse of the conflict: it identifies status ambition (philoprōteuōn) as the concrete root of the rejection of apostolic authority, not a doctrinal difference.",
+        "pt": "O versículo central do conflito: identifica a ambição de status (philoprōteuōn) como a raiz concreta da rejeição à autoridade apostólica, não uma diferença doutrinária."
+      }
+    },
+    {
+      "ref": "3Jn 1:11",
+      "es": "Amado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios; el que hace lo malo no ha visto a Dios.",
+      "en": "Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God.",
+      "pt": "Amado, não sigas o mal, mas o bem. Quem faz o bem é de Deus; mas quem faz o mal não tem visto a Deus.",
+      "nota": {
+        "es": "El principio ético que resuelve el conflicto concreto en una prueba universal: la autenticidad espiritual se mide por la conducta, no por la posición de poder que alguien ocupe en la iglesia.",
+        "en": "The ethical principle that resolves the concrete conflict into a universal test: spiritual authenticity is measured by conduct, not by the positional power someone holds in the church.",
+        "pt": "O princípio ético que resolve o conflito concreto num teste universal: a autenticidade espiritual se mede pela conduta, não pela posição de poder que alguém ocupa na igreja."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "3 Juan enseña, con la fuerza de un caso concreto y no de un principio abstracto, que la autoridad eclesial legítima está siempre subordinada a la verdad apostólica y bíblica, nunca a la ambición personal de quien la ejerce. La tradición reformada encuentra en el contraste entre Diótrefes y Demetrio un patrón confesional recurrente: el gobierno de la iglesia se legitima por su sujeción a la Palabra y por el fruto observable de sus líderes, no por el título o la posición que ocupan. La hospitalidad hacia los obreros fieles del evangelio, por su parte, se eleva a la categoría de cooperación activa con la misión de la iglesia, no un gesto social opcional.",
+    "en": "3 John teaches, with the force of a concrete case rather than an abstract principle, that legitimate ecclesial authority is always subordinate to apostolic and biblical truth, never to the personal ambition of the one who exercises it. The Reformed tradition finds in the contrast between Diotrephes and Demetrius a recurring confessional pattern: church government is legitimized by its subjection to the Word and by the observable fruit of its leaders, not by the title or position they hold. Hospitality toward faithful gospel workers, in turn, is elevated to the status of active cooperation with the church's mission, not an optional social gesture.",
+    "pt": "3 João ensina, com a força de um caso concreto e não de um princípio abstrato, que a autoridade eclesial legítima está sempre subordinada à verdade apostólica e bíblica, nunca à ambição pessoal de quem a exerce. A tradição reformada encontra no contraste entre Diótrefes e Demétrio um padrão confessional recorrente: o governo da igreja se legitima por sua sujeição à Palavra e pelo fruto observável de seus líderes, não pelo título ou posição que ocupam. A hospitalidade para com os obreiros fiéis do evangelho, por sua vez, eleva-se à categoria de cooperação ativa com a missão da igreja, não um gesto social opcional."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Saludo y Gozo por la Fidelidad de Gayo",
+        "en": "Greeting and Joy over Gaius's Faithfulness",
+        "pt": "Saudação e Alegria pela Fidelidade de Gaio"
+      },
+      "descripcion": {
+        "es": "El Anciano se dirige 'al amado Gayo, a quien amo en la verdad' (3Jn 1:1), y ora por su prosperidad y salud física 'así como prospera tu alma' (3Jn 1:2), vinculando el bienestar corporal con la salud espiritual sin invertir la prioridad. Su gozo se enciende al recibir el testimonio de otros hermanos de que Gayo 'anda en la verdad' (3Jn 1:3), y declara que no tiene 'mayor gozo' que oír que sus hijos espirituales caminan fielmente (3Jn 1:4), estableciendo desde el inicio el mismo vínculo joánico entre verdad y comunión afectiva que caracteriza también 2 Juan.",
+        "en": "The Elder writes 'to the beloved Gaius, whom I love in truth' (3John 1:1), praying for his prosperity and physical health 'as it goes well with your soul' (3John 1:2), linking bodily well-being to spiritual health without inverting the priority. His joy is kindled upon receiving testimony from other brothers that Gaius 'is walking in the truth' (3John 1:3), and he declares he has 'no greater joy' than to hear that his spiritual children walk faithfully (3John 1:4), establishing from the outset the same Johannine bond between truth and affectionate fellowship that also characterizes 2 John.",
+        "pt": "O Ancião escreve 'ao amado Gaio, a quem amo em verdade' (3Jo 1:1), orando por sua prosperidade e saúde física 'assim como bem vai a tua alma' (3Jo 1:2), vinculando o bem-estar corporal à saúde espiritual sem inverter a prioridade. Sua alegria se acende ao receber o testemunho de outros irmãos de que Gaio 'anda na verdade' (3Jo 1:3), e ele declara não ter 'maior alegria' do que ouvir que seus filhos espirituais andam fielmente (3Jo 1:4), estabelecendo desde o início o mesmo vínculo joanino entre verdade e comunhão afetiva que também caracteriza 2 João."
+      },
+      "eventoClave": {
+        "es": "La oración inicial que liga la prosperidad del cuerpo con la salud del alma (3Jn 1:2) fija la prioridad teológica de la carta: el bienestar espiritual mide y encuadra cualquier otro bienestar.",
+        "en": "The opening prayer linking bodily prosperity to the soul's health (3John 1:2) sets the letter's theological priority: spiritual well-being measures and frames every other kind of well-being.",
+        "pt": "A oração inicial que liga a prosperidade do corpo à saúde da alma (3Jo 1:2) fixa a prioridade teológica da carta: o bem-estar espiritual mede e emoldura qualquer outro bem-estar."
+      },
+      "versiculoClave": "3Jn 1:4",
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2Jn 1:4",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Ambas cartas comparten la misma fórmula de mayor gozo al ver a los hijos espirituales andar en la verdad.",
+            "en": "Both letters share the same formula of greatest joy at seeing spiritual children walk in the truth.",
+            "pt": "Ambas as cartas compartilham a mesma fórmula de maior alegria ao ver os filhos espirituais andarem na verdade."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "El testimonio de otros hermanos de que Gayo 'anda en la verdad' (3Jn 1:3) confirma su fidelidad pactal observable ante la comunidad.",
+            "en": "Other brothers' testimony that Gaius 'is walking in the truth' (3John 1:3) confirms his observable covenantal faithfulness before the community.",
+            "pt": "O testemunho de outros irmãos de que Gaio 'anda na verdade' (3Jo 1:3) confirma sua fidelidade pactual observável diante da comunidade."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "Gayo es llamado 'hijo' espiritual del Anciano (3Jn 1:4), mostrando el vínculo de paternidad espiritual dentro de la comunidad de la iglesia.",
+              "en": "Gaius is called the Elder's spiritual 'child' (3John 1:4), showing the bond of spiritual fatherhood within the church community.",
+              "pt": "Gaio é chamado de 'filho' espiritual do Ancião (3Jo 1:4), mostrando o vínculo de paternidade espiritual dentro da comunidade da igreja."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 8,
+      "titulo": {
+        "es": "Hospitalidad de Gayo hacia los Misioneros",
+        "en": "Gaius's Hospitality to the Missionaries",
+        "pt": "Hospitalidade de Gaio para com os Missionários"
+      },
+      "descripcion": {
+        "es": "El Anciano elogia a Gayo por su fidelidad al servir a 'los hermanos, especialmente a los extraños' (3Jn 1:5), misioneros itinerantes que dieron testimonio del amor de Gayo 'delante de la iglesia' (3Jn 1:6) y a quienes se exhorta a ayudar 'de una manera digna de Dios' en su viaje. Estos hermanos salieron 'por causa del Nombre, sin aceptar nada de los gentiles' (3Jn 1:7), rehusando el apoyo de paganos para no comprometer el testimonio del evangelio con la cultura de patronazgo greco-romana. Por eso, sostener a tales obreros convierte a Gayo en 'colaborador con la verdad' (3Jn 1:8), integrando la hospitalidad práctica dentro de la misión apostólica misma.",
+        "en": "The Elder praises Gaius for his faithfulness in serving 'the brothers, especially strangers' (3John 1:5), itinerant missionaries who testified of Gaius's love 'before the church' (3John 1:6) and whom he is urged to help on their journey 'in a manner worthy of God.' These brothers went out 'for the sake of the name, accepting nothing from the Gentiles' (3John 1:7), refusing pagan patronage so as not to compromise the gospel's testimony within Greco-Roman patron-client culture. Supporting such workers therefore makes Gaius 'a fellow worker for the truth' (3John 1:8), folding practical hospitality into the apostolic mission itself.",
+        "pt": "O Ancião elogia Gaio por sua fidelidade em servir 'os irmãos, especialmente os estranhos' (3Jo 1:5), missionários itinerantes que testemunharam do amor de Gaio 'diante da igreja' (3Jo 1:6) e a quem se pede ajuda na viagem 'de modo digno de Deus'. Esses irmãos saíram 'por causa do Nome, nada aceitando dos gentios' (3Jo 1:7), recusando o patronato pagão para não comprometer o testemunho do evangelho dentro da cultura greco-romana de patronagem. Sustentar tais obreiros torna, assim, Gaio 'cooperador da verdade' (3Jo 1:8), integrando a hospitalidade prática à própria missão apostólica."
+      },
+      "eventoClave": {
+        "es": "La afirmación de que sostener a los misioneros hace a Gayo 'colaborador con la verdad' (3Jn 1:8) redefine la hospitalidad doméstica como participación activa en la misión del evangelio.",
+        "en": "The claim that supporting the missionaries makes Gaius 'a fellow worker for the truth' (3John 1:8) redefines domestic hospitality as active participation in the gospel mission.",
+        "pt": "A afirmação de que sustentar os missionários torna Gaio 'cooperador da verdade' (3Jo 1:8) redefine a hospitalidade doméstica como participação ativa na missão do evangelho."
+      },
+      "versiculoClave": "3Jn 1:8",
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 10:40",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Recibir a los mensajeros de Cristo equivale a recibir a Cristo mismo, el mismo principio que sustenta la hospitalidad hacia los misioneros en 3Jn 1:5-8.",
+            "en": "Receiving Christ's messengers is equivalent to receiving Christ himself, the same principle underlying hospitality toward the missionaries in 3John 1:5-8.",
+            "pt": "Receber os mensageiros de Cristo equivale a receber o próprio Cristo, o mesmo princípio que sustenta a hospitalidade aos missionários em 3Jo 1:5-8."
+          }
+        },
+        {
+          "ref": "2Jn 1:10",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "2 Juan prohíbe recibir a los falsos maestros; 3 Juan ordena recibir a los verdaderos: ambas cartas aplican el mismo criterio doctrinal a la hospitalidad, en direcciones opuestas.",
+            "en": "2 John forbids receiving false teachers; 3 John commands receiving true ones: both letters apply the same doctrinal criterion to hospitality, in opposite directions.",
+            "pt": "2 João proíbe receber os falsos mestres; 3 João ordena receber os verdadeiros: ambas as cartas aplicam o mesmo critério doutrinário à hospitalidade, em direções opostas."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Sostener a los misioneros 'por causa del Nombre' (3Jn 1:7) convierte la hospitalidad en participación pactal dentro de la misión compartida de la iglesia.",
+            "en": "Supporting the missionaries 'for the sake of the Name' (3John 1:7) turns hospitality into covenantal participation in the church's shared mission.",
+            "pt": "Sustentar os missionários 'por causa do Nome' (3Jo 1:7) transforma a hospitalidade em participação pactual na missão compartilhada da igreja."
+          }
+        },
+        "secundarios": [
+          {
+            "Nombre de Dios": {
+              "es": "Los misioneros salieron 'por causa del Nombre' (3Jn 1:7), vinculando su misión directamente con la persona y autoridad de Cristo.",
+              "en": "The missionaries went out 'for the sake of the Name' (3John 1:7), tying their mission directly to the person and authority of Christ.",
+              "pt": "Os missionários saíram 'por causa do Nome' (3Jo 1:7), vinculando sua missão diretamente à pessoa e autoridade de Cristo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 9,
+      "rangoFin": 11,
+      "titulo": {
+        "es": "Diótrefes y el Conflicto de Autoridad",
+        "en": "Diotrephes and the Conflict over Authority",
+        "pt": "Diótrefes e o Conflito de Autoridade"
+      },
+      "descripcion": {
+        "es": "El tono cambia drásticamente: el Anciano denuncia a Diótrefes, 'a quien le gusta tener el primer lugar' (3Jn 1:9), quien rechaza la autoridad apostólica, esparce 'palabras malignas' contra el Anciano, se niega a recibir a los hermanos itinerantes y expulsa de la iglesia a quienes sí quieren recibirlos (3Jn 1:9-10). Frente a este abuso de poder eclesial, el Anciano formula un principio ético universal: 'no imites lo malo, sino lo bueno; el que hace lo bueno es de Dios; el que hace lo malo no ha visto a Dios' (3Jn 1:11), convirtiendo el conflicto concreto en una prueba general de autenticidad espiritual medida por la conducta, no por la posición de poder.",
+        "en": "The tone shifts sharply: the Elder denounces Diotrephes, 'who likes to put himself first' (3John 1:9), who rejects apostolic authority, spreads 'wicked nonsense' against the Elder, refuses to welcome the itinerant brothers, and expels from the church those who do want to welcome them (3John 1:9-10). Against this abuse of ecclesial power, the Elder states a universal ethical principle: 'do not imitate evil but imitate good; whoever does good is from God; whoever does evil has not seen God' (3John 1:11), turning the concrete conflict into a general test of spiritual authenticity measured by conduct, not positional power.",
+        "pt": "O tom muda drasticamente: o Ancião denuncia Diótrefes, 'que procura ter entre eles o primado' (3Jo 1:9), que rejeita a autoridade apostólica, espalha 'palavras maliciosas' contra o Ancião, recusa-se a receber os irmãos itinerantes e expulsa da igreja os que querem recebê-los (3Jo 1:9-10). Diante desse abuso de poder eclesial, o Ancião formula um princípio ético universal: 'não sigas o mal, mas o bem; quem faz o bem é de Deus; quem faz o mal não tem visto a Deus' (3Jo 1:11), transformando o conflito concreto em um teste geral de autenticidade espiritual medido pela conduta, não pelo poder posicional."
+      },
+      "eventoClave": {
+        "es": "La expulsión eclesial de los hospitalarios por orden de Diótrefes (3Jn 1:10) es el punto de quiebre: el abuso de autoridad se vuelve visible cuando castiga precisamente la obediencia fiel.",
+        "en": "Diotrephes's church expulsion of the hospitable (3John 1:10) is the breaking point: abuse of authority becomes visible when it punishes precisely faithful obedience.",
+        "pt": "A expulsão eclesial dos hospitaleiros por ordem de Diótrefes (3Jo 1:10) é o ponto de ruptura: o abuso de autoridade se torna visível quando pune exatamente a obediência fiel."
+      },
+      "versiculoClave": "3Jn 1:11",
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 20:25",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Jesús contrasta el dominio de los gobernantes gentiles con el liderazgo servicial que debe caracterizar a la iglesia, el mismo principio que Diótrefes invierte.",
+            "en": "Jesus contrasts the domination of Gentile rulers with the servant leadership that should characterize the church, the very principle Diotrephes inverts.",
+            "pt": "Jesus contrasta o domínio dos governantes gentios com a liderança servil que deve caracterizar a igreja, o mesmo princípio que Diótrefes inverte."
+          }
+        },
+        {
+          "ref": "1Jn 3:6",
+          "tipo": "paralelo"
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pastor/Rey": {
+            "es": "Diótrefes 'ama tener el primer lugar' (3Jn 1:9) y expulsa a los fieles (3Jn 1:10), invirtiendo el modelo bíblico del pastor que sirve en lugar de dominar (cf. Ez 34).",
+            "en": "Diotrephes 'loves to put himself first' (3John 1:9) and expels the faithful (3John 1:10), inverting the biblical model of the shepherd who serves rather than dominates (cf. Ezek 34).",
+            "pt": "Diótrefes 'ama ter o primeiro lugar' (3Jo 1:9) e expulsa os fiéis (3Jo 1:10), invertendo o modelo bíblico do pastor que serve em vez de dominar (cf. Ez 34)."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "El principio 'el que hace lo malo no ha visto a Dios' (3Jn 1:11) identifica la conducta de Diótrefes como evidencia de una relación rota con Dios, no un simple defecto de carácter.",
+              "en": "The principle 'whoever does evil has not seen God' (3John 1:11) identifies Diotrephes's conduct as evidence of a broken relationship with God, not a mere character flaw.",
+              "pt": "O princípio 'quem faz o mal não tem visto a Deus' (3Jo 1:11) identifica a conduta de Diótrefes como evidência de um relacionamento quebrado com Deus, não um mero defeito de caráter."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 12,
+      "rangoFin": 14,
+      "titulo": {
+        "es": "Demetrio y la Despedida",
+        "en": "Demetrius and the Farewell",
+        "pt": "Demétrio e a Despedida"
+      },
+      "descripcion": {
+        "es": "En contraste directo con Diótrefes, el Anciano presenta a Demetrio, de quien 'todos dan testimonio, y aun la verdad misma' (3Jn 1:12), añadiendo también el testimonio apostólico del propio Anciano como triple confirmación de su carácter. La carta cierra, como 2 Juan, con la preferencia por la comunicación personal antes que 'con tinta y pluma' (3Jn 1:13), y con la esperanza de verse 'en breve' para hablar 'cara a cara' (3Jn 1:14), seguida de un saludo final de paz y de 'los amigos' que se conocen por nombre, mostrando el tejido concreto y personal de las relaciones eclesiales joáninas.",
+        "en": "In direct contrast with Diotrephes, the Elder presents Demetrius, of whom 'everyone has testified, and even the truth itself' (3John 1:12), adding also the Elder's own apostolic testimony as a threefold confirmation of his character. The letter closes, as 2 John does, preferring personal communication over 'with pen and ink' (3John 1:13), hoping to see Gaius 'soon' to speak 'face to face' (3John 1:14), followed by a final greeting of peace and from 'the friends,' known by name, showing the concrete, personal fabric of Johannine church relationships.",
+        "pt": "Em contraste direto com Diótrefes, o Ancião apresenta Demétrio, de quem 'todos dão testemunho, e até a própria verdade' (3Jo 1:12), acrescentando também o testemunho apostólico do próprio Ancião como tripla confirmação de seu caráter. A carta se encerra, como 2 João, preferindo a comunicação pessoal a 'tinta e pena' (3Jo 1:13), esperando ver Gaio 'em breve' para falar 'face a face' (3Jo 1:14), seguida de uma saudação final de paz e dos 'amigos', conhecidos pelo nome, mostrando o tecido concreto e pessoal das relações eclesiais joaninas."
+      },
+      "eventoClave": {
+        "es": "El triple testimonio a favor de Demetrio —de todos, de la verdad misma, y del Anciano (3Jn 1:12)— modela cómo se acredita públicamente el carácter cristiano genuino frente al caso opuesto de Diótrefes.",
+        "en": "The threefold testimony for Demetrius —from everyone, from the truth itself, and from the Elder (3John 1:12)— models how genuine Christian character is publicly attested, standing in contrast to Diotrephes's case.",
+        "pt": "O tríplice testemunho a favor de Demétrio —de todos, da própria verdade, e do Ancião (3Jo 1:12)— modela como o caráter cristão genuíno é publicamente atestado, em contraste com o caso de Diótrefes."
+      },
+      "versiculoClave": "3Jn 1:12",
+      "era": "Aplicación",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2Jn 1:12",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Ambas cartas cierran con la misma fórmula: preferir la visita personal antes que confiar todo a tinta y pluma.",
+            "en": "Both letters close with the same formula: preferring a personal visit over trusting everything to pen and ink.",
+            "pt": "Ambas as cartas encerram com a mesma fórmula: preferir a visita pessoal a confiar tudo à tinta e pena."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Israel/Iglesia": {
+            "es": "El saludo final nombra a 'los amigos' (3Jn 1:14) y da testimonio triple de Demetrio (3Jn 1:12), mostrando a la iglesia como una red concreta de relaciones nombradas, no una institución abstracta.",
+            "en": "The final greeting names 'the friends' (3John 1:14) and gives threefold testimony for Demetrius (3John 1:12), showing the church as a concrete network of named relationships, not an abstract institution.",
+            "pt": "A saudação final nomeia 'os amigos' (3Jo 1:14) e dá testemunho tríplice de Demétrio (3Jo 1:12), mostrando a igreja como uma rede concreta de relacionamentos nomeados, não uma instituição abstrata."
+          }
+        }
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis & Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Notas de estudio"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Study notes"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Notas de estudo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Editada bajo la dirección general de Lane T. Dennis (presidente de Crossway) y Wayne Grudem como editor teológico general, esta Biblia de estudio reúne a decenas de eruditos evangélicos y reformados de habla inglesa.",
+          "en": "Edited under the general direction of Lane T. Dennis (president of Crossway) with Wayne Grudem as general theological editor, this study Bible gathers dozens of evangelical and Reformed English-speaking scholars.",
+          "pt": "Editada sob a direção geral de Lane T. Dennis (presidente da Crossway) e Wayne Grudem como editor teológico geral, esta Bíblia de estudo reúne dezenas de eruditos evangélicos e reformados de língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos temáticos y teológicos, manteniendo una perspectiva evangélica reformada consistente en toda la Escritura.",
+          "en": "It combines verse-by-verse exegetical notes with thematic and theological essays, maintaining a consistent Reformed evangelical perspective across all of Scripture.",
+          "pt": "Combina notas exegéticas verso a verso com ensaios temáticos e teológicos, mantendo uma perspectiva evangélica reformada consistente em toda a Escritura."
+        },
+        "aportacion": {
+          "es": "Provee la introducción histórico-literaria estándar de 3 Juan (autoría, fecha, ocasión, la identidad de Diótrefes) usada como línea base para este registro.",
+          "en": "Provides the standard historical-literary introduction to 3 John (authorship, date, occasion, the identity of Diotrephes) used as the baseline for this record.",
+          "pt": "Fornece a introdução histórico-literária padrão de 3 João (autoria, data, ocasião, a identidade de Diótrefes) usada como linha de base para este registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Systematic Theology Study Bible (2017)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R. C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Reformation Trust",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R. C. Sproul (1939-2017) fue el teólogo reformado más influyente de su generación en el mundo de habla inglesa, fundador de Ligonier Ministries y firmante de la Declaración de Chicago sobre la Inerrancia Bíblica.",
+          "en": "R. C. Sproul (1939-2017) was the most influential Reformed theologian of his generation in the English-speaking world, founder of Ligonier Ministries and a signatory of the Chicago Statement on Biblical Inerrancy.",
+          "pt": "R. C. Sproul (1939-2017) foi o teólogo reformado mais influente de sua geração no mundo de língua inglesa, fundador do Ligonier Ministries e signatário da Declaração de Chicago sobre a Inerrância Bíblica."
+        },
+        "metodo": {
+          "es": "Dirigió un equipo de eruditos reformados para producir notas de estudio ancladas explícitamente en la Confesión de Westminster y los estándares confesionales reformados.",
+          "en": "He directed a team of Reformed scholars to produce study notes explicitly anchored in the Westminster Confession and Reformed confessional standards.",
+          "pt": "Dirigiu uma equipe de eruditos reformados para produzir notas de estudo explicitamente ancoradas na Confissão de Westminster e nos padrões confessionais reformados."
+        },
+        "aportacion": {
+          "es": "Aporta las conexiones explícitas entre 3 Juan y los capítulos correspondientes de la Confesión de Westminster sobre la iglesia, la comunión de los santos y las censuras eclesiásticas.",
+          "en": "Provides the explicit connections between 3 John and the corresponding chapters of the Westminster Confession on the church, the communion of saints, and church censures.",
+          "pt": "Fornece as conexões explícitas entre 3 João e os capítulos correspondentes da Confissão de Westminster sobre a igreja, a comunhão dos santos e as censuras eclesiásticas."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-hardcover-esv"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R. C. Sproul (ed. general) / Poiema Publicaciones",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto NBLA",
+          "Notas de estudio en español"
+        ],
+        "en": [
+          "NBLA text",
+          "Spanish study notes"
+        ],
+        "pt": [
+          "Texto NBLA",
+          "Notas de estudo em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Versión en español de la Reformation Study Bible, adaptada y traducida para el público hispanohablante bajo la supervisión editorial de Ligonier Ministries y Poiema Publicaciones.",
+          "en": "The Spanish-language edition of the Reformation Study Bible, adapted and translated for Spanish-speaking readers under the editorial supervision of Ligonier Ministries and Poiema Publicaciones.",
+          "pt": "A edição em espanhol da Reformation Study Bible, adaptada e traduzida para o público hispanofalante sob a supervisão editorial do Ligonier Ministries e da Poiema Publicaciones."
+        },
+        "metodo": {
+          "es": "Traduce y adapta culturalmente las notas de la Reformation Study Bible usando el texto de la NBLA, preservando el marco teológico reformado y confesional.",
+          "en": "It translates and culturally adapts the notes of the Reformation Study Bible using the NBLA text, preserving the Reformed and confessional theological framework.",
+          "pt": "Traduz e adapta culturalmente as notas da Reformation Study Bible usando o texto da NBLA, preservando o quadro teológico reformado e confessional."
+        },
+        "aportacion": {
+          "es": "Fuente primaria para el texto bíblico en español (NBLA) citado en los versículos clave de este registro.",
+          "en": "Primary source for the Spanish biblical text (NBLA) cited in this record's key verses.",
+          "pt": "Fonte primária para o texto bíblico em espanhol (NBLA) citado nos versículos-chave deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Eclesiología",
+          "Santificación"
+        ],
+        "en": [
+          "Systematic theology",
+          "Ecclesiology",
+          "Sanctification"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Eclesiologia",
+          "Santificação"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo evangélico reformado, profesor emérito de Teología y Estudios Bíblicos en la Phoenix Seminary, y uno de los sistemáticos más leídos en el mundo evangélico contemporáneo.",
+          "en": "Wayne Grudem is a Reformed evangelical theologian, Research Professor Emeritus of Theology and Biblical Studies at Phoenix Seminary, and one of the most widely read systematicians in contemporary evangelicalism.",
+          "pt": "Wayne Grudem é teólogo evangélico reformado, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e um dos sistemáticos mais lidos no mundo evangélico contemporâneo."
+        },
+        "metodo": {
+          "es": "Organiza la teología sistemática por categorías doctrinales clásicas, apoyando cada afirmación con exégesis bíblica directa y accesible al lector no especializado.",
+          "en": "He organizes systematic theology by classic doctrinal categories, supporting each claim with direct biblical exegesis accessible to the non-specialist reader.",
+          "pt": "Organiza a teologia sistemática por categorias doutrinárias clássicas, apoiando cada afirmação com exegese bíblica direta e acessível ao leitor não especializado."
+        },
+        "aportacion": {
+          "es": "Provee el marco de categorías de teología sistemática (Eclesiología, Santificación, Pacto) aplicado a los datos de 3 Juan en este registro.",
+          "en": "Provides the systematic theology category framework (Ecclesiology, Sanctification, Covenant) applied to the data of 3 John in this record.",
+          "pt": "Fornece o quadro de categorias de teologia sistemática (Eclesiologia, Santificação, Pacto) aplicado aos dados de 3 João neste registro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Systematic Theology, 2nd ed. (2020)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Tipología",
+          "Enfoque cristológico"
+        ],
+        "en": [
+          "Redemptive history",
+          "Typology",
+          "Christological focus"
+        ],
+        "pt": [
+          "História redentora",
+          "Tipologia",
+          "Enfoque cristológico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en el Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely regarded as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación a través de las épocas de la historia redentora, leyendo cada libro en su lugar dentro del avance del pacto de gracia hacia Cristo.",
+          "en": "He traces the progressive development of revelation across the epochs of redemptive history, reading each book in its place within the advance of the covenant of grace toward Christ.",
+          "pt": "Traça o desenvolvimento progressivo da revelação através das épocas da história redentora, lendo cada livro em seu lugar dentro do avanço do pacto da graça rumo a Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamenta la lectura tipológica de Diótrefes como antítesis del buen pastor bíblico, en contraste con el modelo de servicio de Cristo.",
+          "en": "Grounds the typological reading of Diotrephes as the antithesis of the biblical good shepherd, in contrast with Christ's model of service.",
+          "pt": "Fundamenta a leitura tipológica de Diótrefes como antítese do bom pastor bíblico, em contraste com o modelo de serviço de Cristo."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)",
+          "Redemptive History and Biblical Interpretation (1980, posthumous collection)"
+        ],
+        "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments"
+      }
+    },
+    {
+      "titulo": "The Letters of John (Pillar New Testament Commentary)",
+      "autor": "Colin G. Kruse",
+      "año": 2000,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Identidad de los personajes",
+          "Trasfondo histórico",
+          "Gobierno eclesial",
+          "Exégesis"
+        ],
+        "en": [
+          "Character identity",
+          "Historical background",
+          "Church government",
+          "Exegesis"
+        ],
+        "pt": [
+          "Identidade dos personagens",
+          "Contexto histórico",
+          "Governo eclesial",
+          "Exegese"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Colin G. Kruse es erudito neotestamentario australiano, profesor emérito en Ridley College (Melbourne), reconocido por sus comentarios exegéticos evangélicos sobre las epístolas juaninas y paulinas.",
+          "en": "Colin G. Kruse is an Australian New Testament scholar, emeritus professor at Ridley College (Melbourne), recognized for his evangelical exegetical commentaries on the Johannine and Pauline epistles.",
+          "pt": "Colin G. Kruse é erudito neotestamentário australiano, professor emérito no Ridley College (Melbourne), reconhecido por seus comentários exegéticos evangélicos sobre as epístolas joaninas e paulinas."
+        },
+        "metodo": {
+          "es": "Combina exégesis griega detallada verso por verso con atención cuidadosa al trasfondo histórico y a las principales posiciones académicas sobre cada cuestión disputada.",
+          "en": "He combines detailed verse-by-verse Greek exegesis with careful attention to historical background and the major scholarly positions on each disputed question.",
+          "pt": "Combina exegese grega detalhada verso a verso com atenção cuidadosa ao contexto histórico e às principais posições acadêmicas sobre cada questão disputada."
+        },
+        "aportacion": {
+          "es": "Aporta el análisis exegético de la identidad de Gayo, Diótrefes y Demetrio, y la conexión histórica con la Didajé y el debate sobre el gobierno eclesial primitivo.",
+          "en": "Provides the exegetical analysis of the identity of Gaius, Diotrephes, and Demetrius, and the historical connection to the Didache and the debate over early church government.",
+          "pt": "Fornece a análise exegética da identidade de Gaio, Diótrefes e Demétrio, e a conexão histórica com o Didaquê e o debate sobre o governo eclesial primitivo."
+        },
+        "obras": [
+          "The Letters of John (2000)",
+          "Paul's Letter to the Romans (2012)",
+          "2 Corinthians (2015)"
+        ],
+        "url": "https://www.eerdmans.com/9780802837325/the-letters-of-john/"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.55,
+    "camposMarcados": [
+      {
+        "campo": "personajes.Gayo",
+        "razon": "El nombre 'Gayo' era extremadamente común en el mundo romano; no puede identificarse con certeza con otros Gayos del Nuevo Testamento (Ro 16:23; 1Co 1:14; Hch 19:29; Hch 20:4). nivelEvidencia especulativo.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-05"
+      },
+      {
+        "campo": "personajes.Diótrefes",
+        "razon": "No existe evidencia externa que confirme su identidad histórica; se cita a veces en debates sobre el desarrollo del oficio monoepiscopal, pero el texto mismo no describe un cargo formal. nivelEvidencia especulativo.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-05"
+      },
+      {
+        "campo": "personajes.Demetrio",
+        "razon": "Posible identificación como portador de la carta según la convención epistolar antigua, pero sin confirmación externa; no debe confundirse con el platero de Hch 19:24. nivelEvidencia especulativo.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-05"
+      },
+      {
+        "campo": "resumenCapitulos[].rangoInicio/rangoFin",
+        "razon": "3 Juan tiene un solo capítulo (capitulosTotal=1) con 14 versículos. Las unidades de resumenCapitulos usan rangos de versículo (1-4, 5-8, 9-11, 12-14) en lugar de rangos de capítulo, siguiendo el mismo criterio aplicado en 2 Juan. El adaptador de la aplicación (adaptCapitulos/Timeline) remapea estas unidades a posiciones secuenciales en la línea de tiempo para libros de un solo capítulo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-05"
+      },
+      {
+        "campo": "autor.tradicional",
+        "razon": "La identidad de 'el Anciano' con el apóstol Juan sigue la tradición reformada (Ireneo, Papías vía Eusebio); el estilo compartido con 2 Juan respalda la autoría común, aunque cierta erudición crítica distingue a un 'Juan el Anciano'.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-05"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-05T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "Pipeline CANON (generación automatizada)",
+      "rol": "editor",
+      "fechaRevision": "2026-07-05"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 4,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

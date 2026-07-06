@@ -1838,12 +1838,13 @@
       "ordenCanon": 63,
       "capitulosTotal": 1,
       "divisionColor": "#D06898",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Nota personal de Juan que advierte sobre falsos maestros itinerantes y la importancia de la hospitalidad cristiana discernida.",
         "en": "John's personal note warning about false itinerant teachers and the importance of discerning Christian hospitality.",
         "pt": "Nota pessoal de João que adverte sobre falsos mestres itinerantes e a importância da hospitalidade cristã discernida."
-      }
+      },
+      "dataFile": "2john.json"
     },
     {
       "id": 64,
@@ -1858,12 +1859,13 @@
       "ordenCanon": 64,
       "capitulosTotal": 1,
       "divisionColor": "#D06898",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Segunda nota personal de Juan, esta vez sobre la autoridad del apóstol frente a líderes eclesiales que la desafían (Diótrefes). Ilustra los conflictos de autoridad en la iglesia primitiva.",
         "en": "John's second personal note, this time about apostolic authority against church leaders who challenge it (Diotrephes). Illustrates authority conflicts in the early church.",
         "pt": "Segunda nota pessoal de João, desta vez sobre a autoridade apostólica diante de líderes eclesiais que a desafiam (Diótrefes). Ilustra os conflitos de autoridade na igreja primitiva."
-      }
+      },
+      "dataFile": "3john.json"
     },
     {
       "id": 65,
@@ -1878,12 +1880,13 @@
       "ordenCanon": 65,
       "capitulosTotal": 1,
       "divisionColor": "#D06898",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La carta más breve del NT: exhortación urgente a 'contender ardientemente por la fe que fue entregada una vez para siempre a los santos' (Jud 3) frente a infiltrados que pervirtieron la gracia.",
         "en": "The shortest NT letter: an urgent exhortation to 'contend earnestly for the faith once for all delivered to the saints' (Jude 3) against infiltrators who perverted grace.",
         "pt": "A carta mais breve do NT: exortação urgente a 'combater arduamente pela fé que foi uma vez por todas entregue aos santos' (Jd 3) diante de infiltrados que perverteram a graça."
-      }
+      },
+      "dataFile": "jude.json"
     },
     {
       "id": 66,

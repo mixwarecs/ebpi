@@ -94,15 +94,19 @@ function getAudioUrl(lang, bookNum, chapter) {
 
 const CHAPTER_LABELS = { es: "Cap.", en: "Ch.", pt: "Cap." };
 
-function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, shouldAutoPlay, onSectionEnd, onPlayingChange, currentAudioRef }) {
-  const count = rangoFin - rangoInicio + 1;
+function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, capitulosTotal, shouldAutoPlay, onSectionEnd, onPlayingChange, currentAudioRef }) {
+  // Single-chapter books (Jude, 2/3 John, Philemon, Obadiah) have exactly one
+  // narrated audio file regardless of how many verse-range units subdivide
+  // the chapter for summary purposes (see adaptCapitulos in canonToViewer.js).
+  const isSingleChapterBook = capitulosTotal === 1;
+  const count = isSingleChapterBook ? 1 : rangoFin - rangoInicio + 1;
   const [idx, setIdx] = useState(0);
   const audioRef = useRef(null);
-  const chapter = rangoInicio + idx;
+  const chapter = isSingleChapterBook ? 1 : rangoInicio + idx;
   const src = getAudioUrl(lang, bookNum, chapter);
 
   // Reset when lang/book/range changes
-  useEffect(() => { setIdx(0); }, [lang, bookNum, rangoInicio, rangoFin]);
+  useEffect(() => { setIdx(0); }, [lang, bookNum, rangoInicio, rangoFin, capitulosTotal]);
 
   // When idx advances within a range, auto-play the next chapter
   useEffect(() => {
@@ -202,7 +206,7 @@ function ChapterShareButton({ bookNum, lang, chapterIdx }) {
   );
 }
 
-export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1, initialChapterIdx = null, onChapterChange }) {
+export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1, initialChapterIdx = null, onChapterChange, capitulosTotal = null }) {
   const lv = (t) => linkifyVerses(t, lang);
 
   const [activeIdx, setActiveIdx] = useState(null);
@@ -573,6 +577,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
                 bookNum={bookNum}
                 rangoInicio={c.rangoInicio}
                 rangoFin={c.rangoFin}
+                capitulosTotal={capitulosTotal}
                 shouldAutoPlay={activeIdx === i}
                 onSectionEnd={() => setActiveIdx(i + 1 < rawChapters.length ? i + 1 : null)}
                 onPlayingChange={(playing) => { setPlayingIdx(playing ? i : null); if (playing) { setHighlightIdx(null); onChapterChange?.(i); } }}

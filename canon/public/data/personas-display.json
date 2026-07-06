@@ -1741,14 +1741,14 @@
   },
   "Gayo": {
     "id": "gayo",
-    "color": "#1B7A6B",
-    "init": "ΓΑ",
-    "xCh": 1,
-    "side": "below",
+    "color": "#2A7A5E",
+    "init": "Γα",
+    "xCh": 2,
+    "side": "above",
     "badge": {
-      "es": "ANFITRIÓN DE LA IGLESIA",
-      "en": "HOST OF THE CHURCH",
-      "pt": "ANFITRIÃO DA IGREJA"
+      "es": "ANFITRIÓN FIEL",
+      "en": "FAITHFUL HOST",
+      "pt": "ANFITRIÃO FIEL"
     }
   },
   "Pablo (el Apóstol)": {
@@ -1785,6 +1785,126 @@
       "es": "FALSOS APÓSTOLES",
       "en": "FALSE APOSTLES",
       "pt": "FALSOS APÓSTOLOS"
+    }
+  },
+  "El Anciano (Juan el Apóstol)": {
+    "id": "anciano-juan",
+    "color": "#2A6B8B",
+    "init": "Ἰω",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "ANCIANO APOSTÓLICO",
+      "en": "APOSTOLIC ELDER",
+      "pt": "ANCIÃO APOSTÓLICO"
+    }
+  },
+  "La Señora Elegida y sus Hijos": {
+    "id": "senora-elegida",
+    "color": "#1B5E8B",
+    "init": "Κε",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "SEÑORA ELEGIDA",
+      "en": "ELECT LADY",
+      "pt": "SENHORA ELEITA"
+    }
+  },
+  "Los Engañadores (Anticristos)": {
+    "id": "enganadores-2jn",
+    "color": "#6B2A3A",
+    "init": "Αν",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "ENGAÑADORES/ANTICRISTOS",
+      "en": "DECEIVERS/ANTICHRISTS",
+      "pt": "ENGANADORES/ANTICRISTOS"
+    }
+  },
+  "Diótrefes": {
+    "id": "diotrefes",
+    "color": "#7A2A2A",
+    "init": "Δι",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "LÍDER AMBICIOSO",
+      "en": "AMBITIOUS LEADER",
+      "pt": "LÍDER AMBICIOSO"
+    }
+  },
+  "Demetrio": {
+    "id": "demetrio",
+    "color": "#4A7A8B",
+    "init": "Δη",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "TESTIGO ACREDITADO",
+      "en": "ATTESTED WITNESS",
+      "pt": "TESTEMUNHA ATESTADA"
+    }
+  },
+  "Judas": {
+    "id": "judas-autor",
+    "color": "#3A5A8B",
+    "init": "Ἰο",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "SIERVO DE CRISTO",
+      "en": "SERVANT OF CHRIST",
+      "pt": "SERVO DE CRISTO"
+    }
+  },
+  "Los falsos maestros infiltrados": {
+    "id": "falsos-maestros-judas",
+    "color": "#8B2A2A",
+    "init": "ψε",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "FALSOS MAESTROS INFILTRADOS",
+      "en": "INFILTRATING FALSE TEACHERS",
+      "pt": "FALSOS MESTRES INFILTRADOS"
+    }
+  },
+  "Miguel el Arcángel": {
+    "id": "miguel-arcangel",
+    "color": "#A8862A",
+    "init": "מי",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "ARCÁNGEL REVERENTE",
+      "en": "REVERENT ARCHANGEL",
+      "pt": "ARCANJO REVERENTE"
+    }
+  },
+  "Enoc": {
+    "id": "enoc-judas",
+    "color": "#2A7A6B",
+    "init": "חנ",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA ANTEDILUVIANO",
+      "en": "ANTEDILUVIAN PROPHET",
+      "pt": "PROFETA ANTEDILUVIANO"
+    }
+  },
+  "Caín, Balaam y Coré": {
+    "id": "cain-balaam-core",
+    "color": "#6B4A2A",
+    "init": "Κα",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "TIPOS DE APOSTASÍA",
+      "en": "TYPES OF APOSTASY",
+      "pt": "TIPOS DE APOSTASIA"
     }
   }
 }

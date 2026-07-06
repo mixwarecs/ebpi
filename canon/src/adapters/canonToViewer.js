@@ -141,23 +141,34 @@ export function adaptAnclasConfesionales(arr, lang = "es") {
 }
 
 // canon resumenCapitulos[] → viewer chapters[]
-export function adaptCapitulos(resumenCapitulos, lang = "es") {
+// For single-chapter books (capitulosTotal === 1) whose units are subdivided
+// by verse range instead of by chapter, rangoInicio/rangoFin hold verse
+// numbers that can run well past 1 (e.g. 1-3, 4-6, 7-11, 12-13). Expanding
+// those as if they were chapter numbers would explode the timeline's width
+// (see Timeline.jsx's totalChapters-based scaling). Instead, emit one dot
+// per unit at a sequential position (1, 2, 3, ...) and keep the real verse
+// range only for the dot's label and BibleGateway link.
+export function adaptCapitulos(resumenCapitulos, lang = "es", capitulosTotal = null) {
   if (!resumenCapitulos) return [];
+  const singleChapterUnits = capitulosTotal === 1 && resumenCapitulos.length > 1;
   const out = [];
-  for (const c of resumenCapitulos) {
-    const start = c.rangoInicio;
-    const end = c.rangoFin;
-    for (let ch = start; ch <= end; ch++) {
-      out.push({
-        ch,
-        color: eraColor(c.era),
-        title: c.titulo ? (c.titulo[lang] || c.titulo.es || "") : "",
-        desc: c.descripcion ? (c.descripcion[lang] || c.descripcion.es || "") : "",
-        verse: c.versiculoClave || "",
-        era: c.era || "",
-      });
+  resumenCapitulos.forEach((c, idx) => {
+    const base = {
+      color: eraColor(c.era),
+      title: c.titulo ? (c.titulo[lang] || c.titulo.es || "") : "",
+      desc: c.descripcion ? (c.descripcion[lang] || c.descripcion.es || "") : "",
+      verse: c.versiculoClave || "",
+      era: c.era || "",
+    };
+    if (singleChapterUnits) {
+      const label = c.rangoInicio === c.rangoFin ? `${c.rangoInicio}` : `${c.rangoInicio}-${c.rangoFin}`;
+      out.push({ ...base, ch: idx + 1, label, linkCh: c.rangoInicio });
+      return;
     }
-  }
+    for (let ch = c.rangoInicio; ch <= c.rangoFin; ch++) {
+      out.push({ ...base, ch });
+    }
+  });
   return out;
 }
 

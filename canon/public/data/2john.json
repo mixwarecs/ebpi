@@ -1,0 +1,1354 @@
+{
+  "id": 63,
+  "testamento": "Nuevo",
+  "division": "Epístolas Generales",
+  "titulo": {
+    "es": "2 Juan",
+    "en": "2 John",
+    "pt": "2 João"
+  },
+  "tituloOriginal": "Ἰωάννου Βʹ",
+  "transliteracion": "Iōannou B",
+  "significado": {
+    "es": "Yahvé ha tenido misericordia / Yahvé es clemente",
+    "en": "The LORD has been gracious / The LORD is gracious",
+    "pt": "O SENHOR teve misericórdia / O SENHOR é gracioso"
+  },
+  "resumenGeneral": {
+    "es": "La carta abre atando verdad y amor como un solo vínculo pactal: el Anciano ama a la señora elegida y a sus hijos 'en la verdad', una verdad que 'permanece en nosotros para siempre' (2Jn 1:1-3). El argumento avanza hacia el gozo de ver a 'algunos' andando en esa verdad y a la exhortación de amarse unos a otros conforme al mandamiento recibido 'desde el principio' (2Jn 1:4-6). El giro decisivo llega cuando el amor y la verdad chocan con el error: 'muchos engañadores' niegan que Jesucristo vino en carne, y a estos anticristos no se les debe recibir ni saludar, pues la hospitalidad indiscriminada se convierte en complicidad doctrinal (2Jn 1:7-11). La carta cierra, no con una conclusión doctrinal más, sino con el anhelo pastoral de una visita en persona 'para que nuestro gozo sea completo' y con el saludo de una iglesia hermana (2Jn 1:12-13), dejando claro que la ortodoxia cristológica y la comunión personal son inseparables.",
+    "en": "The letter opens by binding truth and love into a single covenantal cord: the Elder loves the elect lady and her children 'in the truth,' a truth that 'abides in us forever' (2John 1:1-3). The argument moves toward joy at seeing 'some' walking in that truth and an exhortation to love one another according to the commandment received 'from the beginning' (2John 1:4-6). The decisive turn comes when love and truth collide with error: 'many deceivers' deny that Jesus Christ came in the flesh, and such antichrists must not be received or greeted, since indiscriminate hospitality becomes doctrinal complicity (2John 1:7-11). The letter closes not with more doctrine but with the pastoral longing for a face-to-face visit 'so that our joy may be complete,' along with greetings from a sister church (2John 1:12-13), making clear that christological orthodoxy and personal fellowship are inseparable.",
+    "pt": "A carta abre unindo verdade e amor em um único vínculo pactual: o Ancião ama a senhora eleita e seus filhos 'na verdade', uma verdade que 'permanece em nós para sempre' (2Jo 1:1-3). O argumento avança até a alegria de ver 'alguns' andando nessa verdade e a exortação a se amarem uns aos outros conforme o mandamento recebido 'desde o princípio' (2Jo 1:4-6). O giro decisivo chega quando o amor e a verdade colidem com o erro: 'muitos enganadores' negam que Jesus Cristo veio em carne, e a esses anticristos não se deve receber nem saudar, pois a hospitalidade indiscriminada se torna cumplicidade doutrinária (2Jo 1:7-11). A carta se encerra não com mais doutrina, mas com o anseio pastoral de uma visita pessoal 'para que a nossa alegria seja completa', junto com a saudação de uma igreja irmã (2Jo 1:12-13), deixando claro que a ortodoxia cristológica e a comunhão pessoal são inseparáveis."
+  },
+  "capitulosTotal": 1,
+  "autor": {
+    "nombre": {
+      "es": "Juan el Apóstol",
+      "en": "John the Apostle",
+      "pt": "João, o Apóstolo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El autor se autodenomina 'el Anciano' (2Jn 1:1), no 'apóstol'. La tradición eclesial (Ireneo, citando a Policarpo; Papías vía Eusebio) identifica a este Anciano con el apóstol Juan, hijo de Zebedeo, autor también del Evangelio de Juan, 1 Juan, 3 Juan y Apocalipsis, escribiendo en su vejez desde Éfeso. Cierta erudición crítica moderna distingue a un 'Juan el Anciano' de 'Juan el Apóstol' a partir de una lectura ambigua de Papías, pero la tradición reformada sostiene la autoría apostólica juanina de las tres epístolas.",
+      "en": "The author calls himself 'the Elder' (2John 1:1), not 'apostle.' Church tradition (Irenaeus, citing Polycarp; Papias via Eusebius) identifies this Elder with the apostle John, son of Zebedee, also author of the Gospel of John, 1 John, 3 John, and Revelation, writing in old age from Ephesus. Some modern critical scholarship distinguishes a 'John the Elder' from 'John the Apostle' based on an ambiguous reading of Papias, but the Reformed tradition holds to apostolic Johannine authorship of all three epistles.",
+      "pt": "O autor se autodenomina 'o Ancião' (2Jo 1:1), não 'apóstolo'. A tradição eclesiástica (Ireneu, citando Policarpo; Papias via Eusébio) identifica esse Ancião com o apóstolo João, filho de Zebedeu, também autor do Evangelho de João, 1 João, 3 João e Apocalipse, escrevendo em sua velhice a partir de Éfeso. Certa erudição crítica moderna distingue um 'João, o Ancião' de 'João, o Apóstolo' com base numa leitura ambígua de Papias, mas a tradição reformada sustenta a autoria apostólica joanina das três epístolas."
+    }
+  },
+  "año": {
+    "desde": 90,
+    "hasta": 95,
+    "display": {
+      "es": "Fecha de escritura: c. 90–95 d.C.",
+      "en": "Date of writing: c. AD 90–95",
+      "pt": "Data de escrita: c. 90–95 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Éfeso (tradicionalmente), provincia romana de Asia",
+    "en": "Ephesus (traditionally), Roman province of Asia",
+    "pt": "Éfeso (tradicionalmente), província romana da Ásia"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Tardío (70–100 d.C.)",
+      "en": "Late Roman Period (AD 70–100)",
+      "pt": "Período Romano Tardio (70–100 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Éfeso",
+          "en": "Ephesus",
+          "pt": "Éfeso"
+        },
+        "identificacionModerna": {
+          "es": "Selçuk, cerca de Izmir, Turquía",
+          "en": "Selçuk, near Izmir, Turkey",
+          "pt": "Selçuk, perto de Izmir, Turquia"
+        },
+        "significancia": {
+          "es": "Base tradicional del ministerio final del apóstol Juan y probable lugar de origen de la carta; centro comercial y religioso principal de la provincia de Asia, con una iglesia consolidada desde los viajes paulinos.",
+          "en": "Traditional base of the apostle John's final ministry and the letter's probable place of origin; the chief commercial and religious center of the province of Asia, with a church established since Paul's travels.",
+          "pt": "Base tradicional do ministério final do apóstolo João e provável local de origem da carta; centro comercial e religioso principal da província da Ásia, com uma igreja estabelecida desde as viagens de Paulo."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Provincia romana de Asia",
+          "en": "Roman Province of Asia",
+          "pt": "Província romana da Ásia"
+        },
+        "identificacionModerna": {
+          "es": "Región occidental de la actual Turquía",
+          "en": "Western region of modern-day Turkey",
+          "pt": "Região ocidental da atual Turquia"
+        },
+        "significancia": {
+          "es": "Región donde circulaban maestros itinerantes (fieles y falsos) entre las iglesias urbanas conectadas por la red de calzadas romanas, contexto directo de la advertencia sobre hospitalidad de 2Jn 1:10-11.",
+          "en": "Region where itinerant teachers (both faithful and false) traveled between urban churches connected by the Roman road network, the direct backdrop for the hospitality warning of 2John 1:10-11.",
+          "pt": "Região onde mestres itinerantes (fiéis e falsos) circulavam entre as igrejas urbanas conectadas pela rede de estradas romanas, pano de fundo direto da advertência sobre hospitalidade em 2Jo 1:10-11."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Ciudades hermanas de Asia Menor (p. ej. Esmirna, Laodicea)",
+          "en": "Sister cities of Asia Minor (e.g. Smyrna, Laodicea)",
+          "pt": "Cidades irmãs da Ásia Menor (ex. Esmirna, Laodiceia)"
+        },
+        "identificacionModerna": {
+          "es": "Izmir y Denizli/Eskihisar, Turquía",
+          "en": "Izmir and Denizli/Eskihisar, Turkey",
+          "pt": "Izmir e Denizli/Eskihisar, Turquia"
+        },
+        "significancia": {
+          "es": "Representan el tipo de congregaciones hermanas aludidas en 2Jn 1:13 ('los hijos de tu hermana elegida'), parte de la red de iglesias joánicas de la región que compartían correspondencia y visitas pastorales.",
+          "en": "Represent the kind of sister congregations alluded to in 2John 1:13 ('the children of your elect sister'), part of the network of Johannine churches in the region that shared correspondence and pastoral visits.",
+          "pt": "Representam o tipo de congregações irmãs aludidas em 2Jo 1:13 ('os filhos da tua irmã eleita'), parte da rede de igrejas joaninas da região que compartilhavam correspondência e visitas pastorais."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano (Provincia de Asia)",
+          "en": "Roman Empire (Province of Asia)",
+          "pt": "Império Romano (Província da Ásia)"
+        },
+        "rolEnElTexto": {
+          "es": "Provee la infraestructura de caminos y el marco legal-social bajo el cual viajan tanto misioneros cristianos legítimos como falsos maestros itinerantes.",
+          "en": "Provides the road infrastructure and legal-social framework under which both legitimate Christian missionaries and itinerant false teachers traveled.",
+          "pt": "Fornece a infraestrutura de estradas e o quadro jurídico-social sob o qual viajavam tanto missionários cristãos legítimos quanto falsos mestres itinerantes."
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente confirmado por restos de calzadas romanas, inscripciones y ruinas urbanas en Éfeso y ciudades vecinas.",
+          "en": "Widely confirmed by remains of Roman roads, inscriptions, and urban ruins at Ephesus and neighboring cities.",
+          "pt": "Amplamente confirmado por vestígios de estradas romanas, inscrições e ruínas urbanas em Éfeso e cidades vizinhas."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidades cristianas joáninas de Asia Menor",
+          "en": "Johannine Christian communities of Asia Minor",
+          "pt": "Comunidades cristãs joaninas da Ásia Menor"
+        },
+        "rolEnElTexto": {
+          "es": "Constituyen tanto la destinataria ('la señora elegida') como la comunidad remitente ('los hijos de tu hermana elegida'), unidas por la enseñanza apostólica del Anciano.",
+          "en": "Constitute both the recipient ('the elect lady') and the sending community ('the children of your elect sister'), united by the Elder's apostolic teaching.",
+          "pt": "Constituem tanto a destinatária ('a senhora eleita') quanto a comunidade remetente ('os filhos de tua irmã eleita'), unidas pelo ensino apostólico do Ancião."
+        },
+        "estadoArqueologico": {
+          "es": "Atestiguadas indirectamente por las cartas a las siete iglesias de Apocalipsis 2-3 y por escritos patrísticos tempranos (Ignacio, Policarpo) que reflejan la misma región y período.",
+          "en": "Attested indirectly by the letters to the seven churches in Revelation 2-3 and by early patristic writings (Ignatius, Polycarp) reflecting the same region and period.",
+          "pt": "Atestadas indiretamente pelas cartas às sete igrejas de Apocalipse 2-3 e por escritos patrísticos primitivos (Inácio, Policarpo) que refletem a mesma região e período."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Movimiento docetista / proto-gnóstico incipiente",
+          "en": "Incipient Docetic / proto-Gnostic movement",
+          "pt": "Movimento docetista / proto-gnóstico incipiente"
+        },
+        "rolEnElTexto": {
+          "es": "Los 'engañadores' de 2Jn 1:7 que niegan que Jesucristo vino 'en carne' reflejan una cristología docetista temprana, precursora del gnosticismo pleno del siglo II.",
+          "en": "The 'deceivers' of 2John 1:7 who deny that Jesus Christ came 'in the flesh' reflect an early Docetic Christology, a precursor to full second-century Gnosticism.",
+          "pt": "Os 'enganadores' de 2Jo 1:7 que negam que Jesus Cristo veio 'em carne' refletem uma cristologia docetista primitiva, precursora do gnosticismo pleno do século II."
+        },
+        "estadoArqueologico": {
+          "es": "No hay restos materiales directos; la evidencia es literaria, corroborada por las cartas de Ignacio de Antioquía (p. ej. a los Esmirniotas) que combaten la misma negación pocas décadas después.",
+          "en": "No direct material remains; the evidence is literary, corroborated by the letters of Ignatius of Antioch (e.g. to the Smyrnaeans) combating the same denial a few decades later.",
+          "pt": "Não há vestígios materiais diretos; a evidência é literária, corroborada pelas cartas de Inácio de Antioquia (ex. aos Esmirniotas) que combatem a mesma negação poucas décadas depois."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "No existe evidencia arqueológica que confirme directamente la identidad de 'la señora elegida' ni el destino exacto de la carta, dado su carácter privado y ocasional. Sin embargo, las excavaciones de Éfeso confirman una ciudad portuaria próspera del siglo I, con un templo de Artemisa, teatro y ágora consistentes con el trasfondo urbano de las iglesias joáninas. Papiros e inscripciones tempranas de la región de Asia Menor corroboran la existencia de redes de correspondencia cristiana itinerante en este período, y las cartas de Ignacio de Antioquía (escritas c. 110 d.C., una generación después) atestiguan controversias cristológicas casi idénticas a la de 2Jn 1:7, lo que respalda la plausibilidad histórica del conflicto descrito.",
+      "en": "No archaeological evidence directly confirms the identity of 'the elect lady' or the letter's exact destination, given its private, occasional character. Excavations at Ephesus, however, confirm a prosperous first-century port city, with a temple of Artemis, theater, and agora consistent with the urban backdrop of the Johannine churches. Early papyri and inscriptions from the Asia Minor region corroborate the existence of itinerant Christian correspondence networks in this period, and the letters of Ignatius of Antioch (written c. AD 110, one generation later) attest to nearly identical christological controversies to that of 2John 1:7, supporting the historical plausibility of the conflict described.",
+      "pt": "Não há evidência arqueológica que confirme diretamente a identidade da 'senhora eleita' nem o destino exato da carta, dado seu caráter privado e ocasional. As escavações de Éfeso, contudo, confirmam uma próspera cidade portuária do século I, com um templo de Ártemis, teatro e ágora consistentes com o pano de fundo urbano das igrejas joaninas. Papiros e inscrições antigas da região da Ásia Menor corroboram a existência de redes de correspondência cristã itinerante nesse período, e as cartas de Inácio de Antioquia (escritas c. 110 d.C., uma geração depois) atestam controvérsias cristológicas quase idênticas à de 2Jo 1:7, o que sustenta a plausibilidade histórica do conflito descrito."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Códigos de hospitalidad greco-romana (xenia)",
+          "en": "Greco-Roman hospitality codes (xenia)",
+          "pt": "Códigos de hospitalidade greco-romana (xenia)"
+        },
+        "origen": {
+          "es": "Costumbre social greco-romana ampliamente atestiguada en la literatura y las cartas de recomendación del período helenístico-romano",
+          "en": "Greco-Roman social custom widely attested in the literature and letters of recommendation of the Hellenistic-Roman period",
+          "pt": "Costume social greco-romano amplamente atestado na literatura e nas cartas de recomendação do período helenístico-romano"
+        },
+        "relevancia": {
+          "es": "Explica el trasfondo social de 2Jn 1:10-11: recibir en casa y proveer viáticos a un maestro itinerante era una obligación social esperada, lo que hace más radical la instrucción del Anciano de negar esa hospitalidad a los falsos maestros.",
+          "en": "Explains the social backdrop of 2John 1:10-11: receiving a traveling teacher into one's home and providing for their journey was an expected social obligation, which makes the Elder's instruction to withhold that hospitality from false teachers all the more radical.",
+          "pt": "Explica o pano de fundo social de 2Jo 1:10-11: receber em casa e prover para a viagem de um mestre itinerante era uma obrigação social esperada, o que torna ainda mais radical a instrução do Ancião de negar essa hospitalidade aos falsos mestres."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Dos debates dominan la discusión histórica de esta carta. Primero, la identidad del autor: ¿es 'el Anciano' el apóstol Juan mismo, o una figura distinta ('Juan el Anciano') mencionada de forma ambigua por Papías (según el testimonio recogido por Eusebio)? La tradición reformada, siguiendo a Ireneo, sostiene la identidad apostólica. Segundo, la identidad de 'la señora elegida': algunos padres antiguos (y algunos comentaristas modernos) la leen como una mujer cristiana literal y su familia; la mayoría de comentaristas reformados contemporáneos (p. ej. Kruse, Yarbrough) la leen como una personificación de una iglesia local, dado el uso fluido de singular y plural en el texto griego. Ninguna de las dos controversias afecta la autoridad canónica ni el mensaje doctrinal de la carta.",
+      "en": "Two debates dominate the historical discussion of this letter. First, the author's identity: is 'the Elder' the apostle John himself, or a distinct figure ('John the Elder') ambiguously mentioned by Papias (per the testimony recorded by Eusebius)? The Reformed tradition, following Irenaeus, holds to the apostolic identity. Second, the identity of 'the elect lady': some ancient fathers (and some modern commentators) read her as a literal Christian woman and her family; most contemporary Reformed commentators (e.g. Kruse, Yarbrough) read her as a personification of a local church, given the fluid singular/plural usage in the Greek text. Neither controversy affects the letter's canonical authority or doctrinal message.",
+      "pt": "Dois debates dominam a discussão histórica desta carta. Primeiro, a identidade do autor: 'o Ancião' é o próprio apóstolo João, ou uma figura distinta ('João, o Ancião') mencionada de forma ambígua por Papias (segundo o testemunho registrado por Eusébio)? A tradição reformada, seguindo Ireneu, sustenta a identidade apostólica. Segundo, a identidade da 'senhora eleita': alguns pais antigos (e alguns comentaristas modernos) a leem como uma mulher cristã literal e sua família; a maioria dos comentaristas reformados contemporâneos (ex. Kruse, Yarbrough) a leem como uma personificação de uma igreja local, dado o uso fluido de singular e plural no texto grego. Nenhuma das duas controvérsias afeta a autoridade canônica ou a mensagem doutrinária da carta."
+    },
+    "cronologiaInterna": {
+      "es": "La carta refleja una ventana de tiempo breve y ocasional, no una narrativa extendida: el Anciano ya se ha encontrado con 'algunos' de los hijos de la señora elegida y los ha visto andar en la verdad (v.4); es consciente de que 'muchos engañadores' ya circulan activamente por la región (v.7); escribe la carta como medida preventiva inmediata; y anuncia una visita personal futura y cercana ('espero ir a vosotros', v.12) que reemplazará la comunicación escrita.",
+      "en": "The letter reflects a brief, occasional window of time rather than an extended narrative: the Elder has already met 'some' of the elect lady's children and seen them walking in the truth (v.4); he is aware that 'many deceivers' are already actively circulating in the region (v.7); he writes the letter as an immediate preventive measure; and he announces a future, near-term personal visit ('I hope to come to you,' v.12) that will replace written communication.",
+      "pt": "A carta reflete uma janela de tempo breve e ocasional, não uma narrativa estendida: o Ancião já se encontrou com 'alguns' dos filhos da senhora eleita e os viu andar na verdade (v.4); está ciente de que 'muitos enganadores' já circulam ativamente pela região (v.7); escreve a carta como medida preventiva imediata; e anuncia uma futura visita pessoal próxima ('espero ir ter convosco', v.12) que substituirá a comunicação escrita."
+    }
+  },
+  "ordenEnDivision": 6,
+  "ordenCanon": 63,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "2 Juan hace de la encarnación real de Cristo el criterio no negociable de la fe cristiana: negar que 'Jesucristo vino en carne' (2Jn 1:7) es la marca del anticristo. La carta aplica al ámbito práctico de la hospitalidad la cristología encarnacional que el Evangelio de Juan expone teológicamente ('el Verbo se hizo carne', Jn 1:14), mostrando que la ortodoxia sobre la persona de Cristo determina los límites visibles de la comunión eclesial.",
+      "en": "2 John makes Christ's real incarnation the non-negotiable criterion of Christian faith: denying that 'Jesus Christ came in the flesh' (2John 1:7) marks one as antichrist. The letter applies to the practical realm of hospitality the incarnational Christology that the Gospel of John expounds theologically ('the Word became flesh,' John 1:14), showing that orthodoxy about Christ's person determines the visible boundaries of church fellowship.",
+      "pt": "2 João faz da encarnação real de Cristo o critério inegociável da fé cristã: negar que 'Jesus Cristo veio em carne' (2Jo 1:7) é a marca do anticristo. A carta aplica ao âmbito prático da hospitalidade a cristologia encarnacional que o Evangelho de João expõe teologicamente ('o Verbo se fez carne', Jo 1:14), mostrando que a ortodoxia sobre a pessoa de Cristo determina os limites visíveis da comunhão eclesial."
+    },
+    "tiposYSombras": [
+      {
+        "es": "La 'señora elegida' (2Jn 1:1) evoca el lenguaje profético de Sion/Jerusalén personificada como esposa y madre elegida de Dios (Is 54:1-8), aplicado ahora a la iglesia neotestamentaria como el verdadero pueblo elegido en Cristo.",
+        "en": "The 'elect lady' (2John 1:1) echoes the prophetic language of Zion/Jerusalem personified as God's chosen wife and mother (Isa 54:1-8), now applied to the New Testament church as the true elect people in Christ.",
+        "pt": "A 'senhora eleita' (2Jo 1:1) evoca a linguagem profética de Sião/Jerusalém personificada como esposa e mãe eleita de Deus (Is 54:1-8), agora aplicada à igreja neotestamentária como o verdadeiro povo eleito em Cristo."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Junto con 3 Juan, es la epístola más breve del Nuevo Testamento, y su brevedad es precisamente su aporte distintivo: condensa en una sola carta personal la totalidad de la teología joánica —verdad, amor, mandamiento y cristología encarnacional— aplicada a una situación pastoral concreta. Es el único libro del canon que convierte la prueba cristológica del anticristo (compartida con 1 Juan) en un criterio explícito y práctico para la hospitalidad y disciplina eclesial, estableciendo que la ortodoxia doctrinal, y no solo la buena voluntad, define los límites legítimos de la comunión cristiana.",
+    "en": "Together with 3 John, it is the shortest epistle in the New Testament, and its brevity is precisely its distinctive contribution: it condenses the whole of Johannine theology —truth, love, commandment, and incarnational Christology— into a single personal letter applied to a concrete pastoral situation. It is the only canonical book that turns the christological test of antichrist (shared with 1 John) into an explicit, practical criterion for hospitality and church discipline, establishing that doctrinal orthodoxy, not mere goodwill, defines the legitimate boundaries of Christian fellowship.",
+    "pt": "Junto com 3 João, é a epístola mais breve do Novo Testamento, e sua brevidade é precisamente sua contribuição distintiva: condensa numa única carta pessoal toda a teologia joanina —verdade, amor, mandamento e cristologia encarnacional— aplicada a uma situação pastoral concreta. É o único livro do cânon que transforma o teste cristológico do anticristo (compartilhado com 1 João) num critério explícito e prático para a hospitalidade e a disciplina eclesial, estabelecendo que a ortodoxia doutrinária, e não apenas a boa vontade, define os limites legítimos da comunhão cristã."
+  },
+  "genero": {
+    "es": "Epístola personal (carta pastoral)",
+    "en": "Personal epistle (pastoral letter)",
+    "pt": "Epístola pessoal (carta pastoral)"
+  },
+  "palabraClave": {
+    "es": [
+      "Verdad",
+      "Amor",
+      "Anticristo",
+      "Hospitalidad",
+      "Falsos maestros"
+    ],
+    "en": [
+      "Truth",
+      "Love",
+      "Antichrist",
+      "Hospitality",
+      "False teachers"
+    ],
+    "pt": [
+      "Verdade",
+      "Amor",
+      "Anticristo",
+      "Hospitalidade",
+      "Falsos mestres"
+    ]
+  },
+  "destinatario": {
+    "es": "La 'señora elegida' y sus hijos — muy probablemente una personificación de una iglesia local particular en la provincia romana de Asia (posiblemente cercana a Éfeso), aunque algunos comentaristas la leen como una mujer cristiana literal y su familia",
+    "en": "The 'elect lady' and her children — most likely a personification of a specific local church in the Roman province of Asia (possibly near Ephesus), though some commentators read her as a literal Christian woman and her family",
+    "pt": "A 'senhora eleita' e seus filhos — muito provavelmente uma personificação de uma igreja local específica na província romana da Ásia (possivelmente perto de Éfeso), embora alguns comentaristas a leiam como uma mulher cristã literal e sua família"
+  },
+  "proposito": {
+    "es": "Histórico: advertir a una congregación específica contra recibir y dar plataforma a maestros itinerantes que negaban la encarnación de Cristo, protegiendo así la pureza doctrinal y la seguridad pastoral de la iglesia. Teológico: establecer que la verdad y el amor son inseparables —el amor genuino se expresa en obediencia a los mandamientos de Dios, y la verdadera comunión cristiana exige un límite doctrinal claro, de modo que la hospitalidad cristiana nunca se convierta en complicidad con la negación de Cristo.",
+    "en": "Historical: to warn a specific congregation against receiving and giving a platform to itinerant teachers who denied Christ's incarnation, thereby protecting the church's doctrinal purity and pastoral safety. Theological: to establish that truth and love are inseparable —genuine love is expressed in obedience to God's commandments, and true Christian fellowship requires a clear doctrinal boundary, so that Christian hospitality never becomes complicity with the denial of Christ.",
+    "pt": "Histórico: advertir uma congregação específica contra receber e dar plataforma a mestres itinerantes que negavam a encarnação de Cristo, protegendo assim a pureza doutrinária e a segurança pastoral da igreja. Teológico: estabelecer que a verdade e o amor são inseparáveis —o amor genuíno se expressa em obediência aos mandamentos de Deus, e a verdadeira comunhão cristã exige um limite doutrinário claro, para que a hospitalidade cristã nunca se torne cumplicidade com a negação de Cristo."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "El Anciano (Juan el Apóstol)",
+        "en": "The Elder (John the Apostle)",
+        "pt": "O Ancião (João, o Apóstolo)"
+      },
+      "hebreo": "ὁ πρεσβύτερος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El autor de la carta, quien se autodenomina simplemente 'el Anciano', un título de autoridad reconocida que no requiere mayor presentación ante sus destinatarios. Escribe con el afecto de un pastor y la firmeza de un guardián doctrinal.",
+        "en": "The letter's author, who calls himself simply 'the Elder,' a title of recognized authority requiring no further introduction to his recipients. He writes with a pastor's affection and a doctrinal guardian's firmness.",
+        "pt": "O autor da carta, que se autodenomina simplesmente 'o Ancião', um título de autoridade reconhecida que não requer maior apresentação diante de seus destinatários. Escreve com o afeto de um pastor e a firmeza de um guardião doutrinário."
+      },
+      "acciones": {
+        "es": "Escribe para expresar gozo por la fidelidad de algunos, exhortar al amor mutuo, advertir contra los engañadores que niegan la encarnación, instruir sobre no recibirlos, y anunciar una visita personal futura (2Jn 1:1-13).",
+        "en": "He writes to express joy at the faithfulness of some, to exhort mutual love, to warn against deceivers who deny the incarnation, to instruct that they not be received, and to announce a future personal visit (2John 1:1-13).",
+        "pt": "Escreve para expressar alegria pela fidelidade de alguns, exortar ao amor mútuo, advertir contra os enganadores que negam a encarnação, instruir sobre não os receber, e anunciar uma futura visita pessoal (2Jo 1:1-13)."
+      },
+      "significadoTeologico": {
+        "es": "Modela la autoridad pastoral apostólica que sostiene juntos, sin contradicción, el amor cálido y la vigilancia doctrinal estricta, encarnando el principio de que la verdadera caridad cristiana nunca se opone a la verdad.",
+        "en": "He models apostolic pastoral authority that holds warm love and strict doctrinal vigilance together without contradiction, embodying the principle that genuine Christian charity never opposes truth.",
+        "pt": "Modela a autoridade pastoral apostólica que sustenta juntos, sem contradição, o amor caloroso e a vigilância doutrinária estrita, encarnando o princípio de que a verdadeira caridade cristã nunca se opõe à verdade."
+      },
+      "tipo": {
+        "es": "No funge como tipo cristológico; representa más bien el oficio pastoral-apostólico continuo que guarda la sana doctrina en la iglesia primitiva.",
+        "en": "He does not function as a christological type; rather he represents the continuing pastoral-apostolic office that guards sound doctrine in the early church.",
+        "pt": "Não funciona como tipo cristológico; representa antes o ofício pastoral-apostólico contínuo que guarda a sã doutrina na igreja primitiva."
+      },
+      "caracterMoral": {
+        "es": "Fiel, amoroso y doctrinalmente vigilante; pastoralmente cálido pero firme frente al error.",
+        "en": "Faithful, loving, and doctrinally vigilant; pastorally warm yet firm against error.",
+        "pt": "Fiel, amoroso e doutrinariamente vigilante; pastoralmente caloroso, porém firme diante do erro."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Se presenta como 'el Anciano' que ama en la verdad a la señora elegida y sus hijos (2Jn 1:1), se goza de ver a algunos andar en ella (2Jn 1:4), exhorta al amor conforme al mandamiento recibido desde el principio (2Jn 1:5-6), advierte contra los engañadores (2Jn 1:7-11), y prefiere comunicarse en persona antes que por escrito (2Jn 1:12). El mismo autodesignarse 'el Anciano' aparece también en 3 Juan 1.",
+          "en": "He presents himself as 'the Elder' who loves the elect lady and her children in the truth (2John 1:1), rejoices to see some walking in it (2John 1:4), exhorts love according to the commandment received from the beginning (2John 1:5-6), warns against the deceivers (2John 1:7-11), and prefers to communicate in person rather than in writing (2John 1:12). The same self-designation 'the Elder' also appears in 3 John 1.",
+          "pt": "Apresenta-se como 'o Ancião' que ama na verdade a senhora eleita e seus filhos (2Jo 1:1), alegra-se ao ver alguns andarem nela (2Jo 1:4), exorta ao amor conforme o mandamento recebido desde o princípio (2Jo 1:5-6), adverte contra os enganadores (2Jo 1:7-11), e prefere se comunicar pessoalmente em vez de por escrito (2Jo 1:12). A mesma autodesignação 'o Ancião' aparece também em 3 João 1."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Jn 1:1",
+          "2Jn 1:4",
+          "2Jn 1:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La tradición eclesial temprana (Ireneo, Adversus Haereses III.3.4, citando el conocimiento personal de Policarpo; y el testimonio de Papías transmitido por Eusebio, Historia Eclesiástica III.39) identifica a 'el Anciano' con el apóstol Juan, hijo de Zebedeo, quien habría pasado sus últimos años supervisando las iglesias de la provincia de Asia desde Éfeso. La autodesignación 'el Anciano' concordaría con la avanzada edad del apóstol y su autoridad reconocida sin necesidad de mayor título.",
+          "en": "Early church tradition (Irenaeus, Against Heresies III.3.4, citing Polycarp's personal acquaintance; and Papias's testimony as transmitted by Eusebius, Ecclesiastical History III.39) identifies 'the Elder' with the apostle John, son of Zebedee, who reportedly spent his final years overseeing the churches of the province of Asia from Ephesus. The self-designation 'the Elder' would fit the apostle's advanced age and his recognized authority requiring no further title.",
+          "pt": "A tradição eclesiástica primitiva (Ireneu, Contra as Heresias III.3.4, citando o conhecimento pessoal de Policarpo; e o testemunho de Papias transmitido por Eusébio, História Eclesiástica III.39) identifica 'o Ancião' com o apóstolo João, filho de Zebedeu, que teria passado seus últimos anos supervisionando as igrejas da província da Ásia a partir de Éfeso. A autodesignação 'o Ancião' concordaria com a idade avançada do apóstolo e sua autoridade reconhecida sem necessidade de maior título."
+        },
+        "fuentes": [
+          {
+            "titulo": "An Introduction to the New Testament",
+            "autor": "D. A. Carson & Douglas J. Moo",
+            "año": 2005,
+            "editorial": "Zondervan",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Autoría",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "El uso de un título de autoridad sin nombre propio ('el Anciano') concuerda con una figura apostólica ampliamente conocida que no necesitaba presentarse formalmente ante sus lectores.",
+          "en": "The use of an authority title without a proper name ('the Elder') concords with a widely known apostolic figure who needed no formal introduction to his readers.",
+          "pt": "O uso de um título de autoridade sem nome próprio ('o Ancião') concorda com uma figura apostólica amplamente conhecida que não precisava se apresentar formalmente aos seus leitores."
+        }
+      },
+      "versiculosAsociados": [
+        "2Jn 1:1",
+        "2Jn 1:12",
+        "3Jn 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Jn",
+        "1Jn",
+        "3Jn",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "La identidad compartida del autor vincula el Evangelio de Juan, las tres epístolas y Apocalipsis en un mismo testimonio apostólico centrado en la gloria de Cristo encarnado y la vigilancia contra su negación doctrinal.",
+        "en": "The author's shared identity links the Gospel of John, the three epistles, and Revelation in one apostolic testimony centered on the glory of the incarnate Christ and vigilance against its doctrinal denial.",
+        "pt": "A identidade compartilhada do autor vincula o Evangelho de João, as três epístolas e o Apocalipse num mesmo testemunho apostólico centrado na glória de Cristo encarnado e na vigilância contra sua negação doutrinária."
+      }
+    },
+    {
+      "nombre": {
+        "es": "La Señora Elegida y sus Hijos",
+        "en": "The Elect Lady and Her Children",
+        "pt": "A Senhora Eleita e seus Filhos"
+      },
+      "hebreo": "κυρία ἐκλεκτή",
+      "principal": true,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "La destinataria de la carta, saludada como 'la señora elegida y sus hijos'. Su identidad exacta es debatida: puede ser una mujer cristiana particular con su familia, o —lectura preferida por la mayoría de los comentaristas reformados— una personificación de una iglesia local y sus miembros.",
+        "en": "The letter's recipient, greeted as 'the elect lady and her children.' Her exact identity is debated: she may be a particular Christian woman with her family, or —the reading preferred by most Reformed commentators— a personification of a local church and its members.",
+        "pt": "A destinatária da carta, saudada como 'a senhora eleita e seus filhos'. Sua identidade exata é debatida: pode ser uma mulher cristã específica com sua família, ou —leitura preferida pela maioria dos comentaristas reformados— uma personificação de uma igreja local e seus membros."
+      },
+      "acciones": {
+        "es": "Algunos de sus hijos son hallados andando en la verdad (2Jn 1:4); son exhortados a amarse mutuamente y a no recibir a los engañadores (2Jn 1:5-11); reciben el saludo de una congregación hermana (2Jn 1:13).",
+        "en": "Some of her children are found walking in the truth (2John 1:4); they are exhorted to love one another and not to receive the deceivers (2John 1:5-11); they receive greetings from a sister congregation (2John 1:13).",
+        "pt": "Alguns de seus filhos são encontrados andando na verdade (2Jo 1:4); são exortados a se amarem mutuamente e a não receberem os enganadores (2Jo 1:5-11); recebem a saudação de uma congregação irmã (2Jo 1:13)."
+      },
+      "significadoTeologico": {
+        "es": "Representa la identidad corporativa del pueblo del pacto, llamado 'elegido' en continuidad con la elección de Israel, ahora aplicada a la congregación neotestamentaria bajo el Nuevo Pacto.",
+        "en": "She represents the corporate identity of the covenant people, called 'elect' in continuity with Israel's election, now applied to the New Testament congregation under the New Covenant.",
+        "pt": "Representa a identidade corporativa do povo do pacto, chamado 'eleito' em continuidade com a eleição de Israel, agora aplicada à congregação neotestamentária sob a Nova Aliança."
+      },
+      "tipo": {
+        "es": "Si se lee corporativamente, ecoa la personificación profética de Sion/Jerusalén como esposa y madre elegida de Dios (Is 54:1-8; cf. Gá 4:26), aplicada ahora a la iglesia.",
+        "en": "If read corporately, she echoes the prophetic personification of Zion/Jerusalem as God's chosen wife and mother (Isa 54:1-8; cf. Gal 4:26), now applied to the church.",
+        "pt": "Se lida corporativamente, ecoa a personificação profética de Sião/Jerusalém como esposa e mãe eleita de Deus (Is 54:1-8; cf. Gl 4:26), agora aplicada à igreja."
+      },
+      "caracterMoral": {
+        "es": "Presentada positivamente: algunos de sus hijos andan en la verdad, aunque no se afirma que todos sean igualmente fieles.",
+        "en": "Presented positively: some of her children walk in the truth, though not all are affirmed as equally faithful.",
+        "pt": "Apresentada positivamente: alguns de seus filhos andam na verdade, embora não se afirme que todos sejam igualmente fiéis."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Saludada y amada 'en la verdad' por el Anciano y por 'todos los que han conocido la verdad' (2Jn 1:1); el Anciano se goza de que algunos de sus hijos anden en la verdad (2Jn 1:4); es exhortada al amor y advertida sobre los engañadores (2Jn 1:5-11); recibe saludos de 'los hijos de tu hermana elegida' (2Jn 1:13).",
+          "en": "Greeted and loved 'in the truth' by the Elder and by 'all who know the truth' (2John 1:1); the Elder rejoices that some of her children walk in the truth (2John 1:4); she is exhorted to love and warned about the deceivers (2John 1:5-11); she receives greetings from 'the children of your elect sister' (2John 1:13).",
+          "pt": "Saudada e amada 'na verdade' pelo Ancião e por 'todos os que conheceram a verdade' (2Jo 1:1); o Ancião se alegra por alguns de seus filhos andarem na verdade (2Jo 1:4); é exortada ao amor e advertida sobre os enganadores (2Jo 1:5-11); recebe saudações dos 'filhos de tua irmã eleita' (2Jo 1:13)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Jn 1:1",
+          "2Jn 1:4",
+          "2Jn 1:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay evidencia extrabíblica que identifique a esta figura. Algunos padres antiguos y comentaristas la tomaron como una mujer cristiana literal (posiblemente de nombre 'Kyria' o 'Electa', si se lee como nombre propio en griego); la mayoría de los comentaristas reformados modernos (Kruse, Yarbrough, Stott) prefieren la lectura corporativa —una iglesia local— dado el cambio fluido entre formas singulares y plurales en el griego.",
+          "en": "There is no extrabiblical evidence identifying this figure. Some ancient fathers and commentators took her as a literal Christian woman (possibly named 'Kyria' or 'Electa,' if read as a proper name in Greek); most modern Reformed commentators (Kruse, Yarbrough, Stott) prefer the corporate reading —a local church— given the fluid shift between singular and plural forms in the Greek.",
+          "pt": "Não há evidência extrabíblica que identifique essa figura. Alguns pais antigos e comentaristas a tomaram como uma mulher cristã literal (possivelmente chamada 'Kyria' ou 'Electa', se lida como nome próprio em grego); a maioria dos comentaristas reformados modernos (Kruse, Yarbrough, Stott) prefere a leitura corporativa —uma igreja local— dado a mudança fluida entre formas singulares e plurais no grego."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letters of John (Pillar New Testament Commentary)",
+            "autor": "Colin G. Kruse",
+            "año": 2000,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Identidad del destinatario",
+              "Exégesis"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El cambio entre el singular ('a ti', v.5) y el plural ('vosotros', v.6,8,10,12) a lo largo de la carta respalda la lectura corporativa de una congregación personificada más que la de un individuo aislado.",
+          "en": "The shift between singular ('you,' v.5) and plural ('you all,' vv.6,8,10,12) throughout the letter supports the corporate reading of a personified congregation rather than an isolated individual.",
+          "pt": "A mudança entre o singular ('a ti', v.5) e o plural ('vós', vv.6,8,10,12) ao longo da carta sustenta a leitura corporativa de uma congregação personificada, mais do que a de um indivíduo isolado."
+        }
+      },
+      "versiculosAsociados": [
+        "2Jn 1:1",
+        "2Jn 1:4",
+        "2Jn 1:13"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Paralela el lenguaje de 1 Pedro 5:13, que saluda de parte de 'la que está en Babilonia, coelegida', una fórmula similar de personificación eclesial que respalda la lectura corporativa de 2 Juan.",
+        "en": "She parallels the language of 1 Peter 5:13, which sends greetings from 'she who is at Babylon, likewise chosen,' a similar formula of ecclesial personification supporting the corporate reading of 2 John.",
+        "pt": "Paralela a linguagem de 1 Pedro 5:13, que envia saudações da parte 'da que está em Babilônia, também eleita', uma fórmula semelhante de personificação eclesial que sustenta a leitura corporativa de 2 João."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los Engañadores (Anticristos)",
+        "en": "The Deceivers (Antichrists)",
+        "pt": "Os Enganadores (Anticristos)"
+      },
+      "hebreo": "πλάνοι",
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Un grupo de maestros itinerantes que 'han salido por el mundo' negando que Jesucristo vino en carne (2Jn 1:7), probablemente exponentes tempranos de una cristología docetista o proto-gnóstica.",
+        "en": "A group of itinerant teachers who 'have gone out into the world' denying that Jesus Christ came in the flesh (2John 1:7), likely early exponents of a Docetic or proto-Gnostic Christology.",
+        "pt": "Um grupo de mestres itinerantes que 'saíram pelo mundo' negando que Jesus Cristo veio em carne (2Jo 1:7), provavelmente expoentes iniciais de uma cristologia docetista ou proto-gnóstica."
+      },
+      "acciones": {
+        "es": "Circulan por las iglesias de la región buscando ser recibidos en las casas y reconocidos como maestros legítimos, propagando así su negación de la encarnación (2Jn 1:7,10-11).",
+        "en": "They travel among the region's churches seeking to be received into homes and recognized as legitimate teachers, thereby spreading their denial of the incarnation (2John 1:7,10-11).",
+        "pt": "Circulam pelas igrejas da região buscando ser recebidos nas casas e reconhecidos como mestres legítimos, propagando assim sua negação da encarnação (2Jo 1:7,10-11)."
+      },
+      "significadoTeologico": {
+        "es": "Encarnan el 'espíritu del anticristo' ya activo en el mundo (cf. 1Jn 4:3), mostrando que la apostasía escatológica se manifiesta históricamente en negaciones concretas de la persona de Cristo, no solo al final de los tiempos.",
+        "en": "They embody the 'spirit of antichrist' already at work in the world (cf. 1John 4:3), showing that eschatological apostasy manifests historically in concrete denials of Christ's person, not only at the very end of time.",
+        "pt": "Encarnam o 'espírito do anticristo' já atuante no mundo (cf. 1Jo 4:3), mostrando que a apostasia escatológica se manifesta historicamente em negações concretas da pessoa de Cristo, não apenas no fim dos tempos."
+      },
+      "tipo": {
+        "es": "No son tipo de Cristo sino su antítesis: niegan precisamente la encarnación que los tipos veterotestamentarios anticipaban, funcionando como anti-tipo del verdadero testigo apostólico.",
+        "en": "They are not a type of Christ but his antithesis: they deny precisely the incarnation that the Old Testament types anticipated, functioning as an anti-type of the true apostolic witness.",
+        "pt": "Não são tipo de Cristo, mas sua antítese: negam precisamente a encarnação que os tipos veterotestamentários anticipavam, funcionando como antítipo do verdadeiro testemunho apostólico."
+      },
+      "caracterMoral": {
+        "es": "Negativo: engañosos, doctrinalmente destructivos, y moralmente cómplices en 'malas obras' (2Jn 1:11).",
+        "en": "Negative: deceptive, doctrinally destructive, and morally complicit in 'wicked works' (2John 1:11).",
+        "pt": "Negativo: enganosos, doutrinariamente destrutivos, e moralmente cúmplices em 'más obras' (2Jo 1:11)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Descritos como 'muchos engañadores' que 'han salido por el mundo' y no confiesan que Jesucristo vino en carne, identificados directamente como 'el engañador y el anticristo' (2Jn 1:7). Quien va más allá y no permanece en la enseñanza de Cristo 'no tiene a Dios' (2Jn 1:9). No deben ser recibidos en casa ni saludados, pues saludarlos es participar de sus malas obras (2Jn 1:10-11).",
+          "en": "Described as 'many deceivers' who 'have gone out into the world' and do not confess that Jesus Christ came in the flesh, directly identified as 'the deceiver and the antichrist' (2John 1:7). Whoever goes beyond and does not abide in the teaching of Christ 'does not have God' (2John 1:9). They must not be received into the house or greeted, for greeting them means sharing in their wicked works (2John 1:10-11).",
+          "pt": "Descritos como 'muitos enganadores' que 'saíram pelo mundo' e não confessam que Jesus Cristo veio em carne, identificados diretamente como 'o enganador e o anticristo' (2Jo 1:7). Quem vai além e não persevera na doutrina de Cristo 'não tem a Deus' (2Jo 1:9). Não devem ser recebidos em casa nem saudados, pois saudá-los é ter parte em suas más obras (2Jo 1:10-11)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "2Jn 1:7",
+          "2Jn 1:9",
+          "2Jn 1:11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Aunque no se conocen individuos concretos, esta negación de la encarnación coincide con la cristología docetista combatida pocas décadas después por Ignacio de Antioquía (p. ej., Carta a los Esmirniotas 1-4, c. 110 d.C.), lo cual sitúa históricamente el conflicto de 2 Juan dentro de una controversia cristológica más amplia y bien atestiguada en la iglesia de Asia Menor.",
+          "en": "Although no specific individuals are known, this denial of the incarnation matches the Docetic Christology combated a few decades later by Ignatius of Antioch (e.g., Letter to the Smyrnaeans 1-4, c. AD 110), situating the conflict of 2 John historically within a broader, well-attested christological controversy in the church of Asia Minor.",
+          "pt": "Embora não se conheçam indivíduos específicos, essa negação da encarnação coincide com a cristologia docetista combatida poucas décadas depois por Inácio de Antioquia (ex., Carta aos Esmirniotas 1-4, c. 110 d.C.), situando historicamente o conflito de 2 João dentro de uma controvérsia cristológica mais ampla e bem atestada na igreja da Ásia Menor."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letters of John (Pillar New Testament Commentary)",
+            "autor": "Colin G. Kruse",
+            "año": 2000,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Trasfondo histórico",
+              "Docetismo"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La coincidencia temática y regional con las cartas de Ignacio confirma que la negación combatida en 2 Juan era una amenaza real y extendida en las iglesias de Asia Menor a finales del siglo I.",
+          "en": "The thematic and regional overlap with Ignatius's letters confirms that the denial combated in 2 John was a real and widespread threat in the churches of Asia Minor in the late first century.",
+          "pt": "A coincidência temática e regional com as cartas de Inácio confirma que a negação combatida em 2 João era uma ameaça real e generalizada nas igrejas da Ásia Menor no final do século I."
+        }
+      },
+      "versiculosAsociados": [
+        "2Jn 1:7",
+        "2Jn 1:9",
+        "2Jn 1:10",
+        "2Jn 1:11"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "1Jn"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El mismo 'espíritu del anticristo' que niega que Jesús vino en carne es descrito en 1 Juan 2:18-22 y 4:1-3, mostrando la continuidad de la polémica antidocética a lo largo del corpus joánico.",
+        "en": "The same 'spirit of antichrist' that denies Jesus came in the flesh is described in 1 John 2:18-22 and 4:1-3, showing the continuity of the anti-Docetic polemic throughout the Johannine corpus.",
+        "pt": "O mesmo 'espírito do anticristo' que nega que Jesus veio em carne é descrito em 1 João 2:18-22 e 4:1-3, mostrando a continuidade da polêmica antidocética ao longo do corpus joanino."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "2 Juan hace de la encarnación real de Jesucristo el criterio decisivo de la fe verdadera: negar que 'vino en carne' es la marca distintiva del engañador y del anticristo (2Jn 1:7). Permanecer 'en la enseñanza de Cristo' —es decir, en la confesión correcta de su persona— es la condición para tener tanto al Padre como al Hijo (2Jn 1:9).",
+        "en": "2 John makes the real incarnation of Jesus Christ the decisive test of true faith: denying that he 'came in the flesh' is the distinctive mark of the deceiver and the antichrist (2John 1:7). Abiding 'in the teaching of Christ' —that is, in the correct confession of his person— is the condition for having both the Father and the Son (2John 1:9).",
+        "pt": "2 João faz da encarnação real de Jesus Cristo o critério decisivo da fé verdadeira: negar que ele 'veio em carne' é a marca distintiva do enganador e do anticristo (2Jo 1:7). Permanecer 'na doutrina de Cristo' —isto é, na confissão correta de sua pessoa— é a condição para ter tanto o Pai quanto o Filho (2Jo 1:9)."
+      },
+      "pasajes": [
+        "2Jn 1:7",
+        "2Jn 1:9"
+      ],
+      "ensenanza": {
+        "es": "La negación de la encarnación identifica al anticristo · Permanecer en la doctrina de Cristo asegura la comunión con el Padre y el Hijo",
+        "en": "Denial of the incarnation identifies the antichrist · Abiding in Christ's teaching secures communion with the Father and the Son",
+        "pt": "A negação da encarnação identifica o anticristo · Permanecer na doutrina de Cristo assegura a comunhão com o Pai e o Filho"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, siguiendo a Calvino y la cristología calcedónica confesada en la Confesión de Westminster (Cap. 8), insiste en que la unión hipostática de las dos naturalezas de Cristo no es un detalle secundario sino el fundamento mismo de la salvación; negarla no es un matiz teológico sino apostasía manifiesta.",
+        "en": "The Reformed tradition, following Calvin and the Chalcedonian Christology confessed in the Westminster Confession (Ch. 8), insists that the hypostatic union of Christ's two natures is no secondary detail but the very foundation of salvation; denying it is not a theological nuance but manifest apostasy.",
+        "pt": "A tradição reformada, seguindo Calvino e a cristologia calcedônica confessada na Confissão de Westminster (Cap. 8), insiste que a união hipostática das duas naturezas de Cristo não é um detalhe secundário, mas o próprio fundamento da salvação; negá-la não é um matiz teológico, mas apostasia manifesta."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "La carta traza un límite eclesial concreto: la comunión visible de la iglesia (expresada en la hospitalidad hacia maestros itinerantes) no puede extenderse a quienes niegan la doctrina de Cristo. Recibir en casa o saludar a tal persona equivale a participar en sus malas obras (2Jn 1:10-11), estableciendo la disciplina doctrinal como función eclesial legítima.",
+        "en": "The letter draws a concrete ecclesial boundary: the visible fellowship of the church (expressed in hospitality toward itinerant teachers) cannot extend to those who deny the doctrine of Christ. Receiving such a person into one's house or greeting them amounts to sharing in their wicked works (2John 1:10-11), establishing doctrinal discipline as a legitimate ecclesial function.",
+        "pt": "A carta traça um limite eclesial concreto: a comunhão visível da igreja (expressa na hospitalidade a mestres itinerantes) não pode se estender a quem nega a doutrina de Cristo. Receber tal pessoa em casa ou saudá-la equivale a ter parte em suas más obras (2Jo 1:10-11), estabelecendo a disciplina doutrinária como função eclesial legítima."
+      },
+      "pasajes": [
+        "2Jn 1:10",
+        "2Jn 1:11"
+      ],
+      "ensenanza": {
+        "es": "No recibir en casa al que trae falsa doctrina · Saludarlo es participar en sus malas obras",
+        "en": "Do not receive into the house the one who brings false doctrine · Greeting him means sharing in his wicked works",
+        "pt": "Não receber em casa quem traz falsa doutrina · Saudá-lo é ter parte em suas más obras"
+      },
+      "distintivaReformada": {
+        "es": "En consonancia con la Confesión de Westminster sobre la iglesia visible y su disciplina (Cap. 25, 30), la tradición reformada entiende este pasaje como fundamento bíblico para la disciplina eclesiástica basada en la pureza doctrinal, no en la mera preferencia o cortesía social.",
+        "en": "In line with the Westminster Confession on the visible church and its discipline (Ch. 25, 30), the Reformed tradition reads this passage as the biblical foundation for church discipline grounded in doctrinal purity, not mere preference or social courtesy.",
+        "pt": "Em consonância com a Confissão de Westminster sobre a igreja visível e sua disciplina (Cap. 25, 30), a tradição reformada entende esta passagem como fundamento bíblico para a disciplina eclesiástica baseada na pureza doutrinária, e não na mera preferência ou cortesia social."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "Andar 'en la verdad' (2Jn 1:4) y amarse unos a otros 'según Sus mandamientos' (2Jn 1:6) describen la vida cristiana como obediencia práctica y continua, no como un estado estático alcanzado de una vez. El gozo del Anciano frente a 'algunos' que caminan fielmente subraya que la santificación es progresiva y observable en la conducta.",
+        "en": "Walking 'in the truth' (2John 1:4) and loving one another 'according to his commandments' (2John 1:6) describe the Christian life as ongoing, practical obedience, not a static state achieved once for all. The Elder's joy over 'some' who walk faithfully underscores that sanctification is progressive and observable in conduct.",
+        "pt": "Andar 'na verdade' (2Jo 1:4) e se amarem uns aos outros 'segundo os seus mandamentos' (2Jo 1:6) descrevem a vida cristã como obediência prática e contínua, não como um estado estático alcançado de uma vez. A alegria do Ancião diante de 'alguns' que caminham fielmente ressalta que a santificação é progressiva e observável na conduta."
+      },
+      "pasajes": [
+        "2Jn 1:4",
+        "2Jn 1:6"
+      ],
+      "ensenanza": {
+        "es": "Andar en la verdad es obediencia visible al mandamiento del Padre · El amor genuino se demuestra andando conforme a los mandamientos de Dios",
+        "en": "Walking in the truth is visible obedience to the Father's commandment · Genuine love is demonstrated by walking according to God's commandments",
+        "pt": "Andar na verdade é obediência visível ao mandamento do Pai · O amor genuíno se demonstra andando conforme os mandamentos de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada insiste, contra todo antinomianismo, en que la santificación es inseparable de la obediencia a la ley moral de Dios como regla de vida agradecida, y este pasaje confirma que el amor bíblico se mide por la obediencia, no por el sentimiento.",
+        "en": "Reformed theology insists, against all antinomianism, that sanctification is inseparable from obedience to God's moral law as a grateful rule of life, and this passage confirms that biblical love is measured by obedience, not sentiment.",
+        "pt": "A teologia reformada insiste, contra todo antinomianismo, que a santificação é inseparável da obediência à lei moral de Deus como regra de vida grata, e esta passagem confirma que o amor bíblico se mede pela obediência, não pelo sentimento."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "La verdad que 'permanece en nosotros y estará con nosotros para siempre' (2Jn 1:2) y el mandamiento recibido 'desde el principio' (2Jn 1:5-6) presentan la relación entre Dios y su pueblo en términos de continuidad pactal: lo que se pide ahora no es nuevo, sino la fidelidad constante a la revelación ya dada.",
+        "en": "The truth that 'abides in us and will be with us forever' (2John 1:2) and the commandment received 'from the beginning' (2John 1:5-6) present the relationship between God and his people in terms of covenantal continuity: what is asked now is not new, but constant faithfulness to revelation already given.",
+        "pt": "A verdade que 'permanece em nós e estará conosco para sempre' (2Jo 1:2) e o mandamento recebido 'desde o princípio' (2Jo 1:5-6) apresentam a relação entre Deus e seu povo em termos de continuidade pactual: o que se pede agora não é novo, mas fidelidade constante à revelação já dada."
+      },
+      "pasajes": [
+        "2Jn 1:2",
+        "2Jn 1:5",
+        "2Jn 1:6"
+      ],
+      "ensenanza": {
+        "es": "La verdad pactal es permanente y escatológica · El mandamiento de amor no es una innovación sino la enseñanza apostólica recibida desde el inicio",
+        "en": "Covenantal truth is permanent and eschatological · The command to love is not an innovation but the apostolic teaching received from the start",
+        "pt": "A verdade pactual é permanente e escatológica · O mandamento do amor não é uma inovação, mas o ensino apostólico recebido desde o início"
+      },
+      "distintivaReformada": {
+        "es": "La teología del pacto ve aquí una expresión más de la unidad del pacto de gracia: la misma fidelidad exigida a Israel se exige ahora a la iglesia bajo el Nuevo Pacto, sostenida no por mérito humano sino por la permanencia de la verdad divina.",
+        "en": "Covenant theology sees here another expression of the unity of the covenant of grace: the same faithfulness required of Israel is now required of the church under the New Covenant, sustained not by human merit but by the permanence of divine truth.",
+        "pt": "A teologia do pacto vê aqui mais uma expressão da unidade do pacto da graça: a mesma fidelidade exigida a Israel é agora exigida à igreja sob a Nova Aliança, sustentada não pelo mérito humano, mas pela permanência da verdade divina."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo, o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Encarnación"
+      ],
+      "resumen": {
+        "es": "La Confesión afirma que el Hijo de Dios tomó sobre sí una naturaleza humana verdadera y completa, uniéndola inseparablemente a su naturaleza divina en una sola persona. 2 Juan 7 defiende exactamente esta verdad al condenar como anticristo a quien niega que Jesucristo vino en carne.",
+        "en": "The Confession affirms that the Son of God took upon himself a true and complete human nature, uniting it inseparably to his divine nature in one person. 2 John 7 defends exactly this truth by condemning as antichrist anyone who denies that Jesus Christ came in the flesh.",
+        "pt": "A Confissão afirma que o Filho de Deus assumiu sobre si uma natureza humana verdadeira e completa, unindo-a inseparavelmente à sua natureza divina numa só pessoa. 2 João 7 defende exatamente essa verdade ao condenar como anticristo quem nega que Jesus Cristo veio em carne."
+      },
+      "genesis": [
+        "2Jn 1:7",
+        "2Jn 1:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    },
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Iglesia",
+        "en": "Of the Church",
+        "pt": "Da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología",
+        "Pureza doctrinal"
+      ],
+      "resumen": {
+        "es": "La Confesión reconoce que las iglesias visibles son más o menos puras según la doctrina que enseñan y reciben. La instrucción de 2 Juan de no recibir a quienes niegan la doctrina de Cristo (2Jn 1:10) es una aplicación práctica de este principio de pureza eclesial.",
+        "en": "The Confession recognizes that visible churches are more or less pure according to the doctrine they teach and receive. 2 John's instruction not to receive those who deny the doctrine of Christ (2John 1:10) is a practical application of this principle of ecclesial purity.",
+        "pt": "A Confissão reconhece que as igrejas visíveis são mais ou menos puras conforme a doutrina que ensinam e recebem. A instrução de 2 João de não receber os que negam a doutrina de Cristo (2Jo 1:10) é uma aplicação prática desse princípio de pureza eclesial."
+      },
+      "genesis": [
+        "2Jn 1:10"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    },
+    {
+      "cap": "Cap. 26",
+      "titulo": {
+        "es": "De la Comunión de los Santos",
+        "en": "Of the Communion of Saints",
+        "pt": "Da Comunhão dos Santos"
+      },
+      "doctrinas": [
+        "Comunión de los Santos",
+        "Amor fraternal"
+      ],
+      "resumen": {
+        "es": "La Confesión describe la comunión mutua de los santos en amor, dones y servicio, unidos a Cristo. 2 Juan 5-6 fundamenta esta comunión en la obediencia al mandamiento de amor recibido desde el principio, mostrando que la verdadera comunión de los santos se edifica sobre la obediencia común a la verdad.",
+        "en": "The Confession describes the mutual communion of saints in love, gifts, and service, united to Christ. 2 John 5-6 grounds this communion in obedience to the command to love received from the beginning, showing that the true communion of saints is built on shared obedience to the truth.",
+        "pt": "A Confissão descreve a comunhão mútua dos santos em amor, dons e serviço, unidos a Cristo. 2 João 5-6 fundamenta essa comunhão na obediência ao mandamento do amor recebido desde o princípio, mostrando que a verdadeira comunhão dos santos se edifica sobre a obediência comum à verdade."
+      },
+      "genesis": [
+        "2Jn 1:5",
+        "2Jn 1:6"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-26"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "2Jn 1:4",
+      "es": "Me alegré mucho de haber hallado a algunos de tus hijos andando en la verdad, tal como hemos recibido el mandamiento del Padre.",
+      "en": "I rejoiced greatly to find some of your children walking in the truth, just as we were commanded by the Father.",
+      "pt": "Muito me alegrei por ter achado alguns de teus filhos andando na verdade, assim como recebemos mandamento do Pai.",
+      "nota": {
+        "es": "El gozo pastoral del Anciano ante la fidelidad de 'algunos' (no todos) refleja un realismo pastoral: la fidelidad cristiana no es automática ni universal dentro de una congregación, y por eso debe ser reconocida y cultivada activamente.",
+        "en": "The Elder's pastoral joy over the faithfulness of 'some' (not all) reflects a pastoral realism: Christian faithfulness is neither automatic nor universal within a congregation, and so it must be actively recognized and cultivated.",
+        "pt": "A alegria pastoral do Ancião diante da fidelidade de 'alguns' (não todos) reflete um realismo pastoral: a fidelidade cristã não é automática nem universal dentro de uma congregação, e por isso deve ser reconhecida e cultivada ativamente."
+      }
+    },
+    {
+      "ref": "2Jn 1:6",
+      "es": "Y este es el amor: que andemos según Sus mandamientos. Este es el mandamiento, tal como lo habéis oído desde el principio, para que andéis en él.",
+      "en": "And this is love, that we walk according to his commandments; this is the commandment, just as you have heard from the beginning, so that you should walk in it.",
+      "pt": "E este é o amor: que andemos segundo os seus mandamentos. Este é o mandamento, como já ouvistes desde o princípio, que andeis nele.",
+      "nota": {
+        "es": "Este versículo define el amor cristiano no como sentimiento sino como obediencia práctica, cerrando la puerta a cualquier separación entre ortodoxia y ortopraxis en la ética joánica.",
+        "en": "This verse defines Christian love not as sentiment but as practical obedience, closing the door on any separation between orthodoxy and orthopraxy in Johannine ethics.",
+        "pt": "Este versículo define o amor cristão não como sentimento, mas como obediência prática, fechando a porta para qualquer separação entre ortodoxia e ortopraxia na ética joanina."
+      }
+    },
+    {
+      "ref": "2Jn 1:7",
+      "es": "Porque muchos engañadores han salido por el mundo, los que no confiesan que Jesucristo vino en carne. Este es el engañador y el anticristo.",
+      "en": "For many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh. Such a one is the deceiver and the antichrist.",
+      "pt": "Porque já muitos enganadores entraram no mundo, os quais não confessam que Jesus Cristo veio em carne. Este tal é o enganador e o anticristo.",
+      "nota": {
+        "es": "El versículo central de la carta: identifica la negación de la encarnación real de Cristo como la esencia misma del error anticristológico, estableciendo la cristología como línea divisoria doctrinal no negociable.",
+        "en": "The letter's central verse: it identifies the denial of Christ's real incarnation as the very essence of the antichristological error, establishing Christology as a non-negotiable doctrinal dividing line.",
+        "pt": "O versículo central da carta: identifica a negação da encarnação real de Cristo como a própria essência do erro anticristológico, estabelecendo a cristologia como linha divisória doutrinária inegociável."
+      }
+    },
+    {
+      "ref": "2Jn 1:10",
+      "es": "Si alguno viene a vosotros y no trae esta enseñanza, no lo recibáis en casa, ni le deis la bienvenida.",
+      "en": "If anyone comes to you and does not bring this teaching, do not receive him into your house or give him any greeting.",
+      "pt": "Se alguém vem a vós, e não traz esta doutrina, não o recebais em casa, nem tampouco o saudeis.",
+      "nota": {
+        "es": "El mandato más práctico y radical de la carta: la hospitalidad cristiana, obligación social esperada en el mundo greco-romano, debe ceder ante la fidelidad doctrinal cuando está en juego la confesión sobre Cristo.",
+        "en": "The letter's most practical and radical command: Christian hospitality, an expected social obligation in the Greco-Roman world, must yield to doctrinal faithfulness when the confession about Christ is at stake.",
+        "pt": "O mandamento mais prático e radical da carta: a hospitalidade cristã, obrigação social esperada no mundo greco-romano, deve ceder diante da fidelidade doutrinária quando está em jogo a confissão sobre Cristo."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "2 Juan encapsula de forma breve pero decisiva la convicción reformada de que la verdad doctrinal —particularmente la cristológica— no es negociable ni secundaria al amor cristiano, sino su condición de posibilidad. Frente a cualquier tendencia a diluir la ortodoxia en aras de una tolerancia sentimental, la carta enseña que la verdadera caridad cristiana traza límites: ama en la verdad, obedece los mandamientos de Dios, y no concede legitimidad ni plataforma a quienes niegan la persona real de Cristo. Esta insistencia confirma la prioridad reformada de la Palabra revelada sobre el sentimiento religioso como norma de la vida y comunión de la iglesia.",
+    "en": "2 John encapsulates briefly but decisively the Reformed conviction that doctrinal truth —particularly christological truth— is neither negotiable nor secondary to Christian love, but its very condition of possibility. Against any tendency to dilute orthodoxy for the sake of sentimental tolerance, the letter teaches that genuine Christian charity draws boundaries: it loves in the truth, obeys God's commandments, and grants no legitimacy or platform to those who deny Christ's real person. This insistence confirms the Reformed priority of the revealed Word over religious sentiment as the norm for the church's life and fellowship.",
+    "pt": "2 João encapsula de forma breve, mas decisiva, a convicção reformada de que a verdade doutrinária —particularmente a cristológica— não é negociável nem secundária ao amor cristão, mas sua própria condição de possibilidade. Diante de qualquer tendência de diluir a ortodoxia em nome de uma tolerância sentimental, a carta ensina que a verdadeira caridade cristã traça limites: ama na verdade, obedece aos mandamentos de Deus, e não concede legitimidade nem plataforma a quem nega a pessoa real de Cristo. Essa insistência confirma a prioridade reformada da Palavra revelada sobre o sentimento religioso como norma da vida e da comunhão da igreja."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Saludo en Verdad y Amor",
+        "en": "Greeting in Truth and Love",
+        "pt": "Saudação em Verdade e Amor"
+      },
+      "descripcion": {
+        "es": "El Anciano —tradicionalmente el apóstol Juan— se dirige a 'la señora elegida y sus hijos', a quienes ama 'en la verdad' (2Jn 1:1), estableciendo desde el inicio que la verdad no es un concepto abstracto sino la base relacional de la comunidad cristiana. Esa verdad 'permanece en nosotros y estará con nosotros para siempre' (2Jn 1:2), ligando el vínculo pactal presente con la promesa escatológica. El saludo trinitario de gracia, misericordia y paz 'de Dios Padre y de Jesucristo, el Hijo del Padre' (2Jn 1:3) añade ya una nota cristológica que anticipa la controversia doctrinal de los versículos 7-9.",
+        "en": "The Elder —traditionally the apostle John— writes to 'the elect lady and her children,' whom he loves 'in the truth' (2John 1:1), establishing from the outset that truth is not an abstract concept but the relational foundation of Christian community. This truth 'abides in us and will be with us forever' (2John 1:2), binding the present covenantal bond to the eschatological promise. The trinitarian greeting of grace, mercy, and peace 'from God the Father and from Jesus Christ the Father's Son' (2John 1:3) already strikes a christological note anticipating the doctrinal controversy of verses 7-9.",
+        "pt": "O Ancião —tradicionalmente o apóstolo João— escreve à 'senhora eleita e seus filhos', a quem ama 'na verdade' (2Jo 1:1), estabelecendo desde o início que a verdade não é um conceito abstrato, mas o fundamento relacional da comunidade cristã. Essa verdade 'permanece em nós e estará conosco para sempre' (2Jo 1:2), unindo o vínculo pactual presente à promessa escatológica. A saudação trinitária de graça, misericórdia e paz 'da parte de Deus Pai e da parte de Jesus Cristo, Filho do Pai' (2Jo 1:3) já traz uma nota cristológica que antecipa a controvérsia doutrinal dos versículos 7-9."
+      },
+      "eventoClave": {
+        "es": "El saludo mismo constituye el evento clave: el Anciano ata amor y verdad como inseparables, sentando la base doctrinal para el resto de la carta antes de exhortar o advertir (2Jn 1:1-3).",
+        "en": "The greeting itself is the key event: the Elder binds love and truth as inseparable, laying the doctrinal foundation for the rest of the letter before exhorting or warning (2John 1:1-3).",
+        "pt": "A própria saudação constitui o evento-chave: o Ancião une amor e verdade como inseparáveis, lançando o fundamento doutrinário para o restante da carta antes de exortar ou advertir (2Jo 1:1-3)."
+      },
+      "versiculoClave": "2Jn 1:3",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Jn 1:3",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Ambos prólogos joánicos vinculan la comunión (koinonía) con la verdad revelada y compartida.",
+            "en": "Both Johannine prologues link fellowship (koinonia) to shared, revealed truth.",
+            "pt": "Ambos os prólogos joaninos vinculam a comunhão (koinonia) à verdade revelada e compartilhada."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La verdad y el amor se presentan como el vínculo pactal permanente de la comunidad: la verdad 'permanece en nosotros y estará con nosotros para siempre' (2Jn 1:2).",
+            "en": "Truth and love are presented as the community's permanent covenant bond: truth 'abides in us and will be with us forever' (2John 1:2).",
+            "pt": "A verdade e o amor são apresentados como o vínculo pactual permanente da comunidade: a verdade 'permanece em nós e estará conosco para sempre' (2Jo 1:2)."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "La destinataria es llamada 'la señora elegida' (2Jn 1:1), aplicando el lenguaje veterotestamentario de elección corporativa a una congregación cristiana.",
+              "en": "The recipient is called 'the elect lady' (2John 1:1), applying Old Testament corporate election language to a Christian congregation.",
+              "pt": "A destinatária é chamada 'a senhora eleita' (2Jo 1:1), aplicando a linguagem veterotestamentária de eleição corporativa a uma congregação cristã."
+            }
+          },
+          {
+            "Fidelidad/Hesed": {
+              "es": "El saludo de 'gracia, misericordia y paz' (2Jn 1:3) evoca el lenguaje pactal de la lealtad fiel de Dios hacia su pueblo.",
+              "en": "The greeting of 'grace, mercy, and peace' (2John 1:3) evokes the covenantal language of God's faithful loyalty to his people.",
+              "pt": "A saudação de 'graça, misericórdia e paz' (2Jo 1:3) evoca a linguagem pactual da lealdade fiel de Deus para com o seu povo."
+            }
+          }
+        ]
+      },
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Gozo y el Mandamiento de Amor",
+        "en": "Joy and the Commandment to Love",
+        "pt": "Alegria e o Mandamento do Amor"
+      },
+      "descripcion": {
+        "es": "El Anciano expresa su gozo al hallar que 'algunos' de los hijos de la señora elegida andan en la verdad, conforme al mandamiento recibido del Padre (2Jn 1:4), lo cual sugiere -de forma pastoralmente realista- que no todos permanecían fieles. Pasa entonces a rogar (no como quien escribe un mandamiento nuevo) que se amen unos a otros (2Jn 1:5), en clara continuidad con el mandamiento del amor fraternal enseñado 'desde el principio' del evangelio apostólico (cf. 1Jn 2:7). El amor, sin embargo, no es sentimentalismo: 'este es el amor, que andemos según Sus mandamientos' (2Jn 1:6), uniendo indisolublemente amor y obediencia como en toda la tradición pactal bíblica.",
+        "en": "The Elder expresses joy at finding that 'some' of the elect lady's children are walking in the truth, in keeping with the commandment received from the Father (2John 1:4) — a pastorally realistic admission that not all remained faithful. He then pleads (not writing a new commandment) that they love one another (2John 1:5), in clear continuity with the command of brotherly love taught 'from the beginning' of the apostolic gospel (cf. 1John 2:7). Yet love is no mere sentiment: 'this is love, that we walk according to his commandments' (2John 1:6), binding love and obedience together as throughout the biblical covenantal tradition.",
+        "pt": "O Ancião expressa sua alegria ao encontrar que 'alguns' dos filhos da senhora eleita andam na verdade, conforme o mandamento recebido do Pai (2Jo 1:4) — uma admissão pastoralmente realista de que nem todos permaneciam fiéis. Em seguida, ele roga (não como quem escreve um mandamento novo) que se amem uns aos outros (2Jo 1:5), em clara continuidade com o mandamento do amor fraternal ensinado 'desde o princípio' do evangelho apostólico (cf. 1Jo 2:7). Contudo, o amor não é mero sentimentalismo: 'este é o amor, que andemos segundo os seus mandamentos' (2Jo 1:6), unindo indissoluvelmente amor e obediência, como em toda a tradição pactual bíblica."
+      },
+      "eventoClave": {
+        "es": "El vínculo explícito entre amor y obediencia en 2Jn 1:6 constituye el giro clave: el amor cristiano se define y se prueba por la obediencia a los mandamientos de Dios, no por el mero sentimiento.",
+        "en": "The explicit link between love and obedience in 2John 1:6 is the key turn: Christian love is defined and tested by obedience to God's commandments, not mere sentiment.",
+        "pt": "O vínculo explícito entre amor e obediência em 2Jo 1:6 constitui o giro-chave: o amor cristão é definido e comprovado pela obediência aos mandamentos de Deus, não pelo mero sentimento."
+      },
+      "versiculoClave": "2Jn 1:6",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Jn 2:7",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El 'mandamiento antiguo... desde el principio' de 1 Juan 2:7 es el mismo mandamiento de amor invocado en 2Jn 1:5.",
+            "en": "The 'old commandment... from the beginning' of 1 John 2:7 is the same command to love invoked in 2John 1:5.",
+            "pt": "O 'mandamento antigo... desde o princípio' de 1 João 2:7 é o mesmo mandamento de amor invocado em 2Jo 1:5."
+          }
+        },
+        {
+          "ref": "Jn 14:15",
+          "tipo": "doctrinal"
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "El mandamiento de amarse unos a otros 'desde el principio' (2Jn 1:5-6) se identifica con la enseñanza apostólica recibida, no con una innovación.",
+            "en": "The command to love one another 'from the beginning' (2John 1:5-6) is identified with received apostolic teaching, not innovation.",
+            "pt": "O mandamento de se amarem uns aos outros 'desde o princípio' (2Jo 1:5-6) é identificado com o ensino apostólico recebido, não com uma inovação."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "El gozo del Anciano al ver a 'algunos' andando en la verdad (2Jn 1:4) refleja la fidelidad pactal esperada, no universalmente cumplida.",
+              "en": "The Elder's joy at seeing 'some' walking in the truth (2John 1:4) reflects the expected covenant faithfulness, not universally fulfilled.",
+              "pt": "A alegria do Ancião ao ver 'alguns' andando na verdade (2Jo 1:4) reflete a fidelidade pactual esperada, não universalmente cumprida."
+            }
+          }
+        ]
+      },
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 7,
+      "rangoFin": 11,
+      "titulo": {
+        "es": "El Anticristo y la Disciplina de la Iglesia",
+        "en": "The Antichrist and Church Discipline",
+        "pt": "O Anticristo e a Disciplina da Igreja"
+      },
+      "descripcion": {
+        "es": "El tono de la carta cambia abruptamente de exhortación a advertencia: 'muchos engañadores han salido por el mundo, los que no confiesan que Jesucristo vino en carne' (2Jn 1:7), una negación que el Anciano identifica sin rodeos como 'el engañador y el anticristo', ecoando el lenguaje escatológico de 1Jn 2:18-22. El criterio doctrinal es cristológico y no negociable: 'quien se extravía y no permanece en la enseñanza de Cristo, no tiene a Dios' (2Jn 1:9). De ahí se sigue una instrucción práctica radical para la hospitalidad cristiana: no recibir en casa ni saludar a quien no trae esta doctrina, 'porque el que le dice: ¡Bienvenido! participa en sus malas obras' (2Jn 1:10-11), estableciendo un límite eclesial claro entre comunión genuina y complicidad con el error.",
+        "en": "The letter's tone shifts abruptly from exhortation to warning: 'many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh' (2John 1:7) — a denial the Elder bluntly identifies as 'the deceiver and the antichrist,' echoing the eschatological language of 1John 2:18-22. The doctrinal test is christological and non-negotiable: 'whoever does not abide in the teaching of Christ does not have God' (2John 1:9). From this follows a radically practical instruction for Christian hospitality: do not receive into the house or greet anyone who does not bring this teaching, 'for whoever greets him takes part in his wicked works' (2John 1:10-11), drawing a clear ecclesial line between genuine fellowship and complicity with error.",
+        "pt": "O tom da carta muda abruptamente da exortação para a advertência: 'já muitos enganadores entraram no mundo, os quais não confessam que Jesus Cristo veio em carne' (2Jo 1:7), uma negação que o Ancião identifica sem rodeios como 'o enganador e o anticristo', ecoando a linguagem escatológica de 1Jo 2:18-22. O critério doutrinário é cristológico e inegociável: 'todo aquele que prevarica e não persevera na doutrina de Cristo não tem a Deus' (2Jo 1:9). Segue-se então uma instrução prática radical para a hospitalidade cristã: não receber em casa nem saudar quem não traz esta doutrina, 'porque quem o saúda tem parte nas suas más obras' (2Jo 1:10-11), estabelecendo um limite eclesial claro entre comunhão genuína e cumplicidade com o erro."
+      },
+      "eventoClave": {
+        "es": "La identificación de la negación de la encarnación como 'el anticristo' (2Jn 1:7) es el giro teológico decisivo, que convierte la cristología en la línea divisoria de la comunión eclesial.",
+        "en": "Identifying denial of the incarnation as 'the antichrist' (2John 1:7) is the decisive theological turn, making Christology the dividing line of church fellowship.",
+        "pt": "A identificação da negação da encarnação como 'o anticristo' (2Jo 1:7) é o giro teológico decisivo, que torna a cristologia a linha divisória da comunhão eclesial."
+      },
+      "versiculoClave": "2Jn 1:7",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Jn 2:18",
+          "tipo": "paralelo"
+        },
+        {
+          "ref": "1Jn 4:2",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "1 Juan 4:2 ofrece la misma prueba cristológica positiva ('todo espíritu que confiesa que Jesucristo ha venido en carne, es de Dios') que 2Jn 1:7 aplica en negativo.",
+            "en": "1 John 4:2 offers the same positive christological test ('every spirit that confesses that Jesus Christ has come in the flesh is from God') that 2John 1:7 applies in the negative.",
+            "pt": "1 João 4:2 oferece o mesmo teste cristológico positivo ('todo espírito que confessa que Jesus Cristo veio em carne é de Deus') que 2Jo 1:7 aplica de forma negativa."
+          }
+        },
+        {
+          "ref": "Jn 1:14",
+          "tipo": "doctrinal"
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "La negación de que 'Jesucristo vino en carne' (2Jn 1:7) ataca directamente la identidad mesiánica encarnada de Cristo, calificando a quien la niega como anticristo.",
+            "en": "Denying that 'Jesus Christ came in the flesh' (2John 1:7) directly attacks Christ's incarnate messianic identity, branding the denier as antichrist.",
+            "pt": "A negação de que 'Jesus Cristo veio em carne' (2Jo 1:7) ataca diretamente a identidade messiânica encarnada de Cristo, qualificando quem a nega como anticristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "Saludar al falso maestro es 'participar en sus malas obras' (2Jn 1:11), tratando la complicidad doctrinal como una forma de compromiso idolátrico.",
+              "en": "Greeting the false teacher means 'taking part in his wicked works' (2John 1:11), treating doctrinal complicity as a form of idolatrous compromise.",
+              "pt": "Saudar o falso mestre é 'ter parte em suas más obras' (2Jo 1:11), tratando a cumplicidade doutrinária como uma forma de compromisso idolátrico."
+            }
+          }
+        ]
+      },
+      "era": "Aplicación"
+    },
+    {
+      "rangoInicio": 12,
+      "rangoFin": 13,
+      "titulo": {
+        "es": "Cierre: Visita Planeada y Saludos",
+        "en": "Closing: Planned Visit and Greetings",
+        "pt": "Encerramento: Visita Planejada e Saudações"
+      },
+      "descripcion": {
+        "es": "El Anciano cierra con una nota profundamente personal: prefiere no confiar todo 'a papel y tinta', sino esperar visitar en persona 'para que nuestro gozo sea completo' (2Jn 1:12), revelando que la comunión cristiana, aun cuando se sostiene por correspondencia, anhela el encuentro presencial. La carta termina con el saludo de 'los hijos de tu hermana elegida' (2Jn 1:13), una expresión que sugiere una segunda congregación hermana, tejiendo así una red visible de iglesias vinculadas por la misma verdad y el mismo amor que enmarcan toda la epístola.",
+        "en": "The Elder closes on a deeply personal note: he would rather not trust everything 'to paper and ink,' preferring to visit in person 'so that our joy may be complete' (2John 1:12), revealing that Christian fellowship, even when sustained by correspondence, longs for face-to-face encounter. The letter ends with greetings from 'the children of your elect sister' (2John 1:13), a phrase suggesting a second sister congregation, weaving a visible network of churches bound by the same truth and love that frame the whole epistle.",
+        "pt": "O Ancião encerra com uma nota profundamente pessoal: prefere não confiar tudo 'ao papel e à tinta', esperando antes visitar pessoalmente 'para que a nossa alegria seja completa' (2Jo 1:12), revelando que a comunhão cristã, mesmo quando sustentada por correspondência, anseia pelo encontro presencial. A carta termina com as saudações dos 'filhos da tua irmã eleita' (2Jo 1:13), expressão que sugere uma segunda congregação irmã, tecendo assim uma rede visível de igrejas unidas pela mesma verdade e pelo mesmo amor que emolduram toda a epístola."
+      },
+      "eventoClave": {
+        "es": "El deseo de una visita personal 'para que nuestro gozo sea completo' (2Jn 1:12) subraya que la comunión cristiana busca su plenitud en la presencia, no solo en la palabra escrita.",
+        "en": "The desire for a personal visit 'so that our joy may be complete' (2John 1:12) underscores that Christian fellowship seeks its fullness in presence, not merely in the written word.",
+        "pt": "O desejo de uma visita pessoal 'para que a nossa alegria seja completa' (2Jo 1:12) ressalta que a comunhão cristã busca sua plenitude na presença, não apenas na palavra escrita."
+      },
+      "versiculoClave": "2Jn 1:12",
+      "referenciasRelacionadas": [
+        {
+          "ref": "3Jn 1:13",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "3 Juan 13-14 cierra con la misma fórmula: preferir la visita personal antes que confiar todo a pluma y tinta.",
+            "en": "3 John 13-14 closes with the same formula: preferring a personal visit over trusting everything to pen and ink.",
+            "pt": "3 João 13-14 encerra com a mesma fórmula: preferir a visita pessoal a confiar tudo à pena e tinta."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Presencia de Dios": {
+            "es": "El deseo de hablar 'cara a cara' para que 'nuestro gozo sea completo' (2Jn 1:12) muestra que la comunión cristiana anhela la presencia plena, no solo la palabra escrita.",
+            "en": "The desire to speak 'face to face' so that 'our joy may be complete' (2John 1:12) shows that Christian fellowship longs for full presence, not only the written word.",
+            "pt": "O desejo de falar 'face a face' para que 'a nossa alegria seja completa' (2Jo 1:12) mostra que a comunhão cristã anseia pela presença plena, não apenas pela palavra escrita."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "Los saludos de 'los hijos de tu hermana elegida' (2Jn 1:13) revelan una red de iglesias hermanas unidas por la misma fe.",
+              "en": "Greetings from 'the children of your elect sister' (2John 1:13) reveal a network of sister churches united by the same faith.",
+              "pt": "As saudações dos 'filhos da tua irmã eleita' (2Jo 1:13) revelam uma rede de igrejas irmãs unidas pela mesma fé."
+            }
+          }
+        ]
+      },
+      "era": "Aplicación"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis & Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Notas de estudio"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Study notes"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Notas de estudo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Editada bajo la dirección general de Lane T. Dennis (presidente de Crossway) y Wayne Grudem como editor teológico general, esta Biblia de estudio reúne a decenas de eruditos evangélicos y reformados de habla inglesa.",
+          "en": "Edited under the general direction of Lane T. Dennis (president of Crossway) with Wayne Grudem as general theological editor, this study Bible gathers dozens of evangelical and Reformed English-speaking scholars.",
+          "pt": "Editada sob a direção geral de Lane T. Dennis (presidente da Crossway) e Wayne Grudem como editor teológico geral, esta Bíblia de estudo reúne dezenas de eruditos evangélicos e reformados de língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos temáticos y teológicos, manteniendo una perspectiva evangélica reformada consistente en toda la Escritura.",
+          "en": "It combines verse-by-verse exegetical notes with thematic and theological essays, maintaining a consistent Reformed evangelical perspective across all of Scripture.",
+          "pt": "Combina notas exegéticas verso a verso com ensaios temáticos e teológicos, mantendo uma perspectiva evangélica reformada consistente em toda a Escritura."
+        },
+        "aportacion": {
+          "es": "Provee la introducción histórico-literaria estándar de 2 Juan (autoría, fecha, destinatario, docetismo) usada como línea base para este registro.",
+          "en": "Provides the standard historical-literary introduction to 2 John (authorship, date, recipient, docetism) used as the baseline for this record.",
+          "pt": "Fornece a introdução histórico-literária padrão de 2 João (autoria, data, destinatário, docetismo) usada como linha de base para este registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Systematic Theology Study Bible (2017)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R. C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Reformation Trust",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R. C. Sproul (1939-2017) fue el teólogo reformado más influyente de su generación en el mundo de habla inglesa, fundador de Ligonier Ministries y firmante de la Declaración de Chicago sobre la Inerrancia Bíblica.",
+          "en": "R. C. Sproul (1939-2017) was the most influential Reformed theologian of his generation in the English-speaking world, founder of Ligonier Ministries and a signatory of the Chicago Statement on Biblical Inerrancy.",
+          "pt": "R. C. Sproul (1939-2017) foi o teólogo reformado mais influente de sua geração no mundo de língua inglesa, fundador do Ligonier Ministries e signatário da Declaração de Chicago sobre a Inerrância Bíblica."
+        },
+        "metodo": {
+          "es": "Dirigió un equipo de eruditos reformados para producir notas de estudio ancladas explícitamente en la Confesión de Westminster y los estándares confesionales reformados.",
+          "en": "He directed a team of Reformed scholars to produce study notes explicitly anchored in the Westminster Confession and Reformed confessional standards.",
+          "pt": "Dirigiu uma equipe de eruditos reformados para produzir notas de estudo explicitamente ancoradas na Confissão de Westminster e nos padrões confessionais reformados."
+        },
+        "aportacion": {
+          "es": "Aporta las conexiones explícitas entre 2 Juan y los capítulos correspondientes de la Confesión de Westminster sobre Cristo, la iglesia y la comunión de los santos.",
+          "en": "Provides the explicit connections between 2 John and the corresponding chapters of the Westminster Confession on Christ, the church, and the communion of saints.",
+          "pt": "Fornece as conexões explícitas entre 2 João e os capítulos correspondentes da Confissão de Westminster sobre Cristo, a igreja e a comunhão dos santos."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-hardcover-esv"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R. C. Sproul (ed. general) / Poiema Publicaciones",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto NBLA",
+          "Notas de estudio en español"
+        ],
+        "en": [
+          "NBLA text",
+          "Spanish study notes"
+        ],
+        "pt": [
+          "Texto NBLA",
+          "Notas de estudo em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Versión en español de la Reformation Study Bible, adaptada y traducida para el público hispanohablante bajo la supervisión editorial de Ligonier Ministries y Poiema Publicaciones.",
+          "en": "The Spanish-language edition of the Reformation Study Bible, adapted and translated for Spanish-speaking readers under the editorial supervision of Ligonier Ministries and Poiema Publicaciones.",
+          "pt": "A edição em espanhol da Reformation Study Bible, adaptada e traduzida para o público hispanofalante sob a supervisão editorial do Ligonier Ministries e da Poiema Publicaciones."
+        },
+        "metodo": {
+          "es": "Traduce y adapta culturalmente las notas de la Reformation Study Bible usando el texto de la NBLA, preservando el marco teológico reformado y confesional.",
+          "en": "It translates and culturally adapts the notes of the Reformation Study Bible using the NBLA text, preserving the Reformed and confessional theological framework.",
+          "pt": "Traduz e adapta culturalmente as notas da Reformation Study Bible usando o texto da NBLA, preservando o quadro teológico reformado e confessional."
+        },
+        "aportacion": {
+          "es": "Fuente primaria para el texto bíblico en español (NBLA) citado en los versículos clave de este registro.",
+          "en": "Primary source for the Spanish biblical text (NBLA) cited in this record's key verses.",
+          "pt": "Fonte primária para o texto bíblico em espanhol (NBLA) citado nos versículos-chave deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Cristología",
+          "Eclesiología"
+        ],
+        "en": [
+          "Systematic theology",
+          "Christology",
+          "Ecclesiology"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Cristologia",
+          "Eclesiologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo evangélico reformado, profesor emérito de Teología y Estudios Bíblicos en la Phoenix Seminary, y uno de los sistemáticos más leídos en el mundo evangélico contemporáneo.",
+          "en": "Wayne Grudem is a Reformed evangelical theologian, Research Professor Emeritus of Theology and Biblical Studies at Phoenix Seminary, and one of the most widely read systematicians in contemporary evangelicalism.",
+          "pt": "Wayne Grudem é teólogo evangélico reformado, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e um dos sistemáticos mais lidos no mundo evangélico contemporâneo."
+        },
+        "metodo": {
+          "es": "Organiza la teología sistemática por categorías doctrinales clásicas, apoyando cada afirmación con exégesis bíblica directa y accesible al lector no especializado.",
+          "en": "He organizes systematic theology by classic doctrinal categories, supporting each claim with direct biblical exegesis accessible to the non-specialist reader.",
+          "pt": "Organiza a teologia sistemática por categorias doutrinárias clássicas, apoiando cada afirmação com exegese bíblica direta e acessível ao leitor não especializado."
+        },
+        "aportacion": {
+          "es": "Provee el marco de categorías de teología sistemática (Cristología, Eclesiología, Santificación, Pacto) aplicado a los datos de 2 Juan en este registro.",
+          "en": "Provides the systematic theology category framework (Christology, Ecclesiology, Sanctification, Covenant) applied to the data of 2 John in this record.",
+          "pt": "Fornece o quadro de categorias de teologia sistemática (Cristologia, Eclesiologia, Santificação, Pacto) aplicado aos dados de 2 João neste registro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Systematic Theology, 2nd ed. (2020)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Tipología",
+          "Enfoque cristológico"
+        ],
+        "en": [
+          "Redemptive history",
+          "Typology",
+          "Christological focus"
+        ],
+        "pt": [
+          "História redentora",
+          "Tipologia",
+          "Enfoque cristológico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en el Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely regarded as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación a través de las épocas de la historia redentora, leyendo cada libro en su lugar dentro del avance del pacto de gracia hacia Cristo.",
+          "en": "He traces the progressive development of revelation across the epochs of redemptive history, reading each book in its place within the advance of the covenant of grace toward Christ.",
+          "pt": "Traça o desenvolvimento progressivo da revelação através das épocas da história redentora, lendo cada livro em seu lugar dentro do avanço do pacto da graça rumo a Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamenta el enfoque cristológico y la lectura tipológica de 'la señora elegida' como eco de la Sion/Jerusalén profética aplicada a la iglesia neotestamentaria.",
+          "en": "Grounds the christological focus and the typological reading of 'the elect lady' as an echo of prophetic Zion/Jerusalem applied to the New Testament church.",
+          "pt": "Fundamenta o enfoque cristológico e a leitura tipológica da 'senhora eleita' como eco da Sião/Jerusalém profética aplicada à igreja neotestamentária."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)",
+          "Redemptive History and Biblical Interpretation (1980, posthumous collection)"
+        ],
+        "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments"
+      }
+    },
+    {
+      "titulo": "The Letters of John (Pillar New Testament Commentary)",
+      "autor": "Colin G. Kruse",
+      "año": 2000,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Identidad del destinatario",
+          "Trasfondo histórico",
+          "Docetismo",
+          "Exégesis"
+        ],
+        "en": [
+          "Recipient identity",
+          "Historical background",
+          "Docetism",
+          "Exegesis"
+        ],
+        "pt": [
+          "Identidade do destinatário",
+          "Contexto histórico",
+          "Docetismo",
+          "Exegese"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Colin G. Kruse es erudito neotestamentario australiano, profesor emérito en Ridley College (Melbourne), reconocido por sus comentarios exegéticos evangélicos sobre las epístolas juaninas y paulinas.",
+          "en": "Colin G. Kruse is an Australian New Testament scholar, emeritus professor at Ridley College (Melbourne), recognized for his evangelical exegetical commentaries on the Johannine and Pauline epistles.",
+          "pt": "Colin G. Kruse é erudito neotestamentário australiano, professor emérito no Ridley College (Melbourne), reconhecido por seus comentários exegéticos evangélicos sobre as epístolas joaninas e paulinas."
+        },
+        "metodo": {
+          "es": "Combina exégesis griega detallada verso por verso con atención cuidadosa al trasfondo histórico y a las principales posiciones académicas sobre cada cuestión disputada.",
+          "en": "He combines detailed verse-by-verse Greek exegesis with careful attention to historical background and the major scholarly positions on each disputed question.",
+          "pt": "Combina exegese grega detalhada verso a verso com atenção cuidadosa ao contexto histórico e às principais posições acadêmicas sobre cada questão disputada."
+        },
+        "aportacion": {
+          "es": "Aporta el análisis exegético de la identidad de 'la señora elegida', la naturaleza del docetismo combatido, y la conexión histórica con las cartas de Ignacio de Antioquía.",
+          "en": "Provides the exegetical analysis of the identity of 'the elect lady,' the nature of the Docetism being combated, and the historical connection to the letters of Ignatius of Antioch.",
+          "pt": "Fornece a análise exegética da identidade da 'senhora eleita', a natureza do docetismo combatido, e a conexão histórica com as cartas de Inácio de Antioquia."
+        },
+        "obras": [
+          "The Letters of John (2000)",
+          "Paul's Letter to the Romans (2012)",
+          "2 Corinthians (2015)"
+        ],
+        "url": "https://www.eerdmans.com/9780802837325/the-letters-of-john/"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.75,
+    "camposMarcados": [
+      {
+        "campo": "autor.tradicional",
+        "razon": "La identidad de 'el Anciano' con el apóstol Juan es la posición tradicional/reformada (Ireneo, Papías vía Eusebio), pero cierta erudición crítica distingue un 'Juan el Anciano' del apóstol. Se sigue la tradición reformada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-05"
+      },
+      {
+        "campo": "destinatario / personajes.La Señora Elegida y sus Hijos",
+        "razon": "La identidad de 'la señora elegida' (mujer literal vs. personificación de una iglesia local) es objeto de debate exegético sin consenso definitivo; se prefiere la lectura corporativa mayoritaria entre comentaristas reformados, pero no está resuelta con certeza.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-05"
+      },
+      {
+        "campo": "contextoHistorico.geografia",
+        "razon": "El destino exacto de la carta dentro de la provincia de Asia no se menciona en el texto; las ciudades citadas (Esmirna, Laodicea) son ejemplos representativos de la región, no identificaciones certeras.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-05"
+      },
+      {
+        "campo": "resumenCapitulos[].rangoInicio/rangoFin",
+        "razon": "2 Juan tiene un solo capítulo (capitulosTotal=1). Para permitir una segmentación temática útil en el visor, las unidades de resumenCapitulos usan rangos de versículo (1-3, 4-6, 7-11, 12-13) en lugar de rangos de capítulo, siguiendo el mismo criterio aplicable a otras epístolas de un solo capítulo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-05"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-05T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "Pipeline CANON (generación automatizada)",
+      "rol": "editor",
+      "fechaRevision": "2026-07-05"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 4,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-05T00:00:00Z",
+          "fechaFin": "2026-07-05T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

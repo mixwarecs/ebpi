@@ -16,14 +16,18 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
 
   const theology    = bookData ? adaptTheology(bookData.teologiaSistematica, lang) : [];
   const sources     = bookData ? adaptFuentes(bookData.fuentes, lang) : [];
-  const chapters    = bookData ? adaptCapitulos(bookData.resumenCapitulos, lang) : [];
+  const chapters    = bookData ? adaptCapitulos(bookData.resumenCapitulos, lang, bookData.capitulosTotal) : [];
   const histCtx     = bookData ? adaptContextoHistorico(bookData.contextoHistorico, lang) : {};
   const keyVerses   = bookData ? adaptVersiculosClave(bookData.versiculosClave, lang) : [];
   const wcfAnchors  = bookData ? adaptAnclasConfesionales(bookData.anclasConfesionales, lang) : [];
   const tiposSombras = bookData ? adaptTiposYSombras(bookData.historiaRedentora?.tiposYSombras, lang) : [];
   const totalChapters = bookData?.capitulosTotal || 50;
+  // Single-chapter books whose resumenCapitulos units are remapped to sequential
+  // timeline positions (see adaptCapitulos) need character xCh clamped against
+  // that same position count, not the raw capitulosTotal (which stays 1).
+  const layoutTotal = chapters.length ? Math.max(...chapters.map(c => c.ch)) : totalChapters;
   const bookAb      = BOOKS.find(b => b.id === bookData?.id)?.ab || "Gn";
-  const characters  = bookData ? adaptPersonajes(bookData.personajes, lang, personasDisplay, totalChapters, bookAb) : [];
+  const characters  = bookData ? adaptPersonajes(bookData.personajes, lang, personasDisplay, layoutTotal, bookAb) : [];
   const epochs      = globalData ? (globalData.epocasRedentoras[lang] || globalData.epocasRedentoras.es) : [];
   const bookTitle   = (bookData?.titulo?.[lang] || bookData?.titulo?.es || "").toUpperCase();
   const IDIOMA_TRANS = { "Hebreo": { en: "Hebrew", pt: "Hebraico" }, "Griego": { en: "Greek", pt: "Grego" }, "Arameo": { en: "Aramaic", pt: "Aramaico" }, "Hebreo y Arameo": { en: "Hebrew and Aramaic", pt: "Hebraico e Aramaico" } };
@@ -433,7 +437,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 );
               })}
             </div>
-            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} initialChapterIdx={initialChapterIdx} onChapterChange={onChapterChange} />
+            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} capitulosTotal={bookData?.capitulosTotal} initialChapterIdx={initialChapterIdx} onChapterChange={onChapterChange} />
           </div>
         )}
       </div>
