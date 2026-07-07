@@ -1,0 +1,1855 @@
+{
+  "id": 48,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "titulo": {
+    "es": "Gálatas",
+    "en": "Galatians",
+    "pt": "Gálatas"
+  },
+  "tituloOriginal": "Πρὸς Γαλάτας",
+  "transliteracion": "Pros Galatas",
+  "significado": {
+    "es": "A los Gálatas — carta dirigida a los habitantes de la región/provincia romana de Galacia en Asia Menor",
+    "en": "To the Galatians — a letter addressed to the inhabitants of the Roman region/province of Galatia in Asia Minor",
+    "pt": "Aos Gálatas — carta dirigida aos habitantes da região/província romana da Galácia na Ásia Menor"
+  },
+  "resumenGeneral": {
+    "es": "El argumento arranca con una defensa vehemente del evangelio de gracia y del apostolado de Pablo, quien anatematiza a cualquiera que predique 'otro evangelio' (Gá 1:6–9) y narra que su mensaje vino por revelación directa de Cristo, no de hombres (Gá 1:11–12). El giro central llega con la confrontación pública a Pedro en Antioquía (Gá 2:11–14), que Pablo usa como plataforma para exponer la tesis doctrinal del libro: el hombre es justificado por fe en Cristo y no por las obras de la ley (Gá 2:16). A partir de ahí construye el caso con Abraham como padre de todos los que creen (Gá 3:6–9), la ley como aya temporal hasta Cristo (Gá 3:24–25) y la alegoría de Agar y Sara que distingue la esclavitud de la promesa (Gá 4:21–31). El libro aterriza en un llamado urgente a permanecer firmes en la libertad que Cristo obtuvo (Gá 5:1) y a caminar por el Espíritu en vez de la carne (Gá 5:16–25), cerrando con la única jactancia legítima del creyente: la cruz de Cristo (Gá 6:14).",
+    "en": "The argument opens with a vehement defense of the gospel of grace and of Paul's apostleship, pronouncing anathema on anyone preaching 'another gospel' (Gal 1:6–9) and recounting that his message came by direct revelation of Christ, not from men (Gal 1:11–12). The pivotal turn arrives with the public confrontation of Peter at Antioch (Gal 2:11–14), which Paul uses as a platform to state the book's doctrinal thesis: a person is justified by faith in Christ and not by works of the law (Gal 2:16). From there he builds the case with Abraham as father of all who believe (Gal 3:6–9), the law as a temporary guardian until Christ (Gal 3:24–25), and the allegory of Hagar and Sarah distinguishing slavery from promise (Gal 4:21–31). The book lands on an urgent call to stand firm in the freedom Christ secured (Gal 5:1) and to walk by the Spirit rather than the flesh (Gal 5:16–25), closing with the believer's only legitimate boast: the cross of Christ (Gal 6:14).",
+    "pt": "O argumento começa com uma defesa veemente do evangelho da graça e do apostolado de Paulo, que pronuncia anátema sobre quem pregar 'outro evangelho' (Gl 1:6–9) e relata que sua mensagem veio por revelação direta de Cristo, não de homens (Gl 1:11–12). A virada central chega com o confronto público a Pedro em Antioquia (Gl 2:11–14), que Paulo usa como plataforma para expor a tese doutrinária do livro: o homem é justificado pela fé em Cristo e não pelas obras da lei (Gl 2:16). A partir daí constrói o argumento com Abraão como pai de todos os que creem (Gl 3:6–9), a lei como aio temporário até Cristo (Gl 3:24–25) e a alegoria de Agar e Sara que distingue a escravidão da promessa (Gl 4:21–31). O livro desemboca num chamado urgente a permanecer firmes na liberdade que Cristo conquistou (Gl 5:1) e a andar pelo Espírito em vez da carne (Gl 5:16–25), encerrando com a única jactância legítima do crente: a cruz de Cristo (Gl 6:14)."
+  },
+  "capitulosTotal": 6,
+  "autor": {
+    "nombre": {
+      "es": "Pablo",
+      "en": "Paul",
+      "pt": "Paulo"
+    },
+    "tradicional": false,
+    "nota": {
+      "es": "La autoría paulina de Gálatas es prácticamente indiscutida incluso entre críticos, dado el fuerte carácter autobiográfico (Gá 1:1,11–2:14) y el estilo argumentativo característico de Pablo. El debate erudito no gira sobre el autor sino sobre la identidad de los destinatarios: la 'teoría del norte de Galacia' (etnia gálata/celta) frente a la 'teoría del sur de Galacia' (provincia romana, incluyendo Antioquía de Pisidia, Iconio, Listra y Derbe evangelizadas en Hch 13–14).",
+      "en": "Paul's authorship of Galatians is virtually undisputed even among critical scholars, given the letter's strong autobiographical character (Gal 1:1,11–2:14) and Paul's characteristic argumentative style. The scholarly debate concerns not the author but the identity of the recipients: the 'North Galatian theory' (ethnic Celtic Galatians) versus the 'South Galatian theory' (Roman province, including Pisidian Antioch, Iconium, Lystra, and Derbe evangelized in Acts 13–14).",
+      "pt": "A autoria paulina de Gálatas é praticamente incontestada mesmo entre críticos, dado o forte caráter autobiográfico da carta (Gl 1:1,11–2:14) e o estilo argumentativo característico de Paulo. O debate erudito não gira em torno do autor, mas da identidade dos destinatários: a 'teoria do norte da Galácia' (etnia céltica gálata) versus a 'teoria do sul da Galácia' (província romana, incluindo Antioquia da Pisídia, Icônio, Listra e Derbe evangelizadas em At 13–14)."
+    }
+  },
+  "año": {
+    "desde": 48,
+    "hasta": 49,
+    "display": {
+      "es": "Fecha de escritura: c. 48–49 d.C. (posición de la teoría del sur de Galacia, antes del Concilio de Jerusalén de Hch 15)",
+      "en": "Date of writing: c. AD 48–49 (South Galatian theory position, prior to the Jerusalem Council of Acts 15)",
+      "pt": "Data de escrita: c. 48–49 d.C. (posição da teoria do sul da Galácia, antes do Concílio de Jerusalém de At 15)"
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Antioquía de Siria (probablemente), tras el segundo viaje de Pablo a Jerusalén y antes del Concilio de Jerusalén",
+    "en": "Antioch of Syria (probably), after Paul's second visit to Jerusalem and before the Jerusalem Council",
+    "pt": "Antioquia da Síria (provavelmente), após a segunda visita de Paulo a Jerusalém e antes do Concílio de Jerusalém"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Inicial (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Provincia romana de Galacia",
+          "en": "Roman province of Galatia",
+          "pt": "Província romana da Galácia"
+        },
+        "identificacionModerna": {
+          "es": "Centro de la actual Turquía",
+          "en": "Central modern-day Turkey",
+          "pt": "Centro da atual Turquia"
+        },
+        "significancia": {
+          "es": "Región destinataria de la carta; según la teoría del sur incluía las ciudades evangelizadas por Pablo y Bernabé en su primer viaje misionero (Hch 13–14): Antioquía de Pisidia, Iconio, Listra y Derbe.",
+          "en": "The region addressed by the letter; per the South Galatian theory it included the cities evangelized by Paul and Barnabas on their first missionary journey (Acts 13–14): Pisidian Antioch, Iconium, Lystra, and Derbe.",
+          "pt": "A região destinatária da carta; segundo a teoria do sul, incluía as cidades evangelizadas por Paulo e Barnabé em sua primeira viagem missionária (At 13–14): Antioquia da Pisídia, Icônio, Listra e Derbe."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Antioquía de Siria",
+          "en": "Antioch of Syria",
+          "pt": "Antioquia da Síria"
+        },
+        "identificacionModerna": {
+          "es": "Antakya, sureste de Turquía",
+          "en": "Antakya, southeastern Turkey",
+          "pt": "Antáquia, sudeste da Turquia"
+        },
+        "significancia": {
+          "es": "Base misionera de Pablo y Bernabé y escenario de la confrontación pública con Pedro (Gá 2:11–14) que motiva la carta.",
+          "en": "Missionary base of Paul and Barnabas and the setting of the public confrontation with Peter (Gal 2:11–14) that prompts the letter.",
+          "pt": "Base missionária de Paulo e Barnabé e cenário do confronto público com Pedro (Gl 2:11–14) que motiva a carta."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Jerusalén, Israel",
+          "en": "Jerusalem, Israel",
+          "pt": "Jerusalém, Israel"
+        },
+        "significancia": {
+          "es": "Sede de los apóstoles originales; lugar de las dos visitas de Pablo mencionadas en Gá 1:18 y Gá 2:1, cruciales para su defensa de la independencia de su llamado apostólico.",
+          "en": "Seat of the original apostles; site of the two visits by Paul mentioned in Gal 1:18 and Gal 2:1, crucial to his defense of the independence of his apostolic call.",
+          "pt": "Sede dos apóstolos originais; local das duas visitas de Paulo mencionadas em Gl 1:18 e Gl 2:1, cruciais para sua defesa da independência de seu chamado apostólico."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Arabia",
+          "en": "Arabia",
+          "pt": "Arábia"
+        },
+        "identificacionModerna": {
+          "es": "Reino Nabateo, región al sur/este de Damasco",
+          "en": "Nabatean Kingdom, region south/east of Damascus",
+          "pt": "Reino Nabateu, região ao sul/leste de Damasco"
+        },
+        "significancia": {
+          "es": "Destino del retiro de Pablo inmediatamente después de su conversión (Gá 1:17), evidencia de que no recibió su evangelio de los apóstoles de Jerusalén.",
+          "en": "Destination of Paul's withdrawal immediately after his conversion (Gal 1:17), evidence that he did not receive his gospel from the Jerusalem apostles.",
+          "pt": "Destino do retiro de Paulo imediatamente após sua conversão (Gl 1:17), evidência de que não recebeu seu evangelho dos apóstolos de Jerusalém."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "Provee la unidad administrativa y las vías que permiten tanto la evangelización original de Galacia como la circulación de la carta.",
+          "en": "Provides the administrative unity and road network that enabled both the original evangelization of Galatia and the circulation of the letter.",
+          "pt": "Fornece a unidade administrativa e as vias que permitiram tanto a evangelização original da Galácia quanto a circulação da carta."
+        },
+        "estadoArqueologico": {
+          "es": "Bien documentado; inscripciones romanas confirman la organización de la provincia de Galacia y sus ciudades del sur.",
+          "en": "Well documented; Roman inscriptions confirm the organization of the province of Galatia and its southern cities.",
+          "pt": "Bem documentado; inscrições romanas confirmam a organização da província da Galácia e suas cidades do sul."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Gálatas (celtas)",
+          "en": "Galatians (Celts)",
+          "pt": "Gálatas (celtas)"
+        },
+        "rolEnElTexto": {
+          "es": "Pueblo celta que emigró a Asia Menor en el s. III a.C. y dio nombre étnico a la región norte; los destinatarios pudieron ser sus descendientes o, más probablemente según la teoría del sur, los habitantes de la provincia romana en general.",
+          "en": "Celtic people who migrated to Asia Minor in the 3rd century BC and gave the northern region its ethnic name; the recipients may have been their descendants or, more likely per the South Galatian theory, the inhabitants of the Roman province generally.",
+          "pt": "Povo celta que migrou para a Ásia Menor no século III a.C. e deu à região norte seu nome étnico; os destinatários podem ter sido seus descendentes ou, mais provavelmente segundo a teoria do sul, os habitantes da província romana em geral."
+        },
+        "estadoArqueologico": {
+          "es": "Confirmado por fuentes grecorromanas (Estrabón, Livio) y hallazgos arqueológicos de asentamientos celtas en Ancira, Pesino y Tavio.",
+          "en": "Confirmed by Greco-Roman sources (Strabo, Livy) and archaeological finds of Celtic settlements at Ancyra, Pessinus, and Tavium.",
+          "pt": "Confirmado por fontes greco-romanas (Estrabão, Tito Lívio) e achados arqueológicos de assentamentos celtas em Ancira, Pessinunte e Távio."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judaizantes",
+          "en": "Judaizers",
+          "pt": "Judaizantes"
+        },
+        "rolEnElTexto": {
+          "es": "Facción de maestros de trasfondo judío-cristiano que exigía la circuncisión y la observancia de la ley mosaica como necesarias para la plena membresía en el pueblo de Dios; son el antagonismo teológico que ocasiona la carta.",
+          "en": "Faction of teachers of Jewish-Christian background who demanded circumcision and observance of the Mosaic law as necessary for full membership in the people of God; they are the theological antagonism that occasions the letter.",
+          "pt": "Facção de mestres de origem judaico-cristã que exigia a circuncisão e a observância da lei mosaica como necessárias para a plena participação no povo de Deus; são o antagonismo teológico que motiva a carta."
+        },
+        "estadoArqueologico": {
+          "es": "No dejaron registro arqueológico propio; se reconstruyen únicamente a partir de la polémica interna de Gálatas, Hechos 15 y Filipenses 3.",
+          "en": "They left no archaeological record of their own; they are reconstructed solely from the internal polemic of Galatians, Acts 15, and Philippians 3.",
+          "pt": "Não deixaram registro arqueológico próprio; são reconstruídos apenas a partir da polêmica interna de Gálatas, Atos 15 e Filipenses 3."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "La arqueología confirma la existencia y organización administrativa de la provincia romana de Galacia (inscripciones en Ancira dedicadas a Augusto, el Monumentum Ancyranum) y las ciudades del sur —Antioquía de Pisidia, Iconio, Listra, Derbe— cuyas ruinas (foros, templos imperiales, vías romanas) corroboran el relato de Hch 13–14. No existe evidencia arqueológica que dirima directamente entre la teoría del norte y del sur, por lo que la cuestión se resuelve principalmente por criterios internos del texto y de Hechos.",
+      "en": "Archaeology confirms the existence and administrative organization of the Roman province of Galatia (inscriptions at Ancyra dedicated to Augustus, the Monumentum Ancyranum) and the southern cities—Pisidian Antioch, Iconium, Lystra, Derbe—whose ruins (forums, imperial temples, Roman roads) corroborate the Acts 13–14 narrative. No archaeological evidence directly settles the North vs. South Galatian debate, so the question is resolved mainly on internal grounds from the text and from Acts.",
+      "pt": "A arqueologia confirma a existência e a organização administrativa da província romana da Galácia (inscrições em Ancira dedicadas a Augusto, o Monumentum Ancyranum) e as cidades do sul —Antioquia da Pisídia, Icônio, Listra, Derbe— cujas ruínas (fóruns, templos imperiais, vias romanas) corroboram o relato de At 13–14. Não há evidência arqueológica que resolva diretamente o debate entre a teoria do norte e do sul, de modo que a questão é decidida principalmente por critérios internos do texto e de Atos."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Derecho romano de adopción (adoptio/adrogatio)",
+          "en": "Roman law of adoption (adoptio/adrogatio)",
+          "pt": "Direito romano de adoção (adoptio/adrogatio)"
+        },
+        "origen": {
+          "es": "Práctica legal romana documentada en fuentes jurídicas y epigráficas del s. I d.C.",
+          "en": "Roman legal practice documented in juridical and epigraphic sources of the 1st century AD",
+          "pt": "Prática jurídica romana documentada em fontes legais e epigráficas do século I d.C."
+        },
+        "relevancia": {
+          "es": "Ilumina el trasfondo cultural de la 'adopción como hijos' (huiothesía) que Pablo usa en Gá 4:4–7: bajo la ley romana, el hijo adoptado recibía plenos derechos de heredero, análogo al paso del creyente de la esclavitud bajo la ley a la filiación plena en Cristo.",
+          "en": "Illuminates the cultural background of 'adoption as sons' (huiothesia) that Paul uses in Gal 4:4–7: under Roman law, an adopted son received full rights as heir, analogous to the believer's passage from slavery under the law to full sonship in Christ.",
+          "pt": "Ilumina o pano de fundo cultural da 'adoção como filhos' (huiothesía) que Paulo usa em Gl 4:4–7: sob a lei romana, o filho adotado recebia plenos direitos de herdeiro, análogo à passagem do crente da escravidão sob a lei para a filiação plena em Cristo."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Costumbre judía del aya/pedagogo (paidagōgós)",
+          "en": "Jewish-Hellenistic custom of the guardian/tutor (paidagōgos)",
+          "pt": "Costume judaico-helenístico do aio/pedagogo (paidagōgós)"
+        },
+        "origen": {
+          "es": "Práctica greco-romana difundida también en comunidades judías helenizadas, atestiguada en fuentes grecorromanas del período",
+          "en": "Greco-Roman practice also widespread in Hellenized Jewish communities, attested in Greco-Roman sources of the period",
+          "pt": "Prática greco-romana também difundida em comunidades judaicas helenizadas, atestada em fontes greco-romanas do período"
+        },
+        "relevancia": {
+          "es": "El paidagōgós era un esclavo encargado de supervisar y disciplinar al niño hasta su mayoría de edad, no un maestro que enseñaba contenidos; Pablo usa esta figura en Gá 3:24–25 para describir el papel temporal y custodial de la ley hasta la venida de Cristo.",
+          "en": "The paidagogos was a slave charged with supervising and disciplining a child until adulthood, not a teacher imparting content; Paul uses this figure in Gal 3:24–25 to describe the law's temporary, custodial role until Christ's coming.",
+          "pt": "O paidagōgós era um escravo encarregado de supervisionar e disciplinar a criança até a maioridade, não um mestre que ensinava conteúdos; Paulo usa essa figura em Gl 3:24–25 para descrever o papel temporário e custodial da lei até a vinda de Cristo."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "El debate histórico principal es la identidad de los 'gálatas': la teoría del norte sostiene que Pablo escribe a las comunidades étnicas célticas alrededor de Ancira, Pesino y Tavio, evangelizadas en un viaje no registrado explícitamente en Hechos, lo que exigiría una fecha posterior (c. 53–57 d.C.) y calzaría mejor con Hch 16:6 y 18:23. La teoría del sur sostiene que Pablo escribe a las iglesias fundadas en su primer viaje misionero (Hch 13–14) en la parte sur de la provincia romana de Galacia, permitiendo una fecha temprana (c. 48–49 d.C.), antes del Concilio de Jerusalén. La tradición reformada evangélica (ESV Study Bible, D.A. Carson, F.F. Bruce) favorece mayoritariamente la teoría del sur por su mejor encaje con la cronología de Hechos y por explicar la ausencia de mención del decreto apostólico de Hch 15 en la carta —si Gálatas es posterior al concilio, resultaría extraño que Pablo no apelara a su decisión ya tomada a su favor.",
+      "en": "The main historical debate concerns the identity of the 'Galatians': the North Galatian theory holds that Paul writes to the ethnic Celtic communities around Ancyra, Pessinus, and Tavium, evangelized on a journey not explicitly recorded in Acts, requiring a later date (c. AD 53–57) and fitting better with Acts 16:6 and 18:23. The South Galatian theory holds that Paul writes to the churches founded on his first missionary journey (Acts 13–14) in the southern part of the Roman province of Galatia, allowing an early date (c. AD 48–49), before the Jerusalem Council. The Reformed evangelical tradition (ESV Study Bible, D.A. Carson, F.F. Bruce) largely favors the South Galatian theory for its better fit with Acts' chronology and because it explains the letter's silence about the apostolic decree of Acts 15 — if Galatians postdates the council, it would be strange for Paul not to appeal to a ruling already in his favor.",
+      "pt": "O principal debate histórico diz respeito à identidade dos 'gálatas': a teoria do norte sustenta que Paulo escreve às comunidades étnicas célticas ao redor de Ancira, Pessinunte e Távio, evangelizadas em uma viagem não registrada explicitamente em Atos, exigindo uma data posterior (c. 53–57 d.C.) e encaixando-se melhor com At 16:6 e 18:23. A teoria do sul sustenta que Paulo escreve às igrejas fundadas em sua primeira viagem missionária (At 13–14) na parte sul da província romana da Galácia, permitindo uma data mais antiga (c. 48–49 d.C.), antes do Concílio de Jerusalém. A tradição reformada evangélica (ESV Study Bible, D.A. Carson, F.F. Bruce) favorece majoritariamente a teoria do sul por seu melhor encaixe com a cronologia de Atos e por explicar a ausência de menção ao decreto apostólico de At 15 na carta — se Gálatas é posterior ao concílio, seria estranho que Paulo não apelasse a uma decisão já tomada a seu favor."
+    },
+    "cronologiaInterna": {
+      "es": "La propia carta traza una cronología: conversión de Pablo camino a Damasco (Gá 1:15–16); retiro a Arabia y regreso a Damasco (Gá 1:17); primera visita a Jerusalén tres años después, de solo 15 días con Pedro (Gá 1:18–19); catorce años después, segunda visita a Jerusalén con Bernabé y Tito, donde su evangelio es reconocido por Jacobo, Pedro y Juan (Gá 2:1–10); posteriormente, confrontación con Pedro en Antioquía (Gá 2:11–14). Esta secuencia interna es la base principal para fechar la carta, independientemente de referencias externas.",
+      "en": "The letter itself traces a chronology: Paul's conversion on the road to Damascus (Gal 1:15–16); withdrawal to Arabia and return to Damascus (Gal 1:17); first visit to Jerusalem three years later, only 15 days with Peter (Gal 1:18–19); fourteen years later, a second visit to Jerusalem with Barnabas and Titus, where his gospel is recognized by James, Peter, and John (Gal 2:1–10); subsequently, the confrontation with Peter at Antioch (Gal 2:11–14). This internal sequence is the primary basis for dating the letter, apart from external references.",
+      "pt": "A própria carta traça uma cronologia: conversão de Paulo a caminho de Damasco (Gl 1:15–16); retiro à Arábia e retorno a Damasco (Gl 1:17); primeira visita a Jerusalém três anos depois, de apenas 15 dias com Pedro (Gl 1:18–19); catorze anos depois, segunda visita a Jerusalém com Barnabé e Tito, onde seu evangelho é reconhecido por Tiago, Pedro e João (Gl 2:1–10); posteriormente, o confronto com Pedro em Antioquia (Gl 2:11–14). Essa sequência interna é a base principal para datar a carta, independentemente de referências externas."
+    }
+  },
+  "ordenEnDivision": 4,
+  "ordenCanon": 48,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Cristo es presentado como quien nace 'de mujer, nacido bajo la ley, para redimir a los que estaban bajo la ley' (Gá 4:4–5) y quien se hace maldición en la cruz para redimir a los suyos de la maldición de la ley (Gá 3:13). Él es la 'simiente' singular de Abraham en quien se cumple la promesa (Gá 3:16), de modo que toda la historia del pacto —promesa, ley, aya— converge y culmina en su persona y obra.",
+      "en": "Christ is presented as the one 'born of woman, born under the law, to redeem those who were under the law' (Gal 4:4–5) and who becomes a curse on the cross to redeem his own from the law's curse (Gal 3:13). He is the singular 'seed' of Abraham in whom the promise is fulfilled (Gal 3:16), so that the entire history of the covenant —promise, law, guardian— converges and culminates in his person and work.",
+      "pt": "Cristo é apresentado como aquele que nasce 'de mulher, nascido sob a lei, para remir os que estavam sob a lei' (Gl 4:4–5) e que se faz maldição na cruz para remir os seus da maldição da lei (Gl 3:13). Ele é a 'semente' singular de Abraão na qual a promessa se cumpre (Gl 3:16), de modo que toda a história do pacto —promessa, lei, aio— converge e culmina em sua pessoa e obra."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Isaac, hijo de la promesa nacido de la libre Sara, como tipo de los creyentes que nacen 'según el Espíritu' y son herederos de la promesa, en contraste con Ismael, hijo de la esclava Agar según la carne (Gá 4:22–29)",
+        "en": "Isaac, the son of promise born of the free woman Sarah, as a type of believers who are born 'according to the Spirit' and are heirs of the promise, in contrast to Ishmael, the son of the slave Hagar born according to the flesh (Gal 4:22–29)",
+        "pt": "Isaque, filho da promessa nascido da livre Sara, como tipo dos crentes que nascem 'segundo o Espírito' e são herdeiros da promessa, em contraste com Ismael, filho da escrava Agar segundo a carne (Gl 4:22–29)"
+      },
+      {
+        "es": "Abraham como padre de todos los que creen —judíos y gentiles— prefigurando la iglesia universal justificada por fe y no por la circuncisión física (Gá 3:6–9,29)",
+        "en": "Abraham as father of all who believe —Jews and Gentiles— prefiguring the universal church justified by faith and not by physical circumcision (Gal 3:6–9,29)",
+        "pt": "Abraão como pai de todos os que creem —judeus e gentios— prefigurando a igreja universal justificada pela fé e não pela circuncisão física (Gl 3:6–9,29)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Gálatas ofrece la exposición más temprana y polémica —posiblemente anterior a Romanos— de la doctrina de la justificación por fe sola, formulada en el fragor de una crisis pastoral real y no como tratado abstracto. Es el único libro del NT que documenta una confrontación apostólica pública (Pablo contra Pedro, Gá 2:11–14), preservando así evidencia canónica de que ni siquiera los apóstoles estaban exentos de corrección cuando comprometían el evangelio. También articula, de forma única, la relación entre ley y promesa mediante la figura del aya (Gá 3:24–25) y la alegoría de Agar y Sara (Gá 4:21–31), categorías que ningún otro libro bíblico desarrolla con este lenguaje.",
+    "en": "Galatians offers the earliest and most polemical exposition —possibly predating Romans— of the doctrine of justification by faith alone, forged in the heat of a real pastoral crisis rather than as an abstract treatise. It is the only NT book that documents a public apostolic confrontation (Paul against Peter, Gal 2:11–14), preserving canonical evidence that not even the apostles were exempt from correction when they compromised the gospel. It also uniquely articulates the relationship between law and promise through the figure of the guardian (Gal 3:24–25) and the Hagar-Sarah allegory (Gal 4:21–31), categories no other biblical book develops in this language.",
+    "pt": "Gálatas oferece a exposição mais antiga e polêmica —possivelmente anterior a Romanos— da doutrina da justificação somente pela fé, forjada no calor de uma crise pastoral real e não como tratado abstrato. É o único livro do NT que documenta um confronto apostólico público (Paulo contra Pedro, Gl 2:11–14), preservando assim evidência canônica de que nem mesmo os apóstolos estavam isentos de correção quando comprometiam o evangelho. Também articula, de forma única, a relação entre lei e promessa por meio da figura do aio (Gl 3:24–25) e da alegoria de Agar e Sara (Gl 4:21–31), categorias que nenhum outro livro bíblico desenvolve com essa linguagem."
+  },
+  "genero": {
+    "es": "Epístola polémica/argumentativa (carta circular a un grupo de iglesias)",
+    "en": "Polemical/argumentative epistle (circular letter to a group of churches)",
+    "pt": "Epístola polêmica/argumentativa (carta circular a um grupo de igrejas)"
+  },
+  "palabraClave": {
+    "es": [
+      "Libertad",
+      "Gracia",
+      "Fe",
+      "Ley",
+      "Justificación"
+    ],
+    "en": [
+      "Freedom",
+      "Grace",
+      "Faith",
+      "Law",
+      "Justification"
+    ],
+    "pt": [
+      "Liberdade",
+      "Graça",
+      "Fé",
+      "Lei",
+      "Justificação"
+    ]
+  },
+  "destinatario": {
+    "es": "Las iglesias de la provincia romana de Galacia, probablemente las congregaciones fundadas por Pablo y Bernabé en Antioquía de Pisidia, Iconio, Listra y Derbe durante el primer viaje misionero (Hch 13–14), compuestas de creyentes gentiles siendo presionados por maestros judaizantes a circuncidarse y guardar la ley mosaica",
+    "en": "The churches of the Roman province of Galatia, probably the congregations founded by Paul and Barnabas in Pisidian Antioch, Iconium, Lystra, and Derbe during the first missionary journey (Acts 13–14), composed of Gentile believers being pressured by Judaizing teachers to be circumcised and keep the Mosaic law",
+    "pt": "As igrejas da província romana da Galácia, provavelmente as congregações fundadas por Paulo e Barnabé em Antioquia da Pisídia, Icônio, Listra e Derbe durante a primeira viagem missionária (At 13–14), compostas de crentes gentios sendo pressionados por mestres judaizantes a se circuncidar e guardar a lei mosaica"
+  },
+  "proposito": {
+    "es": "Histórico: refutar a los maestros judaizantes que enseñaban que los gentiles debían circuncidarse y observar la ley mosaica para ser plenamente parte del pueblo de Dios, y defender la legitimidad del apostolado de Pablo y la autenticidad de su evangelio recibido por revelación directa. Teológico: establecer de manera definitiva que la justificación es solo por fe en Cristo, aparte de las obras de la ley, y que esta libertad del evangelio se vive no en libertinaje sino en una vida guiada y transformada por el Espíritu Santo.",
+    "en": "Historical: to refute the Judaizing teachers who taught that Gentiles must be circumcised and observe the Mosaic law to be fully part of the people of God, and to defend the legitimacy of Paul's apostleship and the authenticity of his gospel received by direct revelation. Theological: to establish definitively that justification is by faith in Christ alone, apart from works of the law, and that this gospel freedom is lived out not in license but in a life guided and transformed by the Holy Spirit.",
+    "pt": "Histórico: refutar os mestres judaizantes que ensinavam que os gentios deviam se circuncidar e observar a lei mosaica para serem plenamente parte do povo de Deus, e defender a legitimidade do apostolado de Paulo e a autenticidade de seu evangelho recebido por revelação direta. Teológico: estabelecer de maneira definitiva que a justificação é somente pela fé em Cristo, à parte das obras da lei, e que essa liberdade do evangelho se vive não no libertinismo, mas numa vida guiada e transformada pelo Espírito Santo."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pablo",
+        "en": "Paul",
+        "pt": "Paulo"
+      },
+      "hebreo": "Σαῦλος / Παῦλος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo, autor de la carta, que escribe con extraordinaria urgencia pastoral y emocional para defender el evangelio de gracia frente a su corrupción por maestros judaizantes.",
+        "en": "Apostle of Jesus Christ, author of the letter, who writes with extraordinary pastoral and emotional urgency to defend the gospel of grace against its corruption by Judaizing teachers.",
+        "pt": "Apóstolo de Jesus Cristo, autor da carta, que escreve com extraordinária urgência pastoral e emocional para defender o evangelho da graça contra sua corrupção por mestres judaizantes."
+      },
+      "acciones": {
+        "es": "Relata su conversión y llamado directo por revelación de Cristo (Gá 1:11–16), su retiro a Arabia (Gá 1:17), sus visitas limitadas a Jerusalén (Gá 1:18–19; Gá 2:1–10), su confrontación pública a Pedro en Antioquía (Gá 2:11–14), y expone la doctrina de la justificación por fe, exhortando a los gálatas a permanecer firmes en la libertad de Cristo (Gá 5:1).",
+        "en": "He recounts his conversion and direct call by revelation of Christ (Gal 1:11–16), his withdrawal to Arabia (Gal 1:17), his limited visits to Jerusalem (Gal 1:18–19; Gal 2:1–10), his public confrontation of Peter at Antioch (Gal 2:11–14), and expounds the doctrine of justification by faith, exhorting the Galatians to stand firm in the freedom of Christ (Gal 5:1).",
+        "pt": "Relata sua conversão e chamado direto por revelação de Cristo (Gl 1:11–16), seu retiro à Arábia (Gl 1:17), suas visitas limitadas a Jerusalém (Gl 1:18–19; Gl 2:1–10), seu confronto público a Pedro em Antioquia (Gl 2:11–14), e expõe a doutrina da justificação pela fé, exortando os gálatas a permanecerem firmes na liberdade de Cristo (Gl 5:1)."
+      },
+      "significadoTeologico": {
+        "es": "Modelo del apóstol cuyo evangelio y autoridad vienen directamente de Cristo, no de una cadena de autorización humana, y quien defiende la pureza doctrinal de la gracia incluso a costa de confrontar a otro apóstol.",
+        "en": "A model of the apostle whose gospel and authority come directly from Christ, not from a chain of human authorization, and who defends the doctrinal purity of grace even at the cost of confronting a fellow apostle.",
+        "pt": "Modelo do apóstolo cujo evangelho e autoridade vêm diretamente de Cristo, não de uma cadeia de autorização humana, e que defende a pureza doutrinária da graça mesmo ao custo de confrontar outro apóstolo."
+      },
+      "tipo": {
+        "es": "No es tipo; es agente pactual del cumplimiento del evangelio",
+        "en": "Not a type; a covenantal agent of gospel fulfillment",
+        "pt": "Não é tipo; é agente pactual do cumprimento do evangelho"
+      },
+      "caracterMoral": {
+        "es": "Celoso por la verdad del evangelio hasta el punto de la confrontación pública, pero también pastoralmente tierno, comparándose con una madre de parto por los gálatas (Gá 4:19)",
+        "en": "Zealous for the truth of the gospel to the point of public confrontation, yet also pastorally tender, comparing himself to a mother in labor for the Galatians (Gal 4:19)",
+        "pt": "Zeloso pela verdade do evangelho a ponto do confronto público, mas também pastoralmente terno, comparando-se a uma mãe em trabalho de parto pelos gálatas (Gl 4:19)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Antiguo perseguidor de la iglesia (Gá 1:13) convertido por revelación directa de Cristo (Gá 1:15–16), quien no consultó con hombres sino que se retiró a Arabia (Gá 1:17), visitó a Pedro por 15 días tres años después (Gá 1:18), y catorce años más tarde presentó su evangelio a los apóstoles de Jerusalén, quienes lo reconocieron plenamente (Gá 2:1–9).",
+          "en": "A former persecutor of the church (Gal 1:13) converted by direct revelation of Christ (Gal 1:15–16), who did not confer with men but withdrew to Arabia (Gal 1:17), visited Peter for 15 days three years later (Gal 1:18), and fourteen years later presented his gospel to the Jerusalem apostles, who fully recognized it (Gal 2:1–9).",
+          "pt": "Antigo perseguidor da igreja (Gl 1:13) convertido por revelação direta de Cristo (Gl 1:15–16), que não consultou homens, mas se retirou à Arábia (Gl 1:17), visitou Pedro por 15 dias três anos depois (Gl 1:18), e catorze anos mais tarde apresentou seu evangelho aos apóstolos de Jerusalém, que o reconheceram plenamente (Gl 2:1–9)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Gá 1:1",
+          "Gá 1:15-16",
+          "Gá 2:11",
+          "Gá 2:20",
+          "Gá 4:19"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Fariseo de Tarso educado bajo Gamaliel (Hch 22:3), convertido camino a Damasco c. 33–34 d.C.; su primer viaje misionero con Bernabé (Hch 13–14) evangelizó las ciudades del sur de Galacia. F.F. Bruce y otros ubican la escritura de esta carta poco después, en la coyuntura previa al Concilio de Jerusalén.",
+          "en": "A Pharisee from Tarsus educated under Gamaliel (Acts 22:3), converted on the road to Damascus c. AD 33–34; his first missionary journey with Barnabas (Acts 13–14) evangelized the southern Galatian cities. F.F. Bruce and others place the writing of this letter shortly afterward, in the period just before the Jerusalem Council.",
+          "pt": "Fariseu de Tarso educado sob Gamaliel (At 22:3), convertido a caminho de Damasco c. 33–34 d.C.; sua primeira viagem missionária com Barnabé (At 13–14) evangelizou as cidades do sul da Galácia. F.F. Bruce e outros situam a escrita desta carta pouco depois, na conjuntura anterior ao Concílio de Jerusalém."
+        },
+        "fuentes": [
+          {
+            "titulo": "Paul: Apostle of the Heart Set Free",
+            "autor": "F.F. Bruce",
+            "año": 1977,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología",
+              "Biografía histórica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El relato autobiográfico de Gálatas concuerda ampliamente con Hechos 9, 11 y 13–15, aunque el orden y detalle de las visitas a Jerusalén ha generado debate armonístico entre comentaristas.",
+          "en": "The autobiographical account in Galatians largely agrees with Acts 9, 11, and 13–15, though the order and detail of the Jerusalem visits has generated harmonization debate among commentators.",
+          "pt": "O relato autobiográfico de Gálatas concorda amplamente com Atos 9, 11 e 13–15, embora a ordem e o detalhe das visitas a Jerusalém tenham gerado debate de harmonização entre os comentaristas."
+        }
+      },
+      "versiculosAsociados": [
+        "Gá 1:1",
+        "Gá 1:11-24",
+        "Gá 2:1-14",
+        "Gá 4:19"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Fil",
+        "Col"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Es el propio autor de la carta; su testimonio autobiográfico en Gálatas es una fuente primaria única para reconstruir la cronología temprana de su ministerio apostólico.",
+        "en": "He is the letter's own author; his autobiographical testimony in Galatians is a unique primary source for reconstructing the early chronology of his apostolic ministry.",
+        "pt": "É o próprio autor da carta; seu testemunho autobiográfico em Gálatas é uma fonte primária única para reconstruir a cronologia inicial de seu ministério apostólico."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Pedro",
+        "en": "Peter (Cephas)",
+        "pt": "Pedro"
+      },
+      "hebreo": "Κηφᾶς",
+      "principal": true,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "Apóstol líder de la iglesia de Jerusalén, reconocido por Pablo como columna de la iglesia, pero confrontado públicamente por Pablo en Antioquía por su hipocresía al separarse de los gentiles bajo presión judaizante.",
+        "en": "Leading apostle of the Jerusalem church, acknowledged by Paul as a pillar of the church, yet publicly confronted by Paul at Antioch for his hypocrisy in withdrawing from Gentiles under Judaizing pressure.",
+        "pt": "Apóstolo líder da igreja de Jerusalém, reconhecido por Paulo como coluna da igreja, mas confrontado publicamente por Paulo em Antioquia por sua hipocrisia ao se separar dos gentios sob pressão judaizante."
+      },
+      "acciones": {
+        "es": "Recibe la visita de Pablo por 15 días (Gá 1:18); reconoce el apostolado de Pablo a los gentiles junto con Jacobo y Juan (Gá 2:9); come con los gentiles en Antioquía hasta que llegan hombres de parte de Jacobo, y entonces se retrae por temor a los de la circuncisión (Gá 2:12), siendo reprendido públicamente por Pablo (Gá 2:14).",
+        "en": "He receives Paul's 15-day visit (Gal 1:18); acknowledges Paul's apostleship to the Gentiles together with James and John (Gal 2:9); eats with Gentiles at Antioch until men from James arrive, and then withdraws for fear of the circumcision party (Gal 2:12), being publicly rebuked by Paul (Gal 2:14).",
+        "pt": "Recebe a visita de Paulo por 15 dias (Gl 1:18); reconhece o apostolado de Paulo aos gentios junto com Tiago e João (Gl 2:9); come com os gentios em Antioquia até que chegam homens da parte de Tiago, e então se retrai por medo dos da circuncisão (Gl 2:12), sendo repreendido publicamente por Paulo (Gl 2:14)."
+      },
+      "significadoTeologico": {
+        "es": "Ilustra que incluso un apóstol genuino puede ceder a la hipocresía y comprometer la verdad del evangelio por presión social, subrayando que ninguna autoridad humana está por encima de la verdad de la justificación por fe.",
+        "en": "Illustrates that even a genuine apostle can succumb to hypocrisy and compromise the truth of the gospel under social pressure, underscoring that no human authority stands above the truth of justification by faith.",
+        "pt": "Ilustra que mesmo um apóstolo genuíno pode ceder à hipocrisia e comprometer a verdade do evangelho por pressão social, sublinhando que nenhuma autoridade humana está acima da verdade da justificação pela fé."
+      },
+      "tipo": {
+        "es": "No es tipo",
+        "en": "Not a type",
+        "pt": "Não é tipo"
+      },
+      "caracterMoral": {
+        "es": "Genuinamente convertido y comisionado, pero moralmente inconsistente en este episodio: actúa por temor humano en lugar de por convicción del evangelio",
+        "en": "Genuinely converted and commissioned, yet morally inconsistent in this episode: he acts out of human fear rather than gospel conviction",
+        "pt": "Genuinamente convertido e comissionado, mas moralmente inconsistente neste episódio: age por temor humano em vez de convicção do evangelho"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Apóstol visitado por Pablo en Jerusalén (Gá 1:18), reconocido como columna junto con Jacobo y Juan (Gá 2:9), pero reprendido por Pablo cara a cara en Antioquía por separarse de los gentiles por temor a los de la circuncisión (Gá 2:11–14).",
+          "en": "Apostle visited by Paul in Jerusalem (Gal 1:18), acknowledged as a pillar together with James and John (Gal 2:9), but rebuked by Paul face to face at Antioch for withdrawing from the Gentiles out of fear of the circumcision party (Gal 2:11–14).",
+          "pt": "Apóstolo visitado por Paulo em Jerusalém (Gl 1:18), reconhecido como coluna junto com Tiago e João (Gl 2:9), mas repreendido por Paulo face a face em Antioquia por se separar dos gentios por medo dos da circuncisão (Gl 2:11–14)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Gá 1:18",
+          "Gá 2:9",
+          "Gá 2:11-14"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Simón Pedro, pescador galileo y apóstol líder, activo en Jerusalén y luego en Antioquía según Hch 15 y la tradición patrística temprana (Eusebio, Historia Eclesiástica).",
+          "en": "Simon Peter, a Galilean fisherman and leading apostle, active in Jerusalem and later Antioch per Acts 15 and early patristic tradition (Eusebius, Ecclesiastical History).",
+          "pt": "Simão Pedro, pescador galileu e apóstolo líder, ativo em Jerusalém e depois em Antioquia conforme At 15 e a tradição patrística primitiva (Eusébio, História Eclesiástica)."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Epistle to the Galatians (NIGTC)",
+            "autor": "F.F. Bruce",
+            "año": 1982,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología",
+              "Contexto de Antioquía"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El episodio de Antioquía en Gálatas 2 es coherente con el carácter voluble de Pedro descrito en los Evangelios (p. ej. Mt 26:69–75) y con su papel de puente entre judíos y gentiles en Hch 10–11 y Hch 15.",
+          "en": "The Antioch episode in Galatians 2 is consistent with Peter's characteristically vacillating temperament described in the Gospels (e.g., Matt 26:69–75) and with his bridging role between Jews and Gentiles in Acts 10–11 and Acts 15.",
+          "pt": "O episódio de Antioquia em Gálatas 2 é coerente com o caráter volúvel de Pedro descrito nos Evangelhos (p. ex. Mt 26:69–75) e com seu papel de ponte entre judeus e gentios em At 10–11 e At 15."
+        }
+      },
+      "versiculosAsociados": [
+        "Gá 1:18",
+        "Gá 2:7-14"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mc",
+        "Lc",
+        "Jn",
+        "Hch",
+        "1P",
+        "2P"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Autor de 1 y 2 Pedro; su hipocresía momentánea en Antioquía no anula su apostolado genuino ni su posterior fidelidad testificada en Hechos y sus propias epístolas.",
+        "en": "Author of 1 and 2 Peter; his momentary hypocrisy at Antioch does not nullify his genuine apostleship or his later faithfulness attested in Acts and his own epistles.",
+        "pt": "Autor de 1 e 2 Pedro; sua hipocrisia momentânea em Antioquia não anula seu apostolado genuíno nem sua fidelidade posterior atestada em Atos e em suas próprias epístolas."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Bernabé",
+        "en": "Barnabas",
+        "pt": "Barnabé"
+      },
+      "hebreo": "Βαρναβᾶς",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "Compañero misionero de Pablo, presente en la segunda visita a Jerusalén, que lamentablemente también fue arrastrado por la hipocresía de Pedro en Antioquía.",
+        "en": "Paul's missionary companion, present at the second visit to Jerusalem, who was unfortunately also swept along by Peter's hypocrisy at Antioch.",
+        "pt": "Companheiro missionário de Paulo, presente na segunda visita a Jerusalém, que lamentavelmente também foi arrastado pela hipocrisia de Pedro em Antioquia."
+      },
+      "acciones": {
+        "es": "Acompaña a Pablo a Jerusalén (Gá 2:1); es reconocido junto con Pablo para el ministerio a los gentiles (Gá 2:9); es 'arrastrado' por la hipocresía de los demás judíos en Antioquía (Gá 2:13).",
+        "en": "Accompanies Paul to Jerusalem (Gal 2:1); is acknowledged together with Paul for ministry to the Gentiles (Gal 2:9); is 'carried away' by the hypocrisy of the other Jews at Antioch (Gal 2:13).",
+        "pt": "Acompanha Paulo a Jerusalém (Gl 2:1); é reconhecido junto com Paulo para o ministério aos gentios (Gl 2:9); é 'arrastado' pela hipocrisia dos demais judeus em Antioquia (Gl 2:13)."
+      },
+      "significadoTeologico": {
+        "es": "Muestra que la presión de conformidad social puede afectar incluso a líderes maduros y bien intencionados, reforzando que la firmeza en el evangelio no depende de la reputación personal sino de la verdad objetiva.",
+        "en": "Shows that social conformity pressure can affect even mature, well-intentioned leaders, reinforcing that firmness in the gospel depends not on personal reputation but on objective truth.",
+        "pt": "Mostra que a pressão de conformidade social pode afetar até líderes maduros e bem-intencionados, reforçando que a firmeza no evangelho não depende da reputação pessoal, mas da verdade objetiva."
+      },
+      "tipo": {
+        "es": "No es tipo",
+        "en": "Not a type",
+        "pt": "Não é tipo"
+      },
+      "caracterMoral": {
+        "es": "Generalmente ejemplar (cf. Hch 4:36; 11:24), pero momentáneamente inconsistente bajo presión en este episodio",
+        "en": "Generally exemplary (cf. Acts 4:36; 11:24), yet momentarily inconsistent under pressure in this episode",
+        "pt": "Geralmente exemplar (cf. At 4:36; 11:24), mas momentaneamente inconsistente sob pressão neste episódio"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Compañero de Pablo en su visita a Jerusalén (Gá 2:1,9) que en Antioquía se dejó llevar por la hipocresía de Pedro y los demás judíos, absteniéndose de comer con los gentiles (Gá 2:13).",
+          "en": "Paul's companion on his visit to Jerusalem (Gal 2:1,9) who at Antioch was carried along by the hypocrisy of Peter and the other Jews, abstaining from eating with the Gentiles (Gal 2:13).",
+          "pt": "Companheiro de Paulo em sua visita a Jerusalém (Gl 2:1,9) que em Antioquia se deixou levar pela hipocrisia de Pedro e dos demais judeus, abstendo-se de comer com os gentios (Gl 2:13)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Gá 2:1",
+          "Gá 2:9",
+          "Gá 2:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Levita de Chipre (Hch 4:36), compañero fundacional de Pablo en el primer viaje misionero a Galacia (Hch 13–14), lo que explica su presencia central en este episodio.",
+          "en": "A Levite from Cyprus (Acts 4:36), Paul's foundational companion on the first missionary journey to Galatia (Acts 13–14), which explains his central presence in this episode.",
+          "pt": "Levita de Chipre (At 4:36), companheiro fundacional de Paulo na primeira viagem missionária à Galácia (At 13–14), o que explica sua presença central neste episódio."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto histórico del primer viaje misionero"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Coincide con el retrato de Hechos: compañero fiel de Pablo cuya posterior separación (Hch 15:39) no está relacionada con este incidente teológico sino con un desacuerdo sobre Juan Marcos.",
+          "en": "Consistent with Acts' portrait: a faithful companion of Paul whose later separation (Acts 15:39) is unrelated to this theological incident but to a disagreement over John Mark.",
+          "pt": "Coincide com o retrato de Atos: companheiro fiel de Paulo cuja posterior separação (At 15:39) não está relacionada a este incidente teológico, mas a um desacordo sobre João Marcos."
+        }
+      },
+      "versiculosAsociados": [
+        "Gá 2:1",
+        "Gá 2:9",
+        "Gá 2:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "1Co",
+        "Col"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Figura clave en Hechos como 'hijo de consolación' y compañero misionero de Pablo, cuya breve caída en Antioquía es la única mancha registrada en su ministerio.",
+        "en": "A key figure in Acts as 'son of encouragement' and Paul's missionary companion, whose brief lapse at Antioch is the only recorded blemish on his ministry.",
+        "pt": "Figura-chave em Atos como 'filho de consolação' e companheiro missionário de Paulo, cuja breve queda em Antioquia é a única mancha registrada em seu ministério."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Tito",
+        "en": "Titus",
+        "pt": "Tito"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "Compañero gentil de Pablo llevado a Jerusalén como caso de prueba viviente de que la circuncisión no es necesaria para la salvación.",
+        "en": "Paul's Gentile companion brought to Jerusalem as a living test case that circumcision is not necessary for salvation.",
+        "pt": "Companheiro gentio de Paulo levado a Jerusalém como caso de teste vivo de que a circuncisão não é necessária para a salvação."
+      },
+      "acciones": {
+        "es": "Acompaña a Pablo y Bernabé a Jerusalén (Gá 2:1); no es obligado a circuncidarse a pesar de ser griego, victoria decisiva contra los 'falsos hermanos' (Gá 2:3–5).",
+        "en": "Accompanies Paul and Barnabas to Jerusalem (Gal 2:1); is not compelled to be circumcised despite being Greek, a decisive victory against the 'false brothers' (Gal 2:3–5).",
+        "pt": "Acompanha Paulo e Barnabé a Jerusalém (Gl 2:1); não é obrigado a se circuncidar apesar de ser grego, vitória decisiva contra os 'falsos irmãos' (Gl 2:3–5)."
+      },
+      "significadoTeologico": {
+        "es": "Su caso demuestra en carne propia que la libertad del evangelio para los gentiles no fue una concesión posterior sino reconocida desde el principio por los apóstoles de Jerusalén.",
+        "en": "His case demonstrates in the flesh that gospel freedom for Gentiles was not a later concession but was recognized from the outset by the Jerusalem apostles.",
+        "pt": "Seu caso demonstra na própria carne que a liberdade do evangelho para os gentios não foi uma concessão posterior, mas reconhecida desde o início pelos apóstolos de Jerusalém."
+      },
+      "tipo": {
+        "es": "No es tipo",
+        "en": "Not a type",
+        "pt": "Não é tipo"
+      },
+      "caracterMoral": {
+        "es": "Fiel colaborador de Pablo, sin defectos registrados en este pasaje",
+        "en": "A faithful co-worker of Paul, with no recorded faults in this passage",
+        "pt": "Fiel colaborador de Paulo, sem defeitos registrados nesta passagem"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Griego incircunciso que acompañó a Pablo a Jerusalén y no fue obligado a circuncidarse, sirviendo como prueba concreta de que los gentiles no necesitan la ley mosaica para ser aceptados (Gá 2:1–3).",
+          "en": "An uncircumcised Greek who accompanied Paul to Jerusalem and was not compelled to be circumcised, serving as concrete proof that Gentiles do not need the Mosaic law to be accepted (Gal 2:1–3).",
+          "pt": "Grego incircunciso que acompanhou Paulo a Jerusalém e não foi obrigado a se circuncidar, servindo como prova concreta de que os gentios não precisam da lei mosaica para serem aceitos (Gl 2:1–3)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Gá 2:1",
+          "Gá 2:3"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Colaborador gentil de Pablo, destinatario posterior de la epístola a Tito, activo en Creta según esa carta (Tit 1:5).",
+          "en": "A Gentile co-worker of Paul, later recipient of the epistle to Titus, active in Crete according to that letter (Titus 1:5).",
+          "pt": "Colaborador gentio de Paulo, destinatário posterior da epístola a Tito, ativo em Creta segundo essa carta (Tt 1:5)."
+        },
+        "fuentes": [
+          {
+            "titulo": "Introduction to the New Testament",
+            "autor": "D.A. Carson & Douglas Moo",
+            "año": 2005,
+            "editorial": "Zondervan",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Biografía de colaboradores paulinos"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Consistente con su rol posterior de confianza como delegado apostólico de Pablo, evidente en 2 Corintios y Tito.",
+          "en": "Consistent with his later role as Paul's trusted apostolic delegate, evident in 2 Corinthians and Titus.",
+          "pt": "Consistente com seu papel posterior de confiança como delegado apostólico de Paulo, evidente em 2 Coríntios e Tito."
+        }
+      },
+      "versiculosAsociados": [
+        "Gá 2:1",
+        "Gá 2:3"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2Co",
+        "Tit",
+        "2Ti"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Destinatario de la epístola pastoral a Tito, delegado de confianza de Pablo en Creta y Corinto.",
+        "en": "Recipient of the pastoral epistle to Titus, Paul's trusted delegate in Crete and Corinth.",
+        "pt": "Destinatário da epístola pastoral a Tito, delegado de confiança de Paulo em Creta e Corinto."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Abraham",
+        "en": "Abraham",
+        "pt": "Abraão"
+      },
+      "hebreo": "אַבְרָהָם",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "Patriarca del AT usado por Pablo como el gran ejemplo veterotestamentario de justificación por fe, anterior e independiente de la ley mosaica.",
+        "en": "OT patriarch used by Paul as the great Old Testament example of justification by faith, prior to and independent of the Mosaic law.",
+        "pt": "Patriarca do AT usado por Paulo como o grande exemplo veterotestamentário de justificação pela fé, anterior e independente da lei mosaica."
+      },
+      "acciones": {
+        "es": "Creyó a Dios y le fue contado por justicia (Gá 3:6, citando Gn 15:6); recibió la promesa de que en él serían benditas todas las naciones (Gá 3:8); es padre de todos los que tienen fe, y su promesa fue hecha a él y a su 'simiente', que es Cristo (Gá 3:16).",
+        "en": "Believed God, and it was counted to him as righteousness (Gal 3:6, quoting Gen 15:6); received the promise that in him all nations would be blessed (Gal 3:8); is father of all who have faith, and the promise was made to him and his 'offspring,' who is Christ (Gal 3:16).",
+        "pt": "Creu em Deus, e isso lhe foi imputado como justiça (Gl 3:6, citando Gn 15:6); recebeu a promessa de que nele seriam abençoadas todas as nações (Gl 3:8); é pai de todos os que têm fé, e a promessa foi feita a ele e à sua 'semente', que é Cristo (Gl 3:16)."
+      },
+      "significadoTeologico": {
+        "es": "Demuestra que la justificación por fe antecede en cuatrocientos treinta años a la ley (Gá 3:17) y que, por lo tanto, la ley no puede anular la promesa; su fe lo convierte en padre espiritual de judíos y gentiles creyentes por igual.",
+        "en": "Demonstrates that justification by faith predates the law by four hundred thirty years (Gal 3:17) and therefore the law cannot annul the promise; his faith makes him the spiritual father of believing Jews and Gentiles alike.",
+        "pt": "Demonstra que a justificação pela fé antecede em quatrocentos e trinta anos a lei (Gl 3:17) e que, portanto, a lei não pode anular a promessa; sua fé o torna pai espiritual de judeus e gentios crentes igualmente."
+      },
+      "tipo": {
+        "es": "Tipo del creyente justificado por fe y padre espiritual de la iglesia universal (Gá 3:7,29)",
+        "en": "Type of the believer justified by faith and spiritual father of the universal church (Gal 3:7,29)",
+        "pt": "Tipo do crente justificado pela fé e pai espiritual da igreja universal (Gl 3:7,29)"
+      },
+      "caracterMoral": {
+        "es": "Presentado aquí exclusivamente como paradigma positivo de fe justificante, sin mención de sus fallas narradas en Génesis",
+        "en": "Presented here exclusively as a positive paradigm of justifying faith, with no mention of his failures narrated in Genesis",
+        "pt": "Apresentado aqui exclusivamente como paradigma positivo de fé justificante, sem menção de suas falhas narradas em Gênesis"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Citado como quien creyó a Dios y le fue contado por justicia (Gá 3:6), recibió la promesa evangélica anticipada (Gá 3:8) y es el punto de referencia para determinar quiénes son sus verdaderos hijos: los que son de fe (Gá 3:7).",
+          "en": "Cited as the one who believed God and it was counted to him as righteousness (Gal 3:6), received the gospel promise in advance (Gal 3:8), and is the reference point for determining who his true children are: those who are of faith (Gal 3:7).",
+          "pt": "Citado como aquele que creu em Deus e isso lhe foi imputado como justiça (Gl 3:6), recebeu a promessa evangélica antecipadamente (Gl 3:8) e é o ponto de referência para determinar quem são seus verdadeiros filhos: os que são da fé (Gl 3:7)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Gá 3:6",
+          "Gá 3:8",
+          "Gá 3:16",
+          "Gá 3:29"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Patriarca hebreo del segundo milenio a.C.; su figura histórica se trata en detalle en el registro de Génesis, y aquí Pablo la retoma con fines exclusivamente argumentativo-teológicos.",
+          "en": "Hebrew patriarch of the second millennium BC; his historical figure is treated in detail in the Genesis record, and here Paul takes it up for purely argumentative-theological purposes.",
+          "pt": "Patriarca hebreu do segundo milênio a.C.; sua figura histórica é tratada em detalhe no registro de Gênesis, e aqui Paulo a retoma com fins exclusivamente argumentativo-teológicos."
+        },
+        "fuentes": [
+          {
+            "titulo": "Biblical Theology",
+            "autor": "Geerhardus Vos",
+            "año": 1948,
+            "editorial": "Banner of Truth",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Tipología de Abraham"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "El uso paulino de Abraham en Gálatas 3 es coherente con Ro 4 y Stg 2:23, mostrando una lectura apostólica unificada de Gn 15:6.",
+          "en": "Paul's use of Abraham in Galatians 3 is consistent with Rom 4 and Jas 2:23, showing a unified apostolic reading of Gen 15:6.",
+          "pt": "O uso paulino de Abraão em Gálatas 3 é coerente com Rm 4 e Tg 2:23, mostrando uma leitura apostólica unificada de Gn 15:6."
+        }
+      },
+      "versiculosAsociados": [
+        "Gá 3:6-9",
+        "Gá 3:16",
+        "Gá 3:29",
+        "Gá 4:22"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Ro",
+        "He",
+        "Stg"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Paradigma central de la justificación por fe también en Romanos 4, Hebreos 11 y Santiago 2, mostrando la unidad del testimonio apostólico sobre su fe.",
+        "en": "A central paradigm of justification by faith also in Romans 4, Hebrews 11, and James 2, showing the unity of apostolic testimony about his faith.",
+        "pt": "Paradigma central da justificação pela fé também em Romanos 4, Hebreus 11 e Tiago 2, mostrando a unidade do testemunho apostólico sobre sua fé."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Justificación",
+        "en": "Justification",
+        "pt": "Justificação"
+      },
+      "resumen": {
+        "es": "Gálatas enseña que el hombre es justificado —declarado justo ante Dios— por fe en Jesucristo y no por las obras de la ley (Gá 2:16). Esta justicia no se gana por el cumplimiento de la ley mosaica, incluida la circuncisión, sino que se recibe por la fe, siguiendo el patrón ya establecido con Abraham (Gá 3:6).",
+        "en": "Galatians teaches that a person is justified —declared righteous before God— by faith in Jesus Christ and not by works of the law (Gal 2:16). This righteousness is not earned by keeping the Mosaic law, including circumcision, but is received by faith, following the pattern already established with Abraham (Gal 3:6).",
+        "pt": "Gálatas ensina que o homem é justificado —declarado justo diante de Deus— pela fé em Jesus Cristo e não pelas obras da lei (Gl 2:16). Essa justiça não é conquistada pelo cumprimento da lei mosaica, incluindo a circuncisão, mas é recebida pela fé, seguindo o padrão já estabelecido com Abraão (Gl 3:6)."
+      },
+      "pasajes": [
+        "Gá 2:16",
+        "Gá 2:21",
+        "Gá 3:6",
+        "Gá 3:11",
+        "Gá 3:24",
+        "Gá 5:4"
+      ],
+      "ensenanza": {
+        "es": "Nadie es justificado por obras de la ley sino por fe en Cristo · Si la justicia viniera por la ley, Cristo murió en vano · Abraham creyó y le fue contado por justicia · El justo por la fe vivirá · La ley fue nuestro aya para llevarnos a Cristo, para ser justificados por fe · Quien busca justificarse por la ley ha caído de la gracia",
+        "en": "No one is justified by works of the law but by faith in Christ · If righteousness were through the law, Christ died for no purpose · Abraham believed and it was counted to him as righteousness · The righteous shall live by faith · The law was our guardian to bring us to Christ, that we might be justified by faith · Whoever seeks to be justified by the law has fallen from grace",
+        "pt": "Ninguém é justificado pelas obras da lei, mas pela fé em Cristo · Se a justiça viesse pela lei, Cristo morreu em vão · Abraão creu e isso lhe foi imputado como justiça · O justo viverá pela fé · A lei foi nosso aio para nos levar a Cristo, para sermos justificados pela fé · Quem busca justificar-se pela lei decaiu da graça"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada ve en Gálatas la base exegética central, junto con Romanos, de la doctrina de la justificación forense —una declaración legal, no una infusión gradual de justicia— que la Reforma protestante recuperó frente al sistema sacramental-meritorio romano.",
+        "en": "The Reformed tradition sees in Galatians, together with Romans, the central exegetical basis for the doctrine of forensic justification —a legal declaration, not a gradual infusion of righteousness— which the Protestant Reformation recovered against the Roman sacramental-meritorious system.",
+        "pt": "A tradição reformada vê em Gálatas, junto com Romanos, a base exegética central da doutrina da justificação forense —uma declaração legal, não uma infusão gradual de justiça— que a Reforma protestante recuperou diante do sistema sacramental-meritório romano."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Ley",
+        "en": "Law",
+        "pt": "Lei"
+      },
+      "resumen": {
+        "es": "La ley mosaica cumplió un papel temporal y custodial —como un aya (paidagōgós)— que guarda y disciplina hasta la llegada de la fe en Cristo (Gá 3:19–25). No puede impartir vida ni justicia (Gá 3:21), pero tampoco es contraria a las promesas de Dios; su función pactual concluyó con la venida de la simiente prometida.",
+        "en": "The Mosaic law served a temporary, custodial role —as a guardian (paidagogos)— that keeps and disciplines until the arrival of faith in Christ (Gal 3:19–25). It cannot impart life or righteousness (Gal 3:21), yet it is not contrary to God's promises; its covenantal function concluded with the coming of the promised offspring.",
+        "pt": "A lei mosaica cumpriu um papel temporário e custodial —como um aio (paidagōgós)— que guarda e disciplina até a chegada da fé em Cristo (Gl 3:19–25). Ela não pode dar vida nem justiça (Gl 3:21), mas também não é contrária às promessas de Deus; sua função pactual terminou com a vinda da semente prometida."
+      },
+      "pasajes": [
+        "Gá 3:19",
+        "Gá 3:21",
+        "Gá 3:24-25",
+        "Gá 4:4-5",
+        "Gá 5:14"
+      ],
+      "ensenanza": {
+        "es": "La ley fue añadida por causa de las transgresiones hasta que viniera la simiente · La ley no es contraria a las promesas de Dios · La ley fue nuestro aya hasta que viniera Cristo, y ya no estamos bajo aya · Dios envió a su Hijo, nacido bajo la ley, para redimir a los que estaban bajo la ley · Toda la ley se cumple en una sola palabra: amarás a tu prójimo",
+        "en": "The law was added because of transgressions, until the offspring should come · The law is not contrary to the promises of God · The law was our guardian until Christ came, and we are no longer under a guardian · God sent his Son, born under the law, to redeem those under the law · The whole law is fulfilled in one word: you shall love your neighbor",
+        "pt": "A lei foi acrescentada por causa das transgressões, até que viesse a semente · A lei não é contrária às promessas de Deus · A lei foi nosso aio até que viesse Cristo, e já não estamos sob aio · Deus enviou seu Filho, nascido sob a lei, para remir os que estavam sob a lei · Toda a lei se cumpre numa só palavra: amarás o teu próximo"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada distingue en Gálatas el uso pedagógico y civil de la ley de su incapacidad para justificar, manteniendo —contra el antinomianismo— que la ley moral sigue siendo norma de vida para el creyente aun cuando ya no es medio de justificación (cf. Gá 5:14).",
+        "en": "Reformed theology distinguishes in Galatians the law's pedagogical and civil use from its inability to justify, maintaining —against antinomianism— that the moral law remains a rule of life for the believer even though it is no longer a means of justification (cf. Gal 5:14).",
+        "pt": "A teologia reformada distingue em Gálatas o uso pedagógico e civil da lei de sua incapacidade de justificar, mantendo —contra o antinomianismo— que a lei moral permanece norma de vida para o crente ainda que já não seja meio de justificação (cf. Gl 5:14)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "Gálatas 3–4 traza la continuidad e implicaciones del pacto abrahánico de promesa frente al pacto mosaico de ley, argumentando que la promesa a Abraham precede y no es anulada por la ley dada 430 años después (Gá 3:17), y que el pacto nuevo en Cristo cumple e incorpora a judíos y gentiles como un solo pueblo de la promesa.",
+        "en": "Galatians 3–4 traces the continuity and implications of the Abrahamic covenant of promise against the Mosaic covenant of law, arguing that the promise to Abraham precedes and is not annulled by the law given 430 years later (Gal 3:17), and that the new covenant in Christ fulfills and incorporates Jews and Gentiles as one people of the promise.",
+        "pt": "Gálatas 3–4 traça a continuidade e as implicações do pacto abraâmico de promessa diante do pacto mosaico de lei, argumentando que a promessa a Abraão precede e não é anulada pela lei dada 430 anos depois (Gl 3:17), e que o novo pacto em Cristo cumpre e incorpora judeus e gentios como um só povo da promessa."
+      },
+      "pasajes": [
+        "Gá 3:15",
+        "Gá 3:17",
+        "Gá 3:29",
+        "Gá 4:24-26"
+      ],
+      "ensenanza": {
+        "es": "Un pacto ratificado no puede ser anulado ni se le añaden condiciones · La ley, venida 430 años después, no invalida el pacto anterior de Dios con Abraham · Los que son de Cristo son simiente de Abraham y herederos según la promesa · Agar y Sara representan dos pactos: uno de esclavitud desde el Sinaí y otro de libertad, la Jerusalén de arriba",
+        "en": "Once a covenant is ratified, no one adds to it or annuls it · The law, coming 430 years later, does not invalidate God's prior covenant with Abraham · Those who belong to Christ are Abraham's offspring and heirs according to the promise · Hagar and Sarah represent two covenants: one of slavery from Sinai, and one of freedom, the Jerusalem above",
+        "pt": "Um pacto já ratificado ninguém pode anular nem lhe acrescentar condições · A lei, vinda 430 anos depois, não invalida o pacto anterior de Deus com Abraão · Os que são de Cristo são semente de Abraão e herdeiros segundo a promessa · Agar e Sara representam dois pactos: um de escravidão desde o Sinai e outro de liberdade, a Jerusalém de cima"
+      },
+      "distintivaReformada": {
+        "es": "La teología pactual reformada lee Gálatas 3–4 como prueba bíblica directa de la unidad del pacto de gracia a través de las edades: la ley mosaica es una administración temporal dentro del mismo pacto de promesa que culmina en Cristo, no un pacto rival de obras para la salvación.",
+        "en": "Reformed covenant theology reads Galatians 3–4 as direct biblical proof of the unity of the covenant of grace across the ages: the Mosaic law is a temporary administration within the same covenant of promise that culminates in Christ, not a rival covenant of works for salvation.",
+        "pt": "A teologia pactual reformada lê Gálatas 3–4 como prova bíblica direta da unidade do pacto da graça através das eras: a lei mosaica é uma administração temporária dentro do mesmo pacto de promessa que culmina em Cristo, não um pacto rival de obras para a salvação."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pneumatología",
+        "en": "Pneumatology",
+        "pt": "Pneumatologia"
+      },
+      "resumen": {
+        "es": "El Espíritu Santo es recibido por fe y no por obras de la ley (Gá 3:2–5), habita en el corazón del creyente clamando 'Abba, Padre' (Gá 4:6), y produce una vida de santificación —el fruto del Espíritu— que se opone a las obras de la carne (Gá 5:16–25), siendo la evidencia práctica de la libertad cristiana.",
+        "en": "The Holy Spirit is received by faith and not by works of the law (Gal 3:2–5), indwells the believer's heart crying 'Abba, Father' (Gal 4:6), and produces a life of sanctification —the fruit of the Spirit— that stands opposed to the works of the flesh (Gal 5:16–25), serving as the practical evidence of Christian freedom.",
+        "pt": "O Espírito Santo é recebido pela fé e não pelas obras da lei (Gl 3:2–5), habita no coração do crente clamando 'Aba, Pai' (Gl 4:6), e produz uma vida de santificação —o fruto do Espírito— que se opõe às obras da carne (Gl 5:16–25), sendo a evidência prática da liberdade cristã."
+      },
+      "pasajes": [
+        "Gá 3:2-3",
+        "Gá 4:6",
+        "Gá 5:16",
+        "Gá 5:22-23",
+        "Gá 5:25"
+      ],
+      "ensenanza": {
+        "es": "El Espíritu se recibió por el oír con fe, no por las obras de la ley · Dios envió el Espíritu de su Hijo a nuestros corazones, que clama Abba, Padre · Andad por el Espíritu y no satisfaréis los deseos de la carne · El fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, dominio propio · Si vivimos por el Espíritu, andemos también por el Espíritu",
+        "en": "Did you receive the Spirit by hearing with faith, or by works of the law? · God has sent the Spirit of his Son into our hearts, crying, Abba, Father · Walk by the Spirit, and you will not gratify the desires of the flesh · The fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control · If we live by the Spirit, let us also keep in step with the Spirit",
+        "pt": "Recebestes o Espírito pelas obras da lei ou pelo ouvir com fé? · Deus enviou o Espírito de seu Filho aos nossos corações, que clama Aba, Pai · Andai em Espírito e não satisfareis a concupiscência da carne · O fruto do Espírito é amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, domínio próprio · Se vivemos pelo Espírito, andemos também pelo Espírito"
+      },
+      "distintivaReformada": {
+        "es": "El énfasis reformado subraya que el fruto del Espíritu en Gálatas 5 no contradice la justificación por fe sola, sino que es su consecuencia necesaria: la santificación es obra del mismo Espíritu que justifica, evidencia y no causa de la unión con Cristo.",
+        "en": "The Reformed emphasis underscores that the fruit of the Spirit in Galatians 5 does not contradict justification by faith alone but is its necessary consequence: sanctification is the work of the same Spirit who justifies, evidence rather than cause of union with Christ.",
+        "pt": "A ênfase reformada sublinha que o fruto do Espírito em Gálatas 5 não contradiz a justificação somente pela fé, mas é sua consequência necessária: a santificação é obra do mesmo Espírito que justifica, evidência e não causa da união com Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "Gálatas afirma que en Cristo la identidad étnica y social deja de ser el criterio de pertenencia al pueblo de Dios: ya no hay judío ni griego, esclavo ni libre, varón ni mujer, pues todos son uno en Cristo Jesús (Gá 3:28), formando el 'Israel de Dios' compuesto por judíos y gentiles unidos por la fe (Gá 6:16).",
+        "en": "Galatians affirms that in Christ ethnic and social identity ceases to be the criterion for belonging to the people of God: there is neither Jew nor Greek, slave nor free, male nor female, for all are one in Christ Jesus (Gal 3:28), forming the 'Israel of God' composed of Jews and Gentiles united by faith (Gal 6:16).",
+        "pt": "Gálatas afirma que em Cristo a identidade étnica e social deixa de ser o critério de pertencimento ao povo de Deus: já não há judeu nem grego, escravo nem livre, homem nem mulher, pois todos são um em Cristo Jesus (Gl 3:28), formando o 'Israel de Deus' composto por judeus e gentios unidos pela fé (Gl 6:16)."
+      },
+      "pasajes": [
+        "Gá 2:11-14",
+        "Gá 3:28",
+        "Gá 6:10",
+        "Gá 6:16"
+      ],
+      "ensenanza": {
+        "es": "Pedro se equivocó al separarse socialmente de los gentiles, negando de hecho la unidad del evangelio · Ya no hay distinción de judío o griego, esclavo o libre, varón o mujer; todos son uno en Cristo · Hagamos bien a todos, y especialmente a los de la familia de la fe · Paz y misericordia sean sobre el Israel de Dios",
+        "en": "Peter erred by socially separating from the Gentiles, in effect denying the unity of the gospel · There is no longer Jew or Greek, slave or free, male or female; all are one in Christ · Let us do good to everyone, and especially to those of the household of faith · Peace and mercy be upon the Israel of God",
+        "pt": "Pedro errou ao se separar socialmente dos gentios, negando de fato a unidade do evangelho · Já não há judeu nem grego, escravo nem livre, homem nem mulher; todos são um em Cristo · Façamos o bem a todos, e principalmente aos domésticos da fé · Paz e misericórdia sobre o Israel de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada entiende 'el Israel de Dios' (Gá 6:16) como la iglesia compuesta de judíos y gentiles creyentes, consistente con la continuidad del pueblo del pacto a través de las edades, en contraste con lecturas dispensacionalistas que separan a Israel étnico de la iglesia.",
+        "en": "The Reformed tradition understands 'the Israel of God' (Gal 6:16) as the church composed of believing Jews and Gentiles, consistent with the continuity of the covenant people across the ages, in contrast to dispensationalist readings that separate ethnic Israel from the church.",
+        "pt": "A tradição reformada entende 'o Israel de Deus' (Gl 6:16) como a igreja composta de judeus e gentios crentes, consistente com a continuidade do povo do pacto através das eras, em contraste com leituras dispensacionalistas que separam Israel étnico da igreja."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Justificación",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La WCF enseña que Dios justifica efectivamente a los que llama, no infundiendo justicia en ellos sino perdonando sus pecados y contando y aceptando sus personas como justas, únicamente por la obediencia y satisfacción de Cristo imputada, recibida solo por fe. Gálatas 2:16 y 3:11 son textos de prueba directos de esta doctrina.",
+        "en": "The WCF teaches that God effectually justifies those he calls, not by infusing righteousness into them but by pardoning their sins and accounting and accepting their persons as righteous, only for Christ's imputed obedience and satisfaction, received by faith alone. Galatians 2:16 and 3:11 are direct proof texts for this doctrine.",
+        "pt": "A CFW ensina que Deus justifica eficazmente os que chama, não infundindo justiça neles, mas perdoando seus pecados e considerando e aceitando suas pessoas como justas, unicamente pela obediência e satisfação de Cristo imputada, recebida somente pela fé. Gálatas 2:16 e 3:11 são textos de prova diretos dessa doutrina."
+      },
+      "genesis": [
+        "Gá 2:16",
+        "Gá 3:11",
+        "Gá 3:24"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    },
+    {
+      "cap": "Cap. 19",
+      "titulo": {
+        "es": "De la Ley de Dios",
+        "en": "Of the Law of God",
+        "pt": "Da Lei de Deus"
+      },
+      "doctrinas": [
+        "Ley",
+        "Pacto"
+      ],
+      "resumen": {
+        "es": "La WCF distingue los usos moral, ceremonial y civil de la ley mosaica, afirmando que las leyes ceremoniales han expirado bajo el Nuevo Testamento pero que la ley moral obliga perpetuamente. Gálatas 3:19–25 y 4:4–5 son la base exegética central de esta distinción entre el papel temporal-custodial de la ley y su continuidad moral.",
+        "en": "The WCF distinguishes the moral, ceremonial, and civil uses of the Mosaic law, affirming that the ceremonial laws have expired under the New Testament but that the moral law binds perpetually. Galatians 3:19–25 and 4:4–5 are the central exegetical basis for this distinction between the law's temporary-custodial role and its moral continuity.",
+        "pt": "A CFW distingue os usos moral, cerimonial e civil da lei mosaica, afirmando que as leis cerimoniais expiraram sob o Novo Testamento, mas que a lei moral obriga perpetuamente. Gálatas 3:19–25 e 4:4–5 são a base exegética central dessa distinção entre o papel temporário-custodial da lei e sua continuidade moral."
+      },
+      "genesis": [
+        "Gá 3:19",
+        "Gá 3:24-25",
+        "Gá 4:4-5"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-19"
+    },
+    {
+      "cap": "Cap. 20",
+      "titulo": {
+        "es": "De la Libertad Cristiana y Libertad de Conciencia",
+        "en": "Of Christian Liberty, and Liberty of Conscience",
+        "pt": "Da Liberdade Cristã e da Liberdade de Consciência"
+      },
+      "doctrinas": [
+        "Soteriología",
+        "Eclesiología"
+      ],
+      "resumen": {
+        "es": "La WCF describe la libertad cristiana como liberación de la culpa del pecado, la ira condenatoria de Dios y la maldición de la ley moral, así como del yugo de la ley ceremonial, con libre acceso a Dios. Gálatas 5:1 —'Estad, pues, firmes en la libertad con que Cristo nos hizo libres'— es el texto de prueba paradigmático de este capítulo.",
+        "en": "The WCF describes Christian liberty as freedom from the guilt of sin, the condemning wrath of God, and the curse of the moral law, as well as from the yoke of the ceremonial law, with free access to God. Galatians 5:1 —'For freedom Christ has set us free; stand firm therefore'— is the paradigmatic proof text of this chapter.",
+        "pt": "A CFW descreve a liberdade cristã como libertação da culpa do pecado, da ira condenatória de Deus e da maldição da lei moral, bem como do jugo da lei cerimonial, com livre acesso a Deus. Gálatas 5:1 —'Estai, pois, firmes na liberdade com que Cristo nos libertou'— é o texto de prova paradigmático deste capítulo."
+      },
+      "genesis": [
+        "Gá 5:1",
+        "Gá 5:13"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-20"
+    },
+    {
+      "cap": "Cap. 7",
+      "titulo": {
+        "es": "Del Pacto de Dios con el Hombre",
+        "en": "Of God's Covenant with Man",
+        "pt": "Do Pacto de Deus com o Homem"
+      },
+      "doctrinas": [
+        "Pacto"
+      ],
+      "resumen": {
+        "es": "La WCF sostiene que hay un solo pacto de gracia administrado de diversas maneras a través de las edades, tesis que Gálatas 3:15–29 confirma al mostrar que el pacto con Abraham no fue anulado por la ley posterior sino cumplido en Cristo, la simiente prometida, incluyendo ahora a judíos y gentiles bajo la misma promesa.",
+        "en": "The WCF holds that there is but one covenant of grace administered differently through the ages, a thesis Galatians 3:15–29 confirms by showing that the covenant with Abraham was not annulled by the later law but fulfilled in Christ, the promised offspring, now including Jews and Gentiles under the same promise.",
+        "pt": "A CFW sustenta que há um único pacto da graça administrado de diversas maneiras através das eras, tese que Gálatas 3:15–29 confirma ao mostrar que o pacto com Abraão não foi anulado pela lei posterior, mas cumprido em Cristo, a semente prometida, incluindo agora judeus e gentios sob a mesma promessa."
+      },
+      "genesis": [
+        "Gá 3:16",
+        "Gá 3:17",
+        "Gá 3:29"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-7"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Gá 2:16",
+      "es": "sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe en Cristo Jesús, nosotros también hemos creído en Cristo Jesús, para ser justificados por la fe en Cristo, y no por las obras de la ley, ya que por las obras de la ley nadie será justificado.",
+      "en": "yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.",
+      "pt": "sabendo que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo, cremos também nós em Jesus Cristo, para sermos justificados pela fé de Cristo, e não pelas obras da lei; porquanto pelas obras da lei nenhuma carne será justificada.",
+      "nota": {
+        "es": "El versículo programático de toda la epístola y una de las declaraciones más claras del NT sobre la justificación forense: la fe en Cristo, no el cumplimiento de la ley, es el instrumento por el cual el pecador es declarado justo ante Dios.",
+        "en": "The programmatic verse of the entire epistle and one of the clearest NT statements on forensic justification: faith in Christ, not law-keeping, is the instrument by which the sinner is declared righteous before God.",
+        "pt": "O versículo programático de toda a epístola e uma das declarações mais claras do NT sobre a justificação forense: a fé em Cristo, não o cumprimento da lei, é o instrumento pelo qual o pecador é declarado justo diante de Deus."
+      }
+    },
+    {
+      "ref": "Gá 2:20",
+      "es": "Con Cristo he sido crucificado, y ya no vivo yo, sino que Cristo vive en mí; y la vida que ahora vivo en la carne, la vivo por fe en el Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.",
+      "en": "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.",
+      "pt": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a na fé do Filho de Deus, o qual me amou, e se entregou a si mesmo por mim.",
+      "nota": {
+        "es": "Expresa la unión mística del creyente con Cristo en su muerte y resurrección, fundamento existencial de la justificación: la nueva identidad del cristiano ya no se define por la ley sino por la vida de Cristo en él, vivida por fe.",
+        "en": "Expresses the believer's mystical union with Christ in his death and resurrection, the existential foundation of justification: the Christian's new identity is no longer defined by the law but by the life of Christ in him, lived by faith.",
+        "pt": "Expressa a união mística do crente com Cristo em sua morte e ressurreição, fundamento existencial da justificação: a nova identidade do cristão já não se define pela lei, mas pela vida de Cristo nele, vivida pela fé."
+      }
+    },
+    {
+      "ref": "Gá 3:13",
+      "es": "Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros (porque escrito está: MALDITO TODO EL QUE ES COLGADO EN UN MADERO),",
+      "en": "Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, 'Cursed is everyone who is hanged on a tree'—",
+      "pt": "Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro,",
+      "nota": {
+        "es": "Articula la doctrina de la sustitución penal: Cristo carga sobre sí la maldición que la ley pronunciaba sobre los transgresores (Dt 21:23), redimiendo a su pueblo mediante un intercambio judicial en la cruz.",
+        "en": "Articulates the doctrine of penal substitution: Christ bears upon himself the curse the law pronounced on transgressors (Deut 21:23), redeeming his people through a judicial exchange at the cross.",
+        "pt": "Articula a doutrina da substituição penal: Cristo carrega sobre si a maldição que a lei pronunciava sobre os transgressores (Dt 21:23), remindo o seu povo mediante uma troca judicial na cruz."
+      }
+    },
+    {
+      "ref": "Gá 3:28",
+      "es": "No hay judío ni griego; no hay esclavo ni libre; no hay hombre ni mujer, porque todos vosotros sois uno en Cristo Jesús.",
+      "en": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus.",
+      "pt": "Nisto não há judeu nem grego; não há servo nem livre; não há macho nem fêmea; porque todos vós sois um em Cristo Jesus.",
+      "nota": {
+        "es": "No abole las distinciones creacionales u ordenanzas sociales como tales, sino que declara la igualdad radical de estatus espiritual y de acceso a la promesa de todos los que están en Cristo, sin importar etnia, clase social o género.",
+        "en": "This does not abolish creational distinctions or social ordinances as such, but declares the radical equality of spiritual status and access to the promise for all who are in Christ, regardless of ethnicity, social class, or gender.",
+        "pt": "Não abole as distinções criacionais ou ordenanças sociais como tais, mas declara a igualdade radical de status espiritual e de acesso à promessa de todos os que estão em Cristo, independentemente de etnia, classe social ou gênero."
+      }
+    },
+    {
+      "ref": "Gá 5:1",
+      "es": "Para libertad fue que Cristo nos hizo libres; estad, pues, firmes, y no estéis otra vez sujetos al yugo de esclavitud.",
+      "en": "For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.",
+      "pt": "Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da escravidão.",
+      "nota": {
+        "es": "Resume el propósito práctico de la carta: la libertad ganada por Cristo debe defenderse activamente frente a cualquier sistema —legalista o de otro tipo— que reintroduzca la esclavitud espiritual bajo la ley.",
+        "en": "Summarizes the letter's practical purpose: the freedom won by Christ must be actively defended against any system —legalistic or otherwise— that reintroduces spiritual slavery under the law.",
+        "pt": "Resume o propósito prático da carta: a liberdade conquistada por Cristo deve ser ativamente defendida diante de qualquer sistema —legalista ou de outro tipo— que reintroduza a escravidão espiritual sob a lei."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "Gálatas es, junto con Romanos, el texto bisagra de la Reforma protestante: Lutero escribió su comentario más extenso y apasionado sobre esta epístola, llamándola 'mi Catalina de Bora' por su cercanía personal a ella en la batalla contra la justificación por obras. La tradición reformada lee la carta como prueba de que la justificación forense por fe sola (sola fide) es incompatible con cualquier añadido meritorio —sea la circuncisión del s. I o las obras de penitencia medievales— y como el fundamento bíblico de la distinción entre ley y evangelio, sin caer en el antinomianismo gracias al llamado paralelo a la vida en el Espíritu (Gá 5:16–25).",
+    "en": "Galatians is, together with Romans, the hinge text of the Protestant Reformation: Luther wrote his longest and most impassioned commentary on this epistle, calling it 'my Katie von Bora' for how personally close it was to him in the battle against justification by works. The Reformed tradition reads the letter as proof that forensic justification by faith alone (sola fide) is incompatible with any meritorious addition —whether first-century circumcision or medieval works of penance— and as the biblical foundation for the law-gospel distinction, without lapsing into antinomianism thanks to the parallel call to life in the Spirit (Gal 5:16–25).",
+    "pt": "Gálatas é, junto com Romanos, o texto-dobradiça da Reforma protestante: Lutero escreveu seu comentário mais extenso e apaixonado sobre esta epístola, chamando-a de 'minha Catarina de Bora' pela proximidade pessoal que tinha com ela na batalha contra a justificação pelas obras. A tradição reformada lê a carta como prova de que a justificação forense somente pela fé (sola fide) é incompatível com qualquer acréscimo meritório —seja a circuncisão do século I ou as obras de penitência medievais— e como o fundamento bíblico da distinção entre lei e evangelho, sem cair no antinomianismo graças ao chamado paralelo à vida no Espírito (Gl 5:16–25)."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Saludo y advertencia contra otro evangelio",
+        "en": "Greeting and warning against another gospel",
+        "pt": "Saudação e advertência contra outro evangelho"
+      },
+      "descripcion": {
+        "es": "Pablo abre la carta sin la acostumbrada acción de gracias, pasando directamente a expresar asombro por la rapidez con que los gálatas se apartan hacia 'otro evangelio' que en realidad no es evangelio (Gá 1:6–7), pronunciando un doble anatema sobre cualquiera, incluso un ángel, que predique algo distinto (Gá 1:8–9). Defiende que su evangelio no es de origen humano sino que le fue revelado por Jesucristo mismo (Gá 1:11–12), narrando su vida previa como perseguidor (Gá 1:13–14), su llamado por gracia desde el vientre de su madre (Gá 1:15) y su retiro a Arabia sin consultar a los apóstoles de Jerusalén (Gá 1:16–17), subrayando la independencia divina de su comisión apostólica dentro del único pacto de gracia.",
+        "en": "Paul opens the letter without the customary thanksgiving, moving directly to express astonishment at how quickly the Galatians are deserting for 'a different gospel,' which is really no gospel at all (Gal 1:6–7), pronouncing a double anathema on anyone, even an angel, who preaches otherwise (Gal 1:8–9). He defends that his gospel is not of human origin but was revealed to him by Jesus Christ himself (Gal 1:11–12), recounting his former life as a persecutor (Gal 1:13–14), his call by grace from his mother's womb (Gal 1:15), and his withdrawal to Arabia without consulting the Jerusalem apostles (Gal 1:16–17), underscoring the divine independence of his apostolic commission within the one covenant of grace.",
+        "pt": "Paulo abre a carta sem a costumeira ação de graças, passando diretamente a expressar espanto pela rapidez com que os gálatas se desviam para 'outro evangelho', que na realidade não é evangelho (Gl 1:6–7), pronunciando um duplo anátema sobre qualquer um, mesmo um anjo, que pregue algo diferente (Gl 1:8–9). Defende que seu evangelho não é de origem humana, mas lhe foi revelado pelo próprio Jesus Cristo (Gl 1:11–12), narrando sua vida anterior como perseguidor (Gl 1:13–14), seu chamado pela graça desde o ventre de sua mãe (Gl 1:15) e seu retiro à Arábia sem consultar os apóstolos de Jerusalém (Gl 1:16–17), sublinhando a independência divina de sua comissão apostólica dentro do único pacto da graça."
+      },
+      "eventoClave": {
+        "es": "El doble anatema sobre cualquiera que predique 'otro evangelio' (Gá 1:8–9) establece desde el inicio que la pureza del evangelio de gracia no admite componendas, ni siquiera por autoridad angélica.",
+        "en": "The double anathema on anyone preaching 'a different gospel' (Gal 1:8–9) establishes from the outset that the purity of the gospel of grace admits no compromise, not even from angelic authority.",
+        "pt": "O duplo anátema sobre quem pregar 'outro evangelho' (Gl 1:8–9) estabelece desde o início que a pureza do evangelho da graça não admite componendas, nem mesmo por autoridade angélica."
+      },
+      "versiculoClave": "Gá 1:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2Co 11:4",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo advierte de forma similar a los corintios sobre la tolerancia hacia 'otro Jesús' u 'otro evangelio'.",
+            "en": "Paul similarly warns the Corinthians about tolerating 'another Jesus' or 'a different gospel'.",
+            "pt": "Paulo adverte de forma semelhante os coríntios sobre a tolerância a 'outro Jesus' ou 'outro evangelho'."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "Pablo describe su apostolado como llamado por gracia desde el vientre de su madre (Gá 1:15), fundamento de su autoridad independiente de reconocimiento humano.",
+            "en": "Paul describes his apostleship as called by grace from his mother's womb (Gal 1:15), the foundation of his authority independent of human recognition.",
+            "pt": "Paulo descreve seu apostolado como chamado pela graça desde o ventre de sua mãe (Gl 1:15), fundamento de sua autoridade independente de reconhecimento humano."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "Pablo insiste en que el evangelio que predica no es enseñanza humana sino revelación directa de Jesucristo (Gá 1:11–12), garantizando su autoridad e inmutabilidad.",
+              "en": "Paul insists that the gospel he preaches is not human teaching but a direct revelation of Jesus Christ (Gal 1:11–12), guaranteeing its authority and unchangeableness.",
+              "pt": "Paulo insiste que o evangelho que prega não é ensino humano, mas revelação direta de Jesus Cristo (Gl 1:11–12), garantindo sua autoridade e imutabilidade."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Reconocimiento apostólico y confrontación con Pedro",
+        "en": "Apostolic recognition and confrontation with Peter",
+        "pt": "Reconhecimento apostólico e confronto com Pedro"
+      },
+      "descripcion": {
+        "es": "Catorce años después, Pablo sube nuevamente a Jerusalén con Bernabé y Tito, exponiendo en privado su evangelio a los de reputación para asegurar que no corría en vano (Gá 2:1–2); Tito, siendo griego, no es obligado a circuncidarse, victoria decisiva frente a los 'falsos hermanos' que se habían infiltrado (Gá 2:3–5). Jacobo, Pedro y Juan reconocen la gracia dada a Pablo y le extienden la diestra de compañerismo para el ministerio a los gentiles (Gá 2:7–9). El capítulo culmina con la confrontación pública a Pedro en Antioquía por su hipocresía al separarse de los gentiles (Gá 2:11–14), que Pablo usa para formular la tesis central de la carta: el hombre es justificado por fe en Cristo y no por obras de la ley (Gá 2:16), pues 'con Cristo he sido crucificado' (Gá 2:20).",
+        "en": "Fourteen years later, Paul goes up again to Jerusalem with Barnabas and Titus, privately laying out his gospel to those of repute to make sure he was not running in vain (Gal 2:1–2); Titus, being Greek, is not compelled to be circumcised, a decisive victory against the 'false brothers' who had infiltrated (Gal 2:3–5). James, Peter, and John recognize the grace given to Paul and extend the right hand of fellowship for his ministry to the Gentiles (Gal 2:7–9). The chapter culminates in the public confrontation of Peter at Antioch for his hypocrisy in withdrawing from the Gentiles (Gal 2:11–14), which Paul uses to state the letter's central thesis: a person is justified by faith in Christ and not by works of the law (Gal 2:16), for 'I have been crucified with Christ' (Gal 2:20).",
+        "pt": "Catorze anos depois, Paulo sobe novamente a Jerusalém com Barnabé e Tito, expondo em particular seu evangelho aos de reputação para se certificar de que não corria em vão (Gl 2:1–2); Tito, sendo grego, não é obrigado a se circuncidar, vitória decisiva diante dos 'falsos irmãos' que haviam se infiltrado (Gl 2:3–5). Tiago, Pedro e João reconhecem a graça dada a Paulo e lhe estendem a destra de comunhão para o ministério aos gentios (Gl 2:7–9). O capítulo culmina no confronto público a Pedro em Antioquia por sua hipocrisia ao se separar dos gentios (Gl 2:11–14), que Paulo usa para formular a tese central da carta: o homem é justificado pela fé em Cristo e não pelas obras da lei (Gl 2:16), pois 'já estou crucificado com Cristo' (Gl 2:20)."
+      },
+      "eventoClave": {
+        "es": "La reprensión pública de Pablo a Pedro en Antioquía (Gá 2:11–14) es el catalizador narrativo de toda la carta y el escenario donde se formula la doctrina de la justificación por fe (Gá 2:16).",
+        "en": "Paul's public rebuke of Peter at Antioch (Gal 2:11–14) is the narrative catalyst for the entire letter and the setting where the doctrine of justification by faith is formulated (Gal 2:16).",
+        "pt": "A repreensão pública de Paulo a Pedro em Antioquia (Gl 2:11–14) é o catalisador narrativo de toda a carta e o cenário onde se formula a doutrina da justificação pela fé (Gl 2:16)."
+      },
+      "versiculoClave": "Gá 2:16",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 15:1-2",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El mismo conflicto sobre la circuncisión de los gentiles que Hechos narra en el Concilio de Jerusalén.",
+            "en": "The same conflict over Gentile circumcision that Acts narrates at the Jerusalem Council.",
+            "pt": "O mesmo conflito sobre a circuncisão dos gentios que Atos narra no Concílio de Jerusalém."
+          }
+        },
+        {
+          "ref": "Ro 3:28",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Formulación paralela de la justificación por fe aparte de las obras de la ley.",
+            "en": "Parallel formulation of justification by faith apart from works of the law.",
+            "pt": "Formulação paralela da justificação pela fé à parte das obras da lei."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Justificación": {
+            "es": "Pablo formula aquí su tesis nuclear: 'el hombre no es justificado por las obras de la ley, sino por la fe en Cristo Jesús' (Gá 2:16), respuesta directa a la hipocresía de Pedro.",
+            "en": "Paul formulates here his core thesis: 'a person is not justified by works of the law but through faith in Jesus Christ' (Gal 2:16), a direct response to Peter's hypocrisy.",
+            "pt": "Paulo formula aqui sua tese nuclear: 'o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo' (Gl 2:16), resposta direta à hipocrisia de Pedro."
+          }
+        },
+        "secundarios": [
+          {
+            "Israel/Iglesia": {
+              "es": "El retraimiento de Pedro de la mesa común con los gentiles (Gá 2:12) amenaza la unidad de judíos y gentiles como un solo pueblo de Dios en Cristo.",
+              "en": "Peter's withdrawal from the common table with Gentiles (Gal 2:12) threatens the unity of Jews and Gentiles as one people of God in Christ.",
+              "pt": "O afastamento de Pedro da mesa comum com os gentios (Gl 2:12) ameaça a unidade de judeus e gentios como um só povo de Deus em Cristo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Fe, Abraham y la maldición de la ley",
+        "en": "Faith, Abraham, and the curse of the law",
+        "pt": "Fé, Abraão e a maldição da lei"
+      },
+      "descripcion": {
+        "es": "Pablo reprende a los 'gálatas insensatos' fascinados por hechiceros, preguntando si recibieron el Espíritu por obras de la ley o por el oír con fe (Gá 3:1–5), y apela a Abraham, quien creyó a Dios y le fue contado por justicia (Gá 3:6), haciendo de él padre de todos los que son de fe (Gá 3:7–9). Explica que Cristo nos redimió de la maldición de la ley haciéndose maldición por nosotros (Gá 3:13), y que la promesa hecha a Abraham y a su simiente —que es Cristo— no puede ser anulada por la ley venida 430 años después (Gá 3:16–17). La ley funcionó como aya hasta la venida de la fe (Gá 3:24–25), y ahora todos los bautizados en Cristo, sin distinción de judío, griego, esclavo, libre, varón o mujer, son uno en él y herederos según la promesa (Gá 3:26–29).",
+        "en": "Paul rebukes the 'foolish Galatians' bewitched by sorcerers, asking whether they received the Spirit by works of the law or by hearing with faith (Gal 3:1–5), and appeals to Abraham, who believed God and it was counted to him as righteousness (Gal 3:6), making him father of all who are of faith (Gal 3:7–9). He explains that Christ redeemed us from the curse of the law by becoming a curse for us (Gal 3:13), and that the promise made to Abraham and his offspring—who is Christ—cannot be annulled by the law that came 430 years later (Gal 3:16–17). The law functioned as a guardian until faith came (Gal 3:24–25), and now all who are baptized into Christ, without distinction of Jew, Greek, slave, free, male or female, are one in him and heirs according to the promise (Gal 3:26–29).",
+        "pt": "Paulo repreende os 'gálatas insensatos' enfeitiçados por feiticeiros, perguntando se receberam o Espírito pelas obras da lei ou pelo ouvir com fé (Gl 3:1–5), e apela a Abraão, que creu em Deus e isso lhe foi imputado como justiça (Gl 3:6), fazendo dele pai de todos os que são da fé (Gl 3:7–9). Explica que Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós (Gl 3:13), e que a promessa feita a Abraão e à sua semente —que é Cristo— não pode ser anulada pela lei vinda 430 anos depois (Gl 3:16–17). A lei funcionou como aio até a vinda da fé (Gl 3:24–25), e agora todos os batizados em Cristo, sem distinção de judeu, grego, escravo, livre, homem ou mulher, são um nele e herdeiros segundo a promessa (Gl 3:26–29)."
+      },
+      "eventoClave": {
+        "es": "Cristo se hace maldición por nosotros para redimirnos de la maldición de la ley (Gá 3:13), el eje sustitutorio que hace posible que la bendición de Abraham llegue a los gentiles.",
+        "en": "Christ becomes a curse for us to redeem us from the law's curse (Gal 3:13), the substitutionary hinge that makes it possible for Abraham's blessing to reach the Gentiles.",
+        "pt": "Cristo se faz maldição por nós para nos remir da maldição da lei (Gl 3:13), o eixo substitutivo que torna possível que a bênção de Abraão chegue aos gentios."
+      },
+      "versiculoClave": "Gá 3:13",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 15:6",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita directamente el relato de Génesis sobre la fe justificante de Abraham.",
+            "en": "Paul directly quotes the Genesis account of Abraham's justifying faith.",
+            "pt": "Paulo cita diretamente o relato de Gênesis sobre a fé justificante de Abraão."
+          }
+        },
+        {
+          "ref": "Ro 4:3",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Mismo argumento sobre Abraham desarrollado con mayor extensión en Romanos.",
+            "en": "The same argument about Abraham developed at greater length in Romans.",
+            "pt": "O mesmo argumento sobre Abraão desenvolvido com maior extensão em Romanos."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Promesa/Cumplimiento": {
+            "es": "La promesa a Abraham y su simiente, que es Cristo, no puede ser anulada por la ley posterior (Gá 3:16–17), mostrando la continuidad y cumplimiento del pacto de gracia.",
+            "en": "The promise to Abraham and his offspring, who is Christ, cannot be annulled by the later law (Gal 3:16–17), showing the continuity and fulfillment of the covenant of grace.",
+            "pt": "A promessa a Abraão e à sua semente, que é Cristo, não pode ser anulada pela lei posterior (Gl 3:16–17), mostrando a continuidade e o cumprimento do pacto da graça."
+          }
+        },
+        "secundarios": [
+          {
+            "Justificación": {
+              "es": "Abraham creyó a Dios y le fue contado por justicia (Gá 3:6), paradigma veterotestamentario de la justificación por fe sola.",
+              "en": "Abraham believed God, and it was counted to him as righteousness (Gal 3:6), the Old Testament paradigm of justification by faith alone.",
+              "pt": "Abraão creu em Deus, e isso lhe foi imputado como justiça (Gl 3:6), paradigma veterotestamentário da justificação somente pela fé."
+            }
+          },
+          {
+            "Simiente/Descendencia": {
+              "es": "Pablo argumenta que la promesa fue hecha a Abraham 'y a su simiente', en singular, identificando a esa simiente con Cristo (Gá 3:16).",
+              "en": "Paul argues the promise was made to Abraham 'and to his offspring,' singular, identifying that offspring with Christ (Gal 3:16).",
+              "pt": "Paulo argumenta que a promessa foi feita a Abraão 'e à sua semente', no singular, identificando essa semente com Cristo (Gl 3:16)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "De esclavos a hijos; Agar y Sara",
+        "en": "From slaves to sons; Hagar and Sarah",
+        "pt": "De escravos a filhos; Agar e Sara"
+      },
+      "descripcion": {
+        "es": "Pablo ilustra que, como un heredero menor de edad que en nada difiere de un esclavo, estábamos bajo los rudimentos del mundo hasta que, cumplido el tiempo, Dios envió a su Hijo, nacido de mujer y bajo la ley, para redimirnos y darnos la adopción de hijos (Gá 4:1–5); por eso el Espíritu de su Hijo clama en nuestros corazones 'Abba, Padre' (Gá 4:6–7). Expresa su angustia pastoral por los gálatas, a quienes desea formar como una madre en dolores de parto hasta que Cristo sea formado en ellos (Gá 4:19–20), y advierte contra el peligro de volver a los débiles y pobres rudimentos (Gá 4:9). El capítulo cierra con la alegoría de Agar y Sara, que representan dos pactos —esclavitud desde el Sinaí y libertad desde la Jerusalén de arriba— y concluye que los creyentes, como Isaac, son hijos de la promesa (Gá 4:21–31).",
+        "en": "Paul illustrates that, like a minor heir who is no different from a slave, we were under the elementary principles of the world until, when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem us and give us adoption as sons (Gal 4:1–5); hence the Spirit of his Son cries out in our hearts, 'Abba, Father' (Gal 4:6–7). He expresses his pastoral anguish for the Galatians, whom he longs to form like a mother in labor pains until Christ is formed in them (Gal 4:19–20), and warns against the danger of returning to the weak and worthless elementary principles (Gal 4:9). The chapter closes with the allegory of Hagar and Sarah, who represent two covenants—slavery from Sinai and freedom from the Jerusalem above—concluding that believers, like Isaac, are children of promise (Gal 4:21–31).",
+        "pt": "Paulo ilustra que, como um herdeiro menor de idade que em nada difere de um escravo, estávamos debaixo dos rudimentos do mundo até que, chegada a plenitude do tempo, Deus enviou seu Filho, nascido de mulher e sob a lei, para nos remir e nos dar a adoção de filhos (Gl 4:1–5); por isso o Espírito de seu Filho clama em nossos corações 'Aba, Pai' (Gl 4:6–7). Expressa sua angústia pastoral pelos gálatas, a quem deseja formar como uma mãe em dores de parto até que Cristo seja formado neles (Gl 4:19–20), e adverte contra o perigo de voltar aos fracos e pobres rudimentos (Gl 4:9). O capítulo se encerra com a alegoria de Agar e Sara, que representam dois pactos —escravidão desde o Sinai e liberdade desde a Jerusalém de cima— e conclui que os crentes, como Isaque, são filhos da promessa (Gl 4:21–31)."
+      },
+      "eventoClave": {
+        "es": "La venida del Hijo 'en el cumplimiento del tiempo' para redimirnos y darnos adopción de hijos (Gá 4:4–5) marca el paso decisivo de la esclavitud bajo la ley a la filiación plena en Cristo.",
+        "en": "The Son's coming 'when the fullness of time had come' to redeem us and grant adoption as sons (Gal 4:4–5) marks the decisive shift from slavery under the law to full sonship in Christ.",
+        "pt": "A vinda do Filho 'na plenitude do tempo' para nos remir e nos dar a adoção de filhos (Gl 4:4–5) marca a passagem decisiva da escravidão sob a lei para a filiação plena em Cristo."
+      },
+      "versiculoClave": "Gá 4:4-5",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 21:10",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Pablo cita la expulsión de Agar y su hijo como figura de la ruptura entre esclavitud legal y libertad de la promesa.",
+            "en": "Paul cites the casting out of Hagar and her son as a figure of the break between legal slavery and the freedom of promise.",
+            "pt": "Paulo cita a expulsão de Agar e seu filho como figura da ruptura entre a escravidão legal e a liberdade da promessa."
+          }
+        },
+        {
+          "ref": "Ro 8:15",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El mismo clamor 'Abba, Padre' del Espíritu de adopción aparece en Romanos.",
+            "en": "The same 'Abba, Father' cry of the Spirit of adoption appears in Romans.",
+            "pt": "O mesmo clamor 'Aba, Pai' do Espírito de adoção aparece em Romanos."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Agar y Sara representan alegóricamente dos pactos —el del Sinaí que engendra esclavitud y el de la promesa que engendra libertad— (Gá 4:24–26).",
+            "en": "Hagar and Sarah allegorically represent two covenants—the one from Sinai that begets slavery and the one of promise that begets freedom (Gal 4:24–26).",
+            "pt": "Agar e Sara representam alegoricamente dois pactos —o do Sinai que gera escravidão e o da promessa que gera liberdade (Gl 4:24–26)."
+          }
+        },
+        "secundarios": [
+          {
+            "Espíritu Santo": {
+              "es": "El Espíritu del Hijo clama en el corazón del creyente 'Abba, Padre', evidencia interna de la adopción recibida (Gá 4:6).",
+              "en": "The Spirit of the Son cries out in the believer's heart 'Abba, Father,' internal evidence of the adoption received (Gal 4:6).",
+              "pt": "O Espírito do Filho clama no coração do crente 'Aba, Pai', evidência interna da adoção recebida (Gl 4:6)."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Como Isaac, los creyentes son 'hijos de la promesa' y no de la esclavitud de la carne (Gá 4:28).",
+              "en": "Like Isaac, believers are 'children of promise' and not of the slavery of the flesh (Gal 4:28).",
+              "pt": "Como Isaque, os crentes são 'filhos da promessa' e não da escravidão da carne (Gl 4:28)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "titulo": {
+        "es": "Permanezcan firmes en la libertad; vida en el Espíritu",
+        "en": "Stand firm in freedom; life in the Spirit",
+        "pt": "Permaneçam firmes na liberdade; vida no Espírito"
+      },
+      "descripcion": {
+        "es": "Pablo llama a los gálatas a permanecer firmes en la libertad con que Cristo los hizo libres y no someterse otra vez al yugo de esclavitud (Gá 5:1), advirtiendo que si se circuncidan con fines de justificación, Cristo de nada les aprovechará (Gá 5:2–4). La libertad cristiana no es pretexto para la carne sino ocasión para servirse por amor los unos a los otros, pues toda la ley se cumple en amar al prójimo (Gá 5:13–14). Contrasta las obras de la carne —enumeradas en una extensa lista de pecados (Gá 5:19–21)— con el fruto del Espíritu: amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y dominio propio (Gá 5:22–23), concluyendo que quienes son de Cristo han crucificado la carne y deben andar por el Espíritu (Gá 5:24–25).",
+        "en": "Paul calls the Galatians to stand firm in the freedom for which Christ has set them free and not submit again to a yoke of slavery (Gal 5:1), warning that if they accept circumcision for justification, Christ will be of no advantage to them (Gal 5:2–4). Christian freedom is no pretext for the flesh but an occasion to serve one another through love, for the whole law is fulfilled in loving one's neighbor (Gal 5:13–14). He contrasts the works of the flesh—enumerated in an extensive list of sins (Gal 5:19–21)—with the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control (Gal 5:22–23), concluding that those who belong to Christ have crucified the flesh and must walk by the Spirit (Gal 5:24–25).",
+        "pt": "Paulo chama os gálatas a permanecerem firmes na liberdade com que Cristo os libertou e não se submeterem outra vez ao jugo da escravidão (Gl 5:1), advertindo que, se aceitarem a circuncisão para fins de justificação, Cristo de nada lhes aproveitará (Gl 5:2–4). A liberdade cristã não é pretexto para a carne, mas ocasião para servirem-se uns aos outros pelo amor, pois toda a lei se cumpre em amar o próximo (Gl 5:13–14). Contrasta as obras da carne —enumeradas numa extensa lista de pecados (Gl 5:19–21)— com o fruto do Espírito: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão e domínio próprio (Gl 5:22–23), concluindo que os que são de Cristo crucificaram a carne e devem andar pelo Espírito (Gl 5:24–25)."
+      },
+      "eventoClave": {
+        "es": "El listado del fruto del Espíritu (Gá 5:22–23) como contraste deliberado a las obras de la carne define la ética cristiana no como esfuerzo legalista sino como fruto orgánico de la vida en el Espíritu.",
+        "en": "The list of the fruit of the Spirit (Gal 5:22–23) as a deliberate contrast to the works of the flesh defines Christian ethics not as legalistic effort but as the organic fruit of life in the Spirit.",
+        "pt": "A lista do fruto do Espírito (Gl 5:22–23) como contraste deliberado às obras da carne define a ética cristã não como esforço legalista, mas como fruto orgânico da vida no Espírito."
+      },
+      "versiculoClave": "Gá 5:22-23",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 8:4",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Mismo contraste entre andar según la carne y andar según el Espíritu desarrollado en Romanos.",
+            "en": "The same contrast between walking according to the flesh and according to the Spirit developed in Romans.",
+            "pt": "Mesmo contraste entre andar segundo a carne e segundo o Espírito desenvolvido em Romanos."
+          }
+        },
+        {
+          "ref": "Lv 19:18",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita el mandamiento de amar al prójimo como resumen de toda la ley.",
+            "en": "Paul quotes the command to love one's neighbor as the summary of the whole law.",
+            "pt": "Paulo cita o mandamento de amar o próximo como resumo de toda a lei."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fruto/Fructificación": {
+            "es": "El fruto del Espíritu —amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, dominio propio— (Gá 5:22–23) es la evidencia orgánica y no forzada de la vida guiada por el Espíritu.",
+            "en": "The fruit of the Spirit —love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control— (Gal 5:22–23) is the organic, unforced evidence of a life guided by the Spirit.",
+            "pt": "O fruto do Espírito —amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, domínio próprio— (Gl 5:22–23) é a evidência orgânica e não forçada da vida guiada pelo Espírito."
+          }
+        },
+        "secundarios": [
+          {
+            "Espíritu Santo": {
+              "es": "Andar por el Espíritu es la garantía de no satisfacer los deseos de la carne (Gá 5:16), principio rector de toda la sección ética.",
+              "en": "Walking by the Spirit is the guarantee of not gratifying the desires of the flesh (Gal 5:16), the governing principle of the whole ethical section.",
+              "pt": "Andar pelo Espírito é a garantia de não satisfazer os desejos da carne (Gl 5:16), princípio regente de toda a seção ética."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 6,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Cargas mutuas y la gloria de la cruz",
+        "en": "Mutual burdens and the glory of the cross",
+        "pt": "Cargas mútuas e a glória da cruz"
+      },
+      "descripcion": {
+        "es": "Pablo exhorta a restaurar con mansedumbre al que es sorprendido en pecado y a llevar los unos las cargas de los otros, cumpliendo así la ley de Cristo (Gá 6:1–2), advirtiendo que cada uno segará lo que siembre: quien siembra para la carne, de la carne segará corrupción, pero quien siembra para el Espíritu, del Espíritu segará vida eterna (Gá 6:7–8). Llama a hacer bien a todos, especialmente a los de la familia de la fe (Gá 6:10). En la conclusión escrita de su propio puño, Pablo denuncia una vez más a quienes quieren obligar a la circuncisión para evitar persecución, y declara que ni la circuncisión ni la incircuncisión valen nada, sino la nueva creación (Gá 6:12–15), cerrando con la única jactancia legítima: la cruz de nuestro Señor Jesucristo, por la cual el mundo ha sido crucificado para Pablo (Gá 6:14).",
+        "en": "Paul exhorts believers to restore with gentleness one caught in sin and to bear one another's burdens, thereby fulfilling the law of Christ (Gal 6:1–2), warning that each will reap what he sows: the one who sows to the flesh will reap corruption from the flesh, but the one who sows to the Spirit will reap eternal life from the Spirit (Gal 6:7–8). He calls for doing good to everyone, especially to those of the household of faith (Gal 6:10). In the conclusion written in his own hand, Paul once more denounces those who want to compel circumcision to avoid persecution, declaring that neither circumcision nor uncircumcision counts for anything, but new creation (Gal 6:12–15), closing with the only legitimate boast: the cross of our Lord Jesus Christ, by which the world has been crucified to Paul (Gal 6:14).",
+        "pt": "Paulo exorta os crentes a restaurar com mansidão aquele que é surpreendido em pecado e a levar uns as cargas dos outros, cumprindo assim a lei de Cristo (Gl 6:1–2), advertindo que cada um colherá o que semear: quem semeia para a carne, da carne colherá corrupção, mas quem semeia para o Espírito, do Espírito colherá a vida eterna (Gl 6:7–8). Chama a fazer o bem a todos, especialmente aos domésticos da fé (Gl 6:10). Na conclusão escrita de próprio punho, Paulo denuncia mais uma vez os que querem obrigar a circuncisão para evitar perseguição, declarando que nem a circuncisão nem a incircuncisão valem coisa alguma, mas a nova criação (Gl 6:12–15), encerrando com a única jactância legítima: a cruz de nosso Senhor Jesus Cristo, pela qual o mundo está crucificado para Paulo (Gl 6:14)."
+      },
+      "eventoClave": {
+        "es": "La declaración final de gloriarse solo en la cruz de Cristo (Gá 6:14) resume la trayectoria entera de la carta: toda jactancia humana —incluida la circuncisión— queda crucificada junto con el mundo.",
+        "en": "The final declaration of boasting only in the cross of Christ (Gal 6:14) summarizes the letter's entire trajectory: all human boasting—including circumcision—is crucified along with the world.",
+        "pt": "A declaração final de gloriar-se somente na cruz de Cristo (Gl 6:14) resume toda a trajetória da carta: toda jactância humana —incluindo a circuncisão— fica crucificada junto com o mundo."
+      },
+      "versiculoClave": "Gá 6:14",
+      "referenciasRelacionadas": [
+        {
+          "ref": "2Co 5:17",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Mismo lenguaje de la nueva creación como realidad decisiva por encima de las categorías antiguas.",
+            "en": "The same new-creation language as the decisive reality above the old categories.",
+            "pt": "Mesma linguagem da nova criação como realidade decisiva acima das categorias antigas."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Creación/Nueva Creación": {
+            "es": "Pablo declara que ni la circuncisión ni la incircuncisión valen nada, sino la nueva creación (Gá 6:15), categoría que trasciende toda distinción bajo la ley antigua.",
+            "en": "Paul declares that neither circumcision nor uncircumcision counts for anything, but new creation (Gal 6:15), a category that transcends every distinction under the old law.",
+            "pt": "Paulo declara que nem a circuncisão nem a incircuncisão valem coisa alguma, mas a nova criação (Gl 6:15), categoria que transcende toda distinção sob a lei antiga."
+          }
+        },
+        "secundarios": [
+          {
+            "Sacrificio/Expiación": {
+              "es": "La única jactancia legítima del creyente es la cruz de Cristo (Gá 6:14), por la cual el mundo queda crucificado para Pablo.",
+              "en": "The believer's only legitimate boast is the cross of Christ (Gal 6:14), by which the world is crucified to Paul.",
+              "pt": "A única jactância legítima do crente é a cruz de Cristo (Gl 6:14), pela qual o mundo fica crucificado para Paulo."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Lane T. Dennis, Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología",
+          "Resúmenes de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Theology",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia",
+          "Resumos de capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Equipo editorial evangélico reformado liderado por Wayne Grudem y Lane T. Dennis, con más de 90 eruditos y consultores; publicado por Crossway, casa editorial confesionalmente reformada.",
+          "en": "Reformed evangelical editorial team led by Wayne Grudem and Lane T. Dennis, with over 90 scholars and consultants; published by Crossway, a confessionally Reformed publishing house.",
+          "pt": "Equipe editorial evangélica reformada liderada por Wayne Grudem e Lane T. Dennis, com mais de 90 acadêmicos e consultores; publicada pela Crossway, editora confessionalmente reformada."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos introductorios de autoría, fecha, contexto histórico y estructura literaria, todo dentro de un marco teológico reformado confesional.",
+          "en": "Combines verse-by-verse exegetical notes with introductory essays on authorship, date, historical context, and literary structure, all within a confessionally Reformed theological framework.",
+          "pt": "Combina notas exegéticas verso a verso com ensaios introdutórios sobre autoria, data, contexto histórico e estrutura literária, tudo dentro de uma estrutura teológica reformada confessional."
+        },
+        "aportacion": {
+          "es": "Proveyó la base para la datación temprana (teoría del sur de Galacia) y la estructura argumentativa del libro usada en este registro.",
+          "en": "Provided the basis for the early dating (South Galatian theory) and the argumentative structure of the book used in this record.",
+          "pt": "Forneceu a base para a datação antecipada (teoria do sul da Galácia) e a estrutura argumentativa do livro usada neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology (Grudem, 1994)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Reformation Trust",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Âncoras confessionais",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes de la neo-ortodoxia reformada del s. XX–XXI.",
+          "en": "R.C. Sproul (1939–2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices in 20th–21st-century Reformed neo-orthodoxy.",
+          "pt": "R.C. Sproul (1939–2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes da neo-ortodoxia reformada dos séculos XX–XXI."
+        },
+        "metodo": {
+          "es": "Notas de estudio explícitamente confesionales, vinculando cada pasaje a las confesiones históricas reformadas (Westminster, Cánones de Dort, Confesión Belga).",
+          "en": "Explicitly confessional study notes, linking each passage to the historic Reformed confessions (Westminster, Canons of Dort, Belgic Confession).",
+          "pt": "Notas de estudo explicitamente confessionais, vinculando cada passagem às confissões históricas reformadas (Westminster, Cânones de Dort, Confissão Belga)."
+        },
+        "aportacion": {
+          "es": "Proveyó los anclajes específicos a la Confesión de Fe de Westminster (capítulos 7, 11, 19, 20) usados en este registro.",
+          "en": "Provided the specific anchors to the Westminster Confession of Faith (chapters 7, 11, 19, 20) used in this record.",
+          "pt": "Forneceu as âncoras específicas à Confissão de Fé de Westminster (capítulos 7, 11, 19, 20) usadas neste registro."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R.C. Sproul (ed.), edición en español",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto bíblico NBLA",
+          "Notas confesionales en español"
+        ],
+        "en": [
+          "NBLA biblical text",
+          "Confessional notes in Spanish"
+        ],
+        "pt": [
+          "Texto bíblico NBLA",
+          "Notas confessionais em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición en español de la Reformation Study Bible, adaptada para el mundo hispanohablante reformado bajo la supervisión editorial de Ligonier Ministries.",
+          "en": "Spanish edition of the Reformation Study Bible, adapted for the Spanish-speaking Reformed world under the editorial supervision of Ligonier Ministries.",
+          "pt": "Edição em espanhol da Reformation Study Bible, adaptada para o mundo hispanofalante reformado sob a supervisão editorial da Ligonier Ministries."
+        },
+        "metodo": {
+          "es": "Traduce y adapta el aparato de notas confesionales reformadas al contexto lingüístico y pastoral hispanoamericano, manteniendo el texto bíblico NBLA.",
+          "en": "Translates and adapts the Reformed confessional note apparatus to the Spanish-speaking pastoral context, retaining the NBLA biblical text.",
+          "pt": "Traduz e adapta o aparato de notas confessionais reformadas ao contexto linguístico e pastoral hispano-americano, mantendo o texto bíblico NBLA."
+        },
+        "aportacion": {
+          "es": "Fuente del texto bíblico NBLA citado en `versiculosClave` y de terminología teológica reformada en español.",
+          "en": "Source of the NBLA biblical text cited in `versiculosClave` and of Reformed theological terminology in Spanish.",
+          "pt": "Fonte do texto bíblico NBLA citado em `versiculosClave` e da terminologia teológica reformada em espanhol."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Justificación",
+          "Ley y evangelio"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Justification",
+          "Law and gospel"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Justificação",
+          "Lei e evangelho"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem, profesor emérito de teología y estudios bíblicos en Phoenix Seminary, es uno de los sistematizadores evangélicos reformados más influyentes de las últimas décadas.",
+          "en": "Wayne Grudem, Research Professor of Theology and Biblical Studies emeritus at Phoenix Seminary, is one of the most influential Reformed evangelical systematic theologians of recent decades.",
+          "pt": "Wayne Grudem, professor emérito de teologia e estudos bíblicos no Phoenix Seminary, é um dos sistematizadores evangélicos reformados mais influentes das últimas décadas."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina bíblica en categorías sistemáticas clásicas, con exégesis cuidadosa de los textos de prueba y diálogo con posiciones alternativas.",
+          "en": "Organizes biblical doctrine into classic systematic categories, with careful exegesis of proof texts and dialogue with alternative positions.",
+          "pt": "Organiza a doutrina bíblica em categorias sistemáticas clássicas, com exegese cuidadosa dos textos de prova e diálogo com posições alternativas."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco de categorías (Justificación, Ley, Pacto) usado para estructurar `teologiaSistematica` en este registro.",
+          "en": "Provided the category framework (Justification, Law, Covenant) used to structure `teologiaSistematica` in this record.",
+          "pt": "Forneceu o quadro de categorias (Justificação, Lei, Pacto) usado para estruturar `teologiaSistematica` neste registro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)"
+        ],
+        "url": "https://www.theopedia.com/wayne-grudem"
+      }
+    },
+    {
+      "titulo": "Biblical Theology",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Tipología",
+          "Enfoque cristológico"
+        ],
+        "en": [
+          "Redemptive history",
+          "Typology",
+          "Christological focus"
+        ],
+        "pt": [
+          "História redentora",
+          "Tipologia",
+          "Enfoque cristológico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949), primer profesor de teología bíblica en Princeton Theological Seminary, es considerado el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862–1949), the first professor of biblical theology at Princeton Theological Seminary, is regarded as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862–1949), primeiro professor de teologia bíblica no Princeton Theological Seminary, é considerado o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo y orgánico de la revelación a través de la historia redentora, leyendo cada pacto y figura del AT como preparación cristológica.",
+          "en": "Traces the progressive, organic development of revelation through redemptive history, reading every covenant and OT figure as christological preparation.",
+          "pt": "Traça o desenvolvimento progressivo e orgânico da revelação através da história redentora, lendo cada pacto e figura do AT como preparação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó la lectura de Abraham, Agar y Sara como tipos dentro del único pacto de gracia, usada en `historiaRedentora.tiposYSombras`.",
+          "en": "Grounded the reading of Abraham, Hagar, and Sarah as types within the one covenant of grace, used in `historiaRedentora.tiposYSombras`.",
+          "pt": "Fundamentou a leitura de Abraão, Agar e Sara como tipos dentro do único pacto da graça, usada em `historiaRedentora.tiposYSombras`."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://www.theopedia.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The Epistle to the Galatians (NIGTC)",
+      "autor": "F.F. Bruce",
+      "año": 1982,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Debate norte/sur de Galacia",
+          "Cronología paulina"
+        ],
+        "en": [
+          "Historical context",
+          "North/South Galatian debate",
+          "Pauline chronology"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Debate norte/sul da Galácia",
+          "Cronologia paulina"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "F.F. Bruce (1910–1990) fue un erudito evangélico británico del Nuevo Testamento, profesor en la Universidad de Mánchester y autor de numerosos comentarios de referencia.",
+          "en": "F.F. Bruce (1910–1990) was a British evangelical New Testament scholar, professor at the University of Manchester, and author of numerous standard-reference commentaries.",
+          "pt": "F.F. Bruce (1910–1990) foi um erudito evangélico britânico do Novo Testamento, professor na Universidade de Manchester e autor de numerosos comentários de referência."
+        },
+        "metodo": {
+          "es": "Combina rigor filológico y exégesis del griego con atención cuidadosa a la reconstrucción histórica del viaje misionero paulino y la cronología de Hechos.",
+          "en": "Combines philological rigor and Greek exegesis with careful attention to the historical reconstruction of Paul's missionary journeys and the chronology of Acts.",
+          "pt": "Combina rigor filológico e exegese do grego com atenção cuidadosa à reconstrução histórica da viagem missionária paulina e à cronologia de Atos."
+        },
+        "aportacion": {
+          "es": "Fuente principal para la defensa de la teoría del sur de Galacia y la fecha temprana (c. 48–49 d.C.) usada en este registro.",
+          "en": "Primary source for the defense of the South Galatian theory and the early date (c. AD 48–49) used in this record.",
+          "pt": "Fonte principal para a defesa da teoria do sul da Galácia e a data antecipada (c. 48–49 d.C.) usada neste registro."
+        },
+        "obras": [
+          "The Epistle to the Galatians (1982)",
+          "Paul: Apostle of the Heart Set Free (1977)",
+          "New Testament History (1969)"
+        ],
+        "url": "https://www.thegospelcoalition.org/reviews/tgc-history/f-f-bruce/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto grecorromano",
+          "Costumbres de adopción y aya"
+        ],
+        "en": [
+          "Greco-Roman context",
+          "Adoption and guardian customs"
+        ],
+        "pt": [
+          "Contexto greco-romano",
+          "Costumes de adoção e aio"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener es profesor de Nuevo Testamento en Asbury Theological Seminary, reconocido por su dominio del trasfondo grecorromano y judío del NT.",
+          "en": "Craig S. Keener is Professor of New Testament at Asbury Theological Seminary, recognized for his command of the Greco-Roman and Jewish background of the NT.",
+          "pt": "Craig S. Keener é professor de Novo Testamento no Asbury Theological Seminary, reconhecido por seu domínio do pano de fundo greco-romano e judaico do NT."
+        },
+        "metodo": {
+          "es": "Reúne fuentes primarias grecorromanas y judías contemporáneas para iluminar, versículo por versículo, el trasfondo cultural de cada libro del NT.",
+          "en": "Gathers contemporary Greco-Roman and Jewish primary sources to illuminate, verse by verse, the cultural background of each NT book.",
+          "pt": "Reúne fontes primárias greco-romanas e judaicas contemporâneas para iluminar, verso a verso, o pano de fundo cultural de cada livro do NT."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo del derecho romano de adopción y la costumbre del aya (paidagōgós) usados en `contextoHistorico.fuentesANE`.",
+          "en": "Provided the background on Roman adoption law and the guardian (paidagogos) custom used in `contextoHistorico.fuentesANE`.",
+          "pt": "Forneceu o pano de fundo do direito romano de adoção e o costume do aio (paidagōgós) usado em `contextoHistorico.fuentesANE`."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: New Testament (1993)",
+          "Acts: An Exegetical Commentary (2012–2015)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-new-testament"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.9,
+    "camposMarcados": [
+      {
+        "campo": "año",
+        "razon": "Se adoptó la teoría del sur de Galacia y una fecha temprana (c. 48–49 d.C.), posición mayoritaria en la erudición evangélica reformada (F.F. Bruce, ESV Study Bible), sobre la teoría del norte que fecharía la carta c. 53–57 d.C. Ambas posiciones carecen de confirmación arqueológica directa.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-06"
+      },
+      {
+        "campo": "destinatario",
+        "razon": "La identificación de los destinatarios con las ciudades del sur de Galacia (Antioquía de Pisidia, Iconio, Listra, Derbe) depende de la teoría del sur adoptada en `año`; se marca como juicio interpretativo, no como consenso absoluto.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-06"
+      },
+      {
+        "campo": "personajes[].biografiaHistorica (Abraham)",
+        "razon": "El nivel de evidencia se marcó como 'medio' dado que la biografía histórica de Abraham depende del registro de Génesis y de correlación arqueológica indirecta del segundo milenio a.C., no de registros extra-bíblicos directos que lo mencionen por nombre.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-06"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-06T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-07-06T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-06T00:00:00Z",
+          "fechaFin": "2026-07-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-06T00:00:00Z",
+          "fechaFin": "2026-07-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-06T00:00:00Z",
+          "fechaFin": "2026-07-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-06T00:00:00Z",
+          "fechaFin": "2026-07-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-07-06T00:00:00Z",
+          "fechaFin": "2026-07-06T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

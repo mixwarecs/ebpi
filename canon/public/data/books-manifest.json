@@ -1531,7 +1531,8 @@
       "ordenCanon": 48,
       "capitulosTotal": 6,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "galatas.json",
       "razon": {
         "es": "La 'Magna Carta de la libertad cristiana': combate el judaizante con la defensa más apasionada de la justificación sola fide en todo el NT. Pablo ni siquiera cede ante Pedro (Gá 2:11).",
         "en": "The 'Magna Carta of Christian freedom': combats the Judaizers with the most passionate defense of sola fide justification in all the NT. Paul does not even yield to Peter (Gal 2:11).",
