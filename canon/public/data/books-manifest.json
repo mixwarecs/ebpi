@@ -1594,12 +1594,13 @@
       "ordenCanon": 51,
       "capitulosTotal": 4,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Responde a una proto-gnosis que rebajaba a Cristo: afirma su supremacía cósmica absoluta como 'cabeza de todo principado y potestad' (Col 2:10) y el primado de Cristo en toda la creación.",
         "en": "Responds to a proto-Gnosticism that demoted Christ: affirms his absolute cosmic supremacy as 'head of all rule and authority' (Col 2:10) and Christ's primacy in all creation.",
         "pt": "Responde a uma proto-gnose que rebaixava Cristo: afirma sua supremacia cósmica absoluta como 'cabeça de todo principado e potestade' (Cl 2:10) e o primado de Cristo em toda a criação."
-      }
+      },
+      "dataFile": "colosenses.json"
     },
     {
       "id": 52,

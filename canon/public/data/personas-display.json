@@ -1452,6 +1452,54 @@
       "pt": "MENSAGEIRO APOSTÓLICO"
     }
   },
+  "Cristo": {
+    "id": "cristo-col",
+    "color": "#7B3F9E",
+    "init": "ΙΧ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "CABEZA DE TODA CREACIÓN",
+      "en": "HEAD OVER ALL CREATION",
+      "pt": "CABEÇA DE TODA A CRIAÇÃO"
+    }
+  },
+  "Epafras": {
+    "id": "epafras",
+    "color": "#2A7A6B",
+    "init": "Επ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "FUNDADOR DE LA IGLESIA",
+      "en": "FOUNDER OF THE CHURCH",
+      "pt": "FUNDADOR DA IGREJA"
+    }
+  },
+  "Onésimo": {
+    "id": "onesimo",
+    "color": "#8B5A2A",
+    "init": "Ον",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "ESCLAVO CONVERTIDO",
+      "en": "CONVERTED SLAVE",
+      "pt": "ESCRAVO CONVERTIDO"
+    }
+  },
+  "Arquipo": {
+    "id": "arquipo",
+    "color": "#8B2A5A",
+    "init": "Αρ",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "MINISTRO EXHORTADO",
+      "en": "EXHORTED MINISTER",
+      "pt": "MINISTRO EXORTADO"
+    }
+  },
   "Joab": {
     "id": "joab",
     "color": "#2D5A27",

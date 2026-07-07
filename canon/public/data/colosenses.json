@@ -1,0 +1,1914 @@
+{
+  "id": 51,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "titulo": {
+    "es": "Colosenses",
+    "en": "Colossians",
+    "pt": "Colossenses"
+  },
+  "tituloOriginal": "Πρὸς Κολοσσαεῖς",
+  "transliteracion": "Pros Kolossaeis",
+  "significado": {
+    "es": "A los colosenses — carta dirigida a los habitantes de Colosas, ciudad cuyo nombre probablemente deriva de una raíz relacionada con la lana teñida (\"colosino\"), producto por el que la región del valle del Licos era conocida",
+    "en": "To the Colossians — a letter addressed to the inhabitants of Colossae, a city whose name likely derives from a root associated with dyed wool (\"colossinus\"), a product for which the Lycus Valley region was known",
+    "pt": "Aos colossenses — carta dirigida aos habitantes de Colossas, cidade cujo nome provavelmente deriva de uma raiz relacionada à lã tingida (\"colossinus\"), produto pelo qual a região do vale do Lico era conhecida"
+  },
+  "resumenGeneral": {
+    "es": "Colosenses abre con una oración de gratitud e intercesión (Col 1:3–12) que desemboca de inmediato en el himno cristológico más elevado del Nuevo Testamento: Cristo como imagen del Dios invisible, primogénito de toda creación y cabeza de la iglesia, en quien habita toda la plenitud de la Deidad corporalmente (Col 1:15–20; 2:9). Sobre ese fundamento, el argumento se vuelve polémico: Pablo advierte contra la filosofía vacía, las ordenanzas ascéticas, el legalismo judaizante y la veneración de ángeles que amenazaban a la congregación (Col 2:8,16–18,20–23), razonando que la unión plena con Cristo hace superflua cualquier mediación añadida. El argumento gira entonces hacia la ética: puesto que los creyentes han resucitado con Cristo (Col 3:1), deben hacer morir lo terrenal y revestirse del hombre nuevo (Col 3:5–17), lo cual se concretiza en el código doméstico que ordena los hogares cristianos (Col 3:18–4:1). La carta cierra con instrucciones prácticas, el envío de mensajeros y saludos personales (Col 4:7–18), dejando como legado una afirmación inquebrantable: Cristo basta, sin necesitar mediadores angélicos, ascetismo ni observancias rituales.",
+    "en": "Colossians opens with a prayer of thanksgiving and intercession (Col 1:3–12) that immediately flows into the highest christological hymn in the New Testament: Christ as the image of the invisible God, firstborn of all creation, and head of the church, in whom the whole fullness of deity dwells bodily (Col 1:15–20; 2:9). On that foundation the argument turns polemical: Paul warns against empty philosophy, ascetic ordinances, Judaizing legalism, and angel worship threatening the congregation (Col 2:8,16–18,20–23), reasoning that full union with Christ makes any added mediation superfluous. The argument then turns to ethics: since believers have been raised with Christ (Col 3:1), they must put to death what is earthly and put on the new self (Col 3:5–17), worked out concretely in the household code ordering Christian homes (Col 3:18–4:1). The letter closes with practical instructions, the sending of messengers, and personal greetings (Col 4:7–18), leaving behind an unshakeable legacy: Christ is sufficient, requiring no angelic mediators, asceticism, or ritual observance.",
+    "pt": "Colossenses abre com uma oração de gratidão e intercessão (Cl 1:3–12) que desemboca de imediato no hino cristológico mais elevado do Novo Testamento: Cristo como imagem do Deus invisível, primogênito de toda a criação e cabeça da igreja, em quem habita corporalmente toda a plenitude da Divindade (Cl 1:15–20; 2:9). Sobre esse fundamento, o argumento torna-se polêmico: Paulo adverte contra a filosofia vazia, as ordenanças ascéticas, o legalismo judaizante e a veneração de anjos que ameaçavam a congregação (Cl 2:8,16–18,20–23), argumentando que a união plena com Cristo torna supérflua qualquer mediação acrescentada. O argumento então se volta para a ética: visto que os crentes ressuscitaram com Cristo (Cl 3:1), devem fazer morrer o que é terreno e revestir-se do novo homem (Cl 3:5–17), o que se concretiza no código doméstico que ordena os lares cristãos (Cl 3:18–4:1). A carta se encerra com instruções práticas, o envio de mensageiros e saudações pessoais (Cl 4:7–18), deixando como legado uma afirmação inabalável: Cristo basta, sem necessitar de mediadores angélicos, ascetismo ou observâncias rituais."
+  },
+  "capitulosTotal": 4,
+  "autor": {
+    "nombre": {
+      "es": "Pablo",
+      "en": "Paul",
+      "pt": "Paulo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La tradición reformada sostiene la autoría paulina, atestiguada de forma unánime por la iglesia primitiva (Ireneo, Clemente de Alejandría, el canon de Muratori) y por la autopresentación explícita de la carta (Col 1:1,23; 4:18, con firma de puño y letra de Pablo). La crítica moderna cuestiona la autoría por diferencias de vocabulario y una cristología más desarrollada que en las cartas indiscutidas, pero estas se explican adecuadamente por el uso de un amanuense, la coautoría de Timoteo (Col 1:1) y la naturaleza polémica específica de la ocasión, que exigía un vocabulario distinto al de Romanos o Gálatas.",
+      "en": "The Reformed tradition holds to Pauline authorship, unanimously attested by the early church (Irenaeus, Clement of Alexandria, the Muratorian Canon) and by the letter's own explicit self-presentation (Col 1:1,23; 4:18, with Paul's own handwritten signature). Modern criticism questions authorship on grounds of vocabulary differences and a more developed Christology than in the undisputed letters, but these are adequately explained by the use of an amanuensis, Timothy's co-authorship (Col 1:1), and the specific polemical occasion, which demanded vocabulary distinct from Romans or Galatians.",
+      "pt": "A tradição reformada sustenta a autoria paulina, atestada de forma unânime pela igreja primitiva (Irineu, Clemente de Alexandria, o cânon de Muratori) e pela autoapresentação explícita da carta (Cl 1:1,23; 4:18, com assinatura de próprio punho de Paulo). A crítica moderna questiona a autoria por diferenças de vocabulário e uma cristologia mais desenvolvida do que nas cartas incontestadas, mas isso se explica adequadamente pelo uso de um amanuense, pela coautoria de Timóteo (Cl 1:1) e pela ocasião polêmica específica, que exigia vocabulário distinto do de Romanos ou Gálatas."
+    }
+  },
+  "año": {
+    "desde": 60,
+    "hasta": 62,
+    "display": {
+      "es": "Fecha de escritura: c. 60–62 d.C., durante la primera prisión romana de Pablo",
+      "en": "Date of writing: c. AD 60–62, during Paul's first Roman imprisonment",
+      "pt": "Data de escrita: c. 60–62 d.C., durante a primeira prisão romana de Paulo"
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Roma, durante el arresto domiciliario de Pablo mientras esperaba juicio ante el emperador (Hch 28:16,30–31)",
+    "en": "Rome, during Paul's house arrest while awaiting trial before the emperor (Acts 28:16,30–31)",
+    "pt": "Roma, durante a prisão domiciliar de Paulo enquanto aguardava julgamento perante o imperador (At 28:16,30–31)"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Inicial (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Colosas",
+          "en": "Colossae",
+          "pt": "Colossas"
+        },
+        "identificacionModerna": {
+          "es": "Cerca de la moderna Honaz, provincia de Denizli, Turquía",
+          "en": "Near modern Honaz, Denizli Province, Turkey",
+          "pt": "Perto da moderna Honaz, província de Denizli, Turquia"
+        },
+        "significancia": {
+          "es": "Ciudad frigia del valle del Licos, otrora próspera por el comercio de lana teñida, pero en franca decadencia hacia el siglo I d.C., eclipsada por sus vecinas Laodicea y Hierápolis; sede de la iglesia destinataria de la carta, fundada por Epafras y no por Pablo (Col 1:7; 2:1)",
+          "en": "A Phrygian city in the Lycus Valley, once prosperous from dyed-wool trade, but clearly in decline by the first century AD, eclipsed by its neighbors Laodicea and Hierapolis; home of the church addressed in the letter, founded by Epaphras rather than Paul (Col 1:7; 2:1)",
+          "pt": "Cidade frígia do vale do Lico, outrora próspera pelo comércio de lã tingida, mas em franca decadência no século I d.C., eclipsada pelas vizinhas Laodiceia e Hierápolis; sede da igreja destinatária da carta, fundada por Epafras e não por Paulo (Cl 1:7; 2:1)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Laodicea",
+          "en": "Laodicea",
+          "pt": "Laodiceia"
+        },
+        "identificacionModerna": {
+          "es": "Cerca de la moderna Eskihisar, Denizli, Turquía",
+          "en": "Near modern Eskihisar, Denizli, Turkey",
+          "pt": "Perto da moderna Eskihisar, Denizli, Turquia"
+        },
+        "significancia": {
+          "es": "Ciudad rica y comercialmente dominante del valle del Licos, a unos 17 km de Colosas; su iglesia recibe mención directa y el intercambio de cartas es ordenado por Pablo (Col 2:1; 4:13,15–16)",
+          "en": "A wealthy, commercially dominant city of the Lycus Valley, about 17 km from Colossae; its church receives direct mention and Paul orders an exchange of letters (Col 2:1; 4:13,15–16)",
+          "pt": "Cidade rica e comercialmente dominante do vale do Lico, a cerca de 17 km de Colossas; sua igreja recebe menção direta e Paulo ordena a troca de cartas (Cl 2:1; 4:13,15–16)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Hierápolis",
+          "en": "Hierapolis",
+          "pt": "Hierápolis"
+        },
+        "identificacionModerna": {
+          "es": "Moderna Pamukkale, Denizli, Turquía",
+          "en": "Modern Pamukkale, Denizli, Turkey",
+          "pt": "Moderna Pamukkale, Denizli, Turquia"
+        },
+        "significancia": {
+          "es": "Ciudad termal célebre por sus aguas calientes, tercera del trío de ciudades del valle del Licos junto con Colosas y Laodicea; Epafras trabajaba también entre sus creyentes (Col 4:13)",
+          "en": "A thermal spa city famous for its hot springs, the third of the trio of Lycus Valley cities alongside Colossae and Laodicea; Epaphras also labored among its believers (Col 4:13)",
+          "pt": "Cidade termal célebre por suas águas quentes, a terceira do trio de cidades do vale do Lico junto com Colossas e Laodiceia; Epafras também trabalhava entre seus crentes (Cl 4:13)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Roma",
+          "en": "Rome",
+          "pt": "Roma"
+        },
+        "identificacionModerna": {
+          "es": "Roma, Italia",
+          "en": "Rome, Italy",
+          "pt": "Roma, Itália"
+        },
+        "significancia": {
+          "es": "Capital imperial donde Pablo permanecía bajo arresto domiciliario esperando su apelación al César, lugar tradicional de composición de la carta (Hch 28:16,30; Col 4:3,18)",
+          "en": "The imperial capital where Paul remained under house arrest awaiting his appeal to Caesar, the traditional place of composition of the letter (Acts 28:16,30; Col 4:3,18)",
+          "pt": "Capital imperial onde Paulo permanecia sob prisão domiciliar aguardando sua apelação a César, local tradicional de composição da carta (At 28:16,30; Cl 4:3,18)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "Provee el marco político de la provincia de Asia y de la prisión de Pablo; la red de calzadas romanas permitió el tránsito de mensajeros como Tíquico entre Roma y el valle del Licos (Col 4:7–9)",
+          "en": "Provides the political framework of the province of Asia and of Paul's imprisonment; the Roman road network enabled messengers like Tychicus to travel between Rome and the Lycus Valley (Col 4:7–9)",
+          "pt": "Fornece o quadro político da província da Ásia e da prisão de Paulo; a rede de estradas romanas permitiu o trânsito de mensageiros como Tíquico entre Roma e o vale do Lico (Cl 4:7–9)"
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentado por inscripciones, monedas y restos viales en toda la región de Asia Menor",
+          "en": "Extensively documented through inscriptions, coinage, and road remains throughout the region of Asia Minor",
+          "pt": "Amplamente documentado por inscrições, moedas e vestígios viários em toda a região da Ásia Menor"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Frigios del valle del Licos",
+          "en": "Phrygians of the Lycus Valley",
+          "pt": "Frígios do vale do Lico"
+        },
+        "rolEnElTexto": {
+          "es": "Población local helenizada de la región de Frigia, con tradiciones de culto sincretista a divinidades locales y, más tarde, veneración del arcángel Miguel en Colosas/Chonas, trasfondo cultural que alimentaba las prácticas cuestionadas por Pablo",
+          "en": "The hellenized local population of the region of Phrygia, with traditions of syncretistic worship of local deities and, later, veneration of the archangel Michael at Colossae/Chonae, a cultural backdrop feeding the practices Paul confronts",
+          "pt": "População local helenizada da região da Frígia, com tradições de culto sincretista a divindades locais e, mais tarde, veneração do arcanjo Miguel em Colossas/Chonas, pano de fundo cultural que alimentava as práticas questionadas por Paulo"
+        },
+        "estadoArqueologico": {
+          "es": "Confirmado por inscripciones frigias y por el santuario posterior de San Miguel en Chonas, cercano al sitio de Colosas",
+          "en": "Confirmed by Phrygian inscriptions and by the later shrine of St. Michael at Chonae, near the site of Colossae",
+          "pt": "Confirmado por inscrições frígias e pelo santuário posterior de São Miguel em Chonas, próximo ao sítio de Colossas"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Comunidad judía de la diáspora en Frigia",
+          "en": "Jewish diaspora community in Phrygia",
+          "pt": "Comunidade judaica da diáspora na Frígia"
+        },
+        "rolEnElTexto": {
+          "es": "Descendientes de las 2,000 familias judías que Antíoco III trasladó de Babilonia y Mesopotamia a Frigia y Lidia (c. 205–198 a.C.); su presencia explica el componente legalista (circuncisión, comida, calendario, sábados) de la enseñanza combatida en Col 2:11,16",
+          "en": "Descendants of the 2,000 Jewish families Antiochus III relocated from Babylonia and Mesopotamia to Phrygia and Lydia (c. 205–198 BC); their presence explains the legalistic component (circumcision, food, calendar, sabbaths) of the teaching confronted in Col 2:11,16",
+          "pt": "Descendentes das 2.000 famílias judaicas que Antíoco III transferiu da Babilônia e Mesopotâmia para a Frígia e Lídia (c. 205–198 a.C.); sua presença explica o componente legalista (circuncisão, comida, calendário, sábados) do ensino combatido em Cl 2:11,16"
+        },
+        "estadoArqueologico": {
+          "es": "Atestiguada por Josefo (Antigüedades 12.147–153) y por el discurso de Cicerón Pro Flacco 28, que menciona el impuesto del templo recogido entre los judíos de Frigia",
+          "en": "Attested by Josephus (Antiquities 12.147–153) and by Cicero's speech Pro Flacco 28, which mentions the temple tax collected among the Jews of Phrygia",
+          "pt": "Atestada por Josefo (Antiguidades 12.147–153) e pelo discurso de Cícero Pro Flacco 28, que menciona o imposto do templo recolhido entre os judeus da Frígia"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "El montículo (tell) de Colosas ha sido identificado con certeza junto al río Licos, pero permanece en gran parte sin excavar; las primeras excavaciones sistemáticas iniciaron recién en 2022 bajo dirección turca, por lo que la mayor parte de la evidencia material proviene de sus vecinas ya excavadas, Laodicea y Hierápolis, ambas ciudades ricas con templos, teatros y necrópolis monumentales que confirman la prosperidad relativa del valle. Tácito (Anales 14.27) registra un terremoto que devastó Laodicea hacia el 60–61 d.C.; aunque no menciona a Colosas explícitamente, la proximidad geográfica hace verosímil que la ciudad también sufriera daños, lo cual podría explicar en parte su posterior declive frente a Laodicea, reconstruida con recursos propios sin ayuda imperial según el mismo Tácito. La arqueología no contradice ningún dato del texto y confirma el contexto multicultural —greco-romano, frigio y judío— presupuesto por la carta.",
+      "en": "The mound (tell) of Colossae has been identified with certainty along the Lycus River but remains largely unexcavated; the first systematic excavations began only in 2022 under Turkish direction, so most material evidence comes from its already-excavated neighbors, Laodicea and Hierapolis, both wealthy cities with temples, theaters, and monumental necropolises confirming the valley's relative prosperity. Tacitus (Annals 14.27) records an earthquake that devastated Laodicea around AD 60–61; although he does not explicitly mention Colossae, geographic proximity makes it plausible the city also suffered damage, which may partly explain its subsequent decline relative to Laodicea, which rebuilt with its own resources without imperial aid according to the same Tacitus. Archaeology contradicts no detail of the text and confirms the multicultural — Greco-Roman, Phrygian, and Jewish — context presupposed by the letter.",
+      "pt": "O monte (tell) de Colossas foi identificado com certeza junto ao rio Lico, mas permanece em grande parte não escavado; as primeiras escavações sistemáticas começaram apenas em 2022 sob direção turca, de modo que a maior parte da evidência material provém de suas vizinhas já escavadas, Laodiceia e Hierápolis, ambas cidades ricas com templos, teatros e necrópoles monumentais que confirmam a prosperidade relativa do vale. Tácito (Anais 14.27) registra um terremoto que devastou Laodiceia por volta de 60–61 d.C.; embora não mencione Colossas explicitamente, a proximidade geográfica torna verossímil que a cidade também tenha sofrido danos, o que poderia explicar em parte seu declínio posterior frente a Laodiceia, reconstruída com recursos próprios sem ajuda imperial segundo o mesmo Tácito. A arqueologia não contradiz nenhum dado do texto e confirma o contexto multicultural — greco-romano, frígio e judaico — pressuposto pela carta."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Cicerón, Pro Flacco 28",
+          "en": "Cicero, Pro Flacco 28",
+          "pt": "Cícero, Pro Flacco 28"
+        },
+        "origen": {
+          "es": "Discurso judicial romano, 59 a.C., referente a la confiscación del oro del impuesto del templo recogido entre judíos de las ciudades de Asia, incluida Frigia",
+          "en": "Roman judicial speech, 59 BC, concerning the confiscation of temple-tax gold collected among Jews of the cities of Asia, including Phrygia",
+          "pt": "Discurso judicial romano, 59 a.C., referente à confiscação do ouro do imposto do templo recolhido entre judeus das cidades da Ásia, incluindo a Frígia"
+        },
+        "relevancia": {
+          "es": "Confirma independientemente la presencia y el tamaño de la comunidad judía de la diáspora en la región, trasfondo necesario para entender el componente legalista de la falsa enseñanza combatida en Col 2",
+          "en": "Independently confirms the presence and size of the diaspora Jewish community in the region, background necessary to understand the legalistic component of the false teaching confronted in Col 2",
+          "pt": "Confirma independentemente a presença e o tamanho da comunidade judaica da diáspora na região, pano de fundo necessário para entender o componente legalista do falso ensino combatido em Cl 2"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Tácito, Anales 14.27",
+          "en": "Tacitus, Annals 14.27",
+          "pt": "Tácito, Anais 14.27"
+        },
+        "origen": {
+          "es": "Historia romana, c. 116 d.C., que registra el terremoto que arrasó Laodicea hacia el 60–61 d.C.",
+          "en": "Roman history, c. AD 116, recording the earthquake that devastated Laodicea around AD 60–61",
+          "pt": "História romana, c. 116 d.C., que registra o terremoto que arrasou Laodiceia por volta de 60–61 d.C."
+        },
+        "relevancia": {
+          "es": "Ayuda a fechar y contextualizar la decadencia relativa de Colosas frente a sus vecinas hacia la época en que se escribió la carta",
+          "en": "Helps date and contextualize Colossae's relative decline compared to its neighbors around the time the letter was written",
+          "pt": "Ajuda a datar e contextualizar o declínio relativo de Colossas em relação às suas vizinhas por volta da época em que a carta foi escrita"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Inscripciones funerarias y honoríficas de Colosas y Laodicea",
+          "en": "Funerary and honorific inscriptions from Colossae and Laodicea",
+          "pt": "Inscrições funerárias e honoríficas de Colossas e Laodiceia"
+        },
+        "origen": {
+          "es": "Corpus epigráfico greco-romano de Asia Menor, siglos I a.C.–II d.C.",
+          "en": "Greco-Roman epigraphic corpus of Asia Minor, 1st century BC–2nd century AD",
+          "pt": "Corpus epigráfico greco-romano da Ásia Menor, séculos I a.C.–II d.C."
+        },
+        "relevancia": {
+          "es": "Documentan la estructura social de cultos gremiales, colegios y familias extendidas que conforman el trasfondo social del código doméstico de Col 3:18–4:1",
+          "en": "Document the social structure of guild cults, associations, and extended households forming the social backdrop of the household code in Col 3:18–4:1",
+          "pt": "Documentam a estrutura social de cultos de guildas, associações e famílias estendidas que formam o pano de fundo social do código doméstico de Cl 3:18–4:1"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Existen dos debates historiográficos principales. Primero, la naturaleza exacta de la 'herejía colosense': algunos eruditos la identifican como un misticismo judío merkabá centrado en el ascenso a través de esferas angélicas (Col 2:18), otros como un proto-gnosticismo helenístico, y otros como religión popular frigia sincretizada con elementos judíos; la posición reformada, siguiendo a Bruce y O'Brien, sostiene que fue un sincretismo híbrido local —judío, ascético y filosófico-helenístico— sin necesidad de encajarlo en una categoría técnica moderna como 'gnosticismo pleno', anacrónica para el siglo I. Segundo, el lugar de la prisión desde la cual Pablo escribe: la tradición histórica sostiene Roma (c. 60–62 d.C.), consistente con Hch 28 y con la mención de la guardia pretoriana en las cartas hermanas; hipótesis modernas proponen Cesarea o una prisión efesina no registrada en Hechos, pero carecen de apoyo patrístico y complican innecesariamente la cronología paulina sin evidencia decisiva a su favor.",
+      "en": "Two main historiographical debates exist. First, the exact nature of the 'Colossian heresy': some scholars identify it as a Jewish merkabah mysticism centered on ascent through angelic spheres (Col 2:18), others as Hellenistic proto-Gnosticism, and others as Phrygian folk religion syncretized with Jewish elements; the Reformed position, following Bruce and O'Brien, holds that it was a local hybrid syncretism — Jewish, ascetic, and Hellenistic-philosophical — without needing to fit it into a modern technical category like 'full Gnosticism,' anachronistic for the first century. Second, the location of the imprisonment from which Paul writes: historic tradition holds Rome (c. AD 60–62), consistent with Acts 28 and the mention of the praetorian guard in the sister letters; modern hypotheses propose Caesarea or an unrecorded Ephesian imprisonment, but these lack patristic support and needlessly complicate the Pauline chronology without decisive evidence in their favor.",
+      "pt": "Existem dois debates historiográficos principais. Primeiro, a natureza exata da 'heresia colossense': alguns estudiosos a identificam como um misticismo judaico merkabá centrado na ascensão por esferas angélicas (Cl 2:18), outros como proto-gnosticismo helenístico, e outros como religião popular frígia sincretizada com elementos judaicos; a posição reformada, seguindo Bruce e O'Brien, sustenta que foi um sincretismo híbrido local — judaico, ascético e filosófico-helenístico — sem necessidade de encaixá-lo em uma categoria técnica moderna como 'gnosticismo pleno', anacrônica para o século I. Segundo, o local da prisão de onde Paulo escreve: a tradição histórica sustenta Roma (c. 60–62 d.C.), consistente com At 28 e com a menção da guarda pretoriana nas cartas irmãs; hipóteses modernas propõem Cesareia ou uma prisão efésia não registrada em Atos, mas carecem de apoio patrístico e complicam desnecessariamente a cronologia paulina sem evidência decisiva a seu favor."
+    },
+    "cronologiaInterna": {
+      "es": "Epafras, quien había fundado o consolidado la iglesia de Colosas (Col 1:7), viaja hasta Roma y visita a Pablo en prisión, informándole tanto del amor genuino de la congregación (Col 1:8) como de la amenaza doctrinal que enfrentaba (Col 2:4,8). En respuesta, Pablo, junto con Timoteo (Col 1:1), dicta la carta y la confía a Tíquico, quien viaja acompañado de Onésimo —el esclavo fugitivo ahora convertido, que regresa a su amo Filemón en Colosas con la carta homónima adjunta (Col 4:7–9)—. Pablo ordena además que la carta circule también en Laodicea y que se lea allí la epístola que él envía a esa iglesia (Col 4:16), y cierra dando instrucciones a Arquipo para que cumpla el ministerio recibido (Col 4:17).",
+      "en": "Epaphras, who had founded or strengthened the church at Colossae (Col 1:7), travels to Rome and visits Paul in prison, informing him both of the congregation's genuine love (Col 1:8) and of the doctrinal threat it faced (Col 2:4,8). In response, Paul, together with Timothy (Col 1:1), dictates the letter and entrusts it to Tychicus, who travels accompanied by Onesimus — the converted runaway slave now returning to his master Philemon at Colossae with the companion letter attached (Col 4:7–9). Paul further orders that the letter also circulate at Laodicea and that the epistle he sends to that church be read there as well (Col 4:16), closing with instructions for Archippus to fulfill the ministry he received (Col 4:17).",
+      "pt": "Epafras, que havia fundado ou fortalecido a igreja de Colossas (Cl 1:7), viaja até Roma e visita Paulo na prisão, informando-o tanto do amor genuíno da congregação (Cl 1:8) quanto da ameaça doutrinária que ela enfrentava (Cl 2:4,8). Em resposta, Paulo, junto com Timóteo (Cl 1:1), dita a carta e a confia a Tíquico, que viaja acompanhado de Onésimo — o escravo fugitivo agora convertido, que retorna ao seu senhor Filemom em Colossas com a carta homônima anexa (Cl 4:7–9). Paulo ainda ordena que a carta também circule em Laodiceia e que se leia ali a epístola que ele envia àquela igreja (Cl 4:16), encerrando com instruções a Arquipo para que cumpra o ministério recebido (Cl 4:17)."
+    }
+  },
+  "ordenEnDivision": 7,
+  "ordenCanon": 51,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Colosenses contiene la afirmación cristológica más densa del Nuevo Testamento: Cristo es la imagen (eikon) del Dios invisible, el primogénito (prototokos, prioridad de rango, no origen temporal) de toda la creación, mediante quien y para quien fueron creadas todas las cosas visibles e invisibles, tronos, dominios, principados y potestades (Col 1:15–17). Es también cabeza del cuerpo, la iglesia, primicia de la resurrección, en quien plugo al Padre hacer habitar toda la plenitud (Col 1:18–19), y en quien —de forma corporal, no meramente simbólica— habita toda la plenitud de la Deidad (Col 2:9). Esta cristología cósmica desplaza cualquier pretensión de mediadores angélicos o mistéricos: si Cristo creó y sostiene los 'principados y potestades', ninguna filosofía puede colocarlos como intermediarios necesarios entre el creyente y Dios (Col 2:10,15).",
+      "en": "Colossians contains the densest christological affirmation in the New Testament: Christ is the image (eikon) of the invisible God, the firstborn (prototokos, priority of rank, not temporal origin) of all creation, through whom and for whom all things visible and invisible, thrones, dominions, rulers, and powers were created (Col 1:15–17). He is also head of the body, the church, the firstfruits of the resurrection, in whom the Father was pleased to have all the fullness dwell (Col 1:18–19), and in whom — bodily, not merely symbolically — the whole fullness of deity dwells (Col 2:9). This cosmic Christology displaces any claim to angelic or mystery-cult mediators: if Christ created and sustains the 'rulers and authorities,' no philosophy can position them as necessary intermediaries between the believer and God (Col 2:10,15).",
+      "pt": "Colossenses contém a afirmação cristológica mais densa do Novo Testamento: Cristo é a imagem (eikon) do Deus invisível, o primogênito (prototokos, prioridade de posição, não origem temporal) de toda a criação, por meio de quem e para quem foram criadas todas as coisas visíveis e invisíveis, tronos, domínios, principados e potestades (Cl 1:15–17). É também cabeça do corpo, a igreja, primícias da ressurreição, em quem aprouve ao Pai fazer habitar toda a plenitude (Cl 1:18–19), e em quem — corporalmente, não apenas simbolicamente — habita toda a plenitude da Divindade (Cl 2:9). Essa cristologia cósmica desloca qualquer pretensão de mediadores angélicos ou mistéricos: se Cristo criou e sustenta os 'principados e potestades', nenhuma filosofia pode colocá-los como intermediários necessários entre o crente e Deus (Cl 2:10,15)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Las prescripciones de comida, bebida, festividades, luna nueva y sábados eran 'sombra de lo que ha de venir', pero el cuerpo (la sustancia, soma) es de Cristo (Col 2:16–17), lo cual declara explícitamente que la ley ceremonial mosaica prefiguraba y ahora se cumple en la persona de Cristo",
+        "en": "The prescriptions concerning food, drink, festivals, new moons, and sabbaths were 'a shadow of the things to come,' but the substance (soma) belongs to Christ (Col 2:16–17), explicitly declaring that the Mosaic ceremonial law prefigured and is now fulfilled in the person of Christ",
+        "pt": "As prescrições de comida, bebida, festividades, lua nova e sábados eram 'sombra das coisas que haviam de vir', mas o corpo (a substância, soma) é de Cristo (Cl 2:16–17), o que declara explicitamente que a lei cerimonial mosaica prefigurava e agora se cumpre na pessoa de Cristo"
+      },
+      {
+        "es": "La circuncisión física del pacto mosaico halla su antitipo en 'la circuncisión de Cristo', la circuncisión del corazón obrada espiritualmente en el bautismo y la unión con la muerte y resurrección de Cristo (Col 2:11–12; cf. Dt 30:6)",
+        "en": "The physical circumcision of the Mosaic covenant finds its antitype in 'the circumcision of Christ,' the circumcision of the heart accomplished spiritually in baptism and union with Christ's death and resurrection (Col 2:11–12; cf. Deut 30:6)",
+        "pt": "A circuncisão física do pacto mosaico encontra seu antítipo na 'circuncisão de Cristo', a circuncisão do coração operada espiritualmente no batismo e na união com a morte e ressurreição de Cristo (Cl 2:11–12; cf. Dt 30:6)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Colosenses aporta al canon la exposición cristológica más elevada y concentrada del Nuevo Testamento (el himno de Col 1:15–20), formulada precisamente para refutar un sincretismo que ninguna otra carta paulina enfrenta con este perfil específico —mezcla de misticismo angélico, ascetismo y legalismo judaizante—. Es la única epístola que declara explícitamente que la Deidad habita en Cristo 'corporalmente' (Col 2:9) y que las ordenanzas ceremoniales del Antiguo Testamento son 'sombra' cuya 'sustancia' es Cristo (Col 2:17), proporcionando el marco hermenéutico más claro de todo el canon para leer la ley ceremonial en clave cristológica. Su código doméstico (Col 3:18–4:1), aunque paralelo al de Efesios, es más compacto y añade la motivación explícita 'como para el Señor' que reorienta toda ética doméstica cristiana en torno al señorío de Cristo. También preserva, de forma única, la mención de una carta perdida a los Laodicenses (Col 4:16), testimonio de una correspondencia paulina más amplia que la contenida en el canon.",
+    "en": "Colossians contributes to the canon the highest and most concentrated christological exposition in the New Testament (the hymn of Col 1:15–20), formulated precisely to refute a syncretism no other Pauline letter confronts with this specific profile — a blend of angelic mysticism, asceticism, and Judaizing legalism. It is the only epistle to declare explicitly that deity dwells in Christ 'bodily' (Col 2:9) and that the ceremonial ordinances of the Old Testament are a 'shadow' whose 'substance' is Christ (Col 2:17), providing the clearest hermeneutical framework in the whole canon for reading the ceremonial law christologically. Its household code (Col 3:18–4:1), though parallel to Ephesians', is more compact and adds the explicit motivation 'as to the Lord,' which reorients all Christian domestic ethics around the lordship of Christ. It also uniquely preserves the mention of a lost letter to the Laodiceans (Col 4:16), evidence of a wider Pauline correspondence than what the canon contains.",
+    "pt": "Colossenses contribui para o cânon com a exposição cristológica mais elevada e concentrada do Novo Testamento (o hino de Cl 1:15–20), formulada precisamente para refutar um sincretismo que nenhuma outra carta paulina enfrenta com esse perfil específico — mistura de misticismo angélico, ascetismo e legalismo judaizante. É a única epístola a declarar explicitamente que a Divindade habita em Cristo 'corporalmente' (Cl 2:9) e que as ordenanças cerimoniais do Antigo Testamento são 'sombra' cuja 'substância' é Cristo (Cl 2:17), fornecendo o quadro hermenêutico mais claro de todo o cânon para ler a lei cerimonial em chave cristológica. Seu código doméstico (Cl 3:18–4:1), embora paralelo ao de Efésios, é mais compacto e acrescenta a motivação explícita 'como ao Senhor', que reorienta toda a ética doméstica cristã em torno do senhorio de Cristo. Também preserva, de forma única, a menção de uma carta perdida aos Laodicenses (Cl 4:16), testemunho de uma correspondência paulina mais ampla do que a contida no cânon."
+  },
+  "genero": {
+    "es": "Epístola (carta apostólica polémico-doctrinal)",
+    "en": "Epistle (polemical-doctrinal apostolic letter)",
+    "pt": "Epístola (carta apostólica polêmico-doutrinária)"
+  },
+  "palabraClave": {
+    "es": [
+      "Preeminencia",
+      "Plenitud",
+      "Reconciliación"
+    ],
+    "en": [
+      "Preeminence",
+      "Fullness",
+      "Reconciliation"
+    ],
+    "pt": [
+      "Preeminência",
+      "Plenitude",
+      "Reconciliação"
+    ]
+  },
+  "destinatario": {
+    "es": "La iglesia de Colosas, una congregación gentil con un componente judío, situada en el valle del río Licos en la provincia romana de Asia, fundada no personalmente por Pablo sino por su colaborador Epafras (Col 1:7; 2:1), y amenazada por una enseñanza sincretista de raíces judías, ascéticas y filosófico-místicas",
+    "en": "The church at Colossae, a Gentile congregation with a Jewish component, located in the Lycus River valley in the Roman province of Asia, founded not personally by Paul but by his coworker Epaphras (Col 1:7; 2:1), and threatened by a syncretistic teaching with Jewish, ascetic, and philosophical-mystical roots",
+    "pt": "A igreja de Colossas, uma congregação gentia com um componente judaico, situada no vale do rio Lico, na província romana da Ásia, fundada não pessoalmente por Paulo mas por seu colaborador Epafras (Cl 1:7; 2:1), e ameaçada por um ensino sincretista de raízes judaicas, ascéticas e filosófico-místicas"
+  },
+  "proposito": {
+    "es": "Históricamente, Pablo escribe al recibir de Epafras el informe de una enseñanza que amenazaba a la congregación, combinando ascetismo corporal, observancias legales judías (comida, calendario, circuncisión) y una veneración de ángeles o poderes cósmicos que reclamaba visiones y humildad aparente (Col 2:8,16,18,20–23). Teológicamente, su propósito es exponer la supremacía absoluta y la suficiencia total de Cristo —en quien habita toda la plenitud de la Deidad corporalmente (Col 2:9) y en quien los creyentes están 'completos' (Col 2:10)— de modo que ninguna filosofía, tradición humana, práctica ascética o intermediario espiritual pueda añadir nada a la obra ya consumada de reconciliación lograda en la cruz (Col 1:20,22; 2:14–15), y para instruir a la congregación en una ética consecuente con esa unión vital con Cristo (Col 3:1–4:6).",
+    "en": "Historically, Paul writes upon receiving Epaphras's report of a teaching threatening the congregation, combining bodily asceticism, Jewish legal observances (food, calendar, circumcision), and a veneration of angels or cosmic powers claiming visions and apparent humility (Col 2:8,16,18,20–23). Theologically, his purpose is to expose the absolute supremacy and total sufficiency of Christ — in whom the whole fullness of deity dwells bodily (Col 2:9) and in whom believers are 'complete' (Col 2:10) — so that no philosophy, human tradition, ascetic practice, or spiritual intermediary can add anything to the reconciliation already accomplished on the cross (Col 1:20,22; 2:14–15), and to instruct the congregation in an ethic consistent with that vital union with Christ (Col 3:1–4:6).",
+    "pt": "Historicamente, Paulo escreve ao receber de Epafras o relato de um ensino que ameaçava a congregação, combinando ascetismo corporal, observâncias legais judaicas (comida, calendário, circuncisão) e uma veneração de anjos ou poderes cósmicos que reivindicava visões e humildade aparente (Cl 2:8,16,18,20–23). Teologicamente, seu propósito é expor a supremacia absoluta e a suficiência total de Cristo — em quem habita corporalmente toda a plenitude da Divindade (Cl 2:9) e em quem os crentes estão 'completos' (Cl 2:10) — de modo que nenhuma filosofia, tradição humana, prática ascética ou intermediário espiritual possa acrescentar algo à obra já consumada de reconciliação realizada na cruz (Cl 1:20,22; 2:14–15), e instruir a congregação em uma ética consequente com essa união vital com Cristo (Cl 3:1–4:6)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Cristo",
+        "en": "Christ",
+        "pt": "Cristo"
+      },
+      "hebreo": "Χριστός",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "El sujeto central de toda la carta: imagen del Dios invisible, primogénito de toda creación, creador y sustentador de todas las cosas visibles e invisibles, cabeza del cuerpo que es la iglesia, y aquel en quien habita corporalmente toda la plenitud de la Deidad (Col 1:15–20; 2:9).",
+        "en": "The central subject of the entire letter: the image of the invisible God, firstborn of all creation, creator and sustainer of all things visible and invisible, head of the body which is the church, and the one in whom the whole fullness of deity dwells bodily (Col 1:15–20; 2:9).",
+        "pt": "O sujeito central de toda a carta: imagem do Deus invisível, primogênito de toda a criação, criador e sustentador de todas as coisas visíveis e invisíveis, cabeça do corpo que é a igreja, e aquele em quem habita corporalmente toda a plenitude da Divindade (Cl 1:15–20; 2:9)."
+      },
+      "acciones": {
+        "es": "Crea y sostiene el universo (Col 1:16–17), reconcilia todas las cosas consigo mismo haciendo la paz mediante la sangre de su cruz (Col 1:20), despoja a los principados y potestades exhibiéndolos en triunfo (Col 2:15), y resucita a los creyentes juntamente con él, sentándolos en la esperanza de la gloria (Col 2:12–13; 3:1,4).",
+        "en": "He creates and sustains the universe (Col 1:16–17), reconciles all things to himself, making peace by the blood of his cross (Col 1:20), disarms the rulers and authorities, putting them to open shame in triumph (Col 2:15), and raises believers together with himself, seating them in the hope of glory (Col 2:12–13; 3:1,4).",
+        "pt": "Cria e sustenta o universo (Cl 1:16–17), reconcilia todas as coisas consigo mesmo, fazendo a paz pelo sangue de sua cruz (Cl 1:20), despoja os principados e potestades, expondo-os publicamente em triunfo (Cl 2:15), e ressuscita os crentes juntamente com ele, assentando-os na esperança da glória (Cl 2:12–13; 3:1,4)."
+      },
+      "significadoTeologico": {
+        "es": "Cristo es presentado como el punto de convergencia absoluto de la creación, la redención y la consumación: en él, por él y para él existen todas las cosas (Col 1:16), y en él los creyentes alcanzan la plenitud (plēróō) que ninguna filosofía ni ritual puede añadir (Col 2:10). Es la clave hermenéutica que reduce a sombra cualquier institución del antiguo pacto (Col 2:17).",
+        "en": "Christ is presented as the absolute point of convergence of creation, redemption, and consummation: in him, through him, and for him all things exist (Col 1:16), and in him believers reach a fullness (plēróō) that no philosophy or ritual can add to (Col 2:10). He is the hermeneutical key that reduces every institution of the old covenant to shadow (Col 2:17).",
+        "pt": "Cristo é apresentado como o ponto de convergência absoluto da criação, da redenção e da consumação: nele, por ele e para ele existem todas as coisas (Cl 1:16), e nele os crentes alcançam a plenitude (plēróō) que nenhuma filosofia ou ritual pode acrescentar (Cl 2:10). É a chave hermenêutica que reduz a sombra qualquer instituição do antigo pacto (Cl 2:17)."
+      },
+      "tipo": {
+        "es": "No es tipo sino antitipo: la sustancia (soma) a la cual apuntaban las sombras del antiguo pacto —comida, festividades, sábados, circuncisión— hallan en él su cumplimiento (Col 2:11,17)",
+        "en": "He is not a type but the antitype: the substance (soma) to which the shadows of the old covenant — food, festivals, sabbaths, circumcision — pointed, finding their fulfillment in him (Col 2:11,17)",
+        "pt": "Não é tipo, mas antítipo: a substância (soma) para a qual apontavam as sombras do antigo pacto — comida, festividades, sábados, circuncisão — encontram nele seu cumprimento (Cl 2:11,17)"
+      },
+      "caracterMoral": {
+        "es": "Perfecta santidad y señorío absoluto; su supremacía no es meramente moral sino ontológica y cósmica, fundamento de toda ética cristiana derivada (Col 3:1–4)",
+        "en": "Perfect holiness and absolute lordship; his supremacy is not merely moral but ontological and cosmic, the foundation of all derived Christian ethics (Col 3:1–4)",
+        "pt": "Santidade perfeita e senhorio absoluto; sua supremacia não é meramente moral, mas ontológica e cósmica, fundamento de toda a ética cristã derivada (Cl 3:1–4)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "La carta no narra episodios de la vida terrena de Cristo, sino que expone su identidad y obra cósmica: creador antes de toda cosa (Col 1:17), reconciliador mediante su sangre en la cruz (Col 1:20,22), resucitado como primicia y cabeza (Col 1:18), y actualmente sentado en autoridad tras haber despojado a los poderes hostiles (Col 2:15; 3:1).",
+          "en": "The letter does not narrate episodes of Christ's earthly life but expounds his cosmic identity and work: creator before all things (Col 1:17), reconciler through his blood on the cross (Col 1:20,22), risen as firstfruits and head (Col 1:18), and presently seated in authority after disarming the hostile powers (Col 2:15; 3:1).",
+          "pt": "A carta não narra episódios da vida terrena de Cristo, mas expõe sua identidade e obra cósmica: criador antes de todas as coisas (Cl 1:17), reconciliador por meio de seu sangue na cruz (Cl 1:20,22), ressuscitado como primícias e cabeça (Cl 1:18), e atualmente assentado em autoridade após despojar os poderes hostis (Cl 2:15; 3:1)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Col 1:15",
+          "Col 1:16-17",
+          "Col 1:18-20",
+          "Col 2:9",
+          "Col 2:15",
+          "Col 3:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Fuera del texto bíblico, la existencia histórica de Jesús de Nazaret está atestiguada por Flavio Josefo (Antigüedades 18.63–64, con interpolaciones posteriores pero un núcleo aceptado), Tácito (Anales 15.44) y Suetonio (Vida de Claudio 25), quienes confirman su ejecución bajo Poncio Pilato y la existencia temprana del movimiento cristiano que confesaba su resurrección.",
+          "en": "Outside the biblical text, the historical existence of Jesus of Nazareth is attested by Flavius Josephus (Antiquities 18.63–64, with later interpolations but an accepted core), Tacitus (Annals 15.44), and Suetonius (Life of Claudius 25), who confirm his execution under Pontius Pilate and the early existence of the Christian movement confessing his resurrection.",
+          "pt": "Fora do texto bíblico, a existência histórica de Jesus de Nazaré é atestada por Flávio Josefo (Antiguidades 18.63–64, com interpolações posteriores mas um núcleo aceito), Tácito (Anais 15.44) e Suetônio (Vida de Cláudio 25), que confirmam sua execução sob Pôncio Pilatos e a existência precoce do movimento cristão que confessava sua ressurreição."
+        },
+        "fuentes": [
+          {
+            "titulo": "Antiquities of the Jews",
+            "autor": "Flavius Josephus",
+            "año": 93,
+            "editorial": "N/A (manuscrito antiguo)",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Las fuentes extrabíblicas concuerdan con el retrato paulino en lo históricamente verificable (existencia, ejecución bajo Pilato, movimiento de seguidores), sin poder ni pretender confirmar las afirmaciones de fe sobre su preexistencia divina y resurrección, que pertenecen al testimonio apostólico inspirado.",
+          "en": "The extra-biblical sources agree with the Pauline portrait on what is historically verifiable (existence, execution under Pilate, movement of followers), without being able or intending to confirm the faith claims about his divine preexistence and resurrection, which belong to inspired apostolic testimony.",
+          "pt": "As fontes extrabíblicas concordam com o retrato paulino no que é historicamente verificável (existência, execução sob Pilatos, movimento de seguidores), sem poder ou pretender confirmar as afirmações de fé sobre sua preexistência divina e ressurreição, que pertencem ao testemunho apostólico inspirado."
+        }
+      },
+      "versiculosAsociados": [
+        "Col 1:15",
+        "Col 1:27",
+        "Col 2:9",
+        "Col 2:10",
+        "Col 3:1",
+        "Col 3:4"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Jn",
+        "Fil",
+        "Ef",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El himno cristológico de Col 1:15–20 comparte lenguaje y estructura con Fil 2:6–11, Jn 1:1–18 y He 1:1–3, formando parte de una tradición himnódica primitiva sobre la preexistencia y supremacía de Cristo compartida por múltiples autores del Nuevo Testamento",
+        "en": "The christological hymn of Col 1:15–20 shares language and structure with Phil 2:6–11, John 1:1–18, and Heb 1:1–3, forming part of an early hymnic tradition about Christ's preexistence and supremacy shared by multiple New Testament authors",
+        "pt": "O hino cristológico de Cl 1:15–20 compartilha linguagem e estrutura com Fp 2:6–11, Jo 1:1–18 e Hb 1:1–3, fazendo parte de uma tradição hínica primitiva sobre a preexistência e supremacia de Cristo compartilhada por múltiplos autores do Novo Testamento"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Pablo",
+        "en": "Paul",
+        "pt": "Paulo"
+      },
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "Apóstol de Jesucristo por la voluntad de Dios (Col 1:1), autor de la carta, prisionero en Roma, que aunque nunca visitó personalmente Colosas (Col 2:1) siente por la congregación una carga pastoral intensa expresada en oración, lucha (agón) y sufrimiento vicario (Col 1:24,29; 2:1).",
+        "en": "Apostle of Jesus Christ by the will of God (Col 1:1), author of the letter, a prisoner in Rome, who although he never personally visited Colossae (Col 2:1) feels an intense pastoral burden for the congregation expressed in prayer, struggle (agōn), and vicarious suffering (Col 1:24,29; 2:1).",
+        "pt": "Apóstolo de Jesus Cristo pela vontade de Deus (Cl 1:1), autor da carta, prisioneiro em Roma, que embora nunca tenha visitado pessoalmente Colossas (Cl 2:1) sente pela congregação uma carga pastoral intensa expressa em oração, luta (agōn) e sofrimento vicário (Cl 1:24,29; 2:1)."
+      },
+      "acciones": {
+        "es": "Ora sin cesar por los colosenses (Col 1:3,9), se regocija en sus padecimientos y completa en su carne 'lo que falta de las aflicciones de Cristo' por el cuerpo de Cristo (Col 1:24), advierte contra la filosofía vana y el legalismo (Col 2:4,8), y envía a Tíquico y Onésimo con instrucciones detalladas (Col 4:7–9).",
+        "en": "He prays unceasingly for the Colossians (Col 1:3,9), rejoices in his sufferings and completes in his flesh 'what is lacking in Christ's afflictions' for the sake of Christ's body (Col 1:24), warns against vain philosophy and legalism (Col 2:4,8), and sends Tychicus and Onesimus with detailed instructions (Col 4:7–9).",
+        "pt": "Ora sem cessar pelos colossenses (Cl 1:3,9), alegra-se em seus sofrimentos e completa em sua carne 'o que falta das aflições de Cristo' pelo corpo de Cristo (Cl 1:24), adverte contra a filosofia vã e o legalismo (Cl 2:4,8), e envia Tíquico e Onésimo com instruções detalhadas (Cl 4:7–9)."
+      },
+      "significadoTeologico": {
+        "es": "Pablo modela el ministerio apostólico como participación sufriente en la aflicción de Cristo por amor a la iglesia (Col 1:24), y como mayordomía (oikonomia) del misterio ahora revelado: Cristo en los gentiles, la esperanza de gloria (Col 1:25–27)",
+        "en": "Paul models apostolic ministry as suffering participation in Christ's affliction for love of the church (Col 1:24), and as stewardship (oikonomia) of the mystery now revealed: Christ in the Gentiles, the hope of glory (Col 1:25–27)",
+        "pt": "Paulo modela o ministério apostólico como participação sofredora na aflição de Cristo por amor à igreja (Cl 1:24), e como mordomia (oikonomia) do mistério agora revelado: Cristo nos gentios, a esperança da glória (Cl 1:25–27)"
+      },
+      "tipo": {
+        "es": "No aplica; figura histórica sin función tipológica",
+        "en": "Not applicable; a historical figure without a typological function",
+        "pt": "Não se aplica; figura histórica sem função tipológica"
+      },
+      "caracterMoral": {
+        "es": "Fiel mayordomo del evangelio, dispuesto a sufrir por la iglesia; su firma de puño y letra al final (Col 4:18) certifica personalmente la autenticidad y autoridad apostólica de la carta",
+        "en": "A faithful steward of the gospel, willing to suffer for the church; his own handwritten signature at the end (Col 4:18) personally certifies the letter's authenticity and apostolic authority",
+        "pt": "Fiel mordomo do evangelho, disposto a sofrer pela igreja; sua assinatura de próprio punho ao final (Cl 4:18) certifica pessoalmente a autenticidade e a autoridade apostólica da carta"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Se presenta como apóstol por voluntad de Dios junto con Timoteo (Col 1:1), prisionero por causa del evangelio (Col 4:3,18), ministro conforme a la mayordomía que Dios le dio (Col 1:23,25), que nunca ha visto en persona a los colosenses ni a los de Laodicea (Col 2:1) pero lucha por ellos en oración.",
+          "en": "He presents himself as an apostle by the will of God together with Timothy (Col 1:1), a prisoner for the sake of the gospel (Col 4:3,18), a minister according to the stewardship God gave him (Col 1:23,25), who has never seen the Colossians or the Laodiceans in person (Col 2:1) but struggles for them in prayer.",
+          "pt": "Apresenta-se como apóstolo pela vontade de Deus junto com Timóteo (Cl 1:1), prisioneiro por causa do evangelho (Cl 4:3,18), ministro conforme a mordomia que Deus lhe deu (Cl 1:23,25), que nunca viu pessoalmente os colossenses nem os de Laodiceia (Cl 2:1), mas luta por eles em oração."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Col 1:1",
+          "Col 1:23-25",
+          "Col 1:29",
+          "Col 2:1",
+          "Col 4:18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Saulo/Pablo de Tarso, fariseo formado bajo Gamaliel (Hch 22:3), perseguidor convertido en el camino a Damasco (Hch 9), apóstol a los gentiles cuyos viajes misioneros están confirmados por su propia correspondencia y por Hechos; su primera prisión romana (c. 60–62 d.C.) bajo arresto domiciliario está documentada en Hch 28:16,30–31.",
+          "en": "Saul/Paul of Tarsus, a Pharisee trained under Gamaliel (Acts 22:3), a persecutor converted on the road to Damascus (Acts 9), apostle to the Gentiles whose missionary journeys are confirmed by his own correspondence and by Acts; his first Roman imprisonment (c. AD 60–62) under house arrest is documented in Acts 28:16,30–31.",
+          "pt": "Saulo/Paulo de Tarso, fariseu formado sob Gamaliel (At 22:3), perseguidor convertido no caminho de Damasco (At 9), apóstolo aos gentios cujas viagens missionárias são confirmadas por sua própria correspondência e por Atos; sua primeira prisão romana (c. 60–62 d.C.) sob prisão domiciliar está documentada em At 28:16,30–31."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "contextoHistorico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El retrato de Pablo en Colosenses —prisionero, en compañía de Timoteo y varios colaboradores judíos y gentiles— concuerda plenamente con la cronología de Hechos 28 y con el testimonio unánime de la iglesia primitiva sobre su primera prisión romana.",
+          "en": "The portrait of Paul in Colossians — a prisoner, in the company of Timothy and several Jewish and Gentile coworkers — fully agrees with the chronology of Acts 28 and the unanimous testimony of the early church regarding his first Roman imprisonment.",
+          "pt": "O retrato de Paulo em Colossenses — prisioneiro, na companhia de Timóteo e vários colaboradores judeus e gentios — concorda plenamente com a cronologia de Atos 28 e com o testemunho unânime da igreja primitiva sobre sua primeira prisão romana."
+        }
+      },
+      "versiculosAsociados": [
+        "Col 1:1",
+        "Col 1:24",
+        "Col 1:29",
+        "Col 4:3",
+        "Col 4:18"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "2Ti",
+        "Tit",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Colosenses forma con Efesios, Filipenses y Filemón el grupo de las 'epístolas de la prisión', escritas en el mismo período y compartiendo colaboradores comunes (Tíquico, Onésimo, Marcos, Aristarco, Demas, Lucas — cf. Ef 6:21; Flm 1,10,23–24)",
+        "en": "Colossians forms with Ephesians, Philippians, and Philemon the group of 'prison epistles,' written in the same period and sharing common coworkers (Tychicus, Onesimus, Mark, Aristarchus, Demas, Luke — cf. Eph 6:21; Phlm 1,10,23–24)",
+        "pt": "Colossenses forma com Efésios, Filipenses e Filemom o grupo das 'epístolas da prisão', escritas no mesmo período e compartilhando colaboradores comuns (Tíquico, Onésimo, Marcos, Aristarco, Demas, Lucas — cf. Ef 6:21; Fm 1,10,23–24)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Epafras",
+        "en": "Epaphras",
+        "pt": "Epafras"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        4
+      ],
+      "descripcion": {
+        "es": "Consiervo amado de Pablo y fiel ministro de Cristo en favor de los colosenses (Col 1:7), probablemente el evangelista fundador de las iglesias del valle del Licos —Colosas, Laodicea y Hierápolis— durante el ministerio de Pablo en Éfeso (cf. Hch 19:10).",
+        "en": "A beloved fellow servant of Paul and a faithful minister of Christ on behalf of the Colossians (Col 1:7), probably the founding evangelist of the Lycus Valley churches — Colossae, Laodicea, and Hierapolis — during Paul's Ephesian ministry (cf. Acts 19:10).",
+        "pt": "Consservo amado de Paulo e fiel ministro de Cristo em favor dos colossenses (Cl 1:7), provavelmente o evangelista fundador das igrejas do vale do Lico — Colossas, Laodiceia e Hierápolis — durante o ministério de Paulo em Éfeso (cf. At 19:10)."
+      },
+      "acciones": {
+        "es": "Informa a Pablo del amor de la congregación en el Espíritu (Col 1:8), y lucha constantemente en oración por los colosenses, para que estén firmes, perfectos y completamente convencidos en toda la voluntad de Dios (Col 4:12); comparte además la prisión de Pablo (Col 4:12; cf. Flm 23).",
+        "en": "He informs Paul of the congregation's love in the Spirit (Col 1:8), and struggles constantly in prayer for the Colossians, that they may stand mature and fully assured in all the will of God (Col 4:12); he also shares Paul's imprisonment (Col 4:12; cf. Phlm 23).",
+        "pt": "Informa a Paulo o amor da congregação no Espírito (Cl 1:8), e luta constantemente em oração pelos colossenses, para que estejam firmes, perfeitos e plenamente convencidos em toda a vontade de Deus (Cl 4:12); compartilha ainda a prisão de Paulo (Cl 4:12; cf. Fm 23)."
+      },
+      "significadoTeologico": {
+        "es": "Modelo del ministro fiel cuya labor pastoral se ejerce principalmente en oración intercesora agónica (Col 4:12–13), mostrando que el cuidado pastoral por una congregación puede continuar a la distancia mediante la súplica constante",
+        "en": "A model of the faithful minister whose pastoral labor is exercised primarily through agonizing intercessory prayer (Col 4:12–13), showing that pastoral care for a congregation can continue at a distance through constant supplication",
+        "pt": "Modelo do ministro fiel cuja labuta pastoral se exerce principalmente em oração intercessora agônica (Cl 4:12–13), mostrando que o cuidado pastoral por uma congregação pode continuar à distância mediante súplica constante"
+      },
+      "tipo": {
+        "es": "No es tipo sino figura histórica; su rol de intercesor agónico ilustra la obra continua del Espíritu en la iglesia, sin función tipológica formal",
+        "en": "Not a type but a historical figure; his role as agonizing intercessor illustrates the Spirit's ongoing work in the church, without a formal typological function",
+        "pt": "Não é tipo, mas figura histórica; seu papel de intercessor agônico ilustra a obra contínua do Espírito na igreja, sem função tipológica formal"
+      },
+      "caracterMoral": {
+        "es": "Descrito con tres elogios superlativos —consiervo amado, fiel ministro, siervo de Cristo que lucha en oración— reflejando un carácter de devoción pastoral ejemplar (Col 1:7; 4:12–13)",
+        "en": "Described with three superlative commendations — beloved fellow servant, faithful minister, servant of Christ who struggles in prayer — reflecting a character of exemplary pastoral devotion (Col 1:7; 4:12–13)",
+        "pt": "Descrito com três elogios superlativos — consservo amado, fiel ministro, servo de Cristo que luta em oração — refletindo um caráter de devoção pastoral exemplar (Cl 1:7; 4:12–13)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Presentado como quien enseñó el evangelio a los colosenses en nombre de Pablo (Col 1:7), viajó hasta Roma para informar a Pablo (Col 1:8), y continúa intercediendo con fervor por las tres iglesias del valle del Licos (Col 4:12–13), compartiendo la prisión de Pablo (Flm 23).",
+          "en": "Presented as the one who taught the Colossians the gospel on Paul's behalf (Col 1:7), traveled to Rome to inform Paul (Col 1:8), and continues to intercede fervently for the three Lycus Valley churches (Col 4:12–13), sharing Paul's imprisonment (Phlm 23).",
+          "pt": "Apresentado como aquele que ensinou o evangelho aos colossenses em nome de Paulo (Cl 1:7), viajou até Roma para informar Paulo (Cl 1:8), e continua intercedendo com fervor pelas três igrejas do vale do Lico (Cl 4:12–13), compartilhando a prisão de Paulo (Fm 23)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Col 1:7-8",
+          "Col 4:12-13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Nombre abreviado de Epafrodito, aunque distinto del Epafrodito de Fil 2:25; probablemente colosense de nacimiento (Col 4:12, 'uno de vosotros'), convertido durante el ministerio efesino de Pablo (c. 52–55 d.C.) y comisionado para fundar las iglesias de su región natal.",
+          "en": "A shortened form of Epaphroditus, though distinct from the Epaphroditus of Phil 2:25; probably a native of Colossae (Col 4:12, 'one of you'), converted during Paul's Ephesian ministry (c. AD 52–55) and commissioned to found the churches of his home region.",
+          "pt": "Forma abreviada de Epafrodito, embora distinto do Epafrodito de Fp 2:25; provavelmente colossense de nascimento (Cl 4:12, 'um de vós'), convertido durante o ministério efésio de Paulo (c. 52–55 d.C.) e comissionado para fundar as igrejas de sua região natal."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Epistles to the Colossians, to Philemon, and to the Ephesians (NICNT)",
+            "autor": "F.F. Bruce",
+            "año": 1984,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "No hay evidencia extrabíblica independiente sobre Epafras; toda reconstrucción depende de las tres menciones paulinas (Col 1:7; 4:12; Flm 23), las cuales son internamente consistentes entre sí.",
+          "en": "There is no independent extra-biblical evidence for Epaphras; all reconstruction depends on the three Pauline mentions (Col 1:7; 4:12; Phlm 23), which are internally consistent with one another.",
+          "pt": "Não há evidência extrabíblica independente sobre Epafras; toda reconstrução depende das três menções paulinas (Cl 1:7; 4:12; Fm 23), que são internamente consistentes entre si."
+        }
+      },
+      "versiculosAsociados": [
+        "Col 1:7",
+        "Col 1:8",
+        "Col 4:12",
+        "Col 4:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Aparece también en Flm 23 como 'compañero de prisión' de Pablo, confirmando la simultaneidad de Colosenses y Filemón",
+        "en": "He also appears in Phlm 23 as Paul's 'fellow prisoner,' confirming the simultaneity of Colossians and Philemon",
+        "pt": "Aparece também em Fm 23 como 'companheiro de prisão' de Paulo, confirmando a simultaneidade de Colossenses e Filemom"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Timoteo",
+        "en": "Timothy",
+        "pt": "Timóteo"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El hermano, coautor nominal de la carta junto con Pablo (Col 1:1), joven colaborador de origen mixto judío-gentil (Hch 16:1) que acompañaba a Pablo en su ministerio y prisión.",
+        "en": "The brother, nominal co-author of the letter together with Paul (Col 1:1), a young coworker of mixed Jewish-Gentile background (Acts 16:1) who accompanied Paul in his ministry and imprisonment.",
+        "pt": "O irmão, coautor nominal da carta junto com Paulo (Cl 1:1), jovem colaborador de origem mista judaico-gentia (At 16:1) que acompanhava Paulo em seu ministério e prisão."
+      },
+      "acciones": {
+        "es": "Su nombre encabeza la carta junto al de Pablo como remitente conjunto (Col 1:1), función epistolar convencional que indica su presencia junto a Pablo durante la prisión romana.",
+        "en": "His name heads the letter alongside Paul's as joint sender (Col 1:1), a conventional epistolary function indicating his presence with Paul during the Roman imprisonment.",
+        "pt": "Seu nome encabeça a carta junto ao de Paulo como remetente conjunto (Cl 1:1), função epistolar convencional que indica sua presença junto a Paulo durante a prisão romana."
+      },
+      "significadoTeologico": {
+        "es": "Su inclusión como 'el hermano' subraya la naturaleza colegiada del ministerio apostólico paulino, sin que ello reste autoridad apostólica personal de Pablo sobre el contenido de la carta",
+        "en": "His inclusion as 'the brother' underscores the collegial nature of Pauline apostolic ministry, without diminishing Paul's personal apostolic authority over the letter's content",
+        "pt": "Sua inclusão como 'o irmão' sublinha a natureza colegiada do ministério apostólico paulino, sem que isso diminua a autoridade apostólica pessoal de Paulo sobre o conteúdo da carta"
+      },
+      "tipo": {
+        "es": "No aplica; figura histórica sin función tipológica",
+        "en": "Not applicable; a historical figure without a typological function",
+        "pt": "Não se aplica; figura histórica sem função tipológica"
+      },
+      "caracterMoral": {
+        "es": "Fiel colaborador de confianza, mencionado en la mayoría de las cartas de la prisión y misioneras de Pablo (Fil 1:1; Flm 1; 2Co 1:1)",
+        "en": "A faithful, trusted coworker, mentioned in most of Paul's prison and missionary letters (Phil 1:1; Phlm 1; 2Cor 1:1)",
+        "pt": "Fiel colaborador de confiança, mencionado na maioria das cartas da prisão e missionárias de Paulo (Fp 1:1; Fm 1; 2Co 1:1)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Aparece únicamente en el saludo inicial como coautor (Col 1:1); el resto de la carta continúa en primera persona singular de Pablo, indicando su rol como amanuense o testigo asociado más que coautor en sentido pleno.",
+          "en": "He appears only in the opening greeting as co-author (Col 1:1); the rest of the letter continues in Paul's first-person singular, indicating his role as amanuensis or associated witness rather than co-author in the full sense.",
+          "pt": "Aparece apenas na saudação inicial como coautor (Cl 1:1); o restante da carta continua na primeira pessoa do singular de Paulo, indicando seu papel como amanuense ou testemunha associada mais do que coautor em sentido pleno."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Col 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Natural de Listra, hijo de madre judía y padre griego (Hch 16:1–3), discípulo y colaborador constante de Pablo desde el segundo viaje misionero, presente también en Roma durante la primera prisión según el testimonio conjunto de Filipenses, Filemón y Colosenses.",
+          "en": "A native of Lystra, son of a Jewish mother and a Greek father (Acts 16:1–3), Paul's constant disciple and coworker from the second missionary journey onward, also present in Rome during the first imprisonment according to the joint testimony of Philippians, Philemon, and Colossians.",
+          "pt": "Natural de Listra, filho de mãe judia e pai grego (At 16:1–3), discípulo e colaborador constante de Paulo desde a segunda viagem missionária, presente também em Roma durante a primeira prisão segundo o testemunho conjunto de Filipenses, Filemom e Colossenses."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Su presencia junto a Pablo en Roma concuerda con la mención paralela en Fil 1:1 y Flm 1, cartas del mismo período de encarcelamiento.",
+          "en": "His presence with Paul in Rome agrees with the parallel mention in Phil 1:1 and Phlm 1, letters from the same period of imprisonment.",
+          "pt": "Sua presença junto a Paulo em Roma concorda com a menção paralela em Fp 1:1 e Fm 1, cartas do mesmo período de encarceramento."
+        }
+      },
+      "versiculosAsociados": [
+        "Col 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Fil",
+        "1Ts",
+        "2Ts",
+        "Flm",
+        "1Ti",
+        "2Ti",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Destinatario posterior de dos epístolas pastorales personales (1 y 2 Timoteo) y mencionado como coautor en 2 Corintios, Filipenses y 1–2 Tesalonicenses",
+        "en": "The later recipient of two personal pastoral epistles (1 and 2 Timothy) and mentioned as co-author in 2 Corinthians, Philippians, and 1–2 Thessalonians",
+        "pt": "Destinatário posterior de duas epístolas pastorais pessoais (1 e 2 Timóteo) e mencionado como coautor em 2 Coríntios, Filipenses e 1–2 Tessalonicenses"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Tíquico",
+        "en": "Tychicus",
+        "pt": "Tíquico"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "Hermano amado, fiel ministro y consiervo en el Señor (Col 4:7), portador de la carta a Colosas, comisionado para informar personalmente a la congregación de las circunstancias de Pablo y consolar sus corazones.",
+        "en": "A beloved brother, faithful minister, and fellow servant in the Lord (Col 4:7), the bearer of the letter to Colossae, commissioned to personally inform the congregation of Paul's circumstances and to encourage their hearts.",
+        "pt": "Irmão amado, fiel ministro e consservo no Senhor (Cl 4:7), portador da carta a Colossas, comissionado para informar pessoalmente a congregação sobre as circunstâncias de Paulo e consolar seus corações."
+      },
+      "acciones": {
+        "es": "Es enviado por Pablo a Colosas expresamente 'para esto mismo, para que sepáis lo que a nosotros se refiere, y conforte vuestros corazones' (Col 4:7–8), viajando junto con Onésimo.",
+        "en": "He is sent by Paul to Colossae expressly 'for this very purpose, that you may know how we are and that he may encourage your hearts' (Col 4:7–8), traveling together with Onesimus.",
+        "pt": "É enviado por Paulo a Colossas expressamente 'para isso mesmo, para que saibais o que a nós diz respeito, e ele conforte os vossos corações' (Cl 4:7–8), viajando junto com Onésimo."
+      },
+      "significadoTeologico": {
+        "es": "Ejemplifica el ministerio de mensajero fiel que extiende el cuidado pastoral apostólico más allá de la presencia física del apóstol mismo",
+        "en": "He exemplifies the ministry of the faithful messenger who extends apostolic pastoral care beyond the apostle's own physical presence",
+        "pt": "Exemplifica o ministério do mensageiro fiel que estende o cuidado pastoral apostólico além da presença física do próprio apóstolo"
+      },
+      "tipo": {
+        "es": "No aplica; figura histórica sin función tipológica",
+        "en": "Not applicable; a historical figure without a typological function",
+        "pt": "Não se aplica; figura histórica sem função tipológica"
+      },
+      "caracterMoral": {
+        "es": "Descrito con la misma triple fórmula elogiosa que otros colaboradores cercanos de Pablo (hermano amado, fiel ministro, consiervo), indicando plena confianza apostólica (Col 4:7)",
+        "en": "Described with the same triple commendatory formula as other close coworkers of Paul (beloved brother, faithful minister, fellow servant), indicating full apostolic trust (Col 4:7)",
+        "pt": "Descrito com a mesma fórmula elogiosa tríplice de outros colaboradores próximos de Paulo (irmão amado, fiel ministro, consservo), indicando plena confiança apostólica (Cl 4:7)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Presentado exclusivamente como el portador confiable de la carta y de las noticias de Pablo (Col 4:7–8), enviado también con idéntica misión a Éfeso (Ef 6:21–22) y mencionado como posible enviado a Creta o Éfeso en las Pastorales (Tit 3:12; 2Ti 4:12).",
+          "en": "Presented exclusively as the trustworthy bearer of the letter and of news about Paul (Col 4:7–8), also sent on an identical mission to Ephesus (Eph 6:21–22) and mentioned as a possible envoy to Crete or Ephesus in the Pastorals (Titus 3:12; 2Tim 4:12).",
+          "pt": "Apresentado exclusivamente como o portador confiável da carta e das notícias de Paulo (Cl 4:7–8), enviado também com missão idêntica a Éfeso (Ef 6:21–22) e mencionado como possível enviado a Creta ou Éfeso nas Pastorais (Tt 3:12; 2Tm 4:12)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Col 4:7-8"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Según Hch 20:4, era natural de la provincia de Asia, uno de los delegados que acompañó a Pablo llevando la ofrenda de las iglesias gentiles a Jerusalén (c. 57 d.C.), y siguió como su mensajero de confianza en los años siguientes.",
+          "en": "According to Acts 20:4, he was a native of the province of Asia, one of the delegates who accompanied Paul carrying the Gentile churches' offering to Jerusalem (c. AD 57), and continued as his trusted messenger in the following years.",
+          "pt": "Segundo At 20:4, era natural da província da Ásia, um dos delegados que acompanhou Paulo levando a oferta das igrejas gentias a Jerusalém (c. 57 d.C.), e continuou como seu mensageiro de confiança nos anos seguintes."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Epistles to the Colossians, to Philemon, and to the Ephesians (NICNT)",
+            "autor": "F.F. Bruce",
+            "año": 1984,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Su identificación como natural de Asia (Hch 20:4) concuerda con su idoneidad para portar cartas tanto a Colosas como a Éfeso, ambas en esa provincia (Col 4:7; Ef 6:21).",
+          "en": "His identification as a native of Asia (Acts 20:4) agrees with his suitability to carry letters both to Colossae and Ephesus, both in that province (Col 4:7; Eph 6:21).",
+          "pt": "Sua identificação como natural da Ásia (At 20:4) concorda com sua adequação para levar cartas tanto a Colossas quanto a Éfeso, ambas naquela província (Cl 4:7; Ef 6:21)."
+        }
+      },
+      "versiculosAsociados": [
+        "Col 4:7",
+        "Col 4:8"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ef",
+        "2Ti",
+        "Tit"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Cumple la misma función de mensajero de confianza en Ef 6:21–22, con fraseología casi idéntica, confirmando la composición conjunta de ambas cartas en el mismo envío",
+        "en": "He fulfills the same role of trusted messenger in Eph 6:21–22, with nearly identical phrasing, confirming the joint composition of both letters in the same dispatch",
+        "pt": "Cumpre a mesma função de mensageiro de confiança em Ef 6:21–22, com fraseologia quase idêntica, confirmando a composição conjunta de ambas as cartas no mesmo envio"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Onésimo",
+        "en": "Onesimus",
+        "pt": "Onésimo"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "El fiel y amado hermano, 'que es de vosotros' (Col 4:9), esclavo colosense fugitivo convertido bajo el ministerio de Pablo en Roma, que ahora regresa a su amo Filemón acompañando a Tíquico y llevando la carta homónima.",
+        "en": "The faithful and beloved brother, 'who is one of you' (Col 4:9), a runaway Colossian slave converted under Paul's ministry in Rome, who now returns to his master Philemon accompanying Tychicus and carrying the companion letter.",
+        "pt": "O fiel e amado irmão, 'que é dos vossos' (Cl 4:9), escravo colossense fugitivo convertido sob o ministério de Paulo em Roma, que agora retorna ao seu senhor Filemom acompanhando Tíquico e levando a carta homônima."
+      },
+      "acciones": {
+        "es": "Viaja junto con Tíquico de regreso a Colosas (Col 4:9), llevando consigo la carta a Filemón en la que Pablo intercede por él y solicita que sea recibido 'no ya como esclavo, sino como hermano amado' (Flm 16).",
+        "en": "He travels together with Tychicus back to Colossae (Col 4:9), carrying with him the letter to Philemon in which Paul intercedes for him and requests that he be received 'no longer as a slave but... as a beloved brother' (Phlm 16).",
+        "pt": "Viaja junto com Tíquico de volta a Colossas (Cl 4:9), levando consigo a carta a Filemom na qual Paulo intercede por ele e solicita que seja recebido 'não mais como escravo, mas... como irmão amado' (Fm 16)."
+      },
+      "significadoTeologico": {
+        "es": "Ilustra vivamente que en Cristo 'no hay griego ni judío... esclavo ni libre' (Col 3:11): su transformación de esclavo fugitivo a 'hermano fiel y amado' encarna la nueva identidad que borra las jerarquías sociales antiguas dentro de la comunión eclesial",
+        "en": "He vividly illustrates that in Christ 'there is not Greek and Jew... slave, free' (Col 3:11): his transformation from runaway slave to 'faithful and beloved brother' embodies the new identity that erases old social hierarchies within the church's fellowship",
+        "pt": "Ilustra vivamente que em Cristo 'não há grego nem judeu... escravo, livre' (Cl 3:11): sua transformação de escravo fugitivo a 'irmão fiel e amado' encarna a nova identidade que apaga as antigas hierarquias sociais dentro da comunhão eclesial"
+      },
+      "tipo": {
+        "es": "No aplica; figura histórica sin función tipológica, aunque su restauración ilustra experiencialmente la doctrina del 'hombre nuevo' de Col 3:9–10",
+        "en": "Not applicable; a historical figure without a typological function, though his restoration experientially illustrates the doctrine of the 'new self' in Col 3:9–10",
+        "pt": "Não se aplica; figura histórica sem função tipológica, embora sua restauração ilustre experiencialmente a doutrina do 'novo homem' de Cl 3:9–10"
+      },
+      "caracterMoral": {
+        "es": "De 'inútil' (juego de palabras con su nombre, que significa 'útil', Flm 11) a 'fiel y amado hermano', su carácter transformado por la conversión ejemplifica la vivificación descrita en Col 3:9–10",
+        "en": "From 'useless' (a wordplay on his name, which means 'useful,' Phlm 11) to 'faithful and beloved brother,' his character transformed by conversion exemplifies the renewal described in Col 3:9–10",
+        "pt": "De 'inútil' (jogo de palavras com seu nome, que significa 'útil', Fm 11) a 'fiel e amado irmão', seu caráter transformado pela conversão exemplifica a renovação descrita em Cl 3:9–10"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Identificado explícitamente como colosense (Col 4:9) y presentado con la misma fórmula honorífica de Tíquico, indicando la plena aceptación eclesial de su nuevo estatus a pesar de su pasado como esclavo fugitivo, tema desarrollado en detalle en la carta a Filemón.",
+          "en": "Explicitly identified as a Colossian (Col 4:9) and presented with the same honorific formula as Tychicus, indicating the church's full acceptance of his new status despite his past as a runaway slave, a theme developed in detail in the letter to Philemon.",
+          "pt": "Identificado explicitamente como colossense (Cl 4:9) e apresentado com a mesma fórmula honorífica de Tíquico, indicando a plena aceitação eclesial de seu novo estatuto apesar de seu passado como escravo fugitivo, tema desenvolvido em detalhe na carta a Filemom."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Col 4:9"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Su caso refleja la práctica documentada del derecho romano sobre esclavos fugitivos (fugitivi), quienes podían acogerse a la protección de un amigo del amo (amicus domini) para negociar el perdón, rol que aquí asume Pablo en favor de Onésimo ante Filemón.",
+          "en": "His case reflects the documented Roman legal practice regarding runaway slaves (fugitivi), who could seek refuge with a friend of the master (amicus domini) to negotiate a pardon, a role Paul here assumes on Onesimus's behalf before Philemon.",
+          "pt": "Seu caso reflete a prática documentada do direito romano sobre escravos fugitivos (fugitivi), que podiam buscar a proteção de um amigo do senhor (amicus domini) para negociar o perdão, papel que aqui Paulo assume em favor de Onésimo perante Filemom."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Letter to Philemon (NICNT)",
+            "autor": "Scot McKnight",
+            "año": 2017,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La práctica jurídica romana del amicus domini documentada en fuentes seculares concuerda con la situación implícita en Col 4:9 y Flm 10–18, apoyando la reconstrucción tradicional del caso.",
+          "en": "The Roman legal practice of the amicus domini documented in secular sources agrees with the situation implied in Col 4:9 and Phlm 10–18, supporting the traditional reconstruction of the case.",
+          "pt": "A prática jurídica romana do amicus domini documentada em fontes seculares concorda com a situação implícita em Cl 4:9 e Fm 10–18, apoiando a reconstrução tradicional do caso."
+        }
+      },
+      "versiculosAsociados": [
+        "Col 4:9"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Protagonista de la carta a Filemón, la epístola paulina más breve, dedicada enteramente a interceder por su restauración",
+        "en": "The protagonist of the letter to Philemon, Paul's shortest epistle, dedicated entirely to interceding for his restoration",
+        "pt": "Protagonista da carta a Filemom, a epístola paulina mais breve, dedicada inteiramente a interceder por sua restauração"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Arquipo",
+        "en": "Archippus",
+        "pt": "Arquipo"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "Miembro de la iglesia de Colosas, posiblemente hijo de Filemón y Apia, exhortado directamente por Pablo a cumplir el ministerio que recibió en el Señor (Col 4:17).",
+        "en": "A member of the church at Colossae, possibly the son of Philemon and Apphia, directly exhorted by Paul to fulfill the ministry he received in the Lord (Col 4:17).",
+        "pt": "Membro da igreja de Colossas, possivelmente filho de Filemom e Ápia, exortado diretamente por Paulo a cumprir o ministério que recebeu no Senhor (Cl 4:17)."
+      },
+      "acciones": {
+        "es": "Recibe una exhortación pública e inusualmente directa, transmitida a través de la congregación: 'Mira que cumplas el ministerio que recibiste en el Señor' (Col 4:17).",
+        "en": "He receives an unusually direct public exhortation, delivered through the congregation: 'See that you fulfill the ministry that you have received in the Lord' (Col 4:17).",
+        "pt": "Recebe uma exortação pública e incomumente direta, transmitida por meio da congregação: 'Olha que cumpras o ministério que recebeste no Senhor' (Cl 4:17)."
+      },
+      "significadoTeologico": {
+        "es": "Su mención ilustra la práctica de rendición de cuentas pública y mutua dentro del cuerpo eclesial, donde el ministerio se recibe 'en el Señor' y por tanto se debe cumplir ante él, no meramente ante los hombres",
+        "en": "His mention illustrates the practice of public, mutual accountability within the church body, where ministry is received 'in the Lord' and must therefore be fulfilled before him, not merely before men",
+        "pt": "Sua menção ilustra a prática de prestação de contas pública e mútua dentro do corpo eclesial, em que o ministério é recebido 'no Senhor' e, portanto, deve ser cumprido perante ele, não apenas perante os homens"
+      },
+      "tipo": {
+        "es": "No aplica; figura histórica sin función tipológica",
+        "en": "Not applicable; a historical figure without a typological function",
+        "pt": "Não se aplica; figura histórica sem função tipológica"
+      },
+      "caracterMoral": {
+        "es": "El tono de la exhortación (que también aparece en Flm 2 llamándolo 'compañero de milicia') sugiere que enfrentaba alguna dificultad o tibieza en el cumplimiento de una responsabilidad ministerial específica",
+        "en": "The tone of the exhortation (he also appears in Phlm 2, called 'fellow soldier') suggests he faced some difficulty or lukewarmness in fulfilling a specific ministerial responsibility",
+        "pt": "O tom da exortação (também aparece em Fm 2, chamado de 'companheiro de milícia') sugere que enfrentava alguma dificuldade ou tibieza no cumprimento de uma responsabilidade ministerial específica"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado únicamente en Col 4:17 recibiendo la exhortación pública de Pablo, y en Flm 2 como 'compañero de milicia' saludado junto con Filemón y Apia, lo cual sugiere vínculo familiar o eclesial cercano con el destinatario de esa carta.",
+          "en": "Mentioned only in Col 4:17 receiving Paul's public exhortation, and in Phlm 2 as a 'fellow soldier' greeted together with Philemon and Apphia, suggesting a close family or ecclesial link with that letter's recipient.",
+          "pt": "Mencionado apenas em Cl 4:17 recebendo a exortação pública de Paulo, e em Fm 2 como 'companheiro de milícia' saudado junto com Filemom e Ápia, sugerindo vínculo familiar ou eclesial próximo com o destinatário daquela carta."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Col 4:17"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La tradición patrística tardía (Constituciones Apostólicas 7.46) lo identifica como primer obispo de Laodicea, aunque esta atribución es posterior y carece de confirmación independiente contemporánea al texto.",
+          "en": "Later patristic tradition (Apostolic Constitutions 7.46) identifies him as the first bishop of Laodicea, though this attribution is later and lacks independent confirmation contemporary with the text.",
+          "pt": "A tradição patrística tardia (Constituições Apostólicas 7.46) o identifica como primeiro bispo de Laodiceia, embora essa atribuição seja posterior e careça de confirmação independente contemporânea ao texto."
+        },
+        "fuentes": [
+          {
+            "titulo": "The Epistles to the Colossians, to Philemon, and to the Ephesians (NICNT)",
+            "autor": "F.F. Bruce",
+            "año": 1984,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La identificación episcopal posterior no contradice el texto pero tampoco puede confirmarse con él; el propio texto solo establece que tenía un 'ministerio' (diakonia) específico pendiente de cumplir.",
+          "en": "The later episcopal identification does not contradict the text but also cannot be confirmed by it; the text itself only establishes that he had a specific 'ministry' (diakonia) yet to fulfill.",
+          "pt": "A identificação episcopal posterior não contradiz o texto, mas também não pode ser confirmada por ele; o próprio texto apenas estabelece que tinha um 'ministério' (diakonia) específico ainda por cumprir."
+        }
+      },
+      "versiculosAsociados": [
+        "Col 4:17"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "También saludado en Flm 2, lo cual sitúa a Arquipo dentro del mismo círculo doméstico-eclesial de Filemón y Apia en Colosas",
+        "en": "Also greeted in Phlm 2, which places Archippus within the same household-church circle of Philemon and Apphia at Colossae",
+        "pt": "Também saudado em Fm 2, o que situa Arquipo dentro do mesmo círculo doméstico-eclesial de Filemom e Ápia em Colossas"
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "Colosenses ofrece la exposición más elevada de la persona de Cristo en el Nuevo Testamento: es la imagen del Dios invisible, el primogénito de toda creación (prioridad de rango, no origen creado), mediante quien y para quien todo fue creado, y en quien toda la plenitud de la Deidad habita corporalmente. Esta cristología cósmica funda toda la argumentación posterior de la carta contra cualquier mediador angélico o filosófico.",
+        "en": "Colossians offers the highest exposition of the person of Christ in the New Testament: he is the image of the invisible God, the firstborn of all creation (priority of rank, not created origin), through whom and for whom everything was created, and in whom the whole fullness of deity dwells bodily. This cosmic Christology grounds the letter's entire subsequent argument against any angelic or philosophical mediator.",
+        "pt": "Colossenses oferece a exposição mais elevada da pessoa de Cristo no Novo Testamento: é a imagem do Deus invisível, o primogênito de toda a criação (prioridade de posição, não origem criada), por meio de quem e para quem tudo foi criado, e em quem toda a plenitude da Divindade habita corporalmente. Essa cristologia cósmica fundamenta toda a argumentação posterior da carta contra qualquer mediador angélico ou filosófico."
+      },
+      "pasajes": [
+        "Col 1:15",
+        "Col 1:16-17",
+        "Col 1:19",
+        "Col 2:9"
+      ],
+      "ensenanza": {
+        "es": "Cristo es la imagen visible del Dios invisible · Todas las cosas fueron creadas por medio de él y para él, y en él subsisten · Plugo al Padre que en él habitase toda la plenitud · La plenitud de la Deidad habita en él de forma corporal, no meramente simbólica",
+        "en": "Christ is the visible image of the invisible God · All things were created through him and for him, and in him they hold together · The Father was pleased to have all his fullness dwell in him · The fullness of deity dwells in him bodily, not merely symbolically",
+        "pt": "Cristo é a imagem visível do Deus invisível · Todas as coisas foram criadas por meio dele e para ele, e nele subsistem · Aprouve ao Pai que nele habitasse toda a plenitude · A plenitude da Divindade habita nele de forma corporal, não meramente simbólica"
+      },
+      "distintivaReformada": {
+        "es": "Frente a lecturas arrianas que leen 'primogénito' como indicio de origen creado, la tradición reformada —siguiendo Nicea y Calcedonia— interpreta 'prototokos' como primacía de rango y heredero sobre la creación, no como el primer ser creado; esta lectura es exigida por el propio texto, que atribuye a Cristo la creación de 'todas las cosas' (Col 1:16), lo cual lo situaría fuera de la categoría de criatura.",
+        "en": "Against Arian readings that take 'firstborn' as a sign of created origin, the Reformed tradition — following Nicaea and Chalcedon — interprets 'prototokos' as rank-primacy and heirship over creation, not as the first created being; this reading is demanded by the text itself, which attributes to Christ the creation of 'all things' (Col 1:16), placing him outside the category of creature.",
+        "pt": "Diante de leituras arianas que leem 'primogênito' como indício de origem criada, a tradição reformada — seguindo Niceia e Calcedônia — interpreta 'prototokos' como primazia de posição e herança sobre a criação, não como o primeiro ser criado; essa leitura é exigida pelo próprio texto, que atribui a Cristo a criação de 'todas as coisas' (Cl 1:16), situando-o fora da categoria de criatura."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "La salvación en Colosenses se describe como un rescate del dominio de las tinieblas y traslado al reino del Hijo amado (Col 1:13), lograda mediante la reconciliación de todas las cosas por la sangre de la cruz (Col 1:20) y la cancelación del certificado de deuda que nos era adverso, clavado en la cruz (Col 2:14). Es integralmente objetiva (obra consumada en Cristo) antes de ser experiencial.",
+        "en": "Salvation in Colossians is described as a rescue from the domain of darkness and transfer to the kingdom of the beloved Son (Col 1:13), accomplished through the reconciliation of all things by the blood of the cross (Col 1:20) and the cancellation of the record of debt that stood against us, nailed to the cross (Col 2:14). It is integrally objective (a work accomplished in Christ) before it is experiential.",
+        "pt": "A salvação em Colossenses é descrita como um resgate do domínio das trevas e transferência para o reino do Filho amado (Cl 1:13), realizada mediante a reconciliação de todas as coisas pelo sangue da cruz (Cl 1:20) e o cancelamento do documento de dívida que nos era contrário, cravado na cruz (Cl 2:14). É integralmente objetiva (obra consumada em Cristo) antes de ser experiencial."
+      },
+      "pasajes": [
+        "Col 1:13-14",
+        "Col 1:20",
+        "Col 1:22",
+        "Col 2:13-14"
+      ],
+      "ensenanza": {
+        "es": "Somos rescatados del dominio de las tinieblas y trasladados al reino del Hijo amado · Todas las cosas son reconciliadas por medio de él, haciendo la paz mediante la sangre de su cruz · Ahora somos presentados santos, sin mancha e irreprensibles delante de Dios · Fuimos vivificados juntamente con él al perdonarnos todos los delitos, anulando el documento de deuda contra nosotros",
+        "en": "We are rescued from the domain of darkness and transferred to the kingdom of the beloved Son · All things are reconciled through him, making peace by the blood of his cross · We are now presented holy, blameless, and above reproach before God · We were made alive together with him when he forgave us all our trespasses, canceling the record of debt against us",
+        "pt": "Somos resgatados do domínio das trevas e transferidos para o reino do Filho amado · Todas as coisas são reconciliadas por meio dele, fazendo a paz pelo sangue de sua cruz · Agora somos apresentados santos, sem mácula e irrepreensíveis diante de Deus · Fomos vivificados juntamente com ele ao perdoar-nos todas as ofensas, anulando o documento de dívida contra nós"
+      },
+      "distintivaReformada": {
+        "es": "La reconciliación cósmica de 'todas las cosas' (Col 1:20) se interpreta, en clave reformada, no como universalismo salvífico sino como la pacificación y sujeción de todo el orden creado —incluidos los poderes hostiles ya desarmados (Col 2:15)— bajo el señorío restaurador de Cristo, distinguiendo la reconciliación cósmica de la reconciliación personal aplicada solo a los elegidos que perseveran en la fe (Col 1:22–23).",
+        "en": "The cosmic reconciliation of 'all things' (Col 1:20) is interpreted, in Reformed terms, not as salvific universalism but as the pacification and subjection of the entire created order — including the hostile powers already disarmed (Col 2:15) — under Christ's restorative lordship, distinguishing cosmic reconciliation from the personal reconciliation applied only to the elect who persevere in the faith (Col 1:22–23).",
+        "pt": "A reconciliação cósmica de 'todas as coisas' (Cl 1:20) é interpretada, em chave reformada, não como universalismo salvífico, mas como a pacificação e sujeição de toda a ordem criada — incluindo os poderes hostis já desarmados (Cl 2:15) — sob o senhorio restaurador de Cristo, distinguindo a reconciliação cósmica da reconciliação pessoal aplicada apenas aos eleitos que perseveram na fé (Cl 1:22–23)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "La iglesia es presentada como el cuerpo cuya cabeza es Cristo (Col 1:18), organismo vivo unido a él orgánicamente, por cuya edificación Pablo se regocija en sufrir y completa en su carne lo que falta de las aflicciones de Cristo (Col 1:24). La vida corporativa de la iglesia se nutre de la paz de Cristo gobernando los corazones y de la palabra de Cristo habitando abundantemente en la enseñanza mutua (Col 3:15–16).",
+        "en": "The church is presented as the body whose head is Christ (Col 1:18), a living organism organically united to him, for whose upbuilding Paul rejoices to suffer and completes in his flesh what is lacking in Christ's afflictions (Col 1:24). The church's corporate life is nourished by the peace of Christ ruling in hearts and by the word of Christ dwelling richly in mutual teaching (Col 3:15–16).",
+        "pt": "A igreja é apresentada como o corpo cuja cabeça é Cristo (Cl 1:18), organismo vivo unido a ele organicamente, por cuja edificação Paulo se alegra em sofrer e completa em sua carne o que falta das aflições de Cristo (Cl 1:24). A vida corporativa da igreja é nutrida pela paz de Cristo governando os corações e pela palavra de Cristo habitando abundantemente no ensino mútuo (Cl 3:15–16)."
+      },
+      "pasajes": [
+        "Col 1:18",
+        "Col 1:24",
+        "Col 3:15",
+        "Col 3:16"
+      ],
+      "ensenanza": {
+        "es": "Cristo es la cabeza del cuerpo, que es la iglesia · Pablo se regocija en sus padecimientos por la iglesia, completando lo que falta de las aflicciones de Cristo · La paz de Cristo gobierna los corazones, pues fuimos llamados a un solo cuerpo · La palabra de Cristo habita en abundancia mediante la enseñanza y amonestación mutua",
+        "en": "Christ is the head of the body, which is the church · Paul rejoices in his sufferings for the church, completing what is lacking in Christ's afflictions · The peace of Christ rules in hearts, since we were called into one body · The word of Christ dwells richly through mutual teaching and admonition",
+        "pt": "Cristo é a cabeça do corpo, que é a igreja · Paulo se alegra em seus sofrimentos pela igreja, completando o que falta das aflições de Cristo · A paz de Cristo governa os corações, pois fomos chamados a um só corpo · A palavra de Cristo habita abundantemente mediante o ensino e a admoestação mútua"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada entiende 'lo que falta de las aflicciones de Cristo' (Col 1:24) no como deficiencia en el valor expiatorio de la cruz —perfecto y consumado (Col 2:14)— sino como el sufrimiento apostólico y eclesial que sigue acompañando la extensión histórica del evangelio hasta la consumación, categoría distinta y subordinada a la obra redentora única e irrepetible de Cristo.",
+        "en": "The Reformed tradition understands 'what is lacking in Christ's afflictions' (Col 1:24) not as a deficiency in the atoning value of the cross — perfect and finished (Col 2:14) — but as the apostolic and ecclesial suffering that continues to accompany the historical extension of the gospel until the consummation, a category distinct from and subordinate to Christ's unique, unrepeatable redemptive work.",
+        "pt": "A tradição reformada entende 'o que falta das aflições de Cristo' (Cl 1:24) não como deficiência no valor expiatório da cruz — perfeito e consumado (Cl 2:14) — mas como o sofrimento apostólico e eclesial que continua acompanhando a extensão histórica do evangelho até a consumação, categoria distinta e subordinada à obra redentora única e irrepetível de Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "La ética cristiana en Colosenses fluye de la unión con Cristo: puesto que los creyentes han resucitado con él, deben buscar las cosas de arriba (Col 3:1), hacer morir lo terrenal en ellos (Col 3:5), despojarse del hombre viejo y vestirse del nuevo, renovado conforme a la imagen de su Creador (Col 3:9–10), concretándose en virtudes concretas y en el código doméstico (Col 3:12; 3:18–4:1).",
+        "en": "Christian ethics in Colossians flows from union with Christ: since believers have been raised with him, they must seek the things above (Col 3:1), put to death what is earthly in them (Col 3:5), put off the old self and put on the new, being renewed after the image of its Creator (Col 3:9–10), worked out in concrete virtues and in the household code (Col 3:12; 3:18–4:1).",
+        "pt": "A ética cristã em Colossenses flui da união com Cristo: visto que os crentes ressuscitaram com ele, devem buscar as coisas de cima (Cl 3:1), fazer morrer o que é terreno neles (Cl 3:5), despojar-se do velho homem e revestir-se do novo, renovado conforme a imagem de seu Criador (Cl 3:9–10), concretizando-se em virtudes específicas e no código doméstico (Cl 3:12; 3:18–4:1)."
+      },
+      "pasajes": [
+        "Col 3:1",
+        "Col 3:5",
+        "Col 3:9-10",
+        "Col 3:12"
+      ],
+      "ensenanza": {
+        "es": "Puesto que resucitamos con Cristo, buscamos las cosas de arriba · Hacemos morir lo terrenal en nosotros: inmoralidad, impureza, avaricia · Nos despojamos del hombre viejo y nos vestimos del nuevo, renovado a imagen de su Creador · Nos revestimos de tierna compasión, bondad, humildad, mansedumbre y paciencia como escogidos de Dios",
+        "en": "Since we have been raised with Christ, we seek the things above · We put to death what is earthly in us: immorality, impurity, covetousness · We put off the old self and put on the new, renewed after the image of its Creator · We put on compassionate hearts, kindness, humility, meekness, and patience as God's chosen ones",
+        "pt": "Visto que ressuscitamos com Cristo, buscamos as coisas de cima · Fazemos morrer o que é terreno em nós: imoralidade, impureza, avareza · Despojamo-nos do velho homem e nos revestimos do novo, renovado à imagem de seu Criador · Revestimo-nos de terna compaixão, bondade, humildade, mansidão e paciência como escolhidos de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La santificación se presenta con la estructura reformada clásica del indicativo-imperativo: el 'hacer morir' y 'vestirse' (imperativos, Col 3:5,12) se fundan siempre en el 'habéis resucitado' ya consumado (indicativo, Col 3:1,3), de modo que el esfuerzo ético no es la causa sino la consecuencia necesaria de la unión vital con Cristo, evitando tanto el moralismo legalista como el antinomianismo pasivo.",
+        "en": "Sanctification is presented with the classic Reformed indicative-imperative structure: the 'putting to death' and 'putting on' (imperatives, Col 3:5,12) are always grounded in the already-accomplished 'you have been raised' (indicative, Col 3:1,3), so that ethical effort is not the cause but the necessary consequence of vital union with Christ, avoiding both legalistic moralism and passive antinomianism.",
+        "pt": "A santificação é apresentada com a estrutura reformada clássica do indicativo-imperativo: o 'fazer morrer' e o 'revestir-se' (imperativos, Cl 3:5,12) fundamentam-se sempre no 'ressuscitastes' já consumado (indicativo, Cl 3:1,3), de modo que o esforço ético não é a causa, mas a consequência necessária da união vital com Cristo, evitando tanto o moralismo legalista quanto o antinomianismo passivo."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo, o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La confesión declara que el Hijo de Dios, siendo la segunda persona de la Trinidad, verdadero y eterno Dios, tomó sobre sí la naturaleza humana para ser el único Mediador entre Dios y los hombres. Colosenses fundamenta esta doctrina de forma más explícita que ningún otro libro: Cristo es la imagen del Dios invisible en quien habita corporalmente toda la plenitud de la Deidad, y por quien y para quien todas las cosas fueron creadas.",
+        "en": "The confession declares that the Son of God, being the second person of the Trinity, true and eternal God, took upon himself human nature to be the only Mediator between God and men. Colossians grounds this doctrine more explicitly than any other book: Christ is the image of the invisible God in whom the whole fullness of deity dwells bodily, and through whom and for whom all things were created.",
+        "pt": "A confissão declara que o Filho de Deus, sendo a segunda pessoa da Trindade, verdadeiro e eterno Deus, tomou sobre si a natureza humana para ser o único Mediador entre Deus e os homens. Colossenses fundamenta essa doutrina de forma mais explícita do que qualquer outro livro: Cristo é a imagem do Deus invisível em quem habita corporalmente toda a plenitude da Divindade, e por quem e para quem todas as coisas foram criadas."
+      },
+      "genesis": [
+        "Col 1:15",
+        "Col 1:19",
+        "Col 2:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    },
+    {
+      "cap": "Cap. 20",
+      "titulo": {
+        "es": "De la Libertad Cristiana y de la Libertad de Conciencia",
+        "en": "Of Christian Liberty, and Liberty of Conscience",
+        "pt": "Da Liberdade Cristã e da Liberdade de Consciência"
+      },
+      "doctrinas": [
+        "Soteriología",
+        "Ley"
+      ],
+      "resumen": {
+        "es": "La confesión sostiene que Dios es el único Señor de la conciencia y la ha liberado de doctrinas y mandamientos de hombres que sean contrarios o añadidos a la Palabra en materia de fe o culto. Colosenses proporciona el argumento bíblico central para esta libertad: nadie debe juzgar al creyente en comida, bebida, fiesta o sábado, pues estas ordenanzas eran sombra cuya sustancia es Cristo.",
+        "en": "The confession holds that God alone is Lord of the conscience, and has freed it from the doctrines and commandments of men that are contrary to or added to the Word in matters of faith or worship. Colossians supplies the central biblical argument for this liberty: no one is to judge the believer in matters of food, drink, festival, or sabbath, since these ordinances were a shadow whose substance is Christ.",
+        "pt": "A confissão sustenta que só Deus é Senhor da consciência, e a libertou de doutrinas e mandamentos de homens que sejam contrários ou acrescentados à Palavra em matéria de fé ou culto. Colossenses fornece o argumento bíblico central para essa liberdade: ninguém deve julgar o crente em comida, bebida, festa ou sábado, pois essas ordenanças eram sombra cuja substância é Cristo."
+      },
+      "genesis": [
+        "Col 2:16",
+        "Col 2:20",
+        "Col 2:23"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-20"
+    },
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Iglesia",
+        "en": "Of the Church",
+        "pt": "Da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología"
+      ],
+      "resumen": {
+        "es": "La confesión define a la iglesia católica invisible como el cuerpo de Cristo, la plenitud de aquel que todo lo llena en todo, con Cristo como su única cabeza. Colosenses provee el fundamento textual directo de esta imagen: Cristo es cabeza del cuerpo, que es la iglesia, y de su plenitud recibe todo crecimiento el cuerpo entero.",
+        "en": "The confession defines the invisible catholic church as the body of Christ, the fullness of him who fills all in all, with Christ as its only head. Colossians provides the direct textual foundation for this image: Christ is head of the body, which is the church, and from his fullness the whole body derives all growth.",
+        "pt": "A confissão define a igreja católica invisível como o corpo de Cristo, a plenitude daquele que tudo enche em todos, tendo Cristo como sua única cabeça. Colossenses fornece o fundamento textual direto dessa imagem: Cristo é cabeça do corpo, que é a igreja, e de sua plenitude todo o corpo recebe crescimento."
+      },
+      "genesis": [
+        "Col 1:18",
+        "Col 1:24",
+        "Col 2:19"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    },
+    {
+      "cap": "Cap. 13",
+      "titulo": {
+        "es": "De la Santificación",
+        "en": "Of Sanctification",
+        "pt": "Da Santificação"
+      },
+      "doctrinas": [
+        "Santificación"
+      ],
+      "resumen": {
+        "es": "La confesión enseña que quienes son unidos a Cristo son santificados real y personalmente, muriendo cada vez más al pecado y viviendo cada vez más para la justicia. Colosenses articula esta doctrina con el par 'hacer morir / vestirse': el creyente resucitado con Cristo hace morir lo terrenal y se reviste del hombre nuevo renovado conforme a la imagen de su Creador.",
+        "en": "The confession teaches that those united to Christ are really and personally sanctified, dying more and more to sin and living more and more to righteousness. Colossians articulates this doctrine with the pair 'put to death / put on': the believer raised with Christ puts to death what is earthly and puts on the new self, renewed after the image of its Creator.",
+        "pt": "A confissão ensina que os que são unidos a Cristo são santificados real e pessoalmente, morrendo cada vez mais para o pecado e vivendo cada vez mais para a justiça. Colossenses articula essa doutrina com o par 'fazer morrer / revestir-se': o crente ressuscitado com Cristo faz morrer o que é terreno e se reveste do novo homem, renovado conforme a imagem de seu Criador."
+      },
+      "genesis": [
+        "Col 3:1",
+        "Col 3:5",
+        "Col 3:10"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-13"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Col 1:15-17",
+      "es": "Él es la imagen del Dios invisible, el primogénito de toda creación. Porque en Él fueron creadas todas las cosas, en los cielos y en la tierra, visibles e invisibles, ya sean tronos o dominios o poderes o autoridades; todo ha sido creado por medio de Él y para Él. Y Él es antes de todas las cosas, y en Él todas las cosas subsisten.",
+      "en": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together.",
+      "pt": "O qual é imagem do Deus invisível, o primogênito de toda a criação; porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades; tudo foi criado por ele e para ele. E ele é antes de todas as coisas, e todas as coisas subsistem por ele.",
+      "nota": {
+        "es": "El corazón del himno cristológico: Cristo no es una criatura elevada sino el agente y la meta de toda la creación, incluidos los poderes espirituales que la falsa enseñanza colosense veneraba como intermediarios necesarios.",
+        "en": "The heart of the christological hymn: Christ is not an exalted creature but the agent and goal of all creation, including the spiritual powers the Colossian false teaching venerated as necessary intermediaries.",
+        "pt": "O coração do hino cristológico: Cristo não é uma criatura exaltada, mas o agente e a meta de toda a criação, incluindo os poderes espirituais que o falso ensino colossense venerava como intermediários necessários."
+      }
+    },
+    {
+      "ref": "Col 2:9-10",
+      "es": "Porque en Él habita toda la plenitud de la Deidad en forma corporal, y ustedes han sido hechos completos en Él, que es la cabeza de todo principado y potestad.",
+      "en": "For in him the whole fullness of deity dwells bodily, and you have been filled in him, who is the head of all rule and authority.",
+      "pt": "Porque nele habita corporalmente toda a plenitude da divindade. E nele estais perfeitos, o qual é a cabeça de todo o principado e potestade.",
+      "nota": {
+        "es": "Versículo central de la polémica: frente a quienes ofrecían 'plenitud' (pleroma) mediante ascetismo o mediadores angélicos, Pablo declara que esa plenitud ya reside en Cristo y se recibe únicamente por la unión con él.",
+        "en": "The central verse of the polemic: against those offering 'fullness' (pleroma) through asceticism or angelic mediators, Paul declares that this fullness already resides in Christ and is received only through union with him.",
+        "pt": "Versículo central da polêmica: diante dos que ofereciam 'plenitude' (pleroma) por meio de ascetismo ou mediadores angélicos, Paulo declara que essa plenitude já reside em Cristo e é recebida somente pela união com ele."
+      }
+    },
+    {
+      "ref": "Col 2:13-14",
+      "es": "Y cuando ustedes estaban muertos en sus delitos y en la incircuncisión de su carne, Dios los dio vida juntamente con Él, habiéndonos perdonado todos los delitos, habiendo cancelado el documento de deuda que consistía en decretos contra nosotros y que nos era adverso, y lo ha quitado de en medio, clavándolo en la cruz.",
+      "en": "And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross.",
+      "pt": "E, estando vós mortos nos pecados e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as ofensas; havendo riscado a cédula que era contra nós nas suas ordenanças, a qual de alguma sorte nos era contrária, e a tirou do meio de nós, cravando-a na cruz.",
+      "nota": {
+        "es": "Imagen jurídica de la justificación: el 'documento de deuda' (cheirógraphon) representa la acusación legal de la ley contra el pecador, anulada definitivamente en la cruz, no por indulgencia sino por pago satisfecho.",
+        "en": "A legal image of justification: the 'record of debt' (cheirographon) represents the law's legal accusation against the sinner, definitively annulled on the cross, not by indulgence but by satisfied payment.",
+        "pt": "Imagem jurídica da justificação: o 'documento de dívida' (cheirographon) representa a acusação legal da lei contra o pecador, definitivamente anulada na cruz, não por indulgência, mas por pagamento satisfeito."
+      }
+    },
+    {
+      "ref": "Col 3:1-4",
+      "es": "Por tanto, si ustedes han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la diestra de Dios. Concentren su atención en las cosas de arriba, no en las de la tierra. Porque ustedes han muerto, y su vida está escondida con Cristo en Dios. Cuando Cristo, que es nuestra vida, sea manifestado, entonces ustedes también serán manifestados con Él en gloria.",
+      "en": "If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your minds on things that are above, not on things that are on earth. For you have died, and your life is hidden with Christ in God. When Christ who is your life appears, then you also will appear with him in glory.",
+      "pt": "Se, pois, já ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à direita de Deus. Pensai nas coisas que são de cima, e não nas que são da terra. Porque já morrestes, e a vossa vida está escondida com Cristo em Deus. Quando Cristo, que é a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória.",
+      "nota": {
+        "es": "Bisagra estructural de la carta: la indicativa unión con Cristo resucitado (ya ocurrida) se convierte en el fundamento del imperativo ético que domina los capítulos 3 y 4.",
+        "en": "The structural hinge of the letter: the indicative union with the risen Christ (already accomplished) becomes the foundation for the ethical imperative that dominates chapters 3 and 4.",
+        "pt": "Dobradiça estrutural da carta: a indicativa união com Cristo ressuscitado (já ocorrida) torna-se o fundamento do imperativo ético que domina os capítulos 3 e 4."
+      }
+    },
+    {
+      "ref": "Col 3:16",
+      "es": "Que la palabra de Cristo habite en abundancia en ustedes, con toda sabiduría enseñándose y amonestándose unos a otros con salmos, himnos y cánticos espirituales, cantando con acción de gracias en sus corazones a Dios.",
+      "en": "Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God.",
+      "pt": "A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros com salmos e hinos e cânticos espirituais, cantando ao Senhor com graça em vosso coração.",
+      "nota": {
+        "es": "Establece el fundamento reformado del culto: la Palabra de Cristo, no la especulación mística, es la que gobierna la enseñanza, la exhortación mutua y el canto congregacional.",
+        "en": "Establishes the Reformed foundation of worship: the word of Christ, not mystical speculation, is what governs teaching, mutual exhortation, and congregational singing.",
+        "pt": "Estabelece o fundamento reformado do culto: a Palavra de Cristo, não a especulação mística, é o que governa o ensino, a exortação mútua e o canto congregacional."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "Colosenses articula con particular fuerza el principio reformado de la suficiencia de Cristo (solus Christus): frente a cualquier añadido religioso —mediadores angélicos, ascetismo corporal, calendario litúrgico judío— la carta insiste en que los creyentes ya están 'completos' en Cristo (Col 2:10) y que las ordenanzas del antiguo pacto eran sombra cuya sustancia él mismo es (Col 2:17). Esta suficiencia cristológica es la base exegética central que la tradición reformada invoca contra el sacramentalismo que añade mediadores a la obra ya consumada de Cristo, y contra el legalismo que reintroduce como necesarias observancias ceremoniales abrogadas.",
+    "en": "Colossians articulates with particular force the Reformed principle of the sufficiency of Christ (solus Christus): against any religious addition — angelic mediators, bodily asceticism, the Jewish liturgical calendar — the letter insists that believers are already 'complete' in Christ (Col 2:10) and that the ordinances of the old covenant were a shadow whose substance he himself is (Col 2:17). This christological sufficiency is the central exegetical basis the Reformed tradition invokes against sacramentalism that adds mediators to Christ's already-finished work, and against legalism that reintroduces abrogated ceremonial observances as necessary.",
+    "pt": "Colossenses articula com força particular o princípio reformado da suficiência de Cristo (solus Christus): diante de qualquer acréscimo religioso — mediadores angélicos, ascetismo corporal, calendário litúrgico judaico — a carta insiste que os crentes já estão 'completos' em Cristo (Cl 2:10) e que as ordenanças do antigo pacto eram sombra cuja substância ele mesmo é (Cl 2:17). Essa suficiência cristológica é a base exegética central que a tradição reformada invoca contra o sacramentalismo que acrescenta mediadores à obra já consumada de Cristo, e contra o legalismo que reintroduz como necessárias observâncias cerimoniais abrogadas."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Preeminencia de Cristo",
+        "en": "The Preeminence of Christ",
+        "pt": "A Preeminência de Cristo"
+      },
+      "descripcion": {
+        "es": "Pablo y Timoteo saludan a los santos de Colosas (Col 1:1–2) y ofrecen acción de gracias por la fe, el amor y la esperanza de la congregación, fruto del evangelio que Epafras les enseñó (Col 1:3–8). La oración de Pablo pide que sean llenos del conocimiento de la voluntad de Dios (Col 1:9–11) y desemboca en el himno cristológico: Cristo, imagen del Dios invisible, creador y sostenedor de todas las cosas, cabeza de la iglesia y primogénito de entre los muertos, reconcilia todas las cosas consigo mediante la sangre de su cruz (Col 1:12–20). El capítulo cierra presentando a los colosenses reconciliados y santos en Cristo (Col 1:21–22), y a Pablo como ministro que sufre gozoso por la iglesia, mayordomo del misterio ahora revelado: Cristo en ustedes, la esperanza de gloria (Col 1:23–29).",
+        "en": "Paul and Timothy greet the saints at Colossae (Col 1:1–2) and give thanks for the congregation's faith, love, and hope, fruit of the gospel Epaphras taught them (Col 1:3–8). Paul's prayer asks that they be filled with the knowledge of God's will (Col 1:9–11) and flows into the christological hymn: Christ, the image of the invisible God, creator and sustainer of all things, head of the church and firstborn from the dead, reconciles all things to himself through the blood of his cross (Col 1:12–20). The chapter closes presenting the Colossians as reconciled and holy in Christ (Col 1:21–22), and Paul as a minister who joyfully suffers for the church, a steward of the mystery now revealed: Christ in you, the hope of glory (Col 1:23–29).",
+        "pt": "Paulo e Timóteo saúdam os santos de Colossas (Cl 1:1–2) e dão graças pela fé, o amor e a esperança da congregação, fruto do evangelho que Epafras lhes ensinou (Cl 1:3–8). A oração de Paulo pede que sejam cheios do conhecimento da vontade de Deus (Cl 1:9–11) e desemboca no hino cristológico: Cristo, imagem do Deus invisível, criador e sustentador de todas as coisas, cabeça da igreja e primogênito dentre os mortos, reconcilia todas as coisas consigo mediante o sangue de sua cruz (Cl 1:12–20). O capítulo se encerra apresentando os colossenses reconciliados e santos em Cristo (Cl 1:21–22), e Paulo como ministro que sofre com alegria pela igreja, mordomo do mistério agora revelado: Cristo em vós, a esperança da glória (Cl 1:23–29)."
+      },
+      "eventoClave": {
+        "es": "El himno cristológico de Col 1:15–20, que declara a Cristo imagen del Dios invisible y reconciliador de todas las cosas mediante la sangre de su cruz.",
+        "en": "The christological hymn of Col 1:15–20, declaring Christ the image of the invisible God and the reconciler of all things through the blood of his cross.",
+        "pt": "O hino cristológico de Cl 1:15–20, que declara Cristo imagem do Deus invisível e reconciliador de todas as coisas mediante o sangue de sua cruz."
+      },
+      "versiculoClave": "Col 1:15",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Fil 2:6-11",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Comparte con Col 1:15–20 la estructura himnódica primitiva sobre la preexistencia, humillación y exaltación de Cristo",
+            "en": "Shares with Col 1:15–20 the early hymnic structure concerning Christ's preexistence, humiliation, and exaltation",
+            "pt": "Compartilha com Cl 1:15–20 a estrutura hínica primitiva sobre a preexistência, humilhação e exaltação de Cristo"
+          }
+        },
+        {
+          "ref": "Jn 1:1-3",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Afirma en lenguaje distinto la misma verdad de que todas las cosas fueron hechas por medio de Cristo",
+            "en": "Affirms in different language the same truth that all things were made through Christ",
+            "pt": "Afirma em linguagem distinta a mesma verdade de que todas as coisas foram feitas por meio de Cristo"
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reconciliación": {
+            "es": "Cristo reconcilia todas las cosas consigo mismo, haciendo la paz mediante la sangre de su cruz (Col 1:20), y presenta santos, sin mancha e irreprensibles a quienes antes eran enemigos (Col 1:21–22).",
+            "en": "Christ reconciles all things to himself, making peace by the blood of his cross (Col 1:20), and presents holy, blameless, and above reproach those who were formerly enemies (Col 1:21–22).",
+            "pt": "Cristo reconcilia todas as coisas consigo mesmo, fazendo a paz pelo sangue de sua cruz (Cl 1:20), e apresenta santos, sem mácula e irrepreensíveis os que antes eram inimigos (Cl 1:21–22)."
+          }
+        },
+        "secundarios": [
+          {
+            "Creación/Nueva Creación": {
+              "es": "Todas las cosas visibles e invisibles fueron creadas por medio de Cristo y para él, y en él subsisten (Col 1:16–17), fundamento de su autoridad reconciliadora.",
+              "en": "All things visible and invisible were created through Christ and for him, and in him they hold together (Col 1:16–17), the foundation of his reconciling authority.",
+              "pt": "Todas as coisas visíveis e invisíveis foram criadas por meio de Cristo e para ele, e nele subsistem (Cl 1:16–17), fundamento de sua autoridade reconciliadora."
+            }
+          },
+          {
+            "Reino de Dios": {
+              "es": "El Padre nos rescató del dominio de las tinieblas y nos trasladó al reino de su Hijo amado (Col 1:13), marco bajo el cual se desarrolla toda la carta.",
+              "en": "The Father rescued us from the domain of darkness and transferred us to the kingdom of his beloved Son (Col 1:13), the framework under which the entire letter unfolds.",
+              "pt": "O Pai nos resgatou do domínio das trevas e nos transferiu para o reino de seu Filho amado (Cl 1:13), quadro sob o qual se desenvolve toda a carta."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Plenitud en Cristo, no en la filosofía",
+        "en": "Fullness in Christ, Not Philosophy",
+        "pt": "Plenitude em Cristo, não na filosofia"
+      },
+      "descripcion": {
+        "es": "Pablo revela su lucha agónica por los colosenses y laodicenses, para que sean alentados y unidos en amor hacia el pleno conocimiento del misterio de Dios, que es Cristo (Col 2:1–3). Advierte entonces contra quienes engañan con argumentos persuasivos (Col 2:4) y contra la 'filosofía y vana sutileza' conforme a tradiciones humanas y no conforme a Cristo (Col 2:8), afirmando que en él habita corporalmente toda la plenitud de la Deidad y que los creyentes están completos en él (Col 2:9–10). Explica la circuncisión de Cristo, el bautismo como sepultura y resurrección con él, y el perdón mediante la cancelación del documento de deuda clavado en la cruz, con el consiguiente triunfo sobre los principados y potestades (Col 2:11–15). Concluye prohibiendo que nadie los juzgue en comida, fiesta o sábado —sombra de lo que ha de venir— ni en ascetismo o culto a los ángeles (Col 2:16–23).",
+        "en": "Paul reveals his agonizing struggle for the Colossians and Laodiceans, that they may be encouraged and united in love toward the full knowledge of the mystery of God, which is Christ (Col 2:1–3). He then warns against those who deceive with plausible arguments (Col 2:4) and against 'philosophy and empty deceit' according to human tradition and not according to Christ (Col 2:8), affirming that in him the whole fullness of deity dwells bodily and that believers are complete in him (Col 2:9–10). He explains the circumcision of Christ, baptism as burial and resurrection with him, and forgiveness through the cancellation of the record of debt nailed to the cross, with the consequent triumph over rulers and authorities (Col 2:11–15). He closes by forbidding anyone to judge them in food, festival, or sabbath — a shadow of what is to come — or in asceticism or worship of angels (Col 2:16–23).",
+        "pt": "Paulo revela sua luta agônica pelos colossenses e laodicenses, para que sejam encorajados e unidos em amor rumo ao pleno conhecimento do mistério de Deus, que é Cristo (Cl 2:1–3). Adverte então contra os que enganam com argumentos persuasivos (Cl 2:4) e contra a 'filosofia e vã sutileza' segundo tradições humanas e não segundo Cristo (Cl 2:8), afirmando que nele habita corporalmente toda a plenitude da Divindade e que os crentes estão completos nele (Cl 2:9–10). Explica a circuncisão de Cristo, o batismo como sepultamento e ressurreição com ele, e o perdão mediante o cancelamento do documento de dívida cravado na cruz, com o consequente triunfo sobre os principados e potestades (Cl 2:11–15). Conclui proibindo que alguém os julgue em comida, festa ou sábado — sombra do que havia de vir — ou em ascetismo ou culto a anjos (Cl 2:16–23)."
+      },
+      "eventoClave": {
+        "es": "La declaración de que en Cristo habita corporalmente toda la plenitud de la Deidad (Col 2:9), fundamento que hace superfluo cualquier mediador angélico o ritual.",
+        "en": "The declaration that in Christ the whole fullness of deity dwells bodily (Col 2:9), the foundation that renders any angelic or ritual mediator superfluous.",
+        "pt": "A declaração de que em Cristo habita corporalmente toda a plenitude da Divindade (Cl 2:9), fundamento que torna supérfluo qualquer mediador angélico ou ritual."
+      },
+      "versiculoClave": "Col 2:9",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Lv 23:2",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Las fiestas, lunas nuevas y sábados prescritos en Levítico son la 'sombra' que Col 2:16–17 declara cumplida en Cristo",
+            "en": "The festivals, new moons, and sabbaths prescribed in Leviticus are the 'shadow' that Col 2:16–17 declares fulfilled in Christ",
+            "pt": "As festas, luas novas e sábados prescritos em Levítico são a 'sombra' que Cl 2:16–17 declara cumprida em Cristo"
+          }
+        },
+        {
+          "ref": "Dt 30:6",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La circuncisión del corazón prometida en Deuteronomio prefigura la 'circuncisión de Cristo' operada espiritualmente en Col 2:11",
+            "en": "The circumcision of the heart promised in Deuteronomy prefigures the 'circumcision of Christ' spiritually accomplished in Col 2:11",
+            "pt": "A circuncisão do coração prometida em Deuteronômio prefigura a 'circuncisão de Cristo' operada espiritualmente em Cl 2:11"
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Verdadero Templo": {
+            "es": "En Cristo habita corporalmente toda la plenitud de la Deidad (Col 2:9), de modo que él mismo —no un santuario ni un mediador angélico— es el lugar donde Dios se hace plenamente presente entre los hombres.",
+            "en": "In Christ the whole fullness of deity dwells bodily (Col 2:9), so that he himself — not a sanctuary or an angelic mediator — is the place where God becomes fully present among men.",
+            "pt": "Em Cristo habita corporalmente toda a plenitude da Divindade (Cl 2:9), de modo que ele mesmo — não um santuário ou mediador angélico — é o lugar onde Deus se faz plenamente presente entre os homens."
+          }
+        },
+        "secundarios": [
+          {
+            "Justificación": {
+              "es": "Dios nos vivificó juntamente con Cristo, perdonando todos nuestros delitos y cancelando el documento de deuda que nos era adverso, clavándolo en la cruz (Col 2:13–14).",
+              "en": "God made us alive together with Christ, forgiving all our trespasses and canceling the record of debt against us, nailing it to the cross (Col 2:13–14).",
+              "pt": "Deus nos vivificou juntamente com Cristo, perdoando todas as nossas ofensas e cancelando o documento de dívida contrário a nós, cravando-o na cruz (Cl 2:13–14)."
+            }
+          },
+          {
+            "Idolatría": {
+              "es": "Pablo condena a quien se deleita en la humillación de sí mismo y en el culto a los ángeles, práctica que envanece sin fundamento la mente carnal (Col 2:18).",
+              "en": "Paul condemns whoever delights in self-abasement and the worship of angels, a practice that puffs up the fleshly mind without foundation (Col 2:18).",
+              "pt": "Paulo condena quem se compraz na humilhação de si mesmo e no culto aos anjos, prática que envaidece sem fundamento a mente carnal (Cl 2:18)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "El hombre nuevo y el código doméstico",
+        "en": "The New Self and the Household Code",
+        "pt": "O novo homem e o código doméstico"
+      },
+      "descripcion": {
+        "es": "Puesto que han resucitado con Cristo, los creyentes deben buscar las cosas de arriba, pues su vida está escondida con Cristo en Dios (Col 3:1–4). Deben hacer morir lo terrenal —inmoralidad, impureza, avaricia, ira— y despojarse del hombre viejo, vistiéndose del nuevo, renovado conforme a la imagen de su Creador, donde no hay griego ni judío, esclavo ni libre, sino que Cristo es todo y en todos (Col 3:5–11). En su lugar deben vestirse de tierna compasión, humildad, mansedumbre, paciencia, perdón mutuo y sobre todo amor, dejando que la paz y la palabra de Cristo gobiernen sus corazones y su adoración (Col 3:12–17). El capítulo cierra con el código doméstico: esposas y esposos, hijos y padres, y esclavos y amos, cada relación reordenada bajo el señorío de Cristo, 'como para el Señor' (Col 3:18–25).",
+        "en": "Since they have been raised with Christ, believers must seek the things above, for their life is hidden with Christ in God (Col 3:1–4). They must put to death what is earthly — immorality, impurity, covetousness, anger — and put off the old self, putting on the new, renewed after the image of its Creator, where there is neither Greek nor Jew, slave nor free, but Christ is all and in all (Col 3:5–11). Instead they must put on compassionate hearts, humility, meekness, patience, mutual forgiveness, and above all love, letting the peace and word of Christ govern their hearts and worship (Col 3:12–17). The chapter closes with the household code: wives and husbands, children and fathers, and slaves and masters, each relationship reordered under Christ's lordship, 'as to the Lord' (Col 3:18–25).",
+        "pt": "Visto que ressuscitaram com Cristo, os crentes devem buscar as coisas de cima, pois sua vida está escondida com Cristo em Deus (Cl 3:1–4). Devem fazer morrer o que é terreno — imoralidade, impureza, avareza, ira — e despojar-se do velho homem, revestindo-se do novo, renovado conforme a imagem de seu Criador, onde não há grego nem judeu, escravo nem livre, mas Cristo é tudo em todos (Cl 3:5–11). Em seu lugar devem revestir-se de terna compaixão, humildade, mansidão, paciência, perdão mútuo e sobretudo amor, deixando que a paz e a palavra de Cristo governem seus corações e sua adoração (Cl 3:12–17). O capítulo se encerra com o código doméstico: esposas e maridos, filhos e pais, e escravos e senhores, cada relação reordenada sob o senhorio de Cristo, 'como ao Senhor' (Cl 3:18–25)."
+      },
+      "eventoClave": {
+        "es": "El llamado a hacer morir el hombre viejo y vestirse del nuevo, renovado conforme a la imagen de su Creador (Col 3:9–10), fundamento de toda la ética que sigue.",
+        "en": "The call to put to death the old self and put on the new, renewed after the image of its Creator (Col 3:9–10), the foundation of all the ethics that follow.",
+        "pt": "O chamado a fazer morrer o velho homem e revestir-se do novo, renovado conforme a imagem de seu Criador (Cl 3:9–10), fundamento de toda a ética que se segue."
+      },
+      "versiculoClave": "Col 3:10",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ef 5:22",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Inicia en Efesios un código doméstico paralelo y más extenso (Ef 5:22–6:9), compartiendo la misma estructura de tríadas (esposas-esposos, hijos-padres, esclavos-amos)",
+            "en": "Opens a parallel, more extensive household code in Ephesians (Eph 5:22–6:9), sharing the same triad structure (wives-husbands, children-fathers, slaves-masters)",
+            "pt": "Inicia em Efésios um código doméstico paralelo e mais extenso (Ef 5:22–6:9), compartilhando a mesma estrutura de tríades (esposas-maridos, filhos-pais, escravos-senhores)"
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Corazón Nuevo/Nuevo Nacimiento": {
+            "es": "El creyente se ha despojado del hombre viejo con sus prácticas y se ha vestido del nuevo, que se va renovando conforme a la imagen de su Creador hasta el pleno conocimiento (Col 3:9–10).",
+            "en": "The believer has put off the old self with its practices and has put on the new self, being renewed after the image of its Creator unto full knowledge (Col 3:9–10).",
+            "pt": "O crente despojou-se do velho homem com suas práticas e revestiu-se do novo, que se vai renovando conforme a imagem de seu Criador até o pleno conhecimento (Cl 3:9–10)."
+          }
+        },
+        "secundarios": [
+          {
+            "Imago Dei": {
+              "es": "El hombre nuevo es renovado 'conforme a la imagen del que lo creó' (Col 3:10), restaurando en Cristo la imagen divina distorsionada por la caída.",
+              "en": "The new self is renewed 'after the image of its Creator' (Col 3:10), restoring in Christ the divine image distorted by the fall.",
+              "pt": "O novo homem é renovado 'conforme a imagem daquele que o criou' (Cl 3:10), restaurando em Cristo a imagem divina distorcida pela queda."
+            }
+          },
+          {
+            "Matrimonio": {
+              "es": "El código doméstico ordena la relación entre esposas y esposos bajo el señorío de Cristo: sumisión 'como conviene en el Señor' y amor sin amargura (Col 3:18–19).",
+              "en": "The household code orders the relationship between wives and husbands under Christ's lordship: submission 'as is fitting in the Lord' and love without bitterness (Col 3:18–19).",
+              "pt": "O código doméstico ordena a relação entre esposas e maridos sob o senhorio de Cristo: submissão 'como convém no Senhor' e amor sem amargura (Cl 3:18–19)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Instrucciones finales y saludos",
+        "en": "Final Instructions and Greetings",
+        "pt": "Instruções finais e saudações"
+      },
+      "descripcion": {
+        "es": "Pablo concluye el código doméstico instruyendo a los amos a tratar a sus esclavos con justicia, sabiendo que también ellos tienen un Amo en el cielo (Col 4:1), y exhorta a perseverar en la oración vigilante, incluso por él mismo, para que se le abra puerta para anunciar el misterio de Cristo (Col 4:2–4), así como a conducirse sabiamente ante los de afuera (Col 4:5–6). Anuncia el envío de Tíquico y de Onésimo, el hermano fiel colosense, para informar de su situación y confortar los corazones (Col 4:7–9), transmite saludos de sus colaboradores judíos y gentiles —Aristarco, Marcos, Justo, Epafras, Lucas y Demas— (Col 4:10–14), y ordena el intercambio de la carta con la de Laodicea, además de exhortar directamente a Arquipo a cumplir su ministerio (Col 4:15–17). La carta cierra con la firma personal de Pablo de su puño y letra (Col 4:18).",
+        "en": "Paul concludes the household code by instructing masters to treat their slaves justly, knowing that they too have a Master in heaven (Col 4:1), and exhorts them to persevere in watchful prayer, even for himself, that a door may be opened to proclaim the mystery of Christ (Col 4:2–4), as well as to walk wisely toward outsiders (Col 4:5–6). He announces the sending of Tychicus and of Onesimus, the faithful Colossian brother, to report on his situation and encourage their hearts (Col 4:7–9), conveys greetings from his Jewish and Gentile coworkers — Aristarchus, Mark, Justus, Epaphras, Luke, and Demas — (Col 4:10–14), and orders the exchange of the letter with the one to Laodicea, besides directly exhorting Archippus to fulfill his ministry (Col 4:15–17). The letter closes with Paul's own handwritten signature (Col 4:18).",
+        "pt": "Paulo conclui o código doméstico instruindo os senhores a tratar seus escravos com justiça, sabendo que também eles têm um Senhor nos céus (Cl 4:1), e exorta a perseverar na oração vigilante, inclusive por ele mesmo, para que se lhe abra uma porta para anunciar o mistério de Cristo (Cl 4:2–4), bem como a conduzir-se sabiamente diante dos de fora (Cl 4:5–6). Anuncia o envio de Tíquico e de Onésimo, o irmão fiel colossense, para informar sobre sua situação e confortar os corações (Cl 4:7–9), transmite saudações de seus colaboradores judeus e gentios — Aristarco, Marcos, Justo, Epafras, Lucas e Demas — (Cl 4:10–14), e ordena a troca da carta com a de Laodiceia, além de exortar diretamente Arquipo a cumprir seu ministério (Cl 4:15–17). A carta se encerra com a assinatura pessoal de Paulo de próprio punho (Cl 4:18)."
+      },
+      "eventoClave": {
+        "es": "El envío de Onésimo, el esclavo fugitivo convertido, de regreso a Colosas junto con Tíquico, con la carta a Filemón adjunta (Col 4:9).",
+        "en": "The sending of Onesimus, the converted runaway slave, back to Colossae together with Tychicus, with the letter to Philemon attached (Col 4:9).",
+        "pt": "O envio de Onésimo, o escravo fugitivo convertido, de volta a Colossas junto com Tíquico, com a carta a Filemom anexa (Cl 4:9)."
+      },
+      "versiculoClave": "Col 4:9",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Flm 1:10-18",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La carta a Filemón desarrolla en detalle el caso de Onésimo apenas mencionado aquí, confirmando la composición simultánea de ambas epístolas",
+            "en": "The letter to Philemon develops in detail the case of Onesimus barely mentioned here, confirming the simultaneous composition of both epistles",
+            "pt": "A carta a Filemom desenvolve em detalhe o caso de Onésimo apenas mencionado aqui, confirmando a composição simultânea de ambas as epístolas"
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "Pablo pide oración para que Dios le abra puerta a fin de dar a conocer el misterio de Cristo, hablando como debe hablar (Col 4:2–4), y ordena que la carta se lea públicamente en Colosas y Laodicea (Col 4:16).",
+            "en": "Paul asks for prayer that God would open a door for him to make known the mystery of Christ, speaking as he ought to speak (Col 4:2–4), and orders that the letter be read publicly at Colossae and Laodicea (Col 4:16).",
+            "pt": "Paulo pede oração para que Deus lhe abra uma porta a fim de dar a conhecer o mistério de Cristo, falando como deve falar (Cl 4:2–4), e ordena que a carta seja lida publicamente em Colossas e Laodiceia (Cl 4:16)."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "Tíquico y Onésimo son enviados como 'hermano fiel y amado' (Col 4:7,9), y varios colaboradores judíos son descritos como los únicos que fueron 'consuelo' fiel para Pablo (Col 4:11).",
+              "en": "Tychicus and Onesimus are sent as 'faithful and beloved brother' (Col 4:7,9), and several Jewish coworkers are described as the only ones who were a faithful 'comfort' to Paul (Col 4:11).",
+              "pt": "Tíquico e Onésimo são enviados como 'irmão fiel e amado' (Cl 4:7,9), e vários colaboradores judeus são descritos como os únicos que foram 'consolo' fiel para Paulo (Cl 4:11)."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis / Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología",
+          "Resúmenes de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Theology",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia",
+          "Resumos de capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida bajo la dirección editorial de Wayne Grudem y Lane T. Dennis, esta Biblia de estudio reúne a decenas de eruditos evangélicos reformados y es ampliamente reconocida como el estándar de referencia protestante conservador en lengua inglesa.",
+          "en": "Produced under the editorial direction of Wayne Grudem and Lane T. Dennis, this study Bible gathers dozens of Reformed evangelical scholars and is widely recognized as the conservative Protestant reference standard in English.",
+          "pt": "Produzida sob a direção editorial de Wayne Grudem e Lane T. Dennis, esta Bíblia de estudo reúne dezenas de eruditos evangélicos reformados e é amplamente reconhecida como o padrão de referência protestante conservador em língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas versículo por versículo con ensayos teológicos temáticos, priorizando la interpretación gramático-histórica y la coherencia con la teología reformada confesional.",
+          "en": "It combines verse-by-verse exegetical notes with thematic theological essays, prioritizing grammatical-historical interpretation and coherence with confessional Reformed theology.",
+          "pt": "Combina notas exegéticas versículo por versículo com ensaios teológicos temáticos, priorizando a interpretação gramático-histórica e a coerência com a teologia reformada confessional."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco introductorio de fecha, autoría y estructura literaria de Colosenses, así como el análisis detallado del himno cristológico de Col 1:15–20.",
+          "en": "Provided the introductory framework for Colossians' date, authorship, and literary structure, as well as detailed analysis of the christological hymn of Col 1:15–20.",
+          "pt": "Forneceu o quadro introdutório de data, autoria e estrutura literária de Colossenses, bem como a análise detalhada do hino cristológico de Cl 1:15–20."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology (Grudem, 1994)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Âncoras confessionais",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017), fundador de Ligonier Ministries y del Reformed Theological Seminary de Orlando, fue uno de los teólogos y apologistas reformados más influyentes del siglo XX en el mundo de habla inglesa.",
+          "en": "R.C. Sproul (1939–2017), founder of Ligonier Ministries and Reformed Theological Seminary in Orlando, was one of the most influential Reformed theologians and apologists of the 20th century in the English-speaking world.",
+          "pt": "R.C. Sproul (1939–2017), fundador do Ligonier Ministries e do Reformed Theological Seminary de Orlando, foi um dos teólogos e apologistas reformados mais influentes do século XX no mundo de língua inglesa."
+        },
+        "metodo": {
+          "es": "Une notas de estudio con referencias explícitas y sistemáticas a la Confesión de Fe de Westminster, buscando mostrar la coherencia entre el texto bíblico y la doctrina confesional reformada.",
+          "en": "It combines study notes with explicit, systematic references to the Westminster Confession of Faith, aiming to show the coherence between the biblical text and confessional Reformed doctrine.",
+          "pt": "Une notas de estudo com referências explícitas e sistemáticas à Confissão de Fé de Westminster, buscando mostrar a coerência entre o texto bíblico e a doutrina confessional reformada."
+        },
+        "aportacion": {
+          "es": "Fundamentó la conexión directa entre los capítulos 8, 20, 25 y 13 de la Confesión de Westminster y los pasajes cristológicos, de libertad cristiana, eclesiológicos y de santificación de Colosenses.",
+          "en": "Grounded the direct connection between chapters 8, 20, 25, and 13 of the Westminster Confession and the christological, Christian-liberty, ecclesiological, and sanctification passages of Colossians.",
+          "pt": "Fundamentou a conexão direta entre os capítulos 8, 20, 25 e 13 da Confissão de Westminster e as passagens cristológicas, de liberdade cristã, eclesiológicas e de santificação de Colossenses."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-hardcover-black"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2017,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto NBLA",
+          "Notas de estudio en español"
+        ],
+        "en": [
+          "NBLA text",
+          "Spanish study notes"
+        ],
+        "pt": [
+          "Texto NBLA",
+          "Notas de estudo em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Versión en español de la Reformation Study Bible, adaptada y traducida para el público hispanohablante reformado, empleando el texto de la Nueva Biblia de las Américas (NBLA).",
+          "en": "The Spanish-language version of the Reformation Study Bible, adapted and translated for the Reformed Spanish-speaking audience, using the text of the Nueva Biblia de las Américas (NBLA).",
+          "pt": "Versão em espanhol da Reformation Study Bible, adaptada e traduzida para o público hispanofalante reformado, utilizando o texto da Nueva Biblia de las Américas (NBLA)."
+        },
+        "metodo": {
+          "es": "Reproduce el aparato de notas de la edición original en inglés, revisado por un equipo de teólogos hispanohablantes para asegurar precisión doctrinal y fidelidad terminológica reformada en español.",
+          "en": "It reproduces the note apparatus of the original English edition, reviewed by a team of Spanish-speaking theologians to ensure doctrinal precision and faithful Reformed terminology in Spanish.",
+          "pt": "Reproduz o aparato de notas da edição original em inglês, revisado por uma equipe de teólogos hispanofalantes para assegurar precisão doutrinária e fidelidade terminológica reformada em espanhol."
+        },
+        "aportacion": {
+          "es": "Proveyó el texto base NBLA citado en todos los campos en español del registro y sus notas de estudio correspondientes a Colosenses.",
+          "en": "Provided the NBLA base text cited in all the Spanish-language fields of the record and its corresponding study notes for Colossians.",
+          "pt": "Forneceu o texto-base NBLA citado em todos os campos em espanhol do registro e suas notas de estudo correspondentes a Colossenses."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2017)"
+        ],
+        "url": "https://es.ligonier.org/recursos/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Cristología",
+          "Eclesiología"
+        ],
+        "en": [
+          "Systematic theology",
+          "Christology",
+          "Ecclesiology"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Cristologia",
+          "Eclesiologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, es uno de los teólogos sistemáticos evangélicos más leídos, coeditor también de la ESV Study Bible.",
+          "en": "Wayne Grudem, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, is one of the most widely read evangelical systematic theologians, also co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, é um dos teólogos sistemáticos evangélicos mais lidos, também coeditor da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, apoyando cada afirmación en exégesis bíblica extensa y accesible, dentro de un marco confesional bautista-reformado.",
+          "en": "He organizes Christian doctrine by classic systematic categories, supporting each claim with extensive, accessible biblical exegesis, within a Baptist-Reformed confessional framework.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, apoiando cada afirmação em exegese bíblica extensa e acessível, dentro de um quadro confessional batista-reformado."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco categorial para clasificar la cristología cósmica, la soteriología objetiva y la eclesiología corporativa presentes en Colosenses.",
+          "en": "Provided the categorical framework for classifying the cosmic Christology, objective soteriology, and corporate ecclesiology present in Colossians.",
+          "pt": "Forneceu o quadro categorial para classificar a cristologia cósmica, a soteriologia objetiva e a eclesiologia corporativa presentes em Colossenses."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949), primer profesor de Teología Bíblica en Princeton Theological Seminary, es considerado el padre de la teología bíblica reformada moderna y una influencia decisiva sobre Ridderbos y Beale.",
+          "en": "Geerhardus Vos (1862–1949), the first professor of Biblical Theology at Princeton Theological Seminary, is considered the father of modern Reformed biblical theology and a decisive influence on Ridderbos and Beale.",
+          "pt": "Geerhardus Vos (1862–1949), primeiro professor de Teologia Bíblica no Princeton Theological Seminary, é considerado o pai da teologia bíblica reformada moderna e uma influência decisiva sobre Ridderbos e Beale."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo y orgánico de la revelación a través de la historia redentora, leyendo cada pacto y figura del Antiguo Testamento como preparación consciente para Cristo.",
+          "en": "He traces the progressive, organic development of revelation through redemptive history, reading each Old Testament covenant and figure as conscious preparation for Christ.",
+          "pt": "Traça o desenvolvimento progressivo e orgânico da revelação através da história redentora, lendo cada pacto e figura do Antigo Testamento como preparação consciente para Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamentó la lectura de las ordenanzas ceremoniales de Col 2:16–17 como 'sombra' cuya 'sustancia' es Cristo, y la ubicación de la carta en la época de 'Aplicación' de la historia redentora.",
+          "en": "Grounded the reading of the ceremonial ordinances of Col 2:16–17 as 'shadow' whose 'substance' is Christ, and the letter's placement in the 'Application' epoch of redemptive history.",
+          "pt": "Fundamentou a leitura das ordenanças cerimoniais de Cl 2:16–17 como 'sombra' cuja 'substância' é Cristo, e o posicionamento da carta na época de 'Aplicação' da história redentora."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "Pauline Eschatology (1930)"
+        ],
+        "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook"
+      }
+    },
+    {
+      "titulo": "The Epistles to the Colossians, to Philemon, and to the Ephesians (NICNT)",
+      "autor": "F.F. Bruce",
+      "año": 1984,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Biografías de personajes",
+          "Herejía colosense"
+        ],
+        "en": [
+          "Historical context",
+          "Character biographies",
+          "Colossian heresy"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Biografias de personagens",
+          "Heresia colossense"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "F.F. Bruce (1910–1990), profesor de Crítica y Exégesis Bíblica en la Universidad de Manchester, fue uno de los eruditos evangélicos más respetados del siglo XX, autor de comentarios de referencia en la serie NICNT.",
+          "en": "F.F. Bruce (1910–1990), Rylands Professor of Biblical Criticism and Exegesis at the University of Manchester, was one of the most respected evangelical scholars of the 20th century, author of reference commentaries in the NICNT series.",
+          "pt": "F.F. Bruce (1910–1990), professor de Crítica e Exegese Bíblica na Universidade de Manchester, foi um dos eruditos evangélicos mais respeitados do século XX, autor de comentários de referência na série NICNT."
+        },
+        "metodo": {
+          "es": "Combina rigor filológico en griego con atención al trasfondo histórico grecorromano y judío, evitando tanto el criticismo escéptico como la lectura acrítica devocional.",
+          "en": "He combines philological rigor in Greek with attention to the Greco-Roman and Jewish historical background, avoiding both skeptical criticism and uncritical devotional reading.",
+          "pt": "Combina rigor filológico em grego com atenção ao pano de fundo histórico greco-romano e judaico, evitando tanto o criticismo cético quanto a leitura devocional acrítica."
+        },
+        "aportacion": {
+          "es": "Proveyó la reconstrucción histórica de Colosas, Laodicea y Hierápolis, y las biografías históricas de Epafras, Tíquico y Arquipo utilizadas en este registro.",
+          "en": "Provided the historical reconstruction of Colossae, Laodicea, and Hierapolis, and the historical biographies of Epaphras, Tychicus, and Archippus used in this record.",
+          "pt": "Forneceu a reconstrução histórica de Colossas, Laodiceia e Hierápolis, e as biografias históricas de Epafras, Tíquico e Arquipo utilizadas neste registro."
+        },
+        "obras": [
+          "The Epistles to the Colossians, to Philemon, and to the Ephesians (1984)",
+          "Paul: Apostle of the Heart Set Free (1977)"
+        ],
+        "url": "https://www.thegospelcoalition.org/reviews/tgc-bookstore/nicnt/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Civilizaciones"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Civilizations"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Civilizações"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener, profesor de Estudios del Nuevo Testamento en Asbury Theological Seminary, es reconocido por su dominio de fuentes grecorromanas y judías del período del Nuevo Testamento.",
+          "en": "Craig S. Keener, professor of New Testament Studies at Asbury Theological Seminary, is recognized for his command of Greco-Roman and Jewish sources from the New Testament period.",
+          "pt": "Craig S. Keener, professor de Estudos do Novo Testamento no Asbury Theological Seminary, é reconhecido por seu domínio de fontes greco-romanas e judaicas do período do Novo Testamento."
+        },
+        "metodo": {
+          "es": "Anota versículo por versículo el trasfondo social, cultural y material del mundo grecorromano y judío, iluminando el texto sin imponerle una agenda teológica particular.",
+          "en": "He annotates verse by verse the social, cultural, and material background of the Greco-Roman and Jewish world, illuminating the text without imposing a particular theological agenda.",
+          "pt": "Anota versículo por versículo o pano de fundo social, cultural e material do mundo greco-romano e judaico, iluminando o texto sem impor-lhe uma agenda teológica particular."
+        },
+        "aportacion": {
+          "es": "Aportó el trasfondo social sobre la comunidad judía de la diáspora en Frigia y sobre las prácticas de esclavitud romana relevantes para el caso de Onésimo.",
+          "en": "Contributed the social background on the Jewish diaspora community in Phrygia and on Roman slavery practices relevant to Onesimus's case.",
+          "pt": "Contribuiu com o pano de fundo social sobre a comunidade judaica da diáspora na Frígia e sobre as práticas de escravidão romana relevantes para o caso de Onésimo."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: New Testament (1993)",
+          "Acts: An Exegetical Commentary (2012–2015)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-new-testament"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.9,
+    "camposMarcados": [
+      {
+        "campo": "autor",
+        "razon": "La autoría paulina es tradicional y afirmada por la iglesia primitiva de forma unánime, pero la crítica moderna la disputa por diferencias de vocabulario y cristología más desarrollada frente a las cartas indiscutidas; se adopta la posición reformada (autoría paulina genuina, con posible uso de amanuense) como la más consistente con la autopresentación del texto y el testimonio patrístico.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-07"
+      },
+      {
+        "campo": "escritoEn",
+        "razon": "Se adoptó Roma como lugar de composición (posición tradicional, consistente con Hch 28 y la primera prisión de Pablo, c. 60–62 d.C.), sobre las hipótesis modernas de Cesarea o una prisión efesina no registrada en Hechos, que carecen de apoyo patrístico.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-07"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "La naturaleza exacta de la 'herejía colosense' es debatida (misticismo judío merkabá, proto-gnosticismo helenístico, o religión popular frigia); se adoptó la posición de Bruce y O'Brien de un sincretismo híbrido local, evitando categorías anacrónicas como 'gnosticismo pleno'.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-07"
+      },
+      {
+        "campo": "personajes[Arquipo].biografiaHistorica",
+        "razon": "Su identificación posterior como primer obispo de Laodicea proviene de tradición patrística tardía (Constituciones Apostólicas 7.46) sin confirmación independiente contemporánea; se marcó con nivelEvidencia 'bajo' y se documentó la fuente como tardía.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-07"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-07T00:00:00.000Z",
+    "revisadoPor": {
+      "nombre": "Claude (CANON Pipeline)",
+      "rol": "editor",
+      "fechaRevision": "2026-07-07"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 4,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-07T00:00:00.000Z",
+          "fechaFin": "2026-07-07T00:00:00.000Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-07T00:00:00.000Z",
+          "fechaFin": "2026-07-07T00:00:00.000Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-07T00:00:00.000Z",
+          "fechaFin": "2026-07-07T00:00:00.000Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-07T00:00:00.000Z",
+          "fechaFin": "2026-07-07T00:00:00.000Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-07-07T00:00:00.000Z",
+          "fechaFin": "2026-07-07T00:00:00.000Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
