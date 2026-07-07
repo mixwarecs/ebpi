@@ -1615,12 +1615,13 @@
       "ordenCanon": 52,
       "capitulosTotal": 5,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La carta escatológica más temprana del NT: corrige malentendidos sobre la parusía y exhorta a la santidad mientras se aguarda la venida de Cristo.",
         "en": "The earliest eschatological letter of the NT: corrects misunderstandings about the parousia and exhorts to holiness while awaiting Christ's coming.",
         "pt": "A carta escatológica mais antiga do NT: corrige equívocos sobre a parusía e exorta à santidade enquanto se aguarda a vinda de Cristo."
-      }
+      },
+      "dataFile": "1tesalonicenses.json"
     },
     {
       "id": 53,

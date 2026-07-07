@@ -315,7 +315,10 @@
     "id": "esau",
     "color": "#7A4A2A",
     "init": "Ἠσ",
-    "xCh": { "Ro": 9, "He": 12 },
+    "xCh": {
+      "Ro": 9,
+      "He": 12
+    },
     "side": "above",
     "badge": {
       "es": "TIPO: REPROBADO",
@@ -1420,7 +1423,10 @@
     "id": "silvano",
     "color": "#7A6B5A",
     "init": "ΣΙ",
-    "xCh": 5,
+    "xCh": {
+      "1P": 5,
+      "1Ts": 1
+    },
     "side": "above",
     "badge": {
       "es": "AMANUENSE",
@@ -1636,7 +1642,14 @@
     "id": "timoteo",
     "color": "#1B5E8B",
     "init": "ΤΙ",
-    "xCh": { "1Ti": 1, "2Co": 1, "2Ti": 1, "Fil": 1, "He": 13 },
+    "xCh": {
+      "1Ti": 1,
+      "2Co": 1,
+      "2Ti": 1,
+      "Fil": 1,
+      "He": 13,
+      "1Ts": 3
+    },
     "side": "above",
     "badge": {
       "es": "HIJO EN LA FE",
@@ -1966,6 +1979,18 @@
       "es": "TIPOS DE APOSTASÍA",
       "en": "TYPES OF APOSTASY",
       "pt": "TIPOS DE APOSTASIA"
+    }
+  },
+  "Satanás": {
+    "id": "satanas",
+    "color": "#5A1A1A",
+    "init": "Σα",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "ADVERSARIO ESPIRITUAL",
+      "en": "SPIRITUAL ADVERSARY",
+      "pt": "ADVERSÁRIO ESPIRITUAL"
     }
   }
 }
