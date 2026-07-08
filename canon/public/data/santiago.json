@@ -1,0 +1,1782 @@
+{
+  "id": 59,
+  "testamento": "Nuevo",
+  "division": "Epístolas Generales",
+  "titulo": {
+    "es": "Santiago",
+    "en": "James",
+    "pt": "Tiago"
+  },
+  "tituloOriginal": "Ἰάκωβος",
+  "transliteracion": "Iakōbos",
+  "significado": {
+    "es": "Forma griega del hebreo Ya'aqov ('Jacob'), tradicionalmente entendido como 'el que agarra el talón' o 'suplantador' (cf. Gn 25:26)",
+    "en": "Greek form of the Hebrew Ya'aqov ('Jacob'), traditionally understood as 'he grasps the heel' or 'supplanter' (cf. Gen 25:26)",
+    "pt": "Forma grega do hebraico Ya'aqov ('Jacó'), tradicionalmente entendido como 'o que agarra o calcanhar' ou 'suplantador' (cf. Gn 25:26)"
+  },
+  "resumenGeneral": {
+    "es": "El argumento se abre con una paradoja: las pruebas diversas deben considerarse 'sumo gozo' porque producen perseverancia y madurez (Stg 1:2-4), y de inmediato Santiago exige que la fe profesada se demuestre en obediencia práctica, siendo hacedores de la palabra y no solo oidores (Stg 1:22-25). Ese mismo criterio se aplica con dureza creciente: la fe que no actúa contra la parcialidad hacia los ricos (Stg 2:1-13) o que no produce obras es una fe muerta, incapaz de salvar (Stg 2:14-26). El argumento desciende luego a la vida comunitaria concreta —la lengua no domada que bendice y maldice (Stg 3:1-12), la sabiduría de lo alto frente a la envidia y la ambición (Stg 3:13-18), las guerras internas nacidas de las pasiones (Stg 4:1-10)— y culmina en una doble advertencia escatológica: el juicio inminente sobre los ricos opresores (Stg 5:1-6) y el llamado a la paciencia del labrador que espera la venida del Señor (Stg 5:7-11), cerrando con instrucciones prácticas sobre el juramento, la oración y el cuidado mutuo de la comunidad (Stg 5:12-20).",
+    "en": "The argument opens with a paradox: various trials are to be counted 'all joy' because they produce endurance and maturity (Jas 1:2-4), and James immediately demands that professed faith show itself in practical obedience, being doers of the word and not hearers only (Jas 1:22-25). That same criterion is applied with mounting severity: faith that fails to act against partiality toward the rich (Jas 2:1-13) or that produces no works is a dead faith, unable to save (Jas 2:14-26). The argument then descends into concrete community life — the untamed tongue that blesses and curses (Jas 3:1-12), wisdom from above set against envy and selfish ambition (Jas 3:13-18), internal wars born of the passions (Jas 4:1-10) — and culminates in a double eschatological warning: imminent judgment on oppressive rich landowners (Jas 5:1-6) and a call to the farmer's patience while awaiting the Lord's coming (Jas 5:7-11), closing with practical instructions on oaths, prayer, and mutual care within the community (Jas 5:12-20).",
+    "pt": "O argumento se abre com um paradoxo: as diversas provações devem ser consideradas 'motivo de grande alegria' porque produzem perseverança e maturidade (Tg 1:2-4), e Tiago exige de imediato que a fé professada se mostre em obediência prática, sendo praticantes da palavra e não apenas ouvintes (Tg 1:22-25). Esse mesmo critério é aplicado com rigor crescente: a fé que não age contra a parcialidade para com os ricos (Tg 2:1-13) ou que não produz obras é uma fé morta, incapaz de salvar (Tg 2:14-26). O argumento desce então à vida comunitária concreta — a língua indomável que abençoa e amaldiçoa (Tg 3:1-12), a sabedoria do alto contraposta à inveja e à ambição egoísta (Tg 3:13-18), as guerras internas nascidas das paixões (Tg 4:1-10) — e culmina numa dupla advertência escatológica: o juízo iminente sobre os ricos opressores (Tg 5:1-6) e o chamado à paciência do lavrador que espera a vinda do Senhor (Tg 5:7-11), encerrando com instruções práticas sobre juramentos, oração e cuidado mútuo na comunidade (Tg 5:12-20)."
+  },
+  "capitulosTotal": 5,
+  "autor": {
+    "nombre": {
+      "es": "Santiago, el hermano del Señor",
+      "en": "James, the brother of the Lord",
+      "pt": "Tiago, o irmão do Senhor"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El NT conoce a varios llamados Santiago: el hijo de Zebedeo (apóstol, hermano de Juan), el hijo de Alfeo (uno de los doce), y 'Santiago el hermano del Señor' (Mr 6:3; Gá 1:19), inicialmente incrédulo (Jn 7:5) pero convertido tras una aparición del Cristo resucitado (1Co 15:7) y convertido en 'columna' y líder de la iglesia de Jerusalén (Hch 12:17; 15:13-21; Gá 2:9). La tradición reformada, siguiendo a la iglesia antigua, identifica a este último como el autor: el Santiago hijo de Zebedeo fue martirizado ya en el 44 d.C. (Hch 12:2), demasiado pronto para la iglesia organizada con ancianos que refleja la carta (Stg 5:14), mientras que la autoridad pastoral, el vocabulario sapiencial y los ecos verbales del Sermón del Monte encajan naturalmente con el Santiago de Jerusalén conocido por Hechos y Gálatas. Eusebio preserva el testimonio de Hegesipo sobre su piedad extraordinaria y su título de 'el Justo' (Historia Eclesiástica 2.23).",
+      "en": "The NT knows several men named James: the son of Zebedee (an apostle, brother of John), the son of Alphaeus (one of the twelve), and 'James the brother of the Lord' (Mark 6:3; Gal 1:19), initially an unbeliever (John 7:5) but converted after an appearance of the risen Christ (1 Cor 15:7) and made a 'pillar' and leader of the Jerusalem church (Acts 12:17; 15:13-21; Gal 2:9). The Reformed tradition, following the ancient church, identifies this last James as the author: James the son of Zebedee was already martyred in AD 44 (Acts 12:2), too early for the organized church with elders reflected in the letter (Jas 5:14), while the pastoral authority, wisdom vocabulary, and verbal echoes of the Sermon on the Mount fit naturally with the James of Jerusalem known from Acts and Galatians. Eusebius preserves Hegesippus's testimony to his extraordinary piety and his title 'the Just' (Ecclesiastical History 2.23).",
+      "pt": "O NT conhece vários chamados Tiago: o filho de Zebedeu (apóstolo, irmão de João), o filho de Alfeu (um dos doze) e 'Tiago, irmão do Senhor' (Mc 6:3; Gl 1:19), inicialmente incrédulo (Jo 7:5) mas convertido após uma aparição do Cristo ressuscitado (1Co 15:7) e feito 'coluna' e líder da igreja de Jerusalém (At 12:17; 15:13-21; Gl 2:9). A tradição reformada, seguindo a igreja antiga, identifica este último como o autor: Tiago filho de Zebedeu já havia sido martirizado em 44 d.C. (At 12:2), cedo demais para a igreja organizada com anciãos refletida na carta (Tg 5:14), enquanto a autoridade pastoral, o vocabulário sapiencial e os ecos verbais do Sermão do Monte encaixam-se naturalmente com o Tiago de Jerusalém conhecido por Atos e Gálatas. Eusébio preserva o testemunho de Hegesipo sobre sua piedade extraordinária e seu título de 'o Justo' (História Eclesiástica 2.23)."
+    }
+  },
+  "año": {
+    "desde": 44,
+    "hasta": 49,
+    "display": {
+      "es": "Fecha de escritura: c. 44–49 d.C.",
+      "en": "Date of writing: c. AD 44–49",
+      "pt": "Data de escrita: c. 44–49 d.C."
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Jerusalén, desde donde Santiago dirigía la iglesia madre como su principal anciano-pastor, probablemente antes del Concilio de Jerusalén (Hch 15, c. 49 d.C.), ya que la carta no menciona la controversia sobre la circuncisión de los gentiles ni su resolución conciliar.",
+    "en": "Jerusalem, from which James led the mother church as its chief elder-pastor, probably before the Jerusalem Council (Acts 15, c. AD 49), since the letter mentions neither the controversy over Gentile circumcision nor its conciliar resolution.",
+    "pt": "Jerusalém, de onde Tiago liderava a igreja-mãe como seu principal presbítero-pastor, provavelmente antes do Concílio de Jerusalém (At 15, c. 49 d.C.), já que a carta não menciona a controvérsia sobre a circuncisão dos gentios nem sua resolução conciliar."
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Primitivo (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Jerusalén, Israel",
+          "en": "Jerusalem, Israel",
+          "pt": "Jerusalém, Israel"
+        },
+        "significancia": {
+          "es": "Sede del ministerio pastoral de Santiago como líder de la iglesia madre (Hch 15:13; Gá 1:19; 2:9,12), y lugar tradicional de su martirio hacia el 62 d.C., según Josefo (Antigüedades 20.200) y el testimonio de Hegesipo preservado por Eusebio (Historia Eclesiástica 2.23).",
+          "en": "Seat of James's pastoral ministry as leader of the mother church (Acts 15:13; Gal 1:19; 2:9,12), and traditional site of his martyrdom around AD 62, according to Josephus (Antiquities 20.200) and the testimony of Hegesippus preserved by Eusebius (Ecclesiastical History 2.23).",
+          "pt": "Sede do ministério pastoral de Tiago como líder da igreja-mãe (At 15:13; Gl 1:19; 2:9,12), e local tradicional de seu martírio por volta de 62 d.C., segundo Josefo (Antiguidades 20.200) e o testemunho de Hegesipo preservado por Eusébio (História Eclesiástica 2.23)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "La Dispersión (Diáspora)",
+          "en": "The Dispersion (Diaspora)",
+          "pt": "A Dispersão (Diáspora)"
+        },
+        "identificacionModerna": {
+          "es": "Comunidades judías esparcidas por Siria, Asia Menor, Egipto y Mesopotamia",
+          "en": "Jewish communities scattered across Syria, Asia Minor, Egypt, and Mesopotamia",
+          "pt": "Comunidades judaicas espalhadas pela Síria, Ásia Menor, Egito e Mesopotâmia"
+        },
+        "significancia": {
+          "es": "Destino explícito de la carta, dirigida a 'las doce tribus que están en la dispersión' (Stg 1:1), reflejo de comunidades judeocristianas fuera de Palestina que enfrentaban pobreza y opresión por parte de terratenientes ricos (Stg 2:1-7; 5:1-6).",
+          "en": "Explicit destination of the letter, addressed to 'the twelve tribes in the Dispersion' (Jas 1:1), reflecting Jewish-Christian communities outside Palestine facing poverty and oppression from wealthy landowners (Jas 2:1-7; 5:1-6).",
+          "pt": "Destino explícito da carta, dirigida às 'doze tribos que andam dispersas' (Tg 1:1), refletindo comunidades judaico-cristãs fora da Palestina que enfrentavam pobreza e opressão por parte de proprietários ricos (Tg 2:1-7; 5:1-6)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "La sinagoga (lugar de asamblea)",
+          "en": "The synagogue (place of assembly)",
+          "pt": "A sinagoga (lugar de assembleia)"
+        },
+        "identificacionModerna": {
+          "es": "Congregaciones judeocristianas locales",
+          "en": "Local Jewish-Christian congregations",
+          "pt": "Congregações judaico-cristãs locais"
+        },
+        "significancia": {
+          "es": "Santiago usa con naturalidad el término griego synagōgē para la reunión cristiana (Stg 2:2), en lugar de ekklēsía, evidencia lingüística de una fecha muy temprana, cuando el vocabulario eclesial cristiano aún no se había distanciado del judío, y del entorno profundamente judío de los destinatarios.",
+          "en": "James naturally uses the Greek term synagōgē for the Christian assembly (Jas 2:2), rather than ekklēsía, linguistic evidence of a very early date, when Christian ecclesial vocabulary had not yet diverged from Jewish usage, and of the deeply Jewish setting of the addressees.",
+          "pt": "Tiago usa naturalmente o termo grego synagōgē para a reunião cristã (Tg 2:2), em vez de ekklēsía, evidência linguística de uma data muito precoce, quando o vocabulário eclesial cristão ainda não havia se distanciado do judaico, e do ambiente profundamente judaico dos destinatários."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Palestina rural (paisaje agrícola)",
+          "en": "Rural Palestine (agrarian landscape)",
+          "pt": "Palestina rural (paisagem agrária)"
+        },
+        "identificacionModerna": {
+          "es": "Galilea y las tierras agrícolas del norte de Palestina",
+          "en": "Galilee and the agricultural lands of northern Palestine",
+          "pt": "Galileia e as terras agrícolas do norte da Palestina"
+        },
+        "significancia": {
+          "es": "La imaginería agrícola de Santiago —la lluvia temprana y tardía (Stg 5:7), la higuera y la vid (Stg 3:12), el labrador que espera el fruto precioso de la tierra (Stg 5:7)— refleja un conocimiento íntimo del ciclo agrícola palestino, consistente con la formación galilea de Jesús y de sus hermanos.",
+          "en": "James's agricultural imagery — the early and late rains (Jas 5:7), the fig tree and the vine (Jas 3:12), the farmer awaiting the precious fruit of the earth (Jas 5:7) — reflects intimate knowledge of the Palestinian agricultural cycle, consistent with the Galilean upbringing of Jesus and his brothers.",
+          "pt": "A imagística agrícola de Tiago — a chuva temporã e a serôdia (Tg 5:7), a figueira e a videira (Tg 3:12), o lavrador que espera o precioso fruto da terra (Tg 5:7) — reflete conhecimento íntimo do ciclo agrícola palestino, consistente com a criação galileia de Jesus e de seus irmãos."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano",
+          "en": "Roman Empire",
+          "pt": "Império Romano"
+        },
+        "rolEnElTexto": {
+          "es": "Marco económico de explotación de jornaleros por grandes terratenientes (Stg 5:4), reflejo del sistema latifundista típico de la economía agraria romana en Palestina, bajo el cual pequeños propietarios perdían progresivamente sus tierras.",
+          "en": "Economic framework of exploitation of day laborers by large landowners (Jas 5:4), reflecting the latifundist system typical of the Roman agrarian economy in Palestine, under which small landholders progressively lost their land.",
+          "pt": "Marco econômico de exploração de trabalhadores por grandes proprietários (Tg 5:4), refletindo o sistema latifundiário típico da economia agrária romana na Palestina, sob o qual pequenos proprietários perdiam progressivamente suas terras."
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentado por papiros, inscripciones y estudios de la economía agraria de Palestina bajo dominio romano en el siglo I d.C.",
+          "en": "Widely documented by papyri, inscriptions, and studies of the agrarian economy of Palestine under Roman rule in the 1st century AD.",
+          "pt": "Amplamente documentado por papiros, inscrições e estudos da economia agrária da Palestina sob domínio romano no século I d.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judaísmo del Segundo Templo",
+          "en": "Second Temple Judaism",
+          "pt": "Judaísmo do Segundo Templo"
+        },
+        "rolEnElTexto": {
+          "es": "Trasfondo religioso y literario de Santiago, que se apoya fuertemente en la tradición sapiencial veterotestamentaria (Proverbios, Job) y en la ley mosaica reinterpretada cristológicamente como 'ley real' y 'ley perfecta de la libertad' (Stg 1:25; 2:8,12).",
+          "en": "Religious and literary background of James, which draws heavily on Old Testament wisdom tradition (Proverbs, Job) and on the Mosaic law reinterpreted christologically as the 'royal law' and the 'perfect law of liberty' (Jas 1:25; 2:8,12).",
+          "pt": "Pano de fundo religioso e literário de Tiago, que se apoia fortemente na tradição sapiencial veterotestamentária (Provérbios, Jó) e na lei mosaica reinterpretada cristologicamente como 'lei real' e 'lei perfeita da liberdade' (Tg 1:25; 2:8,12)."
+        },
+        "estadoArqueologico": {
+          "es": "Corroborado por hallazgos de Qumrán y literatura intertestamentaria (Sabiduría de Salomón, Eclesiástico) que muestran paralelos temáticos con la ética sapiencial de Santiago.",
+          "en": "Corroborated by Qumran finds and intertestamental literature (Wisdom of Solomon, Ecclesiasticus) showing thematic parallels with James's wisdom ethics.",
+          "pt": "Corroborado por achados de Qumran e literatura intertestamentária (Sabedoria de Salomão, Eclesiástico) que mostram paralelos temáticos com a ética sapiencial de Tiago."
+        }
+      },
+      {
+        "nombre": {
+          "es": "La Iglesia de Jerusalén",
+          "en": "The Jerusalem Church",
+          "pt": "A Igreja de Jerusalém"
+        },
+        "rolEnElTexto": {
+          "es": "Comunidad madre desde la cual Santiago escribe y ejerce su liderazgo (Hch 15:13-21; Gá 2:9), aún estrechamente vinculada a las prácticas y al vocabulario judíos, con ancianos ya establecidos como oficio pastoral (Stg 5:14).",
+          "en": "Mother community from which James writes and exercises leadership (Acts 15:13-21; Gal 2:9), still closely tied to Jewish practices and vocabulary, with elders already established as a pastoral office (Jas 5:14).",
+          "pt": "Comunidade-mãe a partir da qual Tiago escreve e exerce liderança (At 15:13-21; Gl 2:9), ainda intimamente ligada às práticas e ao vocabulário judaicos, com presbíteros já estabelecidos como ofício pastoral (Tg 5:14)."
+        },
+        "estadoArqueologico": {
+          "es": "Atestiguada en Hechos, las cartas paulinas y fuentes patrísticas tempranas (Hegesipo vía Eusebio; Josefo).",
+          "en": "Attested in Acts, the Pauline letters, and early patristic sources (Hegesippus via Eusebius; Josephus).",
+          "pt": "Atestada em Atos, nas cartas paulinas e em fontes patrísticas antigas (Hegesipo via Eusébio; Josefo)."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "No existen hallazgos arqueológicos que corroboren directamente eventos narrados en Santiago, ya que la carta es exhortación ética y no relato histórico. Sin embargo, la arqueología de la Palestina rural del siglo I confirma el trasfondo socioeconómico presupuesto por la carta: marcada disparidad entre grandes propietarios y jornaleros agrícolas, evidenciada en villas romanas y sistemas de latifundio excavados en Galilea e Idumea, y la práctica de retener el salario del jornalero denunciada en Stg 5:4 encuentra paralelo en quejas documentadas en papiros egipcios contemporáneos sobre impago de jornales agrícolas.",
+      "en": "No archaeological findings directly corroborate events narrated in James, since the letter is ethical exhortation rather than historical narrative. However, archaeology of first-century rural Palestine confirms the socioeconomic backdrop presupposed by the letter: marked disparity between large landowners and agricultural day laborers, evidenced by Roman villas and latifundia systems excavated in Galilee and Idumea, and the practice of withholding a laborer's wage denounced in Jas 5:4 finds a parallel in contemporary Egyptian papyri documenting complaints of unpaid agricultural wages.",
+      "pt": "Não existem achados arqueológicos que corroborem diretamente eventos narrados em Tiago, já que a carta é exortação ética e não relato histórico. No entanto, a arqueologia da Palestina rural do século I confirma o pano de fundo socioeconômico pressuposto pela carta: marcada disparidade entre grandes proprietários e trabalhadores agrícolas, evidenciada em vilas romanas e sistemas de latifúndio escavados na Galileia e na Idumeia, e a prática de reter o salário do trabalhador denunciada em Tg 5:4 encontra paralelo em queixas documentadas em papiros egípcios contemporâneos sobre salários agrícolas não pagos."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Eclesiástico (Sirácida) y Sabiduría de Salomón",
+          "en": "Ecclesiasticus (Sirach) and Wisdom of Solomon",
+          "pt": "Eclesiástico (Sirácida) e Sabedoria de Salomão"
+        },
+        "origen": {
+          "es": "Literatura sapiencial judía intertestamentaria, siglos II–I a.C.",
+          "en": "Intertestamental Jewish wisdom literature, 2nd–1st century BC",
+          "pt": "Literatura sapiencial judaica intertestamentária, séculos II–I a.C."
+        },
+        "relevancia": {
+          "es": "Comparten con Santiago el género de instrucción ética en máximas breves, el tema de la lengua como fuente de bendición y maldición (Eclesiástico 5:13–6:1; cf. Stg 3:1-12) y la preocupación por la justicia social hacia el pobre, evidencia del trasfondo literario sapiencial judío en que se formó Santiago, sin que esto implique dependencia literaria directa.",
+          "en": "They share with James the genre of ethical instruction in brief maxims, the theme of the tongue as a source of blessing and cursing (Ecclesiasticus 5:13–6:1; cf. Jas 3:1-12), and concern for social justice toward the poor, evidence of the Jewish wisdom-literary background in which James was formed, without implying direct literary dependence.",
+          "pt": "Compartilham com Tiago o gênero de instrução ética em máximas breves, o tema da língua como fonte de bênção e maldição (Eclesiástico 5:13–6:1; cf. Tg 3:1-12) e a preocupação pela justiça social para com o pobre, evidência do pano de fundo literário sapiencial judaico em que Tiago se formou, sem que isso implique dependência literária direta."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Papiros grecorromanos de Egipto sobre disputas laborales",
+          "en": "Greco-Roman Egyptian papyri on labor disputes",
+          "pt": "Papiros greco-romanos do Egito sobre disputas trabalhistas"
+        },
+        "origen": {
+          "es": "Documentos administrativos y privados del Egipto romano, siglos I–II d.C.",
+          "en": "Administrative and private documents from Roman Egypt, 1st–2nd century AD",
+          "pt": "Documentos administrativos e privados do Egito romano, séculos I–II d.C."
+        },
+        "relevancia": {
+          "es": "Corroboran el trasfondo económico de explotación de jornaleros agrícolas reflejado en la denuncia de Santiago contra los terratenientes que defraudan el jornal ('el jornal de los obreros... clama', Stg 5:4).",
+          "en": "Corroborate the economic backdrop of agricultural-laborer exploitation reflected in James's denunciation of landowners who defraud wages ('the wages... are crying out,' Jas 5:4).",
+          "pt": "Corroboram o pano de fundo econômico de exploração de trabalhadores agrícolas refletido na denúncia de Tiago contra os proprietários que fraudam o salário ('o salário dos trabalhadores... clama', Tg 5:4)."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia gira en torno a la identidad del autor: ¿es este 'Santiago' el hijo de Zebedeo (martirizado en el 44 d.C., Hch 12:2, probablemente demasiado temprano para el desarrollo eclesial reflejado en la carta), o Santiago 'el hermano del Señor', líder de la iglesia de Jerusalén? La tradición reformada, siguiendo a la iglesia antigua desde Orígenes y Eusebio, identifica al autor con este último. Una segunda controversia concierne la fecha: algunos eruditos niegan una fecha temprana por la aparente familiaridad de Stg 2:14-26 con la doctrina paulina de la justificación (Ro 3-4), pero la posición conservadora sostiene que Santiago y Pablo responden independientemente a preguntas comunes del judaísmo helenístico sobre la fe de Abraham, sin necesidad de dependencia literaria directa, lo cual favorece una fecha temprana (c. 44-49 d.C.), posiblemente el escrito más antiguo del NT.",
+      "en": "The main controversy concerns the author's identity: is this 'James' the son of Zebedee (martyred in AD 44, Acts 12:2, probably too early for the ecclesial development reflected in the letter), or James 'the brother of the Lord,' leader of the Jerusalem church? The Reformed tradition, following the ancient church from Origen and Eusebius, identifies the author as the latter. A second controversy concerns dating: some scholars deny an early date because of the apparent familiarity of Jas 2:14-26 with Pauline justification doctrine (Rom 3-4), but the conservative position holds that James and Paul respond independently to common Hellenistic-Jewish questions about Abraham's faith, without requiring direct literary dependence, favoring an early date (c. AD 44-49), possibly the earliest NT writing.",
+      "pt": "A principal controvérsia gira em torno da identidade do autor: seria este 'Tiago' o filho de Zebedeu (martirizado em 44 d.C., At 12:2, provavelmente cedo demais para o desenvolvimento eclesial refletido na carta), ou Tiago 'o irmão do Senhor', líder da igreja de Jerusalém? A tradição reformada, seguindo a igreja antiga desde Orígenes e Eusébio, identifica o autor com este último. Uma segunda controvérsia diz respeito à data: alguns estudiosos negam uma data precoce pela aparente familiaridade de Tg 2:14-26 com a doutrina paulina da justificação (Rm 3-4), mas a posição conservadora sustenta que Tiago e Paulo respondem independentemente a perguntas comuns do judaísmo helenístico sobre a fé de Abraão, sem exigir dependência literária direta, favorecendo uma data precoce (c. 44-49 d.C.), possivelmente o escrito mais antigo do NT."
+    },
+    "cronologiaInterna": {
+      "es": "La carta no ofrece marcadores cronológicos precisos, pero su lenguaje presupone una comunidad judeocristiana ya organizada con 'ancianos' (Stg 5:14) y reuniones regulares llamadas 'sinagoga' (Stg 2:2), así como conflictos socioeconómicos arraigados entre ricos y pobres (Stg 2:1-7; 5:1-6), lo cual sitúa la escritura después de la dispersión inicial de creyentes tras la persecución narrada en Hch 8:1, pero antes de que el vocabulario eclesial se distanciara del judío.",
+      "en": "The letter offers no precise chronological markers, but its language presupposes an already organized Jewish-Christian community with 'elders' (Jas 5:14) and regular gatherings called 'synagogue' (Jas 2:2), as well as entrenched socioeconomic conflicts between rich and poor (Jas 2:1-7; 5:1-6), placing the writing after the initial scattering of believers following the persecution narrated in Acts 8:1, but before ecclesial vocabulary diverged from Jewish usage.",
+      "pt": "A carta não oferece marcadores cronológicos precisos, mas sua linguagem pressupõe uma comunidade judaico-cristã já organizada com 'presbíteros' (Tg 5:14) e reuniões regulares chamadas 'sinagoga' (Tg 2:2), bem como conflitos socioeconômicos arraigados entre ricos e pobres (Tg 2:1-7; 5:1-6), o que situa a escrita depois da dispersão inicial dos crentes após a perseguição narrada em At 8:1, mas antes que o vocabulário eclesial se distanciasse do judaico."
+    }
+  },
+  "ordenEnDivision": 2,
+  "ordenCanon": 59,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Aunque Santiago menciona a Jesucristo explícitamente solo dos veces por nombre (Stg 1:1; 2:1), su cristología está tejida en el argumento mismo. Llama a Jesús 'el Señor de gloria' (Stg 2:1, título de la Shekiná veterotestamentaria aplicado directamente a Cristo), y lo presenta como el Juez que está a las puertas y cuya venida los creyentes deben esperar con paciencia (Stg 5:7-9), heredero de la expectativa profética del Día del Señor. La 'ley perfecta, la de la libertad' (Stg 1:25) y la 'ley real' de amar al prójimo (Stg 2:8) son transformaciones cristológicas de la Torá mosaica, mediadas por la enseñanza de Jesús, con la que Santiago dialoga constantemente en paralelos verbales (cf. Mt 5-7). La sabiduría 'que desciende de lo alto' (Stg 3:17) hace eco de la identificación paulina de Cristo como la sabiduría de Dios (1Co 1:24,30), de modo que pedir sabiduría a Dios (Stg 1:5) es, en última instancia, buscar a Cristo mismo.",
+      "en": "Although James mentions Jesus Christ explicitly only twice by name (Jas 1:1; 2:1), his Christology is woven into the very argument. He calls Jesus 'the Lord of glory' (Jas 2:1, an Old Testament Shekinah title applied directly to Christ), and presents him as the Judge standing at the door, whose coming believers must await with patience (Jas 5:7-9), heir of the prophetic expectation of the Day of the Lord. The 'perfect law, the law of liberty' (Jas 1:25) and the 'royal law' of loving one's neighbor (Jas 2:8) are christological transformations of the Mosaic Torah, mediated through Jesus's teaching, with which James constantly dialogues in verbal parallels (cf. Matt 5-7). The wisdom 'that comes down from above' (Jas 3:17) echoes Paul's identification of Christ as the wisdom of God (1 Cor 1:24,30), so that asking God for wisdom (Jas 1:5) is, ultimately, seeking Christ himself.",
+      "pt": "Embora Tiago mencione Jesus Cristo explicitamente apenas duas vezes pelo nome (Tg 1:1; 2:1), sua cristologia está tecida no próprio argumento. Chama Jesus de 'Senhor da glória' (Tg 2:1, título da Shekinah veterotestamentária aplicado diretamente a Cristo), e o apresenta como o Juiz que está às portas e cuja vinda os crentes devem esperar com paciência (Tg 5:7-9), herdeiro da expectativa profética do Dia do Senhor. A 'lei perfeita, a lei da liberdade' (Tg 1:25) e a 'lei real' de amar o próximo (Tg 2:8) são transformações cristológicas da Torá mosaica, mediadas pelo ensino de Jesus, com o qual Tiago dialoga constantemente em paralelos verbais (cf. Mt 5-7). A sabedoria 'que vem do alto' (Tg 3:17) ecoa a identificação paulina de Cristo como a sabedoria de Deus (1Co 1:24,30), de modo que pedir sabedoria a Deus (Tg 1:5) é, em última análise, buscar o próprio Cristo."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Abraham ofreciendo a Isaac, su hijo único y amado, sobre el altar (Stg 2:21; cf. Gn 22:2,9-10) prefigura al Padre entregando a su Hijo unigénito, e Isaac cargando la leña para su propio sacrificio funciona como tipo de Cristo cargando su cruz (cf. Jn 19:17; He 11:17-19).",
+        "en": "Abraham offering Isaac, his only beloved son, on the altar (Jas 2:21; cf. Gen 22:2,9-10) prefigures the Father giving up his only begotten Son, and Isaac carrying the wood for his own sacrifice functions as a type of Christ carrying his cross (cf. John 19:17; Heb 11:17-19).",
+        "pt": "Abraão oferecendo Isaque, seu filho único e amado, sobre o altar (Tg 2:21; cf. Gn 22:2,9-10) prefigura o Pai entregando seu Filho unigênito, e Isaque carregando a lenha para seu próprio sacrifício funciona como tipo de Cristo carregando sua cruz (cf. Jo 19:17; Hb 11:17-19)."
+      },
+      {
+        "es": "Job, vindicado por el Señor después de una prueba extrema e injusta (Stg 5:11; cf. Job 42:10-12), prefigura el patrón de humillación seguida de exaltación que se cumple perfectamente en Cristo, quien sufrió injustamente y fue después glorificado (cf. Flp 2:8-9; 1P 1:11).",
+        "en": "Job, vindicated by the Lord after an extreme and unjust trial (Jas 5:11; cf. Job 42:10-12), prefigures the pattern of humiliation followed by exaltation fulfilled perfectly in Christ, who suffered unjustly and was afterward glorified (cf. Phil 2:8-9; 1 Pet 1:11).",
+        "pt": "Jó, vindicado pelo Senhor após uma provação extrema e injusta (Tg 5:11; cf. Jó 42:10-12), prefigura o padrão de humilhação seguida de exaltação cumprido perfeitamente em Cristo, que sofreu injustamente e depois foi glorificado (cf. Fp 2:8-9; 1Pe 1:11)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Santiago es la única epístola del NT escrita enteramente en el género de la literatura sapiencial veterotestamentaria (Proverbios, Job), aplicando esa tradición a la vida de la iglesia cristiana primitiva. Aporta al canon la articulación más explícita de la relación entre fe y obras fuera del corpus paulino, forzando una lectura integrada de la doctrina de la justificación que evita tanto el legalismo como el antinomianismo. Es también la única fuente canónica que instituye la práctica de la oración de fe con unción de aceite por los ancianos para los enfermos (Stg 5:14-15), y ofrece la ética social más directa y confrontacional del NT respecto a la opresión económica de los pobres por los ricos (Stg 5:1-6).",
+    "en": "James is the only NT epistle written entirely in the genre of Old Testament wisdom literature (Proverbs, Job), applying that tradition to the life of the early Christian church. It contributes to the canon the most explicit articulation of the relationship between faith and works outside the Pauline corpus, forcing an integrated reading of the doctrine of justification that avoids both legalism and antinomianism. It is also the only canonical source that institutes the practice of the prayer of faith with anointing of oil by the elders for the sick (Jas 5:14-15), and offers the NT's most direct and confrontational social ethic regarding the economic oppression of the poor by the rich (Jas 5:1-6).",
+    "pt": "Tiago é a única epístola do NT escrita inteiramente no gênero da literatura sapiencial veterotestamentária (Provérbios, Jó), aplicando essa tradição à vida da igreja cristã primitiva. Contribui ao cânon com a articulação mais explícita da relação entre fé e obras fora do corpus paulino, forçando uma leitura integrada da doutrina da justificação que evita tanto o legalismo quanto o antinomianismo. É também a única fonte canônica que institui a prática da oração de fé com unção de óleo pelos presbíteros pelos enfermos (Tg 5:14-15), e oferece a ética social mais direta e confrontadora do NT quanto à opressão econômica dos pobres pelos ricos (Tg 5:1-6)."
+  },
+  "genero": {
+    "es": "Epístola de sabiduría práctica (literatura parenética)",
+    "en": "Wisdom epistle (paraenetic literature)",
+    "pt": "Epístola de sabedoria prática (literatura parenética)"
+  },
+  "palabraClave": {
+    "es": [
+      "Sabiduría",
+      "Pruebas",
+      "Obras",
+      "Paciencia"
+    ],
+    "en": [
+      "Wisdom",
+      "Trials",
+      "Works",
+      "Patience"
+    ],
+    "pt": [
+      "Sabedoria",
+      "Provações",
+      "Obras",
+      "Paciência"
+    ]
+  },
+  "destinatario": {
+    "es": "'Las doce tribus que están en la dispersión' (Stg 1:1) — comunidades judeocristianas fuera de Palestina, probablemente en Siria, Asia Menor y Egipto, que enfrentaban pobreza, opresión por parte de terratenientes ricos, y la tentación de una profesión de fe verbal sin obediencia práctica.",
+    "en": "'The twelve tribes in the Dispersion' (Jas 1:1) — Jewish-Christian communities outside Palestine, probably in Syria, Asia Minor, and Egypt, facing poverty, oppression from wealthy landowners, and the temptation of a merely verbal profession of faith without practical obedience.",
+    "pt": "'As doze tribos que andam dispersas' (Tg 1:1) — comunidades judaico-cristãs fora da Palestina, provavelmente na Síria, Ásia Menor e Egito, enfrentando pobreza, opressão por parte de proprietários ricos, e a tentação de uma profissão de fé meramente verbal sem obediência prática."
+  },
+  "proposito": {
+    "es": "Históricamente, Santiago escribe como pastor de una iglesia madre jerosolimitana dispersa para corregir problemas concretos de conducta cristiana: favoritismo hacia los ricos en la congregación (Stg 2:1-9), conflictos y pleitos internos (Stg 4:1-2), explotación de jornaleros por terratenientes (Stg 5:4), y el peligro de una profesión de fe verbal sin transformación de vida (Stg 2:14-17). Teológicamente, su propósito es demostrar que la fe genuina y salvadora se manifiesta necesariamente en obras —no como base de la justificación, sino como su fruto inevitable— y llamar a la iglesia a una sabiduría práctica que se traduce en dominio de la lengua, paciencia en el sufrimiento y dependencia oracional de Dios.",
+    "en": "Historically, James writes as pastor of a dispersed Jerusalem mother church to correct concrete problems of Christian conduct: favoritism toward the rich in the congregation (Jas 2:1-9), internal conflicts and disputes (Jas 4:1-2), exploitation of day laborers by landowners (Jas 5:4), and the danger of a verbal profession of faith without transformed living (Jas 2:14-17). Theologically, his purpose is to demonstrate that genuine, saving faith necessarily manifests itself in works — not as the ground of justification, but as its inevitable fruit — and to call the church to a practical wisdom expressed in mastery of the tongue, patience in suffering, and prayerful dependence on God.",
+    "pt": "Historicamente, Tiago escreve como pastor de uma igreja-mãe jerosolimitana dispersa para corrigir problemas concretos de conduta cristã: favoritismo aos ricos na congregação (Tg 2:1-9), conflitos e disputas internas (Tg 4:1-2), exploração de trabalhadores por proprietários (Tg 5:4), e o perigo de uma profissão de fé verbal sem transformação de vida (Tg 2:14-17). Teologicamente, seu propósito é demonstrar que a fé genuína e salvadora se manifesta necessariamente em obras — não como base da justificação, mas como seu fruto inevitável — e chamar a igreja a uma sabedoria prática que se traduz em domínio da língua, paciência no sofrimento e dependência oracional de Deus."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Santiago",
+        "en": "James",
+        "pt": "Tiago"
+      },
+      "hebreo": "Ἰάκωβος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "descripcion": {
+        "es": "Hermano de Jesús según la carne (Mr 6:3; Gá 1:19), inicialmente incrédulo durante el ministerio terrenal de su hermano (Jn 7:5), convertido tras una aparición personal de Cristo resucitado (1Co 15:7) y convertido en columna y principal pastor de la iglesia de Jerusalén (Hch 12:17; 15:13-21; Gá 2:9). Se presenta a sí mismo con humildad radical como 'siervo de Dios y del Señor Jesucristo' (Stg 1:1), sin invocar su parentesco físico con Jesús como fuente de autoridad.",
+        "en": "Brother of Jesus according to the flesh (Mark 6:3; Gal 1:19), initially an unbeliever during his brother's earthly ministry (John 7:5), converted after a personal appearance of the risen Christ (1 Cor 15:7) and made a pillar and chief pastor of the Jerusalem church (Acts 12:17; 15:13-21; Gal 2:9). He presents himself with radical humility as 'a servant of God and of the Lord Jesus Christ' (Jas 1:1), never invoking his physical kinship with Jesus as a source of authority.",
+        "pt": "Irmão de Jesus segundo a carne (Mc 6:3; Gl 1:19), inicialmente incrédulo durante o ministério terreno de seu irmão (Jo 7:5), convertido após uma aparição pessoal do Cristo ressuscitado (1Co 15:7) e feito coluna e principal pastor da igreja de Jerusalém (At 12:17; 15:13-21; Gl 2:9). Apresenta-se com humildade radical como 'servo de Deus e do Senhor Jesus Cristo' (Tg 1:1), sem invocar seu parentesco físico com Jesus como fonte de autoridade."
+      },
+      "acciones": {
+        "es": "Escribe una carta pastoral de exhortación ética a comunidades judeocristianas dispersas, preside la deliberación del Concilio de Jerusalén y propone su resolución (Hch 15:13-21), y es reconocido por Pablo, Pedro y Juan como una de las 'columnas' de la iglesia (Gá 2:9).",
+        "en": "He writes a pastoral letter of ethical exhortation to dispersed Jewish-Christian communities, presides over the deliberation of the Jerusalem Council and proposes its resolution (Acts 15:13-21), and is recognized by Paul, Peter, and John as one of the 'pillars' of the church (Gal 2:9).",
+        "pt": "Escreve uma carta pastoral de exortação ética a comunidades judaico-cristãs dispersas, preside a deliberação do Concílio de Jerusalém e propõe sua resolução (At 15:13-21), e é reconhecido por Paulo, Pedro e João como uma das 'colunas' da igreja (Gl 2:9)."
+      },
+      "significadoTeologico": {
+        "es": "Encarna el puente entre la sabiduría veterotestamentaria y la ética cristiana neotestamentaria, demostrando que la conversión genuina —incluso la de quien creció junto a Jesús sin creer en él— produce una fe que se traduce necesariamente en obediencia práctica y humildad pastoral.",
+        "en": "He embodies the bridge between Old Testament wisdom and New Testament Christian ethics, demonstrating that genuine conversion — even that of someone who grew up alongside Jesus without believing in him — produces a faith that necessarily issues in practical obedience and pastoral humility.",
+        "pt": "Encarna a ponte entre a sabedoria veterotestamentária e a ética cristã neotestamentária, demonstrando que a conversão genuína — mesmo a de quem cresceu ao lado de Jesus sem crer nele — produz uma fé que se traduz necessariamente em obediência prática e humildade pastoral."
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; se presenta explícitamente como siervo subordinado al 'Señor de gloria' (Stg 2:1), modelando el papel del pastor fiel que somete su propia autoridad familiar a la autoridad de Cristo resucitado.",
+        "en": "He does not function as a type of Christ; he explicitly presents himself as a servant subordinate to the 'Lord of glory' (Jas 2:1), modeling the role of the faithful pastor who submits his own familial authority to the authority of the risen Christ.",
+        "pt": "Não funciona como tipo de Cristo; apresenta-se explicitamente como servo subordinado ao 'Senhor da glória' (Tg 2:1), modelando o papel do pastor fiel que submete sua própria autoridade familiar à autoridade de Cristo ressuscitado."
+      },
+      "caracterMoral": {
+        "es": "Reconocido por la tradición patrística como 'el Justo' por su piedad extraordinaria y su vida de oración; pastoralmente firme, directo y sin concesiones ante la hipocresía religiosa, pero animado por un profundo pastoralismo compasivo hacia los pobres y afligidos.",
+        "en": "Recognized by patristic tradition as 'the Just' for his extraordinary piety and life of prayer; pastorally firm, direct, and uncompromising toward religious hypocrisy, yet animated by deep compassionate pastoral care for the poor and afflicted.",
+        "pt": "Reconhecido pela tradição patrística como 'o Justo' por sua piedade extraordinária e vida de oração; pastoralmente firme, direto e sem concessões diante da hipocrisia religiosa, mas animado por profundo pastoralismo compassivo para com os pobres e aflitos."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Hijo de María y José, hermano de Jesús (Mr 6:3), no creyó en él durante su ministerio terrenal (Jn 7:5), pero recibió una aparición personal del Cristo resucitado (1Co 15:7), tras lo cual se unió a los discípulos en oración (Hch 1:14). Llegó a ser reconocido como columna y principal anciano de la iglesia de Jerusalén (Hch 12:17; 15:13-21; 21:18), y Pablo lo cita como testigo apostólico de la resurrección y garante de la unidad entre judíos y gentiles en el evangelio (Gá 1:19; 2:9).",
+          "en": "Son of Mary and Joseph, brother of Jesus (Mark 6:3), he did not believe in him during his earthly ministry (John 7:5), but received a personal appearance of the risen Christ (1 Cor 15:7), after which he joined the disciples in prayer (Acts 1:14). He came to be recognized as a pillar and chief elder of the Jerusalem church (Acts 12:17; 15:13-21; 21:18), and Paul cites him as an apostolic witness to the resurrection and guarantor of unity between Jews and Gentiles in the gospel (Gal 1:19; 2:9).",
+          "pt": "Filho de Maria e José, irmão de Jesus (Mc 6:3), não creu nele durante seu ministério terreno (Jo 7:5), mas recebeu uma aparição pessoal do Cristo ressuscitado (1Co 15:7), após a qual se uniu aos discípulos em oração (At 1:14). Passou a ser reconhecido como coluna e principal presbítero da igreja de Jerusalém (At 12:17; 15:13-21; 21:18), e Paulo o cita como testemunha apostólica da ressurreição e garantidor da unidade entre judeus e gentios no evangelho (Gl 1:19; 2:9)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mr 6:3",
+          "Jn 7:5",
+          "1Co 15:7",
+          "Hch 15:13",
+          "Gá 2:9",
+          "Stg 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Josefo (Antigüedades 20.200) registra que el sumo sacerdote Ananus aprovechó un interregno entre procuradores romanos hacia el 62 d.C. para hacer lapidar a 'Santiago, hermano de Jesús llamado el Cristo', junto con otros, acusándolos de transgredir la ley. Hegesipo, preservado por Eusebio (Historia Eclesiástica 2.23), añade que era llamado 'el Justo' por su austeridad y devoción, y que sus rodillas se habían encallecido como las de un camello por la constancia de su oración de rodillas por el pueblo.",
+          "en": "Josephus (Antiquities 20.200) records that the high priest Ananus took advantage of an interregnum between Roman procurators around AD 62 to have 'James the brother of Jesus who was called Christ' stoned, along with others, on charges of transgressing the law. Hegesippus, preserved by Eusebius (Ecclesiastical History 2.23), adds that he was called 'the Just' for his austerity and devotion, and that his knees had grown calloused like a camel's from his constant kneeling in prayer for the people.",
+          "pt": "Josefo (Antiguidades 20.200) registra que o sumo sacerdote Ananias aproveitou um interregno entre procuradores romanos por volta de 62 d.C. para apedrejar 'Tiago, irmão de Jesus chamado o Cristo', junto com outros, acusando-os de transgredir a lei. Hegesipo, preservado por Eusébio (História Eclesiástica 2.23), acrescenta que era chamado 'o Justo' por sua austeridade e devoção, e que seus joelhos haviam se calejado como os de um camelo pela constância de sua oração de joelhos pelo povo."
+        },
+        "fuentes": [
+          {
+            "titulo": "Antigüedades Judías",
+            "autor": "Flavio Josefo",
+            "año": 93,
+            "editorial": "N/A (manuscrito antiguo)",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Martirio",
+              "Identificación histórica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El testimonio de Josefo y Hegesipo concuerda plenamente con el retrato bíblico de un Santiago piadoso, austero y respetado incluso fuera de la iglesia, corroborando externamente su liderazgo prominente en Jerusalén atestiguado en Hechos y Gálatas.",
+          "en": "The testimony of Josephus and Hegesippus fully agrees with the biblical portrait of a pious, austere James, respected even outside the church, externally corroborating his prominent leadership in Jerusalem attested in Acts and Galatians.",
+          "pt": "O testemunho de Josefo e Hegesipo concorda plenamente com o retrato bíblico de um Tiago piedoso, austero e respeitado mesmo fora da igreja, corroborando externamente sua liderança proeminente em Jerusalém atestada em Atos e Gálatas."
+        }
+      },
+      "versiculosAsociados": [
+        "Stg 1:1",
+        "Hch 15:13-21",
+        "Gá 1:19",
+        "Gá 2:9"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mr",
+        "Hch",
+        "1Co",
+        "Gá"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Su transformación de escéptico familiar a pastor pilar de la iglesia madre ilustra el poder de la resurrección de Cristo para vencer la incredulidad, y su liderazgo en el Concilio de Jerusalén (Hch 15) fue decisivo para preservar la unidad del evangelio de la gracia frente a las presiones legalistas.",
+        "en": "His transformation from skeptical family member to pillar-pastor of the mother church illustrates the power of Christ's resurrection to overcome unbelief, and his leadership at the Jerusalem Council (Acts 15) was decisive in preserving the unity of the gospel of grace against legalistic pressures.",
+        "pt": "Sua transformação de cético familiar a pastor-coluna da igreja-mãe ilustra o poder da ressurreição de Cristo para vencer a incredulidade, e sua liderança no Concílio de Jerusalém (At 15) foi decisiva para preservar a unidade do evangelho da graça diante de pressões legalistas."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Abraham",
+        "en": "Abraham",
+        "pt": "Abraão"
+      },
+      "hebreo": "אַבְרָהָם",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "Citado por Santiago como el ejemplo paradigmático de fe demostrada en obras: fue 'justificado por las obras cuando ofreció a su hijo Isaac sobre el altar', de modo que 'la fe actuó juntamente con sus obras, y la fe se perfeccionó por las obras' (Stg 2:21-22), cumpliéndose así lo que dice la Escritura: 'y fue llamado amigo de Dios' (Stg 2:23; cf. Is 41:8; 2Cr 20:7).",
+        "en": "Cited by James as the paradigmatic example of faith demonstrated in works: he was 'justified by works when he offered up his son Isaac on the altar,' so that 'faith was active along with his works, and faith was completed by his works' (Jas 2:21-22), fulfilling the Scripture that says 'and he was called a friend of God' (Jas 2:23; cf. Isa 41:8; 2 Chr 20:7).",
+        "pt": "Citado por Tiago como o exemplo paradigmático de fé demonstrada em obras: foi 'justificado pelas obras quando ofereceu sobre o altar Isaque, seu filho', de modo que 'a fé cooperou com as suas obras, e pelas obras a fé foi aperfeiçoada' (Tg 2:21-22), cumprindo-se assim o que diz a Escritura: 'e foi chamado amigo de Deus' (Tg 2:23; cf. Is 41:8; 2Cr 20:7)."
+      },
+      "acciones": {
+        "es": "Ofrece a su hijo Isaac en el monte Moriah en obediencia al mandato de Dios (Gn 22:1-14), acción que Santiago cita como la prueba visible de una fe ya justificante desde Génesis 15:6.",
+        "en": "He offers his son Isaac on Mount Moriah in obedience to God's command (Gen 22:1-14), an action James cites as the visible proof of a faith already justifying since Genesis 15:6.",
+        "pt": "Oferece seu filho Isaque no monte Moriá em obediência ao mandamento de Deus (Gn 22:1-14), ação que Tiago cita como a prova visível de uma fé já justificadora desde Gênesis 15:6."
+      },
+      "significadoTeologico": {
+        "es": "Funciona como el caso de prueba reformado por excelencia para armonizar a Santiago con Pablo: Génesis 15:6 (la fe le fue contada por justicia) precede cronológicamente a Génesis 22 (la obra que 'perfecciona' o demuestra esa fe), mostrando que Santiago habla de justificación ante los hombres (vindicación visible), no de la base de la justificación ante Dios.",
+        "en": "He serves as the paradigmatic Reformed test case for harmonizing James with Paul: Genesis 15:6 (faith counted as righteousness) chronologically precedes Genesis 22 (the work that 'completes' or demonstrates that faith), showing that James speaks of justification before men (visible vindication), not the ground of justification before God.",
+        "pt": "Funciona como o caso-teste reformado por excelência para harmonizar Tiago com Paulo: Gênesis 15:6 (a fé lhe foi imputada como justiça) precede cronologicamente Gênesis 22 (a obra que 'aperfeiçoa' ou demonstra essa fé), mostrando que Tiago fala de justificação diante dos homens (vindicação visível), não do fundamento da justificação diante de Deus."
+      },
+      "tipo": {
+        "es": "El acto de ofrecer a su hijo único y amado sobre el altar (Stg 2:21) prefigura al Padre entregando a su Hijo unigénito por la salvación del mundo (cf. Jn 3:16; Ro 8:32).",
+        "en": "The act of offering his only beloved son on the altar (Jas 2:21) prefigures the Father giving up his only begotten Son for the salvation of the world (cf. John 3:16; Rom 8:32).",
+        "pt": "O ato de oferecer seu filho único e amado sobre o altar (Tg 2:21) prefigura o Pai entregando seu Filho unigênito pela salvação do mundo (cf. Jo 3:16; Rm 8:32)."
+      },
+      "caracterMoral": {
+        "es": "Ejemplo supremo de obediencia radical y fe probada; llamado 'amigo de Dios' (Stg 2:23), el mayor honor relacional atribuido a un ser humano en el AT.",
+        "en": "Supreme example of radical obedience and tested faith; called 'a friend of God' (Jas 2:23), the greatest relational honor attributed to a human being in the OT.",
+        "pt": "Exemplo supremo de obediência radical e fé provada; chamado 'amigo de Deus' (Tg 2:23), a maior honra relacional atribuída a um ser humano no AT."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Patriarca llamado por Dios a dejar su tierra (Gn 12:1-3), a quien se le contó la fe por justicia (Gn 15:6), y quien, puesto a prueba, ofreció a su hijo Isaac en el monte Moriah, deteniendo Dios su mano en el último instante y proveyendo un carnero sustituto (Gn 22:1-14). Santiago cita este episodio como cumplimiento y demostración de la fe ya declarada justa en Gn 15:6 (Stg 2:21-23).",
+          "en": "Patriarch called by God to leave his land (Gen 12:1-3), of whom faith was counted as righteousness (Gen 15:6), and who, when tested, offered his son Isaac on Mount Moriah, with God staying his hand at the last instant and providing a substitute ram (Gen 22:1-14). James cites this episode as the fulfillment and demonstration of the faith already declared righteous in Gen 15:6 (Jas 2:21-23).",
+          "pt": "Patriarca chamado por Deus a deixar sua terra (Gn 12:1-3), de quem a fé foi imputada como justiça (Gn 15:6), e que, posto à prova, ofereceu seu filho Isaque no monte Moriá, detendo Deus sua mão no último instante e provendo um carneiro substituto (Gn 22:1-14). Tiago cita este episódio como cumprimento e demonstração da fé já declarada justa em Gn 15:6 (Tg 2:21-23)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Gn 15:6",
+          "Gn 22:1-14",
+          "Stg 2:21-23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe corroboración arqueológica directa de Abraham como individuo histórico, pero los patrones culturales del relato patriarcal (nombres, costumbres de adopción y herencia, movimientos seminómadas de pastores) encajan de manera general con el mundo del Bronce Medio en Mesopotamia y Canaán, aunque los intentos de fechar precisamente su vida siguen siendo debatidos entre historiadores.",
+          "en": "There is no direct archaeological corroboration of Abraham as a historical individual, but the cultural patterns of the patriarchal narrative (names, adoption and inheritance customs, seminomadic pastoral movements) generally fit the Middle Bronze Age world of Mesopotamia and Canaan, though precise attempts to date his life remain debated among historians.",
+          "pt": "Não existe corroboração arqueológica direta de Abraão como indivíduo histórico, mas os padrões culturais do relato patriarcal (nomes, costumes de adoção e herança, movimentos seminômades de pastores) encaixam-se de modo geral no mundo do Bronze Médio na Mesopotâmia e em Canaã, embora as tentativas de datar precisamente sua vida permaneçam debatidas entre historiadores."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto histórico patriarcal"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "El uso que Santiago hace de Abraham depende exclusivamente del testimonio canónico de Génesis, no de reconstrucciones históricas externas; su argumento teológico permanece intacto independientemente del nivel de evidencia extrabíblica disponible.",
+          "en": "James's use of Abraham depends exclusively on the canonical testimony of Genesis, not on external historical reconstructions; his theological argument remains intact regardless of the level of extrabiblical evidence available.",
+          "pt": "O uso que Tiago faz de Abraão depende exclusivamente do testemunho canônico de Gênesis, não de reconstruções históricas externas; seu argumento teológico permanece intacto independentemente do nível de evidência extrabíblica disponível."
+        }
+      },
+      "versiculosAsociados": [
+        "Stg 2:21",
+        "Stg 2:23"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Ro",
+        "He",
+        "Gá"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Es también el ejemplo central de Pablo para la justificación por la fe sola (Ro 4; Gá 3:6-9) y de Hebreos para la fe perseverante (He 11:8-19); Santiago no contradice estos usos sino que los complementa al mostrar el fruto visible de esa misma fe.",
+        "en": "He is also Paul's central example for justification by faith alone (Rom 4; Gal 3:6-9) and Hebrews's example of persevering faith (Heb 11:8-19); James does not contradict these uses but complements them by showing the visible fruit of that same faith.",
+        "pt": "É também o exemplo central de Paulo para a justificação pela fé somente (Rm 4; Gl 3:6-9) e de Hebreus para a fé perseverante (Hb 11:8-19); Tiago não contradiz esses usos, mas os complementa ao mostrar o fruto visível dessa mesma fé."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Rahab",
+        "en": "Rahab",
+        "pt": "Raabe"
+      },
+      "hebreo": "רָחָב",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "La ramera de Jericó citada por Santiago como segundo ejemplo de fe justificada por obras: 'de la misma manera, ¿no fue Rahab la ramera justificada por las obras cuando recibió a los mensajeros y los envió por otro camino?' (Stg 2:25). Junto a Abraham, forma un par deliberado que abarca los extremos sociales —patriarca hebreo varón y mujer gentil de mala reputación— unidos por la misma fe operante.",
+        "en": "The harlot of Jericho cited by James as a second example of faith justified by works: 'in the same way was not even Rahab the prostitute justified by works when she received the messengers and sent them out by another way?' (Jas 2:25). Alongside Abraham, she forms a deliberate pair spanning the social extremes — a male Hebrew patriarch and a disreputable Gentile woman — united by the same working faith.",
+        "pt": "A prostituta de Jericó citada por Tiago como segundo exemplo de fé justificada por obras: 'de igual modo, não foi a Raabe, a prostituta, justificada pelas obras, quando acolheu os espias e os fez sair por outro caminho?' (Tg 2:25). Junto a Abraão, forma um par deliberado que abrange os extremos sociais — patriarca hebreu varão e mulher gentia de má reputação — unidos pela mesma fé operante."
+      },
+      "acciones": {
+        "es": "Esconde a los dos espías israelitas en Jericó, los protege de las autoridades locales y los ayuda a escapar por la ventana con una cuerda, pidiendo a cambio la preservación de su familia (Jos 2:1-21; 6:17,22-23).",
+        "en": "She hides the two Israelite spies in Jericho, protects them from local authorities, and helps them escape through the window with a rope, asking in return for the preservation of her family (Josh 2:1-21; 6:17,22-23).",
+        "pt": "Esconde os dois espias israelitas em Jericó, protege-os das autoridades locais e os ajuda a escapar pela janela com uma corda, pedindo em troca a preservação de sua família (Js 2:1-21; 6:17,22-23)."
+      },
+      "significadoTeologico": {
+        "es": "Demuestra que la fe justificante no reconoce fronteras étnicas ni morales previas: una gentil de reputación notoriamente pecaminosa es incorporada al pueblo de Dios y a la genealogía mesiánica (Mt 1:5) precisamente por una fe que actuó con riesgo personal.",
+        "en": "She demonstrates that justifying faith recognizes no ethnic or prior moral boundaries: a Gentile of notoriously sinful reputation is incorporated into the people of God and into the messianic genealogy (Matt 1:5) precisely through faith that acted at personal risk.",
+        "pt": "Demonstra que a fé justificadora não reconhece fronteiras étnicas nem morais prévias: uma gentia de reputação notoriamente pecaminosa é incorporada ao povo de Deus e à genealogia messiânica (Mt 1:5) precisamente por uma fé que agiu com risco pessoal."
+      },
+      "tipo": {
+        "es": "El cordón escarlata que ata a su ventana como señal de salvación para ella y su casa (Jos 2:18,21) es leído por la tradición reformada como tipo de la sangre de Cristo que aparta y protege a los suyos del juicio.",
+        "en": "The scarlet cord she ties in her window as a sign of salvation for herself and her household (Josh 2:18,21) is read by the Reformed tradition as a type of the blood of Christ that sets apart and protects his own from judgment.",
+        "pt": "O cordão escarlate que amarra em sua janela como sinal de salvação para ela e sua casa (Js 2:18,21) é lido pela tradição reformada como tipo do sangue de Cristo que separa e protege os seus do juízo."
+      },
+      "caracterMoral": {
+        "es": "Transformada de una vida de prostitución a un acto decisivo de fe arriesgada; su historia ilustra la doctrina reformada de que la justificación no depende del mérito moral previo sino de la fe que Dios mismo concede.",
+        "en": "Transformed from a life of prostitution into a decisive act of risk-taking faith; her story illustrates the Reformed doctrine that justification does not depend on prior moral merit but on the faith God himself grants.",
+        "pt": "Transformada de uma vida de prostituição para um ato decisivo de fé arriscada; sua história ilustra a doutrina reformada de que a justificação não depende do mérito moral prévio, mas da fé que o próprio Deus concede."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Habitante de Jericó que confiesa haber oído de las obras poderosas de Yahvéh en el éxodo y la conquista, y declara: 'Yahvéh vuestro Dios es Dios arriba en los cielos y abajo en la tierra' (Jos 2:9-11). Por su fe y su acción de esconder a los espías, ella y su familia son preservadas cuando Jericó es destruida (Jos 6:22-25), y es incorporada a la genealogía de Cristo como antepasada de David (Mt 1:5).",
+          "en": "A resident of Jericho who confesses having heard of Yahweh's mighty works in the exodus and conquest, and declares, 'the LORD your God, he is God in the heavens above and on the earth beneath' (Josh 2:9-11). Because of her faith and her act of hiding the spies, she and her family are preserved when Jericho is destroyed (Josh 6:22-25), and she is incorporated into the genealogy of Christ as an ancestor of David (Matt 1:5).",
+          "pt": "Habitante de Jericó que confessa ter ouvido das obras poderosas de Javé no êxodo e na conquista, e declara: 'o Senhor, vosso Deus, é Deus em cima, nos céus, e embaixo, na terra' (Js 2:9-11). Por sua fé e sua ação de esconder os espias, ela e sua família são preservadas quando Jericó é destruída (Js 6:22-25), e é incorporada à genealogia de Cristo como antepassada de Davi (Mt 1:5)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Jos 2:1-21",
+          "Jos 6:22-25",
+          "Stg 2:25"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La fecha y naturaleza de la destrucción de Jericó descrita en Josué 6 permanecen debatidas entre arqueólogos: las excavaciones de Kathleen Kenyon (décadas de 1950) fecharon la ciudad amurallada del Bronce Tardío antes de la conquista israelita propuesta por la cronología bíblica temprana, mientras que Bryant Wood reexaminó la cerámica y propuso una destrucción c. 1400 a.C., compatible con la cronología conservadora. No existe registro extrabíblico de Rahab como individuo.",
+          "en": "The date and nature of Jericho's destruction described in Joshua 6 remain debated among archaeologists: Kathleen Kenyon's excavations (1950s) dated the Late Bronze Age walled city before the Israelite conquest proposed by early biblical chronology, while Bryant Wood re-examined the pottery and proposed a destruction c. 1400 BC, compatible with the conservative chronology. No extrabiblical record of Rahab as an individual exists.",
+          "pt": "A data e a natureza da destruição de Jericó descrita em Josué 6 permanecem debatidas entre arqueólogos: as escavações de Kathleen Kenyon (décadas de 1950) dataram a cidade amuralhada do Bronze Tardio antes da conquista israelita proposta pela cronologia bíblica precoce, enquanto Bryant Wood reexaminou a cerâmica e propôs uma destruição c. 1400 a.C., compatível com a cronologia conservadora. Não existe registro extrabíblico de Raabe como indivíduo."
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Arqueología de Jericó"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "El uso que hace Santiago de Rahab depende del testimonio canónico de Josué, independientemente del debate arqueológico sobre la datación de la conquista, que la tradición reformada resuelve a favor de la cronología bíblica temprana.",
+          "en": "James's use of Rahab depends on the canonical testimony of Joshua, independent of the archaeological debate over the dating of the conquest, which the Reformed tradition resolves in favor of the early biblical chronology.",
+          "pt": "O uso que Tiago faz de Raabe depende do testemunho canônico de Josué, independentemente do debate arqueológico sobre a datação da conquista, que a tradição reformada resolve a favor da cronologia bíblica precoce."
+        }
+      },
+      "versiculosAsociados": [
+        "Stg 2:25"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Jos",
+        "Mt",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Aparece también en la genealogía de Jesús (Mt 1:5) y en el catálogo de la fe de Hebreos, 'por la fe Rahab la ramera no pereció juntamente con los desobedientes' (He 11:31), formando con Santiago un triple testimonio neotestamentario de su fe operante.",
+        "en": "She also appears in the genealogy of Jesus (Matt 1:5) and in the catalogue of faith in Hebrews, 'by faith Rahab the prostitute did not perish with those who were disobedient' (Heb 11:31), forming with James a threefold New Testament witness to her working faith.",
+        "pt": "Aparece também na genealogia de Jesus (Mt 1:5) e no catálogo da fé de Hebreus, 'pela fé Raabe, a prostituta, não pereceu com os desobedientes' (Hb 11:31), formando com Tiago um triplo testemunho neotestamentário de sua fé operante."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Job",
+        "en": "Job",
+        "pt": "Jó"
+      },
+      "hebreo": "אִיּוֹב",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        5
+      ],
+      "descripcion": {
+        "es": "Presentado por Santiago como el ejemplo canónico de perseverancia paciente en el sufrimiento: 'habéis oído de la perseverancia de Job, y habéis visto el resultado que produjo de parte del Señor, que el Señor es muy compasivo y misericordioso' (Stg 5:11).",
+        "en": "Presented by James as the canonical example of patient endurance in suffering: 'you have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful' (Jas 5:11).",
+        "pt": "Apresentado por Tiago como o exemplo canônico de perseverança paciente no sofrimento: 'ouvistes da paciência de Jó, e vistes o fim que o Senhor lhe deu, porque o Senhor é muito misericordioso e compassivo' (Tg 5:11)."
+      },
+      "acciones": {
+        "es": "Pierde bienes, hijos y salud en una serie de calamidades permitidas por Dios y ejecutadas por Satanás (Job 1-2), mantiene su integridad sin maldecir a Dios, cuestiona a Dios en un largo diálogo poético, y es finalmente reivindicado y restaurado al doble (Job 42:10-12).",
+        "en": "He loses possessions, children, and health in a series of calamities permitted by God and carried out by Satan (Job 1-2), maintains his integrity without cursing God, questions God in a long poetic dialogue, and is finally vindicated and restored twofold (Job 42:10-12).",
+        "pt": "Perde bens, filhos e saúde numa série de calamidades permitidas por Deus e executadas por Satanás (Jó 1-2), mantém sua integridade sem amaldiçoar a Deus, questiona a Deus num longo diálogo poético, e é finalmente reivindicado e restaurado em dobro (Jó 42:10-12)."
+      },
+      "significadoTeologico": {
+        "es": "Ilustra que la perseverancia bíblica no es resignación estoica sino confianza activa en el carácter compasivo de Dios incluso en medio de la incomprensión del sufrimiento, y que el desenlace final de Dios revela su misericordia, no su crueldad.",
+        "en": "He illustrates that biblical perseverance is not stoic resignation but active trust in God's compassionate character even amid the incomprehensibility of suffering, and that God's final outcome reveals his mercy, not his cruelty.",
+        "pt": "Ilustra que a perseverança bíblica não é resignação estoica, mas confiança ativa no caráter compassivo de Deus mesmo em meio à incompreensão do sofrimento, e que o desfecho final de Deus revela sua misericórdia, não sua crueldade."
+      },
+      "tipo": {
+        "es": "Su vindicación por el Señor tras una prueba extrema e injusta (Job 42:10-12) prefigura el patrón de humillación seguida de exaltación cumplido perfectamente en Cristo, quien sufrió injustamente y fue después glorificado (Flp 2:8-9).",
+        "en": "His vindication by the Lord after an extreme and unjust trial (Job 42:10-12) prefigures the pattern of humiliation followed by exaltation perfectly fulfilled in Christ, who suffered unjustly and was afterward glorified (Phil 2:8-9).",
+        "pt": "Sua vindicação pelo Senhor após uma provação extrema e injusta (Jó 42:10-12) prefigura o padrão de humilhação seguida de exaltação cumprido perfeitamente em Cristo, que sofreu injustamente e depois foi glorificado (Fp 2:8-9)."
+      },
+      "caracterMoral": {
+        "es": "Descrito por Dios mismo como 'varón perfecto y recto, temeroso de Dios y apartado del mal' (Job 1:8); su integridad no es sinónimo de impecabilidad, sino de una fe genuina probada por el fuego del sufrimiento sin abandono de Dios.",
+        "en": "Described by God himself as 'a blameless and upright man, who fears God and turns away from evil' (Job 1:8); his integrity is not synonymous with sinlessness, but with a genuine faith tested by the fire of suffering without abandoning God.",
+        "pt": "Descrito pelo próprio Deus como 'homem íntegro e reto, que teme a Deus e se desvia do mal' (Jó 1:8); sua integridade não é sinônimo de impecabilidade, mas de uma fé genuína provada pelo fogo do sofrimento sem abandonar a Deus."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Hombre de la tierra de Uz, íntegro y temeroso de Dios (Job 1:1), sometido a pruebas permitidas por Dios que le arrebatan posesiones, hijos y salud (Job 1-2). Tras un largo debate con sus amigos y un encuentro final con Yahvéh desde el torbellino (Job 38-41), es reivindicado, restaurado con el doble de sus posesiones anteriores y bendecido con nueva descendencia (Job 42:10-17). Santiago cita su desenlace como prueba de la compasión y misericordia últimas de Dios (Stg 5:11).",
+          "en": "A man from the land of Uz, blameless and God-fearing (Job 1:1), subjected to trials permitted by God that strip him of possessions, children, and health (Job 1-2). After a long debate with his friends and a final encounter with Yahweh from the whirlwind (Job 38-41), he is vindicated, restored with double his former possessions, and blessed with new offspring (Job 42:10-17). James cites his outcome as proof of God's ultimate compassion and mercy (Jas 5:11).",
+          "pt": "Homem da terra de Uz, íntegro e temente a Deus (Jó 1:1), submetido a provações permitidas por Deus que lhe tiram posses, filhos e saúde (Jó 1-2). Após um longo debate com seus amigos e um encontro final com Javé desde o turbilhão (Jó 38-41), é reivindicado, restaurado com o dobro de suas posses anteriores e abençoado com nova descendência (Jó 42:10-17). Tiago cita seu desfecho como prova da compaixão e misericórdia últimas de Deus (Tg 5:11)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 1:1",
+          "Job 1:8",
+          "Job 42:10-12",
+          "Stg 5:11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia extrabíblica que corrobore a Job como individuo histórico específico; la 'tierra de Uz' se ubica de manera imprecisa al este de Palestina o en Edom. El libro comparte el género del 'sufriente justo' documentado en textos mesopotámicos como el Ludlul Bēl Nēmeqi y la Teodicea Babilónica, lo cual atestigua un trasfondo cultural compartido de reflexión sobre el sufrimiento inmerecido en el Antiguo Cercano Oriente, sin implicar dependencia literaria ni negar la historicidad del relato bíblico.",
+          "en": "No extrabiblical evidence corroborates Job as a specific historical individual; the 'land of Uz' is imprecisely located east of Palestine or in Edom. The book shares the genre of the 'righteous sufferer' documented in Mesopotamian texts such as the Ludlul Bēl Nēmeqi and the Babylonian Theodicy, attesting a shared cultural background of reflection on undeserved suffering in the ancient Near East, without implying literary dependence or denying the historicity of the biblical account.",
+          "pt": "Não existe evidência extrabíblica que corrobore Jó como indivíduo histórico específico; a 'terra de Uz' localiza-se de modo impreciso a leste da Palestina ou em Edom. O livro compartilha o gênero do 'sofredor justo' documentado em textos mesopotâmicos como o Ludlul Bēl Nēmeqi e a Teodiceia Babilônica, o que atesta um pano de fundo cultural compartilhado de reflexão sobre o sofrimento imerecido no Antigo Oriente Próximo, sem implicar dependência literária nem negar a historicidade do relato bíblico."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Trasfondo del Antiguo Cercano Oriente"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "Santiago trata a Job como figura histórica real cuyo desenlace revela el carácter de Dios; la ausencia de corroboración extrabíblica no afecta la autoridad canónica del ejemplo, que Santiago recibe del testimonio inspirado del libro de Job, no de fuentes seculares.",
+          "en": "James treats Job as a real historical figure whose outcome reveals God's character; the absence of extrabiblical corroboration does not affect the canonical authority of the example, which James receives from the inspired testimony of the book of Job, not from secular sources.",
+          "pt": "Tiago trata Jó como figura histórica real cujo desfecho revela o caráter de Deus; a ausência de corroboração extrabíblica não afeta a autoridade canônica do exemplo, que Tiago recebe do testemunho inspirado do livro de Jó, não de fontes seculares."
+        }
+      },
+      "versiculosAsociados": [
+        "Stg 5:11"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Job",
+        "Ez"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Es mencionado únicamente en Santiago 5:11 dentro del NT, donde su historia entera se resume en una sola función pastoral: probar que la fidelidad de Dios hacia quien persevera es siempre compasiva y misericordiosa en su desenlace final.",
+        "en": "He is mentioned only in James 5:11 within the NT, where his entire story is distilled into a single pastoral function: to prove that God's faithfulness toward the one who perseveres is always compassionate and merciful in its final outcome.",
+        "pt": "É mencionado apenas em Tiago 5:11 no NT, onde toda a sua história é resumida numa única função pastoral: provar que a fidelidade de Deus para com quem persevera é sempre compassiva e misericordiosa em seu desfecho final."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Elías",
+        "en": "Elijah",
+        "pt": "Elias"
+      },
+      "hebreo": "אֵלִיָּהוּ",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        5
+      ],
+      "descripcion": {
+        "es": "Citado por Santiago como ejemplo de la eficacia de la oración de un hombre justo: 'Elías era hombre de igual naturaleza que nosotros, y oró fervientemente para que no lloviera, y no llovió sobre la tierra por tres años y seis meses. Y otra vez oró, y el cielo dio lluvia' (Stg 5:17-18).",
+        "en": "Cited by James as an example of the effectiveness of a righteous man's prayer: 'Elijah was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth. Then he prayed again, and heaven gave rain' (Jas 5:17-18).",
+        "pt": "Citado por Tiago como exemplo da eficácia da oração de um homem justo: 'Elias era homem sujeito às mesmas paixões que nós e, orando, pediu que não chovesse, e não choveu sobre a terra por três anos e seis meses. E orou outra vez, e o céu deu chuva' (Tg 5:17-18)."
+      },
+      "acciones": {
+        "es": "Anuncia una sequía de tres años y medio como juicio contra la idolatría de Israel bajo Acab (1R 17:1), es sustentado milagrosamente por Dios durante la hambruna, confronta a los profetas de Baal en el Monte Carmelo (1R 18:20-40), y ora de nuevo para que vuelva la lluvia (1R 18:41-45).",
+        "en": "He announces a three-and-a-half-year drought as judgment against Israel's idolatry under Ahab (1 Kgs 17:1), is miraculously sustained by God during the famine, confronts the prophets of Baal on Mount Carmel (1 Kgs 18:20-40), and prays again for the rain to return (1 Kgs 18:41-45).",
+        "pt": "Anuncia uma seca de três anos e meio como juízo contra a idolatria de Israel sob Acabe (1Rs 17:1), é sustentado milagrosamente por Deus durante a fome, confronta os profetas de Baal no Monte Carmelo (1Rs 18:20-40), e ora novamente para que a chuva retorne (1Rs 18:41-45)."
+      },
+      "significadoTeologico": {
+        "es": "Santiago subraya deliberadamente que Elías 'era hombre de igual naturaleza que nosotros' (Stg 5:17), desmitificando la eficacia de la oración: no depende de un estatus espiritual excepcional sino de la fe fervorosa de cualquier justo, animando así a la iglesia entera a orar con la misma confianza por sanidad y restauración (Stg 5:14-16).",
+        "en": "James deliberately emphasizes that Elijah 'was a man with a nature like ours' (Jas 5:17), demystifying the effectiveness of prayer: it does not depend on an exceptional spiritual status but on the fervent faith of any righteous person, thereby encouraging the whole church to pray with the same confidence for healing and restoration (Jas 5:14-16).",
+        "pt": "Tiago sublinha deliberadamente que Elias 'era homem sujeito às mesmas paixões que nós' (Tg 5:17), desmistificando a eficácia da oração: não depende de um status espiritual excepcional, mas da fé fervorosa de qualquer justo, encorajando assim toda a igreja a orar com a mesma confiança por cura e restauração (Tg 5:14-16)."
+      },
+      "tipo": {
+        "es": "Su intercesión fervorosa que abre y cierra los cielos prefigura la intercesión perfecta y siempre eficaz de Cristo, el único Mediador cuya oración jamás es rechazada (cf. He 7:25; Jn 11:41-42).",
+        "en": "His fervent intercession that opens and closes the heavens prefigures the perfect and always effective intercession of Christ, the one Mediator whose prayer is never refused (cf. Heb 7:25; John 11:41-42).",
+        "pt": "Sua intercessão fervorosa que abre e fecha os céus prefigura a intercessão perfeita e sempre eficaz de Cristo, o único Mediador cuja oração jamais é recusada (cf. Hb 7:25; Jo 11:41-42)."
+      },
+      "caracterMoral": {
+        "es": "Profeta de celo ardiente por la exclusividad del culto a Yahvéh, propenso también al desánimo y al temor tras sus mayores victorias (1R 19:1-4), retrato bíblico honesto de un hombre justo pero falible, consistente con el énfasis de Santiago en su humanidad compartida.",
+        "en": "A prophet of burning zeal for the exclusivity of Yahweh worship, also prone to discouragement and fear after his greatest victories (1 Kgs 19:1-4), an honest biblical portrait of a righteous yet fallible man, consistent with James's emphasis on his shared humanity.",
+        "pt": "Profeta de zelo ardente pela exclusividade do culto a Javé, também propenso ao desânimo e ao medo após suas maiores vitórias (1Rs 19:1-4), retrato bíblico honesto de um homem justo, porém falível, consistente com a ênfase de Tiago em sua humanidade compartilhada."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Profeta tisbita que confronta al rey Acab y a la reina Jezabel por la idolatría de Baal en Israel (1R 17-19; 21), anuncia y luego revoca por oración una sequía de tres años y medio (1R 17:1; 18:1,41-45), y es arrebatado al cielo en un torbellino sin ver muerte (2R 2:11). Santiago destaca específicamente el poder de su oración fervorosa como modelo para la iglesia (Stg 5:17-18).",
+          "en": "A Tishbite prophet who confronts King Ahab and Queen Jezebel over Baal worship in Israel (1 Kgs 17-19; 21), announces and then revokes through prayer a three-and-a-half-year drought (1 Kgs 17:1; 18:1,41-45), and is taken up to heaven in a whirlwind without seeing death (2 Kgs 2:11). James specifically highlights the power of his fervent prayer as a model for the church (Jas 5:17-18).",
+          "pt": "Profeta tisbita que confronta o rei Acabe e a rainha Jezabel pela idolatria a Baal em Israel (1Rs 17-19; 21), anuncia e depois revoga pela oração uma seca de três anos e meio (1Rs 17:1; 18:1,41-45), e é arrebatado ao céu num turbilhão sem ver a morte (2Rs 2:11). Tiago destaca especificamente o poder de sua oração fervorosa como modelo para a igreja (Tg 5:17-18)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "1R 17:1",
+          "1R 18:41-45",
+          "2R 2:11",
+          "Stg 5:17-18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Elías ministró durante el reinado de Acab de Israel (c. 874-853 a.C.), rey históricamente atestiguado tanto en la Estela de Mesa como en los anales asirios de Salmanasar III, que registran a 'Acab el israelita' aportando tropas a la coalición contra Asiria en la batalla de Qarqar (853 a.C.). Aunque no existe mención extrabíblica del propio Elías, el marco político y religioso de su ministerio —la dinastía omrida y su promoción del culto a Baal— está sólidamente corroborado arqueológicamente.",
+          "en": "Elijah ministered during the reign of Ahab of Israel (c. 874-853 BC), a king historically attested both in the Mesha Stele and in the Assyrian annals of Shalmaneser III, which record 'Ahab the Israelite' contributing troops to the coalition against Assyria at the Battle of Qarqar (853 BC). Although no extrabiblical mention of Elijah himself exists, the political and religious framework of his ministry — the Omride dynasty and its promotion of Baal worship — is solidly corroborated archaeologically.",
+          "pt": "Elias ministrou durante o reinado de Acabe de Israel (c. 874-853 a.C.), rei historicamente atestado tanto na Estela de Messa quanto nos anais assírios de Salmaneser III, que registram 'Acabe, o israelita' contribuindo com tropas para a coalizão contra a Assíria na batalha de Carcar (853 a.C.). Embora não exista menção extrabíblica do próprio Elias, o quadro político e religioso de seu ministério — a dinastia omrida e sua promoção do culto a Baal — está solidamente corroborado arqueologicamente."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Dinastía omrida",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La corroboración externa de Acab y la dinastía omrida refuerza la credibilidad histórica del marco narrativo de 1-2 Reyes en que actúa Elías, aunque el episodio específico de la sequía y su oración solo se conoce por el testimonio bíblico, que Santiago recibe como autoritativo sin necesidad de corroboración adicional.",
+          "en": "External corroboration of Ahab and the Omride dynasty reinforces the historical credibility of the narrative framework of 1-2 Kings in which Elijah acts, although the specific episode of the drought and his prayer is known only from the biblical testimony, which James receives as authoritative without needing further corroboration.",
+          "pt": "A corroboração externa de Acabe e da dinastia omrida reforça a credibilidade histórica do quadro narrativo de 1-2 Reis em que Elias atua, embora o episódio específico da seca e de sua oração seja conhecido apenas pelo testemunho bíblico, que Tiago recebe como autoritativo sem necessidade de corroboração adicional."
+        }
+      },
+      "versiculosAsociados": [
+        "Stg 5:17-18"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "1R",
+        "2R",
+        "Mal",
+        "Mt",
+        "Mr",
+        "Lc"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Aparece transfigurado junto a Moisés hablando con Jesús (Mt 17:3), es identificado tipológicamente con el ministerio de Juan el Bautista (Mt 11:14; Lc 1:17), y su ejemplo de oración fervorosa en Santiago 5 cierra la carta con un llamado práctico a la intercesión confiada dentro de la comunidad de fe.",
+        "en": "He appears transfigured alongside Moses speaking with Jesus (Matt 17:3), is typologically identified with the ministry of John the Baptist (Matt 11:14; Luke 1:17), and his example of fervent prayer in James 5 closes the letter with a practical call to confident intercession within the community of faith.",
+        "pt": "Aparece transfigurado ao lado de Moisés falando com Jesus (Mt 17:3), é identificado tipologicamente com o ministério de João Batista (Mt 11:14; Lc 1:17), e seu exemplo de oração fervorosa em Tiago 5 encerra a carta com um chamado prático à intercessão confiante dentro da comunidade de fé."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "Santiago abre la carta redefiniendo el sufrimiento como instrumento providencial de santificación: las pruebas producen paciencia, y la paciencia, madurez completa (Stg 1:2-4). El deseo interno, no Dios, es la fuente de la tentación al pecado (Stg 1:13-15), por lo que la santificación exige resistencia activa: 'someteos a Dios, resistid al diablo... acercaos a Dios y Él se acercará a vosotros' (Stg 4:7-8).",
+        "en": "James opens the letter by redefining suffering as a providential instrument of sanctification: trials produce steadfastness, and steadfastness, complete maturity (Jas 1:2-4). Internal desire, not God, is the source of temptation to sin (Jas 1:13-15), so sanctification demands active resistance: 'submit yourselves to God. Resist the devil... draw near to God, and he will draw near to you' (Jas 4:7-8).",
+        "pt": "Tiago abre a carta redefinindo o sofrimento como instrumento providencial de santificação: as provações produzem paciência, e a paciência, maturidade completa (Tg 1:2-4). O desejo interno, não Deus, é a fonte da tentação ao pecado (Tg 1:13-15), de modo que a santificação exige resistência ativa: 'sujeitai-vos, pois, a Deus; resisti ao diabo... aproximai-vos de Deus, e Ele se aproximará de vós' (Tg 4:7-8)."
+      },
+      "pasajes": [
+        "Stg 1:2-4",
+        "Stg 1:14-15",
+        "Stg 4:7-8"
+      ],
+      "ensenanza": {
+        "es": "Las pruebas providenciales producen perseverancia y madurez espiritual · El deseo propio, no Dios, engendra la tentación que conduce al pecado y a la muerte · La santificación requiere sumisión activa a Dios y resistencia deliberada al diablo",
+        "en": "Providential trials produce endurance and spiritual maturity · One's own desire, not God, gives birth to the temptation that leads to sin and death · Sanctification requires active submission to God and deliberate resistance to the devil",
+        "pt": "As provações providenciais produzem perseverança e maturidade espiritual · O próprio desejo, não Deus, gera a tentação que conduz ao pecado e à morte · A santificação requer submissão ativa a Deus e resistência deliberada ao diabo"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee estas pruebas dentro del marco de la providencia y perseverancia de los santos (WCF 17): las aflicciones no amenazan la salvación del creyente sino que Dios las ordena soberanamente como medios de gracia para su santificación progresiva.",
+        "en": "The Reformed tradition reads these trials within the framework of providence and the perseverance of the saints (WCF 17): afflictions do not threaten the believer's salvation but are sovereignly ordained by God as means of grace for progressive sanctification.",
+        "pt": "A tradição reformada lê essas provações dentro do quadro da providência e perseverança dos santos (WCF 17): as aflições não ameaçam a salvação do crente, mas são soberanamente ordenadas por Deus como meios de graça para sua santificação progressiva."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Ley",
+        "en": "Law",
+        "pt": "Lei"
+      },
+      "resumen": {
+        "es": "Santiago llama a la ley mosaica, leída a través de Cristo, 'la ley perfecta, la de la libertad' (Stg 1:25) y 'la ley real' de amar al prójimo como a sí mismo (Stg 2:8). No es un código externo de esclavitud, sino la expresión del carácter de Dios que, guardada en su totalidad orgánica, hace culpable de todo a quien quebranta un solo punto (Stg 2:10-11), y que prohíbe explícitamente el juicio calumnioso del hermano (Stg 4:11-12).",
+        "en": "James calls the Mosaic law, read through Christ, 'the perfect law, the law of liberty' (Jas 1:25) and 'the royal law' of loving one's neighbor as oneself (Jas 2:8). It is not an external code of slavery but the expression of God's character which, kept as an organic whole, makes one guilty of all if one stumbles at a single point (Jas 2:10-11), and which explicitly forbids slanderous judgment of a brother (Jas 4:11-12).",
+        "pt": "Tiago chama a lei mosaica, lida através de Cristo, de 'lei perfeita, a lei da liberdade' (Tg 1:25) e 'lei real' de amar o próximo como a si mesmo (Tg 2:8). Não é um código externo de escravidão, mas a expressão do caráter de Deus que, guardada em sua totalidade orgânica, torna culpado de tudo quem tropeça em um só ponto (Tg 2:10-11), e que proíbe explicitamente o julgamento calunioso do irmão (Tg 4:11-12)."
+      },
+      "pasajes": [
+        "Stg 1:25",
+        "Stg 2:8",
+        "Stg 2:10-11",
+        "Stg 4:11-12"
+      ],
+      "ensenanza": {
+        "es": "La ley obedecida con gozo, no por obligación externa, es 'ley de libertad' · Amar al prójimo cumple la ley entera como principio unificador · Quebrantar un solo mandamiento hace culpable de toda la ley, porque su autor es uno · Juzgar al hermano usurpa el lugar del único Legislador y Juez",
+        "en": "The law obeyed with joy, not external obligation, is a 'law of liberty' · Loving one's neighbor fulfills the whole law as a unifying principle · Breaking a single command makes one guilty of the whole law, because its author is one · Judging a brother usurps the place of the one Lawgiver and Judge",
+        "pt": "A lei obedecida com alegria, não por obrigação externa, é 'lei da liberdade' · Amar o próximo cumpre toda a lei como princípio unificador · Quebrar um só mandamento torna culpado de toda a lei, porque seu autor é um só · Julgar o irmão usurpa o lugar do único Legislador e Juiz"
+      },
+      "distintivaReformada": {
+        "es": "Consistente con el tercer uso reformado de la ley (WCF 19.6), Santiago presenta la ley no como medio de justificación sino como guía viva para la vida del creyente ya redimido, cumplida y reinterpretada cristológicamente en el mandamiento del amor.",
+        "en": "Consistent with the Reformed third use of the law (WCF 19.6), James presents the law not as a means of justification but as a living guide for the life of the already-redeemed believer, fulfilled and christologically reinterpreted in the commandment of love.",
+        "pt": "Consistente com o terceiro uso reformado da lei (WCF 19.6), Tiago apresenta a lei não como meio de justificação, mas como guia vivo para a vida do crente já redimido, cumprida e reinterpretada cristologicamente no mandamento do amor."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Justificación",
+        "en": "Justification",
+        "pt": "Justificação"
+      },
+      "resumen": {
+        "es": "El pasaje más debatido del libro declara que 'el hombre es justificado por las obras y no solo por la fe' (Stg 2:24), lo que a primera vista parece contradecir a Pablo. Santiago combate una fe puramente intelectual y estéril —'también los demonios creen, y tiemblan' (Stg 2:19)— demostrando con Abraham (Stg 2:21-23) y Rahab (Stg 2:25) que la fe genuina siempre se manifiesta, se completa y se hace visible en obras, pues 'la fe sin obras es estéril... está muerta' (Stg 2:20,26).",
+        "en": "The book's most debated passage declares that 'a person is justified by works and not by faith alone' (Jas 2:24), which at first glance seems to contradict Paul. James is combating a purely intellectual, sterile faith — 'even the demons believe — and shudder!' (Jas 2:19) — demonstrating with Abraham (Jas 2:21-23) and Rahab (Jas 2:25) that genuine faith always shows itself, is completed, and becomes visible in works, for 'faith apart from works is useless... is dead' (Jas 2:20,26).",
+        "pt": "A passagem mais debatida do livro declara que 'o homem é justificado pelas obras, e não somente pela fé' (Tg 2:24), o que à primeira vista parece contradizer Paulo. Tiago combate uma fé puramente intelectual e estéril — 'os demônios também creem, e estremecem' (Tg 2:19) — demonstrando com Abraão (Tg 2:21-23) e Raabe (Tg 2:25) que a fé genuína sempre se manifesta, se completa e se torna visível em obras, pois 'a fé sem as obras é estéril... está morta' (Tg 2:20,26)."
+      },
+      "pasajes": [
+        "Stg 2:14",
+        "Stg 2:17",
+        "Stg 2:19",
+        "Stg 2:21-23",
+        "Stg 2:24",
+        "Stg 2:26"
+      ],
+      "ensenanza": {
+        "es": "Una fe que no produce ninguna obra no puede salvar · La fe sin obras está estéril y muerta en sí misma · La fe meramente intelectual no supera a la de los demonios · Las obras completan y demuestran visiblemente la fe ya justificante de Abraham · El hombre es justificado ante los hombres por obras, no solo por una fe profesada verbalmente · Como el cuerpo sin espíritu está muerto, la fe sin obras está muerta",
+        "en": "Faith producing no works cannot save · Faith without works is barren and dead in itself · Merely intellectual faith does not surpass that of demons · Works complete and visibly demonstrate Abraham's already-justifying faith · A person is justified before others by works, not by a merely verbal profession of faith · As the body without the spirit is dead, so faith without works is dead",
+        "pt": "Uma fé que não produz obra alguma não pode salvar · A fé sem obras é estéril e morta em si mesma · A fé meramente intelectual não supera a dos demônios · As obras completam e demonstram visivelmente a fé já justificadora de Abraão · O homem é justificado diante dos homens pelas obras, não apenas por uma fé professada verbalmente · Como o corpo sem espírito está morto, a fé sem obras está morta"
+      },
+      "distintivaReformada": {
+        "es": "Siguiendo a Calvino (Institución 3.17) y consagrado en WCF 11.2, la tradición reformada armoniza a Santiago con Pablo distinguiendo la justificación ante Dios (por la sola fe, fundamento legal) de la justificación ante los hombres (vindicación visible mediante obras, fruto necesario); 'la fe... es no fe muerta, sino que obra por amor', de modo que ambos apóstoles combaten, desde ángulos distintos, una falsa seguridad sin transformación real.",
+        "en": "Following Calvin (Institutes 3.17) and enshrined in WCF 11.2, the Reformed tradition harmonizes James with Paul by distinguishing justification before God (by faith alone, the legal ground) from justification before men (visible vindication through works, the necessary fruit); faith 'is not dead faith, but worketh by love,' so that both apostles combat, from different angles, a false assurance without real transformation.",
+        "pt": "Seguindo Calvino (Institutas 3.17) e consagrado na WCF 11.2, a tradição reformada harmoniza Tiago com Paulo distinguindo a justificação diante de Deus (pela fé somente, fundamento legal) da justificação diante dos homens (vindicação visível mediante obras, fruto necessário); a fé 'não é fé morta, mas opera por amor', de modo que ambos os apóstolos combatem, de ângulos distintos, uma falsa segurança sem transformação real."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "Santiago rastrea el pecado hasta su raíz interna: las guerras y conflictos nacen de las pasiones que combaten en los miembros (Stg 4:1-2), y la amistad con el mundo constituye enemistad declarada con Dios (Stg 4:4). El deseo (epithymia), concebido, da a luz al pecado, y el pecado, consumado, da a luz a la muerte (Stg 1:14-15), en una progresión que niega cualquier responsabilidad divina por la tentación (Stg 1:13).",
+        "en": "James traces sin to its internal root: wars and conflicts are born of the passions warring within one's members (Jas 4:1-2), and friendship with the world constitutes declared enmity with God (Jas 4:4). Desire (epithymia), when conceived, gives birth to sin, and sin, when fully grown, brings forth death (Jas 1:14-15), a progression that denies any divine responsibility for temptation (Jas 1:13).",
+        "pt": "Tiago rastreia o pecado até sua raiz interna: as guerras e conflitos nascem das paixões que guerreiam nos membros (Tg 4:1-2), e a amizade com o mundo constitui inimizade declarada com Deus (Tg 4:4). O desejo (epithymia), concebido, dá à luz o pecado, e o pecado, consumado, gera a morte (Tg 1:14-15), numa progressão que nega qualquer responsabilidade divina pela tentação (Tg 1:13)."
+      },
+      "pasajes": [
+        "Stg 1:13-15",
+        "Stg 4:1-2",
+        "Stg 4:4"
+      ],
+      "ensenanza": {
+        "es": "Dios no tienta a nadie al mal, pues Él mismo no puede ser tentado · El deseo interno propio es la fuente genuina de la tentación y del pecado consumado · Los conflictos comunitarios nacen de las pasiones internas insatisfechas · La amistad con los valores del mundo caído es incompatible con la amistad con Dios",
+        "en": "God tempts no one to evil, since he himself cannot be tempted · One's own internal desire is the true source of temptation and consummated sin · Community conflicts are born of unsatisfied internal passions · Friendship with the values of the fallen world is incompatible with friendship with God",
+        "pt": "Deus não tenta ninguém para o mal, pois Ele mesmo não pode ser tentado · O próprio desejo interno é a fonte genuína da tentação e do pecado consumado · Os conflitos comunitários nascem das paixões internas insatisfeitas · A amizade com os valores do mundo caído é incompatível com a amizade com Deus"
+      },
+      "distintivaReformada": {
+        "es": "En línea con la doctrina reformada del pecado original y la corrupción total (WCF 6), Santiago localiza la fuente del pecado en el deseo desordenado del corazón caído, no en circunstancias externas ni en Dios, subrayando la necesidad de una regeneración interna que solo la gracia provee.",
+        "en": "In line with the Reformed doctrine of original sin and total depravity (WCF 6), James locates the source of sin in the disordered desire of the fallen heart, not in external circumstances or in God, underscoring the need for an internal regeneration that only grace provides.",
+        "pt": "Em linha com a doutrina reformada do pecado original e da depravação total (WCF 6), Tiago localiza a fonte do pecado no desejo desordenado do coração caído, não em circunstâncias externas nem em Deus, sublinhando a necessidade de uma regeneração interna que só a graça provê."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "'Toda buena dádiva y todo don perfecto desciende de lo alto, del Padre de las luces, en quien no hay variación ni sombra de cambio' (Stg 1:17) resume la doctrina de la providencia en Santiago: Dios es la fuente inmutable de todo bien. La carta condena la presunción de planificar el futuro sin reconocer la soberanía divina, exigiendo en su lugar: 'si el Señor quiere, viviremos y haremos esto o aquello' (Stg 4:13-15).",
+        "en": "'Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change' (Jas 1:17) sums up James's doctrine of providence: God is the unchanging source of every good. The letter condemns the presumption of planning the future without acknowledging divine sovereignty, demanding instead: 'if the Lord wills, we will live and do this or that' (Jas 4:13-15).",
+        "pt": "'Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação' (Tg 1:17) resume a doutrina da providência em Tiago: Deus é a fonte imutável de todo bem. A carta condena a presunção de planejar o futuro sem reconhecer a soberania divina, exigindo em seu lugar: 'se o Senhor quiser, viveremos e faremos isto ou aquilo' (Tg 4:13-15)."
+      },
+      "pasajes": [
+        "Stg 1:17",
+        "Stg 4:13-15",
+        "Stg 5:11"
+      ],
+      "ensenanza": {
+        "es": "Todo bien recibido procede del Padre inmutable de las luces · Planificar el futuro sin someterlo a la voluntad soberana de Dios es presunción pecaminosa · El desenlace final de la providencia de Dios revela su compasión y misericordia, como en el caso de Job",
+        "en": "Every good received comes from the unchanging Father of lights · Planning the future without submitting it to God's sovereign will is sinful presumption · The final outcome of God's providence reveals his compassion and mercy, as in the case of Job",
+        "pt": "Todo bem recebido procede do Pai imutável das luzes · Planejar o futuro sem submetê-lo à vontade soberana de Deus é presunção pecaminosa · O desfecho final da providência de Deus revela sua compaixão e misericórdia, como no caso de Jó"
+      },
+      "distintivaReformada": {
+        "es": "Refleja directamente la doctrina reformada de la providencia (WCF 5): Dios sostiene, dirige y gobierna todas las criaturas y sucesos, de modo que planificar 'según el Señor quiera' no es piedad opcional sino reconocimiento confesional de que ningún propósito humano se cumple al margen del decreto de Dios.",
+        "en": "It directly reflects the Reformed doctrine of providence (WCF 5): God upholds, directs, and governs all creatures and events, so that planning 'if the Lord wills' is not optional piety but confessional acknowledgment that no human purpose is fulfilled apart from God's decree.",
+        "pt": "Reflete diretamente a doutrina reformada da providência (WCF 5): Deus sustenta, dirige e governa todas as criaturas e eventos, de modo que planejar 'se o Senhor quiser' não é piedade opcional, mas reconhecimento confessional de que nenhum propósito humano se cumpre à margem do decreto de Deus."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Santiago cierra con un oráculo profético contra los ricos que atesoran riquezas 'en los últimos días' (Stg 5:1-3) y defraudan el jornal de los trabajadores, cuyo clamor 'ha entrado en los oídos del Señor de los ejércitos' (Stg 5:4). Llama a la iglesia a la paciencia hasta 'la venida del Señor' (Stg 5:7-8), comparándola con la del labrador que espera la lluvia temprana y tardía, pues 'la venida del Señor está cerca' (Stg 5:8) y 'el Juez está a las puertas' (Stg 5:9).",
+        "en": "James closes with a prophetic oracle against the rich who hoard wealth 'in the last days' (Jas 5:1-3) and defraud the wages of laborers, whose cries 'have reached the ears of the Lord of hosts' (Jas 5:4). He calls the church to patience until 'the coming of the Lord' (Jas 5:7-8), comparing it to the farmer awaiting the early and late rains, for 'the coming of the Lord is at hand' (Jas 5:8) and 'the Judge is standing at the door' (Jas 5:9).",
+        "pt": "Tiago encerra com um oráculo profético contra os ricos que acumulam riquezas 'nestes últimos dias' (Tg 5:1-3) e fraudam o salário dos trabalhadores, cujo clamor 'chegou aos ouvidos do Senhor dos Exércitos' (Tg 5:4). Chama a igreja à paciência até 'a vinda do Senhor' (Tg 5:7-8), comparando-a com a do lavrador que espera a chuva temporã e a serôdia, pois 'a vinda do Senhor está próxima' (Tg 5:8) e 'o Juiz está às portas' (Tg 5:9)."
+      },
+      "pasajes": [
+        "Stg 5:1-3",
+        "Stg 5:4",
+        "Stg 5:7-9"
+      ],
+      "ensenanza": {
+        "es": "Las riquezas acumuladas injustamente serán testimonio de juicio en el día final · La injusticia económica contra el trabajador clama directamente al Señor de los ejércitos · La paciencia del creyente ante la injusticia se sostiene en la certeza de la inminente venida del Señor Juez",
+        "en": "Unjustly hoarded wealth will testify against its owners on the final day · Economic injustice against the laborer cries out directly to the Lord of hosts · The believer's patience amid injustice is sustained by the certainty of the imminent coming of the Lord as Judge",
+        "pt": "As riquezas acumuladas injustamente serão testemunho de juízo no dia final · A injustiça econômica contra o trabalhador clama diretamente ao Senhor dos Exércitos · A paciência do crente diante da injustiça se sustenta na certeza da vinda iminente do Senhor Juiz"
+      },
+      "distintivaReformada": {
+        "es": "Consistente con la escatología reformada de un Reino ya inaugurado pero todavía no consumado, Santiago sostiene la tensión entre la cercanía real de la venida de Cristo y el llamado presente a la paciencia activa, sin fijar fechas ni ceder al fatalismo pasivo.",
+        "en": "Consistent with the Reformed eschatology of an already-inaugurated but not-yet-consummated Kingdom, James sustains the tension between the real nearness of Christ's coming and the present call to active patience, without setting dates or yielding to passive fatalism.",
+        "pt": "Consistente com a escatologia reformada de um Reino já inaugurado, mas ainda não consumado, Tiago sustenta a tensão entre a proximidade real da vinda de Cristo e o chamado presente à paciência ativa, sem fixar datas nem ceder ao fatalismo passivo."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Justificación",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La WCF 11.2 enseña que la fe es 'el único instrumento de justificación', pero que esta fe nunca está sola en la persona justificada, sino que siempre va acompañada de las demás gracias salvadoras, siendo 'no una fe muerta, sino que obra por amor'. Este capítulo confesional es la clave reformada para leer Santiago 2:14-26 sin contradecir la justificación por la sola fe enseñada por Pablo.",
+        "en": "WCF 11.2 teaches that faith is 'the alone instrument of justification,' yet this faith is never alone in the person justified, but is always accompanied by all other saving graces, being 'no dead faith, but worketh by love.' This confessional chapter is the Reformed key for reading James 2:14-26 without contradicting the justification by faith alone taught by Paul.",
+        "pt": "A WCF 11.2 ensina que a fé é 'o único instrumento da justificação', mas que essa fé nunca está sozinha na pessoa justificada, estando sempre acompanhada das demais graças salvadoras, sendo 'não uma fé morta, mas que opera pelo amor'. Este capítulo confessional é a chave reformada para ler Tiago 2:14-26 sem contradizer a justificação pela fé somente ensinada por Paulo."
+      },
+      "genesis": [
+        "Stg 2:17",
+        "Stg 2:24",
+        "Stg 2:26"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    },
+    {
+      "cap": "Cap. 14",
+      "titulo": {
+        "es": "De la Fe Salvadora",
+        "en": "Of Saving Faith",
+        "pt": "Da Fé Salvadora"
+      },
+      "doctrinas": [
+        "Fe",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La WCF 14 describe la fe salvadora como una gracia obrada por el Espíritu en el corazón, por la cual el creyente cree que lo escrito en la Palabra es verdadero y actúa diferentemente según lo que cada pasaje demanda, produciendo obediencia a los mandamientos. Santiago exige precisamente esta fe activa, distinguiéndola de la fe meramente proposicional de los demonios, que creen pero no obedecen (Stg 2:19).",
+        "en": "WCF 14 describes saving faith as a grace wrought by the Spirit in the heart, by which the believer believes what is written in the Word to be true and acts differently upon what each passage demands, producing obedience to the commands. James demands precisely this active faith, distinguishing it from the merely propositional faith of demons, who believe but do not obey (Jas 2:19).",
+        "pt": "A WCF 14 descreve a fé salvadora como uma graça operada pelo Espírito no coração, pela qual o crente crê que o que está escrito na Palavra é verdadeiro e age diferentemente conforme o que cada passagem exige, produzindo obediência aos mandamentos. Tiago exige precisamente essa fé ativa, distinguindo-a da fé meramente proposicional dos demônios, que creem, mas não obedecem (Tg 2:19)."
+      },
+      "genesis": [
+        "Stg 1:6",
+        "Stg 2:19",
+        "Stg 2:22"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-14"
+    },
+    {
+      "cap": "Cap. 16",
+      "titulo": {
+        "es": "De las Buenas Obras",
+        "en": "Of Good Works",
+        "pt": "Das Boas Obras"
+      },
+      "doctrinas": [
+        "Buenas Obras",
+        "Santificación"
+      ],
+      "resumen": {
+        "es": "La WCF 16 enseña que las buenas obras son solamente las que Dios ha mandado en su Palabra, hechas por fe verdadera, y que son el fruto y evidencia necesarios de una fe viva, aunque no la causa de la justificación. Este capítulo articula confesionalmente el llamado de Santiago a ser 'hacedores de la palabra, y no solamente oidores' (Stg 1:22), y su insistencia en que la fe sin obras es fe muerta (Stg 2:26).",
+        "en": "WCF 16 teaches that good works are only those God has commanded in his Word, done by true faith, and that they are the necessary fruit and evidence of a living faith, though not the cause of justification. This chapter confessionally articulates James's call to be 'doers of the word, and not hearers only' (Jas 1:22), and his insistence that faith without works is dead faith (Jas 2:26).",
+        "pt": "A WCF 16 ensina que boas obras são somente aquelas que Deus ordenou em sua Palavra, feitas por fé verdadeira, e que são o fruto e a evidência necessários de uma fé viva, embora não a causa da justificação. Este capítulo articula confessionalmente o chamado de Tiago a ser 'cumpridor da palavra, e não somente ouvinte' (Tg 1:22), e sua insistência de que a fé sem obras é fé morta (Tg 2:26)."
+      },
+      "genesis": [
+        "Stg 1:22",
+        "Stg 2:17",
+        "Stg 2:26"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-16"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Stg 1:2-4",
+      "es": "Tened por sumo gozo, hermanos míos, el que os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia. Y que la paciencia tenga su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.",
+      "en": "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.",
+      "pt": "Meus irmãos, tende grande gozo quando cairdes em várias tentações, sabendo que a prova da vossa fé produz a paciência. Tenha, porém, a paciência a obra perfeita, para que sejais perfeitos e completos, sem faltar coisa alguma.",
+      "nota": {
+        "es": "Verso programático que fija la tesis pastoral de toda la carta: el sufrimiento no es enemigo de la fe sino su medio providencial de maduración, tema que Santiago retomará al cerrar con el ejemplo de Job (Stg 5:11).",
+        "en": "Programmatic verse that sets the pastoral thesis of the whole letter: suffering is not the enemy of faith but its providential means of maturation, a theme James will pick up again in closing with the example of Job (Jas 5:11).",
+        "pt": "Versículo programático que fixa a tese pastoral de toda a carta: o sofrimento não é inimigo da fé, mas seu meio providencial de maturação, tema que Tiago retomará ao encerrar com o exemplo de Jó (Tg 5:11)."
+      }
+    },
+    {
+      "ref": "Stg 1:22",
+      "es": "Pero sed hacedores de la palabra, y no solamente oidores, engañándoos a vosotros mismos.",
+      "en": "But be doers of the word, and not hearers only, deceiving yourselves.",
+      "pt": "E sede cumpridores da palavra, e não somente ouvintes, enganando-vos com falsos discursos.",
+      "nota": {
+        "es": "Resume el criterio hermenéutico central de toda la epístola: la validez de la fe se mide por la obediencia práctica, no por el mero asentimiento cognitivo, anticipando la enseñanza de Santiago 2 sobre fe y obras.",
+        "en": "Summarizes the central hermeneutical criterion of the whole epistle: the validity of faith is measured by practical obedience, not by mere cognitive assent, anticipating James 2's teaching on faith and works.",
+        "pt": "Resume o critério hermenêutico central de toda a epístola: a validade da fé se mede pela obediência prática, não pelo mero assentimento cognitivo, antecipando o ensino de Tiago 2 sobre fé e obras."
+      }
+    },
+    {
+      "ref": "Stg 2:26",
+      "es": "Porque como el cuerpo sin el espíritu está muerto, así también la fe sin obras está muerta.",
+      "en": "For as the body apart from the spirit is dead, so also faith apart from works is dead.",
+      "pt": "Porque, como o corpo sem espírito está morto, assim também a fé sem as obras é morta.",
+      "nota": {
+        "es": "Conclusión de la sección más debatida teológicamente del libro; la tradición reformada la lee no como negación de la justificación por la sola fe, sino como afirmación de que la fe justificante nunca existe sola, siempre acompañada de obras (WCF 11.2).",
+        "en": "The conclusion of the book's most theologically debated section; the Reformed tradition reads it not as a denial of justification by faith alone, but as an affirmation that justifying faith never exists alone, always accompanied by works (WCF 11.2).",
+        "pt": "Conclusão da seção mais debatida teologicamente do livro; a tradição reformada a lê não como negação da justificação pela fé somente, mas como afirmação de que a fé justificadora nunca existe sozinha, sempre acompanhada de obras (WCF 11.2)."
+      }
+    },
+    {
+      "ref": "Stg 4:6",
+      "es": "Pero Él da mayor gracia. Por eso dice: 'Dios resiste a los soberbios, pero da gracia a los humildes.'",
+      "en": "But he gives more grace. Therefore it says, 'God opposes the proud, but gives grace to the humble.'",
+      "pt": "Ele, porém, dá maior graça. Por isso diz: Deus resiste aos soberbos, mas dá graça aos humildes.",
+      "nota": {
+        "es": "Cita directa de Proverbios 3:34 (LXX) que Santiago comparte con 1 Pedro 5:5, evidencia de una tradición catequética común de la iglesia primitiva; centro teológico del llamado a la humillación de Santiago 4.",
+        "en": "A direct quotation of Proverbs 3:34 (LXX) that James shares with 1 Peter 5:5, evidence of a common catechetical tradition in the early church; the theological center of James 4's call to humility.",
+        "pt": "Citação direta de Provérbios 3:34 (LXX) que Tiago compartilha com 1 Pedro 5:5, evidência de uma tradição catequética comum da igreja primitiva; centro teológico do chamado à humilhação de Tiago 4."
+      }
+    },
+    {
+      "ref": "Stg 5:16",
+      "es": "Por tanto, confesaos vuestros pecados unos a otros, y orad unos por otros, para que seáis sanados. La oración eficaz del justo puede lograr mucho.",
+      "en": "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.",
+      "pt": "Confessai as vossas culpas uns aos outros, e orai uns pelos outros, para que sareis; a oração feita por um justo pode muito em seus efeitos.",
+      "nota": {
+        "es": "Culmina la sección práctica sobre la oración de fe (Stg 5:13-18) con la promesa de eficacia ilustrada de inmediato con el ejemplo de Elías, subrayando que la eficacia de la oración depende de la fe, no del estatus espiritual excepcional del orante.",
+        "en": "Culminates the practical section on the prayer of faith (Jas 5:13-18) with a promise of effectiveness immediately illustrated by the example of Elijah, underscoring that the effectiveness of prayer depends on faith, not on the exceptional spiritual status of the one praying.",
+        "pt": "Culmina a seção prática sobre a oração de fé (Tg 5:13-18) com a promessa de eficácia ilustrada imediatamente com o exemplo de Elias, sublinhando que a eficácia da oração depende da fé, não do status espiritual excepcional de quem ora."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La tradición reformada lee Santiago no como un contrapeso a Pablo sino como su complemento pastoral necesario: donde Pablo defiende el fundamento legal de la justificación por la sola fe frente al legalismo judaizante, Santiago defiende la evidencia vital de esa misma fe frente a una ortodoxia muerta y sin fruto, ambos sirviendo a la doctrina reformada de la fe que 'obra por amor' (Gá 5:6; WCF 11.2, 16). Calvino, pese a algunas reservas iniciales sobre su lugar canónico, defendió firmemente su inspiración y utilidad pastoral, y la Reforma la retuvo como testimonio apostólico esencial contra el antinomianismo.",
+    "en": "The Reformed tradition reads James not as a counterweight to Paul but as his necessary pastoral complement: where Paul defends the legal ground of justification by faith alone against Judaizing legalism, James defends the vital evidence of that same faith against a dead, fruitless orthodoxy, both serving the Reformed doctrine of faith that 'worketh by love' (Gal 5:6; WCF 11.2, 16). Calvin, despite some initial reservations about its canonical place, firmly defended its inspiration and pastoral usefulness, and the Reformation retained it as an essential apostolic witness against antinomianism.",
+    "pt": "A tradição reformada lê Tiago não como um contrapeso a Paulo, mas como seu complemento pastoral necessário: onde Paulo defende o fundamento legal da justificação pela fé somente contra o legalismo judaizante, Tiago defende a evidência vital dessa mesma fé contra uma ortodoxia morta e sem fruto, ambos servindo à doutrina reformada da fé que 'opera pelo amor' (Gl 5:6; WCF 11.2, 16). Calvino, apesar de algumas reservas iniciais sobre seu lugar canônico, defendeu firmemente sua inspiração e utilidade pastoral, e a Reforma a manteve como testemunho apostólico essencial contra o antinomianismo."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Pruebas, sabiduría y la Palabra puesta en práctica",
+        "en": "Trials, Wisdom, and the Word Put into Practice",
+        "pt": "Provações, sabedoria e a Palavra posta em prática"
+      },
+      "descripcion": {
+        "es": "Santiago se presenta como 'siervo de Dios y del Señor Jesucristo' y saluda a las doce tribus dispersas (Stg 1:1), heredero de la tradición sapiencial veterotestamentaria. Exige una perspectiva contraintuitiva del sufrimiento: las pruebas deben contarse por sumo gozo porque producen paciencia y madurez (Stg 1:2-4), y quien carezca de sabiduría debe pedirla a Dios con fe, sin dudar (Stg 1:5-8). Distingue la prueba, que fortalece, de la tentación, nacida del propio deseo y que conduce a la muerte (Stg 1:13-15), pues 'toda buena dádiva desciende de lo alto' (Stg 1:17). El capítulo cierra exigiendo que la Palabra recibida se traduzca en obediencia: ser hacedores y no solo oidores (Stg 1:22-25), refrenar la lengua y visitar a huérfanos y viudas (Stg 1:26-27).",
+        "en": "James introduces himself as 'a servant of God and of the Lord Jesus Christ' and greets the twelve dispersed tribes (Jas 1:1), heir of Old Testament wisdom tradition. He demands a counterintuitive view of suffering: trials are to be counted all joy because they produce steadfastness and maturity (Jas 1:2-4), and whoever lacks wisdom should ask God in faith, without doubting (Jas 1:5-8). He distinguishes trial, which strengthens, from temptation, born of one's own desire and leading to death (Jas 1:13-15), for 'every good gift comes down from above' (Jas 1:17). The chapter closes demanding that the received word translate into obedience: being doers and not hearers only (Jas 1:22-25), bridling the tongue, and visiting orphans and widows (Jas 1:26-27).",
+        "pt": "Tiago se apresenta como 'servo de Deus e do Senhor Jesus Cristo' e saúda as doze tribos dispersas (Tg 1:1), herdeiro da tradição sapiencial veterotestamentária. Exige uma perspectiva contraintuitiva do sofrimento: as provações devem ser motivo de grande alegria porque produzem paciência e maturidade (Tg 1:2-4), e quem carece de sabedoria deve pedi-la a Deus com fé, sem duvidar (Tg 1:5-8). Distingue a provação, que fortalece, da tentação, nascida do próprio desejo e que conduz à morte (Tg 1:13-15), pois 'toda boa dádiva desce do alto' (Tg 1:17). O capítulo se encerra exigindo que a Palavra recebida se traduza em obediência: ser praticantes e não apenas ouvintes (Tg 1:22-25), refrear a língua e visitar órfãos e viúvas (Tg 1:26-27)."
+      },
+      "eventoClave": {
+        "es": "La reformulación teológica de las pruebas como medio providencial de perseverancia y madurez espiritual, distinta de la tentación que nace del deseo humano (Stg 1:2-4,13-15).",
+        "en": "The theological reframing of trials as a providential means of endurance and spiritual maturity, distinct from temptation born of human desire (Jas 1:2-4,13-15).",
+        "pt": "A reformulação teológica das provações como meio providencial de perseverança e maturidade espiritual, distinta da tentação que nasce do desejo humano (Tg 1:2-4,13-15)."
+      },
+      "versiculoClave": "Stg 1:22",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 5:3-4",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo también describe una cadena de sufrimiento a perseverancia a carácter probado, coincidiendo con la lógica de Stg 1:2-4.",
+            "en": "Paul also describes a chain from suffering to endurance to proven character, matching the logic of Jas 1:2-4.",
+            "pt": "Paulo também descreve uma cadeia de sofrimento a perseverança a caráter provado, coincidindo com a lógica de Tg 1:2-4."
+          }
+        },
+        {
+          "ref": "Mt 7:24-27",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jesús mismo contrasta al que oye y hace con el que solo oye, imagen que Santiago retoma directamente en Stg 1:22-25.",
+            "en": "Jesus himself contrasts the one who hears and does with the one who only hears, an image James directly picks up in Jas 1:22-25.",
+            "pt": "O próprio Jesus contrasta quem ouve e faz com quem apenas ouve, imagem que Tiago retoma diretamente em Tg 1:22-25."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sabiduría": {
+            "es": "El capítulo abre con la petición de sabiduría a Dios 'que da a todos abundantemente' (Stg 1:5) y cierra definiendo la religión pura en términos sapienciales de conducta práctica (Stg 1:26-27).",
+            "en": "The chapter opens with the request for wisdom from God 'who gives generously to all' (Jas 1:5) and closes by defining pure religion in wisdom terms of practical conduct (Jas 1:26-27).",
+            "pt": "O capítulo abre com o pedido de sabedoria a Deus 'que a todos dá liberalmente' (Tg 1:5) e encerra definindo a religião pura em termos sapienciais de conduta prática (Tg 1:26-27)."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "El mandato de ser 'hacedores de la palabra y no solamente oidores' (Stg 1:22) convierte la Palabra implantada en criterio decisivo de autenticidad espiritual.",
+              "en": "The command to be 'doers of the word, and not hearers only' (Jas 1:22) makes the implanted word the decisive criterion of spiritual authenticity.",
+              "pt": "O mandamento de ser 'cumpridor da palavra, e não somente ouvinte' (Tg 1:22) torna a palavra implantada o critério decisivo de autenticidade espiritual."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Fe sin parcialidad y sin obras es fe muerta",
+        "en": "Faith without Partiality and without Works Is Dead",
+        "pt": "Fé sem parcialidade e sem obras é fé morta"
+      },
+      "descripcion": {
+        "es": "Santiago prohíbe la parcialidad hacia los ricos en la congregación, pues mostrar favoritismo según la apariencia externa contradice la fe en 'nuestro glorioso Señor Jesucristo' (Stg 2:1) y viola la ley real de amar al prójimo (Stg 2:8-9). Quebrantar un solo mandamiento hace culpable de toda la ley (Stg 2:10-11), por lo que se debe hablar y actuar 'como los que van a ser juzgados por la ley de la libertad' (Stg 2:12). El capítulo culmina en el pasaje más debatido del libro: la fe que no produce obras es una fe muerta e incapaz de salvar (Stg 2:14-17), ejemplificada en Abraham, justificado por sus obras cuando ofreció a Isaac (Stg 2:21-23), y en Rahab, la ramera que recibió a los espías (Stg 2:25).",
+        "en": "James prohibits partiality toward the rich in the congregation, since showing favoritism based on outward appearance contradicts faith in 'our glorious Lord Jesus Christ' (Jas 2:1) and violates the royal law of loving one's neighbor (Jas 2:8-9). Breaking a single command makes one guilty of the whole law (Jas 2:10-11), so one must speak and act 'as those who are to be judged under the law of liberty' (Jas 2:12). The chapter culminates in the book's most debated passage: faith producing no works is a dead faith unable to save (Jas 2:14-17), exemplified by Abraham, justified by works when he offered Isaac (Jas 2:21-23), and by Rahab, the prostitute who received the spies (Jas 2:25).",
+        "pt": "Tiago proíbe a parcialidade para com os ricos na congregação, pois demonstrar favoritismo segundo a aparência externa contradiz a fé em 'nosso glorioso Senhor Jesus Cristo' (Tg 2:1) e viola a lei real de amar o próximo (Tg 2:8-9). Quebrar um só mandamento torna culpado de toda a lei (Tg 2:10-11), por isso se deve falar e agir 'como quem há de ser julgado pela lei da liberdade' (Tg 2:12). O capítulo culmina na passagem mais debatida do livro: a fé que não produz obras é uma fé morta e incapaz de salvar (Tg 2:14-17), exemplificada em Abraão, justificado por suas obras quando ofereceu Isaque (Tg 2:21-23), e em Raabe, a prostituta que recebeu os espias (Tg 2:25)."
+      },
+      "eventoClave": {
+        "es": "La declaración de que 'la fe sin obras es fe muerta' (Stg 2:26), ejemplificada en Abraham y Rahab, exige que la fe genuina se demuestre en la conducta visible.",
+        "en": "The declaration that 'faith apart from works is dead' (Jas 2:26), exemplified by Abraham and Rahab, requires that genuine faith be demonstrated in visible conduct.",
+        "pt": "A declaração de que 'a fé sem as obras é morta' (Tg 2:26), exemplificada em Abraão e Raabe, exige que a fé genuína se demonstre em conduta visível."
+      },
+      "versiculoClave": "Stg 2:26",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 4:1-3",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo usa el mismo episodio de Abraham (Gn 15:6) para establecer la justificación por la sola fe, en aparente tensión con Stg 2:21 que la tradición reformada armoniza distinguiendo la justificación ante Dios de la vindicación ante los hombres.",
+            "en": "Paul uses the same Abraham episode (Gen 15:6) to establish justification by faith alone, in apparent tension with Jas 2:21, which the Reformed tradition harmonizes by distinguishing justification before God from vindication before men.",
+            "pt": "Paulo usa o mesmo episódio de Abraão (Gn 15:6) para estabelecer a justificação pela fé somente, em aparente tensão com Tg 2:21, que a tradição reformada harmoniza distinguindo a justificação diante de Deus da vindicação diante dos homens."
+          }
+        },
+        {
+          "ref": "He 11:17-19",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Hebreos cita el mismo episodio de la ofrenda de Isaac como acto supremo de fe, complementando la lectura de obras de Santiago.",
+            "en": "Hebrews cites the same offering of Isaac as the supreme act of faith, complementing James's reading in terms of works.",
+            "pt": "Hebreus cita o mesmo episódio da oferta de Isaque como ato supremo de fé, complementando a leitura de obras de Tiago."
+          }
+        },
+        {
+          "ref": "He 11:31",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Hebreos también cita a Rahab como ejemplo de fe, formando junto con Santiago un doble testimonio neotestamentario sobre ella.",
+            "en": "Hebrews also cites Rahab as an example of faith, forming together with James a twofold New Testament witness about her.",
+            "pt": "Hebreus também cita Raabe como exemplo de fé, formando junto com Tiago um duplo testemunho neotestamentário sobre ela."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Justificación": {
+            "es": "El capítulo declara que 'el hombre es justificado por las obras y no solo por la fe' (Stg 2:24), exigiendo que la fe genuina se complete y demuestre visiblemente en obras, como en Abraham y Rahab.",
+            "en": "The chapter declares that 'a person is justified by works and not by faith alone' (Jas 2:24), requiring that genuine faith be completed and visibly demonstrated in works, as in Abraham and Rahab.",
+            "pt": "O capítulo declara que 'o homem é justificado pelas obras, e não somente pela fé' (Tg 2:24), exigindo que a fé genuína se complete e se demonstre visivelmente em obras, como em Abraão e Raabe."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "La 'ley real' de amar al prójimo (Stg 2:8) y la 'ley de libertad' (Stg 2:12) reinterpretan la Torá mosaica como norma unificada que condena la parcialidad.",
+              "en": "The 'royal law' of loving one's neighbor (Jas 2:8) and the 'law of liberty' (Jas 2:12) reinterpret the Mosaic Torah as a unified norm condemning partiality.",
+              "pt": "A 'lei real' de amar o próximo (Tg 2:8) e a 'lei da liberdade' (Tg 2:12) reinterpretam a Torá mosaica como norma unificada que condena a parcialidade."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "La lengua y la sabiduría verdadera",
+        "en": "The Tongue and True Wisdom",
+        "pt": "A língua e a verdadeira sabedoria"
+      },
+      "descripcion": {
+        "es": "Santiago advierte que los maestros recibirán juicio más severo (Stg 3:1) y describe la lengua como un miembro pequeño de enorme poder destructivo, comparada con el freno de un caballo, el timón de un barco y una chispa que incendia un bosque (Stg 3:3-6); ningún hombre puede domarla, pues de la misma boca salen bendición y maldición contra hombres hechos a imagen de Dios (Stg 3:9-10). El capítulo contrasta dos sabidurías: la terrenal, animal y diabólica, que produce envidia, ambición egoísta y desorden (Stg 3:14-16), frente a la sabiduría de lo alto, pura, pacífica, amable y llena de misericordia y buenos frutos (Stg 3:17), que produce 'el fruto de justicia... para los que hacen la paz' (Stg 3:18).",
+        "en": "James warns that teachers will receive stricter judgment (Jas 3:1) and describes the tongue as a small member of enormous destructive power, compared to a horse's bit, a ship's rudder, and a spark that sets a forest ablaze (Jas 3:3-6); no one can tame it, for from the same mouth come blessing and cursing against people made in God's likeness (Jas 3:9-10). The chapter contrasts two wisdoms: earthly, unspiritual, demonic wisdom, which produces envy, selfish ambition, and disorder (Jas 3:14-16), against wisdom from above, pure, peaceable, gentle, and full of mercy and good fruits (Jas 3:17), which produces 'a harvest of righteousness... for those who make peace' (Jas 3:18).",
+        "pt": "Tiago adverte que os mestres receberão juízo mais severo (Tg 3:1) e descreve a língua como um pequeno membro de enorme poder destrutivo, comparada ao freio de um cavalo, ao leme de um navio e a uma centelha que incendeia uma floresta (Tg 3:3-6); ninguém consegue domá-la, pois da mesma boca saem bênção e maldição contra homens feitos à semelhança de Deus (Tg 3:9-10). O capítulo contrasta duas sabedorias: a terrena, animal e diabólica, que produz inveja, ambição egoísta e desordem (Tg 3:14-16), frente à sabedoria do alto, pura, pacífica, cordata e cheia de misericórdia e bons frutos (Tg 3:17), que produz 'o fruto da justiça... para os que fazem a paz' (Tg 3:18)."
+      },
+      "eventoClave": {
+        "es": "El contraste entre la sabiduría terrenal, diabólica, y la sabiduría de lo alto, pura y pacífica, como prueba decisiva del carácter regenerado (Stg 3:14-17).",
+        "en": "The contrast between earthly, demonic wisdom and wisdom from above, pure and peaceable, as the decisive test of regenerate character (Jas 3:14-17).",
+        "pt": "O contraste entre a sabedoria terrena, diabólica, e a sabedoria do alto, pura e pacífica, como prova decisiva do caráter regenerado (Tg 3:14-17)."
+      },
+      "versiculoClave": "Stg 3:17",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Pr 10:19",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La sabiduría de Proverbios ya asocia la moderación del habla con la prudencia, trasfondo directo de la ética de la lengua en Stg 3.",
+            "en": "Proverbs's wisdom already associates restrained speech with prudence, a direct background for the ethic of the tongue in Jas 3.",
+            "pt": "A sabedoria de Provérbios já associa a moderação da fala com a prudência, pano de fundo direto para a ética da língua em Tg 3."
+          }
+        },
+        {
+          "ref": "1Co 3:3",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo identifica la envidia y la contienda como marcas de carnalidad, coincidiendo con el diagnóstico de la sabiduría terrenal en Stg 3:14-16.",
+            "en": "Paul identifies envy and strife as marks of carnality, matching the diagnosis of earthly wisdom in Jas 3:14-16.",
+            "pt": "Paulo identifica a inveja e a contenda como marcas de carnalidade, coincidindo com o diagnóstico da sabedoria terrena em Tg 3:14-16."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sabiduría": {
+            "es": "El capítulo entero gira en torno al contraste explícito entre la sabiduría 'terrenal, animal, diabólica' y la sabiduría 'que desciende de lo alto' (Stg 3:15,17), aplicada primero al dominio de la lengua.",
+            "en": "The whole chapter turns on the explicit contrast between 'earthly, unspiritual, demonic' wisdom and wisdom 'from above' (Jas 3:15,17), applied first to mastery of the tongue.",
+            "pt": "Todo o capítulo gira em torno do contraste explícito entre a sabedoria 'terrena, animal e diabólica' e a sabedoria 'que vem do alto' (Tg 3:15,17), aplicada primeiro ao domínio da língua."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "La envidia y la ambición egoísta identificadas como raíz de 'toda obra perversa' (Stg 3:16) revelan la corrupción del corazón caído detrás del habla descontrolada.",
+              "en": "Envy and selfish ambition identified as the root of 'every vile practice' (Jas 3:16) reveal the corruption of the fallen heart behind uncontrolled speech.",
+              "pt": "A inveja e a ambição egoísta identificadas como raiz de 'toda obra perversa' (Tg 3:16) revelam a corrupção do coração caído por trás da fala descontrolada."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Guerras internas y sumisión a Dios",
+        "en": "Internal Wars and Submission to God",
+        "pt": "Guerras internas e submissão a Deus"
+      },
+      "descripcion": {
+        "es": "Santiago identifica el origen de los conflictos dentro de la comunidad en las pasiones internas que combaten en los miembros (Stg 4:1-2) y en la amistad con el mundo, que constituye enemistad con Dios (Stg 4:4). Llama al arrepentimiento: someteos a Dios, resistid al diablo, acercaos a Dios y Él se acercará a vosotros (Stg 4:7-8), pues 'Dios resiste a los soberbios, pero da gracia a los humildes' (Stg 4:6). Prohíbe juzgar y hablar mal del hermano, pues eso usurpa el lugar del único legislador y juez (Stg 4:11-12), y denuncia la presunción de planificar el futuro sin reconocer la soberanía divina: 'si el Señor quiere, viviremos y haremos esto o aquello' (Stg 4:13-15).",
+        "en": "James identifies the origin of conflicts within the community in the internal passions warring within one's members (Jas 4:1-2) and in friendship with the world, which constitutes enmity with God (Jas 4:4). He calls for repentance: submit to God, resist the devil, draw near to God and he will draw near to you (Jas 4:7-8), for 'God opposes the proud but gives grace to the humble' (Jas 4:6). He forbids judging and speaking evil of a brother, since that usurps the place of the one lawgiver and judge (Jas 4:11-12), and denounces the presumption of planning the future without acknowledging divine sovereignty: 'if the Lord wills, we will live and do this or that' (Jas 4:13-15).",
+        "pt": "Tiago identifica a origem dos conflitos dentro da comunidade nas paixões internas que guerreiam nos membros (Tg 4:1-2) e na amizade com o mundo, que constitui inimizade com Deus (Tg 4:4). Chama ao arrependimento: sujeitai-vos a Deus, resisti ao diabo, aproximai-vos de Deus e Ele se aproximará de vós (Tg 4:7-8), pois 'Deus resiste aos soberbos, mas dá graça aos humildes' (Tg 4:6). Proíbe julgar e falar mal do irmão, pois isso usurpa o lugar do único legislador e juiz (Tg 4:11-12), e denuncia a presunção de planejar o futuro sem reconhecer a soberania divina: 'se o Senhor quiser, viveremos e faremos isto ou aquilo' (Tg 4:13-15)."
+      },
+      "eventoClave": {
+        "es": "El llamado a la humillación delante de Dios como respuesta a las pasiones internas que generan conflicto, resumido en 'Dios resiste a los soberbios, pero da gracia a los humildes' (Stg 4:6-7).",
+        "en": "The call to humble oneself before God as the response to the internal passions generating conflict, summarized in 'God opposes the proud, but gives grace to the humble' (Jas 4:6-7).",
+        "pt": "O chamado à humilhação diante de Deus como resposta às paixões internas que geram conflito, resumido em 'Deus resiste aos soberbos, mas dá graça aos humildes' (Tg 4:6-7)."
+      },
+      "versiculoClave": "Stg 4:6",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Pr 3:34",
+          "tipo": "cita",
+          "nota": {
+            "es": "Santiago cita textualmente la LXX de este proverbio como fundamento de su llamado a la humildad.",
+            "en": "James directly quotes the LXX of this proverb as the foundation for his call to humility.",
+            "pt": "Tiago cita textualmente a LXX deste provérbio como fundamento de seu chamado à humildade."
+          }
+        },
+        {
+          "ref": "1P 5:5-6",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pedro cita el mismo pasaje de Proverbios en un contexto casi idéntico, evidencia de una tradición catequética compartida en la iglesia primitiva.",
+            "en": "Peter cites the same Proverbs passage in an almost identical context, evidence of a shared catechetical tradition in the early church.",
+            "pt": "Pedro cita a mesma passagem de Provérbios num contexto quase idêntico, evidência de uma tradição catequética compartilhada na igreja primitiva."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "Las guerras y conflictos comunitarios se rastrean hasta 'las pasiones que combaten en vuestros miembros' (Stg 4:1), diagnóstico directo de la corrupción interna del corazón caído.",
+            "en": "Community wars and conflicts are traced to 'your passions at war within you' (Jas 4:1), a direct diagnosis of the internal corruption of the fallen heart.",
+            "pt": "As guerras e conflitos comunitários são rastreados até 'as vossas paixões, que nos vossos membros guerreiam' (Tg 4:1), diagnóstico direto da corrupção interna do coração caído."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "'La amistad del mundo es enemistad con Dios' (Stg 4:4) identifica el deseo desordenado de los bienes del mundo caído como una forma de adulterio espiritual e idolatría del corazón.",
+              "en": "'Friendship with the world is enmity with God' (Jas 4:4) identifies disordered desire for the goods of the fallen world as a form of spiritual adultery and idolatry of the heart.",
+              "pt": "'A amizade do mundo é inimizade contra Deus' (Tg 4:4) identifica o desejo desordenado pelos bens do mundo caído como uma forma de adultério espiritual e idolatria do coração."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "titulo": {
+        "es": "Advertencia a los ricos, paciencia y oración",
+        "en": "Warning to the Rich, Patience, and Prayer",
+        "pt": "Advertência aos ricos, paciência e oração"
+      },
+      "descripcion": {
+        "es": "Santiago pronuncia un oráculo profético de juicio contra los ricos que acumularon riquezas injustamente y defraudaron el jornal de los trabajadores, cuyo clamor 'ha entrado en los oídos del Señor de los ejércitos' (Stg 5:1-4). Llama a la paciencia hasta la venida del Señor, comparándola con la del labrador que espera la lluvia temprana y tardía, y presenta a los profetas y a Job como ejemplos de sufrimiento paciente y de la compasión final del Señor (Stg 5:7-11). Prohíbe los juramentos frívolos (Stg 5:12) y cierra con instrucciones sobre la oración: el enfermo debe llamar a los ancianos para que oren y lo unjan con aceite (Stg 5:14-15), presentando a Elías como ejemplo de que 'la oración eficaz del justo puede lograr mucho' (Stg 5:16-18), con el llamado final a restaurar al hermano que se ha extraviado de la verdad (Stg 5:19-20).",
+        "en": "James pronounces a prophetic oracle of judgment against the rich who hoarded wealth unjustly and defrauded the wages of laborers, whose cries 'have reached the ears of the Lord of hosts' (Jas 5:1-4). He calls for patience until the Lord's coming, comparing it to the farmer awaiting the early and late rains, and presents the prophets and Job as examples of patient suffering and the Lord's final compassion (Jas 5:7-11). He forbids frivolous oaths (Jas 5:12) and closes with instructions on prayer: the sick person should call the elders to pray and anoint him with oil (Jas 5:14-15), presenting Elijah as an example that 'the prayer of a righteous person has great power as it is working' (Jas 5:16-18), with a final call to restore the brother who has wandered from the truth (Jas 5:19-20).",
+        "pt": "Tiago pronuncia um oráculo profético de juízo contra os ricos que acumularam riquezas injustamente e fraudaram o salário dos trabalhadores, cujo clamor 'chegou aos ouvidos do Senhor dos Exércitos' (Tg 5:1-4). Chama à paciência até a vinda do Senhor, comparando-a com a do lavrador que espera a chuva temporã e a serôdia, e apresenta os profetas e Jó como exemplos de sofrimento paciente e da compaixão final do Senhor (Tg 5:7-11). Proíbe os juramentos frívolos (Tg 5:12) e encerra com instruções sobre a oração: o enfermo deve chamar os presbíteros para orarem e ungi-lo com óleo (Tg 5:14-15), apresentando Elias como exemplo de que 'a oração feita por um justo pode muito em seus efeitos' (Tg 5:16-18), com o chamado final a restaurar o irmão que se desviou da verdade (Tg 5:19-20)."
+      },
+      "eventoClave": {
+        "es": "La instrucción sobre la oración de fe por los enfermos y la promesa de que 'la oración eficaz del justo puede lograr mucho', ilustrada con Elías (Stg 5:14-18).",
+        "en": "The instruction on the prayer of faith for the sick and the promise that 'the prayer of a righteous person has great power as it is working,' illustrated by Elijah (Jas 5:14-18).",
+        "pt": "A instrução sobre a oração de fé pelos enfermos e a promessa de que 'a oração feita por um justo pode muito em seus efeitos', ilustrada com Elias (Tg 5:14-18)."
+      },
+      "versiculoClave": "Stg 5:16",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Job 42:10-12",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La vindicación final de Job es el trasfondo directo del ejemplo de perseverancia citado en Stg 5:11.",
+            "en": "Job's final vindication is the direct background for the example of endurance cited in Jas 5:11.",
+            "pt": "A vindicação final de Jó é o pano de fundo direto do exemplo de perseverança citado em Tg 5:11."
+          }
+        },
+        {
+          "ref": "1R 18:41-45",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El relato de la oración de Elías por la lluvia es la fuente narrativa directa del ejemplo de Stg 5:17-18.",
+            "en": "The narrative of Elijah's prayer for rain is the direct narrative source for the example in Jas 5:17-18.",
+            "pt": "O relato da oração de Elias pela chuva é a fonte narrativa direta do exemplo de Tg 5:17-18."
+          }
+        },
+        {
+          "ref": "Mt 5:34-37",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jesús prohíbe los juramentos en el Sermón del Monte en términos casi idénticos a Stg 5:12, evidencia de dependencia de la tradición de dichos de Jesús.",
+            "en": "Jesus forbids oaths in the Sermon on the Mount in terms almost identical to Jas 5:12, evidence of dependence on the tradition of Jesus's sayings.",
+            "pt": "Jesus proíbe os juramentos no Sermão do Monte em termos quase idênticos a Tg 5:12, evidência de dependência da tradição dos ditos de Jesus."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Segunda Venida": {
+            "es": "El llamado central del capítulo es a la paciencia 'hasta la venida del Señor' (Stg 5:7-8), pues 'el Juez está a las puertas' (Stg 5:9), enmarcando toda la ética final de la carta en clave escatológica.",
+            "en": "The chapter's central call is to patience 'until the coming of the Lord' (Jas 5:7-8), for 'the Judge is standing at the door' (Jas 5:9), framing the letter's final ethics in eschatological terms.",
+            "pt": "O chamado central do capítulo é à paciência 'até a vinda do Senhor' (Tg 5:7-8), pois 'o Juiz está às portas' (Tg 5:9), enquadrando toda a ética final da carta em chave escatológica."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "El oráculo contra los ricos que 'habéis acumulado tesoros para los últimos días' (Stg 5:3) anuncia el juicio inminente sobre la opresión económica.",
+              "en": "The oracle against the rich who 'have laid up treasure in the last days' (Jas 5:3) announces imminent judgment on economic oppression.",
+              "pt": "O oráculo contra os ricos que 'ajuntastes tesouro para os últimos dias' (Tg 5:3) anuncia o juízo iminente sobre a opressão econômica."
+            }
+          },
+          {
+            "Fidelidad/Hesed": {
+              "es": "La promesa de que 'el Señor es muy compasivo y misericordioso' (Stg 5:11) y la eficacia de la oración de fe (Stg 5:15-16) revelan la fidelidad pactual de Dios hacia su pueblo que sufre.",
+              "en": "The promise that 'the Lord is compassionate and merciful' (Jas 5:11) and the effectiveness of the prayer of faith (Jas 5:15-16) reveal God's covenantal faithfulness toward his suffering people.",
+              "pt": "A promessa de que 'o Senhor é muito misericordioso e compassivo' (Tg 5:11) e a eficácia da oração de fé (Tg 5:15-16) revelam a fidelidade pactual de Deus para com seu povo sofredor."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway Editors (gen. ed. Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Notas por versículo",
+          "Teología",
+          "Personajes"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Verse notes",
+          "Theology",
+          "Characters"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Notas por versículo",
+          "Teologia",
+          "Personagens"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es la Biblia de estudio de referencia en el mundo evangélico reformado de habla inglesa, publicada por Crossway en 2008 bajo la edición general de Wayne Grudem. Reúne a más de 95 académicos bíblicos de orientación reformada y evangélica.",
+          "en": "The ESV Study Bible is the flagship study Bible in the Reformed and evangelical English-speaking world, published by Crossway in 2008 under the general editorship of Wayne Grudem. It brings together more than 95 biblical scholars of Reformed and evangelical orientation.",
+          "pt": "A ESV Study Bible é a Bíblia de estudo de referência no mundo evangélico reformado de língua inglesa, publicada pela Crossway em 2008 sob a edição geral de Wayne Grudem. Reúne mais de 95 estudiosos bíblicos de orientação reformada e evangélica."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas versículo por versículo, ensayos temáticos de introducción a cada libro, mapas, tablas cronológicas y artículos teológicos. Su metodología es histórico-gramatical con un fuerte componente de teología bíblica reformada.",
+          "en": "Combines verse-by-verse exegetical notes, thematic introductory essays for each book, maps, chronological tables, and theological articles. Its methodology is historical-grammatical with a strong Reformed biblical theology component.",
+          "pt": "Combina notas exegéticas versículo por versículo, ensaios temáticos de introdução a cada livro, mapas, tabelas cronológicas e artigos teológicos. Sua metodologia é histórico-gramatical com forte componente de teologia bíblica reformada."
+        },
+        "aportacion": {
+          "es": "Provee la armonización clásica reformada entre Santiago y Pablo sobre fe y obras, y notas detalladas sobre la datación temprana y el trasfondo sapiencial de la carta.",
+          "en": "Provides the classic Reformed harmonization between James and Paul on faith and works, and detailed notes on the letter's early dating and wisdom background.",
+          "pt": "Fornece a harmonização clássica reformada entre Tiago e Paulo sobre fé e obras, e notas detalhadas sobre a datação precoce e o pano de fundo sapiencial da carta."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology (Grudem, 1994)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. gen.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Notas doctrinales",
+          "Anclas confesionales"
+        ],
+        "en": [
+          "Introduction",
+          "Doctrinal notes",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Introdução",
+          "Notas doutrinárias",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX–XXI, editor general de la Reformation Study Bible.",
+          "en": "R.C. Sproul (1939–2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices in 20th–21st century Reformed evangelicalism, general editor of the Reformation Study Bible.",
+          "pt": "R.C. Sproul (1939–2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado dos séculos XX–XXI, editor geral da Reformation Study Bible."
+        },
+        "metodo": {
+          "es": "Notas de estudio explícitamente confesionales, ancladas en la Confesión de Fe de Westminster, con énfasis didáctico dirigido tanto a laicos como a estudiantes de teología.",
+          "en": "Explicitly confessional study notes, anchored in the Westminster Confession of Faith, with a didactic emphasis directed at both laypeople and theology students.",
+          "pt": "Notas de estudo explicitamente confessionais, ancoradas na Confissão de Fé de Westminster, com ênfase didática dirigida tanto a leigos quanto a estudantes de teologia."
+        },
+        "aportacion": {
+          "es": "Aporta la lectura confesional directa de Santiago 2 en diálogo con WCF 11 y 16, clave para los anclas confesionales de este registro.",
+          "en": "Provides the direct confessional reading of James 2 in dialogue with WCF 11 and 16, key for this record's confessional anchors.",
+          "pt": "Fornece a leitura confessional direta de Tiago 2 em diálogo com a WCF 11 e 16, chave para as âncoras confessionais deste registro."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover-black"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed. gen.), edición en español",
+      "año": 2019,
+      "editorial": "Poiema / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto bíblico NBLA",
+          "Introducción",
+          "Notas doctrinales"
+        ],
+        "en": [
+          "NBLA biblical text",
+          "Introduction",
+          "Doctrinal notes"
+        ],
+        "pt": [
+          "Texto bíblico NBLA",
+          "Introdução",
+          "Notas doutrinárias"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición en español de la Reformation Study Bible, adaptada para el mundo hispanohablante reformado bajo la supervisión editorial de Ligonier Ministries y su rama Poiema.",
+          "en": "Spanish-language edition of the Reformation Study Bible, adapted for the Reformed Spanish-speaking world under the editorial supervision of Ligonier Ministries and its Poiema imprint.",
+          "pt": "Edição em espanhol da Reformation Study Bible, adaptada para o mundo hispanofalante reformado sob supervisão editorial da Ligonier Ministries e seu selo Poiema."
+        },
+        "metodo": {
+          "es": "Traduce y adapta culturalmente el aparato de notas de la Reformation Study Bible en inglés, utilizando el texto de la NBLA como base bíblica en español.",
+          "en": "Translates and culturally adapts the note apparatus of the English Reformation Study Bible, using the NBLA text as the Spanish biblical base.",
+          "pt": "Traduz e adapta culturalmente o aparato de notas da Reformation Study Bible em inglês, usando o texto da NBLA como base bíblica em espanhol."
+        },
+        "aportacion": {
+          "es": "Fuente primaria del texto bíblico en español (NBLA) usado en las citas de versículos clave de este registro.",
+          "en": "Primary source for the Spanish biblical text (NBLA) used in this record's key-verse citations.",
+          "pt": "Fonte primária do texto bíblico em espanhol (NBLA) usado nas citações de versículos-chave deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://es.ligonier.org/productos/biblia-de-estudio-de-la-reforma-nbla"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Justificación",
+          "Santificación"
+        ],
+        "en": [
+          "Systematic theology",
+          "Justification",
+          "Sanctification"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Justificação",
+          "Santificação"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático reformado, profesor emérito en Phoenix Seminary y editor general de la ESV Study Bible; su Systematic Theology es uno de los manuales más usados en seminarios evangélicos de habla inglesa.",
+          "en": "Wayne Grudem is a Reformed systematic theologian, professor emeritus at Phoenix Seminary and general editor of the ESV Study Bible; his Systematic Theology is one of the most widely used textbooks in English-speaking evangelical seminaries.",
+          "pt": "Wayne Grudem é teólogo sistemático reformado, professor emérito no Phoenix Seminary e editor geral da ESV Study Bible; sua Systematic Theology é um dos manuais mais usados em seminários evangélicos de língua inglesa."
+        },
+        "metodo": {
+          "es": "Exposición doctrinal organizada por locus temático, con fundamentación exegética exhaustiva de cada doctrina y diálogo con posiciones alternativas dentro y fuera del campo reformado.",
+          "en": "Doctrinal exposition organized by thematic locus, with exhaustive exegetical grounding of each doctrine and dialogue with alternative positions within and outside the Reformed camp.",
+          "pt": "Exposição doutrinária organizada por lugar temático, com fundamentação exegética exaustiva de cada doutrina e diálogo com posições alternativas dentro e fora do campo reformado."
+        },
+        "aportacion": {
+          "es": "Base para la armonización sistemática de la doctrina de la justificación de Santiago 2 con la enseñanza paulina, y para la categorización de los distintivos de teologiaSistematica.",
+          "en": "Basis for the systematic harmonization of James 2's justification doctrine with Pauline teaching, and for the categorization of the teologiaSistematica entries.",
+          "pt": "Base para a harmonização sistemática da doutrina da justificação de Tiago 2 com o ensino paulino, e para a categorização dos distintivos de teologiaSistematica."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)"
+        ],
+        "url": "https://www.thegospelcoalition.org/reviews/systematic-theology-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipología"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Typology"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) es considerado el padre de la teología bíblica reformada moderna, profesor en Princeton Theological Seminary y pionero en el estudio sistemático de la historia de la revelación.",
+          "en": "Geerhardus Vos (1862–1949) is considered the father of modern Reformed biblical theology, professor at Princeton Theological Seminary and pioneer of the systematic study of the history of revelation.",
+          "pt": "Geerhardus Vos (1862–1949) é considerado o pai da teologia bíblica reformada moderna, professor no Princeton Theological Seminary e pioneiro no estudo sistemático da história da revelação."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas del pacto, leyendo cada libro en su lugar dentro de la historia redentora que culmina en Cristo.",
+          "en": "Traces the progressive development of divine revelation through the epochs of the covenant, reading each book in its place within the redemptive history that culminates in Christ.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas do pacto, lendo cada livro em seu lugar dentro da história redentora que culmina em Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamenta el enfoque cristológico de la sabiduría 'de lo alto' en Santiago 3 y la lectura tipológica de Abraham y Job como figuras redentor-históricas.",
+          "en": "Grounds the christological reading of wisdom 'from above' in James 3 and the typological reading of Abraham and Job as redemptive-historical figures.",
+          "pt": "Fundamenta o enfoque cristológico da sabedoria 'do alto' em Tiago 3 e a leitura tipológica de Abraão e Jó como figuras redentor-históricas."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biography/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: New Testament",
+      "autor": "Craig S. Keener",
+      "año": 1993,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Trasfondo grecorromano",
+          "Trasfondo judío"
+        ],
+        "en": [
+          "Historical context",
+          "Greco-Roman background",
+          "Jewish background"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Pano de fundo greco-romano",
+          "Pano de fundo judaico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Craig S. Keener es Profesor de Estudios del Nuevo Testamento en Asbury Theological Seminary, reconocido por su erudición exhaustiva en el trasfondo judío y grecorromano del NT.",
+          "en": "Craig S. Keener is Professor of New Testament Studies at Asbury Theological Seminary, recognized for his exhaustive scholarship on the Jewish and Greco-Roman background of the NT.",
+          "pt": "Craig S. Keener é Professor de Estudos do Novo Testamento no Asbury Theological Seminary, reconhecido por sua erudição exaustiva sobre o pano de fundo judaico e greco-romano do NT."
+        },
+        "metodo": {
+          "es": "Comentario versículo por versículo centrado exclusivamente en iluminar el trasfondo cultural, social y literario original del texto, con amplio uso de fuentes judías y grecorromanas primarias.",
+          "en": "Verse-by-verse commentary focused exclusively on illuminating the text's original cultural, social, and literary background, with extensive use of primary Jewish and Greco-Roman sources.",
+          "pt": "Comentário versículo por versículo focado exclusivamente em iluminar o pano de fundo cultural, social e literário original do texto, com amplo uso de fontes judaicas e greco-romanas primárias."
+        },
+        "aportacion": {
+          "es": "Provee el trasfondo socioeconómico de la explotación de jornaleros (Stg 5:1-6) y el trasfondo del uso de 'sinagoga' para la asamblea cristiana (Stg 2:2).",
+          "en": "Provides the socioeconomic background for the exploitation of day laborers (Jas 5:1-6) and the background for the use of 'synagogue' for the Christian assembly (Jas 2:2).",
+          "pt": "Fornece o pano de fundo socioeconômico da exploração de trabalhadores (Tg 5:1-6) e o pano de fundo do uso de 'sinagoga' para a assembleia cristã (Tg 2:2)."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: NT (1993)",
+          "The Historical Jesus of the Gospels (2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-new-testament"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.78,
+    "camposMarcados": [
+      {
+        "campo": "autor",
+        "razon": "Se identificó al autor como Santiago 'el hermano del Señor', líder de la iglesia de Jerusalén, siguiendo la posición reformada mayoritaria, en lugar de Santiago hijo de Zebedeo o hijo de Alfeo. Aunque esta identificación es la más ampliamente aceptada en la tradición eclesial y reformada, no hay autoidentificación explícita del autor más allá de 'Santiago, siervo de Dios' (Stg 1:1). Confianza reducida en 0.05.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08"
+      },
+      {
+        "campo": "año.desde / año.hasta",
+        "razon": "La fecha se fijó en c. 44-49 d.C. siguiendo la posición reformada conservadora, basada en la ausencia de referencia al Concilio de Jerusalén y en el uso temprano de 'sinagoga' para la asamblea cristiana. Es una inferencia basada en evidencia interna, no una fecha atestiguada externamente. Confianza reducida en 0.05.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08"
+      },
+      {
+        "campo": "contextoHistorico.fuentesANE",
+        "razon": "Para Santiago (libro del NT), el campo 'fuentesANE' se reinterpretó incluyendo literatura sapiencial judía intertestamentaria (Eclesiástico, Sabiduría de Salomón) y papiros grecorromanos, en lugar de documentos del Cercano Oriente Antiguo propiamente dichos, siguiendo la instrucción de usar paralelos grecorromanos/judíos intertestamentarios para libros del NT.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08"
+      },
+      {
+        "campo": "personajes[3].biografiaHistorica.nivelEvidencia (Job)",
+        "razon": "No existe evidencia arqueológica o extrabíblica que corrobore a Job como individuo histórico específico; la ubicación de la 'tierra de Uz' es imprecisa y el único trasfondo disponible es el paralelo genérico de la literatura mesopotámica del 'sufriente justo'. Nivel de evidencia calificado como 'especulativo'. Confianza reducida en 0.15.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-08T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline v1.5.0",
+      "rol": "administrador",
+      "fechaRevision": "2026-07-08T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 4,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": false,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

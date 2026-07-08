@@ -1762,7 +1762,8 @@
       "ordenCanon": 59,
       "capitulosTotal": 5,
       "divisionColor": "#D06898",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "santiago.json",
       "razon": {
         "es": "La epístola de la fe activa: 'la fe sin obras está muerta' (Stg 2:26) — no contradice a Pablo (justificación) sino complementa: la fe justificante se manifiesta necesariamente en obediencia práctica.",
         "en": "The epistle of active faith: 'faith without works is dead' (James 2:26) — does not contradict Paul (justification) but complements: justifying faith necessarily manifests in practical obedience.",
@@ -1908,12 +1909,13 @@
       "ordenCanon": 66,
       "capitulosTotal": 22,
       "divisionColor": "#CC3848",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Cierra el canon bíblico con la visión cósmica de la victoria final del Cordero, la caída de Babilonia (Roma imperial y todo sistema anti-Dios), la nueva creación y la nueva Jerusalén — el cumplimiento de todo lo que el Génesis prometió.",
         "en": "Closes the biblical canon with the cosmic vision of the Lamb's final victory, the fall of Babylon (imperial Rome and every anti-God system), the new creation, and the new Jerusalem — the fulfillment of everything Genesis promised.",
         "pt": "Fecha o cânon bíblico com a visão cósmica da vitória final do Cordeiro, a queda da Babilônia (Roma imperial e todo sistema anti-Deus), a nova criação e a nova Jerusalém — o cumprimento de tudo o que Gênesis prometeu."
-      }
+      },
+      "dataFile": "revelation.json"
     }
   ]
 }

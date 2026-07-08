@@ -2073,5 +2073,125 @@
       "en": "SENT COWORKER",
       "pt": "COLABORADOR ENVIADO"
     }
+  },
+  "Jesucristo (el Cordero / el Jinete Fiel y Verdadero)": {
+    "id": "jesucristo-cordero",
+    "color": "#7B3F9E",
+    "init": "ΙΧ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "EL CORDERO INMOLADO",
+      "en": "THE SLAIN LAMB",
+      "pt": "O CORDEIRO IMOLADO"
+    }
+  },
+  "Juan (el vidente)": {
+    "id": "juan-vidente",
+    "color": "#2E6B8B",
+    "init": "Ιω",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "EL VIDENTE DE PATMOS",
+      "en": "THE SEER OF PATMOS",
+      "pt": "O VIDENTE DE PATMOS"
+    }
+  },
+  "Satanás (el Dragón / la Serpiente Antigua)": {
+    "id": "satanas-dragon",
+    "color": "#8B1A2B",
+    "init": "Σα",
+    "xCh": 12,
+    "side": "above",
+    "badge": {
+      "es": "LA SERPIENTE ANTIGUA",
+      "en": "THE ANCIENT SERPENT",
+      "pt": "A ANTIGA SERPENTE"
+    }
+  },
+  "La Bestia del Mar (el Anticristo)": {
+    "id": "bestia-mar",
+    "color": "#8B4513",
+    "init": "θη",
+    "xCh": 13,
+    "side": "below",
+    "badge": {
+      "es": "EL ANTICRISTO",
+      "en": "THE ANTICHRIST",
+      "pt": "O ANTICRISTO"
+    }
+  },
+  "El Falso Profeta (la Bestia de la Tierra)": {
+    "id": "falso-profeta",
+    "color": "#6B5B1F",
+    "init": "ψπ",
+    "xCh": 13,
+    "side": "above",
+    "badge": {
+      "es": "EL FALSO PROFETA",
+      "en": "THE FALSE PROPHET",
+      "pt": "O FALSO PROFETA"
+    }
+  },
+  "Babilonia la Grande (la Gran Ramera)": {
+    "id": "babilonia-ramera",
+    "color": "#A03060",
+    "init": "Βα",
+    "xCh": 17,
+    "side": "above",
+    "badge": {
+      "es": "LA GRAN RAMERA",
+      "en": "THE GREAT PROSTITUTE",
+      "pt": "A GRANDE PROSTITUTA"
+    }
+  },
+  "Miguel el Arcángel": {
+    "id": "miguel-arcangel",
+    "color": "#3E6B8B",
+    "init": "Μχ",
+    "xCh": 12,
+    "side": "below",
+    "badge": {
+      "es": "EL ARCÁNGEL GUERRERO",
+      "en": "THE WARRIOR ARCHANGEL",
+      "pt": "O ARCANJO GUERREIRO"
+    }
+  },
+  "La Mujer Vestida de Sol": {
+    "id": "mujer-vestida-sol",
+    "color": "#D4A017",
+    "init": "γυ",
+    "xCh": 12,
+    "side": "above",
+    "badge": {
+      "es": "EL PUEBLO DEL PACTO",
+      "en": "THE COVENANT PEOPLE",
+      "pt": "O POVO DO PACTO"
+    }
+  },
+  "Santiago": {
+    "id": "santiago",
+    "color": "#2E5A4A",
+    "init": "ΙΑ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PASTOR DE LA DISPERSIÓN",
+      "en": "PASTOR OF THE DISPERSION",
+      "pt": "PASTOR DA DISPERSÃO"
+    }
+  },
+  "Job": {
+    "id": "job",
+    "color": "#5A4A7A",
+    "init": "אי",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "EJEMPLO DE PERSEVERANCIA",
+      "en": "EXAMPLE OF ENDURANCE",
+      "pt": "EXEMPLO DE PERSEVERANÇA"
+    }
   }
 }
