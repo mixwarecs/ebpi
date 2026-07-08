@@ -1,0 +1,1595 @@
+{
+  "id": 56,
+  "testamento": "Nuevo",
+  "division": "Epístolas Paulinas",
+  "titulo": {
+    "es": "Tito",
+    "en": "Titus",
+    "pt": "Tito"
+  },
+  "tituloOriginal": "Πρὸς Τίτον",
+  "transliteracion": "Pros Titon",
+  "significado": {
+    "es": "A Tito — el nombre griego Τίτος (Titos) es de etimología incierta, posiblemente relacionado con el latín \"honroso\" o de origen puramente griego sin significado etimológico claro; Tito era un gentil griego, colaborador de confianza de Pablo",
+    "en": "To Titus — the Greek name Τίτος (Titos) is of uncertain etymology, possibly related to a Latin word for \"honored\" or of purely Greek origin with no clear etymological meaning; Titus was a Greek Gentile, a trusted coworker of Paul",
+    "pt": "A Tito — o nome grego Τίτος (Titos) é de etimologia incerta, possivelmente relacionado ao latim \"honroso\" ou de origem puramente grega sem significado etimológico claro; Tito era um gentio grego, colaborador de confiança de Paulo"
+  },
+  "resumenGeneral": {
+    "es": "Tito abre con un saludo doctrinalmente denso que ya anticipa el argumento de la carta: el conocimiento de la verdad que es según la piedad, fundado en la esperanza de vida eterna prometida por Dios (Tit 1:1–3). El argumento avanza inmediatamente a la tarea concreta encomendada a Tito: designar ancianos calificados en cada ciudad de Creta y silenciar a los falsos maestros de la circuncisión que trastornan casas enteras por ganancia deshonesta (Tit 1:5–16). Sobre esa base organizativa, la carta gira hacia la instrucción ética detallada para cada grupo de la congregación —ancianos, ancianas, jóvenes, siervos— (Tit 2:1–10), fundamentándola no en el mero deber sino en la gracia de Dios que se ha manifestado trayendo salvación (Tit 2:11–14), uno de los pasajes cristológicos más densos del NT en tan poco espacio. El clímax doctrinal llega en el capítulo final: fuimos salvos no por obras de justicia que nosotros hubiéramos hecho, sino según su misericordia, por el lavamiento de la regeneración y la renovación del Espíritu Santo (Tit 3:4–7), de modo que las buenas obras, lejos de ser el fundamento de la salvación, son su fruto necesario (Tit 3:8,14). La carta cierra con instrucciones prácticas de viaje y saludos finales (Tit 3:12–15), dejando como legado el manual más compacto del NT que une organización eclesiástica sólida con una confesión de gracia igualmente sólida.",
+    "en": "Titus opens with a doctrinally dense greeting that already anticipates the letter's argument: the knowledge of the truth that accords with godliness, grounded in the hope of eternal life promised by God (Tit 1:1–3). The argument moves immediately to the concrete task entrusted to Titus: appointing qualified elders in every town of Crete and silencing the circumcision party's false teachers who upset whole households for shameful gain (Tit 1:5–16). On that organizational foundation, the letter turns to detailed ethical instruction for every group in the congregation — older men, older women, young people, servants — (Tit 2:1–10), grounding it not in mere duty but in the grace of God that has appeared bringing salvation (Tit 2:11–14), one of the NT's most doctrinally dense christological passages in so little space. The doctrinal climax arrives in the final chapter: we were saved not by works done in righteousness that we had done, but according to his own mercy, through the washing of regeneration and renewal of the Holy Spirit (Tit 3:4–7), so that good works, far from being salvation's foundation, are its necessary fruit (Tit 3:8,14). The letter closes with practical travel instructions and final greetings (Tit 3:12–15), leaving behind the NT's most compact manual joining solid church organization with an equally solid confession of grace.",
+    "pt": "Tito abre com uma saudação doutrinariamente densa que já antecipa o argumento da carta: o conhecimento da verdade que é segundo a piedade, fundado na esperança da vida eterna prometida por Deus (Tt 1:1–3). O argumento avança imediatamente para a tarefa concreta confiada a Tito: designar presbíteros qualificados em cada cidade de Creta e silenciar os falsos mestres da circuncisão que transtornam casas inteiras por ganância desonesta (Tt 1:5–16). Sobre essa base organizacional, a carta se volta para a instrução ética detalhada para cada grupo da congregação — anciãos, anciãs, jovens, servos — (Tt 2:1–10), fundamentando-a não no mero dever, mas na graça de Deus que se manifestou trazendo salvação (Tt 2:11–14), uma das passagens cristológicas mais densas do NT em tão pouco espaço. O clímax doutrinário chega no capítulo final: fomos salvos não por obras de justiça que nós tivéssemos feito, mas segundo sua misericórdia, pelo lavar da regeneração e da renovação do Espírito Santo (Tt 3:4–7), de modo que as boas obras, longe de serem o fundamento da salvação, são seu fruto necessário (Tt 3:8,14). A carta se encerra com instruções práticas de viagem e saudações finais (Tt 3:12–15), deixando como legado o manual mais compacto do NT que une organização eclesiástica sólida com uma confissão de graça igualmente sólida."
+  },
+  "capitulosTotal": 3,
+  "autor": {
+    "nombre": {
+      "es": "Pablo",
+      "en": "Paul",
+      "pt": "Paulo"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "La tradición reformada sostiene la autoría paulina de Tito, atestiguada por la propia autodenominación de la carta (Tit 1:1) y por su recepción unánime en la iglesia primitiva (canon de Muratori, Ireneo, Tertuliano). La crítica moderna cuestiona la autoría por el vocabulario distintivo, la eclesiología más desarrollada y la ausencia de un episodio de viaje a Creta en Hechos, pero estas objeciones se explican adecuadamente por el uso de un amanuense, la naturaleza administrativa y no polémica del contenido, y un ministerio posterior a Hechos 28 durante el cual Pablo, liberado de su primera prisión romana, retomó sus viajes misioneros antes de su arresto final.",
+      "en": "The Reformed tradition holds to Pauline authorship of Titus, attested by the letter's own self-identification (Tit 1:1) and by its unanimous reception in the early church (the Muratorian Canon, Irenaeus, Tertullian). Modern criticism questions authorship on grounds of distinctive vocabulary, more developed ecclesiology, and the absence of a Cretan travel episode in Acts, but these objections are adequately explained by the use of an amanuensis, the administrative rather than polemical nature of the content, and a ministry period after Acts 28 during which Paul, released from his first Roman imprisonment, resumed his missionary travels before his final arrest.",
+      "pt": "A tradição reformada sustenta a autoria paulina de Tito, atestada pela autodenominação da própria carta (Tt 1:1) e por sua recepção unânime na igreja primitiva (cânon de Muratori, Irineu, Tertuliano). A crítica moderna questiona a autoria pelo vocabulário distintivo, pela eclesiologia mais desenvolvida e pela ausência de um episódio de viagem a Creta em Atos, mas essas objeções se explicam adequadamente pelo uso de um amanuense, pela natureza administrativa e não polêmica do conteúdo, e por um ministério posterior a Atos 28, durante o qual Paulo, liberto de sua primeira prisão romana, retomou suas viagens missionárias antes de sua prisão final."
+    }
+  },
+  "año": {
+    "desde": 62,
+    "hasta": 66,
+    "display": {
+      "es": "Fecha de escritura: c. 62–66 d.C., tras la liberación de la primera prisión romana de Pablo",
+      "en": "Date of writing: c. AD 62–66, following Paul's release from his first Roman imprisonment",
+      "pt": "Data de escrita: c. 62–66 d.C., após a libertação de Paulo de sua primeira prisão romana"
+    }
+  },
+  "idiomaOriginal": "Griego",
+  "escritoEn": {
+    "es": "Posiblemente Macedonia o Éfeso, mientras Pablo se disponía a pasar el invierno en Nicópolis (Tit 3:12), en el período de viajes misioneros posterior a su primera prisión romana",
+    "en": "Possibly Macedonia or Ephesus, as Paul was preparing to winter at Nicopolis (Tit 3:12), during the period of missionary travel following his first Roman imprisonment",
+    "pt": "Possivelmente Macedônia ou Éfeso, enquanto Paulo se preparava para passar o inverno em Nicópolis (Tt 3:12), no período de viagens missionárias posterior à sua primeira prisão romana"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Romano Temprano (63 a.C.–70 d.C.)",
+      "en": "Early Roman Period (63 BC–AD 70)",
+      "pt": "Período Romano Inicial (63 a.C.–70 d.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Creta",
+          "en": "Crete",
+          "pt": "Creta"
+        },
+        "identificacionModerna": {
+          "es": "Isla de Creta, Grecia",
+          "en": "Island of Crete, Greece",
+          "pt": "Ilha de Creta, Grécia"
+        },
+        "significancia": {
+          "es": "Gran isla mediterránea, provincia romana unida administrativamente a Cirenaica desde el 27 a.C., con capital en Gortina; lugar donde Pablo y Tito habían trabajado juntos y donde Tito quedó encargado de completar la organización de las iglesias, enfrentando una reputación cultural de deshonestidad e indisciplina moral (Tit 1:5,12–13)",
+          "en": "A large Mediterranean island, a Roman province administratively joined to Cyrenaica since 27 BC, with its capital at Gortyna; the place where Paul and Titus had worked together and where Titus was left in charge of completing the organization of the churches, confronting a cultural reputation for dishonesty and moral indiscipline (Tit 1:5,12–13)",
+          "pt": "Grande ilha mediterrânea, província romana unida administrativamente à Cirenaica desde 27 a.C., com capital em Gortina; lugar onde Paulo e Tito haviam trabalhado juntos e onde Tito ficou encarregado de completar a organização das igrejas, enfrentando uma reputação cultural de desonestidade e indisciplina moral (Tt 1:5,12–13)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Nicópolis",
+          "en": "Nicopolis",
+          "pt": "Nicópolis"
+        },
+        "identificacionModerna": {
+          "es": "Cerca de la moderna Préveza, Épiro, Grecia",
+          "en": "Near modern Preveza, Epirus, Greece",
+          "pt": "Perto da moderna Préveza, Épiro, Grécia"
+        },
+        "significancia": {
+          "es": "Ciudad fundada por Augusto para conmemorar su victoria en Accio (31 a.C.), donde Pablo planeaba pasar el invierno y a donde pidió a Tito que se reuniera con él tan pronto enviara a Artemas o a Tíquico para relevarlo en Creta (Tit 3:12)",
+          "en": "A city founded by Augustus to commemorate his victory at Actium (31 BC), where Paul planned to winter and to which he asked Titus to join him as soon as he sent Artemas or Tychicus to relieve him in Crete (Tit 3:12)",
+          "pt": "Cidade fundada por Augusto para comemorar sua vitória em Áccio (31 a.C.), onde Paulo planejava passar o inverno e para onde pediu que Tito se reunisse com ele assim que enviasse Artemas ou Tíquico para substituí-lo em Creta (Tt 3:12)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Roma",
+          "en": "Rome",
+          "pt": "Roma"
+        },
+        "identificacionModerna": {
+          "es": "Roma, Italia",
+          "en": "Rome, Italy",
+          "pt": "Roma, Itália"
+        },
+        "significancia": {
+          "es": "Ciudad de la primera prisión de Pablo (Hch 28:16,30–31), cuya conclusión sin veredicto narrado en Hechos es coherente con la tradición reformada de que Pablo fue liberado y reanudó sus viajes misioneros, período histórico que enmarca la composición de esta carta",
+          "en": "The city of Paul's first imprisonment (Acts 28:16,30–31), whose conclusion without a narrated verdict in Acts is consistent with the Reformed tradition that Paul was released and resumed his missionary travels, the historical period framing this letter's composition",
+          "pt": "Cidade da primeira prisão de Paulo (At 28:16,30–31), cuja conclusão sem veredito narrado em Atos é coerente com a tradição reformada de que Paulo foi libertado e retomou suas viagens missionárias, período histórico que emoldura a composição desta carta"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Romano — provincia de Creta y Cirenaica",
+          "en": "Roman Empire — province of Crete and Cyrenaica",
+          "pt": "Império Romano — província de Creta e Cirenaica"
+        },
+        "rolEnElTexto": {
+          "es": "Marco administrativo bajo el cual Creta operaba como provincia senatorial gobernada por un procónsul, con cien ciudades tradicionalmente atribuidas a la isla, explicando la magnitud de la tarea de designar ancianos \"en cada ciudad\" (Tit 1:5)",
+          "en": "The administrative framework under which Crete operated as a senatorial province governed by a proconsul, with a hundred cities traditionally attributed to the island, explaining the scale of the task of appointing elders \"in every town\" (Tit 1:5)",
+          "pt": "Marco administrativo sob o qual Creta operava como província senatorial governada por um procônsul, com cem cidades tradicionalmente atribuídas à ilha, explicando a magnitude da tarefa de designar presbíteros \"em cada cidade\" (Tt 1:5)"
+        },
+        "estadoArqueologico": {
+          "es": "Bien documentada por inscripciones administrativas romanas y por las ruinas de Gortina, capital provincial, que confirman la organización municipal densa de la isla en el siglo I d.C.",
+          "en": "Well documented by Roman administrative inscriptions and by the ruins of Gortyna, the provincial capital, confirming the island's dense municipal organization in the first century AD",
+          "pt": "Bem documentada por inscrições administrativas romanas e pelas ruínas de Gortina, capital provincial, que confirmam a organização municipal densa da ilha no século I d.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cretenses (cultura helenística cretense)",
+          "en": "Cretans (Hellenistic Cretan culture)",
+          "pt": "Cretenses (cultura helenística cretense)"
+        },
+        "rolEnElTexto": {
+          "es": "Población destinataria indirecta de la carta, cuya reputación de deshonestidad y desenfreno moral Pablo cita directamente de un \"profeta de ellos mismos\" —el poeta-filósofo Epiménides— para fundamentar la necesidad de reprensión severa (Tit 1:12–13)",
+          "en": "The letter's indirect target population, whose reputation for dishonesty and moral excess Paul quotes directly from \"a prophet of their own\" — the poet-philosopher Epimenides — to ground the need for sharp rebuke (Tit 1:12–13)",
+          "pt": "População destinatária indireta da carta, cuja reputação de desonestidade e desregramento moral Paulo cita diretamente de \"um profeta deles mesmos\" — o poeta-filósofo Epimênides — para fundamentar a necessidade de repreensão severa (Tt 1:12–13)"
+        },
+        "estadoArqueologico": {
+          "es": "La reputación cretense de falsedad (el llamado \"cretismo\", cretizein en griego, \"mentir como cretense\") está ampliamente atestiguada en fuentes literarias grecorromanas independientes de Pablo, incluidas Calímaco y Plutarco",
+          "en": "The Cretan reputation for falsehood (the so-called \"Cretism\", cretizein in Greek, \"to lie like a Cretan\") is widely attested in Greco-Roman literary sources independent of Paul, including Callimachus and Plutarch",
+          "pt": "A reputação cretense de falsidade (o chamado \"cretismo\", cretizein em grego, \"mentir como cretense\") está amplamente atestada em fontes literárias greco-romanas independentes de Paulo, incluindo Calímaco e Plutarco"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judaizantes (\"los de la circuncisión\")",
+          "en": "Judaizers (\"those of the circumcision\")",
+          "pt": "Judaizantes (\"os da circuncisão\")"
+        },
+        "rolEnElTexto": {
+          "es": "Falsos maestros de origen judío que enseñaban \"fábulas judaicas\" y mandamientos de hombres (Tit 1:10,14), trastornando familias enteras por ganancia deshonesta, principal amenaza doctrinal que Tito debía confrontar en Creta",
+          "en": "False teachers of Jewish origin who taught \"Jewish myths\" and the commands of men (Tit 1:10,14), upsetting whole families for shameful gain, the principal doctrinal threat Titus had to confront in Crete",
+          "pt": "Falsos mestres de origem judaica que ensinavam \"fábulas judaicas\" e mandamentos de homens (Tt 1:10,14), transtornando famílias inteiras por ganância desonesta, principal ameaça doutrinária que Tito devia enfrentar em Creta"
+        },
+        "estadoArqueologico": {
+          "es": "La presencia judía en Creta está confirmada por Filón y Josefo, que mencionan comunidades judías establecidas en la isla desde el período helenístico",
+          "en": "The Jewish presence in Crete is confirmed by Philo and Josephus, who mention Jewish communities established on the island since the Hellenistic period",
+          "pt": "A presença judaica em Creta está confirmada por Fílon e Josefo, que mencionam comunidades judaicas estabelecidas na ilha desde o período helenístico"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "No existen hallazgos arqueológicos que documenten directamente el ministerio de Tito en Creta, dado el carácter breve y ocasional de la carta. Sin embargo, las ruinas de Gortina (capital provincial romana) y de otras ciudades cretenses confirman la densa red municipal de la isla que explica la magnitud de la tarea de \"designar ancianos en cada ciudad\" (Tit 1:5), y fuentes literarias grecorromanas independientes confirman de manera notable la reputación cultural de deshonestidad cretense que Pablo cita de Epiménides (Tit 1:12).",
+      "en": "No archaeological finds directly document Titus's ministry in Crete, given the letter's brief and occasional character. However, the ruins of Gortyna (the Roman provincial capital) and of other Cretan cities confirm the island's dense municipal network, which explains the scale of the task of \"appointing elders in every town\" (Tit 1:5), and independent Greco-Roman literary sources notably confirm the cultural reputation for Cretan dishonesty that Paul quotes from Epimenides (Tit 1:12).",
+      "pt": "Não existem achados arqueológicos que documentem diretamente o ministério de Tito em Creta, dado o caráter breve e ocasional da carta. No entanto, as ruínas de Gortina (capital provincial romana) e de outras cidades cretenses confirmam a densa rede municipal da ilha, que explica a magnitude da tarefa de \"designar presbíteros em cada cidade\" (Tt 1:5), e fontes literárias greco-romanas independentes confirmam de maneira notável a reputação cultural de desonestidade cretense que Paulo cita de Epimênides (Tt 1:12)."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Epiménides de Cnosos, Cretica",
+          "en": "Epimenides of Knossos, Cretica",
+          "pt": "Epimênides de Cnossos, Cretica"
+        },
+        "origen": {
+          "es": "Poema filosófico-religioso cretense del siglo VI a.C., atribuido al semilegendario poeta-vidente Epiménides, del que Pablo cita textualmente el verso \"los cretenses siempre son mentirosos, malas bestias, glotones ociosos\" (Tit 1:12)",
+          "en": "A sixth-century BC Cretan philosophical-religious poem attributed to the semi-legendary poet-seer Epimenides, from which Paul quotes verbatim the line \"Cretans are always liars, evil beasts, lazy gluttons\" (Tit 1:12)",
+          "pt": "Poema filosófico-religioso cretense do século VI a.C., atribuído ao semilendário poeta-vidente Epimênides, do qual Paulo cita textualmente o verso \"os cretenses são sempre mentirosos, bestas malignas, glutões preguiçosos\" (Tt 1:12)"
+        },
+        "relevancia": {
+          "es": "Demuestra que Pablo empleaba deliberadamente la literatura pagana conocida por sus destinatarios para reforzar su argumento, un recurso retórico que también usa en Hechos 17:28 citando a Arato, subrayando que su crítica a los falsos maestros no era xenófoba sino apoyada en la propia autocrítica cultural cretense",
+          "en": "It demonstrates that Paul deliberately employed pagan literature known to his readers to reinforce his argument, a rhetorical device he also uses in Acts 17:28 quoting Aratus, underscoring that his critique of the false teachers was not xenophobic but grounded in Crete's own cultural self-criticism",
+          "pt": "Demonstra que Paulo empregava deliberadamente a literatura pagã conhecida por seus destinatários para reforçar seu argumento, recurso retórico que também usa em Atos 17:28 citando Aratos, ressaltando que sua crítica aos falsos mestres não era xenófoba, mas apoiada na própria autocrítica cultural cretense"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Dos debates dominan el estudio histórico de esta carta. Primero, su autenticidad paulina: la crítica moderna cuestiona la autoría por el vocabulario distintivo y la eclesiología más institucionalizada que en las cartas indiscutidas, proponiendo un discípulo posterior; la tradición reformada sostiene la autoría paulina directa, explicando las diferencias por el uso de un amanuense, la naturaleza administrativa del contenido y una etapa tardía del ministerio de Pablo. Segundo, la ubicación cronológica del ministerio de Tito en Creta, no narrado en Hechos: la posición reformada mayoritaria sostiene que ocurrió durante un período de viajes misioneros posterior a la primera prisión romana de Pablo (implícito en el final abierto de Hechos 28 y confirmado por la tradición patrística temprana, incluido el testimonio de Clemente de Roma sobre los viajes de Pablo \"hasta los límites de occidente\").",
+      "en": "Two debates dominate the historical study of this letter. First, its Pauline authenticity: modern criticism questions authorship on grounds of distinctive vocabulary and more institutionalized ecclesiology than in the undisputed letters, proposing a later disciple; the Reformed tradition holds to direct Pauline authorship, explaining the differences by the use of an amanuensis, the administrative nature of the content, and a late stage of Paul's ministry. Second, the chronological placement of Titus's ministry in Crete, not narrated in Acts: the majority Reformed position holds that it occurred during a period of missionary travel following Paul's first Roman imprisonment (implied by the open ending of Acts 28 and confirmed by early patristic tradition, including Clement of Rome's testimony about Paul's travels \"to the limits of the west\").",
+      "pt": "Dois debates dominam o estudo histórico desta carta. Primeiro, sua autenticidade paulina: a crítica moderna questiona a autoria pelo vocabulário distintivo e pela eclesiologia mais institucionalizada do que nas cartas indiscutidas, propondo um discípulo posterior; a tradição reformada sustenta a autoria paulina direta, explicando as diferenças pelo uso de um amanuense, a natureza administrativa do conteúdo e uma etapa tardia do ministério de Paulo. Segundo, a localização cronológica do ministério de Tito em Creta, não narrado em Atos: a posição reformada majoritária sustenta que ocorreu durante um período de viagens missionárias posterior à primeira prisão romana de Paulo (implícito no final aberto de Atos 28 e confirmado pela tradição patrística antiga, incluindo o testemunho de Clemente de Roma sobre as viagens de Paulo \"até os limites do ocidente\")."
+    },
+    "cronologiaInterna": {
+      "es": "La carta implica esta secuencia: (1) Pablo y Tito trabajan juntos evangelizando Creta; (2) Pablo parte, dejando a Tito para \"poner en orden lo que quedaba por corregir\" y designar ancianos en cada ciudad (Tit 1:5); (3) Tito enfrenta la oposición de falsos maestros judaizantes que ya estaban trastornando hogares enteros (Tit 1:10–11); (4) Pablo escribe esta carta con instrucciones detalladas de organización eclesiástica y doctrina, mientras planea pasar el invierno en Nicópolis (Tit 3:12); (5) Pablo pide que Tito se reúna con él en Nicópolis tan pronto envíe a Artemas o Tíquico para relevarlo (Tit 3:12); (6) Pablo pide además que se ayude en su viaje a Zenas el intérprete de la ley y a Apolos (Tit 3:13).",
+      "en": "The letter implies this sequence: (1) Paul and Titus work together evangelizing Crete; (2) Paul departs, leaving Titus to \"put what remained into order\" and appoint elders in every town (Tit 1:5); (3) Titus faces opposition from Judaizing false teachers who were already upsetting whole households (Tit 1:10–11); (4) Paul writes this letter with detailed instructions on church organization and doctrine, while planning to winter at Nicopolis (Tit 3:12); (5) Paul asks Titus to join him at Nicopolis as soon as he sends Artemas or Tychicus to relieve him (Tit 3:12); (6) Paul further asks that Zenas the lawyer and Apollos be helped on their journey (Tit 3:13).",
+      "pt": "A carta implica esta sequência: (1) Paulo e Tito trabalham juntos evangelizando Creta; (2) Paulo parte, deixando Tito para \"pôr em ordem o que restava\" e designar presbíteros em cada cidade (Tt 1:5); (3) Tito enfrenta a oposição de falsos mestres judaizantes que já estavam transtornando lares inteiros (Tt 1:10–11); (4) Paulo escreve esta carta com instruções detalhadas de organização eclesiástica e doutrina, enquanto planeja passar o inverno em Nicópolis (Tt 3:12); (5) Paulo pede que Tito se reúna com ele em Nicópolis assim que enviar Artemas ou Tíquico para substituí-lo (Tt 3:12); (6) Paulo pede ainda que se ajude em sua viagem a Zenas, o intérprete da lei, e a Apolo (Tt 3:13)."
+    }
+  },
+  "ordenEnDivision": 12,
+  "ordenCanon": 56,
+  "historiaRedentora": {
+    "epoca": "Aplicación",
+    "contextoPacto": "Nuevo",
+    "enfoqueCristologico": {
+      "es": "Tito contiene una de las confesiones cristológicas más densas del NT en tan poco espacio: la gracia de Dios se ha \"manifestado\" (epiphanē, Tit 2:11) trayendo salvación, y los creyentes aguardan la \"bienaventurada esperanza y la manifestación de la gloria de nuestro gran Dios y Salvador Jesucristo\" (Tit 2:13), texto citado frecuentemente junto a Romanos 9:5 como una de las afirmaciones más claras del NT sobre la deidad de Cristo. Cristo \"se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo propio, celoso de buenas obras\" (Tit 2:14), y es por medio de él que Dios derramó ricamente el Espíritu Santo sobre los creyentes (Tit 3:5–6).",
+      "en": "Titus contains one of the NT's densest christological confessions in so little space: the grace of God has \"appeared\" (epiphanē, Tit 2:11) bringing salvation, and believers await the \"blessed hope, the appearing of the glory of our great God and Savior Jesus Christ\" (Tit 2:13), a text frequently cited alongside Romans 9:5 as one of the NT's clearest affirmations of Christ's deity. Christ \"gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works\" (Tit 2:14), and it is through him that God richly poured out the Holy Spirit on believers (Tit 3:5–6).",
+      "pt": "Tito contém uma das confissões cristológicas mais densas do NT em tão pouco espaço: a graça de Deus se \"manifestou\" (epiphanē, Tt 2:11) trazendo salvação, e os crentes aguardam a \"bem-aventurada esperança e o aparecimento da glória do nosso grande Deus e Salvador Jesus Cristo\" (Tt 2:13), texto frequentemente citado junto com Romanos 9:5 como uma das afirmações mais claras do NT sobre a divindade de Cristo. Cristo \"se deu a si mesmo por nós para nos remir de toda iniquidade e purificar para si um povo particular, zeloso de boas obras\" (Tt 2:14), e é por meio dele que Deus derramou ricamente o Espírito Santo sobre os crentes (Tt 3:5–6)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Las cualificaciones de santidad y gobierno de la casa exigidas a los ancianos (Tit 1:6–9) recogen y transforman los requisitos de pureza exigidos a los sacerdotes levíticos (Lv 21:16–23), aplicándolos ahora no al ministerio sacrificial sino a la guarda fiel de la sana doctrina en el Nuevo Pacto",
+        "en": "The holiness and household-governance qualifications required of elders (Tit 1:6–9) take up and transform the purity requirements demanded of Levitical priests (Lev 21:16–23), now applying them not to sacrificial ministry but to the faithful guarding of sound doctrine in the New Covenant",
+        "pt": "As qualificações de santidade e governo da casa exigidas aos presbíteros (Tt 1:6–9) retomam e transformam os requisitos de pureza exigidos aos sacerdotes levíticos (Lv 21:16–23), aplicando-os agora não ao ministério sacrificial, mas à guarda fiel da sã doutrina na Nova Aliança"
+      },
+      {
+        "es": "El \"lavamiento de la regeneración\" (Tit 3:5) recoge las abluciones ceremoniales del Antiguo Pacto (Lv 16; Nm 19) que prefiguraban la purificación interior definitiva que solo el Espíritu Santo realiza en el Nuevo Pacto",
+        "en": "The \"washing of regeneration\" (Tit 3:5) picks up the ceremonial ablutions of the Old Covenant (Lev 16; Num 19) that prefigured the definitive inward purification only the Holy Spirit accomplishes in the New Covenant",
+        "pt": "O \"lavar da regeneração\" (Tt 3:5) retoma as abluções cerimoniais da Antiga Aliança (Lv 16; Nm 19) que prefiguravam a purificação interior definitiva que somente o Espírito Santo realiza na Nova Aliança"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Tito ofrece el manual más compacto del NT de organización eclesiástica combinado con una confesión de gracia igualmente concentrada: en apenas tres capítulos une los requisitos de los ancianos (Tit 1:5–9), instrucción ética diferenciada por grupo social y etario (Tit 2:1–10) y una de las declaraciones cristológicas más claras del NT sobre la deidad de Cristo (Tit 2:13). Es también uno de los pocos textos del NT que articula explícitamente que las buenas obras son el fruto necesario, no el fundamento, de la salvación (Tit 3:5,8), formulación que se convertiría en piedra angular de la soteriología reformada.",
+    "en": "Titus offers the NT's most compact manual of church organization combined with an equally concentrated confession of grace: in barely three chapters it unites the qualifications for elders (Tit 1:5–9), ethical instruction differentiated by social and age group (Tit 2:1–10), and one of the NT's clearest statements of Christ's deity (Tit 2:13). It is also one of the few NT texts to explicitly articulate that good works are the necessary fruit, not the foundation, of salvation (Tit 3:5,8), a formulation that would become a cornerstone of Reformed soteriology.",
+    "pt": "Tito oferece o manual mais compacto do NT de organização eclesiástica combinado com uma confissão de graça igualmente concentrada: em apenas três capítulos une os requisitos dos presbíteros (Tt 1:5–9), instrução ética diferenciada por grupo social e etário (Tt 2:1–10) e uma das declarações cristológicas mais claras do NT sobre a divindade de Cristo (Tt 2:13). É também um dos poucos textos do NT que articula explicitamente que as boas obras são o fruto necessário, não o fundamento, da salvação (Tt 3:5,8), formulação que se tornaria pedra angular da soteriologia reformada."
+  },
+  "genero": {
+    "es": "Epístola pastoral — carta personal de un apóstol a su delegado con autoridad ministerial delegada, combinando instrucción de gobierno eclesiástico, polémica contra falsos maestros e instrucción ética por grupos sociales, del mismo género que 1 y 2 Timoteo",
+    "en": "Pastoral epistle — a personal letter from an apostle to his delegate with delegated ministerial authority, combining church-governance instruction, polemic against false teachers, and ethical instruction by social group, of the same genre as 1 and 2 Timothy",
+    "pt": "Epístola pastoral — carta pessoal de um apóstolo a seu delegado com autoridade ministerial delegada, combinando instrução de governo eclesiástico, polêmica contra falsos mestres e instrução ética por grupos sociais, do mesmo gênero que 1 e 2 Timóteo"
+  },
+  "palabraClave": {
+    "es": [
+      "Sana doctrina",
+      "Buenas obras"
+    ],
+    "en": [
+      "Sound doctrine",
+      "Good works"
+    ],
+    "pt": [
+      "Sã doutrina",
+      "Boas obras"
+    ]
+  },
+  "destinatario": {
+    "es": "Tito, delegado apostólico griego dejado por Pablo en la isla de Creta para completar la organización de las iglesias recién fundadas, designar ancianos calificados en cada ciudad y confrontar a falsos maestros judaizantes",
+    "en": "Titus, the Greek apostolic delegate whom Paul left on the island of Crete to complete the organization of the newly founded churches, appoint qualified elders in every town, and confront Judaizing false teachers",
+    "pt": "Tito, delegado apostólico grego deixado por Paulo na ilha de Creta para completar a organização das igrejas recém-fundadas, designar presbíteros qualificados em cada cidade e confrontar falsos mestres judaizantes"
+  },
+  "proposito": {
+    "es": "Histórico: Pablo escribe para instruir a Tito sobre cómo completar la organización de las iglesias cretenses —designando ancianos calificados en cada ciudad (Tit 1:5)—, silenciar a los falsos maestros de la circuncisión que trastornaban hogares enteros por ganancia deshonesta (Tit 1:10–11) y dar instrucción ética concreta adecuada a una cultura que el propio Pablo, citando a un poeta cretense, consideraba moralmente laxa (Tit 1:12–13). Teológico: fundamentar toda la instrucción ética y el orden eclesiástico en la manifestación de la gracia de Dios en Cristo (Tit 2:11–14), insistiendo en que la fe genuina se consagra a las buenas obras (Tit 3:8,14) como fruto necesario —no como base— de una salvación obrada por la misericordia de Dios y no por obras de justicia propia (Tit 3:5).",
+    "en": "Historical: Paul writes to instruct Titus on how to complete the organization of the Cretan churches — appointing qualified elders in every town (Tit 1:5) — silence the circumcision party's false teachers who were upsetting whole households for shameful gain (Tit 1:10–11), and give concrete ethical instruction suited to a culture Paul himself, quoting a Cretan poet, considered morally lax (Tit 1:12–13). Theological: to ground all ethical instruction and church order in the appearing of God's grace in Christ (Tit 2:11–14), insisting that genuine faith devotes itself to good works (Tit 3:8,14) as the necessary fruit — not the basis — of a salvation accomplished by God's mercy and not by works of self-righteousness (Tit 3:5).",
+    "pt": "Histórico: Paulo escreve para instruir Tito sobre como completar a organização das igrejas cretenses — designando presbíteros qualificados em cada cidade (Tt 1:5) —, silenciar os falsos mestres da circuncisão que transtornavam lares inteiros por ganância desonesta (Tt 1:10–11) e dar instrução ética concreta adequada a uma cultura que o próprio Paulo, citando um poeta cretense, considerava moralmente relaxada (Tt 1:12–13). Teológico: fundamentar toda a instrução ética e a ordem eclesiástica na manifestação da graça de Deus em Cristo (Tt 2:11–14), insistindo em que a fé genuína se consagra às boas obras (Tt 3:8,14) como fruto necessário — não como base — de uma salvação operada pela misericórdia de Deus e não por obras de justiça própria (Tt 3:5)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Pablo",
+        "en": "Paul",
+        "pt": "Paulo"
+      },
+      "hebreo": "Σαῦλος / Παῦλος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "Apóstol a los gentiles y autor de la carta, que escribe a su delegado Tito con instrucciones detalladas para organizar las iglesias de Creta y confrontar a los falsos maestros",
+        "en": "Apostle to the Gentiles and author of the letter, writing to his delegate Titus with detailed instructions for organizing the churches of Crete and confronting false teachers",
+        "pt": "Apóstolo aos gentios e autor da carta, escrevendo a seu delegado Tito com instruções detalhadas para organizar as igrejas de Creta e confrontar os falsos mestres"
+      },
+      "acciones": {
+        "es": "Se identifica como \"siervo de Dios y apóstol de Jesucristo\" para la fe de los escogidos (Tit 1:1); instruye a Tito sobre las cualificaciones de los ancianos (Tit 1:5–9); denuncia a los falsos maestros de la circuncisión (Tit 1:10–16); da instrucción ética para cada grupo de la congregación (Tit 2:1–10); expone la base de la gracia y la salvación (Tit 2:11–14; 3:4–7); pide que Tito se reúna con él en Nicópolis (Tit 3:12)",
+        "en": "Identifies himself as \"a servant of God and an apostle of Jesus Christ\" for the faith of God's elect (Tit 1:1); instructs Titus on the qualifications of elders (Tit 1:5–9); denounces the circumcision party's false teachers (Tit 1:10–16); gives ethical instruction for every group in the congregation (Tit 2:1–10); expounds the basis of grace and salvation (Tit 2:11–14; 3:4–7); asks Titus to join him at Nicopolis (Tit 3:12)",
+        "pt": "Identifica-se como \"servo de Deus e apóstolo de Jesus Cristo\" para a fé dos eleitos de Deus (Tt 1:1); instrui Tito sobre as qualificações dos presbíteros (Tt 1:5–9); denuncia os falsos mestres da circuncisão (Tt 1:10–16); dá instrução ética para cada grupo da congregação (Tt 2:1–10); expõe a base da graça e da salvação (Tt 2:11–14; 3:4–7); pede que Tito se reúna com ele em Nicópolis (Tt 3:12)"
+      },
+      "significadoTeologico": {
+        "es": "Modela al apóstol que delega autoridad ministerial real sin abandonar la supervisión doctrinal, capaz de combinar instrucción organizativa concreta con una de las exposiciones más densas del NT sobre la gracia salvadora de Dios",
+        "en": "He models the apostle who delegates real ministerial authority without abandoning doctrinal oversight, able to combine concrete organizational instruction with one of the NT's most doctrinally dense expositions of God's saving grace",
+        "pt": "Modela o apóstolo que delega autoridade ministerial real sem abandonar a supervisão doutrinária, capaz de combinar instrução organizacional concreta com uma das exposições mais densas do NT sobre a graça salvadora de Deus"
+      },
+      "tipo": {
+        "es": "No funciona como tipo; es instrumento del ministerio apostólico del Nuevo Pacto",
+        "en": "Does not function as a type; he is the instrument of New Covenant apostolic ministry",
+        "pt": "Não funciona como tipo; é instrumento do ministério apostólico da Nova Aliança"
+      },
+      "caracterMoral": {
+        "es": "Ejemplar: firme en la doctrina, organizador prudente, pastoralmente preciso al vincular ética y gracia",
+        "en": "Exemplary: firm in doctrine, a prudent organizer, pastorally precise in linking ethics and grace",
+        "pt": "Exemplar: firme na doutrina, organizador prudente, pastoralmente preciso ao vincular ética e graça"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Pablo saluda a Tito como \"verdadero hijo en la común fe\" (Tit 1:4), le instruye sobre el orden eclesiástico y la doctrina sana (Tit 1:5–3:11), y cierra con instrucciones prácticas de viaje y una bendición (Tit 3:12–15)",
+          "en": "Paul greets Titus as \"a true child in a common faith\" (Tit 1:4), instructs him on church order and sound doctrine (Tit 1:5–3:11), and closes with practical travel instructions and a blessing (Tit 3:12–15)",
+          "pt": "Paulo saúda Tito como \"verdadeiro filho segundo a fé comum\" (Tt 1:4), instrui-o sobre a ordem eclesiástica e a sã doutrina (Tt 1:5–3:11), e encerra com instruções práticas de viagem e uma bênção (Tt 3:12–15)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Tit 1:1",
+          "Tit 1:5",
+          "Tit 2:11-14"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Escrita, según la posición reformada mayoritaria, durante un período de viajes misioneros posterior a la primera prisión romana de Pablo (implícito por el final abierto de Hechos 28 y confirmado por la tradición patrística temprana)",
+          "en": "Written, according to the majority Reformed position, during a period of missionary travel following Paul's first Roman imprisonment (implied by the open ending of Acts 28 and confirmed by early patristic tradition)",
+          "pt": "Escrita, segundo a posição reformada majoritária, durante um período de viagens missionárias posterior à primeira prisão romana de Paulo (implícito pelo final aberto de Atos 28 e confirmado pela tradição patrística antiga)"
+        },
+        "fuentes": [
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología",
+              "Defensa de la autoría paulina"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El testimonio de Clemente de Roma sobre los viajes de Pablo \"hasta los límites de occidente\" concuerda con la implicación interna de esta carta de un ministerio posterior a Hechos 28",
+          "en": "Clement of Rome's testimony about Paul's travels \"to the limits of the west\" matches this letter's internal implication of a ministry period after Acts 28",
+          "pt": "O testemunho de Clemente de Roma sobre as viagens de Paulo \"até os limites do ocidente\" concorda com a implicação interna desta carta de um ministério posterior a Atos 28"
+        }
+      },
+      "versiculosAsociados": [
+        "Tit 1:1-4",
+        "Tit 1:5",
+        "Tit 3:12"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Ro",
+        "1Co",
+        "2Co",
+        "Gá",
+        "Ef",
+        "Fil",
+        "Col",
+        "1Ts",
+        "2Ts",
+        "1Ti",
+        "2Ti",
+        "Flm"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo cierra en esta carta el corpus de las epístolas pastorales dirigidas a delegados apostólicos, consolidando el patrón de transmisión ordenada de autoridad ministerial que 1 y 2 Timoteo también desarrollan",
+        "en": "Paul closes in this letter the corpus of pastoral epistles addressed to apostolic delegates, consolidating the pattern of orderly transmission of ministerial authority that 1 and 2 Timothy also develop",
+        "pt": "Paulo encerra nesta carta o corpus das epístolas pastorais dirigidas a delegados apostólicos, consolidando o padrão de transmissão ordenada de autoridade ministerial que 1 e 2 Timóteo também desenvolvem"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Tito",
+        "en": "Titus",
+        "pt": "Tito"
+      },
+      "hebreo": "Τίτος",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "Delegado apostólico griego, \"verdadero hijo\" de Pablo en la fe, dejado en Creta para completar la organización de las iglesias y confrontar a los falsos maestros",
+        "en": "Greek apostolic delegate, Paul's \"true child\" in the faith, left in Crete to complete the organization of the churches and confront the false teachers",
+        "pt": "Delegado apostólico grego, \"verdadeiro filho\" de Paulo na fé, deixado em Creta para completar a organização das igrejas e confrontar os falsos mestres"
+      },
+      "acciones": {
+        "es": "Recibe el encargo de designar ancianos en cada ciudad de Creta (Tit 1:5); debe reprender con severidad a los falsos maestros de la circuncisión (Tit 1:13); enseña sana doctrina a cada grupo de la congregación (Tit 2:1,15); debe evitar contiendas necias sobre la ley (Tit 3:9); es instruido para reunirse con Pablo en Nicópolis tras enviarle un reemplazo (Tit 3:12)",
+        "en": "Receives the charge to appoint elders in every town of Crete (Tit 1:5); must sharply rebuke the circumcision party's false teachers (Tit 1:13); teaches sound doctrine to every group in the congregation (Tit 2:1,15); must avoid foolish controversies about the law (Tit 3:9); is instructed to join Paul at Nicopolis after sending him a replacement (Tit 3:12)",
+        "pt": "Recebe o encargo de designar presbíteros em cada cidade de Creta (Tt 1:5); deve repreender com severidade os falsos mestres da circuncisão (Tt 1:13); ensina sã doutrina a cada grupo da congregação (Tt 2:1,15); deve evitar contendas insensatas sobre a lei (Tt 3:9); é instruído a se reunir com Paulo em Nicópolis depois de lhe enviar um substituto (Tt 3:12)"
+      },
+      "significadoTeologico": {
+        "es": "Representa al ministro delegado fiel que ejerce autoridad apostólica derivada con firmeza doctrinal y prudencia pastoral, modelo del oficio ministerial ordenado que sostiene a la iglesia local en ausencia del apóstol fundador",
+        "en": "He represents the faithful delegated minister who exercises derived apostolic authority with doctrinal firmness and pastoral prudence, a model of the ordained ministerial office that sustains the local church in the founding apostle's absence",
+        "pt": "Representa o ministro delegado fiel que exerce autoridade apostólica derivada com firmeza doutrinária e prudência pastoral, modelo do ofício ministerial ordenado que sustenta a igreja local na ausência do apóstolo fundador"
+      },
+      "tipo": {
+        "es": "No funciona como tipo bíblico; representa al oficio ministerial fiel del Nuevo Pacto",
+        "en": "Does not function as a biblical type; he represents the faithful ministerial office of the New Covenant",
+        "pt": "Não funciona como tipo bíblico; representa o ofício ministerial fiel da Nova Aliança"
+      },
+      "caracterMoral": {
+        "es": "Ejemplar: fiel, firme frente a la oposición, capaz de recibir y ejecutar instrucción apostólica compleja",
+        "en": "Exemplary: faithful, firm against opposition, capable of receiving and executing complex apostolic instruction",
+        "pt": "Exemplar: fiel, firme diante da oposição, capaz de receber e executar instrução apostólica complexa"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Destinatario de toda la carta, llamado \"verdadero hijo en la común fe\" (Tit 1:4), encargado de organizar las iglesias de Creta (Tit 1:5) y de enseñar lo que está de acuerdo con la sana doctrina (Tit 2:1)",
+          "en": "The letter's sole recipient, called \"a true child in a common faith\" (Tit 1:4), charged with organizing the churches of Crete (Tit 1:5) and teaching what accords with sound doctrine (Tit 2:1)",
+          "pt": "Destinatário de toda a carta, chamado \"verdadeiro filho segundo a fé comum\" (Tt 1:4), encarregado de organizar as igrejas de Creta (Tt 1:5) e de ensinar o que está de acordo com a sã doutrina (Tt 2:1)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Tit 1:4",
+          "Tit 1:5",
+          "Tit 2:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Colaborador griego gentil de Pablo (Gá 2:1,3, donde Pablo se niega a circuncidarlo pese a la presión judaizante), mencionado también como enviado a Corinto para asuntos delicados (2Co 2:13; 7:6–7,13–14; 8:6,16,23), lo que confirma su papel establecido como delegado de confianza en misiones difíciles",
+          "en": "Paul's Greek Gentile coworker (Gal 2:1,3, where Paul refuses to circumcise him despite Judaizing pressure), also mentioned as sent to Corinth for delicate matters (2Cor 2:13; 7:6–7,13–14; 8:6,16,23), confirming his established role as a trusted delegate in difficult missions",
+          "pt": "Colaborador grego gentio de Paulo (Gl 2:1,3, onde Paulo se recusa a circuncidá-lo apesar da pressão judaizante), mencionado também como enviado a Corinto para assuntos delicados (2Co 2:13; 7:6–7,13–14; 8:6,16,23), confirmando seu papel estabelecido como delegado de confiança em missões difíceis"
+        },
+        "fuentes": [
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Biografía",
+              "Rol delegado"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Su papel como delegado hábil para misiones sensibles en Corinto (2 Corintios) concuerda plenamente con el tipo de encargo delicado que recibe en Creta según esta carta",
+          "en": "His role as a skilled delegate for sensitive missions in Corinth (2 Corinthians) fully matches the kind of delicate assignment he receives in Crete according to this letter",
+          "pt": "Seu papel como delegado hábil para missões sensíveis em Corinto (2 Coríntios) concorda plenamente com o tipo de encargo delicado que recebe em Creta segundo esta carta"
+        }
+      },
+      "versiculosAsociados": [
+        "Tit 1:4-5",
+        "Tit 2:1",
+        "Tit 3:12"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2Co",
+        "Gá",
+        "2Ti"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Tito reaparece mencionado en 2 Timoteo 4:10 como enviado a Dalmacia, confirmando su continua actividad misionera de confianza hasta el final del ministerio de Pablo",
+        "en": "Titus reappears mentioned in 2 Timothy 4:10 as sent to Dalmatia, confirming his continued trusted missionary activity until the end of Paul's ministry",
+        "pt": "Tito reaparece mencionado em 2 Timóteo 4:10 como enviado à Dalmácia, confirmando sua contínua atividade missionária de confiança até o final do ministério de Paulo"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los falsos maestros de la circuncisión",
+        "en": "The False Teachers of the Circumcision",
+        "pt": "Os falsos mestres da circuncisão"
+      },
+      "hebreo": "οἱ ἐκ τῆς περιτομῆς",
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Grupo de falsos maestros de origen judío que enseñaban fábulas judaicas y mandamientos de hombres, trastornando familias enteras en Creta por ganancia deshonesta",
+        "en": "A group of false teachers of Jewish origin who taught Jewish myths and the commandments of men, upsetting whole families in Crete for shameful gain",
+        "pt": "Grupo de falsos mestres de origem judaica que ensinavam fábulas judaicas e mandamentos de homens, transtornando famílias inteiras em Creta por ganância desonesta"
+      },
+      "acciones": {
+        "es": "Son \"muchos rebeldes, habladores de vanidades y engañadores\" (Tit 1:10); trastornan casas enteras enseñando lo que no conviene por ganancia deshonesta (Tit 1:11); profesan conocer a Dios pero lo niegan con sus hechos (Tit 1:16)",
+        "en": "They are \"many who are insubordinate, empty talkers and deceivers\" (Tit 1:10); they upset whole households by teaching what they ought not to teach, for shameful gain (Tit 1:11); they profess to know God, but they deny him by their works (Tit 1:16)",
+        "pt": "São \"muitos insubordinados, faladores de vaidades e enganadores\" (Tt 1:10); transtornam casas inteiras, ensinando o que não convém por torpe ganância (Tt 1:11); professam conhecer a Deus, mas o negam com as obras (Tt 1:16)"
+      },
+      "significadoTeologico": {
+        "es": "Encarnan la amenaza recurrente del legalismo judaizante que resurge en distintos contextos paulinos, y sirven de advertencia de que la ortodoxia profesada sin obediencia práctica constituye una negación funcional de Dios",
+        "en": "They embody the recurring threat of Judaizing legalism that resurfaces in various Pauline contexts, and serve as a warning that professed orthodoxy without practical obedience constitutes a functional denial of God",
+        "pt": "Encarnam a ameaça recorrente do legalismo judaizante que ressurge em diversos contextos paulinos, e servem de advertência de que a ortodoxia professada sem obediência prática constitui uma negação funcional de Deus"
+      },
+      "tipo": {
+        "es": "No funcionan como tipo bíblico; representan la amenaza recurrente del falso maestro dentro de la iglesia visible",
+        "en": "They do not function as a biblical type; they represent the recurring threat of the false teacher within the visible church",
+        "pt": "Não funcionam como tipo bíblico; representam a ameaça recorrente do falso mestre dentro da igreja visível"
+      },
+      "caracterMoral": {
+        "es": "Negativo: engañadores, motivados por ganancia deshonesta, con profesión de fe desmentida por sus obras",
+        "en": "Negative: deceivers, motivated by shameful gain, with a profession of faith belied by their works",
+        "pt": "Negativo: enganadores, motivados por ganância desonesta, com profissão de fé desmentida por suas obras"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Descritos como rebeldes, habladores de vanidades y engañadores, especialmente los de la circuncisión, a quienes es preciso tapar la boca (Tit 1:10–11), y a quienes Tito debe reprender con severidad para que sean sanos en la fe (Tit 1:13)",
+          "en": "Described as insubordinate, empty talkers, and deceivers, especially those of the circumcision, who must be silenced (Tit 1:10–11), and whom Titus must sharply rebuke so that they may be sound in the faith (Tit 1:13)",
+          "pt": "Descritos como insubordinados, faladores de vaidades e enganadores, especialmente os da circuncisão, aos quais é preciso tapar a boca (Tt 1:10–11), e que Tito deve repreender com severidade para que sejam sãos na fé (Tt 1:13)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Tit 1:10",
+          "Tit 1:11",
+          "Tit 1:16"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No se dispone de identificación histórica externa de individuos concretos; el fenómeno de la agitación judaizante está bien documentado en el contexto más amplio del ministerio paulino (cf. Gálatas, Filipenses 3), incluida su presencia en comunidades judías de la diáspora cretense",
+          "en": "No external historical identification of specific individuals is available; the phenomenon of Judaizing agitation is well documented in the broader context of Pauline ministry (cf. Galatians, Philippians 3), including its presence in Cretan diaspora Jewish communities",
+          "pt": "Não há identificação histórica externa de indivíduos concretos disponível; o fenômeno da agitação judaizante está bem documentado no contexto mais amplo do ministério paulino (cf. Gálatas, Filipenses 3), incluindo sua presença em comunidades judaicas da diáspora cretense"
+        },
+        "fuentes": [
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Identificación del grupo",
+              "Trasfondo judaizante"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "El patrón de oposición judaizante concuerda con el testimonio de otras cartas paulinas y con la presencia judía documentada en Creta por Filón y Josefo",
+          "en": "The pattern of Judaizing opposition matches the testimony of other Pauline letters and the Jewish presence in Crete documented by Philo and Josephus",
+          "pt": "O padrão de oposição judaizante concorda com o testemunho de outras cartas paulinas e com a presença judaica documentada em Creta por Fílon e Josefo"
+        }
+      },
+      "versiculosAsociados": [
+        "Tit 1:10-16"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "Gá",
+        "Fil"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El mismo fenómeno de oposición judaizante aparece en Gálatas y Filipenses 3, confirmando que era una amenaza recurrente y extendida en las iglesias paulinas, no exclusiva de Creta",
+        "en": "The same phenomenon of Judaizing opposition appears in Galatians and Philippians 3, confirming it was a recurring and widespread threat in the Pauline churches, not unique to Crete",
+        "pt": "O mesmo fenômeno de oposição judaizante aparece em Gálatas e Filipenses 3, confirmando que era uma ameaça recorrente e difundida nas igrejas paulinas, não exclusiva de Creta"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Zenas",
+        "en": "Zenas",
+        "pt": "Zenas"
+      },
+      "hebreo": "Ζηνᾶς",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        3
+      ],
+      "descripcion": {
+        "es": "\"Intérprete de la ley\" mencionado en el cierre de la carta, a quien Tito debe ayudar en su viaje junto a Apolos",
+        "en": "\"The lawyer\" mentioned at the letter's close, whom Titus must help on his journey along with Apollos",
+        "pt": "\"Doutor da lei\" mencionado no encerramento da carta, a quem Tito deve ajudar em sua viagem junto com Apolo"
+      },
+      "acciones": {
+        "es": "Es mencionado junto a Apolos como alguien a quien Tito debe proveer con solicitud para el viaje, de modo que nada les falte (Tit 3:13)",
+        "en": "He is mentioned alongside Apollos as someone Titus must diligently provide for on the journey, so that nothing is lacking for them (Tit 3:13)",
+        "pt": "É mencionado junto com Apolo como alguém a quem Tito deve prover com zelo para a viagem, de modo que nada lhes falte (Tt 3:13)"
+      },
+      "significadoTeologico": {
+        "es": "Su mención ilustra la práctica concreta de hospitalidad y provisión material para los obreros itinerantes que la carta exige como fruto de las buenas obras (Tit 3:14)",
+        "en": "His mention illustrates the concrete practice of hospitality and material provision for itinerant workers that the letter demands as the fruit of good works (Tit 3:14)",
+        "pt": "Sua menção ilustra a prática concreta de hospitalidade e provisão material para os obreiros itinerantes que a carta exige como fruto das boas obras (Tt 3:14)"
+      },
+      "tipo": {
+        "es": "No funciona como tipo bíblico",
+        "en": "Does not function as a biblical type",
+        "pt": "Não funciona como tipo bíblico"
+      },
+      "caracterMoral": {
+        "es": "Presentado positivamente como colaborador digno de apoyo material",
+        "en": "Presented positively as a coworker worthy of material support",
+        "pt": "Apresentado positivamente como colaborador digno de apoio material"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado únicamente como \"intérprete de la ley\" a quien Tito debe ayudar a proveer para su viaje junto a Apolos (Tit 3:13)",
+          "en": "Mentioned only as \"the lawyer\" whom Titus must help provide for on his journey along with Apollos (Tit 3:13)",
+          "pt": "Mencionado unicamente como \"doutor da lei\" a quem Tito deve ajudar a prover para sua viagem junto com Apolo (Tt 3:13)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Tit 3:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aparece en fuentes externas al NT; el título \"intérprete de la ley\" (nomikos) podría indicar experiencia legal romana o judía, pero no puede determinarse con certeza cuál de las dos",
+          "en": "He does not appear in sources external to the NT; the title \"lawyer\" (nomikos) could indicate either Roman or Jewish legal expertise, but which of the two cannot be determined with certainty",
+          "pt": "Não aparece em fontes externas ao NT; o título \"doutor da lei\" (nomikos) poderia indicar experiência jurídica romana ou judaica, mas não se pode determinar com certeza qual das duas"
+        },
+        "fuentes": [
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Identificación"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "No hay evidencia externa que permita confirmar o refutar detalles adicionales sobre su identidad más allá del texto mismo",
+          "en": "There is no external evidence to confirm or refute additional details about his identity beyond the text itself",
+          "pt": "Não há evidência externa que permita confirmar ou refutar detalhes adicionais sobre sua identidade além do próprio texto"
+        }
+      },
+      "versiculosAsociados": [
+        "Tit 3:13"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No vuelve a aparecer en ningún otro libro del NT",
+        "en": "He does not appear again in any other NT book",
+        "pt": "Não volta a aparecer em nenhum outro livro do NT"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Apolos",
+        "en": "Apollos",
+        "pt": "Apolo"
+      },
+      "hebreo": "Ἀπολλῶς",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        3
+      ],
+      "descripcion": {
+        "es": "Predicador judío elocuente de Alejandría, conocido por su ministerio en Éfeso y Corinto, mencionado aquí junto a Zenas como alguien a quien Tito debe proveer para su viaje",
+        "en": "An eloquent Jewish preacher from Alexandria, known for his ministry in Ephesus and Corinth, mentioned here alongside Zenas as someone Titus must provide for on his journey",
+        "pt": "Pregador judeu eloquente de Alexandria, conhecido por seu ministério em Éfeso e Corinto, mencionado aqui junto com Zenas como alguém a quem Tito deve prover para sua viagem"
+      },
+      "acciones": {
+        "es": "Es mencionado junto a Zenas como destinatario de la hospitalidad y provisión de Tito para su viaje (Tit 3:13)",
+        "en": "He is mentioned alongside Zenas as a recipient of Titus's hospitality and provision for his journey (Tit 3:13)",
+        "pt": "É mencionado junto com Zenas como destinatário da hospitalidade e provisão de Tito para sua viagem (Tt 3:13)"
+      },
+      "significadoTeologico": {
+        "es": "Su breve mención aquí, en armonía con su papel más desarrollado en Hechos y 1 Corintios, subraya la unidad de la red de colaboradores itinerantes que sostenían el ministerio apostólico a través de todo el Mediterráneo",
+        "en": "His brief mention here, in harmony with his more developed role in Acts and 1 Corinthians, underscores the unity of the network of itinerant coworkers who sustained apostolic ministry across the whole Mediterranean",
+        "pt": "Sua breve menção aqui, em harmonia com seu papel mais desenvolvido em Atos e 1 Coríntios, ressalta a unidade da rede de colaboradores itinerantes que sustentavam o ministério apostólico por todo o Mediterrâneo"
+      },
+      "tipo": {
+        "es": "No funciona como tipo bíblico",
+        "en": "Does not function as a biblical type",
+        "pt": "Não funciona como tipo bíblico"
+      },
+      "caracterMoral": {
+        "es": "Presentado positivamente como colaborador itinerante digno de apoyo",
+        "en": "Presented positively as an itinerant coworker worthy of support",
+        "pt": "Apresentado positivamente como colaborador itinerante digno de apoio"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado únicamente aquí como alguien a quien Tito debe ayudar a proveer para su viaje junto a Zenas (Tit 3:13)",
+          "en": "Mentioned here only as someone Titus must help provide for on his journey along with Zenas (Tit 3:13)",
+          "pt": "Mencionado aqui unicamente como alguém a quem Tito deve ajudar a prover para sua viagem junto com Zenas (Tt 3:13)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Tit 3:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Judío alejandrino elocuente y \"poderoso en las Escrituras\" (Hch 18:24), instruido más plenamente por Priscila y Aquila en Éfeso (Hch 18:26) y activo posteriormente en Corinto (Hch 18:27–28; 1Co 1:12; 3:4–6)",
+          "en": "An eloquent Alexandrian Jew, \"competent in the Scriptures\" (Acts 18:24), more fully instructed by Priscilla and Aquila in Ephesus (Acts 18:26) and later active in Corinth (Acts 18:27–28; 1Cor 1:12; 3:4–6)",
+          "pt": "Judeu alexandrino eloquente e \"poderoso nas Escrituras\" (At 18:24), instruído mais plenamente por Priscila e Áquila em Éfeso (At 18:26) e posteriormente ativo em Corinto (At 18:27–28; 1Co 1:12; 3:4–6)"
+        },
+        "fuentes": [
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Identificación",
+              "Trayectoria ministerial"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Su identificación con el Apolos de Hechos y 1 Corintios es prácticamente universal entre los comentaristas, dado lo distintivo del nombre y la coherencia de su papel como colaborador itinerante",
+          "en": "His identification with the Apollos of Acts and 1 Corinthians is nearly universal among commentators, given the distinctiveness of the name and the coherence of his role as an itinerant coworker",
+          "pt": "Sua identificação com o Apolo de Atos e 1 Coríntios é praticamente universal entre os comentaristas, dado quão distintivo é o nome e a coerência de seu papel como colaborador itinerante"
+        }
+      },
+      "versiculosAsociados": [
+        "Tit 3:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Hch",
+        "1Co"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Apolos es figura bien conocida en Hechos 18 y 1 Corintios 1–4, donde su ministerio elocuente en Corinto da lugar, sin culpa suya, a divisiones partidistas entre los creyentes",
+        "en": "Apollos is a well-known figure in Acts 18 and 1 Corinthians 1–4, where his eloquent ministry in Corinth gives rise, through no fault of his own, to partisan divisions among believers",
+        "pt": "Apolo é figura bem conhecida em Atos 18 e 1 Coríntios 1–4, onde seu ministério eloquente em Corinto dá origem, sem culpa sua, a divisões partidárias entre os crentes"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Artemas",
+        "en": "Artemas",
+        "pt": "Artemas"
+      },
+      "hebreo": "Ἀρτεμᾶς",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        3
+      ],
+      "descripcion": {
+        "es": "Colaborador de Pablo que él consideraba enviar a Creta para relevar a Tito, permitiéndole reunirse con Pablo en Nicópolis",
+        "en": "A coworker of Paul whom he considered sending to Crete to relieve Titus, allowing him to join Paul at Nicopolis",
+        "pt": "Colaborador de Paulo que ele considerava enviar a Creta para substituir Tito, permitindo-lhe se reunir com Paulo em Nicópolis"
+      },
+      "acciones": {
+        "es": "Es mencionado como posible enviado de Pablo a Creta, junto a Tíquico, para relevar a Tito (Tit 3:12)",
+        "en": "He is mentioned as Paul's possible envoy to Crete, along with Tychicus, to relieve Titus (Tit 3:12)",
+        "pt": "É mencionado como possível enviado de Paulo a Creta, junto com Tíquico, para substituir Tito (Tt 3:12)"
+      },
+      "significadoTeologico": {
+        "es": "Su mención junto a Tíquico ilustra la existencia de una red amplia de colaboradores intercambiables y de confianza que sostenía la continuidad del ministerio apostólico en múltiples frentes simultáneos",
+        "en": "His mention alongside Tychicus illustrates the existence of a wide network of interchangeable, trusted coworkers that sustained the continuity of apostolic ministry on multiple simultaneous fronts",
+        "pt": "Sua menção junto com Tíquico ilustra a existência de uma ampla rede de colaboradores intercambiáveis e de confiança que sustentava a continuidade do ministério apostólico em múltiplas frentes simultâneas"
+      },
+      "tipo": {
+        "es": "No funciona como tipo bíblico",
+        "en": "Does not function as a biblical type",
+        "pt": "Não funciona como tipo bíblico"
+      },
+      "caracterMoral": {
+        "es": "Presentado positivamente como colaborador de confianza apostólica",
+        "en": "Presented positively as an apostolically trusted coworker",
+        "pt": "Apresentado positivamente como colaborador de confiança apostólica"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado únicamente como posible enviado de Pablo a Creta para relevar a Tito (Tit 3:12)",
+          "en": "Mentioned only as Paul's possible envoy to Crete to relieve Titus (Tit 3:12)",
+          "pt": "Mencionado unicamente como possível enviado de Paulo a Creta para substituir Tito (Tt 3:12)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Tit 3:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aparece en ninguna otra fuente bíblica o extrabíblica; su nombre, común en el mundo grecorromano, no permite mayor identificación",
+          "en": "He does not appear in any other biblical or extrabiblical source; his name, common in the Greco-Roman world, allows no further identification",
+          "pt": "Não aparece em nenhuma outra fonte bíblica ou extrabíblica; seu nome, comum no mundo greco-romano, não permite maior identificação"
+        },
+        "fuentes": [
+          {
+            "titulo": "The Pastoral Epistles (NIGTC)",
+            "autor": "George W. Knight III",
+            "año": 1992,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Identificación"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "No hay evidencia externa disponible más allá de esta única mención textual",
+          "en": "No external evidence is available beyond this single textual mention",
+          "pt": "Não há evidência externa disponível além desta única menção textual"
+        }
+      },
+      "versiculosAsociados": [
+        "Tit 3:12"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No vuelve a aparecer en ningún otro libro del NT",
+        "en": "He does not appear again in any other NT book",
+        "pt": "Não volta a aparecer em nenhum outro livro do NT"
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "Tito establece los requisitos concretos para el oficio de anciano/obispo —irreprensible, casado una sola vez, con hijos creyentes, no dado al vino ni violento, hospitalario, amante de lo bueno, justo, santo, dueño de sí mismo, retenedor de la palabra fiel (Tit 1:6–9)— y ordena que se designen en cada ciudad de Creta, mostrando que el orden eclesiástico institucional es inseparable de la salud doctrinal y moral de la congregación.",
+        "en": "Titus establishes concrete requirements for the office of elder/overseer — above reproach, married only once, with believing children, not addicted to wine or violent, hospitable, a lover of good, upright, holy, self-controlled, holding firm to the trustworthy word (Tit 1:6–9) — and commands that they be appointed in every town of Crete, showing that institutional church order is inseparable from the congregation's doctrinal and moral health.",
+        "pt": "Tito estabelece os requisitos concretos para o ofício de presbítero/bispo — irrepreensível, marido de uma só mulher, com filhos crentes, não dado ao vinho nem violento, hospitaleiro, amigo do bem, justo, santo, temperante, apegado à palavra fiel (Tt 1:6–9) — e ordena que sejam designados em cada cidade de Creta, mostrando que a ordem eclesiástica institucional é inseparável da saúde doutrinária e moral da congregação."
+      },
+      "pasajes": [
+        "Tit 1:5",
+        "Tit 1:6-9",
+        "Tit 2:15"
+      ],
+      "ensenanza": {
+        "es": "Se debe designar ancianos en cada ciudad, tal como Pablo mandó · El anciano debe ser irreprensible, marido de una sola mujer, con hijos creyentes, hospitalario y retenedor fiel de la palabra · Tito debe hablar, exhortar y reprender con toda autoridad, sin que nadie lo menosprecie",
+        "en": "Elders are to be appointed in every town, as Paul directed · The elder must be above reproach, the husband of one wife, with believing children, hospitable, and a firm holder of the faithful word · Titus must speak, exhort, and rebuke with all authority, letting no one disregard him",
+        "pt": "Presbíteros devem ser designados em cada cidade, conforme Paulo ordenou · O presbítero deve ser irrepreensível, marido de uma só mulher, com filhos crentes, hospitaleiro e apegado fielmente à palavra · Tito deve falar, exortar e repreender com toda autoridade, sem que ninguém o despreze"
+      },
+      "distintivaReformada": {
+        "es": "La eclesiología reformada encuentra en Tit 1:6–9 uno de los dos textos fundacionales del NT (junto con 1Ti 3:1–7) para el examen y ordenación de ancianos, insistiendo en que la aptitud moral y doctrinal comprobada, no el carisma ni la elección meramente popular, califica para el oficio.",
+        "en": "Reformed ecclesiology finds in Tit 1:6–9 one of the two foundational NT texts (alongside 1Tim 3:1–7) for the examination and ordination of elders, insisting that proven moral and doctrinal fitness, not charisma or merely popular election, qualifies for the office.",
+        "pt": "A eclesiologia reformada encontra em Tt 1:6–9 um dos dois textos fundacionais do NT (junto com 1Tm 3:1–7) para o exame e ordenação de presbíteros, insistindo que a aptidão moral e doutrinária comprovada, não o carisma nem a mera eleição popular, qualifica para o ofício."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "Tito 2:13 contiene una de las afirmaciones más claras del NT sobre la deidad de Cristo: los creyentes aguardan \"la manifestación de la gloria de nuestro gran Dios y Salvador Jesucristo\", construcción gramatical (regla de Granville Sharp) que aplica ambos títulos —\"Dios\" y \"Salvador\"— a una sola persona, Jesucristo, quien además \"se dio a sí mismo por nosotros\" en acto redentor voluntario (Tit 2:14).",
+        "en": "Titus 2:13 contains one of the NT's clearest affirmations of Christ's deity: believers await \"the appearing of the glory of our great God and Savior Jesus Christ\", a grammatical construction (the Granville Sharp rule) applying both titles — \"God\" and \"Savior\" — to a single person, Jesus Christ, who moreover \"gave himself for us\" in a voluntary redemptive act (Tit 2:14).",
+        "pt": "Tito 2:13 contém uma das afirmações mais claras do NT sobre a divindade de Cristo: os crentes aguardam \"o aparecimento da glória do nosso grande Deus e Salvador Jesus Cristo\", construção gramatical (regra de Granville Sharp) que aplica ambos os títulos — \"Deus\" e \"Salvador\" — a uma única pessoa, Jesus Cristo, que ademais \"se deu a si mesmo por nós\" em ato redentor voluntário (Tt 2:14)."
+      },
+      "pasajes": [
+        "Tit 2:13",
+        "Tit 2:14",
+        "Tit 3:6"
+      ],
+      "ensenanza": {
+        "es": "Aguardamos la manifestación de la gloria de nuestro gran Dios y Salvador Jesucristo · Él se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar un pueblo propio, celoso de buenas obras · Dios derramó el Espíritu Santo ricamente sobre nosotros por medio de Jesucristo nuestro Salvador",
+        "en": "We wait for the appearing of the glory of our great God and Savior Jesus Christ · He gave himself for us to redeem us from all lawlessness and purify a people of his own, zealous for good works · God poured out the Holy Spirit richly on us through Jesus Christ our Savior",
+        "pt": "Aguardamos o aparecimento da glória do nosso grande Deus e Salvador Jesus Cristo · Ele se deu a si mesmo por nós para nos remir de toda iniquidade e purificar um povo particular, zeloso de boas obras · Deus derramou o Espírito Santo ricamente sobre nós por meio de Jesus Cristo nosso Salvador"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada cita constantemente Tit 2:13 junto con Romanos 9:5 y Juan 1:1 como prueba textual de la plena deidad de Cristo, rechazando tanto las lecturas socinianas que separan a \"Dios\" de \"Salvador\" como dos sujetos distintos como cualquier cristología que subordine ontológicamente al Hijo.",
+        "en": "Reformed theology constantly cites Tit 2:13 alongside Romans 9:5 and John 1:1 as textual proof of Christ's full deity, rejecting both Socinian readings that separate \"God\" and \"Savior\" into two distinct subjects and any Christology that ontologically subordinates the Son.",
+        "pt": "A teologia reformada cita constantemente Tt 2:13 junto com Romanos 9:5 e João 1:1 como prova textual da plena divindade de Cristo, rejeitando tanto as leituras socinianas que separam \"Deus\" de \"Salvador\" como dois sujeitos distintos quanto qualquer cristologia que subordine ontologicamente o Filho."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Justificación",
+        "en": "Justification",
+        "pt": "Justificação"
+      },
+      "resumen": {
+        "es": "Tito 3:4–7 declara que Dios nos salvó \"no por obras de justicia que nosotros hubiéramos hecho, sino según su misericordia\", mediante el lavamiento de la regeneración y la renovación del Espíritu Santo, \"para que, justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida eterna\" (Tit 3:7), uno de los textos más concisos del NT que vincula explícitamente regeneración, justificación y herencia escatológica en una sola secuencia de gracia.",
+        "en": "Titus 3:4–7 declares that God saved us \"not because of works done by us in righteousness, but according to his own mercy\", through the washing of regeneration and renewal of the Holy Spirit, \"so that being justified by his grace we might become heirs according to the hope of eternal life\" (Tit 3:7), one of the NT's most concise texts explicitly linking regeneration, justification, and eschatological inheritance in a single sequence of grace.",
+        "pt": "Tito 3:4–7 declara que Deus nos salvou \"não por obras de justiça que nós tivéssemos feito, mas segundo sua misericórdia\", mediante o lavar da regeneração e da renovação do Espírito Santo, \"para que, sendo justificados pela sua graça, fôssemos feitos herdeiros segundo a esperança da vida eterna\" (Tt 3:7), um dos textos mais concisos do NT que vincula explicitamente regeneração, justificação e herança escatológica em uma única sequência de graça."
+      },
+      "pasajes": [
+        "Tit 3:4",
+        "Tit 3:5",
+        "Tit 3:7"
+      ],
+      "ensenanza": {
+        "es": "Se manifestó la bondad de Dios nuestro Salvador, y su amor para con la humanidad · Nos salvó, no por obras de justicia que hubiéramos hecho, sino según su misericordia, por el lavamiento de la regeneración y la renovación del Espíritu Santo · Justificados por su gracia, vinimos a ser herederos conforme a la esperanza de la vida eterna",
+        "en": "The goodness and loving kindness of God our Savior appeared · He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit · Being justified by his grace, we became heirs according to the hope of eternal life",
+        "pt": "Manifestou-se a benignidade de Deus nosso Salvador, e o seu amor para com os homens · Ele nos salvou, não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, pelo lavar da regeneração e da renovação do Espírito Santo · Sendo justificados pela sua graça, fôssemos feitos herdeiros segundo a esperança da vida eterna"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada encuentra en Tit 3:5–7 una formulación clásica de la justificación sola gratia: la salvación excluye toda base en obras propias de justicia y se funda exclusivamente en la misericordia divina, aplicada mediante la obra regeneradora del Espíritu y consumada en el estatus legal de la justificación que garantiza la herencia eterna.",
+        "en": "Reformed theology finds in Tit 3:5–7 a classic formulation of justification sola gratia: salvation excludes any basis in one's own works of righteousness and rests exclusively on divine mercy, applied through the Spirit's regenerating work and consummated in the legal status of justification that guarantees the eternal inheritance.",
+        "pt": "A teologia reformada encontra em Tt 3:5–7 uma formulação clássica da justificação sola gratia: a salvação exclui qualquer base em obras próprias de justiça e se fundamenta exclusivamente na misericórdia divina, aplicada mediante a obra regeneradora do Espírito e consumada no status legal da justificação que garante a herança eterna."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Santificación",
+        "en": "Sanctification",
+        "pt": "Santificação"
+      },
+      "resumen": {
+        "es": "Tito organiza la vida santa por grupos concretos de la congregación —ancianos, ancianas, jóvenes, siervos (Tit 2:2–10)— y la funda explícitamente en la gracia ya recibida, que \"nos enseña que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y píamente\" (Tit 2:12), insistiendo además en que quienes han creído en Dios procuren ocuparse en buenas obras porque estas son buenas y provechosas (Tit 3:8).",
+        "en": "Titus organizes holy living by concrete groups within the congregation — older men, older women, young people, servants (Tit 2:2–10) — and explicitly grounds it in grace already received, which \"trains us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age\" (Tit 2:12), further insisting that those who have believed in God be careful to devote themselves to good works, because these are excellent and profitable (Tit 3:8).",
+        "pt": "Tito organiza a vida santa por grupos concretos da congregação — anciãos, anciãs, jovens, servos (Tt 2:2–10) — e a fundamenta explicitamente na graça já recebida, que \"nos ensina que, renunciando à impiedade e às paixões mundanas, vivamos neste presente século sóbria, justa e piamente\" (Tt 2:12), insistindo ainda que os que creram em Deus procurem ser cuidadosos em se dedicar às boas obras, porque estas são boas e proveitosas (Tt 3:8)."
+      },
+      "pasajes": [
+        "Tit 2:11-12",
+        "Tit 2:14",
+        "Tit 3:8"
+      ],
+      "ensenanza": {
+        "es": "La gracia de Dios se ha manifestado trayendo salvación, enseñándonos a renunciar a la impiedad y a los deseos mundanos y a vivir sobria, justa y píamente · Cristo se dio por nosotros para purificar un pueblo propio, celoso de buenas obras · Los creyentes deben procurar ocuparse en buenas obras, pues son buenas y provechosas a los hombres",
+        "en": "The grace of God has appeared, bringing salvation, training us to renounce ungodliness and worldly passions and to live self-controlled, upright, and godly lives · Christ gave himself for us to purify a people of his own, zealous for good works · Believers must be careful to devote themselves to good works, for these are excellent and profitable for people",
+        "pt": "A graça de Deus se manifestou trazendo salvação, ensinando-nos a renunciar à impiedade e às paixões mundanas e a viver sóbria, justa e piamente · Cristo se deu por nós para purificar um povo particular, zeloso de boas obras · Os crentes devem ser cuidadosos em se dedicar às boas obras, pois são boas e proveitosas aos homens"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada subraya que en Tito la santificación está estructuralmente subordinada a la gracia: primero se anuncia la manifestación salvadora de la gracia (Tit 2:11; 3:4–7) y solo después se derivan las buenas obras como su fruto necesario, invirtiendo cualquier esquema que haga de la obediencia la condición previa de la aceptación divina.",
+        "en": "The Reformed tradition emphasizes that in Titus sanctification is structurally subordinated to grace: the saving manifestation of grace is announced first (Tit 2:11; 3:4–7), and only then are good works derived as its necessary fruit, reversing any scheme that makes obedience the prior condition of divine acceptance.",
+        "pt": "A tradição reformada ressalta que em Tito a santificação está estruturalmente subordinada à graça: primeiro se anuncia a manifestação salvadora da graça (Tt 2:11; 3:4–7) e só depois se derivam as boas obras como seu fruto necessário, invertendo qualquer esquema que faça da obediência a condição prévia da aceitação divina."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Justificación",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que Dios justifica libremente a los pecadores no por infusión de virtud sino por la imputación de la obediencia y satisfacción de Cristo, recibida por la sola fe; Tit 3:5,7 expresa esta doctrina en fórmula concisa: salvos no por obras de justicia propia, sino según la misericordia de Dios, justificados por su gracia.",
+        "en": "The Confession teaches that God freely justifies sinners not by infusing virtue but by imputing Christ's obedience and satisfaction, received by faith alone; Tit 3:5,7 expresses this doctrine in concise form: saved not by works of self-righteousness, but according to God's mercy, justified by his grace.",
+        "pt": "A Confissão ensina que Deus justifica livremente os pecadores não por infusão de virtude, mas pela imputação da obediência e satisfação de Cristo, recebida somente pela fé; Tt 3:5,7 expressa essa doutrina em fórmula concisa: salvos não por obras de justiça própria, mas segundo a misericórdia de Deus, justificados pela sua graça."
+      },
+      "genesis": [
+        "Tit 3:5",
+        "Tit 3:7"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    },
+    {
+      "cap": "Cap. 16",
+      "titulo": {
+        "es": "De las Buenas Obras",
+        "en": "Of Good Works",
+        "pt": "Das Boas Obras"
+      },
+      "doctrinas": [
+        "Santificación",
+        "Buenas obras"
+      ],
+      "resumen": {
+        "es": "La Confesión afirma que las buenas obras son fruto y evidencia de una fe viva, no medio de justificación; Tito lo aplica de manera concentrada al insistir en que los creyentes se ocupen en buenas obras (Tit 3:8,14) precisamente después de haber fundado toda esperanza en la gracia salvadora ya recibida (Tit 2:11–14; 3:4–7).",
+        "en": "The Confession affirms that good works are the fruit and evidence of a living faith, not a means of justification; Titus applies this in concentrated form by insisting that believers devote themselves to good works (Tit 3:8,14) precisely after grounding all hope in the saving grace already received (Tit 2:11–14; 3:4–7).",
+        "pt": "A Confissão afirma que as boas obras são fruto e evidência de uma fé viva, não meio de justificação; Tito aplica isso de forma concentrada ao insistir que os crentes se dediquem às boas obras (Tt 3:8,14) precisamente depois de fundamentar toda esperança na graça salvadora já recebida (Tt 2:11–14; 3:4–7)."
+      },
+      "genesis": [
+        "Tit 2:14",
+        "Tit 3:8"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-16"
+    },
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Iglesia",
+        "en": "Of the Church",
+        "pt": "Da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología"
+      ],
+      "resumen": {
+        "es": "La Confesión describe a la iglesia visible como aquella a la que se encomienda el ministerio, los oráculos y las ordenanzas de Dios para congregar y perfeccionar a los santos; Tito 1:5–9 provee el criterio bíblico concreto para el examen y designación de los ancianos que ejercen ese ministerio en cada congregación local.",
+        "en": "The Confession describes the visible church as that to which the ministry, oracles, and ordinances of God are entrusted for the gathering and perfecting of the saints; Titus 1:5–9 provides the concrete biblical criterion for the examination and appointment of elders who exercise that ministry in each local congregation.",
+        "pt": "A Confissão descreve a igreja visível como aquela a quem se confia o ministério, os oráculos e as ordenanças de Deus para reunir e aperfeiçoar os santos; Tito 1:5–9 fornece o critério bíblico concreto para o exame e designação dos presbíteros que exercem esse ministério em cada congregação local."
+      },
+      "genesis": [
+        "Tit 1:5",
+        "Tit 1:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Tit 1:5",
+      "es": "Por esta causa te dejé en Creta, para que pusieras en orden lo que quedaba por corregir, y designaras ancianos en cada ciudad, como yo te mandé.",
+      "en": "This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you.",
+      "pt": "Por esta causa te deixei em Creta, para que pusesses em boa ordem o que ainda restava, e ordenasses presbíteros em cada cidade, como já to mandei.",
+      "nota": {
+        "es": "Verso programático que define la tarea central de la carta: la designación ordenada de ancianos calificados es fundamento indispensable para la salud de las iglesias locales, un principio que la eclesiología reformada considera de aplicación permanente.",
+        "en": "A programmatic verse that defines the letter's central task: the orderly appointment of qualified elders is the indispensable foundation for the health of local churches, a principle Reformed ecclesiology considers of permanent application.",
+        "pt": "Versículo programático que define a tarefa central da carta: a designação ordenada de presbíteros qualificados é fundamento indispensável para a saúde das igrejas locais, princípio que a eclesiologia reformada considera de aplicação permanente."
+      }
+    },
+    {
+      "ref": "Tit 2:11-12",
+      "es": "Porque la gracia de Dios se ha manifestado para salvación a todos los hombres, enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y píamente.",
+      "en": "For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age.",
+      "pt": "Porque a graça de Deus se há manifestado, trazendo salvação a todos os homens, ensinando-nos que, renunciando à impiedade e às paixões mundanas, vivamos neste presente século sóbria, justa e piamente.",
+      "nota": {
+        "es": "Une de forma inseparable indicativo y imperativo evangélicos: la gracia que salva es la misma gracia que educa y transforma la conducta presente, modelo reformado de la relación entre justificación y santificación.",
+        "en": "It inseparably joins the gospel indicative and imperative: the grace that saves is the same grace that trains and transforms present conduct, the Reformed model of the relationship between justification and sanctification.",
+        "pt": "Une de forma inseparável indicativo e imperativo evangélicos: a graça que salva é a mesma graça que educa e transforma a conduta presente, modelo reformado da relação entre justificação e santificação."
+      }
+    },
+    {
+      "ref": "Tit 2:13-14",
+      "es": "Aguardando la bienaventurada esperanza y la manifestación de la gloria de nuestro gran Dios y Salvador Jesucristo, quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo propio, celoso de buenas obras.",
+      "en": "Waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ, who gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works.",
+      "pt": "Aguardando a bem-aventurada esperança e o aparecimento da glória do nosso grande Deus e Salvador Jesus Cristo, que se deu a si mesmo por nós para nos remir de toda iniquidade e purificar para si um povo particular, zeloso de boas obras.",
+      "nota": {
+        "es": "Una de las declaraciones más claras del NT sobre la plena deidad de Cristo, aplicando gramaticalmente los títulos \"Dios\" y \"Salvador\" a una sola persona; fundamenta también la esperanza escatológica y la ética de las buenas obras en la obra redentora ya consumada de Cristo.",
+        "en": "One of the NT's clearest declarations of Christ's full deity, grammatically applying the titles \"God\" and \"Savior\" to a single person; it also grounds eschatological hope and the ethic of good works in Christ's already accomplished redemptive work.",
+        "pt": "Uma das declarações mais claras do NT sobre a plena divindade de Cristo, aplicando gramaticalmente os títulos \"Deus\" e \"Salvador\" a uma única pessoa; fundamenta também a esperança escatológica e a ética das boas obras na obra redentora já consumada de Cristo."
+      }
+    },
+    {
+      "ref": "Tit 3:5",
+      "es": "Nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino según su misericordia, por el lavamiento de la regeneración y la renovación por el Espíritu Santo.",
+      "en": "He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit.",
+      "pt": "Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou, mediante o lavar da regeneração e da renovação do Espírito Santo.",
+      "nota": {
+        "es": "Formulación clásica de la sola gracia: la salvación excluye explícitamente toda base en obras propias de justicia, atribuyéndola por entero a la misericordia divina aplicada mediante la obra regeneradora del Espíritu Santo.",
+        "en": "A classic formulation of grace alone: salvation explicitly excludes any basis in one's own works of righteousness, attributing it entirely to divine mercy applied through the regenerating work of the Holy Spirit.",
+        "pt": "Formulação clássica da sola graça: a salvação exclui explicitamente qualquer base em obras próprias de justiça, atribuindo-a inteiramente à misericórdia divina aplicada mediante a obra regeneradora do Espírito Santo."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La tradición reformada valora Tito como el manual bíblico más compacto que une orden eclesiástico y evangelio de gracia sin confundirlos ni separarlos: los requisitos de los ancianos (Tit 1:6–9) garantizan la guarda fiel de la sana doctrina, mientras que la exposición de la gracia salvadora (Tit 2:11–14; 3:4–7) impide que ese orden degenere en mero legalismo institucional; lee Tit 2:13 como afirmación decisiva de la deidad de Cristo y Tit 3:5,7 como formulación clásica de la justificación sola gratia, insistiendo en que las buenas obras, lejos de contradecir la gracia, son precisamente lo que la gracia produce y exige como fruto necesario.",
+    "en": "The Reformed tradition values Titus as the most compact biblical manual joining church order and the gospel of grace without confusing or separating them: the requirements for elders (Tit 1:6–9) guarantee the faithful guarding of sound doctrine, while the exposition of saving grace (Tit 2:11–14; 3:4–7) prevents that order from degenerating into mere institutional legalism; it reads Tit 2:13 as a decisive affirmation of Christ's deity and Tit 3:5,7 as a classic formulation of justification sola gratia, insisting that good works, far from contradicting grace, are precisely what grace produces and demands as necessary fruit.",
+    "pt": "A tradição reformada valoriza Tito como o manual bíblico mais compacto que une ordem eclesiástica e evangelho de graça sem confundi-los nem separá-los: os requisitos dos presbíteros (Tt 1:6–9) garantem a guarda fiel da sã doutrina, enquanto a exposição da graça salvadora (Tt 2:11–14; 3:4–7) impede que essa ordem degenere em mero legalismo institucional; lê Tt 2:13 como afirmação decisiva da divindade de Cristo e Tt 3:5,7 como formulação clássica da justificação sola gratia, insistindo que as boas obras, longe de contradizer a graça, são precisamente o que a graça produz e exige como fruto necessário."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Ancianos calificados y falsos maestros silenciados",
+        "en": "Qualified Elders and Silenced False Teachers",
+        "pt": "Presbíteros qualificados e falsos mestres silenciados"
+      },
+      "descripcion": {
+        "es": "Pablo se presenta como \"siervo de Dios y apóstol de Jesucristo\" conforme a la fe de los escogidos y el conocimiento de la verdad que es según la piedad, fundado en la esperanza de vida eterna que Dios prometió desde antes del principio de los siglos (Tit 1:1–3). Explica que dejó a Tito en Creta para poner en orden lo que quedaba por corregir y designar ancianos en cada ciudad (Tit 1:5), detallando cualificaciones exigentes: irreprensible, marido de una sola mujer, con hijos creyentes, no dado al vino ni violento, hospitalario, amante de lo bueno, justo, santo, dueño de sí mismo, retenedor fiel de la palabra (Tit 1:6–9). El capítulo cierra denunciando a los muchos rebeldes, especialmente los de la circuncisión, que trastornan casas enteras enseñando lo que no conviene por ganancia deshonesta (Tit 1:10–11), citando incluso a un poeta cretense sobre el carácter mentiroso de su propio pueblo (Tit 1:12), y ordenando reprenderlos con severidad para que sean sanos en la fe (Tit 1:13).",
+        "en": "Paul presents himself as \"a servant of God and an apostle of Jesus Christ\" for the sake of the faith of God's elect and their knowledge of the truth that accords with godliness, grounded in the hope of eternal life that God promised before the ages began (Tit 1:1–3). He explains that he left Titus in Crete to put what remained into order and appoint elders in every town (Tit 1:5), detailing demanding qualifications: above reproach, the husband of one wife, with believing children, not addicted to wine or violent, hospitable, a lover of good, upright, holy, self-controlled, a firm holder of the trustworthy word (Tit 1:6–9). The chapter closes denouncing the many insubordinate people, especially those of the circumcision, who upset whole households by teaching what they ought not, for shameful gain (Tit 1:10–11), even quoting a Cretan poet on his own people's lying character (Tit 1:12), and commanding that they be sharply rebuked so that they may be sound in the faith (Tit 1:13).",
+        "pt": "Paulo se apresenta como \"servo de Deus e apóstolo de Jesus Cristo\" segundo a fé dos eleitos de Deus e o conhecimento da verdade que é segundo a piedade, fundado na esperança da vida eterna que Deus prometeu antes dos tempos dos séculos (Tt 1:1–3). Explica que deixou Tito em Creta para pôr em boa ordem o que ainda restava e designar presbíteros em cada cidade (Tt 1:5), detalhando qualificações exigentes: irrepreensível, marido de uma só mulher, com filhos crentes, não dado ao vinho nem violento, hospitaleiro, amigo do bem, justo, santo, temperante, apegado fielmente à palavra (Tt 1:6–9). O capítulo se encerra denunciando os muitos insubordinados, especialmente os da circuncisão, que transtornam casas inteiras ensinando o que não convém por torpe ganância (Tt 1:10–11), citando até um poeta cretense sobre o caráter mentiroso do seu próprio povo (Tt 1:12), e ordenando que sejam repreendidos com severidade para que sejam sãos na fé (Tt 1:13)."
+      },
+      "eventoClave": {
+        "es": "El encargo fundacional de designar ancianos calificados en cada ciudad de Creta (Tit 1:5), estableciendo el orden eclesiástico como tarea central de la carta.",
+        "en": "The foundational charge to appoint qualified elders in every town of Crete (Tit 1:5), establishing church order as the letter's central task.",
+        "pt": "O encargo fundacional de designar presbíteros qualificados em cada cidade de Creta (Tt 1:5), estabelecendo a ordem eclesiástica como tarefa central da carta."
+      },
+      "versiculoClave": "Tit 1:5",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Ti 3:1-7",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo establece cualificaciones prácticamente idénticas para ancianos/obispos en su carta a Timoteo, confirmando un estándar apostólico común para el oficio.",
+            "en": "Paul establishes nearly identical qualifications for elders/overseers in his letter to Timothy, confirming a common apostolic standard for the office.",
+            "pt": "Paulo estabelece qualificações praticamente idênticas para presbíteros/bispos em sua carta a Timóteo, confirmando um padrão apostólico comum para o ofício."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Palabra de Dios/Ley": {
+            "es": "El anciano debe ser \"retenedor fiel de la palabra tal como se le enseñó\" para poder exhortar con sana enseñanza y refutar a los que contradicen (Tit 1:9).",
+            "en": "The elder must \"hold firm to the trustworthy word as taught\" so as to exhort in sound doctrine and rebuke those who contradict it (Tit 1:9).",
+            "pt": "O presbítero deve \"apegar-se à palavra fiel, como lhe foi ensinada\" para poder exortar com a sã doutrina e convencer os contradizentes (Tt 1:9)."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "Los falsos maestros profesan conocer a Dios pero lo niegan con sus hechos, siendo abominables, desobedientes e inútiles para toda buena obra (Tit 1:16).",
+              "en": "The false teachers profess to know God but deny him by their works, being detestable, disobedient, and unfit for any good work (Tit 1:16).",
+              "pt": "Os falsos mestres professam conhecer a Deus, mas o negam com as obras, sendo abomináveis, desobedientes e reprovados para toda boa obra (Tt 1:16)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Sana doctrina para cada grupo, fundada en la gracia",
+        "en": "Sound Doctrine for Every Group, Grounded in Grace",
+        "pt": "Sã doutrina para cada grupo, fundada na graça"
+      },
+      "descripcion": {
+        "es": "Pablo instruye a Tito a hablar lo que está de acuerdo con la sana doctrina (Tit 2:1), detallando exhortaciones concretas para ancianos, ancianas, mujeres jóvenes, jóvenes y siervos (Tit 2:2–10), cada una orientada a que \"la doctrina de Dios nuestro Salvador\" sea adornada en todo (Tit 2:10). El capítulo culmina en uno de los pasajes cristológicos más densos del NT: \"la gracia de Dios se ha manifestado para salvación a todos los hombres, enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y píamente, aguardando la bienaventurada esperanza y la manifestación de la gloria de nuestro gran Dios y Salvador Jesucristo\" (Tit 2:11–13), quien \"se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo propio, celoso de buenas obras\" (Tit 2:14). Pablo cierra ordenando a Tito hablar, exhortar y reprender con toda autoridad (Tit 2:15).",
+        "en": "Paul instructs Titus to speak what accords with sound doctrine (Tit 2:1), detailing concrete exhortations for older men, older women, young women, young men, and servants (Tit 2:2–10), each oriented so that \"the teaching of God our Savior\" may be adorned in every way (Tit 2:10). The chapter culminates in one of the NT's most doctrinally dense christological passages: \"the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age, waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ\" (Tit 2:11–13), who \"gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works\" (Tit 2:14). Paul closes commanding Titus to speak, exhort, and rebuke with all authority (Tit 2:15).",
+        "pt": "Paulo instrui Tito a falar o que convém à sã doutrina (Tt 2:1), detalhando exortações concretas para anciãos, anciãs, mulheres jovens, jovens e servos (Tt 2:2–10), cada uma orientada para que \"a doutrina de Deus nosso Salvador\" seja adornada em tudo (Tt 2:10). O capítulo culmina em uma das passagens cristológicas mais densas do NT: \"a graça de Deus se há manifestado, trazendo salvação a todos os homens, ensinando-nos que, renunciando à impiedade e às paixões mundanas, vivamos neste presente século sóbria, justa e piamente, aguardando a bem-aventurada esperança e o aparecimento da glória do nosso grande Deus e Salvador Jesus Cristo\" (Tt 2:11–13), que \"se deu a si mesmo por nós para nos remir de toda iniquidade e purificar para si um povo particular, zeloso de boas obras\" (Tt 2:14). Paulo encerra ordenando que Tito fale, exorte e repreenda com toda autoridade (Tt 2:15)."
+      },
+      "eventoClave": {
+        "es": "La manifestación de la gracia de Dios que trae salvación y educa hacia la vida piadosa, culminando en la espera de \"la gloria de nuestro gran Dios y Salvador Jesucristo\" (Tit 2:11–13).",
+        "en": "The appearing of God's grace bringing salvation and training toward godly living, culminating in waiting for \"the glory of our great God and Savior Jesus Christ\" (Tit 2:11–13).",
+        "pt": "A manifestação da graça de Deus que traz salvação e educa para a vida piedosa, culminando na espera da \"glória do nosso grande Deus e Salvador Jesus Cristo\" (Tt 2:11–13)."
+      },
+      "versiculoClave": "Tit 2:13",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 9:5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Junto con Tito 2:13, este es uno de los textos paulinos más citados como afirmación explícita de la deidad de Cristo.",
+            "en": "Alongside Titus 2:13, this is one of the Pauline texts most cited as an explicit affirmation of Christ's deity.",
+            "pt": "Junto com Tito 2:13, este é um dos textos paulinos mais citados como afirmação explícita da divindade de Cristo."
+          }
+        },
+        {
+          "ref": "Is 11:4",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La expectativa de la manifestación gloriosa del Salvador se enlaza con la esperanza mesiánica profética del AT.",
+            "en": "The expectation of the Savior's glorious appearing links to the OT's prophetic messianic hope.",
+            "pt": "A expectativa da manifestação gloriosa do Salvador se enlaça com a esperança messiânica profética do AT."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "Los creyentes aguardan \"la manifestación de la gloria de nuestro gran Dios y Salvador Jesucristo\" (Tit 2:13), quien se dio a sí mismo para redimir y purificar un pueblo propio (Tit 2:14).",
+            "en": "Believers await \"the appearing of the glory of our great God and Savior Jesus Christ\" (Tit 2:13), who gave himself to redeem and purify a people of his own (Tit 2:14).",
+            "pt": "Os crentes aguardam \"o aparecimento da glória do nosso grande Deus e Salvador Jesus Cristo\" (Tt 2:13), que se deu a si mesmo para remir e purificar um povo particular (Tt 2:14)."
+          }
+        },
+        "secundarios": [
+          {
+            "Corazón Nuevo/Nuevo Nacimiento": {
+              "es": "La gracia enseña a renunciar a la impiedad y a los deseos mundanos y a vivir sobria, justa y píamente (Tit 2:11–12), fruto de una transformación interior producida por la gracia.",
+              "en": "Grace trains believers to renounce ungodliness and worldly passions and to live self-controlled, upright, and godly lives (Tit 2:11–12), the fruit of an inward transformation produced by grace.",
+              "pt": "A graça ensina a renunciar à impiedade e às paixões mundanas e a viver sóbria, justa e piamente (Tt 2:11–12), fruto de uma transformação interior produzida pela graça."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Salvos por misericordia, consagrados a las buenas obras",
+        "en": "Saved by Mercy, Devoted to Good Works",
+        "pt": "Salvos pela misericórdia, consagrados às boas obras"
+      },
+      "descripcion": {
+        "es": "Pablo instruye a Tito a recordar a los creyentes que estén sujetos a las autoridades, sean obedientes, dispuestos a toda buena obra y mansos con todos los hombres (Tit 3:1–2), pues también ellos fueron antes insensatos, desobedientes y esclavos de placeres (Tit 3:3). Sobre ese trasfondo declara la doctrina central de la carta: \"nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino según su misericordia, por el lavamiento de la regeneración y la renovación por el Espíritu Santo\" (Tit 3:4–5), de modo que, \"justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida eterna\" (Tit 3:7). Insiste en que los creyentes procuren ocuparse en buenas obras, evitando necias controversias, genealogías, contiendas y discusiones sobre la ley (Tit 3:8–9), y manda apartarse del hombre herético después de una y otra amonestación (Tit 3:10). La carta cierra con instrucciones de viaje —enviar a Artemas o Tíquico para relevar a Tito, encontrarse en Nicópolis, proveer a Zenas y Apolos— y una bendición final de gracia (Tit 3:12–15).",
+        "en": "Paul instructs Titus to remind believers to be submissive to authorities, obedient, ready for every good work, and gentle toward all people (Tit 3:1–2), for they themselves were once foolish, disobedient, and slaves to passions (Tit 3:3). Against that backdrop he declares the letter's central doctrine: \"he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit\" (Tit 3:4–5), so that \"being justified by his grace we might become heirs according to the hope of eternal life\" (Tit 3:7). He insists that believers be careful to devote themselves to good works, avoiding foolish controversies, genealogies, dissensions, and quarrels about the law (Tit 3:8–9), and commands that a divisive person be avoided after a first and second warning (Tit 3:10). The letter closes with travel instructions — sending Artemas or Tychicus to relieve Titus, meeting at Nicopolis, providing for Zenas and Apollos — and a final blessing of grace (Tit 3:12–15).",
+        "pt": "Paulo instrui Tito a lembrar os crentes de que sejam sujeitos às autoridades, obedientes, prontos para toda boa obra e mansos para com todos os homens (Tt 3:1–2), pois também eles foram outrora insensatos, desobedientes e escravos de prazeres (Tt 3:3). Sobre esse pano de fundo declara a doutrina central da carta: \"nos salvou, não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, mediante o lavar da regeneração e da renovação do Espírito Santo\" (Tt 3:4–5), de modo que, \"sendo justificados pela sua graça, fôssemos feitos herdeiros segundo a esperança da vida eterna\" (Tt 3:7). Insiste em que os crentes sejam cuidadosos em se dedicar às boas obras, evitando questões insensatas, genealogias, contendas e disputas acerca da lei (Tt 3:8–9), e manda evitar o homem herético depois de uma e outra admoestação (Tt 3:10). A carta se encerra com instruções de viagem — enviar Artemas ou Tíquico para substituir Tito, encontrar-se em Nicópolis, prover Zenas e Apolo — e uma bênção final de graça (Tt 3:12–15)."
+      },
+      "eventoClave": {
+        "es": "La declaración central de que Dios nos salvó no por obras de justicia propia sino según su misericordia, mediante el lavamiento de la regeneración y la renovación del Espíritu Santo (Tit 3:4–5).",
+        "en": "The central declaration that God saved us not by works of self-righteousness but according to his own mercy, through the washing of regeneration and renewal of the Holy Spirit (Tit 3:4–5).",
+        "pt": "A declaração central de que Deus nos salvou não por obras de justiça própria, mas segundo sua misericórdia, mediante o lavar da regeneração e da renovação do Espírito Santo (Tt 3:4–5)."
+      },
+      "versiculoClave": "Tit 3:5",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ef 2:8-9",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Ambos textos excluyen las obras propias como base de la salvación y la atribuyen enteramente a la gracia de Dios.",
+            "en": "Both texts exclude one's own works as the basis of salvation and attribute it entirely to God's grace.",
+            "pt": "Ambos os textos excluem as obras próprias como base da salvação e a atribuem inteiramente à graça de Deus."
+          }
+        },
+        {
+          "ref": "Jn 3:5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El \"lavamiento de la regeneración\" recoge el lenguaje de nacer del agua y del Espíritu que Jesús enseña a Nicodemo.",
+            "en": "The \"washing of regeneration\" picks up the language of being born of water and the Spirit that Jesus teaches Nicodemus.",
+            "pt": "O \"lavar da regeneração\" retoma a linguagem de nascer da água e do Espírito que Jesus ensina a Nicodemos."
+          }
+        }
+      ],
+      "era": "Aplicación",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Justificación": {
+            "es": "Nos salvó no por obras de justicia propia sino según su misericordia, de modo que, justificados por su gracia, llegamos a ser herederos conforme a la esperanza de vida eterna (Tit 3:5,7).",
+            "en": "He saved us not by works of self-righteousness but according to his own mercy, so that, justified by his grace, we became heirs according to the hope of eternal life (Tit 3:5,7).",
+            "pt": "Ele nos salvou não por obras de justiça própria, mas segundo sua misericórdia, de modo que, justificados por sua graça, nos tornamos herdeiros segundo a esperança da vida eterna (Tt 3:5,7)."
+          }
+        },
+        "secundarios": [
+          {
+            "Corazón Nuevo/Nuevo Nacimiento": {
+              "es": "La salvación se describe como \"lavamiento de la regeneración y la renovación por el Espíritu Santo\" (Tit 3:5), lenguaje explícito de nuevo nacimiento espiritual.",
+              "en": "Salvation is described as \"the washing of regeneration and renewal of the Holy Spirit\" (Tit 3:5), explicit language of spiritual new birth.",
+              "pt": "A salvação é descrita como \"o lavar da regeneração e da renovação do Espírito Santo\" (Tt 3:5), linguagem explícita de novo nascimento espiritual."
+            }
+          },
+          {
+            "Trabajo/Vocación": {
+              "es": "Los creyentes deben procurar ocuparse en buenas obras para atender casos de necesidad urgente, a fin de no ser sin fruto (Tit 3:14).",
+              "en": "Believers must be careful to devote themselves to good works to help cases of urgent need, so that they may not be unfruitful (Tit 3:14).",
+              "pt": "Os crentes devem ser cuidadosos em se dedicar às boas obras para atender casos de necessidade urgente, a fim de não serem infrutíferos (Tt 3:14)."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Lane T. Dennis y Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Resúmenes de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Resumos de capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Publicada por Crossway y editada por un equipo de más de noventa eruditos evangélicos bajo la dirección general de Wayne Grudem y Lane T. Dennis, esta Biblia de estudio es uno de los recursos reformados más utilizados en el mundo de habla inglesa.",
+          "en": "Published by Crossway and edited by a team of more than ninety evangelical scholars under the general direction of Wayne Grudem and Lane T. Dennis, this study Bible is one of the most widely used Reformed resources in the English-speaking world.",
+          "pt": "Publicada pela Crossway e editada por uma equipe de mais de noventa eruditos evangélicos sob a direção geral de Wayne Grudem e Lane T. Dennis, esta Bíblia de estudo é um dos recursos reformados mais utilizados no mundo de língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas versículo por versículo con ensayos temáticos y artículos doctrinales, todo desde una perspectiva evangélica reformada consistente y accesible a lectores no especializados.",
+          "en": "Combines verse-by-verse exegetical notes with thematic essays and doctrinal articles, all from a consistent Reformed evangelical perspective accessible to non-specialist readers.",
+          "pt": "Combina notas exegéticas versículo por versículo com ensaios temáticos e artigos doutrinários, tudo a partir de uma perspectiva evangélica reformada consistente e acessível a leitores não especializados."
+        },
+        "aportacion": {
+          "es": "Provee la estructura introductoria y el marco cronológico del período post-Hechos 28 usados en este registro.",
+          "en": "Provides the introductory structure and the chronological framework of the post-Acts-28 period used in this record.",
+          "pt": "Fornece a estrutura introdutória e o arcabouço cronológico do período pós-Atos 28 usados neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology (Grudem, 1994)"
+        ],
+        "url": "https://www.crossway.org/esv-study-bible/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Distintivos reformados",
+          "Âncoras confessionais",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la inerrancia bíblica y la doctrina de la santidad de Dios.",
+          "en": "R.C. Sproul (1939–2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of twentieth-century Reformed evangelicalism, known for his defense of biblical inerrancy and the doctrine of the holiness of God.",
+          "pt": "R.C. Sproul (1939–2017) foi teólogo reformado, fundador do Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da inerrância bíblica e da doutrina da santidade de Deus."
+        },
+        "metodo": {
+          "es": "Dirige un equipo de eruditos reformados que anota cada libro con explícita atención a la Confesión de Westminster y los credos históricos de la iglesia reformada.",
+          "en": "He directs a team of Reformed scholars who annotate each book with explicit attention to the Westminster Confession and the historic creeds of the Reformed church.",
+          "pt": "Dirige uma equipe de eruditos reformados que anota cada livro com explícita atenção à Confissão de Westminster e aos credos históricos da igreja reformada."
+        },
+        "aportacion": {
+          "es": "Fundamenta la lectura de Tit 2:13 como afirmación de la deidad de Cristo y de Tit 3:5,7 como formulación clásica de la justificación sola gratia.",
+          "en": "Grounds the reading of Tit 2:13 as an affirmation of Christ's deity and of Tit 3:5,7 as a classic formulation of justification sola gratia.",
+          "pt": "Fundamenta a leitura de Tt 2:13 como afirmação da divindade de Cristo e de Tt 3:5,7 como formulação clássica da justificação sola gratia."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto NBLA",
+          "Notas de estudio en español"
+        ],
+        "en": [
+          "NBLA text",
+          "Spanish-language study notes"
+        ],
+        "pt": [
+          "Texto NBLA",
+          "Notas de estudo em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición en español de la Reformation Study Bible, adaptada con el texto de la NBLA y preparada por un equipo de teólogos hispanohablantes bajo la supervisión editorial de Ligonier Ministries.",
+          "en": "The Spanish-language edition of the Reformation Study Bible, adapted with the NBLA text and prepared by a team of Spanish-speaking theologians under the editorial supervision of Ligonier Ministries.",
+          "pt": "Edição em espanhol da Reformation Study Bible, adaptada com o texto da NBLA e preparada por uma equipe de teólogos hispanofalantes sob a supervisão editorial do Ligonier Ministries."
+        },
+        "metodo": {
+          "es": "Traduce y contextualiza para el lector hispanohablante el mismo aparato de notas reformadas de la edición en inglés, manteniendo fidelidad doctrinal a la Confesión de Westminster.",
+          "en": "Translates and contextualizes for the Spanish-speaking reader the same apparatus of Reformed notes from the English edition, maintaining doctrinal fidelity to the Westminster Confession.",
+          "pt": "Traduz e contextualiza para o leitor hispanofalante o mesmo aparato de notas reformadas da edição em inglês, mantendo fidelidade doutrinária à Confissão de Westminster."
+        },
+        "aportacion": {
+          "es": "Provee el texto bíblico NBLA y las glosas usadas para los versículos clave y el marco doctrinal en español.",
+          "en": "Provides the NBLA biblical text and glosses used for the key verses and the Spanish-language doctrinal framework.",
+          "pt": "Fornece o texto bíblico NBLA e as glosas usadas para os versículos-chave e o arcabouço doutrinário em espanhol."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Cristología",
+          "Justificación"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Christology",
+          "Justification"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Cristologia",
+          "Justificação"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo reformado, profesor emérito del Phoenix Seminary y una de las figuras más citadas de la teología sistemática evangélica contemporánea, coeditor de la ESV Study Bible.",
+          "en": "Wayne Grudem is a Reformed theologian, professor emeritus at Phoenix Seminary, and one of the most cited figures in contemporary evangelical systematic theology, co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo reformado, professor emérito do Phoenix Seminary e uma das figuras mais citadas da teologia sistemática evangélica contemporânea, coeditor da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana en categorías sistemáticas clásicas, apoyando cada afirmación en exégesis cuidadosa de los textos bíblicos relevantes.",
+          "en": "Organizes Christian doctrine into classic systematic categories, supporting each claim with careful exegesis of the relevant biblical texts.",
+          "pt": "Organiza a doutrina cristã em categorias sistemáticas clássicas, apoiando cada afirmação em exegese cuidadosa dos textos bíblicos relevantes."
+        },
+        "aportacion": {
+          "es": "Provee el marco categorial de cristología, justificación y eclesiología aplicado a los pasajes de Tito sobre la deidad de Cristo y los requisitos de los ancianos.",
+          "en": "Provides the categorical framework of Christology, justification, and ecclesiology applied to the passages of Titus on Christ's deity and the requirements for elders.",
+          "pt": "Fornece o arcabouço categorial de cristologia, justificação e eclesiologia aplicado às passagens de Tito sobre a divindade de Cristo e os requisitos dos presbíteros."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Enfoque cristológico",
+          "Tipos y sombras",
+          "Historia redentora"
+        ],
+        "en": [
+          "Christological focus",
+          "Types and shadows",
+          "Redemptive history"
+        ],
+        "pt": [
+          "Enfoque cristológico",
+          "Tipos e sombras",
+          "História redentora"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el fundador de la teología bíblica reformada moderna y profesor en el Seminario Teológico de Princeton, cuya obra sentó las bases del método redentor-histórico de lectura de la Escritura.",
+          "en": "Geerhardus Vos (1862–1949) was the founder of modern Reformed biblical theology and a professor at Princeton Theological Seminary, whose work laid the foundations for the redemptive-historical method of reading Scripture.",
+          "pt": "Geerhardus Vos (1862–1949) foi o fundador da teologia bíblica reformada moderna e professor no Seminário Teológico de Princeton, cuja obra lançou as bases do método redentor-histórico de leitura da Escritura."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas del pacto, leyendo cada libro en su lugar dentro del plan redentor que culmina en Cristo.",
+          "en": "Traces the progressive development of divine revelation through the covenant epochs, reading each book in its place within the redemptive plan that culminates in Christ.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas do pacto, lendo cada livro em seu lugar dentro do plano redentor que culmina em Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamenta la lectura tipológica de los requisitos sacerdotales levíticos aplicados a los ancianos y del lavamiento de la regeneración en continuidad con las abluciones del Antiguo Pacto.",
+          "en": "Grounds the typological reading of the Levitical priestly requirements applied to elders and of the washing of regeneration in continuity with Old Covenant ablutions.",
+          "pt": "Fundamenta a leitura tipológica dos requisitos sacerdotais levíticos aplicados aos presbíteros e do lavar da regeneração em continuidade com as abluções da Antiga Aliança."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://www.monergism.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The Pastoral Epistles (NIGTC)",
+      "autor": "George W. Knight III",
+      "año": 1992,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Defensa de la autoría paulina",
+          "Contexto histórico de Creta",
+          "Biografías de personajes"
+        ],
+        "en": [
+          "Defense of Pauline authorship",
+          "Historical context of Crete",
+          "Character biographies"
+        ],
+        "pt": [
+          "Defesa da autoria paulina",
+          "Contexto histórico de Creta",
+          "Biografias de personagens"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "George W. Knight III fue erudito reformado del Nuevo Testamento, profesor en el Covenant Theological Seminary y reconocido especialista en las epístolas pastorales, defensor riguroso de su autenticidad paulina.",
+          "en": "George W. Knight III was a Reformed New Testament scholar, professor at Covenant Theological Seminary, and a recognized specialist in the pastoral epistles, a rigorous defender of their Pauline authenticity.",
+          "pt": "George W. Knight III foi erudito reformado do Novo Testamento, professor no Covenant Theological Seminary e reconhecido especialista nas epístolas pastorais, defensor rigoroso de sua autenticidade paulina."
+        },
+        "metodo": {
+          "es": "Combina exégesis detallada del texto griego con defensa sistemática de la autoría paulina frente a la crítica moderna, atendiendo cuidadosamente al trasfondo histórico grecorromano de cada carta pastoral.",
+          "en": "Combines detailed exegesis of the Greek text with a systematic defense of Pauline authorship against modern criticism, carefully attending to the Greco-Roman historical background of each pastoral letter.",
+          "pt": "Combina exegese detalhada do texto grego com defesa sistemática da autoria paulina diante da crítica moderna, atendendo cuidadosamente ao pano de fundo histórico greco-romano de cada carta pastoral."
+        },
+        "aportacion": {
+          "es": "Aporta la defensa rigurosa de la autoría paulina de Tito y el análisis detallado del trasfondo cultural cretense, incluida la cita de Epiménides.",
+          "en": "Contributes the rigorous defense of Titus's Pauline authorship and the detailed analysis of the Cretan cultural background, including the Epimenides quotation.",
+          "pt": "Contribui com a defesa rigorosa da autoria paulina de Tito e a análise detalhada do pano de fundo cultural cretense, incluindo a citação de Epimênides."
+        },
+        "obras": [
+          "The Pastoral Epistles, NIGTC (1992)",
+          "The New Testament Teaching on the Role Relationship of Men and Women (1977)"
+        ],
+        "url": "https://www.eerdmans.com/Products/2382/the-pastoral-epistles.aspx"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.9,
+    "camposMarcados": [
+      {
+        "campo": "personajes[].biografiaHistorica (Zenas, Artemas)",
+        "razon": "Ninguno aparece en fuentes históricas externas independientes al NT; el nivel de evidencia se marca 'especulativo' dado que solo se conocen por esta única mención textual.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08T00:00:00Z"
+      },
+      {
+        "campo": "personajes[].biografiaHistorica (Los falsos maestros de la circuncisión)",
+        "razon": "No es posible identificar individuos históricos concretos; se documenta el fenómeno general de la agitación judaizante en el ministerio paulino, marcando el nivel de evidencia como 'bajo'.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08T00:00:00Z"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas (autoría y cronología del ministerio en Creta)",
+        "razon": "Se presenta la posición crítica moderna (autoría pseudónima posterior) junto con la posición reformada tradicional (autoría paulina directa durante un período de viajes posterior a Hechos 28), favoreciendo esta última conforme a la regla de conflicto de autoría del pipeline.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08T00:00:00Z"
+      },
+      {
+        "campo": "año.desde/hasta y escritoEn",
+        "razon": "La datación c. 62–66 d.C. y el lugar de escritura (posiblemente Macedonia o Éfeso) siguen la posición reformada mayoritaria de un ministerio posterior a la primera prisión romana de Pablo, dado que Hechos 28 no narra la conclusión del proceso legal.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-08T00:00:00Z"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-08T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-07-08T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-07-08T00:00:00Z",
+          "fechaFin": "2026-07-08T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

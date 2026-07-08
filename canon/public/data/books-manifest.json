@@ -1636,12 +1636,13 @@
       "ordenCanon": 53,
       "capitulosTotal": 3,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Amplía la escatología de 1 Tesalonicenses, describiendo el 'hombre de iniquidad' que precede a la parusía — pasaje fundamental en la teología reformada del fin de los tiempos.",
         "en": "Expands on the eschatology of 1 Thessalonians, describing the 'man of lawlessness' who precedes the parousia — a foundational passage in Reformed end-times theology.",
         "pt": "Amplia a escatologia de 1 Tessalonicenses, descrevendo o 'homem da iniquidade' que precede a parusía — passagem fundamental na teologia reformada dos fins dos tempos."
-      }
+      },
+      "dataFile": "2tesalonicenses.json"
     },
     {
       "id": 54,
@@ -1698,12 +1699,13 @@
       "ordenCanon": 56,
       "capitulosTotal": 3,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Tercera carta pastoral: instruye a Tito sobre gobierno de la iglesia en Creta, especialmente la designación de ancianos y la confrontación de falsas doctrinas.",
         "en": "Third pastoral letter: instructs Titus on church governance in Crete, especially the appointment of elders and the confrontation of false doctrines.",
         "pt": "Terceira carta pastoral: instrui Tito sobre o governo da igreja em Creta, especialmente a designação de presbíteros e o confronto com falsas doutrinas."
-      }
+      },
+      "dataFile": "tito.json"
     },
     {
       "id": 57,
@@ -1718,12 +1720,13 @@
       "ordenCanon": 57,
       "capitulosTotal": 1,
       "divisionColor": "#90D060",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La epístola más corta y personal de Pablo: intercede por Onésimo, un esclavo fugitivo convertido, ante su amo Filemón — ilustración vívida de la doctrina de la reconciliación y la intercesión.",
         "en": "The shortest and most personal of Paul's letters: intercedes for Onesimus, a converted runaway slave, before his master Philemon — a vivid illustration of the doctrine of reconciliation and intercession.",
         "pt": "A epístola mais curta e pessoal de Paulo: intercede por Onésimo, um escravo fugitivo convertido, diante de seu senhor Filemon — ilustração vívida da doutrina da reconciliação e da intercessão."
-      }
+      },
+      "dataFile": "filemon.json"
     },
     {
       "id": 58,

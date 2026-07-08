@@ -493,7 +493,8 @@
     "init": "ΑΠ",
     "xCh": {
       "Hch": 18,
-      "1Co": 3
+      "1Co": 3,
+      "Tit": 3
     },
     "side": "below",
     "badge": {
@@ -1425,7 +1426,8 @@
     "init": "ΣΙ",
     "xCh": {
       "1P": 5,
-      "1Ts": 1
+      "1Ts": 1,
+      "2Ts": 1
     },
     "side": "above",
     "badge": {
@@ -1486,7 +1488,10 @@
     "id": "onesimo",
     "color": "#8B5A2A",
     "init": "Ον",
-    "xCh": 4,
+    "xCh": {
+      "Col": 4,
+      "Flm": 10
+    },
     "side": "below",
     "badge": {
       "es": "ESCLAVO CONVERTIDO",
@@ -1498,7 +1503,10 @@
     "id": "arquipo",
     "color": "#8B2A5A",
     "init": "Αρ",
-    "xCh": 4,
+    "xCh": {
+      "Col": 4,
+      "Flm": 2
+    },
     "side": "above",
     "badge": {
       "es": "MINISTRO EXHORTADO",
@@ -1648,7 +1656,8 @@
       "2Ti": 1,
       "Fil": 1,
       "He": 13,
-      "1Ts": 3
+      "1Ts": 3,
+      "2Ts": 1
     },
     "side": "above",
     "badge": {
@@ -1991,6 +2000,78 @@
       "es": "ADVERSARIO ESPIRITUAL",
       "en": "SPIRITUAL ADVERSARY",
       "pt": "ADVERSÁRIO ESPIRITUAL"
+    }
+  },
+  "El hombre de iniquidad": {
+    "id": "hombredeiniquidad",
+    "color": "#5A2A4A",
+    "init": "ΑΝ",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "HOMBRE DE INIQUIDAD",
+      "en": "MAN OF LAWLESSNESS",
+      "pt": "HOMEM DA INIQUIDADE"
+    }
+  },
+  "Filemón": {
+    "id": "filemon",
+    "color": "#2A6B8B",
+    "init": "Φι",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "AMO CRISTIANO",
+      "en": "CHRISTIAN MASTER",
+      "pt": "SENHOR CRISTÃO"
+    }
+  },
+  "Apia": {
+    "id": "apia",
+    "color": "#4A8B6B",
+    "init": "Απ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "HERMANA EN LA FE",
+      "en": "SISTER IN THE FAITH",
+      "pt": "IRMÃ NA FÉ"
+    }
+  },
+  "Los falsos maestros de la circuncisión": {
+    "id": "falsos-maestros-tito",
+    "color": "#8B2A2A",
+    "init": "Πε",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "MAESTROS JUDAIZANTES",
+      "en": "JUDAIZING TEACHERS",
+      "pt": "MESTRES JUDAIZANTES"
+    }
+  },
+  "Zenas": {
+    "id": "zenas",
+    "color": "#7A5A2A",
+    "init": "Ζη",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "INTÉRPRETE DE LA LEY",
+      "en": "THE LAWYER",
+      "pt": "DOUTOR DA LEI"
+    }
+  },
+  "Artemas": {
+    "id": "artemas",
+    "color": "#5A7A6B",
+    "init": "Αρ",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "COLABORADOR ENVIADO",
+      "en": "SENT COWORKER",
+      "pt": "COLABORADOR ENVIADO"
     }
   }
 }
