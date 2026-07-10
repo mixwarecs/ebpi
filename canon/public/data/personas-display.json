@@ -2193,5 +2193,77 @@
       "en": "EXAMPLE OF ENDURANCE",
       "pt": "EXEMPLO DE PERSEVERANÇA"
     }
+  },
+  "Isaías": {
+    "id": "isaias",
+    "color": "#2A6B5E",
+    "init": "יש",
+    "xCh": 6,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA DE JUDÁ",
+      "en": "PROPHET OF JUDAH",
+      "pt": "PROFETA DE JUDÁ"
+    }
+  },
+  "Acaz": {
+    "id": "acaz",
+    "color": "#6B4A3A",
+    "init": "אח",
+    "xCh": 7,
+    "side": "below",
+    "badge": {
+      "es": "REY INCRÉDULO",
+      "en": "UNBELIEVING KING",
+      "pt": "REI INCRÉDULO"
+    }
+  },
+  "Ezequías": {
+    "id": "ezequias",
+    "color": "#2E5A9A",
+    "init": "חז",
+    "xCh": 36,
+    "side": "above",
+    "badge": {
+      "es": "REY FIEL",
+      "en": "FAITHFUL KING",
+      "pt": "REI FIEL"
+    }
+  },
+  "Senaquerib": {
+    "id": "senaquerib",
+    "color": "#8A3418",
+    "init": "סנ",
+    "xCh": 36,
+    "side": "below",
+    "badge": {
+      "es": "REY DE ASIRIA",
+      "en": "KING OF ASSYRIA",
+      "pt": "REI DA ASSÍRIA"
+    }
+  },
+  "Ciro": {
+    "id": "ciro",
+    "color": "#B08A2A",
+    "init": "כו",
+    "xCh": 44,
+    "side": "above",
+    "badge": {
+      "es": "UNGIDO LIBERTADOR",
+      "en": "ANOINTED DELIVERER",
+      "pt": "UNGIDO LIBERTADOR"
+    }
+  },
+  "El Siervo del SEÑOR": {
+    "id": "siervo-senor",
+    "color": "#8A1A3A",
+    "init": "עב",
+    "xCh": 42,
+    "side": "below",
+    "badge": {
+      "es": "SIERVO SUFRIENTE",
+      "en": "SUFFERING SERVANT",
+      "pt": "SERVO SOFREDOR"
+    }
   }
 }

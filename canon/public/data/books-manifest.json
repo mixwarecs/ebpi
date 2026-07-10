@@ -1023,12 +1023,13 @@
       "ordenCanon": 23,
       "capitulosTotal": 66,
       "divisionColor": "#E08870",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "O 'quinto evangelio' del AT — desde el juicio sobre Judá hasta la consolación del Siervo Sufriente (cap. 53) y la nueva creación (caps. 65-66).",
         "en": "The 'fifth gospel' of the OT — from judgment on Judah to the consolation of the Suffering Servant (ch. 53) and the new creation (chs. 65-66).",
         "pt": "O 'quinto evangelho' do AT — desde o julgamento sobre Judá até a consolação do Servo Sofredor (cap. 53) e a nova criação (caps. 65-66)."
-      }
+      },
+      "dataFile": "isaias.json"
     },
     {
       "id": 24,

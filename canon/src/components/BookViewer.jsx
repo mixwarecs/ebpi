@@ -310,7 +310,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
             return (
               <div key={label} style={{borderLeft:`2px solid rgba(201,168,76,0.3)`, paddingLeft:12}}>
                 <div style={{fontSize:10, fontWeight:700, letterSpacing:3, color:"rgba(22,8,2,0.80)", marginBottom:4, textTransform:"uppercase"}}>{label}</div>
-                <div style={{fontSize:14, color:"rgba(22,10,3,0.88)", lineHeight:1.4}}>{values[i]}</div>
+                <div style={{fontSize:14, color:"rgba(22,10,3,0.88)", lineHeight:1.4}}>{lv(values[i])}</div>
               </div>
             );
           })}
