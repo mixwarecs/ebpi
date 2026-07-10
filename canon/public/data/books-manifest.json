@@ -1044,12 +1044,13 @@
       "ordenCanon": 24,
       "capitulosTotal": 52,
       "divisionColor": "#E08870",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El 'profeta llorón' que anuncia la inminente caída de Jerusalén y, en medio del juicio, la promesa explícita de un Nuevo Pacto (Jer 31:31-34).",
         "en": "The 'weeping prophet' who announces the imminent fall of Jerusalem and, in the midst of judgment, the explicit promise of a New Covenant (Jer 31:31-34).",
         "pt": "O 'profeta que chora' que anuncia a iminente queda de Jerusalém e, em meio ao julgamento, a promessa explícita de uma Nova Aliança (Jr 31:31-34)."
-      }
+      },
+      "dataFile": "jeremias.json"
     },
     {
       "id": 25,

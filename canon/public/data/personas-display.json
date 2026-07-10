@@ -2265,5 +2265,101 @@
       "en": "SUFFERING SERVANT",
       "pt": "SERVO SOFREDOR"
     }
+  },
+  "Jeremías": {
+    "id": "jeremias",
+    "color": "#7A3A4A",
+    "init": "יר",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA LLORÓN",
+      "en": "WEEPING PROPHET",
+      "pt": "PROFETA CHORÃO"
+    }
+  },
+  "Josías": {
+    "id": "josias",
+    "color": "#3A7A4A",
+    "init": "יא",
+    "xCh": 22,
+    "side": "below",
+    "badge": {
+      "es": "REY REFORMADOR",
+      "en": "REFORMING KING",
+      "pt": "REI REFORMADOR"
+    }
+  },
+  "Joacim": {
+    "id": "joacim",
+    "color": "#7A2A5A",
+    "init": "יק",
+    "xCh": 36,
+    "side": "below",
+    "badge": {
+      "es": "QUEMÓ EL ROLLO",
+      "en": "BURNED THE SCROLL",
+      "pt": "QUEIMOU O ROLO"
+    }
+  },
+  "Baruc, hijo de Nerías": {
+    "id": "baruc",
+    "color": "#5A6B7A",
+    "init": "בר",
+    "xCh": 36,
+    "side": "above",
+    "badge": {
+      "es": "ESCRIBA FIEL",
+      "en": "FAITHFUL SCRIBE",
+      "pt": "ESCRIBA FIEL"
+    }
+  },
+  "Sedequías": {
+    "id": "sedequias",
+    "color": "#6B5A4A",
+    "init": "צד",
+    "xCh": 38,
+    "side": "above",
+    "badge": {
+      "es": "ÚLTIMO REY DE JUDÁ",
+      "en": "LAST KING OF JUDAH",
+      "pt": "ÚLTIMO REI DE JUDÁ"
+    }
+  },
+  "Ebed-melec el cusita": {
+    "id": "ebedmelec",
+    "color": "#2A6B4A",
+    "init": "עמ",
+    "xCh": 38,
+    "side": "below",
+    "badge": {
+      "es": "RESCATÓ AL PROFETA",
+      "en": "RESCUED THE PROPHET",
+      "pt": "RESGATOU O PROFETA"
+    }
+  },
+  "Nabucodonosor": {
+    "id": "nabucodonosor",
+    "color": "#8B2A3A",
+    "init": "נב",
+    "xCh": 39,
+    "side": "above",
+    "badge": {
+      "es": "REY DE BABILONIA",
+      "en": "KING OF BABYLON",
+      "pt": "REI DA BABILÔNIA"
+    }
+  },
+  "Joaquín (Jeconías)": {
+    "id": "joaquin",
+    "color": "#4A3A6B",
+    "init": "יכ",
+    "xCh": 24,
+    "side": "above",
+    "badge": {
+      "es": "REY LLEVADO AL EXILIO",
+      "en": "KING TAKEN INTO EXILE",
+      "pt": "REI LEVADO AO EXÍLIO"
+    }
   }
 }
