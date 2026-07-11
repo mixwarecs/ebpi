@@ -2,7 +2,7 @@ import { useState } from "react";
 import { createPortal } from "react-dom";
 import { ExternalLink, Play, ChevronsDown, Share2, BookOpen } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
-import { GOLD, LAPIS, LAPIS_DEEP, PARCHMENT, SIENNA, BOOKS, CHAPTER_ERAS, UI, TABS, GS } from "../constants";
+import { GOLD, LAPIS, LAPIS_DEEP, PARCHMENT, SIENNA, BOOKS, CHAPTER_ERAS, UI, TABS, GS, hexToRgba } from "../constants";
 import { linkifyVerses, verseUrl, cap } from "../utils";
 import VerseLink from "./VerseLink";
 import TheologyTab from "./book/TheologyTab";
@@ -10,7 +10,7 @@ import SourcesTab from "./book/SourcesTab";
 import Timeline from "./book/Timeline";
 import ChapterSummaries from "./book/ChapterSummaries";
 
-export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, activeTab = "overview", onTabChange, onBottomTabChange, onChapterChange, manifestBook = null, initialBottomTab = "timeline", initialChapterIdx = null }) {
+export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, divisionColor = GOLD, activeTab = "overview", onTabChange, onBottomTabChange, onChapterChange, manifestBook = null, initialBottomTab = "timeline", initialChapterIdx = null }) {
   const lv = (t) => linkifyVerses(t, lang);
   const vu = (r) => verseUrl(r, lang);
 
@@ -271,23 +271,23 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         .canon-tab:not(:last-child) { border-right: 1px solid rgba(139,90,20,0.20) !important; }
         .canon-tab:not([data-active="true"]):hover { background: rgba(201,168,76,0.10) !important; color: rgba(80,45,10,0.90) !important; }
       `}</style>
-      <div style={GS.topBar} />
+      <div style={GS.topBar(divisionColor)} />
 
       <div style={{padding:"14px 24px", display:"flex", justifyContent:"center", alignItems:"center"}}>
         <button onClick={onBack} style={{
           fontFamily:"'Georgia',serif", fontSize:12, letterSpacing:2, color:"rgba(55,28,8,0.90)",
-          background:"rgba(201,168,76,0.14)", border:"1px solid rgba(139,90,20,0.35)",
+          background:hexToRgba(divisionColor, 0.14), border:`1px solid ${hexToRgba(divisionColor, 0.5)}`,
           borderRadius:20, cursor:"pointer", padding:"6px 16px 6px 12px",
           display:"inline-flex", alignItems:"center", gap:8,
           transition:"background 0.15s, border-color 0.15s",
         }}
-          onMouseEnter={e => { e.currentTarget.style.background = "rgba(201,168,76,0.28)"; e.currentTarget.style.borderColor = "rgba(201,168,76,0.6)"; }}
-          onMouseLeave={e => { e.currentTarget.style.background = "rgba(201,168,76,0.14)"; e.currentTarget.style.borderColor = "rgba(201,168,76,0.35)"; }}>
+          onMouseEnter={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.28); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.85); }}
+          onMouseLeave={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.14); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.5); }}>
           {UI[lang].backToShelf}
         </button>
       </div>
 
-      <header style={GS.header}>
+      <header style={GS.header(divisionColor)}>
         <div style={GS.eyebrow}>{UI[lang].eyebrow}</div>
         <div style={GS.h1}>{(manifestBook ? (manifestBook[lang] || manifestBook.es) : bookData ? (bookData.titulo[lang] || bookData.titulo.es) : "GÉNESIS").toUpperCase()}</div>
         <div style={GS.hebrew}>{bookData ? bookData.tituloOriginal : "בְּרֵאשִׁית"}</div>
@@ -330,7 +330,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
         <div style={GS.tabNavWrap}>
           <nav style={GS.tabNav}>
             {TABS.map((t, i) => (
-              <button key={t.id} className="canon-tab" data-active={activeTab===t.id} style={GS.tabBtn(activeTab===t.id)} onClick={() => onTabChange(t.id)} onMouseDown={e => e.preventDefault()}>
+              <button key={t.id} className="canon-tab" data-active={activeTab===t.id} style={GS.tabBtn(activeTab===t.id, divisionColor)} onClick={() => onTabChange(t.id)} onMouseDown={e => e.preventDefault()}>
                 {UI[lang].tabs[i]}
               </button>
             ))}
@@ -373,7 +373,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
               data-active={bottomTab === id}
               onClick={() => { setBottomTab(id); onBottomTabChange?.(id); }}
               onMouseDown={e => e.preventDefault()}
-              style={GS.tabBtn(bottomTab === id)}
+              style={GS.tabBtn(bottomTab === id, divisionColor)}
             >
               {label}
             </button>
@@ -437,7 +437,7 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
                 );
               })}
             </div>
-            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} capitulosTotal={bookData?.capitulosTotal} initialChapterIdx={initialChapterIdx} onChapterChange={onChapterChange} />
+            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} capitulosTotal={bookData?.capitulosTotal} initialChapterIdx={initialChapterIdx} onChapterChange={onChapterChange} divisionColor={divisionColor} />
           </div>
         )}
       </div>

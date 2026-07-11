@@ -6,7 +6,41 @@ export const LAPIS_DEEP = "#0F1A30";
 export const PARCHMENT = "#F2E8D0";
 export const SIENNA = "#8B3A2A";
 
+export function hexToRgba(hex, alpha = 1) {
+  const h = hex.replace("#", "");
+  const full = h.length === 3 ? h.split("").map(c => c + c).join("") : h;
+  const n = parseInt(full, 16);
+  const r = (n >> 16) & 255, g = (n >> 8) & 255, b = n & 255;
+  return `rgba(${r},${g},${b},${alpha})`;
+}
+
+// Picks a readable ink color (dark or light) for text placed on a solid `hex` background.
+export function contrastInk(hex) {
+  const h = hex.replace("#", "");
+  const full = h.length === 3 ? h.split("").map(c => c + c).join("") : h;
+  const n = parseInt(full, 16);
+  const r = (n >> 16) & 255, g = (n >> 8) & 255, b = n & 255;
+  const yiq = (r * 299 + g * 587 + b * 114) / 1000;
+  return yiq >= 128 ? "#2A1A05" : "#F7EEDD";
+}
+
 export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "ARC" };
+
+// ── DIVISION COLOR MAP ───────────────────────────────────────────────────────
+// Single source of truth for each classification's color. Applied to the
+// shelf cards, side-rail tabs, and book viewer (header, tabs, back link).
+export const DIVISION_COLORS = {
+  "pentateuco": "#FFEE00",
+  "historico-at": "#0F8C08",
+  "sabiduria": "#D65606",
+  "profetas-mayores": "#0D06D6",
+  "profetas-menores": "#6E3E04",
+  "evangelios": "#FF0505",
+  "historia-nt": "#05D5FF",
+  "paulinas": "#620391",
+  "generales": "#4A5202",
+  "profecia": "#5E0E39",
+};
 
 // ── 66 BOOKS REGISTRY ─────────────────────────────────────────────────────────
 export const BOOKS = [
@@ -78,12 +112,15 @@ export const BOOKS = [
   { id: 66, es: "Apocalipsis", en: "Revelation", ab: "Ap", div: "profecia" },
 ];
 
+export const BOOK_ID_BY_ES = Object.fromEntries(BOOKS.map(b => [b.es, b.id]));
+
 // ── DIVISIONS ─────────────────────────────────────────────────────────────────
 export const DIVISIONS = [
   {
     id: "pentateuco", titulo: "Pentateuco", tituloEn: "The Pentateuch", tituloPt: "O Pentateuco",
-    color: "#88C088", rango: "Génesis – Deuteronomio", testamento: "Antiguo",
+    color: DIVISION_COLORS["pentateuco"], rango: "Génesis – Deuteronomio", testamento: "Antiguo",
     tagline: "La Torá — el fundamento de toda revelación posterior",
+    resumenBreve: "Los cinco libros de Moisés: desde la creación y la caída hasta el éxodo de Egipto, la entrega de la Ley en Sinaí y la peregrinación de Israel hacia Canaán.",
     resumen: "Los cinco primeros libros del canon, atribuidos por la tradición reformada a la autoría mosaica (con la posible excepción del relato de su muerte en Dt 34, añadido por una mano posterior, probablemente Josué). Narran desde la creación del cosmos hasta la muerte de Moisés a las puertas de Canaán: la cosmogonía, la caída, el diluvio, el llamado patriarcal, el éxodo, la entrega de la Ley en Sinaí y la peregrinación por el desierto.",
     fondoHistorico: "Compuesto en el contexto del Bronce Tardío (c. 1446–1406 a.C. según la cronología larga reformada, que toma 1R 6:1 como dato literal), el Pentateuco refleja con precisión el mundo del Antiguo Oriente Próximo del segundo milenio: tratados de vasallaje hititas (la estructura del pacto en Éxodo y Deuteronomio sigue el formato de tratado suzerano-vasallo del s. XIV–XIII a.C.), prácticas legales mesopotámicas (paralelos y contrastes con el Código de Hammurabi), y la cultura egipcia del Imperio Nuevo que domina el trasfondo de Éxodo. La crítica documentaria (JEDP, Wellhausen) propuso una composición tardía y compuesta; la posición reformada confiesa la autoría mosaica sustancial, consistente con el testimonio de Cristo mismo (Jn 5:46; Lc 24:27,44) y de los apóstoles.",
     porQueAgrupados: "Estos cinco libros forman una sola obra literaria continua — la Torá — unida por la genealogía narrativa (toledot), por la autoría mosaica y, sobre todo, porque juntos establecen el marco teológico que todo el resto de la Escritura presupone: la doctrina de Dios como Creador, la naturaleza del pecado, la elección de un pueblo pactual, y la Ley como expresión del carácter divino. Ningún libro posterior del canon puede leerse correctamente sin el Pentateuco como cimiento.",
@@ -101,8 +138,9 @@ export const DIVISIONS = [
   },
   {
     id: "historico-at", titulo: "Histórico", tituloEn: "Historical Books",
-    color: "#6AAECF", rango: "Josué – Ester", testamento: "Antiguo",
+    color: DIVISION_COLORS["historico-at"], rango: "Josué – Ester", testamento: "Antiguo",
     tagline: "La conquista, la monarquía y el exilio del pueblo del pacto",
+    resumenBreve: "Novecientos años de historia nacional: la conquista de Canaán, el auge y la caída de la monarquía, el exilio y el retorno del pueblo del pacto.",
     resumen: "Doce libros que narran la historia de Israel desde la conquista de Canaán bajo Josué (c. 1406 a.C.) hasta la restauración postexílica bajo Esdras y Nehemías (s. V a.C.) — unos novecientos años de historia nacional, abarcando la conquista, el período de los jueces, el establecimiento de la monarquía unida (Saúl, David, Salomón), la división del reino, la apostasía progresiva, el exilio asirio del norte y babilónico del sur, y el retorno bajo el decreto persa de Ciro.",
     fondoHistorico: "Este período se cruza directamente con los grandes imperios documentados extrabíblicamente: la Estela de Merneptah (c. 1208 a.C.) es la primera mención extrabíblica de 'Israel' como entidad en Canaán; la Estela de Tel Dan (s. IX a.C.) menciona la 'casa de David'; los anales asirios de Salmanasar III registran a Acab de Israel en la batalla de Qarqar (853 a.C.); el Cilindro de Ciro (539 a.C.) confirma la política persa de repatriación de pueblos cautivos que permitió el retorno judío descrito en Esdras.",
     porQueAgrupados: "Estos libros comparten género narrativo-historiográfico y trazan una sola línea cronológica continua de la historia nacional de Israel — aunque 1–2 Crónicas relee la misma historia de Samuel-Reyes con un énfasis sacerdotal y davídico distinto, escrito para la comunidad postexílica. Juntos documentan el ciclo pactual repetido: bendición por obediencia, apostasía, juicio, y la fidelidad persistente de Dios a su promesa davídica pese al fracaso humano constante.",
@@ -127,8 +165,9 @@ export const DIVISIONS = [
   },
   {
     id: "sabiduria", titulo: "Sabiduría y Poesía", tituloEn: "Wisdom & Poetry",
-    color: "#C49AE0", rango: "Job – Cantares", testamento: "Antiguo",
+    color: DIVISION_COLORS["sabiduria"], rango: "Job – Cantares", testamento: "Antiguo",
     tagline: "La piedad reflexiva: sufrimiento, adoración, sabiduría práctica y amor pactual",
+    resumenBreve: "Cinco libros poéticos que exploran cómo vivir sabiamente delante de Dios: el sufrimiento, la adoración, la sabiduría práctica y el amor conyugal.",
     resumen: "Cinco libros de género poético hebreo (caracterizado por el paralelismo de pensamiento, no la rima) que tratan, cada uno desde un ángulo distinto, la pregunta de cómo vivir sabiamente delante de Dios: el sufrimiento del justo (Job), la adoración congregacional e individual (Salmos), la sabiduría práctica cotidiana (Proverbios), el sinsentido aparente de la vida 'bajo el sol' (Eclesiastés), y el amor conyugal como don bueno de Dios (Cantares).",
     fondoHistorico: "La literatura sapiencial era un género panorámico del Antiguo Oriente Próximo —existen paralelos egipcios (la Instrucción de Amenemope, con semejanzas notables a Pr 22:17–24:22) y mesopotámicos (el 'Job babilónico', Ludlul Bel Nemeqi)— pero la sabiduría bíblica se distingue radicalmente al fundamentar toda sabiduría en 'el temor de Jehová' (Pr 1:7; 9:10) y no en la mera observación pragmática del orden cósmico.",
     porQueAgrupados: "Comparten forma poética hebrea y función reflexiva: a diferencia de los libros históricos (que narran lo que Dios hizo) o proféticos (que declaran lo que Dios dice que hará), estos libros exploran cómo el pueblo del pacto debe pensar, sentir, sufrir, adorar y amar delante de Dios en medio de la vida ordinaria y extraordinaria.",
@@ -146,8 +185,9 @@ export const DIVISIONS = [
   },
   {
     id: "profetas-mayores", titulo: "Profetas Mayores", tituloEn: "Major Prophets",
-    color: "#E08870", rango: "Isaías – Daniel", testamento: "Antiguo",
+    color: DIVISION_COLORS["profetas-mayores"], rango: "Isaías – Daniel", testamento: "Antiguo",
     tagline: "Voces extensas de juicio y esperanza en el ocaso de las dos monarquías",
+    resumenBreve: "Cuatro voces extensas que denuncian el pecado de Judá, anuncian el juicio del exilio babilónico y prometen la restauración futura en el Mesías.",
     resumen: "Cinco libros llamados 'mayores' no por mayor importancia espiritual sino por su extensión literaria. Isaías, Jeremías (junto con Lamentaciones, su elegía sobre la caída de Jerusalén), Ezequiel y Daniel ministran durante el período más oscuro de la historia de Israel: el ocaso del reino del sur, la caída de Jerusalén (586 a.C.) y el exilio babilónico — combinando denuncia del pecado del pacto, anuncio de juicio inminente, y promesas de restauración futura centradas en un Mesías venidero.",
     fondoHistorico: "Este período (c. 740–530 a.C.) coincide con el ascenso y caída del imperio neo-asirio y el ascenso del imperio neo-babilónico bajo Nabucodonosor II, documentado extensamente en las Crónicas Babilónicas y los anales asirios.",
     porQueAgrupados: "Comparten extensión, género oracular-narrativo mixto, y el contexto histórico compartido del juicio y exilio de Judá — aunque Ezequiel y Daniel profetizan ya desde el exilio mismo en Babilonia, mientras Isaías y Jeremías lo anuncian de antemano desde Jerusalén.",
@@ -165,8 +205,9 @@ export const DIVISIONS = [
   },
   {
     id: "profetas-menores", titulo: "Profetas Menores", tituloEn: "Minor Prophets",
-    color: "#D4955A", rango: "Oseas – Malaquías", testamento: "Antiguo",
+    color: DIVISION_COLORS["profetas-menores"], rango: "Oseas – Malaquías", testamento: "Antiguo",
     tagline: "El Libro de los Doce — voces breves abarcando tres siglos de la historia del pacto",
+    resumenBreve: "Doce profetas breves —el 'Libro de los Doce'— que abarcan tres siglos de llamados a la justicia, el arrepentimiento y la esperanza del Día de Jehová.",
     resumen: "Doce libros breves (de ahí 'menores', por extensión, no por importancia) que en la tradición hebrea se contaban como un solo rollo, 'El Libro de los Doce'. Abarcan desde el s. VIII a.C. (Oseas, Amós, Jonás, Miqueas) hasta el período postexílico (Hageo, Zacarías, Malaquías, s. VI–V a.C.).",
     fondoHistorico: "Amós profetiza durante el apogeo económico y la corrupción social del reinado de Jeroboam II en Israel (c. 760 a.C.), un período de prosperidad documentado arqueológicamente en los marfiles de Samaria que el propio Amós denuncia (Am 6:4). Jonás está ambientado en Nínive bajo el imperio asirio anterior a su caída (la ciudad cayó en 612 a.C., evento que Nahúm profetiza con detalle).",
     porQueAgrupados: "Agrupados desde la antigüedad por su brevedad compartida y porque juntos —más que individualmente— trazan el arco completo del ministerio profético preexílico, exílico y postexílico, formando una sola narrativa profética coherente cuando se leen en conjunto, pese a abarcar siglos y autores distintos.",
@@ -191,8 +232,9 @@ export const DIVISIONS = [
   },
   {
     id: "evangelios", titulo: "Evangelios", tituloEn: "Gospels",
-    color: "#C9A84C", rango: "Mateo – Juan", testamento: "Nuevo",
+    color: DIVISION_COLORS["evangelios"], rango: "Mateo – Juan", testamento: "Nuevo",
     tagline: "El cumplimiento — la vida, muerte y resurrección de Jesucristo",
+    resumenBreve: "Cuatro relatos complementarios de la vida, muerte y resurrección de Jesucristo, cada uno escrito con un énfasis y una audiencia distintos.",
     resumen: "Cuatro relatos complementarios, no contradictorios, de la persona y obra de Jesucristo, escritos para audiencias y con énfasis distintos: Mateo presenta a Jesús como el Mesías davídico que cumple la Ley y los profetas, dirigido principalmente a lectores judíos; Marcos lo retrata como el Siervo activo y sufriente en una narrativa ágil; Lucas, escrito por un médico gentil, enfatiza la compasión universal de Cristo hacia los marginados; Juan, el más tardío y teológicamente explícito, presenta a Jesús como el Verbo eterno encarnado.",
     fondoHistorico: "Los tres primeros evangelios (Mateo, Marcos, Lucas) se denominan 'sinópticos' por su estrecha relación literaria compartida —el llamado 'problema sinóptico'— con la posición mayoritaria (incluida la reformada-evangélica) sosteniendo la prioridad de Marcos como fuente más temprana (c. 55-65 d.C.).",
     porQueAgrupados: "Comparten género (bios greco-romano aplicado teológicamente) y sujeto único: la persona de Jesucristo. Forman, junto con Hechos, el centro absoluto del canon — el punto hacia el cual converge todo el Antiguo Testamento y del cual fluye todo el Nuevo.",
@@ -209,8 +251,9 @@ export const DIVISIONS = [
   },
   {
     id: "historia-nt", titulo: "Historia", tituloEn: "History",
-    color: "#56C4AA", rango: "Hechos", testamento: "Nuevo",
+    color: DIVISION_COLORS["historia-nt"], rango: "Hechos", testamento: "Nuevo",
     tagline: "El nacimiento y expansión de la iglesia apostólica",
+    resumenBreve: "El nacimiento y la expansión del evangelio desde Jerusalén hasta Roma, a través de la obra del Espíritu Santo en la iglesia apostólica.",
     resumen: "Un solo libro —Hechos de los Apóstoles, segundo volumen de la obra de Lucas— que narra la expansión del evangelio desde Jerusalén hasta Roma a través de la obra del Espíritu Santo, desde Pentecostés hasta el encarcelamiento de Pablo en Roma (c. 30-62 d.C.).",
     fondoHistorico: "Hechos demuestra una precisión historiográfica notable, confirmada por la arqueología y la historia secular: los títulos políticos exactos para cada región (procónsul en Chipre y Acaya, Hch 13:7; 18:12; asiarcas en Éfeso, Hch 19:31) que cambiaban según el estatus administrativo romano de cada provincia, verificados por inscripciones.",
     porQueAgrupados: "Constituye su propia categoría porque no es evangelio (no narra la vida terrenal de Cristo) ni epístola (no es carta doctrinal) sino historiografía eclesial: el puente narrativo indispensable entre el ministerio terrenal de Cristo y las cartas apostólicas que presuponen las iglesias que Hechos describe estar fundándose.",
@@ -224,8 +267,9 @@ export const DIVISIONS = [
   },
   {
     id: "paulinas", titulo: "Epístolas Paulinas", tituloEn: "Pauline Epistles",
-    color: "#90D060", rango: "Romanos – Filemón", testamento: "Nuevo",
+    color: DIVISION_COLORS["paulinas"], rango: "Romanos – Filemón", testamento: "Nuevo",
     tagline: "La doctrina apostólica aplicada a iglesias y personas concretas",
+    resumenBreve: "Trece cartas de Pablo a iglesias y colaboradores, desde la exposición doctrinal más sistemática del Nuevo Testamento hasta una breve carta personal.",
     resumen: "Trece cartas atribuidas al apóstol Pablo, escritas a iglesias específicas (Romanos a Filemón) y a colaboradores individuales (las Pastorales: 1-2 Timoteo, Tito), abarcando desde la exposición doctrinal más sistemática del NT (Romanos) hasta una breve carta personal sobre un esclavo fugitivo (Filemón).",
     fondoHistorico: "Las cartas paulinas se escribieron en el contexto de los tres viajes misioneros de Pablo y su posterior encarcelamiento romano (c. 48-67 d.C.), documentado en Hechos.",
     porQueAgrupados: "Comparten autoría paulina y género epistolar (carta ocasional greco-romana adaptada a propósito doctrinal y pastoral), tradicionalmente ordenadas por extensión decreciente más que por orden cronológico de composición.",
@@ -251,8 +295,9 @@ export const DIVISIONS = [
   },
   {
     id: "generales", titulo: "Epístolas Generales", tituloEn: "General Epistles",
-    color: "#D06898", rango: "Hebreos – Judas", testamento: "Nuevo",
+    color: DIVISION_COLORS["generales"], rango: "Hebreos – Judas", testamento: "Nuevo",
     tagline: "Voces apostólicas complementarias para una iglesia dispersa y perseguida",
+    resumenBreve: "Ocho cartas no paulinas dirigidas a audiencias dispersas, que enfrentan la persecución, la falsa doctrina y la necesidad de perseverar en la fe.",
     resumen: "Ocho cartas de autoría no paulina —Hebreos (autor anónimo en el texto mismo), Santiago, 1-2 Pedro, 1-3 Juan y Judas— dirigidas, en su mayoría, a audiencias más amplias y dispersas que las cartas paulinas, enfrentando la persecución, la persistencia de falsa doctrina y la necesidad de perseverancia en la fe.",
     fondoHistorico: "Hebreos se dirige a cristianos de trasfondo judío tentados a retroceder al judaísmo bajo presión de persecución, probablemente antes de la destrucción del templo en el 70 d.C. Santiago, posiblemente la carta más temprana del NT (c. 45-48 d.C.), refleja un judaísmo cristiano primitivo previo al Concilio de Jerusalén.",
     porQueAgrupados: "Agrupadas por exclusión (no son paulinas) y por destinatarios más generales que congregaciones específicas, estas cartas aportan perspectivas apostólicas complementarias —sacerdotal (Hebreos), práctica (Santiago), pastoral-sufriente (1-2 Pedro), relacional (1-3 Juan) y polémica (Judas).",
@@ -273,8 +318,9 @@ export const DIVISIONS = [
   },
   {
     id: "profecia", titulo: "Profecía", tituloEn: "Prophecy",
-    color: "#CC3848", rango: "Apocalipsis", testamento: "Nuevo",
+    color: DIVISION_COLORS["profecia"], rango: "Apocalipsis", testamento: "Nuevo",
     tagline: "La consumación — el triunfo final de Cristo y la nueva creación",
+    resumenBreve: "El libro final del canon: la visión de Juan en Patmos sobre el triunfo escatológico de Cristo y la consumación de la historia redentora.",
     resumen: "El libro final del canon, escrito por el apóstol Juan en exilio en la isla de Patmos, combinando los géneros de epístola, profecía y apocalíptica judía para revelar el triunfo escatológico de Cristo sobre todo poder hostil y la consumación final de la historia redentora en la nueva creación.",
     fondoHistorico: "Compuesto durante el reinado de Domiciano (c. 95 d.C., posición mayoritaria reformada, apoyada en el testimonio de Ireneo, discípulo de Policarpo quien conoció al propio Juan) o posiblemente bajo Nerón (c. 68 d.C., minoritaria).",
     porQueAgrupados: "Constituye su propia categoría por ser el único libro plenamente apocalíptico del NT y por su posición canónica deliberada como clímax final de toda la revelación bíblica.",
@@ -312,7 +358,7 @@ export const TABS = [
 // ── UI TRANSLATIONS ───────────────────────────────────────────────────────────
 export const UI = {
   es: {
-    appTitle: "Exploración Bíblica Panorámica Interactiva",
+    appTitle: "Biblia Interactiva",
     share: "COMPARTIR", copied: "✓ COPIADO",
     ot: "A.T.", nt: "N.T.",
     books: n => `${n} ${n === 1 ? "libro" : "libros"}`,
@@ -341,7 +387,8 @@ export const UI = {
     book_s: "LIBRO", book_p: "LIBROS",
     divSections: ["VISIÓN GENERAL","TRASFONDO HISTÓRICO","¿POR QUÉ SE AGRUPAN ASÍ?","CONTEXTO DE PACTO","ENFOQUE CRISTOLÓGICO","DISTINCTIVA REFORMADA","VERSÍCULO CLAVE DE LA DIVISIÓN","LOS LIBROS DE ESTA DIVISIÓN"],
     see: "VER →",
-    headerIndex: "Toca una clasificación para conocer su trasfondo histórico, por qué se agrupa así, y los libros que la componen.",
+    headerIndex: "Exploración bíblica panorámica interactiva con fundamentos reformados protestantes",
+    testamentsIntro: "La Biblia está compuesta por 66 libros que a su vez se dividen en 2 grandes grupos, denominados Antiguo Testamento o Antiguo Pacto, que contiene 39 libros, y Nuevo Testamento o Nuevo Pacto, que contiene 27 libros.",
     headerDiv: (t, r) => `Explorando ${t} — ${r}. Toca un libro a la izquierda o derecha, o vuelve al índice de clasificaciones.`,
     headerGenesis: "Recorre la línea de tiempo de Génesis: personajes, capítulos y teología sistemática interactiva.",
     headerBook: b => `Leyendo ${b}. Usa los paneles laterales para saltar a otro libro, o vuelve al estante.`,
@@ -437,7 +484,7 @@ export const UI = {
     footer: "El Canon · 66 libros · 10 divisiones · tradición reformada",
   },
   en: {
-    appTitle: "Interactive Panoramic Bible Exploration",
+    appTitle: "Interactive Bible",
     share: "SHARE", copied: "✓ COPIED",
     ot: "O.T.", nt: "N.T.",
     books: n => `${n} ${n === 1 ? "book" : "books"}`,
@@ -466,7 +513,8 @@ export const UI = {
     book_s: "BOOK", book_p: "BOOKS",
     divSections: ["OVERVIEW","HISTORICAL BACKGROUND","WHY GROUPED TOGETHER?","COVENANT CONTEXT","CHRISTOLOGICAL FOCUS","REFORMED DISTINCTIVE","KEY VERSE OF THE DIVISION","BOOKS IN THIS DIVISION"],
     see: "SEE →",
-    headerIndex: "Tap a classification to explore its historical background, why it's grouped this way, and its books.",
+    headerIndex: "Interactive panoramic Bible exploration with Reformed Protestant foundations",
+    testamentsIntro: "The Bible is composed of 66 books, which are in turn divided into 2 major groups: the Old Testament or Old Covenant, containing 39 books, and the New Testament or New Covenant, containing 27 books.",
     headerDiv: (t, r) => `Exploring ${t} — ${r}. Tap a book on the left or right, or return to the index.`,
     headerGenesis: "Explore the Genesis timeline: characters, chapters, and interactive systematic theology.",
     headerBook: b => `Reading ${b}. Use the side panels to jump to another book, or return to the shelf.`,
@@ -562,7 +610,7 @@ export const UI = {
     footer: "The Canon · 66 books · 10 divisions · Reformed tradition",
   },
   pt: {
-    appTitle: "Exploração Bíblica Panorâmica Interativa",
+    appTitle: "Bíblia Interativa",
     share: "COMPARTILHAR", copied: "✓ COPIADO",
     ot: "A.T.", nt: "N.T.",
     books: n => `${n} ${n === 1 ? "livro" : "livros"}`,
@@ -591,7 +639,8 @@ export const UI = {
     book_s: "LIVRO", book_p: "LIVROS",
     divSections: ["VISÃO GERAL","CONTEXTO HISTÓRICO","POR QUE AGRUPADOS ASSIM?","CONTEXTO DE ALIANÇA","ENFOQUE CRISTOLÓGICO","DISTINTIVA REFORMADA","VERSÍCULO-CHAVE DA DIVISÃO","LIVROS DESTA DIVISÃO"],
     see: "VER →",
-    headerIndex: "Toque em uma classificação para conhecer seu contexto histórico, por que é agrupada assim e seus livros.",
+    headerIndex: "Exploração bíblica panorâmica interativa com fundamentos reformados protestantes",
+    testamentsIntro: "A Bíblia é composta por 66 livros, que por sua vez se dividem em 2 grandes grupos, denominados Antigo Testamento ou Antiga Aliança, que contém 39 livros, e Novo Testamento ou Nova Aliança, que contém 27 livros.",
     headerDiv: (t, r) => `Explorando ${t} — ${r}. Toque em um livro à esquerda ou direita, ou volte ao índice.`,
     headerGenesis: "Explore a linha do tempo de Gênesis: personagens, capítulos e teologia sistemática interativa.",
     headerBook: b => `Lendo ${b}. Use os painéis laterais para ir a outro livro, ou volte à estante.`,
@@ -709,7 +758,7 @@ export const S = {
   topBar: { height: 3, width: "100%", maxWidth: 1400, background: `linear-gradient(90deg, transparent, ${GOLD}, ${SIENNA}, ${GOLD}, transparent)`, flexShrink: 0, marginBottom: 18 },
   appHeader: { width: "100%", maxWidth: 1400, textAlign: "center", marginBottom: 18 },
   appTitle: { fontFamily: "'Georgia',serif", fontSize: "clamp(26px,3.2vw,40px)", fontWeight: 900, color: PARCHMENT, letterSpacing: 0.5, lineHeight: 1.15, marginBottom: 10, textShadow: "0 0 40px rgba(201,168,76,0.25)" },
-  headerInstruction: { fontSize: 13.5, fontStyle: "italic", color: "rgba(242,232,208,0.55)", lineHeight: 1.6 },
+  headerInstruction: { fontSize: 16, textTransform: "uppercase", letterSpacing: 0.5, color: PARCHMENT, lineHeight: 1.6 },
   bookFrame: { width: "100%", maxWidth: 1400, position: "relative",
     boxShadow: "0 -12px 40px rgba(5,2,0,0.55), 0 -4px 12px rgba(5,2,0,0.60), 0 4px 8px rgba(10,4,0,0.60), 0 14px 40px rgba(10,4,0,0.55), 0 40px 100px rgba(5,2,0,0.45), 0 80px 160px rgba(5,2,0,0.25)",
     borderRadius: 18,
@@ -740,7 +789,7 @@ export const S = {
   stepTab: (color, active, height, side) => ({
     display: "flex", alignItems: "center", justifyContent: "center",
     width: "100%", marginLeft: 0, minHeight: height, position: "relative",
-    cursor: "pointer", padding: "12px 0px",
+    cursor: "pointer", padding: "12px 0px", fontFamily: "'Georgia',serif",
     backgroundColor: color,
     backgroundImage: active
       ? "linear-gradient(180deg, rgba(0,0,0,0.08), rgba(0,0,0,0.42))"
@@ -762,19 +811,38 @@ export const S = {
     textShadow: "0 1px 3px rgba(0,0,0,0.65)",
   }),
   readyDot: { width: 3.5, height: 3.5, borderRadius: "50%", background: GOLD, position: "absolute", top: 1.5, right: 1.5, boxShadow: "0 0 4px rgba(201,168,76,0.9)" },
-  pages: { flex: 1, minWidth: 0, display: "flex", position: "relative", backgroundImage: "linear-gradient(rgba(18,10,3,0.55), rgba(12,7,2,0.60)), url('/textures/parchment-warm.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
-  page: { flex: 1, minWidth: 0, overflowY: "auto", padding: "36px 30px 60px", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
+  pages: { flex: 1, minWidth: 0, display: "flex", flexDirection: "column", position: "relative", backgroundImage: "linear-gradient(rgba(18,10,3,0.55), rgba(12,7,2,0.60)), url('/textures/parchment-warm.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
+  spreadWrap: { flex: 1, minWidth: 0, display: "flex", flexDirection: "column", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
+  spreadRow: { flex: 1, minWidth: 0, display: "flex" },
+  spreadIntro: { fontFamily: "'Georgia',serif", fontSize: 14.5, fontStyle: "italic", textAlign: "center", color: "rgba(55,28,8,0.78)", lineHeight: 1.7, padding: "16px 60px", borderBottom: "1px solid rgba(139,105,20,0.25)" },
+  page: { flex: 1, minWidth: 0, overflowY: "auto", padding: "36px 30px 60px" },
   fullPage: { flex: 1, minWidth: 0, overflowY: "auto", padding: "40px 56px 70px", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
   fullPageInner: { maxWidth: 880, margin: "0 auto", textAlign: "left" },
   spreadEyebrowBig: { fontFamily: "'Georgia',serif", fontSize: 22, letterSpacing: 4, color: "rgba(55,28,8,0.85)", textTransform: "uppercase", marginBottom: 14, fontWeight: 700 },
-  classGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(230px, 1fr))", gap: 14 },
-  classCard: (color) => ({
-    background: "transparent", borderTop: `3px solid ${color}`, borderRight: `1px solid rgba(139,90,20,0.22)`, borderBottom: `1px solid rgba(139,90,20,0.22)`, borderLeft: `1px solid rgba(139,90,20,0.22)`,
-    borderRadius: 3, padding: "16px 17px", cursor: "pointer", transition: "background 0.15s",
+  classGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(255px, 1fr))", gap: 14 },
+  classCard: () => ({
+    background: "transparent", border: `1px solid rgba(139,90,20,0.22)`,
+    borderRadius: 12, overflow: "hidden", cursor: "pointer",
+    boxShadow: "0 3px 10px rgba(40,20,5,0.14)",
   }),
-  classCardEyebrow: () => ({ fontSize: 8.5, letterSpacing: 2.5, color: "rgba(100,68,18,0.78)", marginBottom: 6, textTransform: "uppercase" }),
-  classCardTitle: { fontSize: 16.5, fontWeight: 700, color: "rgba(22,8,2,0.90)", marginBottom: 7, lineHeight: 1.2 },
-  classCardBlurb: { fontSize: 12.5, lineHeight: 1.55, color: "rgba(22,8,2,0.70)", marginBottom: 10 },
+  classCardHeader: (color) => {
+    const ink = contrastInk(color);
+    return {
+      backgroundColor: color,
+      backgroundImage: "linear-gradient(180deg, rgba(0,0,0,0.08), rgba(0,0,0,0.42))",
+      color: ink,
+      fontFamily: "'Georgia',serif", fontSize: 13.5, fontWeight: 900, fontStyle: "italic", letterSpacing: 1,
+      lineHeight: 1.2, textAlign: "center", textTransform: "uppercase", padding: "4px 14px",
+      minHeight: 19, display: "flex", alignItems: "center", justifyContent: "center",
+      textShadow: ink === "#F7EEDD" ? "0 1px 2px rgba(0,0,0,0.40)" : "0 1px 1px rgba(255,255,255,0.30)",
+      boxShadow: "inset 0 1px 0 rgba(255,255,255,0.14), inset 0 -3px 8px rgba(0,0,0,0.45)",
+    };
+  },
+  classCardBody: { padding: "14px 17px 16px", transition: "background 0.15s" },
+  classCardBlurb: { fontSize: 12.5, lineHeight: 1.55, color: "rgba(22,8,2,0.70)", marginBottom: 10, minHeight: 58, textAlign: "left" },
+  classCardBooks: { columnCount: 2, columnGap: 16, borderTop: "1px solid rgba(139,90,20,0.18)", paddingTop: 10, marginBottom: 10, minHeight: 200, textAlign: "left" },
+  classCardBookItem: { fontSize: 11, lineHeight: 1.6, color: "rgba(22,8,2,0.82)", breakInside: "avoid", display: "grid", gridTemplateColumns: "14px 1fr", columnGap: 6, padding: "3px 0", textAlign: "left", cursor: "pointer", whiteSpace: "nowrap", textTransform: "uppercase", letterSpacing: 0.2 },
+  classCardBookNum: { fontSize: 10, fontVariantNumeric: "tabular-nums", color: "rgba(100,68,18,0.60)", textAlign: "right" },
   classCardMeta: { fontSize: 9.5, letterSpacing: 1, color: "rgba(100,68,18,0.58)" },
   backLink: { fontSize: 12, letterSpacing: 2, color: "rgba(55,28,8,0.85)", cursor: "pointer", marginBottom: 22, display: "inline-flex", alignItems: "center", gap: 8, background: "rgba(201,168,76,0.08)", border: "1px solid rgba(139,90,20,0.35)", borderRadius: 20, padding: "6px 16px 6px 12px" },
   divEyebrow: () => ({ fontSize: 10, letterSpacing: 5, color: "rgba(55,28,8,0.72)", textTransform: "uppercase", marginBottom: 12, display: "flex", alignItems: "center", gap: 10 }),
@@ -808,8 +876,8 @@ export const S = {
 // ── BOOK VIEWER STYLES (GS) ───────────────────────────────────────────────────
 export const GS = {
   app: { fontFamily: "'Georgia', serif", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center", backgroundAttachment: "local", color: PARCHMENT, minHeight: "100vh", overflowX: "hidden" },
-  topBar: { height: 3, background: `linear-gradient(90deg, transparent, ${GOLD}, ${SIENNA}, ${GOLD}, transparent)` },
-  header: { textAlign: "center", padding: "48px 20px 32px", borderBottom: `1px solid rgba(201,168,76,0.3)`, backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center top" },
+  topBar: (color = GOLD) => ({ height: 3, background: `linear-gradient(90deg, transparent, ${color}, ${SIENNA}, ${color}, transparent)` }),
+  header: (color = GOLD) => ({ textAlign: "center", padding: "48px 20px 32px", borderBottom: `3px solid ${color}`, backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center top" }),
   eyebrow: { fontFamily: "'Georgia',serif", fontSize: 10, fontWeight: 700, letterSpacing: 6, color: "rgba(22,8,2,0.80)", textTransform: "uppercase", marginBottom: 14, opacity: 1 },
   h1: { fontFamily: "'Georgia',serif", fontSize: "clamp(44px,7vw,88px)", fontWeight: 900, color: "rgba(18,8,2,0.92)", letterSpacing: -1, lineHeight: 0.92, marginBottom: 6 },
   hebrew: { fontSize: "clamp(20px,3.5vw,36px)", color: "rgba(130,75,20,0.80)", letterSpacing: 8, marginBottom: 12, direction: "rtl" },
@@ -822,11 +890,11 @@ export const GS = {
   tabNavWrap: { position: "relative" },
   tabNav: { display: "flex", borderBottom: `1px solid rgba(139,90,20,0.30)`, overflowX: "auto", padding: "0 0", gap: 0, scrollbarWidth: "none", msOverflowStyle: "none", backgroundImage: "linear-gradient(rgba(210,170,90,0.28), rgba(185,140,55,0.20)), url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center", borderTop: `1px solid rgba(139,90,20,0.20)` },
   tabNavFade: { position: "absolute", right: 0, top: 0, bottom: 1, width: 80, background: `linear-gradient(90deg, transparent, rgba(210,180,120,0.95))`, pointerEvents: "none", display: "flex", alignItems: "center", justifyContent: "flex-end", paddingRight: 10 },
-  tabBtn: (active) => ({
+  tabBtn: (active, color = GOLD) => ({
     fontFamily: "'Georgia',serif", fontSize: 14, fontWeight: 600, letterSpacing: 1.5,
     color: active ? "rgba(60,30,5,1)" : "rgba(80,50,12,0.65)",
-    background: active ? "rgba(201,168,76,0.30)" : "transparent",
-    border: "none", borderBottom: active ? `2px solid rgba(139,90,20,1)` : "2px solid transparent",
+    background: active ? hexToRgba(color, 0.28) : "transparent",
+    border: "none", borderBottom: active ? `2px solid ${color}` : "2px solid transparent",
     borderRadius: "10px 10px 0 0",
     padding: "16px 20px 14px", cursor: "pointer", whiteSpace: "nowrap", flexShrink: 0,
     transition: "color 0.2s, border-color 0.2s, background 0.2s",

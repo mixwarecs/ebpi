@@ -9,20 +9,23 @@ const PAGES_W = 30;
 
 const LABELS = {
   es: {
-    appName: "Exploración Bíblica\nPanorámica Interactiva",
-    subtitle: "66 Libros · Teología Protestante · Reformada ",
+    appName: "Biblia Interactiva",
+    subtitle: "Exploración bíblica panorámica interactiva con fundamentos reformados protestantes",
+    versions: "NBLA / ESPAÑOL · ISV / INGLÉS · ARC / PORTUGUÉS",
     enter: "Abrir  ›",
     continue: "Continuar Lectura  ›",
   },
   en: {
-    appName: "Interactive Panoramic\nBible Exploration",
-    subtitle: "66 Books · Reformed Theology · Covenant of Grace",
+    appName: "Interactive Bible",
+    subtitle: "Interactive panoramic Bible exploration with Reformed Protestant foundations",
+    versions: "NBLA / SPANISH · ISV / ENGLISH · ARC / PORTUGUESE",
     enter: "Open  ›",
     continue: "Continue Reading  ›",
   },
   pt: {
-    appName: "Exploração Bíblica\nPanorâmica Interativa",
-    subtitle: "66 Livros · Teologia Reformada · Aliança da Graça",
+    appName: "Bíblia Interativa",
+    subtitle: "Exploração bíblica panorâmica interativa com fundamentos reformados protestantes",
+    versions: "NBLA / ESPANHOL · ISV / INGLÊS · ARC / PORTUGUÊS",
     enter: "Abrir  ›",
     continue: "Continuar Leitura  ›",
   },
@@ -324,10 +327,27 @@ export default function SplashScreen({ onEnter }) {
                     lineHeight: 2,
                     textTransform: "uppercase",
                     fontWeight: 700,
-                    marginBottom: 40,
+                    marginBottom: 18,
                   }}
                 >
                   {t.subtitle}
+                </div>
+
+                {/* Versions */}
+                <div
+                  style={{
+                    fontFamily: "Georgia, serif",
+                    fontSize: "clamp(7px, 1vw, 9px)",
+                    color: GOLD,
+                    opacity: 0.5,
+                    letterSpacing: "0.12em",
+                    lineHeight: 1.8,
+                    textTransform: "uppercase",
+                    fontWeight: 600,
+                    marginBottom: 32,
+                  }}
+                >
+                  {t.versions}
                 </div>
 
                 {/* CTA */}

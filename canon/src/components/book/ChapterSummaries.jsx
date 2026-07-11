@@ -206,7 +206,7 @@ function ChapterShareButton({ bookNum, lang, chapterIdx }) {
   );
 }
 
-export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1, initialChapterIdx = null, onChapterChange, capitulosTotal = null }) {
+export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNum = 1, initialChapterIdx = null, onChapterChange, capitulosTotal = null, divisionColor = GOLD }) {
   const lv = (t) => linkifyVerses(t, lang);
 
   const [activeIdx, setActiveIdx] = useState(null);
@@ -445,7 +445,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
             </div>
 
             <div style={{
-              borderLeft: `3px solid ${(playingIdx === i || highlightIdx === i) ? "#1E4A7A" : color}`,
+              borderLeft: `3px solid ${(playingIdx === i || highlightIdx === i) ? "#1E4A7A" : divisionColor}`,
               transition: "border-color 0.4s",
               paddingLeft: 14,
               flex: 1,

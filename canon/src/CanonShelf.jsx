@@ -155,6 +155,7 @@ export default function CanonShelf() {
           titulo: d.nombre[lang] || d.nombre.es,
           tagline: d.tagline[lang] || d.tagline.es,
           resumen: d.resumen[lang] || d.resumen.es,
+          resumenBreve: d.resumenBreve ? (d.resumenBreve[lang] || d.resumenBreve.es) : (d.tagline[lang] || d.tagline.es),
           fondoHistorico: d.fondoHistorico[lang] || d.fondoHistorico.es,
           porQueAgrupados: d.porQueAgrupados[lang] || d.porQueAgrupados.es,
           epocaPacto: d.epocaPacto[lang] || d.epocaPacto.es,
@@ -405,16 +406,20 @@ export default function CanonShelf() {
                   if (!d) return "";
                   return lang === "en" ? (d.tituloEn || d.titulo) : lang === "pt" ? (d.tituloPt || d.titulo) : d.titulo;
                 })()}
+                divisionColor={activeDivById[activeBook?.div]?.color || activeBook?.color}
               />
             ) : view.mode === "index" ? (
-              <>
-                <div style={S.page}>
-                  <IndexPage divisions={activeOTDivisions} onSelect={openDivision} side="left" lang={lang} />
+              <div style={S.spreadWrap}>
+                <div style={S.spreadIntro}>{u.testamentsIntro}</div>
+                <div style={S.spreadRow}>
+                  <div style={S.page}>
+                    <IndexPage divisions={activeOTDivisions} onSelect={openDivision} onSelectBook={openBook} side="left" lang={lang} />
+                  </div>
+                  <div style={S.page}>
+                    <IndexPage divisions={activeNTDivisions} onSelect={openDivision} onSelectBook={openBook} side="right" lang={lang} />
+                  </div>
                 </div>
-                <div style={S.page}>
-                  <IndexPage divisions={activeNTDivisions} onSelect={openDivision} side="right" lang={lang} />
-                </div>
-              </>
+              </div>
             ) : view.mode === "division" ? (
               <div style={S.fullPage}>
                 <div style={S.fullPageInner}>

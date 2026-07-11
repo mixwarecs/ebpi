@@ -17,7 +17,7 @@
         4,
         5
       ],
-      "color": "#88C088",
+      "color": "#FFEE00",
       "rango": "Génesis – Deuteronomio",
       "tagline": {
         "es": "La Torá — el fundamento de toda revelación posterior",
@@ -28,6 +28,11 @@
         "es": "Los cinco primeros libros del canon, atribuidos por la tradición reformada a la autoría mosaica (con la posible excepción del relato de su muerte en Dt 34, añadido por una mano posterior, probablemente Josué). Narran desde la creación del cosmos hasta la muerte de Moisés a las puertas de Canaán: la cosmogonía, la caída, el diluvio, el llamado patriarcal, el éxodo, la entrega de la Ley en Sinaí y la peregrinación por el desierto.",
         "en": "The five opening books of the canon, attributed by the Reformed tradition to Mosaic authorship (with the possible exception of the account of his death in Deut 34, added by a later hand, probably Joshua). They narrate from the creation of the cosmos to the death of Moses at the gates of Canaan: cosmogony, the fall, the flood, the patriarchal call, the exodus, the giving of the Law at Sinai, and the wilderness wandering.",
         "pt": "Os cinco primeiros livros do cânon, atribuídos pela tradição reformada à autoria mosaica (com a possível exceção do relato de sua morte em Dt 34, acrescentado por uma mão posterior, provavelmente Josué). Narram desde a criação do cosmos até a morte de Moisés às portas de Canaã: a cosmogonia, a queda, o dilúvio, o chamado patriarcal, o êxodo, a entrega da Lei no Sinai e a peregrinação pelo deserto."
+      },
+      "resumenBreve": {
+        "es": "Los cinco libros de Moisés: desde la creación y la caída hasta el éxodo de Egipto, la entrega de la Ley en Sinaí y la peregrinación de Israel hacia Canaán.",
+        "en": "The five books of Moses: from creation and the fall to the exodus from Egypt, the giving of the Law at Sinai, and Israel's journey toward Canaan.",
+        "pt": "Os cinco livros de Moisés: da criação e a queda até o êxodo do Egito, a entrega da Lei no Sinai e a peregrinação de Israel rumo a Canaã."
       },
       "fondoHistorico": {
         "es": "Compuesto en el contexto del Bronce Tardío (c. 1446–1406 a.C. según la cronología larga reformada, que toma 1R 6:1 como dato literal), el Pentateuco refleja con precisión el mundo del Antiguo Oriente Próximo del segundo milenio: tratados de vasallaje hititas (la estructura del pacto en Éxodo y Deuteronomio sigue el formato de tratado suzerano-vasallo del s. XIV–XIII a.C.), prácticas legales mesopotámicas (paralelos y contrastes con el Código de Hammurabi), y la cultura egipcia del Imperio Nuevo que domina el trasfondo de Éxodo. La crítica documentaria (JEDP, Wellhausen) propuso una composición tardía y compuesta; la posición reformada confiesa la autoría mosaica sustancial, consistente con el testimonio de Cristo mismo (Jn 5:46; Lc 24:27,44) y de los apóstoles.",
@@ -78,7 +83,7 @@
         16,
         17
       ],
-      "color": "#6AAECF",
+      "color": "#0F8C08",
       "rango": "Josué – Ester",
       "tagline": {
         "es": "La conquista, la monarquía y el exilio del pueblo del pacto",
@@ -89,6 +94,11 @@
         "es": "Doce libros que narran la historia de Israel desde la conquista de Canaán bajo Josué (c. 1406 a.C.) hasta la restauración postexílica bajo Esdras y Nehemías (s. V a.C.) — unos novecientos años de historia nacional, abarcando la conquista, el período de los jueces, el establecimiento de la monarquía unida (Saúl, David, Salomón), la división del reino, la apostasía progresiva, el exilio asirio del norte y babilónico del sur, y el retorno bajo el decreto persa de Ciro.",
         "en": "Twelve books narrating the history of Israel from the conquest of Canaan under Joshua (c. 1406 BC) to the post-exilic restoration under Ezra and Nehemiah (5th century BC) — some nine hundred years of national history, spanning the conquest, the period of the judges, the establishment of the united monarchy (Saul, David, Solomon), the division of the kingdom, progressive apostasy, the Assyrian exile of the north and Babylonian exile of the south, and the return under the Persian decree of Cyrus.",
         "pt": "Doze livros que narram a história de Israel desde a conquista de Canaã sob Josué (c. 1406 a.C.) até a restauração pós-exílica sob Esdras e Neemias (séc. V a.C.) — cerca de novecentos anos de história nacional, abrangendo a conquista, o período dos juízes, o estabelecimento da monarquia unida (Saul, Davi, Salomão), a divisão do reino, a apostasia progressiva, o exílio assírio do norte e babilônico do sul, e o retorno sob o decreto persa de Ciro."
+      },
+      "resumenBreve": {
+        "es": "Novecientos años de historia nacional: la conquista de Canaán, el auge y la caída de la monarquía, el exilio y el retorno del pueblo del pacto.",
+        "en": "Nine hundred years of national history: the conquest of Canaan, the rise and fall of the monarchy, and the exile and return of the covenant people.",
+        "pt": "Novecentos anos de história nacional: a conquista de Canaã, a ascensão e queda da monarquia, e o exílio e retorno do povo da aliança."
       },
       "fondoHistorico": {
         "es": "Este período se cruza directamente con los grandes imperios documentados extrabíblicamente: la Estela de Merneptah (c. 1208 a.C.) es la primera mención extrabíblica de 'Israel' como entidad en Canaán; la Estela de Tel Dan (s. IX a.C.) menciona la 'casa de David'; los anales asirios de Salmanasar III registran a Acab de Israel en la batalla de Qarqar (853 a.C.); el Cilindro de Ciro (539 a.C.) confirma la política persa de repatriación de pueblos cautivos que permitió el retorno judío descrito en Esdras. La arqueología de los siglos XX–XXI ha producido fuerte debate sobre la extensión de la monarquía davídica-salomónica, pero los hallazgos de Tel Dan y la arquitectura monumental de Meguido y Hazor han reforzado la posición conservadora.",
@@ -132,7 +142,7 @@
         21,
         22
       ],
-      "color": "#C49AE0",
+      "color": "#D65606",
       "rango": "Job – Cantares",
       "tagline": {
         "es": "La piedad reflexiva: sufrimiento, adoración, sabiduría práctica y amor pactual",
@@ -143,6 +153,11 @@
         "es": "Cinco libros de género poético hebreo que tratan, cada uno desde un ángulo distinto, la pregunta de cómo vivir sabiamente delante de Dios: el sufrimiento del justo (Job), la adoración congregacional e individual (Salmos), la sabiduría práctica cotidiana (Proverbios), el sinsentido aparente de la vida 'bajo el sol' (Eclesiastés), y el amor conyugal como don bueno de Dios (Cantares).",
         "en": "Five books of Hebrew poetic genre that each address from a distinct angle the question of how to live wisely before God: the suffering of the righteous (Job), congregational and individual worship (Psalms), everyday practical wisdom (Proverbs), the apparent meaninglessness of life 'under the sun' (Ecclesiastes), and conjugal love as a good gift from God (Song of Songs).",
         "pt": "Cinco livros de gênero poético hebraico que tratam, cada um de um ângulo distinto, a questão de como viver sabiamente diante de Deus: o sofrimento do justo (Jó), a adoração congregacional e individual (Salmos), a sabedoria prática cotidiana (Provérbios), o aparente sem-sentido da vida 'debaixo do sol' (Eclesiastes) e o amor conjugal como dom bom de Deus (Cântico dos Cânticos)."
+      },
+      "resumenBreve": {
+        "es": "Cinco libros poéticos que exploran cómo vivir sabiamente delante de Dios: el sufrimiento, la adoración, la sabiduría práctica y el amor conyugal.",
+        "en": "Five poetic books exploring how to live wisely before God: suffering, worship, practical wisdom, and marital love.",
+        "pt": "Cinco livros poéticos que exploram como viver sabiamente diante de Deus: o sofrimento, a adoração, a sabedoria prática e o amor conjugal."
       },
       "fondoHistorico": {
         "es": "La literatura sapiencial era un género del Antiguo Oriente Próximo — existen paralelos egipcios (la Instrucción de Amenemope, con semejanzas notables a Pr 22:17–24:22) y mesopotámicos (el 'Job babilónico', Ludlul Bel Nemeqi) — pero la sabiduría bíblica se distingue radicalmente al fundamentar toda sabiduría en 'el temor de Jehová' (Pr 1:7). Los Salmos, compuestos a lo largo de un milenio, reflejan el uso litúrgico del templo de Salomón y la sinagoga postexílica. Job está ambientado en la era patriarcal, sin referencias a la Ley mosaica.",
@@ -186,7 +201,7 @@
         26,
         27
       ],
-      "color": "#E08870",
+      "color": "#0D06D6",
       "rango": "Isaías – Daniel",
       "tagline": {
         "es": "Voces extensas de juicio y esperanza en el ocaso de las dos monarquías",
@@ -197,6 +212,11 @@
         "es": "Cinco libros llamados 'mayores' no por mayor importancia espiritual sino por su extensión literaria. Isaías, Jeremías, Ezequiel y Daniel ministran durante el período más oscuro de la historia de Israel: el ocaso del reino del sur, la caída de Jerusalén (586 a.C.) y el exilio babilónico — combinando denuncia del pecado del pacto, anuncio de juicio inminente, y promesas de restauración futura centradas en un Mesías venidero.",
         "en": "Five books called 'major' not for greater spiritual importance but for their literary length. Isaiah, Jeremiah, Ezekiel, and Daniel minister during the darkest period of Israel's history: the twilight of the southern kingdom, the fall of Jerusalem (586 BC), and the Babylonian exile — combining denunciation of covenantal sin, announcement of imminent judgment, and promises of future restoration centered on a coming Messiah.",
         "pt": "Cinco livros chamados 'maiores' não por maior importância espiritual, mas por sua extensão literária. Isaías, Jeremias, Ezequiel e Daniel ministram durante o período mais sombrio da história de Israel: o ocaso do reino do sul, a queda de Jerusalém (586 a.C.) e o exílio babilônico — combinando denúncia do pecado pactual, anúncio de julgamento iminente e promessas de restauração futura centradas em um Messias vindouro."
+      },
+      "resumenBreve": {
+        "es": "Cuatro voces extensas que denuncian el pecado de Judá, anuncian el juicio del exilio babilónico y prometen la restauración futura en el Mesías.",
+        "en": "Four extensive voices that denounce Judah's sin, announce the judgment of Babylonian exile, and promise future restoration in the Messiah.",
+        "pt": "Quatro vozes extensas que denunciam o pecado de Judá, anunciam o juízo do exílio babilônico e prometem a restauração futura no Messias."
       },
       "fondoHistorico": {
         "es": "Este período (c. 740–530 a.C.) coincide con el ascenso y caída del imperio neo-asirio y el ascenso del imperio neo-babilónico bajo Nabucodonosor II, documentado en las Crónicas Babilónicas. Las profecías de Isaías contra naciones específicas son corroboradas por registros asirios y babilónicos. El libro de Daniel está ambientado en la corte babilónica y luego persa, con detalles administrativos confirmados por fuentes extrabíblicas; la tradición reformada sostiene la datación temprana (s. VI a.C.), consistente con el testimonio de Cristo sobre 'Daniel el profeta' (Mt 24:15).",
@@ -247,7 +267,7 @@
         38,
         39
       ],
-      "color": "#D4955A",
+      "color": "#6E3E04",
       "rango": "Oseas – Malaquías",
       "tagline": {
         "es": "El Libro de los Doce — voces breves abarcando tres siglos de la historia del pacto",
@@ -258,6 +278,11 @@
         "es": "Doce libros breves que en la tradición hebrea se contaban como un solo rollo, 'El Libro de los Doce'. Abarcan desde el s. VIII a.C. (Oseas, Amós, Jonás, Miqueas) hasta el período postexílico (Hageo, Zacarías, Malaquías, s. VI–V a.C.), cubriendo el ministerio profético hacia el reino del norte, el del sur y hacia naciones extranjeras.",
         "en": "Twelve brief books counted in the Hebrew tradition as a single scroll, 'The Book of the Twelve'. They span from the 8th century BC (Hosea, Amos, Jonah, Micah) to the post-exilic period (Haggai, Zechariah, Malachi, 6th–5th centuries BC), covering prophetic ministry toward the northern kingdom, the southern kingdom, and foreign nations.",
         "pt": "Doze livros breves que na tradição hebraica eram contados como um único rolo, 'O Livro dos Doze'. Abrangem desde o séc. VIII a.C. (Oseias, Amós, Jonas, Miquéias) até o período pós-exílico (Ageu, Zacarias, Malaquias, sécs. VI–V a.C.), cobrindo o ministério profético ao reino do norte, ao do sul e às nações estrangeiras."
+      },
+      "resumenBreve": {
+        "es": "Doce profetas breves —el 'Libro de los Doce'— que abarcan tres siglos de llamados a la justicia, el arrepentimiento y la esperanza del Día de Jehová.",
+        "en": "Twelve short prophets —the 'Book of the Twelve'— spanning three centuries of calls to justice, repentance, and hope in the Day of the LORD.",
+        "pt": "Doze profetas breves —o 'Livro dos Doze'— que abrangem três séculos de chamados à justiça, ao arrependimento e à esperança do Dia do Senhor."
       },
       "fondoHistorico": {
         "es": "Amós profetiza durante el apogeo económico y la corrupción social del reinado de Jeroboam II en Israel (c. 760 a.C.). Jonás está ambientado en Nínive bajo el imperio asirio anterior a su caída (612 a.C.), que Nahúm profetiza en detalle. Hageo y Zacarías ministran durante la reconstrucción del segundo templo bajo el gobernador Zorobabel (520 a.C.), usando el calendario persa preciso para fechar sus oráculos. Malaquías ministra en el s. V a.C., denunciando la misma laxitud sacerdotal que Nehemías combate administrativamente.",
@@ -300,7 +325,7 @@
         42,
         43
       ],
-      "color": "#C9A84C",
+      "color": "#FF0505",
       "rango": "Mateo – Juan",
       "tagline": {
         "es": "El cumplimiento — la vida, muerte y resurrección de Jesucristo",
@@ -311,6 +336,11 @@
         "es": "Cuatro relatos complementarios, no contradictorios, de la persona y obra de Jesucristo: Mateo presenta a Jesús como el Mesías davídico que cumple la Ley y los profetas; Marcos lo retrata como el Siervo activo y sufriente; Lucas enfatiza la compasión universal de Cristo hacia los marginados; Juan, el más tardío y teológicamente explícito, presenta a Jesús como el Verbo eterno encarnado.",
         "en": "Four complementary, not contradictory, accounts of the person and work of Jesus Christ: Matthew presents Jesus as the Davidic Messiah who fulfills the Law and the prophets; Mark portrays him as the active and suffering Servant; Luke emphasizes Christ's universal compassion toward the marginalized; John, the latest and most theologically explicit, presents Jesus as the eternal Word made flesh.",
         "pt": "Quatro relatos complementares, não contraditórios, da pessoa e obra de Jesus Cristo: Mateus apresenta Jesus como o Messias davídico que cumpre a Lei e os profetas; Marcos o retrata como o Servo ativo e sofredor; Lucas enfatiza a compaixão universal de Cristo pelos marginalizados; João, o mais tardio e teologicamente explícito, apresenta Jesus como o Verbo eterno encarnado."
+      },
+      "resumenBreve": {
+        "es": "Cuatro relatos complementarios de la vida, muerte y resurrección de Jesucristo, cada uno escrito con un énfasis y una audiencia distintos.",
+        "en": "Four complementary accounts of the life, death, and resurrection of Jesus Christ, each written with a distinct emphasis and audience.",
+        "pt": "Quatro relatos complementares da vida, morte e ressurreição de Jesus Cristo, cada um escrito com uma ênfase e um público distintos."
       },
       "fondoHistorico": {
         "es": "Los tres evangelios sinópticos comparten estrecha relación literaria — la posición mayoritaria reformada-evangélica sostiene la prioridad de Marcos (c. 55-65 d.C.) como fuente más temprana. Los evangelios fueron escritos dentro de la generación de testigos oculares (c. 55-90 d.C.), demasiado pronto para el desarrollo legendario que la crítica liberal del s. XIX propuso. El Papiro P52 (fragmento de Juan, c. 125 d.C., hallado en Egipto) confirma una circulación temprana del cuarto evangelio.",
@@ -350,7 +380,7 @@
       "libros": [
         44
       ],
-      "color": "#56C4AA",
+      "color": "#05D5FF",
       "rango": "Hechos",
       "tagline": {
         "es": "El nacimiento y expansión de la iglesia apostólica",
@@ -361,6 +391,11 @@
         "es": "Un solo libro — Hechos de los Apóstoles, segundo volumen de la obra de Lucas — que narra la expansión del evangelio desde Jerusalén hasta Roma a través de la obra del Espíritu Santo, desde Pentecostés hasta el encarcelamiento de Pablo en Roma (c. 30-62 d.C.), documentando el nacimiento de la iglesia y la formación de las primeras comunidades cristianas gentiles.",
         "en": "A single book — Acts of the Apostles, the second volume of Luke's work — narrating the expansion of the gospel from Jerusalem to Rome through the work of the Holy Spirit, from Pentecost to Paul's imprisonment in Rome (c. 30–62 AD), documenting the birth of the church and the formation of the first Gentile Christian communities.",
         "pt": "Um único livro — Atos dos Apóstolos, segundo volume da obra de Lucas — que narra a expansão do evangelho de Jerusalém até Roma pela obra do Espírito Santo, desde o Pentecostes até o encarceramento de Paulo em Roma (c. 30–62 d.C.), documentando o nascimento da igreja e a formação das primeiras comunidades cristãs gentias."
+      },
+      "resumenBreve": {
+        "es": "El nacimiento y la expansión del evangelio desde Jerusalén hasta Roma, a través de la obra del Espíritu Santo en la iglesia apostólica.",
+        "en": "The birth and expansion of the gospel from Jerusalem to Rome, through the work of the Holy Spirit in the apostolic church.",
+        "pt": "O nascimento e a expansão do evangelho de Jerusalém até Roma, por meio da obra do Espírito Santo na igreja apostólica."
       },
       "fondoHistorico": {
         "es": "Hechos demuestra una precisión historiográfica notable, confirmada por la arqueología: los títulos políticos exactos para cada región (procónsul en Chipre y Acaya; asiarcas en Éfeso) que cambiaban según el estatus romano de cada provincia, verificados por inscripciones; la mención del hambre bajo Claudio (Hch 11:28), corroborada por Suetonio y Josefo; y la expulsión de judíos de Roma por el edicto de Claudio (Hch 18:2), confirmada por Suetonio.",
@@ -412,7 +447,7 @@
         56,
         57
       ],
-      "color": "#90D060",
+      "color": "#620391",
       "rango": "Romanos – Filemón",
       "tagline": {
         "es": "La teología sistemática del evangelio — justificación, iglesia y vida cristiana",
@@ -423,6 +458,11 @@
         "es": "Trece cartas atribuidas al apóstol Pablo (incluida Hebreos en algunas tradiciones) que constituyen el cuerpo doctrinal más rico del NT. Cubren la justificación por la fe (Romanos, Gálatas), la eclesiología (Efesios, Corintios), la escatología (Tesalonicenses), la cristología (Colosenses, Filipenses) y la vida pastoral (las Pastorales). Juntas forman la columna vertebral doctrinal del protestantismo reformado.",
         "en": "Thirteen letters attributed to the Apostle Paul (including Hebrews in some traditions) that constitute the richest doctrinal corpus of the NT. They cover justification by faith (Romans, Galatians), ecclesiology (Ephesians, Corinthians), eschatology (Thessalonians), Christology (Colossians, Philippians), and pastoral life (the Pastorals). Together they form the doctrinal backbone of Reformed Protestantism.",
         "pt": "Treze cartas atribuídas ao apóstolo Paulo (incluindo Hebreus em algumas tradições) que constituem o corpus doutrinal mais rico do NT. Cobrem a justificação pela fé (Romanos, Gálatas), a eclesiologia (Efésios, Coríntios), a escatologia (Tessalonicenses), a cristologia (Colossenses, Filipenses) e a vida pastoral (as Pastorais). Juntas formam a espinha dorsal doutrinal do protestantismo reformado."
+      },
+      "resumenBreve": {
+        "es": "Trece cartas de Pablo a iglesias y colaboradores, desde la exposición doctrinal más sistemática del Nuevo Testamento hasta una breve carta personal.",
+        "en": "Thirteen letters from Paul to churches and coworkers, ranging from the New Testament's most systematic doctrinal exposition to a brief personal note.",
+        "pt": "Treze cartas de Paulo a igrejas e colaboradores, desde a exposição doutrinária mais sistemática do Novo Testamento até uma breve carta pessoal."
       },
       "fondoHistorico": {
         "es": "Escritas entre c. 48–67 d.C. durante los tres viajes misioneros de Pablo y su encarcelamiento romano, las epístolas paulinas son los documentos más tempranos del NT (1 Tesalonicenses, c. 48 d.C., es probablemente el documento cristiano escrito más antiguo que se conserva). Su autenticidad ha sido confirmada por el estudio de sus características estilísticas, su coherencia teológica interna y su recepción temprana en el canon.",
@@ -469,7 +509,7 @@
         64,
         65
       ],
-      "color": "#D06898",
+      "color": "#4A5202",
       "rango": "Hebreos – Judas",
       "tagline": {
         "es": "La fe probada — perseverancia, sabiduría y pureza en la iglesia dispersa",
@@ -480,6 +520,11 @@
         "es": "Ocho cartas (Hebreos, Santiago, 1-2 Pedro, 1-3 Juan, Judas) dirigidas a la iglesia en general (no a una congregación específica), que abordan el sufrimiento, la perseverancia en la fe, el peligro de las falsas enseñanzas, la conducta ética y el conocimiento de Dios. Hebreos es el gran tratado sobre el sacerdocio de Cristo; las Juaninas profundizan el amor y la verdad.",
         "en": "Eight letters (Hebrews, James, 1–2 Peter, 1–3 John, Jude) addressed to the church in general (not a specific congregation), addressing suffering, perseverance in faith, the danger of false teaching, ethical conduct, and the knowledge of God. Hebrews is the great treatise on Christ's priesthood; the Johannine letters deepen love and truth.",
         "pt": "Oito cartas (Hebreus, Tiago, 1-2 Pedro, 1-3 João, Judas) dirigidas à igreja em geral (não a uma congregação específica), abordando o sofrimento, a perseverança na fé, o perigo das falsas doutrinas, a conduta ética e o conhecimento de Deus. Hebreus é o grande tratado sobre o sacerdócio de Cristo; as cartas joaninas aprofundam o amor e a verdade."
+      },
+      "resumenBreve": {
+        "es": "Ocho cartas no paulinas dirigidas a audiencias dispersas, que enfrentan la persecución, la falsa doctrina y la necesidad de perseverar en la fe.",
+        "en": "Eight non-Pauline letters addressed to scattered audiences, confronting persecution, false doctrine, and the need to persevere in the faith.",
+        "pt": "Oito cartas não paulinas dirigidas a audiências dispersas, enfrentando a perseguição, a falsa doutrina e a necessidade de perseverar na fé."
       },
       "fondoHistorico": {
         "es": "La mayoría de estas cartas fueron escritas durante el período de persecución pre-70 d.C. (bajo Nerón) o post-70 (bajo Domiciano), cuando las comunidades judeo-cristinas enfrentaban presión para apostatar. Hebreos y 1 Pedro son las más ricas en aplicación de la tipología del AT a la realidad de Cristo.",
@@ -519,7 +564,7 @@
       "libros": [
         66
       ],
-      "color": "#CC3848",
+      "color": "#5E0E39",
       "rango": "Apocalipsis",
       "tagline": {
         "es": "La consumación — la victoria final de Cristo y la renovación de todas las cosas",
@@ -530,6 +575,11 @@
         "es": "Un único libro — el Apocalipsis de Juan — escrito en el género del apocalipsis judeo-cristiano mediante visiones simbólicas, presentando la victoria final y cósmica del Cordero sobre todos sus enemigos y el establecimiento definitivo del reino de Dios en la nueva creación. Es, a la vez, carta pastoral a siete iglesias bajo persecución romana (c. 95 d.C.) y la visión más amplia de la historia universal redimida.",
         "en": "A single book — the Apocalypse of John — written in the genre of Jewish-Christian apocalyptic through symbolic visions, presenting the final and cosmic victory of the Lamb over all his enemies and the definitive establishment of God's kingdom in the new creation. It is simultaneously a pastoral letter to seven churches under Roman persecution (c. 95 AD) and the broadest vision of redeemed universal history.",
         "pt": "Um único livro — o Apocalipse de João — escrito no gênero do apocalipse judeu-cristão mediante visões simbólicas, apresentando a vitória final e cósmica do Cordeiro sobre todos os seus inimigos e o estabelecimento definitivo do reino de Deus na nova criação. É, ao mesmo tempo, carta pastoral a sete igrejas sob perseguição romana (c. 95 d.C.) e a visão mais ampla da história universal redimida."
+      },
+      "resumenBreve": {
+        "es": "El libro final del canon: la visión de Juan en Patmos sobre el triunfo escatológico de Cristo y la consumación de la historia redentora.",
+        "en": "The final book of the canon: John's vision on Patmos of Christ's eschatological triumph and the consummation of redemptive history.",
+        "pt": "O livro final do cânon: a visão de João em Patmos sobre o triunfo escatológico de Cristo e a consumação da história redentora."
       },
       "fondoHistorico": {
         "es": "Escrito probablemente bajo Domiciano (c. 95 d.C.), cuando el culto imperial romano exigía que los creyentes confesaran 'César es Señor'. El simbolismo numérico (666, 144.000, los 7 sellos) es lenguaje en código comprensible para lectores del s. I familiarizados con el apocalipticismo judío, no predicciones codificadas para el siglo XXI.",
@@ -572,7 +622,7 @@
       "division": "pentateuco",
       "ordenCanon": 1,
       "capitulosTotal": 50,
-      "divisionColor": "#88C088",
+      "divisionColor": "#FFEE00",
       "disponible": true,
       "razon": {
         "es": "Los orígenes: creación, caída, diluvio, y el llamado de los patriarcas. Establece cada doctrina fundacional que el resto del canon desarrollará.",
@@ -593,7 +643,7 @@
       "division": "pentateuco",
       "ordenCanon": 2,
       "capitulosTotal": 40,
-      "divisionColor": "#88C088",
+      "divisionColor": "#FFEE00",
       "disponible": true,
       "dataFile": "exodus.json",
       "razon": {
@@ -614,7 +664,7 @@
       "division": "pentateuco",
       "ordenCanon": 3,
       "capitulosTotal": 27,
-      "divisionColor": "#88C088",
+      "divisionColor": "#FFEE00",
       "disponible": true,
       "dataFile": "leviticus.json",
       "razon": {
@@ -635,7 +685,7 @@
       "division": "pentateuco",
       "ordenCanon": 4,
       "capitulosTotal": 36,
-      "divisionColor": "#88C088",
+      "divisionColor": "#FFEE00",
       "disponible": true,
       "razon": {
         "es": "El censo y la peregrinación de cuarenta años por el desierto: el juicio sobre la incredulidad de una generación y la fidelidad de Dios para preservar a la siguiente.",
@@ -656,7 +706,7 @@
       "division": "pentateuco",
       "ordenCanon": 5,
       "capitulosTotal": 34,
-      "divisionColor": "#88C088",
+      "divisionColor": "#FFEE00",
       "disponible": true,
       "razon": {
         "es": "El segundo discurso de la Ley, renovación del pacto en la frontera de Canaán — estructurado como un tratado de vasallaje del ANE, cierra el Pentateuco con la muerte de Moisés.",
@@ -677,7 +727,7 @@
       "division": "historico-at",
       "ordenCanon": 6,
       "capitulosTotal": 24,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": true,
       "dataFile": "joshua.json",
       "razon": {
@@ -698,7 +748,7 @@
       "division": "historico-at",
       "ordenCanon": 7,
       "capitulosTotal": 21,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": true,
       "dataFile": "judges.json",
       "razon": {
@@ -719,7 +769,7 @@
       "division": "historico-at",
       "ordenCanon": 8,
       "capitulosTotal": 4,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": true,
       "razon": {
         "es": "Una historia de lealtad pactual (hesed) ambientada en el período de los jueces, que culmina en la genealogía davídica — y por tanto mesiánica.",
@@ -740,7 +790,7 @@
       "division": "historico-at",
       "ordenCanon": 9,
       "capitulosTotal": 31,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": true,
       "dataFile": "1samuel.json",
       "razon": {
@@ -761,7 +811,7 @@
       "division": "historico-at",
       "ordenCanon": 10,
       "capitulosTotal": 24,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": true,
       "razon": {
         "es": "El reinado de David y el Pacto Davídico (2S 7) — la promesa de una dinastía y un trono eternos, eje mesiánico de toda la historia subsiguiente.",
@@ -782,7 +832,7 @@
       "division": "historico-at",
       "ordenCanon": 11,
       "capitulosTotal": 22,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": false,
       "razon": {
         "es": "El apogeo de Salomón y la construcción del templo, seguidos por la división del reino tras su apostasía — el inicio de la decadencia dual.",
@@ -802,7 +852,7 @@
       "division": "historico-at",
       "ordenCanon": 12,
       "capitulosTotal": 25,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": false,
       "razon": {
         "es": "La caída de ambos reinos: Israel al exilio asirio (722 a.C.) y Judá al exilio babilónico (586 a.C.) — el juicio pactual cumplido en la historia.",
@@ -822,7 +872,7 @@
       "division": "historico-at",
       "ordenCanon": 13,
       "capitulosTotal": 29,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": false,
       "razon": {
         "es": "Relectura sacerdotal-davídica de la historia para la comunidad postexílica, con genealogías que conectan a Adán con David — reafirmando la promesa pese al exilio.",
@@ -842,7 +892,7 @@
       "division": "historico-at",
       "ordenCanon": 14,
       "capitulosTotal": 36,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": false,
       "razon": {
         "es": "Historia del reino del sur con énfasis en el templo y la reforma religiosa, cerrando con el decreto de Ciro que abre la puerta al retorno.",
@@ -862,7 +912,7 @@
       "division": "historico-at",
       "ordenCanon": 15,
       "capitulosTotal": 10,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": false,
       "razon": {
         "es": "El retorno del exilio y la reconstrucción del templo bajo el decreto persa — la fidelidad de Dios para restaurar a un remanente.",
@@ -882,7 +932,7 @@
       "division": "historico-at",
       "ordenCanon": 16,
       "capitulosTotal": 13,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": false,
       "razon": {
         "es": "La reconstrucción de los muros de Jerusalén y la renovación del pacto bajo Esdras y Nehemías, estableciendo la comunidad postexílica.",
@@ -902,7 +952,7 @@
       "division": "historico-at",
       "ordenCanon": 17,
       "capitulosTotal": 10,
-      "divisionColor": "#6AAECF",
+      "divisionColor": "#0F8C08",
       "disponible": false,
       "razon": {
         "es": "La preservación providencial del pueblo judío en la diáspora persa — Dios actúa sin ser mencionado explícitamente, modelo de providencia oculta.",
@@ -922,7 +972,7 @@
       "division": "sabiduria",
       "ordenCanon": 18,
       "capitulosTotal": 42,
-      "divisionColor": "#C49AE0",
+      "divisionColor": "#D65606",
       "disponible": false,
       "razon": {
         "es": "La pregunta del sufrimiento inocente confrontada sin respuestas fáciles, resuelta no con explicación sino con la revelación de la soberanía y sabiduría incomprensibles de Dios (Job 38–41).",
@@ -942,7 +992,7 @@
       "division": "sabiduria",
       "ordenCanon": 19,
       "capitulosTotal": 150,
-      "divisionColor": "#C49AE0",
+      "divisionColor": "#D65606",
       "disponible": false,
       "razon": {
         "es": "150 oraciones y cánticos que expresan toda la gama de la experiencia humana delante de Dios — lamento, alabanza, confianza, arrepentimiento — el himnario inspirado de la fe del pacto.",
@@ -962,7 +1012,7 @@
       "division": "sabiduria",
       "ordenCanon": 20,
       "capitulosTotal": 31,
-      "divisionColor": "#C49AE0",
+      "divisionColor": "#D65606",
       "disponible": false,
       "razon": {
         "es": "Sabiduría práctica para la vida cotidiana, fundamentada en 'el temor de Jehová' como principio de todo conocimiento verdadero (Pr 1:7).",
@@ -982,7 +1032,7 @@
       "division": "sabiduria",
       "ordenCanon": 21,
       "capitulosTotal": 12,
-      "divisionColor": "#C49AE0",
+      "divisionColor": "#D65606",
       "disponible": false,
       "razon": {
         "es": "La búsqueda de sentido 'bajo el sol' que termina en vanidad aparte de Dios, concluyendo que el deber del hombre es temer a Dios y guardar sus mandamientos (Ec 12:13).",
@@ -1002,7 +1052,7 @@
       "division": "sabiduria",
       "ordenCanon": 22,
       "capitulosTotal": 8,
-      "divisionColor": "#C49AE0",
+      "divisionColor": "#D65606",
       "disponible": false,
       "razon": {
         "es": "Un poema de amor conyugal que celebra el matrimonio como don bueno de Dios, leído tradicionalmente también como figura del amor de Cristo por su Iglesia.",
@@ -1022,7 +1072,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 23,
       "capitulosTotal": 66,
-      "divisionColor": "#E08870",
+      "divisionColor": "#0D06D6",
       "disponible": true,
       "razon": {
         "es": "O 'quinto evangelio' del AT — desde el juicio sobre Judá hasta la consolación del Siervo Sufriente (cap. 53) y la nueva creación (caps. 65-66).",
@@ -1043,7 +1093,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 24,
       "capitulosTotal": 52,
-      "divisionColor": "#E08870",
+      "divisionColor": "#0D06D6",
       "disponible": true,
       "razon": {
         "es": "El 'profeta llorón' que anuncia la inminente caída de Jerusalén y, en medio del juicio, la promesa explícita de un Nuevo Pacto (Jer 31:31-34).",
@@ -1064,7 +1114,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 25,
       "capitulosTotal": 5,
-      "divisionColor": "#E08870",
+      "divisionColor": "#0D06D6",
       "disponible": false,
       "razon": {
         "es": "Cinco poemas elegíacos que lamentan la destrucción de Jerusalén en el 586 a.C., sosteniendo la esperanza en la fidelidad de Dios en medio de la desolación (Lm 3:22-23).",
@@ -1084,7 +1134,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 26,
       "capitulosTotal": 48,
-      "divisionColor": "#E08870",
+      "divisionColor": "#0D06D6",
       "disponible": false,
       "razon": {
         "es": "Visiones proféticas desde el exilio babilónico mismo: la gloria de Dios que abandona el templo y promete regresar, y la promesa del corazón nuevo y el Espíritu (Ez 36).",
@@ -1104,7 +1154,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 27,
       "capitulosTotal": 12,
-      "divisionColor": "#E08870",
+      "divisionColor": "#0D06D6",
       "disponible": false,
       "razon": {
         "es": "Narrativas de fidelidad en la corte pagana y visiones apocalípticas de los imperios sucesivos y el reino eterno del 'Hijo del Hombre' (Dn 7).",
@@ -1124,7 +1174,7 @@
       "division": "profetas-menores",
       "ordenCanon": 28,
       "capitulosTotal": 14,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "El matrimonio del profeta con una mujer infiel se convierte en metáfora viva de la infidelidad de Israel y el amor pactual inquebrantable de Dios.",
@@ -1144,7 +1194,7 @@
       "division": "profetas-menores",
       "ordenCanon": 29,
       "capitulosTotal": 3,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Una plaga de langostas se convierte en figura del Día de Jehová venidero, con la promesa del derramamiento del Espíritu (Jl 2:28-32) citada por Pedro en Pentecostés.",
@@ -1164,7 +1214,7 @@
       "division": "profetas-menores",
       "ordenCanon": 30,
       "capitulosTotal": 9,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Denuncia profética de la injusticia social y la religiosidad vacía en el próspero reino del norte: 'corra el juicio como las aguas' (Am 5:24).",
@@ -1184,7 +1234,7 @@
       "division": "profetas-menores",
       "ordenCanon": 31,
       "capitulosTotal": 1,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "El libro más breve del AT, un oráculo de juicio contra Edom por su traición fraternal hacia Judá en el día de su calamidad.",
@@ -1204,7 +1254,7 @@
       "division": "profetas-menores",
       "ordenCanon": 32,
       "capitulosTotal": 4,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Un profeta reticente enviado a Nínive, la capital enemiga, revelando que la misericordia de Dios no se limita a Israel sino que alcanza a las naciones.",
@@ -1224,7 +1274,7 @@
       "division": "profetas-menores",
       "ordenCanon": 33,
       "capitulosTotal": 7,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Anuncia tanto el juicio sobre la injusticia social como el nacimiento del Mesías en Belén (Miq 5:2) y la esencia de la piedad genuina (Miq 6:8).",
@@ -1244,7 +1294,7 @@
       "division": "profetas-menores",
       "ordenCanon": 34,
       "capitulosTotal": 3,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Profetiza la caída de Nínive — cumplida en el 612 a.C. — como vindicación de la justicia de Dios tras la conversión temporal de la ciudad en Jonás.",
@@ -1264,7 +1314,7 @@
       "division": "profetas-menores",
       "ordenCanon": 35,
       "capitulosTotal": 3,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Un diálogo entre el profeta y Dios sobre el uso de Babilonia para juzgar a Judá, resuelto en 'el justo por su fe vivirá' (Hab 2:4), citado tres veces en el NT.",
@@ -1284,7 +1334,7 @@
       "division": "profetas-menores",
       "ordenCanon": 36,
       "capitulosTotal": 3,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Anuncia el Día de Jehová como juicio universal y, a la vez, como restauración futura con gozo: 'se gozará sobre ti con cánticos' (Sof 3:17).",
@@ -1304,7 +1354,7 @@
       "division": "profetas-menores",
       "ordenCanon": 37,
       "capitulosTotal": 2,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Llama al remanente postexílico a reconstruir el templo, prometiendo que la gloria de esta segunda casa superará a la primera.",
@@ -1324,7 +1374,7 @@
       "division": "profetas-menores",
       "ordenCanon": 38,
       "capitulosTotal": 14,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "Visiones nocturnas y oráculos mesiánicos que anticipan tanto el primer advenimiento humilde (Zac 9:9) como el reinado final de Jehová sobre toda la tierra.",
@@ -1344,7 +1394,7 @@
       "division": "profetas-menores",
       "ordenCanon": 39,
       "capitulosTotal": 4,
-      "divisionColor": "#D4955A",
+      "divisionColor": "#6E3E04",
       "disponible": false,
       "razon": {
         "es": "El último libro del AT canónico: denuncia la apatía sacerdotal postexílica y anuncia al precursor (Elías) que preparará el camino del Señor.",
@@ -1364,7 +1414,7 @@
       "division": "evangelios",
       "ordenCanon": 40,
       "capitulosTotal": 28,
-      "divisionColor": "#C9A84C",
+      "divisionColor": "#FF0505",
       "disponible": true,
       "dataFile": "matthew.json",
       "razon": {
@@ -1385,7 +1435,7 @@
       "division": "evangelios",
       "ordenCanon": 41,
       "capitulosTotal": 16,
-      "divisionColor": "#C9A84C",
+      "divisionColor": "#FF0505",
       "disponible": true,
       "dataFile": "mark.json",
       "razon": {
@@ -1406,7 +1456,7 @@
       "division": "evangelios",
       "ordenCanon": 42,
       "capitulosTotal": 24,
-      "divisionColor": "#C9A84C",
+      "divisionColor": "#FF0505",
       "disponible": true,
       "dataFile": "luke.json",
       "razon": {
@@ -1427,7 +1477,7 @@
       "division": "evangelios",
       "ordenCanon": 43,
       "capitulosTotal": 21,
-      "divisionColor": "#C9A84C",
+      "divisionColor": "#FF0505",
       "disponible": true,
       "razon": {
         "es": "El evangelio teológico por excelencia: presenta a Jesús como el Logos eterno encarnado (Jn 1:1,14) mediante siete señales y siete declaraciones 'Yo Soy' que revelan su deidad.",
@@ -1448,7 +1498,7 @@
       "division": "historia-nt",
       "ordenCanon": 44,
       "capitulosTotal": 28,
-      "divisionColor": "#56C4AA",
+      "divisionColor": "#05D5FF",
       "disponible": true,
       "dataFile": "acts.json",
       "razon": {
@@ -1469,7 +1519,7 @@
       "division": "paulinas",
       "ordenCanon": 45,
       "capitulosTotal": 16,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "dataFile": "romans.json",
       "razon": {
@@ -1490,7 +1540,7 @@
       "division": "paulinas",
       "ordenCanon": 46,
       "capitulosTotal": 16,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "Responde problemas pastorales de la iglesia de Corinto (divisiones, inmoralidad, dones espirituales, la resurrección) con instrucción teológica profunda, incluyendo el himno del amor (cap. 13) y el capítulo fundacional sobre la resurrección (cap. 15).",
@@ -1511,7 +1561,7 @@
       "division": "paulinas",
       "ordenCanon": 47,
       "capitulosTotal": 13,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "La 'carta del dolor': Pablo defiende su apostolado con transparencia personal extraordinaria, revelando el sufrimiento pastoral y su paradójica fortaleza en debilidad.",
@@ -1532,7 +1582,7 @@
       "division": "paulinas",
       "ordenCanon": 48,
       "capitulosTotal": 6,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "dataFile": "galatas.json",
       "razon": {
@@ -1553,7 +1603,7 @@
       "division": "paulinas",
       "ordenCanon": 49,
       "capitulosTotal": 6,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "La epístola de la iglesia: expone el misterio de la unidad judeo-gentil en el cuerpo de Cristo, la armadura espiritual y la vida familiar cristiana. Geerhardus Vos la llama la 'catedral de las epístolas'.",
@@ -1574,7 +1624,7 @@
       "division": "paulinas",
       "ordenCanon": 50,
       "capitulosTotal": 4,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "La epístola del gozo: escrita desde prisión, enseña contentamiento en toda circunstancia (Fil 4:11) y contiene el célebre himno cristológico de la kenosis/exaltación de Cristo (Fil 2:5-11).",
@@ -1595,7 +1645,7 @@
       "division": "paulinas",
       "ordenCanon": 51,
       "capitulosTotal": 4,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "Responde a una proto-gnosis que rebajaba a Cristo: afirma su supremacía cósmica absoluta como 'cabeza de todo principado y potestad' (Col 2:10) y el primado de Cristo en toda la creación.",
@@ -1616,7 +1666,7 @@
       "division": "paulinas",
       "ordenCanon": 52,
       "capitulosTotal": 5,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "La carta escatológica más temprana del NT: corrige malentendidos sobre la parusía y exhorta a la santidad mientras se aguarda la venida de Cristo.",
@@ -1637,7 +1687,7 @@
       "division": "paulinas",
       "ordenCanon": 53,
       "capitulosTotal": 3,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "Amplía la escatología de 1 Tesalonicenses, describiendo el 'hombre de iniquidad' que precede a la parusía — pasaje fundamental en la teología reformada del fin de los tiempos.",
@@ -1658,7 +1708,7 @@
       "division": "paulinas",
       "ordenCanon": 54,
       "capitulosTotal": 6,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "dataFile": "1timothy.json",
       "razon": {
@@ -1679,7 +1729,7 @@
       "division": "paulinas",
       "ordenCanon": 55,
       "capitulosTotal": 4,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "dataFile": "2timoteo.json",
       "razon": {
@@ -1700,7 +1750,7 @@
       "division": "paulinas",
       "ordenCanon": 56,
       "capitulosTotal": 3,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "Tercera carta pastoral: instruye a Tito sobre gobierno de la iglesia en Creta, especialmente la designación de ancianos y la confrontación de falsas doctrinas.",
@@ -1721,7 +1771,7 @@
       "division": "paulinas",
       "ordenCanon": 57,
       "capitulosTotal": 1,
-      "divisionColor": "#90D060",
+      "divisionColor": "#620391",
       "disponible": true,
       "razon": {
         "es": "La epístola más corta y personal de Pablo: intercede por Onésimo, un esclavo fugitivo convertido, ante su amo Filemón — ilustración vívida de la doctrina de la reconciliación y la intercesión.",
@@ -1742,7 +1792,7 @@
       "division": "generales",
       "ordenCanon": 58,
       "capitulosTotal": 13,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "dataFile": "hebrews.json",
       "razon": {
@@ -1763,7 +1813,7 @@
       "division": "generales",
       "ordenCanon": 59,
       "capitulosTotal": 5,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "dataFile": "santiago.json",
       "razon": {
@@ -1784,7 +1834,7 @@
       "division": "generales",
       "ordenCanon": 60,
       "capitulosTotal": 5,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "razon": {
         "es": "Escrita a los 'extranjeros dispersos' bajo persecución (probablemente neroniana), presenta a los creyentes como el nuevo pueblo peregrino de Dios y desarrolla la doctrina de la piedra angular rechazada/elegida como fundamento de la identidad eclesial.",
@@ -1805,7 +1855,7 @@
       "division": "generales",
       "ordenCanon": 61,
       "capitulosTotal": 3,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "razon": {
         "es": "Advierte contra los falsos maestros que infiltran la iglesia, conecta con Judas en su urgencia, y desarrolla la doctrina de la inspiración como origen del profetismo bíblico (2P 1:20-21).",
@@ -1826,7 +1876,7 @@
       "division": "generales",
       "ordenCanon": 62,
       "capitulosTotal": 5,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "razon": {
         "es": "El evangelio en forma de carta: Dios es luz (1:5), amor (4:8) y vida (5:12). Define los criterios de la vida en comunión con Dios y desmonta las pretensiones gnósticas de un conocimiento espiritual sin obediencia ética.",
@@ -1847,7 +1897,7 @@
       "division": "generales",
       "ordenCanon": 63,
       "capitulosTotal": 1,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "razon": {
         "es": "Nota personal de Juan que advierte sobre falsos maestros itinerantes y la importancia de la hospitalidad cristiana discernida.",
@@ -1868,7 +1918,7 @@
       "division": "generales",
       "ordenCanon": 64,
       "capitulosTotal": 1,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "razon": {
         "es": "Segunda nota personal de Juan, esta vez sobre la autoridad del apóstol frente a líderes eclesiales que la desafían (Diótrefes). Ilustra los conflictos de autoridad en la iglesia primitiva.",
@@ -1889,7 +1939,7 @@
       "division": "generales",
       "ordenCanon": 65,
       "capitulosTotal": 1,
-      "divisionColor": "#D06898",
+      "divisionColor": "#4A5202",
       "disponible": true,
       "razon": {
         "es": "La carta más breve del NT: exhortación urgente a 'contender ardientemente por la fe que fue entregada una vez para siempre a los santos' (Jud 3) frente a infiltrados que pervirtieron la gracia.",
@@ -1910,7 +1960,7 @@
       "division": "profecia",
       "ordenCanon": 66,
       "capitulosTotal": 22,
-      "divisionColor": "#CC3848",
+      "divisionColor": "#5E0E39",
       "disponible": true,
       "razon": {
         "es": "Cierra el canon bíblico con la visión cósmica de la victoria final del Cordero, la caída de Babilonia (Roma imperial y todo sistema anti-Dios), la nueva creación y la nueva Jerusalén — el cumplimiento de todo lo que el Génesis prometió.",
