@@ -2318,7 +2318,10 @@
     "id": "sedequias",
     "color": "#6B5A4A",
     "init": "צד",
-    "xCh": 38,
+    "xCh": {
+      "Jer": 38,
+      "Ez": 12
+    },
     "side": "above",
     "badge": {
       "es": "ÚLTIMO REY DE JUDÁ",
@@ -2342,7 +2345,10 @@
     "id": "nabucodonosor",
     "color": "#8B2A3A",
     "init": "נב",
-    "xCh": 39,
+    "xCh": {
+      "Jer": 39,
+      "Ez": 29
+    },
     "side": "above",
     "badge": {
       "es": "REY DE BABILONIA",
@@ -2354,12 +2360,39 @@
     "id": "joaquin",
     "color": "#4A3A6B",
     "init": "יכ",
-    "xCh": 24,
+    "xCh": {
+      "Jer": 24,
+      "Ez": 19
+    },
     "side": "above",
     "badge": {
       "es": "REY LLEVADO AL EXILIO",
       "en": "KING TAKEN INTO EXILE",
       "pt": "REI LEVADO AO EXÍLIO"
+    }
+  },
+  "Ezequiel": {
+    "id": "ezequiel",
+    "color": "#1B5E8B",
+    "init": "יח",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA DEL EXILIO",
+      "en": "PROPHET OF THE EXILE",
+      "pt": "PROFETA DO EXÍLIO"
+    }
+  },
+  "David, el Pastor-Príncipe prometido": {
+    "id": "david-pastor",
+    "color": "#1B6B5E",
+    "init": "דו",
+    "xCh": 34,
+    "side": "below",
+    "badge": {
+      "es": "PASTOR DAVÍDICO PROMETIDO",
+      "en": "PROMISED DAVIDIC SHEPHERD",
+      "pt": "PASTOR DAVÍDICO PROMETIDO"
     }
   }
 }

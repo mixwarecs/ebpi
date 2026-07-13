@@ -3,6 +3,15 @@
 
 const ERA_COLORS = {
   "Primordial":      "#A0C080",
+  // Genesis fine-grained eras ("Post-Diluvio" must precede "Diluvio":
+  // eraColor matches by substring in insertion order)
+  "Creación":        "#A0C080",
+  "Caída":           "#C08A6A",
+  "Antediluviano":   "#9A9A70",
+  "Post-Diluvio":    "#8AB8A0",
+  "Diluvio":         "#7A9AC0",
+  "Abrahámico":      "#B88A50",
+  "José":            "#6AAAB8",
   "Patriarcal":      "#C4A86A",
   "Ley":             "#E0B830",
   "Éxodo":           "#E0B830",

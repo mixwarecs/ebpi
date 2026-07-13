@@ -30,16 +30,16 @@ export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "ARC" };
 // Single source of truth for each classification's color. Applied to the
 // shelf cards, side-rail tabs, and book viewer (header, tabs, back link).
 export const DIVISION_COLORS = {
-  "pentateuco": "#FFEE00",
-  "historico-at": "#0F8C08",
-  "sabiduria": "#D65606",
-  "profetas-mayores": "#0D06D6",
-  "profetas-menores": "#6E3E04",
-  "evangelios": "#FF0505",
-  "historia-nt": "#05D5FF",
-  "paulinas": "#620391",
-  "generales": "#4A5202",
-  "profecia": "#5E0E39",
+  "pentateuco": "#C6B900",
+  "historico-at": "#0B6D06",
+  "sabiduria": "#A64304",
+  "profetas-mayores": "#0A04A6",
+  "profetas-menores": "#553003",
+  "evangelios": "#C60303",
+  "historia-nt": "#03A6C6",
+  "paulinas": "#4C0271",
+  "generales": "#393F01",
+  "profecia": "#636363",
 };
 
 // ── 66 BOOKS REGISTRY ─────────────────────────────────────────────────────────

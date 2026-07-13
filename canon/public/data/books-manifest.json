@@ -17,7 +17,7 @@
         4,
         5
       ],
-      "color": "#FFEE00",
+      "color": "#EDFDAF",
       "rango": "Génesis – Deuteronomio",
       "tagline": {
         "es": "La Torá — el fundamento de toda revelación posterior",
@@ -83,7 +83,7 @@
         16,
         17
       ],
-      "color": "#0F8C08",
+      "color": "#B6F7D0",
       "rango": "Josué – Ester",
       "tagline": {
         "es": "La conquista, la monarquía y el exilio del pueblo del pacto",
@@ -142,7 +142,7 @@
         21,
         22
       ],
-      "color": "#D65606",
+      "color": "#E9B567",
       "rango": "Job – Cantares",
       "tagline": {
         "es": "La piedad reflexiva: sufrimiento, adoración, sabiduría práctica y amor pactual",
@@ -201,7 +201,7 @@
         26,
         27
       ],
-      "color": "#0D06D6",
+      "color": "#7D63E3",
       "rango": "Isaías – Daniel",
       "tagline": {
         "es": "Voces extensas de juicio y esperanza en el ocaso de las dos monarquías",
@@ -267,7 +267,7 @@
         38,
         39
       ],
-      "color": "#6E3E04",
+      "color": "#B6D2FB",
       "rango": "Oseas – Malaquías",
       "tagline": {
         "es": "El Libro de los Doce — voces breves abarcando tres siglos de la historia del pacto",
@@ -325,7 +325,7 @@
         42,
         43
       ],
-      "color": "#FF0505",
+      "color": "#FDB9B9",
       "rango": "Mateo – Juan",
       "tagline": {
         "es": "El cumplimiento — la vida, muerte y resurrección de Jesucristo",
@@ -380,7 +380,7 @@
       "libros": [
         44
       ],
-      "color": "#05D5FF",
+      "color": "#64D8D8",
       "rango": "Hechos",
       "tagline": {
         "es": "El nacimiento y expansión de la iglesia apostólica",
@@ -447,7 +447,7 @@
         56,
         57
       ],
-      "color": "#620391",
+      "color": "#EEBDFA",
       "rango": "Romanos – Filemón",
       "tagline": {
         "es": "La teología sistemática del evangelio — justificación, iglesia y vida cristiana",
@@ -509,7 +509,7 @@
         64,
         65
       ],
-      "color": "#4A5202",
+      "color": "#84CA72",
       "rango": "Hebreos – Judas",
       "tagline": {
         "es": "La fe probada — perseverancia, sabiduría y pureza en la iglesia dispersa",
@@ -564,7 +564,7 @@
       "libros": [
         66
       ],
-      "color": "#5E0E39",
+      "color": "#DA6CAE",
       "rango": "Apocalipsis",
       "tagline": {
         "es": "La consumación — la victoria final de Cristo y la renovación de todas las cosas",
@@ -622,7 +622,7 @@
       "division": "pentateuco",
       "ordenCanon": 1,
       "capitulosTotal": 50,
-      "divisionColor": "#FFEE00",
+      "divisionColor": "#EDFDAF",
       "disponible": true,
       "razon": {
         "es": "Los orígenes: creación, caída, diluvio, y el llamado de los patriarcas. Establece cada doctrina fundacional que el resto del canon desarrollará.",
@@ -643,7 +643,7 @@
       "division": "pentateuco",
       "ordenCanon": 2,
       "capitulosTotal": 40,
-      "divisionColor": "#FFEE00",
+      "divisionColor": "#EDFDAF",
       "disponible": true,
       "dataFile": "exodus.json",
       "razon": {
@@ -664,7 +664,7 @@
       "division": "pentateuco",
       "ordenCanon": 3,
       "capitulosTotal": 27,
-      "divisionColor": "#FFEE00",
+      "divisionColor": "#EDFDAF",
       "disponible": true,
       "dataFile": "leviticus.json",
       "razon": {
@@ -685,7 +685,7 @@
       "division": "pentateuco",
       "ordenCanon": 4,
       "capitulosTotal": 36,
-      "divisionColor": "#FFEE00",
+      "divisionColor": "#EDFDAF",
       "disponible": true,
       "razon": {
         "es": "El censo y la peregrinación de cuarenta años por el desierto: el juicio sobre la incredulidad de una generación y la fidelidad de Dios para preservar a la siguiente.",
@@ -706,7 +706,7 @@
       "division": "pentateuco",
       "ordenCanon": 5,
       "capitulosTotal": 34,
-      "divisionColor": "#FFEE00",
+      "divisionColor": "#EDFDAF",
       "disponible": true,
       "razon": {
         "es": "El segundo discurso de la Ley, renovación del pacto en la frontera de Canaán — estructurado como un tratado de vasallaje del ANE, cierra el Pentateuco con la muerte de Moisés.",
@@ -727,7 +727,7 @@
       "division": "historico-at",
       "ordenCanon": 6,
       "capitulosTotal": 24,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": true,
       "dataFile": "joshua.json",
       "razon": {
@@ -748,7 +748,7 @@
       "division": "historico-at",
       "ordenCanon": 7,
       "capitulosTotal": 21,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": true,
       "dataFile": "judges.json",
       "razon": {
@@ -769,7 +769,7 @@
       "division": "historico-at",
       "ordenCanon": 8,
       "capitulosTotal": 4,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": true,
       "razon": {
         "es": "Una historia de lealtad pactual (hesed) ambientada en el período de los jueces, que culmina en la genealogía davídica — y por tanto mesiánica.",
@@ -790,7 +790,7 @@
       "division": "historico-at",
       "ordenCanon": 9,
       "capitulosTotal": 31,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": true,
       "dataFile": "1samuel.json",
       "razon": {
@@ -811,7 +811,7 @@
       "division": "historico-at",
       "ordenCanon": 10,
       "capitulosTotal": 24,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": true,
       "razon": {
         "es": "El reinado de David y el Pacto Davídico (2S 7) — la promesa de una dinastía y un trono eternos, eje mesiánico de toda la historia subsiguiente.",
@@ -832,7 +832,7 @@
       "division": "historico-at",
       "ordenCanon": 11,
       "capitulosTotal": 22,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": false,
       "razon": {
         "es": "El apogeo de Salomón y la construcción del templo, seguidos por la división del reino tras su apostasía — el inicio de la decadencia dual.",
@@ -852,7 +852,7 @@
       "division": "historico-at",
       "ordenCanon": 12,
       "capitulosTotal": 25,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": false,
       "razon": {
         "es": "La caída de ambos reinos: Israel al exilio asirio (722 a.C.) y Judá al exilio babilónico (586 a.C.) — el juicio pactual cumplido en la historia.",
@@ -872,7 +872,7 @@
       "division": "historico-at",
       "ordenCanon": 13,
       "capitulosTotal": 29,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": false,
       "razon": {
         "es": "Relectura sacerdotal-davídica de la historia para la comunidad postexílica, con genealogías que conectan a Adán con David — reafirmando la promesa pese al exilio.",
@@ -892,7 +892,7 @@
       "division": "historico-at",
       "ordenCanon": 14,
       "capitulosTotal": 36,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": false,
       "razon": {
         "es": "Historia del reino del sur con énfasis en el templo y la reforma religiosa, cerrando con el decreto de Ciro que abre la puerta al retorno.",
@@ -912,7 +912,7 @@
       "division": "historico-at",
       "ordenCanon": 15,
       "capitulosTotal": 10,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": false,
       "razon": {
         "es": "El retorno del exilio y la reconstrucción del templo bajo el decreto persa — la fidelidad de Dios para restaurar a un remanente.",
@@ -932,7 +932,7 @@
       "division": "historico-at",
       "ordenCanon": 16,
       "capitulosTotal": 13,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": false,
       "razon": {
         "es": "La reconstrucción de los muros de Jerusalén y la renovación del pacto bajo Esdras y Nehemías, estableciendo la comunidad postexílica.",
@@ -952,7 +952,7 @@
       "division": "historico-at",
       "ordenCanon": 17,
       "capitulosTotal": 10,
-      "divisionColor": "#0F8C08",
+      "divisionColor": "#B6F7D0",
       "disponible": false,
       "razon": {
         "es": "La preservación providencial del pueblo judío en la diáspora persa — Dios actúa sin ser mencionado explícitamente, modelo de providencia oculta.",
@@ -972,7 +972,7 @@
       "division": "sabiduria",
       "ordenCanon": 18,
       "capitulosTotal": 42,
-      "divisionColor": "#D65606",
+      "divisionColor": "#E9B567",
       "disponible": false,
       "razon": {
         "es": "La pregunta del sufrimiento inocente confrontada sin respuestas fáciles, resuelta no con explicación sino con la revelación de la soberanía y sabiduría incomprensibles de Dios (Job 38–41).",
@@ -992,7 +992,7 @@
       "division": "sabiduria",
       "ordenCanon": 19,
       "capitulosTotal": 150,
-      "divisionColor": "#D65606",
+      "divisionColor": "#E9B567",
       "disponible": false,
       "razon": {
         "es": "150 oraciones y cánticos que expresan toda la gama de la experiencia humana delante de Dios — lamento, alabanza, confianza, arrepentimiento — el himnario inspirado de la fe del pacto.",
@@ -1012,7 +1012,7 @@
       "division": "sabiduria",
       "ordenCanon": 20,
       "capitulosTotal": 31,
-      "divisionColor": "#D65606",
+      "divisionColor": "#E9B567",
       "disponible": false,
       "razon": {
         "es": "Sabiduría práctica para la vida cotidiana, fundamentada en 'el temor de Jehová' como principio de todo conocimiento verdadero (Pr 1:7).",
@@ -1032,7 +1032,7 @@
       "division": "sabiduria",
       "ordenCanon": 21,
       "capitulosTotal": 12,
-      "divisionColor": "#D65606",
+      "divisionColor": "#E9B567",
       "disponible": false,
       "razon": {
         "es": "La búsqueda de sentido 'bajo el sol' que termina en vanidad aparte de Dios, concluyendo que el deber del hombre es temer a Dios y guardar sus mandamientos (Ec 12:13).",
@@ -1052,7 +1052,7 @@
       "division": "sabiduria",
       "ordenCanon": 22,
       "capitulosTotal": 8,
-      "divisionColor": "#D65606",
+      "divisionColor": "#E9B567",
       "disponible": false,
       "razon": {
         "es": "Un poema de amor conyugal que celebra el matrimonio como don bueno de Dios, leído tradicionalmente también como figura del amor de Cristo por su Iglesia.",
@@ -1072,7 +1072,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 23,
       "capitulosTotal": 66,
-      "divisionColor": "#0D06D6",
+      "divisionColor": "#7D63E3",
       "disponible": true,
       "razon": {
         "es": "O 'quinto evangelio' del AT — desde el juicio sobre Judá hasta la consolación del Siervo Sufriente (cap. 53) y la nueva creación (caps. 65-66).",
@@ -1093,7 +1093,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 24,
       "capitulosTotal": 52,
-      "divisionColor": "#0D06D6",
+      "divisionColor": "#7D63E3",
       "disponible": true,
       "razon": {
         "es": "El 'profeta llorón' que anuncia la inminente caída de Jerusalén y, en medio del juicio, la promesa explícita de un Nuevo Pacto (Jer 31:31-34).",
@@ -1114,7 +1114,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 25,
       "capitulosTotal": 5,
-      "divisionColor": "#0D06D6",
+      "divisionColor": "#7D63E3",
       "disponible": false,
       "razon": {
         "es": "Cinco poemas elegíacos que lamentan la destrucción de Jerusalén en el 586 a.C., sosteniendo la esperanza en la fidelidad de Dios en medio de la desolación (Lm 3:22-23).",
@@ -1134,13 +1134,14 @@
       "division": "profetas-mayores",
       "ordenCanon": 26,
       "capitulosTotal": 48,
-      "divisionColor": "#0D06D6",
-      "disponible": false,
+      "divisionColor": "#7D63E3",
+      "disponible": true,
       "razon": {
         "es": "Visiones proféticas desde el exilio babilónico mismo: la gloria de Dios que abandona el templo y promete regresar, y la promesa del corazón nuevo y el Espíritu (Ez 36).",
         "en": "Prophetic visions from within the Babylonian exile itself: the glory of God departing the temple and promising to return, and the promise of a new heart and new Spirit (Ezek 36).",
         "pt": "Visões proféticas do próprio exílio babilônico: a glória de Deus que abandona o templo e promete retornar, e a promessa do coração novo e do Espírito novo (Ez 36)."
-      }
+      },
+      "dataFile": "ezequiel.json"
     },
     {
       "id": 27,
@@ -1154,7 +1155,7 @@
       "division": "profetas-mayores",
       "ordenCanon": 27,
       "capitulosTotal": 12,
-      "divisionColor": "#0D06D6",
+      "divisionColor": "#7D63E3",
       "disponible": false,
       "razon": {
         "es": "Narrativas de fidelidad en la corte pagana y visiones apocalípticas de los imperios sucesivos y el reino eterno del 'Hijo del Hombre' (Dn 7).",
@@ -1174,7 +1175,7 @@
       "division": "profetas-menores",
       "ordenCanon": 28,
       "capitulosTotal": 14,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "El matrimonio del profeta con una mujer infiel se convierte en metáfora viva de la infidelidad de Israel y el amor pactual inquebrantable de Dios.",
@@ -1194,7 +1195,7 @@
       "division": "profetas-menores",
       "ordenCanon": 29,
       "capitulosTotal": 3,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Una plaga de langostas se convierte en figura del Día de Jehová venidero, con la promesa del derramamiento del Espíritu (Jl 2:28-32) citada por Pedro en Pentecostés.",
@@ -1214,7 +1215,7 @@
       "division": "profetas-menores",
       "ordenCanon": 30,
       "capitulosTotal": 9,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Denuncia profética de la injusticia social y la religiosidad vacía en el próspero reino del norte: 'corra el juicio como las aguas' (Am 5:24).",
@@ -1234,7 +1235,7 @@
       "division": "profetas-menores",
       "ordenCanon": 31,
       "capitulosTotal": 1,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "El libro más breve del AT, un oráculo de juicio contra Edom por su traición fraternal hacia Judá en el día de su calamidad.",
@@ -1254,7 +1255,7 @@
       "division": "profetas-menores",
       "ordenCanon": 32,
       "capitulosTotal": 4,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Un profeta reticente enviado a Nínive, la capital enemiga, revelando que la misericordia de Dios no se limita a Israel sino que alcanza a las naciones.",
@@ -1274,7 +1275,7 @@
       "division": "profetas-menores",
       "ordenCanon": 33,
       "capitulosTotal": 7,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Anuncia tanto el juicio sobre la injusticia social como el nacimiento del Mesías en Belén (Miq 5:2) y la esencia de la piedad genuina (Miq 6:8).",
@@ -1294,7 +1295,7 @@
       "division": "profetas-menores",
       "ordenCanon": 34,
       "capitulosTotal": 3,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Profetiza la caída de Nínive — cumplida en el 612 a.C. — como vindicación de la justicia de Dios tras la conversión temporal de la ciudad en Jonás.",
@@ -1314,7 +1315,7 @@
       "division": "profetas-menores",
       "ordenCanon": 35,
       "capitulosTotal": 3,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Un diálogo entre el profeta y Dios sobre el uso de Babilonia para juzgar a Judá, resuelto en 'el justo por su fe vivirá' (Hab 2:4), citado tres veces en el NT.",
@@ -1334,7 +1335,7 @@
       "division": "profetas-menores",
       "ordenCanon": 36,
       "capitulosTotal": 3,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Anuncia el Día de Jehová como juicio universal y, a la vez, como restauración futura con gozo: 'se gozará sobre ti con cánticos' (Sof 3:17).",
@@ -1354,7 +1355,7 @@
       "division": "profetas-menores",
       "ordenCanon": 37,
       "capitulosTotal": 2,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Llama al remanente postexílico a reconstruir el templo, prometiendo que la gloria de esta segunda casa superará a la primera.",
@@ -1374,7 +1375,7 @@
       "division": "profetas-menores",
       "ordenCanon": 38,
       "capitulosTotal": 14,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "Visiones nocturnas y oráculos mesiánicos que anticipan tanto el primer advenimiento humilde (Zac 9:9) como el reinado final de Jehová sobre toda la tierra.",
@@ -1394,7 +1395,7 @@
       "division": "profetas-menores",
       "ordenCanon": 39,
       "capitulosTotal": 4,
-      "divisionColor": "#6E3E04",
+      "divisionColor": "#B6D2FB",
       "disponible": false,
       "razon": {
         "es": "El último libro del AT canónico: denuncia la apatía sacerdotal postexílica y anuncia al precursor (Elías) que preparará el camino del Señor.",
@@ -1414,7 +1415,7 @@
       "division": "evangelios",
       "ordenCanon": 40,
       "capitulosTotal": 28,
-      "divisionColor": "#FF0505",
+      "divisionColor": "#FDB9B9",
       "disponible": true,
       "dataFile": "matthew.json",
       "razon": {
@@ -1435,7 +1436,7 @@
       "division": "evangelios",
       "ordenCanon": 41,
       "capitulosTotal": 16,
-      "divisionColor": "#FF0505",
+      "divisionColor": "#FDB9B9",
       "disponible": true,
       "dataFile": "mark.json",
       "razon": {
@@ -1456,7 +1457,7 @@
       "division": "evangelios",
       "ordenCanon": 42,
       "capitulosTotal": 24,
-      "divisionColor": "#FF0505",
+      "divisionColor": "#FDB9B9",
       "disponible": true,
       "dataFile": "luke.json",
       "razon": {
@@ -1477,7 +1478,7 @@
       "division": "evangelios",
       "ordenCanon": 43,
       "capitulosTotal": 21,
-      "divisionColor": "#FF0505",
+      "divisionColor": "#FDB9B9",
       "disponible": true,
       "razon": {
         "es": "El evangelio teológico por excelencia: presenta a Jesús como el Logos eterno encarnado (Jn 1:1,14) mediante siete señales y siete declaraciones 'Yo Soy' que revelan su deidad.",
@@ -1498,7 +1499,7 @@
       "division": "historia-nt",
       "ordenCanon": 44,
       "capitulosTotal": 28,
-      "divisionColor": "#05D5FF",
+      "divisionColor": "#64D8D8",
       "disponible": true,
       "dataFile": "acts.json",
       "razon": {
@@ -1519,7 +1520,7 @@
       "division": "paulinas",
       "ordenCanon": 45,
       "capitulosTotal": 16,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "dataFile": "romans.json",
       "razon": {
@@ -1540,7 +1541,7 @@
       "division": "paulinas",
       "ordenCanon": 46,
       "capitulosTotal": 16,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "Responde problemas pastorales de la iglesia de Corinto (divisiones, inmoralidad, dones espirituales, la resurrección) con instrucción teológica profunda, incluyendo el himno del amor (cap. 13) y el capítulo fundacional sobre la resurrección (cap. 15).",
@@ -1561,7 +1562,7 @@
       "division": "paulinas",
       "ordenCanon": 47,
       "capitulosTotal": 13,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "La 'carta del dolor': Pablo defiende su apostolado con transparencia personal extraordinaria, revelando el sufrimiento pastoral y su paradójica fortaleza en debilidad.",
@@ -1582,7 +1583,7 @@
       "division": "paulinas",
       "ordenCanon": 48,
       "capitulosTotal": 6,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "dataFile": "galatas.json",
       "razon": {
@@ -1603,7 +1604,7 @@
       "division": "paulinas",
       "ordenCanon": 49,
       "capitulosTotal": 6,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "La epístola de la iglesia: expone el misterio de la unidad judeo-gentil en el cuerpo de Cristo, la armadura espiritual y la vida familiar cristiana. Geerhardus Vos la llama la 'catedral de las epístolas'.",
@@ -1624,7 +1625,7 @@
       "division": "paulinas",
       "ordenCanon": 50,
       "capitulosTotal": 4,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "La epístola del gozo: escrita desde prisión, enseña contentamiento en toda circunstancia (Fil 4:11) y contiene el célebre himno cristológico de la kenosis/exaltación de Cristo (Fil 2:5-11).",
@@ -1645,7 +1646,7 @@
       "division": "paulinas",
       "ordenCanon": 51,
       "capitulosTotal": 4,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "Responde a una proto-gnosis que rebajaba a Cristo: afirma su supremacía cósmica absoluta como 'cabeza de todo principado y potestad' (Col 2:10) y el primado de Cristo en toda la creación.",
@@ -1666,7 +1667,7 @@
       "division": "paulinas",
       "ordenCanon": 52,
       "capitulosTotal": 5,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "La carta escatológica más temprana del NT: corrige malentendidos sobre la parusía y exhorta a la santidad mientras se aguarda la venida de Cristo.",
@@ -1687,7 +1688,7 @@
       "division": "paulinas",
       "ordenCanon": 53,
       "capitulosTotal": 3,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "Amplía la escatología de 1 Tesalonicenses, describiendo el 'hombre de iniquidad' que precede a la parusía — pasaje fundamental en la teología reformada del fin de los tiempos.",
@@ -1708,7 +1709,7 @@
       "division": "paulinas",
       "ordenCanon": 54,
       "capitulosTotal": 6,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "dataFile": "1timothy.json",
       "razon": {
@@ -1729,7 +1730,7 @@
       "division": "paulinas",
       "ordenCanon": 55,
       "capitulosTotal": 4,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "dataFile": "2timoteo.json",
       "razon": {
@@ -1750,7 +1751,7 @@
       "division": "paulinas",
       "ordenCanon": 56,
       "capitulosTotal": 3,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "Tercera carta pastoral: instruye a Tito sobre gobierno de la iglesia en Creta, especialmente la designación de ancianos y la confrontación de falsas doctrinas.",
@@ -1771,7 +1772,7 @@
       "division": "paulinas",
       "ordenCanon": 57,
       "capitulosTotal": 1,
-      "divisionColor": "#620391",
+      "divisionColor": "#EEBDFA",
       "disponible": true,
       "razon": {
         "es": "La epístola más corta y personal de Pablo: intercede por Onésimo, un esclavo fugitivo convertido, ante su amo Filemón — ilustración vívida de la doctrina de la reconciliación y la intercesión.",
@@ -1792,7 +1793,7 @@
       "division": "generales",
       "ordenCanon": 58,
       "capitulosTotal": 13,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "dataFile": "hebrews.json",
       "razon": {
@@ -1813,7 +1814,7 @@
       "division": "generales",
       "ordenCanon": 59,
       "capitulosTotal": 5,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "dataFile": "santiago.json",
       "razon": {
@@ -1834,7 +1835,7 @@
       "division": "generales",
       "ordenCanon": 60,
       "capitulosTotal": 5,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "razon": {
         "es": "Escrita a los 'extranjeros dispersos' bajo persecución (probablemente neroniana), presenta a los creyentes como el nuevo pueblo peregrino de Dios y desarrolla la doctrina de la piedra angular rechazada/elegida como fundamento de la identidad eclesial.",
@@ -1855,7 +1856,7 @@
       "division": "generales",
       "ordenCanon": 61,
       "capitulosTotal": 3,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "razon": {
         "es": "Advierte contra los falsos maestros que infiltran la iglesia, conecta con Judas en su urgencia, y desarrolla la doctrina de la inspiración como origen del profetismo bíblico (2P 1:20-21).",
@@ -1876,7 +1877,7 @@
       "division": "generales",
       "ordenCanon": 62,
       "capitulosTotal": 5,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "razon": {
         "es": "El evangelio en forma de carta: Dios es luz (1:5), amor (4:8) y vida (5:12). Define los criterios de la vida en comunión con Dios y desmonta las pretensiones gnósticas de un conocimiento espiritual sin obediencia ética.",
@@ -1897,7 +1898,7 @@
       "division": "generales",
       "ordenCanon": 63,
       "capitulosTotal": 1,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "razon": {
         "es": "Nota personal de Juan que advierte sobre falsos maestros itinerantes y la importancia de la hospitalidad cristiana discernida.",
@@ -1918,7 +1919,7 @@
       "division": "generales",
       "ordenCanon": 64,
       "capitulosTotal": 1,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "razon": {
         "es": "Segunda nota personal de Juan, esta vez sobre la autoridad del apóstol frente a líderes eclesiales que la desafían (Diótrefes). Ilustra los conflictos de autoridad en la iglesia primitiva.",
@@ -1939,7 +1940,7 @@
       "division": "generales",
       "ordenCanon": 65,
       "capitulosTotal": 1,
-      "divisionColor": "#4A5202",
+      "divisionColor": "#84CA72",
       "disponible": true,
       "razon": {
         "es": "La carta más breve del NT: exhortación urgente a 'contender ardientemente por la fe que fue entregada una vez para siempre a los santos' (Jud 3) frente a infiltrados que pervirtieron la gracia.",
@@ -1960,7 +1961,7 @@
       "division": "profecia",
       "ordenCanon": 66,
       "capitulosTotal": 22,
-      "divisionColor": "#5E0E39",
+      "divisionColor": "#DA6CAE",
       "disponible": true,
       "razon": {
         "es": "Cierra el canon bíblico con la visión cósmica de la victoria final del Cordero, la caída de Babilonia (Roma imperial y todo sistema anti-Dios), la nueva creación y la nueva Jerusalén — el cumplimiento de todo lo que el Génesis prometió.",

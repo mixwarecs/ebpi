@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Share2, Check, ChevronsLeft, ChevronsRight, Sparkles } from "lucide-react";
 import { adaptManifestBook } from "./adapters/canonToViewer";
-import { GOLD, LAPIS_DEEP, BOOKS, DIVISIONS, DIV_BY_ID, S, UI, RAIL_BG } from "./constants";
+import { GOLD, LAPIS_DEEP, BOOKS, DIVISIONS, DIV_BY_ID, DIVISION_COLORS, S, UI, RAIL_BG } from "./constants";
 import { tabCellHeight, balancedContiguousSplit } from "./utils";
 import BookViewer from "./components/BookViewer";
 import IndexPage from "./components/IndexPage";
@@ -124,7 +124,7 @@ export default function CanonShelf() {
   }, [view, lang]);
 
   const activeBooks = manifest
-    ? manifest.libros.map(l => adaptManifestBook(l))
+    ? manifest.libros.map(l => ({ ...adaptManifestBook(l), color: DIVISION_COLORS[l.division] ?? l.divisionColor }))
     : BOOKS;
 
   useEffect(() => {
@@ -152,6 +152,7 @@ export default function CanonShelf() {
           : `${first.titulo[lang] || first.titulo.es} – ${last.titulo[lang] || last.titulo.es}`;
         return {
           ...d,
+          color: DIVISION_COLORS[d.id] ?? d.color,
           titulo: d.nombre[lang] || d.nombre.es,
           tagline: d.tagline[lang] || d.tagline.es,
           resumen: d.resumen[lang] || d.resumen.es,

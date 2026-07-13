@@ -53,14 +53,22 @@ const CATEGORIA_COLORS = {
 };
 
 const ERA_COLORS = {
-  "Primordial":"#A0C080","Patriarcal":"#C4A86A","Ley":"#E0B830","Éxodo":"#E0B830",
+  "Primordial":"#A0C080",
+  // Genesis fine-grained eras ("Post-Diluvio" must precede "Diluvio":
+  // eraColor matches by substring in insertion order)
+  "Creación":"#A0C080","Caída":"#C08A6A","Antediluviano":"#9A9A70",
+  "Post-Diluvio":"#8AB8A0","Diluvio":"#7A9AC0","Abrahámico":"#B88A50","José":"#6AAAB8",
+  "Patriarcal":"#C4A86A","Ley":"#E0B830","Éxodo":"#E0B830",
   "Anticipación":"#7EC87E","Conquista":"#7EC87E","Monarquía":"#6AAAD4","Exilio":"#C07AAA",
   "Post-exilio":"#70B8A8","Intertestamental":"#C0C0C0","Cumplimiento":"#A898E0",
   "Ministerio":"#E8C56A","Iglesia":"#A898E0","Aplicación":"#A898E0","Consumación":"#E05050",
 };
 // Darker variants of the same hues — readable on light parchment background
 const ERA_INK_COLORS = {
-  "Primordial":"#3A6E1A","Patriarcal":"#8A6420","Ley":"#8A7010","Éxodo":"#8A7010",
+  "Primordial":"#3A6E1A",
+  "Creación":"#3A6E1A","Caída":"#8A4A2A","Antediluviano":"#6A6A3A",
+  "Post-Diluvio":"#2E6E52","Diluvio":"#2E4E7A","Abrahámico":"#7A5A20","José":"#2E6E7A",
+  "Patriarcal":"#8A6420","Ley":"#8A7010","Éxodo":"#8A7010",
   "Anticipación":"#2E7835","Conquista":"#2E7835","Monarquía":"#1E5E8A","Exilio":"#7A2E6A",
   "Post-exilio":"#1E6858","Intertestamental":"#4A4A4A","Cumplimiento":"#3E2E8A",
   "Ministerio":"#8A7218","Iglesia":"#3E2E8A","Aplicación":"#3E2E8A","Consumación":"#8A1A1A",
