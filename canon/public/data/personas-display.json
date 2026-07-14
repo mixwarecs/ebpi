@@ -1956,14 +1956,14 @@
   },
   "Miguel el Arcángel": {
     "id": "miguel-arcangel",
-    "color": "#A8862A",
-    "init": "מי",
-    "xCh": 3,
-    "side": "above",
+    "color": "#3E6B8B",
+    "init": "Μχ",
+    "xCh": 12,
+    "side": "below",
     "badge": {
-      "es": "ARCÁNGEL REVERENTE",
-      "en": "REVERENT ARCHANGEL",
-      "pt": "ARCANJO REVERENTE"
+      "es": "EL ARCÁNGEL GUERRERO",
+      "en": "THE WARRIOR ARCHANGEL",
+      "pt": "O ARCANJO GUERREIRO"
     }
   },
   "Enoc": {
@@ -2146,18 +2146,6 @@
       "pt": "A GRANDE PROSTITUTA"
     }
   },
-  "Miguel el Arcángel": {
-    "id": "miguel-arcangel",
-    "color": "#3E6B8B",
-    "init": "Μχ",
-    "xCh": 12,
-    "side": "below",
-    "badge": {
-      "es": "EL ARCÁNGEL GUERRERO",
-      "en": "THE WARRIOR ARCHANGEL",
-      "pt": "O ARCANJO GUERREIRO"
-    }
-  },
   "La Mujer Vestida de Sol": {
     "id": "mujer-vestida-sol",
     "color": "#D4A017",
@@ -2270,7 +2258,10 @@
     "id": "jeremias",
     "color": "#7A3A4A",
     "init": "יר",
-    "xCh": 1,
+    "xCh": {
+      "Jer": 1,
+      "Lm": 3
+    },
     "side": "above",
     "badge": {
       "es": "PROFETA LLORÓN",
@@ -2320,7 +2311,8 @@
     "init": "צד",
     "xCh": {
       "Jer": 38,
-      "Ez": 12
+      "Ez": 12,
+      "Lm": 4
     },
     "side": "above",
     "badge": {
@@ -2348,7 +2340,8 @@
     "xCh": {
       "Jer": 39,
       "Ez": 29,
-      "Dn": 2
+      "Dn": 2,
+      "Lm": 2
     },
     "side": "above",
     "badge": {
@@ -2454,6 +2447,30 @@
       "es": "MENSAJERO ANGÉLICO",
       "en": "ANGELIC MESSENGER",
       "pt": "MENSAGEIRO ANGÉLICO"
+    }
+  },
+  "Hija de Sion (Jerusalén personificada)": {
+    "id": "sion",
+    "color": "#4A5A7A",
+    "init": "בצ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "CIUDAD EN DUELO",
+      "en": "CITY IN MOURNING",
+      "pt": "CIDADE EM LUTO"
+    }
+  },
+  "Hija de Edom": {
+    "id": "edom",
+    "color": "#B8791E",
+    "init": "בא",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "NACIÓN QUE SE BURLA",
+      "en": "MOCKING NATION",
+      "pt": "NAÇÃO QUE ZOMBA"
     }
   }
 }

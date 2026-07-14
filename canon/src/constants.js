@@ -6,6 +6,9 @@ export const LAPIS_DEEP = "#0F1A30";
 export const PARCHMENT = "#F2E8D0";
 export const SIENNA = "#8B3A2A";
 
+// Light wash layered over the parchment texture to brighten the paper background.
+export const PAPER_BG = "linear-gradient(rgba(255,251,240,0.45), rgba(255,251,240,0.45)), url('/textures/pergament.jpg')";
+
 export function hexToRgba(hex, alpha = 1) {
   const h = hex.replace("#", "");
   const full = h.length === 3 ? h.split("").map(c => c + c).join("") : h;
@@ -371,7 +374,7 @@ export const UI = {
     backToBook: b => `← VOLVER A ${b.toUpperCase()}`,
     eyebrow: "Protestantismo Reformado · NBLA · ESV · ARC",
     subline: "Bereshit — En el principio creó Dios los cielos y la tierra",
-    metaLabels: ["Título Original","Autor","Fecha de escritura","Clasificación Canónica","Idioma Original","Versiones","Escrito en"],
+    metaLabels: ["Título Original","Autor","Fecha de escritura","Clasificación Canónica","Idioma Original","Escrito en"],
     traditional: "Autoría tradicional",
     canonEntry: n => `#${n} del Canon`,
     hint: "← Arrastra para explorar · Clic en capítulo → BibleGateway NBLA · Clic en personaje → biografía →",
@@ -501,7 +504,7 @@ export const UI = {
     backToBook: b => `← BACK TO ${b.toUpperCase()}`,
     eyebrow: "Reformed Protestantism · NBLA · ESV · ARC",
     subline: "Bereshit — In the beginning God created the heavens and the earth",
-    metaLabels: ["Original Title","Author","Date Written","Canonical Classification","Original Language","Versions","Written In"],
+    metaLabels: ["Original Title","Author","Date Written","Canonical Classification","Original Language","Written In"],
     traditional: "Traditional authorship",
     canonEntry: n => `#${n} of the Canon`,
     hint: "← Drag to explore · Click chapter → BibleGateway ESV · Click character → biography →",
@@ -631,7 +634,7 @@ export const UI = {
     backToBook: b => `← VOLTAR A ${b.toUpperCase()}`,
     eyebrow: "Protestantismo Reformado · NBLA · ESV · ARC",
     subline: "Bereshit — No princípio Deus criou os céus e a terra",
-    metaLabels: ["Título Original","Autor","Data de Composição","Classificação Canônica","Idioma Original","Versões","Escrito em"],
+    metaLabels: ["Título Original","Autor","Data de Composição","Classificação Canônica","Idioma Original","Escrito em"],
     traditional: "Autoria tradicional",
     canonEntry: n => `#${n} do Cânon`,
     hint: "← Arraste para explorar · Clique no capítulo → BibleGateway ARC · Clique no personagem → biografia →",
@@ -824,11 +827,11 @@ export const S = {
   }),
   readyDot: { width: 3.5, height: 3.5, borderRadius: "50%", background: GOLD, position: "absolute", top: 1.5, right: 1.5, boxShadow: "0 0 4px rgba(201,168,76,0.9)" },
   pages: { flex: 1, minWidth: 0, display: "flex", flexDirection: "column", position: "relative", backgroundImage: "linear-gradient(rgba(18,10,3,0.55), rgba(12,7,2,0.60)), url('/textures/parchment-warm.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
-  spreadWrap: { flex: 1, minWidth: 0, display: "flex", flexDirection: "column", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
+  spreadWrap: { flex: 1, minWidth: 0, display: "flex", flexDirection: "column", backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center" },
   spreadRow: { flex: 1, minWidth: 0, display: "flex" },
   spreadIntro: { fontFamily: "'Georgia',serif", fontSize: 14.5, fontStyle: "italic", textAlign: "center", color: "rgba(55,28,8,0.78)", lineHeight: 1.7, padding: "16px 60px", borderBottom: "1px solid rgba(139,105,20,0.25)" },
   page: { flex: 1, minWidth: 0, overflowY: "auto", padding: "36px 18px 60px" },
-  fullPage: { flex: 1, minWidth: 0, overflowY: "auto", padding: "40px 56px 70px", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
+  fullPage: { flex: 1, minWidth: 0, overflowY: "auto", padding: "40px 56px 70px", backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center" },
   fullPageInner: { maxWidth: 880, margin: "0 auto", textAlign: "left" },
   spreadEyebrowBig: { fontFamily: "'Georgia',serif", fontSize: 22, letterSpacing: 4, color: "rgba(55,28,8,0.85)", textTransform: "uppercase", marginBottom: 14, fontWeight: 700 },
   classGrid: { display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(270px, 1fr))", gap: 8, alignItems: "start" },
@@ -889,9 +892,9 @@ export const S = {
 
 // ── BOOK VIEWER STYLES (GS) ───────────────────────────────────────────────────
 export const GS = {
-  app: { fontFamily: "'Georgia', serif", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center", backgroundAttachment: "local", color: PARCHMENT, minHeight: "100vh", overflowX: "hidden" },
+  app: { fontFamily: "'Georgia', serif", backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center", backgroundAttachment: "local", color: PARCHMENT, minHeight: "100vh", overflowX: "hidden" },
   topBar: (color = GOLD) => ({ height: 3, background: `linear-gradient(90deg, transparent, ${color}, ${SIENNA}, ${color}, transparent)` }),
-  header: (color = GOLD) => ({ textAlign: "center", padding: "48px 20px 32px", borderBottom: `3px solid ${color}`, backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center top" }),
+  header: (color = GOLD) => ({ textAlign: "center", padding: "48px 20px 32px", borderBottom: `3px solid ${color}`, backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center top" }),
   eyebrow: { fontFamily: "'Georgia',serif", fontSize: 10, fontWeight: 700, letterSpacing: 6, color: "rgba(22,8,2,0.80)", textTransform: "uppercase", marginBottom: 14, opacity: 1 },
   h1: { fontFamily: "'Georgia',serif", fontSize: "clamp(44px,7vw,88px)", fontWeight: 900, color: "rgba(18,8,2,0.92)", letterSpacing: -1, lineHeight: 0.92, marginBottom: 6 },
   hebrew: { fontSize: "clamp(20px,3.5vw,36px)", color: "rgba(130,75,20,0.80)", letterSpacing: 8, marginBottom: 12, direction: "rtl" },
@@ -900,7 +903,7 @@ export const GS = {
   badge: { fontFamily: "'Georgia',serif", fontSize: 10, letterSpacing: 3, color: GOLD, border: `1px solid rgba(201,168,76,0.4)`, padding: "5px 12px", borderRadius: 2 },
   eraLegend: { display: "flex", justifyContent: "center", gap: 16, flexWrap: "wrap", padding: "12px 20px", background: "rgba(201,168,76,0.08)", borderBottom: `1px solid rgba(139,90,20,0.18)` },
   eraDot: { display: "flex", alignItems: "center", gap: 8, fontSize: 11, color: "rgba(50,25,6,0.82)" },
-  infoPanel: { backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center", borderBottom: `1px solid rgba(201,168,76,0.2)` },
+  infoPanel: { backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center", borderBottom: `1px solid rgba(201,168,76,0.2)` },
   tabNavWrap: { position: "relative" },
   tabNav: { display: "flex", borderBottom: `1px solid rgba(139,90,20,0.30)`, overflowX: "auto", padding: "0 0", gap: 0, scrollbarWidth: "none", msOverflowStyle: "none", backgroundImage: "linear-gradient(rgba(210,170,90,0.28), rgba(185,140,55,0.20)), url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center", borderTop: `1px solid rgba(139,90,20,0.20)` },
   tabNavFade: { position: "absolute", right: 0, top: 0, bottom: 1, width: 80, background: `linear-gradient(90deg, transparent, rgba(210,180,120,0.95))`, pointerEvents: "none", display: "flex", alignItems: "center", justifyContent: "flex-end", paddingRight: 10 },
@@ -956,11 +959,11 @@ export const GS = {
   sourceTitle: { fontSize: 17, fontWeight: 700, color: "rgba(22,8,2,0.92)", lineHeight: 1.3, marginBottom: 4 },
   sourceAuthor: { fontStyle: "italic", fontSize: 14, color: "rgba(22,8,2,0.82)", marginBottom: 4 },
   sourceMeta: { fontSize: 12, letterSpacing: 1.5, color: "rgba(22,8,2,0.72)" },
-  timelineWrap: { overflowX: "auto", padding: "18px 40px 40px", cursor: "grab", position: "relative", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center" },
+  timelineWrap: { overflowX: "auto", padding: "18px 40px 40px", cursor: "grab", position: "relative", backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center" },
   timelineInner: { position: "relative", width: 4200, height: 380 },
   spine: { position: "absolute", top: "50%", left: 0, right: 0, height: 2, background: `linear-gradient(90deg,transparent,rgba(201,168,76,0.3) 2%,${GOLD} 20%,${GOLD} 80%,rgba(201,168,76,0.3) 98%,transparent)`, transform: "translateY(-50%)" },
   overlay: (open) => ({ position: "fixed", inset: 0, background: "rgba(18,10,3,0.65)", backdropFilter: "blur(4px)", zIndex: 1000, display: "flex", alignItems: "center", justifyContent: "center", padding: "max(16px, env(safe-area-inset-top,16px)) 16px max(16px, env(safe-area-inset-bottom,16px))", opacity: open ? 1 : 0, pointerEvents: open ? "all" : "none", transition: "opacity 0.25s" }),
-  popupCard: { background: "#EFE0BC", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center", border: `1px solid rgba(139,90,20,0.40)`, borderRadius: 12, width: "100%", maxWidth: 680, maxHeight: "82dvh", overflowY: "auto", overscrollBehavior: "contain", position: "relative", boxShadow: "0 8px 40px rgba(40,18,4,0.30)", textAlign: "left", animation: "sheetUp 0.8s cubic-bezier(0.22,1,0.36,1) both" },
+  popupCard: { background: "#EFE0BC", backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center", border: `1px solid rgba(139,90,20,0.40)`, borderRadius: 12, width: "100%", maxWidth: 680, maxHeight: "82dvh", overflowY: "auto", overscrollBehavior: "contain", position: "relative", boxShadow: "0 8px 40px rgba(40,18,4,0.30)", textAlign: "left", animation: "sheetUp 0.8s cubic-bezier(0.22,1,0.36,1) both" },
   popupHeader: { padding: "28px 28px 20px", borderBottom: `1px solid rgba(139,90,20,0.18)`, display: "flex", gap: 20, alignItems: "flex-start" },
   popupAvatar: (color) => ({ width: 96, height: 96, borderRadius: 12, border: `2px solid ${color}`, background: `rgba(235,218,185,0.85)`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 28, fontWeight: 700, color, flexShrink: 0 }),
   popupBadge: (color) => ({ display: "inline-block", fontSize: 9, fontWeight: 700, letterSpacing: 3, color, border: `1px solid rgba(139,90,20,0.55)`, padding: "3px 9px", marginBottom: 7, borderRadius: 2 }),
@@ -975,7 +978,7 @@ export const GS = {
   closeBtn: { position: "absolute", top: 14, right: 14, width: 30, height: 30, background: "rgba(139,90,20,0.10)", border: `1px solid rgba(139,90,20,0.30)`, borderRadius: "50%", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center", color: "rgba(55,28,8,0.80)", fontSize: 15, zIndex: 10 },
   versChips: { display: "flex", flexWrap: "wrap", gap: 7, marginTop: 8 },
   versChip: { fontSize: 11, letterSpacing: 0.5, fontWeight: 600, background: "rgba(30,74,122,0.08)", border: `1px solid rgba(30,74,122,0.40)`, color: "#1E4A7A", padding: "4px 10px", borderRadius: 2 },
-  chTooltip: { position: "fixed", background: "#EFE0BC", backgroundImage: "url('/textures/pergament.jpg')", backgroundSize: "cover", backgroundPosition: "center", border: `1px solid rgba(139,90,20,0.35)`, borderRadius: 10, padding: "16px 18px", maxWidth: 280, pointerEvents: "none", zIndex: 500, boxShadow: "0 6px 24px rgba(40,18,4,0.22)", textAlign: "left" },
+  chTooltip: { position: "fixed", background: "#EFE0BC", backgroundImage: PAPER_BG, backgroundSize: "cover", backgroundPosition: "center", border: `1px solid rgba(139,90,20,0.35)`, borderRadius: 10, padding: "16px 18px", maxWidth: 280, pointerEvents: "none", zIndex: 500, boxShadow: "0 6px 24px rgba(40,18,4,0.22)", textAlign: "left" },
   chTooltipCh: { fontSize: 9, letterSpacing: 3, color: "rgba(100,68,18,0.80)", marginBottom: 3 },
   chTooltipTitle: { fontSize: 16, fontWeight: 700, color: "rgba(22,8,2,0.92)", marginBottom: 7, lineHeight: 1.2 },
   chTooltipDesc: { fontSize: 13, lineHeight: 1.6, color: "rgba(22,8,2,0.72)", marginBottom: 8 },

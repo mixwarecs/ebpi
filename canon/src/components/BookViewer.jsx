@@ -2,7 +2,7 @@ import { useState } from "react";
 import { createPortal } from "react-dom";
 import { ExternalLink, Play, ChevronsDown, Share2, BookOpen, Sparkles } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
-import { GOLD, BOOKS, CHAPTER_ERAS, UI, TABS, GS, hexToRgba } from "../constants";
+import { GOLD, BOOKS, CHAPTER_ERAS, UI, TABS, GS, hexToRgba, PAPER_BG } from "../constants";
 import { linkifyVerses, verseUrl, cap } from "../utils";
 import VerseLink from "./VerseLink";
 import TheologyTab from "./book/TheologyTab";
@@ -308,7 +308,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
         <p style={GS.subline}>
           <em>{bookData ? bookData.transliteracion : "Bereshit"}</em>
           {" — "}
-          {bookData ? (bookData.significado[lang] || bookData.significado.es) : UI[lang].subline.split(" — ")[1]}
+          {bookData ? lv(bookData.significado[lang] || bookData.significado.es) : UI[lang].subline.split(" — ")[1]}
         </p>
         <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fit, minmax(160px,1fr))", gap:"14px 24px", maxWidth:960, margin:"0 auto", textAlign:"left", padding:"0 20px"}}>
           {UI[lang].metaLabels.map((label, i) => {
@@ -318,7 +318,6 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
               bookData ? (bookData.año.display[lang] || bookData.año.display.es).replace(/^.*?:\s*/, "") : "c. 1445–1405 a.C.",
               `${divisionName || (bookData ? bookData.division : "Pentateuco")} · ${UI[lang].canonEntry(bookData ? bookData.ordenCanon : 1)}`,
               bookData ? idiomaLabel(bookData.idiomaOriginal) : "Hebreo",
-              "NBLA · ESV · ARC",
               bookData?.escritoEn ? (bookData.escritoEn[lang] || bookData.escritoEn.es) : "",
             ];
             return (
@@ -426,7 +425,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
           <div key="summaries" style={{
             borderTop:"1px solid rgba(139,90,20,0.15)",
             overflowY:"auto",
-            backgroundImage:"linear-gradient(rgba(200,160,80,0.18), rgba(180,130,50,0.12)), url('/textures/pergament.jpg')",
+            backgroundImage: PAPER_BG,
             backgroundSize:"cover",
             backgroundPosition:"center",
             animation:"tabReveal 3.6s cubic-bezier(0.22,1,0.36,1) both",

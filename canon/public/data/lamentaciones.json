@@ -1,0 +1,1823 @@
+{
+  "id": 25,
+  "testamento": "Antiguo",
+  "division": "Profetas Mayores",
+  "titulo": {
+    "es": "Lamentaciones",
+    "en": "Lamentations",
+    "pt": "Lamentações"
+  },
+  "tituloOriginal": "אֵיכָה",
+  "transliteracion": "Eikhah",
+  "significado": {
+    "es": "¡Cómo!",
+    "en": "How!",
+    "pt": "Como!"
+  },
+  "resumenGeneral": {
+    "es": "Lamentaciones abre con la ciudad de Jerusalén sentada en soledad como una viuda, llorando sin consuelo tras la caída de la ciudad y la destrucción del templo (Lm 1:1-2,4). El lamento se intensifica en el capítulo 2, donde el poeta describe a Jehová mismo actuando como enemigo, derribando la fortaleza de la hija de Sion en cumplimiento de su palabra de juicio anunciada desde antiguo (Lm 2:1-5,17). En el centro estructural y teológico del libro, el capítulo 3 gira desde la desesperación personal del 'hombre que ha visto aflicción' (Lm 3:1) hacia la confesión de que las misericordias de Jehová son nuevas cada mañana y que 'grande es su fidelidad' (Lm 3:22-23), estableciendo una doctrina de la esperanza que espera en silencio la salvación de Dios en medio del juicio (Lm 3:25-26). El capítulo 4 regresa a la descripción cruda del sitio, el hambre y la caída del ungido de Jehová, mientras anuncia que la copa de la ira pasará también a Edom (Lm 4:9-10,20-21). El libro cierra en el capítulo 5 con una oración comunitaria que apela a la memoria pactual de Dios y a su trono eterno, pero termina sin resolución triunfal, en una pregunta abierta que suplica restauración: '¿por qué nos olvidarás para siempre?' (Lm 5:19-22).",
+    "en": "Lamentations opens with the city of Jerusalem sitting in solitude like a widow, weeping without comfort after the fall of the city and the destruction of the temple (Lam 1:1-2,4). The lament intensifies in chapter 2, where the poet describes the LORD himself acting as an enemy, tearing down the stronghold of the daughter of Zion in fulfillment of his word of judgment announced long ago (Lam 2:1-5,17). At the structural and theological center of the book, chapter 3 turns from the personal despair of 'the man who has seen affliction' (Lam 3:1) toward the confession that the LORD's mercies are new every morning and that 'great is your faithfulness' (Lam 3:22-23), establishing a doctrine of hope that waits quietly for God's salvation in the midst of judgment (Lam 3:25-26). Chapter 4 returns to the raw description of the siege, the famine, and the fall of the LORD's anointed, while announcing that the cup of wrath will pass also to Edom (Lam 4:9-10,20-21). The book closes in chapter 5 with a communal prayer that appeals to God's covenant memory and his eternal throne, yet ends without triumphant resolution, in an open question pleading for restoration: 'why have you forgotten us forever?' (Lam 5:19-22).",
+    "pt": "Lamentações abre com a cidade de Jerusalém sentada em solidão como uma viúva, chorando sem consolo após a queda da cidade e a destruição do templo (Lm 1:1-2,4). O lamento se intensifica no capítulo 2, onde o poeta descreve o próprio Senhor agindo como inimigo, derrubando a fortaleza da filha de Sião em cumprimento de sua palavra de juízo anunciada desde a antiguidade (Lm 2:1-5,17). No centro estrutural e teológico do livro, o capítulo 3 gira da desesperança pessoal do 'homem que viu a aflição' (Lm 3:1) para a confissão de que as misericórdias do Senhor são novas cada manhã e que 'grande é a tua fidelidade' (Lm 3:22-23), estabelecendo uma doutrina da esperança que espera em silêncio a salvação de Deus em meio ao juízo (Lm 3:25-26). O capítulo 4 retorna à descrição crua do cerco, da fome e da queda do ungido do Senhor, enquanto anuncia que o cálice da ira passará também a Edom (Lm 4:9-10,20-21). O livro se encerra no capítulo 5 com uma oração comunitária que apela para a memória pactual de Deus e seu trono eterno, mas termina sem resolução triunfal, numa pergunta aberta que suplica restauração: 'por que te esquecerias de nós para sempre?' (Lm 5:19-22)."
+  },
+  "capitulosTotal": 5,
+  "autor": {
+    "nombre": {
+      "es": "Jeremías, hijo de Hilcías",
+      "en": "Jeremiah, son of Hilkiah",
+      "pt": "Jeremias, filho de Hilquias"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El texto hebreo de Lamentaciones es anónimo, pero la tradición judía y cristiana antigua, siguiendo la superscripción de la Septuaginta ('Y sucedió que... Jeremías se sentó llorando y entonó este lamento sobre Jerusalén') y el testimonio talmúdico (Bava Batra 15a), atribuye el libro a Jeremías. La conexión es reforzada por 2Cr 35:25, que registra que Jeremías compuso endechas por la muerte de Josías y que estas se conservaron 'entre las lamentaciones', mostrando que la composición de lamentos formaba parte de su vocación profética. El vocabulario, las imágenes (el ojo que derrama lágrimas, el enemigo que acecha, el pastor que abandona su rebaño) y la perspectiva de testigo ocular del sitio y caída de Jerusalén en el 586 a.C. coinciden estrechamente con Jeremías 37-44. La crítica moderna cuestiona la autoría jeremiánica señalando diferencias de estilo entre los cinco poemas y la ausencia de esperanza en la restauración del templo que sí aparece en Jeremías; la posición reformada sostiene que estas diferencias son explicables por el género literario distinto (poesía acróstica de lamento cúltico frente a oráculo profético en prosa y verso) y por el propósito específico de cada composición, sin que ello exija múltiples autores.",
+      "en": "The Hebrew text of Lamentations is anonymous, but ancient Jewish and Christian tradition, following the Septuagint's superscription ('And it happened... that Jeremiah sat weeping and composed this lament over Jerusalem') and Talmudic testimony (Bava Batra 15a), attributes the book to Jeremiah. The connection is reinforced by 2Chr 35:25, which records that Jeremiah composed a lament for the death of Josiah and that laments were preserved 'among the Lamentations,' showing that composing laments was part of his prophetic vocation. The vocabulary, imagery (the eye that pours out tears, the lurking enemy, the shepherd who abandons his flock), and the eyewitness perspective on the siege and fall of Jerusalem in 586 BC closely match Jeremiah 37-44. Modern criticism questions Jeremianic authorship by pointing to stylistic differences among the five poems and the absence of hope for the temple's restoration found in Jeremiah; the Reformed position holds that these differences are explainable by the distinct literary genre (acrostic cultic lament poetry versus prophetic oracle in prose and verse) and by each composition's specific purpose, without requiring multiple authors.",
+      "pt": "O texto hebraico de Lamentações é anônimo, mas a tradição judaica e cristã antiga, seguindo a superscrição da Septuaginta ('E aconteceu que... Jeremias se assentou chorando e entoou este lamento sobre Jerusalém') e o testemunho talmúdico (Bava Batra 15a), atribui o livro a Jeremias. A conexão é reforçada por 2Cr 35:25, que registra que Jeremias compôs uma lamentação pela morte de Josias e que estas foram preservadas 'entre as lamentações', mostrando que compor lamentos fazia parte de sua vocação profética. O vocabulário, as imagens (o olho que derrama lágrimas, o inimigo que espreita, o pastor que abandona seu rebanho) e a perspectiva de testemunha ocular do cerco e queda de Jerusalém em 586 a.C. coincidem estreitamente com Jeremias 37-44. A crítica moderna questiona a autoria jeremiânica apontando diferenças de estilo entre os cinco poemas e a ausência de esperança na restauração do templo que aparece em Jeremias; a posição reformada sustenta que essas diferenças são explicáveis pelo gênero literário distinto (poesia acróstica de lamento cultual em vez de oráculo profético em prosa e verso) e pelo propósito específico de cada composição, sem exigir múltiplos autores."
+    }
+  },
+  "año": {
+    "desde": -586,
+    "hasta": -585,
+    "display": {
+      "es": "Fecha de escritura: c. 586–585 a.C.",
+      "en": "Date of writing: c. 586–585 BC",
+      "pt": "Data de escrita: c. 586–585 a.C."
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Jerusalén en ruinas o sus alrededores inmediatos (posiblemente Mizpa), poco después de la caída de la ciudad y la destrucción del templo en el 586 a.C.",
+    "en": "Jerusalem in ruins or its immediate vicinity (possibly Mizpah), shortly after the city's fall and the temple's destruction in 586 BC",
+    "pt": "Jerusalém em ruínas ou seus arredores imediatos (possivelmente Mispá), pouco depois da queda da cidade e da destruição do templo em 586 a.C."
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Jerusalén / Sion",
+          "en": "Jerusalem / Zion",
+          "pt": "Jerusalém / Sião"
+        },
+        "identificacionModerna": {
+          "es": "Ciudad Vieja de Jerusalén y la Ciudad de David, Israel",
+          "en": "Old City of Jerusalem and the City of David, Israel",
+          "pt": "Cidade Velha de Jerusalém e a Cidade de Davi, Israel"
+        },
+        "significancia": {
+          "es": "Capital de Judá y sede del templo, personificada en todo el libro como 'la hija de Sion' que llora su destrucción (Lm 1:1,4; Lm 2:1)",
+          "en": "Capital of Judah and site of the temple, personified throughout the book as 'the daughter of Zion' weeping over her destruction (Lam 1:1,4; Lam 2:1)",
+          "pt": "Capital de Judá e sede do templo, personificada em todo o livro como 'a filha de Sião' que chora sua destruição (Lm 1:1,4; Lm 2:1)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Monte del Templo",
+          "en": "Temple Mount",
+          "pt": "Monte do Templo"
+        },
+        "identificacionModerna": {
+          "es": "Explanada de las Mezquitas / Monte Moriah, Jerusalén",
+          "en": "Haram al-Sharif / Mount Moriah, Jerusalem",
+          "pt": "Explanada das Mesquitas / Monte Moriá, Jerusalém"
+        },
+        "significancia": {
+          "es": "Lugar del santuario incendiado por los babilonios; su profanación es lamentada como el colmo del juicio divino (Lm 1:10; Lm 2:6-7)",
+          "en": "Site of the sanctuary burned by the Babylonians; its profanation is lamented as the height of divine judgment (Lam 1:10; Lam 2:6-7)",
+          "pt": "Local do santuário incendiado pelos babilônios; sua profanação é lamentada como o cúmulo do juízo divino (Lm 1:10; Lm 2:6-7)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Babilonia",
+          "en": "Babylon",
+          "pt": "Babilônia"
+        },
+        "identificacionModerna": {
+          "es": "Cerca de Hilla, Irak",
+          "en": "Near Hillah, Iraq",
+          "pt": "Perto de Hilla, Iraque"
+        },
+        "significancia": {
+          "es": "Capital del imperio que ejecutó el sitio y la deportación; destino del exilio de Judá (Lm 1:3; Lm 4:22 alude al fin del castigo)",
+          "en": "Capital of the empire that carried out the siege and deportation; destination of Judah's exile (Lam 1:3; Lam 4:22 alludes to the end of the punishment)",
+          "pt": "Capital do império que executou o cerco e a deportação; destino do exílio de Judá (Lm 1:3; Lm 4:22 alude ao fim do castigo)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Edom",
+          "en": "Edom",
+          "pt": "Edom"
+        },
+        "identificacionModerna": {
+          "es": "Sur de Jordania, región montañosa al sureste del Mar Muerto",
+          "en": "Southern Jordan, the mountainous region southeast of the Dead Sea",
+          "pt": "Sul da Jordânia, região montanhosa a sudeste do Mar Morto"
+        },
+        "significancia": {
+          "es": "Nación vecina y pariente de Judá (descendiente de Esaú) que se regocijó ante la caída de Jerusalén; el poeta anuncia que la copa de la ira pasará también a ella (Lm 4:21-22)",
+          "en": "A neighboring nation and kinsman of Judah (descendant of Esau) that rejoiced over Jerusalem's fall; the poet announces that the cup of wrath will pass to her as well (Lam 4:21-22)",
+          "pt": "Nação vizinha e parente de Judá (descendente de Esaú) que se regozijou com a queda de Jerusalém; o poeta anuncia que o cálice da ira passará também a ela (Lm 4:21-22)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Neo-Babilónico",
+          "en": "Neo-Babylonian Empire",
+          "pt": "Império Neobabilônico"
+        },
+        "rolEnElTexto": {
+          "es": "Instrumento humano del juicio de Jehová bajo Nabucodonosor II; sus tropas sitian, saquean e incendian Jerusalén (Lm 1:5,10; Lm 2:2-3)",
+          "en": "Human instrument of the LORD's judgment under Nebuchadnezzar II; its troops besiege, plunder, and burn Jerusalem (Lam 1:5,10; Lam 2:2-3)",
+          "pt": "Instrumento humano do juízo do Senhor sob Nabucodonosor II; suas tropas cercam, saqueiam e incendeiam Jerusalém (Lm 1:5,10; Lm 2:2-3)"
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente atestiguado en las Crónicas Babilónicas y en los registros arqueológicos de la destrucción de Jerusalén en el estrato de ceniza del 586 a.C.",
+          "en": "Widely attested in the Babylonian Chronicles and in the archaeological record of Jerusalem's destruction in the 586 BC ash layer",
+          "pt": "Amplamente atestado nas Crônicas Babilônicas e no registro arqueológico da destruição de Jerusalém na camada de cinzas de 586 a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Edom",
+          "en": "Edom",
+          "pt": "Edom"
+        },
+        "rolEnElTexto": {
+          "es": "Nación que se alegró y quizás colaboró con Babilonia en el saqueo, blanco de una advertencia de juicio venidero (Lm 4:21-22)",
+          "en": "Nation that rejoiced and perhaps collaborated with Babylon in the plunder, target of a warning of coming judgment (Lam 4:21-22)",
+          "pt": "Nação que se alegrou e talvez tenha colaborado com a Babilônia no saque, alvo de uma advertência de juízo vindouro (Lm 4:21-22)"
+        },
+        "estadoArqueologico": {
+          "es": "Confirmada por ostraca y registros egipcios y asirios como reino vasallo activo en el Néguev sureste durante el s. VI a.C.",
+          "en": "Confirmed by ostraca and Egyptian and Assyrian records as an active vassal kingdom in the southeastern Negev during the 6th century BC",
+          "pt": "Confirmado por ostraca e registros egípcios e assírios como reino vassalo ativo no Negev sudeste durante o século VI a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judá",
+          "en": "Judah",
+          "pt": "Judá"
+        },
+        "rolEnElTexto": {
+          "es": "El pueblo del pacto bajo juicio, representado colectivamente como 'la hija de Sion' y 'mi pueblo' que sufre el castigo de sus propios pecados (Lm 1:8,18; Lm 3:42)",
+          "en": "The covenant people under judgment, represented collectively as 'the daughter of Zion' and 'my people' who suffer the punishment for their own sins (Lam 1:8,18; Lam 3:42)",
+          "pt": "O povo do pacto sob juízo, representado coletivamente como 'a filha de Sião' e 'meu povo' que sofre o castigo por seus próprios pecados (Lm 1:8,18; Lm 3:42)"
+        },
+        "estadoArqueologico": {
+          "es": "Su colapso administrativo y militar está confirmado por las Cartas de Laquis y la destrucción estratigráfica de Jerusalén, Laquis y otros sitios de Judá",
+          "en": "Its administrative and military collapse is confirmed by the Lachish Letters and the stratigraphic destruction of Jerusalem, Lachish, and other Judahite sites",
+          "pt": "Seu colapso administrativo e militar é confirmado pelas Cartas de Laquis e pela destruição estratigráfica de Jerusalém, Laquis e outros sítios de Judá"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones en la Ciudad de David (Área G, el 'Cuarto Quemado' o Burnt Room) han descubierto un grueso estrato de ceniza, vigas carbonizadas y puntas de flecha babilónicas que corroboran físicamente el incendio del 586 a.C. descrito en Lm 2:3-4 y Lm 4:11. Las Cartas de Laquis, ostraca hebreos escritos en los días finales antes de la caída, documentan el pánico, la pérdida de comunicación entre guarniciones y la extinción de las señales de fuego de ciudades vecinas, un correlato extrabíblico notable del ambiente de terror y aislamiento que describe Lamentaciones. Las Crónicas Babilónicas confirman las campañas de Nabucodonosor II contra Judá en 597 y 586 a.C. La arqueología también respalda la severidad del hambre durante el sitio (Lm 2:11-12,20; Lm 4:4,9-10): los estratos de destrucción de Jerusalén muestran escasa evidencia de almacenamiento de grano hacia el final del sitio, consistente con una crisis alimentaria prolongada.",
+      "en": "Excavations in the City of David (Area G, the 'Burnt Room') have uncovered a thick ash layer, charred beams, and Babylonian arrowheads that physically corroborate the 586 BC burning described in Lam 2:3-4 and Lam 4:11. The Lachish Letters, Hebrew ostraca written in the final days before the fall, document panic, the breakdown of communication between garrisons, and the extinguishing of signal fires from neighboring towns — a striking extrabiblical correlate to the atmosphere of terror and isolation Lamentations describes. The Babylonian Chronicles confirm Nebuchadnezzar II's campaigns against Judah in 597 and 586 BC. Archaeology also supports the severity of famine during the siege (Lam 2:11-12,20; Lam 4:4,9-10): Jerusalem's destruction strata show scant evidence of grain storage toward the siege's end, consistent with a prolonged food crisis.",
+      "pt": "Escavações na Cidade de Davi (Área G, o 'Quarto Queimado') descobriram uma espessa camada de cinzas, vigas carbonizadas e pontas de flecha babilônicas que corroboram fisicamente o incêndio de 586 a.C. descrito em Lm 2:3-4 e Lm 4:11. As Cartas de Laquis, ostraca hebraicos escritos nos dias finais antes da queda, documentam o pânico, a quebra de comunicação entre guarnições e a extinção dos sinais de fogo de cidades vizinhas — um notável correlato extrabíblico do ambiente de terror e isolamento que Lamentações descreve. As Crônicas Babilônicas confirmam as campanhas de Nabucodonosor II contra Judá em 597 e 586 a.C. A arqueologia também sustenta a severidade da fome durante o cerco (Lm 2:11-12,20; Lm 4:4,9-10): os estratos de destruição de Jerusalém mostram pouca evidência de armazenamento de grãos perto do fim do cerco, consistente com uma crise alimentar prolongada."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Crónicas Babilónicas (ABC 5)",
+          "en": "Babylonian Chronicles (ABC 5)",
+          "pt": "Crônicas Babilônicas (ABC 5)"
+        },
+        "origen": {
+          "es": "Tablillas cuneiformes de la corte babilónica, actualmente en el Museo Británico",
+          "en": "Cuneiform tablets from the Babylonian court, now held in the British Museum",
+          "pt": "Tábuas cuneiformes da corte babilônica, atualmente no Museu Britânico"
+        },
+        "relevancia": {
+          "es": "Registran la captura de Jerusalén en 597 a.C. y las campañas subsecuentes de Nabucodonosor II, proporcionando el marco cronológico externo para el sitio final de 586 a.C. que Lamentaciones presupone",
+          "en": "Record the capture of Jerusalem in 597 BC and Nebuchadnezzar II's subsequent campaigns, providing the external chronological framework for the final 586 BC siege that Lamentations presupposes",
+          "pt": "Registram a captura de Jerusalém em 597 a.C. e as campanhas subsequentes de Nabucodonosor II, fornecendo o quadro cronológico externo para o cerco final de 586 a.C. que Lamentações pressupõe"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cartas de Laquis (Ostraca de Laquis)",
+          "en": "Lachish Letters (Lachish Ostraca)",
+          "pt": "Cartas de Laquis (Ostraca de Laquis)"
+        },
+        "origen": {
+          "es": "Fragmentos de cerámica hebrea hallados en las ruinas de Laquis, escritos por un oficial militar judaíta poco antes de la caída de la ciudad",
+          "en": "Hebrew potsherd fragments found in the ruins of Lachish, written by a Judahite military officer shortly before the city's fall",
+          "pt": "Fragmentos de cerâmica hebraica encontrados nas ruínas de Laquis, escritos por um oficial militar judaíta pouco antes da queda da cidade"
+        },
+        "relevancia": {
+          "es": "Confirman el clima de terror, aislamiento militar y colapso de comunicaciones inmediatamente anterior a la caída de Jerusalén que subyace a los lamentos sobre el sitio (Lm 2:9; Lm 4:17-19)",
+          "en": "Confirm the climate of terror, military isolation, and communications collapse immediately preceding Jerusalem's fall that underlies the laments over the siege (Lam 2:9; Lam 4:17-19)",
+          "pt": "Confirmam o clima de terror, isolamento militar e colapso de comunicações imediatamente anterior à queda de Jerusalém que subjaz aos lamentos sobre o cerco (Lm 2:9; Lm 4:17-19)"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Lamento por la destrucción de Ur",
+          "en": "Lament for the Destruction of Ur",
+          "pt": "Lamento pela Destruição de Ur"
+        },
+        "origen": {
+          "es": "Poema sumerio (c. 2000 a.C.) compuesto tras la caída de Ur a manos de los elamitas, perteneciente al género mesopotámico de 'lamentos por ciudades'",
+          "en": "Sumerian poem (c. 2000 BC) composed after the fall of Ur to the Elamites, belonging to the Mesopotamian genre of 'city laments'",
+          "pt": "Poema sumério (c. 2000 a.C.) composto após a queda de Ur para os elamitas, pertencente ao gênero mesopotâmico de 'lamentos por cidades'"
+        },
+        "relevancia": {
+          "es": "Muestra que Lamentaciones emplea un género literario del antiguo Cercano Oriente ya establecido, pero lo subvierte teológicamente: la caída de Ur se atribuye al capricho de los dioses, mientras que Lamentaciones atribuye la caída de Jerusalén a la justicia moral de Jehová frente al pecado pactual de su pueblo (Lm 1:18; Lm 2:17)",
+          "en": "Shows that Lamentations employs an already established ancient Near Eastern literary genre, but subverts it theologically: Ur's fall is attributed to the caprice of the gods, whereas Lamentations attributes Jerusalem's fall to the LORD's moral justice against his people's covenant sin (Lam 1:18; Lam 2:17)",
+          "pt": "Mostra que Lamentações emprega um gênero literário já estabelecido no antigo Oriente Próximo, mas o subverte teologicamente: a queda de Ur é atribuída ao capricho dos deuses, enquanto Lamentações atribui a queda de Jerusalém à justiça moral do Senhor contra o pecado pactual de seu povo (Lm 1:18; Lm 2:17)"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Dos debates dominan la discusión histórica del libro. Primero, la autoría: la crítica moderna, notando diferencias de vocabulario y perspectiva teológica entre los cinco poemas y frente al libro de Jeremías, propone múltiples autores anónimos cercanos al templo destruido; la tradición reformada retiene la autoría jeremiánica tradicional, atribuyendo las variaciones a la diversidad de un mismo autor componiendo cinco piezas de ocasión con función litúrgica distinta. Segundo, la fecha precisa de composición: algunos eruditos sitúan el libro varias décadas después del 586 a.C., durante o después del exilio, señalando la sofisticación literaria del acróstico; la posición reformada, notando la inmediatez emocional y los detalles de testigo ocular (cadáveres insepultos, hambre activa, humillación reciente del rey), sostiene una composición muy temprana, en los meses o pocos años inmediatamente posteriores a la caída de Jerusalén.",
+      "en": "Two debates dominate the book's historical discussion. First, authorship: modern criticism, noting differences in vocabulary and theological outlook among the five poems and against the book of Jeremiah, proposes multiple anonymous authors close to the destroyed temple; the Reformed tradition retains traditional Jeremianic authorship, attributing the variations to the diversity of a single author composing five occasional pieces with distinct liturgical functions. Second, the precise date of composition: some scholars place the book several decades after 586 BC, during or after the exile, pointing to the literary sophistication of the acrostic; the Reformed position, noting the emotional immediacy and eyewitness details (unburied corpses, active famine, the king's recent humiliation), holds to a very early composition, within months or a few years immediately following Jerusalem's fall.",
+      "pt": "Dois debates dominam a discussão histórica do livro. Primeiro, a autoria: a crítica moderna, notando diferenças de vocabulário e perspectiva teológica entre os cinco poemas e em relação ao livro de Jeremias, propõe múltiplos autores anônimos próximos ao templo destruído; a tradição reformada retém a autoria jeremiânica tradicional, atribuindo as variações à diversidade de um único autor compondo cinco peças de ocasião com função litúrgica distinta. Segundo, a data precisa da composição: alguns estudiosos situam o livro várias décadas depois de 586 a.C., durante ou após o exílio, apontando para a sofisticação literária do acróstico; a posição reformada, notando a imediatez emocional e os detalhes de testemunha ocular (cadáveres insepultos, fome ativa, humilhação recente do rei), sustenta uma composição muito precoce, nos meses ou poucos anos imediatamente posteriores à queda de Jerusalém."
+    },
+    "cronologiaInterna": {
+      "es": "El libro presupone como ya ocurridos: el sitio prolongado y el hambre resultante (Lm 2:11-12,19-20; Lm 4:4-10), la brecha en los muros y el incendio del templo y los palacios (Lm 2:7-9), la captura y ceguera del rey —Sedequías— identificado como 'el ungido de Jehová' (Lm 4:19-20; cf. 2R 25:4-7), la deportación de la población a Babilonia (Lm 1:3,5), y el regocijo inicial de Edom ante la caída (Lm 4:21). No presupone la reconstrucción del templo ni el regreso del exilio, lo que sitúa internamente la composición en la ventana inmediata posterior al 586 a.C., cuando el trauma colectivo estaba fresco y la comunidad aún clamaba sin visión clara de restauración (Lm 5:19-22).",
+      "en": "The book presupposes as already having occurred: the prolonged siege and resulting famine (Lam 2:11-12,19-20; Lam 4:4-10), the breach of the walls and the burning of the temple and palaces (Lam 2:7-9), the capture and blinding of the king — Zedekiah — identified as 'the LORD's anointed' (Lam 4:19-20; cf. 2Kgs 25:4-7), the deportation of the population to Babylon (Lam 1:3,5), and Edom's initial rejoicing over the fall (Lam 4:21). It does not presuppose the temple's rebuilding or the return from exile, which internally situates the composition in the immediate window after 586 BC, when the collective trauma was fresh and the community still cried out without a clear vision of restoration (Lam 5:19-22).",
+      "pt": "O livro pressupõe como já ocorridos: o cerco prolongado e a fome resultante (Lm 2:11-12,19-20; Lm 4:4-10), a brecha nos muros e o incêndio do templo e dos palácios (Lm 2:7-9), a captura e cegueira do rei — Zedequias — identificado como 'o ungido do Senhor' (Lm 4:19-20; cf. 2Rs 25:4-7), a deportação da população para a Babilônia (Lm 1:3,5), e o regozijo inicial de Edom com a queda (Lm 4:21). Não pressupõe a reconstrução do templo nem o retorno do exílio, o que situa internamente a composição na janela imediatamente posterior a 586 a.C., quando o trauma coletivo estava fresco e a comunidade ainda clamava sem visão clara de restauração (Lm 5:19-22)."
+    }
+  },
+  "ordenEnDivision": 3,
+  "ordenCanon": 25,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Lamentaciones sitúa a un individuo que habla en primera persona, 'el hombre (gever) que ha visto aflicción por la vara de su indignación' (Lm 3:1), como voz representativa del sufrimiento del pueblo. La tradición reformada lee esta figura como una sombra anticipatoria del Varón de Dolores (Is 53:3), que a diferencia del hablante de Lamentaciones —quien sufre en parte por su propio pecado (Lm 3:39-40)— cargará el juicio de Dios de forma enteramente sustitutiva y sin pecado propio (2Co 5:21; He 4:15). Además, la afirmación central del libro de que 'las misericordias de Jehová... nuevas son cada mañana; grande es tu fidelidad' (Lm 3:22-23) anticipa la fidelidad pactual definitivamente asegurada en Cristo, en quien 'todas las promesas de Dios son Sí' (2Co 1:20). Finalmente, el propio Jesús llora sobre Jerusalén anunciando su destrucción venidera en términos que se hacen eco deliberado del lenguaje de Lamentaciones (Lc 19:41-44; Lc 21:20-24), mostrando que la ciudad que una vez lloró su propio juicio se convertiría de nuevo en objeto del juicio de Dios, esta vez llorado de antemano por el Hijo mismo.",
+      "en": "Lamentations situates a first-person speaker, 'the man (gever) who has seen affliction by the rod of his wrath' (Lam 3:1), as a representative voice for the people's suffering. The Reformed tradition reads this figure as an anticipatory shadow of the Man of Sorrows (Isa 53:3), who unlike the speaker of Lamentations — who suffers in part for his own sin (Lam 3:39-40) — would bear God's judgment in an entirely substitutionary way and without sin of his own (2Cor 5:21; Heb 4:15). Further, the book's central affirmation that 'the LORD's mercies... are new every morning; great is your faithfulness' (Lam 3:22-23) anticipates the covenant faithfulness definitively secured in Christ, in whom 'all the promises of God find their Yes' (2Cor 1:20). Finally, Jesus himself weeps over Jerusalem announcing its coming destruction in terms that deliberately echo the language of Lamentations (Luke 19:41-44; Luke 21:20-24), showing that the city that once wept over her own judgment would again become the object of God's judgment, this time wept over in advance by the Son himself.",
+      "pt": "Lamentações situa um indivíduo que fala em primeira pessoa, 'o homem (gever) que viu a aflição pela vara do seu furor' (Lm 3:1), como voz representativa do sofrimento do povo. A tradição reformada lê essa figura como uma sombra antecipatória do Varão de Dores (Is 53:3), que, diferentemente do orador de Lamentações — que sofre em parte por seu próprio pecado (Lm 3:39-40) —, carregará o juízo de Deus de forma inteiramente substitutiva e sem pecado próprio (2Co 5:21; Hb 4:15). Além disso, a afirmação central do livro de que 'as misericórdias do Senhor... são novas cada manhã; grande é a tua fidelidade' (Lm 3:22-23) antecipa a fidelidade pactual definitivamente assegurada em Cristo, em quem 'todas as promessas de Deus são Sim' (2Co 1:20). Por fim, o próprio Jesus chora sobre Jerusalém anunciando sua destruição vindoura em termos que ecoam deliberadamente a linguagem de Lamentações (Lc 19:41-44; Lc 21:20-24), mostrando que a cidade que uma vez chorou seu próprio juízo se tornaria novamente objeto do juízo de Deus, desta vez chorado de antemão pelo próprio Filho."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El 'hombre que ha visto aflicción' (Lm 3:1), quien es azotado, escarnecido y llenado de amargura, prefigura al Varón de dolores que llevaría el juicio de su pueblo (Is 53:3-5; He 4:15)",
+        "en": "The 'man who has seen affliction' (Lam 3:1), who is scourged, mocked, and filled with bitterness, prefigures the Man of Sorrows who would bear his people's judgment (Isa 53:3-5; Heb 4:15)",
+        "pt": "O 'homem que viu a aflição' (Lm 3:1), que é açoitado, escarnecido e cheio de amargura, prefigura o Varão de dores que levaria o juízo de seu povo (Is 53:3-5; Hb 4:15)"
+      },
+      {
+        "es": "Jerusalén llorando en soledad por su propio juicio (Lm 1:1-2) anticipa en figura inversa el llanto de Cristo sobre la misma ciudad ante su juicio venidero (Lc 19:41-44)",
+        "en": "Jerusalem weeping in solitude over her own judgment (Lam 1:1-2) anticipates, in inverted figure, Christ's weeping over the same city facing her coming judgment (Luke 19:41-44)",
+        "pt": "Jerusalém chorando em solidão por seu próprio juízo (Lm 1:1-2) antecipa, em figura invertida, o choro de Cristo sobre a mesma cidade diante de seu juízo vindouro (Lc 19:41-44)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Lamentaciones es el único libro de la Biblia enteramente compuesto como una serie de cinco lamentos acrósticos por la destrucción de Jerusalén y el templo, otorgando al pueblo de Dios un lenguaje inspirado y sancionado para el duelo prolongado que no niega la ira legítima ni la confusión ante el sufrimiento, pero que tampoco cede a la desesperación sin esperanza. Complementa el registro histórico de 2R 25 y el oráculo profético de Jeremías al ofrecer el procesamiento litúrgico, comunitario y emocional del desastre del 586 a.C. Su estructura acróstica —el orden del alefato hebreo aplicado al caos del sufrimiento— enseña que incluso el dolor más desordenado puede y debe expresarse dentro de los límites de la fe ordenada, y su capítulo central (3) provee la declaración de la fidelidad de Dios más citada de todo el Antiguo Testamento en contextos de sufrimiento pastoral.",
+    "en": "Lamentations is the only book of the Bible composed entirely as a series of five acrostic laments over the destruction of Jerusalem and the temple, giving God's people an inspired and sanctioned language for prolonged grief that neither denies legitimate anger and confusion in suffering nor gives way to hopeless despair. It complements the historical record of 2Kgs 25 and Jeremiah's prophetic oracle by offering the liturgical, communal, and emotional processing of the 586 BC disaster. Its acrostic structure — the order of the Hebrew alphabet imposed on the chaos of suffering — teaches that even the most disordered pain can and should be expressed within the bounds of ordered faith, and its central chapter (3) provides the single most-cited declaration of God's faithfulness in the entire Old Testament in contexts of pastoral suffering.",
+    "pt": "Lamentações é o único livro da Bíblia composto inteiramente como uma série de cinco lamentos acrósticos pela destruição de Jerusalém e do templo, dando ao povo de Deus uma linguagem inspirada e sancionada para o luto prolongado que não nega a ira legítima nem a confusão diante do sofrimento, mas também não cede ao desespero sem esperança. Complementa o registro histórico de 2Rs 25 e o oráculo profético de Jeremias ao oferecer o processamento litúrgico, comunitário e emocional do desastre de 586 a.C. Sua estrutura acróstica — a ordem do alfabeto hebraico imposta ao caos do sofrimento — ensina que até a dor mais desordenada pode e deve ser expressa dentro dos limites da fé ordenada, e seu capítulo central (3) fornece a declaração da fidelidade de Deus mais citada em todo o Antigo Testamento em contextos de sofrimento pastoral."
+  },
+  "genero": {
+    "es": "Poesía elegíaca hebrea (qinah, metro de lamento fúnebre) en cinco poemas acrósticos independientes; los caps. 1, 2 y 4 siguen el alefato hebreo verso por verso, el cap. 3 lo hace en triple forma (66 versos, tres por letra), y el cap. 5 conserva las 22 líneas sin seguir el orden acróstico formal",
+    "en": "Hebrew elegiac poetry (qinah, funeral-dirge meter) in five independent acrostic poems; chs. 1, 2, and 4 follow the Hebrew alphabet verse by verse, ch. 3 does so in triple form (66 verses, three per letter), and ch. 5 retains 22 lines without following the formal acrostic order",
+    "pt": "Poesia elegíaca hebraica (qinah, metro de lamento fúnebre) em cinco poemas acrósticos independentes; os caps. 1, 2 e 4 seguem o alfabeto hebraico verso por verso, o cap. 3 o faz em forma tripla (66 versos, três por letra), e o cap. 5 conserva as 22 linhas sem seguir a ordem acróstica formal"
+  },
+  "palabraClave": {
+    "es": [
+      "Lamento",
+      "Aflicción",
+      "Fidelidad",
+      "Juicio",
+      "Consuelo"
+    ],
+    "en": [
+      "Lament",
+      "Affliction",
+      "Faithfulness",
+      "Judgment",
+      "Comfort"
+    ],
+    "pt": [
+      "Lamento",
+      "Aflição",
+      "Fidelidade",
+      "Juízo",
+      "Consolo"
+    ]
+  },
+  "destinatario": {
+    "es": "Los sobrevivientes de Judá y Jerusalén que permanecieron en la tierra devastada o fueron deportados a Babilonia tras la caída de la ciudad en el 586 a.C., destinado al uso litúrgico en el luto comunitario y los ayunos conmemorativos",
+    "en": "The survivors of Judah and Jerusalem who remained in the devastated land or were deported to Babylon after the city's fall in 586 BC, intended for liturgical use in communal mourning and commemorative fasts",
+    "pt": "Os sobreviventes de Judá e Jerusalém que permaneceram na terra devastada ou foram deportados para a Babilônia após a queda da cidade em 586 a.C., destinado ao uso litúrgico no luto comunitário e nos jejuns comemorativos"
+  },
+  "proposito": {
+    "es": "Históricamente, el libro fue compuesto para dar expresión litúrgica ordenada al duelo nacional de Judá tras la destrucción de Jerusalén y el templo, sirviendo probablemente como texto recitado en ayunos conmemorativos anuales (cf. Zac 7:3-5; Zac 8:19). Teológicamente, busca enseñar al pueblo del pacto a lamentar con honestidad sin caer en la desesperación ni en la autojustificación, reconociendo que el juicio de Jehová sobre Jerusalén fue justo y merecido por el pecado pactual (Lm 1:18; Lm 3:39-40), mientras sostiene, en el centro mismo del libro, que las misericordias de Dios no se agotan y que su fidelidad pactual permanece como fundamento de la esperanza incluso cuando toda evidencia visible sugiere abandono (Lm 3:22-24,31-32).",
+    "en": "Historically, the book was composed to give ordered liturgical expression to Judah's national grief after the destruction of Jerusalem and the temple, likely serving as a text recited at annual commemorative fasts (cf. Zech 7:3-5; Zech 8:19). Theologically, it aims to teach the covenant people to lament honestly without falling into either despair or self-justification, acknowledging that the LORD's judgment on Jerusalem was just and deserved for covenant sin (Lam 1:18; Lam 3:39-40), while affirming, at the book's very center, that God's mercies do not run out and that his covenant faithfulness remains the foundation of hope even when all visible evidence suggests abandonment (Lam 3:22-24,31-32).",
+    "pt": "Historicamente, o livro foi composto para dar expressão litúrgica ordenada ao luto nacional de Judá após a destruição de Jerusalém e do templo, servindo provavelmente como texto recitado em jejuns comemorativos anuais (cf. Zc 7:3-5; Zc 8:19). Teologicamente, busca ensinar o povo do pacto a lamentar com honestidade sem cair no desespero nem na autojustificação, reconhecendo que o juízo do Senhor sobre Jerusalém foi justo e merecido pelo pecado pactual (Lm 1:18; Lm 3:39-40), enquanto sustenta, no próprio centro do livro, que as misericórdias de Deus não se esgotam e que sua fidelidade pactual permanece como fundamento da esperança mesmo quando toda evidência visível sugere abandono (Lm 3:22-24,31-32)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Jeremías",
+        "en": "Jeremiah",
+        "pt": "Jeremias"
+      },
+      "hebreo": "יִרְמְיָהוּ",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "descripcion": {
+        "es": "La voz poética que llora sobre Jerusalén a lo largo de los cinco poemas, y que en el capítulo 3 se identifica en primera persona como 'el hombre (gever) que ha visto aflicción por la vara de su indignación' (Lm 3:1). La tradición identifica esta voz con el profeta Jeremías, testigo ocular del sitio y caída de la ciudad.",
+        "en": "The poetic voice that mourns over Jerusalem throughout the five poems, and who in chapter 3 identifies himself in the first person as 'the man (gever) who has seen affliction by the rod of his wrath' (Lam 3:1). Tradition identifies this voice with the prophet Jeremiah, eyewitness to the siege and fall of the city.",
+        "pt": "A voz poética que chora sobre Jerusalém ao longo dos cinco poemas, e que no capítulo 3 se identifica em primeira pessoa como 'o homem (gever) que viu a aflição pela vara do seu furor' (Lm 3:1). A tradição identifica essa voz com o profeta Jeremias, testemunha ocular do cerco e da queda da cidade."
+      },
+      "acciones": {
+        "es": "Derrama lágrimas de noche por la ciudad destruida (Lm 1:16; Lm 2:11), es llevado por Dios a la oscuridad y cercado de amargura (Lm 3:2-9), pero se detiene a sí mismo, trae esto a la memoria y por ello espera (Lm 3:21), y finalmente exhorta a la comunidad a examinar sus caminos y volver a Jehová (Lm 3:40-41)",
+        "en": "He pours out tears at night over the destroyed city (Lam 1:16; Lam 2:11), is led by God into darkness and hedged in with bitterness (Lam 3:2-9), but stops himself, calls this to mind and therefore hopes (Lam 3:21), and finally exhorts the community to examine their ways and return to the LORD (Lam 3:40-41)",
+        "pt": "Derrama lágrimas à noite pela cidade destruída (Lm 1:16; Lm 2:11), é levado por Deus à escuridão e cercado de amargura (Lm 3:2-9), mas se detém, traz isso à memória e por isso espera (Lm 3:21), e finalmente exorta a comunidade a examinar seus caminhos e voltar ao Senhor (Lm 3:40-41)"
+      },
+      "significadoTeologico": {
+        "es": "Representa al intercesor y testigo profético que no se distancia del sufrimiento de su pueblo sino que lo encarna en primera persona, modelando un lamento que combina honestidad emocional radical con sumisión teológica a la justicia de Dios",
+        "en": "Represents the intercessor and prophetic witness who does not distance himself from his people's suffering but embodies it in the first person, modeling a lament that combines radical emotional honesty with theological submission to God's justice",
+        "pt": "Representa o intercessor e testemunha profética que não se distancia do sofrimento de seu povo, mas o encarna em primeira pessoa, modelando um lamento que combina honestidade emocional radical com submissão teológica à justiça de Deus"
+      },
+      "tipo": {
+        "es": "En su papel de 'hombre que ha visto aflicción' (Lm 3:1), funciona como sombra imperfecta del Varón de Dolores (Is 53:3), pues su sufrimiento se mezcla con el reconocimiento de pecado propio y comunitario (Lm 3:39-42), a diferencia de Cristo, quien sufrió sin pecado propio (He 4:15; 2Co 5:21)",
+        "en": "In his role as 'the man who has seen affliction' (Lam 3:1), he functions as an imperfect shadow of the Man of Sorrows (Isa 53:3), for his suffering is mixed with the acknowledgment of his own and his community's sin (Lam 3:39-42), unlike Christ, who suffered without sin of his own (Heb 4:15; 2Cor 5:21)",
+        "pt": "Em seu papel de 'homem que viu a aflição' (Lm 3:1), funciona como sombra imperfeita do Varão de Dores (Is 53:3), pois seu sofrimento se mescla ao reconhecimento do próprio pecado e do de sua comunidade (Lm 3:39-42), diferentemente de Cristo, que sofreu sem pecado próprio (Hb 4:15; 2Co 5:21)"
+      },
+      "caracterMoral": {
+        "es": "Fiel y honesto en su duelo: no oculta su desesperación momentánea (Lm 3:1-18) ni la finge, pero tampoco permanece en ella, sino que la subordina deliberadamente a la confianza en el carácter inmutable de Dios (Lm 3:21-24)",
+        "en": "Faithful and honest in his grief: he neither hides his momentary despair (Lam 3:1-18) nor feigns it, yet he does not remain in it, deliberately subordinating it to trust in God's unchanging character (Lam 3:21-24)",
+        "pt": "Fiel e honesto em seu luto: não esconde seu desespero momentâneo (Lm 3:1-18) nem o finge, mas também não permanece nele, subordinando-o deliberadamente à confiança no caráter imutável de Deus (Lm 3:21-24)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "La voz del libro llora por la ciudad caída y su pueblo disperso (Lm 1:1-2,16), se identifica como el hombre azotado por la ira de Dios y hecho blanco de escarnio (Lm 3:1,14), clama a Dios desde lo más profundo, recordando su misericordia inagotable y nueva cada mañana (Lm 3:22-24,55-57), y llama a la comunidad a la introspección y al arrepentimiento (Lm 3:40-42)",
+          "en": "The book's voice weeps over the fallen city and its scattered people (Lam 1:1-2,16), identifies himself as the man scourged by God's wrath and made a target of mockery (Lam 3:1,14), cries out to God from the depths, remembering his unfailing mercy new every morning (Lam 3:22-24,55-57), and calls the community to introspection and repentance (Lam 3:40-42)",
+          "pt": "A voz do livro chora pela cidade caída e seu povo disperso (Lm 1:1-2,16), identifica-se como o homem açoitado pela ira de Deus e feito alvo de escárnio (Lm 3:1,14), clama a Deus desde o mais profundo, lembrando sua misericórdia inesgotável e nova cada manhã (Lm 3:22-24,55-57), e chama a comunidade à introspecção e ao arrependimento (Lm 3:40-42)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Lm 1:1",
+          "Lm 3:1",
+          "Lm 3:22-24",
+          "Lm 3:55-57"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Jeremías es una de las figuras mejor documentadas del Antiguo Testamento, cuya vida como testigo ocular del sitio, caída y secuelas de Jerusalén en el 586 a.C. se narra en Jer 37-44 y 2R 25. La tradición judía y cristiana antigua (superscripción de la LXX; Talmud, Bava Batra 15a) le atribuye la composición de Lamentaciones poco después de la destrucción, mientras permanecía en Judá bajo el gobierno de Gedalías (Jer 40:5-6) antes de ser llevado a Egipto contra su voluntad (Jer 43:5-7)",
+          "en": "Jeremiah is one of the best-documented figures of the Old Testament, whose life as eyewitness to the siege, fall, and aftermath of Jerusalem in 586 BC is narrated in Jer 37-44 and 2Kgs 25. Ancient Jewish and Christian tradition (LXX superscription; Talmud, Bava Batra 15a) attributes to him the composition of Lamentations shortly after the destruction, while he remained in Judah under Gedaliah's governorship (Jer 40:5-6) before being taken to Egypt against his will (Jer 43:5-7)",
+          "pt": "Jeremias é uma das figuras mais bem documentadas do Antigo Testamento, cuja vida como testemunha ocular do cerco, queda e consequências de Jerusalém em 586 a.C. é narrada em Jr 37-44 e 2Rs 25. A tradição judaica e cristã antiga (superscrição da LXX; Talmude, Bava Batra 15a) atribui a ele a composição de Lamentações pouco depois da destruição, enquanto permanecia em Judá sob o governo de Gedalias (Jr 40:5-6) antes de ser levado ao Egito contra sua vontade (Jr 43:5-7)"
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto histórico",
+              "Cronología del exilio"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La atribución tradicional es consistente con el perfil interno de la voz poética: testigo directo del sitio, con conocimiento íntimo de la geografía de Jerusalén y una teología del juicio idéntica a la predicada por Jeremías antes de la caída",
+          "en": "The traditional attribution is consistent with the internal profile of the poetic voice: a direct witness to the siege, with intimate knowledge of Jerusalem's geography and a theology of judgment identical to that preached by Jeremiah before the fall",
+          "pt": "A atribuição tradicional é consistente com o perfil interno da voz poética: uma testemunha direta do cerco, com conhecimento íntimo da geografia de Jerusalém e uma teologia do juízo idêntica à pregada por Jeremias antes da queda"
+        }
+      },
+      "versiculosAsociados": [
+        "Lm 1:1",
+        "Lm 3:1",
+        "Lm 3:22-23",
+        "Lm 3:40"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Jer",
+        "2Cr",
+        "2R"
+      ],
+      "enElNuevoTestamento": {
+        "es": "No es citado por nombre en el Nuevo Testamento en relación con Lamentaciones, pero su patrón de sufrimiento intercesor y lamento honesto anticipa la angustia de Cristo en Getsemaní, quien también lloró y clamó con gran fortaleza ante el juicio venidero (He 5:7-8; Mt 26:37-38)",
+        "en": "He is not cited by name in the New Testament in connection with Lamentations, but his pattern of intercessory suffering and honest lament anticipates Christ's anguish in Gethsemane, who likewise wept and cried out with loud cries in the face of coming judgment (Heb 5:7-8; Matt 26:37-38)",
+        "pt": "Não é citado pelo nome no Novo Testamento em relação a Lamentações, mas seu padrão de sofrimento intercessório e lamento honesto antecipa a angústia de Cristo no Getsêmani, que também chorou e clamou com grande veemência diante do juízo vindouro (Hb 5:7-8; Mt 26:37-38)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Hija de Sion (Jerusalén personificada)",
+        "en": "Daughter of Zion (Jerusalem personified)",
+        "pt": "Filha de Sião (Jerusalém personificada)"
+      },
+      "hebreo": "בַּת־צִיּוֹן",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        4
+      ],
+      "descripcion": {
+        "es": "La ciudad de Jerusalén personificada como una mujer —viuda, princesa caída en tributo, madre cuyos hijos han sido llevados cautivos— cuyo duelo y humillación son el sujeto central de los primeros dos poemas y reaparecen en el cuarto",
+        "en": "The city of Jerusalem personified as a woman — a widow, a princess fallen into tribute, a mother whose children have been carried into captivity — whose grief and humiliation are the central subject of the first two poems and reappear in the fourth",
+        "pt": "A cidade de Jerusalém personificada como uma mulher — viúva, princesa caída em tributo, mãe cujos filhos foram levados cativos — cujo luto e humilhação são o assunto central dos dois primeiros poemas e reaparecem no quarto"
+      },
+      "acciones": {
+        "es": "Llora amargamente de noche sin quien la consuele (Lm 1:2), extiende sus manos sin que nadie acuda (Lm 1:17), se sienta en el suelo en silencio, echando polvo sobre su cabeza (Lm 2:10), y ve a sus propias manos hervir a sus hijos por causa del hambre del sitio (Lm 4:10)",
+        "en": "She weeps bitterly at night with no one to comfort her (Lam 1:2), stretches out her hands with no one to help (Lam 1:17), sits on the ground in silence, casting dust on her head (Lam 2:10), and sees her own hands boil her children because of the siege's famine (Lam 4:10)",
+        "pt": "Chora amargamente à noite sem quem a console (Lm 1:2), estende as mãos sem que ninguém acuda (Lm 1:17), senta-se no chão em silêncio, lançando pó sobre a cabeça (Lm 2:10), e vê suas próprias mãos cozerem seus filhos por causa da fome do cerco (Lm 4:10)"
+      },
+      "significadoTeologico": {
+        "es": "Representa colectivamente al pueblo del pacto bajo la disciplina de Dios: una esposa/hija cuya infidelidad pactual (idolatría, injusticia social) provocó el divorcio judicial de la destrucción, y cuyo sufrimiento, aunque merecido, sigue conmoviendo la compasión divina y humana",
+        "en": "She represents collectively the covenant people under God's discipline: a wife/daughter whose covenant unfaithfulness (idolatry, social injustice) provoked the judicial divorce of destruction, and whose suffering, though deserved, still moves both divine and human compassion",
+        "pt": "Representa coletivamente o povo do pacto sob a disciplina de Deus: uma esposa/filha cuja infidelidade pactual (idolatria, injustiça social) provocou o divórcio judicial da destruição, e cujo sofrimento, embora merecido, continua a comover a compaixão divina e humana"
+      },
+      "tipo": {
+        "es": "No funciona primariamente como tipo de Cristo, sino como figura corporativa del pueblo del pacto; su llanto anticipa en espejo el llanto posterior de Cristo sobre la misma ciudad (Lc 19:41-44)",
+        "en": "She does not function primarily as a type of Christ, but as a corporate figure for the covenant people; her weeping anticipates, in mirror image, Christ's later weeping over the same city (Luke 19:41-44)",
+        "pt": "Não funciona primariamente como tipo de Cristo, mas como figura corporativa do povo do pacto; seu choro antecipa, em espelho, o choro posterior de Cristo sobre a mesma cidade (Lc 19:41-44)"
+      },
+      "caracterMoral": {
+        "es": "Moralmente culpable —el poeta reconoce abiertamente que 'grave pecado cometió Jerusalén' (Lm 1:8)— pero presentada con genuina compasión como sufriente digna de lástima, no de burla (Lm 1:12)",
+        "en": "Morally guilty — the poet openly acknowledges that 'Jerusalem sinned grievously' (Lam 1:8) — yet presented with genuine compassion as a sufferer deserving pity, not mockery (Lam 1:12)",
+        "pt": "Moralmente culpada — o poeta reconhece abertamente que 'Jerusalém pecou gravemente' (Lm 1:8) — mas apresentada com genuína compaixão como sofredora digna de compaixão, não de zombaria (Lm 1:12)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Sentada sola como viuda, la que fue grande entre las naciones (Lm 1:1), llora de noche y no tiene consolador entre todos sus amantes (Lm 1:2), reconoce que Jehová es justo pues se rebeló contra su palabra (Lm 1:18), y es descrita como derribada por Jehová mismo, quien destruyó sin compasión todas las moradas de Jacob (Lm 2:2,5)",
+          "en": "Sitting alone like a widow, she who was great among the nations (Lam 1:1), weeps bitterly in the night with none to comfort her among all her lovers (Lam 1:2), acknowledges that the LORD is righteous, for she rebelled against his word (Lam 1:18), and is described as thrown down by the LORD himself, who destroyed without pity all the habitations of Jacob (Lam 2:2,5)",
+          "pt": "Sentada sozinha como viúva, ela que era grande entre as nações (Lm 1:1), chora à noite sem consolador entre todos os seus amantes (Lm 1:2), reconhece que o Senhor é justo, pois se rebelou contra sua palavra (Lm 1:18), e é descrita como derrubada pelo próprio Senhor, que destruiu sem piedade todas as habitações de Jacó (Lm 2:2,5)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Lm 1:1-2",
+          "Lm 1:8",
+          "Lm 1:18",
+          "Lm 2:2"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La destrucción física de Jerusalén en el 586 a.C. está ampliamente documentada por las Crónicas Babilónicas y confirmada arqueológicamente por el estrato de ceniza y estructuras incendiadas en la Ciudad de David (Área G)",
+          "en": "The physical destruction of Jerusalem in 586 BC is extensively documented by the Babylonian Chronicles and archaeologically confirmed by the ash layer and burned structures in the City of David (Area G)",
+          "pt": "A destruição física de Jerusalém em 586 a.C. está amplamente documentada pelas Crônicas Babilônicas e confirmada arqueologicamente pela camada de cinzas e estruturas incendiadas na Cidade de Davi (Área G)"
+        },
+        "fuentes": [
+          {
+            "titulo": "The Archaeological Study Bible",
+            "autor": "Editado por Walter Kaiser et al.",
+            "año": 2005,
+            "editorial": "Zondervan",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Arqueología",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Concuerda plenamente con el registro de 2R 25:8-10 y con el testimonio arqueológico del incendio y demolición de murallas y edificios públicos de Jerusalén",
+          "en": "It fully agrees with the record of 2Kgs 25:8-10 and with the archaeological testimony of the burning and demolition of Jerusalem's walls and public buildings",
+          "pt": "Concorda plenamente com o registro de 2Rs 25:8-10 e com o testemunho arqueológico do incêndio e demolição de muralhas e edifícios públicos de Jerusalém"
+        }
+      },
+      "versiculosAsociados": [
+        "Lm 1:1",
+        "Lm 1:12",
+        "Lm 2:15",
+        "Lm 4:2"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "2Cr",
+        "Jer",
+        "Is",
+        "Ez",
+        "Sal"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Cristo llora sobre esta misma ciudad anunciando su destrucción futura por Roma (Lc 19:41-44; Lc 21:20-24), y la Jerusalén terrenal, caída y culpable, se contrasta en el Nuevo Testamento con la Jerusalén celestial, madre de los redimidos (Gá 4:26; He 12:22; Ap 21:2)",
+        "en": "Christ weeps over this same city, announcing its future destruction by Rome (Luke 19:41-44; Luke 21:20-24), and the earthly, fallen, and guilty Jerusalem is contrasted in the New Testament with the heavenly Jerusalem, mother of the redeemed (Gal 4:26; Heb 12:22; Rev 21:2)",
+        "pt": "Cristo chora sobre esta mesma cidade, anunciando sua destruição futura por Roma (Lc 19:41-44; Lc 21:20-24), e a Jerusalém terrena, caída e culpada, é contrastada no Novo Testamento com a Jerusalém celestial, mãe dos redimidos (Gl 4:26; Hb 12:22; Ap 21:2)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Nabucodonosor",
+        "en": "Nebuchadnezzar",
+        "pt": "Nabucodonosor"
+      },
+      "hebreo": "נְבוּכַדְנֶאצַּר",
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        4
+      ],
+      "descripcion": {
+        "es": "El rey babilónico y su ejército nunca son nombrados directamente en Lamentaciones —a diferencia del libro de Jeremías— sino que aparecen bajo los términos genéricos 'el enemigo' y 'el adversario', instrumento humano por medio del cual Jehová ejecuta su juicio anunciado",
+        "en": "The Babylonian king and his army are never named directly in Lamentations — unlike the book of Jeremiah — but appear under the generic terms 'the enemy' and 'the adversary,' the human instrument through whom the LORD executes his announced judgment",
+        "pt": "O rei babilônico e seu exército nunca são nomeados diretamente em Lamentações — diferentemente do livro de Jeremias — mas aparecem sob os termos genéricos 'o inimigo' e 'o adversário', instrumento humano por meio do qual o Senhor executa seu juízo anunciado"
+      },
+      "acciones": {
+        "es": "Entra por las puertas de Jerusalén, algo que ni los reyes de la tierra habrían creído posible (Lm 4:12), extiende su bandera sobre la ciudad como enemigo victorioso (Lm 2:4-5), y sus prosperidades son atribuidas a que 'Jehová la afligió por la multitud de sus rebeliones' (Lm 1:5)",
+        "en": "He enters the gates of Jerusalem, something not even the kings of the earth would have believed possible (Lam 4:12), raises his banner over the city as a victorious enemy (Lam 2:4-5), and his triumphs are attributed to the fact that 'the LORD has afflicted her for the multitude of her transgressions' (Lam 1:5)",
+        "pt": "Entra pelas portas de Jerusalém, algo que nem os reis da terra teriam acreditado possível (Lm 4:12), ergue sua bandeira sobre a cidade como inimigo vitorioso (Lm 2:4-5), e seus triunfos são atribuídos ao fato de que 'o Senhor a afligiu pela multidão de suas transgressões' (Lm 1:5)"
+      },
+      "significadoTeologico": {
+        "es": "Ilustra la doctrina reformada de la providencia soberana de Dios sobre las naciones paganas: un rey pagano actúa según sus propios propósitos imperiales, pero el texto insiste en que es Jehová mismo quien 'ha tensado su arco como enemigo' contra su propio pueblo (Lm 2:4), sin que ello exculpe la responsabilidad moral del agresor",
+        "en": "He illustrates the Reformed doctrine of God's sovereign providence over pagan nations: a pagan king acts according to his own imperial purposes, yet the text insists that it is the LORD himself who has 'bent his bow like an enemy' against his own people (Lam 2:4), without this excusing the aggressor's moral responsibility",
+        "pt": "Ilustra a doutrina reformada da providência soberana de Deus sobre as nações pagãs: um rei pagão age segundo seus próprios propósitos imperiais, mas o texto insiste que é o próprio Senhor quem 'armou o seu arco como inimigo' contra seu próprio povo (Lm 2:4), sem que isso exculpe a responsabilidade moral do agressor"
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; representa más bien el poder mundial pagano que, sin saberlo ni proponérselo, sirve como vara del juicio de Dios contra su propio pueblo (cf. Is 10:5-7 sobre Asiria)",
+        "en": "He does not function as a type of Christ; he represents instead pagan worldly power that, unknowingly and without intending it, serves as the rod of God's judgment against his own people (cf. Isa 10:5-7 concerning Assyria)",
+        "pt": "Não funciona como tipo de Cristo; representa antes o poder mundial pagão que, sem saber nem pretendê-lo, serve como vara do juízo de Deus contra seu próprio povo (cf. Is 10:5-7 sobre a Assíria)"
+      },
+      "caracterMoral": {
+        "es": "Presentado sin caracterización individual, como fuerza destructora impersonal y despiadada ('no perdonó', Lm 2:2,17,21) que, aun siendo instrumento del justo juicio de Dios, actúa con crueldad moralmente reprochable",
+        "en": "Presented without individual characterization, as an impersonal and merciless destructive force ('he has not pitied,' Lam 2:2,17,21) that, even while being an instrument of God's just judgment, acts with morally reprehensible cruelty",
+        "pt": "Apresentado sem caracterização individual, como força destruidora impessoal e implacável ('não perdoou', Lm 2:2,17,21) que, mesmo sendo instrumento do justo juízo de Deus, age com crueldade moralmente reprovável"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Descrito solo como 'el enemigo' que ha prosperado porque Jehová afligió a Jerusalén por sus rebeliones (Lm 1:5), que entró en el santuario de Jehová (Lm 1:10), y de quien se dice que ni los reyes de la tierra habrían creído que pudiera entrar por las puertas de Jerusalén (Lm 4:12)",
+          "en": "Described only as 'the enemy' who has prospered because the LORD afflicted Jerusalem for her transgressions (Lam 1:5), who entered the LORD's sanctuary (Lam 1:10), and of whom it is said that not even the kings of the earth would have believed he could enter Jerusalem's gates (Lam 4:12)",
+          "pt": "Descrito apenas como 'o inimigo' que prosperou porque o Senhor afligiu Jerusalém por suas transgressões (Lm 1:5), que entrou no santuário do Senhor (Lm 1:10), e de quem se diz que nem os reis da terra teriam acreditado que ele pudesse entrar pelas portas de Jerusalém (Lm 4:12)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Lm 1:5",
+          "Lm 1:10",
+          "Lm 2:4-5",
+          "Lm 4:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Nabucodonosor II, rey del Imperio Neo-Babilónico (r. 605-562 a.C.), es históricamente el agente detrás del 'enemigo' anónimo de Lamentaciones. Sus campañas contra Jerusalén en 597 y 586 a.C. están documentadas en las Crónicas Babilónicas y corroboradas por los relatos paralelos de 2R 24-25 y Jer 39,52",
+          "en": "Nebuchadnezzar II, king of the Neo-Babylonian Empire (r. 605-562 BC), is historically the agent behind the anonymous 'enemy' of Lamentations. His campaigns against Jerusalem in 597 and 586 BC are documented in the Babylonian Chronicles and corroborated by the parallel accounts of 2Kgs 24-25 and Jer 39,52",
+          "pt": "Nabucodonosor II, rei do Império Neobabilônico (r. 605-562 a.C.), é historicamente o agente por trás do 'inimigo' anônimo de Lamentações. Suas campanhas contra Jerusalém em 597 e 586 a.C. estão documentadas nas Crônicas Babilônicas e corroboradas pelos relatos paralelos de 2Rs 24-25 e Jr 39,52"
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto histórico",
+              "Cronología babilónica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La identificación con Nabucodonosor II es históricamente incuestionable, aunque el texto poético de Lamentaciones opta deliberadamente por no nombrarlo, enfatizando en cambio la agencia soberana de Jehová sobre el evento",
+          "en": "The identification with Nebuchadnezzar II is historically unquestionable, though the poetic text of Lamentations deliberately chooses not to name him, emphasizing instead the LORD's sovereign agency over the event",
+          "pt": "A identificação com Nabucodonosor II é historicamente incontestável, embora o texto poético de Lamentações escolha deliberadamente não o nomear, enfatizando em vez disso a agência soberana do Senhor sobre o evento"
+        }
+      },
+      "versiculosAsociados": [
+        "Lm 1:5",
+        "Lm 2:4-5",
+        "Lm 4:12"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "2Cr",
+        "Jer",
+        "Ez",
+        "Dn"
+      ],
+      "enElNuevoTestamento": {
+        "es": "No aparece directamente, pero 'Babilonia' se convierte en el Nuevo Testamento en símbolo escatológico del poder mundial opuesto a Dios y a su pueblo, finalmente juzgado (Ap 17-18)",
+        "en": "He does not appear directly, but 'Babylon' becomes in the New Testament an eschatological symbol of worldly power opposed to God and his people, ultimately judged (Rev 17-18)",
+        "pt": "Não aparece diretamente, mas 'Babilônia' torna-se no Novo Testamento um símbolo escatológico do poder mundial oposto a Deus e ao seu povo, finalmente julgado (Ap 17-18)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Sedequías",
+        "en": "Zedekiah",
+        "pt": "Zedequias"
+      },
+      "hebreo": "צִדְקִיָּהוּ",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "El último rey davídico de Judá, llamado 'el aliento de nuestras narices, el ungido de Jehová', de quien se decía que a su sombra viviríamos entre las naciones, pero que fue apresado en las trampas del enemigo mientras huía de la ciudad sitiada",
+        "en": "The last Davidic king of Judah, called 'the breath of our nostrils, the LORD's anointed,' of whom it was said that under his shadow we would live among the nations, but who was caught in the enemy's traps while fleeing the besieged city",
+        "pt": "O último rei davídico de Judá, chamado 'o fôlego de nossas narinas, o ungido do Senhor', de quem se dizia que à sua sombra viveríamos entre as nações, mas que foi apanhado nas armadilhas do inimigo enquanto fugia da cidade sitiada"
+      },
+      "acciones": {
+        "es": "Es perseguido en los montes y acechado en el desierto (Lm 4:19), y cae capturado en las fosas del enemigo, precisamente aquel de quien la nación esperaba vivir bajo su sombra entre las naciones (Lm 4:20)",
+        "en": "He is pursued on the mountains and lain in wait for in the wilderness (Lam 4:19), and falls captured in the enemy's pits — precisely the one under whose shadow the nation expected to live among the nations (Lam 4:20)",
+        "pt": "É perseguido nos montes e espreitado no deserto (Lm 4:19), e cai capturado nas covas do inimigo — precisamente aquele sob cuja sombra a nação esperava viver entre as nações (Lm 4:20)"
+      },
+      "significadoTeologico": {
+        "es": "Su captura y ceguera representan la aparente crisis del pacto davídico: el ungido de Jehová es humillado y su linaje interrumpido en el trono, lo cual intensifica la expectativa mesiánica de un Ungido definitivo que Dios mismo sostendrá para siempre",
+        "en": "His capture and blinding represent the apparent crisis of the Davidic covenant: the LORD's anointed is humiliated and his line interrupted on the throne, which intensifies the messianic expectation of a definitive Anointed One whom God himself will uphold forever",
+        "pt": "Sua captura e cegueira representam a aparente crise do pacto davídico: o ungido do Senhor é humilhado e sua linhagem interrompida no trono, o que intensifica a expectativa messiânica de um Ungido definitivo que o próprio Deus sustentará para sempre"
+      },
+      "tipo": {
+        "es": "Funciona como anti-tipo: el rey davídico fallido y cegado cuyo colapso resalta por contraste la necesidad del verdadero Ungido, quien reinaría para siempre sin ser vencido por sus enemigos (Sal 2:2-6; Lc 1:32-33)",
+        "en": "He functions as an anti-type: the failed and blinded Davidic king whose collapse highlights by contrast the need for the true Anointed One, who would reign forever without being overcome by his enemies (Ps 2:2-6; Luke 1:32-33)",
+        "pt": "Funciona como um anti-tipo: o rei davídico fracassado e cegado cujo colapso destaca por contraste a necessidade do verdadeiro Ungido, que reinaria para sempre sem ser vencido por seus inimigos (Sl 2:2-6; Lc 1:32-33)"
+      },
+      "caracterMoral": {
+        "es": "Rey vacilante que quebrantó su juramento de vasallaje a Babilonia hecho en nombre de Jehová (2Cr 36:13), cuya debilidad moral y política contribuyó a la catástrofe final de Jerusalén",
+        "en": "A vacillating king who broke his oath of vassalage to Babylon made in the LORD's name (2Chr 36:13), whose moral and political weakness contributed to Jerusalem's final catastrophe",
+        "pt": "Rei vacilante que quebrou seu juramento de vassalagem à Babilônia feito em nome do Senhor (2Cr 36:13), cuja fraqueza moral e política contribuiu para a catástrofe final de Jerusalém"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Identificado como 'el ungido de Jehová' bajo cuya sombra la nación esperaba vivir entre las naciones, fue apresado en las fosas cavadas por los enemigos que lo perseguían en los montes (Lm 4:19-20); el relato paralelo narra su captura en las llanuras de Jericó, la muerte de sus hijos ante sus ojos y su posterior ceguera (2R 25:4-7; Jer 39:4-7; Jer 52:8-11)",
+          "en": "Identified as 'the LORD's anointed' under whose shadow the nation expected to live among the nations, he was caught in the pits dug by the enemies pursuing him on the mountains (Lam 4:19-20); the parallel account narrates his capture on the plains of Jericho, the killing of his sons before his eyes, and his subsequent blinding (2Kgs 25:4-7; Jer 39:4-7; Jer 52:8-11)",
+          "pt": "Identificado como 'o ungido do Senhor' sob cuja sombra a nação esperava viver entre as nações, foi capturado nas covas cavadas pelos inimigos que o perseguiam nos montes (Lm 4:19-20); o relato paralelo narra sua captura nas planícies de Jericó, a morte de seus filhos diante de seus olhos e sua posterior cegueira (2Rs 25:4-7; Jr 39:4-7; Jr 52:8-11)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Lm 4:19",
+          "Lm 4:20",
+          "2R 25:6-7"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Sedequías (Matanías), tercer hijo de Josías, fue instalado como rey vasallo por Nabucodonosor tras la deportación de Joaquín en 597 a.C.; su rebelión posterior provocó el sitio final y su captura está confirmada indirectamente por las Crónicas Babilónicas y directamente por 2R 25 y Jer 52",
+          "en": "Zedekiah (Mattaniah), third son of Josiah, was installed as a vassal king by Nebuchadnezzar after Jehoiachin's deportation in 597 BC; his subsequent rebellion provoked the final siege, and his capture is confirmed indirectly by the Babylonian Chronicles and directly by 2Kgs 25 and Jer 52",
+          "pt": "Zedequias (Matanias), terceiro filho de Josias, foi instalado como rei vassalo por Nabucodonosor após a deportação de Joaquim em 597 a.C.; sua rebelião subsequente provocou o cerco final, e sua captura é confirmada indiretamente pelas Crônicas Babilônicas e diretamente por 2Rs 25 e Jr 52"
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología real",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Plenamente consistente con el relato narrativo de 2R 25 y Jer 39,52, que amplían con detalle lo que Lamentaciones evoca de forma más breve y poética",
+          "en": "Fully consistent with the narrative account of 2Kgs 25 and Jer 39,52, which expand in detail what Lamentations evokes more briefly and poetically",
+          "pt": "Plenamente consistente com o relato narrativo de 2Rs 25 e Jr 39,52, que ampliam em detalhe o que Lamentações evoca de forma mais breve e poética"
+        }
+      },
+      "versiculosAsociados": [
+        "Lm 4:19-20"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "2Cr",
+        "Jer",
+        "Ez"
+      ],
+      "enElNuevoTestamento": {
+        "es": "No aparece directamente, pero su fracaso como 'ungido' davídico agudiza la expectativa neotestamentaria del verdadero Rey davídico cuyo trono no tendrá fin (Lc 1:32-33)",
+        "en": "He does not appear directly, but his failure as Davidic 'anointed one' sharpens the New Testament expectation of the true Davidic King whose throne will have no end (Luke 1:32-33)",
+        "pt": "Não aparece diretamente, mas seu fracasso como 'ungido' davídico aguça a expectativa neotestamentária do verdadeiro Rei davídico cujo trono não terá fim (Lc 1:32-33)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Hija de Edom",
+        "en": "Daughter of Edom",
+        "pt": "Filha de Edom"
+      },
+      "hebreo": "בַּת־אֱדוֹם",
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        4
+      ],
+      "descripcion": {
+        "es": "Nación vecina y parienta de Judá que se regocijó y burló ante la caída de Jerusalén, dirigida irónicamente a 'gozarse y alegrarse' porque también a ella le llegará su copa de juicio",
+        "en": "A neighboring nation and kinsman of Judah that rejoiced and mocked at Jerusalem's fall, addressed ironically to 'rejoice and be glad,' for her own cup of judgment will come too",
+        "pt": "Nação vizinha e parente de Judá que se regozijou e zombou da queda de Jerusalém, dirigida ironicamente a 'regozijar-se e alegrar-se', pois também a ela chegará seu cálice de juízo"
+      },
+      "acciones": {
+        "es": "Es invitada con amarga ironía a regocijarse mientras aún puede, pues la copa de la ira pasará también a ella y su desnudez será descubierta (Lm 4:21-22)",
+        "en": "She is invited with bitter irony to rejoice while she still can, for the cup of wrath will pass to her as well and her nakedness will be uncovered (Lam 4:21-22)",
+        "pt": "É convidada com amarga ironia a se regozijar enquanto ainda pode, pois o cálice da ira passará também a ela e sua nudez será descoberta (Lm 4:21-22)"
+      },
+      "significadoTeologico": {
+        "es": "Ilustra que el juicio de Dios sobre su propio pueblo pactual no exime a las naciones que se regocijan en la caída ajena; la justicia divina alcanza también a quienes se solazan con el sufrimiento del pueblo de Dios",
+        "en": "She illustrates that God's judgment on his own covenant people does not exempt nations who rejoice over another's downfall; divine justice reaches also those who gloat over the suffering of God's people",
+        "pt": "Ilustra que o juízo de Deus sobre seu próprio povo pactual não isenta as nações que se regozijam com a queda alheia; a justiça divina alcança também os que se comprazem com o sofrimento do povo de Deus"
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; representa a las naciones del mundo que se regocijan ante la caída del pueblo de Dios y que, por ello mismo, quedan expuestas al juicio venidero",
+        "en": "She does not function as a type of Christ; she represents the nations of the world that rejoice over the fall of God's people and, precisely for that reason, are exposed to coming judgment",
+        "pt": "Não funciona como tipo de Cristo; representa as nações do mundo que se regozijam com a queda do povo de Deus e que, por isso mesmo, ficam expostas ao juízo vindouro"
+      },
+      "caracterMoral": {
+        "es": "Culpable de crueldad fraterna y schadenfreude —se regocija en la desgracia de un pariente (descendiente de Esaú, hermano de Jacob)— lo que agrava su responsabilidad moral ante Dios",
+        "en": "Guilty of fraternal cruelty and schadenfreude — she rejoices over the misfortune of a kinsman (descendant of Esau, brother of Jacob) — which aggravates her moral responsibility before God",
+        "pt": "Culpada de crueldade fraterna e schadenfreude — regozija-se com a desgraça de um parente (descendente de Esaú, irmão de Jacó) — o que agrava sua responsabilidade moral diante de Deus"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Se le ordena con ironía 'gozarse y alegrarse' porque aún no le ha llegado su turno, pero se le anuncia que la copa pasará también a ella, que se embriagará y se desnudará, y que su iniquidad será castigada y su pecado descubierto (Lm 4:21-22)",
+          "en": "She is ironically told to 'rejoice and be glad' because her turn has not yet come, but it is announced that the cup will pass to her as well, that she will become drunk and strip herself bare, and that her iniquity will be punished and her sin uncovered (Lam 4:21-22)",
+          "pt": "É ironicamente ordenada a 'regozijar-se e alegrar-se' porque ainda não chegou sua vez, mas é anunciado que o cálice passará também a ela, que se embriagará e se desnudará, e que sua iniquidade será castigada e seu pecado descoberto (Lm 4:21-22)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Lm 4:21",
+          "Lm 4:22"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Edom, reino vasallo activo en el Néguev sureste durante el s. VI a.C., es atestiguado en ostraca y registros egipcios y asirios; su participación en el saqueo de Judá y su juicio posterior son también denunciados en Abd 1:10-14 y Ez 25:12-14, y su desaparición como entidad política independiente se documenta hacia los ss. V-IV a.C. bajo presión nabatea",
+          "en": "Edom, an active vassal kingdom in the southeastern Negev during the 6th century BC, is attested in ostraca and Egyptian and Assyrian records; its participation in the plunder of Judah and its subsequent judgment are also denounced in Obad 1:10-14 and Ezek 25:12-14, and its disappearance as an independent political entity is documented by the 5th-4th centuries BC under Nabatean pressure",
+          "pt": "Edom, reino vassalo ativo no Negev sudeste durante o século VI a.C., é atestado em ostraca e registros egípcios e assírios; sua participação no saque de Judá e seu juízo subsequente também são denunciados em Ab 1:10-14 e Ez 25:12-14, e seu desaparecimento como entidade política independente é documentado por volta dos séculos V-IV a.C. sob pressão nabateia"
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto histórico",
+              "Relaciones internacionales"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Concuerda con el testimonio profético paralelo de Abdías y Ezequiel, que documentan de forma independiente la participación de Edom en la caída de Judá y anuncian su juicio posterior",
+          "en": "It agrees with the parallel prophetic testimony of Obadiah and Ezekiel, which independently document Edom's participation in Judah's fall and announce her subsequent judgment",
+          "pt": "Concorda com o testemunho profético paralelo de Abdias e Ezequiel, que documentam de forma independente a participação de Edom na queda de Judá e anunciam seu juízo posterior"
+        }
+      },
+      "versiculosAsociados": [
+        "Lm 4:21-22"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Nm",
+        "Abd",
+        "Jer",
+        "Ez",
+        "Am"
+      ],
+      "enElNuevoTestamento": {
+        "es": "No aparece directamente en el Nuevo Testamento",
+        "en": "She does not appear directly in the New Testament",
+        "pt": "Não aparece diretamente no Novo Testamento"
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "Lamentaciones diagnostica la destrucción de Jerusalén como consecuencia directa del pecado pactual: la infidelidad de sus profetas y sacerdotes (Lm 4:13), la rebelión de la nación contra la palabra de Jehová (Lm 1:18,20) y su idolatría acumulada. El libro se niega a tratar el desastre como mero infortunio geopolítico, insistiendo en la responsabilidad moral real del pecado humano como su causa.",
+        "en": "Lamentations diagnoses Jerusalem's destruction as the direct consequence of covenant sin: the unfaithfulness of her prophets and priests (Lam 4:13), the nation's rebellion against the LORD's word (Lam 1:18,20), and her accumulated idolatry. The book refuses to treat the disaster as mere geopolitical misfortune, insisting on the real moral responsibility of human sin as its cause.",
+        "pt": "Lamentações diagnostica a destruição de Jerusalém como consequência direta do pecado pactual: a infidelidade de seus profetas e sacerdotes (Lm 4:13), a rebelião da nação contra a palavra do Senhor (Lm 1:18,20) e sua idolatria acumulada. O livro se recusa a tratar o desastre como mero infortúnio geopolítico, insistindo na responsabilidade moral real do pecado humano como sua causa."
+      },
+      "pasajes": [
+        "Lm 1:8",
+        "Lm 1:18",
+        "Lm 3:39-40",
+        "Lm 4:13"
+      ],
+      "ensenanza": {
+        "es": "Jerusalén ha cometido un grave pecado, por eso se ha convertido en cosa inmunda · Jehová es justo, porque yo me rebelé contra su palabra · Ningún viviente debería quejarse, siendo así castigado por sus propios pecados · A causa de los pecados de sus profetas y las iniquidades de sus sacerdotes se derramó sangre justa en medio de ella",
+        "en": "Jerusalem sinned grievously, therefore she has become filthy · The LORD is righteous, for I have rebelled against his word · No living man should complain, since he is punished for his own sins · For the sins of her prophets and the iniquities of her priests, the blood of the righteous was shed in her midst",
+        "pt": "Jerusalém pecou gravemente, por isso se tornou coisa imunda · O Senhor é justo, pois me rebelei contra sua palavra · Nenhum vivente deveria queixar-se, sendo assim castigado por seus próprios pecados · Por causa dos pecados de seus profetas e das iniquidades de seus sacerdotes derramou-se sangue justo no meio dela"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada del pecado insiste en que ni siquiera el pueblo elegido de Dios está exento de la disciplina pactual cuando persiste en la rebelión; Lamentaciones modela un lamento que reconoce plenamente la justicia del juicio divino sin diluir la gravedad del pecado en excusas circunstanciales.",
+        "en": "Reformed theology of sin insists that not even God's chosen people are exempt from covenant discipline when they persist in rebellion; Lamentations models a lament that fully acknowledges the justice of divine judgment without diluting the gravity of sin into circumstantial excuses.",
+        "pt": "A teologia reformada do pecado insiste que nem mesmo o povo eleito de Deus está isento da disciplina pactual quando persiste na rebelião; Lamentações modela um lamento que reconhece plenamente a justiça do juízo divino sem diluir a gravidade do pecado em desculpas circunstanciais."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "El libro describe a Jehová actuando personal y directamente en el juicio: 'ha tensado su arco como enemigo' (Lm 2:4) y 'ha cumplido su palabra que había ordenado desde tiempos antiguos' (Lm 2:17), lo que implica que incluso el imperio pagano de Babilonia opera bajo su decreto soberano. Nada —bien o mal— procede sin que lo mande el Altísimo (Lm 3:37-38).",
+        "en": "The book describes the LORD acting personally and directly in judgment: he 'has bent his bow like an enemy' (Lam 2:4) and 'has done what he purposed; he has fulfilled his word, which he commanded long ago' (Lam 2:17), implying that even the pagan empire of Babylon operates under his sovereign decree. Nothing — good or bad — proceeds except at the command of the Most High (Lam 3:37-38).",
+        "pt": "O livro descreve o Senhor agindo pessoal e diretamente no juízo: ele 'armou o seu arco como inimigo' (Lm 2:4) e 'cumpriu a sua palavra que ordenara desde os dias antigos' (Lm 2:17), o que implica que até o império pagão da Babilônia opera sob seu decreto soberano. Nada — bem ou mal — procede sem que o Altíssimo o mande (Lm 3:37-38)."
+      },
+      "pasajes": [
+        "Lm 2:4",
+        "Lm 2:17",
+        "Lm 3:37-38"
+      ],
+      "ensenanza": {
+        "es": "Jehová mismo actúa como enemigo, tensando su arco contra la hija de Sion · Jehová ha cumplido su palabra que había ordenado desde tiempos antiguos, sin tener piedad · Nada sucede sin que lo mande el Altísimo, sea bien o mal",
+        "en": "The LORD himself acts as an enemy, bending his bow against the daughter of Zion · The LORD has fulfilled his word which he commanded long ago, without pity · Nothing happens except at the command of the Most High, whether good or ill",
+        "pt": "O próprio Senhor age como inimigo, armando seu arco contra a filha de Sião · O Senhor cumpriu sua palavra que ordenara desde os dias antigos, sem piedade · Nada acontece sem que o Altíssimo o mande, seja bem ou mal"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la providencia afirma la soberanía meticulosa de Dios incluso sobre la calamidad (cf. Cap. 5 de la Confesión de Westminster), sin hacerlo autor del pecado; Babilonia permanece moralmente culpable aun siendo instrumento del decreto justo de Dios.",
+        "en": "Reformed doctrine of providence affirms God's meticulous sovereignty even over calamity (cf. WCF ch. 5), without making him the author of sin; Babylon remains morally culpable even while being an instrument of God's just decree.",
+        "pt": "A doutrina reformada da providência afirma a soberania meticulosa de Deus até mesmo sobre a calamidade (cf. Cap. 5 da Confissão de Westminster), sem torná-lo autor do pecado; a Babilônia permanece moralmente culpada mesmo sendo instrumento do decreto justo de Deus."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "El sufrimiento descrito a lo largo del libro es la ejecución de las maldiciones pactuales anunciadas en Dt 28 (sitio, hambre, exilio, humillación del rey), pero el mismo marco pactual que amenazó maldiciones fundamenta también la esperanza declarada en el capítulo 3: el amor inagotable (hesed) de Jehová nunca cesa. El libro entero solo es inteligible dentro de categorías pactuales.",
+        "en": "The suffering described throughout the book is the execution of the covenant curses announced in Deut 28 (siege, famine, exile, the king's humiliation), yet the same covenant framework that threatened curses also grounds the hope declared in chapter 3: the LORD's steadfast love (hesed) never ceases. The entire book is intelligible only within covenant categories.",
+        "pt": "O sofrimento descrito ao longo do livro é a execução das maldições pactuais anunciadas em Dt 28 (cerco, fome, exílio, humilhação do rei), mas o mesmo arcabouço pactual que ameaçou maldições também fundamenta a esperança declarada no capítulo 3: o amor inesgotável (hesed) do Senhor nunca cessa. O livro inteiro só é inteligível dentro de categorias pactuais."
+      },
+      "pasajes": [
+        "Lm 1:3",
+        "Lm 2:17",
+        "Lm 3:22-23",
+        "Lm 5:19-21"
+      ],
+      "ensenanza": {
+        "es": "Judá ha ido en cautiverio a causa de la aflicción y dura servidumbre · Jehová ha cumplido su palabra que había mandado desde tiempos antiguos · Las misericordias de Jehová nunca terminan; nuevas son cada mañana, grande es su fidelidad · Tú, oh Jehová, permaneces para siempre; tu trono de generación en generación",
+        "en": "Judah has gone into captivity because of affliction and hard servitude · The LORD has fulfilled his word which he commanded long ago · The LORD's mercies never end; they are new every morning, great is your faithfulness · You, O LORD, reign forever; your throne endures to all generations",
+        "pt": "Judá foi para o cativeiro por causa da aflição e da dura servidão · O Senhor cumpriu sua palavra que ordenara desde os dias antigos · As misericórdias do Senhor nunca têm fim; são novas cada manhã, grande é a tua fidelidade · Tu, Senhor, permaneces para sempre; teu trono, de geração em geração"
+      },
+      "distintivaReformada": {
+        "es": "La teología del pacto lee las maldiciones de Lamentaciones y su afirmación central de la hesed divina como dos caras del mismo marco pactual inquebrantable, en el que disciplina y amor inagotable no se contradicen sino que expresan conjuntamente la fidelidad pactual de Dios (cf. Cap. 7 de la Confesión de Westminster).",
+        "en": "Covenant theology reads Lamentations' curses and its central affirmation of divine hesed as two sides of the same unbreakable covenant framework, in which discipline and steadfast love are not contradictory but jointly express God's covenant faithfulness (cf. WCF ch. 7).",
+        "pt": "A teologia do pacto lê as maldições de Lamentações e sua afirmação central da hesed divina como dois lados do mesmo arcabouço pactual inquebrantável, no qual disciplina e amor inesgotável não se contradizem, mas expressam conjuntamente a fidelidade pactual de Deus (cf. Cap. 7 da Confissão de Westminster)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "El libro presenta a Dios simultáneamente como juez justo (Lm 1:18), como aquel que 'no aflige de buena gana' (Lm 3:33), y como compasivo, cuyas misericordias son nuevas cada mañana (Lm 3:22-23), sosteniendo juntas justicia y compasión sin contradicción.",
+        "en": "The book presents God simultaneously as righteous judge (Lam 1:18), as one who 'does not willingly afflict' (Lam 3:33), and as compassionate, whose mercies are new every morning (Lam 3:22-23), holding justice and compassion together without contradiction.",
+        "pt": "O livro apresenta Deus simultaneamente como juiz justo (Lm 1:18), como aquele que 'não aflige de bom grado' (Lm 3:33), e como compassivo, cujas misericórdias são novas cada manhã (Lm 3:22-23), sustentando juntas justiça e compaixão sem contradição."
+      },
+      "pasajes": [
+        "Lm 1:18",
+        "Lm 3:22-23",
+        "Lm 3:32-33"
+      ],
+      "ensenanza": {
+        "es": "Jehová es justo, pues me rebelé contra su palabra · Las misericordias de Jehová nunca terminan; grande es su fidelidad · Aunque él aflige, también se compadece según la abundancia de sus misericordias, pues no aflige de buena gana ni entristece a los hijos de los hombres",
+        "en": "The LORD is righteous, for I have rebelled against his word · The LORD's mercies never end; great is his faithfulness · Though he afflicts, he also has compassion according to the abundance of his steadfast love, for he does not afflict willingly nor grieve the children of men",
+        "pt": "O Senhor é justo, pois me rebelei contra sua palavra · As misericórdias do Senhor nunca têm fim; grande é a sua fidelidade · Ainda que aflija, também se compadece segundo a abundância de suas misericórdias, pois não aflige de bom grado nem entristece os filhos dos homens"
+      },
+      "distintivaReformada": {
+        "es": "La teología propia reformada insiste en que la justicia y la misericordia de Dios no son atributos en competencia que requieran reconciliación, sino que coexisten eternamente en su carácter simple y unificado, ambos plenamente expresados en su trato con Jerusalén.",
+        "en": "Reformed theology proper insists that God's justice and mercy are not competing attributes needing reconciliation but coexist eternally in his simple, unified character, both fully expressed in his dealings with Jerusalem.",
+        "pt": "A teologia própria reformada insiste que a justiça e a misericórdia de Deus não são atributos concorrentes que precisem de reconciliação, mas coexistem eternamente em seu caráter simples e unificado, ambos plenamente expressos em seu trato com Jerusalém."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía de Dios"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que Dios, en su providencia ordinaria, hace uso de medios, incluyendo a las naciones y sus reyes, para cumplir sus propósitos justos, sin ser Él mismo autor del pecado de los agentes que emplea. Lamentaciones ilustra esta doctrina de forma extrema: Jehová mismo se describe actuando 'como enemigo' por medio de Babilonia, cumpliendo su palabra decretada desde antiguo, sin que ello exculpe la crueldad moral del agresor humano.",
+        "en": "The Confession teaches that God, in his ordinary providence, makes use of means, including nations and their kings, to fulfill his just purposes, without himself being the author of the sin of the agents he employs. Lamentations illustrates this doctrine in extreme form: the LORD himself is described acting 'as an enemy' through Babylon, fulfilling his word decreed long ago, without this excusing the human aggressor's moral cruelty.",
+        "pt": "A Confissão ensina que Deus, em sua providência ordinária, faz uso de meios, incluindo nações e seus reis, para cumprir seus propósitos justos, sem ser ele mesmo autor do pecado dos agentes que emprega. Lamentações ilustra essa doutrina de forma extrema: o próprio Senhor é descrito agindo 'como inimigo' por meio da Babilônia, cumprindo sua palavra decretada desde a antiguidade, sem que isso desculpe a crueldade moral do agressor humano."
+      },
+      "genesis": [
+        "Lm 2:4",
+        "Lm 2:17",
+        "Lm 3:37-38"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 6",
+      "titulo": {
+        "es": "De la Caída del Hombre, del Pecado y de su Castigo",
+        "en": "Of the Fall of Man, of Sin, and of the Punishment thereof",
+        "pt": "Da Queda do Homem, do Pecado e de seu Castigo"
+      },
+      "doctrinas": [
+        "Hamartiología",
+        "Justicia de Dios"
+      ],
+      "resumen": {
+        "es": "La Confesión afirma que el pecado hace a los pecadores culpables y merecedores de la ira de Dios y de toda miseria en esta vida. Lamentaciones encarna esta doctrina con crudeza pastoral: Jerusalén reconoce que 'grave pecado cometió' y que Jehová 'es justo' en su juicio, negándose a atenuar la responsabilidad moral del pecado pactual tras el desastre nacional.",
+        "en": "The Confession affirms that sin renders sinners guilty and deserving of God's wrath and of all miseries in this life. Lamentations embodies this doctrine with pastoral rawness: Jerusalem acknowledges that she 'sinned grievously' and that the LORD 'is righteous' in his judgment, refusing to soften the moral responsibility of covenant sin behind the national disaster.",
+        "pt": "A Confissão afirma que o pecado torna os pecadores culpados e merecedores da ira de Deus e de toda miséria nesta vida. Lamentações encarna essa doutrina com crueza pastoral: Jerusalém reconhece que 'pecou gravemente' e que o Senhor 'é justo' em seu juízo, recusando-se a atenuar a responsabilidade moral do pecado pactual por trás do desastre nacional."
+      },
+      "genesis": [
+        "Lm 1:8",
+        "Lm 1:18"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-6"
+    },
+    {
+      "cap": "Cap. 15",
+      "titulo": {
+        "es": "Del Arrepentimiento para Vida",
+        "en": "Of Repentance unto Life",
+        "pt": "Do Arrependimento para a Vida"
+      },
+      "doctrinas": [
+        "Arrepentimiento",
+        "Esperanza"
+      ],
+      "resumen": {
+        "es": "La Confesión describe el arrepentimiento como un don evangélico por el cual el pecador, con odio genuino de su pecado, se vuelve a Dios con propósito de nueva obediencia. El llamado central de Lamentaciones —'examinemos nuestros caminos, y volvámonos a Jehová' (Lm 3:40)— y la súplica final de restauración pactual (Lm 5:21) modelan exactamente este movimiento de examen, contrición y retorno esperanzado.",
+        "en": "The Confession describes repentance as an evangelical grace whereby the sinner, out of genuine hatred of his sin, turns to God with purpose of new obedience. The central call of Lamentations — 'let us test and examine our ways, and return to the LORD' (Lam 3:40) — and the final plea for covenant restoration (Lam 5:21) model exactly this movement of examination, contrition, and hopeful return.",
+        "pt": "A Confissão descreve o arrependimento como uma graça evangélica pela qual o pecador, com ódio genuíno de seu pecado, volta-se para Deus com propósito de nova obediência. O chamado central de Lamentações — 'examinemos os nossos caminhos e voltemos para o Senhor' (Lm 3:40) — e a súplica final de restauração pactual (Lm 5:21) modelam exatamente esse movimento de exame, contrição e retorno esperançoso."
+      },
+      "genesis": [
+        "Lm 3:40",
+        "Lm 5:21"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-15"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Lm 3:22-23",
+      "es": "Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad.",
+      "en": "The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.",
+      "pt": "As misericórdias do Senhor são a causa de não sermos consumidos; porque as suas misericórdias não têm falhado. Novas são cada manhã; grande é a tua fidelidade.",
+      "nota": {
+        "es": "El centro teológico exacto del libro (el capítulo intermedio de la estructura quiástica de cinco poemas): en medio de la desesperación más honda, el hablante recuerda deliberadamente el carácter inmutable de Dios y encuentra ahí el único fundamento estable de esperanza.",
+        "en": "The book's exact theological center (the middle chapter of the five-poem chiastic structure): in the depths of despair, the speaker deliberately recalls God's unchanging character and finds there the only stable ground for hope.",
+        "pt": "O centro teológico exato do livro (o capítulo intermediário da estrutura quiástica de cinco poemas): em meio ao desespero mais profundo, o orador lembra deliberadamente o caráter imutável de Deus e encontra ali o único fundamento estável de esperança."
+      }
+    },
+    {
+      "ref": "Lm 1:12",
+      "es": "¿Nada de esto os importa a vosotros que pasáis por el camino? Mirad y ved si hay dolor como el dolor mío que me ha sido infligido, con el cual me ha afligido Jehová el día de su ardiente ira.",
+      "en": "Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow, which was brought upon me, which the LORD inflicted on the day of his fierce anger.",
+      "pt": "Não vos comove isto a vós, todos os que passais pelo caminho? Atendei e vede se há dor semelhante à minha dor, que veio sobre mim, com que o Senhor me afligiu no dia do furor da sua ira.",
+      "nota": {
+        "es": "El grito de la ciudad personificada a los transeúntes indiferentes se convirtió tradicionalmente en un texto litúrgico de Viernes Santo, leído tipológicamente en referencia al sufrimiento de Cristo ante quienes pasaban junto a la cruz sin conmoverse (cf. Mt 27:39).",
+        "en": "The personified city's cry to indifferent passersby traditionally became a Good Friday liturgical text, read typologically in reference to Christ's suffering before those who passed by the cross unmoved (cf. Matt 27:39).",
+        "pt": "O clamor da cidade personificada aos transeuntes indiferentes tornou-se tradicionalmente um texto litúrgico de Sexta-feira Santa, lido tipologicamente em referência ao sofrimento de Cristo diante daqueles que passavam junto à cruz sem se comover (cf. Mt 27:39)."
+      }
+    },
+    {
+      "ref": "Lm 3:1",
+      "es": "Yo soy el hombre que ha visto aflicción bajo la vara de su furor.",
+      "en": "I am the man who has seen affliction under the rod of his wrath.",
+      "pt": "Eu sou o homem que viu a aflição pela vara do seu furor.",
+      "nota": {
+        "es": "Abre el capítulo central del libro con una voz representativa individual que encarna el sufrimiento colectivo, estableciendo el patrón bíblico del sufriente justo/casi-justo cuya aflicción, leída cristológicamente, anticipa de forma imperfecta al Varón de dolores (Is 53:3).",
+        "en": "It opens the book's central chapter with a representative individual voice embodying collective suffering, establishing the biblical pattern of the righteous/near-righteous sufferer whose affliction, read christologically, imperfectly anticipates the Man of Sorrows (Isa 53:3).",
+        "pt": "Abre o capítulo central do livro com uma voz individual representativa que encarna o sofrimento coletivo, estabelecendo o padrão bíblico do sofredor justo/quase-justo cuja aflição, lida cristologicamente, antecipa de forma imperfeita o Varão de dores (Is 53:3)."
+      }
+    },
+    {
+      "ref": "Lm 5:21",
+      "es": "Restáuranos a ti, oh Jehová, y seremos restaurados; renueva nuestros días como en tiempos pasados.",
+      "en": "Restore us to yourself, O LORD, that we may be restored! Renew our days as of old—",
+      "pt": "Converte-nos a ti, Senhor, e seremos convertidos; renova os nossos dias, como já de antes foram.",
+      "nota": {
+        "es": "El versículo penúltimo del libro condensa su teología de la esperanza: la restauración depende enteramente de la iniciativa divina ('restáuranos... y seremos restaurados'), y el libro se niega a fingir una resolución que aún no ha llegado, terminando en súplica abierta.",
+        "en": "The book's penultimate verse condenses its theology of hope: restoration depends entirely on divine initiative ('restore us... that we may be restored'), and the book refuses to feign a resolution that has not yet arrived, ending in open supplication.",
+        "pt": "O penúltimo versículo do livro condensa sua teologia da esperança: a restauração depende inteiramente da iniciativa divina ('converte-nos... e seremos convertidos'), e o livro se recusa a fingir uma resolução que ainda não chegou, terminando em súplica aberta."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Lamentaciones se resiste tanto a un fatalismo que culpa solo a la geopolítica como a una teología del triunfo que exige resolución inmediata del sufrimiento. Sostiene en cambio que el lamento honesto —que reconoce la justicia del juicio divino, protesta el dolor real sin pecar contra Dios, y descansa en su fidelidad pactual inmutable (Lm 3:22-23)— es en sí mismo un acto legítimo y necesario de fe bíblica. El libro entero funciona como un modelo litúrgico autorizado para que la iglesia lamente el pecado, el juicio y el sufrimiento sin abandonar la esperanza fundada en el carácter de Dios.",
+    "en": "The Reformed reading of Lamentations resists both a fatalism that blames mere geopolitics and a theology of triumph that demands immediate resolution of suffering. It holds instead that honest lament — which acknowledges the justice of divine judgment, protests real pain without sinning against God, and rests in his unchanging covenant faithfulness (Lam 3:22-23) — is itself a legitimate and necessary act of biblical faith. The entire book functions as an authorized liturgical model for the church to lament sin, judgment, and suffering without abandoning hope grounded in God's character.",
+    "pt": "A leitura reformada de Lamentações resiste tanto a um fatalismo que culpa apenas a geopolítica quanto a uma teologia do triunfo que exige resolução imediata do sofrimento. Sustenta, em vez disso, que o lamento honesto — que reconhece a justiça do juízo divino, protesta a dor real sem pecar contra Deus, e descansa em sua fidelidade pactual imutável (Lm 3:22-23) — é em si mesmo um ato legítimo e necessário de fé bíblica. O livro inteiro funciona como um modelo litúrgico autorizado para que a igreja lamente o pecado, o juízo e o sofrimento sem abandonar a esperança fundada no caráter de Deus."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "La Ciudad Viuda Llora Sola",
+        "en": "The Widowed City Weeps Alone",
+        "pt": "A Cidade Viúva Chora Sozinha"
+      },
+      "descripcion": {
+        "es": "Jerusalén, antes populosa y grande entre las naciones, se sienta ahora sola como una viuda, llorando amargamente de noche sin nadie que la consuele (Lm 1:1-2). Sus caminos están de duelo, sus sacerdotes gimen y sus vírgenes son afligidas (Lm 1:4). El poeta atribuye la catástrofe directamente al pecado pactual de la ciudad —'grave pecado cometió Jerusalén' (Lm 1:8)— y ella misma confiesa que Jehová es justo, porque se rebeló contra su palabra (Lm 1:18). El capítulo cierra con un clamor a los transeúntes indiferentes para que contemplen si hay dolor semejante al suyo (Lm 1:12), fijando el tono de duelo pactual que recorre todo el libro.",
+        "en": "Jerusalem, once populous and great among the nations, now sits alone like a widow, weeping bitterly in the night with no one to comfort her (Lam 1:1-2). Her roads mourn, her priests groan, and her young women grieve (Lam 1:4). The poet attributes the catastrophe directly to the city's covenant sin — 'Jerusalem sinned grievously' (Lam 1:8) — and she herself confesses that the LORD is righteous, for she rebelled against his word (Lam 1:18). The chapter closes with a cry to indifferent passersby to consider whether there is any sorrow like her own (Lam 1:12), setting the tone of covenant grief that runs through the whole book.",
+        "pt": "Jerusalém, outrora populosa e grande entre as nações, agora se senta sozinha como uma viúva, chorando amargamente de noite sem quem a console (Lm 1:1-2). Seus caminhos estão de luto, seus sacerdotes gemem e suas virgens são afligidas (Lm 1:4). O poeta atribui a catástrofe diretamente ao pecado pactual da cidade — 'Jerusalém pecou gravemente' (Lm 1:8) — e ela mesma confessa que o Senhor é justo, pois se rebelou contra sua palavra (Lm 1:18). O capítulo se encerra com um clamor aos transeuntes indiferentes para que considerem se há dor semelhante à sua (Lm 1:12), fixando o tom de luto pactual que percorre todo o livro."
+      },
+      "eventoClave": {
+        "es": "El reconocimiento confesional de la propia culpa pactual —'Jehová es justo, porque yo me rebelé contra su palabra' (Lm 1:18)— marca el giro teológico decisivo de todo el capítulo.",
+        "en": "The confessional acknowledgment of covenant guilt — 'the LORD is righteous, for I have rebelled against his word' (Lam 1:18) — marks the decisive theological turn of the whole chapter.",
+        "pt": "O reconhecimento confessional da própria culpa pactual — 'o Senhor é justo, pois me rebelei contra sua palavra' (Lm 1:18) — marca o giro teológico decisivo de todo o capítulo."
+      },
+      "versiculoClave": "Lm 1:18",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Dt 28:64",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La dispersión de Judá entre las naciones (Lm 1:3) cumple literalmente la maldición pactual mosaica de ser esparcidos entre todos los pueblos de la tierra.",
+            "en": "Judah's dispersal among the nations (Lam 1:3) literally fulfills the Mosaic covenant curse of being scattered among all the peoples of the earth.",
+            "pt": "A dispersão de Judá entre as nações (Lm 1:3) cumpre literalmente a maldição pactual mosaica de ser espalhado entre todos os povos da terra."
+          }
+        },
+        {
+          "ref": "Lc 19:41",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El llanto de Jerusalén sobre sí misma se refleja siglos después en el llanto de Cristo sobre la misma ciudad ante su juicio venidero.",
+            "en": "Jerusalem's weeping over herself is mirrored centuries later in Christ's weeping over the same city facing her coming judgment.",
+            "pt": "O choro de Jerusalém sobre si mesma se reflete séculos depois no choro de Cristo sobre a mesma cidade diante de seu juízo vindouro."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "El poeta declara sin rodeos que 'grave pecado cometió Jerusalén' (Lm 1:8) y ella misma confiesa la justicia del juicio de Jehová por haberse rebelado contra su palabra (Lm 1:18).",
+            "en": "The poet declares plainly that 'Jerusalem sinned grievously' (Lam 1:8), and she herself confesses the justice of the LORD's judgment for having rebelled against his word (Lam 1:18).",
+            "pt": "O poeta declara sem rodeios que 'Jerusalém pecou gravemente' (Lm 1:8), e ela mesma confessa a justiça do juízo do Senhor por ter se rebelado contra sua palavra (Lm 1:18)."
+          }
+        },
+        "secundarios": [
+          {
+            "Exilio/Desierto": {
+              "es": "Judá ha ido en cautiverio a causa de la aflicción y dura servidumbre, morando entre las naciones sin hallar reposo (Lm 1:3).",
+              "en": "Judah has gone into exile because of affliction and hard servitude, dwelling among the nations without finding rest (Lam 1:3).",
+              "pt": "Judá foi para o exílio por causa da aflição e da dura servidão, habitando entre as nações sem achar descanso (Lm 1:3)."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Jehová Actúa Como Enemigo",
+        "en": "The LORD Acts as Enemy",
+        "pt": "O Senhor Age Como Inimigo"
+      },
+      "descripcion": {
+        "es": "El poeta describe a Jehová mismo actuando como enemigo de su pueblo: ha destruido sin compasión todas las moradas de Jacob (Lm 2:2), ha tensado su arco como adversario (Lm 2:4) y ha derribado su propio tabernáculo como si fuera la choza de un huerto (Lm 2:6). La destrucción del templo y el cese de la fiesta y el sábado en Sion se declaran cumplimiento de una palabra que Jehová 'había ordenado desde tiempos antiguos' (Lm 2:17), de modo que nada del desastre escapa a su decreto soberano. El capítulo también denuncia a los falsos profetas cuyos oráculos vanos no expusieron la iniquidad del pueblo, agravando así la catástrofe (Lm 2:14).",
+        "en": "The poet describes the LORD himself acting as an enemy of his people: he has destroyed without pity all the habitations of Jacob (Lam 2:2), has bent his bow like an adversary (Lam 2:4), and has torn down his own tabernacle like a garden shed (Lam 2:6). The temple's destruction and the cessation of feast and Sabbath in Zion are declared the fulfillment of a word the LORD 'commanded long ago' (Lam 2:17), so that nothing in the disaster escapes his sovereign decree. The chapter also denounces the false prophets whose empty visions failed to expose the people's iniquity, aggravating the catastrophe (Lam 2:14).",
+        "pt": "O poeta descreve o próprio Senhor agindo como inimigo de seu povo: destruiu sem piedade todas as habitações de Jacó (Lm 2:2), armou seu arco como adversário (Lm 2:4) e derrubou seu próprio tabernáculo como se fosse a cabana de um jardim (Lm 2:6). A destruição do templo e a cessação da festa e do sábado em Sião são declaradas cumprimento de uma palavra que o Senhor 'ordenara desde os dias antigos' (Lm 2:17), de modo que nada no desastre escapa ao seu decreto soberano. O capítulo também denuncia os falsos profetas cujas visões vãs não expuseram a iniquidade do povo, agravando assim a catástrofe (Lm 2:14)."
+      },
+      "eventoClave": {
+        "es": "La declaración de que Jehová 'ha cumplido su palabra que había ordenado desde tiempos antiguos' (Lm 2:17) interpreta el desastre no como caos sino como el cumplimiento preciso del juicio pactual anunciado.",
+        "en": "The declaration that the LORD 'has fulfilled his word which he commanded long ago' (Lam 2:17) interprets the disaster not as chaos but as the precise fulfillment of the announced covenant judgment.",
+        "pt": "A declaração de que o Senhor 'cumpriu a sua palavra que ordenara desde os dias antigos' (Lm 2:17) interpreta o desastre não como caos, mas como o cumprimento preciso do juízo pactual anunciado."
+      },
+      "versiculoClave": "Lm 2:17",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Lv 26:31",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La desolación del santuario (Lm 2:6-7) cumple la maldición mosaica de que Jehová asolaría los santuarios de su pueblo si persistían en la rebelión.",
+            "en": "The desolation of the sanctuary (Lam 2:6-7) fulfills the Mosaic curse that the LORD would lay waste his people's sanctuaries if they persisted in rebellion.",
+            "pt": "A desolação do santuário (Lm 2:6-7) cumpre a maldição mosaica de que o Senhor assolaria os santuários de seu povo se persistissem na rebelião."
+          }
+        },
+        {
+          "ref": "Jer 23:16",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La denuncia de los profetas que vieron visiones vanas y engañosas (Lm 2:14) repite la acusación que Jeremías ya había hecho contra ellos antes de la caída de la ciudad.",
+            "en": "The denunciation of prophets who saw false and deceptive visions (Lam 2:14) repeats the charge Jeremiah had already made against them before the city's fall.",
+            "pt": "A denúncia dos profetas que viram visões vãs e enganosas (Lm 2:14) repete a acusação que Jeremias já havia feito contra eles antes da queda da cidade."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "Jehová mismo se describe actuando 'como enemigo' (Lm 2:4-5), destruyendo sin compasión (Lm 2:2,17,21) y cumpliendo el juicio que había decretado desde tiempos antiguos (Lm 2:17).",
+            "en": "The LORD himself is described acting 'like an enemy' (Lam 2:4-5), destroying without pity (Lam 2:2,17,21) and fulfilling the judgment he had decreed long ago (Lam 2:17).",
+            "pt": "O próprio Senhor é descrito agindo 'como inimigo' (Lm 2:4-5), destruindo sem piedade (Lm 2:2,17,21) e cumprindo o juízo que decretara desde os dias antigos (Lm 2:17)."
+          }
+        },
+        "secundarios": [
+          {
+            "Templo/Tabernáculo": {
+              "es": "Jehová ha derribado su propio tabernáculo como una choza de huerto y ha hecho olvidar en Sion la fiesta solemne y el sábado (Lm 2:6).",
+              "en": "The LORD has torn down his own tabernacle like a garden shed and has caused feast and Sabbath to be forgotten in Zion (Lam 2:6).",
+              "pt": "O Senhor derrubou seu próprio tabernáculo como uma cabana de jardim e fez esquecer em Sião a festa solene e o sábado (Lm 2:6)."
+            }
+          },
+          {
+            "Profeta/Profecía": {
+              "es": "Los profetas de Jerusalén vieron para ella visiones falsas e insulsas, sin exponer su iniquidad para impedir su cautiverio (Lm 2:14).",
+              "en": "Jerusalem's prophets saw for her false and worthless visions, failing to expose her iniquity to avert her captivity (Lam 2:14).",
+              "pt": "Os profetas de Jerusalém viram para ela visões falsas e insossas, sem expor sua iniquidade para impedir seu cativeiro (Lm 2:14)."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Grande Es Tu Fidelidad",
+        "en": "Great Is Your Faithfulness",
+        "pt": "Grande É a Tua Fidelidade"
+      },
+      "descripcion": {
+        "es": "En el corazón estructural del libro, un hablante individual —'el hombre que ha visto aflicción bajo la vara de su furor' (Lm 3:1)— describe su sufrimiento personal con imágenes de oscuridad, cerco y amargura (Lm 3:2-15). El capítulo gira decisivamente cuando el hablante 'trae esto a la memoria' (Lm 3:21) y confiesa que las misericordias de Jehová nunca terminan, que son nuevas cada mañana, y que 'grande es tu fidelidad' (Lm 3:22-23). Declara que es bueno esperar en silencio la salvación de Jehová (Lm 3:25-26) y que Dios no aflige de buena gana a los hijos de los hombres (Lm 3:33). Cierra con un llamado a examinar los caminos propios y volver a Jehová (Lm 3:40-41).",
+        "en": "At the book's structural heart, an individual speaker — 'the man who has seen affliction under the rod of his wrath' (Lam 3:1) — describes his personal suffering with images of darkness, siege, and bitterness (Lam 3:2-15). The chapter turns decisively when the speaker 'calls this to mind' (Lam 3:21) and confesses that the LORD's mercies never end, that they are new every morning, and that 'great is your faithfulness' (Lam 3:22-23). He declares it good to wait quietly for the LORD's salvation (Lam 3:25-26) and that God does not afflict the children of men willingly (Lam 3:33). It closes with a call to examine one's own ways and return to the LORD (Lam 3:40-41).",
+        "pt": "No coração estrutural do livro, um orador individual — 'o homem que viu a aflição pela vara do seu furor' (Lm 3:1) — descreve seu sofrimento pessoal com imagens de escuridão, cerco e amargura (Lm 3:2-15). O capítulo gira decisivamente quando o orador 'traz isso à memória' (Lm 3:21) e confessa que as misericórdias do Senhor nunca têm fim, que são novas cada manhã, e que 'grande é a tua fidelidade' (Lm 3:22-23). Declara que é bom esperar em silêncio a salvação do Senhor (Lm 3:25-26) e que Deus não aflige de bom grado os filhos dos homens (Lm 3:33). Encerra com um chamado a examinar os próprios caminhos e voltar ao Senhor (Lm 3:40-41)."
+      },
+      "eventoClave": {
+        "es": "El giro de la desesperación a la esperanza mediante el acto deliberado de 'traer esto a la memoria' (Lm 3:21) —el recuerdo activo del carácter fiel de Dios— constituye el centro teológico de todo el libro.",
+        "en": "The turn from despair to hope through the deliberate act of 'calling this to mind' (Lam 3:21) — the active remembrance of God's faithful character — constitutes the theological center of the entire book.",
+        "pt": "O giro do desespero para a esperança por meio do ato deliberado de 'trazer isso à memória' (Lm 3:21) — a lembrança ativa do caráter fiel de Deus — constitui o centro teológico de todo o livro."
+      },
+      "versiculoClave": "Lm 3:22-23",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 53:3",
+          "tipo": "tipología",
+          "nota": {
+            "es": "'El hombre que ha visto aflicción' (Lm 3:1) prefigura de forma imperfecta al Varón de dolores, experimentado en quebranto, cuyo sufrimiento sería enteramente sustitutivo.",
+            "en": "'The man who has seen affliction' (Lam 3:1) imperfectly prefigures the Man of Sorrows, acquainted with grief, whose suffering would be entirely substitutionary.",
+            "pt": "'O homem que viu a aflição' (Lm 3:1) prefigura de forma imperfeita o Varão de dores, experimentado nos quebrantos, cujo sofrimento seria inteiramente substitutivo."
+          }
+        },
+        {
+          "ref": "2Co 1:20",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La fidelidad de Dios nueva cada mañana (Lm 3:22-23) encuentra su garantía definitiva en Cristo, en quien todas las promesas de Dios son Sí y Amén.",
+            "en": "God's faithfulness, new every morning (Lam 3:22-23), finds its definitive guarantee in Christ, in whom all God's promises are Yes and Amen.",
+            "pt": "A fidelidade de Deus, nova cada manhã (Lm 3:22-23), encontra sua garantia definitiva em Cristo, em quem todas as promessas de Deus são Sim e Amém."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "El hablante confiesa que las misericordias de Jehová nunca terminan y son nuevas cada mañana, declarando 'grande es tu fidelidad' (Lm 3:22-23) como fundamento de su esperanza.",
+            "en": "The speaker confesses that the LORD's mercies never end and are new every morning, declaring 'great is your faithfulness' (Lam 3:22-23) as the foundation of his hope.",
+            "pt": "O orador confessa que as misericórdias do Senhor nunca têm fim e são novas cada manhã, declarando 'grande é a tua fidelidade' (Lm 3:22-23) como fundamento de sua esperança."
+          }
+        },
+        "secundarios": [
+          {
+            "Siervo Sufriente": {
+              "es": "El hablante se identifica como 'el hombre que ha visto aflicción bajo la vara de su furor' (Lm 3:1), llenado de amargura y hecho blanco de escarnio (Lm 3:14).",
+              "en": "The speaker identifies himself as 'the man who has seen affliction under the rod of his wrath' (Lam 3:1), filled with bitterness and made a target of mockery (Lam 3:14).",
+              "pt": "O orador se identifica como 'o homem que viu a aflição pela vara do seu furor' (Lm 3:1), cheio de amargura e feito alvo de escárnio (Lm 3:14)."
+            }
+          },
+          {
+            "Remanente": {
+              "es": "'Por la misericordia de Jehová no hemos sido consumidos' (Lm 3:22) afirma la preservación de un remanente vivo en medio del juicio total sobre la nación.",
+              "en": "'The LORD's mercies never cease, we are not consumed' (Lam 3:22) affirms the preservation of a living remnant amid the nation's total judgment.",
+              "pt": "'As misericórdias do Senhor são a causa de não sermos consumidos' (Lm 3:22) afirma a preservação de um remanescente vivo em meio ao juízo total sobre a nação."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "El Sitio, el Hambre y el Ungido Caído",
+        "en": "The Siege, the Famine, and the Fallen Anointed",
+        "pt": "O Cerco, a Fome e o Ungido Caído"
+      },
+      "descripcion": {
+        "es": "El capítulo contrasta el antiguo esplendor de Sion —comparado al oro puro y a las piedras del santuario (Lm 4:1-2)— con la degradación presente: madres que se vuelven crueles como los avestruces del desierto (Lm 4:3), niños que piden pan sin que nadie se los reparta (Lm 4:4), y el horror extremo de mujeres compasivas que cuecen a sus propios hijos por causa del hambre del sitio (Lm 4:10). El rey davídico, 'el ungido de Jehová', es perseguido y capturado en las fosas del enemigo (Lm 4:19-20), colapso que ni los reyes de la tierra habrían creído posible (Lm 4:12). El capítulo cierra con una advertencia irónica a Edom, que se regocijó ante la caída de Judá: la copa de la ira pasará también a ella (Lm 4:21-22).",
+        "en": "The chapter contrasts Zion's former splendor — likened to pure gold and the stones of the sanctuary (Lam 4:1-2) — with her present degradation: mothers becoming cruel like ostriches of the wilderness (Lam 4:3), children begging for bread with no one to give it (Lam 4:4), and the extreme horror of compassionate women boiling their own children because of the siege's famine (Lam 4:10). The Davidic king, 'the LORD's anointed,' is pursued and caught in the enemy's pits (Lam 4:19-20), a collapse not even the kings of the earth would have believed possible (Lam 4:12). The chapter closes with an ironic warning to Edom, who rejoiced at Judah's fall: the cup of wrath will pass to her as well (Lam 4:21-22).",
+        "pt": "O capítulo contrasta o antigo esplendor de Sião — comparado ao ouro puro e às pedras do santuário (Lm 4:1-2) — com a degradação presente: mães que se tornam cruéis como avestruzes do deserto (Lm 4:3), crianças que pedem pão sem que ninguém lho reparta (Lm 4:4), e o horror extremo de mulheres compassivas que cozem seus próprios filhos por causa da fome do cerco (Lm 4:10). O rei davídico, 'o ungido do Senhor', é perseguido e capturado nas covas do inimigo (Lm 4:19-20), colapso que nem os reis da terra teriam acreditado possível (Lm 4:12). O capítulo se encerra com uma advertência irônica a Edom, que se regozijou com a queda de Judá: o cálice da ira passará também a ela (Lm 4:21-22)."
+      },
+      "eventoClave": {
+        "es": "La captura del 'ungido de Jehová' en las fosas del enemigo (Lm 4:19-20) señala la crisis visible del pacto davídico, justo cuando la nación esperaba vivir bajo su sombra.",
+        "en": "The capture of 'the LORD's anointed' in the enemy's pits (Lam 4:19-20) signals the visible crisis of the Davidic covenant, precisely when the nation expected to live under his shadow.",
+        "pt": "A captura do 'ungido do Senhor' nas covas do inimigo (Lm 4:19-20) sinaliza a crise visível do pacto davídico, justo quando a nação esperava viver sob sua sombra."
+      },
+      "versiculoClave": "Lm 4:20",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Abd 1:10",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El anuncio del juicio venidero sobre Edom por su violencia contra su hermano Jacob (Lm 4:21-22) coincide con la denuncia paralela de Abdías contra la misma nación.",
+            "en": "The announcement of coming judgment on Edom for her violence against her brother Jacob (Lam 4:21-22) matches the parallel denunciation in Obadiah against the same nation.",
+            "pt": "O anúncio do juízo vindouro sobre Edom por sua violência contra seu irmão Jacó (Lm 4:21-22) coincide com a denúncia paralela de Abdias contra a mesma nação."
+          }
+        },
+        {
+          "ref": "Lc 1:32-33",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "La captura y humillación del 'ungido' davídico (Lm 4:20) intensifica por contraste la promesa de un trono davídico definitivo que jamás será derribado.",
+            "en": "The capture and humiliation of the Davidic 'anointed one' (Lam 4:20) intensifies by contrast the promise of a definitive Davidic throne that will never be overthrown.",
+            "pt": "A captura e humilhação do 'ungido' davídico (Lm 4:20) intensifica por contraste a promessa de um trono davídico definitivo que jamais será derrubado."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Maldición": {
+            "es": "El hambre extrema del sitio, que lleva a madres a cocer a sus propios hijos (Lm 4:10), cumple de forma literal la maldición mosaica más extrema pronunciada contra la desobediencia pactual.",
+            "en": "The siege's extreme famine, driving mothers to boil their own children (Lam 4:10), literally fulfills the most extreme Mosaic curse pronounced against covenant disobedience.",
+            "pt": "A fome extrema do cerco, que leva mães a cozerem seus próprios filhos (Lm 4:10), cumpre de forma literal a maldição mosaica mais extrema pronunciada contra a desobediência pactual."
+          }
+        },
+        "secundarios": [
+          {
+            "Realeza/Trono de David": {
+              "es": "'El ungido de Jehová', bajo cuya sombra la nación esperaba vivir entre las naciones, es capturado en las fosas del enemigo (Lm 4:20).",
+              "en": "'The LORD's anointed,' under whose shadow the nation expected to live among the nations, is captured in the enemy's pits (Lam 4:20).",
+              "pt": "'O ungido do Senhor', sob cuja sombra a nação esperava viver entre as nações, é capturado nas covas do inimigo (Lm 4:20)."
+            }
+          },
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La advertencia irónica a la hija de Edom de que la copa de la ira pasará también a ella (Lm 4:21-22) extiende el juicio divino más allá de Judá.",
+              "en": "The ironic warning to the daughter of Edom that the cup of wrath will pass to her as well (Lam 4:21-22) extends divine judgment beyond Judah.",
+              "pt": "A advertência irônica à filha de Edom de que o cálice da ira passará também a ela (Lm 4:21-22) estende o juízo divino além de Judá."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "titulo": {
+        "es": "Oración por Restauración",
+        "en": "A Prayer for Restoration",
+        "pt": "Oração por Restauração"
+      },
+      "descripcion": {
+        "es": "El libro cierra con una oración comunitaria en primera persona plural que recuenta la humillación presente: heredad perdida, orfandad, viudez, trabajo forzado y hambre (Lm 5:2-10), confesando que 'nuestros padres pecaron... y nosotros llevamos su castigo' (Lm 5:7), sin eximir a la generación presente de su propia culpa (Lm 5:16). A pesar de la desolación, la oración se ancla en la soberanía eterna de Jehová: 'tú, oh Jehová, permaneces para siempre; tu trono de generación en generación' (Lm 5:19). El libro termina con la súplica 'restáuranos a ti, oh Jehová, y seremos restaurados' (Lm 5:21), sin resolución narrada, cerrando en una pregunta abierta que reconoce la posibilidad del rechazo continuado de Dios (Lm 5:22).",
+        "en": "The book closes with a communal first-person-plural prayer recounting the present humiliation: lost inheritance, orphanhood, widowhood, forced labor, and hunger (Lam 5:2-10), confessing that 'our fathers sinned... and we bear their punishment' (Lam 5:7), without exempting the present generation from its own guilt (Lam 5:16). Despite the desolation, the prayer anchors itself in the LORD's eternal sovereignty: 'you, O LORD, reign forever; your throne endures to all generations' (Lam 5:19). The book ends with the plea 'restore us to yourself, O LORD, that we may be restored' (Lam 5:21), with no narrated resolution, closing on an open question acknowledging the possibility of God's continued rejection (Lam 5:22).",
+        "pt": "O livro se encerra com uma oração comunitária em primeira pessoa do plural que recorda a humilhação presente: herança perdida, orfandade, viuvez, trabalho forçado e fome (Lm 5:2-10), confessando que 'nossos pais pecaram... e nós levamos o seu castigo' (Lm 5:7), sem isentar a geração presente de sua própria culpa (Lm 5:16). Apesar da desolação, a oração se ancora na soberania eterna do Senhor: 'tu, Senhor, permaneces para sempre; teu trono, de geração em geração' (Lm 5:19). O livro termina com a súplica 'converte-nos a ti, Senhor, e seremos convertidos' (Lm 5:21), sem resolução narrada, encerrando-se numa pergunta aberta que reconhece a possibilidade da contínua rejeição de Deus (Lm 5:22)."
+      },
+      "eventoClave": {
+        "es": "La oración termina deliberadamente sin resolución narrada (Lm 5:21-22), enseñando que la fe bíblica puede sostener la súplica no respondida como acto legítimo de esperanza pactual.",
+        "en": "The prayer deliberately ends without narrated resolution (Lam 5:21-22), teaching that biblical faith can sustain unanswered supplication as a legitimate act of covenant hope.",
+        "pt": "A oração termina deliberadamente sem resolução narrada (Lm 5:21-22), ensinando que a fé bíblica pode sustentar a súplica não respondida como um ato legítimo de esperança pactual."
+      },
+      "versiculoClave": "Lm 5:21",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 12:5-6",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "El reconocimiento del castigo merecido junto con la súplica de restauración (Lm 5:7,21) anticipa la doctrina neotestamentaria de que el Señor disciplina a los que ama.",
+            "en": "The acknowledgment of deserved punishment alongside the plea for restoration (Lam 5:7,21) anticipates the New Testament doctrine that the Lord disciplines those he loves.",
+            "pt": "O reconhecimento do castigo merecido junto com a súplica de restauração (Lm 5:7,21) antecipa a doutrina neotestamentária de que o Senhor disciplina aqueles que ama."
+          }
+        },
+        {
+          "ref": "Zac 8:19",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La súplica no resuelta de Lamentaciones encuentra una respuesta parcial generaciones después, cuando Zacarías anuncia que los ayunos de duelo por la caída de Jerusalén se convertirán en fiestas de gozo.",
+            "en": "Lamentations' unresolved plea finds a partial answer generations later, when Zechariah announces that the mourning fasts over Jerusalem's fall will become feasts of joy.",
+            "pt": "A súplica não resolvida de Lamentações encontra uma resposta parcial gerações depois, quando Zacarias anuncia que os jejuns de luto pela queda de Jerusalém se tornarão festas de alegria."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La oración comunitaria apela a la soberanía eterna de Jehová —'tu trono de generación en generación' (Lm 5:19)— y suplica 'restáuranos... y seremos restaurados' (Lm 5:21), apelando directamente a la relación pactual.",
+            "en": "The communal prayer appeals to the LORD's eternal sovereignty — 'your throne endures to all generations' (Lam 5:19) — and pleads 'restore us... that we may be restored' (Lam 5:21), appealing directly to the covenant relationship.",
+            "pt": "A oração comunitária apela à soberania eterna do Senhor — 'teu trono, de geração em geração' (Lm 5:19) — e suplica 'converte-nos... e seremos convertidos' (Lm 5:21), apelando diretamente à relação pactual."
+          }
+        },
+        "secundarios": [
+          {
+            "Exilio/Desierto": {
+              "es": "La comunidad lamenta que su heredad ha pasado a extraños y sus casas a forasteros, habiendo llegado a ser huérfanos sin padre (Lm 5:2-3).",
+              "en": "The community laments that their inheritance has passed to strangers and their homes to foreigners, having become fatherless orphans (Lam 5:2-3).",
+              "pt": "A comunidade lamenta que sua herança passou a estranhos e suas casas a forasteiros, tendo se tornado órfãos sem pai (Lm 5:2-3)."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Lane T. Dennis, Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Estructura acróstica",
+          "Resúmenes de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Acrostic structure",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Estrutura acróstica",
+          "Resumos de capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Publicada por Crossway y editada bajo la supervisión teológica de Wayne Grudem y Lane T. Dennis, esta Biblia de estudio reúne a más de noventa eruditos evangélicos reformados de renombre internacional.",
+          "en": "Published by Crossway and edited under the theological oversight of Wayne Grudem and Lane T. Dennis, this study Bible gathers more than ninety internationally renowned Reformed evangelical scholars.",
+          "pt": "Publicada pela Crossway e editada sob a supervisão teológica de Wayne Grudem e Lane T. Dennis, esta Bíblia de estudo reúne mais de noventa estudiosos evangélicos reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos teológicos e introducciones históricas rigurosas, manteniendo consistentemente una perspectiva reformada confesional a lo largo de toda la Escritura.",
+          "en": "It combines verse-by-verse exegetical notes with theological essays and rigorous historical introductions, consistently maintaining a confessional Reformed perspective throughout all of Scripture.",
+          "pt": "Combina notas exegéticas verso a verso com ensaios teológicos e introduções históricas rigorosas, mantendo consistentemente uma perspectiva reformada confessional em toda a Escritura."
+        },
+        "aportacion": {
+          "es": "Proveyó el análisis de la estructura acróstica de los cinco poemas, el argumento a favor de la autoría jeremiánica tradicional y el marco de la fecha temprana de composición.",
+          "en": "It provided the analysis of the acrostic structure of the five poems, the case for traditional Jeremianic authorship, and the framework for the early date of composition.",
+          "pt": "Forneceu a análise da estrutura acróstica dos cinco poemas, o argumento a favor da autoria jeremiânica tradicional e o quadro da data precoce de composição."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology, Wayne Grudem (1994)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales",
+          "Teología de la providencia"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Theology of providence"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Âncoras confessionais",
+          "Teologia da providência"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017), fundador de Ligonier Ministries y del Reformed Theological Seminary, fue uno de los teólogos reformados más influyentes del siglo XX en el mundo de habla inglesa.",
+          "en": "R.C. Sproul (1939–2017), founder of Ligonier Ministries and Reformed Theological Seminary, was one of the most influential Reformed theologians of the 20th century in the English-speaking world.",
+          "pt": "R.C. Sproul (1939–2017), fundador da Ligonier Ministries e do Reformed Theological Seminary, foi um dos teólogos reformados mais influentes do século XX no mundo de língua inglesa."
+        },
+        "metodo": {
+          "es": "Editó esta Biblia de estudio ligando explícitamente cada libro a la Confesión de Fe de Westminster y a los grandes credos reformados, con notas que priorizan la claridad doctrinal sobre la especulación académica.",
+          "en": "He edited this study Bible by explicitly linking every book to the Westminster Confession of Faith and the great Reformed creeds, with notes that prioritize doctrinal clarity over academic speculation.",
+          "pt": "Editou esta Bíblia de estudo ligando explicitamente cada livro à Confissão de Fé de Westminster e aos grandes credos reformados, com notas que priorizam a clareza doutrinal sobre a especulação acadêmica."
+        },
+        "aportacion": {
+          "es": "Fuente principal para vincular la doctrina de la providencia soberana de Dios sobre el sufrimiento y la doctrina del arrepentimiento en Lamentaciones con los capítulos correspondientes de la Confesión de Fe de Westminster.",
+          "en": "The primary source for linking the doctrine of God's sovereign providence over suffering and the doctrine of repentance in Lamentations to the corresponding chapters of the Westminster Confession of Faith.",
+          "pt": "Fonte principal para vincular a doutrina da providência soberana de Deus sobre o sofrimento e a doutrina do arrependimento em Lamentações aos capítulos correspondentes da Confissão de Fé de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed.), edición en español",
+      "año": 2015,
+      "editorial": "Poiema / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto NBLA",
+          "Notas teológicas en español"
+        ],
+        "en": [
+          "NBLA text",
+          "Spanish-language theological notes"
+        ],
+        "pt": [
+          "Texto NBLA",
+          "Notas teológicas em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición en español de la Reformation Study Bible, adaptada con la versión NBLA (Nueva Biblia de las Américas) y revisada por un equipo de teólogos reformados hispanohablantes.",
+          "en": "The Spanish-language edition of the Reformation Study Bible, adapted with the NBLA version (Nueva Biblia de las Américas) and reviewed by a team of Spanish-speaking Reformed theologians.",
+          "pt": "Edição em espanhol da Reformation Study Bible, adaptada com a versão NBLA (Nueva Biblia de las Américas) e revisada por uma equipe de teólogos reformados hispanofalantes."
+        },
+        "metodo": {
+          "es": "Traduce y contextualiza culturalmente el aparato de notas de Sproul para el lector hispanohablante, preservando la fidelidad doctrinal reformada del original.",
+          "en": "It translates and culturally contextualizes Sproul's note apparatus for the Spanish-speaking reader, preserving the Reformed doctrinal fidelity of the original.",
+          "pt": "Traduz e contextualiza culturalmente o aparato de notas de Sproul para o leitor hispanofalante, preservando a fidelidade doutrinal reformada do original."
+        },
+        "aportacion": {
+          "es": "Fuente del texto bíblico en español (NBLA) usado en todo el registro y de las notas teológicas en español sobre el lamento, la fidelidad de Dios y el pacto.",
+          "en": "The source of the Spanish biblical text (NBLA) used throughout the record and of the Spanish-language theological notes on lament, God's faithfulness, and covenant.",
+          "pt": "Fonte do texto bíblico em espanhol (NBLA) usado em todo o registro e das notas teológicas em espanhol sobre o lamento, a fidelidade de Deus e o pacto."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2015)"
+        ],
+        "url": "https://es.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Providencia",
+          "Teología propia"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Providence",
+          "Theology proper"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Providência",
+          "Teologia própria"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem, profesor de teología y estudios bíblicos en Phoenix Seminary, es uno de los teólogos sistemáticos evangélicos reformados más leídos en el mundo de habla inglesa y española.",
+          "en": "Wayne Grudem, professor of theology and biblical studies at Phoenix Seminary, is one of the most widely read Reformed evangelical systematic theologians in the English- and Spanish-speaking world.",
+          "pt": "Wayne Grudem, professor de teologia e estudos bíblicos no Phoenix Seminary, é um dos teólogos sistemáticos evangélicos reformados mais lidos no mundo de língua inglesa e espanhola."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías clásicas (Bibliología, Teología Propia, Antropología, etc.), fundamentando cada afirmación doctrinal directamente en el texto bíblico citado en extenso.",
+          "en": "He organizes Christian doctrine by classic categories (Bibliology, Theology Proper, Anthropology, etc.), grounding every doctrinal claim directly in the biblical text quoted at length.",
+          "pt": "Organiza a doutrina cristã por categorias clássicas (Bibliologia, Teologia Propriamente Dita, Antropologia, etc.), fundamentando cada afirmação doutrinal diretamente no texto bíblico citado extensamente."
+        },
+        "aportacion": {
+          "es": "Marco doctrinal para clasificar las categorías de teologiaSistematica y para articular la doctrina reformada de la providencia divina sobre el sufrimiento a partir de Lm 3:37-38.",
+          "en": "The doctrinal framework for classifying the teologiaSistematica categories and for articulating the Reformed doctrine of divine providence over suffering from Lam 3:37-38.",
+          "pt": "Quadro doutrinal para classificar as categorias de teologiaSistematica e para articular a doutrina reformada da providência divina sobre o sofrimento a partir de Lm 3:37-38."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)"
+        ],
+        "url": "https://www.thegospelcoalition.org/reviews/systematic-theology-wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949), primer profesor de teología bíblica en Princeton Theological Seminary, es considerado el padre de la disciplina moderna de la teología bíblica reformada.",
+          "en": "Geerhardus Vos (1862–1949), the first professor of biblical theology at Princeton Theological Seminary, is regarded as the father of the modern discipline of Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862–1949), primeiro professor de teologia bíblica no Princeton Theological Seminary, é considerado o pai da disciplina moderna da teologia bíblica reformada."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo orgánico y progresivo de la revelación divina a través de las épocas de la historia redentora, leyendo cada pacto y figura del Antiguo Testamento en su movimiento hacia Cristo.",
+          "en": "He traces the organic, progressive development of divine revelation through the epochs of redemptive history, reading every Old Testament covenant and figure in its movement toward Christ.",
+          "pt": "Traça o desenvolvimento orgânico e progressivo da revelação divina através das épocas da história redentora, lendo cada pacto e figura do Antigo Testamento em seu movimento em direção a Cristo."
+        },
+        "aportacion": {
+          "es": "Marco metodológico para leer 'el hombre que ha visto aflicción' (Lm 3:1) como sombra tipológica del Varón de dolores y para situar el libro en la época de Anticipación Profética.",
+          "en": "The methodological framework for reading 'the man who has seen affliction' (Lam 3:1) as a typological shadow of the Man of Sorrows and for situating the book in the epoch of Prophetic Anticipation.",
+          "pt": "Quadro metodológico para ler 'o homem que viu a aflição' (Lm 3:1) como sombra tipológica do Varão de dores e para situar o livro na época da Antecipação Profética."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Arqueología",
+          "Fuentes ANE"
+        ],
+        "en": [
+          "Historical context",
+          "Archaeology",
+          "ANE sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Arqueologia",
+          "Fontes ANE"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John H. Walton, Victor H. Matthews y Mark W. Chavalas son especialistas en el trasfondo cultural y arqueológico del Antiguo Cercano Oriente, con décadas de docencia en instituciones evangélicas de renombre.",
+          "en": "John H. Walton, Victor H. Matthews, and Mark W. Chavalas are specialists in the cultural and archaeological background of the ancient Near East, with decades of teaching at renowned evangelical institutions.",
+          "pt": "John H. Walton, Victor H. Matthews e Mark W. Chavalas são especialistas no pano de fundo cultural e arqueológico do antigo Oriente Próximo, com décadas de docência em instituições evangélicas de renome."
+        },
+        "metodo": {
+          "es": "Comentan verso por verso citando paralelos documentales y arqueológicos del Cercano Oriente antiguo, iluminando el trasfondo cultural sin comprometer la autoridad del texto bíblico.",
+          "en": "They comment verse by verse, citing documentary and archaeological parallels from the ancient Near East, illuminating the cultural background without compromising the authority of the biblical text.",
+          "pt": "Comentam verso a verso citando paralelos documentais e arqueológicos do antigo Oriente Próximo, iluminando o pano de fundo cultural sem comprometer a autoridade do texto bíblico."
+        },
+        "aportacion": {
+          "es": "Fuente principal para el género mesopotámico de 'lamentos por ciudades' (como el Lamento por Ur), las Cartas de Laquis y el contexto arqueológico general del sitio y caída de Jerusalén.",
+          "en": "The primary source for the Mesopotamian 'city lament' genre (such as the Lament for Ur), the Lachish Letters, and the general archaeological context of Jerusalem's siege and fall.",
+          "pt": "Fonte principal para o gênero mesopotâmico de 'lamentos por cidades' (como o Lamento por Ur), as Cartas de Laquis e o contexto arqueológico geral do cerco e queda de Jerusalém."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. Walter C. Kaiser Jr., Duane Garrett)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Civilizaciones",
+          "Geografía"
+        ],
+        "en": [
+          "Archaeology",
+          "Civilizations",
+          "Geography"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Civilizações",
+          "Geografia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Editada bajo la dirección de Walter C. Kaiser Jr. y Duane Garrett, esta Biblia de estudio reúne artículos y notas de arqueólogos y eruditos bíblicos evangélicos especializados en el Cercano Oriente antiguo.",
+          "en": "Edited under the direction of Walter C. Kaiser Jr. and Duane Garrett, this study Bible gathers articles and notes from archaeologists and evangelical biblical scholars specializing in the ancient Near East.",
+          "pt": "Editada sob a direção de Walter C. Kaiser Jr. e Duane Garrett, esta Bíblia de estudo reúne artigos e notas de arqueólogos e estudiosos bíblicos evangélicos especializados no antigo Oriente Próximo."
+        },
+        "metodo": {
+          "es": "Presenta hallazgos arqueológicos específicos junto a los pasajes bíblicos relevantes, con fotografías, mapas y evaluación crítica de la evidencia material disponible.",
+          "en": "It presents specific archaeological findings alongside the relevant biblical passages, with photographs, maps, and critical evaluation of the available material evidence.",
+          "pt": "Apresenta descobertas arqueológicas específicas ao lado das passagens bíblicas relevantes, com fotografias, mapas e avaliação crítica da evidência material disponível."
+        },
+        "aportacion": {
+          "es": "Confirmó los detalles arqueológicos del estrato de ceniza y el 'Cuarto Quemado' en la Ciudad de David, correlacionando el registro material con el incendio del templo descrito en Lm 2:3-4.",
+          "en": "It confirmed the archaeological details of the ash layer and the 'Burnt Room' in the City of David, correlating the material record with the burning of the temple described in Lam 2:3-4.",
+          "pt": "Confirmou os detalhes arqueológicos da camada de cinzas e do 'Quarto Queimado' na Cidade de Davi, correlacionando o registro material com o incêndio do templo descrito em Lm 2:3-4."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervan.com/p/archaeological-study-bible/"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 1981,
+      "editorial": "Westminster John Knox",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología",
+          "Contexto político",
+          "Caída de Jerusalén"
+        ],
+        "en": [
+          "Chronology",
+          "Political context",
+          "Fall of Jerusalem"
+        ],
+        "pt": [
+          "Cronologia",
+          "Contexto político",
+          "Queda de Jerusalém"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908–1995), profesor de Antiguo Testamento en Union Presbyterian Seminary, escribió una de las historias de Israel más influyentes y ampliamente utilizadas del siglo XX.",
+          "en": "John Bright (1908–1995), professor of Old Testament at Union Presbyterian Seminary, wrote one of the most influential and widely used histories of Israel of the 20th century.",
+          "pt": "John Bright (1908–1995), professor de Antigo Testamento no Union Presbyterian Seminary, escreveu uma das histórias de Israel mais influentes e amplamente utilizadas do século XX."
+        },
+        "metodo": {
+          "es": "Integra la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente con el registro bíblico, reconstruyendo la historia política y social de Israel con rigor académico moderado.",
+          "en": "He integrates archaeological evidence and extrabiblical Near Eastern records with the biblical record, reconstructing Israel's political and social history with measured academic rigor.",
+          "pt": "Integra a evidência arqueológica e os registros extrabíblicos do Oriente Próximo com o registro bíblico, reconstruindo a história política e social de Israel com rigor acadêmico moderado."
+        },
+        "aportacion": {
+          "es": "Fuente principal para la cronología precisa del sitio final de Jerusalén en 586 a.C., la captura de Sedequías y el contexto geopolítico del colapso de Judá ante Babilonia.",
+          "en": "The primary source for the precise chronology of Jerusalem's final siege in 586 BC, Zedekiah's capture, and the geopolitical context of Judah's collapse before Babylon.",
+          "pt": "Fonte principal para a cronologia precisa do cerco final de Jerusalém em 586 a.C., a captura de Zedequias e o contexto geopolítico do colapso de Judá diante da Babilônia."
+        },
+        "obras": [
+          "A History of Israel (1981)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.9,
+    "camposMarcados": [
+      {
+        "campo": "autor.tradicional",
+        "razon": "El texto hebreo de Lamentaciones es anónimo; la atribución a Jeremías descansa en la superscripción de la LXX y la tradición talmúdica, no en una afirmación interna del propio libro. Se mantuvo la autoría tradicional siguiendo la posición reformada, documentando la tensión crítica en autor.nota.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-14"
+      },
+      {
+        "campo": "historiaRedentora.contextoPacto",
+        "razon": "Se seleccionó 'Mosaico' porque las maldiciones ejecutadas a lo largo del libro (sitio, hambre, exilio) son explícitamente las maldiciones del pacto mosaico de Dt 28 y Lv 26, aunque la crisis del rey capturado (Lm 4:20) también toca el pacto davídico de forma secundaria.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-14"
+      },
+      {
+        "campo": "personajes[].Nabucodonosor II.biografiaBiblica",
+        "razon": "El texto de Lamentaciones nunca nombra a Babilonia ni a su rey directamente, refiriéndose solo a 'el enemigo' y 'el adversario'; se incluyó como personaje bajo su nombre histórico reconocido, aclarando explícitamente en la descripción que el libro lo deja deliberadamente anónimo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-14"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "La fecha exacta de composición (inmediatamente después del 586 a.C. frente a una redacción posterior durante el exilio) permanece debatida entre eruditos; la posición reformada favorece la composición temprana por la inmediatez emocional del texto, pero el debate académico no está cerrado.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-14"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-14T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-07-14T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-14T00:00:00Z",
+          "fechaFin": "2026-07-14T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-14T00:00:00Z",
+          "fechaFin": "2026-07-14T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-14T00:00:00Z",
+          "fechaFin": "2026-07-14T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-14T00:00:00Z",
+          "fechaFin": "2026-07-14T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-07-14T00:00:00Z",
+          "fechaFin": "2026-07-14T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

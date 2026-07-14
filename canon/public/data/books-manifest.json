@@ -1115,12 +1115,13 @@
       "ordenCanon": 25,
       "capitulosTotal": 5,
       "divisionColor": "#7D63E3",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Cinco poemas elegíacos que lamentan la destrucción de Jerusalén en el 586 a.C., sosteniendo la esperanza en la fidelidad de Dios en medio de la desolación (Lm 3:22-23).",
         "en": "Five elegiac poems lamenting the destruction of Jerusalem in 586 BC, sustaining hope in God's faithfulness in the midst of desolation (Lam 3:22-23).",
         "pt": "Cinco poemas elegíacos que lamentam a destruição de Jerusalém em 586 a.C., sustentando a esperança na fidelidade de Deus em meio à desolação (Lm 3:22-23)."
-      }
+      },
+      "dataFile": "lamentaciones.json"
     },
     {
       "id": 26,
