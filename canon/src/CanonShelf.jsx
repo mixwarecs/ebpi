@@ -36,6 +36,9 @@ function parseHashStr(raw) {
         view.bottomTab = "timeline";
         view.chapterIdx = null;
       }
+    } else if (mode === "division" && seg1 === "from") {
+      const fromId = parseInt(seg2, 10);
+      if (!isNaN(fromId)) view.fromBook = fromId;
     }
     return { view, lang };
   }
@@ -65,6 +68,9 @@ function buildHash(view, lang) {
     }
     const t = view.tab && view.tab !== "overview" ? `/${view.tab}` : "";
     return `book/${view.id}${t}/${lang}`;
+  }
+  if (view.mode === "division" && view.fromBook != null) {
+    return `division/${view.id}/from/${view.fromBook}/${lang}`;
   }
   return `${view.mode}/${view.id}/${lang}`;
 }
@@ -185,7 +191,7 @@ export default function CanonShelf() {
     history.replaceState(null, "", "#" + buildHash(view, l));
   };
 
-  const openDivision = (id) => navigate({ mode: "division", id });
+  const openDivision = (id, fromBook) => navigate(fromBook != null ? { mode: "division", id, fromBook } : { mode: "division", id });
   const changeTab = (tab) => {
     const next = { ...view, tab };
     setView(next);
@@ -212,6 +218,16 @@ export default function CanonShelf() {
     }
   };
   const goIndex = () => navigate({ mode: "index" });
+  const goToBook = (id) => navigate({ mode: "book", id });
+
+  const readyBooks = activeBooks.filter(b => b.ready);
+  const adjacentReadyBook = (currentId, step) => {
+    if (readyBooks.length === 0) return null;
+    const idx = readyBooks.findIndex(b => b.id === currentId);
+    if (idx === -1) return null;
+    const nextIdx = (idx + step + readyBooks.length) % readyBooks.length;
+    return readyBooks[nextIdx];
+  };
 
   const GRID_COLS = 4;
   const renderRail = (books, side, bookMode = false) => {
@@ -290,6 +306,8 @@ export default function CanonShelf() {
   const activeBook = view.mode === "book" ? activeBooks.find(b => b.id === view.id) : null;
   const isBookOpen = activeBook?.ready;
   const activeBookData = activeBook ? (bookDataCache[activeBook.id] || null) : null;
+  const prevReadyBook = isBookOpen ? adjacentReadyBook(activeBook.id, -1) : null;
+  const nextReadyBook = isBookOpen ? adjacentReadyBook(activeBook.id, 1) : null;
 
   const u = UI[lang];
   let headerSubtitle = u.headerIndex;
@@ -391,6 +409,11 @@ export default function CanonShelf() {
             {isBookOpen ? (
               <BookViewer
                 onBack={goIndex}
+                onPrev={prevReadyBook ? () => goToBook(prevReadyBook.id) : null}
+                onNext={nextReadyBook ? () => goToBook(nextReadyBook.id) : null}
+                prevBook={prevReadyBook}
+                nextBook={nextReadyBook}
+                onDivision={() => openDivision(activeBook.div, activeBook.id)}
                 bookData={activeBookData}
                 globalData={globalData}
                 personasDisplay={personasDisplay}
@@ -424,7 +447,14 @@ export default function CanonShelf() {
             ) : view.mode === "division" ? (
               <div style={S.fullPage}>
                 <div style={S.fullPageInner}>
-                  <DivisionTour division={activeDivById[view.id]} onSelectBook={openBook} onBack={goIndex} lang={lang} />
+                  <DivisionTour
+                    division={activeDivById[view.id]}
+                    onSelectBook={openBook}
+                    onBack={goIndex}
+                    onBackToBook={view.fromBook != null ? () => goToBook(view.fromBook) : null}
+                    fromBook={view.fromBook != null ? activeBooks.find(b => b.id === view.fromBook) : null}
+                    lang={lang}
+                  />
                 </div>
               </div>
             ) : (

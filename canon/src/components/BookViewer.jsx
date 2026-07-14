@@ -10,7 +10,7 @@ import SourcesTab from "./book/SourcesTab";
 import Timeline from "./book/Timeline";
 import ChapterSummaries from "./book/ChapterSummaries";
 
-export default function BookViewer({ onBack, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, divisionColor = GOLD, activeTab = "overview", onTabChange, onBottomTabChange, onChapterChange, manifestBook = null, initialBottomTab = "timeline", initialChapterIdx = null }) {
+export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBook = null, nextBook = null, bookData, globalData, personasDisplay = {}, lang = "es", divisionName, divisionColor = GOLD, activeTab = "overview", onTabChange, onBottomTabChange, onChapterChange, manifestBook = null, initialBottomTab = "timeline", initialChapterIdx = null }) {
   const lv = (t) => linkifyVerses(t, lang);
   const vu = (r) => verseUrl(r, lang);
 
@@ -273,19 +273,33 @@ export default function BookViewer({ onBack, bookData, globalData, personasDispl
       `}</style>
       <div style={GS.topBar(divisionColor)} />
 
-      <div style={{padding:"14px 24px", display:"flex", justifyContent:"center", alignItems:"center"}}>
-        <button onClick={onBack} style={{
-          fontFamily:"'Georgia',serif", fontSize:12, letterSpacing:2, color:"rgba(55,28,8,0.90)",
-          background:hexToRgba(divisionColor, 0.14), border:`1px solid ${hexToRgba(divisionColor, 0.5)}`,
-          borderRadius:20, cursor:"pointer", padding:"6px 16px 6px 12px",
-          display:"inline-flex", alignItems:"center", gap:8,
-          transition:"background 0.15s, border-color 0.15s",
-        }}
-          onMouseEnter={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.28); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.85); }}
-          onMouseLeave={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.14); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.5); }}>
-          {UI[lang].backToShelf}
-        </button>
-      </div>
+      {(() => {
+        const navBtn = (key, label, handler, subLabel) => (
+          <button key={key} onClick={handler} style={{
+            fontFamily:"'Georgia',serif", fontSize:12, letterSpacing:2, color:"rgba(55,28,8,0.90)",
+            background:hexToRgba(divisionColor, 0.14), border:`1px solid ${hexToRgba(divisionColor, 0.5)}`,
+            borderRadius:20, cursor:"pointer", padding: subLabel ? "6px 16px 8px 12px" : "6px 16px 6px 12px",
+            display:"inline-flex", flexDirection:"column", alignItems:"center", gap:2, whiteSpace:"nowrap",
+            transition:"background 0.15s, border-color 0.15s",
+          }}
+            onMouseEnter={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.28); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.85); }}
+            onMouseLeave={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.14); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.5); }}>
+            <span>{label}</span>
+            {subLabel && <span style={{fontSize:13, letterSpacing:0.5, fontWeight:700, fontStyle:"italic", color:"rgba(55,28,8,0.80)"}}>{subLabel}</span>}
+          </button>
+        );
+        const bookSubLabel = (b) => b ? `#${b.id} · ${b[lang] || b.es}` : null;
+        return (
+          <div style={{padding:"14px 24px", display:"flex", justifyContent:"space-between", alignItems:"center", flexWrap:"wrap", gap:10}}>
+            <div>{onPrev && navBtn("prev", UI[lang].prevBook, onPrev, bookSubLabel(prevBook))}</div>
+            <div style={{display:"flex", flexWrap:"wrap", justifyContent:"center", gap:10}}>
+              {navBtn("back", UI[lang].backToShelf, onBack)}
+              {onDivision && navBtn("division", UI[lang].viewDivision, onDivision)}
+            </div>
+            <div>{onNext && navBtn("next", UI[lang].nextBook, onNext, bookSubLabel(nextBook))}</div>
+          </div>
+        );
+      })()}
 
       <header style={GS.header(divisionColor)}>
         <div style={GS.eyebrow}>{UI[lang].eyebrow}</div>

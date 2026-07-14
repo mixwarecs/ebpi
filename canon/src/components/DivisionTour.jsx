@@ -1,14 +1,32 @@
-import { UI, S } from "../constants";
+import { UI, S, hexToRgba } from "../constants";
 import { linkifyVerses, translateRef } from "../utils";
 import VerseLink from "./VerseLink";
 
-export default function DivisionTour({ division: d, onSelectBook, onBack, lang = "es" }) {
+export default function DivisionTour({ division: d, onSelectBook, onBack, onBackToBook, fromBook, lang = "es" }) {
   const lv = (t) => linkifyVerses(t, lang);
   const u = UI[lang];
   const [ov, hi, why, cov, chr, ref, kv, books] = u.divSections;
+  const navButtons = [
+    ["back", u.backToShelf, onBack],
+    fromBook && onBackToBook ? ["book", u.backToBook(fromBook[lang] || fromBook.es), onBackToBook] : null,
+  ].filter(Boolean);
   return (
     <div>
-      <button style={S.backLink} onClick={onBack}>{u.backToCanon}</button>
+      <div style={{ display: "flex", justifyContent: "center", flexWrap: "wrap", gap: 10, marginBottom: 22 }}>
+        {navButtons.map(([key, label, handler]) => (
+          <button key={key} onClick={handler} style={{
+            fontFamily: "'Georgia',serif", fontSize: 12, letterSpacing: 2, color: "rgba(55,28,8,0.90)",
+            background: hexToRgba(d.color, 0.14), border: `1px solid ${hexToRgba(d.color, 0.5)}`,
+            borderRadius: 20, cursor: "pointer", padding: "6px 16px 6px 12px",
+            display: "inline-flex", alignItems: "center", gap: 8,
+            transition: "background 0.15s, border-color 0.15s",
+          }}
+            onMouseEnter={e => { e.currentTarget.style.background = hexToRgba(d.color, 0.28); e.currentTarget.style.borderColor = hexToRgba(d.color, 0.85); }}
+            onMouseLeave={e => { e.currentTarget.style.background = hexToRgba(d.color, 0.14); e.currentTarget.style.borderColor = hexToRgba(d.color, 0.5); }}>
+            {label}
+          </button>
+        ))}
+      </div>
 
       <div style={S.divEyebrow()}>
         <span style={{ width: 7, height: 7, borderRadius: "50%", background: d.color, display: "inline-block" }} />

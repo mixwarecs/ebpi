@@ -25,11 +25,12 @@ export default function IndexPage({ divisions, onSelect, onSelectBook, side, lan
                       key={b.id ?? i}
                       style={S.classCardBookItem}
                       onClick={e => { e.stopPropagation(); onSelectBook(b); }}
-                      onMouseEnter={e => { e.currentTarget.children[1].style.textDecoration = "underline"; e.currentTarget.children[1].style.color = "#8B3A2A"; }}
-                      onMouseLeave={e => { e.currentTarget.children[1].style.textDecoration = "none"; e.currentTarget.children[1].style.color = ""; }}
+                      onMouseEnter={e => { e.currentTarget.children[0].style.textDecoration = "underline"; e.currentTarget.children[0].style.color = "#8B3A2A"; }}
+                      onMouseLeave={e => { e.currentTarget.children[0].style.textDecoration = "none"; e.currentTarget.children[0].style.color = ""; }}
                     >
+                      <span style={S.classCardBookName}>{b.es}</span>
+                      <span style={S.classCardBookLeader} />
                       <span style={S.classCardBookNum}>{num}</span>
-                      <span>{b.es}</span>
                     </div>
                   );
                 })}
