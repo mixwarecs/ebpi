@@ -332,11 +332,10 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
         <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fit, minmax(160px,1fr))", gap:"14px 24px", maxWidth:960, margin:"0 auto", textAlign:"left", padding:"0 20px"}}>
           {UI[lang].metaLabels.map((label, i) => {
             const values = [
-              bookData ? `${bookData.tituloOriginal} · ${bookData.transliteracion}` : "בְּרֵאשִׁית · Bereshit",
+              bookData ? idiomaLabel(bookData.idiomaOriginal) : "Hebreo",
               bookData ? `${typeof bookData.autor.nombre === "object" ? (bookData.autor.nombre[lang] || bookData.autor.nombre.es) : bookData.autor.nombre} · ${UI[lang].traditional}` : `Moisés · ${UI[lang].traditional}`,
               bookData ? (bookData.año.display[lang] || bookData.año.display.es).replace(/^.*?:\s*/, "") : "c. 1445–1405 a.C.",
               `${divisionName || (bookData ? bookData.division : "Pentateuco")} · ${UI[lang].canonEntry(bookData ? bookData.ordenCanon : 1)}`,
-              bookData ? idiomaLabel(bookData.idiomaOriginal) : "Hebreo",
               bookData?.escritoEn ? (bookData.escritoEn[lang] || bookData.escritoEn.es) : "",
             ];
             return (
