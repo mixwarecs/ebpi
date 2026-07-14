@@ -1156,12 +1156,13 @@
       "ordenCanon": 27,
       "capitulosTotal": 12,
       "divisionColor": "#7D63E3",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Narrativas de fidelidad en la corte pagana y visiones apocalípticas de los imperios sucesivos y el reino eterno del 'Hijo del Hombre' (Dn 7).",
         "en": "Narratives of faithfulness in the pagan court and apocalyptic visions of successive empires and the eternal kingdom of the 'Son of Man' (Dan 7).",
         "pt": "Narrativas de fidelidade na corte pagã e visões apocalípticas dos impérios sucessivos e o reino eterno do 'Filho do Homem' (Dn 7)."
-      }
+      },
+      "dataFile": "daniel.json"
     },
     {
       "id": 28,

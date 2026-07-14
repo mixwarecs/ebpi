@@ -2347,7 +2347,8 @@
     "init": "נב",
     "xCh": {
       "Jer": 39,
-      "Ez": 29
+      "Ez": 29,
+      "Dn": 2
     },
     "side": "above",
     "badge": {
@@ -2393,6 +2394,66 @@
       "es": "PASTOR DAVÍDICO PROMETIDO",
       "en": "PROMISED DAVIDIC SHEPHERD",
       "pt": "PASTOR DAVÍDICO PROMETIDO"
+    }
+  },
+  "Daniel": {
+    "id": "daniel",
+    "color": "#8B6A2A",
+    "init": "דנ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "FIEL EN EL EXILIO",
+      "en": "FAITHFUL IN EXILE",
+      "pt": "FIEL NO EXÍLIO"
+    }
+  },
+  "Sadrac, Mesac y Abed-nego": {
+    "id": "sadrac-mesac-abednego",
+    "color": "#C0701B",
+    "init": "חמ",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "FIELES EN EL HORNO",
+      "en": "FAITHFUL IN THE FURNACE",
+      "pt": "FIÉIS NA FORNALHA"
+    }
+  },
+  "Belsasar": {
+    "id": "belsasar",
+    "color": "#5A2E6B",
+    "init": "בל",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "PESADO Y HALLADO FALTO",
+      "en": "WEIGHED AND FOUND WANTING",
+      "pt": "PESADO E ACHADO EM FALTA"
+    }
+  },
+  "Darío el Medo": {
+    "id": "dario-medo",
+    "color": "#4A7A6B",
+    "init": "דר",
+    "xCh": 6,
+    "side": "above",
+    "badge": {
+      "es": "REY QUE TEME A DIOS",
+      "en": "KING WHO FEARS GOD",
+      "pt": "REI QUE TEME A DEUS"
+    }
+  },
+  "Gabriel": {
+    "id": "gabriel",
+    "color": "#7A5AA0",
+    "init": "גב",
+    "xCh": 8,
+    "side": "below",
+    "badge": {
+      "es": "MENSAJERO ANGÉLICO",
+      "en": "ANGELIC MESSENGER",
+      "pt": "MENSAGEIRO ANGÉLICO"
     }
   }
 }
