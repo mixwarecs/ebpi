@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { createPortal } from "react-dom";
-import { ExternalLink, Play, ChevronsDown, Share2, BookOpen } from "lucide-react";
+import { ExternalLink, Play, ChevronsDown, Share2, BookOpen, Sparkles } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
-import { GOLD, LAPIS, LAPIS_DEEP, PARCHMENT, SIENNA, BOOKS, CHAPTER_ERAS, UI, TABS, GS, hexToRgba } from "../constants";
+import { GOLD, BOOKS, CHAPTER_ERAS, UI, TABS, GS, hexToRgba } from "../constants";
 import { linkifyVerses, verseUrl, cap } from "../utils";
 import VerseLink from "./VerseLink";
 import TheologyTab from "./book/TheologyTab";
@@ -442,7 +442,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
               borderBottom:"1px solid rgba(139,90,20,0.12)",
             }}>
               {(UI[lang].summariesSteps || []).map((text, idx) => {
-                const Icon = [ExternalLink, Play, ChevronsDown, Share2, BookOpen][idx] || BookOpen;
+                const Icon = [ExternalLink, Play, ChevronsDown, Share2, BookOpen, Sparkles][idx] || BookOpen;
                 return (
                   <div key={idx} style={{ display:"flex", alignItems:"flex-start", gap:8 }}>
                     <Icon size={13} color="rgba(0,0,0,0.75)" style={{ flexShrink:0, marginTop:2 }} />
