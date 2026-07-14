@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import { createPortal } from "react-dom";
 import { ExternalLink, Play, ChevronsDown, Share2, BookOpen, Sparkles } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
@@ -30,6 +30,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
   const characters  = bookData ? adaptPersonajes(bookData.personajes, lang, personasDisplay, layoutTotal, bookAb) : [];
   const epochs      = globalData ? (globalData.epocasRedentoras[lang] || globalData.epocasRedentoras.es) : [];
   const bookTitle   = (bookData?.titulo?.[lang] || bookData?.titulo?.es || "").toUpperCase();
+  const CL          = UI[lang].canonLabels;
   const IDIOMA_TRANS = { "Hebreo": { en: "Hebrew", pt: "Hebraico" }, "Griego": { en: "Greek", pt: "Grego" }, "Arameo": { en: "Aramaic", pt: "Aramaico" }, "Hebreo y Arameo": { en: "Hebrew and Aramaic", pt: "Hebraico e Aramaico" } };
   const idiomaLabel = (raw) => { if (!raw) return raw; const t = IDIOMA_TRANS[raw]; return t?.[lang] || raw; };
 
@@ -62,6 +63,40 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
 
   const [activeChar, setActiveChar] = useState(null);
   const [bottomTab, setBottomTab] = useState(initialBottomTab);
+
+  const tabNavRef = useRef(null);
+  const [tabScroll, setTabScroll] = useState({ left: false, right: false });
+  const updateTabScroll = useCallback(() => {
+    const el = tabNavRef.current;
+    if (!el) return;
+    setTabScroll({
+      left: el.scrollLeft > 2,
+      right: el.scrollLeft < el.scrollWidth - el.clientWidth - 2,
+    });
+  }, []);
+  useEffect(() => {
+    updateTabScroll();
+    window.addEventListener("resize", updateTabScroll);
+    return () => window.removeEventListener("resize", updateTabScroll);
+  }, [updateTabScroll]);
+  useEffect(() => { updateTabScroll(); }, [lang, bookData, updateTabScroll]);
+
+  const bottomTabNavRef = useRef(null);
+  const [bottomTabScroll, setBottomTabScroll] = useState({ left: false, right: false });
+  const updateBottomTabScroll = useCallback(() => {
+    const el = bottomTabNavRef.current;
+    if (!el) return;
+    setBottomTabScroll({
+      left: el.scrollLeft > 2,
+      right: el.scrollLeft < el.scrollWidth - el.clientWidth - 2,
+    });
+  }, []);
+  useEffect(() => {
+    updateBottomTabScroll();
+    window.addEventListener("resize", updateBottomTabScroll);
+    return () => window.removeEventListener("resize", updateBottomTabScroll);
+  }, [updateBottomTabScroll]);
+  useEffect(() => { updateBottomTabScroll(); }, [lang, bookData, updateBottomTabScroll]);
 
   const renderTab = () => {
     switch (activeTab) {
@@ -110,25 +145,10 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
       }
 
       case "canon": {
-        const CL = UI[lang].canonLabels;
         const christText = bookData?.historiaRedentora?.enfoqueCristologico?.[lang]
           || bookData?.historiaRedentora?.enfoqueCristologico?.es || "";
         return (
           <div>
-            <div style={{...GS.metaLabel, marginBottom:18}}>{CL.position}</div>
-            <div style={GS.epochRow}>
-              {epochs.map((ep, i) => {
-                const hl = i === highlightIdx;
-                return (
-                  <div key={i} style={{...GS.epoch(hl), ...(i===epochs.length-1 ? GS.epochLast : {})}}>
-                    {hl && <div style={{fontSize:11, letterSpacing:1.5, fontWeight:600, color:"rgba(100,68,18,0.92)", marginBottom:5}}>← {bookTitle || "GÉNESIS"}</div>}
-                    <div style={GS.epochLabel(hl)}>{ep.label}</div>
-                    <div style={GS.epochTitle(hl)}>{ep.title}</div>
-                    <div style={GS.epochBooks(hl)}>{ep.books}</div>
-                  </div>
-                );
-              })}
-            </div>
             <div style={GS.christBox}>
               <div style={{...GS.metaLabel, marginBottom:8}}>
                 {CL.christFocus} —{" "}
@@ -268,8 +288,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
           }
         }
         nav::-webkit-scrollbar { display: none; }
-        .canon-tab:not(:last-child) { border-right: 1px solid rgba(139,90,20,0.20) !important; }
-        .canon-tab:not([data-active="true"]):hover { background: rgba(201,168,76,0.10) !important; color: rgba(80,45,10,0.90) !important; }
+        .canon-tab:not([data-active="true"]):hover { background: rgba(201,168,76,0.18) !important; color: rgba(80,45,10,0.90) !important; }
       `}</style>
       <div style={GS.topBar(divisionColor)} />
 
@@ -331,26 +350,41 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
       </header>
 
       <div style={GS.eraLegend}>
-        {chapterEras.map((e, i) => (
-          <div key={e.color + i} style={GS.eraDot}>
-            <div style={{width:10, height:10, borderRadius:"50%", background:e.color, flexShrink:0}} />
-            {hasBookEras ? eraToLabel(e.era) : UI[lang].eraLabels[i]}
-          </div>
-        ))}
+        <div style={{...GS.metaLabel, marginBottom:18}}>{CL.position}</div>
+        <div style={GS.epochRow}>
+          {epochs.map((ep, i) => {
+            const hl = i === highlightIdx;
+            return (
+              <div key={i} style={{...GS.epoch(hl), ...(i===epochs.length-1 ? GS.epochLast : {})}}>
+                {hl && <div style={{fontSize:11, letterSpacing:1.5, fontWeight:600, color:"rgba(100,68,18,0.92)", marginBottom:5}}>← {bookTitle || "GÉNESIS"}</div>}
+                <div style={GS.epochLabel(hl)}>{ep.label}</div>
+                <div style={GS.epochTitle(hl)}>{ep.title}</div>
+                <div style={GS.epochBooks(hl)}>{ep.books}</div>
+              </div>
+            );
+          })}
+        </div>
       </div>
 
       <div style={GS.infoPanel}>
         <div style={GS.tabNavWrap}>
-          <nav style={GS.tabNav}>
+          <nav ref={tabNavRef} style={GS.tabNav} onScroll={updateTabScroll}>
             {TABS.map((t, i) => (
               <button key={t.id} className="canon-tab" data-active={activeTab===t.id} style={GS.tabBtn(activeTab===t.id, divisionColor)} onClick={() => onTabChange(t.id)} onMouseDown={e => e.preventDefault()}>
                 {UI[lang].tabs[i]}
               </button>
             ))}
           </nav>
-          <div style={GS.tabNavFade}>
-            <span style={{fontSize:16, color:"rgba(201,168,76,0.5)", animation:"tabFadeArrow 1.5s ease-in-out infinite"}}>›</span>
-          </div>
+          {tabScroll.left && (
+            <div style={GS.tabNavFadeLeft}>
+              <span style={{fontSize:18, fontWeight:900, lineHeight:1, color:"rgba(110,65,15,0.85)", animation:"tabFadeArrow 1.5s ease-in-out infinite"}}>«</span>
+            </div>
+          )}
+          {tabScroll.right && (
+            <div style={GS.tabNavFade}>
+              <span style={{fontSize:18, fontWeight:900, lineHeight:1, color:"rgba(110,65,15,0.85)", animation:"tabFadeArrow 1.5s ease-in-out infinite"}}>»</span>
+            </div>
+          )}
         </div>
         <div key={activeTab} style={{
           ...GS.tabPanels,
@@ -369,28 +403,34 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
       </div>
 
       <div style={{marginTop:8}}>
-        <div style={{
-          display:"flex", borderBottom:`1px solid rgba(139,90,20,0.30)`,
-          borderTop:`1px solid rgba(139,90,20,0.20)`,
-          padding:"0", gap:0,
-          backgroundImage:"linear-gradient(rgba(210,170,90,0.28), rgba(185,140,55,0.20)), url('/textures/pergament.jpg')",
-          backgroundSize:"cover", backgroundPosition:"center",
-        }}>
-          {[
-            { id:"timeline",   label: UI[lang].timelineLabel },
-            { id:"summaries",  label: UI[lang].summariesLabel },
-          ].map(({ id, label }) => (
-            <button
-              key={id}
-              className="canon-tab"
-              data-active={bottomTab === id}
-              onClick={() => { setBottomTab(id); onBottomTabChange?.(id); }}
-              onMouseDown={e => e.preventDefault()}
-              style={GS.tabBtn(bottomTab === id, divisionColor)}
-            >
-              {label}
-            </button>
-          ))}
+        <div style={GS.tabNavWrap}>
+          <nav ref={bottomTabNavRef} style={GS.tabNav} onScroll={updateBottomTabScroll}>
+            {[
+              { id:"timeline",   label: UI[lang].timelineLabel },
+              { id:"summaries",  label: UI[lang].summariesLabel },
+            ].map(({ id, label }) => (
+              <button
+                key={id}
+                className="canon-tab"
+                data-active={bottomTab === id}
+                onClick={() => { setBottomTab(id); onBottomTabChange?.(id); }}
+                onMouseDown={e => e.preventDefault()}
+                style={GS.tabBtn(bottomTab === id, divisionColor)}
+              >
+                {label}
+              </button>
+            ))}
+          </nav>
+          {bottomTabScroll.left && (
+            <div style={GS.tabNavFadeLeft}>
+              <span style={{fontSize:18, fontWeight:900, lineHeight:1, color:"rgba(110,65,15,0.85)", animation:"tabFadeArrow 1.5s ease-in-out infinite"}}>«</span>
+            </div>
+          )}
+          {bottomTabScroll.right && (
+            <div style={GS.tabNavFade}>
+              <span style={{fontSize:18, fontWeight:900, lineHeight:1, color:"rgba(110,65,15,0.85)", animation:"tabFadeArrow 1.5s ease-in-out infinite"}}>»</span>
+            </div>
+          )}
         </div>
 
         {bottomTab === "timeline" && (
