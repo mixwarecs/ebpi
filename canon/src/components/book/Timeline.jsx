@@ -114,6 +114,28 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             );
           })}
 
+          {/* Connector lines render in their own pass, entirely before the labels/circles
+              pass below, so every line paints behind every character node — including
+              nodes from OTHER characters stacked deeper on the same side/chapter, whose
+              longer connector would otherwise visually cross a shallower node's circle. */}
+          {characters.map((c, i) => {
+            const x = xOf(c.xCh);
+            const { side, depth } = getPlacement(i);
+            const isAbove = side === "above";
+            const cLen = 40 + depth * STACK_STEP;
+            return (
+              <div key={`line-${c.id}`}
+                style={{ position:"absolute", left:x, transform:"translateX(-50%)",
+                  top:isAbove ? "auto" : "50%", bottom:isAbove ? "50%" : "auto",
+                  display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center",
+                  zIndex: 1 }}>
+                <div style={{ width:1, height:cLen, pointerEvents:"none", background: isAbove
+                  ? `linear-gradient(180deg,${c.color}80,${c.color}20)`
+                  : `linear-gradient(180deg,${c.color}20,${c.color}80)` }} />
+              </div>
+            );
+          })}
+
           {characters.map((c, i) => {
             const x = xOf(c.xCh);
             const { side, depth } = getPlacement(i);
@@ -122,12 +144,14 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
             return (
               <div key={c.id}
                 style={{ position:"absolute", left:x, transform:"translateX(-50%)",
-                  top:isAbove ? "auto" : "50%", bottom:isAbove ? "50%" : "auto",
+                  top:isAbove ? "auto" : `calc(50% + ${cLen}px)`,
+                  bottom:isAbove ? `calc(50% + ${cLen}px)` : "auto",
                   display:"flex", flexDirection:isAbove ? "column" : "column-reverse", alignItems:"center",
-                  zIndex: 20 - depth }}>
-                {/* Clickable/hoverable hit-box covers only the label+circle — not the
-                    connector below — so it never reaches the spine and overlap the
-                    chapter dot (or the opposite node) when two characters share a chapter. */}
+                  zIndex: 100 - depth }}>
+                {/* Clickable/hoverable hit-box covers only the label+circle — the
+                    connector is rendered separately (pass above) so it never reaches
+                    the spine and overlap the chapter dot (or the opposite node) when
+                    two characters share a chapter. */}
                 <div
                   onClick={() => onSelectChar(c)}
                   onMouseEnter={e => setCharTooltip({ char: c, x: e.clientX, y: e.clientY })}
@@ -145,9 +169,6 @@ export default function Timeline({ chapterEras, chapters, characters, totalChapt
                     {c.init}
                   </div>
                 </div>
-                <div style={{ width:1, height:cLen, pointerEvents:"none", background: isAbove
-                  ? `linear-gradient(180deg,${c.color}80,${c.color}20)`
-                  : `linear-gradient(180deg,${c.color}20,${c.color}80)` }} />
               </div>
             );
           })}
