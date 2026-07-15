@@ -787,7 +787,7 @@ export const RAIL_BG = (() => {
 export const S = {
   outer: { fontFamily: "'Georgia', serif", backgroundColor: "#2C1A0E", backgroundImage: "url('/textures/leather-fine.jpg')", backgroundSize: "300px", backgroundPosition: "center", backgroundAttachment: "fixed", color: PARCHMENT, minHeight: "100vh", display: "flex", flexDirection: "column", alignItems: "center", padding: "28px 16px 48px" },
   topBar: { height: 3, width: "100%", maxWidth: 1400, background: `linear-gradient(90deg, transparent, ${GOLD}, ${SIENNA}, ${GOLD}, transparent)`, flexShrink: 0, marginBottom: 18 },
-  appHeader: { width: "100%", maxWidth: 1400, textAlign: "center", marginBottom: 18 },
+  appHeader: { width: "100%", maxWidth: 1400, textAlign: "center", marginBottom: 6 },
   appTitle: { fontFamily: "'Georgia',serif", fontSize: "clamp(26px,3.2vw,40px)", fontWeight: 900, color: PARCHMENT, letterSpacing: 0.5, lineHeight: 1.15, marginBottom: 10, textShadow: "0 0 40px rgba(201,168,76,0.25)" },
   headerInstruction: { fontSize: 16, textTransform: "uppercase", letterSpacing: 0.5, color: PARCHMENT, lineHeight: 1.6 },
   bookFrame: { width: "100%", maxWidth: 1400, position: "relative",

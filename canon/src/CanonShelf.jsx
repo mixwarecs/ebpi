@@ -310,13 +310,6 @@ export default function CanonShelf() {
   const nextReadyBook = isBookOpen ? adjacentReadyBook(activeBook.id, 1) : null;
 
   const u = UI[lang];
-  let headerSubtitle = u.headerIndex;
-  if (view.mode === "division") {
-    const d = activeDivById[view.id];
-    if (d) headerSubtitle = u.headerDiv(d.titulo, d.rango);
-  } else if (view.mode === "book" && activeBook) {
-    headerSubtitle = u.headerBook(activeBook[lang] || activeBook.es);
-  }
 
   const handleShare = () => {
     navigator.clipboard.writeText(window.location.href);
@@ -382,7 +375,6 @@ export default function CanonShelf() {
             ))}
           </div>
         </div>
-        <div style={S.headerInstruction}>{headerSubtitle}</div>
       </div>
       <div style={S.bookFrame}>
         <div style={S.book}>
