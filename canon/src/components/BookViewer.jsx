@@ -322,7 +322,6 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
       })()}
 
       <header style={GS.header(accentColor)}>
-        <div style={GS.eyebrow}>{UI[lang].eyebrow}</div>
         <div style={GS.h1}>{(manifestBook ? (manifestBook[lang] || manifestBook.es) : bookData ? (bookData.titulo[lang] || bookData.titulo.es) : "GÉNESIS").toUpperCase()}</div>
         <div style={GS.hebrew}>{bookData ? bookData.tituloOriginal : "בְּרֵאשִׁית"}</div>
         <p style={GS.subline}>
