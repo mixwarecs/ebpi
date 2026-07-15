@@ -27,6 +27,22 @@ export function contrastInk(hex) {
   return yiq >= 128 ? "#2A1A05" : "#F7EEDD";
 }
 
+// Darkens a color when it's too light to read as a foreground accent on the light
+// parchment background (e.g. Pentateuco's bright yellow). Colors that are already
+// dark/saturated enough pass through unchanged.
+export function accentOnParchment(hex) {
+  const h = hex.replace("#", "");
+  const full = h.length === 3 ? h.split("").map(c => c + c).join("") : h;
+  const n = parseInt(full, 16);
+  const r = (n >> 16) & 255, g = (n >> 8) & 255, b = n & 255;
+  const yiq = (r * 299 + g * 587 + b * 114) / 1000;
+  const THRESHOLD = 150, TARGET = 125;
+  if (yiq <= THRESHOLD) return hex;
+  const factor = TARGET / yiq;
+  const scale = v => Math.round(v * factor).toString(16).padStart(2, "0");
+  return `#${scale(r)}${scale(g)}${scale(b)}`;
+}
+
 export const BIBLE_VERSION = { es: "NBLA", en: "ESV", pt: "ARC" };
 
 // ── DIVISION COLOR MAP ───────────────────────────────────────────────────────
@@ -935,16 +951,16 @@ export const GS = {
   purposeColTitle: { fontSize: 11, letterSpacing: 2.5, fontWeight: 600, color: "rgba(100,68,18,0.82)", marginBottom: 12, paddingBottom: 6, borderBottom: `1px solid rgba(139,90,20,0.2)` },
   audienceBox: { marginTop: 22, background: "linear-gradient(90deg,rgba(201,168,76,0.10),rgba(201,168,76,0.03))", borderLeft: `3px solid rgba(139,90,20,0.45)`, padding: "14px 18px", borderRadius: "0 3px 3px 0" },
   epochRow: { display: "flex", overflowX: "auto", marginBottom: 16, gap: 0 },
-  epoch: (highlight) => ({
+  epoch: (highlight, color = GOLD) => ({
     flex: 1, minWidth: 130, padding: "12px 10px",
-    borderTop: `${highlight ? "3px" : "1px"} solid ${highlight ? "rgba(155,108,26,0.80)" : "rgba(139,90,20,0.22)"}`,
+    borderTop: `${highlight ? "3px" : "1px"} solid ${highlight ? hexToRgba(color, 0.80) : "rgba(139,90,20,0.22)"}`,
     borderBottom: `1px solid rgba(139,90,20,0.15)`,
     borderLeft: `1px solid rgba(139,90,20,0.15)`,
     borderRight: "none",
-    background: highlight ? "rgba(201,168,76,0.16)" : "rgba(139,90,20,0.04)",
+    background: highlight ? hexToRgba(color, 0.16) : "rgba(139,90,20,0.04)",
   }),
   epochLast: { borderRight: `1px solid rgba(139,90,20,0.15)` },
-  epochLabel: (highlight) => ({ fontSize: 10, letterSpacing: 1.5, fontWeight: 600, color: highlight ? "rgba(100,68,18,0.92)" : "rgba(80,55,15,0.60)", marginBottom: 5 }),
+  epochLabel: (highlight, color = GOLD) => ({ fontSize: 10, letterSpacing: 1.5, fontWeight: 600, color: highlight ? hexToRgba(color, 0.92) : "rgba(80,55,15,0.60)", marginBottom: 5 }),
   epochTitle: (highlight) => ({ fontSize: 15, fontWeight: highlight ? 800 : 500, color: highlight ? "rgba(15,5,1,0.95)" : "rgba(28,12,3,0.60)", lineHeight: 1.25, marginBottom: 6 }),
   epochBooks: (highlight) => ({ fontSize: 12, color: highlight ? "rgba(45,28,8,0.82)" : "rgba(45,28,8,0.45)", letterSpacing: 0.5, lineHeight: 1.5 }),
   christBox: { background: "rgba(201,168,76,0.07)", border: `1px solid rgba(139,90,20,0.22)`, borderRadius: 3, padding: "18px 22px", marginBottom: 18 },

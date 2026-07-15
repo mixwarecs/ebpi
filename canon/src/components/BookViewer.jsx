@@ -2,7 +2,7 @@ import { useState, useRef, useEffect, useCallback } from "react";
 import { createPortal } from "react-dom";
 import { ExternalLink, Play, ChevronsDown, Share2, BookOpen, Sparkles } from "lucide-react";
 import { adaptFuentes, adaptTheology, adaptCapitulos, adaptContextoHistorico, adaptVersiculosClave, adaptAnclasConfesionales, adaptTiposYSombras, adaptPersonajes } from "../adapters/canonToViewer";
-import { GOLD, BOOKS, CHAPTER_ERAS, UI, TABS, GS, hexToRgba, PAPER_BG } from "../constants";
+import { GOLD, BOOKS, CHAPTER_ERAS, UI, TABS, GS, hexToRgba, PAPER_BG, accentOnParchment } from "../constants";
 import { linkifyVerses, verseUrl, cap } from "../utils";
 import VerseLink from "./VerseLink";
 import TheologyTab from "./book/TheologyTab";
@@ -31,6 +31,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
   const epochs      = globalData ? (globalData.epocasRedentoras[lang] || globalData.epocasRedentoras.es) : [];
   const bookTitle   = (bookData?.titulo?.[lang] || bookData?.titulo?.es || "").toUpperCase();
   const CL          = UI[lang].canonLabels;
+  const accentColor = accentOnParchment(divisionColor);
   const IDIOMA_TRANS = { "Hebreo": { en: "Hebrew", pt: "Hebraico" }, "Griego": { en: "Greek", pt: "Grego" }, "Arameo": { en: "Aramaic", pt: "Aramaico" }, "Hebreo y Arameo": { en: "Hebrew and Aramaic", pt: "Hebraico e Aramaico" } };
   const idiomaLabel = (raw) => { if (!raw) return raw; const t = IDIOMA_TRANS[raw]; return t?.[lang] || raw; };
 
@@ -290,19 +291,19 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
         nav::-webkit-scrollbar { display: none; }
         .canon-tab:not([data-active="true"]):hover { background: rgba(201,168,76,0.18) !important; color: rgba(80,45,10,0.90) !important; }
       `}</style>
-      <div style={GS.topBar(divisionColor)} />
+      <div style={GS.topBar(accentColor)} />
 
       {(() => {
         const navBtn = (key, label, handler, subLabel) => (
           <button key={key} onClick={handler} style={{
             fontFamily:"'Georgia',serif", fontSize:12, letterSpacing:2, color:"rgba(55,28,8,0.90)",
-            background:hexToRgba(divisionColor, 0.14), border:`1px solid ${hexToRgba(divisionColor, 0.5)}`,
+            background:hexToRgba(accentColor, 0.14), border:`1px solid ${hexToRgba(accentColor, 0.5)}`,
             borderRadius:20, cursor:"pointer", padding: subLabel ? "6px 16px 8px 12px" : "6px 16px 6px 12px",
             display:"inline-flex", flexDirection:"column", alignItems:"center", gap:2, whiteSpace:"nowrap",
             transition:"background 0.15s, border-color 0.15s",
           }}
-            onMouseEnter={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.28); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.85); }}
-            onMouseLeave={e => { e.currentTarget.style.background = hexToRgba(divisionColor, 0.14); e.currentTarget.style.borderColor = hexToRgba(divisionColor, 0.5); }}>
+            onMouseEnter={e => { e.currentTarget.style.background = hexToRgba(accentColor, 0.28); e.currentTarget.style.borderColor = hexToRgba(accentColor, 0.85); }}
+            onMouseLeave={e => { e.currentTarget.style.background = hexToRgba(accentColor, 0.14); e.currentTarget.style.borderColor = hexToRgba(accentColor, 0.5); }}>
             <span>{label}</span>
             {subLabel && <span style={{fontSize:13, letterSpacing:0.5, fontWeight:700, fontStyle:"italic", color:"rgba(55,28,8,0.80)"}}>{subLabel}</span>}
           </button>
@@ -320,7 +321,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
         );
       })()}
 
-      <header style={GS.header(divisionColor)}>
+      <header style={GS.header(accentColor)}>
         <div style={GS.eyebrow}>{UI[lang].eyebrow}</div>
         <div style={GS.h1}>{(manifestBook ? (manifestBook[lang] || manifestBook.es) : bookData ? (bookData.titulo[lang] || bookData.titulo.es) : "GÉNESIS").toUpperCase()}</div>
         <div style={GS.hebrew}>{bookData ? bookData.tituloOriginal : "בְּרֵאשִׁית"}</div>
@@ -354,9 +355,9 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
           {epochs.map((ep, i) => {
             const hl = i === highlightIdx;
             return (
-              <div key={i} style={{...GS.epoch(hl), ...(i===epochs.length-1 ? GS.epochLast : {})}}>
-                {hl && <div style={{fontSize:11, letterSpacing:1.5, fontWeight:600, color:"rgba(100,68,18,0.92)", marginBottom:5}}>← {bookTitle || "GÉNESIS"}</div>}
-                <div style={GS.epochLabel(hl)}>{ep.label}</div>
+              <div key={i} style={{...GS.epoch(hl, accentColor), ...(i===epochs.length-1 ? GS.epochLast : {})}}>
+                {hl && <div style={{fontSize:11, letterSpacing:1.5, fontWeight:600, color:hexToRgba(accentColor, 0.92), marginBottom:5}}>← {bookTitle || "GÉNESIS"}</div>}
+                <div style={GS.epochLabel(hl, accentColor)}>{ep.label}</div>
                 <div style={GS.epochTitle(hl)}>{ep.title}</div>
                 <div style={GS.epochBooks(hl)}>{ep.books}</div>
               </div>
@@ -369,7 +370,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
         <div style={GS.tabNavWrap}>
           <nav ref={tabNavRef} style={GS.tabNav} onScroll={updateTabScroll}>
             {TABS.map((t, i) => (
-              <button key={t.id} className="canon-tab" data-active={activeTab===t.id} style={GS.tabBtn(activeTab===t.id, divisionColor)} onClick={() => onTabChange(t.id)} onMouseDown={e => e.preventDefault()}>
+              <button key={t.id} className="canon-tab" data-active={activeTab===t.id} style={GS.tabBtn(activeTab===t.id, accentColor)} onClick={() => onTabChange(t.id)} onMouseDown={e => e.preventDefault()}>
                 {UI[lang].tabs[i]}
               </button>
             ))}
@@ -414,7 +415,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
                 data-active={bottomTab === id}
                 onClick={() => { setBottomTab(id); onBottomTabChange?.(id); }}
                 onMouseDown={e => e.preventDefault()}
-                style={GS.tabBtn(bottomTab === id, divisionColor)}
+                style={GS.tabBtn(bottomTab === id, accentColor)}
               >
                 {label}
               </button>
@@ -489,7 +490,7 @@ export default function BookViewer({ onBack, onPrev, onNext, onDivision, prevBoo
                 );
               })}
             </div>
-            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} capitulosTotal={bookData?.capitulosTotal} initialChapterIdx={initialChapterIdx} onChapterChange={onChapterChange} divisionColor={divisionColor} />
+            <ChapterSummaries rawChapters={bookData?.resumenCapitulos || []} lang={lang} bookNum={bookData?.ordenCanon || 1} capitulosTotal={bookData?.capitulosTotal} initialChapterIdx={initialChapterIdx} onChapterChange={onChapterChange} divisionColor={accentColor} />
           </div>
         )}
       </div>
