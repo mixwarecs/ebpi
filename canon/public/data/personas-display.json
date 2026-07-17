@@ -2496,5 +2496,89 @@
       "en": "CREATOR AND JUDGE",
       "pt": "CRIADOR E JUIZ"
     }
+  },
+  "Satanás (el acusador)": {
+    "id": "satanas-acusador",
+    "color": "#7A2020",
+    "init": "שט",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "EL ACUSADOR",
+      "en": "THE ACCUSER",
+      "pt": "O ACUSADOR"
+    }
+  },
+  "La esposa de Job": {
+    "id": "esposa-job",
+    "color": "#8B5A6B",
+    "init": "אש",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "LA TENTACIÓN CERCANA",
+      "en": "THE NEAR TEMPTATION",
+      "pt": "A TENTAÇÃO PRÓXIMA"
+    }
+  },
+  "Elifaz temanita": {
+    "id": "elifaz",
+    "color": "#8B6A3A",
+    "init": "אפ",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "SABIO DE TEMÁN",
+      "en": "SAGE OF TEMAN",
+      "pt": "SÁBIO DE TEMÃ"
+    }
+  },
+  "Bildad suhita": {
+    "id": "bildad",
+    "color": "#6B5A3A",
+    "init": "בל",
+    "xCh": 8,
+    "side": "above",
+    "badge": {
+      "es": "VOZ DE LA TRADICIÓN",
+      "en": "VOICE OF TRADITION",
+      "pt": "VOZ DA TRADIÇÃO"
+    }
+  },
+  "Zofar naamatita": {
+    "id": "zofar",
+    "color": "#B5651D",
+    "init": "צפ",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "EL MÁS SEVERO",
+      "en": "THE HARSHEST VOICE",
+      "pt": "O MAIS SEVERO"
+    }
+  },
+  "Eliú, hijo de Baraquel": {
+    "id": "eliu",
+    "color": "#2E8B8B",
+    "init": "אה",
+    "xCh": 32,
+    "side": "above",
+    "badge": {
+      "es": "PUENTE HACIA DIOS",
+      "en": "BRIDGE TO GOD",
+      "pt": "PONTE PARA DEUS"
+    }
+  },
+  "Las hijas de Job: Jemima, Cesia y Keren-hapuc": {
+    "id": "hijas-job",
+    "color": "#D4A24C",
+    "init": "בנ",
+    "xCh": 42,
+    "side": "below",
+    "badge": {
+      "es": "SIGNO DE ABUNDANCIA",
+      "en": "SIGN OF ABUNDANCE",
+      "pt": "SINAL DE ABUNDÂNCIA"
+    }
   }
 }

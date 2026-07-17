@@ -973,7 +973,8 @@
       "ordenCanon": 18,
       "capitulosTotal": 42,
       "divisionColor": "#E9B567",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "job.json",
       "razon": {
         "es": "La pregunta del sufrimiento inocente confrontada sin respuestas fáciles, resuelta no con explicación sino con la revelación de la soberanía y sabiduría incomprensibles de Dios (Job 38–41).",
         "en": "The question of innocent suffering confronted without easy answers, resolved not with explanation but with the revelation of God's incomprehensible sovereignty and wisdom (Job 38–41).",

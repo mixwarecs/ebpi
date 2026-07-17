@@ -1,0 +1,2303 @@
+{
+  "id": 18,
+  "testamento": "Antiguo",
+  "division": "Sabiduría y Poesía",
+  "titulo": {
+    "es": "Job",
+    "en": "Job",
+    "pt": "Jó"
+  },
+  "tituloOriginal": "אִיּוֹב",
+  "transliteracion": "Iyyov",
+  "significado": {
+    "es": "El nombre hebreo Iyyov tiene etimología debatida: la lectura tradicional lo conecta con la raíz 'ayab ('odiar'), sugiriendo 'el perseguido' o 'el aborrecido'; otros lo relacionan con el árabe 'regresar' o 'arrepentirse', o con una pregunta antigua, '¿dónde está el Padre (divino)?'. Cualquiera de las lecturas encaja con la trama: un hombre atacado que finalmente regresa a Dios en arrepentimiento.",
+    "en": "The Hebrew name Iyyov has debated etymology: the traditional reading connects it to the root 'ayab ('to hate'), suggesting 'the persecuted one' or 'the hated one'; others relate it to Arabic 'to return' or 'repent,' or to an ancient question, 'where is the (divine) father?' Either reading fits the plot: a man under attack who ultimately returns to God in repentance.",
+    "pt": "O nome hebraico Iyyov tem etimologia debatida: a leitura tradicional o conecta à raiz 'ayab ('odiar'), sugerindo 'o perseguido' ou 'o odiado'; outros o relacionam ao árabe 'retornar' ou 'arrepender-se', ou a uma pergunta antiga, 'onde está o Pai (divino)?'. Qualquer leitura combina com a trama: um homem atacado que finalmente retorna a Deus em arrependimento."
+  },
+  "resumenGeneral": {
+    "es": "Job abre con un hombre íntegro despojado de todo—hijos, posesiones, salud (Job 1–2)—y lanzado a un silencio de siete días que estalla en lamento (Job 3). Le siguen tres ciclos de diálogo con Elifaz, Bildad y Zofar, quienes insisten en que el sufrimiento prueba pecado oculto (Job 4–27), mientras Job clama por un mediador que lo represente ante Dios (Job 9:33; Job 16:19–21) y protesta su inocencia (Job 31). Un himno a la sabiduría inaccesible (Job 28) prepara el giro: el joven Eliú reprende tanto a Job como a los amigos (Job 32–37), y luego Yahvé mismo habla desde el torbellino, no para explicar el sufrimiento sino para desplegar su gobierno soberano sobre la creación (Job 38–41). Job se arrepiente en polvo y ceniza (Job 42:6), y el libro cierra con su restauración, mostrando que la fe se sostiene no en respuestas sino en la presencia y soberanía de Dios.",
+    "en": "Job opens with a blameless man stripped of everything—children, possessions, health (Job 1–2)—and driven into seven days of silence that breaks into lament (Job 3). Three cycles of dialogue follow with Eliphaz, Bildad, and Zophar, who insist that suffering proves hidden sin (Job 4–27), while Job cries out for a mediator to represent him before God (Job 9:33; Job 16:19–21) and protests his innocence (Job 31). A hymn to inaccessible wisdom (Job 28) prepares the turn: the young Elihu rebukes both Job and the friends (Job 32–37), and then Yahweh himself speaks from the whirlwind, not to explain the suffering but to unfold his sovereign rule over creation (Job 38–41). Job repents in dust and ashes (Job 42:6), and the book closes with his restoration, showing that faith rests not on answers but on the presence and sovereignty of God.",
+    "pt": "Jó abre com um homem íntegro despojado de tudo—filhos, posses, saúde (Jó 1–2)—e lançado em sete dias de silêncio que se rompe em lamento (Jó 3). Seguem-se três ciclos de diálogo com Elifaz, Bildade e Zofar, que insistem que o sofrimento prova pecado oculto (Jó 4–27), enquanto Jó clama por um mediador que o represente diante de Deus (Jó 9:33; Jó 16:19–21) e protesta sua inocência (Jó 31). Um hino à sabedoria inacessível (Jó 28) prepara a virada: o jovem Eliú repreende tanto Jó quanto os amigos (Jó 32–37), e então o próprio Javé fala do turbilhão, não para explicar o sofrimento, mas para revelar seu governo soberano sobre a criação (Jó 38–41). Jó se arrepende em pó e cinzas (Jó 42:6), e o livro termina com sua restauração, mostrando que a fé se sustenta não em respostas, mas na presença e soberania de Deus."
+  },
+  "capitulosTotal": 42,
+  "autor": {
+    "nombre": {
+      "es": "Desconocido (tradicionalmente atribuido a Moisés)",
+      "en": "Unknown (traditionally attributed to Moses)",
+      "pt": "Desconhecido (tradicionalmente atribuído a Moisés)"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El Talmud (Baba Batra 14b–15a) atribuye Job a Moisés, quien pudo haber conocido la tradición durante su tiempo en Madián, cerca de la región edomita/arábiga donde se ubica la trama. La erudición reformada moderna (ESV Study Bible, Grudem) considera el autor humano desconocido —posiblemente un sabio israelita— pero afirma sin reserva la inspiración e inerrancia del libro como Escritura canónica.",
+      "en": "The Talmud (Bava Batra 14b–15a) attributes Job to Moses, who may have known the tradition during his time in Midian, near the Edomite/Arabian region where the plot is set. Modern Reformed scholarship (ESV Study Bible, Grudem) regards the human author as unknown—possibly an Israelite sage—while affirming without reservation the book's inspiration and inerrancy as canonical Scripture.",
+      "pt": "O Talmude (Baba Batra 14b–15a) atribui Jó a Moisés, que pode ter conhecido a tradição durante seu tempo em Midiã, perto da região edomita/arábica onde a trama se situa. A erudição reformada moderna (ESV Study Bible, Grudem) considera o autor humano desconhecido—possivelmente um sábio israelita—mas afirma sem reservas a inspiração e inerrância do livro como Escritura canônica."
+    }
+  },
+  "año": {
+    "desde": -1000,
+    "hasta": -700,
+    "display": {
+      "es": "Fecha de escritura: c. 1000–700 a.C. (posiblemente época salomónica, floreciente en literatura sapiencial), aunque los sucesos narrados se ubican en el período patriarcal, c. 2000–1800 a.C.",
+      "en": "Date of writing: c. 1000–700 BC (possibly the Solomonic era, a flourishing period for wisdom literature), though the narrated events are set in the patriarchal period, c. 2000–1800 BC.",
+      "pt": "Data de escrita: c. 1000–700 a.C. (possivelmente a era salomônica, período florescente da literatura sapiencial), embora os eventos narrados se situem no período patriarcal, c. 2000–1800 a.C."
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Israel (autor desconocido); el escenario narrativo es la tierra de Uz, probablemente al este del Jordán, en la región fronteriza entre Edom y el norte de Arabia",
+    "en": "Israel (author unknown); the narrative setting is the land of Uz, likely east of the Jordan, in the border region between Edom and northern Arabia",
+    "pt": "Israel (autor desconhecido); o cenário narrativo é a terra de Uz, provavelmente a leste do Jordão, na região fronteiriça entre Edom e o norte da Arábia"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Bronce Medio (2000–1550 a.C.)",
+      "en": "Middle Bronze Age (2000–1550 BC)",
+      "pt": "Bronze Médio (2000–1550 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Tierra de Uz",
+          "en": "Land of Uz",
+          "pt": "Terra de Uz"
+        },
+        "identificacionModerna": {
+          "es": "Ubicación incierta; probablemente al sureste del Mar Muerto, en la región fronteriza entre Edom y el norte de Arabia (posiblemente relacionado con Lm 4:21, que sitúa a Uz entre los edomitas)",
+          "en": "Uncertain location; likely southeast of the Dead Sea, in the border region between Edom and northern Arabia (possibly linked to Lam 4:21, which places Uz among the Edomites)",
+          "pt": "Localização incerta; provavelmente a sudeste do Mar Morto, na região fronteiriça entre Edom e o norte da Arábia (possivelmente ligada a Lm 4:21, que situa Uz entre os edomitas)"
+        },
+        "significancia": {
+          "es": "Hogar de Job; una región fuera de Israel, lo que subraya que la sabiduría y la piedad de Job no dependen de la ley mosaica ni del pacto nacional, sino de una fe patriarcal universal",
+          "en": "Job's homeland; a region outside Israel, underscoring that Job's wisdom and piety do not depend on Mosaic law or the national covenant, but on a universal patriarchal faith",
+          "pt": "Terra natal de Jó; uma região fora de Israel, o que ressalta que a sabedoria e a piedade de Jó não dependem da lei mosaica nem do pacto nacional, mas de uma fé patriarcal universal"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Temán",
+          "en": "Teman",
+          "pt": "Temã"
+        },
+        "identificacionModerna": {
+          "es": "Región del sur de Edom, célebre por su sabiduría proverbial (cf. Jer 49:7; Abd 1:8-9)",
+          "en": "A region of southern Edom, famed for its proverbial wisdom (cf. Jer 49:7; Obad 1:8-9)",
+          "pt": "Região do sul de Edom, célebre por sua sabedoria proverbial (cf. Jr 49:7; Ab 1:8-9)"
+        },
+        "significancia": {
+          "es": "Patria de Elifaz, el primero y más articulado de los amigos de Job; su procedencia de un centro de sabiduría reconocido intensifica la ironía cuando su consejo resulta ser deficiente",
+          "en": "Homeland of Eliphaz, the first and most articulate of Job's friends; his origin in a recognized center of wisdom sharpens the irony when his counsel proves deficient",
+          "pt": "Terra natal de Elifaz, o primeiro e mais articulado dos amigos de Jó; sua origem em um centro reconhecido de sabedoria intensifica a ironia quando seu conselho se mostra deficiente"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Súah",
+          "en": "Shuah",
+          "pt": "Suá"
+        },
+        "identificacionModerna": {
+          "es": "Probablemente vinculada a Súa, hijo de Abraham y Cetura (Gn 25:2), asentado en Arabia; ubicación exacta desconocida",
+          "en": "Likely linked to Shuah, son of Abraham and Keturah (Gen 25:2), settled in Arabia; exact location unknown",
+          "pt": "Provavelmente ligada a Suá, filho de Abraão e Quetura (Gn 25:2), estabelecido na Arábia; localização exata desconhecida"
+        },
+        "significancia": {
+          "es": "Patria de Bildad; su conexión genealógica con Abraham sitúa el relato en el mismo horizonte étnico y cronológico que los patriarcas",
+          "en": "Homeland of Bildad; its genealogical connection to Abraham situates the account within the same ethnic and chronological horizon as the patriarchs",
+          "pt": "Terra natal de Bildade; sua conexão genealógica com Abraão situa o relato no mesmo horizonte étnico e cronológico dos patriarcas"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Sabá",
+          "en": "Sheba",
+          "pt": "Sabá"
+        },
+        "identificacionModerna": {
+          "es": "Reino comercial del sur de Arabia (actual Yemen) o una tribu nómada relacionada, conocida por caravanas de comercio",
+          "en": "A trading kingdom of southern Arabia (modern Yemen) or a related nomadic tribe, known for trade caravans",
+          "pt": "Reino comercial do sul da Arábia (atual Iêmen) ou uma tribo nômade relacionada, conhecida por caravanas de comércio"
+        },
+        "significancia": {
+          "es": "Los sabeos son los raptores que roban los bueyes y asnas de Job en el primer golpe de Satanás (Job 1:15), reflejando el peligro real de las incursiones nómadas en la economía pastoril patriarcal",
+          "en": "The Sabeans are the raiders who steal Job's oxen and donkeys in Satan's first blow (Job 1:15), reflecting the real danger of nomadic raids to the patriarchal pastoral economy",
+          "pt": "Os sabeus são os saqueadores que roubam os bois e jumentas de Jó no primeiro golpe de Satanás (Jó 1:15), refletindo o perigo real das incursões nômades sobre a economia pastoril patriarcal"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Naama",
+          "en": "Naamah",
+          "pt": "Naamá"
+        },
+        "identificacionModerna": {
+          "es": "Ubicación incierta, posiblemente en el norte de Arabia o cerca de Edom",
+          "en": "Uncertain location, possibly in northern Arabia or near Edom",
+          "pt": "Localização incerta, possivelmente no norte da Arábia ou perto de Edom"
+        },
+        "significancia": {
+          "es": "Patria de Zofar, el tercer amigo, cuya identidad geográfica refuerza el patrón de sabios foráneos reunidos en torno al sufrimiento de Job",
+          "en": "Homeland of Zophar, the third friend, whose geographic identity reinforces the pattern of foreign sages gathered around Job's suffering",
+          "pt": "Terra natal de Zofar, o terceiro amigo, cuja identidade geográfica reforça o padrão de sábios estrangeiros reunidos em torno do sofrimento de Jó"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Edomitas",
+          "en": "Edomites",
+          "pt": "Edomitas"
+        },
+        "rolEnElTexto": {
+          "es": "Proveen el trasfondo étnico y geográfico probable de Job y varios de sus amigos (Temán); su reputación de sabiduría (Jer 49:7) da credibilidad narrativa a los largos discursos de los amigos",
+          "en": "Provide the likely ethnic and geographic backdrop for Job and several of his friends (Teman); their reputation for wisdom (Jer 49:7) lends narrative credibility to the friends' lengthy speeches",
+          "pt": "Fornecem o provável pano de fundo étnico e geográfico de Jó e vários de seus amigos (Temã); sua reputação de sabedoria (Jr 49:7) confere credibilidade narrativa aos longos discursos dos amigos"
+        },
+        "estadoArqueologico": {
+          "es": "La ocupación edomita sedentaria plena se documenta arqueológicamente sobre todo desde el Hierro II; para el período patriarcal la evidencia es predominantemente de grupos pastoriles nómadas, coherente con el retrato bíblico de la región en tiempos de Job",
+          "en": "Fully sedentary Edomite occupation is documented archaeologically mainly from Iron II onward; for the patriarchal period the evidence points chiefly to nomadic pastoral groups, consistent with the biblical portrait of the region in Job's time",
+          "pt": "A ocupação edomita plenamente sedentária é documentada arqueologicamente sobretudo a partir do Ferro II; para o período patriarcal a evidência aponta principalmente para grupos pastoris nômades, coerente com o retrato bíblico da região no tempo de Jó"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sabeos",
+          "en": "Sabeans",
+          "pt": "Sabeus"
+        },
+        "rolEnElTexto": {
+          "es": "Aparecen como raptores nómadas que despojan a Job de sus bueyes y asnas (Job 1:15)",
+          "en": "Appear as nomadic raiders who plunder Job's oxen and donkeys (Job 1:15)",
+          "pt": "Aparecem como saqueadores nômades que despojam Jó de seus bois e jumentas (Jó 1:15)"
+        },
+        "estadoArqueologico": {
+          "es": "Inscripciones sudarábigas y evidencia de rutas caravaneras confirman la existencia de redes comerciales sabeas desde al menos el segundo milenio a.C., aunque el reino sabeo clásico floreció más tarde",
+          "en": "South Arabian inscriptions and evidence of caravan routes confirm Sabean trade networks existed from at least the second millennium BC, though the classical Sabean kingdom flourished later",
+          "pt": "Inscrições sul-arábicas e evidências de rotas de caravanas confirmam a existência de redes comerciais sabeias desde pelo menos o segundo milênio a.C., embora o reino sabeu clássico tenha florescido mais tarde"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Caldeos",
+          "en": "Chaldeans",
+          "pt": "Caldeus"
+        },
+        "rolEnElTexto": {
+          "es": "Aparecen en tres bandas organizadas que roban los camellos de Job y matan a sus siervos (Job 1:17), retratados aquí como una tribu nómada guerrera, no todavía como el imperio neobabilónico posterior",
+          "en": "Appear as three organized raiding bands who steal Job's camels and kill his servants (Job 1:17), portrayed here as a nomadic warrior tribe, not yet the later Neo-Babylonian empire",
+          "pt": "Aparecem em três bandos organizados que roubam os camelos de Jó e matam seus servos (Jó 1:17), retratados aqui como uma tribo nômade guerreira, ainda não o posterior império neobabilônico"
+        },
+        "estadoArqueologico": {
+          "es": "El uso de 'caldeos' como grupo tribal nómada anterior a su consolidación imperial (siglo I a.C. tardío) es coherente con fuentes asirias del segundo milenio que mencionan grupos kaldu dispersos en Mesopotamia meridional",
+          "en": "The use of 'Chaldeans' as an earlier nomadic tribal group prior to their imperial consolidation is consistent with second-millennium Assyrian sources mentioning scattered Kaldu groups in southern Mesopotamia",
+          "pt": "O uso de 'caldeus' como grupo tribal nômade anterior à sua consolidação imperial é coerente com fontes assírias do segundo milênio que mencionam grupos kaldu dispersos na Mesopotâmia meridional"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "No existe un sitio arqueológico identificable con la 'tierra de Uz' ni evidencia material directa de Job como individuo, ya que el libro es literatura sapiencial ambientada en un marco seminómada sin ciudades ni instituciones fechables con precisión. La arqueología comparada sí ilumina el género: textos mesopotámicos del sufriente justo (Ludlul Bēl Nēmeqi, la Teodicea Babilónica, 'El hombre y su dios' sumerio) confirman que la pregunta por el sufrimiento inmerecido era un tema literario extendido en el Cercano Oriente antiguo, lo que hace más notable la respuesta teológica distintiva de Job —un Dios soberano y personal, no caprichoso ni manipulable—. La riqueza pastoril de Job medida en camellos, bueyes, ovejas y asnas (Job 1:3; Job 42:12) encaja con los patrones económicos patriarcales atestiguados en Génesis, aunque el debate sobre la datación temprana de la domesticación del camello sigue siendo un punto de tensión no resuelto entre los eruditos.",
+      "en": "No archaeological site can be identified with the 'land of Uz,' nor is there direct material evidence for Job as an individual, since the book is wisdom literature set within a semi-nomadic framework lacking cities or precisely datable institutions. Comparative archaeology does illuminate the genre: Mesopotamian righteous-sufferer texts (Ludlul Bēl Nēmeqi, the Babylonian Theodicy, the Sumerian 'Man and His God') confirm that the question of undeserved suffering was a widespread literary theme in the ancient Near East, making Job's distinctive theological answer—a sovereign, personal God, neither capricious nor manipulable—all the more notable. Job's pastoral wealth measured in camels, oxen, sheep, and donkeys (Job 1:3; Job 42:12) fits patriarchal economic patterns attested in Genesis, though the debate over early camel domestication remains an unresolved point of tension among scholars.",
+      "pt": "Não há sítio arqueológico identificável com a 'terra de Uz', nem evidência material direta de Jó como indivíduo, já que o livro é literatura sapiencial ambientada em um contexto seminômade sem cidades ou instituições datáveis com precisão. A arqueologia comparada ilumina o gênero: textos mesopotâmicos do sofredor justo (Ludlul Bēl Nēmeqi, a Teodicéia Babilônica, 'O homem e seu deus' sumério) confirmam que a questão do sofrimento imerecido era um tema literário difundido no Antigo Oriente Próximo, o que torna ainda mais notável a resposta teológica distintiva de Jó — um Deus soberano e pessoal, nem caprichoso nem manipulável. A riqueza pastoril de Jó medida em camelos, bois, ovelhas e jumentas (Jó 1:3; Jó 42:12) encaixa-se nos padrões econômicos patriarcais atestados em Gênesis, embora o debate sobre a datação precoce da domesticação do camelo permaneça um ponto de tensão não resolvido entre os estudiosos."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Ludlul Bēl Nēmeqi",
+          "en": "Ludlul Bēl Nēmeqi",
+          "pt": "Ludlul Bēl Nēmeqi"
+        },
+        "origen": {
+          "es": "Poema babilónico ('Alabaré al Señor de la Sabiduría'), c. siglo XIV–XII a.C., hallado en la biblioteca de Asurbanipal",
+          "en": "Babylonian poem ('I Will Praise the Lord of Wisdom'), c. 14th–12th century BC, found in the library of Ashurbanipal",
+          "pt": "Poema babilônico ('Louvarei o Senhor da Sabedoria'), c. século XIV–XII a.C., encontrado na biblioteca de Assurbanípal"
+        },
+        "relevancia": {
+          "es": "Presenta a un noble justo que sufre inexplicablemente y es restaurado por Marduk; comparte con Job la estructura de queja-restauración, pero carece del marco de un Dios único, soberano y moralmente coherente",
+          "en": "Presents a righteous noble who suffers inexplicably and is restored by Marduk; shares with Job the complaint-restoration structure, but lacks the framework of a single, sovereign, morally coherent God",
+          "pt": "Apresenta um nobre justo que sofre inexplicavelmente e é restaurado por Marduque; compartilha com Jó a estrutura de queixa-restauração, mas carece do arcabouço de um Deus único, soberano e moralmente coerente"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Teodicea Babilónica",
+          "en": "The Babylonian Theodicy",
+          "pt": "Teodicéia Babilônica"
+        },
+        "origen": {
+          "es": "Diálogo acróstico babilónico, c. 1000 a.C., entre un sufriente y su amigo",
+          "en": "Babylonian acrostic dialogue, c. 1000 BC, between a sufferer and his friend",
+          "pt": "Diálogo acróstico babilônico, c. 1000 a.C., entre um sofredor e seu amigo"
+        },
+        "relevancia": {
+          "es": "Estructura de diálogo similar a los ciclos de discursos entre Job y sus amigos, pero termina en resignación ante dioses caprichosos, mientras Job termina en encuentro personal con un Dios que se revela y reivindica",
+          "en": "Similar dialogue structure to the speech cycles between Job and his friends, but ends in resignation before capricious gods, whereas Job ends in a personal encounter with a God who reveals himself and vindicates",
+          "pt": "Estrutura de diálogo semelhante aos ciclos de discursos entre Jó e seus amigos, mas termina em resignação diante de deuses caprichosos, enquanto Jó termina em encontro pessoal com um Deus que se revela e reivindica"
+        }
+      },
+      {
+        "nombre": {
+          "es": "El hombre y su dios (sumerio)",
+          "en": "Man and His God (Sumerian)",
+          "pt": "O homem e seu deus (sumério)"
+        },
+        "origen": {
+          "es": "Texto sumerio, c. 2000–1700 a.C., el ejemplo más antiguo conocido del género 'sufriente justo'",
+          "en": "Sumerian text, c. 2000–1700 BC, the earliest known example of the 'righteous sufferer' genre",
+          "pt": "Texto sumério, c. 2000–1700 a.C., o exemplo mais antigo conhecido do gênero 'sofredor justo'"
+        },
+        "relevancia": {
+          "es": "Confirma que la pregunta por el sufrimiento del piadoso ya era objeto de reflexión literaria siglos antes de Job, situando el libro dentro —y por encima— de una tradición sapiencial común del Cercano Oriente antiguo",
+          "en": "Confirms that the question of the sufferer's piety was already a subject of literary reflection centuries before Job, situating the book within—and above—a common ancient Near Eastern wisdom tradition",
+          "pt": "Confirma que a questão do sofrimento do piedoso já era objeto de reflexão literária séculos antes de Jó, situando o livro dentro — e acima — de uma tradição sapiencial comum do Antigo Oriente Próximo"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La erudición crítica frecuentemente separa el marco narrativo en prosa (Job 1–2; Job 42:7–17) de los discursos poéticos centrales (Job 3–42:6), proponiendo que un cuento folclórico preexistente fue expandido con un debate poético de otro autor, y algunos cuestionan si Job fue una persona histórica o una figura ejemplar de la sabiduría popular. La tradición reformada responde que Ezequiel 14:14,20 nombra a Job junto a Noé y Daniel como ejemplos históricos de justicia, y Santiago 5:11 apela a la 'paciencia de Job' como un caso real conocido por los lectores; ambos textos presuponen la historicidad de Job dentro del canon. Además, la notable coherencia lingüística y temática entre prosa y poesía —el mismo Job íntegro, el mismo problema teológico— favorece la unidad autorial sobre la hipótesis de composición fragmentada.",
+      "en": "Critical scholarship often separates the prose narrative frame (Job 1–2; Job 42:7–17) from the central poetic dialogues (Job 3–42:6), proposing that a pre-existing folk tale was expanded with a poetic debate by another author, and some question whether Job was a historical person or an exemplary figure from popular wisdom. The Reformed tradition responds that Ezekiel 14:14,20 names Job alongside Noah and Daniel as historical examples of righteousness, and James 5:11 appeals to the 'patience of Job' as a real case known to readers; both texts presuppose Job's historicity within the canon. Furthermore, the notable linguistic and thematic coherence between prose and poetry—the same blameless Job, the same theological problem—favors authorial unity over the fragmented-composition hypothesis.",
+      "pt": "A erudição crítica frequentemente separa a moldura narrativa em prosa (Jó 1–2; Jó 42:7–17) dos discursos poéticos centrais (Jó 3–42:6), propondo que um conto folclórico preexistente foi expandido com um debate poético de outro autor, e alguns questionam se Jó foi uma pessoa histórica ou uma figura exemplar da sabedoria popular. A tradição reformada responde que Ezequiel 14:14,20 nomeia Jó junto com Noé e Daniel como exemplos históricos de justiça, e Tiago 5:11 apela à 'paciência de Jó' como um caso real conhecido pelos leitores; ambos os textos pressupõem a historicidade de Jó dentro do cânon. Além disso, a notável coerência linguística e temática entre prosa e poesia — o mesmo Jó íntegro, o mesmo problema teológico — favorece a unidade autoral sobre a hipótese de composição fragmentada."
+    },
+    "cronologiaInterna": {
+      "es": "El propio texto sitúa a Job en un horizonte pre-mosaico: su longevidad (vive 140 años después de su restauración, cf. Job 42:16, cifra comparable a las edades patriarcales de Génesis), su riqueza medida en rebaños y siervos (Job 1:3; Job 42:12) y el hecho de que él mismo, como cabeza de familia, ofrece sacrificios por sus hijos (Job 1:5) sin mediación de un sacerdocio levítico, sitúan la acción antes del Sinaí, en un marco social y religioso paralelo al de los patriarcas de Génesis.",
+      "en": "The text itself situates Job in a pre-Mosaic horizon: his longevity (he lives 140 years after his restoration, cf. Job 42:16, a figure comparable to the patriarchal ages in Genesis), his wealth measured in flocks and servants (Job 1:3; Job 42:12), and the fact that he himself, as family head, offers sacrifices for his children (Job 1:5) without mediation of a Levitical priesthood, place the action before Sinai, within a social and religious framework parallel to the Genesis patriarchs.",
+      "pt": "O próprio texto situa Jó em um horizonte pré-mosaico: sua longevidade (vive 140 anos após sua restauração, cf. Jó 42:16, número comparável às idades patriarcais de Gênesis), sua riqueza medida em rebanhos e servos (Jó 1:3; Jó 42:12) e o fato de que ele mesmo, como chefe de família, oferece sacrifícios por seus filhos (Jó 1:5) sem mediação de um sacerdócio levítico, situam a ação antes do Sinai, dentro de um contexto social e religioso paralelo ao dos patriarcas de Gênesis."
+    }
+  },
+  "ordenEnDivision": 1,
+  "ordenCanon": 18,
+  "historiaRedentora": {
+    "epoca": "Promesa",
+    "contextoPacto": "Abrahánico",
+    "enfoqueCristologico": {
+      "es": "Job clama por 'un árbitro' que ponga su mano sobre ambas partes (Job 9:33) y declara con certeza: 'Yo sé que mi Redentor vive' (Job 19:25), anhelando un mediador que resuelva su causa ante Dios. Ambos anhelos hallan su respuesta final en Cristo, el único Mediador entre Dios y los hombres (1Ti 2:5) y el Redentor viviente que se levantará en el día postrero (Job 19:25-27; cf. Ap 1:18). El sufrimiento inmerecido de Job, seguido de vindicación y restauración, prefigura el patrón de humillación y exaltación cumplido perfectamente en Cristo (Fil 2:8-9).",
+      "en": "Job cries out for 'an arbiter' who might lay his hand on both parties (Job 9:33) and declares with certainty, 'I know that my Redeemer lives' (Job 19:25), longing for a mediator to settle his case before God. Both longings find their final answer in Christ, the one Mediator between God and men (1Tim 2:5) and the living Redeemer who will stand upon the earth at the last (Job 19:25-27; cf. Rev 1:18). Job's undeserved suffering, followed by vindication and restoration, foreshadows the pattern of humiliation and exaltation perfectly fulfilled in Christ (Phil 2:8-9).",
+      "pt": "Jó clama por 'um árbitro' que ponha sua mão sobre ambas as partes (Jó 9:33) e declara com certeza: 'Eu sei que o meu Redentor vive' (Jó 19:25), ansiando por um mediador que resolva sua causa diante de Deus. Ambos os anseios encontram sua resposta final em Cristo, o único Mediador entre Deus e os homens (1Tm 2:5) e o Redentor vivo que se levantará no último dia (Jó 19:25-27; cf. Ap 1:18). O sofrimento imerecido de Jó, seguido de vindicação e restauração, prefigura o padrão de humilhação e exaltação perfeitamente cumprido em Cristo (Fp 2:8-9)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Job, el justo que sufre sin causa aparente y es finalmente vindicado, prefigura a Cristo, el único verdaderamente inocente que sufrió injustamente y fue vindicado en la resurrección (Job 1:1,8; cf. 1P 2:19-23)",
+        "en": "Job, the righteous one who suffers without apparent cause and is finally vindicated, prefigures Christ, the only truly innocent sufferer who was wrongly afflicted and vindicated in the resurrection (Job 1:1,8; cf. 1Pet 2:19-23)",
+        "pt": "Jó, o justo que sofre sem causa aparente e é finalmente vindicado, prefigura Cristo, o único verdadeiramente inocente que sofreu injustamente e foi vindicado na ressurreição (Jó 1:1,8; cf. 1Pe 2:19-23)"
+      },
+      {
+        "es": "El 'goel' (redentor-pariente) que Job espera ver levantarse sobre el polvo (Job 19:25) anticipa a Cristo como el Redentor viviente del pueblo de Dios (Job 19:25; cf. Ap 1:18)",
+        "en": "The 'goel' (kinsman-redeemer) Job expects to see standing upon the dust (Job 19:25) anticipates Christ as the living Redeemer of God's people (Job 19:25; cf. Rev 1:18)",
+        "pt": "O 'goel' (redentor-parente) que Jó espera ver levantar-se sobre o pó (Jó 19:25) antecipa Cristo como o Redentor vivo do povo de Deus (Jó 19:25; cf. Ap 1:18)"
+      },
+      {
+        "es": "El árbitro o mediador que Job anhela para que ponga su mano sobre él y sobre Dios (Job 9:33) prefigura a Cristo, el único Mediador entre Dios y los hombres (Job 9:33; cf. 1Ti 2:5)",
+        "en": "The arbiter or mediator Job longs for to lay his hand on both him and God (Job 9:33) prefigures Christ, the one Mediator between God and men (Job 9:33; cf. 1Tim 2:5)",
+        "pt": "O árbitro ou mediador que Jó anseia para pôr sua mão sobre ele e sobre Deus (Jó 9:33) prefigura Cristo, o único Mediador entre Deus e os homens (Jó 9:33; cf. 1Tm 2:5)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Job es el único libro del canon dedicado por completo a la pregunta del sufrimiento inmerecido del justo, y lo hace sin recurrir al esquema simplista de retribución inmediata (pecado → castigo) que proponen sus amigos. Su aportación distintiva es teológica, no informativa: no explica la causa del sufrimiento de Job (el lector la conoce por los capítulos 1-2, pero Job nunca la sabe), sino que reorienta la pregunta desde '¿por qué?' hacia '¿quién es Dios?', fundamentando la fe no en respuestas satisfactorias sino en la soberanía, sabiduría y bondad de un Dios que gobierna lo que el hombre no puede comprender (Job 38-41).",
+    "en": "Job is the only book in the canon devoted entirely to the question of the righteous sufferer's undeserved affliction, and it does so without resorting to the simplistic retribution scheme (sin → punishment) proposed by his friends. Its distinctive contribution is theological, not informational: it does not explain the cause of Job's suffering to Job himself (the reader knows it from chapters 1-2, but Job never does), but instead reorients the question from 'why?' to 'who is God?', grounding faith not in satisfying answers but in the sovereignty, wisdom, and goodness of a God who governs what man cannot comprehend (Job 38-41).",
+    "pt": "Jó é o único livro do cânon dedicado inteiramente à questão do sofrimento imerecido do justo, e o faz sem recorrer ao esquema simplista de retribuição imediata (pecado → castigo) proposto por seus amigos. Sua contribuição distintiva é teológica, não informativa: não explica a causa do sofrimento de Jó para o próprio Jó (o leitor a conhece pelos capítulos 1-2, mas Jó nunca a sabe), mas reorienta a pergunta de 'por quê?' para 'quem é Deus?', fundamentando a fé não em respostas satisfatórias, mas na soberania, sabedoria e bondade de um Deus que governa o que o homem não pode compreender (Jó 38-41)."
+  },
+  "genero": {
+    "es": "Literatura sapiencial poética, con marco narrativo en prosa (prólogo y epílogo)",
+    "en": "Poetic wisdom literature, framed by a prose narrative (prologue and epilogue)",
+    "pt": "Literatura sapiencial poética, com moldura narrativa em prosa (prólogo e epílogo)"
+  },
+  "palabraClave": {
+    "es": [
+      "Sufrimiento",
+      "Soberanía divina",
+      "Integridad",
+      "Sabiduría",
+      "Redentor"
+    ],
+    "en": [
+      "Suffering",
+      "Divine sovereignty",
+      "Integrity",
+      "Wisdom",
+      "Redeemer"
+    ],
+    "pt": [
+      "Sofrimento",
+      "Soberania divina",
+      "Integridade",
+      "Sabedoria",
+      "Redentor"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo del pacto en cualquier época que enfrenta sufrimiento severo e inexplicable, y en particular quienes son tentados —como los tres amigos de Job— a equiparar la aflicción con un castigo divino por pecado oculto",
+    "en": "The covenant people in any age who face severe, unexplained suffering, and particularly those tempted—like Job's three friends—to equate affliction with divine punishment for hidden sin",
+    "pt": "O povo do pacto em qualquer época que enfrenta sofrimento severo e inexplicável, e particularmente aqueles tentados — como os três amigos de Jó — a equiparar a aflição a um castigo divino por pecado oculto"
+  },
+  "proposito": {
+    "es": "Propósito histórico: preservar y transmitir el relato de un hombre justo cuya fe fue probada al extremo, como testimonio duradero dentro de la tradición sapiencial de Israel y sus vecinos sobre la integridad bajo sufrimiento inexplicable. Propósito teológico: desmantelar la teología de retribución mecánica (todo sufrimiento es castigo por pecado específico) y establecer que la fe genuina se sostiene en el carácter y la soberanía de Dios —no en la comprensión plena de sus propósitos— llevando al creyente, como a Job, del cuestionamiento a la adoración humilde (Job 42:1-6).",
+    "en": "Historical purpose: to preserve and transmit the account of a righteous man whose faith was tested to the extreme, as an enduring testimony within the wisdom tradition of Israel and its neighbors concerning integrity under inexplicable suffering. Theological purpose: to dismantle mechanical retribution theology (all suffering is punishment for specific sin) and establish that genuine faith rests on the character and sovereignty of God—not on full understanding of his purposes—leading the believer, as it led Job, from questioning to humble worship (Job 42:1-6).",
+    "pt": "Propósito histórico: preservar e transmitir o relato de um homem justo cuja fé foi provada ao extremo, como testemunho duradouro dentro da tradição sapiencial de Israel e de seus vizinhos sobre a integridade sob sofrimento inexplicável. Propósito teológico: desmantelar a teologia de retribuição mecânica (todo sofrimento é castigo por pecado específico) e estabelecer que a fé genuína se sustenta no caráter e na soberania de Deus — não na compreensão plena de seus propósitos — levando o crente, como levou Jó, do questionamento à adoração humilde (Jó 42:1-6)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Job",
+        "en": "Job",
+        "pt": "Jó"
+      },
+      "hebreo": "אִיּוֹב",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "descripcion": {
+        "es": "Un hombre de la tierra de Uz, 'intachable y recto, temeroso de Dios y apartado del mal' (Job 1:1), el más grande de los hombres del oriente en riqueza y familia. Pierde en un solo día sus posesiones, sus diez hijos y luego su salud, y pasa el resto del libro luchando por reconciliar su integridad conocida con el silencio y la aparente injusticia de Dios.",
+        "en": "A man from the land of Uz, 'blameless and upright, one who feared God and turned away from evil' (Job 1:1), the greatest of all the people of the east in wealth and family. He loses his possessions, his ten children, and then his health in a single day, and spends the rest of the book wrestling to reconcile his known integrity with God's silence and apparent injustice.",
+        "pt": "Um homem da terra de Uz, 'íntegro e reto, temente a Deus e que se desviava do mal' (Jó 1:1), o maior de todos os homens do oriente em riqueza e família. Perde em um só dia suas posses, seus dez filhos e depois sua saúde, e passa o resto do livro lutando para reconciliar sua integridade conhecida com o silêncio e a aparente injustiça de Deus."
+      },
+      "acciones": {
+        "es": "Ofrece sacrificios preventivos por sus hijos (Job 1:5); al perderlo todo, se rasga las vestiduras y adora (Job 1:20-21); rehúsa maldecir a Dios ante su esposa (Job 2:10); rompe su silencio para maldecir el día de su nacimiento (Job 3); disputa con sus tres amigos defendiendo su inocencia a lo largo de tres ciclos de discursos (Job 4-27); pronuncia un juramento final de inocencia (Job 31); se somete en polvo y ceniza ante el discurso de Yahvé desde el torbellino (Job 42:1-6); intercede por sus amigos (Job 42:8-9)",
+        "en": "Offers preemptive sacrifices for his children (Job 1:5); upon losing everything, tears his robe and worships (Job 1:20-21); refuses to curse God before his wife (Job 2:10); breaks his silence to curse the day of his birth (Job 3); disputes with his three friends defending his innocence across three cycles of speeches (Job 4-27); pronounces a final oath of innocence (Job 31); submits in dust and ashes before Yahweh's speech from the whirlwind (Job 42:1-6); intercedes for his friends (Job 42:8-9)",
+        "pt": "Oferece sacrifícios preventivos por seus filhos (Jó 1:5); ao perder tudo, rasga sua veste e adora (Jó 1:20-21); recusa-se a amaldiçoar a Deus diante de sua esposa (Jó 2:10); rompe seu silêncio para amaldiçoar o dia de seu nascimento (Jó 3); disputa com seus três amigos defendendo sua inocência ao longo de três ciclos de discursos (Jó 4-27); pronuncia um juramento final de inocência (Jó 31); submete-se em pó e cinza diante do discurso de Javé desde o turbilhão (Jó 42:1-6); intercede por seus amigos (Jó 42:8-9)"
+      },
+      "significadoTeologico": {
+        "es": "Job encarna la fe que persiste sin explicaciones, demostrando contra la acusación de Satanás que es posible amar a Dios por Dios mismo, no por sus dones (Job 1:9-11). Su trayectoria —de la integridad afirmada, a la protesta honesta, al arrepentimiento humilde— modela una piedad que no depende de comprender los caminos de Dios sino de conocer su carácter.",
+        "en": "Job embodies faith that persists without explanations, demonstrating against Satan's accusation that it is possible to love God for God's own sake, not for his gifts (Job 1:9-11). His trajectory—from asserted integrity, to honest protest, to humble repentance—models a piety that does not depend on understanding God's ways but on knowing his character.",
+        "pt": "Jó encarna a fé que persiste sem explicações, demonstrando contra a acusação de Satanás que é possível amar a Deus por Deus mesmo, não por seus dons (Jó 1:9-11). Sua trajetória — da integridade afirmada, ao protesto honesto, ao arrependimento humilde — modela uma piedade que não depende de compreender os caminhos de Deus, mas de conhecer seu caráter."
+      },
+      "tipo": {
+        "es": "El justo que sufre sin causa conocida y es finalmente vindicado y restaurado prefigura a Cristo, el único perfectamente inocente que sufrió injustamente y fue exaltado después de su humillación (Job 42:10-17; cf. Fil 2:8-9; 1P 2:19-23)",
+        "en": "The righteous one who suffers without known cause and is finally vindicated and restored prefigures Christ, the only perfectly innocent sufferer who was wrongly afflicted and was exalted after his humiliation (Job 42:10-17; cf. Phil 2:8-9; 1Pet 2:19-23)",
+        "pt": "O justo que sofre sem causa conhecida e é finalmente vindicado e restaurado prefigura Cristo, o único perfeitamente inocente que sofreu injustamente e foi exaltado após sua humilhação (Jó 42:10-17; cf. Fp 2:8-9; 1Pe 2:19-23)"
+      },
+      "caracterMoral": {
+        "es": "Íntegro y temeroso de Dios (Job 1:1,8; 2:3), pero no impecable: cruza a veces del lamento legítimo a la acusación imprudente contra la justicia de Dios (Job 40:8), lo cual él mismo reconoce y del cual se retracta al final (Job 42:6)",
+        "en": "Blameless and God-fearing (Job 1:1,8; 2:3), yet not sinless: he sometimes crosses from legitimate lament into rash accusation against God's justice (Job 40:8), which he himself acknowledges and retracts in the end (Job 42:6)",
+        "pt": "Íntegro e temente a Deus (Jó 1:1,8; 2:3), mas não impecável: por vezes cruza do lamento legítimo para a acusação imprudente contra a justiça de Deus (Jó 40:8), o que ele mesmo reconhece e do qual se retrata no final (Jó 42:6)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Job 1:1-5 lo presenta como el hombre más grande e íntegro del oriente. Job 1:6-2:10 narra la doble prueba permitida por Dios a través de Satanás. Job 3-31 contiene su lamento y su disputa con tres amigos. Job 32-37 registra la intervención de Eliú. Job 38-41 presenta los discursos de Yahvé desde el torbellino. Job 42 narra su arrepentimiento, la reprensión divina a los amigos, y su restauración con el doble de lo que tenía, incluyendo diez nuevos hijos y 140 años más de vida.",
+          "en": "Job 1:1-5 presents him as the greatest and most blameless man of the east. Job 1:6-2:10 narrates the double test permitted by God through Satan. Job 3-31 contains his lament and dispute with three friends. Job 32-37 records Elihu's intervention. Job 38-41 presents Yahweh's speeches from the whirlwind. Job 42 narrates his repentance, God's rebuke of the friends, and his restoration with double what he had, including ten new children and 140 more years of life.",
+          "pt": "Jó 1:1-5 o apresenta como o maior e mais íntegro homem do oriente. Jó 1:6-2:10 narra a dupla prova permitida por Deus através de Satanás. Jó 3-31 contém seu lamento e sua disputa com três amigos. Jó 32-37 registra a intervenção de Eliú. Jó 38-41 apresenta os discursos de Javé desde o turbilhão. Jó 42 narra seu arrependimento, a repreensão divina aos amigos, e sua restauração com o dobro do que tinha, incluindo dez novos filhos e mais 140 anos de vida."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 1:1",
+          "Job 1:21",
+          "Job 2:10",
+          "Job 19:25",
+          "Job 42:6",
+          "Job 42:10"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia extrabíblica directa de Job como individuo histórico. Su perfil —jeque pastoril patriarcal, sacerdote de su propio clan, riqueza medida en rebaños— coincide con los patrones sociales del segundo milenio a.C. documentados en textos de Mari y Nuzi para las culturas seminómadas del Levante y Mesopotamia. Ezequiel 14:14,20 y Santiago 5:11 lo tratan como figura histórica real, no legendaria.",
+          "en": "There is no direct extrabiblical evidence for Job as a historical individual. His profile—a patriarchal pastoral chieftain, priest of his own clan, wealth measured in flocks—matches second-millennium BC social patterns documented in the Mari and Nuzi texts for semi-nomadic cultures of the Levant and Mesopotamia. Ezekiel 14:14,20 and James 5:11 treat him as a real historical figure, not a legendary one.",
+          "pt": "Não há evidência extrabíblica direta de Jó como indivíduo histórico. Seu perfil — chefe pastoril patriarcal, sacerdote de seu próprio clã, riqueza medida em rebanhos — coincide com padrões sociais do segundo milênio a.C. documentados nos textos de Mari e Nuzi para culturas seminômades do Levante e da Mesopotâmia. Ezequiel 14:14,20 e Tiago 5:11 o tratam como figura histórica real, não lendária."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1959,
+            "editorial": "Westminster Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "contexto patriarcal",
+              "cronología"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "El retrato bíblico de Job como jeque pastoril pre-mosaico es internamente coherente y compatible con los patrones sociales patriarcales documentados en Génesis; la falta de evidencia externa directa es esperable dado que Job no gobernaba un reino ni dejó inscripciones",
+          "en": "The biblical portrait of Job as a pre-Mosaic pastoral chieftain is internally coherent and compatible with the patriarchal social patterns documented in Genesis; the lack of direct external evidence is expected given that Job ruled no kingdom and left no inscriptions",
+          "pt": "O retrato bíblico de Jó como chefe pastoril pré-mosaico é internamente coerente e compatível com os padrões sociais patriarcais documentados em Gênesis; a falta de evidência externa direta é esperada, visto que Jó não governava um reino nem deixou inscrições"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 1:1",
+        "Job 1:21",
+        "Job 19:25",
+        "Job 42:6"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Ez 14:14",
+        "Ez 14:20",
+        "Stg 5:11"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Santiago 5:11 apela a la 'paciencia de Job' y a que 'habéis visto el propósito del Señor' como ejemplo para los creyentes que sufren, confirmando la lectura de Job como testimonio de perseverancia bendecida por Dios",
+        "en": "James 5:11 appeals to the 'steadfastness of Job' and that 'you have seen the purpose of the Lord' as an example for suffering believers, confirming the reading of Job as a testimony of perseverance blessed by God",
+        "pt": "Tiago 5:11 apela à 'paciência de Jó' e a que 'vistes o fim que o Senhor deu' como exemplo para os crentes que sofrem, confirmando a leitura de Jó como testemunho de perseverança abençoada por Deus"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Satanás (el acusador)",
+        "en": "Satan (the accuser)",
+        "pt": "Satanás (o acusador)"
+      },
+      "hebreo": "הַשָּׂטָן",
+      "principal": true,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "'Ha-satán' —el adversario o acusador— se presenta entre 'los hijos de Dios' en la corte celestial y desafía a Dios a probar la integridad de Job, alegando que su piedad depende únicamente de sus bendiciones materiales.",
+        "en": "'Ha-satan'—the adversary or accuser—presents himself among 'the sons of God' in the heavenly court and challenges God to test Job's integrity, alleging that his piety depends solely on his material blessings.",
+        "pt": "'Ha-satan' — o adversário ou acusador — apresenta-se entre 'os filhos de Deus' na corte celestial e desafia Deus a provar a integridade de Jó, alegando que sua piedade depende unicamente de suas bênçãos materiais."
+      },
+      "acciones": {
+        "es": "Acusa a Job de servir a Dios por interés (Job 1:9-11); recibe permiso limitado de Dios para atacar las posesiones y familia de Job (Job 1:12), y luego su cuerpo, pero no su vida (Job 2:6); ejecuta las calamidades por medio de agentes humanos y naturales",
+        "en": "Accuses Job of serving God for self-interest (Job 1:9-11); receives limited permission from God to attack Job's possessions and family (Job 1:12), and then his body, but not his life (Job 2:6); carries out the calamities through human and natural agents",
+        "pt": "Acusa Jó de servir a Deus por interesse (Jó 1:9-11); recebe permissão limitada de Deus para atacar as posses e a família de Jó (Jó 1:12), e depois seu corpo, mas não sua vida (Jó 2:6); executa as calamidades por meio de agentes humanos e naturais"
+      },
+      "significadoTeologico": {
+        "es": "Satanás opera únicamente dentro de los límites que Dios le concede (Job 1:12; 2:6), lo cual establece desde el primer capítulo que el sufrimiento de Job ocurre bajo la soberanía divina, no fuera de ella; el mal tiene agencia real pero nunca autonomía última",
+        "en": "Satan operates only within the limits God grants him (Job 1:12; 2:6), which establishes from the first chapter that Job's suffering occurs under divine sovereignty, not outside it; evil has real agency but never ultimate autonomy",
+        "pt": "Satanás opera apenas dentro dos limites que Deus lhe concede (Jó 1:12; 2:6), o que estabelece desde o primeiro capítulo que o sofrimento de Jó ocorre sob a soberania divina, não fora dela; o mal tem agência real, mas nunca autonomia última"
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; opera como el acusador por excelencia (cf. Ap 12:10), figura que el Nuevo Testamento identifica plenamente como el adversario derrotado en la cruz",
+        "en": "Does not function as a type of Christ; he operates as the accuser par excellence (cf. Rev 12:10), a figure the New Testament fully identifies as the adversary defeated at the cross",
+        "pt": "Não funciona como tipo de Cristo; opera como o acusador por excelência (cf. Ap 12:10), figura que o Novo Testamento identifica plenamente como o adversário derrotado na cruz"
+      },
+      "caracterMoral": {
+        "es": "Maligno y calumniador, pero subordinado a la autoridad soberana de Dios; su acusación revela más sobre su propia incapacidad de concebir un amor desinteresado que sobre Job",
+        "en": "Evil and slanderous, yet subordinate to God's sovereign authority; his accusation reveals more about his own inability to conceive of disinterested love than it does about Job",
+        "pt": "Maligno e caluniador, porém subordinado à autoridade soberana de Deus; sua acusação revela mais sobre sua própria incapacidade de conceber um amor desinteressado do que sobre Jó"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Aparece únicamente en el prólogo (Job 1-2), presentándose ante Dios en dos ocasiones para acusar a Job y recibir permiso limitado de afligirlo. No vuelve a aparecer explícitamente en el resto del libro.",
+          "en": "He appears only in the prologue (Job 1-2), presenting himself before God on two occasions to accuse Job and receive limited permission to afflict him. He does not explicitly reappear in the rest of the book.",
+          "pt": "Aparece somente no prólogo (Jó 1-2), apresentando-se diante de Deus em duas ocasiões para acusar Jó e receber permissão limitada para afligi-lo. Não reaparece explicitamente no restante do livro."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 1:6",
+          "Job 1:9-12",
+          "Job 2:1-7"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay evidencia histórica extrabíblica aplicable a un ser espiritual; su rol de 'fiscal' en la corte celestial refleja imágenes legales del Cercano Oriente antiguo, aunque el texto bíblico lo trata como agente real, no meramente literario",
+          "en": "No extrabiblical historical evidence applies to a spiritual being; his role as 'prosecutor' in the heavenly court reflects ancient Near Eastern legal imagery, though the biblical text treats him as a real agent, not merely a literary device",
+          "pt": "Não há evidência histórica extrabíblica aplicável a um ser espiritual; seu papel de 'promotor' na corte celestial reflete imagens legais do Antigo Oriente Próximo, embora o texto bíblico o trate como agente real, não meramente literário"
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El texto lo presenta consistentemente como un ser angélico caído con acceso limitado a la corte de Dios, coherente con otras apariciones bíblicas de Satanás (Zac 3:1-2; Ap 12:10)",
+          "en": "The text consistently presents him as a fallen angelic being with limited access to God's court, consistent with other biblical appearances of Satan (Zech 3:1-2; Rev 12:10)",
+          "pt": "O texto o apresenta consistentemente como um ser angélico caído com acesso limitado à corte de Deus, coerente com outras aparições bíblicas de Satanás (Zc 3:1-2; Ap 12:10)"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 1:6-12",
+        "Job 2:1-7"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Zac 3:1",
+        "1Cr 21:1",
+        "Ap 12:10"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El Nuevo Testamento desarrolla plenamente la identidad de Satanás como acusador (Ap 12:10) y adversario ya derrotado por la muerte y resurrección de Cristo (He 2:14)",
+        "en": "The New Testament fully develops Satan's identity as accuser (Rev 12:10) and adversary already defeated by Christ's death and resurrection (Heb 2:14)",
+        "pt": "O Novo Testamento desenvolve plenamente a identidade de Satanás como acusador (Ap 12:10) e adversário já derrotado pela morte e ressurreição de Cristo (Hb 2:14)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Elifaz temanita",
+        "en": "Eliphaz the Temanite",
+        "pt": "Elifaz, o temanita"
+      },
+      "hebreo": "אֱלִיפַז הַתֵּימָנִי",
+      "principal": true,
+      "rol": "secundario",
+      "capitulosActivo": [
+        4,
+        5,
+        15,
+        16,
+        17,
+        22,
+        42
+      ],
+      "descripcion": {
+        "es": "El primero y aparentemente mayor de los tres amigos de Job, procedente de Temán, región edomita célebre por su sabiduría. Habla con base en una visión nocturna (Job 4:12-16) y en la observación de la experiencia humana.",
+        "en": "The first and apparently eldest of Job's three friends, from Teman, an Edomite region famed for its wisdom. He speaks on the basis of a night vision (Job 4:12-16) and observation of human experience.",
+        "pt": "O primeiro e aparentemente o mais velho dos três amigos de Jó, procedente de Temã, região edomita célebre por sua sabedoria. Fala com base em uma visão noturna (Jó 4:12-16) e na observação da experiência humana."
+      },
+      "acciones": {
+        "es": "Argumenta en su primer discurso que los inocentes no perecen y que el sufrimiento de Job debe ser disciplina por pecado (Job 4-5); endurece su acusación en el segundo ciclo (Job 15); en el tercer ciclo enumera pecados específicos e inventados que atribuye a Job (Job 22); es reprendido por Dios junto a sus dos compañeros al final (Job 42:7-9)",
+        "en": "Argues in his first speech that the innocent do not perish and that Job's suffering must be discipline for sin (Job 4-5); hardens his accusation in the second cycle (Job 15); in the third cycle enumerates specific, invented sins he attributes to Job (Job 22); is rebuked by God along with his two companions at the end (Job 42:7-9)",
+        "pt": "Argumenta em seu primeiro discurso que os inocentes não perecem e que o sofrimento de Jó deve ser disciplina por pecado (Jó 4-5); endurece sua acusação no segundo ciclo (Jó 15); no terceiro ciclo enumera pecados específicos e inventados que atribui a Jó (Jó 22); é repreendido por Deus junto com seus dois companheiros no final (Jó 42:7-9)"
+      },
+      "significadoTeologico": {
+        "es": "Representa la teología de retribución mecánica —el sufrimiento siempre prueba pecado— que el libro entero desmantela; su apelación a una experiencia mística privada (Job 4:12-16) como fuente de autoridad teológica es corregida por la revelación directa de Dios en los capítulos finales",
+        "en": "Represents the mechanical retribution theology—suffering always proves sin—that the whole book dismantles; his appeal to a private mystical experience (Job 4:12-16) as a source of theological authority is corrected by God's direct revelation in the final chapters",
+        "pt": "Representa a teologia de retribuição mecânica — o sofrimento sempre prova pecado — que o livro inteiro desmantela; seu apelo a uma experiência mística privada (Jó 4:12-16) como fonte de autoridade teológica é corrigido pela revelação direta de Deus nos capítulos finais"
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; representa más bien al falso consolador cuya teología, aunque parcialmente correcta en principio, carece de gracia y discernimiento",
+        "en": "Does not function as a type of Christ; he represents instead the false comforter whose theology, though partially correct in principle, lacks grace and discernment",
+        "pt": "Não funciona como tipo de Cristo; representa antes o falso consolador cuja teologia, embora parcialmente correta em princípio, carece de graça e discernimento"
+      },
+      "caracterMoral": {
+        "es": "Sinceramente religioso pero teológicamente rígido; su error no es la impiedad sino la presunción de conocer los caminos de Dios con certeza absoluta",
+        "en": "Sincerely religious but theologically rigid; his error is not impiety but presuming to know God's ways with absolute certainty",
+        "pt": "Sinceramente religioso, mas teologicamente rígido; seu erro não é a impiedade, mas a presunção de conhecer os caminhos de Deus com certeza absoluta"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Habla primero y con mayor frecuencia entre los tres amigos (Job 4-5; 15; 22), apelando a una visión nocturna como fuente de su doctrina. Al final es señalado por Dios, junto a Bildad y Zofar, como alguien que 'no ha hablado de Mí lo recto' y debe ofrecer sacrificio mientras Job intercede por él (Job 42:7-9)",
+          "en": "He speaks first and most frequently among the three friends (Job 4-5; 15; 22), appealing to a night vision as the source of his doctrine. In the end he is singled out by God, along with Bildad and Zophar, as one who 'has not spoken of Me what is right' and must offer sacrifice while Job intercedes for him (Job 42:7-9)",
+          "pt": "Fala primeiro e com maior frequência entre os três amigos (Jó 4-5; 15; 22), apelando a uma visão noturna como fonte de sua doutrina. No final é apontado por Deus, junto com Bildade e Zofar, como alguém que 'não falou de mim o que é correto' e deve oferecer sacrifício enquanto Jó intercede por ele (Jó 42:7-9)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 4:7-8",
+          "Job 4:12-16",
+          "Job 22:5-9",
+          "Job 42:7"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Temán era una región edomita real, mencionada en textos proféticos como centro de sabiduría (Jer 49:7; Abd 1:8-9), lo que da plausibilidad histórica a un sabio proveniente de allí",
+          "en": "Teman was a real Edomite region, mentioned in prophetic texts as a center of wisdom (Jer 49:7; Obad 1:8-9), lending historical plausibility to a sage originating from there",
+          "pt": "Temã era uma região edomita real, mencionada em textos proféticos como centro de sabedoria (Jr 49:7; Ab 1:8-9), o que dá plausibilidade histórica a um sábio originário de lá"
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "contexto geográfico edomita"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La ubicación edomita y la reputación de sabiduría de Temán concuerdan con el retrato del texto de Elifaz como sabio experimentado",
+          "en": "Teman's Edomite location and reputation for wisdom agree with the text's portrait of Eliphaz as an experienced sage",
+          "pt": "A localização edomita e a reputação de sabedoria de Temã concordam com o retrato do texto de Elifaz como sábio experiente"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 4:1",
+        "Job 22:1",
+        "Job 42:7"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No aparece directamente, aunque 1 Corintios 3:19 cita Job 5:13 ('Él atrapa a los sabios en su propia astucia'), aplicando la sabiduría de Elifaz —irónicamente citada como palabra verdadera aunque mal aplicada por él— a la insensatez de la sabiduría humana ante Dios",
+        "en": "He does not appear directly, though 1 Corinthians 3:19 quotes Job 5:13 ('He catches the wise in their own craftiness'), applying Eliphaz's wisdom—ironically cited as a true word though misapplied by him—to the folly of human wisdom before God",
+        "pt": "Não aparece diretamente, embora 1 Coríntios 3:19 cite Jó 5:13 ('Ele apanha os sábios na sua própria astúcia'), aplicando a sabedoria de Elifaz — ironicamente citada como palavra verdadeira, embora mal aplicada por ele — à insensatez da sabedoria humana diante de Deus"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Bildad suhita",
+        "en": "Bildad the Shuhite",
+        "pt": "Bildade, o suíta"
+      },
+      "hebreo": "בִּלְדַּד הַשּׁוּחִי",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        8,
+        18,
+        25,
+        42
+      ],
+      "descripcion": {
+        "es": "El segundo amigo de Job, de la región de Súah, cuyo argumento se apoya en la tradición y la sabiduría transmitida por los antepasados más que en experiencia personal directa.",
+        "en": "Job's second friend, from the region of Shuah, whose argument rests on tradition and wisdom handed down from the ancestors rather than direct personal experience.",
+        "pt": "O segundo amigo de Jó, da região de Suá, cujo argumento se apoia na tradição e na sabedoria transmitida pelos antepassados mais do que na experiência pessoal direta."
+      },
+      "acciones": {
+        "es": "Apela a 'las generaciones pasadas' como autoridad (Job 8:8-10); argumenta que la muerte de los hijos de Job prueba su pecado (Job 8:4); en su segundo discurso describe con dureza el destino del impío (Job 18); su tercer discurso es notablemente breve, quizás señalando que se ha quedado sin argumentos (Job 25)",
+        "en": "Appeals to 'bygone generations' as authority (Job 8:8-10); argues that the death of Job's children proves his sin (Job 8:4); in his second speech he harshly describes the fate of the wicked (Job 18); his third speech is notably brief, perhaps signaling he has run out of arguments (Job 25)",
+        "pt": "Apela às 'gerações passadas' como autoridade (Jó 8:8-10); argumenta que a morte dos filhos de Jó prova seu pecado (Jó 8:4); em seu segundo discurso descreve com dureza o destino do ímpio (Jó 18); seu terceiro discurso é notavelmente breve, talvez sinalizando que ficou sem argumentos (Jó 25)"
+      },
+      "significadoTeologico": {
+        "es": "Representa la apelación a la tradición como sustituto de la revelación directa de Dios; su insistencia en la retribución mecánica se derrumba en un discurso final tan corto que subraya el agotamiento del argumento de los amigos",
+        "en": "Represents the appeal to tradition as a substitute for God's direct revelation; his insistence on mechanical retribution collapses into a final speech so short it underscores the exhaustion of the friends' argument",
+        "pt": "Representa o apelo à tradição como substituto da revelação direta de Deus; sua insistência na retribuição mecânica desmorona em um discurso final tão curto que ressalta o esgotamento do argumento dos amigos"
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; representa el apego a la tradición humana como sustituto de la revelación divina directa",
+        "en": "Does not function as a type of Christ; he represents reliance on human tradition as a substitute for direct divine revelation",
+        "pt": "Não funciona como tipo de Cristo; representa o apego à tradição humana como substituto da revelação divina direta"
+      },
+      "caracterMoral": {
+        "es": "Dogmático y carente de compasión, especialmente al vincular la muerte de los hijos de Job directamente a su pecado (Job 8:4)",
+        "en": "Dogmatic and lacking compassion, especially in directly linking the death of Job's children to his sin (Job 8:4)",
+        "pt": "Dogmático e carente de compaixão, especialmente ao vincular a morte dos filhos de Jó diretamente ao seu pecado (Jó 8:4)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Habla en los tres ciclos de discursos (Job 8; 18; 25), cada vez con menor extensión, y es reprendido junto a los otros dos amigos al final del libro (Job 42:7-9)",
+          "en": "He speaks in all three cycles of speeches (Job 8; 18; 25), each time more briefly, and is rebuked along with the other two friends at the end of the book (Job 42:7-9)",
+          "pt": "Fala nos três ciclos de discursos (Jó 8; 18; 25), cada vez com menor extensão, e é repreendido junto com os outros dois amigos no final do livro (Jó 42:7-9)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 8:3-4",
+          "Job 8:8-10",
+          "Job 25:4-6"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Súah puede vincularse a Súa, hijo de Abraham y Cetura (Gn 25:2), lo que situaría a Bildad dentro de una rama árabe de la familia de Abraham",
+          "en": "Shuah may be linked to Shuah, son of Abraham and Keturah (Gen 25:2), which would place Bildad within an Arabian branch of Abraham's family",
+          "pt": "Suá pode ser ligado a Suá, filho de Abraão e Quetura (Gn 25:2), o que situaria Bildade dentro de um ramo árabe da família de Abraão"
+        },
+        "fuentes": [],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La identificación con la línea de Súa es plausible pero no puede confirmarse externamente; es coherente con el marco patriarcal general del libro",
+          "en": "The identification with the line of Shuah is plausible but cannot be externally confirmed; it is consistent with the book's overall patriarchal framework",
+          "pt": "A identificação com a linhagem de Suá é plausível, mas não pode ser confirmada externamente; é coerente com o quadro patriarcal geral do livro"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 8:1",
+        "Job 42:9"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No aparece directamente en el Nuevo Testamento",
+        "en": "He does not appear directly in the New Testament",
+        "pt": "Não aparece diretamente no Novo Testamento"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Zofar naamatita",
+        "en": "Zophar the Naamathite",
+        "pt": "Zofar, o naamatita"
+      },
+      "hebreo": "צֹפַר הַנַּעֲמָתִי",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        11,
+        20,
+        42
+      ],
+      "descripcion": {
+        "es": "El tercer amigo de Job, de Naama, el más brusco y directo de los tres, que acusa a Job abiertamente de merecer aún más castigo del que ha recibido.",
+        "en": "Job's third friend, from Naamah, the harshest and most direct of the three, who openly accuses Job of deserving even more punishment than he has received.",
+        "pt": "O terceiro amigo de Jó, de Naamá, o mais duro e direto dos três, que acusa Jó abertamente de merecer ainda mais castigo do que recebeu."
+      },
+      "acciones": {
+        "es": "Acusa a Job de hablar demasiado y sugiere que Dios en realidad le exige menos castigo del que merece su iniquidad (Job 11:6); describe con vívida crueldad la breve prosperidad y ruina final del malvado (Job 20); no habla en el tercer ciclo, posiblemente por falta de respuesta o por corrupción textual",
+        "en": "Accuses Job of talking too much and suggests God actually exacts less punishment than his iniquity deserves (Job 11:6); vividly and harshly describes the wicked's brief prosperity and final ruin (Job 20); does not speak in the third cycle, possibly from having no reply or due to textual corruption",
+        "pt": "Acusa Jó de falar demais e sugere que Deus na verdade exige menos castigo do que sua iniquidade merece (Jó 11:6); descreve com vívida crueldade a breve prosperidade e ruína final do ímpio (Jó 20); não fala no terceiro ciclo, possivelmente por falta de resposta ou por corrupção textual"
+      },
+      "significadoTeologico": {
+        "es": "Lleva la teología de retribución de los amigos a su forma más cruda y menos compasiva, mostrando hasta dónde puede degenerar una doctrina teológicamente correcta en su principio (Dios es justo) cuando se aplica sin misericordia ni discernimiento",
+        "en": "He carries the friends' retribution theology to its crudest, least compassionate form, showing how far a doctrine correct in principle (God is just) can degenerate when applied without mercy or discernment",
+        "pt": "Leva a teologia de retribuição dos amigos à sua forma mais crua e menos compassiva, mostrando até onde pode degenerar uma doutrina teologicamente correta em seu princípio (Deus é justo) quando aplicada sem misericórdia nem discernimento"
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; representa la forma más severa y menos compasiva de la teología de retribución mecánica",
+        "en": "Does not function as a type of Christ; he represents the harshest, least compassionate form of mechanical retribution theology",
+        "pt": "Não funciona como tipo de Cristo; representa a forma mais severa e menos compassiva da teologia de retribuição mecânica"
+      },
+      "caracterMoral": {
+        "es": "El más severo y menos misericordioso de los tres amigos, incapaz de reconocer matices en el sufrimiento humano",
+        "en": "The harshest and least merciful of the three friends, unable to recognize nuance in human suffering",
+        "pt": "O mais severo e menos misericordioso dos três amigos, incapaz de reconhecer nuances no sofrimento humano"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Habla en el primer y segundo ciclo (Job 11; 20) y guarda silencio en el tercero; es reprendido por Dios junto a Elifaz y Bildad al final del libro (Job 42:7-9)",
+          "en": "He speaks in the first and second cycles (Job 11; 20) and is silent in the third; he is rebuked by God along with Eliphaz and Bildad at the end of the book (Job 42:7-9)",
+          "pt": "Fala no primeiro e segundo ciclo (Jó 11; 20) e permanece em silêncio no terceiro; é repreendido por Deus junto com Elifaz e Bildade no final do livro (Jó 42:7-9)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 11:5-6",
+          "Job 20:5",
+          "Job 42:7"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La ubicación de Naama es incierta; se ha propuesto el norte de Arabia o una región cercana a Edom, sin confirmación arqueológica definitiva",
+          "en": "The location of Naamah is uncertain; northern Arabia or a region near Edom has been proposed, without definitive archaeological confirmation",
+          "pt": "A localização de Naamá é incerta; propôs-se o norte da Arábia ou uma região próxima a Edom, sem confirmação arqueológica definitiva"
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "No hay contradicción con el marco general del texto, aunque la identificación geográfica exacta permanece abierta",
+          "en": "There is no contradiction with the text's overall framework, though the exact geographic identification remains open",
+          "pt": "Não há contradição com o quadro geral do texto, embora a identificação geográfica exata permaneça em aberto"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 11:1",
+        "Job 20:1"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No aparece directamente en el Nuevo Testamento",
+        "en": "He does not appear directly in the New Testament",
+        "pt": "Não aparece diretamente no Novo Testamento"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Eliú, hijo de Baraquel",
+        "en": "Elihu son of Barachel",
+        "pt": "Eliú, filho de Baraquel"
+      },
+      "hebreo": "אֱלִיהוּא בֶן־בַּרַכְאֵל",
+      "principal": true,
+      "rol": "secundario",
+      "capitulosActivo": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "descripcion": {
+        "es": "Un joven buzita de la familia de Ram, que ha escuchado en silencio todo el debate y finalmente habla, enojado tanto con Job por justificarse a sí mismo más que a Dios, como con los tres amigos por no haber logrado refutarlo (Job 32:2-3).",
+        "en": "A young Buzite from the family of Ram, who has silently listened to the entire debate and finally speaks, angry both at Job for justifying himself rather than God, and at the three friends for failing to refute him (Job 32:2-3).",
+        "pt": "Um jovem buzita da família de Rão, que ouviu em silêncio todo o debate e finalmente fala, irado tanto com Jó por justificar a si mesmo mais do que a Deus, quanto com os três amigos por não terem conseguido refutá-lo (Jó 32:2-3)."
+      },
+      "acciones": {
+        "es": "Rompe su silencio tras esperar respetuosamente por su juventud (Job 32:4-6); reprende a Job por pretender un juicio con Dios como si fuera su igual (Job 33:12-13); enfatiza que Dios usa el sufrimiento para instruir y refinar, no solo para castigar (Job 33:19; 36:15); introduce el tema de la grandeza de Dios en la naturaleza que anticipa los discursos divinos (Job 36-37)",
+        "en": "Breaks his silence after respectfully waiting due to his youth (Job 32:4-6); rebukes Job for presuming to contend with God as an equal (Job 33:12-13); emphasizes that God uses suffering to instruct and refine, not only to punish (Job 33:19; 36:15); introduces the theme of God's greatness in nature that anticipates the divine speeches (Job 36-37)",
+        "pt": "Rompe seu silêncio após esperar respeitosamente por causa de sua juventude (Jó 32:4-6); repreende Jó por pretender contender com Deus como se fosse seu igual (Jó 33:12-13); enfatiza que Deus usa o sofrimento para instruir e refinar, não apenas para castigar (Jó 33:19; 36:15); introduz o tema da grandeza de Deus na natureza que antecipa os discursos divinos (Jó 36-37)"
+      },
+      "significadoTeologico": {
+        "es": "Eliú introduce una perspectiva que los tres amigos no ofrecieron: el sufrimiento como instrumento pedagógico de Dios además de disciplina por pecado (Job 33:14-30), y prepara el terreno teológico para el discurso de Yahvé al insistir en la incomparable grandeza divina (Job 36:22-37:24). El libro no lo reprende explícitamente como a los otros tres, aunque tampoco es elogiado; su función es puente, no solución final.",
+        "en": "Elihu introduces a perspective the three friends did not offer: suffering as God's pedagogical instrument in addition to discipline for sin (Job 33:14-30), and prepares the theological ground for Yahweh's speech by insisting on God's incomparable greatness (Job 36:22-37:24). The book does not explicitly rebuke him as it does the other three, though he is not praised either; his function is a bridge, not the final solution.",
+        "pt": "Eliú introduz uma perspectiva que os três amigos não ofereceram: o sofrimento como instrumento pedagógico de Deus além de disciplina por pecado (Jó 33:14-30), e prepara o terreno teológico para o discurso de Javé ao insistir na incomparável grandeza divina (Jó 36:22-37:24). O livro não o repreende explicitamente como aos outros três, embora tampouco seja elogiado; sua função é de ponte, não de solução final."
+      },
+      "tipo": {
+        "es": "No funciona como tipo pleno de Cristo, aunque su papel de voz intermedia que prepara el camino para la revelación divina evoca lejanamente —sin cumplirlo— el oficio profético que culmina en Cristo",
+        "en": "Does not function as a full type of Christ, though his role as an intermediate voice preparing the way for divine revelation distantly evokes—without fulfilling—the prophetic office that culminates in Christ",
+        "pt": "Não funciona como tipo pleno de Cristo, embora seu papel de voz intermediária que prepara o caminho para a revelação divina evoque distantemente — sem cumpri-lo — o ofício profético que culmina em Cristo"
+      },
+      "caracterMoral": {
+        "es": "Celoso por la honra de Dios y más perceptivo que los tres amigos, pero también propenso a la vanidad juvenil y a hablar con exceso de confianza en su propia sabiduría (Job 32:6-10; 36:2-4)",
+        "en": "Zealous for God's honor and more perceptive than the three friends, yet also prone to youthful vanity and speaking with excessive confidence in his own wisdom (Job 32:6-10; 36:2-4)",
+        "pt": "Zeloso pela honra de Deus e mais perceptivo do que os três amigos, mas também propenso à vaidade juvenil e a falar com excesso de confiança em sua própria sabedoria (Jó 32:6-10; 36:2-4)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Se presenta en Job 32 tras los tres ciclos de discursos, identificado como buzita de la familia de Ram. Habla en cuatro discursos consecutivos (Job 32-37) sin que ni Job ni Dios lo interrumpan o le respondan directamente, y desaparece de la narrativa antes del discurso de Yahvé",
+          "en": "He appears in Job 32 after the three cycles of speeches, identified as a Buzite of the family of Ram. He speaks in four consecutive speeches (Job 32-37) without Job or God interrupting or directly answering him, and disappears from the narrative before Yahweh's speech",
+          "pt": "Apresenta-se em Jó 32 após os três ciclos de discursos, identificado como buzita da família de Rão. Fala em quatro discursos consecutivos (Jó 32-37) sem que Jó ou Deus o interrompam ou lhe respondam diretamente, e desaparece da narrativa antes do discurso de Javé"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 32:2-4",
+          "Job 33:14",
+          "Job 36:22-23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Buz aparece como sobrino de Abraham a través de Nacor (Gn 22:20-21), lo cual, si es la misma referencia geográfica, situaría a Eliú también dentro del círculo familiar amplio de Abraham",
+          "en": "Buz appears as a nephew of Abraham through Nahor (Gen 22:20-21), which, if this is the same geographic reference, would place Elihu also within Abraham's wider family circle",
+          "pt": "Buz aparece como sobrinho de Abraão por meio de Naor (Gn 22:20-21), o que, se for a mesma referência geográfica, situaria Eliú também dentro do círculo familiar mais amplo de Abraão"
+        },
+        "fuentes": [],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La conexión con Buz, sobrino de Abraham, es consistente con el marco patriarcal amplio del libro, aunque no puede confirmarse con certeza",
+          "en": "The connection to Buz, Abraham's nephew, is consistent with the book's broader patriarchal framework, though it cannot be confirmed with certainty",
+          "pt": "A conexão com Buz, sobrinho de Abraão, é consistente com o quadro patriarcal mais amplo do livro, embora não possa ser confirmada com certeza"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 32:2",
+        "Job 37:23-24"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No aparece directamente en el Nuevo Testamento",
+        "en": "He does not appear directly in the New Testament",
+        "pt": "Não aparece diretamente no Novo Testamento"
+      }
+    },
+    {
+      "nombre": {
+        "es": "La esposa de Job",
+        "en": "Job's wife",
+        "pt": "A mulher de Jó"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "La esposa de Job, no nombrada en el texto hebreo, que tras presenciar el colapso total de su familia y la aflicción física de su esposo, lo insta a maldecir a Dios y morir.",
+        "en": "Job's wife, unnamed in the Hebrew text, who after witnessing the total collapse of her family and her husband's physical affliction, urges him to curse God and die.",
+        "pt": "A mulher de Jó, não nomeada no texto hebraico, que, após presenciar o colapso total de sua família e a aflição física de seu marido, o insta a amaldiçoar a Deus e morrer."
+      },
+      "acciones": {
+        "es": "Pregunta a Job si aún conserva su integridad y le dice: 'Maldice a Dios y muérete' (Job 2:9); es reprendida por Job como si hablara 'como una insensata' (Job 2:10), aunque el texto no la condena explícitamente más allá de esa reprensión",
+        "en": "Asks Job whether he still holds fast his integrity and tells him, 'Curse God and die' (Job 2:9); is rebuked by Job as speaking 'as one of the foolish women' (Job 2:10), though the text does not explicitly condemn her beyond that rebuke",
+        "pt": "Pergunta a Jó se ainda conserva sua integridade e lhe diz: 'Amaldiçoa a Deus, e morre' (Jó 2:9); é repreendida por Jó como quem fala 'como uma insensata' (Jó 2:10), embora o texto não a condene explicitamente além dessa repreensão"
+      },
+      "significadoTeologico": {
+        "es": "Su voz articula la tentación más directa de todo el libro: abandonar la fe ante el sufrimiento sin sentido aparente. Su presencia recuerda que ella también sufrió la pérdida de los diez hijos, lo que matiza su desesperación como dolor genuino y no mera impiedad gratuita",
+        "en": "Her voice articulates the most direct temptation in the entire book: to abandon faith in the face of apparently senseless suffering. Her presence reminds us that she too suffered the loss of the ten children, which nuances her despair as genuine grief rather than mere gratuitous impiety",
+        "pt": "Sua voz articula a tentação mais direta de todo o livro: abandonar a fé diante do sofrimento aparentemente sem sentido. Sua presença lembra que ela também sofreu a perda dos dez filhos, o que qualifica seu desespero como dor genuína e não mera impiedade gratuita"
+      },
+      "tipo": {
+        "es": "No funciona como tipo de Cristo; su voz articula la tentación de abandonar la fe ante el sufrimiento, un contraste directo con la perseverancia de Job",
+        "en": "Does not function as a type of Christ; her voice articulates the temptation to abandon faith in the face of suffering, a direct contrast with Job's perseverance",
+        "pt": "Não funciona como tipo de Cristo; sua voz articula a tentação de abandonar a fé diante do sofrimento, um contraste direto com a perseverança de Jó"
+      },
+      "caracterMoral": {
+        "es": "Su consejo es censurado por Job como insensato, aunque el texto retrata su desesperación con cierta comprensión implícita dado el alcance de su propia pérdida",
+        "en": "Her counsel is censured by Job as foolish, though the text portrays her despair with a degree of implicit understanding given the scope of her own loss",
+        "pt": "Seu conselho é censurado por Jó como insensato, embora o texto retrate seu desespero com certa compreensão implícita dado o alcance de sua própria perda"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Aparece brevemente en Job 2:9-10, instando a Job a maldecir a Dios; no vuelve a aparecer explícitamente, aunque se presupone su presencia en la restauración final junto con nuevos hijos (Job 42:13)",
+          "en": "She appears briefly in Job 2:9-10, urging Job to curse God; she does not explicitly reappear, though her presence is presupposed in the final restoration along with new children (Job 42:13)",
+          "pt": "Aparece brevemente em Jó 2:9-10, instando Jó a amaldiçoar a Deus; não reaparece explicitamente, embora sua presença seja pressuposta na restauração final junto com novos filhos (Jó 42:13)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 2:9-10"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay evidencia histórica independiente sobre ella; su rol social como esposa de un jeque pastoril patriarcal es coherente con las estructuras familiares del segundo milenio a.C.",
+          "en": "There is no independent historical evidence about her; her social role as the wife of a patriarchal pastoral chieftain is consistent with second-millennium BC family structures",
+          "pt": "Não há evidência histórica independente sobre ela; seu papel social como esposa de um chefe pastoril patriarcal é coerente com as estruturas familiares do segundo milênio a.C."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "Coherente con el marco social patriarcal general del libro",
+          "en": "Consistent with the book's overall patriarchal social framework",
+          "pt": "Coerente com o quadro social patriarcal geral do livro"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 2:9-10"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No aparece en el Nuevo Testamento",
+        "en": "She does not appear in the New Testament",
+        "pt": "Não aparece no Novo Testamento"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH",
+        "pt": "Deus · YHWH"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "descripcion": {
+        "es": "El Señor mismo, que preside la corte celestial (Job 1-2), permite y limita la prueba de Job, y finalmente responde en persona desde un torbellino (Job 38:1), no con una explicación del sufrimiento sino con un despliegue abrumador de su sabiduría y poder sobre toda la creación.",
+        "en": "The Lord himself, who presides over the heavenly court (Job 1-2), permits and limits Job's test, and finally answers in person from a whirlwind (Job 38:1), not with an explanation of the suffering but with an overwhelming display of his wisdom and power over all creation.",
+        "pt": "O próprio Senhor, que preside a corte celestial (Jó 1-2), permite e limita a prova de Jó, e finalmente responde pessoalmente desde um turbilhão (Jó 38:1), não com uma explicação do sofrimento, mas com uma demonstração avassaladora de sua sabedoria e poder sobre toda a criação."
+      },
+      "acciones": {
+        "es": "Elogia la integridad de Job ante Satanás (Job 1:8; 2:3); fija límites precisos a lo que Satanás puede hacer (Job 1:12; 2:6); guarda silencio durante todo el debate de los amigos; habla dos veces desde el torbellino interrogando a Job sobre la creación y el gobierno del mundo (Job 38-41); reprende a los tres amigos por no haber hablado con rectitud (Job 42:7-8); acepta la intercesión de Job por ellos y restaura a Job con creces (Job 42:9-17)",
+        "en": "Praises Job's integrity before Satan (Job 1:8; 2:3); fixes precise limits on what Satan may do (Job 1:12; 2:6); remains silent throughout the friends' entire debate; speaks twice from the whirlwind, questioning Job about creation and the governance of the world (Job 38-41); rebukes the three friends for not having spoken rightly (Job 42:7-8); accepts Job's intercession for them and restores Job abundantly (Job 42:9-17)",
+        "pt": "Elogia a integridade de Jó diante de Satanás (Jó 1:8; 2:3); fixa limites precisos ao que Satanás pode fazer (Jó 1:12; 2:6); guarda silêncio durante todo o debate dos amigos; fala duas vezes desde o turbilhão interrogando Jó sobre a criação e o governo do mundo (Jó 38-41); repreende os três amigos por não terem falado com retidão (Jó 42:7-8); aceita a intercessão de Jó por eles e restaura Jó abundantemente (Jó 42:9-17)"
+      },
+      "significadoTeologico": {
+        "es": "Dios se presenta como soberano sobre el mal permitido (nunca su autor), incomprensible en sabiduría, y fiel a quien confía en Él sin explicaciones. Su silencio prolongado durante el debate y su respuesta final —preguntas, no argumentos— enseñan que la relación con Dios se sostiene en la revelación de su carácter, no en la resolución intelectual del problema del sufrimiento.",
+        "en": "God presents himself as sovereign over permitted evil (never its author), incomprehensible in wisdom, and faithful to the one who trusts him without explanations. His prolonged silence during the debate and his final response—questions, not arguments—teach that the relationship with God rests on the revelation of his character, not on the intellectual resolution of the problem of suffering.",
+        "pt": "Deus se apresenta como soberano sobre o mal permitido (nunca seu autor), incompreensível em sabedoria, e fiel a quem confia nele sem explicações. Seu silêncio prolongado durante o debate e sua resposta final — perguntas, não argumentos — ensinam que o relacionamento com Deus se sustenta na revelação de seu caráter, não na resolução intelectual do problema do sofrimento."
+      },
+      "tipo": {
+        "es": "No aplica la categoría de 'tipo' en sentido estricto, ya que Yahvé no prefigura a Cristo sino que es Dios mismo; sin embargo, su disposición a limitar el mal, escuchar el lamento humano y finalmente restaurar con abundancia anticipa el carácter que el Nuevo Testamento revela plenamente en Cristo, la imagen visible del Dios invisible (Col 1:15)",
+        "en": "The category of 'type' does not strictly apply, since Yahweh does not prefigure Christ but is God himself; nevertheless, his willingness to limit evil, hear human lament, and finally restore abundantly anticipates the character the New Testament fully reveals in Christ, the visible image of the invisible God (Col 1:15)",
+        "pt": "A categoria de 'tipo' não se aplica em sentido estrito, já que Javé não prefigura Cristo, mas é o próprio Deus; contudo, sua disposição de limitar o mal, ouvir o lamento humano e finalmente restaurar com abundância antecipa o caráter que o Novo Testamento revela plenamente em Cristo, a imagem visível do Deus invisível (Cl 1:15)"
+      },
+      "caracterMoral": {
+        "es": "Perfectamente justo, sabio y soberano; permite el mal sin ser su autor, y su aparente silencio durante el sufrimiento de Job no es indiferencia sino un gobierno que opera en un plano que Job no puede juzgar (Job 38:2)",
+        "en": "Perfectly just, wise, and sovereign; he permits evil without being its author, and his apparent silence during Job's suffering is not indifference but a governance operating on a plane Job cannot judge (Job 38:2)",
+        "pt": "Perfeitamente justo, sábio e soberano; permite o mal sem ser seu autor, e seu aparente silêncio durante o sofrimento de Jó não é indiferença, mas um governo que opera em um plano que Jó não pode julgar (Jó 38:2)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Dios preside la corte celestial y autoriza la doble prueba de Job dentro de límites fijos (Job 1-2). Guarda silencio durante treinta y siete capítulos de debate humano. Responde finalmente desde el torbellino en dos discursos (Job 38:1-40:2; 40:6-41:34) que interrogan a Job sobre el origen y gobierno de la creación. Cierra el libro reprendiendo a los tres amigos, aceptando la intercesión de Job, y restaurándolo con el doble de sus posesiones anteriores (Job 42:7-17)",
+          "en": "God presides over the heavenly court and authorizes Job's double test within fixed limits (Job 1-2). He remains silent through thirty-seven chapters of human debate. He finally answers from the whirlwind in two speeches (Job 38:1-40:2; 40:6-41:34) questioning Job about the origin and governance of creation. He closes the book by rebuking the three friends, accepting Job's intercession, and restoring him with double his former possessions (Job 42:7-17)",
+          "pt": "Deus preside a corte celestial e autoriza a dupla prova de Jó dentro de limites fixos (Jó 1-2). Guarda silêncio durante trinta e sete capítulos de debate humano. Finalmente responde desde o turbilhão em dois discursos (Jó 38:1-40:2; 40:6-41:34) que interrogam Jó sobre a origem e o governo da criação. Encerra o livro repreendendo os três amigos, aceitando a intercessão de Jó, e o restaurando com o dobro de suas posses anteriores (Jó 42:7-17)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 1:8",
+          "Job 1:12",
+          "Job 38:1",
+          "Job 38:4",
+          "Job 42:7",
+          "Job 42:10"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La categoría de evidencia histórica extrabíblica, diseñada para evaluar la corroboración documental de personas y pueblos, no se aplica propiamente a Dios mismo, cuya existencia y actuación son objeto de la fe y la revelación, no de la investigación arqueológica. Lo que sí puede documentarse históricamente es el género literario: las escenas de consejo celestial y teofanía en tormenta que enmarcan la aparición de Yahvé tienen paralelos formales bien atestiguados en la literatura del Cercano Oriente antiguo.",
+          "en": "The category of extrabiblical historical evidence, designed to assess documentary corroboration of persons and peoples, does not properly apply to God himself, whose existence and action are the object of faith and revelation, not archaeological investigation. What can be historically documented is the literary genre: the heavenly council and storm-theophany scenes that frame Yahweh's appearance have well-attested formal parallels in ancient Near Eastern literature.",
+          "pt": "A categoria de evidência histórica extrabíblica, projetada para avaliar a corroboração documental de pessoas e povos, não se aplica propriamente ao próprio Deus, cuja existência e atuação são objeto da fé e da revelação, não da investigação arqueológica. O que pode ser documentado historicamente é o gênero literário: as cenas de conselho celestial e teofania em tempestade que emolduram a aparição de Javé têm paralelos formais bem atestados na literatura do Antigo Oriente Próximo."
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "género de teofanía",
+              "consejo celestial"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Esta clasificación se aplica aquí no como corroboración de la existencia de Dios —una afirmación propiamente teológica, ajena al método histórico-crítico— sino como reconocimiento de que el marco literario del consejo celestial y la teofanía de tormenta es un género bien documentado en el Cercano Oriente antiguo, lo cual sitúa la forma de la revelación de Yahvé dentro de convenciones literarias reconocibles de su época sin reducir su contenido teológico a mero paralelismo cultural",
+          "en": "This classification applies here not as corroboration of God's existence—a properly theological claim, outside the historical-critical method—but as recognition that the literary framework of the heavenly council and storm theophany is a well-documented genre in the ancient Near East, situating the form of Yahweh's revelation within recognizable literary conventions of its era without reducing its theological content to mere cultural parallelism",
+          "pt": "Essa classificação se aplica aqui não como corroboração da existência de Deus — uma afirmação propriamente teológica, alheia ao método histórico-crítico — mas como reconhecimento de que o arcabouço literário do conselho celestial e da teofania de tempestade é um gênero bem documentado no Antigo Oriente Próximo, situando a forma da revelação de Javé dentro de convenções literárias reconhecíveis de sua época sem reduzir seu conteúdo teológico a mero paralelismo cultural"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 1:8",
+        "Job 38:4",
+        "Job 42:7"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "El Nuevo Testamento revela plenamente en Cristo al mismo Dios que habló a Job desde el torbellino: 'Nadie ha visto jamás a Dios; el Dios unigénito... Él lo ha dado a conocer' (Jn 1:18), y en Cristo 'habita toda la plenitud de la Deidad corporalmente' (Col 2:9)",
+        "en": "The New Testament fully reveals in Christ the same God who spoke to Job from the whirlwind: 'No one has ever seen God; the only God... he has made him known' (John 1:18), and in Christ 'the whole fullness of deity dwells bodily' (Col 2:9)",
+        "pt": "O Novo Testamento revela plenamente em Cristo o mesmo Deus que falou a Jó desde o turbilhão: 'Ninguém jamais viu a Deus; o Deus unigênito... esse o deu a conhecer' (Jo 1:18), e em Cristo 'habita corporalmente toda a plenitude da divindade' (Cl 2:9)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Las hijas de Job: Jemima, Cesia y Keren-hapuc",
+        "en": "Job's Daughters: Jemimah, Keziah, and Keren-happuch",
+        "pt": "As filhas de Jó: Jemima, Quézia e Queren-Hapuque"
+      },
+      "hebreo": "יְמִימָה, קְצִיעָה, קֶרֶן הַפּוּךְ",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        42
+      ],
+      "descripcion": {
+        "es": "Las tres hijas nacidas a Job después de su restauración, individualmente nombradas —a diferencia de sus siete hermanos, que quedan anónimos—, descritas como las mujeres más hermosas de toda la tierra (Job 42:15).",
+        "en": "The three daughters born to Job after his restoration, individually named—unlike their seven brothers, who remain anonymous—described as the most beautiful women in all the land (Job 42:15).",
+        "pt": "As três filhas nascidas a Jó depois de sua restauração, individualmente nomeadas — diferente de seus sete irmãos, que permanecem anônimos —, descritas como as mulheres mais belas de toda a terra (Jó 42:15)."
+      },
+      "acciones": {
+        "es": "Nacen a Job en los años de su restauración, junto a siete hijos varones (Job 42:13); reciben herencia junto a sus hermanos, un gesto legal inusual para hijas con hermanos varones vivos en el mundo patriarcal (Job 42:15)",
+        "en": "They are born to Job in the years of his restoration, alongside seven sons (Job 42:13); they receive an inheritance alongside their brothers, an unusual legal gesture for daughters with living brothers in the patriarchal world (Job 42:15)",
+        "pt": "Nascem a Jó nos anos de sua restauração, junto com sete filhos varões (Jó 42:13); recebem herança junto com seus irmãos, um gesto legal incomum para filhas com irmãos vivos no mundo patriarcal (Jó 42:15)"
+      },
+      "significadoTeologico": {
+        "es": "Que el texto se detenga a nombrarlas individualmente —cosa que no hace con los hijos varones— y a destacar que recibieron herencia junto a sus hermanos, sin que la ley lo exigiera (a diferencia del caso de las hijas de Zelofehad, motivado por la ausencia de hermanos varones, Nm 27:1-11), subraya el carácter sobreabundante y deliberadamente generoso de la restauración de Job: Dios no solo repone lo perdido, sino que bendice más allá de lo esperado y de las convenciones sociales.",
+        "en": "That the text pauses to name them individually—something it does not do for the sons—and to highlight that they received an inheritance alongside their brothers, without the law requiring it (unlike the case of Zelophehad's daughters, motivated by the absence of brothers, Num 27:1-11), underscores the superabundant and deliberately generous character of Job's restoration: God not only replaces what was lost but blesses beyond expectation and social convention.",
+        "pt": "Que o texto pare para nomeá-las individualmente — algo que não faz com os filhos varões — e destacar que receberam herança junto com seus irmãos, sem que a lei o exigisse (diferente do caso das filhas de Zelofeade, motivado pela ausência de irmãos, Nm 27:1-11), ressalta o caráter sobreabundante e deliberadamente generoso da restauração de Jó: Deus não apenas repõe o que foi perdido, mas abençoa além da expectativa e das convenções sociais."
+      },
+      "tipo": {
+        "es": "No funcionan como tipo de Cristo; su inclusión ilustra más bien la generosidad sobreabundante de la restauración divina, un anticipo del principio de la gracia que da más de lo estrictamente necesario o merecido",
+        "en": "They do not function as a type of Christ; their inclusion instead illustrates the superabundant generosity of divine restoration, a foretaste of the principle of grace that gives more than what is strictly necessary or deserved",
+        "pt": "Não funcionam como tipo de Cristo; sua inclusão ilustra antes a generosidade sobreabundante da restauração divina, uma antecipação do princípio da graça que dá mais do que o estritamente necessário ou merecido"
+      },
+      "caracterMoral": {
+        "es": "El texto no ofrece evaluación moral alguna sobre ellas; su función narrativa es servir de signo tangible de la plenitud de la bendición restauradora de Dios sobre Job",
+        "en": "The text offers no moral evaluation of them; their narrative function is to serve as a tangible sign of the fullness of God's restoring blessing on Job",
+        "pt": "O texto não oferece avaliação moral alguma sobre elas; sua função narrativa é servir de sinal tangível da plenitude da bênção restauradora de Deus sobre Jó"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Nacen a Job junto a siete hijos en el período de su restauración (Job 42:13), son nombradas individualmente como Jemima, Cesia y Keren-hapuc, descritas como las más hermosas de la tierra, y reciben herencia junto a sus hermanos (Job 42:14-15)",
+          "en": "They are born to Job alongside seven sons in the period of his restoration (Job 42:13), are individually named Jemimah, Keziah, and Keren-happuch, described as the most beautiful in the land, and receive an inheritance alongside their brothers (Job 42:14-15)",
+          "pt": "Nascem a Jó junto com sete filhos no período de sua restauração (Jó 42:13), são nomeadas individualmente como Jemima, Quézia e Queren-Hapuque, descritas como as mais belas da terra, e recebem herança junto com seus irmãos (Jó 42:14-15)"
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Job 42:13",
+          "Job 42:14",
+          "Job 42:15"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia histórica independiente sobre ellas; la práctica de otorgar herencia a hijas con hermanos varones vivos es notable dentro de las convenciones patriarcales del segundo milenio a.C., donde la herencia femenina solía depender de la ausencia de herederos varones",
+          "en": "There is no independent historical evidence about them; the practice of granting inheritance to daughters with living brothers is notable within second-millennium BC patriarchal conventions, where female inheritance typically depended on the absence of male heirs",
+          "pt": "Não existe evidência histórica independente sobre elas; a prática de conceder herança a filhas com irmãos vivos é notável dentro das convenções patriarcais do segundo milênio a.C., em que a herança feminina costumava depender da ausência de herdeiros varões"
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "Coherente con el tono general de superabundancia que caracteriza toda la escena de restauración final del libro",
+          "en": "Consistent with the overall tone of superabundance that characterizes the book's entire final restoration scene",
+          "pt": "Coerente com o tom geral de superabundância que caracteriza toda a cena de restauração final do livro"
+        }
+      },
+      "versiculosAsociados": [
+        "Job 42:13-15"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No aparecen en el Nuevo Testamento",
+        "en": "They do not appear in the New Testament",
+        "pt": "Não aparecem no Novo Testamento"
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "Los discursos de Yahvé desde el torbellino (Job 38-41) constituyen la revelación más extensa del libro sobre el carácter de Dios: transcendente, sabio más allá de toda comprensión humana, y soberano sobre cada rincón de la creación, desde las constelaciones hasta el comportamiento del avestruz. Dios no responde a la pregunta de Job sobre el 'por qué', sino que despliega el 'quién' de sí mismo, y esa revelación basta.",
+        "en": "Yahweh's speeches from the whirlwind (Job 38-41) form the book's most extensive revelation of God's character: transcendent, wise beyond all human comprehension, and sovereign over every corner of creation, from the constellations to the behavior of the ostrich. God does not answer Job's 'why,' but instead unfolds the 'who' of himself, and that revelation is enough.",
+        "pt": "Os discursos de Javé desde o turbilhão (Jó 38-41) constituem a revelação mais extensa do livro sobre o caráter de Deus: transcendente, sábio além de toda compreensão humana, e soberano sobre cada canto da criação, desde as constelações até o comportamento do avestruz. Deus não responde à pergunta de Jó sobre o 'porquê', mas revela o 'quem' de si mesmo, e essa revelação basta."
+      },
+      "pasajes": [
+        "Job 38:4",
+        "Job 38:33",
+        "Job 40:2",
+        "Job 42:2"
+      ],
+      "ensenanza": {
+        "es": "Dios interroga a Job sobre su ausencia en la creación del mundo, exponiendo los límites del conocimiento humano · Dios pregunta si Job puede establecer las leyes que gobiernan los cielos · Dios cuestiona si un simple crítico puede contender legítimamente con el Todopoderoso · Job confiesa que ningún propósito de Dios puede ser frustrado",
+        "en": "God questions Job about his absence at the world's creation, exposing the limits of human knowledge · God asks whether Job can establish the laws governing the heavens · God questions whether a mere critic can rightly contend with the Almighty · Job confesses that no purpose of God can be thwarted",
+        "pt": "Deus interroga Jó sobre sua ausência na criação do mundo, expondo os limites do conhecimento humano · Deus pergunta se Jó pode estabelecer as leis que governam os céus · Deus questiona se um mero crítico pode legitimamente contender com o Todo-Poderoso · Jó confessa que nenhum propósito de Deus pode ser frustrado"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee los discursos divinos de Job como el fundamento bíblico clásico de la incomprensibilidad e infinitud de Dios (cf. WCF 2.1): la fe descansa en el carácter conocido de Dios, no en una explicación exhaustiva de sus caminos.",
+        "en": "The Reformed tradition reads Job's divine speeches as the classic biblical grounding for God's incomprehensibility and infinity (cf. WCF 2.1): faith rests on God's known character, not on an exhaustive explanation of his ways.",
+        "pt": "A tradição reformada lê os discursos divinos de Jó como o fundamento bíblico clássico da incompreensibilidade e infinitude de Deus (cf. WCF 2.1): a fé repousa no caráter conhecido de Deus, não em uma explicação exaustiva de seus caminhos."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Cada calamidad que sufre Job ocurre estrictamente dentro de los límites que Dios mismo establece a Satanás, y la propia confesión de Job atribuye tanto la bendición como la calamidad, en última instancia, a la mano del Señor, nunca al azar ciego ni a un adversario autónomo.",
+        "en": "Every calamity Job suffers occurs strictly within the limits God himself sets for Satan, and Job's own confession attributes both blessing and calamity ultimately to the hand of the Lord, never to blind chance or an autonomous adversary.",
+        "pt": "Cada calamidade que Jó sofre ocorre estritamente dentro dos limites que o próprio Deus estabelece para Satanás, e a própria confissão de Jó atribui tanto a bênção quanto a calamidade, em última instância, à mão do Senhor, nunca ao acaso cego nem a um adversário autônomo."
+      },
+      "pasajes": [
+        "Job 1:12",
+        "Job 1:21",
+        "Job 2:6",
+        "Job 42:11"
+      ],
+      "ensenanza": {
+        "es": "Dios establece límites explícitos sobre lo que Satanás puede hacer contra las posesiones y la familia de Job · Job atribuye tanto el dar como el quitar al Señor mismo · Dios vuelve a limitar el poder de Satanás, esta vez sobre el cuerpo de Job pero no sobre su vida · La familia de Job lo consuela por todo el mal que el Señor había traído sobre él",
+        "en": "God sets explicit limits on what Satan may do against Job's possessions and family · Job attributes both giving and taking to the Lord himself · God again limits Satan's power, this time over Job's body but not his life · Job's family comforts him for all the evil the Lord had brought upon him",
+        "pt": "Deus estabelece limites explícitos sobre o que Satanás pode fazer contra as posses e a família de Jó · Jó atribui tanto o dar quanto o tirar ao próprio Senhor · Deus novamente limita o poder de Satanás, desta vez sobre o corpo de Jó, mas não sobre sua vida · A família de Jó o consola por todo o mal que o Senhor havia trazido sobre ele"
+      },
+      "distintivaReformada": {
+        "es": "La teología del pacto insiste en que las causas segundas —Satanás, los sabeos, el viento del desierto— nunca operan fuera del decreto de Dios; esto fundamenta la doctrina reformada de la providencia, que abarca incluso la calamidad (WCF 5.4) sin hacer a Dios autor del pecado.",
+        "en": "Covenant theology insists that secondary causes—Satan, the Sabeans, the desert wind—never operate outside God's decree; this grounds the Reformed doctrine of providence, which encompasses even calamity (WCF 5.4) without making God the author of sin.",
+        "pt": "A teologia do pacto insiste que as causas segundas — Satanás, os sabeus, o vento do deserto — nunca operam fora do decreto de Deus; isso fundamenta a doutrina reformada da providência, que abrange até mesmo a calamidade (WCF 5.4) sem fazer de Deus o autor do pecado."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Antropología",
+        "en": "Anthropology",
+        "pt": "Antropologia"
+      },
+      "resumen": {
+        "es": "Job lucha con lo que significa ser humano ante un Dios infinito: finito, frágil, incapaz de ser justo por mérito propio frente a Dios, y finalmente llamado al arrepentimiento en polvo y ceniza en lugar de la autojustificación.",
+        "en": "Job wrestles with what it means to be human before an infinite God: finite, frail, unable to be righteous by his own merit before God, and finally called to repentance in dust and ashes rather than self-justification.",
+        "pt": "Jó luta com o que significa ser humano diante de um Deus infinito: finito, frágil, incapaz de ser justo por mérito próprio diante de Deus, e finalmente chamado ao arrependimento em pó e cinza em vez da autojustificação."
+      },
+      "pasajes": [
+        "Job 4:17",
+        "Job 14:1-2",
+        "Job 25:4",
+        "Job 42:6"
+      ],
+      "ensenanza": {
+        "es": "Elifaz pregunta si el hombre mortal puede ser justo delante de Dios · Job lamenta que la vida humana es breve y llena de aflicción, como una flor que se marchita · Bildad cuestiona cómo puede ser puro el nacido de mujer ante Dios · Job se retracta y se arrepiente en polvo y ceniza tras ver a Dios",
+        "en": "Eliphaz asks whether mortal man can be righteous before God · Job laments that human life is brief and full of trouble, like a fading flower · Bildad questions how one born of woman can be pure before God · Job retracts and repents in dust and ashes after seeing God",
+        "pt": "Elifaz pergunta se o homem mortal pode ser justo diante de Deus · Jó lamenta que a vida humana é breve e cheia de aflição, como uma flor que murcha · Bildade questiona como pode ser puro o nascido de mulher diante de Deus · Jó se retrata e se arrepende em pó e cinza depois de ver a Deus"
+      },
+      "distintivaReformada": {
+        "es": "La antropología reformada afirma que la integridad humana genuina solo es posible como un don reconocido delante de Dios (Job 1:1,8), no como mérito autogenerado, y que el verdadero autoconocimiento culmina en arrepentimiento, no en desesperación.",
+        "en": "Reformed anthropology affirms that genuine human integrity is possible only as a gift acknowledged before God (Job 1:1,8), not as self-generated merit, and that true self-knowledge culminates in repentance, not despair.",
+        "pt": "A antropologia reformada afirma que a integridade humana genuína só é possível como um dom reconhecido diante de Deus (Jó 1:1,8), não como mérito autogerado, e que o verdadeiro autoconhecimento culmina em arrependimento, não em desespero."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Angelología",
+        "en": "Angelology",
+        "pt": "Angelologia"
+      },
+      "resumen": {
+        "es": "La escena de la corte celestial en el prólogo, con 'los hijos de Dios' presentándose ante el Señor y Satanás entre ellos, ofrece la ventana veterotestamentaria más desarrollada sobre la realidad y subordinación del reino angélico y demoníaco al trono de Dios.",
+        "en": "The heavenly court scene in the prologue, with 'the sons of God' presenting themselves before the Lord and Satan among them, offers the most developed Old Testament window into the reality and subordination of the angelic and demonic realm to God's throne.",
+        "pt": "A cena da corte celestial no prólogo, com 'os filhos de Deus' se apresentando diante do Senhor e Satanás entre eles, oferece a janela veterotestamentária mais desenvolvida sobre a realidade e a subordinação do reino angélico e demoníaco ao trono de Deus."
+      },
+      "pasajes": [
+        "Job 1:6",
+        "Job 1:9-11",
+        "Job 2:1",
+        "Job 38:7"
+      ],
+      "ensenanza": {
+        "es": "Los hijos de Dios, incluido Satanás, se presentan ante el Señor · Satanás acusa a Job de una piedad interesada y pide permiso para probarlo · El consejo celestial se reúne por segunda vez ante Dios · Las estrellas de la mañana y los hijos de Dios se regocijan en la creación",
+        "en": "The sons of God, including Satan, present themselves before the Lord · Satan accuses Job of self-interested piety and requests permission to test him · The heavenly council convenes a second time before God · The morning stars and sons of God shout for joy at creation",
+        "pt": "Os filhos de Deus, incluindo Satanás, apresentam-se diante do Senhor · Satanás acusa Jó de piedade interesseira e pede permissão para prová-lo · O conselho celestial se reúne pela segunda vez diante de Deus · As estrelas da manhã e os filhos de Deus se regozijam na criação"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada lee este consejo celestial como confirmación de que incluso los poderes espirituales hostiles son criaturas bajo la autoridad absoluta de Dios, nunca rivales independientes de su trono (cf. WCF 5.1).",
+        "en": "Reformed theology reads this heavenly council as confirming that even hostile spiritual powers are creatures under God's absolute authority, never independent rivals to his throne (cf. WCF 5.1).",
+        "pt": "A teologia reformada lê esse conselho celestial como confirmação de que até mesmo os poderes espirituais hostis são criaturas sob a autoridade absoluta de Deus, nunca rivais independentes de seu trono (cf. WCF 5.1)."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía"
+      ],
+      "resumen": {
+        "es": "Dios, el gran Creador de todas las cosas, sostiene, dirige, dispone y gobierna todas las criaturas, acciones y cosas mediante su sabidísima y santísima providencia, incluyendo el mal que él mismo ordena para sus propios santos fines sin ser el autor del pecado. El libro de Job es el testimonio narrativo más extenso del canon de esta doctrina: Satanás actúa, los sabeos roban, el viento destruye, pero todo dentro del límite fijado por Dios.",
+        "en": "God, the great Creator of all things, upholds, directs, disposes, and governs all creatures, actions, and things by his most wise and holy providence, including evil which he himself orders for his own holy ends without being the author of sin. The book of Job is the canon's most extensive narrative testimony to this doctrine: Satan acts, the Sabeans steal, the wind destroys, yet all within the limit God fixes.",
+        "pt": "Deus, o grande Criador de todas as coisas, sustenta, dirige, dispõe e governa todas as criaturas, ações e coisas por sua sapientíssima e santíssima providência, incluindo o mal que ele mesmo ordena para seus próprios santos fins sem ser o autor do pecado. O livro de Jó é o testemunho narrativo mais extenso do cânon sobre essa doutrina: Satanás age, os sabeus roubam, o vento destrói, mas tudo dentro do limite fixado por Deus."
+      },
+      "genesis": [
+        "Job 1:12",
+        "Job 2:6",
+        "Job 42:2"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 2",
+      "titulo": {
+        "es": "De Dios y de la Santa Trinidad",
+        "en": "Of God, and of the Holy Trinity",
+        "pt": "De Deus e da Santa Trindade"
+      },
+      "doctrinas": [
+        "Teología Propia",
+        "Atributos de Dios"
+      ],
+      "resumen": {
+        "es": "Dios es infinito en ser y perfección, incomprensible, todopoderoso y de sabiduría insondable. Los discursos de Yahvé en Job 38-41 son la exposición bíblica más extensa de estos atributos en forma poética: preguntas retóricas que exponen la brecha absoluta entre el conocimiento finito del hombre y la sabiduría infinita de Dios.",
+        "en": "God is infinite in being and perfection, incomprehensible, almighty, and of unsearchable wisdom. Yahweh's speeches in Job 38-41 are the most extensive biblical exposition of these attributes in poetic form: rhetorical questions that expose the absolute gap between man's finite knowledge and God's infinite wisdom.",
+        "pt": "Deus é infinito em ser e perfeição, incompreensível, todo-poderoso e de sabedoria insondável. Os discursos de Javé em Jó 38-41 são a exposição bíblica mais extensa desses atributos em forma poética: perguntas retóricas que expõem o abismo absoluto entre o conhecimento finito do homem e a sabedoria infinita de Deus."
+      },
+      "genesis": [
+        "Job 38:4",
+        "Job 38:33",
+        "Job 42:2"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-2"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Job 1:21",
+      "es": "Y dijo: 'Desnudo salí del vientre de mi madre, y desnudo volveré allá. El SEÑOR dio, y el SEÑOR quitó; bendito sea el nombre del SEÑOR.'",
+      "en": "And he said, 'Naked I came from my mother's womb, and naked shall I return. The LORD gave, and the LORD has taken away; blessed be the name of the LORD.'",
+      "pt": "E disse: Nu saí do ventre de minha mãe e nu tornarei para lá; o Senhor deu, e o Senhor tomou; bendito seja o nome do Senhor.",
+      "nota": {
+        "es": "La respuesta de Job a la pérdida total de su familia y posesiones establece el patrón teológico de todo el libro: la bendición atribuye gloria a Dios, la pérdida también, porque ambas proceden de la misma mano soberana. Esta confesión, pronunciada antes de cualquier explicación, es el ancla que sostiene el resto del drama.",
+        "en": "Job's response to the total loss of his family and possessions establishes the theological pattern for the whole book: blessing gives glory to God, and loss does too, because both come from the same sovereign hand. This confession, spoken before any explanation is given, is the anchor that sustains the rest of the drama.",
+        "pt": "A resposta de Jó à perda total de sua família e posses estabelece o padrão teológico de todo o livro: a bênção dá glória a Deus, e a perda também, porque ambas vêm da mesma mão soberana. Essa confissão, proferida antes de qualquer explicação, é a âncora que sustenta o restante do drama."
+      }
+    },
+    {
+      "ref": "Job 19:25",
+      "es": "Yo sé que mi Redentor vive, y al final se levantará sobre el polvo.",
+      "en": "For I know that my Redeemer lives, and at the last he will stand upon the earth.",
+      "pt": "Porque eu sei que o meu Redentor vive, e que ao fim se levantará sobre a terra.",
+      "nota": {
+        "es": "En medio de su desesperación más profunda, Job expresa la más clara esperanza mesiánica del libro: un 'goel' (redentor-pariente) viviente que vindicará su causa, incluso después de la muerte. La tradición cristiana ha visto aquí una anticipación de Cristo, el Redentor viviente y resucitado.",
+        "en": "In the midst of his deepest despair, Job voices the book's clearest messianic hope: a living 'goel' (kinsman-redeemer) who will vindicate his cause, even after death. Christian tradition has seen here an anticipation of Christ, the living, risen Redeemer.",
+        "pt": "Em meio ao seu desespero mais profundo, Jó expressa a esperança messiânica mais clara do livro: um 'goel' (redentor-parente) vivo que vindicará sua causa, mesmo depois da morte. A tradição cristã tem visto aqui uma antecipação de Cristo, o Redentor vivo e ressuscitado."
+      }
+    },
+    {
+      "ref": "Job 38:4",
+      "es": "¿Dónde estabas tú cuando yo ponía los cimientos de la tierra? Házmelo saber, si tienes inteligencia.",
+      "en": "Where were you when I laid the foundation of the earth? Tell me, if you have understanding.",
+      "pt": "Onde estavas tu quando eu fundava a terra? Faze-mo saber, se tens inteligência.",
+      "nota": {
+        "es": "La primera de una larga serie de preguntas retóricas con las que Dios responde a Job, no explicando su sufrimiento sino reorientando por completo el marco de la conversación: la pregunta correcta no es '¿por qué sufro?' sino '¿quién es Dios?'.",
+        "en": "The first in a long series of rhetorical questions with which God answers Job, not by explaining his suffering but by completely reorienting the frame of the conversation: the right question is not 'why do I suffer?' but 'who is God?'",
+        "pt": "A primeira de uma longa série de perguntas retóricas com as quais Deus responde a Jó, não explicando seu sofrimento, mas reorientando completamente o quadro da conversa: a pergunta correta não é 'por que sofro?', mas 'quem é Deus?'"
+      }
+    },
+    {
+      "ref": "Job 42:6",
+      "es": "Por eso me retracto, y me arrepiento en polvo y ceniza.",
+      "en": "Therefore I despise myself, and repent in dust and ashes.",
+      "pt": "Por isso me abomino, e me arrependo no pó e na cinza.",
+      "nota": {
+        "es": "La respuesta final de Job tras el encuentro con Dios no es una explicación satisfecha sino una humillación gozosa: haber visto a Dios basta para reordenar toda queja anterior en adoración. Este versículo resume la resolución teológica del libro entero.",
+        "en": "Job's final response after encountering God is not a satisfied explanation but a joyful humbling: having seen God is enough to reorder every prior complaint into worship. This verse summarizes the theological resolution of the entire book.",
+        "pt": "A resposta final de Jó após o encontro com Deus não é uma explicação satisfeita, mas uma humilhação alegre: ter visto a Deus basta para reordenar toda queixa anterior em adoração. Este versículo resume a resolução teológica de todo o livro."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La tradición reformada lee Job como la refutación canónica más completa de la teología de retribución mecánica —la idea de que todo sufrimiento es prueba de pecado específico— sin caer en el extremo opuesto de negar la justicia de Dios. El libro afirma simultáneamente la soberanía absoluta de Dios sobre el mal (WCF 5), la genuina inocencia relativa de los creyentes fieles y la necesidad de un mediador-redentor que finalmente resuelva la distancia entre el hombre caído y su Creador, anticipando a Cristo.",
+    "en": "The Reformed tradition reads Job as the canon's most complete refutation of mechanical retribution theology—the idea that all suffering proves specific sin—without falling into the opposite extreme of denying God's justice. The book simultaneously affirms God's absolute sovereignty over evil (WCF 5), the genuine relative innocence of faithful believers, and the need for a mediator-redeemer who will finally close the distance between fallen man and his Creator, anticipating Christ.",
+    "pt": "A tradição reformada lê Jó como a refutação canônica mais completa da teologia de retribuição mecânica — a ideia de que todo sofrimento prova pecado específico — sem cair no extremo oposto de negar a justiça de Deus. O livro afirma simultaneamente a soberania absoluta de Deus sobre o mal (WCF 5), a genuína inocência relativa dos crentes fiéis e a necessidade de um mediador-redentor que finalmente resolva a distância entre o homem caído e seu Criador, antecipando Cristo."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Prólogo: la integridad probada",
+        "en": "Prologue: Integrity Tested",
+        "pt": "Prólogo: a integridade provada"
+      },
+      "descripcion": {
+        "es": "El libro abre presentando a Job como 'intachable y recto, temeroso de Dios' (Job 1:1), el hombre más rico del oriente. En la corte celestial, Satanás desafía a Dios: la piedad de Job depende de sus bendiciones (Job 1:9-11). Dios permite dos pruebas sucesivas —la pérdida de posesiones e hijos (Job 1:13-19) y luego la salud de Job (Job 2:7-8)— dentro de límites que Él mismo fija (Job 1:12; 2:6). Job responde con adoración, no maldición (Job 1:21; 2:10), estableciendo desde el inicio que el sufrimiento ocurre bajo la soberanía divina, dentro del pacto de Dios con los suyos, no fuera de ella.",
+        "en": "The book opens presenting Job as 'blameless and upright, one who feared God' (Job 1:1), the greatest man of the east. In the heavenly court, Satan challenges God: Job's piety depends on his blessings (Job 1:9-11). God permits two successive tests—the loss of possessions and children (Job 1:13-19) and then Job's health (Job 2:7-8)—within limits he himself fixes (Job 1:12; 2:6). Job responds with worship, not cursing (Job 1:21; 2:10), establishing from the outset that suffering occurs under divine sovereignty, within God's covenant care for his own, not outside it.",
+        "pt": "O livro abre apresentando Jó como 'íntegro e reto, temente a Deus' (Jó 1:1), o homem mais rico do oriente. Na corte celestial, Satanás desafia a Deus: a piedade de Jó depende de suas bênçãos (Jó 1:9-11). Deus permite duas provas sucessivas — a perda de posses e filhos (Jó 1:13-19) e depois a saúde de Jó (Jó 2:7-8) — dentro de limites que Ele mesmo fixa (Jó 1:12; 2:6). Jó responde com adoração, não maldição (Jó 1:21; 2:10), estabelecendo desde o início que o sofrimento ocorre sob a soberania divina, dentro do cuidado do pacto de Deus com os seus, não fora dela."
+      },
+      "eventoClave": {
+        "es": "La doble prueba autorizada por Dios y soportada por Job sin pecar establece el problema teológico central del libro (Job 1:12,22; 2:6,10).",
+        "en": "The double test authorized by God and endured by Job without sin establishes the book's central theological problem (Job 1:12,22; 2:6,10).",
+        "pt": "A dupla prova autorizada por Deus e suportada por Jó sem pecar estabelece o problema teológico central do livro (Jó 1:12,22; 2:6,10)."
+      },
+      "versiculoClave": "Job 1:21",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "Job bendice el nombre del Señor al perderlo todo (Job 1:21) y rehúsa maldecir a Dios ante su esposa (Job 2:10), demostrando lealtad de pacto que no depende de recibir bendición.",
+            "en": "Job blesses the Lord's name upon losing everything (Job 1:21) and refuses to curse God before his wife (Job 2:10), demonstrating covenant loyalty that does not depend on receiving blessing.",
+            "pt": "Jó bendiz o nome do Senhor ao perder tudo (Jó 1:21) e recusa-se a amaldiçoar a Deus diante de sua esposa (Jó 2:10), demonstrando lealdade de pacto que não depende de receber bênção."
+          }
+        },
+        "secundarios": [
+          {
+            "Sacrificio/Expiación": {
+              "es": "Job ofrece holocaustos regularmente por si acaso sus hijos hubieran pecado en su corazón (Job 1:5), ejerciendo un rol sacerdotal previo a la ley mosaica.",
+              "en": "Job regularly offers burnt offerings in case his children had sinned in their hearts (Job 1:5), exercising a priestly role prior to the Mosaic law.",
+              "pt": "Jó oferece holocaustos regularmente, caso seus filhos tivessem pecado em seu coração (Jó 1:5), exercendo um papel sacerdotal anterior à lei mosaica."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "El lamento de Job",
+        "en": "Job's Lament",
+        "pt": "O lamento de Jó"
+      },
+      "descripcion": {
+        "es": "Tras siete días de silencio junto a sus amigos (Job 2:13), Job rompe su callar no para maldecir a Dios sino para maldecir el día de su nacimiento (Job 3:1-10). Desea no haber nacido, o haber muerto al nacer (Job 3:11-19), y pregunta por qué se da luz al que sufre y busca la muerte sin hallarla (Job 3:20-23). El capítulo marca el giro de la prosa narrativa a la poesía y fija el tono desesperado que dominará los discursos siguientes.",
+        "en": "After seven days of silence beside his friends (Job 2:13), Job breaks his silence not to curse God but to curse the day of his birth (Job 3:1-10). He wishes he had never been born, or had died at birth (Job 3:11-19), and asks why light is given to the sufferer who seeks death and does not find it (Job 3:20-23). The chapter marks the turn from narrative prose to poetry and sets the despairing tone that will dominate the following speeches.",
+        "pt": "Depois de sete dias de silêncio ao lado de seus amigos (Jó 2:13), Jó rompe seu silêncio não para amaldiçoar a Deus, mas para amaldiçoar o dia de seu nascimento (Jó 3:1-10). Deseja não ter nascido, ou ter morrido ao nascer (Jó 3:11-19), e pergunta por que se dá luz ao que sofre e busca a morte sem encontrá-la (Jó 3:20-23). O capítulo marca a virada da prosa narrativa para a poesia e fixa o tom desesperado que dominará os discursos seguintes."
+      },
+      "eventoClave": {
+        "es": "La maldición de Job sobre su propio nacimiento —nunca sobre Dios— marca el paso de la resistencia silenciosa al lamento abierto que inaugura el diálogo poético.",
+        "en": "Job's curse on his own birth—never on God—marks the shift from silent endurance to open lament that inaugurates the poetic dialogue.",
+        "pt": "A maldição de Jó sobre seu próprio nascimento — nunca sobre Deus — marca a passagem da resistência silenciosa para o lamento aberto que inaugura o diálogo poético."
+      },
+      "versiculoClave": "Job 3:11",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Maldición": {
+            "es": "Job maldice el día de su nacimiento y desea las tinieblas en vez de la luz (Job 3:1-10), un eco poético de la ruptura y el sufrimiento que la caída introdujo en la existencia humana.",
+            "en": "Job curses the day of his birth and desires darkness over light (Job 3:1-10), a poetic echo of the brokenness and suffering the fall introduced into human existence.",
+            "pt": "Jó amaldiçoa o dia de seu nascimento e deseja trevas em vez de luz (Jó 3:1-10), um eco poético da ruptura e do sofrimento que a queda introduziu na existência humana."
+          }
+        }
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 14,
+      "titulo": {
+        "es": "Primer ciclo de discursos",
+        "en": "First Cycle of Speeches",
+        "pt": "Primeiro ciclo de discursos"
+      },
+      "descripcion": {
+        "es": "Elifaz abre el debate apelando a una visión nocturna para argumentar que los inocentes no perecen (Job 4-5); Job responde defendiendo su derecho a lamentarse y anhelando la muerte (Job 6-7). Bildad apela a la tradición ancestral (Job 8); Job admite la grandeza de Dios pero clama por un árbitro que ponga su mano sobre ambos (Job 9:33; Job 9-10). Zofar acusa a Job de merecer aún más castigo (Job 11); Job responde con ironía mordaz y reflexiona sobre la brevedad de la vida humana (Job 12-14; Job 14:1-2).",
+        "en": "Eliphaz opens the debate appealing to a night vision to argue that the innocent do not perish (Job 4-5); Job responds defending his right to lament and longing for death (Job 6-7). Bildad appeals to ancestral tradition (Job 8); Job admits God's greatness but cries out for an arbiter to lay his hand on both of them (Job 9:33; Job 9-10). Zophar accuses Job of deserving even more punishment (Job 11); Job responds with biting irony and reflects on the brevity of human life (Job 12-14; Job 14:1-2).",
+        "pt": "Elifaz abre o debate apelando a uma visão noturna para argumentar que os inocentes não perecem (Jó 4-5); Jó responde defendendo seu direito de lamentar e ansiando pela morte (Jó 6-7). Bildade apela à tradição ancestral (Jó 8); Jó admite a grandeza de Deus, mas clama por um árbitro que ponha sua mão sobre ambos (Jó 9:33; Jó 9-10). Zofar acusa Jó de merecer ainda mais castigo (Jó 11); Jó responde com ironia mordaz e reflete sobre a brevidade da vida humana (Jó 12-14; Jó 14:1-2)."
+      },
+      "eventoClave": {
+        "es": "El clamor de Job por un árbitro que medie entre él y Dios (Job 9:33) introduce el anhelo central del libro por un mediador que finalmente se cumple en Cristo.",
+        "en": "Job's cry for an arbiter to mediate between him and God (Job 9:33) introduces the book's central longing for a mediator, ultimately fulfilled in Christ.",
+        "pt": "O clamor de Jó por um árbitro que medeie entre ele e Deus (Jó 9:33) introduz o anseio central do livro por um mediador que finalmente se cumpre em Cristo."
+      },
+      "versiculoClave": "Job 9:33",
+      "era": "Patriarcal",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Ti 2:5",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El árbitro que Job anhela (Job 9:33) encuentra su cumplimiento en Cristo, el único Mediador entre Dios y los hombres.",
+            "en": "The arbiter Job longs for (Job 9:33) finds its fulfillment in Christ, the one Mediator between God and men.",
+            "pt": "O árbitro que Jó anseia (Jó 9:33) encontra seu cumprimento em Cristo, o único Mediador entre Deus e os homens."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reconciliación": {
+            "es": "Job clama por 'un árbitro' que ponga su mano sobre ambas partes y los reconcilie (Job 9:33), revelando que su mayor necesidad no es una explicación sino un mediador que restaure la relación rota.",
+            "en": "Job cries out for 'an arbiter' to lay his hand on both parties and reconcile them (Job 9:33), revealing that his deepest need is not an explanation but a mediator to restore the broken relationship.",
+            "pt": "Jó clama por 'um árbitro' que ponha sua mão sobre ambas as partes e as reconcilie (Jó 9:33), revelando que sua maior necessidade não é uma explicação, mas um mediador que restaure a relação rompida."
+          }
+        },
+        "secundarios": [
+          {
+            "Sabiduría": {
+              "es": "Elifaz, Bildad y Zofar apelan a la sabiduría tradicional y la experiencia observada (Job 4:7-8; 8:8-10) para explicar el sufrimiento de Job, un método que el libro pondrá a prueba.",
+              "en": "Eliphaz, Bildad, and Zophar appeal to traditional wisdom and observed experience (Job 4:7-8; 8:8-10) to explain Job's suffering, a method the book will put to the test.",
+              "pt": "Elifaz, Bildade e Zofar apelam à sabedoria tradicional e à experiência observada (Jó 4:7-8; 8:8-10) para explicar o sofrimento de Jó, um método que o livro colocará à prova."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 15,
+      "rangoFin": 21,
+      "titulo": {
+        "es": "Segundo ciclo de discursos",
+        "en": "Second Cycle of Speeches",
+        "pt": "Segundo ciclo de discursos"
+      },
+      "descripcion": {
+        "es": "Elifaz endurece su acusación describiendo la angustia del malvado (Job 15); Job lamenta el escarnio de sus amigos y clama que su testigo está en los cielos (Job 16-17). Bildad describe con dureza el destino del impío (Job 18); en respuesta, Job pronuncia su confesión más célebre: 'Yo sé que mi Redentor vive' (Job 19:25). Zofar repite la doctrina de la breve prosperidad del malvado (Job 20); Job refuta directamente esta tesis observando que los impíos con frecuencia prosperan hasta la vejez (Job 21:7-13).",
+        "en": "Eliphaz hardens his accusation, describing the wicked man's anguish (Job 15); Job laments his friends' mockery and cries that his witness is in heaven (Job 16-17). Bildad harshly describes the fate of the wicked (Job 18); in response, Job pronounces his most famous confession: 'I know that my Redeemer lives' (Job 19:25). Zophar repeats the doctrine of the wicked's brief prosperity (Job 20); Job directly refutes this thesis, observing that the wicked often prosper into old age (Job 21:7-13).",
+        "pt": "Elifaz endurece sua acusação descrevendo a angústia do ímpio (Jó 15); Jó lamenta o escárnio de seus amigos e clama que sua testemunha está nos céus (Jó 16-17). Bildade descreve com dureza o destino do ímpio (Jó 18); em resposta, Jó pronuncia sua confissão mais célebre: 'Eu sei que o meu Redentor vive' (Jó 19:25). Zofar repete a doutrina da breve prosperidade do ímpio (Jó 20); Jó refuta diretamente essa tese, observando que os ímpios frequentemente prosperam até a velhice (Jó 21:7-13)."
+      },
+      "eventoClave": {
+        "es": "En medio de su desesperación más honda, Job confiesa: 'Yo sé que mi Redentor vive' (Job 19:25), la esperanza mesiánica más clara de todo el libro.",
+        "en": "In the midst of his deepest despair, Job confesses, 'I know that my Redeemer lives' (Job 19:25), the clearest messianic hope in the entire book.",
+        "pt": "Em meio ao seu desespero mais profundo, Jó confessa: 'Eu sei que o meu Redentor vive' (Jó 19:25), a esperança messiânica mais clara de todo o livro."
+      },
+      "versiculoClave": "Job 19:25",
+      "era": "Patriarcal",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ap 1:18",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El Redentor viviente que Job espera ver levantarse sobre el polvo (Job 19:25) anticipa a Cristo resucitado, que tiene las llaves de la muerte.",
+            "en": "The living Redeemer Job expects to see stand upon the dust (Job 19:25) anticipates the risen Christ, who holds the keys of death.",
+            "pt": "O Redentor vivo que Jó espera ver levantar-se sobre o pó (Jó 19:25) antecipa o Cristo ressurreto, que tem as chaves da morte."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Redención/Rescate": {
+            "es": "Job confiesa 'Yo sé que mi Redentor vive' (Job 19:25), la afirmación más explícita del libro de que existe un rescatador que finalmente vindicará su causa.",
+            "en": "Job confesses, 'I know that my Redeemer lives' (Job 19:25), the book's most explicit affirmation that a rescuer exists who will finally vindicate his cause.",
+            "pt": "Jó confessa: 'Eu sei que o meu Redentor vive' (Jó 19:25), a afirmação mais explícita do livro de que existe um resgatador que finalmente vindicará sua causa."
+          }
+        },
+        "secundarios": [
+          {
+            "Resurrección": {
+              "es": "Job anticipa ver a Dios 'desde mi carne' después de que su piel sea destruida (Job 19:26-27), una esperanza que trasciende la muerte física.",
+              "en": "Job anticipates seeing God 'from my flesh' after his skin is destroyed (Job 19:26-27), a hope that transcends physical death.",
+              "pt": "Jó antecipa ver a Deus 'na minha carne' depois que sua pele for destruída (Jó 19:26-27), uma esperança que transcende a morte física."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 22,
+      "rangoFin": 27,
+      "titulo": {
+        "es": "Tercer ciclo de discursos",
+        "en": "Third Cycle of Speeches",
+        "pt": "Terceiro ciclo de discursos"
+      },
+      "descripcion": {
+        "es": "Elifaz abandona la generalidad y enumera pecados específicos e inventados que atribuye a Job (Job 22:5-9); Job responde anhelando encontrar a Dios para presentar su caso (Job 23:3), aunque reconoce que no puede hallarlo. Bildad ofrece un discurso notablemente breve sobre la pureza imposible del hombre ante Dios (Job 25); Zofar no vuelve a hablar, señal del agotamiento del argumento de los amigos. Job cierra el ciclo afirmando la incomprensible grandeza de Dios (Job 26:14) y manteniendo su inocencia (Job 27:5-6).",
+        "en": "Eliphaz abandons generalities and lists specific, invented sins he attributes to Job (Job 22:5-9); Job responds longing to find God to present his case (Job 23:3), though he admits he cannot find him. Bildad offers a notably brief speech on man's impossible purity before God (Job 25); Zophar does not speak again, a sign of the friends' exhausted argument. Job closes the cycle affirming God's incomprehensible greatness (Job 26:14) while maintaining his innocence (Job 27:5-6).",
+        "pt": "Elifaz abandona as generalidades e enumera pecados específicos e inventados que atribui a Jó (Jó 22:5-9); Jó responde ansiando encontrar Deus para apresentar sua causa (Jó 23:3), embora reconheça que não consegue encontrá-lo. Bildade oferece um discurso notavelmente breve sobre a impossível pureza do homem diante de Deus (Jó 25); Zofar não volta a falar, sinal do esgotamento do argumento dos amigos. Jó encerra o ciclo afirmando a incompreensível grandeza de Deus (Jó 26:14) e mantendo sua inocência (Jó 27:5-6)."
+      },
+      "eventoClave": {
+        "es": "El discurso notablemente breve de Bildad (Job 25) y el silencio final de Zofar señalan que la teología de retribución mecánica de los amigos se ha agotado.",
+        "en": "Bildad's notably brief speech (Job 25) and Zophar's final silence signal that the friends' mechanical retribution theology has run its course.",
+        "pt": "O discurso notavelmente breve de Bildade (Jó 25) e o silêncio final de Zofar sinalizam que a teologia de retribuição mecânica dos amigos se esgotou."
+      },
+      "versiculoClave": "Job 23:3",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Presencia de Dios": {
+            "es": "Job busca a Dios 'adelante' y 'atrás' sin hallarlo (Job 23:3,8-9), mientras confiesa que de Él solo se oye 'un leve susurro' (Job 26:14), expresando el anhelo por una presencia divina que se le escapa.",
+            "en": "Job seeks God 'forward' and 'backward' without finding him (Job 23:3,8-9), while confessing that of him only 'a whisper' is heard (Job 26:14), expressing longing for a divine presence that eludes him.",
+            "pt": "Jó busca a Deus 'adiante' e 'atrás' sem encontrá-lo (Jó 23:3,8-9), enquanto confessa que dele só se ouve 'um leve sussurro' (Jó 26:14), expressando o anseio por uma presença divina que lhe escapa."
+          }
+        },
+        "secundarios": [
+          {
+            "Sabiduría": {
+              "es": "El discurso notablemente breve de Bildad (Job 25:4-6) y el silencio de Zofar muestran que la sabiduría convencional de los amigos se ha agotado ante el caso de Job.",
+              "en": "Bildad's notably brief speech (Job 25:4-6) and Zophar's silence show that the friends' conventional wisdom has been exhausted by Job's case.",
+              "pt": "O discurso notavelmente breve de Bildade (Jó 25:4-6) e o silêncio de Zofar mostram que a sabedoria convencional dos amigos se esgotou diante do caso de Jó."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 28,
+      "rangoFin": 28,
+      "titulo": {
+        "es": "Himno a la sabiduría inaccesible",
+        "en": "Hymn to Inaccessible Wisdom",
+        "pt": "Hino à sabedoria inacessível"
+      },
+      "descripcion": {
+        "es": "Este poema independiente pregunta dónde puede hallarse la sabiduría (Job 28:12,20), describe la destreza humana para extraer plata, oro y piedras preciosas de la tierra, pero concluye que esa destreza no alcanza para hallar la sabiduría misma. Solo Dios conoce su camino y su lugar (Job 28:23), y para el hombre, la sabiduría consiste en el temor del Señor y el apartarse del mal (Job 28:28). El capítulo funciona como bisagra literaria, pausando el argumento humano antes de la defensa final de Job.",
+        "en": "This standalone poem asks where wisdom can be found (Job 28:12,20), describes human skill in mining silver, gold, and precious stones from the earth, but concludes that such skill cannot uncover wisdom itself. Only God knows its way and its place (Job 28:23), and for man, wisdom consists in the fear of the Lord and turning away from evil (Job 28:28). The chapter functions as a literary hinge, pausing the human argument before Job's final defense.",
+        "pt": "Este poema independente pergunta onde pode ser encontrada a sabedoria (Jó 28:12,20), descreve a habilidade humana de extrair prata, ouro e pedras preciosas da terra, mas conclui que tal habilidade não é suficiente para encontrar a própria sabedoria. Só Deus conhece seu caminho e seu lugar (Jó 28:23), e para o homem, a sabedoria consiste no temor do Senhor e em desviar-se do mal (Jó 28:28). O capítulo funciona como dobradiça literária, pausando o argumento humano antes da defesa final de Jó."
+      },
+      "eventoClave": {
+        "es": "El estribillo 'el temor del Señor, eso es sabiduría' (Job 28:28) reorienta todo el debate: la humildad ante Dios, no la explicación exhaustiva, es la verdadera sabiduría.",
+        "en": "The refrain 'the fear of the Lord, that is wisdom' (Job 28:28) reorients the entire debate: humility before God, not exhaustive explanation, is true wisdom.",
+        "pt": "O refrão 'o temor do Senhor, isso é a sabedoria' (Jó 28:28) reorienta todo o debate: a humildade diante de Deus, não a explicação exaustiva, é a verdadeira sabedoria."
+      },
+      "versiculoClave": "Job 28:28",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sabiduría": {
+            "es": "El poema pregunta explícitamente '¿dónde se hallará la sabiduría?' (Job 28:12,20) y concluye que solo Dios conoce su camino (Job 28:23), reservándola como don divino, no logro humano.",
+            "en": "The poem explicitly asks 'where shall wisdom be found?' (Job 28:12,20) and concludes that only God knows its way (Job 28:23), reserving it as a divine gift, not a human achievement.",
+            "pt": "O poema pergunta explicitamente 'onde se achará a sabedoria?' (Jó 28:12,20) e conclui que só Deus conhece seu caminho (Jó 28:23), reservando-a como dom divino, não conquista humana."
+          }
+        },
+        "secundarios": [
+          {
+            "Temor del Señor": {
+              "es": "El estribillo final, 'el temor del Señor, eso es sabiduría' (Job 28:28), define la piedad práctica como la única sabiduría accesible al hombre.",
+              "en": "The final refrain, 'the fear of the Lord, that is wisdom' (Job 28:28), defines practical piety as the only wisdom accessible to man.",
+              "pt": "O refrão final, 'eis que o temor do Senhor é a sabedoria' (Jó 28:28), define a piedade prática como a única sabedoria acessível ao homem."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 29,
+      "rangoFin": 31,
+      "titulo": {
+        "es": "Monólogo final de Job",
+        "en": "Job's Final Monologue",
+        "pt": "Monólogo final de Jó"
+      },
+      "descripcion": {
+        "es": "Job recuerda su honor pasado como respetado juez y benefactor de los necesitados (Job 29:7-17), lo contrasta con su humillación presente y el desprecio de los jóvenes que antes lo respetaban (Job 30:1,9-11), y pronuncia un extenso juramento de inocencia que niega numerosos pecados específicos —engaño, adulterio, opresión al pobre, idolatría del corazón— (Job 31), culminando en su firma legal exigiendo que Dios le responda (Job 31:35-37).",
+        "en": "Job recalls his past honor as a respected judge and benefactor of the needy (Job 29:7-17), contrasts it with his present humiliation and the scorn of young men who once respected him (Job 30:1,9-11), and pronounces an extensive oath of innocence denying numerous specific sins—deceit, adultery, oppression of the poor, idolatry of the heart—(Job 31), climaxing in his legal signature demanding that God answer him (Job 31:35-37).",
+        "pt": "Jó recorda sua honra passada como juiz respeitado e benfeitor dos necessitados (Jó 29:7-17), contrasta-a com sua humilhação presente e o desprezo dos jovens que antes o respeitavam (Jó 30:1,9-11), e pronuncia um extenso juramento de inocência que nega numerosos pecados específicos — engano, adultério, opressão ao pobre, idolatria do coração — (Jó 31), culminando em sua assinatura legal exigindo que Deus lhe responda (Jó 31:35-37)."
+      },
+      "eventoClave": {
+        "es": "El juramento de inocencia de Job (Job 31) es el autoexamen más detallado de la Escritura, funcionando como su desafío legal final a Dios antes de que hablen Eliú y el Señor.",
+        "en": "Job's oath of innocence (Job 31) is the most detailed self-examination in Scripture, functioning as his final legal challenge to God before Elihu and the Lord speak.",
+        "pt": "O juramento de inocência de Jó (Jó 31) é o autoexame mais detalhado das Escrituras, funcionando como seu desafio legal final a Deus antes que Eliú e o Senhor falem."
+      },
+      "versiculoClave": "Job 31:35",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Justificación": {
+            "es": "El extenso juramento de inocencia de Job (Job 31), que niega pecado tras pecado y culmina exigiendo la respuesta de Dios (Job 31:35-37), es su intento formal de ser declarado justo.",
+            "en": "Job's extensive oath of innocence (Job 31), denying sin after sin and culminating in a demand for God's answer (Job 31:35-37), is his formal attempt to be declared righteous.",
+            "pt": "O extenso juramento de inocência de Jó (Jó 31), que nega pecado após pecado e culmina exigindo a resposta de Deus (Jó 31:35-37), é sua tentativa formal de ser declarado justo."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "Job añora los días en que 'la amistad de Dios velaba sobre mi tienda' (Job 29:4), recordando una cercanía de pacto que ahora parece perdida.",
+              "en": "Job longs for the days when 'the friendship of God was upon my tent' (Job 29:4), recalling a covenant closeness that now seems lost.",
+              "pt": "Jó anseia pelos dias em que 'o segredo de Deus estava sobre a minha tenda' (Jó 29:4), recordando uma proximidade de pacto que agora parece perdida."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 32,
+      "rangoFin": 37,
+      "titulo": {
+        "es": "Los discursos de Eliú",
+        "en": "Elihu's Speeches",
+        "pt": "Os discursos de Eliú"
+      },
+      "descripcion": {
+        "es": "El joven Eliú, que ha esperado en silencio por respeto a la edad de los otros, habla enojado tanto con Job por justificarse a sí mismo más que a Dios (Job 32:2), como con los tres amigos por no haber logrado refutarlo (Job 32:3). En cuatro discursos consecutivos reprende la presunción de Job de litigar con Dios como igual (Job 33:12-13), introduce el sufrimiento como instrumento pedagógico divino (Job 33:14-30), y culmina describiendo la grandeza de Dios manifiesta en la tormenta que se aproxima (Job 36:22-37:24), preparando directamente la aparición de Yahvé.",
+        "en": "The young Elihu, who has waited silently out of respect for the others' age, speaks angry both at Job for justifying himself rather than God (Job 32:2), and at the three friends for failing to refute him (Job 32:3). In four consecutive speeches he rebukes Job's presumption in contending with God as an equal (Job 33:12-13), introduces suffering as a divine pedagogical instrument (Job 33:14-30), and culminates by describing God's greatness manifest in the approaching storm (Job 36:22-37:24), directly preparing for Yahweh's appearance.",
+        "pt": "O jovem Eliú, que esperou em silêncio por respeito à idade dos outros, fala irado tanto com Jó por justificar-se mais do que a Deus (Jó 32:2), quanto com os três amigos por não terem conseguido refutá-lo (Jó 32:3). Em quatro discursos consecutivos repreende a presunção de Jó de litigar com Deus como igual (Jó 33:12-13), introduz o sofrimento como instrumento pedagógico divino (Jó 33:14-30), e culmina descrevendo a grandeza de Deus manifesta na tempestade que se aproxima (Jó 36:22-37:24), preparando diretamente a aparição de Javé."
+      },
+      "eventoClave": {
+        "es": "El llamado de Eliú a la incomparable grandeza de Dios en la tormenta que se avecina (Job 37:22-24) sirve de puente directo hacia la aparición de Yahvé en el torbellino.",
+        "en": "Elihu's appeal to God's incomparable greatness in the approaching storm (Job 37:22-24) serves as a direct bridge to Yahweh's appearance in the whirlwind.",
+        "pt": "O apelo de Eliú à incomparável grandeza de Deus na tempestade que se aproxima (Jó 37:22-24) serve de ponte direta para a aparição de Javé no turbilhão."
+      },
+      "versiculoClave": "Job 37:23",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Gloria de Dios": {
+            "es": "Eliú describe un esplendor dorado que viene del norte y proclama que 'Dios está vestido de una majestad imponente' (Job 37:22), preparando teológicamente la irrupción de Yahvé.",
+            "en": "Elihu describes a golden splendor coming from the north and proclaims that 'God is clothed with awesome majesty' (Job 37:22), theologically preparing for Yahweh's irruption.",
+            "pt": "Eliú descreve um esplendor dourado que vem do norte e proclama que 'em Deus há tremenda majestade' (Jó 37:22), preparando teologicamente a irrupção de Javé."
+          }
+        },
+        "secundarios": [
+          {
+            "Sabiduría": {
+              "es": "Eliú se presenta como portavoz de una sabiduría superior a la de los tres amigos, afirmando que 'es el espíritu del Todopoderoso el que da entendimiento' (Job 32:8).",
+              "en": "Elihu presents himself as a spokesman for wisdom superior to that of the three friends, affirming that 'it is the spirit of the Almighty that gives understanding' (Job 32:8).",
+              "pt": "Eliú se apresenta como porta-voz de uma sabedoria superior à dos três amigos, afirmando que 'o espírito que há no homem, e a inspiração do Todo-Poderoso, é que os faz entendidos' (Jó 32:8)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 38,
+      "rangoFin": 39,
+      "titulo": {
+        "es": "Primer discurso de Yahvé",
+        "en": "Yahweh's First Speech",
+        "pt": "Primeiro discurso de Javé"
+      },
+      "descripcion": {
+        "es": "Dios responde a Job desde el torbellino (Job 38:1) con una serie ininterrumpida de preguntas retóricas sobre los orígenes de la creación (Job 38:4-11), el orden cósmico —estrellas, lluvia, hielo— (Job 38:12-38), y el comportamiento salvaje e indomable del reino animal, desde el león hasta el avestruz (Job 38:39-39:30), ninguno de los cuales Job comisionó ni controla, exponiendo los límites absolutos de su conocimiento y poder.",
+        "en": "God answers Job from the whirlwind (Job 38:1) with an unbroken series of rhetorical questions about the origins of creation (Job 38:4-11), cosmic order—stars, rain, ice—(Job 38:12-38), and the wild, untamable behavior of the animal kingdom, from the lion to the ostrich (Job 38:39-39:30), none of which Job commissioned or controls, exposing the absolute limits of his knowledge and power.",
+        "pt": "Deus responde a Jó desde o turbilhão (Jó 38:1) com uma série ininterrupta de perguntas retóricas sobre as origens da criação (Jó 38:4-11), a ordem cósmica — estrelas, chuva, gelo — (Jó 38:12-38), e o comportamento selvagem e indomável do reino animal, do leão ao avestruz (Jó 38:39-39:30), nenhum dos quais Jó comissionou ou controla, expondo os limites absolutos de seu conhecimento e poder."
+      },
+      "eventoClave": {
+        "es": "La primera pregunta de Dios, '¿Dónde estabas tú cuando yo ponía los cimientos de la tierra?' (Job 38:4), reorienta todo el diálogo hacia la soberanía divina en lugar de la explicación humana.",
+        "en": "God's first question, 'Where were you when I laid the foundation of the earth?' (Job 38:4), reorients the entire dialogue around divine sovereignty rather than human explanation.",
+        "pt": "A primeira pergunta de Deus, 'Onde estavas tu quando eu fundava a terra?' (Jó 38:4), reorienta todo o diálogo em torno da soberania divina em vez da explicação humana."
+      },
+      "versiculoClave": "Job 38:4",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Creación/Nueva Creación": {
+            "es": "Dios interroga a Job sobre los cimientos de la tierra, las compuertas del mar y el nacimiento de la luz (Job 38:4-11,19), afirmando su autoría exclusiva sobre el orden creado.",
+            "en": "God questions Job about the foundations of the earth, the doors of the sea, and the birthplace of light (Job 38:4-11,19), affirming his exclusive authorship over the created order.",
+            "pt": "Deus interroga Jó sobre os fundamentos da terra, as portas do mar e o nascimento da luz (Jó 38:4-11,19), afirmando sua autoria exclusiva sobre a ordem criada."
+          }
+        },
+        "secundarios": [
+          {
+            "Reino de Dios": {
+              "es": "El dominio de Dios sobre las bestias salvajes e indomables —el león, el asno montés, el avestruz (Job 38:39-39:18)— retrata un gobierno real que ningún ser humano ejerce.",
+              "en": "God's dominion over the wild, untamable beasts—the lion, the wild donkey, the ostrich (Job 38:39-39:18)—portrays a royal rule no human being exercises.",
+              "pt": "O domínio de Deus sobre as feras selvagens e indomáveis — o leão, o jumento selvagem, o avestruz (Jó 38:39-39:18) — retrata um governo real que nenhum ser humano exerce."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 40,
+      "rangoFin": 41,
+      "titulo": {
+        "es": "Segundo discurso de Yahvé",
+        "en": "Yahweh's Second Speech",
+        "pt": "Segundo discurso de Javé"
+      },
+      "descripcion": {
+        "es": "Tras la breve y humillada respuesta de Job (Job 40:3-5), Dios continúa con un segundo discurso que cuestiona la capacidad de Job para gobernar a los soberbios y someter el mal (Job 40:8-14), y luego describe a Behemot (Job 40:15-24) y a Leviatán (Job 41:1-34) como criaturas indomables, emblemas vivientes de fuerzas que solo Dios puede dominar, ilustrando por analogía el gobierno divino sobre el caos y el mal en el mundo.",
+        "en": "After Job's brief, humbled reply (Job 40:3-5), God continues with a second speech questioning Job's capacity to govern the proud and subdue evil (Job 40:8-14), then describes Behemoth (Job 40:15-24) and Leviathan (Job 41:1-34) as untamable creatures, living emblems of forces only God can master, illustrating by analogy God's rule over chaos and evil in the world.",
+        "pt": "Após a breve e humilhada resposta de Jó (Jó 40:3-5), Deus continua com um segundo discurso que questiona a capacidade de Jó de governar os soberbos e subjugar o mal (Jó 40:8-14), e então descreve Behemote (Jó 40:15-24) e Leviatã (Jó 41:1-34) como criaturas indomáveis, emblemas vivos de forças que só Deus pode dominar, ilustrando por analogia o governo divino sobre o caos e o mal no mundo."
+      },
+      "eventoClave": {
+        "es": "El desafío de Dios, '¿Anularás tú también mi juicio? ¿Me condenarás para justificarte tú?' (Job 40:8), expone la verdadera raíz de la queja de Job: no el sufrimiento en sí, sino su pretensión implícita de mayor justicia que Dios.",
+        "en": "God's challenge, 'Will you even put me in the wrong? Will you condemn me that you may be in the right?' (Job 40:8), exposes the real root of Job's complaint: not suffering itself, but his implicit claim to greater justice than God's.",
+        "pt": "O desafio de Deus, 'Anularás tu também o meu juízo? Ou me condenarás, para te justificares?' (Jó 40:8), expõe a verdadeira raiz da queixa de Jó: não o sofrimento em si, mas sua pretensão implícita de maior justiça do que a de Deus."
+      },
+      "versiculoClave": "Job 40:8",
+      "era": "Patriarcal",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reino de Dios": {
+            "es": "Dios reta a Job a vestirse de gloria y humillar a los soberbios (Job 40:10-14) antes de describir a Behemot y Leviatán, criaturas que solo el Rey de la creación puede domar (Job 41:10-11).",
+            "en": "God challenges Job to clothe himself with glory and humble the proud (Job 40:10-14) before describing Behemoth and Leviathan, creatures only the King of creation can tame (Job 41:10-11).",
+            "pt": "Deus desafia Jó a vestir-se de glória e humilhar os soberbos (Jó 40:10-14) antes de descrever Behemote e Leviatã, criaturas que só o Rei da criação pode domar (Jó 41:10-11)."
+          }
+        },
+        "secundarios": [
+          {
+            "Creación/Nueva Creación": {
+              "es": "Behemot es presentado como una de las obras de Dios, 'hecho como te hice a ti' (Job 40:15), vinculando incluso a las criaturas más temibles al mismo acto creador.",
+              "en": "Behemoth is presented as one of God's works, 'made as I made you' (Job 40:15), linking even the most fearsome creatures to the same creative act.",
+              "pt": "Behemote é apresentado como uma das obras de Deus, 'que eu fiz contigo' (Jó 40:15), vinculando até as criaturas mais temíveis ao mesmo ato criador."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 42,
+      "rangoFin": 42,
+      "titulo": {
+        "es": "Arrepentimiento y restauración",
+        "en": "Repentance and Restoration",
+        "pt": "Arrependimento e restauração"
+      },
+      "descripcion": {
+        "es": "Job se retracta y se arrepiente en polvo y ceniza al haber visto verdaderamente a Dios (Job 42:1-6). Dios reprende a los tres amigos por no haber hablado con rectitud acerca de Él, exigiendo su sacrificio y la intercesión de Job en su favor (Job 42:7-9). Job es restaurado con el doble de sus posesiones anteriores, diez nuevos hijos y ciento cuarenta años más de vida (Job 42:10-17), cerrando el libro con vindicación, no con explicación.",
+        "en": "Job retracts and repents in dust and ashes after truly seeing God (Job 42:1-6). God rebukes the three friends for not having spoken rightly about him, requiring their sacrifice and Job's intercession on their behalf (Job 42:7-9). Job is restored with double his former possessions, ten new children, and one hundred forty more years of life (Job 42:10-17), closing the book with vindication, not explanation.",
+        "pt": "Jó se retrata e se arrepende em pó e cinza depois de verdadeiramente ver a Deus (Jó 42:1-6). Deus repreende os três amigos por não terem falado com retidão a respeito dele, exigindo seu sacrifício e a intercessão de Jó em seu favor (Jó 42:7-9). Jó é restaurado com o dobro de suas posses anteriores, dez novos filhos e mais cento e quarenta anos de vida (Jó 42:10-17), encerrando o livro com vindicação, não com explicação."
+      },
+      "eventoClave": {
+        "es": "La confesión de Job, 'ahora mis ojos te ven; por eso me retracto y me arrepiento en polvo y ceniza' (Job 42:5-6), es la resolución teológica de todo el libro.",
+        "en": "Job's confession, 'now my eye sees you; therefore I despise myself and repent in dust and ashes' (Job 42:5-6), is the theological resolution of the entire book.",
+        "pt": "A confissão de Jó, 'mas agora te veem os meus olhos; por isso me abomino e me arrependo no pó e na cinza' (Jó 42:5-6), é a resolução teológica de todo o livro."
+      },
+      "versiculoClave": "Job 42:6",
+      "era": "Patriarcal",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Stg 5:11",
+          "tipo": "cita",
+          "nota": {
+            "es": "Santiago apela a 'el fin que os propuso el Señor' —la restauración final que se narra en este capítulo— como evidencia de que 'el Señor es muy compasivo y misericordioso'.",
+            "en": "James appeals to 'the purpose of the Lord'—the final restoration narrated in this chapter—as evidence that 'the Lord is compassionate and merciful.'",
+            "pt": "Tiago apela ao 'fim que o Senhor deu' — a restauração final narrada neste capítulo — como evidência de que 'o Senhor é muito misericordioso e piedoso'."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reconciliación": {
+            "es": "Job se retracta y se arrepiente al ver a Dios (Job 42:5-6), y Dios restaura la relación con los tres amigos exigiendo su sacrificio y la intercesión de Job por ellos (Job 42:7-9).",
+            "en": "Job retracts and repents upon seeing God (Job 42:5-6), and God restores the relationship with the three friends by requiring their sacrifice and Job's intercession for them (Job 42:7-9).",
+            "pt": "Jó se retrata e se arrepende ao ver a Deus (Jó 42:5-6), e Deus restaura o relacionamento com os três amigos exigindo seu sacrifício e a intercessão de Jó por eles (Jó 42:7-9)."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "Dios restaura a Job con el doble de sus posesiones anteriores y nuevos hijos (Job 42:10-13), demostrando su lealtad de pacto hacia quien permaneció fiel en el sufrimiento.",
+              "en": "God restores Job with double his former possessions and new children (Job 42:10-13), demonstrating his covenant loyalty toward the one who remained faithful in suffering.",
+              "pt": "Deus restaura Jó com o dobro de suas posses anteriores e novos filhos (Jó 42:10-13), demonstrando sua lealdade de pacto para com quem permaneceu fiel no sofrimento."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología",
+          "Notas de capítulo"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Theology",
+          "Chapter notes"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia",
+          "Notas de capítulo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Editada por un equipo de eruditos evangélicos reformados bajo la dirección de Lane T. Dennis (presidente de Crossway) y Wayne Grudem como editor teológico general, esta Biblia de estudio se ha convertido en un estándar de referencia dentro del mundo reformado y evangélico contemporáneo.",
+          "en": "Edited by a team of Reformed evangelical scholars under the direction of Lane T. Dennis (president of Crossway) and Wayne Grudem as general theological editor, this study Bible has become a reference standard within the contemporary Reformed and evangelical world.",
+          "pt": "Editada por uma equipe de estudiosos evangélicos reformados sob a direção de Lane T. Dennis (presidente da Crossway) e Wayne Grudem como editor teológico geral, esta Bíblia de estudo se tornou um padrão de referência dentro do mundo reformado e evangélico contemporâneo."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos introductorios sobre autoría, fecha, estructura literaria y teología de cada libro, manteniendo una perspectiva confesional evangélica reformada consistente en todo el volumen.",
+          "en": "Combines verse-by-verse exegetical notes with introductory essays on authorship, date, literary structure, and theology for each book, maintaining a consistent Reformed evangelical confessional perspective throughout the volume.",
+          "pt": "Combina notas exegéticas versículo por versículo com ensaios introdutórios sobre autoria, data, estrutura literária e teologia de cada livro, mantendo uma perspectiva confessional evangélica reformada consistente em todo o volume."
+        },
+        "aportacion": {
+          "es": "Proveyó la estructura introductoria (autoría, fecha, género) y el marco teológico general usado para posicionar a Job dentro de la literatura sapiencial reformada",
+          "en": "Provided the introductory structure (authorship, date, genre) and the overall theological framework used to position Job within Reformed wisdom literature",
+          "pt": "Forneceu a estrutura introdutória (autoria, data, gênero) e o arcabouço teológico geral usado para posicionar Jó dentro da literatura sapiencial reformada"
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Systematic Theology Study Bible (2018)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Notas teológicas"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Theological notes"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Notas teológicas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue teólogo reformado, fundador de Ligonier Ministries y uno de los divulgadores más influyentes de la teología reformada y la doctrina de la Escritura en el siglo XX y XXI.",
+          "en": "R.C. Sproul (1939–2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential popularizers of Reformed theology and the doctrine of Scripture in the 20th and 21st centuries.",
+          "pt": "R.C. Sproul (1939–2017) foi teólogo reformado, fundador do Ligonier Ministries e um dos divulgadores mais influentes da teologia reformada e da doutrina das Escrituras nos séculos XX e XXI."
+        },
+        "metodo": {
+          "es": "Notas de estudio explícitamente confesionales, ancladas en la Confesión de Fe de Westminster, que interpretan cada pasaje bíblico dentro del marco de la teología del pacto y la soberanía divina",
+          "en": "Explicitly confessional study notes, anchored in the Westminster Confession of Faith, interpreting every biblical passage within the framework of covenant theology and divine sovereignty",
+          "pt": "Notas de estudo explicitamente confessionais, ancoradas na Confissão de Fé de Westminster, que interpretam cada passagem bíblica dentro do arcabouço da teologia do pacto e da soberania divina"
+        },
+        "aportacion": {
+          "es": "Fundamentó la lectura de la soberanía de Dios sobre el sufrimiento de Job y las conexiones con los capítulos correspondientes de la Confesión de Fe de Westminster",
+          "en": "Grounded the reading of God's sovereignty over Job's suffering and the connections to the corresponding chapters of the Westminster Confession of Faith",
+          "pt": "Fundamentou a leitura da soberania de Deus sobre o sofrimento de Jó e as conexões com os capítulos correspondentes da Confissão de Fé de Westminster"
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed. general), adaptación al español",
+      "año": 2017,
+      "editorial": "Poiema / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto NBLA",
+          "Notas confesionales en español"
+        ],
+        "en": [
+          "NBLA text",
+          "Confessional notes in Spanish"
+        ],
+        "pt": [
+          "Texto NBLA",
+          "Notas confessionais em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Versión en español de la Reformation Study Bible, adaptada con el texto de la Nueva Biblia de las Américas (NBLA) y notas traducidas y contextualizadas para el mundo hispanohablante reformado",
+          "en": "Spanish-language version of the Reformation Study Bible, adapted with the New Blessed Life America text (NBLA) and notes translated and contextualized for the Reformed Spanish-speaking world",
+          "pt": "Versão em espanhol da Reformation Study Bible, adaptada com o texto da Nueva Biblia de las Américas (NBLA) e notas traduzidas e contextualizadas para o mundo hispanofalante reformado"
+        },
+        "metodo": {
+          "es": "Mantiene la misma metodología confesional de la edición en inglés, ligando cada libro bíblico a las confesiones reformadas históricas y proveyendo terminología teológica consistente en español",
+          "en": "Maintains the same confessional methodology as the English edition, linking every biblical book to the historic Reformed confessions and providing consistent theological terminology in Spanish",
+          "pt": "Mantém a mesma metodologia confessional da edição em inglês, ligando cada livro bíblico às confissões reformadas históricas e fornecendo terminologia teológica consistente em espanhol"
+        },
+        "aportacion": {
+          "es": "Fuente primaria para el texto NBLA de los versículos clave de Job y la terminología teológica reformada en español utilizada en todo el registro",
+          "en": "Primary source for the NBLA text of Job's key verses and the Reformed theological terminology in Spanish used throughout the record",
+          "pt": "Fonte primária para o texto NBLA dos versículos-chave de Jó e a terminologia teológica reformada em espanhol usada em todo o registro"
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2017)"
+        ],
+        "url": "https://es.ligonier.org/store/reformation-study-bible-nbla"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología Propia",
+          "Providencia",
+          "Angelología"
+        ],
+        "en": [
+          "Theology Proper",
+          "Providence",
+          "Angelology"
+        ],
+        "pt": [
+          "Teologia Própria",
+          "Providência",
+          "Angelologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático reformado, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y uno de los sistemáticos evangélicos más leídos de las últimas tres décadas",
+          "en": "Wayne Grudem is a Reformed systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and one of the most widely read evangelical systematicians of the last three decades",
+          "pt": "Wayne Grudem é teólogo sistemático reformado, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e um dos sistemáticos evangélicos mais lidos das últimas três décadas"
+        },
+        "metodo": {
+          "es": "Expone la doctrina sistemática organizada por categorías clásicas, apoyándose extensamente en el texto bíblico primario antes de sintetizar la posición reformada, con notas comparativas de otras tradiciones",
+          "en": "Expounds systematic doctrine organized by classical categories, relying extensively on the primary biblical text before synthesizing the Reformed position, with comparative notes from other traditions",
+          "pt": "Expõe a doutrina sistemática organizada por categorias clássicas, apoiando-se extensivamente no texto bíblico primário antes de sintetizar a posição reformada, com notas comparativas de outras tradições"
+        },
+        "aportacion": {
+          "es": "Proveyó el marco doctrinal para las categorías de teologiaSistematica —especialmente providencia, teología propia y angelología— aplicadas específicamente al libro de Job",
+          "en": "Provided the doctrinal framework for the teologiaSistematica categories—especially providence, theology proper, and angelology—applied specifically to the book of Job",
+          "pt": "Forneceu o arcabouço doutrinário para as categorias de teologiaSistematica — especialmente providência, teologia própria e angelologia — aplicadas especificamente ao livro de Jó"
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Ethics (2018)"
+        ],
+        "url": "https://www.thegospelcoalition.org/reviews/systematic-theology-wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Tipología",
+          "Enfoque cristológico"
+        ],
+        "en": [
+          "Redemptive history",
+          "Typology",
+          "Christological focus"
+        ],
+        "pt": [
+          "História redentora",
+          "Tipologia",
+          "Enfoque cristológico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna",
+          "en": "Geerhardus Vos (1862–1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology",
+          "pt": "Geerhardus Vos (1862–1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna"
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación a través de la historia redentora, identificando tipos y sombras que anticipan a Cristo dentro del propio movimiento del texto, no impuestos externamente",
+          "en": "Traces the progressive development of revelation through redemptive history, identifying types and shadows that anticipate Christ within the text's own movement, not imposed externally",
+          "pt": "Traça o desenvolvimento progressivo da revelação através da história redentora, identificando tipos e sombras que antecipam Cristo dentro do próprio movimento do texto, não impostos externamente"
+        },
+        "aportacion": {
+          "es": "Fundamentó la lectura cristológica de Job —el árbitro anhelado, el Redentor viviente— dentro del marco general del movimiento redentor-histórico del canon",
+          "en": "Grounded the christological reading of Job—the longed-for arbiter, the living Redeemer—within the overall framework of the canon's redemptive-historical movement",
+          "pt": "Fundamentou a leitura cristológica de Jó — o árbitro almejado, o Redentor vivo — dentro do arcabouço geral do movimento redentor-histórico do cânon"
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "Redemptive History and Biblical Interpretation (1980, compilación)"
+        ],
+        "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Fuentes ANE"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "ANE sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Fontes ANE"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John H. Walton, Victor H. Matthews y Mark W. Chavalas son especialistas en estudios del Cercano Oriente antiguo y trasfondo cultural del Antiguo Testamento, cada uno con décadas de docencia en instituciones evangélicas",
+          "en": "John H. Walton, Victor H. Matthews, and Mark W. Chavalas are specialists in ancient Near Eastern studies and Old Testament cultural background, each with decades of teaching at evangelical institutions",
+          "pt": "John H. Walton, Victor H. Matthews e Mark W. Chavalas são especialistas em estudos do Antigo Oriente Próximo e no pano de fundo cultural do Antigo Testamento, cada um com décadas de docência em instituições evangélicas"
+        },
+        "metodo": {
+          "es": "Comentan verso por verso iluminando el trasfondo cultural, social y literario del Cercano Oriente antiguo relevante a cada pasaje, sin imponer conclusiones teológicas sistemáticas",
+          "en": "They comment verse by verse, illuminating the ancient Near Eastern cultural, social, and literary background relevant to each passage, without imposing systematic theological conclusions",
+          "pt": "Comentam versículo por versículo iluminando o pano de fundo cultural, social e literário do Antigo Oriente Próximo relevante a cada passagem, sem impor conclusões teológicas sistemáticas"
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo geográfico y cultural de la tierra de Uz, Temán y los pueblos raptores, así como los paralelos con la literatura del sufriente justo del Cercano Oriente antiguo",
+          "en": "Provided the geographic and cultural background of the land of Uz, Teman, and the raiding peoples, as well as the parallels with ancient Near Eastern righteous-sufferer literature",
+          "pt": "Forneceu o pano de fundo geográfico e cultural da terra de Uz, Temã e os povos saqueadores, bem como os paralelos com a literatura do sofredor justo do Antigo Oriente Próximo"
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "Ancient Near Eastern Thought and the Old Testament (Walton, 2006)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed.)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Civilizaciones"
+        ],
+        "en": [
+          "Archaeology",
+          "Civilizations"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Civilizações"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Proyecto editorial colectivo de Zondervan que reúne a numerosos arqueólogos y eruditos bíblicos evangélicos para correlacionar hallazgos arqueológicos con el texto bíblico libro por libro",
+          "en": "A collective editorial project by Zondervan bringing together numerous evangelical archaeologists and biblical scholars to correlate archaeological findings with the biblical text book by book",
+          "pt": "Projeto editorial coletivo da Zondervan que reúne numerosos arqueólogos e estudiosos bíblicos evangélicos para correlacionar achados arqueológicos com o texto bíblico livro por livro"
+        },
+        "metodo": {
+          "es": "Presenta notas arqueológicas específicas junto al texto bíblico, distinguiendo entre lo que la arqueología confirma, ilumina o deja sin resolver, con honestidad sobre las limitaciones de la evidencia",
+          "en": "Presents specific archaeological notes alongside the biblical text, distinguishing between what archaeology confirms, illuminates, or leaves unresolved, with honesty about the limits of the evidence",
+          "pt": "Apresenta notas arqueológicas específicas ao lado do texto bíblico, distinguindo entre o que a arqueologia confirma, ilumina ou deixa sem solução, com honestidade sobre os limites da evidência"
+        },
+        "aportacion": {
+          "es": "Aportó el resumen objetivo de lo que la arqueología puede y no puede confirmar sobre el marco patriarcal de Job y los pueblos mencionados en el libro",
+          "en": "Contributed the objective summary of what archaeology can and cannot confirm about Job's patriarchal setting and the peoples mentioned in the book",
+          "pt": "Contribuiu com o resumo objetivo do que a arqueologia pode e não pode confirmar sobre o contexto patriarcal de Jó e os povos mencionados no livro"
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervan.com/p/archaeological-study-bible/"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 1959,
+      "editorial": "Westminster Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología patriarcal",
+          "Contexto histórico"
+        ],
+        "en": [
+          "Patriarchal chronology",
+          "Historical context"
+        ],
+        "pt": [
+          "Cronologia patriarcal",
+          "Contexto histórico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908–1995) fue profesor de Antiguo Testamento en Union Theological Seminary de Virginia y autor de una de las historias de Israel más influyentes y ampliamente utilizadas del siglo XX",
+          "en": "John Bright (1908–1995) was professor of Old Testament at Union Theological Seminary in Virginia and author of one of the most influential and widely used histories of Israel of the 20th century",
+          "pt": "John Bright (1908–1995) foi professor de Antigo Testamento no Union Theological Seminary da Virgínia e autor de uma das histórias de Israel mais influentes e amplamente utilizadas do século XX"
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el texto bíblico con la evidencia arqueológica y los textos del Cercano Oriente antiguo, situando cada período dentro de su contexto internacional más amplio",
+          "en": "Reconstructs Israel's history by integrating the biblical text with archaeological evidence and ancient Near Eastern texts, situating each period within its broader international context",
+          "pt": "Reconstrói a história de Israel integrando o texto bíblico com a evidência arqueológica e os textos do Antigo Oriente Próximo, situando cada período dentro de seu contexto internacional mais amplo"
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico general del período patriarcal (Bronce Medio) usado para situar históricamente el escenario de Job",
+          "en": "Provided the overall chronological framework of the patriarchal period (Middle Bronze Age) used to historically situate Job's setting",
+          "pt": "Forneceu o arcabouço cronológico geral do período patriarcal (Bronze Médio) usado para situar historicamente o cenário de Jó"
+        },
+        "obras": [
+          "A History of Israel (1959, edición revisada 2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.25,
+    "camposMarcados": [
+      {
+        "campo": "autor.nombre",
+        "razon": "Autoría desconocida; la atribución tradicional a Moisés proviene del Talmud (Baba Batra 14b-15a) y no puede confirmarse con evidencia externa; se documenta como tradicional según el mandato de la regla de conflicto de autoría",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      },
+      {
+        "campo": "año.desde/hasta",
+        "razon": "La fecha de composición del libro es incierta y se basa en conocimiento interno (posible época salomónica); el escenario narrativo patriarcal (c. 2000-1800 a.C.) es anterior a la fecha probable de escritura",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      },
+      {
+        "campo": "contextoHistorico.fuentesANE",
+        "razon": "Las relaciones de paralelismo con la literatura del sufriente justo mesopotámico se basan en conocimiento interno de erudición comparada, no en una fuente en línea consultada en esta sesión",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      },
+      {
+        "campo": "personajes[Satanás].nivelEvidencia",
+        "razon": "Ser espiritual sin evidencia histórica externa aplicable; clasificado como especulativo por definición de la categoría",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      },
+      {
+        "campo": "personajes[Zofar naamatita].nivelEvidencia",
+        "razon": "La ubicación de Naama es desconocida y no existe ancla genealógica bíblica comparable a la de Bildad o Eliú; sin evidencia externa alguna",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      },
+      {
+        "campo": "personajes[La esposa de Job].nivelEvidencia",
+        "razon": "Personaje no nombrado, sin ancla genealógica ni geográfica alguna en el texto o fuera de él",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      },
+      {
+        "campo": "personajes[Las hijas de Job].nivelEvidencia",
+        "razon": "Sin evidencia histórica externa alguna; su inclusión se justifica por ser nombradas individualmente en el texto (Job 42:14) y por el detalle legal distintivo de su herencia (Job 42:15), no por corroboración extrabíblica",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      },
+      {
+        "campo": "personajes[Yahvé].biografiaHistorica.nivelEvidencia",
+        "razon": "La categoría nivelEvidencia (alto/medio/bajo/especulativo) está diseñada para evaluar corroboración extrabíblica de personas y pueblos humanos, no la existencia de Dios; se aplicó 'medio' en referencia exclusiva al género literario de teofanía y consejo celestial, bien documentado en el Cercano Oriente antiguo, no como evaluación de la realidad divina de Yahvé",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-17"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-17T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-07-17"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 4,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-17T00:00:00Z",
+          "fechaFin": "2026-07-17T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-17T00:00:00Z",
+          "fechaFin": "2026-07-17T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-17T00:00:00Z",
+          "fechaFin": "2026-07-17T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-17T00:00:00Z",
+          "fechaFin": "2026-07-17T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
