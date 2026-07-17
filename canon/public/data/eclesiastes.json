@@ -1,0 +1,1622 @@
+{
+  "id": 21,
+  "testamento": "Antiguo",
+  "division": "Sabiduría y Poesía",
+  "titulo": {
+    "es": "Eclesiastés",
+    "en": "Ecclesiastes",
+    "pt": "Eclesiastes"
+  },
+  "tituloOriginal": "קֹהֶלֶת",
+  "transliteracion": "Qohelet",
+  "significado": {
+    "es": "El que convoca o reúne una asamblea; tradicionalmente traducido 'Predicador' o 'Maestro'",
+    "en": "One who convenes or gathers an assembly; traditionally rendered 'Preacher' or 'Teacher'",
+    "pt": "Aquele que convoca ou reúne uma assembleia; tradicionalmente traduzido 'Pregador' ou 'Mestre'"
+  },
+  "resumenGeneral": {
+    "es": "Eclesiastés abre con el veredicto que gobierna todo el libro: 'vanidad de vanidades, todo es vanidad' (Ec 1:2), y despliega ese veredicto mediante la voz de Qohelet, quien investiga metódicamente la sabiduría, el placer, el trabajo y la riqueza 'bajo el sol' (Ec 1:12–2:26) sin hallar sentido último en ninguno. El argumento gira en Ec 3:1-15, donde el tiempo fijado por Dios para cada cosa introduce la soberanía divina como el único marco que da orden a una existencia que de otro modo parece absurda, y se profundiza en Ec 7 con el reconocimiento de que ningún hombre es justo (Ec 7:20) y en Ec 8-9 con la observación de que la muerte iguala a sabios y necios (Ec 9:2-3). El libro no resuelve la tensión filosóficamente, sino que la conduce hacia una exhortación práctica: recordar al Creador en la juventud (Ec 12:1) antes de que llegue la vejez y la muerte (Ec 12:2-7). Cierra con el epílogo del sabio editor, que resume toda la investigación en un mandato: 'teme a Dios y guarda sus mandamientos' (Ec 12:13-14), porque solo el temor de Dios da sentido a una vida que, vista de otro modo, es pura vanidad.",
+    "en": "Ecclesiastes opens with the verdict that governs the whole book — 'vanity of vanities, all is vanity' (Eccl 1:2) — and unfolds that verdict through the voice of Qohelet, who methodically investigates wisdom, pleasure, labor, and wealth 'under the sun' (Eccl 1:12-2:26) without finding ultimate meaning in any of them. The argument turns in Eccl 3:1-15, where God's appointed time for every matter introduces divine sovereignty as the only frame that gives order to an existence that otherwise appears absurd, and it deepens in Eccl 7 with the recognition that no one is righteous (Eccl 7:20) and in Eccl 8-9 with the observation that death levels the wise and the fool alike (Eccl 9:2-3). The book does not resolve the tension philosophically but drives it toward a practical exhortation: remember the Creator in youth (Eccl 12:1) before old age and death arrive (Eccl 12:2-7). It closes with the wise editor's epilogue, which distills the entire investigation into one command — 'fear God and keep his commandments' (Eccl 12:13-14) — because only the fear of God gives meaning to a life that otherwise is pure vanity.",
+    "pt": "Eclesiastes abre com o veredito que governa todo o livro — 'vaidade de vaidades, tudo é vaidade' (Ec 1:2) — e desdobra esse veredito pela voz de Coélet, que investiga metodicamente a sabedoria, o prazer, o trabalho e a riqueza 'debaixo do sol' (Ec 1:12-2:26) sem encontrar sentido último em nenhum deles. O argumento vira em Ec 3:1-15, onde o tempo determinado por Deus para cada coisa introduz a soberania divina como a única moldura que dá ordem a uma existência que de outro modo parece absurda, e se aprofunda em Ec 7 com o reconhecimento de que ninguém é justo (Ec 7:20) e em Ec 8-9 com a observação de que a morte iguala sábios e tolos (Ec 9:2-3). O livro não resolve a tensão filosoficamente, mas a conduz a uma exortação prática: lembrar do Criador na juventude (Ec 12:1) antes que cheguem a velhice e a morte (Ec 12:2-7). Encerra com o epílogo do sábio editor, que resume toda a investigação em um mandamento: 'teme a Deus e guarda os seus mandamentos' (Ec 12:13-14), pois somente o temor de Deus dá sentido a uma vida que, vista de outra forma, é pura vaidade."
+  },
+  "capitulosTotal": 12,
+  "autor": {
+    "nombre": {
+      "es": "Salomón",
+      "en": "Solomon",
+      "pt": "Salomão"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El texto se autoidentifica como 'Qohelet, hijo de David, rey en Jerusalén' (Ec 1:1,12), lo cual la tradición judía y cristiana ha identificado con Salomón, dada su sabiduría incomparable (Ec 1:16; cf. 1R 3:12) y su riqueza y obras (Ec 2:4-9; cf. 1R 9-10). Parte de la erudición crítica moderna, señalando arameísmos y persianismos en el hebreo (p. ej. 'pardés' en Ec 2:5), data el libro en el período postexílico y propone un sabio anónimo escribiendo bajo la máscara literaria de Salomón. La tradición reformada, siguiendo el testimonio propio del texto y el consenso histórico judío y cristiano, sostiene la autoría salomónica, entendiendo los rasgos lingüísticos como coherentes con los amplios contactos comerciales internacionales del reinado tardío y cosmopolita de Salomón, y ubica la ocasión del libro en la reflexión penitente del rey hacia el final de su vida (cf. 1R 11).",
+      "en": "The text identifies itself as 'the Preacher, the son of David, king in Jerusalem' (Eccl 1:1,12), which Jewish and Christian tradition has identified with Solomon, given his unmatched wisdom (Eccl 1:16; cf. 1Kgs 3:12) and his wealth and works (Eccl 2:4-9; cf. 1Kgs 9-10). A portion of modern critical scholarship, pointing to Aramaisms and Persian loanwords in the Hebrew (e.g., 'pardes' in Eccl 2:5), dates the book to the postexilic period and proposes an anonymous sage writing under Solomon's literary guise. The Reformed tradition, following the text's own self-testimony and the historic Jewish and Christian consensus, holds to Solomonic authorship, understanding the linguistic features as consistent with the broad international trade contacts of Solomon's own late, cosmopolitan reign, and locates the book's occasion in the king's penitent reflection near the end of his life (cf. 1Kgs 11).",
+      "pt": "O texto se autoidentifica como 'o Pregador, filho de Davi, rei em Jerusalém' (Ec 1:1,12), o que a tradição judaica e cristã identificou com Salomão, dada sua sabedoria incomparável (Ec 1:16; cf. 1Rs 3:12) e sua riqueza e obras (Ec 2:4-9; cf. 1Rs 9-10). Parte da erudição crítica moderna, apontando aramaísmos e persianismos no hebraico (p. ex. 'pardes' em Ec 2:5), data o livro no período pós-exílico e propõe um sábio anônimo escrevendo sob a máscara literária de Salomão. A tradição reformada, seguindo o testemunho próprio do texto e o consenso histórico judaico e cristão, sustenta a autoria salomônica, entendendo os traços linguísticos como coerentes com os amplos contatos comerciais internacionais do reinado tardio e cosmopolita de Salomão, e situa a ocasião do livro na reflexão penitente do rei perto do fim de sua vida (cf. 1Rs 11)."
+    }
+  },
+  "año": {
+    "desde": -940,
+    "hasta": -930,
+    "display": {
+      "es": "Fecha de escritura: c. 940-930 a.C. (final del reinado de Salomón)",
+      "en": "Date of writing: c. 940-930 BC (the end of Solomon's reign)",
+      "pt": "Data de escrita: c. 940-930 a.C. (final do reinado de Salomão)"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Jerusalén, en la corte real durante el reinado de Salomón",
+    "en": "Jerusalem, in the royal court during Solomon's reign",
+    "pt": "Jerusalém, na corte real durante o reinado de Salomão"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000-586 a.C.)",
+      "en": "Iron Age II (1000-586 BC)",
+      "pt": "Ferro II (1000-586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Jerusalén, Israel — la Ciudad Vieja y la Ciudad de David",
+          "en": "Jerusalem, Israel — the Old City and the City of David",
+          "pt": "Jerusalém, Israel — a Cidade Velha e a Cidade de Davi"
+        },
+        "significancia": {
+          "es": "Capital del reino unido y sede del trono davídico; Qohelet se presenta como 'rey en Jerusalén' (Ec 1:1,12), y toda la investigación del libro se narra desde la perspectiva de esta corte real.",
+          "en": "Capital of the united kingdom and seat of the Davidic throne; Qohelet presents himself as 'king in Jerusalem' (Eccl 1:1,12), and the book's entire investigation is narrated from the vantage point of this royal court.",
+          "pt": "Capital do reino unido e sede do trono davídico; Coélet se apresenta como 'rei em Jerusalém' (Ec 1:1,12), e toda a investigação do livro é narrada a partir da perspectiva desta corte real."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Estanques reales",
+          "en": "Royal pools",
+          "pt": "Tanques reais"
+        },
+        "identificacionModerna": {
+          "es": "Tradicionalmente asociados con los 'Estanques de Salomón' cerca de Belén/Etam, aunque el texto solo describe obras hídricas en Jerusalén",
+          "en": "Traditionally associated with the 'Pools of Solomon' near Bethlehem/Etam, though the text only describes waterworks in Jerusalem",
+          "pt": "Tradicionalmente associados aos 'Tanques de Salomão' perto de Belém/Etã, embora o texto descreva apenas obras hídricas em Jerusalém"
+        },
+        "significancia": {
+          "es": "Qohelet relata haberse construido estanques para regar 'un bosque de árboles' (Ec 2:6), ejemplo de la magnitud de sus proyectos de ingeniería como parte de su experimento con el placer y el logro.",
+          "en": "Qohelet recounts building himself pools to water 'a forest of growing trees' (Eccl 2:6), an example of the scale of his engineering projects as part of his experiment with pleasure and achievement.",
+          "pt": "Coélet relata ter construído tanques para regar 'um bosque de árvores' (Ec 2:6), exemplo da magnitude de seus projetos de engenharia como parte de seu experimento com o prazer e a realização."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Jardines, viñedos y parques reales",
+          "en": "Royal gardens, vineyards, and parks",
+          "pt": "Jardins, vinhas e parques reais"
+        },
+        "identificacionModerna": {
+          "es": "Terrenos de cultivo y recreo en los alrededores de Jerusalén asociados con los proyectos de construcción de Salomón",
+          "en": "Cultivated and recreational grounds around Jerusalem associated with Solomon's building projects",
+          "pt": "Terrenos de cultivo e recreação nos arredores de Jerusalém associados aos projetos de construção de Salomão"
+        },
+        "significancia": {
+          "es": "Catálogo de las 'grandes obras' de Qohelet —casas, viñas, huertos, parques y toda clase de árboles frutales (Ec 2:4-5)— que ilustran el alcance de su experimento con el logro material antes de concluir que también era vanidad.",
+          "en": "Catalogue of Qohelet's 'great works' — houses, vineyards, gardens, parks, and every kind of fruit tree (Eccl 2:4-5) — illustrating the scope of his experiment with material achievement before concluding that it too was vanity.",
+          "pt": "Catálogo das 'grandes obras' de Coélet — casas, vinhas, hortos, parques e toda espécie de árvores frutíferas (Ec 2:4-5) — que ilustram o alcance de seu experimento com a realização material antes de concluir que também era vaidade."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Reino Unido de Israel bajo Salomón",
+          "en": "United Kingdom of Israel under Solomon",
+          "pt": "Reino Unido de Israel sob Salomão"
+        },
+        "rolEnElTexto": {
+          "es": "Trasfondo político y cultural del libro: el poder, la riqueza y la sabiduría incomparables de Salomón (1R 3-10) son precisamente el objeto que Qohelet examina y encuentra insuficiente para dar sentido último.",
+          "en": "The book's political and cultural backdrop: Solomon's unmatched power, wealth, and wisdom (1Kgs 3-10) are precisely the object that Qohelet examines and finds insufficient to yield ultimate meaning.",
+          "pt": "Pano de fundo político e cultural do livro: o poder, a riqueza e a sabedoria incomparáveis de Salomão (1Rs 3-10) são precisamente o objeto que Coélet examina e considera insuficiente para dar sentido último."
+        },
+        "estadoArqueologico": {
+          "es": "Debatido; las llamadas 'puertas salomónicas' de Meguido, Hazor y Gezer (1R 9:15) han sido fechadas por algunos arqueólogos (cronología baja de Finkelstein) al período omrida del siglo IX en lugar del siglo X, aunque la erudición reformada y conservadora generalmente sostiene la cronología bíblica alta.",
+          "en": "Debated; the so-called 'Solomonic gates' at Megiddo, Hazor, and Gezer (1Kgs 9:15) have been dated by some archaeologists (Finkelstein's 'low chronology') to the ninth-century Omride period rather than the tenth century, though Reformed and conservative scholarship generally holds to the high biblical chronology.",
+          "pt": "Debatido; os chamados 'portões salomônicos' de Megido, Hazor e Gezer (1Rs 9:15) foram datados por alguns arqueólogos (cronologia baixa de Finkelstein) do período omrida do século IX em vez do século X, embora a erudição reformada e conservadora geralmente sustente a cronologia bíblica alta."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Fenicia (Tiro)",
+          "en": "Phoenicia (Tyre)",
+          "pt": "Fenícia (Tiro)"
+        },
+        "rolEnElTexto": {
+          "es": "Socio comercial que suplió cedro y artesanos para los proyectos de construcción de Salomón (cf. 1R 5), el mismo tipo de 'grandes obras' que Qohelet describe en Ec 2:4-6.",
+          "en": "Trading partner that supplied cedar and craftsmen for Solomon's building projects (cf. 1Kgs 5), the same kind of 'great works' Qohelet describes in Eccl 2:4-6.",
+          "pt": "Parceiro comercial que forneceu cedro e artesãos para os projetos de construção de Salomão (cf. 1Rs 5), o mesmo tipo de 'grandes obras' que Coélet descreve em Ec 2:4-6."
+        },
+        "estadoArqueologico": {
+          "es": "Bien atestiguada la actividad comercial y marítima fenicia en el Levante durante el Hierro II mediante restos portuarios y cerámica de importación.",
+          "en": "Phoenician maritime and trade activity in the Iron Age II Levant is well attested through harbor remains and imported pottery.",
+          "pt": "A atividade comercial e marítima fenícia no Levante durante o Ferro II está bem atestada por restos portuários e cerâmica importada."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Egipto",
+          "en": "Egypt",
+          "pt": "Egito"
+        },
+        "rolEnElTexto": {
+          "es": "Fuente de literatura sapiencial comparativa del Cercano Oriente Antiguo y socio de alianza política mediante el matrimonio de Salomón con la hija de Faraón (1R 3:1); el género instruccional en que participa Eclesiastés tiene paralelos egipcios cercanos.",
+          "en": "Source of comparative Ancient Near Eastern wisdom literature and political alliance partner through Solomon's marriage to Pharaoh's daughter (1Kgs 3:1); the instructional genre in which Ecclesiastes participates has close Egyptian parallels.",
+          "pt": "Fonte de literatura sapiencial comparativa do Antigo Oriente Próximo e parceiro de aliança política pelo casamento de Salomão com a filha de Faraó (1Rs 3:1); o gênero instrucional do qual Eclesiastes participa tem paralelos egípcios próximos."
+        },
+        "estadoArqueologico": {
+          "es": "Bien documentado mediante textos de instrucción sapiencial del Reino Nuevo egipcio conservados en papiros.",
+          "en": "Well documented through New Kingdom Egyptian wisdom-instruction texts preserved on papyri.",
+          "pt": "Bem documentado por meio de textos de instrução sapiencial do Novo Império egípcio preservados em papiros."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "No existe inscripción extrabíblica que mencione a Salomón por nombre, por lo que toda correlación arqueológica depende de la datación de la cultura material del siglo X a.C. en Jerusalén y sitios asociados. Las puertas monumentales de Meguido, Hazor y Gezer descritas en 1R 9:15 han sido tradicionalmente atribuidas a Salomón, pero la 'cronología baja' propuesta por I. Finkelstein las redata al siglo IX (período omrida), generando un debate no resuelto ('el vacío salomónico'). Excavaciones recientes en la Ciudad de David (el 'Gran Muro de Piedra' y estructuras asociadas) han sido presentadas como evidencia de una administración centralizada del siglo X, apoyando la cronología bíblica alta que sostiene la erudición reformada y conservadora.",
+      "en": "No extrabiblical inscription mentions Solomon by name, so all archaeological correlation depends on dating the tenth-century BC material culture at Jerusalem and associated sites. The monumental gates at Megiddo, Hazor, and Gezer described in 1Kgs 9:15 have traditionally been attributed to Solomon, but I. Finkelstein's proposed 'low chronology' redates them to the ninth century (Omride period), generating an unresolved debate (the 'Solomonic gap'). Recent excavations in the City of David (the 'Large Stone Structure' and associated features) have been presented as evidence of centralized tenth-century administration, supporting the high biblical chronology held by Reformed and conservative scholarship.",
+      "pt": "Não existe inscrição extrabíblica que mencione Salomão pelo nome, de modo que toda correlação arqueológica depende da datação da cultura material do século X a.C. em Jerusalém e sítios associados. Os portões monumentais de Megido, Hazor e Gezer descritos em 1Rs 9:15 foram tradicionalmente atribuídos a Salomão, mas a 'cronologia baixa' proposta por I. Finkelstein os redata ao século IX (período omrida), gerando um debate não resolvido (o 'vazio salomônico'). Escavações recentes na Cidade de Davi (a 'Grande Estrutura de Pedra' e estruturas associadas) foram apresentadas como evidência de uma administração centralizada do século X, apoiando a cronologia bíblica alta sustentada pela erudição reformada e conservadora."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Diálogo del Pesimismo",
+          "en": "Dialogue of Pessimism",
+          "pt": "Diálogo do Pessimismo"
+        },
+        "origen": {
+          "es": "Texto sapiencial mesopotámico en acadio, aproximadamente del segundo milenio a.C.",
+          "en": "Mesopotamian Akkadian wisdom text, roughly from the second millennium BC",
+          "pt": "Texto sapiencial mesopotâmico em acádio, aproximadamente do segundo milênio a.C."
+        },
+        "relevancia": {
+          "es": "Diálogo entre un amo y su esclavo que cuestiona el valor de toda acción humana, ofreciendo un paralelo literario al escepticismo experimental de Qohelet sobre la utilidad última de cualquier empresa 'bajo el sol' (Ec 2:11).",
+          "en": "A dialogue between a master and his servant that questions the value of every human action, offering a literary parallel to Qohelet's experimental skepticism about the ultimate usefulness of any endeavor 'under the sun' (Eccl 2:11).",
+          "pt": "Diálogo entre um senhor e seu escravo que questiona o valor de toda ação humana, oferecendo um paralelo literário ao ceticismo experimental de Coélet sobre a utilidade última de qualquer empreendimento 'debaixo do sol' (Ec 2:11)."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cantos del Arpista egipcios",
+          "en": "Egyptian Harper's Songs",
+          "pt": "Cantos do Harpista egípcios"
+        },
+        "origen": {
+          "es": "Poemas funerarios egipcios del Reino Medio y Nuevo, inscritos en tumbas",
+          "en": "Egyptian funerary poems from the Middle and New Kingdoms, inscribed in tombs",
+          "pt": "Poemas funerários egípcios do Reino Médio e Novo, inscritos em tumbas"
+        },
+        "relevancia": {
+          "es": "Exhortan a gozar de la comida, el vino y la compañía ante la certeza de la muerte, un paralelo cercano a la exhortación de Qohelet a comer, beber y disfrutar del trabajo como don de Dios (Ec 9:7-10).",
+          "en": "They exhort enjoyment of food, wine, and companionship in the face of certain death, a close parallel to Qohelet's exhortation to eat, drink, and enjoy one's toil as a gift from God (Eccl 9:7-10).",
+          "pt": "Exortam ao gozo da comida, do vinho e da companhia diante da certeza da morte, um paralelo próximo à exortação de Coélet a comer, beber e desfrutar do trabalho como dom de Deus (Ec 9:7-10)."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Epopeya de Gilgamesh (discurso de Sidūri)",
+          "en": "Epic of Gilgamesh (Siduri's speech)",
+          "pt": "Epopeia de Gilgamesh (discurso de Siduri)"
+        },
+        "origen": {
+          "es": "Poema épico mesopotámico en acadio, con formas anteriores en sumerio; la tabla IX-X contiene el discurso de la tabernera Sidūri",
+          "en": "Mesopotamian Akkadian epic poem, with earlier Sumerian forms; tablets IX-X contain the tavern-keeper Siduri's speech",
+          "pt": "Poema épico mesopotâmico em acádio, com formas anteriores em sumério; as tábuas IX-X contêm o discurso da taberneira Siduri"
+        },
+        "relevancia": {
+          "es": "Sidūri aconseja a Gilgamesh llenar su vientre, vestirse de fiesta y disfrutar de su esposa mientras vive, dado que los dioses reservaron la muerte para el hombre — un paralelo notable a Ec 9:7-9, aunque Qohelet enraíza el mismo consejo en el don soberano de Dios y no en la resignación fatalista.",
+          "en": "Siduri advises Gilgamesh to fill his belly, dress festively, and enjoy his wife while he lives, since the gods reserved death for mankind — a notable parallel to Eccl 9:7-9, though Qohelet grounds the same counsel in God's sovereign gift rather than fatalistic resignation.",
+          "pt": "Siduri aconselha Gilgamesh a encher o ventre, vestir-se de festa e desfrutar de sua esposa enquanto vive, já que os deuses reservaram a morte para a humanidade — um paralelo notável a Ec 9:7-9, embora Coélet enraíze o mesmo conselho no dom soberano de Deus e não na resignação fatalista."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Dos controversias dominan el estudio histórico de Eclesiastés. Primero, la datación lingüística: la presencia de arameísmos y al menos un persianismo ('pardés', Ec 2:5) lleva a muchos críticos a datar el hebreo del libro al período persa o helenístico temprano (siglos V-III a.C.), muy posterior a Salomón; los defensores de la autoría salomónica responden que el hebreo real de Salomón, escrito en una corte cosmopolita con amplios contactos comerciales internacionales, pudo incorporar préstamos léxicos tempranos, y que el género de 'autobiografía real ficticia' no tiene paralelos claros en el mundo antiguo que respalden una lectura puramente pseudoepigráfica. Segundo, el debate arqueológico sobre el alcance real del reino de Salomón (ver 'arqueologia' arriba) incide directamente en si el trasfondo histórico que el libro presupone —una monarquía rica, estable y de proyección internacional— es plausible para el siglo X a.C. La posición reformada sostiene ambos: autoría salomónica y una monarquía unida sustancial, en consonancia con el testimonio unificado del canon (1R 3-11; 2Cr 1-9).",
+      "en": "Two controversies dominate the historical study of Ecclesiastes. First, linguistic dating: the presence of Aramaisms and at least one Persian loanword ('pardes,' Eccl 2:5) leads many critics to date the book's Hebrew to the Persian or early Hellenistic period (5th-3rd centuries BC), well after Solomon; defenders of Solomonic authorship respond that Solomon's own Hebrew, written in a cosmopolitan court with broad international trade contacts, could plausibly have absorbed early loanwords, and that the genre of 'fictive royal autobiography' lacks clear ancient parallels supporting a purely pseudepigraphic reading. Second, the archaeological debate over the real scope of Solomon's kingdom (see 'arqueologia' above) bears directly on whether the historical backdrop the book presupposes — a wealthy, stable monarchy with international reach — is plausible for the tenth century BC. The Reformed position holds to both Solomonic authorship and a substantial united monarchy, consistent with the canon's unified testimony (1Kgs 3-11; 2Chr 1-9).",
+      "pt": "Duas controvérsias dominam o estudo histórico de Eclesiastes. Primeiro, a datação linguística: a presença de aramaísmos e ao menos um persianismo ('pardes', Ec 2:5) leva muitos críticos a datar o hebraico do livro ao período persa ou helenístico inicial (séculos V-III a.C.), muito posterior a Salomão; os defensores da autoria salomônica respondem que o hebraico real de Salomão, escrito numa corte cosmopolita com amplos contatos comerciais internacionais, poderia ter incorporado empréstimos lexicais precoces, e que o gênero de 'autobiografia real fictícia' não tem paralelos claros no mundo antigo que sustentem uma leitura puramente pseudoepigráfica. Segundo, o debate arqueológico sobre o alcance real do reino de Salomão (ver 'arqueologia' acima) incide diretamente sobre se o pano de fundo histórico que o livro pressupõe — uma monarquia rica, estável e de projeção internacional — é plausível para o século X a.C. A posição reformada sustenta ambos: autoria salomônica e uma monarquia unida substancial, em consonância com o testemunho unificado do cânon (1Rs 3-11; 2Cr 1-9)."
+    },
+    "cronologiaInterna": {
+      "es": "El propio texto sugiere la retrospectiva de un rey de edad avanzada que examina toda una vida de logros —construcción, plantación, acumulación de riqueza (Ec 2:4-10)— desde la distancia de los años, y que exhorta al lector a recordar al Creador 'en los días de tu juventud, antes que vengan los días malos' (Ec 12:1), describiendo luego con imágenes poéticas el deterioro del cuerpo en la vejez (Ec 12:2-7). Esta perspectiva interna encaja con la composición del libro hacia el final del largo reinado de Salomón, como una reflexión madura y penitente sobre los años de esplendor descritos en 1 Reyes 3-10.",
+      "en": "The text itself suggests the retrospective of an aged king surveying an entire lifetime of achievement — building, planting, accumulating wealth (Eccl 2:4-10) — from the distance of years, and who exhorts the reader to remember the Creator 'in the days of your youth, before the evil days come' (Eccl 12:1), then describes in poetic imagery the body's decline in old age (Eccl 12:2-7). This internal vantage point fits the book's composition toward the end of Solomon's long reign, as a mature, penitent reflection on the years of splendor described in 1 Kings 3-10.",
+      "pt": "O próprio texto sugere a retrospectiva de um rei de idade avançada que examina toda uma vida de realizações — construção, plantio, acumulação de riqueza (Ec 2:4-10) — à distância dos anos, e que exorta o leitor a lembrar do Criador 'nos dias da tua mocidade, antes que venham os maus dias' (Ec 12:1), descrevendo então em imagens poéticas a deterioração do corpo na velhice (Ec 12:2-7). Essa perspectiva interna se encaixa com a composição do livro perto do fim do longo reinado de Salomão, como uma reflexão madura e penitente sobre os anos de esplendor descritos em 1 Reis 3-10."
+    }
+  },
+  "ordenEnDivision": 4,
+  "ordenCanon": 21,
+  "historiaRedentora": {
+    "epoca": "Promesa",
+    "contextoPacto": "Davídico",
+    "enfoqueCristologico": {
+      "es": "Eclesiastés expone la 'vanidad' o futilidad bajo la cual gime toda la creación caída (Ec 1:2-11; cf. Gn 3:17-19), la misma sujeción a la futilidad que Pablo describe en Romanos 8:20-21 como destinada a ser liberada solo mediante la redención de Cristo. La búsqueda infructuosa de Qohelet —el rey más sabio y rico de Israel— por encontrar sentido último en la sabiduría, el placer y el logro, prepara al lector para 'alguien mayor que Salomón' (Mt 12:42; Lc 11:31), quien es la sabiduría de Dios encarnada (1Co 1:24,30) y quien solo puede dar el descanso y la satisfacción que Qohelet busca en vano (Mt 11:28; Jn 4:13-14).",
+      "en": "Ecclesiastes exposes the 'vanity' or futility under which all fallen creation groans (Eccl 1:2-11; cf. Gen 3:17-19), the same subjection to futility that Paul describes in Romans 8:20-21 as destined to be freed only through Christ's redemption. Qohelet's fruitless search — as the wisest and wealthiest king in Israel — for ultimate meaning in wisdom, pleasure, and achievement prepares the reader for 'something greater than Solomon' (Matt 12:42; Luke 11:31), who is the wisdom of God incarnate (1Cor 1:24,30) and who alone can give the rest and satisfaction Qohelet seeks in vain (Matt 11:28; John 4:13-14).",
+      "pt": "Eclesiastes expõe a 'vaidade' ou futilidade sob a qual toda a criação caída geme (Ec 1:2-11; cf. Gn 3:17-19), a mesma sujeição à futilidade que Paulo descreve em Romanos 8:20-21 como destinada a ser libertada somente pela redenção de Cristo. A busca infrutífera de Coélet — o rei mais sábio e rico de Israel — por encontrar sentido último na sabedoria, no prazer e na realização, prepara o leitor para 'alguém maior do que Salomão' (Mt 12:42; Lc 11:31), que é a sabedoria de Deus encarnada (1Co 1:24,30) e que sozinho pode dar o descanso e a satisfação que Coélet busca em vão (Mt 11:28; Jo 4:13-14)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El vacío de las obras del rey más sabio y rico de Israel (Ec 2:4-11) funciona como un tipo negativo por contraste: si ni siquiera Salomón pudo hallar satisfacción última en sus logros, solo Aquel que es 'mayor que Salomón' (Mt 12:42) puede saciar verdaderamente al alma humana (Jn 4:13-14).",
+        "en": "The emptiness of the works of Israel's wisest and wealthiest king (Eccl 2:4-11) functions as a negative type by contrast: if not even Solomon could find ultimate satisfaction in his achievements, only the One who is 'greater than Solomon' (Matt 12:42) can truly satisfy the human soul (John 4:13-14).",
+        "pt": "O vazio das obras do rei mais sábio e rico de Israel (Ec 2:4-11) funciona como um tipo negativo por contraste: se nem mesmo Salomão pôde encontrar satisfação última em suas realizações, somente Aquele que é 'maior do que Salomão' (Mt 12:42) pode verdadeiramente saciar a alma humana (Jo 4:13-14)."
+      },
+      {
+        "es": "La creación sujeta a 'vanidad' bajo el sol (Ec 1:2-11) anticipa la descripción paulina de la creación 'sujetada a vanidad' que aguarda ser liberada en la redención final de los hijos de Dios (Ro 8:20-21).",
+        "en": "Creation subjected to 'vanity' under the sun (Eccl 1:2-11) anticipates Paul's description of creation 'subjected to futility,' awaiting liberation in the final redemption of the children of God (Rom 8:20-21).",
+        "pt": "A criação sujeita à 'vaidade' debaixo do sol (Ec 1:2-11) antecipa a descrição paulina da criação 'sujeita à vaidade', que aguarda ser libertada na redenção final dos filhos de Deus (Rm 8:20-21)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Eclesiastés es el único libro canónico que somete la vida humana a una crítica filosófica sostenida y experimental 'bajo el sol', demostrando desde dentro del sistema mismo —sin apelar primero a la revelación especial— que la sabiduría, el placer, el trabajo y la riqueza no pueden producir sentido último al margen de Dios. Junto con Job, corrige cualquier lectura simplista de Proverbios que reduzca la sabiduría a una fórmula mecánica de causa y efecto, reconociendo la opacidad real del sufrimiento, la injusticia y la muerte en un mundo caído; y su llamado final —'teme a Dios y guarda sus mandamientos' (Ec 12:13-14)— ancla toda esa honestidad radical en la piedad pactual, no en el escepticismo.",
+    "en": "Ecclesiastes is the only canonical book that subjects human life to a sustained, experimental philosophical critique 'under the sun,' demonstrating from within the system itself — without first appealing to special revelation — that wisdom, pleasure, labor, and wealth cannot produce ultimate meaning apart from God. Together with Job, it corrects any simplistic reading of Proverbs that reduces wisdom to a mechanical formula of cause and effect, acknowledging the real opacity of suffering, injustice, and death in a fallen world; and its final call — 'fear God and keep his commandments' (Eccl 12:13-14) — anchors all of that radical honesty in covenantal piety, not skepticism.",
+    "pt": "Eclesiastes é o único livro canônico que submete a vida humana a uma crítica filosófica sustentada e experimental 'debaixo do sol', demonstrando de dentro do próprio sistema — sem primeiro apelar à revelação especial — que a sabedoria, o prazer, o trabalho e a riqueza não podem produzir sentido último à parte de Deus. Junto com Jó, corrige qualquer leitura simplista de Provérbios que reduza a sabedoria a uma fórmula mecânica de causa e efeito, reconhecendo a real opacidade do sofrimento, da injustiça e da morte num mundo caído; e seu chamado final — 'teme a Deus e guarda os seus mandamentos' (Ec 12:13-14) — ancora toda essa honestidade radical na piedade pactual, não no ceticismo."
+  },
+  "genero": {
+    "es": "Literatura de sabiduría (reflexión filosófico-teológica en prosa y poesía)",
+    "en": "Wisdom Literature (philosophical-theological reflection in prose and poetry)",
+    "pt": "Literatura de sabedoria (reflexão filosófico-teológica em prosa e poesia)"
+  },
+  "palabraClave": {
+    "es": [
+      "Vanidad",
+      "Bajo el sol",
+      "Sabiduría",
+      "Temor de Dios",
+      "Tiempo"
+    ],
+    "en": [
+      "Vanity",
+      "Under the sun",
+      "Wisdom",
+      "Fear of God",
+      "Time"
+    ],
+    "pt": [
+      "Vaidade",
+      "Debaixo do sol",
+      "Sabedoria",
+      "Temor de Deus",
+      "Tempo"
+    ]
+  },
+  "destinatario": {
+    "es": "Los lectores del antiguo Israel, presumiblemente los círculos sapienciales y de la corte durante o después de la monarquía unida, y por extensión toda generación de creyentes tentada a buscar sentido último en el logro, el placer o el conocimiento al margen de Dios.",
+    "en": "Readers of ancient Israel, presumably wisdom and court circles during or after the united monarchy, and by extension every generation of believers tempted to seek ultimate meaning in achievement, pleasure, or knowledge apart from God.",
+    "pt": "Os leitores do antigo Israel, presumivelmente os círculos sapienciais e da corte durante ou depois da monarquia unida, e por extensão toda geração de crentes tentada a buscar sentido último na realização, no prazer ou no conhecimento à parte de Deus."
+  },
+  "proposito": {
+    "es": "Históricamente, el libro documenta la investigación experimental de un rey israelita —tradicionalmente Salomón— sobre el valor último de la sabiduría, el placer, el trabajo y la riqueza, ofreciendo una reflexión de sabiduría real semejante a otros textos instruccionales del Cercano Oriente Antiguo. Teológicamente, su propósito es desenmascarar la futilidad ('hevel') de toda búsqueda de sentido 'bajo el sol' que prescinda de Dios, y conducir al lector, a través de esa honestidad radical, hacia la única conclusión estable: temer a Dios y guardar sus mandamientos, recibiendo con gratitud el trabajo, la comida y los días de vida como dones de su mano (Ec 2:24-26; 12:13-14).",
+    "en": "Historically, the book documents the experimental investigation of an Israelite king — traditionally Solomon — into the ultimate value of wisdom, pleasure, labor, and wealth, offering a royal wisdom reflection similar to other Ancient Near Eastern instructional texts. Theologically, its purpose is to unmask the futility ('hevel') of every pursuit of meaning 'under the sun' that dispenses with God, and to lead the reader, through that radical honesty, to the one stable conclusion: fear God and keep his commandments, receiving work, food, and the days of life with gratitude as gifts from his hand (Eccl 2:24-26; 12:13-14).",
+    "pt": "Historicamente, o livro documenta a investigação experimental de um rei israelita — tradicionalmente Salomão — sobre o valor último da sabedoria, do prazer, do trabalho e da riqueza, oferecendo uma reflexão de sabedoria real semelhante a outros textos instrucionais do Antigo Oriente Próximo. Teologicamente, seu propósito é desmascarar a futilidade ('hevel') de toda busca de sentido 'debaixo do sol' que prescinda de Deus, e conduzir o leitor, por meio dessa honestidade radical, à única conclusão estável: temer a Deus e guardar os seus mandamentos, recebendo com gratidão o trabalho, a comida e os dias de vida como dons de sua mão (Ec 2:24-26; 12:13-14)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Qohelet (el Predicador)",
+        "en": "Qohelet (the Preacher)",
+        "pt": "Coélet (o Pregador)"
+      },
+      "hebreo": "קֹהֶלֶת",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "descripcion": {
+        "es": "La voz en primera persona de todo el libro, autoidentificada como 'el Predicador, hijo de David, rey en Jerusalén' (Ec 1:1,12), tradicionalmente Salomón. Conduce una investigación experiencial y exhaustiva sobre si la sabiduría, el placer, el trabajo o la riqueza pueden producir sentido último 'bajo el sol' (Ec 1:13).",
+        "en": "The first-person voice of the entire book, self-identified as 'the Preacher, the son of David, king in Jerusalem' (Eccl 1:1,12), traditionally Solomon. He conducts an exhaustive, experiential investigation into whether wisdom, pleasure, labor, or wealth can produce ultimate meaning 'under the sun' (Eccl 1:13).",
+        "pt": "A voz em primeira pessoa de todo o livro, autoidentificada como 'o Pregador, filho de Davi, rei em Jerusalém' (Ec 1:1,12), tradicionalmente Salomão. Conduz uma investigação experiencial e exaustiva sobre se a sabedoria, o prazer, o trabalho ou a riqueza podem produzir sentido último 'debaixo do sol' (Ec 1:13)."
+      },
+      "acciones": {
+        "es": "Persigue la sabiduría y el conocimiento (Ec 1:13,17), prueba el placer y el vino (Ec 2:1-3), emprende grandes obras —casas, viñas, jardines, estanques, siervos, ganado, plata y oro— (Ec 2:4-8), alcanza fama y riqueza incomparables (Ec 2:9), observa la injusticia y la opresión bajo el sol (Ec 3:16; 4:1), y concluye la obra con el mandato final: 'teme a Dios y guarda Sus mandamientos' (Ec 12:13).",
+        "en": "He pursues wisdom and knowledge (Eccl 1:13,17), tests pleasure and wine (Eccl 2:1-3), undertakes great works — houses, vineyards, gardens, pools, servants, herds, silver, and gold (Eccl 2:4-8), attains unmatched fame and wealth (Eccl 2:9), observes injustice and oppression under the sun (Eccl 3:16; 4:1), and closes the book with the final charge: 'fear God and keep his commandments' (Eccl 12:13).",
+        "pt": "Persegue a sabedoria e o conhecimento (Ec 1:13,17), testa o prazer e o vinho (Ec 2:1-3), empreende grandes obras — casas, vinhas, jardins, tanques, servos, gado, prata e ouro (Ec 2:4-8), alcança fama e riqueza incomparáveis (Ec 2:9), observa a injustiça e a opressão debaixo do sol (Ec 3:16; 4:1), e encerra a obra com o mandamento final: 'teme a Deus e guarda os seus mandamentos' (Ec 12:13)."
+      },
+      "significadoTeologico": {
+        "es": "Qohelet encarna el resultado de la vida humana más privilegiada posible —sabiduría, riqueza y placer incomparables— cuando se persigue de forma autónoma 'bajo el sol', al margen de una dependencia última de Dios, demostrando así la vacuidad del logro mundano y conduciendo al lector a temer a Dios como único fundamento verdadero del sentido.",
+        "en": "Qohelet embodies the outcome of the most privileged human life possible — unmatched wisdom, wealth, and pleasure — when pursued autonomously 'under the sun,' apart from ultimate dependence on God, thereby demonstrating the emptiness of worldly attainment and driving the reader to fear God as the only true ground of meaning.",
+        "pt": "Coélet encarna o resultado da vida humana mais privilegiada possível — sabedoria, riqueza e prazer incomparáveis — quando perseguida de forma autônoma 'debaixo do sol', à margem de uma dependência última de Deus, demonstrando assim a vacuidade da realização mundana e conduzindo o leitor a temer a Deus como único fundamento verdadeiro do sentido."
+      },
+      "tipo": {
+        "es": "Como figura regia cuya sabiduría y riqueza superan a todas las demás sin lograr dar sentido último, Qohelet funciona como un tipo negativo que anticipa a 'alguien mayor que Salomón' (Mt 12:42; Lc 11:31), Jesucristo, quien sí satisface plenamente al alma humana.",
+        "en": "As a royal figure whose wisdom and wealth surpass all others yet fail to yield ultimate meaning, Qohelet functions as a negative type anticipating 'someone greater than Solomon' (Matt 12:42; Luke 11:31), Jesus Christ, who alone fully satisfies the human soul.",
+        "pt": "Como figura régia cuja sabedoria e riqueza superam todas as demais sem conseguir dar sentido último, Coélet funciona como um tipo negativo que antecipa 'alguém maior do que Salomão' (Mt 12:42; Lc 11:31), Jesus Cristo, que sim satisfaz plenamente a alma humana."
+      },
+      "caracterMoral": {
+        "es": "Complejo y ambiguo: sabio pero limitado por su propia autonomía especulativa 'bajo el sol'; su honestidad radical sobre la futilidad de la vida sin Dios es en sí misma una forma piadosa de sabiduría, que culmina en la exhortación final ortodoxa a temer a Dios y guardar Sus mandamientos (Ec 12:13-14).",
+        "en": "Complex and ambiguous: wise yet limited by his own speculative autonomy 'under the sun'; his radical honesty about the futility of life without God is itself a godly form of wisdom, culminating in the final orthodox exhortation to fear God and keep his commandments (Eccl 12:13-14).",
+        "pt": "Complexo e ambíguo: sábio, mas limitado por sua própria autonomia especulativa 'debaixo do sol'; sua honestidade radical sobre a futilidade da vida sem Deus é em si mesma uma forma piedosa de sabedoria, que culmina na exortação final ortodoxa de temer a Deus e guardar os seus mandamentos (Ec 12:13-14)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "El texto lo presenta como 'hijo de David, rey en Jerusalén' (Ec 1:1), 'mayor en sabiduría que todos los que fueron antes de mí en Jerusalén' (Ec 1:16), quien construyó casas, plantó viñas, hizo jardines y estanques, y acumuló plata, oro y todo tipo de tesoros (Ec 2:4-9), para concluir que nada de esto satisface (Ec 2:11) y cerrar con el llamado a temer a Dios (Ec 12:13-14).",
+          "en": "The text presents him as 'the son of David, king in Jerusalem' (Eccl 1:1), 'greater in wisdom than all who were over Jerusalem before me' (Eccl 1:16), who built houses, planted vineyards, made gardens and pools, and amassed silver, gold, and every kind of treasure (Eccl 2:4-9), only to conclude that none of it satisfies (Eccl 2:11) and to close with the call to fear God (Eccl 12:13-14).",
+          "pt": "O texto o apresenta como 'filho de Davi, rei em Jerusalém' (Ec 1:1), 'maior em sabedoria do que todos os que houve antes de mim em Jerusalém' (Ec 1:16), que construiu casas, plantou vinhas, fez jardins e tanques, e acumulou prata, ouro e todo tipo de tesouros (Ec 2:4-9), para concluir que nada disso satisfaz (Ec 2:11) e encerrar com o chamado a temer a Deus (Ec 12:13-14)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Ec 1:1",
+          "Ec 1:12",
+          "Ec 2:4-9",
+          "Ec 12:13-14"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La identificación de Qohelet con Salomón se apoya en la correlación con 1 Reyes 3-11: sabiduría incomparable otorgada por Dios (1R 3:12; cf. Ec 1:16), riqueza y proyectos de construcción sin precedentes (1R 9-10; cf. Ec 2:4-9), y una decadencia espiritual final por sus muchas mujeres extranjeras (1R 11:1-8) coherente con el tono de desengaño y arrepentimiento que domina el libro.",
+          "en": "The identification of Qohelet with Solomon rests on correlation with 1 Kings 3-11: incomparable wisdom granted by God (1Kgs 3:12; cf. Eccl 1:16), unprecedented wealth and building projects (1Kgs 9-10; cf. Eccl 2:4-9), and a final spiritual decline through his many foreign wives (1Kgs 11:1-8) consistent with the disillusioned, penitent tone that dominates the book.",
+          "pt": "A identificação de Coélet com Salomão se apoia na correlação com 1 Reis 3-11: sabedoria incomparável concedida por Deus (1Rs 3:12; cf. Ec 1:16), riqueza e projetos de construção sem precedentes (1Rs 9-10; cf. Ec 2:4-9), e um declínio espiritual final por causa de suas muitas mulheres estrangeiras (1Rs 11:1-8) coerente com o tom de desilusão e arrependimento que domina o livro."
+        },
+        "fuentes": [
+          {
+            "titulo": "An Introduction to the Old Testament",
+            "autor": "Tremper Longman III & Raymond B. Dillard",
+            "año": 2006,
+            "editorial": "Zondervan",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Autoría",
+              "Fecha",
+              "Género"
+            ]
+          },
+          {
+            "titulo": "ESV Study Bible",
+            "autor": "Crossway (ed. Lane T. Dennis & Wayne Grudem)",
+            "año": 2008,
+            "editorial": "Crossway",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Introducción a Eclesiastés",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Alta concordancia interna con 1 Reyes 3-11 en cuanto a sabiduría, riqueza y desengaño final, aunque no existe evidencia extrabíblica directa (inscripcional o arqueológica) que confirme la autoría salomónica del libro mismo; la identificación descansa en el autotestimonio del texto (Ec 1:1,12,16) leído a la luz del testimonio narrativo más amplio del canon.",
+          "en": "Strong internal concordance with 1 Kings 3-11 regarding wisdom, wealth, and final disillusionment, though no direct extrabiblical evidence (inscriptional or archaeological) confirms the book's own Solomonic authorship; the identification rests on the text's self-testimony (Eccl 1:1,12,16) read in light of the canon's broader narrative witness.",
+          "pt": "Alta concordância interna com 1 Reis 3-11 quanto à sabedoria, riqueza e desilusão final, embora não exista evidência extrabíblica direta (inscricional ou arqueológica) que confirme a autoria salomônica do próprio livro; a identificação repousa no autotestemunho do texto (Ec 1:1,12,16) lido à luz do testemunho narrativo mais amplo do cânon."
+        }
+      },
+      "versiculosAsociados": [
+        "Ec 1:1",
+        "Ec 1:12-18",
+        "Ec 2:1-11",
+        "Ec 12:9-14"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "1R",
+        "2Cr",
+        "Pr",
+        "Cnt"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Jesús se refiere a 'alguien mayor que Salomón' presente en su propio ministerio (Mt 12:42; Lc 11:31); Santiago, con un tono muy similar al de Qohelet, describe la vida humana como un 'vapor que se aparece por un poco de tiempo y luego se desvanece' (Stg 4:14).",
+        "en": "Jesus refers to 'someone greater than Solomon' present in his own ministry (Matt 12:42; Luke 11:31); James, in a tone strikingly similar to Qohelet's, describes human life as 'a mist that appears for a little time and then vanishes' (Jas 4:14).",
+        "pt": "Jesus se refere a 'alguém maior do que Salomão' presente em seu próprio ministério (Mt 12:42; Lc 11:31); Tiago, num tom muito semelhante ao de Coélet, descreve a vida humana como um 'vapor que aparece por um pouco de tempo e depois se desvanece' (Tg 4:14)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Dios (Elohim)",
+        "en": "God (Elohim)",
+        "pt": "Deus (Elohim)"
+      },
+      "hebreo": "אֱלֹהִים",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        2,
+        3,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12
+      ],
+      "descripcion": {
+        "es": "El Creador soberano y Juez final, referido en todo el libro exclusivamente como 'Elohim' (nunca 'YHWH', a diferencia de la mayoría de los libros del Antiguo Testamento), quien da sabiduría, gozo y 'porción' al hombre (Ec 2:24-26), fija los tiempos de cada cosa (Ec 3:1-11), y traerá toda obra a juicio (Ec 12:14).",
+        "en": "The sovereign Creator and final Judge, referred to throughout the book exclusively as 'Elohim' (never 'YHWH,' unlike most Old Testament books), who gives wisdom, joy, and 'portion' to man (Eccl 2:24-26), appoints the time for every matter (Eccl 3:1-11), and will bring every deed into judgment (Eccl 12:14).",
+        "pt": "O Criador soberano e Juiz final, referido em todo o livro exclusivamente como 'Elohim' (nunca 'YHWH', diferentemente da maioria dos livros do Antigo Testamento), que dá sabedoria, alegria e 'porção' ao homem (Ec 2:24-26), determina os tempos de cada coisa (Ec 3:1-11), e trará toda obra a juízo (Ec 12:14)."
+      },
+      "acciones": {
+        "es": "Da sabiduría, conocimiento y gozo al que le agrada (Ec 2:26), establece un tiempo señalado para cada acontecimiento (Ec 3:1-11), pone eternidad en el corazón humano sin que este alcance a comprender la obra de Dios de principio a fin (Ec 3:11), prueba a los hombres para que vean que son como bestias (Ec 3:18), hizo al hombre recto, aunque este buscó muchas artimañas (Ec 7:29), y juzgará toda obra oculta, sea buena o mala (Ec 12:14).",
+        "en": "He gives wisdom, knowledge, and joy to the one who pleases him (Eccl 2:26), establishes an appointed time for every event (Eccl 3:1-11), sets eternity in the human heart without letting him grasp God's work from beginning to end (Eccl 3:11), tests men so they may see that they are like beasts (Eccl 3:18), made man upright, though man has sought out many schemes (Eccl 7:29), and will judge every hidden deed, whether good or evil (Eccl 12:14).",
+        "pt": "Dá sabedoria, conhecimento e alegria a quem lhe agrada (Ec 2:26), estabelece um tempo determinado para cada acontecimento (Ec 3:1-11), põe a eternidade no coração humano sem que este alcance compreender a obra de Deus do princípio ao fim (Ec 3:11), prova os homens para que vejam que são como animais (Ec 3:18), fez o homem reto, embora este tenha buscado muitas astúcias (Ec 7:29), e julgará toda obra oculta, seja boa ou má (Ec 12:14)."
+      },
+      "significadoTeologico": {
+        "es": "La soberanía, providencia y juicio final de Dios son el único referente estable en un libro dominado por la futilidad humana; la teología del 'temor de Dios' (Ec 3:14; 5:7; 12:13) es la respuesta que el libro ofrece a la vanidad ('hevel') que impregna toda existencia 'bajo el sol'.",
+        "en": "God's sovereignty, providence, and final judgment are the only stable referent in a book otherwise dominated by human futility; the theology of the 'fear of God' (Eccl 3:14; 5:7; 12:13) is the book's answer to the vanity ('hevel') that pervades all existence 'under the sun.'",
+        "pt": "A soberania, providência e juízo final de Deus são o único referente estável num livro dominado pela futilidade humana; a teologia do 'temor de Deus' (Ec 3:14; 5:7; 12:13) é a resposta que o livro oferece à vaidade ('hevel') que permeia toda a existência 'debaixo do sol'."
+      },
+      "tipo": {
+        "es": "El Dios Creador y Juez de Eclesiastés, revelado bajo el nombre genérico 'Elohim', anticipa la revelación plena del Dios trino en Cristo, la sabiduría de Dios encarnada (1Co 1:24,30), en quien la eternidad puesta en el corazón humano (Ec 3:11) halla finalmente su cumplimiento y reposo (Mt 11:28).",
+        "en": "The Creator-Judge God of Ecclesiastes, revealed under the generic name 'Elohim,' anticipates the fuller revelation of the triune God in Christ, the wisdom of God incarnate (1Cor 1:24,30), in whom the eternity placed in the human heart (Eccl 3:11) finally finds its fulfillment and rest (Matt 11:28).",
+        "pt": "O Deus Criador e Juiz de Eclesiastes, revelado sob o nome genérico 'Elohim', antecipa a revelação plena do Deus trino em Cristo, a sabedoria de Deus encarnada (1Co 1:24,30), em quem a eternidade posta no coração humano (Ec 3:11) finalmente encontra seu cumprimento e descanso (Mt 11:28)."
+      },
+      "caracterMoral": {
+        "es": "Perfectamente justo y soberano; aunque Qohelet observa aparentes inequidades bajo el sol (Ec 7:15; 8:14), el libro nunca acusa a Dios de injusticia, sino que remite el juicio de esas inequidades a un tiempo señalado por Él mismo (Ec 3:17; 8:12-13; 12:14).",
+        "en": "Perfectly just and sovereign; although Qohelet observes apparent inequities under the sun (Eccl 7:15; 8:14), the book never charges God with injustice, but instead entrusts the judgment of those inequities to a time appointed by God himself (Eccl 3:17; 8:12-13; 12:14).",
+        "pt": "Perfeitamente justo e soberano; embora Coélet observe aparentes iniquidades debaixo do sol (Ec 7:15; 8:14), o livro nunca acusa a Deus de injustiça, mas remete o julgamento dessas iniquidades a um tempo determinado por Ele mesmo (Ec 3:17; 8:12-13; 12:14)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Elohim es quien da a cada hombre su 'porción' de comer, beber y gozar de su trabajo (Ec 2:24-26; 5:18-19), quien ha hecho todo hermoso en su tiempo (Ec 3:11), a quien se debe temer y ante quien no se deben multiplicar palabras al hacer votos (Ec 5:1-7), y quien finalmente traerá toda obra, incluso la oculta, a juicio (Ec 12:14).",
+          "en": "Elohim is the one who gives every man his 'portion' to eat, drink, and enjoy his toil (Eccl 2:24-26; 5:18-19), who has made everything beautiful in its time (Eccl 3:11), whom one must fear and before whom one must not multiply words when making vows (Eccl 5:1-7), and who will finally bring every deed, even what is hidden, into judgment (Eccl 12:14).",
+          "pt": "Elohim é quem dá a cada homem a sua 'porção' de comer, beber e desfrutar do seu trabalho (Ec 2:24-26; 5:18-19), que fez tudo formoso em seu tempo (Ec 3:11), a quem se deve temer e diante de quem não se devem multiplicar palavras ao fazer votos (Ec 5:1-7), e que finalmente trará toda obra, mesmo a oculta, a juízo (Ec 12:14)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Ec 2:24-26",
+          "Ec 3:1-11",
+          "Ec 5:1-7",
+          "Ec 12:14"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Como sujeto teológico y no una figura histórica verificable por medios extrabíblicos, la evidencia relevante para 'Elohim' en Eclesiastés no es arqueológica sino canónica: la consistencia de sus atributos —soberanía, providencia, justicia final— con la doctrina de Dios desarrollada en todo el canon (cf. Grudem, Vos), particularmente notable por el uso exclusivo del nombre genérico 'Elohim' en vez del pactual 'YHWH' que domina el resto del Antiguo Testamento.",
+          "en": "As a theological subject rather than a historical figure verifiable by extrabiblical means, the relevant evidence for 'Elohim' in Ecclesiastes is not archaeological but canonical: the consistency of his attributes — sovereignty, providence, final justice — with the doctrine of God developed across the whole canon (cf. Grudem, Vos), particularly notable for the book's exclusive use of the generic name 'Elohim' rather than the covenantal 'YHWH' that dominates the rest of the Old Testament.",
+          "pt": "Como sujeito teológico e não uma figura histórica verificável por meios extrabíblicos, a evidência relevante para 'Elohim' em Eclesiastes não é arqueológica, mas canônica: a consistência de seus atributos — soberania, providência, justiça final — com a doutrina de Deus desenvolvida em todo o cânon (cf. Grudem, Vos), particularmente notável pelo uso exclusivo do nome genérico 'Elohim' em vez do pactual 'YHWH' que domina o resto do Antigo Testamento."
+        },
+        "fuentes": [
+          {
+            "titulo": "Systematic Theology",
+            "autor": "Wayne Grudem",
+            "año": 1994,
+            "editorial": "Zondervan",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Doctrina de Dios",
+              "Providencia"
+            ]
+          },
+          {
+            "titulo": "Biblical Theology",
+            "autor": "Geerhardus Vos",
+            "año": 1948,
+            "editorial": "Banner of Truth",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Revelación progresiva",
+              "Nombres divinos"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Esta calificación refleja la coherencia doctrinal de los atributos divinos con el testimonio de todo el canon, no evidencia arqueológica o inscripcional, categoría que no es aplicable a un sujeto teológico como Dios mismo.",
+          "en": "This rating reflects the doctrinal coherence of the divine attributes with the whole canon's testimony, not archaeological or inscriptional evidence, a category not applicable to a theological subject such as God himself.",
+          "pt": "Essa classificação reflete a coerência doutrinária dos atributos divinos com o testemunho de todo o cânon, não evidência arqueológica ou inscricional, categoria não aplicável a um sujeito teológico como o próprio Deus."
+        }
+      },
+      "versiculosAsociados": [
+        "Ec 2:24-26",
+        "Ec 3:1-15",
+        "Ec 5:1-7",
+        "Ec 7:29",
+        "Ec 12:13-14"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Ex",
+        "Job",
+        "Sal"
+      ],
+      "enElNuevoTestamento": {
+        "es": "La revelación limitada de Dios como Creador y Juez en Eclesiastés halla su plenitud en Cristo, en quien 'están escondidos todos los tesoros de la sabiduría y del conocimiento' (Col 2:3), y el juicio anunciado en Ec 12:14 se concreta en el 'tribunal de Cristo' (2Co 5:10).",
+        "en": "The limited revelation of God as Creator and Judge in Ecclesiastes finds its fullness in Christ, in whom 'are hidden all the treasures of wisdom and knowledge' (Col 2:3), and the judgment announced in Eccl 12:14 is concretized in the 'judgment seat of Christ' (2Cor 5:10).",
+        "pt": "A revelação limitada de Deus como Criador e Juiz em Eclesiastes encontra sua plenitude em Cristo, em quem 'estão escondidos todos os tesouros da sabedoria e do conhecimento' (Cl 2:3), e o juízo anunciado em Ec 12:14 se concretiza no 'tribunal de Cristo' (2Co 5:10)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Eclesiastés enseña que Dios ha establecido un tiempo señalado para cada acontecimiento humano (Ec 3:1-8) y que Su obra 'desde el principio hasta el fin' permanece más allá de la comprensión humana (Ec 3:11). La aparente arbitrariedad de la vida 'bajo el sol' no es caos, sino un orden gobernado soberanamente por Dios que el hombre no puede rastrear ni alterar (Ec 3:14; 7:13-14).",
+        "en": "Ecclesiastes teaches that God has appointed a time for every human event (Eccl 3:1-8) and that his work 'from the beginning to the end' remains beyond human comprehension (Eccl 3:11). The apparent randomness of life 'under the sun' is not chaos but an order sovereignly governed by God that man can neither trace out nor alter (Eccl 3:14; 7:13-14).",
+        "pt": "Eclesiastes ensina que Deus estabeleceu um tempo determinado para cada acontecimento humano (Ec 3:1-8) e que a Sua obra 'desde o princípio até o fim' permanece além da compreensão humana (Ec 3:11). A aparente aleatoriedade da vida 'debaixo do sol' não é caos, mas uma ordem governada soberanamente por Deus que o homem não pode rastrear nem alterar (Ec 3:14; 7:13-14)."
+      },
+      "pasajes": [
+        "Ec 3:1-8",
+        "Ec 3:11",
+        "Ec 3:14",
+        "Ec 7:13-14"
+      ],
+      "ensenanza": {
+        "es": "Dios señala un tiempo para cada propósito bajo el cielo · Su obra abarca la eternidad más allá del alcance humano · Lo que Dios hace permanece, sin que nada se le pueda añadir o quitar · Dios ha hecho tanto la prosperidad como la adversidad para que nadie descubra lo que vendrá después",
+        "en": "God appoints a time for every purpose under heaven · His work spans eternity beyond human reach · What God does endures, so that nothing can be added to it or taken from it · God has made both prosperity and adversity so that no one can discover what comes after them",
+        "pt": "Deus determina um tempo para cada propósito debaixo do céu · A Sua obra abrange a eternidade além do alcance humano · O que Deus faz permanece, sem que nada se lhe possa acrescentar ou tirar · Deus fez tanto a prosperidade quanto a adversidade para que ninguém descubra o que virá depois"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee la providencia de Eclesiastés no como fatalismo estoico sino como el decreto soberano y sabio de Dios (cf. Confesión de Westminster, Cap. 5), que da fundamento objetivo al descanso del creyente aun cuando este no comprenda el propósito inmediato de los sucesos.",
+        "en": "The Reformed tradition reads the providence of Ecclesiastes not as stoic fatalism but as God's sovereign and wise decree (cf. Westminster Confession, Ch. 5), which gives objective grounding for the believer's rest even when he does not understand the immediate purpose of events.",
+        "pt": "A tradição reformada lê a providência de Eclesiastes não como fatalismo estoico, mas como o decreto soberano e sábio de Deus (cf. Confissão de Westminster, Cap. 5), que dá fundamento objetivo ao descanso do crente mesmo quando este não compreende o propósito imediato dos acontecimentos."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Antropología",
+        "en": "Anthropology",
+        "pt": "Antropologia"
+      },
+      "resumen": {
+        "es": "Eclesiastés insiste en la finitud radical del hombre: el ojo no se sacia de ver ni el oído de oír (Ec 1:8), hombres y animales comparten el mismo destino de polvo (Ec 3:19-20), y en la muerte el espíritu vuelve a Dios que lo dio (Ec 12:7). A la vez, Dios ha puesto 'eternidad' en el corazón humano (Ec 3:11), una capacidad que trasciende lo meramente animal aunque no logre comprender la totalidad de la obra divina.",
+        "en": "Ecclesiastes insists on man's radical finitude: the eye is not satisfied with seeing nor the ear with hearing (Eccl 1:8), man and beast share the same destiny of dust (Eccl 3:19-20), and at death the spirit returns to God who gave it (Eccl 12:7). Yet God has set 'eternity' in the human heart (Eccl 3:11), a capacity that transcends the merely animal even though it cannot grasp the totality of God's work.",
+        "pt": "Eclesiastes insiste na finitude radical do homem: o olho não se farta de ver nem o ouvido de ouvir (Ec 1:8), homens e animais compartilham o mesmo destino de pó (Ec 3:19-20), e na morte o espírito volta a Deus que o deu (Ec 12:7). Ao mesmo tempo, Deus pôs 'eternidade' no coração humano (Ec 3:11), uma capacidade que transcende o meramente animal, ainda que não consiga compreender a totalidade da obra divina."
+      },
+      "pasajes": [
+        "Ec 1:8",
+        "Ec 3:11",
+        "Ec 3:19-20",
+        "Ec 12:7"
+      ],
+      "ensenanza": {
+        "es": "Los sentidos humanos nunca hallan plena satisfacción · Dios ha puesto eternidad en el corazón del hombre · Hombres y animales comparten el mismo aliento y el mismo destino de polvo · Al morir, el espíritu regresa a Dios que lo dio",
+        "en": "Human senses never find full satisfaction · God has placed eternity in man's heart · Man and beast share the same breath and the same destiny of dust · At death, the spirit returns to God who gave it",
+        "pt": "Os sentidos humanos nunca encontram plena satisfação · Deus pôs a eternidade no coração do homem · Homens e animais compartilham o mesmo fôlego e o mesmo destino de pó · Ao morrer, o espírito volta a Deus que o deu"
+      },
+      "distintivaReformada": {
+        "es": "La antropología reformada afirma que el hombre, portador de la imagen de Dios, es a la vez radicalmente finito y mortal a causa de la Caída (Gn 3:19, ecoado en Ec 3:20); Eclesiastés explota esta tensión precisamente para conducir al lector fuera de la autosuficiencia autónoma hacia la dependencia de Dios.",
+        "en": "Reformed anthropology affirms that man, bearing the image of God, is at once radically finite and mortal because of the Fall (Gen 3:19, echoed in Eccl 3:20); Ecclesiastes exploits this tension precisely to drive the reader out of autonomous self-sufficiency and into dependence on God.",
+        "pt": "A antropologia reformada afirma que o homem, portador da imagem de Deus, é ao mesmo tempo radicalmente finito e mortal por causa da Queda (Gn 3:19, ecoado em Ec 3:20); Eclesiastes explora essa tensão precisamente para conduzir o leitor para fora da autossuficiência autônoma e para a dependência de Deus."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "Qohelet declara sin rodeos que 'no hay hombre justo en la tierra que haga el bien y nunca peque' (Ec 7:20), y que 'Dios hizo al hombre recto, pero ellos buscaron muchas artimañas' (Ec 7:29). Esta doble afirmación —depravación universal y responsabilidad humana en la caída original desde la rectitud— resume la doctrina bíblica del pecado en clave sapiencial.",
+        "en": "Qohelet bluntly declares that 'there is not a righteous man on earth who does good and never sins' (Eccl 7:20), and that 'God made man upright, but they have sought out many schemes' (Eccl 7:29). This twofold affirmation — universal depravity and human responsibility in the original fall from uprightness — sums up the biblical doctrine of sin in wisdom idiom.",
+        "pt": "Coélet declara sem rodeios que 'não há homem justo sobre a terra, que faça o bem e nunca peque' (Ec 7:20), e que 'Deus fez o homem reto, mas eles buscaram muitas astúcias' (Ec 7:29). Essa dupla afirmação — depravação universal e responsabilidade humana na queda original a partir da retidão — resume a doutrina bíblica do pecado em linguagem sapiencial."
+      },
+      "pasajes": [
+        "Ec 7:20",
+        "Ec 7:29",
+        "Ec 8:11",
+        "Ec 9:3"
+      ],
+      "ensenanza": {
+        "es": "Ningún ser humano sobre la tierra hace únicamente el bien sin pecar jamás · Dios hizo al hombre recto, pero este buscó muchas artimañas propias · La demora del castigo hace que el corazón humano se llene de maldad · La misma suerte llega a todos, y el corazón del hombre está lleno de mal mientras vive",
+        "en": "No human being on earth does only good without ever sinning · God made man upright, but man sought out his own many schemes · Delayed punishment fills the human heart with evil · The same fate comes to all, and the human heart is full of evil while it lives",
+        "pt": "Nenhum ser humano sobre a terra faz apenas o bem sem jamais pecar · Deus fez o homem reto, mas este buscou muitas astúcias próprias · A demora do castigo enche o coração humano de maldade · A mesma sorte chega a todos, e o coração do homem está cheio de mal enquanto vive"
+      },
+      "distintivaReformada": {
+        "es": "Ec 7:20,29 anticipa la doctrina reformada de la depravación total (Confesión de Westminster, Cap. 6): la observación empírica de Qohelet corrobora, sin derivarla únicamente de ella, la doctrina más tarde sistematizada desde Génesis 3 y citada por Pablo en Romanos 3:10-12, ligando experiencia y revelación en un mismo testimonio sobre el pecado universal.",
+        "en": "Eccl 7:20,29 anticipates the Reformed doctrine of total depravity (Westminster Confession, Ch. 6): Qohelet's empirical observation corroborates, without being the sole source of, the doctrine later systematized from Genesis 3 and echoed by Paul in Romans 3:10-12, linking experience and revelation in a single testimony to universal sin.",
+        "pt": "Ec 7:20,29 antecipa a doutrina reformada da depravação total (Confissão de Westminster, Cap. 6): a observação empírica de Coélet corrobora, sem derivar dela unicamente, a doutrina mais tarde sistematizada a partir de Gênesis 3 e ecoada por Paulo em Romanos 3:10-12, ligando experiência e revelação num mesmo testemunho sobre o pecado universal."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Eclesiastés apunta a un juicio final divino de toda obra, oculta o manifiesta (Ec 3:17; 12:14), y a que el espíritu vuelve a Dios en la muerte (Ec 12:7), ofreciendo un horizonte escatológico real aunque deliberadamente contenido, que ancla la exhortación ética del libro sin desplegar la plenitud de la revelación neotestamentaria.",
+        "en": "Ecclesiastes points to a final divine judgment of every deed, hidden or open (Eccl 3:17; 12:14), and to the spirit's return to God at death (Eccl 12:7), offering a real yet deliberately muted eschatological horizon that anchors the book's ethical exhortation without unfolding the fullness of New Testament revelation.",
+        "pt": "Eclesiastes aponta para um juízo final divino de toda obra, oculta ou manifesta (Ec 3:17; 12:14), e para o espírito que volta a Deus na morte (Ec 12:7), oferecendo um horizonte escatológico real, ainda que deliberadamente contido, que ancora a exortação ética do livro sem desdobrar a plenitude da revelação neotestamentária."
+      },
+      "pasajes": [
+        "Ec 3:17",
+        "Ec 11:9",
+        "Ec 12:7",
+        "Ec 12:14"
+      ],
+      "ensenanza": {
+        "es": "Dios juzgará tanto al justo como al impío en el tiempo señalado · Dios traerá a juicio toda decisión del joven · El espíritu regresa a Dios que lo dio · Dios traerá toda obra a juicio, junto con todo lo oculto, sea bueno o malo",
+        "en": "God will judge both the righteous and the wicked at the appointed time · God will bring every decision of the young into judgment · The spirit returns to God who gave it · God will bring every deed into judgment, with every secret thing, whether good or evil",
+        "pt": "Deus julgará tanto o justo quanto o ímpio no tempo determinado · Deus trará a juízo toda decisão do jovem · O espírito volta a Deus que o deu · Deus trará toda obra a juízo, com tudo o que está encoberto, seja bom, seja mau"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada lee el horizonte escatológico de Eclesiastés como una anticipación real, aunque limitada por la etapa de revelación progresiva en que se sitúa, del juicio final y la resurrección plenamente revelados en el Nuevo Testamento (2Co 5:10), sin que esa limitación reste autoridad o veracidad a la advertencia de Qohelet.",
+        "en": "Reformed theology reads Ecclesiastes' eschatological horizon as a real, though progressively-revelation-limited, anticipation of the final judgment and resurrection fully disclosed in the New Testament (2Cor 5:10), without that limitation diminishing the authority or truthfulness of Qohelet's warning.",
+        "pt": "A teologia reformada lê o horizonte escatológico de Eclesiastes como uma antecipação real, embora limitada pelo estágio de revelação progressiva em que se situa, do juízo final e da ressurreição plenamente revelados no Novo Testamento (2Co 5:10), sem que essa limitação diminua a autoridade ou veracidade da advertência de Coélet."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía de Dios"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster enseña que Dios, en su providencia, ordena todas las cosas para sus propios fines sabios y santos. Eclesiastés ilustra esta doctrina de forma experiencial: el tiempo señalado por Dios para cada acontecimiento (Ec 3:1-11) y la imposibilidad humana de alterar Su obra (Ec 7:13-14) muestran una providencia que gobierna incluso lo que al hombre le parece absurdo o injusto.",
+        "en": "The Westminster Confession teaches that God, in his providence, orders all things toward his own wise and holy ends. Ecclesiastes illustrates this doctrine experientially: God's appointed time for every event (Eccl 3:1-11) and man's inability to alter his work (Eccl 7:13-14) display a providence that governs even what appears absurd or unjust to man.",
+        "pt": "A Confissão de Westminster ensina que Deus, em sua providência, ordena todas as coisas para os seus próprios fins sábios e santos. Eclesiastes ilustra essa doutrina de forma experiencial: o tempo determinado por Deus para cada acontecimento (Ec 3:1-11) e a impossibilidade humana de alterar a Sua obra (Ec 7:13-14) mostram uma providência que governa até o que ao homem parece absurdo ou injusto."
+      },
+      "genesis": [
+        "Ec 3:1",
+        "Ec 3:11",
+        "Ec 7:13-14"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 6",
+      "titulo": {
+        "es": "De la Caída del Hombre, del Pecado, y de su Castigo",
+        "en": "Of the Fall of Man, of Sin, and of the Punishment thereof",
+        "pt": "Da Queda do Homem, do Pecado e do seu Castigo"
+      },
+      "doctrinas": [
+        "Pecado",
+        "Antropología"
+      ],
+      "resumen": {
+        "es": "La Confesión afirma que, por la caída, el hombre perdió la rectitud original y quedó totalmente inclinado hacia todo mal. Eclesiastés declara la misma verdad en lenguaje sapiencial: Dios hizo al hombre recto, pero este buscó muchas artimañas (Ec 7:29), y no hay hombre justo sobre la tierra que haga el bien y nunca peque (Ec 7:20).",
+        "en": "The Confession affirms that, through the fall, man lost his original righteousness and became wholly inclined to all evil. Ecclesiastes declares the same truth in wisdom idiom: God made man upright, but man sought out many schemes (Eccl 7:29), and there is not a righteous man on earth who does good and never sins (Eccl 7:20).",
+        "pt": "A Confissão afirma que, pela queda, o homem perdeu a retidão original e ficou totalmente inclinado a todo mal. Eclesiastes declara a mesma verdade em linguagem sapiencial: Deus fez o homem reto, mas este buscou muitas astúcias (Ec 7:29), e não há homem justo sobre a terra que faça o bem e nunca peque (Ec 7:20)."
+      },
+      "genesis": [
+        "Ec 7:20",
+        "Ec 7:29"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-6"
+    },
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio"
+      ],
+      "resumen": {
+        "es": "La Confesión enseña que Dios ha señalado un día en que juzgará al mundo con justicia. Eclesiastés anticipa esta doctrina: Dios juzgará al justo y al impío, porque hay tiempo para todo propósito y toda obra (Ec 3:17), y traerá toda obra a juicio, junto con todo lo oculto, sea bueno o sea malo (Ec 12:14).",
+        "en": "The Confession teaches that God has appointed a day on which he will judge the world in righteousness. Ecclesiastes anticipates this doctrine: God will judge the righteous and the wicked, for there is a time for every purpose and every work (Eccl 3:17), and he will bring every deed into judgment, with every secret thing, whether good or evil (Eccl 12:14).",
+        "pt": "A Confissão ensina que Deus determinou um dia em que julgará o mundo com justiça. Eclesiastes antecipa essa doutrina: Deus julgará o justo e o ímpio, pois há tempo para todo propósito e toda obra (Ec 3:17), e trará toda obra a juízo, com tudo o que está encoberto, seja bom, seja mau (Ec 12:14)."
+      },
+      "genesis": [
+        "Ec 3:17",
+        "Ec 12:14"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Ec 1:2",
+      "es": "Vanidad de vanidades —dice el Predicador—, vanidad de vanidades, todo es vanidad.",
+      "en": "Vanity of vanities, says the Preacher, vanity of vanities! All is vanity.",
+      "pt": "Vaidade de vaidades, diz o pregador, vaidade de vaidades, tudo é vaidade.",
+      "nota": {
+        "es": "El veredicto que abre y encuadra todo el libro (repetido en Ec 12:8). 'Hevel' significa literalmente 'vapor' o 'aliento', denotando lo efímero e inasible, no la irrealidad absoluta; establece el problema que el resto del libro investiga: ¿puede algo bajo el sol dar sentido duradero?",
+        "en": "The verdict that opens and frames the entire book (repeated in Eccl 12:8). 'Hevel' literally means 'vapor' or 'breath,' denoting the fleeting and ungraspable, not absolute unreality; it establishes the problem the rest of the book investigates: can anything under the sun give lasting meaning?",
+        "pt": "O veredito que abre e emoldura todo o livro (repetido em Ec 12:8). 'Hevel' significa literalmente 'vapor' ou 'sopro', denotando o efêmero e inapreensível, não a irrealidade absoluta; estabelece o problema que o restante do livro investiga: algo debaixo do sol pode dar sentido duradouro?"
+      }
+    },
+    {
+      "ref": "Ec 3:1",
+      "es": "Para todo hay una ocasión, y un tiempo para cada cosa bajo el cielo:",
+      "en": "For everything there is a season, and a time for every matter under heaven:",
+      "pt": "Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.",
+      "nota": {
+        "es": "Introduce el poema de los catorce pares de opuestos (Ec 3:2-8) y desplaza el centro de gravedad del libro de la búsqueda autónoma de sentido hacia el reconocimiento de la soberanía temporal de Dios, quien 'todo lo hizo hermoso en su tiempo' (Ec 3:11).",
+        "en": "It introduces the poem of fourteen paired opposites (Eccl 3:2-8) and shifts the book's center of gravity from the autonomous search for meaning to the recognition of God's sovereignty over time, who 'has made everything beautiful in its time' (Eccl 3:11).",
+        "pt": "Introduz o poema dos catorze pares de opostos (Ec 3:2-8) e desloca o centro de gravidade do livro da busca autônoma de sentido para o reconhecimento da soberania temporal de Deus, que 'fez tudo formoso em seu tempo' (Ec 3:11)."
+      }
+    },
+    {
+      "ref": "Ec 12:1",
+      "es": "Acuérdate también de tu Creador en los días de tu juventud, antes que vengan los días malos, y lleguen los años de los cuales digas: No tengo en ellos contentamiento.",
+      "en": "Remember also your Creator in the days of your youth, before the evil days come and the years draw near of which you will say, 'I have no pleasure in them.'",
+      "pt": "Lembra-te também do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento.",
+      "nota": {
+        "es": "Abre el poema final sobre la vejez y la muerte (Ec 12:2-7) y convierte toda la investigación filosófica del libro en un llamado pastoral urgente: la conclusión de Qohelet no es especulativa, sino una exhortación a la piedad práctica mientras hay tiempo.",
+        "en": "It opens the final poem on old age and death (Eccl 12:2-7) and turns the book's entire philosophical investigation into an urgent pastoral call: Qohelet's conclusion is not speculative but an exhortation to practical godliness while there is still time.",
+        "pt": "Abre o poema final sobre a velhice e a morte (Ec 12:2-7) e transforma toda a investigação filosófica do livro num chamado pastoral urgente: a conclusão de Coélet não é especulativa, mas uma exortação à piedade prática enquanto há tempo."
+      }
+    },
+    {
+      "ref": "Ec 12:13-14",
+      "es": "La conclusión, cuando todo se ha oído, es esta: teme a Dios y guarda Sus mandamientos, porque esto es el deber de todo hombre. Porque Dios traerá toda obra a juicio, junto con todo lo oculto, sea bueno o sea malo.",
+      "en": "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man. For God will bring every deed into judgment, with every secret thing, whether good or evil.",
+      "pt": "De tudo o que se tem ouvido, o fim é: Teme a Deus, e guarda os seus mandamentos, porque isto é o dever de todo homem. Porque Deus há de trazer a juízo toda obra, e até tudo o que está encoberto, quer seja bom, quer seja mau.",
+      "nota": {
+        "es": "El epílogo editorial resume toda la argumentación del libro en una sola conclusión práctica: la respuesta a la vanidad no es el nihilismo ni el escepticismo, sino el temor de Dios y la obediencia pactual, sostenidos por la certeza del juicio final.",
+        "en": "The editorial epilogue distills the book's entire argument into a single practical conclusion: the answer to vanity is neither nihilism nor skepticism, but the fear of God and covenantal obedience, sustained by the certainty of final judgment.",
+        "pt": "O epílogo editorial resume toda a argumentação do livro numa única conclusão prática: a resposta à vaidade não é o niilismo nem o ceticismo, mas o temor de Deus e a obediência pactual, sustentados pela certeza do juízo final."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La tradición reformada lee 'hevel' (vanidad) no como nihilismo sino como una descripción precisa de la futilidad del mundo caído (ecoando Gn 3:17-19 y anticipando Ro 8:20), y lee el estribillo 'teme a Dios' como el centro pactual del libro: el escepticismo experimental de Qohelet es una sabiduría acotada por la fe, no una duda corrosiva y autónoma. Lejos de contradecir a Proverbios, Eclesiastés completa la doctrina bíblica de la sabiduría al reconocer los límites del orden causal en un mundo caído, sosteniendo junto con Job que la fe descansa en el carácter de Dios y no en la comprensión total de Sus caminos.",
+    "en": "The Reformed tradition reads 'hevel' (vanity) not as nihilism but as a precise description of the fallen world's futility (echoing Gen 3:17-19 and anticipating Rom 8:20), and reads the refrain 'fear God' as the book's covenantal center: Qohelet's experimental skepticism is a faith-bounded wisdom, not corrosive, autonomous doubt. Far from contradicting Proverbs, Ecclesiastes completes the biblical doctrine of wisdom by acknowledging the limits of causal order in a fallen world, holding together with Job that faith rests on God's character rather than total comprehension of his ways.",
+    "pt": "A tradição reformada lê 'hevel' (vaidade) não como niilismo, mas como uma descrição precisa da futilidade do mundo caído (ecoando Gn 3:17-19 e antecipando Rm 8:20), e lê o refrão 'teme a Deus' como o centro pactual do livro: o ceticismo experimental de Coélet é uma sabedoria delimitada pela fé, não uma dúvida corrosiva e autônoma. Longe de contradizer Provérbios, Eclesiastes completa a doutrina bíblica da sabedoria ao reconhecer os limites da ordem causal num mundo caído, sustentando junto com Jó que a fé repousa no caráter de Deus e não na compreensão total dos Seus caminhos."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Prólogo y la Investigación del Predicador",
+        "en": "Prologue and the Preacher's Investigation",
+        "pt": "Prólogo e a Investigação do Pregador"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "El libro abre con el veredicto que gobierna todo lo que sigue: 'vanidad de vanidades, todo es vanidad' (Ec 1:2), ilustrado por los ciclos incesantes del sol, el viento y los ríos que nunca alcanzan reposo (Ec 1:4-7). Qohelet, identificado como 'rey en Jerusalén' (Ec 1:12), emprende una investigación experimental: prueba la sabiduría humana (Ec 1:13-18), el placer, el vino y grandes obras —casas, viñas, jardines, estanques, siervos, plata y oro— (Ec 2:1-8), y concluye que ni la sabiduría ni el placer ni el trabajo bajo el sol producen ganancia última, porque la muerte iguala al sabio y al necio (Ec 2:14-16). Dentro de la Teología del Pacto, esta sección expone la maldición de Génesis 3 obrando sobre toda la creación (cf. Ro 8:20).",
+        "en": "The book opens with the verdict that governs all that follows: 'vanity of vanities, all is vanity' (Eccl 1:2), illustrated by the ceaseless cycles of sun, wind, and rivers that never find rest (Eccl 1:4-7). Qohelet, identified as 'king in Jerusalem' (Eccl 1:12), undertakes an experimental investigation: he tests human wisdom (Eccl 1:13-18), pleasure, wine, and great works — houses, vineyards, gardens, pools, servants, silver, and gold (Eccl 2:1-8) — and concludes that neither wisdom nor pleasure nor labor under the sun yields ultimate gain, since death levels the wise and the fool alike (Eccl 2:14-16). Within Covenant Theology, this section displays the curse of Genesis 3 at work across all creation (cf. Rom 8:20).",
+        "pt": "O livro abre com o veredito que governa tudo o que segue: 'vaidade de vaidades, tudo é vaidade' (Ec 1:2), ilustrado pelos ciclos incessantes do sol, do vento e dos rios que nunca alcançam repouso (Ec 1:4-7). Coélet, identificado como 'rei em Jerusalém' (Ec 1:12), empreende uma investigação experimental: testa a sabedoria humana (Ec 1:13-18), o prazer, o vinho e grandes obras — casas, vinhas, jardins, tanques, servos, prata e ouro (Ec 2:1-8) — e conclui que nem a sabedoria, nem o prazer, nem o trabalho debaixo do sol produzem ganho último, pois a morte iguala o sábio e o tolo (Ec 2:14-16). Dentro da Teologia do Pacto, esta seção expõe a maldição de Gênesis 3 atuando sobre toda a criação (cf. Rm 8:20)."
+      },
+      "eventoClave": {
+        "es": "La prueba exhaustiva de Qohelet con sabiduría, placer y grandes obras (Ec 2:4-11) termina en el veredicto de que todo es vanidad y aflicción de espíritu.",
+        "en": "Qohelet's exhaustive test of wisdom, pleasure, and great works (Eccl 2:4-11) ends in the verdict that all is vanity and a striving after wind.",
+        "pt": "O teste exaustivo de Coélet com sabedoria, prazer e grandes obras (Ec 2:4-11) termina no veredito de que tudo é vaidade e aflição de espírito."
+      },
+      "versiculoClave": "Ec 1:2",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 8:20",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La creación 'sujetada a vanidad' de Romanos 8:20 utiliza la misma categoría de futilidad ('mataiotes', equivalente griego de 'hevel') que gobierna Ec 1:2 y 2:11.",
+            "en": "Creation 'subjected to futility' in Romans 8:20 uses the same category of futility ('mataiotes,' the Greek equivalent of 'hevel') that governs Eccl 1:2 and 2:11.",
+            "pt": "A criação 'sujeita à vaidade' de Romanos 8:20 usa a mesma categoria de futilidade ('mataiotes', equivalente grego de 'hevel') que governa Ec 1:2 e 2:11."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "El estribillo 'vanidad de vanidades' (Ec 1:2) y el veredicto sobre las grandes obras de Qohelet (Ec 2:11) describen la futilidad que la Caída impuso sobre toda la creación y el esfuerzo humano.",
+            "en": "The refrain 'vanity of vanities' (Eccl 1:2) and the verdict on Qohelet's great works (Eccl 2:11) describe the futility the Fall imposed on all creation and human effort.",
+            "pt": "O refrão 'vaidade de vaidades' (Ec 1:2) e o veredito sobre as grandes obras de Coélet (Ec 2:11) descrevem a futilidade que a Queda impôs sobre toda a criação e o esforço humano."
+          }
+        },
+        "secundarios": [
+          {
+            "Sabiduría": {
+              "es": "Qohelet dedica su corazón a buscar e investigar con sabiduría todo lo que se hace bajo el cielo (Ec 1:13,17), estableciendo la sabiduría como el primer objeto de su experimento.",
+              "en": "Qohelet applies his heart to seek and search out by wisdom all that is done under heaven (Eccl 1:13,17), establishing wisdom as the first object of his experiment.",
+              "pt": "Coélet dedica o coração a buscar e investigar com sabedoria tudo o que se faz debaixo do céu (Ec 1:13,17), estabelecendo a sabedoria como o primeiro objeto de seu experimento."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Un Tiempo para Todo y la Soberanía Divina",
+        "en": "A Time for Everything and Divine Sovereignty",
+        "pt": "Um Tempo para Tudo e a Soberania Divina"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "El famoso poema de los catorce pares de opuestos —'tiempo de nacer, y tiempo de morir' (Ec 3:2-8)— desplaza el argumento del libro: la aparente arbitrariedad de la vida bajo el sol responde en realidad a un orden que Dios ha fijado, quien 'todo lo hizo hermoso en su tiempo' y ha puesto 'eternidad en el corazón' humano sin que este alcance a abarcar la obra divina de principio a fin (Ec 3:11). Qohelet reconoce que Dios probará a los hombres para que vean que son como bestias en cuanto a su mortalidad compartida (Ec 3:18-20), pero afirma también que Dios juzgará al justo y al impío, porque hay tiempo para todo propósito (Ec 3:17). Dentro de la Teología del Pacto, este capítulo sitúa la providencia divina, no la casualidad, como el marco último de la existencia humana.",
+        "en": "The famous poem of fourteen paired opposites — 'a time to be born, and a time to die' (Eccl 3:2-8) — shifts the book's argument: the apparent randomness of life under the sun actually answers to an order God has fixed, who 'has made everything beautiful in its time' and has set 'eternity' in the human heart without letting him grasp God's work from beginning to end (Eccl 3:11). Qohelet acknowledges that God tests men so they may see they are like beasts in their shared mortality (Eccl 3:18-20), yet also affirms that God will judge the righteous and the wicked, for there is a time for every purpose (Eccl 3:17). Within Covenant Theology, this chapter positions divine providence, not chance, as the ultimate frame of human existence.",
+        "pt": "O famoso poema dos catorze pares de opostos — 'tempo de nascer e tempo de morrer' (Ec 3:2-8) — desloca o argumento do livro: a aparente aleatoriedade da vida debaixo do sol responde, na verdade, a uma ordem que Deus fixou, que 'fez tudo formoso em seu tempo' e pôs 'eternidade' no coração humano sem que este alcance abarcar a obra divina do princípio ao fim (Ec 3:11). Coélet reconhece que Deus prova os homens para que vejam que são como animais quanto à mortalidade compartilhada (Ec 3:18-20), mas afirma também que Deus julgará o justo e o ímpio, pois há tempo para todo propósito (Ec 3:17). Dentro da Teologia do Pacto, este capítulo situa a providência divina, não o acaso, como o quadro último da existência humana."
+      },
+      "eventoClave": {
+        "es": "El poema de los tiempos (Ec 3:1-8) revela que Dios 'todo lo hizo hermoso en su tiempo' y ha puesto eternidad en el corazón humano (Ec 3:11).",
+        "en": "The poem of times (Eccl 3:1-8) reveals that God 'has made everything beautiful in its time' and has set eternity in the human heart (Eccl 3:11).",
+        "pt": "O poema dos tempos (Ec 3:1-8) revela que Deus 'fez tudo formoso em seu tempo' e pôs a eternidade no coração humano (Ec 3:11)."
+      },
+      "versiculoClave": "Ec 3:11",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Temor del Señor": {
+            "es": "Qohelet concluye que Dios ha dispuesto los tiempos de tal forma que los hombres teman delante de Él (Ec 3:14), haciendo del temor reverente la respuesta apropiada a la soberanía divina sobre el tiempo.",
+            "en": "Qohelet concludes that God has arranged the times so that people should fear before him (Eccl 3:14), making reverent fear the fitting response to divine sovereignty over time.",
+            "pt": "Coélet conclui que Deus dispôs os tempos de tal forma que os homens temam diante dEle (Ec 3:14), fazendo do temor reverente a resposta apropriada à soberania divina sobre o tempo."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "En medio de la injusticia observada 'en el lugar del derecho' (Ec 3:16), Qohelet afirma que Dios juzgará al justo y al impío, porque hay un tiempo para todo propósito y toda obra (Ec 3:17).",
+              "en": "Amid the injustice observed 'in the place of justice' (Eccl 3:16), Qohelet affirms that God will judge the righteous and the wicked, for there is a time for every purpose and every work (Eccl 3:17).",
+              "pt": "Em meio à injustiça observada 'no lugar do direito' (Ec 3:16), Coélet afirma que Deus julgará o justo e o ímpio, pois há um tempo para todo propósito e toda obra (Ec 3:17)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "La Vanidad de la Opresión, el Trabajo y el Aislamiento",
+        "en": "The Vanity of Oppression, Toil, and Isolation",
+        "pt": "A Vaidade da Opressão, do Trabalho e do Isolamento"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "Qohelet dirige su mirada de la reflexión filosófica a la observación social: contempla las lágrimas de los oprimidos que no tienen quien los consuele mientras sus opresores ejercen el poder (Ec 4:1), y declara mejor a los ya muertos, e incluso al que nunca nació, que a quien debe soportar tal maldad (Ec 4:2-3). Examina también la envidia como motor del trabajo (Ec 4:4) y la soledad del que trabaja sin compañía ni heredero (Ec 4:7-8), para luego elogiar el valor de la compañía —'dos son mejores que uno' (Ec 4:9-12)— como un bien tangible en medio de la vanidad. Dentro de la Teología del Pacto, este capítulo expone las consecuencias sociales de la Caída: opresión, aislamiento y envidia como fracturas del orden creacional que solo la vida en comunidad pactual mitiga.",
+        "en": "Qohelet turns from philosophical reflection to social observation: he beholds the tears of the oppressed who have no comforter while their oppressors hold power (Eccl 4:1), and declares the dead, and even the unborn, better off than the one who must endure such wrong (Eccl 4:2-3). He also examines envy as the engine of labor (Eccl 4:4) and the loneliness of the one who toils without companion or heir (Eccl 4:7-8), then praises the value of companionship — 'two are better than one' (Eccl 4:9-12) — as a tangible good amid the vanity. Within Covenant Theology, this chapter exposes the social consequences of the Fall: oppression, isolation, and envy as fractures of the creational order that only covenantal community mitigates.",
+        "pt": "Coélet volta o olhar da reflexão filosófica para a observação social: contempla as lágrimas dos oprimidos que não têm quem os console enquanto seus opressores exercem o poder (Ec 4:1), e declara melhores os já mortos, e até quem nunca nasceu, do que quem deve suportar tal maldade (Ec 4:2-3). Examina também a inveja como motor do trabalho (Ec 4:4) e a solidão de quem trabalha sem companhia nem herdeiro (Ec 4:7-8), para então elogiar o valor da companhia — 'melhor é serem dois do que um' (Ec 4:9-12) — como um bem tangível em meio à vaidade. Dentro da Teologia do Pacto, este capítulo expõe as consequências sociais da Queda: opressão, isolamento e inveja como fraturas da ordem criacional que somente a vida em comunidade pactual mitiga."
+      },
+      "eventoClave": {
+        "es": "La observación de la opresión sin consuelo (Ec 4:1) conduce a la máxima de que 'dos son mejores que uno' frente a la fragilidad compartida (Ec 4:9-12).",
+        "en": "The observation of comfortless oppression (Eccl 4:1) leads to the maxim that 'two are better than one' in the face of shared fragility (Eccl 4:9-12).",
+        "pt": "A observação da opressão sem consolo (Ec 4:1) conduz à máxima de que 'melhor é serem dois do que um' diante da fragilidade compartilhada (Ec 4:9-12)."
+      },
+      "versiculoClave": "Ec 4:9",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "La opresión sin consuelo (Ec 4:1) y la envidia que impulsa el trabajo humano (Ec 4:4) muestran la fractura relacional que la Caída introdujo en el orden social creacional.",
+            "en": "Comfortless oppression (Eccl 4:1) and the envy that drives human labor (Eccl 4:4) display the relational fracture the Fall introduced into the creational social order.",
+            "pt": "A opressão sem consolo (Ec 4:1) e a inveja que impulsiona o trabalho humano (Ec 4:4) mostram a fratura relacional que a Queda introduziu na ordem social criacional."
+          }
+        },
+        "secundarios": [
+          {
+            "Sabiduría": {
+              "es": "El proverbio de los dos que son mejores que uno (Ec 4:9-12) es un dicho sapiencial práctico sobre el valor de la compañía frente a la fragilidad humana.",
+              "en": "The proverb of two being better than one (Eccl 4:9-12) is a practical wisdom saying on the value of companionship in the face of human fragility.",
+              "pt": "O provérbio de que dois são melhores do que um (Ec 4:9-12) é um dito sapiencial prático sobre o valor da companhia diante da fragilidade humana."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Adoración, Riqueza y la Vanidad de las Posesiones",
+        "en": "Worship, Wealth, and the Vanity of Possessions",
+        "pt": "Adoração, Riqueza e a Vaidade das Posses"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "Qohelet instruye sobre la reverencia debida al acercarse a la casa de Dios: guardar el pie, escuchar más que ofrecer el sacrificio de los necios, y no multiplicar palabras ni votos precipitados, 'porque Dios está en el cielo y tú en la tierra' (Ec 5:1-7). El foco se traslada luego a la riqueza: quien ama el dinero nunca se sacia de dinero (Ec 5:10), el rico duerme mal por la abundancia que lo desvela (Ec 5:12), y las riquezas se pierden por mal negocio dejando al dueño con las manos vacías (Ec 5:13-14). El don de Dios —comer, beber y gozar del propio trabajo (Ec 5:18-19)— aparece como la única respuesta sostenible frente a la insaciabilidad de la acumulación (Ec 6:7-9). Dentro de la Teología del Pacto, esta sección regula tanto el culto como la economía bajo el señorío de Dios.",
+        "en": "Qohelet instructs on the reverence due when approaching God's house: guard your step, listen rather than offer the sacrifice of fools, and do not multiply words or rash vows, 'for God is in heaven and you are on earth' (Eccl 5:1-7). The focus then shifts to wealth: whoever loves money never has enough (Eccl 5:10), the rich sleep poorly because of the abundance that keeps them awake (Eccl 5:12), and riches are lost in bad ventures, leaving the owner empty-handed (Eccl 5:13-14). God's gift — to eat, drink, and enjoy one's toil (Eccl 5:18-19) — appears as the only sustainable response to the insatiability of accumulation (Eccl 6:7-9). Within Covenant Theology, this section regulates both worship and economics under God's lordship.",
+        "pt": "Coélet instrui sobre a reverência devida ao se aproximar da casa de Deus: guardar o pé, ouvir mais do que oferecer o sacrifício dos tolos, e não multiplicar palavras nem votos precipitados, 'porque Deus está no céu e tu na terra' (Ec 5:1-7). O foco então se desloca para a riqueza: quem ama o dinheiro nunca se farta de dinheiro (Ec 5:10), o rico dorme mal por causa da abundância que o desperta (Ec 5:12), e as riquezas se perdem por mau negócio, deixando o dono de mãos vazias (Ec 5:13-14). O dom de Deus — comer, beber e desfrutar do próprio trabalho (Ec 5:18-19) — aparece como a única resposta sustentável diante da insaciabilidade da acumulação (Ec 6:7-9). Dentro da Teologia do Pacto, esta seção regula tanto o culto quanto a economia sob o senhorio de Deus."
+      },
+      "eventoClave": {
+        "es": "La instrucción sobre el temor reverente al acercarse a Dios (Ec 5:1-7) enmarca teológicamente toda la crítica posterior a la riqueza insaciable.",
+        "en": "The instruction on reverent fear when approaching God (Eccl 5:1-7) theologically frames the subsequent critique of insatiable wealth.",
+        "pt": "A instrução sobre o temor reverente ao se aproximar de Deus (Ec 5:1-7) emoldura teologicamente toda a crítica posterior à riqueza insaciável."
+      },
+      "versiculoClave": "Ec 5:10",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Temor del Señor": {
+            "es": "La exhortación a guardar el pie, escuchar y no multiplicar palabras ante Dios 'porque Dios está en el cielo y tú en la tierra' (Ec 5:2,7) es una instrucción explícita sobre la reverencia debida en el culto.",
+            "en": "The exhortation to guard your step, listen, and not multiply words before God 'for God is in heaven and you are on earth' (Eccl 5:2,7) is explicit instruction on the reverence due in worship.",
+            "pt": "A exortação a guardar o pé, ouvir e não multiplicar palavras diante de Deus 'porque Deus está no céu e tu na terra' (Ec 5:2,7) é instrução explícita sobre a reverência devida no culto."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "El amor insaciable al dinero (Ec 5:10) y las riquezas perdidas en mal negocio (Ec 5:13-14) ilustran la codicia como una forma de la futilidad que aqueja al corazón caído.",
+              "en": "The insatiable love of money (Eccl 5:10) and riches lost in a bad venture (Eccl 5:13-14) illustrate greed as a form of the futility afflicting the fallen heart.",
+              "pt": "O amor insaciável ao dinheiro (Ec 5:10) e as riquezas perdidas em mau negócio (Ec 5:13-14) ilustram a cobiça como uma forma da futilidade que aflige o coração caído."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 7,
+      "rangoFin": 7,
+      "titulo": {
+        "es": "El Valor de la Sabiduría y la Realidad del Pecado Humano",
+        "en": "The Value of Wisdom and the Reality of Human Sin",
+        "pt": "O Valor da Sabedoria e a Realidade do Pecado Humano"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "Una serie de proverbios comparativos —'mejor es' (Ec 7:1-14)— establece que un buen nombre vale más que un buen perfume, que ir a la casa de duelo supera ir a la casa del banquete, y que la sabiduría, como una herencia, es buena y provechosa (Ec 7:1-12). Qohelet exhorta luego a aceptar tanto el día bueno como el día malo como obra de Dios, sin que el hombre descubra lo que vendrá después de él (Ec 7:13-14). El capítulo culmina con dos afirmaciones que resumen la doctrina bíblica del pecado: no hay hombre justo sobre la tierra que haga el bien y nunca peque (Ec 7:20), y Dios hizo al hombre recto, pero este buscó muchas artimañas (Ec 7:29). Dentro de la Teología del Pacto, esta sección liga la sabiduría práctica con la honestidad sobre la depravación universal.",
+        "en": "A series of comparative proverbs — 'better is' (Eccl 7:1-14) — establishes that a good name is better than precious ointment, that going to the house of mourning surpasses going to the house of feasting, and that wisdom, like an inheritance, is good and profitable (Eccl 7:1-12). Qohelet then exhorts acceptance of both the good day and the bad day as God's doing, since man cannot discover what will come after him (Eccl 7:13-14). The chapter culminates in two statements summing up the biblical doctrine of sin: there is not a righteous man on earth who does good and never sins (Eccl 7:20), and God made man upright, but man sought out many schemes (Eccl 7:29). Within Covenant Theology, this section links practical wisdom with honesty about universal depravity.",
+        "pt": "Uma série de provérbios comparativos — 'melhor é' (Ec 7:1-14) — estabelece que um bom nome vale mais que um bom perfume, que ir à casa do luto supera ir à casa do banquete, e que a sabedoria, como uma herança, é boa e proveitosa (Ec 7:1-12). Coélet então exorta a aceitar tanto o dia bom quanto o dia mau como obra de Deus, já que o homem não descobre o que virá depois dele (Ec 7:13-14). O capítulo culmina em duas afirmações que resumem a doutrina bíblica do pecado: não há homem justo sobre a terra que faça o bem e nunca peque (Ec 7:20), e Deus fez o homem reto, mas este buscou muitas astúcias (Ec 7:29). Dentro da Teologia do Pacto, esta seção liga a sabedoria prática com a honestidade sobre a depravação universal."
+      },
+      "eventoClave": {
+        "es": "La doble afirmación de que nadie es justo (Ec 7:20) y de que el hombre, hecho recto, buscó muchas artimañas (Ec 7:29) resume la doctrina del pecado universal.",
+        "en": "The twofold affirmation that no one is righteous (Eccl 7:20) and that man, made upright, sought out many schemes (Eccl 7:29) sums up the doctrine of universal sin.",
+        "pt": "A dupla afirmação de que ninguém é justo (Ec 7:20) e de que o homem, feito reto, buscou muitas astúcias (Ec 7:29) resume a doutrina do pecado universal."
+      },
+      "versiculoClave": "Ec 7:20",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 3:10-12",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La afirmación paulina de que 'no hay justo, ni aun uno' (Ro 3:10-12, citando principalmente el Salmo 14) expresa la misma doctrina de depravación universal que Ec 7:20 formula desde la observación sapiencial.",
+            "en": "Paul's affirmation that 'none is righteous, no, not one' (Rom 3:10-12, chiefly quoting Psalm 14) expresses the same doctrine of universal depravity that Eccl 7:20 formulates from wisdom observation.",
+            "pt": "A afirmação paulina de que 'não há justo, nem um sequer' (Rm 3:10-12, citando principalmente o Salmo 14) expressa a mesma doutrina de depravação universal que Ec 7:20 formula a partir da observação sapiencial."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sabiduría": {
+            "es": "La cadena de proverbios comparativos 'mejor es' (Ec 7:1-12) y la afirmación de que la sabiduría protege la vida (Ec 7:12) sitúan este capítulo dentro de la instrucción sapiencial clásica.",
+            "en": "The chain of comparative 'better is' proverbs (Eccl 7:1-12) and the statement that wisdom preserves life (Eccl 7:12) place this chapter within classic wisdom instruction.",
+            "pt": "A cadeia de provérbios comparativos 'melhor é' (Ec 7:1-12) e a afirmação de que a sabedoria preserva a vida (Ec 7:12) situam este capítulo dentro da instrução sapiencial clássica."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "Ec 7:20 y 7:29 declaran explícitamente la universalidad del pecado y la búsqueda humana de artimañas apartadas de la rectitud original.",
+              "en": "Eccl 7:20 and 7:29 explicitly declare the universality of sin and humanity's pursuit of schemes departed from original uprightness.",
+              "pt": "Ec 7:20 e 7:29 declaram explicitamente a universalidade do pecado e a busca humana de astúcias afastadas da retidão original."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 8,
+      "rangoFin": 9,
+      "titulo": {
+        "es": "Soberanía Divina, Injusticia y la Certeza de la Muerte",
+        "en": "Divine Sovereignty, Injustice, and the Certainty of Death",
+        "pt": "Soberania Divina, Injustiça e a Certeza da Morte"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "Qohelet aborda la autoridad del rey y la sumisión debida (Ec 8:1-9), observa que el impío que hace mal cien veces prolonga sus días, mientras la demora del castigo llena de maldad el corazón humano (Ec 8:11-14), y sin embargo afirma que a los que temen a Dios les irá bien, aunque no siempre se vea en lo inmediato (Ec 8:12-13). El capítulo 9 declara que los mismos sucesos —vida y muerte— alcanzan al justo y al impío, al bueno y al pecador (Ec 9:2-3), pues 'los que viven saben que han de morir, pero los muertos nada saben' (Ec 9:5), lo que conduce a la exhortación positiva a comer el pan, beber el vino y gozar de la vida con la esposa amada como porción dada por Dios (Ec 9:7-9). Dentro de la Teología del Pacto, esta sección sostiene la justicia final de Dios en medio de la aparente arbitrariedad de la muerte compartida.",
+        "en": "Qohelet addresses royal authority and due submission (Eccl 8:1-9), observes that the wicked who do evil a hundred times prolong their days, while delayed punishment fills the human heart with evil (Eccl 8:11-14), yet affirms that it will go well with those who fear God, even when not immediately evident (Eccl 8:12-13). Chapter 9 declares that the same events — life and death — befall the righteous and the wicked, the good and the sinner alike (Eccl 9:2-3), for 'the living know that they will die, but the dead know nothing' (Eccl 9:5), leading to the positive exhortation to eat bread, drink wine, and enjoy life with one's beloved wife as the portion given by God (Eccl 9:7-9). Within Covenant Theology, this section upholds God's final justice amid the apparent randomness of shared death.",
+        "pt": "Coélet aborda a autoridade do rei e a submissão devida (Ec 8:1-9), observa que o ímpio que faz o mal cem vezes prolonga os seus dias, enquanto a demora do castigo enche de maldade o coração humano (Ec 8:11-14), e ainda assim afirma que irá bem aos que temem a Deus, mesmo que nem sempre se veja de imediato (Ec 8:12-13). O capítulo 9 declara que os mesmos acontecimentos — vida e morte — alcançam o justo e o ímpio, o bom e o pecador (Ec 9:2-3), pois 'os que vivem sabem que hão de morrer, mas os mortos nada sabem' (Ec 9:5), o que conduz à exortação positiva de comer o pão, beber o vinho e desfrutar da vida com a esposa amada como porção dada por Deus (Ec 9:7-9). Dentro da Teologia do Pacto, esta seção sustenta a justiça final de Deus em meio à aparente arbitrariedade da morte compartilhada."
+      },
+      "eventoClave": {
+        "es": "La observación de que un mismo destino alcanza al justo y al impío (Ec 9:2-3) se resuelve en la exhortación a recibir con gozo el pan, el vino y la vida como don de Dios (Ec 9:7-9).",
+        "en": "The observation that the same fate befalls the righteous and the wicked (Eccl 9:2-3) resolves into the exhortation to joyfully receive bread, wine, and life as God's gift (Eccl 9:7-9).",
+        "pt": "A observação de que o mesmo destino alcança o justo e o ímpio (Ec 9:2-3) se resolve na exortação de receber com alegria o pão, o vinho e a vida como dom de Deus (Ec 9:7-9)."
+      },
+      "versiculoClave": "Ec 9:7",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "Aunque el castigo del impío se demora (Ec 8:11), Qohelet sostiene que a los que temen a Dios les irá bien, en contraste con los impíos cuyos días son como una sombra (Ec 8:12-13).",
+            "en": "Though the wicked's punishment is delayed (Eccl 8:11), Qohelet maintains that it will go well with those who fear God, in contrast to the wicked whose days are like a shadow (Eccl 8:12-13).",
+            "pt": "Embora o castigo do ímpio seja demorado (Ec 8:11), Coélet sustenta que irá bem aos que temem a Deus, em contraste com os ímpios cujos dias são como sombra (Ec 8:12-13)."
+          }
+        },
+        "secundarios": [
+          {
+            "Temor del Señor": {
+              "es": "Ec 8:12-13 afirma explícitamente que a quienes temen a Dios les irá bien, distinguiéndolos de los impíos cuyos días se desvanecen como sombra.",
+              "en": "Eccl 8:12-13 explicitly affirms that it will go well with those who fear God, distinguishing them from the wicked whose days vanish like a shadow.",
+              "pt": "Ec 8:12-13 afirma explicitamente que irá bem aos que temem a Deus, distinguindo-os dos ímpios cujos dias se desvanecem como sombra."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 10,
+      "rangoFin": 10,
+      "titulo": {
+        "es": "Sabiduría y Necedad en Contraste Proverbial",
+        "en": "Wisdom and Folly in Proverbial Contrast",
+        "pt": "Sabedoria e Insensatez em Contraste Proverbial"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "El capítulo reúne una serie de proverbios sueltos que contrastan la sabiduría y la necedad en la vida práctica y política: 'moscas muertas' que corrompen el perfume del perfumista, como un poco de necedad pesa más que la sabiduría y la honra (Ec 10:1); el corazón del sabio a su derecha, el del necio a su izquierda (Ec 10:2); los peligros de un liderazgo necio, donde siervos cabalgan y príncipes andan a pie como siervos (Ec 10:5-7); y advertencias prácticas sobre el trabajo cuidadoso —quien cava un hoyo puede caer en él, quien parte leña puede ser herido por ella (Ec 10:8-9)—, junto con la máxima de que la sabiduría es provechosa para dirigir bien una empresa (Ec 10:10). Dentro de la Teología del Pacto, este capítulo aplica la sabiduría creacional a los detalles concretos del trabajo y del gobierno humano.",
+        "en": "The chapter gathers a series of loosely connected proverbs contrasting wisdom and folly in practical and political life: 'dead flies' that corrupt the perfumer's ointment, showing how a little folly outweighs wisdom and honor (Eccl 10:1); the wise man's heart inclines to the right, the fool's to the left (Eccl 10:2); the dangers of foolish leadership, where servants ride on horses while princes walk on the ground like servants (Eccl 10:5-7); and practical warnings about careful labor — whoever digs a pit may fall into it, whoever splits logs may be endangered by them (Eccl 10:8-9) — together with the maxim that wisdom helps one to succeed (Eccl 10:10). Within Covenant Theology, this chapter applies creational wisdom to the concrete details of labor and human government.",
+        "pt": "O capítulo reúne uma série de provérbios soltos que contrastam sabedoria e insensatez na vida prática e política: 'moscas mortas' que corrompem o perfume do perfumista, mostrando como um pouco de insensatez pesa mais que a sabedoria e a honra (Ec 10:1); o coração do sábio à sua direita, o do tolo à sua esquerda (Ec 10:2); os perigos de uma liderança insensata, em que servos cavalgam e príncipes andam a pé como servos (Ec 10:5-7); e advertências práticas sobre o trabalho cuidadoso — quem cava uma cova pode cair nela, quem racha lenha pode ser ferido por ela (Ec 10:8-9) —, junto com a máxima de que a sabedoria é proveitosa para dirigir bem um empreendimento (Ec 10:10). Dentro da Teologia do Pacto, este capítulo aplica a sabedoria criacional aos detalhes concretos do trabalho e do governo humano."
+      },
+      "eventoClave": {
+        "es": "La imagen de las 'moscas muertas' que corrompen el perfume (Ec 10:1) resume el tema del capítulo: un poco de necedad puede arruinar mucha sabiduría y honra.",
+        "en": "The image of 'dead flies' corrupting the ointment (Eccl 10:1) sums up the chapter's theme: a little folly can ruin much wisdom and honor.",
+        "pt": "A imagem das 'moscas mortas' que corrompem o perfume (Ec 10:1) resume o tema do capítulo: um pouco de insensatez pode arruinar muita sabedoria e honra."
+      },
+      "versiculoClave": "Ec 10:1",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sabiduría": {
+            "es": "Toda la serie de proverbios del capítulo —desde las moscas muertas (Ec 10:1) hasta el provecho de la sabiduría para el éxito (Ec 10:10)— es instrucción sapiencial práctica clásica.",
+            "en": "The chapter's entire series of proverbs — from the dead flies (Eccl 10:1) to the profit of wisdom for success (Eccl 10:10) — is classic practical wisdom instruction.",
+            "pt": "Toda a série de provérbios do capítulo — desde as moscas mortas (Ec 10:1) até o proveito da sabedoria para o sucesso (Ec 10:10) — é instrução sapiencial prática clássica."
+          }
+        }
+      }
+    },
+    {
+      "rangoInicio": 11,
+      "rangoFin": 11,
+      "titulo": {
+        "es": "Diligencia y Riesgo en un Mundo Incierto",
+        "en": "Diligence and Risk in an Uncertain World",
+        "pt": "Diligência e Risco num Mundo Incerto"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "Qohelet exhorta a la acción diligente pese a la incertidumbre del futuro: 'echa tu pan sobre las aguas, porque después de muchos días lo hallarás' (Ec 11:1), siembra tu semilla por la mañana y no dejes reposar tu mano por la tarde, 'pues no sabes cuál tendrá éxito' (Ec 11:6). El capítulo reconoce que no se pueden conocer los caminos del viento ni cómo se forman los huesos en el vientre materno, así como tampoco la obra de Dios que hace todas las cosas (Ec 11:5), lo cual, lejos de paralizar, debe impulsar a la acción prudente. La sección cierra con el llamado a regocijarse en la juventud y seguir los impulsos del corazón, recordando siempre que Dios traerá todo a juicio (Ec 11:9). Dentro de la Teología del Pacto, la incertidumbre providencial no excusa la pasividad, sino que exige fe activa y trabajo diligente.",
+        "en": "Qohelet exhorts diligent action despite the uncertainty of the future: 'cast your bread upon the waters, for you will find it after many days' (Eccl 11:1); sow your seed in the morning and do not let your hand be idle in the evening, 'for you do not know which will succeed' (Eccl 11:6). The chapter acknowledges that one cannot know the ways of the wind or how bones form in the womb, nor the work of God who makes everything (Eccl 11:5), which, far from paralyzing, should spur prudent action. The section closes with the call to rejoice in youth and follow the heart's impulses, always remembering that God will bring everything into judgment (Eccl 11:9). Within Covenant Theology, providential uncertainty does not excuse passivity but demands active faith and diligent labor.",
+        "pt": "Coélet exorta à ação diligente apesar da incerteza do futuro: 'lança o teu pão sobre as águas, porque depois de muitos dias o acharás' (Ec 11:1); semeia tua semente pela manhã e não deixes repousar a tua mão à tarde, 'pois não sabes qual prosperará' (Ec 11:6). O capítulo reconhece que não se pode conhecer o caminho do vento nem como se formam os ossos no ventre materno, nem tampouco a obra de Deus que faz todas as coisas (Ec 11:5), o que, longe de paralisar, deve impulsionar à ação prudente. A seção encerra com o chamado a alegrar-se na juventude e seguir os impulsos do coração, lembrando sempre que Deus trará tudo a juízo (Ec 11:9). Dentro da Teologia do Pacto, a incerteza providencial não desculpa a passividade, mas exige fé ativa e trabalho diligente."
+      },
+      "eventoClave": {
+        "es": "El mandato a sembrar en la mañana y no dejar reposar la mano en la tarde, 'pues no sabes cuál tendrá éxito' (Ec 11:6), resume la ética de diligencia bajo incertidumbre providencial.",
+        "en": "The command to sow in the morning and not let the hand rest in the evening, 'for you do not know which will succeed' (Eccl 11:6), sums up the ethic of diligence under providential uncertainty.",
+        "pt": "O mandamento de semear pela manhã e não deixar repousar a mão à tarde, 'pois não sabes qual prosperará' (Ec 11:6), resume a ética de diligência sob incerteza providencial."
+      },
+      "versiculoClave": "Ec 11:6",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Trabajo/Vocación": {
+            "es": "El llamado a sembrar mañana y tarde sin conocer cuál esfuerzo prosperará (Ec 11:1,6) presenta el trabajo diligente como respuesta apropiada a la incertidumbre providencial.",
+            "en": "The call to sow morning and evening without knowing which effort will prosper (Eccl 11:1,6) presents diligent labor as the fitting response to providential uncertainty.",
+            "pt": "O chamado a semear de manhã e à tarde sem saber qual esforço prosperará (Ec 11:1,6) apresenta o trabalho diligente como resposta apropriada à incerteza providencial."
+          }
+        },
+        "secundarios": [
+          {
+            "Sabiduría": {
+              "es": "El reconocimiento de que el hombre no puede conocer la obra de Dios que hace todas las cosas (Ec 11:5) es un límite sapiencial clásico que templa la confianza humana con humildad.",
+              "en": "The acknowledgment that man cannot know the work of God who makes everything (Eccl 11:5) is a classic wisdom limit that tempers human confidence with humility.",
+              "pt": "O reconhecimento de que o homem não pode conhecer a obra de Deus que faz todas as coisas (Ec 11:5) é um limite sapiencial clássico que tempera a confiança humana com humildade."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 12,
+      "rangoFin": 12,
+      "titulo": {
+        "es": "Recordar al Creador; Epílogo: Teme a Dios",
+        "en": "Remembering the Creator; Epilogue: Fear God",
+        "pt": "Lembrar do Criador; Epílogo: Teme a Deus"
+      },
+      "era": "Monarquía",
+      "descripcion": {
+        "es": "El libro culmina con el mandato pastoral 'acuérdate de tu Creador en los días de tu juventud' (Ec 12:1), seguido de un poema alegórico sobre el deterioro del cuerpo en la vejez —guardas que tiemblan, muelas que cesan, ventanas que se oscurecen, hasta que 'el polvo vuelva a la tierra... y el espíritu vuelva a Dios que lo dio' (Ec 12:2-7). El editor sapiencial añade un epílogo que certifica la autoridad de las palabras de Qohelet, comparándolas con aguijones y clavos bien puestos, dados por un solo Pastor (Ec 12:11), y resume toda la investigación del libro en una sola conclusión: 'teme a Dios y guarda Sus mandamientos, porque esto es el deber de todo hombre; porque Dios traerá toda obra a juicio' (Ec 12:13-14). Dentro de la Teología del Pacto, este capítulo final convierte la honestidad filosófica del libro en obediencia pactual concreta.",
+        "en": "The book culminates in the pastoral command 'remember your Creator in the days of your youth' (Eccl 12:1), followed by an allegorical poem on the body's decline in old age — trembling guardians, ceasing grinders, darkened windows — until 'the dust returns to the earth... and the spirit returns to God who gave it' (Eccl 12:2-7). The wisdom editor adds an epilogue certifying the authority of Qohelet's words, comparing them to goads and well-driven nails given by one Shepherd (Eccl 12:11), and sums up the book's entire investigation in a single conclusion: 'fear God and keep his commandments, for this is the whole duty of man; for God will bring every deed into judgment' (Eccl 12:13-14). Within Covenant Theology, this final chapter turns the book's philosophical honesty into concrete covenantal obedience.",
+        "pt": "O livro culmina no mandamento pastoral 'lembra-te do teu Criador nos dias da tua mocidade' (Ec 12:1), seguido de um poema alegórico sobre a deterioração do corpo na velhice — guardas que tremem, moedores que cessam, janelas que se escurecem — até que 'o pó volte à terra... e o espírito volte a Deus que o deu' (Ec 12:2-7). O editor sapiencial acrescenta um epílogo que certifica a autoridade das palavras de Coélet, comparando-as a aguilhões e pregos bem fixados, dados por um só Pastor (Ec 12:11), e resume toda a investigação do livro numa única conclusão: 'teme a Deus e guarda os seus mandamentos, porque isto é o dever de todo homem; porque Deus há de trazer a juízo toda obra' (Ec 12:13-14). Dentro da Teologia do Pacto, este capítulo final transforma a honestidade filosófica do livro em obediência pactual concreta."
+      },
+      "eventoClave": {
+        "es": "El epílogo resume toda la investigación del libro en el mandato final: 'teme a Dios y guarda Sus mandamientos... porque Dios traerá toda obra a juicio' (Ec 12:13-14).",
+        "en": "The epilogue sums up the book's entire investigation in the final command: 'fear God and keep his commandments... for God will bring every deed into judgment' (Eccl 12:13-14).",
+        "pt": "O epílogo resume toda a investigação do livro no mandamento final: 'teme a Deus e guarda os seus mandamentos... porque Deus há de trazer a juízo toda obra' (Ec 12:13-14)."
+      },
+      "versiculoClave": "Ec 12:13",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 12:42",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Jesús se declara 'mayor que Salomón' (Mt 12:42), completando por contraste la búsqueda salomónica de sentido que Eclesiastés documenta y que solo Cristo satisface.",
+            "en": "Jesus declares himself 'greater than Solomon' (Matt 12:42), completing by contrast the Solomonic search for meaning that Ecclesiastes documents and that only Christ satisfies.",
+            "pt": "Jesus se declara 'maior do que Salomão' (Mt 12:42), completando por contraste a busca salomônica de sentido que Eclesiastes documenta e que somente Cristo satisfaz."
+          }
+        },
+        {
+          "ref": "2Co 5:10",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El juicio de toda obra oculta anunciado en Ec 12:14 se concreta en el 'tribunal de Cristo' ante el cual todos debemos comparecer (2Co 5:10).",
+            "en": "The judgment of every hidden deed announced in Eccl 12:14 is concretized in the 'judgment seat of Christ' before which all must appear (2Cor 5:10).",
+            "pt": "O juízo de toda obra oculta anunciado em Ec 12:14 se concretiza no 'tribunal de Cristo' perante o qual todos devemos comparecer (2Co 5:10)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Creación/Nueva Creación": {
+            "es": "El mandato central del capítulo, 'acuérdate de tu Creador en los días de tu juventud' (Ec 12:1), sitúa la relación del hombre con Dios como Creador en el centro de la respuesta apropiada a la vanidad de la vida.",
+            "en": "The chapter's central command, 'remember your Creator in the days of your youth' (Eccl 12:1), places man's relationship to God as Creator at the center of the fitting response to life's vanity.",
+            "pt": "O mandamento central do capítulo, 'lembra-te do teu Criador nos dias da tua mocidade' (Ec 12:1), situa a relação do homem com Deus como Criador no centro da resposta apropriada à vaidade da vida."
+          }
+        },
+        "secundarios": [
+          {
+            "Temor del Señor": {
+              "es": "El epílogo resume toda la enseñanza del libro en el mandato 'teme a Dios y guarda Sus mandamientos' (Ec 12:13), estableciendo el temor de Dios como la conclusión final de la investigación.",
+              "en": "The epilogue sums up the book's entire teaching in the command 'fear God and keep his commandments' (Eccl 12:13), establishing the fear of God as the investigation's final conclusion.",
+              "pt": "O epílogo resume todo o ensino do livro no mandamento 'teme a Deus e guarda os seus mandamentos' (Ec 12:13), estabelecendo o temor de Deus como a conclusão final da investigação."
+            }
+          },
+          {
+            "Juicio Final": {
+              "es": "El versículo de cierre anuncia que Dios traerá toda obra a juicio, junto con todo lo oculto, sea bueno o malo (Ec 12:14), estableciendo el horizonte del juicio final como fundamento de la exhortación ética.",
+              "en": "The closing verse announces that God will bring every deed into judgment, with every secret thing, whether good or evil (Eccl 12:14), establishing the horizon of final judgment as the foundation of the book's ethical exhortation.",
+              "pt": "O versículo de encerramento anuncia que Deus trará toda obra a juízo, com tudo o que está encoberto, seja bom, seja mau (Ec 12:14), estabelecendo o horizonte do juízo final como fundamento da exortação ética."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Lane T. Dennis & Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción a Eclesiastés",
+          "Contexto histórico",
+          "Notas de estudio"
+        ],
+        "en": [
+          "Introduction to Ecclesiastes",
+          "Historical context",
+          "Study notes"
+        ],
+        "pt": [
+          "Introdução a Eclesiastes",
+          "Contexto histórico",
+          "Notas de estudo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general; reúne a decenas de eruditos evangélicos reformados en un solo volumen de referencia ampliamente utilizado en la iglesia de habla inglesa.",
+          "en": "A Crossway editorial project directed by Lane T. Dennis, with Wayne Grudem as general theological editor; it gathers dozens of Reformed evangelical scholars into a single reference volume widely used across the English-speaking church.",
+          "pt": "Projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral; reúne dezenas de eruditos evangélicos reformados em um único volume de referência amplamente utilizado na igreja de língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina el texto ESV con introducciones por libro, notas versículo por versículo, mapas, gráficos y ensayos teológicos, todo desde una perspectiva evangélica confesional y reformada.",
+          "en": "Combines the ESV text with book introductions, verse-by-verse notes, maps, charts, and theological essays, all from a confessional, Reformed evangelical perspective.",
+          "pt": "Combina o texto ESV com introduções por livro, notas versículo por versículo, mapas, gráficos e ensaios teológicos, tudo a partir de uma perspectiva evangélica confessional e reformada."
+        },
+        "aportacion": {
+          "es": "Proveyó la estructura de introducción (autoría, fecha, género, propósito) y el análisis del argumento capítulo por capítulo usado en este registro de Eclesiastés.",
+          "en": "Provided the introductory framework (authorship, date, genre, purpose) and the chapter-by-chapter argument analysis used in this Ecclesiastes record.",
+          "pt": "Forneceu a estrutura de introdução (autoria, data, gênero, propósito) e a análise do argumento capítulo por capítulo usada neste registro de Eclesiastes."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Systematic Theology Study Bible (2017)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. gen.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Notas teológicas"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Theological notes"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Notas teológicas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado contemporáneo en Norteamérica.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices in contemporary Reformed evangelicalism in North America.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador do Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado contemporâneo na América do Norte."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio que aplican explícitamente la Confesión de Westminster y la teología pactual a cada libro de la Escritura.",
+          "en": "He edited a team of Reformed scholars to produce study notes that explicitly apply the Westminster Confession and covenant theology to every book of Scripture.",
+          "pt": "Editou uma equipe de eruditos reformados para produzir notas de estudo que aplicam explicitamente a Confissão de Westminster e a teologia pactual a cada livro das Escrituras."
+        },
+        "aportacion": {
+          "es": "Fuente principal para los anclajes confesionales (Confesión de Westminster) y las distintivas reformadas de la lectura de Eclesiastés en este registro.",
+          "en": "Principal source for the confessional anchors (Westminster Confession) and the Reformed distinctives in this record's reading of Ecclesiastes.",
+          "pt": "Fonte principal para as âncoras confessionais (Confissão de Westminster) e as distintivas reformadas na leitura de Eclesiastes neste registro."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-2015-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R.C. Sproul (ed. gen.), edición en español",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Notas de estudio en español",
+          "Introducción a Eclesiastés"
+        ],
+        "en": [
+          "Spanish-language study notes",
+          "Introduction to Ecclesiastes"
+        ],
+        "pt": [
+          "Notas de estudo em espanhol",
+          "Introdução a Eclesiastes"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición en español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries, con el texto de la Nueva Biblia de Las Américas (NBLA).",
+          "en": "The Spanish-language edition of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries, using the Nueva Biblia de Las Américas (NBLA) text.",
+          "pt": "Edição em espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com o Ligonier Ministries, com o texto da Nueva Biblia de Las Américas (NBLA)."
+        },
+        "metodo": {
+          "es": "Traduce y adapta el aparato de notas de la Reformation Study Bible al contexto y a la lengua del lector hispanohablante, manteniendo la fidelidad confesional reformada del original.",
+          "en": "Translates and adapts the Reformation Study Bible's note apparatus for the Spanish-speaking reader's context and language, maintaining the confessional Reformed fidelity of the original.",
+          "pt": "Traduz e adapta o aparato de notas da Reformation Study Bible ao contexto e à língua do leitor de língua espanhola, mantendo a fidelidade confessional reformada do original."
+        },
+        "aportacion": {
+          "es": "Aseguró la fidelidad terminológica y textual de los campos en español de este registro con la versión NBLA fijada como estándar del pipeline.",
+          "en": "Ensured the terminological and textual fidelity of this record's Spanish-language fields with the NBLA version fixed as the pipeline standard.",
+          "pt": "Assegurou a fidelidade terminológica e textual dos campos em espanhol deste registro com a versão NBLA fixada como padrão do pipeline."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://es.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Doctrina de Dios",
+          "Providencia"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Doctrine of God",
+          "Providence"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Doutrina de Deus",
+          "Providência"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático reformado, profesor emérito en Phoenix Seminary y coeditor de la ESV Study Bible; una de las figuras más citadas de la teología evangélica contemporánea.",
+          "en": "Wayne Grudem is a Reformed systematic theologian, professor emeritus at Phoenix Seminary, and co-editor of the ESV Study Bible; one of the most widely cited figures in contemporary evangelical theology.",
+          "pt": "Wayne Grudem é teólogo sistemático reformado, professor emérito no Phoenix Seminary e coeditor da ESV Study Bible; uma das figuras mais citadas da teologia evangélica contemporânea."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, apoyando cada afirmación con exégesis bíblica extensa y comparación confesional histórica.",
+          "en": "Organizes Christian doctrine by classic systematic categories, supporting each claim with extensive biblical exegesis and historical confessional comparison.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, apoiando cada afirmação com exegese bíblica extensa e comparação confessional histórica."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco categorial (Providencia, Antropología, Hamartiología, Escatología) usado para estructurar la sección de teología sistemática de este registro.",
+          "en": "Provided the categorical framework (Providence, Anthropology, Hamartiology, Eschatology) used to structure this record's systematic theology section.",
+          "pt": "Forneceu o quadro categorial (Providência, Antropologia, Hamartiologia, Escatologia) usado para estruturar a seção de teologia sistemática deste registro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipología"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Typology"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en el Seminario Teológico de Princeton y es ampliamente considerado el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely regarded as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Seminário Teológico de Princeton e é amplamente considerado o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Rastrea el desarrollo orgánico y progresivo de la revelación a través de la historia redentora, leyendo cada época y libro del canon como una etapa consciente de un mismo plan divino centrado en Cristo.",
+          "en": "He traces the organic, progressive unfolding of revelation through redemptive history, reading every epoch and book of the canon as a conscious stage of a single, Christ-centered divine plan.",
+          "pt": "Rastreia o desenvolvimento orgânico e progressivo da revelação através da história redentora, lendo cada época e livro do cânon como uma etapa consciente de um mesmo plano divino centrado em Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y los tipos y sombras identificados en Eclesiastés, situando el libro dentro del marco más amplio de la revelación progresiva.",
+          "en": "Grounded the christological focus and the types and shadows identified in Ecclesiastes, situating the book within the broader framework of progressive revelation.",
+          "pt": "Fundamentou o enfoque cristológico e os tipos e sombras identificados em Eclesiastes, situando o livro dentro do quadro mais amplo da revelação progressiva."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://www.monergism.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "An Introduction to the Old Testament",
+      "autor": "Tremper Longman III & Raymond B. Dillard",
+      "año": 2006,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Autoría",
+          "Fecha de escritura",
+          "Género literario",
+          "Debate crítico"
+        ],
+        "en": [
+          "Authorship",
+          "Date of writing",
+          "Literary genre",
+          "Critical debate"
+        ],
+        "pt": [
+          "Autoria",
+          "Data de escrita",
+          "Gênero literário",
+          "Debate crítico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Tremper Longman III es profesor emérito de Estudios Bíblicos en Westmont College; Raymond B. Dillard (1944-1993) fue profesor de Antiguo Testamento en el Seminario Teológico de Westminster.",
+          "en": "Tremper Longman III is professor emeritus of Biblical Studies at Westmont College; Raymond B. Dillard (1944-1993) was professor of Old Testament at Westminster Theological Seminary.",
+          "pt": "Tremper Longman III é professor emérito de Estudos Bíblicos no Westmont College; Raymond B. Dillard (1944-1993) foi professor de Antigo Testamento no Seminário Teológico de Westminster."
+        },
+        "metodo": {
+          "es": "Presenta de forma equilibrada las posiciones críticas y conservadoras sobre autoría, fecha y composición de cada libro del Antiguo Testamento, evaluando la evidencia lingüística e histórica con rigor académico.",
+          "en": "Presents the critical and conservative positions on each Old Testament book's authorship, date, and composition in a balanced way, evaluating the linguistic and historical evidence with academic rigor.",
+          "pt": "Apresenta de forma equilibrada as posições críticas e conservadoras sobre autoria, data e composição de cada livro do Antigo Testamento, avaliando a evidência linguística e histórica com rigor acadêmico."
+        },
+        "aportacion": {
+          "es": "Proveyó el resumen del debate lingüístico sobre la datación de Eclesiastés (arameísmos, persianismos) usado en la nota de autoría y en 'controversiasHistoricas'.",
+          "en": "Provided the summary of the linguistic debate over Ecclesiastes' dating (Aramaisms, Persian loanwords) used in the authorship note and in 'controversiasHistoricas.'",
+          "pt": "Forneceu o resumo do debate linguístico sobre a datação de Eclesiastes (aramaísmos, persianismos) usado na nota de autoria e em 'controversiasHistoricas'."
+        },
+        "obras": [
+          "An Introduction to the Old Testament (2006)",
+          "How to Read Ecclesiastes (Longman, 2011)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/tremper-longman-iii/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "IVP Academic",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Paralelos del Cercano Oriente Antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Ancient Near Eastern parallels"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Paralelos do Antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos especializados en el trasfondo del Cercano Oriente Antiguo; Walton enseñó en Wheaton College, Matthews en Denver Seminary y Chavalas en la Universidad de Wisconsin-La Crosse.",
+          "en": "Walton, Matthews, and Chavalas are scholars specializing in Ancient Near Eastern background; Walton taught at Wheaton College, Matthews at Denver Seminary, and Chavalas at the University of Wisconsin-La Crosse.",
+          "pt": "Walton, Matthews e Chavalas são eruditos especializados no pano de fundo do Antigo Oriente Próximo; Walton lecionou no Wheaton College, Matthews no Denver Seminary e Chavalas na Universidade de Wisconsin-La Crosse."
+        },
+        "metodo": {
+          "es": "Compara sistemáticamente cada pasaje del Antiguo Testamento con textos, prácticas e instituciones paralelas del Cercano Oriente Antiguo, iluminando el trasfondo cultural sin ceder a la dependencia literaria.",
+          "en": "Systematically compares each Old Testament passage with parallel Ancient Near Eastern texts, practices, and institutions, illuminating cultural background without conceding literary dependence.",
+          "pt": "Compara sistematicamente cada passagem do Antigo Testamento com textos, práticas e instituições paralelas do Antigo Oriente Próximo, iluminando o pano de fundo cultural sem ceder à dependência literária."
+        },
+        "aportacion": {
+          "es": "Fuente principal para los paralelos de literatura sapiencial del Cercano Oriente Antiguo (Diálogo del Pesimismo, Cantos del Arpista, Gilgamesh) citados en 'fuentesANE'.",
+          "en": "Principal source for the Ancient Near Eastern wisdom literature parallels (Dialogue of Pessimism, Harper's Songs, Gilgamesh) cited in 'fuentesANE.'",
+          "pt": "Fonte principal para os paralelos de literatura sapiencial do Antigo Oriente Próximo (Diálogo do Pessimismo, Cantos do Harpista, Gilgamesh) citados em 'fuentesANE'."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: OT (2000)",
+          "Ancient Near Eastern Thought and the Old Testament (Walton, 2006)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. Walter C. Kaiser Jr., gen. ed.)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Geografía histórica"
+        ],
+        "en": [
+          "Archaeology",
+          "Historical geography"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Geografia histórica"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición de estudio de Zondervan dirigida por un equipo de arqueólogos y eruditos bíblicos conservadores, entre ellos Walter C. Kaiser Jr., antiguo presidente del Gordon-Conwell Theological Seminary.",
+          "en": "A Zondervan study edition directed by a team of conservative archaeologists and biblical scholars, including Walter C. Kaiser Jr., former president of Gordon-Conwell Theological Seminary.",
+          "pt": "Edição de estudo da Zondervan dirigida por uma equipe de arqueólogos e eruditos bíblicos conservadores, entre eles Walter C. Kaiser Jr., ex-presidente do Gordon-Conwell Theological Seminary."
+        },
+        "metodo": {
+          "es": "Integra hallazgos arqueológicos verificables con el texto bíblico libro por libro, señalando tanto las confirmaciones como las tensiones sin ceder al escepticismo crítico ni al maximalismo acrítico.",
+          "en": "Integrates verifiable archaeological findings with the biblical text book by book, noting both confirmations and tensions without yielding to critical skepticism or uncritical maximalism.",
+          "pt": "Integra achados arqueológicos verificáveis com o texto bíblico livro por livro, apontando tanto confirmações quanto tensões sem ceder ao ceticismo crítico nem ao maximalismo acrítico."
+        },
+        "aportacion": {
+          "es": "Fuente principal para el resumen del debate sobre el 'vacío salomónico' y la datación de las puertas monumentales de Meguido, Hazor y Gezer en el campo 'arqueologia'.",
+          "en": "Principal source for the summary of the 'Solomonic gap' debate and the dating of the monumental gates at Megiddo, Hazor, and Gezer in the 'arqueologia' field.",
+          "pt": "Fonte principal para o resumo do debate sobre o 'vazio salomônico' e a datação dos portões monumentais de Megido, Hazor e Gezer no campo 'arqueologia'."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)",
+          "The NIV Archaeological Study Bible (2011 rev.)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.85,
+    "camposMarcados": [
+      {
+        "campo": "autor",
+        "razon": "Autoría debatida entre la tradición salomónica y la crítica moderna que data el hebreo del libro en el período postexílico por arameísmos y persianismos; se siguió la regla de resolución de conflictos del pipeline, favoreciendo la posición reformada (Salomón).",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-15"
+      },
+      {
+        "campo": "año",
+        "razon": "La datación depende directamente del debate de autoría; se adoptó el rango c. 940-930 a.C. consistente con el final del reinado de Salomón según la posición reformada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-15"
+      },
+      {
+        "campo": "contextoHistorico.arqueologia",
+        "razon": "El 'vacío salomónico' (debate de cronología baja de Finkelstein vs. cronología bíblica alta) no tiene resolución arqueológica unánime; se presentó el debate y se indicó la posición reformada/conservadora sin ocultar la controversia.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-15"
+      },
+      {
+        "campo": "personajes[1].biografiaHistorica.nivelEvidencia",
+        "razon": "El campo 'nivelEvidencia' está diseñado para figuras históricas verificables por medios extrabíblicos; aplicado a Dios (Elohim) como sujeto teológico, se usó 'alto' para reflejar la consistencia doctrinal canónica en lugar de evidencia arqueológica, lo cual se explicó en 'concordanciaConTexto'.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-15"
+      },
+      {
+        "campo": "contextoHistorico.geografia[1]",
+        "razon": "La identificación de los 'estanques' de Ec 2:6 con los históricos 'Estanques de Salomón' cerca de Belén/Etam es tradicional, no explícita en el texto, que solo describe obras hídricas genéricas en el contexto de Jerusalén.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-15"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-15T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline (ejecución automatizada)",
+      "rol": "editor",
+      "fechaRevision": "2026-07-15"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 4,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-15T00:00:00Z",
+          "fechaFin": "2026-07-15T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-15T00:00:00Z",
+          "fechaFin": "2026-07-15T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-15T00:00:00Z",
+          "fechaFin": "2026-07-15T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-15T00:00:00Z",
+          "fechaFin": "2026-07-15T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

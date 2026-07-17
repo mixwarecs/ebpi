@@ -2472,5 +2472,29 @@
       "en": "MOCKING NATION",
       "pt": "NAÇÃO QUE ZOMBA"
     }
+  },
+  "Qohelet (el Predicador)": {
+    "id": "qohelet",
+    "color": "#8B5A1E",
+    "init": "קה",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "EL PREDICADOR-REY",
+      "en": "THE PREACHER-KING",
+      "pt": "O PREGADOR-REI"
+    }
+  },
+  "Dios (Elohim)": {
+    "id": "elohim",
+    "color": "#8B6400",
+    "init": "אל",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "CREADOR Y JUEZ",
+      "en": "CREATOR AND JUDGE",
+      "pt": "CRIADOR E JUIZ"
+    }
   }
 }

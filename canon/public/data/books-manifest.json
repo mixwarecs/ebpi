@@ -1033,7 +1033,8 @@
       "ordenCanon": 21,
       "capitulosTotal": 12,
       "divisionColor": "#E9B567",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "eclesiastes.json",
       "razon": {
         "es": "La búsqueda de sentido 'bajo el sol' que termina en vanidad aparte de Dios, concluyendo que el deber del hombre es temer a Dios y guardar sus mandamientos (Ec 12:13).",
         "en": "The search for meaning 'under the sun' that ends in futility apart from God, concluding that the whole duty of man is to fear God and keep his commandments (Eccl 12:13).",
