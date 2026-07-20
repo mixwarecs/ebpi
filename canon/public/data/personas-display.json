@@ -1316,7 +1316,7 @@
     "id": "david",
     "color": "#2A4A8B",
     "init": "דו",
-    "xCh": { "1S": 16, "Sal": 51 },
+    "xCh": { "1S": 16, "Sal": 51, "Pr": 1 },
     "side": "above",
     "badge": {
       "es": "REY UNGIDO",
@@ -2621,12 +2621,84 @@
     "id": "salomon",
     "color": "#A0651B",
     "init": "של",
-    "xCh": 72,
+    "xCh": { "Sal": 72, "Pr": 1 },
     "side": "below",
     "badge": {
       "es": "REY SABIO",
       "en": "WISE KING",
       "pt": "REI SÁBIO"
+    }
+  },
+  "Sabiduría (personificada)": {
+    "id": "sabiduria",
+    "color": "#1E7A72",
+    "init": "חכ",
+    "xCh": 8,
+    "side": "above",
+    "badge": {
+      "es": "SABIDURÍA ETERNA",
+      "en": "ETERNAL WISDOM",
+      "pt": "SABEDORIA ETERNA"
+    }
+  },
+  "La mujer extraña / adúltera": {
+    "id": "mujer-extrana",
+    "color": "#8B2635",
+    "init": "זר",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "SEDUCCIÓN Y MUERTE",
+      "en": "SEDUCTION AND DEATH",
+      "pt": "SEDUÇÃO E MORTE"
+    }
+  },
+  "La mujer virtuosa (de Pr 31)": {
+    "id": "mujer-virtuosa",
+    "color": "#4A7A5C",
+    "init": "חי",
+    "xCh": 31,
+    "side": "above",
+    "badge": {
+      "es": "MUJER VIRTUOSA",
+      "en": "WOMAN OF NOBLE CHARACTER",
+      "pt": "MULHER VIRTUOSA"
+    }
+  },
+  "Agur, hijo de Jaqué": {
+    "id": "agur",
+    "color": "#6B5842",
+    "init": "אג",
+    "xCh": 30,
+    "side": "above",
+    "badge": {
+      "es": "SABIO HUMILDE",
+      "en": "HUMBLE SAGE",
+      "pt": "SÁBIO HUMILDE"
+    }
+  },
+  "Lemuel, rey de Masá": {
+    "id": "lemuel",
+    "color": "#4A5C8B",
+    "init": "למ",
+    "xCh": 31,
+    "side": "below",
+    "badge": {
+      "es": "REY INSTRUIDO",
+      "en": "INSTRUCTED KING",
+      "pt": "REI INSTRUÍDO"
+    }
+  },
+  "Los hombres de Ezequías": {
+    "id": "hombres-ezequias",
+    "color": "#5A6B7A",
+    "init": "אנ",
+    "xCh": 25,
+    "side": "below",
+    "badge": {
+      "es": "COMPILADORES FIELES",
+      "en": "FAITHFUL COMPILERS",
+      "pt": "COMPILADORES FIÉIS"
     }
   },
   "Hemán ezraíta": {

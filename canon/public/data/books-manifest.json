@@ -1015,7 +1015,8 @@
       "ordenCanon": 20,
       "capitulosTotal": 31,
       "divisionColor": "#E9B567",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "proverbios.json",
       "razon": {
         "es": "Sabiduría práctica para la vida cotidiana, fundamentada en 'el temor de Jehová' como principio de todo conocimiento verdadero (Pr 1:7).",
         "en": "Practical wisdom for daily life, grounded in 'the fear of the LORD' as the principle of all true knowledge (Prov 1:7).",
