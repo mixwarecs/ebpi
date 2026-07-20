@@ -111,7 +111,7 @@
     "id": "moises",
     "color": "#4A6741",
     "init": "מש",
-    "xCh": 3,
+    "xCh": { "Éx": 3, "Sal": 90 },
     "side": "above",
     "badge": {
       "es": "MEDIADOR DEL PACTO",
@@ -1292,7 +1292,7 @@
     "id": "saul",
     "color": "#4A5A6A",
     "init": "שא",
-    "xCh": 9,
+    "xCh": { "1S": 9, "Sal": 18 },
     "side": "above",
     "badge": {
       "es": "PRIMER REY",
@@ -1316,7 +1316,7 @@
     "id": "david",
     "color": "#2A4A8B",
     "init": "דו",
-    "xCh": 16,
+    "xCh": { "1S": 16, "Sal": 51 },
     "side": "above",
     "badge": {
       "es": "REY UNGIDO",
@@ -1614,7 +1614,7 @@
     "id": "absalon",
     "color": "#8B2020",
     "init": "אב",
-    "xCh": 15,
+    "xCh": { "2S": 15, "Sal": 3 },
     "side": "above",
     "badge": {
       "es": "PRÍNCIPE REBELDE",
@@ -2579,6 +2579,78 @@
       "es": "SIGNO DE ABUNDANCIA",
       "en": "SIGN OF ABUNDANCE",
       "pt": "SINAL DE ABUNDÂNCIA"
+    }
+  },
+  "El Ungido / Rey mesiánico": {
+    "id": "ungido",
+    "color": "#6B2D8C",
+    "init": "מח",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "REY MESIÁNICO",
+      "en": "MESSIANIC KING",
+      "pt": "REI MESSIÂNICO"
+    }
+  },
+  "Asaf": {
+    "id": "asaf",
+    "color": "#1B6B5E",
+    "init": "אס",
+    "xCh": 50,
+    "side": "below",
+    "badge": {
+      "es": "LEVITA CANTOR",
+      "en": "LEVITICAL SINGER",
+      "pt": "LEVITA CANTOR"
+    }
+  },
+  "Los hijos de Coré": {
+    "id": "hijoscore",
+    "color": "#9B5A3C",
+    "init": "בנ",
+    "xCh": 42,
+    "side": "above",
+    "badge": {
+      "es": "GREMIO DE CANTORES",
+      "en": "SINGERS' GUILD",
+      "pt": "GUILDA DE CANTORES"
+    }
+  },
+  "Salomón": {
+    "id": "salomon",
+    "color": "#A0651B",
+    "init": "של",
+    "xCh": 72,
+    "side": "below",
+    "badge": {
+      "es": "REY SABIO",
+      "en": "WISE KING",
+      "pt": "REI SÁBIO"
+    }
+  },
+  "Hemán ezraíta": {
+    "id": "heman",
+    "color": "#5A4A8B",
+    "init": "הי",
+    "xCh": 88,
+    "side": "above",
+    "badge": {
+      "es": "SABIO EZRAÍTA",
+      "en": "EZRAHITE SAGE",
+      "pt": "SÁBIO EZRAÍTA"
+    }
+  },
+  "Etán ezraíta": {
+    "id": "etan",
+    "color": "#3E6B4A",
+    "init": "אי",
+    "xCh": 89,
+    "side": "below",
+    "badge": {
+      "es": "SABIO EZRAÍTA",
+      "en": "EZRAHITE SAGE",
+      "pt": "SÁBIO EZRAÍTA"
     }
   }
 }

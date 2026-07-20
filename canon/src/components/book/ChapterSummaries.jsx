@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useMemo, useRef } from "react";
 import { createPortal } from "react-dom";
 import { Share2, Check, ExternalLink } from "lucide-react";
 import { GOLD, PARCHMENT, BOOKS, BIBLE_VERSION, GS, UI } from "../../constants";
@@ -245,6 +245,17 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
   // Reset when book or language changes
   useEffect(() => { setActiveIdx(null); }, [lang, bookNum]);
 
+  // Chapter-range label column sizes to this book's own longest label (e.g.
+  // "1" for single-chapter books vs "108–110" for Psalms), in `ch` units so
+  // it tracks font metrics instead of a pixel guess tuned for one book.
+  const labelColWidth = useMemo(() => {
+    const maxLen = rawChapters.reduce((max, c) => {
+      const label = c.rangoInicio === c.rangoFin ? String(c.rangoInicio) : `${c.rangoInicio}–${c.rangoFin}`;
+      return Math.max(max, label.length);
+    }, 1);
+    return `calc(${maxLen}ch + 14px)`; // +14px reserves room for the ExternalLink icon + gap
+  }, [rawChapters]);
+
   if (!rawChapters.length) return null;
 
   return (
@@ -422,7 +433,7 @@ export default function ChapterSummaries({ rawChapters = [], lang = "es", bookNu
           >
             <div style={{
               flexShrink: 0,
-              width: 44,
+              width: labelColWidth,
               textAlign: "right",
               paddingTop: 3,
             }}>

@@ -994,7 +994,8 @@
       "ordenCanon": 19,
       "capitulosTotal": 150,
       "divisionColor": "#E9B567",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "salmos.json",
       "razon": {
         "es": "150 oraciones y cánticos que expresan toda la gama de la experiencia humana delante de Dios — lamento, alabanza, confianza, arrepentimiento — el himnario inspirado de la fe del pacto.",
         "en": "150 prayers and songs expressing the full range of human experience before God — lament, praise, trust, repentance — the inspired hymnal of covenant faith.",
