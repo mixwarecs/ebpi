@@ -833,12 +833,13 @@
       "ordenCanon": 11,
       "capitulosTotal": 22,
       "divisionColor": "#B6F7D0",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El apogeo de Salomón y la construcción del templo, seguidos por la división del reino tras su apostasía — el inicio de la decadencia dual.",
         "en": "The pinnacle of Solomon's reign and the building of the temple, followed by the division of the kingdom after his apostasy — the beginning of the dual decline.",
         "pt": "O apogeu do reinado de Salomão e a construção do templo, seguidos pela divisão do reino após sua apostasia — o início da decadência dual."
-      }
+      },
+      "dataFile": "1reyes.json"
     },
     {
       "id": 12,

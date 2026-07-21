@@ -330,7 +330,7 @@
     "id": "elias",
     "color": "#8B5E1A",
     "init": "Ηλ",
-    "xCh": 11,
+    "xCh": { "Ro": 11, "1R": 17 },
     "side": "below",
     "badge": {
       "es": "PROFETA DEL REMANENTE",
@@ -1316,7 +1316,7 @@
     "id": "david",
     "color": "#2A4A8B",
     "init": "דו",
-    "xCh": { "1S": 16, "Sal": 51, "Pr": 1 },
+    "xCh": { "1S": 16, "Sal": 51, "Pr": 1, "1R": 1 },
     "side": "above",
     "badge": {
       "es": "REY UNGIDO",
@@ -1542,7 +1542,7 @@
     "id": "natan",
     "color": "#8B6914",
     "init": "נת",
-    "xCh": 7,
+    "xCh": { "2S": 7, "1R": 1 },
     "side": "above",
     "badge": {
       "es": "PROFETA REAL",
@@ -1566,7 +1566,7 @@
     "id": "betsabe",
     "color": "#8B3D6A",
     "init": "בת",
-    "xCh": 11,
+    "xCh": { "2S": 11, "1R": 1 },
     "side": "above",
     "badge": {
       "es": "ESPOSA DEL REY",
@@ -2621,7 +2621,7 @@
     "id": "salomon",
     "color": "#A0651B",
     "init": "של",
-    "xCh": { "Sal": 72, "Pr": 1 },
+    "xCh": { "Sal": 72, "Pr": 1, "1R": 3 },
     "side": "below",
     "badge": {
       "es": "REY SABIO",
@@ -2771,6 +2771,114 @@
       "es": "HERMANOS PROTECTORES",
       "en": "PROTECTIVE BROTHERS",
       "pt": "IRMÃOS PROTETORES"
+    }
+  },
+  "Adonías": {
+    "id": "adonias",
+    "color": "#7A3B2E",
+    "init": "אד",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PRÍNCIPE USURPADOR",
+      "en": "USURPER PRINCE",
+      "pt": "PRÍNCIPE USURPADOR"
+    }
+  },
+  "Jeroboam": {
+    "id": "jeroboam",
+    "color": "#4A5D23",
+    "init": "יר",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "REY CISMÁTICO",
+      "en": "SCHISMATIC KING",
+      "pt": "REI CISMÁTICO"
+    }
+  },
+  "Roboam": {
+    "id": "roboam",
+    "color": "#6B4423",
+    "init": "רח",
+    "xCh": 12,
+    "side": "above",
+    "badge": {
+      "es": "NECIO EN SIQUEM",
+      "en": "FOOL AT SHECHEM",
+      "pt": "TOLO EM SIQUÉM"
+    }
+  },
+  "Acab": {
+    "id": "acab",
+    "color": "#5A2D2D",
+    "init": "אח",
+    "xCh": 16,
+    "side": "below",
+    "badge": {
+      "es": "REY MÁS MALVADO",
+      "en": "MOST WICKED KING",
+      "pt": "REI MAIS ÍMPIO"
+    }
+  },
+  "Jezabel": {
+    "id": "jezabel",
+    "color": "#8B1A4A",
+    "init": "אי",
+    "xCh": 16,
+    "side": "above",
+    "badge": {
+      "es": "REINA IDÓLATRA",
+      "en": "IDOLATROUS QUEEN",
+      "pt": "RAINHA IDÓLATRA"
+    }
+  },
+  "La reina de Sabá": {
+    "id": "reina-de-saba",
+    "color": "#B8860B",
+    "init": "מש",
+    "xCh": 10,
+    "side": "below",
+    "badge": {
+      "es": "REINA DE SABÁ",
+      "en": "QUEEN OF SHEBA",
+      "pt": "RAINHA DE SABÁ"
+    }
+  },
+  "Ahías de Silo": {
+    "id": "ahias",
+    "color": "#2E6B4A",
+    "init": "אח",
+    "xCh": 11,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA DE SILO",
+      "en": "PROPHET OF SHILOH",
+      "pt": "PROFETA DE SILÓ"
+    }
+  },
+  "Micaías": {
+    "id": "micaias",
+    "color": "#1E4A6B",
+    "init": "מכ",
+    "xCh": 22,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA FIEL SOLITARIO",
+      "en": "LONE FAITHFUL PROPHET",
+      "pt": "PROFETA FIEL SOLITÁRIO"
+    }
+  },
+  "Nabot": {
+    "id": "nabot",
+    "color": "#3B5B3B",
+    "init": "נב",
+    "xCh": 21,
+    "side": "below",
+    "badge": {
+      "es": "VÍCTIMA DE INJUSTICIA",
+      "en": "VICTIM OF INJUSTICE",
+      "pt": "VÍTIMA DE INJUSTIÇA"
     }
   }
 }
