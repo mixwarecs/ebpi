@@ -2186,7 +2186,7 @@
     "id": "isaias",
     "color": "#2A6B5E",
     "init": "יש",
-    "xCh": 6,
+    "xCh": { "Is": 6, "2R": 19 },
     "side": "above",
     "badge": {
       "es": "PROFETA DE JUDÁ",
@@ -2210,7 +2210,7 @@
     "id": "ezequias",
     "color": "#2E5A9A",
     "init": "חז",
-    "xCh": 36,
+    "xCh": { "Is": 36, "2R": 18 },
     "side": "above",
     "badge": {
       "es": "REY FIEL",
@@ -2222,7 +2222,7 @@
     "id": "senaquerib",
     "color": "#8A3418",
     "init": "סנ",
-    "xCh": 36,
+    "xCh": { "Is": 36, "2R": 18 },
     "side": "below",
     "badge": {
       "es": "REY DE ASIRIA",
@@ -2273,7 +2273,7 @@
     "id": "josias",
     "color": "#3A7A4A",
     "init": "יא",
-    "xCh": 22,
+    "xCh": { "Jer": 22, "2R": 22 },
     "side": "below",
     "badge": {
       "es": "REY REFORMADOR",
@@ -2312,7 +2312,8 @@
     "xCh": {
       "Jer": 38,
       "Ez": 12,
-      "Lm": 4
+      "Lm": 4,
+      "2R": 25
     },
     "side": "above",
     "badge": {
@@ -2341,7 +2342,8 @@
       "Jer": 39,
       "Ez": 29,
       "Dn": 2,
-      "Lm": 2
+      "Lm": 2,
+      "2R": 24
     },
     "side": "above",
     "badge": {
@@ -2825,7 +2827,7 @@
     "id": "jezabel",
     "color": "#8B1A4A",
     "init": "אי",
-    "xCh": 16,
+    "xCh": { "1R": 16, "2R": 9 },
     "side": "above",
     "badge": {
       "es": "REINA IDÓLATRA",
@@ -2879,6 +2881,150 @@
       "es": "VÍCTIMA DE INJUSTICIA",
       "en": "VICTIM OF INJUSTICE",
       "pt": "VÍTIMA DE INJUSTIÇA"
+    }
+  },
+  "Eliseo": {
+    "id": "eliseo",
+    "color": "#1B6B4A",
+    "init": "אל",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA DE MISERICORDIA",
+      "en": "PROPHET OF MERCY",
+      "pt": "PROFETA DE MISERICÓRDIA"
+    }
+  },
+  "Naamán": {
+    "id": "naaman",
+    "color": "#5A6B8A",
+    "init": "נע",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "GENERAL SANADO",
+      "en": "HEALED GENERAL",
+      "pt": "GENERAL CURADO"
+    }
+  },
+  "Giezi": {
+    "id": "giezi",
+    "color": "#7A5A2A",
+    "init": "גח",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "SIERVO CODICIOSO",
+      "en": "GREEDY SERVANT",
+      "pt": "SERVO COBIÇOSO"
+    }
+  },
+  "Jehú": {
+    "id": "jehu",
+    "color": "#8A2A2A",
+    "init": "יה",
+    "xCh": 9,
+    "side": "below",
+    "badge": {
+      "es": "REY VENGADOR",
+      "en": "AVENGING KING",
+      "pt": "REI VINGADOR"
+    }
+  },
+  "Atalía": {
+    "id": "atalia",
+    "color": "#4A1A6B",
+    "init": "עת",
+    "xCh": 11,
+    "side": "above",
+    "badge": {
+      "es": "USURPADORA DEL TRONO",
+      "en": "THRONE USURPER",
+      "pt": "USURPADORA DO TRONO"
+    }
+  },
+  "Joiada el sacerdote": {
+    "id": "joiada",
+    "color": "#2A5A3A",
+    "init": "יו",
+    "xCh": 11,
+    "side": "below",
+    "badge": {
+      "es": "SACERDOTE RESTAURADOR",
+      "en": "RESTORING PRIEST",
+      "pt": "SACERDOTE RESTAURADOR"
+    }
+  },
+  "Joás de Judá": {
+    "id": "joas-de-juda",
+    "color": "#4A6B2A",
+    "init": "יא",
+    "xCh": 12,
+    "side": "above",
+    "badge": {
+      "es": "REY NIÑO",
+      "en": "CHILD KING",
+      "pt": "REI CRIANÇA"
+    }
+  },
+  "Manasés": {
+    "id": "manases",
+    "color": "#3A2A5A",
+    "init": "מנ",
+    "xCh": 21,
+    "side": "below",
+    "badge": {
+      "es": "APÓSTATA TOTAL",
+      "en": "TOTAL APOSTATE",
+      "pt": "APÓSTATA TOTAL"
+    }
+  },
+  "Huldá la profetisa": {
+    "id": "hulda",
+    "color": "#6B4A1A",
+    "init": "חל",
+    "xCh": 22,
+    "side": "above",
+    "badge": {
+      "es": "PROFETISA DE LA LEY",
+      "en": "PROPHETESS OF THE LAW",
+      "pt": "PROFETISA DA LEI"
+    }
+  },
+  "La sunamita": {
+    "id": "sunamita",
+    "color": "#7A4A2A",
+    "init": "שו",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "ANFITRIONA DEL PROFETA",
+      "en": "THE PROPHET'S HOST",
+      "pt": "ANFITRIÃ DO PROFETA"
+    }
+  },
+  "Hazael": {
+    "id": "hazael",
+    "color": "#5A3A1A",
+    "init": "חא",
+    "xCh": 8,
+    "side": "below",
+    "badge": {
+      "es": "REY OPRESOR DE ARAM",
+      "en": "OPPRESSIVE KING OF ARAM",
+      "pt": "REI OPRESSOR DE ARÃ"
+    }
+  },
+  "Joaquín": {
+    "id": "joaquin",
+    "color": "#4A5A7A",
+    "init": "יכ",
+    "xCh": 24,
+    "side": "above",
+    "badge": {
+      "es": "REY EXILIADO",
+      "en": "EXILED KING",
+      "pt": "REI EXILADO"
     }
   }
 }

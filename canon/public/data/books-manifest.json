@@ -854,12 +854,13 @@
       "ordenCanon": 12,
       "capitulosTotal": 25,
       "divisionColor": "#B6F7D0",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La caída de ambos reinos: Israel al exilio asirio (722 a.C.) y Judá al exilio babilónico (586 a.C.) — el juicio pactual cumplido en la historia.",
         "en": "The fall of both kingdoms: Israel into Assyrian exile (722 BC) and Judah into Babylonian exile (586 BC) — the covenantal judgment fulfilled in history.",
         "pt": "A queda de ambos os reinos: Israel para o exílio assírio (722 a.C.) e Judá para o exílio babilônico (586 a.C.) — o julgamento pactual cumprido na história."
-      }
+      },
+      "dataFile": "2reyes.json"
     },
     {
       "id": 13,
