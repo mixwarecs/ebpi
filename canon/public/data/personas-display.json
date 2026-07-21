@@ -2724,5 +2724,53 @@
       "en": "EZRAHITE SAGE",
       "pt": "SÁBIO EZRAÍTA"
     }
+  },
+  "Salomón (el Amado)": {
+    "id": "salomon-amado",
+    "color": "#A0651B",
+    "init": "של",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "REY ESPOSO",
+      "en": "KING BRIDEGROOM",
+      "pt": "REI ESPOSO"
+    }
+  },
+  "La Sulamita (la Amada)": {
+    "id": "sulamita",
+    "color": "#A83E62",
+    "init": "שו",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "ESPOSA AMADA",
+      "en": "BELOVED BRIDE",
+      "pt": "ESPOSA AMADA"
+    }
+  },
+  "Las hijas de Jerusalén": {
+    "id": "hijas-jerusalen",
+    "color": "#6B7A8A",
+    "init": "בנ",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "CORO DE JERUSALÉN",
+      "en": "CHORUS OF JERUSALEM",
+      "pt": "CORO DE JERUSALÉM"
+    }
+  },
+  "Los hermanos de la amada": {
+    "id": "hermanos-amada",
+    "color": "#6B5842",
+    "init": "אח",
+    "xCh": 8,
+    "side": "below",
+    "badge": {
+      "es": "HERMANOS PROTECTORES",
+      "en": "PROTECTIVE BROTHERS",
+      "pt": "IRMÃOS PROTETORES"
+    }
   }
 }

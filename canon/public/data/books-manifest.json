@@ -1057,7 +1057,8 @@
       "ordenCanon": 22,
       "capitulosTotal": 8,
       "divisionColor": "#E9B567",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "cantares.json",
       "razon": {
         "es": "Un poema de amor conyugal que celebra el matrimonio como don bueno de Dios, leído tradicionalmente también como figura del amor de Cristo por su Iglesia.",
         "en": "A poem of conjugal love celebrating marriage as a good gift from God, traditionally also read as a figure of Christ's love for his Church.",

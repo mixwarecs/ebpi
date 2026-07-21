@@ -1,0 +1,1698 @@
+{
+  "id": 22,
+  "testamento": "Antiguo",
+  "division": "Sabiduría y Poesía",
+  "titulo": {
+    "es": "Cantares",
+    "en": "Song of Solomon",
+    "pt": "Cânticos"
+  },
+  "tituloOriginal": "שִׁיר הַשִּׁירִים",
+  "transliteracion": "Shir ha-Shirim",
+  "significado": {
+    "es": "El Cantar de los Cantares, es decir, 'el más excelso de los cantos' — el superlativo hebreo ('canción de canciones') señala que esta es la mejor y más sublime de todas las composiciones líricas de Salomón (cf. 1R 4:32).",
+    "en": "The Song of Songs, that is, 'the most excellent of songs' — the Hebrew superlative construction ('song of songs') marks this as the finest and most sublime of all of Solomon's lyric compositions (cf. 1Kgs 4:32).",
+    "pt": "O Cântico dos Cânticos, isto é, 'o mais excelente dos cânticos' — a construção superlativa hebraica ('canção de canções') assinala que esta é a melhor e mais sublime de todas as composições líricas de Salomão (cf. 1Rs 4:32)."
+  },
+  "resumenGeneral": {
+    "es": "El libro abre con el anhelo mutuo de dos amantes que se buscan y se alaban (Cnt 1:1–3:5), avanza hacia el día de la boda y su consumación gozosa bajo el cortejo real de Salomón (Cnt 3:6–5:1), y luego gira hacia una crisis: la amada pierde y busca a su amado en la noche, y solo lo recupera tras describirlo con detalle a las hijas de Jerusalén (Cnt 5:2–6:3). El cantar madura entonces hacia una pertenencia mutua más honda y pública (Cnt 6:4–7:13), hasta cerrar con la declaración cumbre de todo el poema: el amor es fuerte como la muerte, un sello inextinguible que ningún caudal puede apagar (Cnt 8:6–7), dejando abierta la súplica final de la amada por la venida de su amado (Cnt 8:14).",
+    "en": "The book opens with the mutual longing of two lovers who seek and praise one another (Song 1:1–3:5), moves toward the wedding day and its joyful consummation under Solomon's royal procession (Song 3:6–5:1), then turns toward crisis: the beloved loses and searches for her lover in the night, recovering him only after describing him in detail to the daughters of Jerusalem (Song 5:2–6:3). The song then matures into a deeper, more public mutual belonging (Song 6:4–7:13), before closing with the poem's climactic declaration — love is strong as death, an unquenchable seal that no flood can drown (Song 8:6–7) — leaving open the beloved's final plea for her lover's coming (Song 8:14).",
+    "pt": "O livro abre com o anseio mútuo de dois amantes que se buscam e se louvam (Ct 1:1–3:5), avança para o dia do casamento e sua consumação alegre sob o cortejo real de Salomão (Ct 3:6–5:1), e então vira para uma crise: a amada perde e busca o seu amado na noite, e só o recupera depois de descrevê-lo em detalhe às filhas de Jerusalém (Ct 5:2–6:3). O cântico amadurece então para um pertencimento mútuo mais profundo e público (Ct 6:4–7:13), até fechar com a declaração culminante de todo o poema: o amor é forte como a morte, um selo inextinguível que nenhuma torrente pode apagar (Ct 8:6–7), deixando em aberto a súplica final da amada pela vinda de seu amado (Ct 8:14)."
+  },
+  "capitulosTotal": 8,
+  "autor": {
+    "nombre": {
+      "es": "Salomón",
+      "en": "Solomon",
+      "pt": "Salomão"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El título superscrito, 'Cantar de los cantares, el cual es de Salomón' (Cnt 1:1), atribuye la obra a Salomón, coherente con su fama de compositor prolífico ('compuso mil cinco cantares', 1R 4:32) y con las referencias internas a su nombre, su cortejo y su viñedo en Baal-hamón (Cnt 3:7-11; 8:11-12). Parte de la erudición crítica moderna, señalando el arameísmo 'pardés' (Cnt 4:13, cf. Ec 2:5) y el probable préstamo persa 'appiryón' (Cnt 3:9), propone una composición o redacción posterior, incluso postexílica. La tradición reformada, siguiendo el testimonio del título hebreo y el consenso judío y cristiano histórico, sostiene la autoría salomónica, entendiendo dichos rasgos lingüísticos como compatibles con los amplios contactos comerciales internacionales del reinado de Salomón, y reconoce la tensión entre la exclusividad monógama celebrada en el poema y la posterior poligamia del propio Salomón (1R 11:1-3) como parte de la ironía canónica que exalta el ideal creacional del matrimonio por encima de la conducta imperfecta de su autor.",
+      "en": "The superscription, 'The Song of Songs, which is Solomon's' (Song 1:1), attributes the work to Solomon, consistent with his renown as a prolific composer ('he composed 1,005 songs,' 1Kgs 4:32) and with internal references to his name, his royal litter, and his vineyard at Baal-hamon (Song 3:7-11; 8:11-12). A portion of modern critical scholarship, pointing to the Aramaism 'pardes' (Song 4:13, cf. Eccl 2:5) and the probable Persian loanword 'appiryon' (Song 3:9), proposes a later composition or redaction, even postexilic. The Reformed tradition, following the testimony of the Hebrew title and the historic Jewish and Christian consensus, holds to Solomonic authorship, understanding such linguistic features as compatible with the broad international trade contacts of Solomon's reign, and recognizes the tension between the monogamous exclusivity celebrated in the poem and Solomon's own later polygamy (1Kgs 11:1-3) as part of the canonical irony that exalts the creational ideal of marriage above the imperfect conduct of its author.",
+      "pt": "O título sobrescrito, 'O Cântico dos Cânticos, que é de Salomão' (Ct 1:1), atribui a obra a Salomão, coerente com sua fama de compositor prolífico ('compôs mil e cinco cânticos', 1Rs 4:32) e com as referências internas ao seu nome, sua liteira real e sua vinha em Baal-Hamom (Ct 3:7-11; 8:11-12). Parte da erudição crítica moderna, apontando o aramaísmo 'pardes' (Ct 4:13, cf. Ec 2:5) e o provável empréstimo persa 'appiryon' (Ct 3:9), propõe uma composição ou redação posterior, até pós-exílica. A tradição reformada, seguindo o testemunho do título hebraico e o consenso histórico judaico e cristão, sustenta a autoria salomônica, entendendo tais traços linguísticos como compatíveis com os amplos contatos comerciais internacionais do reinado de Salomão, e reconhece a tensão entre a exclusividade monogâmica celebrada no poema e a posterior poligamia do próprio Salomão (1Rs 11:1-3) como parte da ironia canônica que exalta o ideal criacional do matrimônio acima da conduta imperfeita de seu autor."
+    }
+  },
+  "año": {
+    "desde": -970,
+    "hasta": -960,
+    "display": {
+      "es": "Fecha de escritura: c. 970-960 a.C. (primera parte del reinado de Salomón)",
+      "en": "Date of writing: c. 970-960 BC (early part of Solomon's reign)",
+      "pt": "Data de escrita: c. 970-960 a.C. (primeira parte do reinado de Salomão)"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Jerusalén, en la corte real de Salomón, durante el apogeo del reino unido de Israel",
+    "en": "Jerusalem, in Solomon's royal court, during the height of the united kingdom of Israel",
+    "pt": "Jerusalém, na corte real de Salomão, durante o apogeu do reino unido de Israel"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron Age II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Ciudad Vieja de Jerusalén",
+          "en": "Old City of Jerusalem",
+          "pt": "Cidade Velha de Jerusalém"
+        },
+        "significancia": {
+          "es": "Capital del reino de Salomón y trasfondo constante del poema; las hijas de Jerusalén forman el coro que dialoga con la amada (Cnt 1:5; 2:7; 3:5,10-11; 5:8,16; 8:4), y la belleza de la amada se compara con la ciudad misma (Cnt 6:4).",
+          "en": "Capital of Solomon's kingdom and the constant backdrop of the poem; the daughters of Jerusalem form the chorus that converses with the beloved (Song 1:5; 2:7; 3:5,10-11; 5:8,16; 8:4), and the beloved's beauty is compared to the city itself (Song 6:4).",
+          "pt": "Capital do reino de Salomão e pano de fundo constante do poema; as filhas de Jerusalém formam o coro que dialoga com a amada (Ct 1:5; 2:7; 3:5,10-11; 5:8,16; 8:4), e a beleza da amada é comparada à própria cidade (Ct 6:4)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "En-gadi",
+          "en": "En Gedi",
+          "pt": "En-Gedi"
+        },
+        "identificacionModerna": {
+          "es": "Oasis de Ein Gedi, costa occidental del Mar Muerto",
+          "en": "Ein Gedi oasis, western shore of the Dead Sea",
+          "pt": "Oásis de En-Gedi, costa ocidental do Mar Morto"
+        },
+        "significancia": {
+          "es": "Oasis famoso por sus viñedos y su bálsamo aromático; el amado es comparado a 'un ramillete de flores de alheña en las viñas de En-gadi' (Cnt 1:14), evocando fragancia y exuberancia en medio del desierto de Judea.",
+          "en": "An oasis famous for its vineyards and aromatic balsam; the beloved is compared to 'a cluster of henna blossoms in the vineyards of Engedi' (Song 1:14), evoking fragrance and lushness amid the Judean desert.",
+          "pt": "Oásis famoso por suas vinhas e seu bálsamo aromático; o amado é comparado a 'um ramalhete de hena nas vinhas de En-Gedi' (Ct 1:14), evocando fragrância e exuberância em meio ao deserto da Judeia."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Líbano",
+          "en": "Lebanon",
+          "pt": "Líbano"
+        },
+        "identificacionModerna": {
+          "es": "Cordillera del Líbano, actual Líbano",
+          "en": "Mount Lebanon range, modern Lebanon",
+          "pt": "Cordilheira do Líbano, atual Líbano"
+        },
+        "significancia": {
+          "es": "Fuente del cedro usado en la construcción del templo y el palacio de Salomón (1R 5:6-10); en el Cantar simboliza majestad y fragancia — la esposa es invitada a bajar 'desde el Líbano' (Cnt 4:8) y su aroma se compara al de esa región (Cnt 4:11).",
+          "en": "Source of the cedar used in building Solomon's temple and palace (1Kgs 5:6-10); in the Song it symbolizes majesty and fragrance — the bride is invited to come down 'from Lebanon' (Song 4:8), and her scent is compared to that region's (Song 4:11).",
+          "pt": "Fonte do cedro usado na construção do templo e do palácio de Salomão (1Rs 5:6-10); no Cântico simboliza majestade e fragrância — a esposa é convidada a descer 'do Líbano' (Ct 4:8), e seu aroma é comparado ao dessa região (Ct 4:11)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Tirsa",
+          "en": "Tirzah",
+          "pt": "Tirza"
+        },
+        "identificacionModerna": {
+          "es": "Tell el-Far'ah (Norte), a unos 11 km al noreste de Siquem",
+          "en": "Tell el-Far'ah (North), about 7 miles northeast of Shechem",
+          "pt": "Tell el-Far'ah (Norte), cerca de 11 km a nordeste de Siquém"
+        },
+        "significancia": {
+          "es": "Ciudad cananea próspera que sería capital temporal del reino del norte antes de Samaria (1R 15:33; 16:23-24); Salomón compara la belleza de la amada a Tirsa junto con Jerusalén (Cnt 6:4), un dato que ancla el poema en el período anterior a la división del reino (931 a.C.).",
+          "en": "A prosperous Canaanite city that would later serve as a temporary capital of the northern kingdom before Samaria (1Kgs 15:33; 16:23-24); Solomon compares the beloved's beauty to Tirzah alongside Jerusalem (Song 6:4), a detail that anchors the poem to the period before the kingdom's division (931 BC).",
+          "pt": "Cidade cananeia próspera que seria capital temporária do reino do norte antes de Samaria (1Rs 15:33; 16:23-24); Salomão compara a beleza da amada a Tirza junto com Jerusalém (Ct 6:4), um detalhe que ancora o poema no período anterior à divisão do reino (931 a.C.)."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Israel (Reino Unido)",
+          "en": "Israel (United Kingdom)",
+          "pt": "Israel (Reino Unido)"
+        },
+        "rolEnElTexto": {
+          "es": "El pueblo y la corte de Salomón proveen el escenario social del poema: pastores, viñadores, guardias de la muralla y las hijas de Jerusalén (Cnt 1:5-8; 3:3; 5:7).",
+          "en": "Solomon's people and court provide the social setting of the poem: shepherds, vinedressers, wall watchmen, and the daughters of Jerusalem (Song 1:5-8; 3:3; 5:7).",
+          "pt": "O povo e a corte de Salomão fornecem o cenário social do poema: pastores, vinhateiros, guardas do muro e as filhas de Jerusalém (Ct 1:5-8; 3:3; 5:7)."
+        },
+        "estadoArqueologico": {
+          "es": "Las fortificaciones con puertas de seis cámaras en Gezer, Meguido y Hazor (1R 9:15) y evidencia de administración centralizada apoyan un reino unido próspero bajo Salomón en el siglo X a.C., aunque el alcance exacto de su reino sigue debatido entre arqueólogos.",
+          "en": "The six-chambered gate fortifications at Gezer, Megiddo, and Hazor (1Kgs 9:15) and evidence of centralized administration support a prosperous united kingdom under Solomon in the 10th century BC, though the exact extent of his realm remains debated among archaeologists.",
+          "pt": "As fortificações com portões de seis câmaras em Gezer, Megido e Hazor (1Rs 9:15) e evidências de administração centralizada apoiam um reino unido próspero sob Salomão no século X a.C., embora a extensão exata de seu reino permaneça debatida entre arqueólogos."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Fenicia",
+          "en": "Phoenicia",
+          "pt": "Fenícia"
+        },
+        "rolEnElTexto": {
+          "es": "El cedro y ciprés del Líbano fenicio impregnan el imaginario del poema (Cnt 1:17; 3:9; 4:11) y reflejan la alianza comercial de Salomón con Hiram de Tiro (1R 5:1-12).",
+          "en": "The cedar and cypress of Phoenician Lebanon saturate the poem's imagery (Song 1:17; 3:9; 4:11), reflecting Solomon's trade alliance with Hiram of Tyre (1Kgs 5:1-12).",
+          "pt": "O cedro e o cipreste do Líbano fenício permeiam o imaginário do poema (Ct 1:17; 3:9; 4:11) e refletem a aliança comercial de Salomão com Hirão de Tiro (1Rs 5:1-12)."
+        },
+        "estadoArqueologico": {
+          "es": "Marfiles fenicios y cerámica de importación hallados en estratos del siglo X en sitios israelitas confirman el intenso intercambio comercial y artístico entre Israel y las ciudades-estado fenicias durante el reinado de Salomón.",
+          "en": "Phoenician ivories and imported pottery found in 10th-century strata at Israelite sites confirm the intense commercial and artistic exchange between Israel and the Phoenician city-states during Solomon's reign.",
+          "pt": "Marfins fenícios e cerâmica importada encontrados em estratos do século X em sítios israelitas confirmam o intenso intercâmbio comercial e artístico entre Israel e as cidades-estado fenícias durante o reinado de Salomão."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Egipto",
+          "en": "Egypt",
+          "pt": "Egito"
+        },
+        "rolEnElTexto": {
+          "es": "La amada es comparada a 'yegua de los carros de Faraón' (Cnt 1:9), una imagen de lujo cortesano que refleja la importación de caballos y carros egipcios documentada en el reinado de Salomón (1R 10:28-29).",
+          "en": "The beloved is compared to 'a mare among Pharaoh's chariots' (Song 1:9), a courtly image of luxury that reflects the importation of Egyptian horses and chariots documented in Solomon's reign (1Kgs 10:28-29).",
+          "pt": "A amada é comparada a 'uma égua dos carros de Faraó' (Ct 1:9), uma imagem de luxo cortesão que reflete a importação de cavalos e carros egípcios documentada no reinado de Salomão (1Rs 10:28-29)."
+        },
+        "estadoArqueologico": {
+          "es": "Registros egipcios y hallazgos de arreos y équidos en sitios levantinos del Hierro II corroboran el comercio de caballos entre Egipto, Cilicia y Israel descrito en 1 Reyes, aunque no existe una inscripción egipcia que mencione a Salomón por nombre.",
+          "en": "Egyptian records and finds of harness fittings and equid remains at Levantine Iron Age II sites corroborate the horse trade between Egypt, Cilicia, and Israel described in 1 Kings, though no Egyptian inscription mentions Solomon by name.",
+          "pt": "Registros egípcios e achados de arreios e equídeos em sítios levantinos do Ferro II corroboram o comércio de cavalos entre Egito, Cilícia e Israel descrito em 1 Reis, embora não exista inscrição egípcia que mencione Salomão pelo nome."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "La arqueología del siglo X a.C. confirma un contexto plausible para un reino próspero bajo Salomón: puertas monumentales en Gezer, Meguido y Hazor, evidencia de comercio internacional (marfiles fenicios, importaciones egipcias) y una economía agrícola centrada en viñedos y huertos como los que llenan el imaginario del Cantar (viñas de En-gadi, huertos de granados, nardo y azafrán, Cnt 4:13-14). La cuestión más debatida es la escala real de la 'Jerusalén de Salomón': los minimalistas arqueológicos cuestionan que la Jerusalén del siglo X tuviera el tamaño monumental que el texto bíblico sugiere, mientras que hallazgos recientes en la Ciudad de David (muro de piedra a gran escala, estructuras administrativas) han reforzado el caso de una capital de mayor envergadura de lo que antes se pensaba. Ningún hallazgo arqueológico contradice ni exige el Cantar mismo, dado que es poesía lírica y no un registro de eventos verificables externamente.",
+      "en": "Tenth-century BC archaeology confirms a plausible setting for a prosperous kingdom under Solomon: monumental gates at Gezer, Megiddo, and Hazor, evidence of international trade (Phoenician ivories, Egyptian imports), and an agricultural economy centered on vineyards and orchards like those that fill the Song's imagery (vineyards of Engedi, orchards of pomegranates, nard, and saffron, Song 4:13-14). The most debated issue is the actual scale of 'Solomon's Jerusalem': archaeological minimalists question whether tenth-century Jerusalem had the monumental size the biblical text suggests, while recent finds in the City of David (a large-scale stone structure, administrative buildings) have strengthened the case for a capital larger than previously assumed. No archaeological find contradicts or is required by the Song itself, since it is lyric poetry rather than a record of externally verifiable events.",
+      "pt": "A arqueologia do século X a.C. confirma um contexto plausível para um reino próspero sob Salomão: portões monumentais em Gezer, Megido e Hazor, evidências de comércio internacional (marfins fenícios, importações egípcias) e uma economia agrícola centrada em vinhas e pomares como os que preenchem o imaginário do Cântico (vinhas de En-Gedi, pomares de romãs, nardo e açafrão, Ct 4:13-14). A questão mais debatida é a escala real da 'Jerusalém de Salomão': os minimalistas arqueológicos questionam se a Jerusalém do século X tinha o tamanho monumental que o texto bíblico sugere, enquanto achados recentes na Cidade de Davi (muro de pedra em grande escala, estruturas administrativas) reforçaram o argumento de uma capital maior do que antes se pensava. Nenhum achado arqueológico contradiz nem é exigido pelo próprio Cântico, visto que é poesia lírica e não um registro de eventos verificáveis externamente."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Cantos de amor egipcios (Papiro Chester Beatty I)",
+          "en": "Egyptian love songs (Chester Beatty Papyrus I)",
+          "pt": "Cantos de amor egípcios (Papiro Chester Beatty I)"
+        },
+        "origen": {
+          "es": "Egipto, dinastía XX, c. 1200 a.C., colección de poemas de amor del antiguo Egipto",
+          "en": "Egypt, 20th Dynasty, c. 1200 BC, a collection of ancient Egyptian love poems",
+          "pt": "Egito, XX dinastia, c. 1200 a.C., coleção de poemas de amor do antigo Egito"
+        },
+        "relevancia": {
+          "es": "Comparten con el Cantar el recurso de llamar 'hermana' o 'hermano' al amado, el uso de imágenes de jardines y animales, y los monólogos alternados entre voces masculina y femenina, mostrando que Israel participaba de un género literario amplio del Cercano Oriente sin depender de una fuente pagana específica.",
+          "en": "They share with the Song the device of calling the beloved 'sister' or 'brother,' the use of garden and animal imagery, and alternating male/female monologues, showing that Israel participated in a broad ancient Near Eastern literary genre without depending on any specific pagan source.",
+          "pt": "Compartilham com o Cântico o recurso de chamar o amado de 'irmã' ou 'irmão', o uso de imagens de jardins e animais, e monólogos alternados entre vozes masculina e feminina, mostrando que Israel participava de um gênero literário amplo do Antigo Oriente Próximo sem depender de uma fonte pagã específica."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Textos del 'matrimonio sagrado' de Dumuzi e Inanna",
+          "en": "Dumuzi-Inanna 'sacred marriage' texts",
+          "pt": "Textos do 'casamento sagrado' de Dumuzi e Inana"
+        },
+        "origen": {
+          "es": "Sumeria, período paleobabilónico, himnos rituales del culto a Inanna",
+          "en": "Sumer, Old Babylonian period, ritual hymns from the cult of Inanna",
+          "pt": "Suméria, período paleobabilônico, hinos rituais do culto a Inana"
+        },
+        "relevancia": {
+          "es": "Ofrecen el paralelo más cercano de poesía erótica ritualizada del Cercano Oriente antiguo; a diferencia de estos himnos, que celebran la unión ritual de una diosa con un rey divinizado para asegurar la fertilidad de la tierra, el Cantar carece por completo de lenguaje cúltico o divino — celebra el amor humano ordinario dentro del pacto matrimonial creacional, subvirtiendo la lógica del 'matrimonio sagrado' en vez de derivarse de ella.",
+          "en": "They offer the closest ancient Near Eastern parallel to ritualized erotic poetry; unlike these hymns, which celebrate the ritual union of a goddess with a deified king to secure the land's fertility, the Song entirely lacks cultic or divine language — it celebrates ordinary human love within the creational marriage covenant, subverting the logic of the 'sacred marriage' rather than deriving from it.",
+          "pt": "Oferecem o paralelo mais próximo de poesia erótica ritualizada do antigo Oriente Próximo; diferentemente desses hinos, que celebram a união ritual de uma deusa com um rei divinizado para assegurar a fertilidade da terra, o Cântico carece completamente de linguagem cúltica ou divina — celebra o amor humano comum dentro do pacto matrimonial criacional, subvertendo a lógica do 'casamento sagrado' em vez de derivar dela."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Dos debates dominan la discusión histórica del libro. Primero, la autoría y fecha: los arameísmos y el probable préstamo persa 'appiryón' (Cnt 3:9) llevan a algunos eruditos a datar el libro en el período persa o helenístico, mientras que los conservadores sostienen la autoría salomónica del siglo X a.C., explicando dichos rasgos por los extensos contactos comerciales internacionales de Salomón. Segundo, la aparente tensión entre el ideal de amor exclusivo y monógamo celebrado en el poema y la conocida poligamia de Salomón (700 esposas y 300 concubinas, 1R 11:3): algunos críticos ven esto como evidencia contra la autoría salomónica; la tradición reformada responde que el canon presenta deliberadamente esta ironía — el mismo rey cuya sabiduría produjo el ideal matrimonial más elevado de las Escrituras fue quien, por desobediencia, lo traicionó más tarde (1R 11:1-8), sirviendo como advertencia y no como aprobación.",
+      "en": "Two debates dominate the book's historical discussion. First, authorship and date: the Aramaisms and the probable Persian loanword 'appiryon' (Song 3:9) lead some scholars to date the book to the Persian or Hellenistic period, while conservatives hold to tenth-century Solomonic authorship, explaining such features by Solomon's extensive international trade contacts. Second, the apparent tension between the exclusive, monogamous ideal of love celebrated in the poem and Solomon's well-known polygamy (700 wives and 300 concubines, 1Kgs 11:3): some critics see this as evidence against Solomonic authorship; the Reformed tradition responds that the canon deliberately presents this irony — the very king whose wisdom produced Scripture's highest marital ideal was the one who, through disobedience, later betrayed it (1Kgs 11:1-8), serving as a warning rather than an endorsement.",
+      "pt": "Dois debates dominam a discussão histórica do livro. Primeiro, autoria e data: os aramaísmos e o provável empréstimo persa 'appiryon' (Ct 3:9) levam alguns eruditos a datar o livro no período persa ou helenístico, enquanto os conservadores sustentam a autoria salomônica do século X a.C., explicando tais traços pelos extensos contatos comerciais internacionais de Salomão. Segundo, a aparente tensão entre o ideal de amor exclusivo e monogâmico celebrado no poema e a conhecida poligamia de Salomão (700 esposas e 300 concubinas, 1Rs 11:3): alguns críticos veem isso como evidência contra a autoria salomônica; a tradição reformada responde que o cânon apresenta deliberadamente essa ironia — o mesmo rei cuja sabedoria produziu o ideal matrimonial mais elevado das Escrituras foi quem, por desobediência, o traiu mais tarde (1Rs 11:1-8), servindo como advertência e não como aprovação."
+    },
+    "cronologiaInterna": {
+      "es": "El poema no ofrece marcadores cronológicos externos, sino una secuencia dramática interna: cortejo y anhelo mutuo (Cnt 1:1-3:5), el día de la boda con el cortejo real desde el desierto (Cnt 3:6-11), la consumación matrimonial (Cnt 4:1-5:1), una pérdida y búsqueda nocturna del amado (Cnt 5:2-6:3), y una relación madura y públicamente reconocida que se extiende en visitas al campo y las viñas (Cnt 6:4-8:14). La mención conjunta de Tirsa y Jerusalén como referentes de belleza (Cnt 6:4) sitúa la acción antes de 931 a.C., cuando el reino se dividió y Tirsa quedó fuera del control de la casa de David.",
+      "en": "The poem offers no external chronological markers but an internal dramatic sequence: courtship and mutual longing (Song 1:1-3:5), the wedding day with the royal procession from the wilderness (Song 3:6-11), marital consummation (Song 4:1-5:1), a nighttime loss and search for the beloved (Song 5:2-6:3), and a mature, publicly acknowledged relationship extending into visits to the countryside and vineyards (Song 6:4-8:14). The joint mention of Tirzah and Jerusalem as beauty referents (Song 6:4) places the action before 931 BC, when the kingdom divided and Tirzah fell outside the house of David's control.",
+      "pt": "O poema não oferece marcadores cronológicos externos, mas uma sequência dramática interna: namoro e anseio mútuo (Ct 1:1-3:5), o dia do casamento com o cortejo real vindo do deserto (Ct 3:6-11), a consumação matrimonial (Ct 4:1-5:1), uma perda e busca noturna do amado (Ct 5:2-6:3), e um relacionamento maduro e publicamente reconhecido que se estende em visitas ao campo e às vinhas (Ct 6:4-8:14). A menção conjunta de Tirza e Jerusalém como referências de beleza (Ct 6:4) situa a ação antes de 931 a.C., quando o reino se dividiu e Tirza ficou fora do controle da casa de Davi."
+    }
+  },
+  "ordenEnDivision": 5,
+  "ordenCanon": 22,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Davídico",
+    "enfoqueCristologico": {
+      "es": "El Cantar celebra el amor conyugal humano dentro del orden de la creación (Gn 2:24), pero su lugar en el canon davídico y su recepción histórica lo dotan de una resonancia cristológica: el Nuevo Testamento retoma la imagen del esposo y la esposa para describir la relación de Cristo con su iglesia (Ef 5:25-32; Ap 19:7-9; 21:2,9). Salomón, el rey-esposo cuyo amor es 'mejor que el vino' y cuyo nombre significa 'paz' (shalom), prefigura de manera imperfecta al 'mayor que Salomón' (Mt 12:42) — el verdadero Novio que ama a su esposa hasta la muerte (Ef 5:25) y cuyo amor, a diferencia del de Salomón, nunca falla ni se divide (cf. 1R 11:1-8).",
+      "en": "The Song celebrates human marital love within the created order (Gen 2:24), but its place within the Davidic canon and its historic reception give it Christological resonance: the New Testament takes up the bridegroom-and-bride image to describe Christ's relationship to his church (Eph 5:25-32; Rev 19:7-9; 21:2,9). Solomon, the king-bridegroom whose love is 'better than wine' and whose name means 'peace' (shalom), imperfectly prefigures the 'one greater than Solomon' (Matt 12:42) — the true Bridegroom who loves his bride even to death (Eph 5:25) and whose love, unlike Solomon's, never fails or divides (cf. 1Kgs 11:1-8).",
+      "pt": "O Cântico celebra o amor conjugal humano dentro da ordem da criação (Gn 2:24), mas seu lugar no cânon davídico e sua recepção histórica lhe conferem ressonância cristológica: o Novo Testamento retoma a imagem do esposo e da esposa para descrever a relação de Cristo com sua igreja (Ef 5:25-32; Ap 19:7-9; 21:2,9). Salomão, o rei-esposo cujo amor é 'melhor que o vinho' e cujo nome significa 'paz' (shalom), prefigura de modo imperfeito o 'maior que Salomão' (Mt 12:42) — o verdadeiro Noivo que ama a sua esposa até a morte (Ef 5:25) e cujo amor, ao contrário do de Salomão, nunca falha nem se divide (cf. 1Rs 11:1-8)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Salomón, el rey-esposo cuyo amor por su esposa es exaltado por todo el poema, funciona como tipo imperfecto de Cristo, el 'mayor que Salomón' (Mt 12:42) y el Novio celestial cuyo amor por su iglesia no admite rival (Ef 5:25-27; Ap 19:7-9).",
+        "en": "Solomon, the king-bridegroom whose love for his wife is exalted throughout the poem, functions as an imperfect type of Christ, the 'one greater than Solomon' (Matt 12:42) and the heavenly Bridegroom whose love for his church admits no rival (Eph 5:25-27; Rev 19:7-9).",
+        "pt": "Salomão, o rei-esposo cujo amor por sua esposa é exaltado em todo o poema, funciona como tipo imperfeito de Cristo, o 'maior que Salomão' (Mt 12:42) e o Noivo celestial cujo amor por sua igreja não admite rival (Ef 5:25-27; Ap 19:7-9)."
+      },
+      {
+        "es": "La Sulamita, la amada buscada, hallada y públicamente reconocida como esposa, prefigura a la iglesia como la esposa del Cordero, buscada por gracia, purificada y presentada sin mancha (Ef 5:26-27; Ap 21:2,9).",
+        "en": "The Shulammite, the beloved who is sought, found, and publicly acknowledged as bride, prefigures the church as the Lamb's bride, sought by grace, purified, and presented without blemish (Eph 5:26-27; Rev 21:2,9).",
+        "pt": "A Sulamita, a amada que é buscada, achada e publicamente reconhecida como esposa, prefigura a igreja como a esposa do Cordeiro, buscada pela graça, purificada e apresentada sem mácula (Ef 5:26-27; Ap 21:2,9)."
+      },
+      {
+        "es": "El sello puesto 'sobre el corazón' y 'sobre el brazo' (Cnt 8:6) anticipa el lenguaje de pertenencia irrevocable y amor inquebrantable que el Nuevo Testamento aplica al sellado del creyente por el Espíritu Santo (Ef 1:13-14; 4:30).",
+        "en": "The seal placed 'upon the heart' and 'upon the arm' (Song 8:6) anticipates the language of irrevocable belonging and unbreakable love that the New Testament applies to the believer's sealing by the Holy Spirit (Eph 1:13-14; 4:30).",
+        "pt": "O selo posto 'sobre o coração' e 'sobre o braço' (Ct 8:6) antecipa a linguagem de pertencimento irrevogável e amor inquebrantável que o Novo Testamento aplica ao selamento do crente pelo Espírito Santo (Ef 1:13-14; 4:30)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Solo el Cantar canoniza la poesía lírica erótica dentro de la Sabiduría de Israel, ofreciendo la teología positiva más extensa de las Escrituras sobre el amor conyugal, el deseo y el cuerpo como bienes creacionales (Gn 2:24-25) y no como realidades vergonzosas que deban silenciarse. Sin mencionar el nombre de Dios ni una sola vez en su texto hebreo, el libro completa el canon sapiencial (Job, Salmos, Proverbios, Eclesiastés) mostrando que la sabiduría divina también gobierna la esfera más íntima de la vida humana, y provee así la base textual para toda la tipología bíblica posterior del matrimonio entre Cristo y su iglesia.",
+    "en": "Only the Song canonizes erotic lyric poetry within Israel's Wisdom corpus, offering Scripture's most extensive positive theology of marital love, desire, and the body as creational goods (Gen 2:24-25) rather than shameful realities to be silenced. Without mentioning God's name even once in its Hebrew text, the book completes the wisdom canon (Job, Psalms, Proverbs, Ecclesiastes) by showing that divine wisdom also governs the most intimate sphere of human life, and thereby provides the textual foundation for all later biblical typology of the marriage between Christ and his church.",
+    "pt": "Somente o Cântico canoniza a poesia lírica erótica dentro da Sabedoria de Israel, oferecendo a teologia positiva mais extensa das Escrituras sobre o amor conjugal, o desejo e o corpo como bens criacionais (Gn 2:24-25), e não como realidades vergonhosas a serem silenciadas. Sem mencionar o nome de Deus sequer uma vez em seu texto hebraico, o livro completa o cânon sapiencial (Jó, Salmos, Provérbios, Eclesiastes) ao mostrar que a sabedoria divina também governa a esfera mais íntima da vida humana, e assim fornece a base textual para toda a tipologia bíblica posterior do casamento entre Cristo e sua igreja."
+  },
+  "genero": {
+    "es": "Poesía lírica de amor / Literatura sapiencial",
+    "en": "Lyric love poetry / Wisdom literature",
+    "pt": "Poesia lírica de amor / Literatura sapiencial"
+  },
+  "palabraClave": {
+    "es": [
+      "Amor conyugal",
+      "Esposo",
+      "Esposa",
+      "Deseo",
+      "Fidelidad"
+    ],
+    "en": [
+      "Marital love",
+      "Bridegroom",
+      "Bride",
+      "Desire",
+      "Faithfulness"
+    ],
+    "pt": [
+      "Amor conjugal",
+      "Esposo",
+      "Esposa",
+      "Desejo",
+      "Fidelidade"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo del pacto en Israel, en particular los cónyuges y quienes se preparan para el matrimonio, reflexionando sobre la bondad del amor conyugal y del deseo sexual dentro del orden creacional (Gn 2:24) y del pacto matrimonial que Dios instituyó.",
+    "en": "The covenant people of Israel, particularly spouses and those preparing for marriage, reflecting on the goodness of marital love and sexual desire within the created order (Gen 2:24) and the marriage covenant God instituted.",
+    "pt": "O povo do pacto em Israel, em particular os cônjuges e os que se preparam para o casamento, refletindo sobre a bondade do amor conjugal e do desejo sexual dentro da ordem criacional (Gn 2:24) e do pacto matrimonial que Deus instituiu."
+  },
+  "proposito": {
+    "es": "Históricamente, el libro fue compuesto para celebrar en forma de canto lírico el amor y el matrimonio de Salomón, empleando las convenciones poéticas del amor cortesano del antiguo Cercano Oriente adaptadas a la fe de Israel. Teológicamente, su propósito es afirmar, dentro del canon inspirado, que el amor conyugal exclusivo, el deseo sexual mutuo y el gozo del cuerpo son dones buenos de Dios en la creación (Gn 1:31; 2:24-25), corrigiendo tanto el ascetismo que denigra el cuerpo como la lujuria que separa el deseo del pacto, y anticipando así la unión consumada entre Cristo y su iglesia.",
+    "en": "Historically, the book was composed to celebrate in lyric song form the love and marriage of Solomon, employing the poetic conventions of ancient Near Eastern courtly love adapted to Israel's faith. Theologically, its purpose is to affirm, within the inspired canon, that exclusive marital love, mutual sexual desire, and bodily joy are good gifts of God in creation (Gen 1:31; 2:24-25), correcting both the asceticism that denigrates the body and the lust that severs desire from covenant, and thereby anticipating the consummated union between Christ and his church.",
+    "pt": "Historicamente, o livro foi composto para celebrar em forma de canto lírico o amor e o casamento de Salomão, empregando as convenções poéticas do amor cortês do antigo Oriente Próximo adaptadas à fé de Israel. Teologicamente, seu propósito é afirmar, dentro do cânon inspirado, que o amor conjugal exclusivo, o desejo sexual mútuo e a alegria do corpo são dons bons de Deus na criação (Gn 1:31; 2:24-25), corrigindo tanto o ascetismo que denigre o corpo quanto a luxúria que separa o desejo do pacto, e assim antecipando a união consumada entre Cristo e sua igreja."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Salomón (el Amado)",
+        "en": "Solomon (the Beloved)",
+        "pt": "Salomão (o Amado)"
+      },
+      "hebreo": "שְׁלֹמֹה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "descripcion": {
+        "es": "El rey-esposo, identificado como Salomón (Cnt 1:1,4-5; 3:7,9,11; 8:11-12), que corteja, alaba y finalmente desposa a la Sulamita. Es descrito como pastor-rey, comparando su amor y su presencia con imágenes pastoriles y regias a la vez.",
+        "en": "The king-bridegroom, identified as Solomon (Song 1:1,4-5; 3:7,9,11; 8:11-12), who courts, praises, and finally marries the Shulammite. He is depicted as both shepherd and king, his love and presence pictured in both pastoral and royal imagery.",
+        "pt": "O rei-esposo, identificado como Salomão (Ct 1:1,4-5; 3:7,9,11; 8:11-12), que corteja, louva e finalmente desposa a Sulamita. É descrito como pastor-rei, comparando seu amor e sua presença com imagens tanto pastoris quanto régias."
+      },
+      "acciones": {
+        "es": "Alaba repetidamente la belleza de la amada de pies a cabeza (Cnt 4:1-7; 6:4-7; 7:1-9), la lleva en cortejo nupcial desde el desierto sobre su litera real (Cnt 3:6-11), la invita a las montañas y los campos (Cnt 2:10-13; 7:11-13), y responde a su pérdida y búsqueda reafirmando su pertenencia mutua (Cnt 6:2-3).",
+        "en": "He repeatedly praises the beloved's beauty from head to toe (Song 4:1-7; 6:4-7; 7:1-9), brings her in bridal procession from the wilderness on his royal litter (Song 3:6-11), invites her to the mountains and fields (Song 2:10-13; 7:11-13), and responds to her loss and search by reaffirming their mutual belonging (Song 6:2-3).",
+        "pt": "Louva repetidamente a beleza da amada da cabeça aos pés (Ct 4:1-7; 6:4-7; 7:1-9), leva-a em cortejo nupcial desde o deserto sobre sua liteira real (Ct 3:6-11), convida-a às montanhas e aos campos (Ct 2:10-13; 7:11-13), e responde à sua perda e busca reafirmando o pertencimento mútuo (Ct 6:2-3)."
+      },
+      "significadoTeologico": {
+        "es": "Como rey davídico cuyo amor conyugal es celebrado como el ideal más elevado de las Escrituras, Salomón encarna —de manera imperfecta y temporal— la figura del esposo cuyo amor busca, alaba y se compromete exclusivamente con su amada, anticipando al Esposo celestial.",
+        "en": "As the Davidic king whose marital love is celebrated as Scripture's highest ideal, Solomon embodies — imperfectly and temporarily — the figure of the bridegroom whose love seeks, praises, and exclusively commits to his beloved, anticipating the heavenly Bridegroom.",
+        "pt": "Como rei davídico cujo amor conjugal é celebrado como o ideal mais elevado das Escrituras, Salomão encarna — de modo imperfeito e temporário — a figura do esposo cujo amor busca, louva e se compromete exclusivamente com sua amada, antecipando o Esposo celestial."
+      },
+      "tipo": {
+        "es": "Tipo imperfecto de Cristo como Novio de su iglesia (Ef 5:25-27); su posterior caída en la poligamia (1R 11:1-8) recuerda que solo el 'mayor que Salomón' (Mt 12:42) ama a su esposa sin falla ni rival.",
+        "en": "An imperfect type of Christ as Bridegroom of his church (Eph 5:25-27); his later fall into polygamy (1Kgs 11:1-8) is a reminder that only the 'one greater than Solomon' (Matt 12:42) loves his bride without failure or rival.",
+        "pt": "Tipo imperfeito de Cristo como Noivo de sua igreja (Ef 5:25-27); sua posterior queda na poligamia (1Rs 11:1-8) lembra que somente o 'maior que Salomão' (Mt 12:42) ama a sua esposa sem falha ou rival."
+      },
+      "caracterMoral": {
+        "es": "Dentro del poema es presentado con integridad como amante devoto, generoso y exclusivo; el canon, sin embargo, invita a leer esta devoción a la luz de la trágica infidelidad espiritual y matrimonial que el mismo Salomón mostraría más adelante (1R 11:1-8), sin que ello reste valor al ideal que el Cantar mismo celebra.",
+        "en": "Within the poem he is presented with integrity as a devoted, generous, and exclusive lover; the canon, however, invites the reader to view this devotion in light of the tragic spiritual and marital unfaithfulness Solomon himself would later display (1Kgs 11:1-8), without this diminishing the value of the ideal the Song itself celebrates.",
+        "pt": "Dentro do poema é apresentado com integridade como amante devotado, generoso e exclusivo; o cânon, no entanto, convida a ler essa devoção à luz da trágica infidelidade espiritual e matrimonial que o próprio Salomão mostraria mais adiante (1Rs 11:1-8), sem que isso diminua o valor do ideal que o próprio Cântico celebra."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Hijo de David y Betsabé (2S 12:24), rey de Israel dotado de sabiduría incomparable (1R 3:12) y autor de mil cinco cantares (1R 4:32), de los cuales el Cantar es 'el más excelso' (Cnt 1:1). En el poema corteja y desposa a la Sulamita, la lleva en procesión nupcial desde el desierto (Cnt 3:6-11) y la alaba en tres extensos poemas descriptivos de su belleza (Cnt 4:1-7; 6:4-7; 7:1-9).",
+          "en": "Son of David and Bathsheba (2Sam 12:24), king of Israel endowed with incomparable wisdom (1Kgs 3:12) and author of 1,005 songs (1Kgs 4:32), of which the Song is 'the most excellent' (Song 1:1). In the poem he courts and marries the Shulammite, brings her in bridal procession from the wilderness (Song 3:6-11), and praises her in three extensive descriptive poems of her beauty (Song 4:1-7; 6:4-7; 7:1-9).",
+          "pt": "Filho de Davi e Bate-Seba (2Sm 12:24), rei de Israel dotado de sabedoria incomparável (1Rs 3:12) e autor de mil e cinco cânticos (1Rs 4:32), dos quais o Cântico é 'o mais excelente' (Ct 1:1). No poema corteja e desposa a Sulamita, leva-a em procissão nupcial desde o deserto (Ct 3:6-11) e a louva em três extensos poemas descritivos de sua beleza (Ct 4:1-7; 6:4-7; 7:1-9)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Cnt 1:1",
+          "Cnt 3:7",
+          "Cnt 3:9",
+          "Cnt 3:11",
+          "Cnt 8:11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Salomón reinó c. 970-931 a.C. sobre el reino unido de Israel, consolidando el imperio comercial y de construcción iniciado por David. Registros bíblicos (1R 1-11) lo describen como constructor del templo, administrador de un vasto comercio internacional y esposo de cientos de mujeres extranjeras, lo cual complica —pero no anula— su identificación como el amado exclusivo del Cantar, si se entiende el poema como reflejo de un ideal literario y matrimonial temprano en su reinado.",
+          "en": "Solomon reigned c. 970-931 BC over the united kingdom of Israel, consolidating the commercial and building empire begun by David. Biblical records (1Kgs 1-11) describe him as temple builder, administrator of vast international trade, and husband of hundreds of foreign women, which complicates — but does not negate — his identification as the exclusive beloved of the Song, if the poem is understood to reflect an early literary and marital ideal in his reign.",
+          "pt": "Salomão reinou c. 970-931 a.C. sobre o reino unido de Israel, consolidando o império comercial e de construção iniciado por Davi. Registros bíblicos (1Rs 1-11) o descrevem como construtor do templo, administrador de um vasto comércio internacional e esposo de centenas de mulheres estrangeiras, o que complica — mas não anula — sua identificação como o amado exclusivo do Cântico, se o poema for entendido como reflexo de um ideal literário e matrimonial no início de seu reinado."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "contextoHistorico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El retrato bíblico de la riqueza, el comercio y la fama de Salomón (1R 4-10) concuerda con las imágenes de lujo, especias importadas y realeza que saturan el Cantar (Cnt 3:9-10; 4:13-14), aunque el ideal de amor exclusivo del poema contrasta con la poligamia registrada en 1R 11.",
+          "en": "The biblical portrait of Solomon's wealth, trade, and fame (1Kgs 4-10) matches the imagery of luxury, imported spices, and royalty that saturates the Song (Song 3:9-10; 4:13-14), though the poem's ideal of exclusive love contrasts with the polygamy recorded in 1Kgs 11.",
+          "pt": "O retrato bíblico da riqueza, do comércio e da fama de Salomão (1Rs 4-10) concorda com as imagens de luxo, especiarias importadas e realeza que saturam o Cântico (Ct 3:9-10; 4:13-14), embora o ideal de amor exclusivo do poema contraste com a poligamia registrada em 1Rs 11."
+        }
+      },
+      "versiculosAsociados": [
+        "Cnt 1:4",
+        "Cnt 3:6-11",
+        "Cnt 4:1-16",
+        "Cnt 6:2-3",
+        "Cnt 8:11-12"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "1R",
+        "2Cr",
+        "Pr",
+        "Ec"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Jesús se refiere a la gloria de Salomón (Mt 6:29; Lc 12:27) y se declara 'mayor que Salomón' (Mt 12:42), estableciendo un contraste implícito entre el rey-esposo terrenal del Cantar y el verdadero Novio celestial.",
+        "en": "Jesus refers to Solomon's glory (Matt 6:29; Luke 12:27) and declares himself 'greater than Solomon' (Matt 12:42), establishing an implicit contrast between the earthly king-bridegroom of the Song and the true heavenly Bridegroom.",
+        "pt": "Jesus se refere à glória de Salomão (Mt 6:29; Lc 12:27) e se declara 'maior que Salomão' (Mt 12:42), estabelecendo um contraste implícito entre o rei-esposo terreno do Cântico e o verdadeiro Noivo celestial."
+      }
+    },
+    {
+      "nombre": {
+        "es": "La Sulamita (la Amada)",
+        "en": "The Shulammite (the Beloved)",
+        "pt": "A Sulamita (a Amada)"
+      },
+      "hebreo": "הַשּׁוּלַמִּית",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "descripcion": {
+        "es": "La joven campesina llamada 'Sulamita' (Cnt 6:13), guardiana de viñas propias y ajenas (Cnt 1:6; 8:12), que ama y es amada por Salomón. Es la voz predominante del poema, hablando en primera persona más que ningún otro personaje.",
+        "en": "The young countrywoman called 'the Shulammite' (Song 6:13), keeper of vineyards both her own and others' (Song 1:6; 8:12), who loves and is loved by Solomon. She is the poem's predominant voice, speaking in the first person more than any other character.",
+        "pt": "A jovem camponesa chamada 'a Sulamita' (Ct 6:13), guardiã de vinhas próprias e alheias (Ct 1:6; 8:12), que ama e é amada por Salomão. É a voz predominante do poema, falando em primeira pessoa mais do que qualquer outro personagem."
+      },
+      "acciones": {
+        "es": "Anhela los besos de su amado (Cnt 1:2), se describe morena por el trabajo bajo el sol (Cnt 1:5-6), busca a su amado de noche por las calles de la ciudad (Cnt 3:1-4; 5:6-7), lo describe con detalle a las hijas de Jerusalén (Cnt 5:10-16), y finalmente declara que el amor es fuerte como la muerte (Cnt 8:6-7).",
+        "en": "She longs for her beloved's kisses (Song 1:2), describes herself as dark from laboring under the sun (Song 1:5-6), searches for her beloved by night through the city streets (Song 3:1-4; 5:6-7), describes him in detail to the daughters of Jerusalem (Song 5:10-16), and finally declares that love is strong as death (Song 8:6-7).",
+        "pt": "Anseia pelos beijos de seu amado (Ct 1:2), descreve-se morena por trabalhar sob o sol (Ct 1:5-6), busca seu amado à noite pelas ruas da cidade (Ct 3:1-4; 5:6-7), descreve-o em detalhe às filhas de Jerusalém (Ct 5:10-16), e finalmente declara que o amor é forte como a morte (Ct 8:6-7)."
+      },
+      "significadoTeologico": {
+        "es": "Como amada que es buscada, perdida, hallada de nuevo y públicamente reconocida como esposa, la Sulamita representa el arquetipo bíblico de la esposa fiel cuyo deseo es 'para su amado' (Cnt 7:10), imagen que la tradición reformada conecta con la iglesia como esposa de Cristo.",
+        "en": "As the beloved who is sought, lost, found again, and publicly acknowledged as bride, the Shulammite represents the biblical archetype of the faithful wife whose desire is 'for her beloved' (Song 7:10), an image the Reformed tradition connects to the church as Christ's bride.",
+        "pt": "Como amada que é buscada, perdida, achada novamente e publicamente reconhecida como esposa, a Sulamita representa o arquétipo bíblico da esposa fiel cujo desejo é 'para o seu amado' (Ct 7:10), imagem que a tradição reformada conecta à igreja como esposa de Cristo."
+      },
+      "tipo": {
+        "es": "Tipo de la iglesia como esposa amada, buscada por gracia y presentada sin mancha ante su Esposo (Ef 5:26-27; Ap 21:2,9); su declaración 'yo soy de mi amado, y mi amado es mío' (Cnt 6:3) resuena con la seguridad pactual de la unión entre Cristo y su pueblo.",
+        "en": "A type of the church as beloved bride, sought by grace and presented without blemish to her Bridegroom (Eph 5:26-27; Rev 21:2,9); her declaration 'I am my beloved's, and my beloved is mine' (Song 6:3) resonates with the covenantal assurance of the union between Christ and his people.",
+        "pt": "Tipo da igreja como esposa amada, buscada pela graça e apresentada sem mácula ao seu Esposo (Ef 5:26-27; Ap 21:2,9); sua declaração 'eu sou do meu amado, e o meu amado é meu' (Ct 6:3) ressoa com a segurança pactual da união entre Cristo e seu povo."
+      },
+      "caracterMoral": {
+        "es": "Presentada con integridad como amante fiel, franca y activa en la búsqueda de su amado, sin pasividad ni vergüenza ante su propio deseo, modelando dentro del canon una sexualidad femenina redimida y ordenada al pacto matrimonial.",
+        "en": "Presented with integrity as a faithful, candid lover, active in seeking her beloved, without passivity or shame regarding her own desire, modeling within the canon a redeemed female sexuality ordered to the marriage covenant.",
+        "pt": "Apresentada com integridade como amante fiel, franca e ativa na busca de seu amado, sem passividade ou vergonha diante de seu próprio desejo, modelando dentro do cânon uma sexualidade feminina redimida e ordenada ao pacto matrimonial."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Identificada solo como 'la Sulamita' (Cnt 6:13), posiblemente por su origen en Sunem o simplemente como forma femenina de 'Salomón'. Se describe morena pero hermosa por haber trabajado en las viñas de sus hermanos bajo el sol (Cnt 1:5-6), guarda su propia viña (Cnt 1:6; 8:12), busca a su amado por la ciudad de noche (Cnt 3:1-4; 5:6-7) y es descrita de pies a cabeza por Salomón en tres poemas (Cnt 4:1-7; 6:4-7; 7:1-9).",
+          "en": "Identified only as 'the Shulammite' (Song 6:13), possibly for her origin in Shunem or simply as the feminine form of 'Solomon.' She describes herself as dark but beautiful from laboring in her brothers' vineyards under the sun (Song 1:5-6), keeps her own vineyard (Song 1:6; 8:12), searches for her beloved through the city by night (Song 3:1-4; 5:6-7), and is described from head to toe by Solomon in three poems (Song 4:1-7; 6:4-7; 7:1-9).",
+          "pt": "Identificada apenas como 'a Sulamita' (Ct 6:13), possivelmente por sua origem em Suném ou simplesmente como forma feminina de 'Salomão'. Descreve-se morena mas bela por ter trabalhado nas vinhas de seus irmãos sob o sol (Ct 1:5-6), guarda sua própria vinha (Ct 1:6; 8:12), busca seu amado pela cidade à noite (Ct 3:1-4; 5:6-7) e é descrita da cabeça aos pés por Salomão em três poemas (Ct 4:1-7; 6:4-7; 7:1-9)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Cnt 1:5-6",
+          "Cnt 3:1-4",
+          "Cnt 5:2-8",
+          "Cnt 6:3",
+          "Cnt 6:13",
+          "Cnt 8:6-7"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe registro extrabíblico de una figura histórica identificable como 'la Sulamita'; algunos comentaristas la vinculan con Abisag la sunamita que sirvió a David en su vejez (1R 1:3-4), aunque el texto del Cantar no establece esa identificación de forma explícita, y la mayoría de los comentaristas reformados la consideran simplemente una joven israelita anónima de origen rural.",
+          "en": "There is no extrabiblical record of a historically identifiable figure as 'the Shulammite'; some commentators link her with Abishag the Shunammite who served David in his old age (1Kgs 1:3-4), though the Song's text does not explicitly establish that identification, and most Reformed commentators regard her simply as an anonymous young Israelite woman of rural origin.",
+          "pt": "Não há registro extrabíblico de uma figura historicamente identificável como 'a Sulamita'; alguns comentaristas a vinculam a Abisague, a sunamita que serviu a Davi em sua velhice (1Rs 1:3-4), embora o texto do Cântico não estabeleça essa identificação de forma explícita, e a maioria dos comentaristas reformados a considera simplesmente uma jovem israelita anônima de origem rural."
+        },
+        "fuentes": [
+          {
+            "titulo": "Song of Songs (Baker Commentary on the Old Testament)",
+            "autor": "Tremper Longman III",
+            "año": 2001,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "genero"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El trabajo agrícola bajo el sol que ella describe (Cnt 1:6) concuerda con la economía rural israelita del Hierro II, en la que las mujeres de familias campesinas participaban activamente en el cuidado de viñas y rebaños.",
+          "en": "The agricultural labor under the sun she describes (Song 1:6) matches the rural Israelite economy of Iron Age II, in which women from farming families actively participated in the care of vineyards and flocks.",
+          "pt": "O trabalho agrícola sob o sol que ela descreve (Ct 1:6) concorda com a economia rural israelita do Ferro II, na qual as mulheres de famílias camponesas participavam ativamente do cuidado de vinhas e rebanhos."
+        }
+      },
+      "versiculosAsociados": [
+        "Cnt 1:5-6",
+        "Cnt 2:1",
+        "Cnt 2:16",
+        "Cnt 5:2-8",
+        "Cnt 7:10",
+        "Cnt 8:6-7"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No es citada directamente en el Nuevo Testamento, pero su papel de esposa buscada, purificada y presentada informa la imagen paulina y apocalíptica de la iglesia como esposa del Cordero (Ef 5:25-27; Ap 19:7-9; 21:2,9).",
+        "en": "She is not directly cited in the New Testament, but her role as sought, purified, and presented bride informs the Pauline and apocalyptic image of the church as the Lamb's bride (Eph 5:25-27; Rev 19:7-9; 21:2,9).",
+        "pt": "Não é citada diretamente no Novo Testamento, mas seu papel de esposa buscada, purificada e apresentada informa a imagem paulina e apocalíptica da igreja como esposa do Cordeiro (Ef 5:25-27; Ap 19:7-9; 21:2,9)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Las hijas de Jerusalén",
+        "en": "The Daughters of Jerusalem",
+        "pt": "As Filhas de Jerusalém"
+      },
+      "hebreo": "בְּנוֹת יְרוּשָׁלִָם",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ],
+      "descripcion": {
+        "es": "Un coro femenino de jóvenes de la corte que dialoga con la amada, formula preguntas que hacen avanzar el poema y recibe de ella los famosos juramentos a no despertar el amor antes de tiempo (Cnt 2:7; 3:5; 8:4).",
+        "en": "A female chorus of young court women who dialogue with the beloved, ask questions that advance the poem's action, and receive from her the famous oaths not to awaken love before its time (Song 2:7; 3:5; 8:4).",
+        "pt": "Um coro feminino de jovens da corte que dialoga com a amada, formula perguntas que fazem o poema avançar e recebe dela os famosos juramentos de não despertar o amor antes do tempo (Ct 2:7; 3:5; 8:4)."
+      },
+      "acciones": {
+        "es": "Preguntan a la amada adónde se ha ido su amado (Cnt 5:9; 6:1), reciben de ella la descripción del amado (Cnt 5:10-16) y son conjuradas repetidamente a no despertar el amor 'hasta que quiera' (Cnt 2:7; 3:5; 8:4).",
+        "en": "They ask the beloved where her lover has gone (Song 5:9; 6:1), receive from her the description of the beloved (Song 5:10-16), and are repeatedly adjured not to awaken love 'until it pleases' (Song 2:7; 3:5; 8:4).",
+        "pt": "Perguntam à amada para onde foi o seu amado (Ct 5:9; 6:1), recebem dela a descrição do amado (Ct 5:10-16) e são repetidamente conjuradas a não despertar o amor 'até que queira' (Ct 2:7; 3:5; 8:4)."
+      },
+      "significadoTeologico": {
+        "es": "Funcionan como coro testigo de la comunidad del pacto que observa, pregunta y aprende del amor conyugal ejemplar de los protagonistas, recordando que el matrimonio no es un asunto meramente privado sino un bien reconocido públicamente por el pueblo de Dios.",
+        "en": "They function as a witnessing chorus from the covenant community who observe, question, and learn from the protagonists' exemplary marital love, reminding readers that marriage is not a merely private matter but a good publicly recognized by the people of God.",
+        "pt": "Funcionam como um coro testemunha da comunidade do pacto que observa, pergunta e aprende do amor conjugal exemplar dos protagonistas, lembrando que o casamento não é um assunto meramente privado, mas um bem reconhecido publicamente pelo povo de Deus."
+      },
+      "tipo": {
+        "es": "Prefiguran a los invitados y amigos del Novio que se regocijan en la unión conyugal sin usurpar el lugar de la esposa (cf. Jn 3:29; Ap 19:9), un eco anticipado de la multitud convocada a las bodas del Cordero.",
+        "en": "They prefigure the Bridegroom's guests and friends who rejoice in the marital union without usurping the bride's place (cf. John 3:29; Rev 19:9), an early echo of the multitude called to the marriage supper of the Lamb.",
+        "pt": "Prefiguram os convidados e amigos do Noivo que se alegram na união conjugal sem usurpar o lugar da esposa (cf. Jo 3:29; Ap 19:9), um eco antecipado da multidão convocada para as bodas do Cordeiro."
+      },
+      "caracterMoral": {
+        "es": "Presentadas de manera neutra y solidaria, sin rasgos de rivalidad; su función es coral y pedagógica más que moral individual.",
+        "en": "Presented neutrally and sympathetically, without traits of rivalry; their function is choral and pedagogical rather than individually moral.",
+        "pt": "Apresentadas de maneira neutra e solidária, sem traços de rivalidade; sua função é coral e pedagógica, mais do que moral individual."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Aparecen como interlocutoras recurrentes de la amada a lo largo del poema (Cnt 1:5; 2:7; 3:5,10-11; 5:8-9,16; 8:4), formando el coro que hace avanzar el diálogo dramático sin intervenir directamente en la trama amorosa.",
+          "en": "They appear as the beloved's recurring interlocutors throughout the poem (Song 1:5; 2:7; 3:5,10-11; 5:8-9,16; 8:4), forming the chorus that advances the dramatic dialogue without directly intervening in the romantic plot.",
+          "pt": "Aparecem como interlocutoras recorrentes da amada ao longo do poema (Ct 1:5; 2:7; 3:5,10-11; 5:8-9,16; 8:4), formando o coro que faz avançar o diálogo dramático sem intervir diretamente na trama amorosa."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Cnt 1:5",
+          "Cnt 2:7",
+          "Cnt 3:5",
+          "Cnt 5:9",
+          "Cnt 8:4"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Representan probablemente a las jóvenes de la corte real o del harén de Salomón (cf. 1R 11:3), un grupo social documentado en las cortes reales del antiguo Cercano Oriente como acompañantes y damas de compañía de la realeza.",
+          "en": "They likely represent young women of the royal court or Solomon's harem (cf. 1Kgs 11:3), a social group documented in ancient Near Eastern royal courts as attendants and companions of royalty.",
+          "pt": "Representam provavelmente as jovens da corte real ou do harém de Salomão (cf. 1Rs 11:3), um grupo social documentado nas cortes reais do antigo Oriente Próximo como acompanhantes e damas de companhia da realeza."
+        },
+        "fuentes": [
+          {
+            "titulo": "Song of Songs (Baker Commentary on the Old Testament)",
+            "autor": "Tremper Longman III",
+            "año": 2001,
+            "editorial": "Eerdmans",
+            "nivel": 2,
+            "camposUtilizados": [
+              "biografiaHistorica"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La existencia de un séquito femenino en la corte concuerda con la descripción de la casa real de Salomón (1R 11:3), aunque el texto no especifica su identidad más allá de su papel coral.",
+          "en": "The existence of a female retinue at court matches the description of Solomon's royal household (1Kgs 11:3), though the text does not specify their identity beyond their choral role.",
+          "pt": "A existência de um séquito feminino na corte concorda com a descrição da casa real de Salomão (1Rs 11:3), embora o texto não especifique sua identidade além de seu papel coral."
+        }
+      },
+      "versiculosAsociados": [
+        "Cnt 1:5",
+        "Cnt 2:7",
+        "Cnt 3:5",
+        "Cnt 3:10-11",
+        "Cnt 5:8-9",
+        "Cnt 5:16",
+        "Cnt 8:4"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No reaparecen directamente, aunque su papel de comunidad testigo anticipa la función de la iglesia congregada que observa y celebra la unión de Cristo con su esposa (cf. Ap 19:9).",
+        "en": "They do not reappear directly, though their role as a witnessing community anticipates the function of the gathered church that observes and celebrates the union of Christ with his bride (cf. Rev 19:9).",
+        "pt": "Não reaparecem diretamente, embora seu papel de comunidade testemunha antecipe a função da igreja congregada que observa e celebra a união de Cristo com sua esposa (cf. Ap 19:9)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los hermanos de la amada",
+        "en": "The Beloved's Brothers",
+        "pt": "Os Irmãos da Amada"
+      },
+      "hebreo": "",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        8
+      ],
+      "descripcion": {
+        "es": "Los hermanos de la Sulamita, mencionados como quienes la pusieron a cuidar las viñas (Cnt 1:6) y quienes, en la infancia de ella, se preocupan por proteger el honor de su 'hermana pequeña' antes de que llegue el tiempo del cortejo (Cnt 8:8-9).",
+        "en": "The Shulammite's brothers, mentioned as those who set her to keep the vineyards (Song 1:6) and who, in her childhood, express concern for protecting the honor of their 'little sister' before the time of courtship arrives (Song 8:8-9).",
+        "pt": "Os irmãos da Sulamita, mencionados como aqueles que a puseram a cuidar das vinhas (Ct 1:6) e que, na infância dela, se preocupam em proteger a honra de sua 'irmã pequena' antes que chegue o tempo do cortejo (Ct 8:8-9)."
+      },
+      "acciones": {
+        "es": "Se enojaron con ella y la pusieron a guardar las viñas, de modo que no pudo guardar su propia viña (Cnt 1:6); deliberan sobre cómo proteger a su hermana menor 'el día en que se hable de ella' (Cnt 8:8-9), a lo cual ella responde afirmando su propia madurez y virtud ('yo era muralla', Cnt 8:10).",
+        "en": "They were angry with her and set her to keep the vineyards, so that she could not keep her own vineyard (Song 1:6); they deliberate over how to protect their younger sister 'on the day when she is spoken for' (Song 8:8-9), to which she responds by affirming her own maturity and virtue ('I was a wall,' Song 8:10).",
+        "pt": "Zangaram-se com ela e a puseram a guardar as vinhas, de modo que não pôde guardar a sua própria vinha (Ct 1:6); deliberam sobre como proteger a irmã menor 'no dia em que dela se falar' (Ct 8:8-9), ao que ela responde afirmando sua própria maturidade e virtude ('eu era um muro', Ct 8:10)."
+      },
+      "significadoTeologico": {
+        "es": "Representan la responsabilidad familiar y comunitaria de proteger la pureza y el honor de una joven antes del matrimonio, reflejando la estructura pactual de la familia israelita como guardiana de la santidad sexual (cf. Dt 22:13-21).",
+        "en": "They represent the family and community responsibility of protecting a young woman's purity and honor before marriage, reflecting the covenantal structure of the Israelite family as guardian of sexual holiness (cf. Deut 22:13-21).",
+        "pt": "Representam a responsabilidade familiar e comunitária de proteger a pureza e a honra de uma jovem antes do casamento, refletindo a estrutura pactual da família israelita como guardiã da santidade sexual (cf. Dt 22:13-21)."
+      },
+      "tipo": {
+        "es": "Su vigilancia protectora sobre la hermana aún no desposada evoca, de forma general, la custodia pactual que guarda a la esposa hasta el tiempo señalado para su presentación al esposo (cf. 2Co 11:2).",
+        "en": "Their protective watch over the not-yet-betrothed sister generally evokes the covenantal custody that guards the bride until the appointed time of her presentation to the husband (cf. 2Cor 11:2).",
+        "pt": "Sua vigilância protetora sobre a irmã ainda não desposada evoca, de forma geral, a custódia pactual que guarda a esposa até o tempo designado para sua apresentação ao esposo (cf. 2Co 11:2)."
+      },
+      "caracterMoral": {
+        "es": "Presentados con ambigüedad moral: su rigor protector (Cnt 1:6; 8:8-9) parece haber cargado a la joven con trabajo no deseado, pero su preocupación por la pureza de su hermana también refleja una responsabilidad familiar legítima.",
+        "en": "Presented with moral ambiguity: their protective rigor (Song 1:6; 8:8-9) appears to have burdened the young woman with unwanted labor, yet their concern for their sister's purity also reflects a legitimate family responsibility.",
+        "pt": "Apresentados com ambiguidade moral: seu rigor protetor (Ct 1:6; 8:8-9) parece ter sobrecarregado a jovem com trabalho indesejado, mas sua preocupação com a pureza da irmã também reflete uma responsabilidade familiar legítima."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionados sin nombre propio como 'los hijos de mi madre' (Cnt 1:6), quienes se enojaron con ella y la hicieron guardar las viñas; reaparecen deliberando sobre la protección de su hermana menor 'que no tiene pechos todavía' (Cnt 8:8-9).",
+          "en": "Mentioned without proper names as 'my mother's sons' (Song 1:6), who were angry with her and made her keep the vineyards; they reappear deliberating over the protection of their younger sister 'who has no breasts' (Song 8:8-9).",
+          "pt": "Mencionados sem nome próprio como 'os filhos de minha mãe' (Ct 1:6), que se zangaram com ela e a fizeram guardar as vinhas; reaparecem deliberando sobre a proteção da irmã menor 'que ainda não tem seios' (Ct 8:8-9)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Cnt 1:6",
+          "Cnt 8:8-9"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No se dispone de evidencia extrabíblica sobre estos hermanos; su rol es consistente con las estructuras patriarcales de la familia extendida israelita, en la que los hermanos varones ejercían autoridad protectora sobre las hermanas solteras.",
+          "en": "No extrabiblical evidence is available regarding these brothers; their role is consistent with the patriarchal structures of the extended Israelite family, in which male siblings exercised protective authority over unmarried sisters.",
+          "pt": "Não há evidência extrabíblica disponível sobre esses irmãos; seu papel é consistente com as estruturas patriarcais da família extensa israelita, na qual os irmãos varões exerciam autoridade protetora sobre as irmãs solteiras."
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 3,
+            "camposUtilizados": [
+              "biografiaHistorica",
+              "contextoHistorico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "La autoridad fraternal sobre una hermana soltera concuerda con las normas familiares israelitas conocidas por otros textos legales y narrativos del Antiguo Testamento (cf. Gn 24:29-31,50; 34:6-31).",
+          "en": "Fraternal authority over an unmarried sister matches Israelite family norms known from other Old Testament legal and narrative texts (cf. Gen 24:29-31,50; 34:6-31).",
+          "pt": "A autoridade fraterna sobre uma irmã solteira concorda com as normas familiares israelitas conhecidas de outros textos legais e narrativos do Antigo Testamento (cf. Gn 24:29-31,50; 34:6-31)."
+        }
+      },
+      "versiculosAsociados": [
+        "Cnt 1:6",
+        "Cnt 8:8-10"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No reaparecen en el Nuevo Testamento.",
+        "en": "They do not reappear in the New Testament.",
+        "pt": "Não reaparecem no Novo Testamento."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Creación",
+        "en": "Creation",
+        "pt": "Criação"
+      },
+      "resumen": {
+        "es": "El Cantar despliega en forma poética la bondad creacional del cuerpo, el deseo y el placer conyugal (cf. Gn 1:31; 2:24-25). El deleite mutuo en la belleza física (Cnt 4:1-7; 7:1-9), la fragancia de los jardines y frutos (Cnt 4:12-16) y la ausencia total de vergüenza en el goce mutuo reafirman que la sexualidad dentro del matrimonio es un don del Creador y no una realidad ajena a la santidad.",
+        "en": "The Song poetically unfolds the creational goodness of the body, desire, and marital pleasure (cf. Gen 1:31; 2:24-25). Mutual delight in physical beauty (Song 4:1-7; 7:1-9), the fragrance of gardens and fruits (Song 4:12-16), and the total absence of shame in mutual enjoyment reaffirm that sexuality within marriage is a gift of the Creator, not a reality foreign to holiness.",
+        "pt": "O Cântico desdobra em forma poética a bondade criacional do corpo, do desejo e do prazer conjugal (cf. Gn 1:31; 2:24-25). O deleite mútuo na beleza física (Ct 4:1-7; 7:1-9), a fragrância dos jardins e frutos (Ct 4:12-16) e a ausência total de vergonha no gozo mútuo reafirmam que a sexualidade dentro do casamento é um dom do Criador, e não uma realidade alheia à santidade."
+      },
+      "pasajes": [
+        "Cnt 1:2",
+        "Cnt 4:1-7",
+        "Cnt 4:12-16",
+        "Cnt 7:1-9"
+      ],
+      "ensenanza": {
+        "es": "El deseo físico mutuo se expresa sin vergüenza · el cuerpo amado se describe con admiración detallada · el jardín cerrado simboliza la exclusividad y el gozo del cuerpo · la descripción del cuerpo continúa celebrando su belleza sin reserva",
+        "en": "Mutual physical desire is voiced without shame · the beloved's body is described with detailed admiration · the enclosed garden symbolizes bodily exclusivity and joy · the description of the body continues celebrating its beauty without reserve",
+        "pt": "O desejo físico mútuo é expresso sem vergonha · o corpo amado é descrito com admiração detalhada · o jardim fechado simboliza a exclusividade e a alegria do corpo · a descrição do corpo continua celebrando sua beleza sem reserva"
+      },
+      "distintivaReformada": {
+        "es": "Contra toda tendencia gnóstica o ascética que desconfía del cuerpo, la tradición reformada, siguiendo a Calvino y la ética creacional de la Confesión de Westminster (Cap. 4), sostiene que el Cantar canoniza el gozo corporal conyugal como parte del 'muy bueno' original de Dios (Gn 1:31), no como concesión a la debilidad humana.",
+        "en": "Against any gnostic or ascetic tendency that distrusts the body, the Reformed tradition, following Calvin and the creational ethic of the Westminster Confession (Ch. 4), holds that the Song canonizes marital bodily joy as part of God's original 'very good' (Gen 1:31), not as a concession to human weakness.",
+        "pt": "Contra toda tendência gnóstica ou ascética que desconfia do corpo, a tradição reformada, seguindo Calvino e a ética criacional da Confissão de Westminster (Cap. 4), sustenta que o Cântico canoniza a alegria corporal conjugal como parte do 'muito bom' original de Deus (Gn 1:31), e não como concessão à fraqueza humana."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "El matrimonio celebrado en el Cantar es presentado como una unión pactual pública, sellada por el rito nupcial (Cnt 3:6-11) y por el reconocimiento comunitario de las hijas de Jerusalén y de la madre de la novia (Cnt 3:11; 8:5). La imagen del sello 'sobre el corazón' y 'sobre el brazo' (Cnt 8:6) expresa la naturaleza vinculante e irrevocable del compromiso conyugal.",
+        "en": "The marriage celebrated in the Song is presented as a public covenantal union, sealed by the wedding rite (Song 3:6-11) and by the communal recognition of the daughters of Jerusalem and the bride's mother (Song 3:11; 8:5). The image of the seal 'upon the heart' and 'upon the arm' (Song 8:6) expresses the binding, irrevocable nature of the marital commitment.",
+        "pt": "O casamento celebrado no Cântico é apresentado como uma união pactual pública, selada pelo rito nupcial (Ct 3:6-11) e pelo reconhecimento comunitário das filhas de Jerusalém e da mãe da noiva (Ct 3:11; 8:5). A imagem do selo 'sobre o coração' e 'sobre o braço' (Ct 8:6) expressa a natureza vinculante e irrevogável do compromisso conjugal."
+      },
+      "pasajes": [
+        "Cnt 3:6-11",
+        "Cnt 3:11",
+        "Cnt 8:5",
+        "Cnt 8:6-7"
+      ],
+      "ensenanza": {
+        "es": "El cortejo real desde el desierto formaliza públicamente la unión · la madre y la coronación marcan el día de las bodas como un acontecimiento comunitario · el nacimiento bajo el manzano simboliza la continuidad generacional del pacto · el sello y el amor fuerte como la muerte expresan la naturaleza vinculante del compromiso matrimonial",
+        "en": "The royal procession from the wilderness publicly formalizes the union · the mother and the crowning mark the wedding day as a communal event · the birth beneath the apple tree symbolizes the covenant's generational continuity · the seal and love strong as death express the binding nature of the marital commitment",
+        "pt": "O cortejo real desde o deserto formaliza publicamente a união · a mãe e a coroação marcam o dia do casamento como um acontecimento comunitário · o nascimento debaixo da macieira simboliza a continuidade geracional do pacto · o selo e o amor forte como a morte expressam a natureza vinculante do compromisso matrimonial"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada del pacto, siguiendo a Vos y la Confesión de Westminster (Cap. 24), entiende el matrimonio como pacto solemne instituido por Dios (Gn 2:24; Mal 2:14), del cual el Cantar ofrece la expresión poética más plena, anticipando el pacto de gracia consumado entre Cristo y su iglesia.",
+        "en": "Reformed covenant theology, following Vos and the Westminster Confession (Ch. 24), understands marriage as a solemn covenant instituted by God (Gen 2:24; Mal 2:14), of which the Song offers the fullest poetic expression, anticipating the covenant of grace consummated between Christ and his church.",
+        "pt": "A teologia pactual reformada, seguindo Vos e a Confissão de Westminster (Cap. 24), entende o casamento como pacto solene instituído por Deus (Gn 2:24; Ml 2:14), do qual o Cântico oferece a expressão poética mais plena, antecipando o pacto da graça consumado entre Cristo e sua igreja."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Antropología",
+        "en": "Anthropology",
+        "pt": "Antropologia"
+      },
+      "resumen": {
+        "es": "El Cantar presenta una antropología bíblica de la complementariedad y la mutualidad: 'yo soy de mi amado, y mi amado es mío' (Cnt 6:3) expresa reciprocidad plena, mientras que 'su deseo es para mí' (Cnt 7:10) invierte deliberadamente la distorsión relacional descrita en la maldición (Gn 3:16), retratando la restauración del designio original entre hombre y mujer.",
+        "en": "The Song presents a biblical anthropology of complementarity and mutuality: 'I am my beloved's, and my beloved is mine' (Song 6:3) expresses full reciprocity, while 'his desire is for me' (Song 7:10) deliberately reverses the relational distortion described in the curse (Gen 3:16), portraying the restoration of the original design between man and woman.",
+        "pt": "O Cântico apresenta uma antropologia bíblica da complementaridade e da mutualidade: 'eu sou do meu amado, e o meu amado é meu' (Ct 6:3) expressa reciprocidade plena, enquanto 'o seu desejo é por mim' (Ct 7:10) inverte deliberadamente a distorção relacional descrita na maldição (Gn 3:16), retratando a restauração do desígnio original entre homem e mulher."
+      },
+      "pasajes": [
+        "Cnt 2:16",
+        "Cnt 6:3",
+        "Cnt 7:10",
+        "Cnt 8:6-7"
+      ],
+      "ensenanza": {
+        "es": "La pertenencia mutua se declara como fórmula recíproca de posesión amorosa · la misma fórmula se repite afirmando estabilidad y madurez en la relación · el deseo del hombre hacia la mujer invierte la distorsión relacional de la caída · el amor se define como una fuerza tan poderosa como la muerte misma, irreductible a mera atracción física",
+        "en": "Mutual belonging is declared as a reciprocal formula of loving possession · the same formula is repeated, affirming stability and maturity in the relationship · the man's desire toward the woman reverses the relational distortion of the fall · love is defined as a force as powerful as death itself, irreducible to mere physical attraction",
+        "pt": "O pertencimento mútuo é declarado como fórmula recíproca de posse amorosa · a mesma fórmula se repete afirmando estabilidade e maturidade no relacionamento · o desejo do homem pela mulher inverte a distorção relacional da queda · o amor é definido como uma força tão poderosa quanto a própria morte, irredutível a mera atração física"
+      },
+      "distintivaReformada": {
+        "es": "La antropología reformada, atenta a la doctrina de la caída (Gn 3:16) y a la restauración progresiva de la imagen de Dios en Cristo, ve en Cnt 7:10 un anticipo poético de la reciprocidad conyugal redimida, previa a su plena restauración escatológica (Ap 21:1-5).",
+        "en": "Reformed anthropology, attentive to the doctrine of the fall (Gen 3:16) and the progressive restoration of the image of God in Christ, sees in Song 7:10 a poetic foretaste of redeemed marital reciprocity, prior to its full eschatological restoration (Rev 21:1-5).",
+        "pt": "A antropologia reformada, atenta à doutrina da queda (Gn 3:16) e à restauração progressiva da imagem de Deus em Cristo, vê em Ct 7:10 uma antecipação poética da reciprocidade conjugal redimida, prévia à sua plena restauração escatológica (Ap 21:1-5)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "Aunque el Cantar no menciona a Dios por nombre, su lugar dentro del canon davídico y la recepción histórica de la iglesia han visto en el rey-esposo y su amada un anticipo del amor consumado entre Cristo y su iglesia (Ef 5:25-32), especialmente en la declaración de que el amor es 'fuerte como la muerte' (Cnt 8:6), cumplida en Aquel que efectivamente entregó su vida por su esposa.",
+        "en": "Though the Song never mentions God by name, its place within the Davidic canon and the church's historic reception have seen in the king-bridegroom and his beloved a foretaste of the consummated love between Christ and his church (Eph 5:25-32), especially in the declaration that love is 'strong as death' (Song 8:6), fulfilled in the One who actually gave his life for his bride.",
+        "pt": "Embora o Cântico não mencione Deus pelo nome, seu lugar dentro do cânon davídico e a recepção histórica da igreja viram no rei-esposo e sua amada uma antecipação do amor consumado entre Cristo e sua igreja (Ef 5:25-32), especialmente na declaração de que o amor é 'forte como a morte' (Ct 8:6), cumprida naquele que efetivamente entregou sua vida por sua esposa."
+      },
+      "pasajes": [
+        "Cnt 1:2",
+        "Cnt 3:11",
+        "Cnt 5:10-16",
+        "Cnt 8:6-7"
+      ],
+      "ensenanza": {
+        "es": "El anhelo por el beso del amado abre el poema con un deseo de comunión íntima · la coronación del rey el día de su boda evoca la realeza gozosa del esposo · la descripción exaltada del amado presenta un retrato casi hímnico de admiración · el amor descrito como más fuerte que la muerte encuentra su cumplimiento pleno en el sacrificio del Novio celestial",
+        "en": "The longing for the beloved's kiss opens the poem with a desire for intimate communion · the king's crowning on his wedding day evokes the bridegroom's joyful royalty · the exalted description of the beloved presents an almost hymn-like portrait of admiration · love described as stronger than death finds its full fulfillment in the sacrifice of the heavenly Bridegroom",
+        "pt": "O anseio pelo beijo do amado abre o poema com um desejo de comunhão íntima · a coroação do rei no dia de suas bodas evoca a realeza alegre do esposo · a descrição exaltada do amado apresenta um retrato quase hínico de admiração · o amor descrito como mais forte que a morte encontra seu cumprimento pleno no sacrifício do Noivo celestial"
+      },
+      "distintivaReformada": {
+        "es": "Siguiendo la hermenéutica cristocéntrica de Vos, la tradición reformada lee el Cantar no como alegoría arbitraria sino como parte del arco redentor-histórico en el que el matrimonio davídico anticipa tipológicamente —sin agotarla— la unión nupcial escatológica entre Cristo y su pueblo (Ap 19:7-9).",
+        "en": "Following Vos's Christocentric hermeneutic, the Reformed tradition reads the Song not as arbitrary allegory but as part of the redemptive-historical arc in which the Davidic marriage typologically anticipates — without exhausting — the eschatological marital union between Christ and his people (Rev 19:7-9).",
+        "pt": "Seguindo a hermenêutica cristocêntrica de Vos, a tradição reformada lê o Cântico não como alegoria arbitrária, mas como parte do arco redentor-histórico no qual o casamento davídico antecipa tipologicamente — sem esgotá-la — a união nupcial escatológica entre Cristo e seu povo (Ap 19:7-9)."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 24",
+      "titulo": {
+        "es": "Del Matrimonio y el Divorcio",
+        "en": "Of Marriage and Divorce",
+        "pt": "Do Casamento e do Divórcio"
+      },
+      "doctrinas": [
+        "Matrimonio",
+        "Antropología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster (Cap. 24) enseña que el matrimonio fue instituido por Dios para la ayuda mutua, la procreación y la prevención de la impureza, y que debe celebrarse 'en el Señor' con exclusividad y fidelidad de por vida. El Cantar ofrece la ilustración poética más extensa de las Escrituras sobre este ideal de amor conyugal exclusivo, gozoso y comprometido.",
+        "en": "The Westminster Confession (Ch. 24) teaches that marriage was instituted by God for mutual help, procreation, and the prevention of impurity, and that it must be celebrated 'in the Lord' with lifelong exclusivity and fidelity. The Song offers Scripture's most extensive poetic illustration of this ideal of exclusive, joyful, committed marital love.",
+        "pt": "A Confissão de Westminster (Cap. 24) ensina que o casamento foi instituído por Deus para a ajuda mútua, a procriação e a prevenção da impureza, e que deve ser celebrado 'no Senhor' com exclusividade e fidelidade vitalícias. O Cântico oferece a ilustração poética mais extensa das Escrituras sobre esse ideal de amor conjugal exclusivo, alegre e comprometido."
+      },
+      "genesis": [
+        "Cnt 2:16",
+        "Cnt 6:3",
+        "Cnt 8:6-7"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-24"
+    },
+    {
+      "cap": "Cap. 4",
+      "titulo": {
+        "es": "De la Creación",
+        "en": "Of Creation",
+        "pt": "Da Criação"
+      },
+      "doctrinas": [
+        "Creación",
+        "Antropología"
+      ],
+      "resumen": {
+        "es": "La Confesión de Westminster (Cap. 4) afirma que Dios creó al hombre varón y hembra, con cuerpos racionales e inmortales, dotados para vivir según su ley escrita en el corazón. El goce corporal y el deseo mutuo celebrados sin vergüenza en el Cantar (Cnt 4:1-7; 7:1-9) reflejan la bondad de esa creación original, previa e independiente de cualquier vergüenza introducida por la caída.",
+        "en": "The Westminster Confession (Ch. 4) affirms that God created man male and female, with rational and immortal bodies, equipped to live according to his law written on the heart. The bodily delight and mutual desire celebrated without shame in the Song (Song 4:1-7; 7:1-9) reflect the goodness of that original creation, prior to and independent of any shame introduced by the fall.",
+        "pt": "A Confissão de Westminster (Cap. 4) afirma que Deus criou o homem varão e fêmea, com corpos racionais e imortais, equipados para viver segundo sua lei escrita no coração. O deleite corporal e o desejo mútuo celebrados sem vergonha no Cântico (Ct 4:1-7; 7:1-9) refletem a bondade dessa criação original, anterior e independente de qualquer vergonha introduzida pela queda."
+      },
+      "genesis": [
+        "Cnt 4:1-7",
+        "Cnt 7:1-9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-4"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Cnt 1:2",
+      "es": "¡Que me bese con los besos de su boca! Porque mejores son tus amores que el vino.",
+      "en": "Let him kiss me with the kisses of his mouth! For your love is better than wine;",
+      "pt": "Beije-me ele com os beijos da sua boca, porque melhor é o teu amor do que o vinho.",
+      "nota": {
+        "es": "Verso de apertura que establece de inmediato el tono franco y anhelante de todo el poema: el deseo físico se nombra sin rodeos ni vergüenza, comparándose favorablemente incluso con el vino, símbolo bíblico de alegría (Sal 104:15).",
+        "en": "The opening verse immediately establishes the frank, longing tone of the whole poem: physical desire is named without evasion or shame, compared favorably even to wine, a biblical symbol of joy (Ps 104:15).",
+        "pt": "O verso de abertura estabelece de imediato o tom franco e ansioso de todo o poema: o desejo físico é nomeado sem rodeios nem vergonha, comparando-se favoravelmente até com o vinho, símbolo bíblico de alegria (Sl 104:15)."
+      }
+    },
+    {
+      "ref": "Cnt 2:16",
+      "es": "Mi amado es mío, y yo soy suya; él apacienta entre los lirios.",
+      "en": "My beloved is mine, and I am his; he grazes among the lilies.",
+      "pt": "O meu amado é meu, e eu sou dele; ele apascenta entre os lírios.",
+      "nota": {
+        "es": "Fórmula de pertenencia mutua que se repite y madura a lo largo del libro (cf. Cnt 6:3; 7:10), expresando la reciprocidad plena del pacto matrimonial y anticipando el lenguaje neotestamentario de pertenencia entre Cristo y su iglesia.",
+        "en": "A formula of mutual belonging that recurs and matures throughout the book (cf. Song 6:3; 7:10), expressing the full reciprocity of the marriage covenant and anticipating the New Testament language of belonging between Christ and his church.",
+        "pt": "Fórmula de pertencimento mútuo que se repete e amadurece ao longo do livro (cf. Ct 6:3; 7:10), expressando a reciprocidade plena do pacto matrimonial e antecipando a linguagem neotestamentária de pertencimento entre Cristo e sua igreja."
+      }
+    },
+    {
+      "ref": "Cnt 8:4",
+      "es": "Yo les ruego, hijas de Jerusalén, que no despierten ni levanten el amor, hasta que quiera.",
+      "en": "I adjure you, O daughters of Jerusalem, that you not stir up or awaken love until it pleases.",
+      "pt": "Conjuro-vos, ó filhas de Jerusalém, que não acordeis nem desperteis o meu amor, até que queira.",
+      "nota": {
+        "es": "Este estribillo repetido (cf. Cnt 2:7; 3:5) funciona como advertencia sapiencial: el amor conyugal tiene su tiempo propio y no debe forzarse ni despertarse prematuramente, una nota de prudencia coherente con la ética sexual del resto de la literatura sapiencial (cf. Pr 5:18-19).",
+        "en": "This repeated refrain (cf. Song 2:7; 3:5) functions as sapiential warning: marital love has its proper season and must not be forced or awakened prematurely, a note of prudence consistent with the sexual ethic of the rest of wisdom literature (cf. Prov 5:18-19).",
+        "pt": "Este refrão repetido (cf. Ct 2:7; 3:5) funciona como advertência sapiencial: o amor conjugal tem seu tempo próprio e não deve ser forçado nem despertado prematuramente, uma nota de prudência coerente com a ética sexual do restante da literatura sapiencial (cf. Pv 5:18-19)."
+      }
+    },
+    {
+      "ref": "Cnt 8:6-7",
+      "es": "Ponme como sello sobre tu corazón, como sello sobre tu brazo; porque fuerte es como la muerte el amor... Las muchas aguas no pueden apagar el amor, ni los ríos lo pueden ahogar; si diera un hombre todas las riquezas de su casa por el amor, de cierto lo despreciarían.",
+      "en": "Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death... Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised.",
+      "pt": "Põe-me como selo sobre o teu coração, como selo sobre o teu braço, porque o amor é forte como a morte... As muitas águas não podem apagar este amor, nem os rios afogá-lo; ainda que alguém desse todos os bens de sua casa por este amor, seria isso desprezado totalmente.",
+      "nota": {
+        "es": "El clímax teológico del libro: el amor conyugal se define como una fuerza sellada e irrevocable, comparable en poder solo a la muerte misma, incorruptible por dinero y no ahogable por ninguna adversidad — un anticipo del amor de Cristo que efectivamente venció a la muerte por su esposa (Ro 8:38-39).",
+        "en": "The theological climax of the book: marital love is defined as a sealed, irrevocable force, comparable in power only to death itself, incorruptible by money and unquenchable by any adversity — a foretaste of Christ's love that actually conquered death for his bride (Rom 8:38-39).",
+        "pt": "O clímax teológico do livro: o amor conjugal é definido como uma força selada e irrevogável, comparável em poder apenas à própria morte, incorruptível por dinheiro e inextinguível por qualquer adversidade — uma antecipação do amor de Cristo que de fato venceu a morte por sua esposa (Rm 8:38-39)."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La tradición reformada, apartándose tanto de la alegorización que despoja al Cantar de su sentido literal humano como del literalismo reduccionista que lo aísla de la totalidad del canon, lee el libro primariamente como celebración inspirada del amor y el matrimonio humanos dentro del orden creacional (Gn 2:24), y solo secundariamente —por analogía canónica, no por alegoría forzada— como anticipo del amor pactual entre Cristo y su iglesia (Ef 5:25-32). Calvino advirtió contra las lecturas puramente alegóricas que ignoran el sentido llano del texto; la Confesión de Westminster (Cap. 24) confirma la dignidad del matrimonio como institución divina, y Vos ubica el libro dentro del desarrollo progresivo de la revelación como parte legítima de la sabiduría davídica que apunta, en última instancia, a Cristo.",
+    "en": "The Reformed tradition, departing both from allegorization that strips the Song of its literal human meaning and from a reductionist literalism that isolates it from the whole canon, reads the book primarily as an inspired celebration of human love and marriage within the created order (Gen 2:24), and only secondarily — by canonical analogy, not forced allegory — as a foretaste of the covenantal love between Christ and his church (Eph 5:25-32). Calvin warned against purely allegorical readings that ignore the text's plain sense; the Westminster Confession (Ch. 24) confirms the dignity of marriage as a divine institution, and Vos situates the book within the progressive unfolding of revelation as a legitimate part of Davidic wisdom that ultimately points to Christ.",
+    "pt": "A tradição reformada, afastando-se tanto da alegorização que despoja o Cântico de seu sentido literal humano quanto do literalismo reducionista que o isola da totalidade do cânon, lê o livro primariamente como celebração inspirada do amor e do casamento humanos dentro da ordem criacional (Gn 2:24), e apenas secundariamente — por analogia canônica, não por alegoria forçada — como antecipação do amor pactual entre Cristo e sua igreja (Ef 5:25-32). Calvino advertiu contra leituras puramente alegóricas que ignoram o sentido claro do texto; a Confissão de Westminster (Cap. 24) confirma a dignidade do casamento como instituição divina, e Vos situa o livro dentro do desenvolvimento progressivo da revelação como parte legítima da sabedoria davídica que aponta, em última instância, para Cristo."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Anhelo y Primeras Alabanzas",
+        "en": "Longing and First Praises",
+        "pt": "Anseio e Primeiros Louvores"
+      },
+      "descripcion": {
+        "es": "El poema abre con el título que atribuye la obra a Salomón (Cnt 1:1) y de inmediato la voz de la amada expresa su anhelo por los besos de su amado, 'mejores que el vino' (Cnt 1:2-4). Ella se describe morena por el trabajo forzado en las viñas de sus hermanos (Cnt 1:5-6) y se compara con una yegua entre los carros de Faraón (Cnt 1:9), imagen de lujo real. El amado responde alabando su belleza y prometiendo adornos de oro (Cnt 1:10-11), y ambos se declaran mutuamente hermosos en un intercambio pastoril lleno de fragancia y follaje (Cnt 1:12-17).",
+        "en": "The poem opens with the title attributing the work to Solomon (Song 1:1), and immediately the beloved's voice expresses her longing for her lover's kisses, 'better than wine' (Song 1:2-4). She describes herself as dark from forced labor in her brothers' vineyards (Song 1:5-6) and compares herself to a mare among Pharaoh's chariots (Song 1:9), an image of royal luxury. The beloved responds by praising her beauty and promising gold ornaments (Song 1:10-11), and both declare each other beautiful in a pastoral exchange full of fragrance and foliage (Song 1:12-17).",
+        "pt": "O poema abre com o título que atribui a obra a Salomão (Ct 1:1) e de imediato a voz da amada expressa seu anseio pelos beijos de seu amado, 'melhores que o vinho' (Ct 1:2-4). Ela se descreve morena pelo trabalho forçado nas vinhas de seus irmãos (Ct 1:5-6) e se compara a uma égua entre os carros de Faraó (Ct 1:9), imagem de luxo real. O amado responde louvando sua beleza e prometendo adornos de ouro (Ct 1:10-11), e ambos se declaram mutuamente belos em um intercâmbio pastoril cheio de fragrância e folhagem (Ct 1:12-17)."
+      },
+      "eventoClave": {
+        "es": "La declaración inicial de anhelo mutuo (Cnt 1:2,15-16) establece el tono del pacto matrimonial celebrado a lo largo del libro: un deseo recíproco, franco y sin vergüenza dentro del orden creacional.",
+        "en": "The opening declaration of mutual longing (Song 1:2,15-16) establishes the covenantal tone celebrated throughout the book: reciprocal, candid, shame-free desire within the created order.",
+        "pt": "A declaração inicial de anseio mútuo (Ct 1:2,15-16) estabelece o tom pactual celebrado ao longo do livro: um desejo recíproco, franco e sem vergonha dentro da ordem criacional."
+      },
+      "versiculoClave": "Cnt 1:2",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Matrimonio": {
+            "es": "El anhelo mutuo por los besos y la belleza del otro (Cnt 1:2,15-16) abre el poema celebrando el deseo conyugal recíproco como bueno y digno de expresarse sin reserva.",
+            "en": "The mutual longing for each other's kisses and beauty (Song 1:2,15-16) opens the poem celebrating reciprocal marital desire as good and worthy of unreserved expression.",
+            "pt": "O anseio mútuo pelos beijos e pela beleza um do outro (Ct 1:2,15-16) abre o poema celebrando o desejo conjugal recíproco como bom e digno de ser expresso sem reserva."
+          }
+        },
+        "secundarios": [
+          {
+            "Jardín/Edén": {
+              "es": "Las viñas de En-gadi y el lecho de follaje verde (Cnt 1:14,16-17) sitúan el amor de la pareja en un entorno pastoril exuberante que ecoa el jardín original.",
+              "en": "The vineyards of Engedi and the bed of green foliage (Song 1:14,16-17) situate the couple's love in a lush pastoral setting that echoes the original garden.",
+              "pt": "As vinhas de En-Gedi e o leito de folhagem verde (Ct 1:14,16-17) situam o amor do casal em um ambiente pastoril exuberante que ecoa o jardim original."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Invitación de Primavera",
+        "en": "Springtime Invitation",
+        "pt": "Convite da Primavera"
+      },
+      "descripcion": {
+        "es": "La amada se presenta como 'la rosa de Sarón, el lirio de los valles' (Cnt 2:1) y el amado la eleva sobre todas las demás mujeres, 'como el lirio entre los espinos' (Cnt 2:2). Ella describe la dulzura de sentarse bajo su sombra (Cnt 2:3-6) y pronuncia el primer estribillo, conjurando a las hijas de Jerusalén a no despertar el amor antes de tiempo (Cnt 2:7). Luego narra la llegada del amado 'saltando sobre los montes' (Cnt 2:8-9) y su invitación a salir, pues 'el invierno ya pasó' y las flores han aparecido en la tierra (Cnt 2:10-13), cerrando con la fórmula de pertenencia mutua: 'mi amado es mío, y yo soy suya' (Cnt 2:16-17).",
+        "en": "The beloved presents herself as 'a rose of Sharon, a lily of the valleys' (Song 2:1), and the beloved lover exalts her above all other women, 'like a lily among brambles' (Song 2:2). She describes the sweetness of sitting in his shade (Song 2:3-6) and pronounces the first refrain, adjuring the daughters of Jerusalem not to awaken love before its time (Song 2:7). She then narrates her lover's arrival 'leaping upon the mountains' (Song 2:8-9) and his invitation to come away, for 'the winter is past' and flowers have appeared on the earth (Song 2:10-13), closing with the formula of mutual belonging: 'my beloved is mine, and I am his' (Song 2:16-17).",
+        "pt": "A amada se apresenta como 'a rosa de Sarom, o lírio dos vales' (Ct 2:1) e o amado a exalta acima de todas as demais mulheres, 'como o lírio entre os espinhos' (Ct 2:2). Ela descreve a doçura de sentar-se à sua sombra (Ct 2:3-6) e pronuncia o primeiro refrão, conjurando as filhas de Jerusalém a não despertar o amor antes do tempo (Ct 2:7). Depois narra a chegada do amado 'saltando sobre os montes' (Ct 2:8-9) e seu convite para sair, pois 'o inverno já passou' e as flores apareceram na terra (Ct 2:10-13), fechando com a fórmula de pertencimento mútuo: 'o meu amado é meu, e eu sou dele' (Ct 2:16-17)."
+      },
+      "eventoClave": {
+        "es": "La invitación primaveral del amado (Cnt 2:10-13) marca el paso de la caída a la renovación en clave creacional, imagen que la Sulamita sella con la primera fórmula plena de pertenencia mutua (Cnt 2:16).",
+        "en": "The lover's springtime invitation (Song 2:10-13) marks a movement from decline to renewal in creational key, an image the Shulammite seals with the first full formula of mutual belonging (Song 2:16).",
+        "pt": "O convite primaveril do amado (Ct 2:10-13) marca a passagem do declínio para a renovação em chave criacional, imagem que a Sulamita sela com a primeira fórmula plena de pertencimento mútuo (Ct 2:16)."
+      },
+      "versiculoClave": "Cnt 2:16",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Jardín/Edén": {
+            "es": "El renacer de la primavera, las flores, la voz de la tórtola y las viñas en flor (Cnt 2:11-13) evocan un paisaje edénico de vida renovada que enmarca la invitación amorosa.",
+            "en": "The renewal of spring, the flowers, the voice of the turtledove, and the blossoming vines (Song 2:11-13) evoke an edenic landscape of renewed life that frames the loving invitation.",
+            "pt": "O renascer da primavera, as flores, a voz da rolinha e as vinhas em flor (Ct 2:11-13) evocam uma paisagem edênica de vida renovada que emoldura o convite amoroso."
+          }
+        },
+        "secundarios": [
+          {
+            "Matrimonio": {
+              "es": "La fórmula 'mi amado es mío, y yo soy suya' (Cnt 2:16) declara la reciprocidad plena del vínculo conyugal como fundamento estable del amor celebrado.",
+              "en": "The formula 'my beloved is mine, and I am his' (Song 2:16) declares the full reciprocity of the marital bond as the stable foundation of the celebrated love.",
+              "pt": "A fórmula 'o meu amado é meu, e eu sou dele' (Ct 2:16) declara a reciprocidade plena do vínculo conjugal como fundamento estável do amor celebrado."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Búsqueda Nocturna y Cortejo Real",
+        "en": "Night Search and Royal Procession",
+        "pt": "Busca Noturna e Cortejo Real"
+      },
+      "descripcion": {
+        "es": "De noche, en su lecho, la amada busca a su amado y no lo halla; sale a las calles de la ciudad, pregunta a los guardias, lo encuentra y lo lleva a la casa de su madre (Cnt 3:1-4), tras lo cual repite el estribillo de no despertar el amor antes de tiempo (Cnt 3:5). La escena cambia abruptamente al día de la boda: una columna de humo perfumado anuncia la litera real de Salomón, escoltada por sesenta guerreros (Cnt 3:6-8), construida con maderas del Líbano y plata (Cnt 3:9-10). El capítulo culmina con el llamado a las hijas de Sion a contemplar a Salomón coronado por su madre 'el día de su desposorio, el día del gozo de su corazón' (Cnt 3:11).",
+        "en": "At night, on her bed, the beloved seeks her lover and does not find him; she goes out into the city streets, asks the watchmen, finds him, and brings him to her mother's house (Song 3:1-4), after which she repeats the refrain against awakening love before its time (Song 3:5). The scene shifts abruptly to the wedding day: a column of perfumed smoke announces Solomon's royal litter, escorted by sixty warriors (Song 3:6-8), built with wood from Lebanon and silver (Song 3:9-10). The chapter culminates with a call to the daughters of Zion to behold Solomon crowned by his mother 'on the day of his wedding, the day of the gladness of his heart' (Song 3:11).",
+        "pt": "De noite, em seu leito, a amada busca seu amado e não o encontra; sai às ruas da cidade, pergunta aos guardas, o encontra e o leva à casa de sua mãe (Ct 3:1-4), após o que repete o refrão de não despertar o amor antes do tempo (Ct 3:5). A cena muda abruptamente para o dia do casamento: uma coluna de fumaça perfumada anuncia a liteira real de Salomão, escoltada por sessenta guerreiros (Ct 3:6-8), construída com madeiras do Líbano e prata (Ct 3:9-10). O capítulo culmina com o chamado às filhas de Sião para contemplar Salomão coroado por sua mãe 'no dia do seu desposório, no dia da alegria do seu coração' (Ct 3:11)."
+      },
+      "eventoClave": {
+        "es": "El día de la boda de Salomón, coronado por su madre 'el día del gozo de su corazón' (Cnt 3:11), formaliza públicamente ante la comunidad del pacto la unión que hasta ahora solo se había anhelado en privado.",
+        "en": "Solomon's wedding day, crowned by his mother 'on the day of the gladness of his heart' (Song 3:11), publicly formalizes before the covenant community the union that until now had only been privately longed for.",
+        "pt": "O dia do casamento de Salomão, coroado por sua mãe 'no dia da alegria do seu coração' (Ct 3:11), formaliza publicamente diante da comunidade do pacto a união que até então só havia sido almejada em privado."
+      },
+      "versiculoClave": "Cnt 3:11",
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ef 5:25",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El día de la boda de Salomón, celebrado públicamente con gozo y coronación, anticipa tipológicamente el día en que Cristo, el Novio celestial, presenta a su iglesia como esposa amada (Ef 5:25-27).",
+            "en": "Solomon's wedding day, publicly celebrated with joy and crowning, typologically anticipates the day when Christ, the heavenly Bridegroom, presents his church as his beloved bride (Eph 5:25-27).",
+            "pt": "O dia do casamento de Salomão, celebrado publicamente com alegria e coroação, antecipa tipologicamente o dia em que Cristo, o Noivo celestial, apresenta sua igreja como esposa amada (Ef 5:25-27)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Matrimonio": {
+            "es": "El cortejo nupcial y la coronación de Salomón 'el día del gozo de su corazón' (Cnt 3:11) formalizan públicamente el matrimonio como acontecimiento comunitario y gozoso.",
+            "en": "The bridal procession and Solomon's crowning 'on the day of the gladness of his heart' (Song 3:11) publicly formalize marriage as a joyful, communal event.",
+            "pt": "O cortejo nupcial e a coroação de Salomão 'no dia da alegria do seu coração' (Ct 3:11) formalizam publicamente o casamento como acontecimento comunitário e alegre."
+          }
+        },
+        "secundarios": [
+          {
+            "Realeza/Trono de David": {
+              "es": "La litera real, la escolta de sesenta guerreros y la corona real (Cnt 3:7-11) enmarcan el matrimonio dentro del esplendor de la casa de David.",
+              "en": "The royal litter, the escort of sixty warriors, and the royal crown (Song 3:7-11) frame the marriage within the splendor of the house of David.",
+              "pt": "A liteira real, a escolta de sessenta guerreiros e a coroa real (Ct 3:7-11) emolduram o casamento dentro do esplendor da casa de Davi."
+            }
+          },
+          {
+            "Fidelidad/Hesed": {
+              "es": "La búsqueda incansable de la amada en la noche hasta hallar a su amado (Cnt 3:1-4) modela la lealtad tenaz característica del hesed pactual.",
+              "en": "The beloved's relentless nighttime search until she finds her lover (Song 3:1-4) models the tenacious loyalty characteristic of covenantal hesed.",
+              "pt": "A busca incansável da amada na noite até encontrar seu amado (Ct 3:1-4) modela a lealdade tenaz característica do hesed pactual."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 5,
+      "titulo": {
+        "es": "Consumación y Pérdida Nocturna",
+        "en": "Consummation and Nighttime Loss",
+        "pt": "Consumação e Perda Noturna"
+      },
+      "descripcion": {
+        "es": "Salomón alaba a su esposa de pies a cabeza en el primer gran poema descriptivo (Cnt 4:1-7) y la invita a bajar 'desde el Líbano' (Cnt 4:8), llamándola 'jardín cerrado' y 'fuente sellada' (Cnt 4:12), imágenes de exclusividad conyugal. Ella responde invitando al viento a esparcir su fragancia para que su amado 'venga a su huerto' (Cnt 4:16), y él acepta la invitación consumando el matrimonio: 'he entrado en mi huerto... he comido mi panal' (Cnt 5:1). La escena gira drásticamente cuando, de noche, ella tarda en abrir la puerta y su amado desaparece; lo busca por la ciudad, es golpeada por los guardias (Cnt 5:2-7), y describe su belleza a las hijas de Jerusalén en un segundo gran poema descriptivo (Cnt 5:10-16).",
+        "en": "Solomon praises his wife from head to toe in the first great descriptive poem (Song 4:1-7) and invites her to come down 'from Lebanon' (Song 4:8), calling her a 'garden locked' and a 'spring sealed' (Song 4:12), images of marital exclusivity. She responds by inviting the wind to scatter her fragrance so that her beloved may 'come to his garden' (Song 4:16), and he accepts the invitation, consummating the marriage: 'I came to my garden... I ate my honeycomb' (Song 5:1). The scene turns sharply when, at night, she delays opening the door and her lover disappears; she searches for him through the city, is beaten by the watchmen (Song 5:2-7), and describes his beauty to the daughters of Jerusalem in a second great descriptive poem (Song 5:10-16).",
+        "pt": "Salomão louva sua esposa da cabeça aos pés no primeiro grande poema descritivo (Ct 4:1-7) e a convida a descer 'do Líbano' (Ct 4:8), chamando-a de 'jardim fechado' e 'fonte selada' (Ct 4:12), imagens de exclusividade conjugal. Ela responde convidando o vento a espalhar sua fragrância para que seu amado 'venha ao seu jardim' (Ct 4:16), e ele aceita o convite consumando o casamento: 'entrei no meu jardim... comi o meu favo de mel' (Ct 5:1). A cena vira drasticamente quando, à noite, ela demora a abrir a porta e seu amado desaparece; ela o busca pela cidade, é espancada pelos guardas (Ct 5:2-7), e descreve sua beleza às filhas de Jerusalém em um segundo grande poema descritivo (Ct 5:10-16)."
+      },
+      "eventoClave": {
+        "es": "La consumación matrimonial ('he entrado en mi huerto', Cnt 5:1) marca el centro estructural del libro, inmediatamente seguida por la pérdida nocturna que introduce la crisis y la búsqueda (Cnt 5:2-7).",
+        "en": "The marital consummation ('I came to my garden,' Song 5:1) marks the book's structural center, immediately followed by the nighttime loss that introduces the crisis and search (Song 5:2-7).",
+        "pt": "A consumação matrimonial ('entrei no meu jardim', Ct 5:1) marca o centro estrutural do livro, imediatamente seguida pela perda noturna que introduz a crise e a busca (Ct 5:2-7)."
+      },
+      "versiculoClave": "Cnt 5:1",
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 2:24",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La imagen del 'jardín cerrado' y la consumación conyugal (Cnt 4:12; 5:1) ilustran poéticamente la unión de 'una sola carne' instituida en la creación (Gn 2:24).",
+            "en": "The image of the 'garden locked' and the marital consummation (Song 4:12; 5:1) poetically illustrate the 'one flesh' union instituted at creation (Gen 2:24).",
+            "pt": "A imagem do 'jardim fechado' e a consumação conjugal (Ct 4:12; 5:1) ilustram poeticamente a união de 'uma só carne' instituída na criação (Gn 2:24)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Jardín/Edén": {
+            "es": "El jardín cerrado, la fuente sellada y el huerto donde el amado 'come su panal' (Cnt 4:12-16; 5:1) convierten el cuerpo de la esposa en un espacio edénico exclusivo de intimidad conyugal.",
+            "en": "The locked garden, sealed spring, and orchard where the beloved 'eats his honeycomb' (Song 4:12-16; 5:1) turn the wife's body into an exclusive edenic space of marital intimacy.",
+            "pt": "O jardim fechado, a fonte selada e o pomar onde o amado 'come seu favo de mel' (Ct 4:12-16; 5:1) transformam o corpo da esposa em um espaço edênico exclusivo de intimidade conjugal."
+          }
+        },
+        "secundarios": [
+          {
+            "Matrimonio": {
+              "es": "La consumación explícita ('he entrado en mi huerto, hermana mía, esposa mía', Cnt 5:1) celebra el matrimonio ya sellado como el contexto legítimo del goce corporal.",
+              "en": "The explicit consummation ('I came to my garden, my sister, my bride,' Song 5:1) celebrates the already-sealed marriage as the legitimate context for bodily joy.",
+              "pt": "A consumação explícita ('entrei no meu jardim, minha irmã, minha esposa', Ct 5:1) celebra o casamento já selado como o contexto legítimo do gozo corporal."
+            }
+          },
+          {
+            "Fidelidad/Hesed": {
+              "es": "Pese al dolor de la búsqueda nocturna y el maltrato de los guardias (Cnt 5:2-7), la amada persiste en describir con devoción a su amado ante las hijas de Jerusalén (Cnt 5:10-16).",
+              "en": "Despite the pain of the nighttime search and mistreatment by the watchmen (Song 5:2-7), the beloved persists in devotedly describing her lover to the daughters of Jerusalem (Song 5:10-16).",
+              "pt": "Apesar da dor da busca noturna e do maltrato dos guardas (Ct 5:2-7), a amada persiste em descrever com devoção seu amado às filhas de Jerusalém (Ct 5:10-16)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 6,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Reencuentro y Pertenencia Renovada",
+        "en": "Reunion and Renewed Belonging",
+        "pt": "Reencontro e Pertencimento Renovado"
+      },
+      "descripcion": {
+        "es": "Ante la pregunta de las hijas de Jerusalén sobre adónde se ha ido el amado, la Sulamita responde que 'ha bajado a su huerto' (Cnt 6:1-2) y repite, ahora con plena seguridad, la fórmula de pertenencia mutua: 'yo soy de mi amado, y mi amado es mío' (Cnt 6:3). Salomón retoma la alabanza de su belleza, comparándola con Tirsa y Jerusalén, y la describe como 'imponente como ejércitos en orden' (Cnt 6:4-10). El capítulo cierra con una breve escena en el huerto de nogales (Cnt 6:11-12) y el llamado coral a que la Sulamita 'se vuelva' para ser contemplada (Cnt 6:13).",
+        "en": "In response to the daughters of Jerusalem's question about where her beloved has gone, the Shulammite answers that he 'has gone down to his garden' (Song 6:1-2) and repeats, now with full assurance, the formula of mutual belonging: 'I am my beloved's and my beloved is mine' (Song 6:3). Solomon resumes praising her beauty, comparing her to Tirzah and Jerusalem, and describing her as 'awesome as an army with banners' (Song 6:4-10). The chapter closes with a brief scene in the walnut orchard (Song 6:11-12) and the choral call for the Shulammite to 'turn' so she may be beheld (Song 6:13).",
+        "pt": "Diante da pergunta das filhas de Jerusalém sobre para onde foi o amado, a Sulamita responde que ele 'desceu ao seu jardim' (Ct 6:1-2) e repete, agora com plena segurança, a fórmula de pertencimento mútuo: 'eu sou do meu amado, e o meu amado é meu' (Ct 6:3). Salomão retoma o louvor à sua beleza, comparando-a a Tirza e Jerusalém, e a descreve como 'terrível como um exército com bandeiras' (Ct 6:4-10). O capítulo fecha com uma breve cena no pomar de nogueiras (Ct 6:11-12) e o chamado coral para que a Sulamita 'se volte' a fim de ser contemplada (Ct 6:13)."
+      },
+      "eventoClave": {
+        "es": "La repetición madura de la fórmula de pertenencia mutua (Cnt 6:3), ahora sin la ansiedad de la búsqueda del capítulo anterior, señala la restauración plena de la confianza conyugal tras la crisis nocturna.",
+        "en": "The mature repetition of the mutual belonging formula (Song 6:3), now without the anxiety of the previous chapter's search, signals the full restoration of marital trust after the nighttime crisis.",
+        "pt": "A repetição madura da fórmula de pertencimento mútuo (Ct 6:3), agora sem a ansiedade da busca do capítulo anterior, sinaliza a restauração plena da confiança conjugal após a crise noturna."
+      },
+      "versiculoClave": "Cnt 6:3",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Matrimonio": {
+            "es": "La fórmula reafirmada de pertenencia mutua tras el reencuentro (Cnt 6:3) muestra que la crisis de la búsqueda nocturna no quebró, sino que maduró, la seguridad del vínculo conyugal.",
+            "en": "The reaffirmed formula of mutual belonging after the reunion (Song 6:3) shows that the nighttime search's crisis did not break but rather matured the security of the marital bond.",
+            "pt": "A fórmula reafirmada de pertencimento mútuo após o reencontro (Ct 6:3) mostra que a crise da busca noturna não quebrou, mas amadureceu, a segurança do vínculo conjugal."
+          }
+        },
+        "secundarios": [
+          {
+            "Jardín/Edén": {
+              "es": "El amado 'ha bajado a su huerto' y al huerto de nogales (Cnt 6:2,11) mantiene el motivo del jardín como espacio de reencuentro e intimidad restaurada.",
+              "en": "The beloved 'has gone down to his garden' and to the walnut orchard (Song 6:2,11), sustaining the garden motif as a space of reunion and restored intimacy.",
+              "pt": "O amado 'desceu ao seu jardim' e ao pomar de nogueiras (Ct 6:2,11) mantém o motivo do jardim como espaço de reencontro e intimidade restaurada."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 7,
+      "rangoFin": 7,
+      "titulo": {
+        "es": "Deseo Maduro y Mutuo",
+        "en": "Mature Mutual Desire",
+        "pt": "Desejo Maduro e Mútuo"
+      },
+      "descripcion": {
+        "es": "Salomón ofrece un tercer y más extenso poema descriptivo, alabando el cuerpo de la Sulamita desde los pies hasta la cabeza, comparándola con una palmera y sus pechos con racimos (Cnt 7:1-9). En respuesta, ella pronuncia la declaración culminante de reciprocidad: 'yo soy de mi amado, y su deseo es hacia mí' (Cnt 7:10), invirtiendo deliberadamente el lenguaje de la maldición de Génesis 3:16. Luego ella misma toma la iniciativa, invitando a su amado a salir juntos al campo, pasar la noche entre las flores de alheña y ver si brotan las viñas, prometiéndole allí sus amores (Cnt 7:11-13).",
+        "en": "Solomon offers a third and most extensive descriptive poem, praising the Shulammite's body from feet to head, comparing her to a palm tree and her breasts to clusters of fruit (Song 7:1-9). In response, she pronounces the climactic declaration of reciprocity: 'I am my beloved's, and his desire is for me' (Song 7:10), deliberately reversing the curse language of Genesis 3:16. She then takes the initiative herself, inviting her beloved to go out together to the field, spend the night among the henna blossoms, and see whether the vines have budded, promising him her love there (Song 7:11-13).",
+        "pt": "Salomão oferece um terceiro e mais extenso poema descritivo, louvando o corpo da Sulamita dos pés à cabeça, comparando-a a uma palmeira e seus seios a cachos de frutas (Ct 7:1-9). Em resposta, ela pronuncia a declaração culminante de reciprocidade: 'eu sou do meu amado, e o seu desejo é por mim' (Ct 7:10), invertendo deliberadamente a linguagem da maldição de Gênesis 3:16. Em seguida ela mesma toma a iniciativa, convidando seu amado a saírem juntos ao campo, passar a noite entre as flores de hena e ver se as vinhas brotaram, prometendo-lhe ali seus amores (Ct 7:11-13)."
+      },
+      "eventoClave": {
+        "es": "La declaración 'su deseo es hacia mí' (Cnt 7:10) invierte deliberadamente la distorsión relacional de Gn 3:16, retratando poéticamente la restauración del designio conyugal original entre hombre y mujer.",
+        "en": "The declaration 'his desire is for me' (Song 7:10) deliberately reverses the relational distortion of Gen 3:16, poetically portraying the restoration of the original marital design between man and woman.",
+        "pt": "A declaração 'o seu desejo é por mim' (Ct 7:10) inverte deliberadamente a distorção relacional de Gn 3:16, retratando poeticamente a restauração do desígnio conjugal original entre homem e mulher."
+      },
+      "versiculoClave": "Cnt 7:10",
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 3:16",
+          "tipo": "alusión",
+          "nota": {
+            "es": "'Su deseo es hacia mí' (Cnt 7:10) alude e invierte deliberadamente 'tu deseo será para tu marido' (Gn 3:16), retratando la reciprocidad conyugal como restauración del designio anterior a la distorsión de la caída.",
+            "en": "'His desire is for me' (Song 7:10) deliberately alludes to and reverses 'your desire shall be for your husband' (Gen 3:16), portraying marital reciprocity as a restoration of the design prior to the fall's distortion.",
+            "pt": "'O seu desejo é por mim' (Ct 7:10) alude e inverte deliberadamente 'o teu desejo será para o teu marido' (Gn 3:16), retratando a reciprocidade conjugal como restauração do desígnio anterior à distorção da queda."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Matrimonio": {
+            "es": "El tercer poema de alabanza corporal y la declaración recíproca de deseo (Cnt 7:1-10) presentan el matrimonio maduro como espacio de admiración mutua sostenida y creciente.",
+            "en": "The third poem of bodily praise and the reciprocal declaration of desire (Song 7:1-10) present mature marriage as a space of sustained and growing mutual admiration.",
+            "pt": "O terceiro poema de louvor corporal e a declaração recíproca de desejo (Ct 7:1-10) apresentam o casamento maduro como espaço de admiração mútua sustentada e crescente."
+          }
+        },
+        "secundarios": [
+          {
+            "Creación/Nueva Creación": {
+              "es": "Al invertir 'tu deseo será para tu marido' (Gn 3:16) en 'su deseo es hacia mí' (Cnt 7:10), el texto anticipa poéticamente la restauración del orden creacional dañado por la caída.",
+              "en": "By reversing 'your desire shall be for your husband' (Gen 3:16) into 'his desire is for me' (Song 7:10), the text poetically anticipates the restoration of the creational order damaged by the fall.",
+              "pt": "Ao inverter 'o teu desejo será para o teu marido' (Gn 3:16) em 'o seu desejo é por mim' (Ct 7:10), o texto antecipa poeticamente a restauração da ordem criacional danificada pela queda."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 8,
+      "rangoFin": 8,
+      "titulo": {
+        "es": "Epílogo: El Sello del Amor",
+        "en": "Epilogue: The Seal of Love",
+        "pt": "Epílogo: O Selo do Amor"
+      },
+      "descripcion": {
+        "es": "La amada desea poder besar públicamente a su amado 'como hermano' sin ser censurada (Cnt 8:1-3) y repite por última vez el estribillo de no despertar el amor antes de tiempo (Cnt 8:4). Tras preguntarse quién sube del desierto recostada sobre su amado (Cnt 8:5), llega el clímax teológico del libro: 'ponme como sello sobre tu corazón... porque fuerte es como la muerte el amor' (Cnt 8:6-7). Sus hermanos recuerdan su preocupación por proteger a su hermana menor (Cnt 8:8-9), a lo cual ella responde afirmando su propia madurez ('yo era muralla', Cnt 8:10); el libro cierra contrastando la viña de Salomón en Baal-hamón con la viña propia de la amada (Cnt 8:11-12) y con la súplica final de que su amado se apresure, 'como el corzo o el cervatillo' (Cnt 8:13-14).",
+        "en": "The beloved wishes she could publicly kiss her lover 'as a brother' without censure (Song 8:1-3) and repeats for the last time the refrain against awakening love before its time (Song 8:4). After the question of who comes up from the wilderness leaning on her beloved (Song 8:5), the book's theological climax arrives: 'set me as a seal upon your heart... for love is strong as death' (Song 8:6-7). Her brothers recall their concern to protect their younger sister (Song 8:8-9), to which she responds by affirming her own maturity ('I was a wall,' Song 8:10); the book closes contrasting Solomon's vineyard at Baal-hamon with the beloved's own vineyard (Song 8:11-12) and with the final plea for her beloved to hurry, 'like a gazelle or a young stag' (Song 8:13-14).",
+        "pt": "A amada deseja poder beijar publicamente seu amado 'como irmão' sem ser censurada (Ct 8:1-3) e repete pela última vez o refrão de não despertar o amor antes do tempo (Ct 8:4). Depois de se perguntar quem sobe do deserto reclinada sobre seu amado (Ct 8:5), chega o clímax teológico do livro: 'põe-me como selo sobre o teu coração... porque o amor é forte como a morte' (Ct 8:6-7). Seus irmãos recordam sua preocupação em proteger a irmã menor (Ct 8:8-9), ao que ela responde afirmando sua própria maturidade ('eu era um muro', Ct 8:10); o livro fecha contrastando a vinha de Salomão em Baal-Hamom com a vinha própria da amada (Ct 8:11-12) e com a súplica final para que seu amado se apresse, 'como o gamo ou o cervo novo' (Ct 8:13-14)."
+      },
+      "eventoClave": {
+        "es": "La declaración 'fuerte es como la muerte el amor... ni las muchas aguas pueden apagarlo' (Cnt 8:6-7) es el clímax teológico de todo el libro, definiendo el amor conyugal como fuerza sellada e irrevocable.",
+        "en": "The declaration 'love is strong as death... many waters cannot quench it' (Song 8:6-7) is the theological climax of the entire book, defining marital love as a sealed and irrevocable force.",
+        "pt": "A declaração 'o amor é forte como a morte... as muitas águas não podem apagá-lo' (Ct 8:6-7) é o clímax teológico de todo o livro, definindo o amor conjugal como força selada e irrevogável."
+      },
+      "versiculoClave": "Cnt 8:6",
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 8:38-39",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La afirmación de que ninguna fuerza puede apagar el amor (Cnt 8:6-7) halla un paralelo mayor en la seguridad de que nada puede separar al creyente del amor de Dios en Cristo (Ro 8:38-39).",
+            "en": "The affirmation that no force can quench love (Song 8:6-7) finds a greater parallel in the assurance that nothing can separate the believer from the love of God in Christ (Rom 8:38-39).",
+            "pt": "A afirmação de que nenhuma força pode apagar o amor (Ct 8:6-7) encontra um paralelo maior na segurança de que nada pode separar o crente do amor de Deus em Cristo (Rm 8:38-39)."
+          }
+        },
+        {
+          "ref": "Ap 19:7-9",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El sello inquebrantable del amor conyugal (Cnt 8:6) anticipa tipológicamente la consumación final de las bodas del Cordero, cuando la esposa se ha preparado para su Esposo (Ap 19:7-9).",
+            "en": "The unbreakable seal of marital love (Song 8:6) typologically anticipates the final consummation of the marriage of the Lamb, when the bride has made herself ready for her Bridegroom (Rev 19:7-9).",
+            "pt": "O selo inquebrantável do amor conjugal (Ct 8:6) antecipa tipologicamente a consumação final das bodas do Cordeiro, quando a esposa se preparou para o seu Noivo (Ap 19:7-9)."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "El sello puesto 'sobre el corazón' y 'sobre el brazo' (Cnt 8:6) emplea lenguaje de vinculación pactual irrevocable para describir la naturaleza definitiva del compromiso conyugal.",
+            "en": "The seal placed 'upon the heart' and 'upon the arm' (Song 8:6) employs language of irrevocable covenantal binding to describe the definitive nature of the marital commitment.",
+            "pt": "O selo posto 'sobre o coração' e 'sobre o braço' (Ct 8:6) emprega linguagem de vinculação pactual irrevogável para descrever a natureza definitiva do compromisso conjugal."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "'Fuerte es como la muerte el amor' y 'las muchas aguas no pueden apagarlo' (Cnt 8:6-7) definen el amor conyugal como una lealtad inquebrantable comparable al hesed divino.",
+              "en": "'Love is strong as death' and 'many waters cannot quench it' (Song 8:6-7) define marital love as an unbreakable loyalty comparable to divine hesed.",
+              "pt": "'O amor é forte como a morte' e 'as muitas águas não podem apagá-lo' (Ct 8:6-7) definem o amor conjugal como uma lealdade inquebrantável comparável ao hesed divino."
+            }
+          },
+          {
+            "Matrimonio": {
+              "es": "El contraste entre la viña de Salomón y la viña propia de la amada (Cnt 8:11-12) y la súplica final por la venida del amado (Cnt 8:14) cierran el libro reafirmando la exclusividad y el anhelo del vínculo conyugal.",
+              "en": "The contrast between Solomon's vineyard and the beloved's own vineyard (Song 8:11-12) and the final plea for the beloved's coming (Song 8:14) close the book reaffirming the exclusivity and longing of the marital bond.",
+              "pt": "O contraste entre a vinha de Salomão e a vinha própria da amada (Ct 8:11-12) e a súplica final pela vinda do amado (Ct 8:14) fecham o livro reafirmando a exclusividade e o anseio do vínculo conjugal."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Autoría",
+          "Fecha",
+          "Contexto histórico",
+          "Resumen de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Authorship",
+          "Date",
+          "Historical context",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Autoria",
+          "Data",
+          "Contexto histórico",
+          "Resumo dos capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático reformado, profesor emérito de Teología y Estudios Bíblicos en el Phoenix Seminary, y editor general de la ESV Study Bible junto a Lane T. Dennis, presidente de Crossway.",
+          "en": "Wayne Grudem is a Reformed systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general editor of the ESV Study Bible alongside Lane T. Dennis, president of Crossway.",
+          "pt": "Wayne Grudem é teólogo sistemático reformado, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e editor geral da ESV Study Bible ao lado de Lane T. Dennis, presidente da Crossway."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos introductorios sobre autoría, fecha, estructura y teología, todo desde una perspectiva evangélica reformada comprometida con la inerrancia bíblica.",
+          "en": "Combines verse-by-verse exegetical notes with introductory essays on authorship, date, structure, and theology, all from a Reformed evangelical perspective committed to biblical inerrancy.",
+          "pt": "Combina notas exegéticas verso a verso com ensaios introdutórios sobre autoria, data, estrutura e teologia, tudo a partir de uma perspectiva evangélica reformada comprometida com a inerrância bíblica."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco introductorio sobre autoría salomónica, fecha, estructura literaria y contexto histórico del Cantar utilizado en este registro.",
+          "en": "Provided the introductory framework on Solomonic authorship, date, literary structure, and historical context of the Song used in this record.",
+          "pt": "Forneceu o quadro introdutório sobre autoria salomônica, data, estrutura literária e contexto histórico do Cântico utilizado neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Distintivos reformados",
+          "Âncoras confessionais",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, pastor y fundador de Ligonier Ministries, ampliamente reconocido como uno de los principales exponentes de la teología reformada confesional en el siglo XX y XXI.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, pastor, and founder of Ligonier Ministries, widely recognized as one of the leading exponents of confessional Reformed theology in the 20th and 21st centuries.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, pastor e fundador do Ligonier Ministries, amplamente reconhecido como um dos principais expoentes da teologia reformada confessional nos séculos XX e XXI."
+        },
+        "metodo": {
+          "es": "Edita notas de estudio ancladas explícitamente en la Confesión de Westminster y los credos reformados históricos, enfatizando la coherencia doctrinal confesional a través de todo el canon.",
+          "en": "He edits study notes explicitly anchored in the Westminster Confession and historic Reformed creeds, emphasizing confessional doctrinal coherence across the entire canon.",
+          "pt": "Edita notas de estudo ancoradas explicitamente na Confissão de Westminster e nos credos reformados históricos, enfatizando a coerência doutrinária confessional em todo o cânon."
+        },
+        "aportacion": {
+          "es": "Proveyó las conexiones confesionales del Cantar con la Confesión de Westminster (Cap. 24, del matrimonio) y las distintivas reformadas sobre la lectura del libro.",
+          "en": "Provided the Song's confessional connections to the Westminster Confession (Ch. 24, on marriage) and the Reformed distinctives on reading the book.",
+          "pt": "Forneceu as conexões confessionais do Cântico com a Confissão de Westminster (Cap. 24, do casamento) e os distintivos reformados sobre a leitura do livro."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-2015-esv"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R.C. Sproul (ed. general), Sociedad Bíblica Iberoamericana / Poiema",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto bíblico",
+          "Notas teológicas",
+          "Contexto canónico"
+        ],
+        "en": [
+          "Biblical text",
+          "Theological notes",
+          "Canonical context"
+        ],
+        "pt": [
+          "Texto bíblico",
+          "Notas teológicas",
+          "Contexto canônico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición hispanoamericana de la Reformation Study Bible, adaptada al texto de la NBLA (Nueva Biblia de las Américas) bajo la dirección editorial de R.C. Sproul y un equipo de teólogos reformados de habla hispana.",
+          "en": "The Hispanic-American edition of the Reformation Study Bible, adapted to the NBLA (Nueva Biblia de las Américas) text under the editorial direction of R.C. Sproul and a team of Spanish-speaking Reformed theologians.",
+          "pt": "Edição hispano-americana da Reformation Study Bible, adaptada ao texto da NBLA (Nueva Biblia de las Américas) sob a direção editorial de R.C. Sproul e uma equipe de teólogos reformados de língua espanhola."
+        },
+        "metodo": {
+          "es": "Traduce y adapta el aparato de notas confesionales reformadas al contexto lingüístico y eclesial hispanohablante, manteniendo fidelidad doctrinal a la Confesión de Westminster.",
+          "en": "Translates and adapts the confessional Reformed notes apparatus to the Spanish-speaking linguistic and ecclesial context, maintaining doctrinal fidelity to the Westminster Confession.",
+          "pt": "Traduz e adapta o aparato de notas confessionais reformadas ao contexto linguístico e eclesial hispanofalante, mantendo fidelidade doutrinária à Confissão de Westminster."
+        },
+        "aportacion": {
+          "es": "Proveyó el texto bíblico NBLA citado en los versículos clave y las notas teológicas en español utilizadas para este registro.",
+          "en": "Provided the NBLA biblical text cited in the key verses and the Spanish-language theological notes used for this record.",
+          "pt": "Forneceu o texto bíblico NBLA citado nos versículos-chave e as notas teológicas em espanhol utilizadas para este registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)",
+          "La Santidad de Dios (trad. 1998)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología sistemática",
+          "Antropología",
+          "Doctrina del matrimonio"
+        ],
+        "en": [
+          "Systematic theology",
+          "Anthropology",
+          "Doctrine of marriage"
+        ],
+        "pt": [
+          "Teologia sistemática",
+          "Antropologia",
+          "Doutrina do casamento"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, es uno de los teólogos sistemáticos evangélicos reformados más influyentes de las últimas décadas.",
+          "en": "Wayne Grudem, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, is one of the most influential Reformed evangelical systematic theologians of recent decades.",
+          "pt": "Wayne Grudem, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, é um dos teólogos sistemáticos evangélicos reformados mais influentes das últimas décadas."
+        },
+        "metodo": {
+          "es": "Organiza la teología por categorías doctrinales clásicas, sustentando cada doctrina con exégesis bíblica extensa y diálogo con la tradición reformada y evangélica más amplia.",
+          "en": "Organizes theology by classic doctrinal categories, supporting each doctrine with extensive biblical exegesis and dialogue with the Reformed and broader evangelical tradition.",
+          "pt": "Organiza a teologia por categorias doutrinárias clássicas, sustentando cada doutrina com exegese bíblica extensa e diálogo com a tradição reformada e evangélica mais ampla."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco doctrinal para las categorías de Creación, Pacto y Antropología aplicadas a la teología sistemática del Cantar en este registro.",
+          "en": "Provided the doctrinal framework for the categories of Creation, Covenant, and Anthropology applied to the Song's systematic theology in this record.",
+          "pt": "Forneceu o quadro doutrinário para as categorias de Criação, Pacto e Antropologia aplicadas à teologia sistemática do Cântico neste registro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Ethics (2018)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en el Seminario Teológico de Princeton, considerado el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary, considered the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Seminário Teológico de Princeton, considerado o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo y orgánico de la revelación a través de la historia redentora, leyendo cada época y libro canónico en su lugar dentro del arco que culmina en Cristo.",
+          "en": "He traces the progressive, organic development of revelation through redemptive history, reading each era and canonical book in its place within the arc culminating in Christ.",
+          "pt": "Traça o desenvolvimento progressivo e orgânico da revelação através da história redentora, lendo cada época e livro canônico em seu lugar dentro do arco que culmina em Cristo."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco tipológico e histórico-redentor que fundamenta la lectura cristológica del Cantar como anticipo del amor entre Cristo y su iglesia.",
+          "en": "Provided the typological and redemptive-historical framework underlying the Christological reading of the Song as a foretaste of the love between Christ and his church.",
+          "pt": "Forneceu o quadro tipológico e histórico-redentor que fundamenta a leitura cristológica do Cântico como antecipação do amor entre Cristo e sua igreja."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "Redemptive History and Biblical Interpretation (ed. 1980)"
+        ],
+        "url": "https://www.monergism.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "Song of Songs (Baker Commentary on the Old Testament Wisdom and Psalms)",
+      "autor": "Tremper Longman III",
+      "año": 2001,
+      "editorial": "Eerdmans",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Género",
+          "Estructura literaria",
+          "Biografía histórica de personajes"
+        ],
+        "en": [
+          "Genre",
+          "Literary structure",
+          "Historical biography of characters"
+        ],
+        "pt": [
+          "Gênero",
+          "Estrutura literária",
+          "Biografia histórica de personagens"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Tremper Longman III es profesor emérito de Estudios Bíblicos en Westmont College y uno de los comentaristas evangélicos más reconocidos de la literatura sapiencial del Antiguo Testamento.",
+          "en": "Tremper Longman III is professor emeritus of Biblical Studies at Westmont College and one of the most recognized evangelical commentators on Old Testament wisdom literature.",
+          "pt": "Tremper Longman III é professor emérito de Estudos Bíblicos no Westmont College e um dos comentaristas evangélicos mais reconhecidos da literatura sapiencial do Antigo Testamento."
+        },
+        "metodo": {
+          "es": "Combina el análisis filológico y estructural del hebreo con la comparación de paralelos literarios del Cercano Oriente antiguo, manteniendo una lectura canónica y cristológica final del texto.",
+          "en": "He combines philological and structural analysis of the Hebrew with comparison of ancient Near Eastern literary parallels, maintaining a final canonical and Christological reading of the text.",
+          "pt": "Combina a análise filológica e estrutural do hebraico com a comparação de paralelos literários do antigo Oriente Próximo, mantendo uma leitura canônica e cristológica final do texto."
+        },
+        "aportacion": {
+          "es": "Proveyó el análisis de la estructura literaria por unidades temáticas y los paralelos del antiguo Cercano Oriente utilizados en el contexto histórico y los resúmenes de capítulos.",
+          "en": "Provided the analysis of literary structure by thematic units and the ancient Near Eastern parallels used in the historical context and chapter summaries.",
+          "pt": "Forneceu a análise da estrutura literária por unidades temáticas e os paralelos do antigo Oriente Próximo utilizados no contexto histórico e nos resumos de capítulos."
+        },
+        "obras": [
+          "Song of Songs (2001)",
+          "How to Read Proverbs (2002)",
+          "An Introduction to the Old Testament (with Dillard, 2006)"
+        ],
+        "url": "https://www.eerdmans.com/9780802825438/song-of-songs/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Fuentes del Antiguo Cercano Oriente",
+          "Geografía"
+        ],
+        "en": [
+          "Historical context",
+          "Ancient Near Eastern sources",
+          "Geography"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Fontes do Antigo Oriente Próximo",
+          "Geografia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Equipo de eruditos evangélicos del Antiguo Testamento especializados en el trasfondo histórico, cultural y arqueológico del Cercano Oriente antiguo.",
+          "en": "A team of evangelical Old Testament scholars specializing in the historical, cultural, and archaeological background of the ancient Near East.",
+          "pt": "Equipe de eruditos evangélicos do Antigo Testamento especializados no pano de fundo histórico, cultural e arqueológico do antigo Oriente Próximo."
+        },
+        "metodo": {
+          "es": "Comentan versículo por versículo aportando paralelos arqueológicos y textuales del antiguo Cercano Oriente sin comprometer la autoridad ni la particularidad teológica del texto bíblico.",
+          "en": "They comment verse by verse, contributing archaeological and textual parallels from the ancient Near East without compromising the authority or theological particularity of the biblical text.",
+          "pt": "Comentam verso por verso, contribuindo com paralelos arqueológicos e textuais do antigo Oriente Próximo sem comprometer a autoridade nem a particularidade teológica do texto bíblico."
+        },
+        "aportacion": {
+          "es": "Proveyó los paralelos con los cantos de amor egipcios y los textos del matrimonio sagrado mesopotámico citados en las fuentes del Antiguo Cercano Oriente.",
+          "en": "Provided the parallels with Egyptian love songs and Mesopotamian sacred marriage texts cited in the Ancient Near Eastern sources.",
+          "pt": "Forneceu os paralelos com os cantos de amor egípcios e os textos do casamento sagrado mesopotâmico citados nas fontes do antigo Oriente Próximo."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: OT (2000)",
+          "Ancient Near Eastern Thought and the Old Testament (Walton, 2006)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.75,
+    "camposMarcados": [
+      {
+        "campo": "autor",
+        "razon": "Autoría debatida: el título hebreo atribuye el libro a Salomón, pero arameísmos y el probable préstamo persa 'appiryón' (Cnt 3:9) llevan a parte de la crítica moderna a proponer una fecha posterior; se siguió la regla de resolución de conflictos del pipeline, favoreciendo la autoría salomónica reformada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-20"
+      },
+      {
+        "campo": "año",
+        "razon": "La datación depende directamente del debate de autoría; se adoptó el rango c. 970-960 a.C., consistente con el reinado temprano de Salomón, según la posición reformada tradicional.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-20"
+      },
+      {
+        "campo": "contextoHistorico.arqueologia",
+        "razon": "La escala real de la 'Jerusalén de Salomón' en el siglo X a.C. es objeto de debate entre minimalistas y maximalistas arqueológicos; se presentó el debate documentando ambas posiciones sin ocultar la controversia.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-20"
+      },
+      {
+        "campo": "personajes[1].biografiaHistorica.nivelEvidencia",
+        "razon": "No existe evidencia extrabíblica que permita identificar históricamente a 'la Sulamita' más allá del texto poético mismo; se marcó nivelEvidencia como 'especulativo', y se documentó la propuesta minoritaria de identificarla con Abisag la sunamita sin adoptarla como conclusión.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-20"
+      },
+      {
+        "campo": "historiaRedentora.epoca",
+        "razon": "El Cantar no encaja limpiamente en ninguna época redentora única; se eligió 'Anticipación Profética' por su lugar en la sabiduría davídica que anticipa tipológicamente la unión de Cristo y su iglesia, siguiendo el mismo criterio aplicado a Proverbios.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-20"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-20T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline (ejecución automatizada)",
+      "rol": "editor",
+      "fechaRevision": "2026-07-20"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 4,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-20T00:00:00Z",
+          "fechaFin": "2026-07-20T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-20T00:00:00Z",
+          "fechaFin": "2026-07-20T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-20T00:00:00Z",
+          "fechaFin": "2026-07-20T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-20T00:00:00Z",
+          "fechaFin": "2026-07-20T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
