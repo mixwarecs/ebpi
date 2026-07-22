@@ -2258,7 +2258,7 @@
     "id": "acaz",
     "color": "#6B4A3A",
     "init": "אח",
-    "xCh": 7,
+    "xCh": { "Is": 7, "2Cr": 28 },
     "side": "below",
     "badge": {
       "es": "REY INCRÉDULO",
@@ -2270,7 +2270,7 @@
     "id": "ezequias",
     "color": "#2E5A9A",
     "init": "חז",
-    "xCh": { "Is": 36, "2R": 18 },
+    "xCh": { "Is": 36, "2R": 18, "2Cr": 29 },
     "side": "above",
     "badge": {
       "es": "REY FIEL",
@@ -2294,7 +2294,7 @@
     "id": "ciro",
     "color": "#B08A2A",
     "init": "כו",
-    "xCh": 44,
+    "xCh": { "Is": 44, "2Cr": 36 },
     "side": "above",
     "badge": {
       "es": "UNGIDO LIBERTADOR",
@@ -2333,7 +2333,7 @@
     "id": "josias",
     "color": "#3A7A4A",
     "init": "יא",
-    "xCh": { "Jer": 22, "2R": 22 },
+    "xCh": { "Jer": 22, "2R": 22, "2Cr": 34 },
     "side": "below",
     "badge": {
       "es": "REY REFORMADOR",
@@ -2683,7 +2683,7 @@
     "id": "salomon",
     "color": "#A0651B",
     "init": "של",
-    "xCh": { "Sal": 72, "Pr": 1, "1R": 3 },
+    "xCh": { "Sal": 72, "Pr": 1, "1R": 3, "1Cr": 22, "2Cr": 1 },
     "side": "below",
     "badge": {
       "es": "REY SABIO",
@@ -2863,12 +2863,96 @@
     "id": "roboam",
     "color": "#6B4423",
     "init": "רח",
-    "xCh": 12,
+    "xCh": { "1R": 12, "2Cr": 10 },
     "side": "above",
     "badge": {
       "es": "NECIO EN SIQUEM",
       "en": "FOOL AT SHECHEM",
       "pt": "TOLO EM SIQUÉM"
+    }
+  },
+  "Asa": {
+    "id": "asa-rey",
+    "color": "#4A6B7A",
+    "init": "אס",
+    "xCh": { "2Cr": 14 },
+    "side": "above",
+    "badge": {
+      "es": "CONFÍA EN JEHOVÁ",
+      "en": "TRUSTS THE LORD",
+      "pt": "CONFIA NO SENHOR"
+    }
+  },
+  "Josafat": {
+    "id": "josafat",
+    "color": "#8B3A3A",
+    "init": "יה",
+    "xCh": { "2Cr": 17 },
+    "side": "below",
+    "badge": {
+      "es": "MAESTRO DE LA LEY",
+      "en": "TEACHER OF THE LAW",
+      "pt": "MESTRE DA LEI"
+    }
+  },
+  "Jahaziel": {
+    "id": "jahaziel",
+    "color": "#3A8BAA",
+    "init": "יח",
+    "xCh": { "2Cr": 20 },
+    "side": "above",
+    "badge": {
+      "es": "VOZ DEL ESPÍRITU",
+      "en": "VOICE OF THE SPIRIT",
+      "pt": "VOZ DO ESPÍRITO"
+    }
+  },
+  "Joiada": {
+    "id": "joiada-sumo-sacerdote",
+    "color": "#2A7A6B",
+    "init": "יד",
+    "xCh": { "2Cr": 22 },
+    "side": "below",
+    "badge": {
+      "es": "GUARDIÁN DEL TRONO",
+      "en": "GUARDIAN OF THE THRONE",
+      "pt": "GUARDIÃO DO TRONO"
+    }
+  },
+  "Joás": {
+    "id": "joas-juda",
+    "color": "#7A6B1A",
+    "init": "יו",
+    "xCh": { "2Cr": 23 },
+    "side": "above",
+    "badge": {
+      "es": "REY RESCATADO",
+      "en": "RESCUED KING",
+      "pt": "REI RESGATADO"
+    }
+  },
+  "Uzías": {
+    "id": "uzias",
+    "color": "#9A8020",
+    "init": "עז",
+    "xCh": { "2Cr": 26 },
+    "side": "above",
+    "badge": {
+      "es": "REY LEPROSO",
+      "en": "LEPER KING",
+      "pt": "REI LEPROSO"
+    }
+  },
+  "Hulda": {
+    "id": "hulda-profetisa",
+    "color": "#7A3A6B",
+    "init": "חל",
+    "xCh": { "2Cr": 34 },
+    "side": "above",
+    "badge": {
+      "es": "PROFETISA DE JERUSALÉN",
+      "en": "PROPHETESS OF JERUSALEM",
+      "pt": "PROFETISA DE JERUSALÉM"
     }
   },
   "Acab": {
@@ -2995,7 +3079,7 @@
     "id": "atalia",
     "color": "#4A1A6B",
     "init": "עת",
-    "xCh": 11,
+    "xCh": { "2R": 11, "2Cr": 22 },
     "side": "above",
     "badge": {
       "es": "USURPADORA DEL TRONO",
@@ -3031,7 +3115,7 @@
     "id": "manases",
     "color": "#3A2A5A",
     "init": "מנ",
-    "xCh": 21,
+    "xCh": { "2R": 21, "2Cr": 33 },
     "side": "below",
     "badge": {
       "es": "APÓSTATA TOTAL",

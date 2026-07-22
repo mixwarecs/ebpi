@@ -896,12 +896,13 @@
       "ordenCanon": 14,
       "capitulosTotal": 36,
       "divisionColor": "#B6F7D0",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Historia del reino del sur con énfasis en el templo y la reforma religiosa, cerrando con el decreto de Ciro que abre la puerta al retorno.",
         "en": "History of the southern kingdom with emphasis on the temple and religious reform, closing with the decree of Cyrus that opens the door to the return.",
         "pt": "História do reino do sul com ênfase no templo e na reforma religiosa, encerrando com o decreto de Ciro que abre a porta para o retorno."
-      }
+      },
+      "dataFile": "2cronicas.json"
     },
     {
       "id": 15,
