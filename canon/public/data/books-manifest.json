@@ -875,12 +875,13 @@
       "ordenCanon": 13,
       "capitulosTotal": 29,
       "divisionColor": "#B6F7D0",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "Relectura sacerdotal-davídica de la historia para la comunidad postexílica, con genealogías que conectan a Adán con David — reafirmando la promesa pese al exilio.",
         "en": "A sacerdotal-Davidic re-reading of history for the post-exilic community, with genealogies connecting Adam to David — reaffirming the promise despite the exile.",
         "pt": "Releitura sacerdotal-davídica da história para a comunidade pós-exílica, com genealogias que conectam Adão a Davi — reafirmando a promessa apesar do exílio."
-      }
+      },
+      "dataFile": "1cronicas.json"
     },
     {
       "id": 14,

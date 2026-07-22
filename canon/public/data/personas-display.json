@@ -1518,12 +1518,72 @@
     "id": "joab",
     "color": "#2D5A27",
     "init": "יא",
-    "xCh": 2,
+    "xCh": { "2S": 2, "1Cr": 11 },
     "side": "above",
     "badge": {
       "es": "GENERAL DEL EJÉRCITO",
       "en": "ARMY GENERAL",
       "pt": "GENERAL DO EXÉRCITO"
+    }
+  },
+  "Uza": {
+    "id": "uza",
+    "color": "#7A2E2E",
+    "init": "עז",
+    "xCh": 13,
+    "side": "above",
+    "badge": {
+      "es": "TOCÓ EL ARCA",
+      "en": "TOUCHED THE ARK",
+      "pt": "TOCOU A ARCA"
+    }
+  },
+  "Obed-edom": {
+    "id": "obed-edom",
+    "color": "#5A3D7A",
+    "init": "עא",
+    "xCh": 13,
+    "side": "below",
+    "badge": {
+      "es": "CASA BENDECIDA",
+      "en": "BLESSED HOUSEHOLD",
+      "pt": "CASA ABENÇOADA"
+    }
+  },
+  "Jabes": {
+    "id": "jabes",
+    "color": "#7A5C2E",
+    "init": "יע",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "ORACIÓN RESPONDIDA",
+      "en": "ANSWERED PRAYER",
+      "pt": "ORAÇÃO RESPONDIDA"
+    }
+  },
+  "Ornán": {
+    "id": "ornan",
+    "color": "#6B4A2A",
+    "init": "אר",
+    "xCh": 21,
+    "side": "above",
+    "badge": {
+      "es": "DUEÑO DE LA ERA",
+      "en": "THRESHING FLOOR OWNER",
+      "pt": "DONO DA EIRA"
+    }
+  },
+  "Gad": {
+    "id": "gad-vidente",
+    "color": "#8B4A6B",
+    "init": "גד",
+    "xCh": { "1Cr": 21 },
+    "side": "below",
+    "badge": {
+      "es": "VIDENTE DEL REY",
+      "en": "THE KING'S SEER",
+      "pt": "VIDENTE DO REI"
     }
   },
   "Is-boset": {
@@ -2599,7 +2659,7 @@
     "id": "asaf",
     "color": "#1B6B5E",
     "init": "אס",
-    "xCh": 50,
+    "xCh": { "Sal": 50, "1Cr": 15 },
     "side": "below",
     "badge": {
       "es": "LEVITA CANTOR",
