@@ -917,12 +917,13 @@
       "ordenCanon": 15,
       "capitulosTotal": 10,
       "divisionColor": "#B6F7D0",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El retorno del exilio y la reconstrucción del templo bajo el decreto persa — la fidelidad de Dios para restaurar a un remanente.",
         "en": "The return from exile and the rebuilding of the temple under the Persian decree — God's faithfulness to restore a remnant.",
         "pt": "O retorno do exílio e a reconstrução do templo sob o decreto persa — a fidelidade de Deus em restaurar um remanescente."
-      }
+      },
+      "dataFile": "esdras.json"
     },
     {
       "id": 16,
@@ -937,12 +938,13 @@
       "ordenCanon": 16,
       "capitulosTotal": 13,
       "divisionColor": "#B6F7D0",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "La reconstrucción de los muros de Jerusalén y la renovación del pacto bajo Esdras y Nehemías, estableciendo la comunidad postexílica.",
         "en": "The rebuilding of Jerusalem's walls and the renewal of the covenant under Ezra and Nehemiah, establishing the post-exilic community.",
         "pt": "A reconstrução dos muros de Jerusalém e a renovação da aliança sob Esdras e Neemias, estabelecendo a comunidade pós-exílica."
-      }
+      },
+      "dataFile": "nehemias.json"
     },
     {
       "id": 17,
@@ -957,7 +959,8 @@
       "ordenCanon": 17,
       "capitulosTotal": 10,
       "divisionColor": "#B6F7D0",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "ester.json",
       "razon": {
         "es": "La preservación providencial del pueblo judío en la diáspora persa — Dios actúa sin ser mencionado explícitamente, modelo de providencia oculta.",
         "en": "The providential preservation of the Jewish people in the Persian diaspora — God acts without being explicitly mentioned, a model of hidden providence.",

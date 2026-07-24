@@ -111,7 +111,10 @@
     "id": "moises",
     "color": "#4A6741",
     "init": "מש",
-    "xCh": { "Éx": 3, "Sal": 90 },
+    "xCh": {
+      "Éx": 3,
+      "Sal": 90
+    },
     "side": "above",
     "badge": {
       "es": "MEDIADOR DEL PACTO",
@@ -330,7 +333,10 @@
     "id": "elias",
     "color": "#8B5E1A",
     "init": "Ηλ",
-    "xCh": { "Ro": 11, "1R": 17 },
+    "xCh": {
+      "Ro": 11,
+      "1R": 17
+    },
     "side": "below",
     "badge": {
       "es": "PROFETA DEL REMANENTE",
@@ -1292,7 +1298,10 @@
     "id": "saul",
     "color": "#4A5A6A",
     "init": "שא",
-    "xCh": { "1S": 9, "Sal": 18 },
+    "xCh": {
+      "1S": 9,
+      "Sal": 18
+    },
     "side": "above",
     "badge": {
       "es": "PRIMER REY",
@@ -1316,7 +1325,12 @@
     "id": "david",
     "color": "#2A4A8B",
     "init": "דו",
-    "xCh": { "1S": 16, "Sal": 51, "Pr": 1, "1R": 1 },
+    "xCh": {
+      "1S": 16,
+      "Sal": 51,
+      "Pr": 1,
+      "1R": 1
+    },
     "side": "above",
     "badge": {
       "es": "REY UNGIDO",
@@ -1518,7 +1532,10 @@
     "id": "joab",
     "color": "#2D5A27",
     "init": "יא",
-    "xCh": { "2S": 2, "1Cr": 11 },
+    "xCh": {
+      "2S": 2,
+      "1Cr": 11
+    },
     "side": "above",
     "badge": {
       "es": "GENERAL DEL EJÉRCITO",
@@ -1578,7 +1595,9 @@
     "id": "gad-vidente",
     "color": "#8B4A6B",
     "init": "גד",
-    "xCh": { "1Cr": 21 },
+    "xCh": {
+      "1Cr": 21
+    },
     "side": "below",
     "badge": {
       "es": "VIDENTE DEL REY",
@@ -1602,7 +1621,10 @@
     "id": "natan",
     "color": "#8B6914",
     "init": "נת",
-    "xCh": { "2S": 7, "1R": 1 },
+    "xCh": {
+      "2S": 7,
+      "1R": 1
+    },
     "side": "above",
     "badge": {
       "es": "PROFETA REAL",
@@ -1626,7 +1648,10 @@
     "id": "betsabe",
     "color": "#8B3D6A",
     "init": "בת",
-    "xCh": { "2S": 11, "1R": 1 },
+    "xCh": {
+      "2S": 11,
+      "1R": 1
+    },
     "side": "above",
     "badge": {
       "es": "ESPOSA DEL REY",
@@ -1674,7 +1699,10 @@
     "id": "absalon",
     "color": "#8B2020",
     "init": "אב",
-    "xCh": { "2S": 15, "Sal": 3 },
+    "xCh": {
+      "2S": 15,
+      "Sal": 3
+    },
     "side": "above",
     "badge": {
       "es": "PRÍNCIPE REBELDE",
@@ -2246,7 +2274,10 @@
     "id": "isaias",
     "color": "#2A6B5E",
     "init": "יש",
-    "xCh": { "Is": 6, "2R": 19 },
+    "xCh": {
+      "Is": 6,
+      "2R": 19
+    },
     "side": "above",
     "badge": {
       "es": "PROFETA DE JUDÁ",
@@ -2258,7 +2289,10 @@
     "id": "acaz",
     "color": "#6B4A3A",
     "init": "אח",
-    "xCh": { "Is": 7, "2Cr": 28 },
+    "xCh": {
+      "Is": 7,
+      "2Cr": 28
+    },
     "side": "below",
     "badge": {
       "es": "REY INCRÉDULO",
@@ -2270,7 +2304,11 @@
     "id": "ezequias",
     "color": "#2E5A9A",
     "init": "חז",
-    "xCh": { "Is": 36, "2R": 18, "2Cr": 29 },
+    "xCh": {
+      "Is": 36,
+      "2R": 18,
+      "2Cr": 29
+    },
     "side": "above",
     "badge": {
       "es": "REY FIEL",
@@ -2282,7 +2320,10 @@
     "id": "senaquerib",
     "color": "#8A3418",
     "init": "סנ",
-    "xCh": { "Is": 36, "2R": 18 },
+    "xCh": {
+      "Is": 36,
+      "2R": 18
+    },
     "side": "below",
     "badge": {
       "es": "REY DE ASIRIA",
@@ -2294,7 +2335,11 @@
     "id": "ciro",
     "color": "#B08A2A",
     "init": "כו",
-    "xCh": { "Is": 44, "2Cr": 36 },
+    "xCh": {
+      "Is": 44,
+      "2Cr": 36,
+      "Esd": 1
+    },
     "side": "above",
     "badge": {
       "es": "UNGIDO LIBERTADOR",
@@ -2333,7 +2378,11 @@
     "id": "josias",
     "color": "#3A7A4A",
     "init": "יא",
-    "xCh": { "Jer": 22, "2R": 22, "2Cr": 34 },
+    "xCh": {
+      "Jer": 22,
+      "2R": 22,
+      "2Cr": 34
+    },
     "side": "below",
     "badge": {
       "es": "REY REFORMADOR",
@@ -2659,7 +2708,10 @@
     "id": "asaf",
     "color": "#1B6B5E",
     "init": "אס",
-    "xCh": { "Sal": 50, "1Cr": 15 },
+    "xCh": {
+      "Sal": 50,
+      "1Cr": 15
+    },
     "side": "below",
     "badge": {
       "es": "LEVITA CANTOR",
@@ -2683,7 +2735,13 @@
     "id": "salomon",
     "color": "#A0651B",
     "init": "של",
-    "xCh": { "Sal": 72, "Pr": 1, "1R": 3, "1Cr": 22, "2Cr": 1 },
+    "xCh": {
+      "Sal": 72,
+      "Pr": 1,
+      "1R": 3,
+      "1Cr": 22,
+      "2Cr": 1
+    },
     "side": "below",
     "badge": {
       "es": "REY SABIO",
@@ -2863,7 +2921,10 @@
     "id": "roboam",
     "color": "#6B4423",
     "init": "רח",
-    "xCh": { "1R": 12, "2Cr": 10 },
+    "xCh": {
+      "1R": 12,
+      "2Cr": 10
+    },
     "side": "above",
     "badge": {
       "es": "NECIO EN SIQUEM",
@@ -2875,7 +2936,9 @@
     "id": "asa-rey",
     "color": "#4A6B7A",
     "init": "אס",
-    "xCh": { "2Cr": 14 },
+    "xCh": {
+      "2Cr": 14
+    },
     "side": "above",
     "badge": {
       "es": "CONFÍA EN JEHOVÁ",
@@ -2887,7 +2950,9 @@
     "id": "josafat",
     "color": "#8B3A3A",
     "init": "יה",
-    "xCh": { "2Cr": 17 },
+    "xCh": {
+      "2Cr": 17
+    },
     "side": "below",
     "badge": {
       "es": "MAESTRO DE LA LEY",
@@ -2899,7 +2964,9 @@
     "id": "jahaziel",
     "color": "#3A8BAA",
     "init": "יח",
-    "xCh": { "2Cr": 20 },
+    "xCh": {
+      "2Cr": 20
+    },
     "side": "above",
     "badge": {
       "es": "VOZ DEL ESPÍRITU",
@@ -2911,7 +2978,9 @@
     "id": "joiada-sumo-sacerdote",
     "color": "#2A7A6B",
     "init": "יד",
-    "xCh": { "2Cr": 22 },
+    "xCh": {
+      "2Cr": 22
+    },
     "side": "below",
     "badge": {
       "es": "GUARDIÁN DEL TRONO",
@@ -2923,7 +2992,9 @@
     "id": "joas-juda",
     "color": "#7A6B1A",
     "init": "יו",
-    "xCh": { "2Cr": 23 },
+    "xCh": {
+      "2Cr": 23
+    },
     "side": "above",
     "badge": {
       "es": "REY RESCATADO",
@@ -2935,7 +3006,9 @@
     "id": "uzias",
     "color": "#9A8020",
     "init": "עז",
-    "xCh": { "2Cr": 26 },
+    "xCh": {
+      "2Cr": 26
+    },
     "side": "above",
     "badge": {
       "es": "REY LEPROSO",
@@ -2947,7 +3020,9 @@
     "id": "hulda-profetisa",
     "color": "#7A3A6B",
     "init": "חל",
-    "xCh": { "2Cr": 34 },
+    "xCh": {
+      "2Cr": 34
+    },
     "side": "above",
     "badge": {
       "es": "PROFETISA DE JERUSALÉN",
@@ -2971,7 +3046,10 @@
     "id": "jezabel",
     "color": "#8B1A4A",
     "init": "אי",
-    "xCh": { "1R": 16, "2R": 9 },
+    "xCh": {
+      "1R": 16,
+      "2R": 9
+    },
     "side": "above",
     "badge": {
       "es": "REINA IDÓLATRA",
@@ -3079,7 +3157,10 @@
     "id": "atalia",
     "color": "#4A1A6B",
     "init": "עת",
-    "xCh": { "2R": 11, "2Cr": 22 },
+    "xCh": {
+      "2R": 11,
+      "2Cr": 22
+    },
     "side": "above",
     "badge": {
       "es": "USURPADORA DEL TRONO",
@@ -3115,7 +3196,10 @@
     "id": "manases",
     "color": "#3A2A5A",
     "init": "מנ",
-    "xCh": { "2R": 21, "2Cr": 33 },
+    "xCh": {
+      "2R": 21,
+      "2Cr": 33
+    },
     "side": "below",
     "badge": {
       "es": "APÓSTATA TOTAL",
@@ -3169,6 +3253,264 @@
       "es": "REY EXILIADO",
       "en": "EXILED KING",
       "pt": "REI EXILADO"
+    }
+  },
+  "Esdras": {
+    "id": "esdras",
+    "color": "#2E5C8C",
+    "init": "עז",
+    "xCh": {
+      "Esd": 7,
+      "Neh": 8
+    },
+    "side": "above",
+    "badge": {
+      "es": "ESCRIBA Y REFORMADOR",
+      "en": "SCRIBE AND REFORMER",
+      "pt": "ESCRIBA E REFORMADOR"
+    }
+  },
+  "Zorobabel": {
+    "id": "zorobabel",
+    "color": "#8C5A2E",
+    "init": "זר",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "GOBERNADOR DAVÍDICO",
+      "en": "DAVIDIC GOVERNOR",
+      "pt": "GOVERNADOR DAVÍDICO"
+    }
+  },
+  "Josué (el sumo sacerdote)": {
+    "id": "josue-sumo-sacerdote",
+    "color": "#5A3A8C",
+    "init": "יש",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "SUMO SACERDOTE RESTAURADOR",
+      "en": "RESTORING HIGH PRIEST",
+      "pt": "SUMO SACERDOTE RESTAURADOR"
+    }
+  },
+  "Darío I": {
+    "id": "dario-i",
+    "color": "#3A7A9C",
+    "init": "דר",
+    "xCh": 5,
+    "side": "above",
+    "badge": {
+      "es": "CONFIRMA EL DECRETO",
+      "en": "CONFIRMS THE DECREE",
+      "pt": "CONFIRMA O DECRETO"
+    }
+  },
+  "Artajerjes I": {
+    "id": "artajerjes-i",
+    "color": "#8C2E4A",
+    "init": "אר",
+    "xCh": {
+      "Esd": 4,
+      "Neh": 2
+    },
+    "side": "above",
+    "badge": {
+      "es": "AUTORIZA A ESDRAS",
+      "en": "AUTHORIZES EZRA",
+      "pt": "AUTORIZA ESDRAS"
+    }
+  },
+  "Sesbasar": {
+    "id": "sesbasar",
+    "color": "#5A6B3A",
+    "init": "שש",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PRÍNCIPE CUSTODIO",
+      "en": "CUSTODIAN PRINCE",
+      "pt": "PRÍNCIPE CUSTÓDIO"
+    }
+  },
+  "Rehum y Simsai": {
+    "id": "rehum-simsai",
+    "color": "#6B2E2E",
+    "init": "רש",
+    "xCh": 4,
+    "side": "below",
+    "badge": {
+      "es": "ACUSADORES DE JUDÁ",
+      "en": "ACCUSERS OF JUDAH",
+      "pt": "ACUSADORES DE JUDÁ"
+    }
+  },
+  "Tatnai": {
+    "id": "tatnai",
+    "color": "#4A8C5A",
+    "init": "תת",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "GOBERNADOR IMPARCIAL",
+      "en": "IMPARTIAL GOVERNOR",
+      "pt": "GOVERNADOR IMPARCIAL"
+    }
+  },
+  "Nehemías": {
+    "id": "nehemias",
+    "color": "#1E7A5C",
+    "init": "נח",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "COPERO Y GOBERNADOR",
+      "en": "CUPBEARER AND GOVERNOR",
+      "pt": "COPEIRO E GOVERNADOR"
+    }
+  },
+  "Hanani": {
+    "id": "hanani",
+    "color": "#4A7A3A",
+    "init": "חנ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "HERMANO MENSAJERO",
+      "en": "MESSENGER BROTHER",
+      "pt": "IRMÃO MENSAGEIRO"
+    }
+  },
+  "Sanbalat el horonita": {
+    "id": "sanbalat",
+    "color": "#8C4A2E",
+    "init": "סנ",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "GOBERNADOR OPOSITOR",
+      "en": "OPPOSING GOVERNOR",
+      "pt": "GOVERNADOR OPOSITOR"
+    }
+  },
+  "Eliasib el sumo sacerdote": {
+    "id": "eliasib",
+    "color": "#2E6B6B",
+    "init": "אל",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "SUMO SACERDOTE COMPROMETIDO",
+      "en": "COMPROMISED HIGH PRIEST",
+      "pt": "SUMO SACERDOTE COMPROMETIDO"
+    }
+  },
+  "Tobías el amonita": {
+    "id": "tobias",
+    "color": "#5A2E6B",
+    "init": "טו",
+    "xCh": 4,
+    "side": "above",
+    "badge": {
+      "es": "ALIADO INFILTRADO",
+      "en": "INFILTRATING ALLY",
+      "pt": "ALIADO INFILTRADO"
+    }
+  },
+  "Gesem el árabe": {
+    "id": "gesem",
+    "color": "#6B5A2E",
+    "init": "גש",
+    "xCh": 6,
+    "side": "above",
+    "badge": {
+      "es": "JEFE ÁRABE OPOSITOR",
+      "en": "ARAB OPPOSING CHIEF",
+      "pt": "CHEFE ÁRABE OPOSITOR"
+    }
+  },
+  "Semaías": {
+    "id": "semaias",
+    "color": "#7A2E2E",
+    "init": "שמ",
+    "xCh": 6,
+    "side": "below",
+    "badge": {
+      "es": "FALSO PROFETA",
+      "en": "FALSE PROPHET",
+      "pt": "FALSO PROFETA"
+    }
+  },
+  "Ester (Hadasa)": {
+    "id": "ester",
+    "color": "#A03A6B",
+    "init": "אס",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "REINA Y LIBERTADORA",
+      "en": "QUEEN AND DELIVERER",
+      "pt": "RAINHA E LIBERTADORA"
+    }
+  },
+  "Mardoqueo": {
+    "id": "mardoqueo",
+    "color": "#1E6B54",
+    "init": "מר",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "GUARDIÁN Y ESTRATEGA",
+      "en": "GUARDIAN AND STRATEGIST",
+      "pt": "GUARDIÃO E ESTRATEGISTA"
+    }
+  },
+  "Asuero (Jerjes I)": {
+    "id": "asuero",
+    "color": "#9C7A1E",
+    "init": "אח",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "REY DE PERSIA",
+      "en": "KING OF PERSIA",
+      "pt": "REI DA PÉRSIA"
+    }
+  },
+  "Amán": {
+    "id": "aman",
+    "color": "#8B1A2A",
+    "init": "המ",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "VISIR Y ANTAGONISTA",
+      "en": "VIZIER AND ANTAGONIST",
+      "pt": "VISIR E ANTAGONISTA"
+    }
+  },
+  "Vasti": {
+    "id": "vasti",
+    "color": "#5A3A8B",
+    "init": "וש",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "REINA DESTITUIDA",
+      "en": "DEPOSED QUEEN",
+      "pt": "RAINHA DESTITUÍDA"
+    }
+  },
+  "Zeres": {
+    "id": "zeres",
+    "color": "#6B5230",
+    "init": "זר",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "ESPOSA DE AMÁN",
+      "en": "HAMAN'S WIFE",
+      "pt": "ESPOSA DE HAMÃ"
     }
   }
 }
