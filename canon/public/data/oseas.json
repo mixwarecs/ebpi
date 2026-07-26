@@ -1,0 +1,2096 @@
+{
+  "id": 28,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Oseas",
+    "en": "Hosea",
+    "pt": "Oséias"
+  },
+  "tituloOriginal": "הוֹשֵׁעַ",
+  "transliteracion": "Hoshea",
+  "significado": {
+    "es": "«Salvación» o «El SEÑOR ha salvado» — de la misma raíz hebrea (yasha') que da origen al nombre Josué/Jesús",
+    "en": "\"Salvation\" or \"The LORD has saved\" — from the same Hebrew root (yasha') that produces the name Joshua/Jesus",
+    "pt": "«Salvação» ou «O SENHOR salvou» — da mesma raiz hebraica (yasha') que dá origem ao nome Josué/Jesus"
+  },
+  "resumenGeneral": {
+    "es": "Oseas abre con un mandato escandaloso: el profeta debe casarse con una mujer promiscua y nombrar a sus hijos con señales de juicio —Jezreel, Lo-ruhama, Lo-ammi— convirtiendo su propio matrimonio en un oráculo viviente del pacto roto de Israel (Os 1:2-9). El arco oracular se mueve entonces desde la acusación legal contra la esposa infiel, que es también el pueblo (Os 2:2-13), hacia la primera nota de esperanza cuando Yahvé mismo promete «hablarle al corazón» en el desierto (Os 2:14-23) y el profeta es enviado a comprar de vuelta a su esposa adúltera (Os 3:1-5). Los capítulos 4-10 despliegan una acusación extensa y descriptiva contra sacerdotes, reyes y pueblo por idolatría baalista, alianzas político-militares con Egipto y Asiria, e injusticia social, con la advertencia recurrente de que «sembraron viento y cosecharán torbellino» (Os 8:7). El punto de inflexión llega en el capítulo 11, donde la voz de Dios pasa del fiscal al padre herido: «cuando Israel era niño, yo lo amé» (Os 11:1), y su compasión contiene la ira («no ejecutaré el ardor de mi ira», Os 11:9). El libro cierra en el capítulo 14 con un llamado explícito al arrepentimiento y la promesa de que Dios sanará la apostasía de Israel y lo amará «de pura gracia» (Os 14:4), dejando abierta la pregunta de si la nación responderá antes de la caída de Samaria.",
+    "en": "Hosea opens with a scandalous command: the prophet must marry a promiscuous woman and name his children with signs of judgment — Jezreel, Lo-ruhamah, Lo-ammi — turning his own marriage into a living oracle of Israel's broken covenant (Hos 1:2-9). The oracular arc then moves from the legal indictment of the unfaithful wife, who is also the nation (Hos 2:2-13), toward the first note of hope when the LORD himself promises to \"speak tenderly\" to her in the wilderness (Hos 2:14-23) and the prophet is sent to buy back his adulterous wife (Hos 3:1-5). Chapters 4-10 unfold an extended, descriptive indictment of priests, kings, and people for Baal idolatry, political-military alliances with Egypt and Assyria, and social injustice, with the recurring warning that \"they sow the wind and reap the whirlwind\" (Hos 8:7). The turning point arrives in chapter 11, where God's voice shifts from prosecutor to wounded father: \"when Israel was a child, I loved him\" (Hos 11:1), and his compassion restrains his wrath (\"I will not execute my burning anger,\" Hos 11:9). The book closes in chapter 14 with an explicit call to repentance and the promise that God will heal Israel's apostasy and love them \"freely\" (Hos 14:4), leaving open whether the nation will respond before Samaria's fall.",
+    "pt": "Oséias abre com uma ordem escandalosa: o profeta deve casar-se com uma mulher promíscua e nomear seus filhos com sinais de juízo — Jezreel, Lo-Ruama, Lo-Ami — transformando seu próprio casamento num oráculo vivo do pacto quebrado de Israel (Os 1:2-9). O arco oracular move-se então da acusação legal contra a esposa infiel, que é também a nação (Os 2:2-13), rumo à primeira nota de esperança quando o próprio SENHOR promete «falar-lhe ao coração» no deserto (Os 2:14-23) e o profeta é enviado para resgatar sua esposa adúltera (Os 3:1-5). Os capítulos 4-10 desdobram uma acusação extensa contra sacerdotes, reis e povo por idolatria baalista, alianças político-militares com Egito e Assíria, e injustiça social, com o aviso recorrente de que «semeiam vento e colherão tempestade» (Os 8:7). O ponto de virada chega no capítulo 11, onde a voz de Deus passa de acusador a pai ferido: «quando Israel era menino, eu o amei» (Os 11:1), e sua compaixão contém a ira («não executarei o ardor da minha ira», Os 11:9). O livro se encerra no capítulo 14 com um chamado explícito ao arrependimento e a promessa de que Deus curará a apostasia de Israel e o amará «voluntariamente» (Os 14:4), deixando em aberto se a nação responderá antes da queda de Samaria."
+  },
+  "capitulosTotal": 14,
+  "autor": {
+    "nombre": {
+      "es": "Oseas",
+      "en": "Hosea",
+      "pt": "Oséias"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El libro se presenta como «la palabra del SEÑOR que vino a Oseas hijo de Beeri» (Os 1:1), un profeta del Reino del Norte, único entre los profetas escritores que ministró exclusivamente a Israel/Efraín. La tradición reformada sostiene la autoría directa de Oseas sobre la totalidad del libro, incluyendo la narración autobiográfica en primera persona de los capítulos 1 y 3, frente a propuestas críticas que atribuyen los oráculos de esperanza (p. ej. Os 14) a un redactor judaíta posterior; se prefiere la unidad de autoría por la coherencia teológica y estilística del libro completo.",
+      "en": "The book presents itself as \"the word of the LORD that came to Hosea the son of Beeri\" (Hos 1:1), a prophet of the Northern Kingdom, unique among the writing prophets in ministering exclusively to Israel/Ephraim. The Reformed tradition upholds Hosea's direct authorship of the entire book, including the first-person autobiographical narrative in chapters 1 and 3, against critical proposals that attribute the hope oracles (e.g., Hos 14) to a later Judean redactor; unity of authorship is preferred for the book's theological and stylistic coherence.",
+      "pt": "O livro se apresenta como «a palavra do SENHOR, que veio a Oséias, filho de Beeri» (Os 1:1), um profeta do Reino do Norte, único entre os profetas escritores a ministrar exclusivamente a Israel/Efraim. A tradição reformada sustenta a autoria direta de Oséias sobre todo o livro, incluindo a narrativa autobiográfica em primeira pessoa dos capítulos 1 e 3, contra propostas críticas que atribuem os oráculos de esperança (p. ex. Os 14) a um redator judaíta posterior; prefere-se a unidade de autoria pela coerência teológica e estilística do livro completo."
+    }
+  },
+  "año": {
+    "desde": -755,
+    "hasta": -710,
+    "display": {
+      "es": "Fecha de escritura: c. 755–710 a.C.",
+      "en": "Date of writing: c. 755–710 BC",
+      "pt": "Data de escrita: c. 755–710 a.C."
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Reino del Norte de Israel (probablemente Samaria o sus alrededores), con la forma final del libro posiblemente fijada en Judá tras la caída de Samaria en 722 a.C.",
+    "en": "The Northern Kingdom of Israel (probably Samaria or its environs), with the book's final form possibly fixed in Judah after Samaria's fall in 722 BC",
+    "pt": "O Reino do Norte de Israel (provavelmente Samaria ou seus arredores), com a forma final do livro possivelmente fixada em Judá após a queda de Samaria em 722 a.C."
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Samaria",
+          "en": "Samaria",
+          "pt": "Samaria"
+        },
+        "identificacionModerna": {
+          "es": "Sebastia, Cisjordania",
+          "en": "Sebastia, West Bank",
+          "pt": "Sebastia, Cisjordânia"
+        },
+        "significancia": {
+          "es": "Capital del Reino del Norte desde Omri (1R 16:24); sede del culto a Baal y del liderazgo político que Oseas denuncia repetidamente (Os 7:1; 8:5-6; 10:5-7), y ciudad cuya caída ante Asiria en 722 a.C. es el trasfondo inminente de todo el libro.",
+          "en": "Capital of the Northern Kingdom since Omri (1 Kgs 16:24); seat of Baal worship and the political leadership Hosea repeatedly denounces (Hos 7:1; 8:5-6; 10:5-7), and the city whose fall to Assyria in 722 BC is the looming backdrop of the entire book.",
+          "pt": "Capital do Reino do Norte desde Onri (1Rs 16:24); sede do culto a Baal e da liderança política que Oséias denuncia repetidamente (Os 7:1; 8:5-6; 10:5-7), e cidade cuja queda diante da Assíria em 722 a.C. é o pano de fundo iminente de todo o livro."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Bet-el",
+          "en": "Bethel",
+          "pt": "Betel"
+        },
+        "identificacionModerna": {
+          "es": "Beitin, Cisjordania",
+          "en": "Beitin, West Bank",
+          "pt": "Beitin, Cisjordânia"
+        },
+        "significancia": {
+          "es": "Uno de los dos santuarios de becerros de oro erigidos por Jeroboam I (1R 12:28-29); Oseas lo llama sarcásticamente «Bet-avén» («casa de iniquidad», Os 4:15; 10:5), invirtiendo su nombre original «casa de Dios».",
+          "en": "One of the two golden-calf shrines erected by Jeroboam I (1 Kgs 12:28-29); Hosea sarcastically renames it \"Beth-aven\" (\"house of iniquity,\" Hos 4:15; 10:5), inverting its original name \"house of God.\"",
+          "pt": "Um dos dois santuários de bezerros de ouro erigidos por Jeroboão I (1Rs 12:28-29); Oséias o chama sarcasticamente de «Bete-Áven» («casa da iniquidade», Os 4:15; 10:5), invertendo seu nome original «casa de Deus»."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Gilgal",
+          "en": "Gilgal",
+          "pt": "Gilgal"
+        },
+        "identificacionModerna": {
+          "es": "Cercanías de Jericó, valle del Jordán",
+          "en": "Vicinity of Jericho, Jordan Valley",
+          "pt": "Proximidades de Jericó, vale do Jordão"
+        },
+        "significancia": {
+          "es": "Lugar del primer campamento israelita en Canaán y de la coronación de Saúl (1S 11:15); para el siglo VIII a.C. se había convertido en centro de culto sincretista que Oseas condena junto a Bet-el (Os 4:15; 9:15; 12:11).",
+          "en": "Site of Israel's first encampment in Canaan and of Saul's coronation (1 Sam 11:15); by the 8th century BC it had become a syncretistic cult center Hosea condemns alongside Bethel (Hos 4:15; 9:15; 12:11).",
+          "pt": "Local do primeiro acampamento israelita em Canaã e da coroação de Saul (1Sm 11:15); no século VIII a.C. havia se tornado centro de culto sincretista que Oséias condena junto com Betel (Os 4:15; 9:15; 12:11)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Jezreel",
+          "en": "Jezreel",
+          "pt": "Jezreel"
+        },
+        "identificacionModerna": {
+          "es": "Tel Jezreel, valle de Jezreel",
+          "en": "Tel Jezreel, Jezreel Valley",
+          "pt": "Tel Jezreel, vale de Jezreel"
+        },
+        "significancia": {
+          "es": "Valle y ciudad donde Jehú masacró a la casa de Acab (2R 9-10); Oseas nombra a su hijo primogénito «Jezreel» como señal de que Dios vengará esa sangre sobre la dinastía de Jehú y pondrá fin al reino de Israel (Os 1:4-5).",
+          "en": "Valley and city where Jehu massacred the house of Ahab (2 Kgs 9-10); Hosea names his firstborn son \"Jezreel\" as a sign that God will avenge that bloodshed on Jehu's dynasty and bring the kingdom of Israel to an end (Hos 1:4-5).",
+          "pt": "Vale e cidade onde Jeú massacrou a casa de Acabe (2Rs 9-10); Oséias dá a seu filho primogênito o nome «Jezreel» como sinal de que Deus vingará esse sangue sobre a dinastia de Jeú e porá fim ao reino de Israel (Os 1:4-5)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Egipto",
+          "en": "Egypt",
+          "pt": "Egito"
+        },
+        "identificacionModerna": {
+          "es": "Egipto moderno, delta y valle del Nilo",
+          "en": "Modern Egypt, Nile Delta and Valley",
+          "pt": "Egito moderno, delta e vale do Nilo"
+        },
+        "significancia": {
+          "es": "Potencia a la que Israel recurre en busca de alianza militar contra Asiria (Os 7:11; 12:1) y símbolo teológico del lugar de esclavitud del que Dios llamó a su hijo (Os 11:1), además de destino de exilio amenazado (Os 9:3,6).",
+          "en": "Power to which Israel turns for military alliance against Assyria (Hos 7:11; 12:1) and a theological symbol of the house of bondage from which God called his son (Hos 11:1), as well as a threatened place of exile (Hos 9:3,6).",
+          "pt": "Potência à qual Israel recorre em busca de aliança militar contra a Assíria (Os 7:11; 12:1) e símbolo teológico da casa da escravidão de onde Deus chamou seu filho (Os 11:1), além de destino de exílio ameaçado (Os 9:3,6)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Asiria",
+          "en": "Assyria",
+          "pt": "Assíria"
+        },
+        "identificacionModerna": {
+          "es": "Norte de Irak moderno, alrededor de Nínive, Nimrud (Calah) y Assur",
+          "en": "Northern modern Iraq, around Nineveh, Nimrud (Calah), and Assur",
+          "pt": "Norte do Iraque moderno, em torno de Nínive, Ninrode (Calá) e Assur"
+        },
+        "significancia": {
+          "es": "Imperio dominante del siglo VIII a.C. al que Israel paga tributo (2R 15:19-20) y con el que también coquetea diplomáticamente (Os 5:13; 7:11; 8:9); el instrumento del juicio de Dios que finalmente destruirá Samaria en 722 a.C.",
+          "en": "Dominant 8th-century BC empire to which Israel pays tribute (2 Kgs 15:19-20) and with which it also flirts diplomatically (Hos 5:13; 7:11; 8:9); the instrument of God's judgment that will finally destroy Samaria in 722 BC.",
+          "pt": "Império dominante do século VIII a.C. ao qual Israel paga tributo (2Rs 15:19-20) e com o qual também flerta diplomaticamente (Os 5:13; 7:11; 8:9); o instrumento do juízo de Deus que finalmente destruirá Samaria em 722 a.C."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Reino del Norte de Israel (Efraín)",
+          "en": "Northern Kingdom of Israel (Ephraim)",
+          "pt": "Reino do Norte de Israel (Efraim)"
+        },
+        "rolEnElTexto": {
+          "es": "Destinatario exclusivo de las profecías de Oseas; llamado repetidamente «Efraín» por su tribu dominante, retratado como la esposa infiel de Yahvé y el hijo rebelde que corre hacia la ruina política bajo sus últimos reyes.",
+          "en": "The exclusive audience of Hosea's prophecies; repeatedly called \"Ephraim\" after its dominant tribe, portrayed as Yahweh's unfaithful wife and the rebellious son racing toward political ruin under its final kings.",
+          "pt": "Destinatário exclusivo das profecias de Oséias; chamado repetidamente de «Efraim» por sua tribo dominante, retratado como a esposa infiel de Javé e o filho rebelde correndo para a ruína política sob seus últimos reis."
+        },
+        "estadoArqueologico": {
+          "es": "Bien atestiguado por excavaciones en Samaria (palacio de Omri/Acab, marfiles samaritanos) y por los Ostraca de Samaria, que documentan la administración agrícola israelita del período que describe Oseas.",
+          "en": "Well attested by excavations at Samaria (Omri/Ahab's palace, Samaria ivories) and by the Samaria Ostraca, which document the Israelite agricultural administration of the period Hosea describes.",
+          "pt": "Bem atestado por escavações em Samaria (palácio de Onri/Acabe, marfins samaritanos) e pelos Óstraca de Samaria, que documentam a administração agrícola israelita do período que Oséias descreve."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Imperio Neoasirio",
+          "en": "Neo-Assyrian Empire",
+          "pt": "Império Neoassírio"
+        },
+        "rolEnElTexto": {
+          "es": "Potencia extranjera que Israel busca como aliado y a la que Oseas identifica como el instrumento del juicio divino que pondrá fin al reino del norte (Os 9:3; 10:6; 11:5).",
+          "en": "Foreign power Israel seeks as an ally, which Hosea identifies as the instrument of divine judgment that will end the northern kingdom (Hos 9:3; 10:6; 11:5).",
+          "pt": "Potência estrangeira que Israel busca como aliada, e que Oséias identifica como o instrumento do juízo divino que porá fim ao reino do norte (Os 9:3; 10:6; 11:5)."
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentado por los anales de Tiglat-pileser III, que registran el tributo de Menahem de Israel (2R 15:19-20), y por los relieves y crónicas de Salmanasar V y Sargón II sobre la caída de Samaria.",
+          "en": "Extensively documented by the annals of Tiglath-Pileser III, which record the tribute of Menahem of Israel (2 Kgs 15:19-20), and by the reliefs and chronicles of Shalmaneser V and Sargon II concerning the fall of Samaria.",
+          "pt": "Amplamente documentado pelos anais de Tiglate-Pileser III, que registram o tributo de Menaém de Israel (2Rs 15:19-20), e pelos relevos e crônicas de Salmaneser V e Sargão II sobre a queda de Samaria."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cananeos / culto a Baal",
+          "en": "Canaanites / Baal cult",
+          "pt": "Cananeus / culto a Baal"
+        },
+        "rolEnElTexto": {
+          "es": "Trasfondo religioso sincretista contra el que se dirige la denuncia central del libro: Israel atribuye a Baal, dios cananeo de la fertilidad, las bendiciones agrícolas que en realidad provienen de Yahvé (Os 2:8; 13:1).",
+          "en": "Syncretistic religious background against which the book's central indictment is directed: Israel credits Baal, the Canaanite fertility god, with agricultural blessings that actually come from Yahweh (Hos 2:8; 13:1).",
+          "pt": "Pano de fundo religioso sincretista contra o qual se dirige a acusação central do livro: Israel atribui a Baal, deus cananeu da fertilidade, as bênçãos agrícolas que na verdade vêm de Javé (Os 2:8; 13:1)."
+        },
+        "estadoArqueologico": {
+          "es": "Confirmado por los textos ugaríticos de Ras Shamra, que describen los mitos y rituales de fertilidad de Baal, y por los Ostraca de Samaria, que mencionan nombres teofóricos compuestos con «Baal» junto a los de Yahvé.",
+          "en": "Confirmed by the Ugaritic texts from Ras Shamra, which describe Baal's fertility myths and rituals, and by the Samaria Ostraca, which record theophoric names compounded with \"Baal\" alongside those with Yahweh.",
+          "pt": "Confirmado pelos textos ugaríticos de Ras Shamra, que descrevem os mitos e rituais de fertilidade de Baal, e pelos Óstraca de Samaria, que registram nomes teofóricos compostos com «Baal» ao lado dos de Javé."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Los Ostraca de Samaria (c. 780-770 a.C., aproximadamente una generación antes del ministerio de Oseas) confirman la prosperidad agrícola de aceite y vino que el libro denuncia como fuente de orgullo idólatra (Os 2:8; 10:1), y sus nombres personales muestran una mezcla de devoción a Yahvé y a Baal que corrobora exactamente el sincretismo religioso que Oseas ataca. Los anales de Tiglat-pileser III corroboran el trasfondo político de vasallaje y rebelión israelita frente a Asiria que subyace en Os 5:13; 7:11; 8:9-10. La destrucción arqueológicamente documentada de Samaria (estrato correspondiente a 722 a.C.) confirma el cumplimiento del juicio anunciado. La arqueología no puede confirmar ni refutar los detalles biográficos del matrimonio de Oseas con Gomer, que permanecen como testimonio profético interno sin paralelo extrabíblico esperable.",
+      "en": "The Samaria Ostraca (c. 780-770 BC, roughly a generation before Hosea's ministry) confirm the agricultural prosperity in oil and wine that the book denounces as a source of idolatrous pride (Hos 2:8; 10:1), and their personal names show a mixture of devotion to Yahweh and Baal that corroborates exactly the religious syncretism Hosea attacks. The annals of Tiglath-Pileser III corroborate the political backdrop of Israelite vassalage and rebellion against Assyria underlying Hos 5:13; 7:11; 8:9-10. The archaeologically documented destruction of Samaria (stratum corresponding to 722 BC) confirms the fulfillment of the announced judgment. Archaeology can neither confirm nor refute the biographical details of Hosea's marriage to Gomer, which remain internal prophetic testimony with no expectable extrabiblical parallel.",
+      "pt": "Os Óstraca de Samaria (c. 780-770 a.C., aproximadamente uma geração antes do ministério de Oséias) confirmam a prosperidade agrícola de azeite e vinho que o livro denuncia como fonte de orgulho idólatra (Os 2:8; 10:1), e seus nomes pessoais mostram uma mescla de devoção a Javé e a Baal que corrobora exatamente o sincretismo religioso que Oséias ataca. Os anais de Tiglate-Pileser III corroboram o pano de fundo político de vassalagem e rebelião israelita diante da Assíria subjacente a Os 5:13; 7:11; 8:9-10. A destruição arqueologicamente documentada de Samaria (estrato correspondente a 722 a.C.) confirma o cumprimento do juízo anunciado. A arqueologia não pode confirmar nem refutar os detalhes biográficos do casamento de Oséias com Gômer, que permanecem como testemunho profético interno sem paralelo extrabíblico esperável."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Anales de Tiglat-pileser III",
+          "en": "Annals of Tiglath-Pileser III",
+          "pt": "Anais de Tiglate-Pileser III"
+        },
+        "origen": {
+          "es": "Inscripciones reales asirias, palacio de Nimrud (Calah), siglo VIII a.C.",
+          "en": "Assyrian royal inscriptions, palace of Nimrud (Calah), 8th century BC",
+          "pt": "Inscrições reais assírias, palácio de Ninrode (Calá), século VIII a.C."
+        },
+        "relevancia": {
+          "es": "Registran el tributo de Menahem de Israel (cf. 2R 15:19-20) y las campañas asirias en el Levante que forman el trasfondo político inmediato de las advertencias de Oseas contra confiar en Asiria (Os 5:13; 8:9).",
+          "en": "Record Menahem of Israel's tribute (cf. 2 Kgs 15:19-20) and the Assyrian campaigns in the Levant that form the immediate political backdrop of Hosea's warnings against trusting Assyria (Hos 5:13; 8:9).",
+          "pt": "Registram o tributo de Menaém de Israel (cf. 2Rs 15:19-20) e as campanhas assírias no Levante que formam o pano de fundo político imediato das advertências de Oséias contra confiar na Assíria (Os 5:13; 8:9)."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Ostraca de Samaria",
+          "en": "Samaria Ostraca",
+          "pt": "Óstraca de Samaria"
+        },
+        "origen": {
+          "es": "Fragmentos de cerámica administrativa hallados en el palacio real de Samaria, c. 780-770 a.C.",
+          "en": "Administrative pottery fragments found in the royal palace at Samaria, c. 780-770 BC",
+          "pt": "Fragmentos de cerâmica administrativa encontrados no palácio real de Samaria, c. 780-770 a.C."
+        },
+        "relevancia": {
+          "es": "Documentan envíos de aceite y vino y nombres personales con elementos teofóricos de Yahvé y Baal mezclados, confirmando la base económica agrícola y el sincretismo religioso que Oseas denuncia (Os 2:8; 10:1; 13:1).",
+          "en": "Document shipments of oil and wine and personal names with mixed Yahwistic and Baalistic theophoric elements, confirming the agricultural economic base and religious syncretism Hosea denounces (Hos 2:8; 10:1; 13:1).",
+          "pt": "Documentam remessas de azeite e vinho e nomes pessoais com elementos teofóricos de Javé e Baal misturados, confirmando a base econômica agrícola e o sincretismo religioso que Oséias denuncia (Os 2:8; 10:1; 13:1)."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Textos ugaríticos de Ras Shamra",
+          "en": "Ugaritic texts from Ras Shamra",
+          "pt": "Textos ugaríticos de Ras Shamra"
+        },
+        "origen": {
+          "es": "Archivo de tablillas cuneiformes de Ugarit (Ras Shamra, costa siria), c. 1400-1200 a.C.",
+          "en": "Cuneiform tablet archive from Ugarit (Ras Shamra, Syrian coast), c. 1400-1200 BC",
+          "pt": "Arquivo de tabuletas cuneiformes de Ugarite (Ras Shamra, costa síria), c. 1400-1200 a.C."
+        },
+        "relevancia": {
+          "es": "Describen el ciclo mitológico de Baal como dios de la tormenta y la fertilidad, cuya adoración —incluyendo prácticas cúlticas asociadas— es precisamente lo que Oseas denuncia como adulterio espiritual de Israel (Os 2:13; 4:13-14).",
+          "en": "Describe the mythological cycle of Baal as storm and fertility god, whose worship — including associated cultic practices — is precisely what Hosea denounces as Israel's spiritual adultery (Hos 2:13; 4:13-14).",
+          "pt": "Descrevem o ciclo mitológico de Baal como deus da tempestade e da fertilidade, cuja adoração — incluindo práticas cúlticas associadas — é precisamente o que Oséias denuncia como adultério espiritual de Israel (Os 2:13; 4:13-14)."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia histórica concierne la naturaleza del matrimonio de Oseas con Gomer (Os 1-3): algunos intérpretes lo consideran una visión o parábola puramente literaria, no un evento histórico, dada la aparente imposibilidad moral de que Dios ordene a un profeta casarse con una prostituta. La tradición reformada, siguiendo la lectura llana del texto («Ve, toma para ti una mujer fornicaria», Os 1:2), sostiene que fue un matrimonio histórico y una orden divina extraordinaria y única, cuyo escándalo mismo era el mensaje: la ofensa moral que el lector siente al leerlo es la ofensa que Dios siente por la idolatría de Israel. Una segunda controversia es cronológica: el encabezado (Os 1:1) menciona reyes de Judá (Uzías-Ezequías) y solo a Jeroboam II de Israel, lo que algunos críticos toman como evidencia de edición judaíta tardía; la posición conservadora explica esto por la audiencia final del libro tras la caída de Samaria, sin negar la autoría oseática de fondo.",
+      "en": "The principal historical controversy concerns the nature of Hosea's marriage to Gomer (Hos 1-3): some interpreters regard it as a purely literary vision or parable, not a historical event, given the apparent moral difficulty of God commanding a prophet to marry a prostitute. The Reformed tradition, following the text's plain reading (\"Go, take to yourself a wife of whoredom,\" Hos 1:2), holds that it was a historical marriage and an extraordinary, unique divine command, whose very scandal was the message: the moral offense the reader feels on reading it is the offense God feels at Israel's idolatry. A second controversy is chronological: the heading (Hos 1:1) names kings of Judah (Uzziah-Hezekiah) but only Jeroboam II of Israel, which some critics take as evidence of later Judean editing; the conservative position explains this by the book's final audience after Samaria's fall, without denying underlying Hosean authorship.",
+      "pt": "A principal controvérsia histórica diz respeito à natureza do casamento de Oséias com Gômer (Os 1-3): alguns intérpretes o consideram uma visão ou parábola puramente literária, não um evento histórico, dada a aparente dificuldade moral de Deus ordenar a um profeta que se case com uma prostituta. A tradição reformada, seguindo a leitura simples do texto («Vai, toma para ti uma mulher de prostituições», Os 1:2), sustenta que foi um casamento histórico e uma ordem divina extraordinária e única, cujo próprio escândalo era a mensagem: a ofensa moral que o leitor sente ao lê-lo é a ofensa que Deus sente pela idolatria de Israel. Uma segunda controvérsia é cronológica: o cabeçalho (Os 1:1) menciona reis de Judá (Uzias-Ezequias) mas apenas Jeroboão II de Israel, o que alguns críticos tomam como evidência de edição judaíta tardia; a posição conservadora explica isso pela audiência final do livro após a queda de Samaria, sem negar a autoria oseana subjacente."
+    },
+    "cronologiaInterna": {
+      "es": "El encabezado sitúa el ministerio de Oseas durante los reinados de Uzías, Jotam, Acaz y Ezequías en Judá y de Jeroboam II en Israel (Os 1:1), lo que da un ministerio profético de al menos cuatro décadas (c. 755-710 a.C.). El nacimiento de los tres hijos (Os 1:3-9) ocurre temprano, probablemente hacia el final del reinado próspero pero espiritualmente corrupto de Jeroboam II (murió c. 753 a.C.). Los oráculos de los capítulos 4-13 reflejan la subsiguiente inestabilidad política del Reino del Norte —seis reyes en menos de treinta años, cuatro de ellos asesinados (cf. 2R 15)— y las crecientes presiones asirias hasta la caída inminente de Samaria en 722 a.C., que el libro anticipa pero no narra como ya ocurrida.",
+      "en": "The heading places Hosea's ministry during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah in Judah and Jeroboam II in Israel (Hos 1:1), yielding a prophetic ministry of at least four decades (c. 755-710 BC). The birth of the three children (Hos 1:3-9) occurs early, probably toward the end of Jeroboam II's prosperous but spiritually corrupt reign (died c. 753 BC). The oracles of chapters 4-13 reflect the Northern Kingdom's subsequent political instability — six kings in under thirty years, four of them assassinated (cf. 2 Kgs 15) — and mounting Assyrian pressure up to Samaria's imminent fall in 722 BC, which the book anticipates but does not narrate as already past.",
+      "pt": "O cabeçalho situa o ministério de Oséias durante os reinados de Uzias, Jotão, Acaz e Ezequias em Judá e de Jeroboão II em Israel (Os 1:1), o que dá um ministério profético de pelo menos quatro décadas (c. 755-710 a.C.). O nascimento dos três filhos (Os 1:3-9) ocorre cedo, provavelmente perto do fim do reinado próspero mas espiritualmente corrupto de Jeroboão II (morreu c. 753 a.C.). Os oráculos dos capítulos 4-13 refletem a subsequente instabilidade política do Reino do Norte — seis reis em menos de trinta anos, quatro deles assassinados (cf. 2Rs 15) — e a crescente pressão assíria até a iminente queda de Samaria em 722 a.C., que o livro antecipa mas não narra como já ocorrida."
+    }
+  },
+  "ordenEnDivision": 1,
+  "ordenCanon": 28,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Oseas revela a Cristo principalmente a través de la figura del esposo redentor: así como Oseas compra de vuelta a su esposa adúltera del mercado de esclavos (Os 3:1-2), Cristo redime a su iglesia adúltera con su propia sangre y la presenta a sí mismo como esposa pura (Ef 5:25-27). El clamor paterno de Os 11:1, «de Egipto llamé a mi hijo», es aplicado directamente a Cristo en Mt 2:15, mostrando que Jesús recapitula y cumple la vocación de Israel como el verdadero Hijo obediente donde Israel fue desobediente. La promesa de resurrección en Os 6:2 («al tercer día nos levantará») y el desafío a la muerte en Os 13:14 («¿dónde está, oh muerte, tu aguijón?») son citados por Pablo en 1Co 15:54-55 como cumplidos en la resurrección de Cristo, y la reversión de «Lo-ammi» (no mi pueblo) a «hijos del Dios viviente» (Os 1:10; 2:23) es aplicada por Pablo a la inclusión de los gentiles en Cristo (Ro 9:25-26).",
+      "en": "Hosea reveals Christ chiefly through the figure of the redeeming husband: just as Hosea buys back his adulterous wife from the slave market (Hos 3:1-2), Christ redeems his adulterous church with his own blood and presents her to himself as a pure bride (Eph 5:25-27). The fatherly cry of Hos 11:1, \"out of Egypt I called my son,\" is applied directly to Christ in Matt 2:15, showing that Jesus recapitulates and fulfills Israel's vocation as the true obedient Son where Israel was disobedient. The promise of resurrection in Hos 6:2 (\"on the third day he will raise us up\") and the taunt against death in Hos 13:14 (\"O Death, where is your sting?\") are cited by Paul in 1 Cor 15:54-55 as fulfilled in Christ's resurrection, and the reversal of \"Lo-ammi\" (not my people) to \"sons of the living God\" (Hos 1:10; 2:23) is applied by Paul to the inclusion of Gentiles in Christ (Rom 9:25-26).",
+      "pt": "Oséias revela a Cristo principalmente através da figura do esposo redentor: assim como Oséias resgata sua esposa adúltera do mercado de escravos (Os 3:1-2), Cristo redime sua igreja adúltera com seu próprio sangue e a apresenta a si mesmo como esposa pura (Ef 5:25-27). O clamor paterno de Os 11:1, «do Egito chamei o meu filho», é aplicado diretamente a Cristo em Mt 2:15, mostrando que Jesus recapitula e cumpre a vocação de Israel como o verdadeiro Filho obediente onde Israel foi desobediente. A promessa de ressurreição em Os 6:2 («ao terceiro dia nos ressuscitará») e o desafio à morte em Os 13:14 («onde está, ó morte, o teu aguilhão?») são citados por Paulo em 1Co 15:54-55 como cumpridos na ressurreição de Cristo, e a reversão de «Lo-Ami» (não meu povo) para «filhos do Deus vivente» (Os 1:10; 2:23) é aplicada por Paulo à inclusão dos gentios em Cristo (Rm 9:25-26)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El matrimonio de Oseas con Gomer, una mujer infiel, prefigura la unión de Cristo con su iglesia, una esposa pecadora que él ama, purifica y redime (Os 1:2-3; cf. Ef 5:25-27)",
+        "en": "Hosea's marriage to Gomer, an unfaithful woman, prefigures Christ's union with his church, a sinful bride whom he loves, purifies, and redeems (Hos 1:2-3; cf. Eph 5:25-27)",
+        "pt": "O casamento de Oséias com Gômer, uma mulher infiel, prefigura a união de Cristo com sua igreja, uma esposa pecadora que ele ama, purifica e redime (Os 1:2-3; cf. Ef 5:25-27)"
+      },
+      {
+        "es": "La compra de Gomer en el mercado de esclavos por Oseas (Os 3:2) tipifica la redención de la iglesia por Cristo, comprada no con plata sino con su propia sangre (1P 1:18-19)",
+        "en": "Hosea's purchase of Gomer in the slave market (Hos 3:2) typifies the church's redemption by Christ, bought not with silver but with his own blood (1 Pet 1:18-19)",
+        "pt": "A compra de Gômer no mercado de escravos por Oséias (Os 3:2) tipifica a redenção da igreja por Cristo, comprada não com prata mas com seu próprio sangue (1Pe 1:18-19)"
+      },
+      {
+        "es": "El llamado de Dios a su hijo Israel desde Egipto (Os 11:1) es tipológicamente cumplido y recapitulado en Cristo, el verdadero Hijo llamado de Egipto (Mt 2:15)",
+        "en": "God's call of his son Israel out of Egypt (Hos 11:1) is typologically fulfilled and recapitulated in Christ, the true Son called out of Egypt (Matt 2:15)",
+        "pt": "O chamado de Deus a seu filho Israel do Egito (Os 11:1) é tipologicamente cumprido e recapitulado em Cristo, o verdadeiro Filho chamado do Egito (Mt 2:15)"
+      },
+      {
+        "es": "La restauración a la vida «al tercer día» (Os 6:2) anticipa la resurrección de Cristo al tercer día, cumplimiento supremo de la restauración prometida a su pueblo (1Co 15:4)",
+        "en": "Restoration to life \"on the third day\" (Hos 6:2) anticipates Christ's resurrection on the third day, the supreme fulfillment of the restoration promised to his people (1 Cor 15:4)",
+        "pt": "A restauração à vida «ao terceiro dia» (Os 6:2) antecipa a ressurreição de Cristo ao terceiro dia, cumprimento supremo da restauração prometida ao seu povo (1Co 15:4)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Oseas es el único libro profético estructurado enteramente alrededor de un acto simbólico matrimonial sostenido —el propio matrimonio del profeta— en lugar de visiones o discursos aislados, convirtiendo la vida familiar del profeta en el vehículo principal de la revelación. Aporta al canon el vocabulario teológico más denso del Antiguo Testamento sobre el «hesed» (amor leal de pacto) de Dios y sobre la idolatría como adulterio espiritual, categorías que después estructuran la lectura profética de Jeremías y Ezequiel sobre Judá. Es también la fuente veterotestamentaria más citada por Jesús y Pablo entre los profetas menores (Os 6:6 citado dos veces por Jesús en Mateo; Os 11:1 en Mt 2:15; Os 1:10 y 2:23 en Ro 9:25-26; Os 13:14 en 1Co 15:55), lo que confirma su papel bisagra entre la ley mosaica y el evangelio de gracia.",
+    "en": "Hosea is the only prophetic book structured entirely around a sustained symbolic marital act — the prophet's own marriage — rather than isolated visions or speeches, turning the prophet's family life into the primary vehicle of revelation. It contributes to the canon the Old Testament's densest theological vocabulary for God's \"hesed\" (covenant loyal love) and for idolatry as spiritual adultery, categories that later structure Jeremiah's and Ezekiel's prophetic reading of Judah. It is also the most-cited Old Testament source by Jesus and Paul among the Minor Prophets (Hos 6:6 quoted twice by Jesus in Matthew; Hos 11:1 in Matt 2:15; Hos 1:10 and 2:23 in Rom 9:25-26; Hos 13:14 in 1 Cor 15:55), confirming its hinge role between Mosaic law and the gospel of grace.",
+    "pt": "Oséias é o único livro profético estruturado inteiramente em torno de um ato simbólico matrimonial sustentado — o próprio casamento do profeta — em vez de visões ou discursos isolados, transformando a vida familiar do profeta no principal veículo da revelação. Contribui ao cânon o vocabulário teológico mais denso do Antigo Testamento sobre o «hesed» (amor leal de pacto) de Deus e sobre a idolatria como adultério espiritual, categorias que depois estruturam a leitura profética de Jeremias e Ezequiel sobre Judá. É também a fonte veterotestamentária mais citada por Jesus e Paulo entre os profetas menores (Os 6:6 citado duas vezes por Jesus em Mateus; Os 11:1 em Mt 2:15; Os 1:10 e 2:23 em Rm 9:25-26; Os 13:14 em 1Co 15:55), confirmando seu papel de dobradiça entre a lei mosaica e o evangelho da graça."
+  },
+  "genero": {
+    "es": "Profecía (oráculo de juicio y restauración con narrativa simbólica autobiográfica)",
+    "en": "Prophecy (judgment and restoration oracle with autobiographical symbolic narrative)",
+    "pt": "Profecia (oráculo de juízo e restauração com narrativa simbólica autobiográfica)"
+  },
+  "palabraClave": {
+    "es": [
+      "Hesed",
+      "Idolatría",
+      "Arrepentimiento",
+      "Infidelidad"
+    ],
+    "en": [
+      "Hesed",
+      "Idolatry",
+      "Repentance",
+      "Unfaithfulness"
+    ],
+    "pt": [
+      "Hesed",
+      "Idolatria",
+      "Arrependimento",
+      "Infidelidade"
+    ]
+  },
+  "destinatario": {
+    "es": "El Reino del Norte de Israel (Efraín), particularmente su liderazgo sacerdotal y monárquico en Samaria, durante el prolongado declive político y espiritual desde el reinado de Jeroboam II hasta la caída ante Asiria en 722 a.C.",
+    "en": "The Northern Kingdom of Israel (Ephraim), particularly its priestly and royal leadership in Samaria, during the prolonged political and spiritual decline from the reign of Jeroboam II to the fall to Assyria in 722 BC",
+    "pt": "O Reino do Norte de Israel (Efraim), particularmente sua liderança sacerdotal e monárquica em Samaria, durante o prolongado declínio político e espiritual desde o reinado de Jeroboão II até a queda diante da Assíria em 722 a.C."
+  },
+  "proposito": {
+    "es": "Histórico: confrontar al Reino del Norte con su idolatría baalista, su corrupción sacerdotal y monárquica, y sus alianzas político-militares con Egipto y Asiria, advirtiendo que estas conducirán al juicio del exilio antes de que ocurriera la caída de Samaria en 722 a.C. Teológico: revelar que el pecado de Israel es fundamentalmente relacional —adulterio espiritual contra el Dios que lo tomó por esposa en el pacto del Sinaí— y que, a pesar de la justicia del juicio, el «hesed» de Dios permanece inquebrantable, garantizando una restauración futura fundada en su propia gracia y no en el mérito de Israel.",
+    "en": "Historical: to confront the Northern Kingdom with its Baal idolatry, its priestly and royal corruption, and its political-military alliances with Egypt and Assyria, warning that these will lead to the judgment of exile before Samaria's fall in 722 BC occurred. Theological: to reveal that Israel's sin is fundamentally relational — spiritual adultery against the God who took her as wife in the Sinai covenant — and that, despite the justice of judgment, God's \"hesed\" remains unbreakable, guaranteeing a future restoration grounded in his own grace and not in Israel's merit.",
+    "pt": "Histórico: confrontar o Reino do Norte com sua idolatria baalista, sua corrupção sacerdotal e monárquica, e suas alianças político-militares com Egito e Assíria, advertindo que estas conduziriam ao juízo do exílio antes que ocorresse a queda de Samaria em 722 a.C. Teológico: revelar que o pecado de Israel é fundamentalmente relacional — adultério espiritual contra o Deus que o tomou por esposa no pacto do Sinai — e que, apesar da justiça do juízo, o «hesed» de Deus permanece inquebrantável, garantindo uma restauração futura fundada em sua própria graça e não no mérito de Israel."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Oseas",
+        "en": "Hosea",
+        "pt": "Oséias"
+      },
+      "hebreo": "הוֹשֵׁעַ",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "Profeta hijo de Beeri (Os 1:1), único de los profetas escritores conocido por haber ministrado exclusivamente al Reino del Norte de Israel. Su vida entera —matrimonio, hijos, la traición y recuperación de su esposa— es convertida por Dios en un oráculo viviente y sostenido del pacto roto y restaurado entre Yahvé e Israel.",
+        "en": "A prophet, son of Beeri (Hos 1:1), the only writing prophet known to have ministered exclusively to the Northern Kingdom of Israel. His entire life — marriage, children, his wife's betrayal and recovery — is turned by God into a sustained, living oracle of the broken and restored covenant between Yahweh and Israel.",
+        "pt": "Profeta, filho de Beeri (Os 1:1), o único dos profetas escritores conhecido por ter ministrado exclusivamente ao Reino do Norte de Israel. Sua vida inteira — casamento, filhos, a traição e recuperação de sua esposa — é transformada por Deus num oráculo vivo e sustentado do pacto quebrado e restaurado entre Javé e Israel."
+      },
+      "acciones": {
+        "es": "Obedece el mandato divino de casarse con Gomer y de nombrar a sus tres hijos con nombres de juicio (Os 1:2-9); posteriormente, por orden de Dios, busca y compra de vuelta a su esposa infiel del mercado de esclavos y la restaura, negándose a que vuelva a la prostitución (Os 3:1-3); pronuncia extensos oráculos de acusación legal, lamento y esperanza contra Israel a lo largo de todo el libro.",
+        "en": "Obeys the divine command to marry Gomer and to name his three children with names of judgment (Hos 1:2-9); later, at God's command, seeks out and buys back his unfaithful wife from the slave market and restores her, forbidding her return to prostitution (Hos 3:1-3); pronounces extended oracles of legal accusation, lament, and hope against Israel throughout the book.",
+        "pt": "Obedece à ordem divina de casar-se com Gômer e de dar a seus três filhos nomes de juízo (Os 1:2-9); posteriormente, por ordem de Deus, busca e resgata sua esposa infiel do mercado de escravos e a restaura, proibindo-a de voltar à prostituição (Os 3:1-3); pronuncia extensos oráculos de acusação legal, lamento e esperança contra Israel ao longo de todo o livro."
+      },
+      "significadoTeologico": {
+        "es": "Oseas encarna en su propia carne el amor sufriente y leal («hesed») de Dios hacia un pueblo infiel; su disposición a redimir a Gomer a pesar de su traición es la demostración experiencial del carácter de Dios que el libro proclama en palabras.",
+        "en": "Hosea embodies in his own flesh the suffering, loyal love (\"hesed\") of God toward an unfaithful people; his willingness to redeem Gomer despite her betrayal is the experiential demonstration of the character of God that the book proclaims in words.",
+        "pt": "Oséias encarna em sua própria carne o amor sofredor e leal («hesed») de Deus para com um povo infiel; sua disposição de redimir Gômer apesar de sua traição é a demonstração experiencial do caráter de Deus que o livro proclama em palavras."
+      },
+      "tipo": {
+        "es": "Tipo del esposo redentor: así como Oseas ama y redime a una esposa indigna, Cristo ama y redime a su iglesia pecadora (Ef 5:25-27)",
+        "en": "A type of the redeeming husband: just as Hosea loves and redeems an unworthy wife, Christ loves and redeems his sinful church (Eph 5:25-27)",
+        "pt": "Tipo do esposo redentor: assim como Oséias ama e redime uma esposa indigna, Cristo ama e redime sua igreja pecadora (Ef 5:25-27)"
+      },
+      "caracterMoral": {
+        "es": "Fiel y obediente incluso cuando la orden divina le exige un sufrimiento personal profundo y públicamente humillante; su carácter modela la paciencia leal de Dios más que cualquier virtud autónoma.",
+        "en": "Faithful and obedient even when the divine command demands deep, publicly humiliating personal suffering; his character models God's loyal patience more than any autonomous virtue.",
+        "pt": "Fiel e obediente mesmo quando a ordem divina lhe exige um sofrimento pessoal profundo e publicamente humilhante; seu caráter modela a paciência leal de Deus mais do que qualquer virtude autônoma."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Identificado solo como «hijo de Beeri» (Os 1:1), sin genealogía adicional. Recibe la palabra de Yahvé para casarse con Gomer (Os 1:2-3), engendra o reconoce a tres hijos con nombres proféticos (Os 1:4-9), y años después recibe la orden de amar de nuevo a una mujer amada por otro y adúltera, comprándola por quince piezas de plata y un homer y medio de cebada (Os 3:1-2). El resto del libro (Os 4-14) consiste en sus oráculos proféticos sin más narrativa biográfica.",
+          "en": "Identified only as \"son of Beeri\" (Hos 1:1), with no further genealogy. He receives the word of the LORD to marry Gomer (Hos 1:2-3), fathers or acknowledges three children with prophetic names (Hos 1:4-9), and years later is commanded to love again a woman loved by another and an adulteress, buying her for fifteen pieces of silver and a homer and a half of barley (Hos 3:1-2). The rest of the book (Hos 4-14) consists of his prophetic oracles with no further biographical narrative.",
+          "pt": "Identificado apenas como «filho de Beeri» (Os 1:1), sem genealogia adicional. Recebe a palavra do SENHOR para casar-se com Gômer (Os 1:2-3), gera ou reconhece três filhos com nomes proféticos (Os 1:4-9), e anos depois recebe a ordem de amar de novo uma mulher amada por outro e adúltera, comprando-a por quinze peças de prata e um ômer e meio de cevada (Os 3:1-2). O restante do livro (Os 4-14) consiste em seus oráculos proféticos sem mais narrativa biográfica."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Os 1:1",
+          "Os 1:2-3",
+          "Os 3:1-2"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe atestación extrabíblica de Oseas hijo de Beeri; se le conoce únicamente por el libro que lleva su nombre. Su ministerio ha sido situado con confianza en el Reino del Norte del siglo VIII a.C. por la coherencia interna de las referencias geográficas y políticas (Samaria, Gilgal, Bet-el, Jezreel, Efraín) y por el encabezado cronológico que lo sitúa junto a Isaías y Miqueas.",
+          "en": "There is no extrabiblical attestation of Hosea son of Beeri; he is known only from the book bearing his name. His ministry has been confidently situated in the 8th-century BC Northern Kingdom based on the internal coherence of geographic and political references (Samaria, Gilgal, Bethel, Jezreel, Ephraim) and the chronological heading that places him alongside Isaiah and Micah.",
+          "pt": "Não há atestação extrabíblica de Oséias, filho de Beeri; ele é conhecido apenas pelo livro que leva seu nome. Seu ministério tem sido situado com confiança no Reino do Norte do século VIII a.C. pela coerência interna das referências geográficas e políticas (Samaria, Gilgal, Betel, Jezreel, Efraim) e pelo cabeçalho cronológico que o situa ao lado de Isaías e Miqueias."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto político del siglo VIII a.C.",
+              "Cronología de los últimos reyes de Israel"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "El único testimonio sobre Oseas es el libro mismo; no hay razón textual ni histórica para dudar de que un profeta llamado Oseas ministrara en Israel en el siglo VIII a.C. tal como se presenta.",
+          "en": "The only testimony about Hosea is the book itself; there is no textual or historical reason to doubt that a prophet named Hosea ministered in Israel in the 8th century BC as presented.",
+          "pt": "O único testemunho sobre Oséias é o próprio livro; não há razão textual nem histórica para duvidar de que um profeta chamado Oséias ministrou em Israel no século VIII a.C. tal como apresentado."
+        }
+      },
+      "versiculosAsociados": [
+        "Os 1:1",
+        "Os 1:2",
+        "Os 3:1"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Sus oráculos son citados directamente por Jesús (Os 6:6 en Mt 9:13; 12:7) y por Pablo (Os 1:10; 2:23 en Ro 9:25-26; Os 13:14 en 1Co 15:55), y su relato del llamado del hijo desde Egipto (Os 11:1) es aplicado por Mateo a Cristo (Mt 2:15).",
+        "en": "His oracles are directly quoted by Jesus (Hos 6:6 in Matt 9:13; 12:7) and by Paul (Hos 1:10; 2:23 in Rom 9:25-26; Hos 13:14 in 1 Cor 15:55), and his account of the son called out of Egypt (Hos 11:1) is applied by Matthew to Christ (Matt 2:15).",
+        "pt": "Seus oráculos são citados diretamente por Jesus (Os 6:6 em Mt 9:13; 12:7) e por Paulo (Os 1:10; 2:23 em Rm 9:25-26; Os 13:14 em 1Co 15:55), e seu relato do chamado do filho desde o Egito (Os 11:1) é aplicado por Mateus a Cristo (Mt 2:15)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Gomer",
+        "en": "Gomer",
+        "pt": "Gômer"
+      },
+      "hebreo": "גֹּמֶר",
+      "principal": true,
+      "rol": "tipo",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "Hija de Diblaim (Os 1:3), «mujer fornicaria» que Oseas toma por esposa por mandato divino; le da tres hijos y posteriormente cae en adulterio y esclavitud, de la cual es redimida por su esposo.",
+        "en": "Daughter of Diblaim (Hos 1:3), a \"wife of whoredom\" whom Hosea takes by divine command; she bears him three children and later falls into adultery and slavery, from which she is redeemed by her husband.",
+        "pt": "Filha de Diblaim (Os 1:3), «mulher de prostituições» que Oséias toma por esposa por mandato divino; dá-lhe três filhos e posteriormente cai em adultério e escravidão, da qual é redimida por seu esposo."
+      },
+      "acciones": {
+        "es": "Se casa con Oseas y da a luz a Jezreel, Lo-ruhama y Lo-ammi (Os 1:3-9); abandona a Oseas por amantes que ella cree que le proveen pan, agua, lana, lino, aceite y bebida (Os 2:5), cae en esclavitud, y es comprada de vuelta por Oseas, quien la retiene consigo sin relaciones conyugales por un tiempo de purificación (Os 3:1-3).",
+        "en": "Marries Hosea and bears Jezreel, Lo-ruhamah, and Lo-ammi (Hos 1:3-9); abandons Hosea for lovers she believes provide her bread, water, wool, flax, oil, and drink (Hos 2:5), falls into slavery, and is bought back by Hosea, who keeps her with him without conjugal relations for a period of purification (Hos 3:1-3).",
+        "pt": "Casa-se com Oséias e dá à luz Jezreel, Lo-Ruama e Lo-Ami (Os 1:3-9); abandona Oséias por amantes que ela crê que lhe fornecem pão, água, lã, linho, azeite e bebida (Os 2:5), cai em escravidão, e é resgatada por Oséias, que a retém consigo sem relações conjugais por um tempo de purificação (Os 3:1-3)."
+      },
+      "significadoTeologico": {
+        "es": "Gomer personifica a Israel como esposa infiel del pacto: su búsqueda de amantes que en realidad no le dan nada retrata la insensatez de la idolatría, que atribuye a Baal las bendiciones que solo Yahvé provee (Os 2:8).",
+        "en": "Gomer personifies Israel as the covenant's unfaithful wife: her pursuit of lovers who in reality give her nothing portrays the folly of idolatry, which credits Baal with blessings only Yahweh provides (Hos 2:8).",
+        "pt": "Gômer personifica Israel como esposa infiel do pacto: sua busca por amantes que na verdade não lhe dão nada retrata a insensatez da idolatria, que atribui a Baal as bênçãos que só Javé provê (Os 2:8)."
+      },
+      "tipo": {
+        "es": "Tipo de la iglesia/esposa pecadora redimida por gracia inmerecida, no por su propio mérito (Os 3:1; cf. Ef 2:1-5)",
+        "en": "A type of the church/bride redeemed by unmerited grace, not by her own merit (Hos 3:1; cf. Eph 2:1-5)",
+        "pt": "Tipo da igreja/esposa pecadora redimida por graça imerecida, não por seu próprio mérito (Os 3:1; cf. Ef 2:1-5)"
+      },
+      "caracterMoral": {
+        "es": "Infiel y moralmente comprometida dentro de la narrativa; el texto no la condena de forma aislada sino como figura representativa del pueblo entero, cuya restauración depende enteramente de la iniciativa de su esposo.",
+        "en": "Unfaithful and morally compromised within the narrative; the text does not condemn her in isolation but as a representative figure of the whole people, whose restoration depends entirely on her husband's initiative.",
+        "pt": "Infiel e moralmente comprometida dentro da narrativa; o texto não a condena isoladamente, mas como figura representativa de todo o povo, cuja restauração depende inteiramente da iniciativa de seu esposo."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Identificada como «hija de Diblaim» (Os 1:3); se casa con Oseas, concibe y da a luz a sus tres hijos (Os 1:3,6,8), y en el capítulo 3 aparece como una mujer «amada de su compañero, aunque adúltera», a quien Oseas compra y redime (Os 3:1-2).",
+          "en": "Identified as \"daughter of Diblaim\" (Hos 1:3); she marries Hosea, conceives, and bears his three children (Hos 1:3,6,8), and in chapter 3 appears as a woman \"loved by another man and an adulteress,\" whom Hosea buys and redeems (Hos 3:1-2).",
+          "pt": "Identificada como «filha de Diblaim» (Os 1:3); casa-se com Oséias, concebe e dá à luz seus três filhos (Os 1:3,6,8), e no capítulo 3 aparece como uma mulher «amada por seu companheiro, ainda que adúltera», a quem Oséias compra e redime (Os 3:1-2)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Os 1:3",
+          "Os 2:5",
+          "Os 3:1-2"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay atestación extrabíblica de Gomer; es conocida exclusivamente a través del relato de Oseas. Su historicidad ha sido debatida entre intérpretes que la consideran una figura puramente literaria/visionaria y quienes, siguiendo la lectura reformada tradicional, la sostienen como una mujer real.",
+          "en": "There is no extrabiblical attestation of Gomer; she is known exclusively through Hosea's account. Her historicity has been debated among interpreters who regard her as a purely literary/visionary figure and those who, following the traditional Reformed reading, uphold her as a real woman.",
+          "pt": "Não há atestação extrabíblica de Gômer; ela é conhecida exclusivamente através do relato de Oséias. Sua historicidade tem sido debatida entre intérpretes que a consideram uma figura puramente literária/visionária e os que, seguindo a leitura reformada tradicional, a sustentam como uma mulher real."
+        },
+        "fuentes": [
+          {
+            "titulo": "Reformation Study Bible",
+            "autor": "R.C. Sproul (ed.)",
+            "año": 2015,
+            "editorial": "Ligonier Ministries",
+            "nivel": 1,
+            "camposUtilizados": [
+              "Notas sobre la historicidad del matrimonio de Oseas"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El texto la presenta sin ambigüedad como una persona histórica real, esposa de un profeta también histórico; la posición reformada rechaza leerla como simple alegoría, dado que el escándalo de un matrimonio real era parte esencial del mensaje profético.",
+          "en": "The text presents her unambiguously as a real historical person, wife of an equally historical prophet; the Reformed position rejects reading her as mere allegory, since the scandal of a real marriage was an essential part of the prophetic message.",
+          "pt": "O texto a apresenta sem ambiguidade como uma pessoa histórica real, esposa de um profeta igualmente histórico; a posição reformada rejeita lê-la como mera alegoria, já que o escândalo de um casamento real era parte essencial da mensagem profética."
+        }
+      },
+      "versiculosAsociados": [
+        "Os 1:3",
+        "Os 3:1-2"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No es mencionada por nombre en el Nuevo Testamento, pero su papel como esposa infiel redimida informa la imagen paulina de la iglesia como esposa de Cristo purificada por su amor (Ef 5:25-27).",
+        "en": "She is not named in the New Testament, but her role as the redeemed unfaithful wife informs Paul's image of the church as Christ's bride, purified by his love (Eph 5:25-27).",
+        "pt": "Não é mencionada pelo nome no Novo Testamento, mas seu papel como esposa infiel redimida informa a imagem paulina da igreja como esposa de Cristo purificada por seu amor (Ef 5:25-27)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Jezreel",
+        "en": "Jezreel",
+        "pt": "Jezreel"
+      },
+      "hebreo": "יִזְרְעֶאל",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "Primogénito de Oseas y Gomer, nombrado por mandato divino en memoria de la masacre de Jehú en el valle de Jezreel, como señal de que Dios pondrá fin a la dinastía de Jehú y al reino de Israel (Os 1:4-5).",
+        "en": "Firstborn son of Hosea and Gomer, named by divine command in memory of Jehu's massacre in the Jezreel Valley, as a sign that God will end Jehu's dynasty and the kingdom of Israel (Hos 1:4-5).",
+        "pt": "Primogênito de Oséias e Gômer, nomeado por mandato divino em memória do massacre de Jeú no vale de Jezreel, como sinal de que Deus porá fim à dinastia de Jeú e ao reino de Israel (Os 1:4-5)."
+      },
+      "acciones": {
+        "es": "Su nombre funciona como oráculo de juicio dinástico y político (Os 1:4-5); en Os 2:22 su nombre es reinterpretado positivamente («Dios siembra»), y en Os 1:11 se anuncia «el día de Jezreel» como día de reunificación y restauración.",
+        "en": "His name functions as an oracle of dynastic and political judgment (Hos 1:4-5); in Hos 2:22 his name is reinterpreted positively (\"God sows\"), and in Hos 1:11 \"the day of Jezreel\" is announced as a day of reunification and restoration.",
+        "pt": "Seu nome funciona como oráculo de juízo dinástico e político (Os 1:4-5); em Os 2:22 seu nome é reinterpretado positivamente («Deus semeia»), e em Os 1:11 «o dia de Jezreel» é anunciado como dia de reunificação e restauração."
+      },
+      "significadoTeologico": {
+        "es": "Su nombre encapsula la doble dinámica del libro: juicio inminente por la sangre derramada y la injusticia (Os 1:4), y esperanza futura de que Dios «siembre» de nuevo a su pueblo en su tierra (Os 2:22-23).",
+        "en": "His name encapsulates the book's double dynamic: imminent judgment for shed blood and injustice (Hos 1:4), and future hope that God will \"sow\" his people again in their land (Hos 2:22-23).",
+        "pt": "Seu nome encapsula a dupla dinâmica do livro: juízo iminente pelo sangue derramado e pela injustiça (Os 1:4), e esperança futura de que Deus «semeie» novamente seu povo em sua terra (Os 2:22-23)."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico directo; su nombre es signo de juicio y restauración dinástica más que figura personal de Cristo",
+        "en": "Does not function as a direct christological type; his name is a sign of dynastic judgment and restoration rather than a personal figure of Christ",
+        "pt": "Não funciona como tipo cristológico direto; seu nome é sinal de juízo e restauração dinástica, mais do que figura pessoal de Cristo"
+      },
+      "caracterMoral": {
+        "es": "No se le atribuye conducta moral propia; funciona exclusivamente como signo profético encarnado.",
+        "en": "No personal moral conduct is attributed to him; he functions exclusively as an embodied prophetic sign.",
+        "pt": "Não lhe é atribuída conduta moral própria; funciona exclusivamente como signo profético encarnado."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Nace como primogénito de Oseas y Gomer y recibe su nombre por mandato directo de Yahvé (Os 1:3-4); es mencionado de nuevo en el oráculo de esperanza de Os 1:11 y en la reinterpretación positiva de Os 2:22.",
+          "en": "Born as the firstborn son of Hosea and Gomer and named by direct command of Yahweh (Hos 1:3-4); mentioned again in the hope oracle of Hos 1:11 and in the positive reinterpretation of Hos 2:22.",
+          "pt": "Nasce como primogênito de Oséias e Gômer e recebe seu nome por mandato direto de Javé (Os 1:3-4); é mencionado novamente no oráculo de esperança de Os 1:11 e na reinterpretação positiva de Os 2:22."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Os 1:3-4",
+          "Os 1:11",
+          "Os 2:22"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe registro histórico externo de este hijo de Oseas; su función es exclusivamente literaria y profética dentro del texto bíblico.",
+          "en": "No external historical record exists for this son of Hosea; his function is exclusively literary and prophetic within the biblical text.",
+          "pt": "Não há registro histórico externo deste filho de Oséias; sua função é exclusivamente literária e profética dentro do texto bíblico."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El nombre concuerda plenamente con la geografía e historia conocidas del valle de Jezreel y la masacre de Jehú narrada en 2R 9-10.",
+          "en": "The name fully agrees with the known geography and history of the Jezreel Valley and Jehu's massacre narrated in 2 Kgs 9-10.",
+          "pt": "O nome concorda plenamente com a geografia e história conhecidas do vale de Jezreel e o massacre de Jeú narrado em 2Rs 9-10."
+        }
+      },
+      "versiculosAsociados": [
+        "Os 1:4-5",
+        "Os 1:11",
+        "Os 2:22"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No es mencionado por nombre, aunque el principio de reversión del juicio en gracia que su nombre ilustra es aplicado por Pablo en Ro 9:25-26.",
+        "en": "Not mentioned by name, though the principle of judgment reversed into grace that his name illustrates is applied by Paul in Rom 9:25-26.",
+        "pt": "Não é mencionado pelo nome, embora o princípio de reversão do juízo em graça que seu nome ilustra seja aplicado por Paulo em Rm 9:25-26."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Lo-ruhama",
+        "en": "Lo-ruhamah",
+        "pt": "Lo-Ruama"
+      },
+      "hebreo": "לֹא רֻחָמָה",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "Hija de Oseas y Gomer, cuyo nombre significa «no compadecida», señal de que Dios retirará por un tiempo su compasión de la casa de Israel (Os 1:6-7).",
+        "en": "Daughter of Hosea and Gomer, whose name means \"not pitied,\" a sign that God will for a time withdraw his compassion from the house of Israel (Hos 1:6-7).",
+        "pt": "Filha de Oséias e Gômer, cujo nome significa «não compadecida», sinal de que Deus retirará por um tempo sua compaixão da casa de Israel (Os 1:6-7)."
+      },
+      "acciones": {
+        "es": "Su nacimiento y nombre anuncian el fin de la paciencia divina hacia el Reino del Norte, en contraste explícito con la promesa de que Judá sí recibirá compasión (Os 1:6-7); en Os 2:1,23 su nombre es revertido a «Ruhama» (compadecida).",
+        "en": "Her birth and name announce the end of divine patience toward the Northern Kingdom, in explicit contrast with the promise that Judah will indeed receive compassion (Hos 1:6-7); in Hos 2:1,23 her name is reversed to \"Ruhamah\" (pitied).",
+        "pt": "Seu nascimento e nome anunciam o fim da paciência divina para com o Reino do Norte, em contraste explícito com a promessa de que Judá receberá compaixão (Os 1:6-7); em Os 2:1,23 seu nome é revertido para «Ruama» (compadecida)."
+      },
+      "significadoTeologico": {
+        "es": "Encarna la suspensión temporal de la misericordia de Dios como consecuencia del pecado persistente, sin que ello signifique el fin definitivo de su hesed, como confirma su reversión final a «compadecida».",
+        "en": "Embodies the temporary suspension of God's mercy as a consequence of persistent sin, without this meaning the definitive end of his hesed, as confirmed by her final reversal to \"pitied.\"",
+        "pt": "Encarna a suspensão temporária da misericórdia de Deus como consequência do pecado persistente, sem que isso signifique o fim definitivo de seu hesed, como confirma sua reversão final para «compadecida»."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico directo; su nombre es signo de la suspensión y posterior renovación de la compasión de Dios hacia su pueblo",
+        "en": "Does not function as a direct christological type; her name is a sign of the suspension and later renewal of God's compassion toward his people",
+        "pt": "Não funciona como tipo cristológico direto; seu nome é sinal da suspensão e posterior renovação da compaixão de Deus para com seu povo"
+      },
+      "caracterMoral": {
+        "es": "No se le atribuye conducta moral propia; funciona exclusivamente como signo profético encarnado.",
+        "en": "No personal moral conduct is attributed to her; she functions exclusively as an embodied prophetic sign.",
+        "pt": "Não lhe é atribuída conduta moral própria; funciona exclusivamente como signo profético encarnado."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Nace como segunda hija de Oseas y Gomer y recibe su nombre por mandato de Yahvé, quien declara que ya no tendrá compasión de la casa de Israel (Os 1:6-7); su nombre es transformado en promesa de restauración en Os 2:1,23.",
+          "en": "Born as the second child of Hosea and Gomer and named by Yahweh's command, who declares he will no longer have compassion on the house of Israel (Hos 1:6-7); her name is transformed into a promise of restoration in Hos 2:1,23.",
+          "pt": "Nasce como segunda filha de Oséias e Gômer e recebe seu nome por mandato de Javé, que declara que não terá mais compaixão da casa de Israel (Os 1:6-7); seu nome é transformado em promessa de restauração em Os 2:1,23."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Os 1:6-7",
+          "Os 2:1",
+          "Os 2:23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe registro histórico externo de esta hija de Oseas; su función es exclusivamente literaria y profética dentro del texto bíblico.",
+          "en": "No external historical record exists for this daughter of Hosea; her function is exclusively literary and prophetic within the biblical text.",
+          "pt": "Não há registro histórico externo desta filha de Oséias; sua função é exclusivamente literária e profética dentro do texto bíblico."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El nombre y su función concuerdan plenamente con el propósito declarado del oráculo dentro del texto mismo.",
+          "en": "The name and its function fully agree with the oracle's stated purpose within the text itself.",
+          "pt": "O nome e sua função concordam plenamente com o propósito declarado do oráculo dentro do próprio texto."
+        }
+      },
+      "versiculosAsociados": [
+        "Os 1:6-7",
+        "Os 2:1",
+        "Os 2:23"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Pablo cita la reversión de su nombre («no compadecida» a «amada») en Ro 9:25 como figura de la inclusión de los gentiles en la misericordia de Dios.",
+        "en": "Paul cites the reversal of her name (\"not pitied\" to \"beloved\") in Rom 9:25 as a figure of the inclusion of Gentiles in God's mercy.",
+        "pt": "Paulo cita a reversão de seu nome («não compadecida» para «amada») em Rm 9:25 como figura da inclusão dos gentios na misericórdia de Deus."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Lo-ammi",
+        "en": "Lo-ammi",
+        "pt": "Lo-Ami"
+      },
+      "hebreo": "לֹא עַמִּי",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "Segundo hijo de Oseas y Gomer, cuyo nombre significa «no pueblo mío», la señal más severa de las tres, que declara la ruptura formal del pacto entre Yahvé e Israel (Os 1:8-9).",
+        "en": "Second son of Hosea and Gomer, whose name means \"not my people,\" the severest of the three signs, declaring the formal rupture of the covenant between Yahweh and Israel (Hos 1:8-9).",
+        "pt": "Segundo filho de Oséias e Gômer, cujo nome significa «não meu povo», o mais severo dos três sinais, declarando a ruptura formal do pacto entre Javé e Israel (Os 1:8-9)."
+      },
+      "acciones": {
+        "es": "Su nombre anuncia la disolución de la fórmula del pacto («yo seré su Dios y ellos serán mi pueblo», cf. Ex 6:7); en Os 1:10 y 2:23 Dios promete revertir ese nombre y volver a llamar «pueblo mío» a quienes fueron «no pueblo mío».",
+        "en": "His name announces the dissolution of the covenant formula (\"I will be their God and they will be my people,\" cf. Exod 6:7); in Hos 1:10 and 2:23 God promises to reverse that name and again call \"my people\" those who were \"not my people.\"",
+        "pt": "Seu nome anuncia a dissolução da fórmula do pacto («eu serei o seu Deus e eles serão o meu povo», cf. Ex 6:7); em Os 1:10 e 2:23 Deus promete reverter esse nome e voltar a chamar «meu povo» os que foram «não meu povo»."
+      },
+      "significadoTeologico": {
+        "es": "Representa el punto más bajo del juicio del pacto —la aparente anulación de la relación misma entre Dios y su pueblo— precisamente el punto que la gracia soberana de Dios revierte, mostrando que ni siquiera el rechazo del pacto es la última palabra.",
+        "en": "Represents the lowest point of covenant judgment — the apparent annulment of the very relationship between God and his people — precisely the point that God's sovereign grace reverses, showing that not even covenant rejection is the last word.",
+        "pt": "Representa o ponto mais baixo do juízo do pacto — a aparente anulação da própria relação entre Deus e seu povo — exatamente o ponto que a graça soberana de Deus reverte, mostrando que nem mesmo a rejeição do pacto é a última palavra."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico directo; su nombre es signo de la ruptura y posterior renovación de la fórmula del pacto entre Dios y su pueblo",
+        "en": "Does not function as a direct christological type; his name is a sign of the rupture and later renewal of the covenant formula between God and his people",
+        "pt": "Não funciona como tipo cristológico direto; seu nome é sinal da ruptura e posterior renovação da fórmula do pacto entre Deus e seu povo"
+      },
+      "caracterMoral": {
+        "es": "No se le atribuye conducta moral propia; funciona exclusivamente como signo profético encarnado.",
+        "en": "No personal moral conduct is attributed to him; he functions exclusively as an embodied prophetic sign.",
+        "pt": "Não lhe é atribuída conduta moral própria; funciona exclusivamente como signo profético encarnado."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Nace como tercer hijo de Oseas y Gomer (el texto no aclara si Oseas es su padre biológico) y recibe su nombre como anuncio de que Israel ha dejado de ser el pueblo de Dios en el sentido del pacto (Os 1:8-9); su nombre es revertido en Os 1:10 y 2:23.",
+          "en": "Born as the third child of Hosea and Gomer (the text does not clarify whether Hosea is his biological father) and named as an announcement that Israel has ceased to be God's people in the covenantal sense (Hos 1:8-9); his name is reversed in Hos 1:10 and 2:23.",
+          "pt": "Nasce como terceiro filho de Oséias e Gômer (o texto não esclarece se Oséias é seu pai biológico) e recebe seu nome como anúncio de que Israel deixou de ser o povo de Deus no sentido do pacto (Os 1:8-9); seu nome é revertido em Os 1:10 e 2:23."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Os 1:8-9",
+          "Os 1:10",
+          "Os 2:23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe registro histórico externo de este hijo de Oseas; su función es exclusivamente literaria y profética dentro del texto bíblico.",
+          "en": "No external historical record exists for this son of Hosea; his function is exclusively literary and prophetic within the biblical text.",
+          "pt": "Não há registro histórico externo deste filho de Oséias; sua função é exclusivamente literária e profética dentro do texto bíblico."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El nombre concuerda con la fórmula del pacto mosaico conocida de Ex 6:7 y Lv 26:12, que el texto invierte deliberadamente.",
+          "en": "The name agrees with the Mosaic covenant formula known from Exod 6:7 and Lev 26:12, which the text deliberately inverts.",
+          "pt": "O nome concorda com a fórmula do pacto mosaico conhecida de Ex 6:7 e Lv 26:12, que o texto inverte deliberadamente."
+        }
+      },
+      "versiculosAsociados": [
+        "Os 1:8-9",
+        "Os 1:10",
+        "Os 2:23"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Pablo cita directamente la reversión de su nombre en Ro 9:25-26 y Pedro la aplica a la iglesia gentil en 1P 2:10, mostrando el cumplimiento de la promesa de inclusión en el pueblo de Dios a través de Cristo.",
+        "en": "Paul directly cites the reversal of his name in Rom 9:25-26 and Peter applies it to the Gentile church in 1 Pet 2:10, showing the fulfillment of the promise of inclusion in the people of God through Christ.",
+        "pt": "Paulo cita diretamente a reversão de seu nome em Rm 9:25-26 e Pedro a aplica à igreja gentia em 1Pe 2:10, mostrando o cumprimento da promessa de inclusão no povo de Deus através de Cristo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Jeroboam II",
+        "en": "Jeroboam II",
+        "pt": "Jeroboão II"
+      },
+      "hebreo": "יָרָבְעָם",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Rey de Israel (c. 793-753 a.C.) durante cuyo largo y próspero reinado militar y económico comienza el ministerio de Oseas (Os 1:1); su reinado exterior de éxito ocultaba la corrupción religiosa y social que Oseas denuncia.",
+        "en": "King of Israel (c. 793-753 BC) during whose long, militarily and economically prosperous reign Hosea's ministry begins (Hos 1:1); his outward reign of success concealed the religious and social corruption Hosea denounces.",
+        "pt": "Rei de Israel (c. 793-753 a.C.) durante cujo longo e próspero reinado militar e econômico começa o ministério de Oséias (Os 1:1); seu reinado externo de sucesso ocultava a corrupção religiosa e social que Oséias denuncia."
+      },
+      "acciones": {
+        "es": "Es mencionado en el encabezado cronológico del libro (Os 1:1) como marcador temporal del inicio del ministerio de Oseas; su casa (dinastía) es objeto del juicio anunciado por el nombre de Jezreel (Os 1:4), cumplido cuando su hijo Zacarías es asesinado tras solo seis meses de reinado (2R 15:8-10).",
+        "en": "He is mentioned in the book's chronological heading (Hos 1:1) as a time marker for the start of Hosea's ministry; his house (dynasty) is the object of the judgment announced by the name Jezreel (Hos 1:4), fulfilled when his son Zechariah is assassinated after only six months on the throne (2 Kgs 15:8-10).",
+        "pt": "É mencionado no cabeçalho cronológico do livro (Os 1:1) como marcador temporal do início do ministério de Oséias; sua casa (dinastia) é objeto do juízo anunciado pelo nome de Jezreel (Os 1:4), cumprido quando seu filho Zacarias é assassinado após apenas seis meses de reinado (2Rs 15:8-10)."
+      },
+      "significadoTeologico": {
+        "es": "Representa el peligro espiritual de la prosperidad sin fidelidad: bajo su reinado Israel alcanzó su máxima expansión territorial y riqueza (2R 14:23-29) mientras la idolatría y la injusticia social que Oseas y Amós denuncian se profundizaban.",
+        "en": "Represents the spiritual danger of prosperity without faithfulness: under his reign Israel reached its greatest territorial expansion and wealth (2 Kgs 14:23-29) while the idolatry and social injustice denounced by Hosea and Amos deepened.",
+        "pt": "Representa o perigo espiritual da prosperidade sem fidelidade: sob seu reinado Israel alcançou sua maior expansão territorial e riqueza (2Rs 14:23-29) enquanto a idolatria e a injustiça social denunciadas por Oséias e Amós se aprofundavam."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico; su reinado próspero pero espiritualmente corrupto sirve como contraste histórico con el verdadero Rey davídico prometido",
+        "en": "Does not function as a christological type; his prosperous but spiritually corrupt reign serves as a historical contrast with the true promised Davidic King",
+        "pt": "Não funciona como tipo cristológico; seu reinado próspero mas espiritualmente corrupto serve como contraste histórico com o verdadeiro Rei davídico prometido"
+      },
+      "caracterMoral": {
+        "es": "El libro de Reyes lo evalúa negativamente: «hizo lo malo ante los ojos del SEÑOR» y no se apartó de los pecados de Jeroboam I (2R 14:24).",
+        "en": "The book of Kings evaluates him negatively: \"he did what was evil in the sight of the LORD\" and did not turn from the sins of Jeroboam I (2 Kgs 14:24).",
+        "pt": "O livro de Reis o avalia negativamente: «fez o que era mau aos olhos do SENHOR» e não se afastou dos pecados de Jeroboão I (2Rs 14:24)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Mencionado en Os 1:1 como rey reinante de Israel al inicio del ministerio de Oseas; su reinado, la restauración de las fronteras de Israel «desde la entrada de Hamat hasta el mar del Arabá» y su evaluación moral negativa se narran en 2R 14:23-29.",
+          "en": "Mentioned in Hos 1:1 as the reigning king of Israel at the start of Hosea's ministry; his reign, the restoration of Israel's borders \"from the entrance of Hamath as far as the Sea of the Arabah,\" and his negative moral evaluation are narrated in 2 Kgs 14:23-29.",
+          "pt": "Mencionado em Os 1:1 como o rei reinante de Israel no início do ministério de Oséias; seu reinado, a restauração das fronteiras de Israel «desde a entrada de Hamate até o mar da Arabá» e sua avaliação moral negativa são narrados em 2Rs 14:23-29."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Os 1:1",
+          "2R 14:23-29"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Jeroboam II es bien atestiguado externamente: su sello real («perteneciente a Sema, siervo de Jeroboam») fue hallado en Meguido, y su reinado corresponde al período de mayor prosperidad económica confirmado por los Ostraca de Samaria.",
+          "en": "Jeroboam II is well attested externally: his royal seal (\"belonging to Shema, servant of Jeroboam\") was found at Megiddo, and his reign corresponds to the period of greatest economic prosperity confirmed by the Samaria Ostraca.",
+          "pt": "Jeroboão II é bem atestado externamente: seu selo real («pertencente a Sema, servo de Jeroboão») foi encontrado em Megido, e seu reinado corresponde ao período de maior prosperidade econômica confirmado pelos Óstraca de Samaria."
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "IVP Academic",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Sello de Meguido",
+              "Prosperidad económica del siglo VIII a.C."
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El registro arqueológico confirma plenamente el retrato bíblico de prosperidad económica y expansión territorial bajo su reinado, junto con la corrupción espiritual que los profetas contemporáneos denuncian.",
+          "en": "The archaeological record fully confirms the biblical portrait of economic prosperity and territorial expansion under his reign, alongside the spiritual corruption contemporary prophets denounce.",
+          "pt": "O registro arqueológico confirma plenamente o retrato bíblico de prosperidade econômica e expansão territorial sob seu reinado, junto com a corrupção espiritual que os profetas contemporâneos denunciam."
+        }
+      },
+      "versiculosAsociados": [
+        "Os 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R 14:23-29",
+        "Am 1:1",
+        "Am 7:10-11"
+      ],
+      "enElNuevoTestamento": {
+        "es": "No es mencionado en el Nuevo Testamento.",
+        "en": "He is not mentioned in the New Testament.",
+        "pt": "Não é mencionado no Novo Testamento."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "Oseas presenta la relación entre Yahvé e Israel bajo la figura del matrimonio, la imagen más íntima disponible para expresar las obligaciones mutuas del pacto mosaico. La ruptura del pacto por la idolatría de Israel se describe como adulterio (Os 2:2-13), y su restauración se anuncia como un nuevo desposorio fundado en justicia, derecho, hesed y compasión (Os 2:19-20).",
+        "en": "Hosea presents the relationship between Yahweh and Israel under the figure of marriage, the most intimate image available to express the mutual obligations of the Mosaic covenant. The covenant's rupture through Israel's idolatry is described as adultery (Hos 2:2-13), and its restoration is announced as a new betrothal grounded in righteousness, justice, hesed, and compassion (Hos 2:19-20).",
+        "pt": "Oséias apresenta a relação entre Javé e Israel sob a figura do casamento, a imagem mais íntima disponível para expressar as obrigações mútuas do pacto mosaico. A ruptura do pacto pela idolatria de Israel é descrita como adultério (Os 2:2-13), e sua restauração é anunciada como um novo desposório fundado em justiça, direito, hesed e compaixão (Os 2:19-20)."
+      },
+      "pasajes": [
+        "Os 1:2",
+        "Os 2:2",
+        "Os 2:19-20",
+        "Os 6:7",
+        "Os 8:1"
+      ],
+      "ensenanza": {
+        "es": "El matrimonio de Oseas es signo del pacto roto por Israel · La nación es acusada legalmente como esposa infiel · Dios promete un nuevo desposorio de pacto eterno · Israel «como Adán» ha transgredido el pacto · Israel ha violado la ley de Dios, el pacto mismo",
+        "en": "Hosea's marriage is a sign of Israel's broken covenant · The nation is legally accused as an unfaithful wife · God promises a new betrothal of eternal covenant · Israel \"like Adam\" has transgressed the covenant · Israel has violated God's law, the covenant itself",
+        "pt": "O casamento de Oséias é sinal do pacto quebrado por Israel · A nação é acusada legalmente como esposa infiel · Deus promete um novo desposório de pacto eterno · Israel «como Adão» transgrediu o pacto · Israel violou a lei de Deus, o próprio pacto"
+      },
+      "distintivaReformada": {
+        "es": "La teología del pacto ve en Oseas la clave para leer toda la historia de Israel como historia de pacto: el juicio no anula la promesa abrahámica-davídica, sino que opera dentro de las cláusulas mismas del pacto mosaico (bendición/maldición de Dt 28), preservando la fidelidad última de Dios a su propósito redentor.",
+        "en": "Covenant theology sees in Hosea the key to reading all of Israel's history as covenant history: judgment does not annul the Abrahamic-Davidic promise but operates within the very clauses of the Mosaic covenant (blessing/curse of Deut 28), preserving God's ultimate faithfulness to his redemptive purpose.",
+        "pt": "A teologia do pacto vê em Oséias a chave para ler toda a história de Israel como história de pacto: o juízo não anula a promessa abraâmico-davídica, mas opera dentro das próprias cláusulas do pacto mosaico (bênção/maldição de Dt 28), preservando a fidelidade última de Deus ao seu propósito redentor."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "Oseas define el pecado de Israel fundamentalmente como idolatría relacional —«espíritu de fornicación» (Os 4:12; 5:4)— más que como una lista de transgresiones aisladas. La falta de «conocimiento de Dios» (Os 4:1,6; 6:6) es la raíz de la que brotan el homicidio, el robo, el adulterio y la opresión social denunciados en el libro.",
+        "en": "Hosea defines Israel's sin fundamentally as relational idolatry — a \"spirit of whoredom\" (Hos 4:12; 5:4) — rather than a list of isolated transgressions. The lack of \"knowledge of God\" (Hos 4:1,6; 6:6) is the root from which murder, theft, adultery, and social oppression denounced in the book all spring.",
+        "pt": "Oséias define o pecado de Israel fundamentalmente como idolatria relacional — «espírito de prostituição» (Os 4:12; 5:4) — mais do que uma lista de transgressões isoladas. A falta de «conhecimento de Deus» (Os 4:1,6; 6:6) é a raiz da qual brotam o homicídio, o roubo, o adultério e a opressão social denunciados no livro."
+      },
+      "pasajes": [
+        "Os 4:1-2",
+        "Os 4:6",
+        "Os 4:12",
+        "Os 6:6",
+        "Os 8:7"
+      ],
+      "ensenanza": {
+        "es": "No hay verdad ni conocimiento de Dios en la tierra, solo maldición y homicidio · El pueblo perece por falta de conocimiento de Dios · Un espíritu de fornicación los ha extraviado de su Dios · Dios desea misericordia y conocimiento, no meros sacrificios rituales · Sembrar viento produce cosechar torbellino, la ley de la siembra y siega moral",
+        "en": "There is no truth or knowledge of God in the land, only cursing and murder · The people perish for lack of knowledge of God · A spirit of whoredom has led them astray from their God · God desires mercy and knowledge, not mere ritual sacrifices · Sowing wind produces reaping the whirlwind, the moral law of sowing and reaping",
+        "pt": "Não há verdade nem conhecimento de Deus na terra, só maldição e homicídio · O povo perece por falta de conhecimento de Deus · Um espírito de prostituição os desviou de seu Deus · Deus deseja misericórdia e conhecimento, não meros sacrifícios rituais · Semear vento produz colher tempestade, a lei da semeadura e colheita moral"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, siguiendo la distinción entre pecados de estado y de acto, encuentra en Oseas una anticipación notable de la doctrina de la depravación total: el pecado de Israel no es un desliz puntual sino una disposición del corazón («espíritu de fornicación») que corrompe toda relación con Dios y el prójimo.",
+        "en": "The Reformed tradition, following the distinction between sins of state and sins of act, finds in Hosea a notable anticipation of the doctrine of total depravity: Israel's sin is not a single lapse but a disposition of the heart (\"a spirit of whoredom\") that corrupts every relation to God and neighbor.",
+        "pt": "A tradição reformada, seguindo a distinção entre pecados de estado e de ato, encontra em Oséias uma antecipação notável da doutrina da depravação total: o pecado de Israel não é um deslize pontual, mas uma disposição do coração («espírito de prostituição») que corrompe toda relação com Deus e o próximo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "La redención de Gomer por Oseas (Os 3:1-3) y la promesa final de sanidad y amor gratuito («los amaré de pura gracia», Os 14:4) muestran que la salvación de Israel no depende de su arrepentimiento previo como causa meritoria, sino de la iniciativa unilateral y el hesed de Dios, que precede y produce el arrepentimiento mismo.",
+        "en": "Hosea's redemption of Gomer (Hos 3:1-3) and the final promise of healing and free love (\"I will love them freely,\" Hos 14:4) show that Israel's salvation does not depend on prior repentance as a meritorious cause, but on God's unilateral initiative and hesed, which precedes and produces repentance itself.",
+        "pt": "A redenção de Gômer por Oséias (Os 3:1-3) e a promessa final de cura e amor gratuito («eu os amarei voluntariamente», Os 14:4) mostram que a salvação de Israel não depende de seu arrependimento prévio como causa meritória, mas da iniciativa unilateral e do hesed de Deus, que precede e produz o próprio arrependimento."
+      },
+      "pasajes": [
+        "Os 2:14-15",
+        "Os 3:1-2",
+        "Os 11:8-9",
+        "Os 13:14",
+        "Os 14:4"
+      ],
+      "ensenanza": {
+        "es": "Dios mismo atrae a Israel al desierto para hablarle al corazón · Oseas compra y redime a su esposa adúltera como acto unilateral de amor · La compasión de Dios se enardece y contiene su propia ira contra el pecado · Dios promete redimir a su pueblo del poder del Seol y la muerte · Dios sanará la apostasía de Israel y lo amará sin condición previa",
+        "en": "God himself allures Israel into the wilderness to speak to her heart · Hosea buys back and redeems his adulterous wife as a unilateral act of love · God's compassion is kindled and restrains his own wrath against sin · God promises to redeem his people from the power of Sheol and death · God will heal Israel's apostasy and love them with no prior condition",
+        "pt": "O próprio Deus atrai Israel ao deserto para falar-lhe ao coração · Oséias resgata e redime sua esposa adúltera como ato unilateral de amor · A compaixão de Deus se acende e contém sua própria ira contra o pecado · Deus promete redimir seu povo do poder do Seol e da morte · Deus curará a apostasia de Israel e o amará sem condição prévia"
+      },
+      "distintivaReformada": {
+        "es": "Contra toda soteriología sinergista, la tradición reformada lee en Os 14:4 —«los amaré de pura gracia»— una expresión veterotestamentaria temprana de la gracia soberana e incondicional que sustenta la doctrina de la justificación por sola gracia, ya que el amor de Dios precede y causa el arrepentimiento del pueblo, no lo sigue como recompensa.",
+        "en": "Against every synergistic soteriology, the Reformed tradition reads in Hos 14:4 — \"I will love them freely\" — an early Old Testament expression of the sovereign, unconditional grace underlying the doctrine of justification by grace alone, since God's love precedes and causes the people's repentance rather than following it as a reward.",
+        "pt": "Contra toda soteriologia sinergista, a tradição reformada lê em Os 14:4 — «eu os amarei voluntariamente» — uma expressão veterotestamentária precoce da graça soberana e incondicional que sustenta a doutrina da justificação somente pela graça, já que o amor de Deus precede e causa o arrependimento do povo, não o segue como recompensa."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "Los nombres de los hijos de Oseas dramatizan la elección y el rechazo del pacto: «Lo-ammi» (no pueblo mío) declara la suspensión temporal del estatus electivo de Israel, mientras que su reversión a «pueblo mío» y «amada» (Os 1:10; 2:23) revela que la elección de Dios, aunque disciplinada por el pecado, permanece fundada en su propósito soberano y no en el desempeño de Israel.",
+        "en": "The names of Hosea's children dramatize covenant election and rejection: \"Lo-ammi\" (not my people) declares the temporary suspension of Israel's elect status, while its reversal to \"my people\" and \"beloved\" (Hos 1:10; 2:23) reveals that God's election, though disciplined by sin, remains grounded in his sovereign purpose and not in Israel's performance.",
+        "pt": "Os nomes dos filhos de Oséias dramatizam a eleição e a rejeição do pacto: «Lo-Ami» (não meu povo) declara a suspensão temporária do status eletivo de Israel, enquanto sua reversão para «meu povo» e «amada» (Os 1:10; 2:23) revela que a eleição de Deus, embora disciplinada pelo pecado, permanece fundada em seu propósito soberano e não no desempenho de Israel."
+      },
+      "pasajes": [
+        "Os 1:9-10",
+        "Os 2:23",
+        "Os 11:1",
+        "Os 13:5"
+      ],
+      "ensenanza": {
+        "es": "Israel es declarado temporalmente «no pueblo mío» por su infidelidad de pacto · Dios promete restaurar y reafirmar su elección: «tú eres pueblo mío» · Dios llamó a Israel como su hijo desde su origen en Egipto · Dios conoció a Israel en el desierto, la tierra de sequía, como acto electivo original",
+        "en": "Israel is temporarily declared \"not my people\" for covenant unfaithfulness · God promises to restore and reaffirm his election: \"you are my people\" · God called Israel as his son from its origin in Egypt · God knew Israel in the wilderness, the land of drought, as an original elective act",
+        "pt": "Israel é declarado temporariamente «não meu povo» por sua infidelidade de pacto · Deus promete restaurar e reafirmar sua eleição: «tu és meu povo» · Deus chamou Israel como seu filho desde sua origem no Egito · Deus conheceu Israel no deserto, terra de seca, como ato eletivo original"
+      },
+      "distintivaReformada": {
+        "es": "Pablo cita directamente Os 1:10 y 2:23 en Ro 9:25-26 para fundamentar la doctrina reformada de la elección soberana que se extiende más allá de Israel étnico hacia los gentiles, mostrando que la elección de Dios opera según su misericordia libre y no según linaje ni mérito.",
+        "en": "Paul directly cites Hos 1:10 and 2:23 in Rom 9:25-26 to ground the Reformed doctrine of sovereign election extending beyond ethnic Israel to the Gentiles, showing that God's election operates according to his free mercy and not according to lineage or merit.",
+        "pt": "Paulo cita diretamente Os 1:10 e 2:23 em Rm 9:25-26 para fundamentar a doutrina reformada da eleição soberana que se estende além de Israel étnico aos gentios, mostrando que a eleição de Deus opera segundo sua misericórdia livre e não segundo linhagem ou mérito."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Propriamente Dita"
+      },
+      "resumen": {
+        "es": "Os 11:8-9 ofrece una de las revelaciones más profundas del Antiguo Testamento sobre el corazón de Dios: su ira es real y justa, pero su compasión —«se conmueve dentro de mí mi corazón»— la contiene, porque «Dios soy, y no hombre», cuya santidad se expresa no en abandono sino en paciencia redentora.",
+        "en": "Hos 11:8-9 offers one of the Old Testament's most profound revelations of God's heart: his wrath is real and just, but his compassion — \"my heart recoils within me\" — restrains it, because \"I am God, and not a man,\" whose holiness expresses itself not in abandonment but in redemptive patience.",
+        "pt": "Os 11:8-9 oferece uma das revelações mais profundas do Antigo Testamento sobre o coração de Deus: sua ira é real e justa, mas sua compaixão — «o meu coração se conturba dentro de mim» — a contém, porque «Deus sou eu, e não homem», cuja santidade se expressa não em abandono, mas em paciência redentora."
+      },
+      "pasajes": [
+        "Os 2:19-20",
+        "Os 6:6",
+        "Os 11:8-9",
+        "Os 13:4"
+      ],
+      "ensenanza": {
+        "es": "Dios se desposa consigo mismo para siempre en justicia, derecho, hesed y compasión · Dios desea hesed y conocimiento de sí mismo más que sacrificios rituales · La compasión de Dios se enardece de modo que no ejecuta el furor de su ira · Yahvé se presenta como el único Dios y Salvador de Israel desde Egipto",
+        "en": "God betroths himself forever in righteousness, justice, hesed, and compassion · God desires hesed and knowledge of himself more than ritual sacrifices · God's compassion grows warm so that he does not execute the fury of his anger · Yahweh presents himself as the only God and Savior of Israel since Egypt",
+        "pt": "Deus se desposa consigo mesmo para sempre em justiça, direito, hesed e compaixão · Deus deseja hesed e conhecimento de si mesmo mais do que sacrifícios rituais · A compaixão de Deus se acende de modo que não executa o furor de sua ira · Javé se apresenta como o único Deus e Salvador de Israel desde o Egito"
+      },
+      "distintivaReformada": {
+        "es": "La ortodoxia reformada lee Os 11:9 («Dios soy, y no hombre») como afirmación de la inmutabilidad e impasibilidad relativa de Dios: su compasión no es capricho emocional sino expresión consistente de su carácter eterno de pacto, lo que garantiza que su hesed hacia los elegidos nunca falla.",
+        "en": "Reformed orthodoxy reads Hos 11:9 (\"I am God, and not a man\") as an affirmation of God's immutability and relative impassibility: his compassion is not emotional caprice but a consistent expression of his eternal covenant character, guaranteeing that his hesed toward the elect never fails.",
+        "pt": "A ortodoxia reformada lê Os 11:9 («Deus sou eu, e não homem») como afirmação da imutabilidade e impassibilidade relativa de Deus: sua compaixão não é capricho emocional, mas expressão consistente de seu caráter eterno de pacto, o que garante que seu hesed para com os eleitos nunca falha."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 7",
+      "titulo": {
+        "es": "Del Pacto de Dios con el Hombre",
+        "en": "Of God's Covenant with Man",
+        "pt": "Do Pacto de Deus com o Homem"
+      },
+      "doctrinas": [
+        "Pacto",
+        "Gracia"
+      ],
+      "resumen": {
+        "es": "La WCF enseña que Dios se ha relacionado con la humanidad mediante pactos de condescendencia voluntaria. Oseas dramatiza precisamente esta estructura: el pacto mosaico como matrimonio con obligaciones mutuas, cuya ruptura por Israel no anula la condescendencia original de Dios sino que activa sus cláusulas de disciplina y, finalmente, de renovación gratuita.",
+        "en": "The WCF teaches that God has related to humanity through covenants of voluntary condescension. Hosea dramatizes precisely this structure: the Mosaic covenant as marriage with mutual obligations, whose rupture by Israel does not annul God's original condescension but activates its clauses of discipline and, ultimately, of gracious renewal.",
+        "pt": "A WCF ensina que Deus se relacionou com a humanidade por meio de pactos de condescendência voluntária. Oséias dramatiza precisamente essa estrutura: o pacto mosaico como casamento com obrigações mútuas, cuja ruptura por Israel não anula a condescendência original de Deus, mas ativa suas cláusulas de disciplina e, finalmente, de renovação gratuita."
+      },
+      "genesis": [
+        "Os 2:19-20",
+        "Os 6:7",
+        "Os 8:1"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-7"
+    },
+    {
+      "cap": "Cap. 15",
+      "titulo": {
+        "es": "Del Arrepentimiento para Vida",
+        "en": "Of Repentance unto Life",
+        "pt": "Do Arrependimento para a Vida"
+      },
+      "doctrinas": [
+        "Arrepentimiento",
+        "Santificación"
+      ],
+      "resumen": {
+        "es": "La WCF describe el arrepentimiento como don evangélico que produce odio al pecado y vuelta a Dios. El llamado final de Oseas —«Vuelve, oh Israel, al SEÑOR tu Dios» (Os 14:1)— junto con la fórmula de confesión provista en Os 14:2-3, ofrece el modelo veterotestamentario más completo de arrepentimiento nacional acompañado de la promesa divina de sanar la apostasía.",
+        "en": "The WCF describes repentance as an evangelical grace producing hatred of sin and turning to God. Hosea's final call — \"Return, O Israel, to the LORD your God\" (Hos 14:1) — together with the confession formula provided in Hos 14:2-3, offers the Old Testament's most complete model of national repentance accompanied by the divine promise to heal apostasy.",
+        "pt": "A WCF descreve o arrependimento como uma graça evangélica que produz ódio ao pecado e retorno a Deus. O chamado final de Oséias — «Volta, ó Israel, para o SENHOR teu Deus» (Os 14:1) — junto com a fórmula de confissão fornecida em Os 14:2-3, oferece o modelo veterotestamentário mais completo de arrependimento nacional acompanhado da promessa divina de curar a apostasia."
+      },
+      "genesis": [
+        "Os 14:1",
+        "Os 14:2",
+        "Os 14:4"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-15"
+    },
+    {
+      "cap": "Cap. 3",
+      "titulo": {
+        "es": "Del Decreto Eterno de Dios",
+        "en": "Of God's Eternal Decree",
+        "pt": "Do Decreto Eterno de Deus"
+      },
+      "doctrinas": [
+        "Elección",
+        "Providencia"
+      ],
+      "resumen": {
+        "es": "La WCF afirma que la elección de Dios procede de su propósito eterno y libre, no de la previsión del mérito humano. La reversión de «Lo-ammi» a «pueblo mío» (Os 1:9-10; 2:23), citada por Pablo en Ro 9:25-26 precisamente en el contexto de la elección soberana, confirma que la relación de pacto de Israel descansa sobre el decreto y la gracia de Dios, no sobre la fidelidad de la nación.",
+        "en": "The WCF affirms that God's election proceeds from his eternal, free purpose, not from foreseen human merit. The reversal of \"Lo-ammi\" to \"my people\" (Hos 1:9-10; 2:23), cited by Paul in Rom 9:25-26 precisely in the context of sovereign election, confirms that Israel's covenant relationship rests on God's decree and grace, not the nation's faithfulness.",
+        "pt": "A WCF afirma que a eleição de Deus procede de seu propósito eterno e livre, não da previsão do mérito humano. A reversão de «Lo-Ami» para «meu povo» (Os 1:9-10; 2:23), citada por Paulo em Rm 9:25-26 precisamente no contexto da eleição soberana, confirma que o relacionamento de pacto de Israel repousa sobre o decreto e a graça de Deus, não sobre a fidelidade da nação."
+      },
+      "genesis": [
+        "Os 1:9-10",
+        "Os 2:23"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-3"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Os 1:2",
+      "es": "Cuando el SEÑOR comenzó a hablar por medio de Oseas, el SEÑOR dijo a Oseas: «Ve, toma para ti una mujer fornicaria y ten hijos de fornicación, porque como una mujer fornicaria, la tierra se ha apartado del SEÑOR».",
+      "en": "When the LORD first spoke through Hosea, the LORD said to Hosea, \"Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the LORD.\"",
+      "pt": "Princípio da palavra do SENHOR por Oséias. Disse, pois, o SENHOR a Oséias: Vai, toma para ti uma mulher de prostituições e filhos de prostituições; porque a terra fornica, apartando-se do SENHOR.",
+      "nota": {
+        "es": "Este mandato escandaloso establece el marco de todo el libro: el matrimonio de Oseas no es una metáfora abstracta sino un acto profético encarnado que hace visible, en carne y hueso, la idolatría de Israel como adulterio contra su esposo pactual.",
+        "en": "This scandalous command establishes the framework for the entire book: Hosea's marriage is not an abstract metaphor but an embodied prophetic act that makes Israel's idolatry visible, in flesh and blood, as adultery against her covenant husband.",
+        "pt": "Este mandato escandaloso estabelece a estrutura de todo o livro: o casamento de Oséias não é uma metáfora abstrata, mas um ato profético encarnado que torna visível, em carne e osso, a idolatria de Israel como adultério contra seu esposo pactual."
+      }
+    },
+    {
+      "ref": "Os 6:6",
+      "es": "Porque yo quiero misericordia y no sacrificio, y conocimiento de Dios más que holocaustos.",
+      "en": "For I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings.",
+      "pt": "Porque eu quero misericórdia e não sacrifício; e o conhecimento de Deus, mais do que holocaustos.",
+      "nota": {
+        "es": "Jesús cita este versículo dos veces (Mt 9:13; 12:7) para corregir el legalismo ritualista de los fariseos, mostrando que Oseas anticipa la prioridad evangélica del corazón transformado sobre la mera observancia externa.",
+        "en": "Jesus quotes this verse twice (Matt 9:13; 12:7) to correct the Pharisees' ritualistic legalism, showing that Hosea anticipates the evangelical priority of the transformed heart over mere external observance.",
+        "pt": "Jesus cita este versículo duas vezes (Mt 9:13; 12:7) para corrigir o legalismo ritualista dos fariseus, mostrando que Oséias antecipa a prioridade evangélica do coração transformado sobre a mera observância externa."
+      }
+    },
+    {
+      "ref": "Os 11:1",
+      "es": "Cuando Israel era muchacho, yo lo amé, y de Egipto llamé a mi hijo.",
+      "en": "When Israel was a child, I loved him, and out of Egypt I called my son.",
+      "pt": "Quando Israel era menino, eu o amei, e do Egito chamei o meu filho.",
+      "nota": {
+        "es": "Mateo cita este versículo (Mt 2:15) al aplicar la vuelta de Jesús de Egipto como cumplimiento tipológico: Cristo recapitula la historia de Israel como el Hijo verdadero y obediente, viviendo la vocación que Israel traicionó.",
+        "en": "Matthew quotes this verse (Matt 2:15) in applying Jesus's return from Egypt as typological fulfillment: Christ recapitulates Israel's history as the true, obedient Son, living out the vocation Israel betrayed.",
+        "pt": "Mateus cita este versículo (Mt 2:15) ao aplicar o retorno de Jesus do Egito como cumprimento tipológico: Cristo recapitula a história de Israel como o Filho verdadeiro e obediente, vivendo a vocação que Israel traiu."
+      }
+    },
+    {
+      "ref": "Os 14:4",
+      "es": "Yo sanaré su infidelidad, los amaré de pura gracia, porque mi ira se ha apartado de ellos.",
+      "en": "I will heal their apostasy; I will love them freely, for my anger has turned from them.",
+      "pt": "Eu sararei a sua rebeldia, eu os amarei voluntariamente; porque a minha ira se apartou dele.",
+      "nota": {
+        "es": "El clímax teológico del libro: la sanidad y el amor de Dios no son recompensa del arrepentimiento de Israel sino la causa gratuita que lo produce, anticipando la doctrina reformada de la gracia soberana e incondicional.",
+        "en": "The book's theological climax: God's healing and love are not a reward for Israel's repentance but the free cause that produces it, anticipating the Reformed doctrine of sovereign, unconditional grace.",
+        "pt": "O clímax teológico do livro: a cura e o amor de Deus não são recompensa do arrependimento de Israel, mas a causa gratuita que o produz, antecipando a doutrina reformada da graça soberana e incondicional."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La tradición reformada lee Oseas como el testimonio veterotestamentario más vívido de que la salvación siempre ha sido por gracia mediante la fe, no por mérito: el «hesed» de Dios precede, sostiene y sobrevive a la infidelidad de su pueblo, de modo que ni el juicio más severo (Lo-ammi) cancela el propósito electivo soberano de Dios, cumplido finalmente en Cristo, quien recapitula la vocación de Israel (Os 11:1; Mt 2:15) y redime a su iglesia adúltera como Oseas redimió a Gomer (Os 3:1-2; Ef 5:25-27).",
+    "en": "The Reformed tradition reads Hosea as the Old Testament's most vivid testimony that salvation has always been by grace through faith, not by merit: God's \"hesed\" precedes, sustains, and survives his people's unfaithfulness, so that not even the severest judgment (Lo-ammi) cancels God's sovereign elective purpose, finally fulfilled in Christ, who recapitulates Israel's vocation (Hos 11:1; Matt 2:15) and redeems his adulterous church as Hosea redeemed Gomer (Hos 3:1-2; Eph 5:25-27).",
+    "pt": "A tradição reformada lê Oséias como o testemunho veterotestamentário mais vívido de que a salvação sempre foi pela graça mediante a fé, não pelo mérito: o «hesed» de Deus precede, sustenta e sobrevive à infidelidade de seu povo, de modo que nem o juízo mais severo (Lo-Ami) cancela o propósito eletivo soberano de Deus, finalmente cumprido em Cristo, que recapitula a vocação de Israel (Os 11:1; Mt 2:15) e redime sua igreja adúltera como Oséias redimiu Gômer (Os 3:1-2; Ef 5:25-27)."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Matrimonio y Nombres de Juicio",
+        "en": "Marriage and Names of Judgment",
+        "pt": "Casamento e Nomes de Juízo"
+      },
+      "descripcion": {
+        "es": "Yahvé ordena a Oseas casarse con Gomer, «una mujer fornicaria», porque «la tierra se ha apartado del SEÑOR» (Os 1:2). Nacen tres hijos con nombres oraculares: Jezreel, anunciando el fin de la dinastía de Jehú por la sangre derramada en ese valle (Os 1:4); Lo-ruhama, «no compadecida», señalando el retiro temporal de la misericordia divina de Israel (Os 1:6); y Lo-ammi, «no pueblo mío», la ruptura formal de la fórmula del pacto mosaico (Os 1:9). El capítulo cierra, sin embargo, con una promesa de restauración: los hijos de Israel serán «como la arena del mar» y serán llamados «hijos del Dios viviente» (Os 1:10), estableciendo desde el inicio que el juicio del pacto no es la última palabra de Dios.",
+        "en": "Yahweh commands Hosea to marry Gomer, \"a wife of whoredom,\" because \"the land commits great whoredom by forsaking the LORD\" (Hos 1:2). Three children are born with oracular names: Jezreel, announcing the end of Jehu's dynasty for the blood shed in that valley (Hos 1:4); Lo-ruhamah, \"not pitied,\" signaling the temporary withdrawal of divine mercy from Israel (Hos 1:6); and Lo-ammi, \"not my people,\" the formal rupture of the Mosaic covenant formula (Hos 1:9). The chapter closes, however, with a promise of restoration: the children of Israel will be \"like the sand of the sea\" and will be called \"sons of the living God\" (Hos 1:10), establishing from the outset that covenant judgment is not God's last word.",
+        "pt": "Javé ordena a Oséias que se case com Gômer, «uma mulher de prostituições», porque «a terra fornica, apartando-se do SENHOR» (Os 1:2). Nascem três filhos com nomes oraculares: Jezreel, anunciando o fim da dinastia de Jeú pelo sangue derramado naquele vale (Os 1:4); Lo-Ruama, «não compadecida», sinalizando a retirada temporária da misericórdia divina de Israel (Os 1:6); e Lo-Ami, «não meu povo», a ruptura formal da fórmula do pacto mosaico (Os 1:9). O capítulo se encerra, contudo, com uma promessa de restauração: os filhos de Israel serão «como a areia do mar» e serão chamados «filhos do Deus vivente» (Os 1:10), estabelecendo desde o início que o juízo do pacto não é a última palavra de Deus."
+      },
+      "eventoClave": {
+        "es": "El mandato divino a Oseas de casarse con una mujer fornicaria (Os 1:2), que convierte su matrimonio en un signo profético encarnado de la infidelidad de pacto de Israel.",
+        "en": "The divine command for Hosea to marry a promiscuous woman (Hos 1:2), turning his marriage into an embodied prophetic sign of Israel's covenant unfaithfulness.",
+        "pt": "O mandato divino a Oséias de casar-se com uma mulher de prostituições (Os 1:2), transformando seu casamento num signo profético encarnado da infidelidade de pacto de Israel."
+      },
+      "versiculoClave": "Os 1:2",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 9:25-26",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita la reversión de Lo-ammi y Lo-ruhama para fundamentar la inclusión de los gentiles en el pueblo de Dios.",
+            "en": "Paul quotes the reversal of Lo-ammi and Lo-ruhamah to ground the inclusion of Gentiles among God's people.",
+            "pt": "Paulo cita a reversão de Lo-Ami e Lo-Ruama para fundamentar a inclusão dos gentios no povo de Deus."
+          }
+        },
+        {
+          "ref": "1P 2:10",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Pedro aplica «vosotros que en otro tiempo no erais pueblo» a la iglesia gentil, cumpliendo la promesa de Os 1:10.",
+            "en": "Peter applies \"once you were not a people\" to the Gentile church, fulfilling the promise of Hos 1:10.",
+            "pt": "Pedro aplica «vós, que outrora não éreis povo» à igreja gentia, cumprindo a promessa de Os 1:10."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "El mandato de casarse con una mujer fornicaria (Os 1:2) convierte el matrimonio de Oseas en signo viviente del pacto roto entre Yahvé e Israel.",
+            "en": "The command to marry a promiscuous woman (Hos 1:2) turns Hosea's marriage into a living sign of the broken covenant between Yahweh and Israel.",
+            "pt": "O mandato de casar-se com uma mulher de prostituições (Os 1:2) transforma o casamento de Oséias em sinal vivo do pacto quebrado entre Javé e Israel."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "«La tierra se ha apartado del SEÑOR» (Os 1:2) identifica la infidelidad idolátrica como la causa raíz de los nombres de juicio.",
+              "en": "\"The land forsakes the LORD\" (Hos 1:2) identifies idolatrous unfaithfulness as the root cause of the judgment names.",
+              "pt": "«A terra fornica, apartando-se do SENHOR» (Os 1:2) identifica a infidelidade idólatra como causa raiz dos nomes de juízo."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Pese a Lo-ammi, Dios promete que los hijos de Israel serán «como la arena del mar» y «hijos del Dios viviente» (Os 1:10).",
+              "en": "Despite Lo-ammi, God promises Israel's children will be \"like the sand of the sea\" and \"sons of the living God\" (Hos 1:10).",
+              "pt": "Apesar de Lo-Ami, Deus promete que os filhos de Israel serão «como a areia do mar» e «filhos do Deus vivente» (Os 1:10)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Pleito Contra la Esposa Infiel",
+        "en": "Legal Case Against the Unfaithful Wife",
+        "pt": "Pleito Contra a Esposa Infiel"
+      },
+      "descripcion": {
+        "es": "Dios entabla un pleito legal (rîb) contra Israel, retratado como esposa que persigue amantes, atribuyendo a Baal el pan, el agua, la lana, el aceite y el vino que en realidad provienen de Yahvé (Os 2:2-8). Como disciplina de pacto, Dios cercará sus caminos con espinos y despojará su tierra en las fiestas señaladas (Os 2:6-13). Pero el capítulo gira radicalmente: Dios mismo la atraerá al desierto para «hablarle al corazón» (Os 2:14), convertirá el valle de Acor en «puerta de esperanza» (Os 2:15), y se desposará con ella para siempre «en justicia, en juicio, en misericordia [hesed] y en compasión» (Os 2:19-20), revirtiendo los nombres de juicio del capítulo 1 en promesas de pacto renovado (Os 2:23).",
+        "en": "God brings a legal case (rîb) against Israel, portrayed as a wife pursuing lovers, crediting Baal with the bread, water, wool, oil, and wine that actually come from Yahweh (Hos 2:2-8). As covenant discipline, God will hedge her paths with thorns and strip her land at the appointed feasts (Hos 2:6-13). But the chapter turns radically: God himself will allure her into the wilderness to \"speak tenderly to her\" (Hos 2:14), turn the Valley of Achor into a \"door of hope\" (Hos 2:15), and betroth her forever \"in righteousness, in justice, in steadfast love [hesed], and in mercy\" (Hos 2:19-20), reversing the judgment names of chapter 1 into promises of renewed covenant (Hos 2:23).",
+        "pt": "Deus move um pleito legal (rîb) contra Israel, retratado como esposa que persegue amantes, atribuindo a Baal o pão, a água, a lã, o azeite e o vinho que na verdade vêm de Javé (Os 2:2-8). Como disciplina de pacto, Deus cercará seus caminhos com espinhos e despojará sua terra nas festas assinaladas (Os 2:6-13). Mas o capítulo vira radicalmente: o próprio Deus a atrairá ao deserto para «falar-lhe ao coração» (Os 2:14), tornará o vale de Acor em «porta de esperança» (Os 2:15), e se desposará com ela para sempre «em justiça, em juízo, em benignidade [hesed] e em misericórdias» (Os 2:19-20), revertendo os nomes de juízo do capítulo 1 em promessas de pacto renovado (Os 2:23)."
+      },
+      "eventoClave": {
+        "es": "La promesa de un nuevo desposorio eterno fundado en justicia, derecho, hesed y compasión (Os 2:19-20), el corazón teológico de la esperanza de restauración del libro.",
+        "en": "The promise of a new eternal betrothal grounded in righteousness, justice, hesed, and mercy (Hos 2:19-20), the theological heart of the book's hope of restoration.",
+        "pt": "A promessa de um novo desposório eterno fundado em justiça, direito, hesed e misericórdia (Os 2:19-20), o coração teológico da esperança de restauração do livro."
+      },
+      "versiculoClave": "Os 2:19-20",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ez 16:8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Ezequiel emplea la misma imagen matrimonial del pacto para describir la relación de Dios con Jerusalén.",
+            "en": "Ezekiel employs the same marital covenant image to describe God's relationship with Jerusalem.",
+            "pt": "Ezequiel emprega a mesma imagem matrimonial do pacto para descrever a relação de Deus com Jerusalém."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "Dios promete desposarse con Israel para siempre «en justicia, en juicio, en hesed y en compasión» (Os 2:19-20), resolviendo el pleito legal en gracia.",
+            "en": "God promises to betroth Israel forever \"in righteousness, justice, hesed, and mercy\" (Hos 2:19-20), resolving the legal case into grace.",
+            "pt": "Deus promete desposar-se com Israel para sempre «em justiça, em juízo, em hesed e em misericórdias» (Os 2:19-20), resolvendo o pleito legal em graça."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "Israel atribuye a Baal el pan, el agua y el aceite que en verdad provienen de Yahvé (Os 2:8), la acusación central del pleito.",
+              "en": "Israel credits Baal with the bread, water, and oil that actually come from Yahweh (Hos 2:8), the case's central accusation.",
+              "pt": "Israel atribui a Baal o pão, a água e o azeite que na verdade vêm de Javé (Os 2:8), a acusação central do pleito."
+            }
+          },
+          {
+            "Exilio/Desierto": {
+              "es": "Dios atraerá a Israel al desierto para «hablarle al corazón» (Os 2:14), transformando el lugar de juicio en lugar de cortejo renovado.",
+              "en": "God will allure Israel into the wilderness to \"speak tenderly to her\" (Hos 2:14), transforming the place of judgment into renewed courtship.",
+              "pt": "Deus atrairá Israel ao deserto para «falar-lhe ao coração» (Os 2:14), transformando o lugar de juízo em lugar de renovado cortejo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Redención de Gomer",
+        "en": "Redemption of Gomer",
+        "pt": "Redenção de Gômer"
+      },
+      "descripcion": {
+        "es": "Dios ordena a Oseas amar de nuevo a su esposa, «amada de su compañero, aunque adúltera», como retrato del amor de Yahvé por los hijos de Israel «que miran a otros dioses» (Os 3:1). Oseas la compra por quince piezas de plata y un homer y medio de cebada —el precio de una esclava, no de una esposa libre— y la retiene consigo sin relaciones conyugales durante un período de purificación (Os 3:2-3). El capítulo cierra con la aplicación explícita: así estarán los hijos de Israel muchos días sin rey ni príncipe, sin sacrificio ni ídolo, hasta que busquen «al SEÑOR su Dios y a David su rey» en los postreros días (Os 3:4-5), anticipando tanto el exilio como el retorno mesiánico-davídico.",
+        "en": "God commands Hosea to love his wife again, \"a woman loved by another man and an adulteress,\" as a picture of Yahweh's love for the children of Israel \"who turn to other gods\" (Hos 3:1). Hosea buys her for fifteen pieces of silver and a homer and a half of barley — the price of a slave, not a free wife — and keeps her with him without conjugal relations during a period of purification (Hos 3:2-3). The chapter closes with the explicit application: so the children of Israel shall dwell many days without king or prince, without sacrifice or idol, until they seek \"the LORD their God and David their king\" in the latter days (Hos 3:4-5), anticipating both exile and messianic-Davidic return.",
+        "pt": "Deus ordena a Oséias que ame novamente sua esposa, «amada de seu companheiro, ainda que adúltera», como retrato do amor de Javé pelos filhos de Israel «que olham para outros deuses» (Os 3:1). Oséias a compra por quinze peças de prata e um ômer e meio de cevada — o preço de uma escrava, não de uma esposa livre — e a retém consigo sem relações conjugais durante um período de purificação (Os 3:2-3). O capítulo se encerra com a aplicação explícita: assim os filhos de Israel ficarão muitos dias sem rei nem príncipe, sem sacrifício nem ídolo, até que busquem «ao SENHOR seu Deus, e a Davi, seu rei» nos últimos dias (Os 3:4-5), antecipando tanto o exílio quanto o retorno messiânico-davídico."
+      },
+      "eventoClave": {
+        "es": "La compra de Gomer por Oseas (Os 3:2), acto de redención unilateral que tipifica la compra de la iglesia por Cristo con su propia sangre, no con plata ni oro.",
+        "en": "Hosea's purchase of Gomer (Hos 3:2), an act of unilateral redemption that typifies the church's purchase by Christ with his own blood, not silver or gold.",
+        "pt": "A compra de Gômer por Oséias (Os 3:2), ato de redenção unilateral que tipifica a compra da igreja por Cristo com seu próprio sangue, não com prata ou ouro."
+      },
+      "versiculoClave": "Os 3:2",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1P 1:18-19",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La redención de Gomer por un precio prefigura la redención de la iglesia, no con plata ni oro, sino con la sangre preciosa de Cristo.",
+            "en": "Gomer's redemption at a price prefigures the church's redemption, not with silver or gold, but with the precious blood of Christ.",
+            "pt": "A redenção de Gômer por um preço prefigura a redenção da igreja, não com prata ou ouro, mas com o precioso sangue de Cristo."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Redención/Rescate": {
+            "es": "Oseas compra a Gomer por quince piezas de plata y cebada (Os 3:2), acto unilateral de redención que retrata el amor de Dios por Israel infiel.",
+            "en": "Hosea buys Gomer for fifteen pieces of silver and barley (Hos 3:2), a unilateral act of redemption picturing God's love for unfaithful Israel.",
+            "pt": "Oséias compra Gômer por quinze peças de prata e cevada (Os 3:2), ato unilateral de redenção que retrata o amor de Deus por Israel infiel."
+          }
+        },
+        "secundarios": [
+          {
+            "Realeza/Trono de David": {
+              "es": "Israel buscará «al SEÑOR su Dios y a David su rey» en los postreros días (Os 3:5), anticipando la esperanza mesiánico-davídica.",
+              "en": "Israel will seek \"the LORD their God and David their king\" in the latter days (Hos 3:5), anticipating messianic-Davidic hope.",
+              "pt": "Israel buscará «ao SENHOR seu Deus e a Davi, seu rei» nos últimos dias (Os 3:5), antecipando a esperança messiânico-davídica."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 7,
+      "titulo": {
+        "es": "Acusación Contra Sacerdotes y Pueblo",
+        "en": "Indictment Against Priests and People",
+        "pt": "Acusação Contra Sacerdotes e Povo"
+      },
+      "descripcion": {
+        "es": "Dios entabla un pleito contra los habitantes de la tierra porque «no hay verdad, ni misericordia, ni conocimiento de Dios», solo perjurio, homicidio y robo (Os 4:1-2). Los sacerdotes son acusados directamente de rechazar el conocimiento de Dios y de alimentarse del pecado del pueblo (Os 4:6-8), y el «espíritu de fornicación» los ha extraviado tras Baal (Os 4:12). Efraín es descrito como «torta no volteada» a medio cocer (Os 7:8) y como «paloma incauta» que revolotea entre Egipto y Asiria sin buscar a Dios (Os 7:11). En medio de la acusación, Dios anhela redimirlos —«¿cómo te entregaré, Efraín?»— pero su arrepentimiento es «como niebla de la mañana» que se desvanece (Os 6:4), y por eso Dios prefiere «misericordia y no sacrificio, conocimiento de Dios más que holocaustos» (Os 6:6).",
+        "en": "God brings a case against the inhabitants of the land because \"there is no faithfulness or steadfast love, and no knowledge of God,\" only swearing, killing, and stealing (Hos 4:1-2). The priests are directly accused of rejecting the knowledge of God and feeding on the people's sin (Hos 4:6-8), and \"a spirit of whoredom\" has led them astray after Baal (Hos 4:12). Ephraim is described as a \"cake not turned,\" half-baked (Hos 7:8), and as a \"silly dove\" fluttering between Egypt and Assyria without seeking God (Hos 7:11). Amid the indictment, God longs to redeem them — \"How can I give you up, Ephraim?\" — but their love is \"like the morning mist\" that vanishes (Hos 6:4), and so God prefers \"steadfast love and not sacrifice, the knowledge of God rather than burnt offerings\" (Hos 6:6).",
+        "pt": "Deus move um pleito contra os habitantes da terra porque «não há verdade, nem misericórdia, nem conhecimento de Deus», só perjúrio, homicídio e roubo (Os 4:1-2). Os sacerdotes são acusados diretamente de rejeitar o conhecimento de Deus e de se alimentarem do pecado do povo (Os 4:6-8), e o «espírito de prostituição» os desviou atrás de Baal (Os 4:12). Efraim é descrito como «bolo não virado», mal cozido (Os 7:8), e como «pomba insensata» que esvoaça entre o Egito e a Assíria sem buscar a Deus (Os 7:11). Em meio à acusação, Deus anseia por redimi-los — «como te deixarei, ó Efraim?» — mas seu amor é «como a nuvem da manhã» que se desvanece (Os 6:4), e por isso Deus prefere «misericórdia e não sacrifício, e o conhecimento de Deus, mais do que holocaustos» (Os 6:6)."
+      },
+      "eventoClave": {
+        "es": "La declaración divina «misericordia quiero y no sacrificio, conocimiento de Dios más que holocaustos» (Os 6:6), citada por Jesús para corregir el legalismo ritualista de los fariseos.",
+        "en": "The divine declaration \"I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings\" (Hos 6:6), quoted by Jesus to correct the Pharisees' ritualistic legalism.",
+        "pt": "A declaração divina «misericórdia quero e não sacrifício, e o conhecimento de Deus, mais do que holocaustos» (Os 6:6), citada por Jesus para corrigir o legalismo ritualista dos fariseus."
+      },
+      "versiculoClave": "Os 6:6",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 9:13",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita Os 6:6 al defender su comunión con pecadores frente a los fariseos.",
+            "en": "Jesus quotes Hos 6:6 in defending his fellowship with sinners against the Pharisees.",
+            "pt": "Jesus cita Os 6:6 ao defender sua comunhão com pecadores diante dos fariseus."
+          }
+        },
+        {
+          "ref": "Mt 12:7",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús vuelve a citar Os 6:6 al defender a sus discípulos por recoger espigas en sábado.",
+            "en": "Jesus quotes Hos 6:6 again in defending his disciples for plucking grain on the Sabbath.",
+            "pt": "Jesus volta a citar Os 6:6 ao defender seus discípulos por colherem espigas no sábado."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Idolatría": {
+            "es": "«Un espíritu de fornicación los ha extraviado» tras Baal (Os 4:12), y Efraín revolotea entre Egipto y Asiria en vez de buscar a Dios (Os 7:11).",
+            "en": "\"A spirit of whoredom has led them astray\" after Baal (Hos 4:12), and Ephraim flutters between Egypt and Assyria instead of seeking God (Hos 7:11).",
+            "pt": "«Um espírito de prostituição os desviou» atrás de Baal (Os 4:12), e Efraim esvoaça entre o Egito e a Assíria em vez de buscar a Deus (Os 7:11)."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "«Mi pueblo perece por falta de conocimiento» (Os 4:6) y Dios prefiere conocimiento de sí antes que sacrificios rituales (Os 6:6).",
+              "en": "\"My people are destroyed for lack of knowledge\" (Hos 4:6), and God prefers knowledge of himself over ritual sacrifices (Hos 6:6).",
+              "pt": "«O meu povo foi destruído por falta de conhecimento» (Os 4:6), e Deus prefere o conhecimento de si mesmo a sacrifícios rituais (Os 6:6)."
+            }
+          },
+          {
+            "Caída/Pecado": {
+              "es": "«No hay verdad, ni misericordia, ni conocimiento de Dios», solo perjurio, homicidio y robo en la tierra (Os 4:1-2).",
+              "en": "\"There is no faithfulness or steadfast love, and no knowledge of God,\" only swearing, killing, and stealing in the land (Hos 4:1-2).",
+              "pt": "«Não há verdade, nem misericórdia, nem conhecimento de Deus», só perjúrio, homicídio e roubo na terra (Os 4:1-2)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 8,
+      "rangoFin": 10,
+      "titulo": {
+        "es": "Ídolos, Alianzas y Juicio Venidero",
+        "en": "Idols, Alliances, and Coming Judgment",
+        "pt": "Ídolos, Alianças e Juízo Vindouro"
+      },
+      "descripcion": {
+        "es": "Israel «sembró viento, y torbellino segará» por haber hecho becerros de plata y oro para sí mismos (Os 8:4,7). El pecado de Bet-el (llamado sarcásticamente «Bet-avén») será destruido (Os 10:5,15), y las alianzas con Asiria y Egipto, buscadas sin consultar a Dios, no traerán seguridad sino tributo y vergüenza (Os 8:9-10; 10:6). Oseas recuerda que Israel es «vid frondosa que da fruto para sí mismo» en lugar de para Dios (Os 10:1), y que a pesar de la abundancia de altares para el pecado, «los días del castigo han venido» (Os 9:7). La sección cierra con un llamado urgente: «Sembrad para vosotros en justicia, segad para vosotros en misericordia; haced para vosotros barbecho, porque es tiempo de buscar al SEÑOR» (Os 10:12).",
+        "en": "Israel \"sowed the wind, and shall reap the whirlwind\" for making silver and gold idols for themselves (Hos 8:4,7). The sin of Bethel (sarcastically called \"Beth-aven\") will be destroyed (Hos 10:5,15), and the alliances with Assyria and Egypt, sought without consulting God, will bring not security but tribute and shame (Hos 8:9-10; 10:6). Hosea recalls that Israel is a \"luxuriant vine\" that yields fruit for itself instead of for God (Hos 10:1), and that despite the abundance of altars for sin, \"the days of punishment have come\" (Hos 9:7). The section closes with an urgent call: \"Sow for yourselves righteousness; reap steadfast love; break up your fallow ground, for it is the time to seek the LORD\" (Hos 10:12).",
+        "pt": "Israel «semeou vento, e colherá tormenta» por ter feito bezerros de prata e ouro para si mesmos (Os 8:4,7). O pecado de Betel (chamado sarcasticamente de «Bete-Áven») será destruído (Os 10:5,15), e as alianças com a Assíria e o Egito, buscadas sem consultar a Deus, não trarão segurança, mas tributo e vergonha (Os 8:9-10; 10:6). Oséias recorda que Israel é «vide frondosa que dá fruto para si mesma» em vez de para Deus (Os 10:1), e que, apesar da abundância de altares para o pecado, «os dias do castigo vieram» (Os 9:7). A seção se encerra com um chamado urgente: «Semeai para vós em justiça, colhei para vós em misericórdia, lavrai o campo alqueivado; pois é tempo de buscar ao SENHOR» (Os 10:12)."
+      },
+      "eventoClave": {
+        "es": "La sentencia «sembraron viento, y torbellino segarán» (Os 8:7), la formulación clásica del principio de retribución moral que gobierna toda la sección.",
+        "en": "The sentence \"they sow the wind and reap the whirlwind\" (Hos 8:7), the classic formulation of the moral retribution principle governing the whole section.",
+        "pt": "A sentença «porque semearam vento, e segarão tormenta» (Os 8:7), a formulação clássica do princípio de retribuição moral que governa toda a seção."
+      },
+      "versiculoClave": "Os 8:7",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gá 6:7",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo formula el mismo principio de siembra y siega en el contexto de la vida cristiana.",
+            "en": "Paul formulates the same sowing-and-reaping principle in the context of Christian living.",
+            "pt": "Paulo formula o mesmo princípio de semear e colher no contexto da vida cristã."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "«Sembraron viento, y torbellino segarán» (Os 8:7) resume el principio de retribución que gobierna el juicio venidero sobre Israel.",
+            "en": "\"They sow the wind and reap the whirlwind\" (Hos 8:7) summarizes the retribution principle governing the coming judgment on Israel.",
+            "pt": "«Porque semearam vento, e segarão tormenta» (Os 8:7) resume o princípio de retribuição que governa o juízo vindouro sobre Israel."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "Israel hizo becerros de plata y oro para sí mismo (Os 8:4) y el pecado de Bet-el será destruido (Os 10:5,15).",
+              "en": "Israel made silver and gold calves for itself (Hos 8:4), and the sin of Bethel will be destroyed (Hos 10:5,15).",
+              "pt": "Israel fez para si bezerros de prata e ouro (Os 8:4), e o pecado de Betel será destruído (Os 10:5,15)."
+            }
+          },
+          {
+            "Maldición": {
+              "es": "Las alianzas con Asiria y Egipto, buscadas sin consultar a Dios, traerán tributo y vergüenza, no seguridad (Os 8:9-10).",
+              "en": "Alliances with Assyria and Egypt, sought without consulting God, will bring tribute and shame, not security (Hos 8:9-10).",
+              "pt": "As alianças com a Assíria e o Egito, buscadas sem consultar a Deus, trarão tributo e vergonha, não segurança (Os 8:9-10)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 11,
+      "rangoFin": 11,
+      "titulo": {
+        "es": "El Padre que Ama a su Hijo Rebelde",
+        "en": "The Father Who Loves His Rebellious Son",
+        "pt": "O Pai que Ama seu Filho Rebelde"
+      },
+      "descripcion": {
+        "es": "La voz divina pasa del fiscal legal al padre herido: «Cuando Israel era muchacho, yo lo amé, y de Egipto llamé a mi hijo» (Os 11:1), pero «cuanto más los llamaba, más se alejaban de mí» hacia los Baales (Os 11:2). A pesar de haber enseñado a Efraín a andar y de haberlo tomado en sus brazos (Os 11:3), Israel insiste en volver a Egipto y Asiria (Os 11:5). El clímax del capítulo, y quizás del libro entero, llega en Os 11:8-9: el corazón de Dios «se conmueve» y su compasión «se enardece», de modo que no ejecutará el ardor de su ira, «porque Dios soy, y no hombre», cuya santidad se expresa en paciencia redentora, no en abandono destructor.",
+        "en": "The divine voice shifts from legal prosecutor to wounded father: \"When Israel was a child, I loved him, and out of Egypt I called my son\" (Hos 11:1), yet \"the more they were called, the more they went away\" after the Baals (Hos 11:2). Despite having taught Ephraim to walk and taken him up in his arms (Hos 11:3), Israel insists on returning to Egypt and Assyria (Hos 11:5). The chapter's climax, and perhaps the whole book's, arrives in Hos 11:8-9: God's heart \"recoils\" and his compassion \"grows warm and tender,\" so that he will not execute the fierceness of his anger, \"for I am God and not a man,\" whose holiness expresses itself in redemptive patience, not destructive abandonment.",
+        "pt": "A voz divina passa de promotor legal a pai ferido: «Quando Israel era menino, eu o amei, e do Egito chamei o meu filho» (Os 11:1), mas «quanto mais os chamava, tanto mais se apartavam de mim» atrás dos Baalins (Os 11:2). Apesar de ter ensinado Efraim a andar e de tê-lo tomado em seus braços (Os 11:3), Israel insiste em voltar ao Egito e à Assíria (Os 11:5). O clímax do capítulo, e talvez de todo o livro, chega em Os 11:8-9: o coração de Deus «se conturba» e sua compaixão «se acende», de modo que não executará o ardor de sua ira, «porque eu sou Deus e não homem», cuja santidade se expressa em paciência redentora, não em abandono destruidor."
+      },
+      "eventoClave": {
+        "es": "La compasión de Dios se enardece y contiene su ira contra Efraín (Os 11:8-9), la revelación más profunda del libro sobre el corazón paterno de Dios hacia su hijo rebelde.",
+        "en": "God's compassion grows warm and restrains his anger against Ephraim (Hos 11:8-9), the book's deepest revelation of God's fatherly heart toward his rebellious son.",
+        "pt": "A compaixão de Deus se acende e contém sua ira contra Efraim (Os 11:8-9), a revelação mais profunda do livro sobre o coração paterno de Deus para com seu filho rebelde."
+      },
+      "versiculoClave": "Os 11:1",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 2:15",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Mateo aplica «de Egipto llamé a mi hijo» a Cristo, quien recapitula la vocación filial de Israel como el Hijo verdadero y obediente.",
+            "en": "Matthew applies \"out of Egypt I called my son\" to Christ, who recapitulates Israel's filial vocation as the true, obedient Son.",
+            "pt": "Mateus aplica «do Egito chamei o meu filho» a Cristo, que recapitula a vocação filial de Israel como o Filho verdadeiro e obediente."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "La compasión de Dios «se conmueve» y contiene su ira contra Efraín, «porque Dios soy, y no hombre» (Os 11:8-9), revelando su hesed inquebrantable.",
+            "en": "God's compassion \"recoils\" and restrains his anger against Ephraim, \"for I am God and not a man\" (Hos 11:8-9), revealing his unbreakable hesed.",
+            "pt": "A compaixão de Deus «se conturba» e contém sua ira contra Efraim, «porque eu sou Deus e não homem» (Os 11:8-9), revelando seu hesed inquebrantável."
+          }
+        },
+        "secundarios": [
+          {
+            "Éxodo/Liberación": {
+              "es": "«De Egipto llamé a mi hijo» (Os 11:1) enraíza el amor paterno de Dios en el acto fundacional del éxodo.",
+              "en": "\"Out of Egypt I called my son\" (Hos 11:1) roots God's fatherly love in the foundational act of the exodus.",
+              "pt": "«Do Egito chamei o meu filho» (Os 11:1) enraíza o amor paterno de Deus no ato fundacional do êxodo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 12,
+      "rangoFin": 13,
+      "titulo": {
+        "es": "Historia de Jacob y Amenaza de Muerte",
+        "en": "Jacob's History and the Threat of Death",
+        "pt": "História de Jacó e Ameaça de Morte"
+      },
+      "descripcion": {
+        "es": "Oseas mira atrás a la historia patriarcal: Jacob luchó con el ángel en el vientre y prevaleció llorando y suplicando en Betel (Os 12:3-4), un llamado implícito a que Israel imite el arrepentimiento de su antepasado en lugar de su engaño mercantil («balanzas falsas», Os 12:7). El profeta recuerda que Yahvé, el mismo que sacó a Israel de Egipto por medio de un profeta (Os 12:13), es el único Dios que Israel ha conocido desde su origen (Os 13:4). Pero el capítulo 13 se ensombrece: Efraín, antes exaltado, murió por Baal (Os 13:1), y Dios mismo declara que será como león, leopardo y osa despojada de sus cachorros para su pueblo (Os 13:7-8). Aun así, en medio de la amenaza de muerte, resplandece la promesa: «de la mano del Seol los redimiré, de la muerte los libraré... ¿dónde está, oh muerte, tu aguijón?» (Os 13:14).",
+        "en": "Hosea looks back to patriarchal history: Jacob struggled with the angel in the womb and prevailed by weeping and pleading at Bethel (Hos 12:3-4), an implicit call for Israel to imitate its ancestor's repentance rather than his commercial deceit (\"false balances,\" Hos 12:7). The prophet recalls that Yahweh, the same one who brought Israel up from Egypt by a prophet (Hos 12:13), is the only God Israel has known since its origin (Hos 13:4). But chapter 13 darkens: Ephraim, once exalted, died because of Baal (Hos 13:1), and God himself declares he will be like a lion, leopard, and bear robbed of her cubs to his people (Hos 13:7-8). Yet amid the threat of death, the promise shines through: \"I shall ransom them from the power of Sheol; I shall redeem them from Death. O Death, where are your plagues?\" (Hos 13:14).",
+        "pt": "Oséias olha para trás, para a história patriarcal: Jacó lutou com o anjo no ventre e prevaleceu chorando e suplicando em Betel (Os 12:3-4), um chamado implícito para que Israel imite o arrependimento de seu antepassado em vez de seu engano mercantil («balanças enganosas», Os 12:7). O profeta lembra que Javé, o mesmo que tirou Israel do Egito por meio de um profeta (Os 12:13), é o único Deus que Israel conheceu desde sua origem (Os 13:4). Mas o capítulo 13 se sombreia: Efraim, antes exaltado, morreu por causa de Baal (Os 13:1), e o próprio Deus declara que será como leão, leopardo e ursa despojada de seus filhotes para seu povo (Os 13:7-8). Ainda assim, em meio à ameaça de morte, brilha a promessa: «da mão do Seol os remirei, da morte os resgatarei... onde estão, ó morte, as tuas pragas?» (Os 13:14)."
+      },
+      "eventoClave": {
+        "es": "La promesa de redención del poder del Seol y de la muerte (Os 13:14), citada por Pablo como cumplida en la resurrección de Cristo.",
+        "en": "The promise of redemption from the power of Sheol and death (Hos 13:14), cited by Paul as fulfilled in Christ's resurrection.",
+        "pt": "A promessa de redenção do poder do Seol e da morte (Os 13:14), citada por Paulo como cumprida na ressurreição de Cristo."
+      },
+      "versiculoClave": "Os 13:14",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Co 15:55",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita directamente Os 13:14 para celebrar la victoria de Cristo sobre la muerte en la resurrección.",
+            "en": "Paul directly quotes Hos 13:14 to celebrate Christ's victory over death in the resurrection.",
+            "pt": "Paulo cita diretamente Os 13:14 para celebrar a vitória de Cristo sobre a morte na ressurreição."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "Dios será como león, leopardo y osa despojada de sus cachorros para Efraín (Os 13:7-8), la imagen más severa de juicio del libro.",
+            "en": "God will be like a lion, leopard, and bear robbed of her cubs to Ephraim (Hos 13:7-8), the book's severest image of judgment.",
+            "pt": "Deus será como leão, leopardo e ursa despojada de seus filhotes para Efraim (Os 13:7-8), a imagem mais severa de juízo do livro."
+          }
+        },
+        "secundarios": [
+          {
+            "Resurrección": {
+              "es": "«De la mano del Seol los redimiré... ¿dónde está, oh muerte, tu aguijón?» (Os 13:14) promete victoria sobre la muerte misma.",
+              "en": "\"I shall ransom them from Sheol... O Death, where is your sting?\" (Hos 13:14) promises victory over death itself.",
+              "pt": "«Da mão do Seol os remirei... onde estão, ó morte, as tuas pragas?» (Os 13:14) promete vitória sobre a própria morte."
+            }
+          },
+          {
+            "Idolatría": {
+              "es": "«Efraín... murió por causa de Baal» (Os 13:1) resume el efecto letal de la idolatría sostenida a lo largo del libro.",
+              "en": "\"Ephraim... died because of Baal\" (Hos 13:1) summarizes the lethal effect of the idolatry sustained throughout the book.",
+              "pt": "«Efraim... morreu por causa de Baal» (Os 13:1) resume o efeito letal da idolatria sustentada ao longo do livro."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 14,
+      "rangoFin": 14,
+      "titulo": {
+        "es": "Llamado al Arrepentimiento y Restauración",
+        "en": "Call to Repentance and Restoration",
+        "pt": "Chamado ao Arrependimento e Restauração"
+      },
+      "descripcion": {
+        "es": "El libro cierra con el llamado más explícito al arrepentimiento de todo el Antiguo Testamento: «Vuelve, oh Israel, al SEÑOR tu Dios» (Os 14:1), acompañado de una fórmula de confesión que renuncia a Asiria, a los caballos de guerra y a los ídolos hechos por sus propias manos (Os 14:2-3). La respuesta divina es la promesa culminante del libro: «Yo sanaré su infidelidad, los amaré de pura gracia, porque mi ira se ha apartado de ellos» (Os 14:4), seguida de imágenes de florecimiento agrícola —lirio, olivo, vid del Líbano— que revierten toda la sequía y el juicio agrícola anunciados en los capítulos anteriores (Os 14:5-7). El libro termina con una exhortación sapiencial final: «los caminos del SEÑOR son rectos, y los justos andarán en ellos» (Os 14:9), invitando al lector de cualquier época a discernir y responder.",
+        "en": "The book closes with the Old Testament's most explicit call to repentance: \"Return, O Israel, to the LORD your God\" (Hos 14:1), accompanied by a confession formula renouncing Assyria, war horses, and idols made by their own hands (Hos 14:2-3). The divine response is the book's culminating promise: \"I will heal their apostasy; I will love them freely, for my anger has turned from them\" (Hos 14:4), followed by images of agricultural blossoming — lily, olive tree, vine of Lebanon — that reverse all the drought and agricultural judgment announced in earlier chapters (Hos 14:5-7). The book ends with a final wisdom exhortation: \"the ways of the LORD are right, and the upright walk in them\" (Hos 14:9), inviting the reader of any era to discern and respond.",
+        "pt": "O livro se encerra com o chamado mais explícito ao arrependimento de todo o Antigo Testamento: «Volta, ó Israel, para o SENHOR teu Deus» (Os 14:1), acompanhado de uma fórmula de confissão que renuncia à Assíria, aos cavalos de guerra e aos ídolos feitos por suas próprias mãos (Os 14:2-3). A resposta divina é a promessa culminante do livro: «Eu sararei a sua rebeldia, eu os amarei voluntariamente; porque a minha ira se apartou dele» (Os 14:4), seguida de imagens de florescimento agrícola — lírio, oliveira, vide do Líbano — que revertem toda a seca e o juízo agrícola anunciados nos capítulos anteriores (Os 14:5-7). O livro termina com uma exortação sapiencial final: «os caminhos do SENHOR são retos, e os justos andarão neles» (Os 14:9), convidando o leitor de qualquer época a discernir e responder."
+      },
+      "eventoClave": {
+        "es": "La promesa culminante «los amaré de pura gracia» (Os 14:4), la expresión más clara del libro de la gracia soberana e incondicional de Dios.",
+        "en": "The culminating promise \"I will love them freely\" (Hos 14:4), the book's clearest expression of God's sovereign, unconditional grace.",
+        "pt": "A promessa culminante «eu os amarei voluntariamente» (Os 14:4), a expressão mais clara do livro sobre a graça soberana e incondicional de Deus."
+      },
+      "versiculoClave": "Os 14:4",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 11:29",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo afirma que los dones y el llamado de Dios son irrevocables, principio que Os 14 ya ilustra en la restauración final de Israel.",
+            "en": "Paul affirms that God's gifts and calling are irrevocable, a principle Hos 14 already illustrates in Israel's final restoration.",
+            "pt": "Paulo afirma que os dons e o chamado de Deus são irrevogáveis, princípio que Os 14 já ilustra na restauração final de Israel."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reconciliación": {
+            "es": "«Yo sanaré su infidelidad, los amaré de pura gracia» (Os 14:4) sella la reconciliación entre Dios e Israel tras el arrepentimiento confesado (Os 14:1-3).",
+            "en": "\"I will heal their apostasy; I will love them freely\" (Hos 14:4) seals the reconciliation between God and Israel after confessed repentance (Hos 14:1-3).",
+            "pt": "«Eu sararei a sua rebeldia, eu os amarei voluntariamente» (Os 14:4) sela a reconciliação entre Deus e Israel após o arrependimento confessado (Os 14:1-3)."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "El amor gratuito de Dios «porque mi ira se ha apartado de ellos» (Os 14:4) es la expresión culminante de su hesed en el libro.",
+              "en": "God's free love \"for my anger has turned from them\" (Hos 14:4) is the book's culminating expression of his hesed.",
+              "pt": "O amor gratuito de Deus «porque a minha ira se apartou dele» (Os 14:4) é a expressão culminante de seu hesed no livro."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Las imágenes de florecimiento —lirio, olivo, vid del Líbano (Os 14:5-7)— revierten toda la sequía y el juicio agrícola anunciados antes.",
+              "en": "Images of blossoming — lily, olive tree, vine of Lebanon (Hos 14:5-7) — reverse all the drought and agricultural judgment announced earlier.",
+              "pt": "As imagens de florescimento — lírio, oliveira, vide do Líbano (Os 14:5-7) — revertem toda a seca e o juízo agrícola anunciados antes."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. Lane T. Dennis, Wayne Grudem)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Notas de estudio",
+          "Bosquejo del libro"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Study notes",
+          "Book outline"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Notas de estudo",
+          "Esboço do livro"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Publicada por Crossway bajo la dirección editorial de Lane T. Dennis y Wayne Grudem, la ESV Study Bible reúne a decenas de eruditos evangélicos y reformados de instituciones como Trinity Evangelical Divinity School y Westminster Theological Seminary.",
+          "en": "Published by Crossway under the editorial direction of Lane T. Dennis and Wayne Grudem, the ESV Study Bible brings together dozens of evangelical and Reformed scholars from institutions such as Trinity Evangelical Divinity School and Westminster Theological Seminary.",
+          "pt": "Publicada pela Crossway sob a direção editorial de Lane T. Dennis e Wayne Grudem, a ESV Study Bible reúne dezenas de estudiosos evangélicos e reformados de instituições como o Trinity Evangelical Divinity School e o Westminster Theological Seminary."
+        },
+        "metodo": {
+          "es": "Combina exégesis gramático-histórica rigurosa con notas teológicas confesionalmente evangélicas, priorizando la coherencia canónica y la aplicación pastoral sobre la especulación crítica.",
+          "en": "Combines rigorous grammatical-historical exegesis with confessionally evangelical theological notes, prioritizing canonical coherence and pastoral application over critical speculation.",
+          "pt": "Combina exegese gramático-histórica rigorosa com notas teológicas confessionalmente evangélicas, priorizando a coerência canônica e a aplicação pastoral sobre a especulação crítica."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco introductorio, la defensa evangélica de la autoría e historicidad del matrimonio de Oseas, y el bosquejo estructural en tres movimientos (Os 1-3, 4-13, 14) usado en este registro.",
+          "en": "Provided the introductory framework, the evangelical defense of Hosea's authorship and the historicity of his marriage, and the three-movement structural outline (Hos 1-3, 4-13, 14) used in this record.",
+          "pt": "Forneceu o quadro introdutório, a defesa evangélica da autoria e da historicidade do casamento de Oséias, e o esboço estrutural em três movimentos (Os 1-3, 4-13, 14) usado neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology (Grudem, 1994)",
+          "Reformation Study Bible (Sproul, ed., 2015)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas de estudio",
+          "Distintivas reformadas",
+          "Anclas confesionales"
+        ],
+        "en": [
+          "Study notes",
+          "Reformed distinctives",
+          "Confessional anchors"
+        ],
+        "pt": [
+          "Notas de estudo",
+          "Distintivos reformados",
+          "Âncoras confessionais"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Editada por R.C. Sproul, fundador de Ligonier Ministries, esta Biblia de estudio reúne notas de eruditos reformados confesionales comprometidos con la Confesión de Fe de Westminster como estándar secundario de doctrina.",
+          "en": "Edited by R.C. Sproul, founder of Ligonier Ministries, this study Bible gathers notes from confessionally Reformed scholars committed to the Westminster Confession of Faith as a secondary standard of doctrine.",
+          "pt": "Editada por R.C. Sproul, fundador do Ligonier Ministries, esta Bíblia de estudo reúne notas de estudiosos reformados confessionais comprometidos com a Confissão de Fé de Westminster como padrão secundário de doutrina."
+        },
+        "metodo": {
+          "es": "Aplica sistemáticamente las categorías de la teología de pacto y la Confesión de Westminster a cada libro, vinculando explícitamente el texto con los estándares confesionales reformados.",
+          "en": "Systematically applies covenant theology categories and the Westminster Confession to each book, explicitly linking the text with Reformed confessional standards.",
+          "pt": "Aplica sistematicamente as categorias da teologia do pacto e da Confissão de Westminster a cada livro, vinculando explicitamente o texto aos padrões confessionais reformados."
+        },
+        "aportacion": {
+          "es": "Fundamentó la selección de los capítulos de la WCF vinculados a Oseas (pacto, arrepentimiento, decreto eterno) y la interpretación reformada de la historicidad del matrimonio profético.",
+          "en": "Grounded the selection of WCF chapters linked to Hosea (covenant, repentance, eternal decree) and the Reformed interpretation of the historicity of the prophetic marriage.",
+          "pt": "Fundamentou a seleção dos capítulos da WCF vinculados a Oséias (pacto, arrependimento, decreto eterno) e a interpretação reformada da historicidade do casamento profético."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/the-reformation-study-bible-esv"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed.), Ligonier Ministries",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Notas de estudio en español",
+          "Introducción al libro",
+          "Terminología hebrea"
+        ],
+        "en": [
+          "Spanish-language study notes",
+          "Book introduction",
+          "Hebrew terminology"
+        ],
+        "pt": [
+          "Notas de estudo em espanhol",
+          "Introdução ao livro",
+          "Terminologia hebraica"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Versión en español de la Reformation Study Bible, adaptada por Ligonier Ministries y un equipo de teólogos hispanohablantes para llevar la exégesis reformada confesional a la iglesia de habla hispana.",
+          "en": "Spanish-language edition of the Reformation Study Bible, adapted by Ligonier Ministries and a team of Spanish-speaking theologians to bring confessional Reformed exegesis to the Spanish-speaking church.",
+          "pt": "Edição em espanhol da Reformation Study Bible, adaptada pelo Ligonier Ministries e uma equipe de teólogos hispanofalantes para levar a exegese reformada confessional à igreja de língua espanhola."
+        },
+        "metodo": {
+          "es": "Traduce y adapta culturalmente las notas exegéticas y confesionales de la Reformation Study Bible en inglés, preservando su fidelidad doctrinal reformada para el lector hispanohablante.",
+          "en": "Translates and culturally adapts the exegetical and confessional notes of the English Reformation Study Bible, preserving its Reformed doctrinal fidelity for the Spanish-speaking reader.",
+          "pt": "Traduz e adapta culturalmente as notas exegéticas e confessionais da Reformation Study Bible em inglês, preservando sua fidelidade doutrinal reformada para o leitor de língua espanhola."
+        },
+        "aportacion": {
+          "es": "Proveyó terminología teológica en español (hesed, pacto, arrepentimiento) y la traducción NBLA de los versículos clave usados en este registro.",
+          "en": "Provided Spanish theological terminology (hesed, covenant, repentance) and the NBLA translation of the key verses used in this record.",
+          "pt": "Forneceu terminologia teológica em espanhol (hesed, pacto, arrependimento) e a tradução NBLA dos versículos-chave usados neste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2019)",
+          "La Santidad de Dios (trad. esp.)",
+          "Escogidos por Dios (trad. esp.)"
+        ],
+        "url": "https://ligonier.org.es/tienda/biblia-de-estudio-de-la-reforma/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Doctrina de la elección",
+          "Doctrina de la gracia"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Doctrine of election",
+          "Doctrine of grace"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Doutrina da eleição",
+          "Doutrina da graça"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem, profesor de teología en Phoenix Seminary, es uno de los teólogos sistemáticos evangélicos más influyentes de las últimas décadas, conocido por su claridad pedagógica y su compromiso confesional reformado-bautista.",
+          "en": "Wayne Grudem, professor of theology at Phoenix Seminary, is one of the most influential evangelical systematic theologians of recent decades, known for his pedagogical clarity and Reformed-Baptist confessional commitment.",
+          "pt": "Wayne Grudem, professor de teologia no Phoenix Seminary, é um dos teólogos sistemáticos evangélicos mais influentes das últimas décadas, conhecido por sua clareza pedagógica e seu compromisso confessional reformado-batista."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina bíblica en categorías sistemáticas clásicas, apoyando cada afirmación con exégesis cuidadosa de los textos de prueba y diálogo con la tradición reformada histórica.",
+          "en": "Organizes biblical doctrine into classic systematic categories, supporting each claim with careful exegesis of proof texts and dialogue with the historic Reformed tradition.",
+          "pt": "Organiza a doutrina bíblica em categorias sistemáticas clássicas, apoiando cada afirmação com exegese cuidadosa dos textos de prova e diálogo com a tradição reformada histórica."
+        },
+        "aportacion": {
+          "es": "Aportó el marco de las categorías de teologiaSistematica (Pacto, Elección, Soteriología) y la articulación reformada de la gracia incondicional aplicada a Os 14:4.",
+          "en": "Contributed the framework for the teologiaSistematica categories (Covenant, Election, Soteriology) and the Reformed articulation of unconditional grace applied to Hos 14:4.",
+          "pt": "Contribuiu com o quadro das categorias de teologiaSistematica (Pacto, Eleição, Soteriologia) e a articulação reformada da graça incondicional aplicada a Os 14:4."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Ethics (2018)"
+        ],
+        "url": "https://www.thegospelcoalition.org/reviews/systematic-theology-wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos, primer profesor de teología bíblica en Princeton Theological Seminary, es considerado el padre de la teología bíblica reformada moderna y una autoridad fundacional en la lectura redentora-histórica de las Escrituras.",
+          "en": "Geerhardus Vos, the first professor of biblical theology at Princeton Theological Seminary, is regarded as the father of modern Reformed biblical theology and a foundational authority on the redemptive-historical reading of Scripture.",
+          "pt": "Geerhardus Vos, primeiro professor de teologia bíblica no Princeton Theological Seminary, é considerado o pai da teologia bíblica reformada moderna e uma autoridade fundacional na leitura redentor-histórica das Escrituras."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo orgánico y progresivo de la revelación a través de las épocas del pacto, leyendo cada libro en su lugar dentro del movimiento redentor-histórico que culmina en Cristo.",
+          "en": "Traces the organic, progressive development of revelation through the covenant epochs, reading each book in its place within the redemptive-historical movement culminating in Christ.",
+          "pt": "Traça o desenvolvimento orgânico e progressivo da revelação através das épocas do pacto, lendo cada livro em seu lugar dentro do movimento redentor-histórico que culmina em Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico de Oseas como esposo redentor tipo de Cristo y la lectura de Os 11:1 y Os 3:1-2 como tipología cumplida en el Nuevo Testamento.",
+          "en": "Grounded Hosea's christological focus as a type of the redeeming husband and the reading of Hos 11:1 and Hos 3:1-2 as typology fulfilled in the New Testament.",
+          "pt": "Fundamentou o enfoque cristológico de Oséias como esposo redentor tipo de Cristo e a leitura de Os 11:1 e Os 3:1-2 como tipologia cumprida no Novo Testamento."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "Redemptive History and Biblical Interpretation (1980, ed. Gaffin)"
+        ],
+        "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "IVP Academic",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Trasfondo cultural del culto a Baal",
+          "Contexto político asirio",
+          "Geografía del Reino del Norte"
+        ],
+        "en": [
+          "Cultural background of Baal worship",
+          "Assyrian political context",
+          "Geography of the Northern Kingdom"
+        ],
+        "pt": [
+          "Contexto cultural do culto a Baal",
+          "Contexto político assírio",
+          "Geografia do Reino do Norte"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John H. Walton (Wheaton College), Victor H. Matthews (Missouri State University) y Mark W. Chavalas (University of Wisconsin-La Crosse) son especialistas evangélicos en estudios del Cercano Oriente Antiguo y trasfondo cultural bíblico.",
+          "en": "John H. Walton (Wheaton College), Victor H. Matthews (Missouri State University), and Mark W. Chavalas (University of Wisconsin-La Crosse) are evangelical specialists in Ancient Near Eastern studies and biblical cultural background.",
+          "pt": "John H. Walton (Wheaton College), Victor H. Matthews (Missouri State University) e Mark W. Chavalas (University of Wisconsin-La Crosse) são especialistas evangélicos em estudos do Antigo Oriente Próximo e contexto cultural bíblico."
+        },
+        "metodo": {
+          "es": "Compara sistemáticamente cada pasaje bíblico con paralelos culturales, legales y religiosos del Cercano Oriente Antiguo, iluminando el trasfondo sin conceder dependencia literaria del texto bíblico.",
+          "en": "Systematically compares each biblical passage with cultural, legal, and religious parallels from the Ancient Near East, illuminating background without conceding literary dependence of the biblical text.",
+          "pt": "Compara sistematicamente cada passagem bíblica com paralelos culturais, legais e religiosos do Antigo Oriente Próximo, iluminando o pano de fundo sem conceder dependência literária do texto bíblico."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo del culto cananeo a Baal, los ostraca de Samaria y los anales asirios usados en contextoHistorico para este registro de Oseas.",
+          "en": "Provided the background on Canaanite Baal worship, the Samaria Ostraca, and the Assyrian annals used in contextoHistorico for this Hosea record.",
+          "pt": "Forneceu o pano de fundo do culto cananeu a Baal, os óstraca de Samaria e os anais assírios usados em contextoHistorico para este registro de Oséias."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: OT (2000)",
+          "Ancient Near Eastern Thought and the Old Testament (Walton, 2006)",
+          "The Lost World of Scripture (Walton, 2013)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. Walter C. Kaiser Jr., Duane Garrett)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas arqueológicas",
+          "Ostraca de Samaria",
+          "Textos ugaríticos"
+        ],
+        "en": [
+          "Archaeological notes",
+          "Samaria Ostraca",
+          "Ugaritic texts"
+        ],
+        "pt": [
+          "Notas arqueológicas",
+          "Óstraca de Samaria",
+          "Textos ugaríticos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Editada por Walter C. Kaiser Jr. y Duane Garrett, eruditos evangélicos veterotestamentarios, esta Biblia de estudio reúne hallazgos arqueológicos verificados y su relación con el texto bíblico.",
+          "en": "Edited by Walter C. Kaiser Jr. and Duane Garrett, evangelical Old Testament scholars, this study Bible gathers verified archaeological findings and their relation to the biblical text.",
+          "pt": "Editada por Walter C. Kaiser Jr. e Duane Garrett, estudiosos evangélicos do Antigo Testamento, esta Bíblia de estudo reúne achados arqueológicos verificados e sua relação com o texto bíblico."
+        },
+        "metodo": {
+          "es": "Presenta hallazgos arqueológicos verificados en notas breves junto al texto bíblico correspondiente, evaluando con cautela académica su relación con los eventos y personajes narrados.",
+          "en": "Presents verified archaeological findings in brief notes alongside the corresponding biblical text, cautiously evaluating their relation to the events and characters narrated.",
+          "pt": "Apresenta achados arqueológicos verificados em notas breves ao lado do texto bíblico correspondente, avaliando com cautela acadêmica sua relação com os eventos e personagens narrados."
+        },
+        "aportacion": {
+          "es": "Confirmó la relevancia de los Ostraca de Samaria y de los anales de Tiglat-pileser III para el campo arqueologia de contextoHistorico de este registro.",
+          "en": "Confirmed the relevance of the Samaria Ostraca and the annals of Tiglath-Pileser III for the arqueologia field of contextoHistorico in this record.",
+          "pt": "Confirmou a relevância dos Óstraca de Samaria e dos anais de Tiglate-Pileser III para o campo arqueologia de contextoHistorico deste registro."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)",
+          "The NIV Archaeological Study Bible notes on the Prophets",
+          "A History of Israel (Kaiser contributions)"
+        ],
+        "url": "https://www.zondervan.com/9780310927884/archaeological-study-bible/"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 1981,
+      "editorial": "Westminster John Knox",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología del Reino del Norte",
+          "Contexto político asirio del siglo VIII a.C.",
+          "Últimos reyes de Israel"
+        ],
+        "en": [
+          "Chronology of the Northern Kingdom",
+          "8th-century BC Assyrian political context",
+          "Final kings of Israel"
+        ],
+        "pt": [
+          "Cronologia do Reino do Norte",
+          "Contexto político assírio do século VIII a.C.",
+          "Últimos reis de Israel"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright, profesor de Antiguo Testamento en Union Presbyterian Seminary, escribió la historia de Israel más influyente del siglo XX dentro de la erudición bíblica moderada y confesionalmente presbiteriana.",
+          "en": "John Bright, professor of Old Testament at Union Presbyterian Seminary, wrote the most influential 20th-century history of Israel within moderate, confessionally Presbyterian biblical scholarship.",
+          "pt": "John Bright, professor de Antigo Testamento no Union Presbyterian Seminary, escreveu a história de Israel mais influente do século XX dentro da erudição bíblica moderada e confessionalmente presbiteriana."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el texto bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, con especial atención a la cronología política.",
+          "en": "Reconstructs Israel's history by integrating the biblical text with archaeological evidence and extrabiblical Ancient Near Eastern records, with special attention to political chronology.",
+          "pt": "Reconstrói a história de Israel integrando o texto bíblico com evidências arqueológicas e registros extrabíblicos do Antigo Oriente Próximo, com atenção especial à cronologia política."
+        },
+        "aportacion": {
+          "es": "Proveyó la cronología interna del ministerio de Oseas y el trasfondo de la inestabilidad política del Reino del Norte (seis reyes en treinta años) usado en cronologiaInterna.",
+          "en": "Provided the internal chronology of Hosea's ministry and the background of the Northern Kingdom's political instability (six kings in thirty years) used in cronologiaInterna.",
+          "pt": "Forneceu a cronologia interna do ministério de Oséias e o pano de fundo da instabilidade política do Reino do Norte (seis reis em trinta anos) usado em cronologiaInterna."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (1981)",
+          "Covenant and Promise (1976)",
+          "The Authority of the Old Testament (1967)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.78,
+    "camposMarcados": [
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se sostiene la historicidad literal del matrimonio de Oseas con Gomer (Os 1-3) siguiendo la lectura llana del texto y la tradición reformada, frente a lecturas críticas que lo consideran visión o parábola puramente literaria.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-26"
+      },
+      {
+        "campo": "personajes[].Gomer.biografiaHistorica",
+        "razon": "No existe atestación extrabíblica de Gomer; nivelEvidencia se marcó 'especulativo' por definición de la categoría, sin que esto debilite la lectura histórica reformada del relato bíblico interno.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-26"
+      },
+      {
+        "campo": "personajes[].Jezreel/Lo-ruhama/Lo-ammi.biografiaHistorica",
+        "razon": "Los tres hijos de Oseas carecen de atestación extrabíblica por ser figuras exclusivamente proféticas; nivelEvidencia se marcó 'especulativo' en los tres casos por definición de la categoría.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-26"
+      },
+      {
+        "campo": "autor.nota",
+        "razon": "Se sostiene la unidad de autoría oseática de todo el libro, incluyendo los oráculos de esperanza (p. ej. Os 14), frente a propuestas críticas que atribuyen estos pasajes a un redactor judaíta posterior.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-26"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-07-26"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "Los 14 capítulos se agruparon en 8 unidades temáticas: los capítulos 1, 2 y 3 se mantuvieron separados por marcar tres etapas narrativas distintas del matrimonio simbólico, mientras que 4-7, 8-10 y 12-13 se combinaron por su continuidad temática de acusación e imagen retórica.",
+        "resuelto": true,
+        "fechaMarcado": "2026-07-26"
+      }
+    ],
+    "ultimaActualizacion": "2026-07-26T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-07-26T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-07-26T00:00:00Z",
+          "fechaFin": "2026-07-26T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-07-26T00:00:00Z",
+          "fechaFin": "2026-07-26T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-07-26T00:00:00Z",
+          "fechaFin": "2026-07-26T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-07-26T00:00:00Z",
+          "fechaFin": "2026-07-26T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-07-26T00:00:00Z",
+          "fechaFin": "2026-07-26T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

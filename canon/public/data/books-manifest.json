@@ -1190,12 +1190,13 @@
       "ordenCanon": 28,
       "capitulosTotal": 14,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El matrimonio del profeta con una mujer infiel se convierte en metáfora viva de la infidelidad de Israel y el amor pactual inquebrantable de Dios.",
         "en": "The prophet's marriage to an unfaithful woman becomes a living metaphor of Israel's unfaithfulness and God's unbreakable covenantal love.",
         "pt": "O casamento do profeta com uma mulher infiel torna-se metáfora viva da infidelidade de Israel e do amor pactual inabalável de Deus."
-      }
+      },
+      "dataFile": "oseas.json"
     },
     {
       "id": 29,

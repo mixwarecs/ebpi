@@ -3512,5 +3512,77 @@
       "en": "HAMAN'S WIFE",
       "pt": "ESPOSA DE HAMÃ"
     }
+  },
+  "Oseas": {
+    "id": "oseas",
+    "color": "#3A6EA5",
+    "init": "הו",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PROFETA-ESPOSO REDENTOR",
+      "en": "REDEEMING PROPHET-HUSBAND",
+      "pt": "PROFETA-ESPOSO REDENTOR"
+    }
+  },
+  "Gomer": {
+    "id": "gomer",
+    "color": "#A5473A",
+    "init": "גמ",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "ESPOSA INFIEL REDIMIDA",
+      "en": "REDEEMED UNFAITHFUL WIFE",
+      "pt": "ESPOSA INFIEL REDIMIDA"
+    }
+  },
+  "Jezreel": {
+    "id": "jezreel",
+    "color": "#6B8E4E",
+    "init": "יז",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "SEÑAL DE JUICIO DINÁSTICO",
+      "en": "SIGN OF DYNASTIC JUDGMENT",
+      "pt": "SINAL DE JUÍZO DINÁSTICO"
+    }
+  },
+  "Lo-ruhama": {
+    "id": "lo-ruhama",
+    "color": "#8E4E7C",
+    "init": "לר",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "NO COMPADECIDA",
+      "en": "NOT PITIED",
+      "pt": "NÃO COMPADECIDA"
+    }
+  },
+  "Lo-ammi": {
+    "id": "lo-ammi",
+    "color": "#B8860B",
+    "init": "לע",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "NO PUEBLO MÍO",
+      "en": "NOT MY PEOPLE",
+      "pt": "NÃO MEU POVO"
+    }
+  },
+  "Jeroboam II": {
+    "id": "jeroboam-ii",
+    "color": "#5A5A73",
+    "init": "יר",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "REY PRÓSPERO Y CORRUPTO",
+      "en": "PROSPEROUS, CORRUPT KING",
+      "pt": "REI PRÓSPERO E CORRUPTO"
+    }
   }
 }
