@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useRef } from "react";
 import { createPortal } from "react-dom";
-import { Share2, Check, ExternalLink } from "lucide-react";
+import { Share2, Check, ExternalLink, Play, Pause, SkipBack, SkipForward } from "lucide-react";
 import { GOLD, PARCHMENT, BOOKS, BIBLE_VERSION, GS, UI } from "../../constants";
 import { linkifyVerses, verseUrl } from "../../utils";
 import VerseLink from "../VerseLink";
@@ -102,6 +102,53 @@ function getAudioUrl(lang, bookNum, chapter) {
 
 const CHAPTER_LABELS = { es: "Cap.", en: "Ch.", pt: "Cap." };
 
+const AUDIO_CONTROL_LABELS = {
+  es: { prev: "Capítulo anterior", next: "Capítulo siguiente", play: "Reproducir", pause: "Pausar" },
+  en: { prev: "Previous chapter", next: "Next chapter", play: "Play", pause: "Pause" },
+  pt: { prev: "Capítulo anterior", next: "Capítulo seguinte", play: "Reproduzir", pause: "Pausar" },
+};
+
+function formatTime(sec) {
+  if (!isFinite(sec) || sec < 0) return "0:00";
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return `${m}:${s.toString().padStart(2, "0")}`;
+}
+
+function navBtnStyle(disabled) {
+  return {
+    display: "inline-flex",
+    alignItems: "center",
+    justifyContent: "center",
+    width: 26,
+    height: 26,
+    padding: 0,
+    background: "rgba(139,90,20,0.08)",
+    border: "1px solid rgba(139,90,20,0.35)",
+    borderRadius: 2,
+    color: disabled ? "rgba(55,28,8,0.30)" : "rgba(55,28,8,0.78)",
+    cursor: disabled ? "default" : "pointer",
+    opacity: disabled ? 0.55 : 1,
+    transition: "color 0.15s, background 0.15s, opacity 0.15s",
+    flexShrink: 0,
+  };
+}
+
+const playBtnStyle = {
+  display: "inline-flex",
+  alignItems: "center",
+  justifyContent: "center",
+  width: 30,
+  height: 30,
+  padding: 0,
+  borderRadius: "50%",
+  background: "rgba(139,90,20,0.85)",
+  color: "#F5EBD8",
+  border: "none",
+  cursor: "pointer",
+  flexShrink: 0,
+};
+
 function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, capitulosTotal, shouldAutoPlay, onSectionEnd, onPlayingChange, currentAudioRef }) {
   // Single-chapter books (Jude, 2/3 John, Philemon, Obadiah) have exactly one
   // narrated audio file regardless of how many verse-range units subdivide
@@ -109,17 +156,42 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, capitulosTotal, sh
   const isSingleChapterBook = capitulosTotal === 1;
   const count = isSingleChapterBook ? 1 : rangoFin - rangoInicio + 1;
   const [idx, setIdx] = useState(0);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [currentTime, setCurrentTime] = useState(0);
+  const [duration, setDuration] = useState(0);
   const audioRef = useRef(null);
+  // Starts true so the initial mount doesn't autoplay; re-armed on every
+  // lang/book/section reset. Any other idx change (manual nav or the
+  // ended-auto-advance handler) leaves it false, so the idx effect autoplays
+  // -- including navigating back down to idx 0, which the old `idx > 0`
+  // guard used to silently skip.
+  const suppressAutoplayRef = useRef(true);
   const chapter = isSingleChapterBook ? 1 : rangoInicio + idx;
   const src = getAudioUrl(lang, bookNum, chapter);
 
-  // Reset when lang/book/range changes
-  useEffect(() => { setIdx(0); }, [lang, bookNum, rangoInicio, rangoFin, capitulosTotal]);
-
-  // When idx advances within a range, auto-play the next chapter
+  // Reset when lang/book/range changes (no autoplay on reset)
   useEffect(() => {
-    if (idx > 0 && audioRef.current) {
-      audioRef.current.play();
+    suppressAutoplayRef.current = true;
+    setIdx(0);
+  }, [lang, bookNum, rangoInicio, rangoFin, capitulosTotal]);
+
+  // The <audio key={src}> element remounts on every chapter change, so its
+  // own playback position resets; mirror that in this component's state too.
+  useEffect(() => {
+    setCurrentTime(0);
+    setDuration(0);
+  }, [src]);
+
+  // Fires on every idx change (auto-advance or manual nav). Runs after the
+  // remounted <audio> has re-attached to audioRef, so .play() always targets
+  // the currently-rendered element.
+  useEffect(() => {
+    if (suppressAutoplayRef.current) {
+      suppressAutoplayRef.current = false;
+      return;
+    }
+    if (audioRef.current) {
+      audioRef.current.play().catch(() => {});
     }
   }, [idx]);
 
@@ -138,13 +210,29 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, capitulosTotal, sh
     }
   };
 
+  const goPrev = () => { if (idx > 0) setIdx(i => i - 1); };
+  const goNext = () => { if (idx < count - 1) setIdx(i => i + 1); };
+  const togglePlay = () => {
+    const el = audioRef.current;
+    if (!el) return;
+    if (el.paused) el.play().catch(() => {});
+    else el.pause();
+  };
+  const handleSeek = (e) => {
+    const t = parseFloat(e.target.value);
+    setCurrentTime(t);
+    if (audioRef.current) audioRef.current.currentTime = t;
+  };
+
   const label = CHAPTER_LABELS[lang] || "Cap.";
+  const cl = AUDIO_CONTROL_LABELS[lang] || AUDIO_CONTROL_LABELS.es;
 
   return (
     <div style={{ marginTop: 10 }}>
       {count > 1 && (
         <div style={{
           fontSize: 10,
+          fontWeight: 700,
           letterSpacing: 1.5,
           color: "rgba(22,8,2,0.72)",
           marginBottom: 4,
@@ -156,7 +244,6 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, capitulosTotal, sh
       <audio
         ref={audioRef}
         key={src}
-        controls
         preload="none"
         src={src}
         onPlay={() => {
@@ -164,21 +251,78 @@ function ChapterAudio({ lang, bookNum, rangoInicio, rangoFin, capitulosTotal, sh
             currentAudioRef.current.pause();
           }
           if (currentAudioRef) currentAudioRef.current = audioRef.current;
+          setIsPlaying(true);
           onPlayingChange?.(true);
         }}
         onPause={() => {
+          setIsPlaying(false);
           if (!currentAudioRef || currentAudioRef.current === audioRef.current) {
             onPlayingChange?.(false);
           }
         }}
         onEnded={handleEnded}
-        style={{
-          width: "100%",
-          height: 28,
-          filter: "invert(0.85) sepia(0.4) hue-rotate(10deg)",
-          opacity: 0.92,
-        }}
+        onTimeUpdate={(e) => setCurrentTime(e.target.currentTime)}
+        onLoadedMetadata={(e) => setDuration(e.target.duration)}
+        style={{ display: "none" }}
       />
+      <div style={{
+        display: "flex",
+        alignItems: "center",
+        gap: 8,
+        background: "rgba(139,90,20,0.06)",
+        border: "1px solid rgba(139,90,20,0.25)",
+        borderRadius: 4,
+        padding: "6px 10px",
+      }}>
+        {count > 1 && (
+          <button
+            type="button"
+            onClick={goPrev}
+            disabled={idx === 0}
+            title={cl.prev}
+            aria-label={cl.prev}
+            style={navBtnStyle(idx === 0)}
+          >
+            <SkipBack size={14} strokeWidth={2.25} />
+          </button>
+        )}
+        <button
+          type="button"
+          onClick={togglePlay}
+          title={isPlaying ? cl.pause : cl.play}
+          aria-label={isPlaying ? cl.pause : cl.play}
+          style={playBtnStyle}
+        >
+          {isPlaying ? <Pause size={15} strokeWidth={2.25} /> : <Play size={15} strokeWidth={2.25} style={{ marginLeft: 1 }} />}
+        </button>
+        {count > 1 && (
+          <button
+            type="button"
+            onClick={goNext}
+            disabled={idx === count - 1}
+            title={cl.next}
+            aria-label={cl.next}
+            style={navBtnStyle(idx === count - 1)}
+          >
+            <SkipForward size={14} strokeWidth={2.25} />
+          </button>
+        )}
+        <span style={{ fontSize: 10, color: "rgba(22,8,2,0.65)", minWidth: "3ch", textAlign: "right", flexShrink: 0 }}>
+          {formatTime(currentTime)}
+        </span>
+        <input
+          type="range"
+          min={0}
+          max={duration || 0}
+          step={0.1}
+          value={currentTime}
+          onChange={handleSeek}
+          style={{ flex: 1, height: 4, accentColor: "#8B5A14", cursor: "pointer" }}
+        />
+        <span style={{ fontSize: 10, color: "rgba(22,8,2,0.65)", minWidth: "3ch", flexShrink: 0 }}>
+          {formatTime(duration)}
+        </span>
+      </div>
     </div>
   );
 }
