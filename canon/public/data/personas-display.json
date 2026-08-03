@@ -3584,5 +3584,41 @@
       "en": "PROSPEROUS, CORRUPT KING",
       "pt": "REI PRÓSPERO E CORRUPTO"
     }
+  },
+  "Joel": {
+    "id": "joel",
+    "color": "#2E6B8A",
+    "init": "יו",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "INTÉRPRETE DEL JUICIO",
+      "en": "INTERPRETER OF JUDGMENT",
+      "pt": "INTÉRPRETE DO JUÍZO"
+    }
+  },
+  "Petuel": {
+    "id": "petuel",
+    "color": "#6B7A5A",
+    "init": "פת",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PADRE DEL PROFETA",
+      "en": "FATHER OF THE PROPHET",
+      "pt": "PAI DO PROFETA"
+    }
+  },
+  "La Langosta (el Ejército del Norte)": {
+    "id": "langosta-ejercito-del-norte",
+    "color": "#6B4226",
+    "init": "אר",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "EJÉRCITO DEL JUICIO",
+      "en": "ARMY OF JUDGMENT",
+      "pt": "EXÉRCITO DO JUÍZO"
+    }
   }
 }
