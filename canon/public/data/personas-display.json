@@ -3007,7 +3007,8 @@
     "color": "#9A8020",
     "init": "עז",
     "xCh": {
-      "2Cr": 26
+      "2Cr": 26,
+      "Am": 1
     },
     "side": "above",
     "badge": {
@@ -3577,7 +3578,10 @@
     "id": "jeroboam-ii",
     "color": "#5A5A73",
     "init": "יר",
-    "xCh": 1,
+    "xCh": {
+      "Os": 1,
+      "Am": 1
+    },
     "side": "below",
     "badge": {
       "es": "REY PRÓSPERO Y CORRUPTO",
@@ -3619,6 +3623,30 @@
       "es": "EJÉRCITO DEL JUICIO",
       "en": "ARMY OF JUDGMENT",
       "pt": "EXÉRCITO DO JUÍZO"
+    }
+  },
+  "Amós": {
+    "id": "amos",
+    "color": "#1F6B4A",
+    "init": "עמ",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "PASTOR-PROFETA DE JUSTICIA",
+      "en": "SHEPHERD-PROPHET OF JUSTICE",
+      "pt": "PASTOR-PROFETA DE JUSTIÇA"
+    }
+  },
+  "Amasías": {
+    "id": "amasias-sacerdote",
+    "color": "#8B2E2E",
+    "init": "אמ",
+    "xCh": 7,
+    "side": "below",
+    "badge": {
+      "es": "SACERDOTE OPOSITOR",
+      "en": "OPPOSING PRIEST",
+      "pt": "SACERDOTE OPOSITOR"
     }
   }
 }

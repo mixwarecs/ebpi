@@ -1232,7 +1232,8 @@
       "ordenCanon": 30,
       "capitulosTotal": 9,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "amos.json",
       "razon": {
         "es": "Denuncia profética de la injusticia social y la religiosidad vacía en el próspero reino del norte: 'corra el juicio como las aguas' (Am 5:24).",
         "en": "Prophetic denunciation of social injustice and empty religiosity in the prosperous northern kingdom: 'let justice roll down like waters' (Amos 5:24).",

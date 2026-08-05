@@ -1,0 +1,1676 @@
+{
+  "id": 30,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Amós",
+    "en": "Amos",
+    "pt": "Amós"
+  },
+  "tituloOriginal": "עָמוֹס",
+  "transliteracion": "ʿĀmôs",
+  "significado": {
+    "es": "El que lleva la carga / el cargador",
+    "en": "Burden-bearer / the one who carries a load",
+    "pt": "O que carrega a carga / o carregador"
+  },
+  "resumenGeneral": {
+    "es": "El libro abre con Yahvéh rugiendo desde Sion (Am 1:2) y una serie de oráculos contra las naciones vecinas (Am 1:3–2:3) que atrapan al oyente israelita en un círculo de aprobación, solo para que el juicio se cierre sobre Judá y, con mayor severidad, sobre Israel mismo (Am 2:4–16). A partir de Am 3:1 el argumento se vuelve un pleito de pacto: la elección de Israel («Solo a ustedes he conocido», Am 3:2) se convierte en el fundamento de su culpa, no en su exención. Los caps. 4–6 acumulan indictamientos —opresión del pobre, lujo autocomplaciente, ritual vacío en Betel y Gilgal (Am 4:4–5; 5:21–24)— y culminan en el terrible «ay» del Día del Señor, reinterpretado como tinieblas y no luz (Am 5:18–20). Las cinco visiones de Am 7:1–9:10, interrumpidas por la confrontación con el sacerdote Amasías en Betel (Am 7:10–17), escalan de la intercesión eficaz de Amós a la irrevocabilidad del juicio final junto al altar. El libro no termina en ruina: cierra con la restauración del «tabernáculo caído de David» y una fertilidad edénica (Am 9:11–15), dejando abierta la promesa de un reino davídico reconstruido que abarcará a las naciones.",
+    "en": "The book opens with Yahweh roaring from Zion (Amos 1:2) and a cycle of oracles against neighboring nations (Amos 1:3–2:3) that draws the Israelite hearer into a circle of approval, only to close the noose over Judah and, with greater severity, over Israel itself (Amos 2:4–16). From Amos 3:1 the argument becomes a covenant lawsuit: Israel's election («You only have I known», Amos 3:2) becomes the ground of guilt rather than exemption. Chapters 4–6 pile up indictments — oppression of the poor, self-indulgent luxury, empty ritual at Bethel and Gilgal (Amos 4:4–5; 5:21–24) — and climax in the terrible woe over the Day of the LORD, reinterpreted as darkness rather than light (Amos 5:18–20). The five visions of Amos 7:1–9:10, interrupted by the confrontation with the priest Amaziah at Bethel (Amos 7:10–17), escalate from Amos's effective intercession to the irrevocability of final judgment at the altar. The book does not end in ruin: it closes with the restoration of David's fallen booth and an Edenic fertility (Amos 9:11–15), leaving open the promise of a rebuilt Davidic kingdom embracing the nations.",
+    "pt": "O livro abre com Yahweh rugindo de Sião (Am 1:2) e uma série de oráculos contra as nações vizinhas (Am 1:3–2:3) que prende o ouvinte israelita num círculo de aprovação, só para que o julgamento se feche sobre Judá e, com maior severidade, sobre o próprio Israel (Am 2:4–16). A partir de Am 3:1 o argumento se torna um litígio de aliança: a eleição de Israel («Só a vocês conheci», Am 3:2) se torna o fundamento da culpa, não da isenção. Os caps. 4–6 acumulam acusações — opressão do pobre, luxo autocomplacente, ritual vazio em Betel e Gilgal (Am 4:4–5; 5:21–24) — e culminam no terrível «ai» do Dia do Senhor, reinterpretado como trevas e não luz (Am 5:18–20). As cinco visões de Am 7:1–9:10, interrompidas pela confrontação com o sacerdote Amazias em Betel (Am 7:10–17), escalam da intercessão eficaz de Amós até a irrevogabilidade do julgamento final junto ao altar. O livro não termina em ruína: fecha com a restauração do «tabernáculo caído de Davi» e uma fertilidade edênica (Am 9:11–15), deixando aberta a promessa de um reino davídico reconstruído que abrangerá as nações."
+  },
+  "capitulosTotal": 9,
+  "autor": {
+    "nombre": {
+      "es": "Amós",
+      "en": "Amos",
+      "pt": "Amós"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El texto mismo se identifica como las palabras de Amós, «entre los pastores de Tecoa» (Am 1:1), quien se describe a sí mismo como pastor y cultivador de higos sicómoros, no miembro de un gremio profético profesional (Am 7:14–15). La tradición reformada acepta esta autoclasificación sin reservas; no hay controversia crítica seria sobre la autoría amosiana del núcleo del libro.",
+      "en": "The text itself identifies the words as those of Amos, «among the shepherds of Tekoa» (Amos 1:1), who describes himself as a herdsman and dresser of sycamore figs, not a member of a professional prophetic guild (Amos 7:14–15). The Reformed tradition accepts this self-identification without reservation; there is no serious critical controversy over Amosic authorship of the book's core.",
+      "pt": "O próprio texto identifica as palavras como as de Amós, «dentre os pastores de Tecoa» (Am 1:1), que se descreve como pastor e cultivador de figos sicômoros, não membro de uma guilda profética profissional (Am 7:14–15). A tradição reformada aceita essa autoidentificação sem reservas; não há controvérsia crítica séria sobre a autoria amosiana do núcleo do livro."
+    }
+  },
+  "año": {
+    "desde": -760,
+    "hasta": -750,
+    "display": {
+      "es": "Fecha de escritura: c. 760–750 a.C., durante los reinados de Uzías en Judá y Jeroboam II en Israel, «dos años antes del terremoto» (Am 1:1)",
+      "en": "Date of writing: c. 760–750 BC, during the reigns of Uzziah in Judah and Jeroboam II in Israel, «two years before the earthquake» (Amos 1:1)",
+      "pt": "Data de escrita: c. 760–750 a.C., durante os reinados de Uzias em Judá e Jeroboão II em Israel, «dois anos antes do terremoto» (Am 1:1)"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Probablemente compuesto en Judá (Tecoa) después de que Amós regresara de su misión profética en el santuario real de Betel, en el reino del norte",
+    "en": "Probably composed in Judah (Tekoa) after Amos returned from his prophetic mission at the royal sanctuary of Bethel in the northern kingdom",
+    "pt": "Provavelmente composto em Judá (Tecoa) depois que Amós retornou de sua missão profética no santuário real de Betel, no reino do norte"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Tecoa",
+          "en": "Tekoa",
+          "pt": "Tecoa"
+        },
+        "identificacionModerna": {
+          "es": "Khirbet Tequ'a, unos 16 km al sur de Belén, en el desierto de Judá",
+          "en": "Khirbet Tequ'a, about 10 miles south of Bethlehem, on the edge of the Judean wilderness",
+          "pt": "Khirbet Tequ'a, cerca de 16 km ao sul de Belém, no deserto de Judá"
+        },
+        "significancia": {
+          "es": "Aldea pastoril en las tierras áridas de Judá, hogar de Amós; su vida entre pastores y sicómoros moldea las imágenes agrarias y pastoriles de sus oráculos",
+          "en": "A pastoral village in the arid highlands of Judah, Amos's home; his life among shepherds and sycamore figs shapes the agrarian and pastoral imagery of his oracles",
+          "pt": "Aldeia pastoril nas terras áridas de Judá, lar de Amós; sua vida entre pastores e sicômoros molda as imagens agrárias e pastoris de seus oráculos"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Betel",
+          "en": "Bethel",
+          "pt": "Betel"
+        },
+        "identificacionModerna": {
+          "es": "Beitin, en la Cisjordania central, unos 17 km al norte de Jerusalén",
+          "en": "Beitin, in the central West Bank, about 11 miles north of Jerusalem",
+          "pt": "Beitin, na Cisjordânia central, cerca de 17 km ao norte de Jerusalém"
+        },
+        "significancia": {
+          "es": "Santuario real establecido por Jeroboam I (1R 12:28–33), centro del culto de estado del reino del norte; escenario de la confrontación de Amós con el sacerdote Amasías (Am 7:10–17)",
+          "en": "Royal sanctuary established by Jeroboam I (1Kgs 12:28–33), the state cult center of the northern kingdom; scene of Amos's confrontation with the priest Amaziah (Amos 7:10–17)",
+          "pt": "Santuário real estabelecido por Jeroboão I (1Rs 12:28–33), centro do culto de estado do reino do norte; cenário do confronto de Amós com o sacerdote Amazias (Am 7:10–17)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Samaria",
+          "en": "Samaria",
+          "pt": "Samaria"
+        },
+        "identificacionModerna": {
+          "es": "Sebastia, en la Cisjordania central",
+          "en": "Sebastia, in the central West Bank",
+          "pt": "Sebastia, na Cisjordânia central"
+        },
+        "significancia": {
+          "es": "Capital del reino del norte bajo Jeroboam II; blanco directo del indictamiento de Amós contra el lujo y la opresión de sus élites (Am 3:9–15; 6:1–7)",
+          "en": "Capital of the northern kingdom under Jeroboam II; direct target of Amos's indictment of luxury and oppression by its elites (Amos 3:9–15; 6:1–7)",
+          "pt": "Capital do reino do norte sob Jeroboão II; alvo direto da acusação de Amós contra o luxo e a opressão de suas elites (Am 3:9–15; 6:1–7)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Gilgal",
+          "en": "Gilgal",
+          "pt": "Gilgal"
+        },
+        "identificacionModerna": {
+          "es": "Sitio en el valle del Jordán cerca de Jericó, ubicación exacta debatida",
+          "en": "A site in the Jordan Valley near Jericho, exact location debated",
+          "pt": "Local no vale do Jordão perto de Jericó, localização exata debatida"
+        },
+        "significancia": {
+          "es": "Santuario secundario del reino del norte asociado con Betel en la crítica profética de Amós al culto vacío (Am 4:4; 5:5)",
+          "en": "Secondary sanctuary of the northern kingdom paired with Bethel in Amos's prophetic critique of empty worship (Amos 4:4; 5:5)",
+          "pt": "Santuário secundário do reino do norte associado a Betel na crítica profética de Amós ao culto vazio (Am 4:4; 5:5)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Damasco",
+          "en": "Damascus",
+          "pt": "Damasco"
+        },
+        "identificacionModerna": {
+          "es": "Damasco, capital de Siria",
+          "en": "Damascus, capital of Syria",
+          "pt": "Damasco, capital da Síria"
+        },
+        "significancia": {
+          "es": "Capital de Aram, primera nación denunciada en el ciclo de oráculos contra las naciones por su crueldad bélica contra Galaad (Am 1:3–5)",
+          "en": "Capital of Aram, the first nation denounced in the cycle of oracles against the nations for its wartime cruelty against Gilead (Amos 1:3–5)",
+          "pt": "Capital de Arã, primeira nação denunciada no ciclo de oráculos contra as nações por sua crueldade bélica contra Gileade (Am 1:3–5)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Edom",
+          "en": "Edom",
+          "pt": "Edom"
+        },
+        "identificacionModerna": {
+          "es": "Región montañosa al sur del Mar Muerto, actual sur de Jordania",
+          "en": "Mountainous region south of the Dead Sea, in modern southern Jordan",
+          "pt": "Região montanhosa ao sul do Mar Morto, atual sul da Jordânia"
+        },
+        "significancia": {
+          "es": "Nación hermana de Israel (descendientes de Esaú) denunciada por perseguir a su hermano con la espada sin piedad (Am 1:11–12)",
+          "en": "Israel's brother nation (descendants of Esau) denounced for pursuing his brother with the sword without pity (Amos 1:11–12)",
+          "pt": "Nação irmã de Israel (descendentes de Esaú) denunciada por perseguir seu irmão com a espada sem piedade (Am 1:11–12)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Reino del Norte (Israel)",
+          "en": "Northern Kingdom (Israel)",
+          "pt": "Reino do Norte (Israel)"
+        },
+        "rolEnElTexto": {
+          "es": "Destinatario principal de las profecías de Amós; nación próspera y militarmente expandida bajo Jeroboam II, pero moralmente corrompida",
+          "en": "The primary addressee of Amos's prophecies; a nation prosperous and militarily expanded under Jeroboam II, yet morally corrupt",
+          "pt": "Destinatário principal das profecias de Amós; nação próspera e militarmente expandida sob Jeroboão II, mas moralmente corrompida"
+        },
+        "estadoArqueologico": {
+          "es": "Confirmado ampliamente por excavaciones en Samaria, Meguido y Hazor que muestran expansión urbana y estratificación social del s. VIII a.C.",
+          "en": "Widely confirmed by excavations at Samaria, Megiddo, and Hazor showing urban expansion and social stratification in the 8th century BC",
+          "pt": "Amplamente confirmado por escavações em Samaria, Megido e Hazor que mostram expansão urbana e estratificação social do séc. VIII a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Reino del Sur (Judá)",
+          "en": "Southern Kingdom (Judah)",
+          "pt": "Reino do Sul (Judá)"
+        },
+        "rolEnElTexto": {
+          "es": "Patria de Amós bajo el reinado de Uzías; también objeto de un oráculo de juicio por rechazar la ley de Yahvéh (Am 2:4–5)",
+          "en": "Amos's homeland under King Uzziah; also the object of a judgment oracle for rejecting Yahweh's law (Amos 2:4–5)",
+          "pt": "Pátria de Amós sob o reinado de Uzias; também objeto de um oráculo de julgamento por rejeitar a lei de Yahweh (Am 2:4–5)"
+        },
+        "estadoArqueologico": {
+          "es": "Confirmado por evidencia de prosperidad y expansión territorial bajo Uzías (2Cr 26:6–15)",
+          "en": "Confirmed by evidence of prosperity and territorial expansion under Uzziah (2Chr 26:6–15)",
+          "pt": "Confirmado por evidência de prosperidade e expansão territorial sob Uzias (2Cr 26:6–15)"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Aram (Damasco), Filistea, Tiro, Edom, Amón, Moab",
+          "en": "Aram (Damascus), Philistia, Tyre, Edom, Ammon, Moab",
+          "pt": "Arã (Damasco), Filisteia, Tiro, Edom, Amom, Moabe"
+        },
+        "rolEnElTexto": {
+          "es": "Las seis naciones vecinas denunciadas en el ciclo introductorio de oráculos (Am 1:3–2:3) por crímenes de guerra contra poblaciones civiles",
+          "en": "The six neighboring nations denounced in the introductory oracle cycle (Amos 1:3–2:3) for war crimes against civilian populations",
+          "pt": "As seis nações vizinhas denunciadas no ciclo introdutório de oráculos (Am 1:3–2:3) por crimes de guerra contra populações civis"
+        },
+        "estadoArqueologico": {
+          "es": "Cada una atestiguada independientemente en fuentes asirias y arqueología regional del s. IX–VIII a.C.",
+          "en": "Each independently attested in Assyrian sources and regional archaeology of the 9th–8th centuries BC",
+          "pt": "Cada uma atestada independentemente em fontes assírias e arqueologia regional do séc. IX–VIII a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Imperio Asirio",
+          "en": "Assyrian Empire",
+          "pt": "Império Assírio"
+        },
+        "rolEnElTexto": {
+          "es": "No mencionado por nombre, pero es la potencia que en unas décadas ejecutará el juicio anunciado por Amós contra Israel (722 a.C.)",
+          "en": "Not named, but the power that within decades would execute the judgment Amos announced against Israel (722 BC)",
+          "pt": "Não mencionado por nome, mas é a potência que em algumas décadas executará o julgamento anunciado por Amós contra Israel (722 a.C.)"
+        },
+        "estadoArqueologico": {
+          "es": "Bien documentado en anales reales asirios; su debilidad temporal bajo Adad-nirari III explica la prosperidad de Israel y Judá que Amós denuncia",
+          "en": "Well documented in Assyrian royal annals; its temporary weakness under Adad-nirari III explains the prosperity of Israel and Judah that Amos denounces",
+          "pt": "Bem documentado em anais reais assírios; sua fraqueza temporária sob Adad-nirari III explica a prosperidade de Israel e Judá que Amós denuncia"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Los marfiles de Samaria excavados en el palacio real (s. VIII a.C.) confirman de manera notable la denuncia de Amós contra «camas de marfil» y lujo cortesano (Am 3:15; 6:4). Excavaciones en Hazor revelan una capa de destrucción por terremoto fechada aproximadamente en 760 a.C., que corresponde con la referencia de Am 1:1 al «terremoto» y con la mención posterior en Zac 14:5. La expansión urbana de Samaria, Meguido y Tirsa en este período confirma la prosperidad económica del reinado de Jeroboam II presupuesta en todo el libro. Persisten tensiones sobre la identificación arqueológica precisa de algunos lugares menores (p. ej. Gilgal), pero el marco histórico general —prosperidad israelita bajo debilidad asiria temporal— está firmemente establecido.",
+      "en": "The Samaria ivories excavated at the royal palace (8th c. BC) remarkably confirm Amos's denunciation of «beds of ivory» and courtly luxury (Amos 3:15; 6:4). Excavations at Hazor reveal an earthquake destruction layer dated to approximately 760 BC, corresponding to the reference in Amos 1:1 to «the earthquake» and its later mention in Zech 14:5. The urban expansion of Samaria, Megiddo, and Tirzah in this period confirms the economic prosperity of Jeroboam II's reign presupposed throughout the book. Tensions remain over the precise archaeological identification of some minor sites (e.g., Gilgal), but the general historical framework — Israelite prosperity amid temporary Assyrian weakness — is firmly established.",
+      "pt": "Os marfins de Samaria escavados no palácio real (séc. VIII a.C.) confirmam de forma notável a denúncia de Amós contra «camas de marfim» e luxo cortesão (Am 3:15; 6:4). Escavações em Hazor revelam uma camada de destruição por terremoto datada de aproximadamente 760 a.C., correspondendo à referência de Am 1:1 ao «terremoto» e à menção posterior em Zc 14:5. A expansão urbana de Samaria, Megido e Tirza neste período confirma a prosperidade econômica do reinado de Jeroboão II pressuposta em todo o livro. Persistem tensões sobre a identificação arqueológica precisa de alguns locais menores (p. ex. Gilgal), mas a estrutura histórica geral — prosperidade israelita em meio à fraqueza assíria temporária — está firmemente estabelecida."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Anales reales asirios (estela de Adad-nirari III)",
+          "en": "Assyrian royal annals (Stele of Adad-nirari III)",
+          "pt": "Anais reais assírios (estela de Adad-nirari III)"
+        },
+        "origen": {
+          "es": "Inscripciones reales asirias del s. IX–VIII a.C. halladas en Calah (Nimrud)",
+          "en": "Assyrian royal inscriptions from the 9th–8th centuries BC found at Calah (Nimrud)",
+          "pt": "Inscrições reais assírias do séc. IX–VIII a.C. encontradas em Cala (Nimrud)"
+        },
+        "relevancia": {
+          "es": "Documentan la campaña de Adad-nirari III contra Damasco (c. 796 a.C.), que debilitó a Aram y permitió la expansión territorial y prosperidad de Israel bajo Jeroboam II que Amós denuncia",
+          "en": "Document Adad-nirari III's campaign against Damascus (c. 796 BC), which weakened Aram and enabled the territorial expansion and prosperity of Israel under Jeroboam II that Amos denounces",
+          "pt": "Documentam a campanha de Adad-nirari III contra Damasco (c. 796 a.C.), que enfraqueceu Arã e permitiu a expansão territorial e prosperidade de Israel sob Jeroboão II que Amós denuncia"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Textos de execración e inscripciones de tratados del Levante",
+          "en": "Levantine execration texts and treaty inscriptions",
+          "pt": "Textos de execração e inscrições de tratados do Levante"
+        },
+        "origen": {
+          "es": "Corpus de tratados y maldiciones del antiguo Cercano Oriente (s. IX–VIII a.C.)",
+          "en": "Corpus of ancient Near Eastern treaty curses (9th–8th centuries BC)",
+          "pt": "Corpus de tratados e maldições do antigo Oriente Próximo (séc. IX–VIII a.C.)"
+        },
+        "relevancia": {
+          "es": "El patrón retórico «por tres transgresiones... y por cuatro» y las fórmulas de juicio contra naciones en Am 1–2 reflejan el género de acusación legal internacional conocido en tratados y maldiciones del ANE, que Amós subvierte al aplicarlo también a Israel",
+          "en": "The rhetorical pattern «for three transgressions... and for four» and the judgment formulas against nations in Amos 1–2 reflect the genre of international legal indictment known from ANE treaties and curses, which Amos subverts by applying it to Israel as well",
+          "pt": "O padrão retórico «por três transgressões... e por quatro» e as fórmulas de julgamento contra nações em Am 1–2 refletem o gênero de acusação legal internacional conhecido em tratados e maldições do ANE, que Amós subverte ao aplicá-lo também a Israel"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Se debate la fecha exacta del terremoto mencionado en Am 1:1; la evidencia arqueológica de Hazor (capa de destrucción c. 760 a.C.) y la referencia posterior en Zac 14:5 apoyan una datación temprana en el reinado conjunto de Uzías y Jeroboam II, consistente con la posición conservadora que sitúa el ministerio de Amós hacia 760–750 a.C. También existe discusión académica sobre si Amós predicó una sola vez en Betel o en múltiples ocasiones; el texto mismo no exige más que una visita reportada (Am 7:10–17), y la tradición reformada no requiere resolver esta cuestión más allá de lo que el texto afirma.",
+      "en": "The exact date of the earthquake mentioned in Amos 1:1 is debated; archaeological evidence from Hazor (destruction layer c. 760 BC) and the later reference in Zech 14:5 support an early dating within the joint reigns of Uzziah and Jeroboam II, consistent with the conservative position placing Amos's ministry around 760–750 BC. There is also scholarly discussion over whether Amos preached at Bethel once or on multiple occasions; the text itself requires no more than one reported visit (Amos 7:10–17), and the Reformed tradition does not require resolving this beyond what the text affirms.",
+      "pt": "A data exata do terremoto mencionado em Am 1:1 é debatida; a evidência arqueológica de Hazor (camada de destruição c. 760 a.C.) e a referência posterior em Zc 14:5 apoiam uma datação precoce dentro dos reinados conjuntos de Uzias e Jeroboão II, consistente com a posição conservadora que situa o ministério de Amós por volta de 760–750 a.C. Também existe discussão acadêmica sobre se Amós pregou em Betel uma única vez ou em múltiplas ocasiões; o próprio texto não exige mais do que uma visita relatada (Am 7:10–17), e a tradição reformada não requer resolver essa questão além do que o texto afirma."
+    },
+    "cronologiaInterna": {
+      "es": "El libro se sitúa explícitamente «en días de Uzías rey de Judá, y en días de Jeroboam hijo de Joás rey de Israel, dos años antes del terremoto» (Am 1:1). Las cinco visiones de Am 7:1–9:10 sugieren un desarrollo cronológico dentro del ministerio del profeta, culminando en su expulsión de Betel por Amasías (Am 7:10–17) y la visión final de juicio irrevocable junto al altar (Am 9:1–4).",
+      "en": "The book is explicitly set «in the days of Uzziah king of Judah and in the days of Jeroboam son of Joash king of Israel, two years before the earthquake» (Amos 1:1). The five visions of Amos 7:1–9:10 suggest a chronological development within the prophet's ministry, culminating in his expulsion from Bethel by Amaziah (Amos 7:10–17) and the final vision of irrevocable judgment beside the altar (Amos 9:1–4).",
+      "pt": "O livro se situa explicitamente «nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto» (Am 1:1). As cinco visões de Am 7:1–9:10 sugerem um desenvolvimento cronológico dentro do ministério do profeta, culminando em sua expulsão de Betel por Amazias (Am 7:10–17) e a visão final de julgamento irrevogável junto ao altar (Am 9:1–4)."
+    }
+  },
+  "ordenEnDivision": 3,
+  "ordenCanon": 30,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Amós anticipa a Cristo sobre todo en la promesa final de restauración del «tabernáculo caído de David» (Am 9:11–12), que Santiago cita en el concilio de Jerusalén como cumplida en la iglesia mesiánica que incorpora a los gentiles (Hch 15:16–17). El Día del Señor que Amós reinterpreta como tinieblas para los complacientes (Am 5:18–20) anticipa el juicio final que Cristo ejecutará (Jn 5:22–29), mientras que la «hambre... de oír las palabras de Yahvéh» (Am 8:11–12) apunta, por contraste, a Cristo como el Verbo que sacia esa hambre (Jn 6:35).",
+      "en": "Amos anticipates Christ above all in the final promise of the restoration of «David's fallen booth» (Amos 9:11–12), which James cites at the Jerusalem council as fulfilled in the messianic church that incorporates the Gentiles (Acts 15:16–17). The Day of the LORD that Amos reinterprets as darkness for the complacent (Amos 5:18–20) anticipates the final judgment Christ will execute (John 5:22–29), while the «famine... of hearing the words of the LORD» (Amos 8:11–12) points, by contrast, to Christ as the Word who satisfies that hunger (John 6:35).",
+      "pt": "Amós antecipa a Cristo sobretudo na promessa final de restauração do «tabernáculo caído de Davi» (Am 9:11–12), que Tiago cita no concílio de Jerusalém como cumprida na igreja messiânica que incorpora os gentios (At 15:16–17). O Dia do Senhor que Amós reinterpreta como trevas para os complacentes (Am 5:18–20) antecipa o julgamento final que Cristo executará (Jo 5:22–29), enquanto a «fome... de ouvir as palavras do Senhor» (Am 8:11–12) aponta, por contraste, para Cristo como o Verbo que sacia essa fome (Jo 6:35)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "La plomada en medio del pueblo de Israel (Am 7:7–9) prefigura el estándar perfecto de la justicia divina que solo Cristo, la Palabra encarnada, cumple sin desviación (1P 2:22)",
+        "en": "The plumb line set in the midst of Israel (Amos 7:7–9) prefigures the perfect standard of divine righteousness that only Christ, the incarnate Word, fulfills without deviation (1Pet 2:22)",
+        "pt": "O prumo colocado no meio do povo de Israel (Am 7:7–9) prefigura o padrão perfeito da justiça divina que somente Cristo, a Palavra encarnada, cumpre sem desvio (1Pe 2:22)"
+      },
+      {
+        "es": "El «tabernáculo caído de David» restaurado (Am 9:11) es tipo del reino davídico levantado en la resurrección de Cristo y extendido a los gentiles (Hch 15:16–17; Lc 1:32–33)",
+        "en": "The restored «fallen booth of David» (Amos 9:11) is a type of the Davidic kingdom raised up in Christ's resurrection and extended to the Gentiles (Acts 15:16–17; Luke 1:32–33)",
+        "pt": "O «tabernáculo caído de Davi» restaurado (Am 9:11) é tipo do reino davídico levantado na ressurreição de Cristo e estendido aos gentios (At 15:16–17; Lc 1:32–33)"
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Amós ofrece la exposición veterotestamentaria más plena de la justicia social como exigencia inseparable de la fe del pacto, y no como añadido opcional a la piedad ritual (Am 5:21–24). Es también el primer profeta escritor en aplicar el género internacional de oráculo contra las naciones para atrapar retóricamente a Israel en su propio juicio (Am 1–2), y el que fija de manera más aguda la doctrina de que la elección divina intensifica —no elimina— la responsabilidad moral («Solo a ustedes he conocido... por tanto los castigaré», Am 3:2). Su fórmula de restauración del «tabernáculo de David» (Am 9:11–12) se convierte en el texto bisagra que Santiago cita para legitimar teológicamente la inclusión de los gentiles en la iglesia apostólica (Hch 15:16–17), dándole a Amós una función canónica única en la historia redentora del Nuevo Testamento.",
+    "en": "Amos offers the Old Testament's fullest exposition of social justice as an inseparable demand of covenant faith, not an optional addendum to ritual piety (Amos 5:21–24). He is also the first writing prophet to apply the international oracle-against-the-nations genre to rhetorically trap Israel in its own judgment (Amos 1–2), and the one who most sharply fixes the doctrine that divine election intensifies — not eliminates — moral responsibility («You only have I known... therefore I will punish you», Amos 3:2). His formula of the restoration of «David's booth» (Amos 9:11–12) becomes the hinge text James cites to theologically legitimate the inclusion of Gentiles in the apostolic church (Acts 15:16–17), giving Amos a unique canonical function in New Testament redemptive history.",
+    "pt": "Amós oferece a exposição veterotestamentária mais plena da justiça social como exigência inseparável da fé da aliança, e não como acréscimo opcional à piedade ritual (Am 5:21–24). É também o primeiro profeta escritor a aplicar o gênero internacional de oráculo contra as nações para prender retoricamente Israel em seu próprio julgamento (Am 1–2), e o que fixa de maneira mais aguda a doutrina de que a eleição divina intensifica — não elimina — a responsabilidade moral («Só a vocês conheci... portanto os castigarei», Am 3:2). Sua fórmula de restauração do «tabernáculo de Davi» (Am 9:11–12) se torna o texto-dobradiça que Tiago cita para legitimar teologicamente a inclusão dos gentios na igreja apostólica (At 15:16–17), dando a Amós uma função canônica única na história redentora do Novo Testamento."
+  },
+  "genero": {
+    "es": "Profecía (oráculos de juicio, visiones, lamento)",
+    "en": "Prophecy (judgment oracles, visions, lament)",
+    "pt": "Profecia (oráculos de julgamento, visões, lamento)"
+  },
+  "palabraClave": {
+    "es": [
+      "Justicia",
+      "Juicio"
+    ],
+    "en": [
+      "Justice",
+      "Judgment"
+    ],
+    "pt": [
+      "Justiça",
+      "Juízo"
+    ]
+  },
+  "destinatario": {
+    "es": "La élite gobernante y mercantil del reino del norte de Israel en Samaria y Betel durante el reinado próspero de Jeroboam II, con oráculos secundarios dirigidos a Judá y a seis naciones vecinas",
+    "en": "The ruling and merchant elite of the northern kingdom of Israel in Samaria and Bethel during the prosperous reign of Jeroboam II, with secondary oracles addressed to Judah and six neighboring nations",
+    "pt": "A elite governante e mercantil do reino do norte de Israel em Samaria e Betel durante o reinado próspero de Jeroboão II, com oráculos secundários dirigidos a Judá e a seis nações vizinhas"
+  },
+  "proposito": {
+    "es": "Histórico: confrontar a Israel con la opresión sistemática del pobre, la corrupción judicial y el ritualismo vacío que prosperaban bajo la bonanza económica y militar de Jeroboam II, advirtiendo del inminente juicio asirio. Teológico: establecer que la elección del pacto no exime de responsabilidad moral sino que la profundiza, que la verdadera adoración es inseparable de la justicia práctica (Am 5:24), y que el juicio de Yahvéh sobre las naciones y sobre Israel mismo culminará, más allá de la destrucción, en la restauración del linaje davídico y la inclusión de las naciones.",
+    "en": "Historical: to confront Israel with the systematic oppression of the poor, judicial corruption, and empty ritualism that flourished under the economic and military prosperity of Jeroboam II, warning of imminent Assyrian judgment. Theological: to establish that covenant election does not exempt from moral responsibility but deepens it, that true worship is inseparable from practical justice (Amos 5:24), and that Yahweh's judgment on the nations and on Israel itself will culminate, beyond destruction, in the restoration of the Davidic line and the inclusion of the nations.",
+    "pt": "Histórico: confrontar Israel com a opressão sistemática do pobre, a corrupção judicial e o ritualismo vazio que prosperavam sob a bonança econômica e militar de Jeroboão II, advertindo do iminente julgamento assírio. Teológico: estabelecer que a eleição da aliança não isenta da responsabilidade moral, mas a aprofunda, que a verdadeira adoração é inseparável da justiça prática (Am 5:24), e que o julgamento de Yahweh sobre as nações e sobre o próprio Israel culminará, além da destruição, na restauração da linhagem davídica e na inclusão das nações."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Amós",
+        "en": "Amos",
+        "pt": "Amós"
+      },
+      "hebreo": "עָמוֹס",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "descripcion": {
+        "es": "Pastor y cultivador de higos sicómoros de Tecoa, en Judá, llamado por Yahvéh para profetizar contra el reino del norte de Israel sin pertenecer a un gremio profético profesional (Am 1:1; 7:14–15). Su origen rural y su falta de credenciales institucionales subrayan que su autoridad procede exclusivamente del llamado divino.",
+        "en": "A shepherd and dresser of sycamore figs from Tekoa in Judah, called by Yahweh to prophesy against the northern kingdom of Israel without belonging to a professional prophetic guild (Amos 1:1; 7:14–15). His rural origin and lack of institutional credentials underscore that his authority comes solely from the divine call.",
+        "pt": "Pastor e cultivador de figos sicômoros de Tecoa, em Judá, chamado por Yahweh para profetizar contra o reino do norte de Israel sem pertencer a uma guilda profética profissional (Am 1:1; 7:14–15). Sua origem rural e falta de credenciais institucionais sublinham que sua autoridade procede exclusivamente do chamado divino."
+      },
+      "acciones": {
+        "es": "Pronuncia oráculos de juicio contra seis naciones vecinas, Judá e Israel (Am 1–2); denuncia la opresión del pobre y el ritualismo vacío (Am 2:6–8; 5:21–24); recibe cinco visiones de juicio progresivo (Am 7:1–9; 8:1–3; 9:1–4); intercede eficazmente ante las dos primeras visiones (Am 7:2–3,5–6); es expulsado de Betel por el sacerdote Amasías tras anunciar la caída de la casa de Jeroboam (Am 7:10–17); cierra su mensaje con la promesa de restauración del tabernáculo de David (Am 9:11–15).",
+        "en": "He pronounces judgment oracles against six neighboring nations, Judah, and Israel (Amos 1–2); denounces the oppression of the poor and empty ritualism (Amos 2:6–8; 5:21–24); receives five visions of escalating judgment (Amos 7:1–9; 8:1–3; 9:1–4); intercedes effectively before the first two visions (Amos 7:2–3,5–6); is expelled from Bethel by the priest Amaziah after announcing the fall of Jeroboam's house (Amos 7:10–17); closes his message with the promise of the restoration of David's booth (Amos 9:11–15).",
+        "pt": "Pronuncia oráculos de julgamento contra seis nações vizinhas, Judá e Israel (Am 1–2); denuncia a opressão do pobre e o ritualismo vazio (Am 2:6–8; 5:21–24); recebe cinco visões de julgamento progressivo (Am 7:1–9; 8:1–3; 9:1–4); intercede eficazmente diante das duas primeiras visões (Am 7:2–3,5–6); é expulso de Betel pelo sacerdote Amazias após anunciar a queda da casa de Jeroboão (Am 7:10–17); encerra sua mensagem com a promessa de restauração do tabernáculo de Davi (Am 9:11–15)."
+      },
+      "significadoTeologico": {
+        "es": "Amós encarna el principio de que el llamado profético no depende de credenciales humanas sino de la soberana iniciativa de Dios («Yahvéh me tomó de detrás del rebaño», Am 7:15), y modela la intercesión profética eficaz junto con la sumisión final al juicio irrevocable de Dios cuando este ya no admite apelación (Am 8:2).",
+        "en": "Amos embodies the principle that the prophetic call does not depend on human credentials but on God's sovereign initiative («the LORD took me from following the flock», Amos 7:15), and models effective prophetic intercession alongside final submission to God's irrevocable judgment once it no longer admits appeal (Amos 8:2).",
+        "pt": "Amós encarna o princípio de que o chamado profético não depende de credenciais humanas, mas da iniciativa soberana de Deus («o Senhor me tirou de detrás do rebanho», Am 7:15), e modela a intercessão profética eficaz junto com a submissão final ao julgamento irrevogável de Deus quando este já não admite apelação (Am 8:2)."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico directo, pero su intercesión eficaz por el pueblo (Am 7:2–3,5–6) prefigura la intercesión perfecta de Cristo como Mediador (He 7:25)",
+        "en": "He does not function as a direct christological type, but his effective intercession for the people (Amos 7:2–3,5–6) prefigures Christ's perfect intercession as Mediator (Heb 7:25)",
+        "pt": "Não funciona como tipo cristológico direto, mas sua intercessão eficaz pelo povo (Am 7:2–3,5–6) prefigura a intercessão perfeita de Cristo como Mediador (Hb 7:25)"
+      },
+      "caracterMoral": {
+        "es": "Íntegro, valiente y sin temor a las consecuencias sociales de su mensaje; obediente al llamado divino incluso frente a la oposición del establecimiento religioso oficial",
+        "en": "Upright, courageous, and unafraid of the social consequences of his message; obedient to the divine call even in the face of opposition from the official religious establishment",
+        "pt": "Íntegro, corajoso e sem temor das consequências sociais de sua mensagem; obediente ao chamado divino mesmo diante da oposição do estabelecimento religioso oficial"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Amós se identifica como pastor de Tecoa que recibió palabras de Yahvéh «acerca de Israel» (Am 1:1). Cuando el sacerdote Amasías le ordena huir a Judá y no volver a profetizar en Betel, Amós responde que no es profeta profesional ni hijo de profeta, sino que Yahvéh lo tomó «de detrás del rebaño» y le dijo: «Ve, profetiza a mi pueblo Israel» (Am 7:14–15).",
+          "en": "Amos identifies himself as a shepherd from Tekoa who received words from Yahweh «concerning Israel» (Amos 1:1). When the priest Amaziah orders him to flee to Judah and stop prophesying at Bethel, Amos replies that he is neither a professional prophet nor a prophet's son, but that Yahweh took him «from following the flock» and said to him, «Go, prophesy to my people Israel» (Amos 7:14–15).",
+          "pt": "Amós se identifica como pastor de Tecoa que recebeu palavras de Yahweh «acerca de Israel» (Am 1:1). Quando o sacerdote Amazias lhe ordena fugir para Judá e não voltar a profetizar em Betel, Amós responde que não é profeta profissional nem filho de profeta, mas que Yahweh o tomou «de detrás do rebanho» e lhe disse: «Vai, profetiza ao meu povo Israel» (Am 7:14–15)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Am 1:1",
+          "Am 7:14-15",
+          "Am 7:10-17"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Amós de Tecoa es identificado por la erudición reformada como el primer profeta escritor cronológicamente (junto con Oseas), activo hacia 760–750 a.C. Su condición de pastor-terrateniente sureño enviado al reino del norte encaja con la práctica bien documentada de profetas itinerantes que cruzaban fronteras políticas para pronunciar oráculos, y su vocabulario agrario y pastoril es coherente con su origen en Tecoa, aldea del desierto de Judá.",
+          "en": "Amos of Tekoa is identified by Reformed scholarship as chronologically the first writing prophet (alongside Hosea), active around 760–750 BC. His status as a southern shepherd-landowner sent to the northern kingdom fits the well-documented practice of itinerant prophets crossing political borders to pronounce oracles, and his agrarian and pastoral vocabulary is consistent with his origin in Tekoa, a village in the Judean wilderness.",
+          "pt": "Amós de Tecoa é identificado pela erudição reformada como o primeiro profeta escritor cronologicamente (junto com Oseias), ativo por volta de 760–750 a.C. Sua condição de pastor-proprietário sulista enviado ao reino do norte encaixa-se na prática bem documentada de profetas itinerantes que cruzavam fronteiras políticas para pronunciar oráculos, e seu vocabulário agrário e pastoril é coerente com sua origem em Tecoa, aldeia do deserto de Judá."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1959,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto histórico",
+              "Cronología"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La evidencia externa no nombra a Amós directamente, pero el marco histórico —prosperidad de Jeroboam II, debilidad asiria temporal, terremoto c. 760 a.C.— concuerda plenamente con la autopresentación del libro",
+          "en": "External evidence does not name Amos directly, but the historical framework — Jeroboam II's prosperity, temporary Assyrian weakness, earthquake c. 760 BC — fully agrees with the book's self-presentation",
+          "pt": "A evidência externa não nomeia Amós diretamente, mas o quadro histórico — prosperidade de Jeroboão II, fraqueza assíria temporária, terremoto c. 760 a.C. — concorda plenamente com a autoapresentação do livro"
+        }
+      },
+      "versiculosAsociados": [
+        "Am 1:1",
+        "Am 3:7-8",
+        "Am 7:14-15"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Am 9:11–12 es citado por Santiago en el concilio de Jerusalén para respaldar la inclusión de los gentiles en la iglesia (Hch 15:16–17)",
+        "en": "Amos 9:11–12 is cited by James at the Jerusalem council to support the inclusion of Gentiles in the church (Acts 15:16–17)",
+        "pt": "Am 9:11–12 é citado por Tiago no concílio de Jerusalém para apoiar a inclusão dos gentios na igreja (At 15:16–17)"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Amasías",
+        "en": "Amaziah",
+        "pt": "Amazias"
+      },
+      "hebreo": "אֲמַצְיָה",
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        7
+      ],
+      "descripcion": {
+        "es": "Sacerdote del santuario real de Betel bajo Jeroboam II, guardián del culto de estado del reino del norte y opositor directo del ministerio de Amós.",
+        "en": "Priest of the royal sanctuary at Bethel under Jeroboam II, guardian of the northern kingdom's state cult and direct opponent of Amos's ministry.",
+        "pt": "Sacerdote do santuário real de Betel sob Jeroboão II, guardião do culto de estado do reino do norte e opositor direto do ministério de Amós."
+      },
+      "acciones": {
+        "es": "Envía un informe acusatorio al rey Jeroboam sobre las profecías de Amós y ordena al profeta huir a Judá y no volver a profetizar en Betel, «porque es santuario del rey y capital del reino» (Am 7:10–13); recibe a cambio un oráculo de juicio personal y familiar (Am 7:16–17).",
+        "en": "He sends an accusatory report to King Jeroboam about Amos's prophecies and orders the prophet to flee to Judah and stop prophesying at Bethel, «for it is the king's sanctuary and temple of the kingdom» (Amos 7:10–13); in return he receives a personal and family judgment oracle (Amos 7:16–17).",
+        "pt": "Envia um relatório acusatório ao rei Jeroboão sobre as profecias de Amós e ordena ao profeta fugir para Judá e não voltar a profetizar em Betel, «porque é santuário do rei e capital do reino» (Am 7:10–13); recebe em troca um oráculo de julgamento pessoal e familiar (Am 7:16–17)."
+      },
+      "significadoTeologico": {
+        "es": "Amasías representa la corrupción de una religión institucional que subordina la Palabra de Dios a los intereses del poder político, priorizando la conveniencia real sobre la verdad profética.",
+        "en": "Amaziah represents the corruption of an institutional religion that subordinates God's Word to political power interests, prioritizing royal convenience over prophetic truth.",
+        "pt": "Amazias representa a corrupção de uma religião institucional que subordina a Palavra de Deus aos interesses do poder político, priorizando a conveniência real sobre a verdade profética."
+      },
+      "tipo": {
+        "es": "No es tipo cristológico; funciona como antitipo del falso liderazgo religioso que Cristo denunciará en los fariseos (Mt 23:13–15)",
+        "en": "Not a christological type; he functions as an anti-type of the false religious leadership Christ would denounce in the Pharisees (Matt 23:13–15)",
+        "pt": "Não é tipo cristológico; funciona como antítipo da falsa liderança religiosa que Cristo denunciará nos fariseus (Mt 23:13–15)"
+      },
+      "caracterMoral": {
+        "es": "Corrupto y servil al poder político; antepone la estabilidad del culto de estado a la obediencia a la palabra profética de Yahvéh",
+        "en": "Corrupt and servile to political power; he prioritizes the stability of the state cult over obedience to Yahweh's prophetic word",
+        "pt": "Corrupto e servil ao poder político; antepõe a estabilidade do culto de estado à obediência à palavra profética de Yahweh"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Amasías aparece únicamente en Am 7:10–17, donde acusa a Amós de conspiración contra Jeroboam II y le ordena regresar a Judá; Amós responde con un oráculo de juicio que anuncia el cautiverio de la familia de Amasías y su propia muerte «en tierra impura».",
+          "en": "Amaziah appears only in Amos 7:10–17, where he accuses Amos of conspiracy against Jeroboam II and orders him back to Judah; Amos responds with a judgment oracle announcing the captivity of Amaziah's family and his own death «in an unclean land».",
+          "pt": "Amazias aparece unicamente em Am 7:10–17, onde acusa Amós de conspiração contra Jeroboão II e lhe ordena voltar para Judá; Amós responde com um oráculo de julgamento anunciando o cativeiro da família de Amazias e sua própria morte «em terra impura»."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Am 7:10-17"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No hay registro extrabíblico independiente de Amasías; su cargo como sacerdote de Betel es coherente con el sistema de santuarios reales establecido por Jeroboam I y mantenido durante el reinado de Jeroboam II (1R 12:31–32).",
+          "en": "There is no independent extrabiblical record of Amaziah; his office as priest of Bethel is consistent with the royal sanctuary system established by Jeroboam I and maintained through Jeroboam II's reign (1Kgs 12:31–32).",
+          "pt": "Não há registro extrabíblico independente de Amazias; seu cargo como sacerdote de Betel é coerente com o sistema de santuários reais estabelecido por Jeroboão I e mantido durante o reinado de Jeroboão II (1Rs 12:31–32)."
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 3,
+            "camposUtilizados": [
+              "Contexto del culto de Betel"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Su función sacerdotal en Betel concuerda con la estructura institucional del reino del norte descrita en 1 Reyes, aunque no existe atestación externa de su nombre",
+          "en": "His priestly role at Bethel agrees with the institutional structure of the northern kingdom described in 1 Kings, though there is no external attestation of his name",
+          "pt": "Sua função sacerdotal em Betel concorda com a estrutura institucional do reino do norte descrita em 1 Reis, embora não haja atestação externa de seu nome"
+        }
+      },
+      "versiculosAsociados": [
+        "Am 7:10-17"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No aparece en el Nuevo Testamento",
+        "en": "Does not appear in the New Testament",
+        "pt": "Não aparece no Novo Testamento"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Jeroboam II",
+        "en": "Jeroboam II",
+        "pt": "Jeroboão II"
+      },
+      "hebreo": "יָרָבְעָם",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        7
+      ],
+      "descripcion": {
+        "es": "Rey del reino del norte de Israel durante cuyo largo y próspero reinado (c. 793–753 a.C.) Amós profetizó; bajo su gobierno Israel alcanzó su mayor extensión territorial y riqueza económica desde la división del reino.",
+        "en": "King of the northern kingdom of Israel during whose long and prosperous reign (c. 793–753 BC) Amos prophesied; under his rule Israel reached its greatest territorial extent and economic wealth since the kingdom's division.",
+        "pt": "Rei do reino do norte de Israel durante cujo longo e próspero reinado (c. 793–753 a.C.) Amós profetizou; sob seu governo Israel alcançou sua maior extensão territorial e riqueza econômica desde a divisão do reino."
+      },
+      "acciones": {
+        "es": "Es mencionado en el encabezado del libro como marcador cronológico (Am 1:1); su «casa» es objeto directo de un oráculo de juicio en la tercera visión de Amós, que Amasías reporta como sedición (Am 7:9–11).",
+        "en": "He is mentioned in the book's superscription as a chronological marker (Amos 1:1); his «house» is the direct object of a judgment oracle in Amos's third vision, which Amaziah reports as sedition (Amos 7:9–11).",
+        "pt": "É mencionado no cabeçalho do livro como marcador cronológico (Am 1:1); sua «casa» é objeto direto de um oráculo de julgamento na terceira visão de Amós, que Amazias relata como sedição (Am 7:9–11)."
+      },
+      "significadoTeologico": {
+        "es": "Jeroboam II ilustra que la prosperidad material y la expansión política no son señales de bendición incondicional cuando coexisten con la infidelidad al pacto y la injusticia social.",
+        "en": "Jeroboam II illustrates that material prosperity and political expansion are not signs of unconditional blessing when they coexist with covenant unfaithfulness and social injustice.",
+        "pt": "Jeroboão II ilustra que a prosperidade material e a expansão política não são sinais de bênção incondicional quando coexistem com a infidelidade à aliança e a injustiça social."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico",
+        "en": "Does not function as a christological type",
+        "pt": "Não funciona como tipo cristológico"
+      },
+      "caracterMoral": {
+        "es": "Rey militarmente exitoso (2R 14:23–29) pero, según la evaluación deuteronomista, continuador de los pecados idolátricos de Jeroboam I",
+        "en": "A militarily successful king (2Kgs 14:23–29) but, per the Deuteronomistic evaluation, a continuer of Jeroboam I's idolatrous sins",
+        "pt": "Rei militarmente bem-sucedido (2Rs 14:23–29) mas, segundo a avaliação deuteronomista, continuador dos pecados idólatras de Jeroboão I"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "2 Reyes 14:23–29 registra que Jeroboam II restauró las fronteras de Israel «desde la entrada de Hamat hasta el mar del Arabá», pero «hizo lo malo ante los ojos de Yahvéh»; Amós data su ministerio a este mismo reinado (Am 1:1) y anuncia la caída de su casa (Am 7:9).",
+          "en": "2 Kings 14:23–29 records that Jeroboam II restored Israel's borders «from the entrance of Hamath to the Sea of the Arabah», but «did what was evil in the sight of the LORD»; Amos dates his ministry to this same reign (Amos 1:1) and announces the fall of his house (Amos 7:9).",
+          "pt": "2 Reis 14:23–29 registra que Jeroboão II restaurou as fronteiras de Israel «desde a entrada de Hamate até o mar da Arabá», mas «fez o que era mau aos olhos do Senhor»; Amós data seu ministério a este mesmo reinado (Am 1:1) e anuncia a queda de sua casa (Am 7:9)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Am 1:1",
+          "Am 7:9-11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Jeroboam II es una de las figuras del reino del norte mejor atestiguadas externamente; su reinado (c. 793–753 a.C.) coincide con el período de debilidad asiria bajo Adad-nirari III, documentado en anales asirios, que le permitió expandir Israel sin oposición imperial significativa.",
+          "en": "Jeroboam II is one of the northern kingdom's best externally attested figures; his reign (c. 793–753 BC) coincides with the period of Assyrian weakness under Adad-nirari III, documented in Assyrian annals, which allowed him to expand Israel without significant imperial opposition.",
+          "pt": "Jeroboão II é uma das figuras do reino do norte mais bem atestadas externamente; seu reinado (c. 793–753 a.C.) coincide com o período de fraqueza assíria sob Adad-nirari III, documentado em anais assírios, que lhe permitiu expandir Israel sem oposição imperial significativa."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1959,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología de los reyes de Israel"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El registro bíblico de su expansión territorial y prosperidad concuerda plenamente con el contexto socioeconómico presupuesto en Amós",
+          "en": "The biblical record of his territorial expansion and prosperity fully agrees with the socioeconomic context presupposed in Amos",
+          "pt": "O registro bíblico de sua expansão territorial e prosperidade concorda plenamente com o contexto socioeconômico pressuposto em Amós"
+        }
+      },
+      "versiculosAsociados": [
+        "Am 1:1",
+        "Am 7:9-11"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R 14"
+      ],
+      "enElNuevoTestamento": {
+        "es": "No aparece en el Nuevo Testamento",
+        "en": "Does not appear in the New Testament",
+        "pt": "Não aparece no Novo Testamento"
+      }
+    },
+    {
+      "nombre": {
+        "es": "Uzías",
+        "en": "Uzziah",
+        "pt": "Uzias"
+      },
+      "hebreo": "עֻזִּיָּה",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Rey de Judá contemporáneo de Jeroboam II, bajo cuyo reinado próspero Amós, natural de Tecoa, ejerció su ministerio profético (Am 1:1).",
+        "en": "King of Judah, contemporary with Jeroboam II, under whose prosperous reign Amos, a native of Tekoa, carried out his prophetic ministry (Amos 1:1).",
+        "pt": "Rei de Judá contemporâneo de Jeroboão II, sob cujo reinado próspero Amós, natural de Tecoa, exerceu seu ministério profético (Am 1:1)."
+      },
+      "acciones": {
+        "es": "Sirve como marcador cronológico del encabezado del libro, situando el ministerio de Amós «en días de Uzías rey de Judá... dos años antes del terremoto» (Am 1:1).",
+        "en": "He serves as a chronological marker in the book's superscription, situating Amos's ministry «in the days of Uzziah king of Judah... two years before the earthquake» (Amos 1:1).",
+        "pt": "Serve como marcador cronológico do cabeçalho do livro, situando o ministério de Amós «nos dias de Uzias, rei de Judá... dois anos antes do terremoto» (Am 1:1)."
+      },
+      "significadoTeologico": {
+        "es": "La prosperidad paralela de Judá bajo Uzías (2Cr 26:6–15) confirma que el problema denunciado por Amós no era la pobreza económica sino la infidelidad moral y espiritual en medio de la abundancia.",
+        "en": "Judah's parallel prosperity under Uzziah (2Chr 26:6–15) confirms that the problem Amos denounces was not economic poverty but moral and spiritual unfaithfulness amid abundance.",
+        "pt": "A prosperidade paralela de Judá sob Uzias (2Cr 26:6–15) confirma que o problema denunciado por Amós não era a pobreza econômica, mas a infidelidade moral e espiritual em meio à abundância."
+      },
+      "tipo": {
+        "es": "No funciona como tipo cristológico",
+        "en": "Does not function as a christological type",
+        "pt": "Não funciona como tipo cristológico"
+      },
+      "caracterMoral": {
+        "es": "Rey generalmente fiel cuyo reinado terminó en juicio divino por su intrusión sacerdotal en el templo (2Cr 26:16–21)",
+        "en": "Generally faithful king whose reign ended in divine judgment for his priestly intrusion into the temple (2Chr 26:16–21)",
+        "pt": "Rei geralmente fiel cujo reinado terminou em julgamento divino por sua intrusão sacerdotal no templo (2Cr 26:16–21)"
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "2 Crónicas 26 registra el reinado próspero de Uzías, su expansión militar y agrícola, y su caída final por usurpar funciones sacerdotales, resultando en lepra; Amós sitúa su llamado profético dentro de este mismo reinado (Am 1:1).",
+          "en": "2 Chronicles 26 records Uzziah's prosperous reign, his military and agricultural expansion, and his final downfall for usurping priestly functions, resulting in leprosy; Amos situates his prophetic call within this same reign (Amos 1:1).",
+          "pt": "2 Crônicas 26 registra o reinado próspero de Uzias, sua expansão militar e agrícola, e sua queda final por usurpar funções sacerdotais, resultando em lepra; Amós situa seu chamado profético dentro deste mesmo reinado (Am 1:1)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Am 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Uzías (también llamado Azarías) es ampliamente atestiguado en el registro bíblico y su reinado prolongado (c. 792–740 a.C.) coincide cronológicamente con Jeroboam II, un período de paz relativa entre Israel y Judá que favoreció la prosperidad económica denunciada por Amós.",
+          "en": "Uzziah (also called Azariah) is widely attested in the biblical record, and his lengthy reign (c. 792–740 BC) coincides chronologically with Jeroboam II, a period of relative peace between Israel and Judah that favored the economic prosperity Amos denounces.",
+          "pt": "Uzias (também chamado Azarias) é amplamente atestado no registro bíblico, e seu reinado prolongado (c. 792–740 a.C.) coincide cronologicamente com Jeroboão II, um período de paz relativa entre Israel e Judá que favoreceu a prosperidade econômica denunciada por Amós."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1959,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología de los reyes de Judá"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "Su reinado y el de Jeroboam II se superponen cronológicamente de manera consistente con el encabezado de Am 1:1",
+          "en": "His reign and that of Jeroboam II overlap chronologically in a manner consistent with the superscription in Amos 1:1",
+          "pt": "Seu reinado e o de Jeroboão II se sobrepõem cronologicamente de maneira consistente com o cabeçalho de Am 1:1"
+        }
+      },
+      "versiculosAsociados": [
+        "Am 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R 15",
+        "2Cr 26"
+      ],
+      "enElNuevoTestamento": {
+        "es": "No aparece en el Nuevo Testamento",
+        "en": "Does not appear in the New Testament",
+        "pt": "Não aparece no Novo Testamento"
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "Amós establece que la elección de Israel de entre «todas las familias de la tierra» (Am 3:2) no es una garantía de impunidad sino el fundamento mismo de una responsabilidad moral más estricta: precisamente por haber sido conocido y escogido, Israel será castigado por sus iniquidades con mayor severidad que las naciones paganas.",
+        "en": "Amos establishes that Israel's election out of «all the families of the earth» (Amos 3:2) is not a guarantee of impunity but the very ground of stricter moral responsibility: precisely because it has been known and chosen, Israel will be punished for its iniquities more severely than the pagan nations.",
+        "pt": "Amós estabelece que a eleição de Israel dentre «todas as famílias da terra» (Am 3:2) não é uma garantia de impunidade, mas o próprio fundamento de uma responsabilidade moral mais estrita: precisamente por ter sido conhecido e escolhido, Israel será castigado por suas iniquidades com maior severidade que as nações pagãs."
+      },
+      "pasajes": [
+        "Am 3:1-2",
+        "Am 9:7",
+        "Am 9:8"
+      ],
+      "ensenanza": {
+        "es": "La elección exclusiva de Israel es la razón del juicio, no su exención · Yahvéh gobierna soberanamente también los éxodos de otras naciones · el juicio purificará, no destruirá totalmente, a la casa de Jacob",
+        "en": "Israel's exclusive election is the reason for judgment, not exemption from it · Yahweh sovereignly governs the exoduses of other nations too · judgment will purify, not utterly destroy, the house of Jacob",
+        "pt": "A eleição exclusiva de Israel é a razão do julgamento, não sua isenção · Yahweh governa soberanamente também os êxodos de outras nações · o julgamento purificará, não destruirá totalmente, a casa de Jacó"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada lee Am 3:2 como afirmación temprana de que la elección de pacto conlleva obligaciones, no privilegios sin condiciones —un principio que anticipa la doctrina paulina de que a quien mucho se dio, mucho se demandará (Lc 12:48; Ro 2:9–11).",
+        "en": "Reformed theology reads Amos 3:2 as an early affirmation that covenant election entails obligations, not unconditional privileges — a principle anticipating the Pauline doctrine that of those to whom much is given, much is required (Luke 12:48; Rom 2:9–11).",
+        "pt": "A teologia reformada lê Am 3:2 como afirmação precoce de que a eleição da aliança acarreta obrigações, não privilégios sem condições — um princípio que antecipa a doutrina paulina de que a quem muito foi dado, muito será exigido (Lc 12:48; Rm 2:9–11)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "El pecado que Amós denuncia con mayor intensidad es la opresión sistemática del pobre por parte de la élite acomodada: venta de justos por dinero, corrupción judicial en la puerta de la ciudad, y explotación económica encubierta bajo prosperidad religiosa (Am 2:6–8; 5:10–12; 8:4–6). El pecado se manifiesta también como ritualismo hueco que sustituye la obediencia moral por el cumplimiento ceremonial (Am 4:4–5; 5:21–23).",
+        "en": "The sin Amos denounces most intensely is the systematic oppression of the poor by the comfortable elite: selling the righteous for money, judicial corruption at the city gate, and economic exploitation masked by religious prosperity (Amos 2:6–8; 5:10–12; 8:4–6). Sin also manifests as hollow ritualism that substitutes ceremonial compliance for moral obedience (Amos 4:4–5; 5:21–23).",
+        "pt": "O pecado que Amós denuncia com maior intensidade é a opressão sistemática do pobre pela elite abastada: venda de justos por dinheiro, corrupção judicial na porta da cidade, e exploração econômica encoberta sob prosperidade religiosa (Am 2:6–8; 5:10–12; 8:4–6). O pecado se manifesta também como ritualismo oco que substitui a obediência moral pelo cumprimento cerimonial (Am 4:4–5; 5:21–23)."
+      },
+      "pasajes": [
+        "Am 2:6-8",
+        "Am 5:11-12",
+        "Am 5:21-23",
+        "Am 8:4-6"
+      ],
+      "ensenanza": {
+        "es": "Los justos son vendidos por plata y los pobres por un par de sandalias · la opresión del pobre invierte la justicia en la puerta · Yahvéh aborrece las fiestas y ofrendas separadas de la justicia · los mercaderes manipulan pesas y esperan el fin del sábado para explotar al necesitado",
+        "en": "The righteous are sold for silver, the poor for a pair of sandals · oppression of the poor perverts justice at the gate · Yahweh hates feasts and offerings divorced from justice · merchants manipulate scales and wait for the Sabbath to end to exploit the needy",
+        "pt": "Os justos são vendidos por prata e os pobres por um par de sandálias · a opressão do pobre inverte a justiça na porta · Yahweh aborrece as festas e ofertas separadas da justiça · os mercadores manipulam pesos e esperam o fim do sábado para explorar o necessitado"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, siguiendo la ley moral resumida en el Decálogo, insiste con Amós en que la justicia social hacia el prójimo es inseparable del amor genuino a Dios; el culto sin obediencia ética es hipocresía, no piedad (cf. Catecismo Mayor de Westminster, preg. 99, 122).",
+        "en": "The Reformed tradition, following the moral law summarized in the Decalogue, insists with Amos that social justice toward one's neighbor is inseparable from genuine love for God; worship without ethical obedience is hypocrisy, not piety (cf. Westminster Larger Catechism, Q. 99, 122).",
+        "pt": "A tradição reformada, seguindo a lei moral resumida no Decálogo, insiste com Amós que a justiça social para com o próximo é inseparável do amor genuíno a Deus; o culto sem obediência ética é hipocrisia, não piedade (cf. Catecismo Maior de Westminster, perg. 99, 122)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Amós reformula radicalmente la expectativa popular del «Día de Yahvéh» como día de vindicación nacional automática, declarando en cambio que será «tinieblas, y no luz» para quienes lo anhelan sin arrepentimiento (Am 5:18–20). El libro culmina, sin embargo, en una escatología de esperanza: restauración del linaje davídico y fertilidad edénica renovada (Am 9:11–15).",
+        "en": "Amos radically reformulates the popular expectation of the «Day of the LORD» as a day of automatic national vindication, declaring instead that it will be «darkness, and not light» for those who long for it without repentance (Amos 5:18–20). The book culminates, however, in an eschatology of hope: restoration of the Davidic line and renewed Edenic fertility (Amos 9:11–15).",
+        "pt": "Amós reformula radicalmente a expectativa popular do «Dia do Senhor» como dia de vindicação nacional automática, declarando em vez disso que será «trevas, e não luz» para os que o desejam sem arrependimento (Am 5:18–20). O livro culmina, contudo, numa escatologia de esperança: restauração da linhagem davídica e fertilidade edênica renovada (Am 9:11–15)."
+      },
+      "pasajes": [
+        "Am 5:18-20",
+        "Am 9:11-12",
+        "Am 9:13-15"
+      ],
+      "ensenanza": {
+        "es": "El Día del Señor será juicio, no celebración, para el complaciente · el tabernáculo caído de David será reedificado como en los días antiguos · la tierra producirá abundancia edénica y el pueblo no será desarraigado jamás",
+        "en": "The Day of the LORD will be judgment, not celebration, for the complacent · David's fallen booth will be rebuilt as in days of old · the land will produce Edenic abundance and the people will never again be uprooted",
+        "pt": "O Dia do Senhor será julgamento, não celebração, para o complacente · o tabernáculo caído de Davi será reconstruído como nos dias antigos · a terra produzirá abundância edênica e o povo nunca mais será desarraigado"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada del pacto lee la inversión escatológica de Amós —juicio antes de restauración— como patrón que anticipa la cruz antes de la resurrección, y ve en Am 9:11–15 la garantía profética del reino mesiánico ya inaugurado en Cristo y consumado en la nueva creación (Ap 21:1–5).",
+        "en": "Reformed covenant theology reads Amos's eschatological reversal — judgment before restoration — as a pattern anticipating the cross before the resurrection, and sees in Amos 9:11–15 the prophetic guarantee of the messianic kingdom already inaugurated in Christ and consummated in the new creation (Rev 21:1–5).",
+        "pt": "A teologia reformada da aliança lê a inversão escatológica de Amós — julgamento antes da restauração — como padrão que antecipa a cruz antes da ressurreição, e vê em Am 9:11–15 a garantia profética do reino messiânico já inaugurado em Cristo e consumado na nova criação (Ap 21:1–5)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Aliança"
+      },
+      "resumen": {
+        "es": "Todo el libro opera como un pleito de pacto (rîb): Yahvéh, el soberano suzerano, procesa legalmente a Israel por violar los términos morales del pacto mosaico, invocando el patrón de bendición-maldición (Dt 28) mediante plagas incumplidas de arrepentimiento («y no os volvisteis a mí», repetido cinco veces en Am 4:6–11).",
+        "en": "The entire book functions as a covenant lawsuit (rîb): Yahweh, the suzerain sovereign, legally prosecutes Israel for violating the moral terms of the Mosaic covenant, invoking the blessing-curse pattern (Deut 28) through unheeded plagues meant to provoke repentance («yet you did not return to me», repeated five times in Amos 4:6–11).",
+        "pt": "Todo o livro opera como um litígio de aliança (rîb): Yahweh, o soberano suserano, processa legalmente Israel por violar os termos morais da aliança mosaica, invocando o padrão de bênção-maldição (Dt 28) mediante pragas não atendidas de arrependimento («e vocês não voltaram para mim», repetido cinco vezes em Am 4:6–11)."
+      },
+      "pasajes": [
+        "Am 3:1-2",
+        "Am 4:6-11",
+        "Am 9:11"
+      ],
+      "ensenanza": {
+        "es": "Yahvéh procesa a Israel como parte de un pacto violado, no como enemigo arbitrario · las plagas repetidas fueron llamados pedagógicos de pacto ignorados sistemáticamente · la restauración final del tabernáculo de David renueva la promesa del pacto davídico",
+        "en": "Yahweh prosecutes Israel as a covenant partner violated, not as an arbitrary enemy · the repeated plagues were covenant pedagogical calls systematically ignored · the final restoration of David's booth renews the Davidic covenant promise",
+        "pt": "Yahweh processa Israel como parceiro de aliança violado, não como inimigo arbitrário · as pragas repetidas foram chamados pedagógicos de aliança sistematicamente ignorados · a restauração final do tabernáculo de Davi renova a promessa da aliança davídica"
+      },
+      "distintivaReformada": {
+        "es": "La teología del pacto reformada encuentra en Amós una ilustración temprana y clara del principio «bendición por obediencia, maldición por rebeldía» del pacto mosaico administrado bajo la soberanía del pacto de gracia, que finalmente se cumple en el nuevo pacto en Cristo.",
+        "en": "Reformed covenant theology finds in Amos an early and clear illustration of the «blessing for obedience, curse for rebellion» principle of the Mosaic covenant, administered under the sovereignty of the covenant of grace, ultimately fulfilled in the new covenant in Christ.",
+        "pt": "A teologia reformada da aliança encontra em Amós uma ilustração precoce e clara do princípio «bênção pela obediência, maldição pela rebeldia» da aliança mosaica, administrada sob a soberania da aliança da graça, finalmente cumprida na nova aliança em Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Amós afirma la soberanía universal de Yahvéh sobre la historia de todas las naciones, no solo de Israel: él dirigió tanto el éxodo de Israel de Egipto como las migraciones de los filisteos desde Caftor y de los sirios desde Kir (Am 9:7), y su rugido desde Sion sacude cielo y tierra (Am 1:2).",
+        "en": "Amos affirms Yahweh's universal sovereignty over the history of all nations, not only Israel: he directed both Israel's exodus from Egypt and the migrations of the Philistines from Caphtor and the Syrians from Kir (Amos 9:7), and his roar from Zion shakes heaven and earth (Amos 1:2).",
+        "pt": "Amós afirma a soberania universal de Yahweh sobre a história de todas as nações, não apenas de Israel: ele dirigiu tanto o êxodo de Israel do Egito quanto as migrações dos filisteus de Caftor e dos sírios de Quir (Am 9:7), e seu rugido de Sião sacode céu e terra (Am 1:2)."
+      },
+      "pasajes": [
+        "Am 1:2",
+        "Am 4:13",
+        "Am 9:7"
+      ],
+      "ensenanza": {
+        "es": "El rugido de Yahvéh desde Sion hace enlutar los pastos del Carmelo · Yahvéh formó los montes, crea el viento y revela sus pensamientos al hombre · Yahvéh gobierna soberanamente el destino de todas las naciones, no solo el de Israel",
+        "en": "Yahweh's roar from Zion withers the pastures of Carmel · Yahweh forms the mountains, creates the wind, and reveals his thoughts to man · Yahweh sovereignly governs the destiny of all nations, not only Israel's",
+        "pt": "O rugido de Yahweh desde Sião faz murchar os pastos do Carmelo · Yahweh forma os montes, cria o vento e revela seus pensamentos ao homem · Yahweh governa soberanamente o destino de todas as nações, não apenas o de Israel"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la providencia general sobre todas las naciones (WCF Cap. 5) encuentra en Am 9:7 uno de sus textos veterotestamentarios más explícitos: Dios gobierna la historia universal con el mismo control soberano con que gobernó el éxodo de su pueblo elegido.",
+        "en": "The Reformed doctrine of general providence over all nations (WCF Ch. 5) finds in Amos 9:7 one of its most explicit Old Testament texts: God governs universal history with the same sovereign control with which he governed the exodus of his chosen people.",
+        "pt": "A doutrina reformada da providência geral sobre todas as nações (WCF Cap. 5) encontra em Am 9:7 um de seus textos veterotestamentários mais explícitos: Deus governa a história universal com o mesmo controle soberano com que governou o êxodo de seu povo eleito."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía"
+      ],
+      "resumen": {
+        "es": "Dios, el gran Creador, sostiene, dirige y gobierna todas las criaturas, acciones y cosas, desde la mayor hasta la menor, por su sabiduría y providencia santísimas. Amós aplica esto a la historia internacional: Yahvéh dirige tanto los movimientos de Israel como los de pueblos paganos como los filisteos y sirios (Am 9:7).",
+        "en": "God, the great Creator, upholds, directs, and governs all creatures, actions, and things, from the greatest to the least, by his most wise and holy providence. Amos applies this to international history: Yahweh directs the movements of Israel as well as those of pagan peoples like the Philistines and Syrians (Amos 9:7).",
+        "pt": "Deus, o grande Criador, sustenta, dirige e governa todas as criaturas, ações e coisas, desde a maior até a menor, por sua sapientíssima e santíssima providência. Amós aplica isso à história internacional: Yahweh dirige tanto os movimentos de Israel quanto os de povos pagãos como os filisteus e sírios (Am 9:7)."
+      },
+      "genesis": [
+        "Am 9:7",
+        "Am 4:13",
+        "Am 1:2"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 7",
+      "titulo": {
+        "es": "Del Pacto de Dios con el Hombre",
+        "en": "Of God's Covenant with Man",
+        "pt": "Da Aliança de Deus com o Homem"
+      },
+      "doctrinas": [
+        "Pacto",
+        "Elección"
+      ],
+      "resumen": {
+        "es": "La condescendencia divina en el pacto no anula sino que estructura la obligación moral del pueblo elegido. Amós ilustra esto de manera aguda: el hecho de que Yahvéh conociera a Israel exclusivamente entre todas las familias de la tierra (Am 3:2) se convierte en el fundamento legal de su procesamiento por violar los términos del pacto.",
+        "en": "Divine condescension in the covenant does not nullify but structures the moral obligation of the elect people. Amos illustrates this sharply: the fact that Yahweh knew Israel exclusively among all the families of the earth (Amos 3:2) becomes the legal ground for prosecuting it for violating the covenant's terms.",
+        "pt": "A condescendência divina na aliança não anula, mas estrutura a obrigação moral do povo eleito. Amós ilustra isso de forma aguda: o fato de Yahweh ter conhecido Israel exclusivamente dentre todas as famílias da terra (Am 3:2) torna-se o fundamento legal de seu processamento por violar os termos da aliança."
+      },
+      "genesis": [
+        "Am 3:2",
+        "Am 4:6-11"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-7"
+    },
+    {
+      "cap": "Cap. 19",
+      "titulo": {
+        "es": "De la Ley de Dios",
+        "en": "Of the Law of God",
+        "pt": "Da Lei de Deus"
+      },
+      "doctrinas": [
+        "Ley moral",
+        "Justicia social"
+      ],
+      "resumen": {
+        "es": "La ley moral obliga perpetuamente tanto a justificados como a no justificados, en su contenido de amor a Dios y al prójimo. Amós expone violaciones concretas de esta ley —opresión del pobre, corrupción judicial, deshonestidad comercial (Am 2:6–8; 5:11–12; 8:4–6)— y declara nulo el culto ritual que no se acompaña de obediencia a ella (Am 5:21–24).",
+        "en": "The moral law perpetually binds both the justified and the unjustified, in its substance of love to God and neighbor. Amos exposes concrete violations of this law — oppression of the poor, judicial corruption, commercial dishonesty (Amos 2:6–8; 5:11–12; 8:4–6) — and declares ritual worship void when unaccompanied by obedience to it (Amos 5:21–24).",
+        "pt": "A lei moral obriga perpetuamente tanto os justificados quanto os não justificados, em seu conteúdo de amor a Deus e ao próximo. Amós expõe violações concretas dessa lei — opressão do pobre, corrupção judicial, desonestidade comercial (Am 2:6–8; 5:11–12; 8:4–6) — e declara nulo o culto ritual que não é acompanhado de obediência a ela (Am 5:21–24)."
+      },
+      "genesis": [
+        "Am 5:21-24",
+        "Am 2:6-8",
+        "Am 8:4-6"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-19"
+    },
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio"
+      ],
+      "resumen": {
+        "es": "Dios ha señalado un día en el cual juzgará al mundo con justicia; ese día será terrible para los impenitentes pero de consuelo para los piadosos. Amós anticipa esta doctrina al reinterpretar el «Día de Yahvéh» esperado como celebración nacional, declarando que será tinieblas para el complaciente impenitente (Am 5:18–20) y, sin embargo, restauración para un remanente fiel (Am 9:8–15).",
+        "en": "God has appointed a day in which he will judge the world in righteousness; that day will be terrible to the impenitent but comforting to the godly. Amos anticipates this doctrine by reinterpreting the expected «Day of the LORD» as a national celebration, declaring instead that it will be darkness for the impenitent complacent (Amos 5:18–20) yet restoration for a faithful remnant (Amos 9:8–15).",
+        "pt": "Deus determinou um dia em que julgará o mundo com justiça; esse dia será terrível para os impenitentes, mas de consolo para os piedosos. Amós antecipa essa doutrina ao reinterpretar o «Dia do Senhor» esperado como celebração nacional, declarando que será trevas para o complacente impenitente (Am 5:18–20), mas ainda assim restauração para um remanescente fiel (Am 9:8–15)."
+      },
+      "genesis": [
+        "Am 5:18-20",
+        "Am 9:8-10"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Am 3:2",
+      "es": "A ustedes solamente he conocido de todas las familias de la tierra; por tanto, los castigaré por todas sus iniquidades.",
+      "en": "You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.",
+      "pt": "Só a vós vos conheci de todas as famílias da terra; portanto, eu vos punirei por todas as vossas iniquidades.",
+      "nota": {
+        "es": "Texto fundamental de la doctrina de la elección en Amós: el conocimiento electivo de Dios hacia Israel no exime del juicio sino que lo intensifica, estableciendo que el privilegio del pacto conlleva mayor, no menor, responsabilidad moral.",
+        "en": "Foundational text for the doctrine of election in Amos: God's elective knowledge of Israel does not exempt it from judgment but intensifies it, establishing that covenant privilege carries greater, not lesser, moral responsibility.",
+        "pt": "Texto fundamental da doutrina da eleição em Amós: o conhecimento eletivo de Deus para com Israel não isenta do julgamento, mas o intensifica, estabelecendo que o privilégio da aliança acarreta maior, não menor, responsabilidade moral."
+      }
+    },
+    {
+      "ref": "Am 5:24",
+      "es": "Pero que fluya el derecho como las aguas, y la justicia como arroyo inagotable.",
+      "en": "But let justice roll down like waters, and righteousness like an ever-flowing stream.",
+      "pt": "Mas corra o juízo como as águas, e a justiça como um ribeiro perene.",
+      "nota": {
+        "es": "El versículo más citado de Amós, resumen de todo el mensaje profético: la justicia social práctica no es un añadido opcional a la verdadera adoración, sino su expresión inevitable cuando la fe en el pacto es genuina.",
+        "en": "Amos's most-quoted verse, a summary of the entire prophetic message: practical social justice is not an optional addition to true worship but its inevitable expression when covenant faith is genuine.",
+        "pt": "O versículo mais citado de Amós, resumo de toda a mensagem profética: a justiça social prática não é um acréscimo opcional à verdadeira adoração, mas sua expressão inevitável quando a fé na aliança é genuína."
+      }
+    },
+    {
+      "ref": "Am 7:8",
+      "es": "Y Yahvéh me dijo: «¿Qué ves, Amós?». Y respondí: «Una plomada de albañil». Entonces el Señor dijo: «Voy a poner una plomada en medio de mi pueblo Israel; no volveré a pasarlo por alto».",
+      "en": "And the LORD said to me, «Amos, what do you see?» And I said, «A plumb line». Then the Lord said, «Behold, I am setting a plumb line in the midst of my people Israel; I will never again pass by them».",
+      "pt": "E o Senhor me disse: «Que vês, Amós?». E eu disse: «Um prumo». Então disse o Senhor: «Eis que ponho um prumo no meio do meu povo Israel; nunca mais passarei por ele».",
+      "nota": {
+        "es": "La tercera visión marca el punto de no retorno: mientras que las dos primeras visiones (langosta, fuego) fueron detenidas por la intercesión de Amós, el juicio medido por la plomada divina ya no admite apelación, mostrando que la paciencia de Dios tiene un límite fijado por su propia justicia.",
+        "en": "The third vision marks the point of no return: while the first two visions (locusts, fire) were halted by Amos's intercession, judgment measured by the divine plumb line no longer admits appeal, showing that God's patience has a limit set by his own justice.",
+        "pt": "A terceira visão marca o ponto sem retorno: enquanto as duas primeiras visões (gafanhotos, fogo) foram detidas pela intercessão de Amós, o julgamento medido pelo prumo divino já não admite apelação, mostrando que a paciência de Deus tem um limite fixado por sua própria justiça."
+      }
+    },
+    {
+      "ref": "Am 8:11",
+      "es": "«Vienen días», declara el Señor Yahvéh, «en que enviaré hambre a la tierra, no hambre de pan ni sed de agua, sino de oír las palabras de Yahvéh».",
+      "en": "«Behold, the days are coming», declares the Lord GOD, «when I will send a famine on the land — not a famine of bread or a thirst for water, but of hearing the words of the LORD».",
+      "pt": "«Eis que vêm dias», diz o Senhor Deus, «em que enviarei fome sobre a terra, não fome de pão, nem sede de água, mas de ouvir as palavras do Senhor».",
+      "nota": {
+        "es": "El silencio profético como juicio supremo: cuando un pueblo rechaza persistentemente la palabra revelada, Dios puede retirarla, dejando un vacío que ninguna riqueza material puede llenar; anticipa por contraste la suficiencia de Cristo como el Verbo que sacia (Jn 6:35).",
+        "en": "Prophetic silence as the supreme judgment: when a people persistently rejects the revealed word, God may withdraw it, leaving a void no material wealth can fill; it anticipates by contrast the sufficiency of Christ as the Word who satisfies (John 6:35).",
+        "pt": "O silêncio profético como o juízo supremo: quando um povo rejeita persistentemente a palavra revelada, Deus pode retirá-la, deixando um vazio que nenhuma riqueza material pode preencher; antecipa por contraste a suficiência de Cristo como o Verbo que sacia (Jo 6:35)."
+      }
+    },
+    {
+      "ref": "Am 9:11",
+      "es": "«En aquel día levantaré el tabernáculo caído de David, repararé sus brechas, levantaré sus ruinas y lo reedificaré como en los días de antaño».",
+      "en": "«In that day I will raise up the booth of David that is fallen and repair its breaches, and raise up its ruins and rebuild it as in the days of old».",
+      "pt": "«Naquele dia levantarei o tabernáculo caído de Davi, e repararei as suas brechas, e levantarei as suas ruínas, e o reedificarei como nos dias antigos».",
+      "nota": {
+        "es": "Texto citado por Santiago en Hch 15:16–17 para justificar la inclusión de los gentiles en la iglesia; el linaje davídico caído se restaura no meramente como nación étnica sino como reino mesiánico que abarca a todas las naciones «sobre las cuales es invocado mi nombre».",
+        "en": "Text cited by James in Acts 15:16–17 to justify the inclusion of Gentiles in the church; the fallen Davidic line is restored not merely as an ethnic nation but as a messianic kingdom embracing all the nations «who are called by my name».",
+        "pt": "Texto citado por Tiago em At 15:16–17 para justificar a inclusão dos gentios na igreja; a linhagem davídica caída é restaurada não meramente como nação étnica, mas como reino messiânico que abrange todas as nações «sobre as quais é invocado o meu nome»."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Amós resiste dos reducciones modernas: leerlo como mero activismo social sin fundamento teológico, o espiritualizarlo hasta vaciarlo de su exigencia ética concreta. Para la tradición reformada, la justicia social que Amós exige fluye directamente de la ley moral revelada en el pacto mosaico y se cumple perfectamente solo en Cristo, quien reconcilia justicia y misericordia en la cruz; asimismo, la restauración final del tabernáculo de David (Am 9:11–15) confirma que el pacto de gracia, no un simple retorno nacionalista, gobierna la esperanza final del libro, apuntando a la iglesia como el verdadero Israel que incluye a judíos y gentiles bajo el reinado del Hijo de David.",
+    "en": "The Reformed reading of Amos resists two modern reductions: reading it as mere social activism without theological grounding, or spiritualizing it until it is emptied of its concrete ethical demand. For the Reformed tradition, the social justice Amos demands flows directly from the moral law revealed in the Mosaic covenant and is perfectly fulfilled only in Christ, who reconciles justice and mercy at the cross; likewise, the final restoration of David's booth (Amos 9:11–15) confirms that the covenant of grace, not mere nationalist restoration, governs the book's ultimate hope, pointing to the church as the true Israel that includes Jews and Gentiles under the reign of the Son of David.",
+    "pt": "A leitura reformada de Amós resiste a duas reduções modernas: lê-lo como mero ativismo social sem fundamento teológico, ou espiritualizá-lo até esvaziá-lo de sua exigência ética concreta. Para a tradição reformada, a justiça social que Amós exige flui diretamente da lei moral revelada na aliança mosaica e se cumpre perfeitamente somente em Cristo, que reconcilia justiça e misericórdia na cruz; da mesma forma, a restauração final do tabernáculo de Davi (Am 9:11–15) confirma que a aliança da graça, não um simples retorno nacionalista, governa a esperança final do livro, apontando para a igreja como o verdadeiro Israel que inclui judeus e gentios sob o reinado do Filho de Davi."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Oráculos contra las naciones",
+        "en": "Oracles Against the Nations",
+        "pt": "Oráculos Contra as Nações"
+      },
+      "descripcion": {
+        "es": "Yahvéh ruge desde Sion (Am 1:2) e inicia un ciclo retórico de ocho oráculos con la fórmula «por tres transgresiones... y por cuatro», recorriendo Damasco, Gaza, Tiro, Edom, Amón y Moab (Am 1:3–2:3) por crímenes de guerra contra poblaciones civiles. El oyente israelita, complacido con cada condena de sus enemigos, es atrapado cuando el círculo se cierra sobre Judá por rechazar la ley de Yahvéh (Am 2:4–5) y, con mayor detalle y severidad, sobre el propio Israel por vender al justo por dinero y oprimir al pobre (Am 2:6–8). El capítulo recuerda la fidelidad histórica de Yahvéh al liberar a Israel de Egipto y darle profetas y nazareos (Am 2:9–11), pero denuncia que el pueblo silenció a estos mismos profetas (Am 2:12), anunciando un juicio del que nadie escapará (Am 2:13–16).",
+        "en": "Yahweh roars from Zion (Amos 1:2) and opens a rhetorical cycle of eight oracles with the formula «for three transgressions... and for four», moving through Damascus, Gaza, Tyre, Edom, Ammon, and Moab (Amos 1:3–2:3) for war crimes against civilian populations. The Israelite hearer, pleased with each condemnation of its enemies, is trapped when the circle closes on Judah for rejecting Yahweh's law (Amos 2:4–5) and, with greater detail and severity, on Israel itself for selling the righteous for money and oppressing the poor (Amos 2:6–8). The chapter recalls Yahweh's historical faithfulness in delivering Israel from Egypt and giving prophets and Nazirites (Amos 2:9–11), yet denounces that the people silenced these very prophets (Amos 2:12), announcing a judgment none will escape (Amos 2:13–16).",
+        "pt": "Yahweh ruge de Sião (Am 1:2) e abre um ciclo retórico de oito oráculos com a fórmula «por três transgressões... e por quatro», percorrendo Damasco, Gaza, Tiro, Edom, Amom e Moabe (Am 1:3–2:3) por crimes de guerra contra populações civis. O ouvinte israelita, satisfeito com cada condenação de seus inimigos, é preso quando o círculo se fecha sobre Judá por rejeitar a lei de Yahweh (Am 2:4–5) e, com maior detalhe e severidade, sobre o próprio Israel por vender o justo por dinheiro e oprimir o pobre (Am 2:6–8). O capítulo relembra a fidelidade histórica de Yahweh ao libertar Israel do Egito e dar profetas e nazireus (Am 2:9–11), mas denuncia que o povo silenciou esses mesmos profetas (Am 2:12), anunciando um julgamento do qual ninguém escapará (Am 2:13–16)."
+      },
+      "eventoClave": {
+        "es": "El ciclo retórico se cierra sobre Israel mismo (Am 2:6–8), convirtiendo la aprobación del oyente ante el juicio de sus vecinos en autocondena inesperada.",
+        "en": "The rhetorical cycle closes on Israel itself (Amos 2:6–8), turning the hearer's approval of judgment on its neighbors into unexpected self-condemnation.",
+        "pt": "O ciclo retórico se fecha sobre o próprio Israel (Am 2:6–8), transformando a aprovação do ouvinte ao julgamento de seus vizinhos em autocondenação inesperada."
+      },
+      "versiculoClave": "Am 2:6",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "La fórmula repetida «por tres transgresiones... y por cuatro» estructura ocho declaraciones de juicio divino contra las naciones, Judá e Israel (Am 1:3–2:16), mostrando que la ira de Yahvéh alcanza a todos los pueblos por igual.",
+            "en": "The repeated formula «for three transgressions... and for four» structures eight declarations of divine judgment against the nations, Judah, and Israel (Amos 1:3–2:16), showing that Yahweh's wrath reaches all peoples alike.",
+            "pt": "A fórmula repetida «por três transgressões... e por quatro» estrutura oito declarações de julgamento divino contra as nações, Judá e Israel (Am 1:3–2:16), mostrando que a ira de Yahweh alcança todos os povos igualmente."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "El recordatorio de que Yahvéh «hizo subir» a Israel de Egipto y levantó profetas y nazareos de entre sus hijos (Am 2:10–11) subraya un llamado de pacto que el pueblo desoyó silenciando a los profetas (Am 2:12).",
+              "en": "The reminder that Yahweh «brought up» Israel from Egypt and raised up prophets and Nazirites from among its sons (Amos 2:10–11) underscores a covenant call the people disregarded by silencing the prophets (Amos 2:12).",
+              "pt": "A lembrança de que Yahweh «fez subir» Israel do Egito e levantou profetas e nazireus dentre seus filhos (Am 2:10–11) sublinha um chamado da aliança que o povo desconsiderou ao silenciar os profetas (Am 2:12)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Privilegio y responsabilidad del pacto",
+        "en": "Covenant Privilege and Accountability",
+        "pt": "Privilégio e Responsabilidade da Aliança"
+      },
+      "descripcion": {
+        "es": "El capítulo abre el pleito de pacto formal contra Israel: «A ustedes solamente he conocido de todas las familias de la tierra; por tanto, los castigaré por todas sus iniquidades» (Am 3:2), invirtiendo la lógica de la elección como privilegio sin obligación. Amós defiende con una serie de preguntas retóricas encadenadas por causa-efecto (Am 3:3–6) la inevitabilidad de que el juicio profetizado proceda directamente de Yahvéh, quien «no hace nada sin revelar su secreto a sus siervos los profetas» (Am 3:7). El capítulo denuncia la opresión y el lujo violento acumulado en los palacios de Samaria (Am 3:9–10) y anuncia destrucción para el altar de Betel y las casas de invierno y verano de la élite (Am 3:13–15).",
+        "en": "The chapter opens the formal covenant lawsuit against Israel: «You only have I known of all the families of the earth; therefore I will punish you for all your iniquities» (Amos 3:2), inverting the logic of election as privilege without obligation. Amos defends, through a chain of cause-and-effect rhetorical questions (Amos 3:3–6), the inevitability that the prophesied judgment proceeds directly from Yahweh, who «does nothing without revealing his secret to his servants the prophets» (Amos 3:7). The chapter denounces the oppression and violent luxury amassed in Samaria's palaces (Amos 3:9–10) and announces destruction for the altar at Bethel and the elite's winter and summer houses (Amos 3:13–15).",
+        "pt": "O capítulo abre o litígio formal de aliança contra Israel: «Só a vós vos conheci de todas as famílias da terra; portanto, eu vos punirei por todas as vossas iniquidades» (Am 3:2), invertendo a lógica da eleição como privilégio sem obrigação. Amós defende, por uma série de perguntas retóricas encadeadas por causa e efeito (Am 3:3–6), a inevitabilidade de que o julgamento profetizado proceda diretamente de Yahweh, que «não faz nada sem revelar o seu segredo aos seus servos, os profetas» (Am 3:7). O capítulo denuncia a opressão e o luxo violento acumulado nos palácios de Samaria (Am 3:9–10) e anuncia destruição para o altar de Betel e as casas de inverno e verão da elite (Am 3:13–15)."
+      },
+      "eventoClave": {
+        "es": "La declaración «a ustedes solamente he conocido... por tanto los castigaré» (Am 3:2) invierte la elección de privilegio exclusivo a fundamento legal de mayor juicio.",
+        "en": "The declaration «you only have I known... therefore I will punish you» (Amos 3:2) inverts election from exclusive privilege to the legal ground for greater judgment.",
+        "pt": "A declaração «só a vós vos conheci... portanto vos punirei» (Am 3:2) inverte a eleição de privilégio exclusivo para fundamento legal de maior julgamento."
+      },
+      "versiculoClave": "Am 3:2",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "Am 3:2 declara que el conocimiento exclusivo de Yahvéh hacia Israel «de todas las familias de la tierra» es la razón misma del castigo venidero, no una exención del mismo.",
+            "en": "Amos 3:2 declares that Yahweh's exclusive knowledge of Israel «of all the families of the earth» is the very reason for coming punishment, not an exemption from it.",
+            "pt": "Am 3:2 declara que o conhecimento exclusivo de Yahweh para com Israel «de todas as famílias da terra» é a própria razão do castigo vindouro, não uma isenção dele."
+          }
+        },
+        "secundarios": [
+          {
+            "Profeta/Profecía": {
+              "es": "Amós defiende la legitimidad de su mensaje afirmando que Yahvéh «no hace nada sin revelar su secreto a sus siervos los profetas» (Am 3:7), fundamentando la autoridad profética en la revelación divina previa.",
+              "en": "Amos defends the legitimacy of his message by affirming that Yahweh «does nothing without revealing his secret to his servants the prophets» (Amos 3:7), grounding prophetic authority in prior divine revelation.",
+              "pt": "Amós defende a legitimidade de sua mensagem afirmando que Yahweh «não faz nada sem revelar o seu segredo aos seus servos, os profetas» (Am 3:7), fundamentando a autoridade profética na revelação divina prévia."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Arrepentimiento rechazado",
+        "en": "Repentance Refused",
+        "pt": "Arrependimento Rejeitado"
+      },
+      "descripcion": {
+        "es": "Amós se dirige con sarcasmo a las mujeres acomodadas de Samaria, «vacas de Basán», que oprimen a los pobres para financiar su indulgencia (Am 4:1–3), y denuncia el ritualismo hipócrita de Betel y Gilgal donde el pueblo «ama pecar» mediante ofrendas abundantes vacías de justicia (Am 4:4–5). El núcleo del capítulo es una letanía de cinco plagas históricas —hambre, sequía, tizón, langosta, pestilencia y guerra— cada una seguida del estribillo «y no os volvisteis a mí, dice Yahvéh» (Am 4:6–11), documentando el propósito pedagógico y disciplinario de estos juicios previos ignorados sistemáticamente. El capítulo culmina con la solemne advertencia final: «prepárate para venir al encuentro de tu Dios, oh Israel» (Am 4:12), respaldada por un himno doxológico al Creador soberano (Am 4:13).",
+        "en": "Amos addresses with sarcasm the comfortable women of Samaria, «cows of Bashan», who oppress the poor to fund their indulgence (Amos 4:1–3), and denounces the hypocritical ritualism of Bethel and Gilgal where the people «love to sin» through lavish offerings empty of justice (Amos 4:4–5). The chapter's core is a litany of five historical plagues — famine, drought, blight, locusts, pestilence, and war — each followed by the refrain «yet you did not return to me, declares the LORD» (Amos 4:6–11), documenting the pedagogical, disciplinary purpose of these previous, systematically ignored judgments. The chapter culminates in the solemn final warning: «prepare to meet your God, O Israel» (Amos 4:12), backed by a doxological hymn to the sovereign Creator (Amos 4:13).",
+        "pt": "Amós se dirige com sarcasmo às mulheres abastadas de Samaria, «vacas de Basã», que oprimem os pobres para financiar sua indulgência (Am 4:1–3), e denuncia o ritualismo hipócrita de Betel e Gilgal onde o povo «ama pecar» mediante ofertas abundantes vazias de justiça (Am 4:4–5). O núcleo do capítulo é uma litania de cinco pragas históricas — fome, seca, ferrugem, gafanhotos, pestilência e guerra — cada uma seguida do refrão «e vocês não voltaram para mim, diz o Senhor» (Am 4:6–11), documentando o propósito pedagógico e disciplinar desses julgamentos prévios sistematicamente ignorados. O capítulo culmina na solene advertência final: «prepara-te para te encontrares com o teu Deus, ó Israel» (Am 4:12), respaldada por um hino doxológico ao Criador soberano (Am 4:13)."
+      },
+      "eventoClave": {
+        "es": "El estribillo quíntuple «y no os volvisteis a mí» (Am 4:6–11) revela que las plagas históricas fueron disciplina de pacto sistemáticamente desatendida por Israel.",
+        "en": "The fivefold refrain «yet you did not return to me» (Amos 4:6–11) reveals that the historical plagues were covenant discipline systematically disregarded by Israel.",
+        "pt": "O refrão quíntuplo «e vocês não voltaram para mim» (Am 4:6–11) revela que as pragas históricas foram disciplina de aliança sistematicamente desconsiderada por Israel."
+      },
+      "versiculoClave": "Am 4:12",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Idolatría": {
+            "es": "El sarcasmo de Am 4:4–5 —«venid a Betel y prevaricad, a Gilgal y aumentad la rebelión»— expone que el culto abundante en los santuarios del reino del norte era, en el fondo, rebelión disfrazada de piedad.",
+            "en": "The sarcasm of Amos 4:4–5 — «come to Bethel and transgress, to Gilgal and multiply transgression» — exposes that the lavish worship at the northern kingdom's sanctuaries was, at bottom, rebellion disguised as piety.",
+            "pt": "O sarcasmo de Am 4:4–5 — «vinde a Betel e transgredi, a Gilgal e multiplicai a transgressão» — expõe que o culto abundante nos santuários do reino do norte era, no fundo, rebelião disfarçada de piedade."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "Las cinco plagas históricas no arrepentidas (Am 4:6–11) documentan un patrón acumulativo de endurecimiento del corazón frente a la disciplina divina repetida.",
+              "en": "The five unrepented historical plagues (Amos 4:6–11) document a cumulative pattern of hardening the heart against repeated divine discipline.",
+              "pt": "As cinco pragas históricas não arrependidas (Am 4:6–11) documentam um padrão cumulativo de endurecimento do coração diante da disciplina divina repetida."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "Lamento, el Día de Yahvéh y los ayes",
+        "en": "Lament, the Day of the LORD, and the Woes",
+        "pt": "Lamento, o Dia do Senhor e os Ais"
+      },
+      "descripcion": {
+        "es": "Amós entona un lamento fúnebre por «la virgen de Israel», caída y sin quien la levante (Am 5:1–2), y llama repetidamente a «buscar a Yahvéh y vivir» en lugar de los santuarios corruptos de Betel, Gilgal y Beerseba (Am 5:4–6,14). El clímax teológico llega con la reinterpretación radical del Día de Yahvéh —esperado como luz de vindicación nacional pero declarado «tinieblas, y no luz» para el impenitente (Am 5:18–20)— y el rechazo divino explícito del culto sin justicia: «que fluya el derecho como las aguas» (Am 5:21–24). El capítulo 6 amplía el indictamiento contra los «indolentes de Sion» que descansan en camas de marfil y beben vino en tazones mientras ignoran «el quebranto de José» (Am 6:1–7), anunciando el exilio de la nación entera «a la cabeza de los que van al cautiverio» (Am 6:7).",
+        "en": "Amos intones a funeral lament for «the virgin Israel», fallen with none to raise her up (Amos 5:1–2), and repeatedly calls to «seek the LORD and live» rather than the corrupt sanctuaries of Bethel, Gilgal, and Beersheba (Amos 5:4–6,14). The theological climax comes with the radical reinterpretation of the Day of the LORD — expected as light of national vindication but declared «darkness, and not light» for the impenitent (Amos 5:18–20) — and the explicit divine rejection of worship without justice: «let justice roll down like waters» (Amos 5:21–24). Chapter 6 broadens the indictment against the «complacent in Zion» who recline on beds of ivory and drink wine from bowls while ignoring «the ruin of Joseph» (Amos 6:1–7), announcing the exile of the entire nation «at the head of those who go into exile» (Amos 6:7).",
+        "pt": "Amós entoa um lamento fúnebre pela «virgem de Israel», caída e sem quem a levante (Am 5:1–2), e chama repetidamente a «buscar o Senhor e viver» em vez dos santuários corruptos de Betel, Gilgal e Berseba (Am 5:4–6,14). O clímax teológico chega com a reinterpretação radical do Dia do Senhor — esperado como luz de vindicação nacional, mas declarado «trevas, e não luz» para o impenitente (Am 5:18–20) — e a rejeição divina explícita do culto sem justiça: «corra o juízo como as águas» (Am 5:21–24). O capítulo 6 amplia a acusação contra os «indolentes de Sião» que descansam em camas de marfim e bebem vinho em taças enquanto ignoram «o quebrantamento de José» (Am 6:1–7), anunciando o exílio da nação inteira «à cabeça dos que vão para o cativeiro» (Am 6:7)."
+      },
+      "eventoClave": {
+        "es": "La reinterpretación del Día de Yahvéh como «tinieblas, y no luz» (Am 5:18–20) invierte la expectativa popular de vindicación automática en advertencia de juicio inminente.",
+        "en": "The reinterpretation of the Day of the LORD as «darkness, and not light» (Amos 5:18–20) inverts the popular expectation of automatic vindication into a warning of imminent judgment.",
+        "pt": "A reinterpretação do Dia do Senhor como «trevas, e não luz» (Am 5:18–20) inverte a expectativa popular de vindicação automática em advertência de julgamento iminente."
+      },
+      "versiculoClave": "Am 5:24",
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 7:42-43",
+          "tipo": "cita",
+          "nota": {
+            "es": "Esteban cita Am 5:25–27 en su discurso ante el Sanedrín para acusar a Israel de idolatría persistente desde el desierto hasta el exilio.",
+            "en": "Stephen cites Amos 5:25–27 in his speech before the Sanhedrin to charge Israel with persistent idolatry from the wilderness to the exile.",
+            "pt": "Estêvão cita Am 5:25–27 em seu discurso perante o Sinédrio para acusar Israel de idolatria persistente desde o deserto até o exílio."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "La reversión del «Día de Yahvéh» de luz esperada a tinieblas decretadas (Am 5:18–20) redefine radicalmente la escatología popular de Israel como juicio, no vindicación, para el impenitente.",
+            "en": "The reversal of the «Day of the LORD» from expected light to decreed darkness (Amos 5:18–20) radically redefines Israel's popular eschatology as judgment, not vindication, for the impenitent.",
+            "pt": "A reversão do «Dia do Senhor» de luz esperada para trevas decretadas (Am 5:18–20) redefine radicalmente a escatologia popular de Israel como julgamento, não vindicação, para o impenitente."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "El rechazo divino del culto en Betel, Gilgal y Beerseba (Am 5:5,21–23) junto con la denuncia de imágenes llevadas por el pueblo (Am 5:26) muestra la idolatría como raíz de la injusticia social.",
+              "en": "The divine rejection of worship at Bethel, Gilgal, and Beersheba (Amos 5:5,21–23) alongside the denunciation of images carried by the people (Amos 5:26) shows idolatry as the root of social injustice.",
+              "pt": "A rejeição divina do culto em Betel, Gilgal e Berseba (Am 5:5,21–23) junto com a denúncia de imagens carregadas pelo povo (Am 5:26) mostra a idolatria como raiz da injustiça social."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 7,
+      "rangoFin": 8,
+      "titulo": {
+        "es": "Visiones de juicio y confrontación en Betel",
+        "en": "Visions of Judgment and Confrontation at Bethel",
+        "pt": "Visões de Julgamento e Confronto em Betel"
+      },
+      "descripcion": {
+        "es": "Amós recibe cuatro visiones progresivas: langostas y fuego, detenidas por su intercesión eficaz («Señor Yahvéh, perdona te ruego», Am 7:2–3,5–6), y luego una plomada que ya no admite apelación («no volveré a pasarlo por alto», Am 7:7–9) y un canasto de fruta de verano que anuncia «el fin ha llegado para mi pueblo Israel» (Am 8:1–3). Entre la tercera y cuarta visión se inserta la narrativa biográfica de la confrontación en Betel: el sacerdote Amasías acusa a Amós de conspiración y le ordena huir a Judá, a lo que Amós responde defendiendo su llamado no profesional («Yahvéh me tomó de detrás del rebaño», Am 7:14–15) y pronunciando juicio personal sobre Amasías (Am 7:10–17). El capítulo 8 cierra con la denuncia de mercaderes que manipulan pesas y esperan el fin del sábado para explotar al necesitado (Am 8:4–6), y con la terrible profecía de una hambre no de pan sino de oír la palabra de Yahvéh (Am 8:11–14).",
+        "en": "Amos receives four progressive visions: locusts and fire, halted by his effective intercession («O Lord GOD, please forgive», Amos 7:2–3,5–6), then a plumb line that no longer admits appeal («I will never again pass by them», Amos 7:7–9) and a basket of summer fruit announcing «the end has come upon my people Israel» (Amos 8:1–3). Between the third and fourth visions is inserted the biographical narrative of the confrontation at Bethel: the priest Amaziah accuses Amos of conspiracy and orders him to flee to Judah, to which Amos responds defending his non-professional call («the LORD took me from following the flock», Amos 7:14–15) and pronouncing personal judgment on Amaziah (Amos 7:10–17). Chapter 8 closes with the denunciation of merchants who manipulate scales and wait for the Sabbath to end to exploit the needy (Amos 8:4–6), and with the terrible prophecy of a famine not of bread but of hearing the word of the LORD (Amos 8:11–14).",
+        "pt": "Amós recebe quatro visões progressivas: gafanhotos e fogo, detidas por sua intercessão eficaz («Senhor Deus, perdoa, peço-te», Am 7:2–3,5–6), e depois um prumo que já não admite apelação («nunca mais passarei por ele», Am 7:7–9) e um cesto de frutas de verão que anuncia «o fim chegou para o meu povo Israel» (Am 8:1–3). Entre a terceira e a quarta visão insere-se a narrativa biográfica do confronto em Betel: o sacerdote Amazias acusa Amós de conspiração e lhe ordena fugir para Judá, ao que Amós responde defendendo seu chamado não profissional («o Senhor me tirou de detrás do rebanho», Am 7:14–15) e pronunciando julgamento pessoal sobre Amazias (Am 7:10–17). O capítulo 8 encerra com a denúncia de mercadores que manipulam pesos e esperam o fim do sábado para explorar o necessitado (Am 8:4–6), e com a terrível profecia de uma fome não de pão, mas de ouvir a palavra do Senhor (Am 8:11–14)."
+      },
+      "eventoClave": {
+        "es": "La visión de la plomada (Am 7:7–9) marca el punto de no retorno: a diferencia de las visiones previas, este juicio ya no será detenido por la intercesión profética.",
+        "en": "The plumb line vision (Amos 7:7–9) marks the point of no return: unlike the previous visions, this judgment will no longer be halted by prophetic intercession.",
+        "pt": "A visão do prumo (Am 7:7–9) marca o ponto sem retorno: diferentemente das visões anteriores, este julgamento não será mais detido pela intercessão profética."
+      },
+      "versiculoClave": "Am 7:8",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Profeta/Profecía": {
+            "es": "La confrontación entre Amós y Amasías (Am 7:10–17) define la autoridad profética legítima frente a la institución religiosa corrupta, estableciendo que el llamado de Yahvéh, no el nombramiento humano, valida al verdadero profeta.",
+            "en": "The confrontation between Amos and Amaziah (Amos 7:10–17) defines legitimate prophetic authority against the corrupt religious institution, establishing that Yahweh's call, not human appointment, validates the true prophet.",
+            "pt": "O confronto entre Amós e Amazias (Am 7:10–17) define a autoridade profética legítima frente à instituição religiosa corrupta, estabelecendo que o chamado de Yahweh, não a nomeação humana, valida o verdadeiro profeta."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "La profecía de una hambre «no de pan... sino de oír las palabras de Yahvéh» (Am 8:11–12) presenta el silencio divino como el juicio más severo que puede sufrir un pueblo que rechazó su palabra.",
+              "en": "The prophecy of a famine «not of bread... but of hearing the words of the LORD» (Amos 8:11–12) presents divine silence as the most severe judgment a people that rejected his word can suffer.",
+              "pt": "A profecia de uma fome «não de pão... mas de ouvir as palavras do Senhor» (Am 8:11–12) apresenta o silêncio divino como o julgamento mais severo que um povo que rejeitou sua palavra pode sofrer."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 9,
+      "rangoFin": 9,
+      "titulo": {
+        "es": "Juicio junto al altar y restauración del tabernáculo de David",
+        "en": "Judgment at the Altar and the Restoration of David's Booth",
+        "pt": "Julgamento junto ao Altar e a Restauração do Tabernáculo de Davi"
+      },
+      "descripcion": {
+        "es": "La quinta y última visión muestra a Yahvéh de pie junto al altar ordenando destruir el santuario y no dejar sobreviviente que escape (Am 9:1–4), respaldada por otro himno al Creador soberano (Am 9:5–6). Am 9:7 relativiza la exclusividad étnica del favor divino al declarar que Yahvéh dirigió también las migraciones de filisteos y sirios, aunque promete no destruir «del todo la casa de Jacob» sino zarandearla «como se zarandea con criba» para eliminar solo a los pecadores impenitentes (Am 9:8–10). El libro se revierte abruptamente de la ruina a la esperanza: Yahvéh promete levantar «el tabernáculo caído de David» (Am 9:11–12), restaurar una fertilidad agrícola sobreabundante y edénica (Am 9:13), y replantar a su pueblo en su tierra «para nunca más ser arrancados» (Am 9:14–15), cerrando el libro con una nota de restauración irrevocable del pacto davídico.",
+        "en": "The fifth and final vision shows Yahweh standing beside the altar commanding the sanctuary's destruction with no survivor to escape (Amos 9:1–4), backed by another hymn to the sovereign Creator (Amos 9:5–6). Amos 9:7 relativizes the ethnic exclusivity of divine favor by declaring that Yahweh also directed the migrations of the Philistines and Syrians, though he promises not to «utterly destroy the house of Jacob» but to sift it «as grain is sifted in a sieve» to remove only the impenitent sinners (Amos 9:8–10). The book abruptly reverses from ruin to hope: Yahweh promises to raise up «the booth of David that is fallen» (Amos 9:11–12), restore an overabundant Edenic agricultural fertility (Amos 9:13), and replant his people in their land «never again to be uprooted» (Amos 9:14–15), closing the book on a note of irrevocable restoration of the Davidic covenant.",
+        "pt": "A quinta e última visão mostra Yahweh de pé junto ao altar ordenando a destruição do santuário e que nenhum sobrevivente escape (Am 9:1–4), respaldada por outro hino ao Criador soberano (Am 9:5–6). Am 9:7 relativiza a exclusividade étnica do favor divino ao declarar que Yahweh dirigiu também as migrações de filisteus e sírios, embora prometa não destruir «de todo a casa de Jacó», mas peneirá-la «como se peneira com peneira» para eliminar apenas os pecadores impenitentes (Am 9:8–10). O livro se reverte abruptamente da ruína à esperança: Yahweh promete levantar «o tabernáculo caído de Davi» (Am 9:11–12), restaurar uma fertilidade agrícola superabundante e edênica (Am 9:13), e replantar seu povo em sua terra «para nunca mais serem arrancados» (Am 9:14–15), encerrando o livro com uma nota de restauração irrevogável da aliança davídica."
+      },
+      "eventoClave": {
+        "es": "La reversión final de ruina a restauración —«levantaré el tabernáculo caído de David» (Am 9:11)— cierra el libro con la promesa irrevocable del pacto davídico extendida a las naciones.",
+        "en": "The final reversal from ruin to restoration — «I will raise up the booth of David that is fallen» (Amos 9:11) — closes the book with the irrevocable promise of the Davidic covenant extended to the nations.",
+        "pt": "A reversão final da ruína para a restauração — «levantarei o tabernáculo caído de Davi» (Am 9:11) — encerra o livro com a promessa irrevogável da aliança davídica estendida às nações."
+      },
+      "versiculoClave": "Am 9:11",
+      "era": "Anticipación Profética",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 15:16-17",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Santiago cita Am 9:11–12 en el concilio de Jerusalén para respaldar teológicamente la inclusión de los gentiles en la iglesia sin exigirles la circuncisión.",
+            "en": "James cites Amos 9:11–12 at the Jerusalem council to theologically support the inclusion of Gentiles in the church without requiring circumcision.",
+            "pt": "Tiago cita Am 9:11–12 no concílio de Jerusalém para respaldar teologicamente a inclusão dos gentios na igreja sem exigir a circuncisão."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Realeza/Trono de David": {
+            "es": "La promesa de levantar «el tabernáculo caído de David» y reedificarlo «como en los días de antaño» (Am 9:11) garantiza la continuidad del pacto davídico más allá del juicio nacional inminente.",
+            "en": "The promise to raise up «the booth of David that is fallen» and rebuild it «as in the days of old» (Amos 9:11) guarantees the continuity of the Davidic covenant beyond the imminent national judgment.",
+            "pt": "A promessa de levantar «o tabernáculo caído de Davi» e reedificá-lo «como nos dias antigos» (Am 9:11) garante a continuidade da aliança davídica além do julgamento nacional iminente."
+          }
+        },
+        "secundarios": [
+          {
+            "Remanente": {
+              "es": "La imagen de zarandear la casa de Jacob «como se zarandea con criba, sin que caiga a tierra ni una piedrecita» (Am 9:9) asegura que un remanente fiel sobrevivirá purificado del juicio.",
+              "en": "The image of sifting the house of Jacob «as grain is sifted in a sieve, but no pebble shall fall to the earth» (Amos 9:9) assures that a faithful remnant will survive, purified by the judgment.",
+              "pt": "A imagem de peneirar a casa de Jacó «como se peneira com peneira, sem que caia à terra nem uma pedrinha» (Am 9:9) assegura que um remanescente fiel sobreviverá purificado do julgamento."
+            }
+          },
+          {
+            "Creación/Nueva Creación": {
+              "es": "La fertilidad sobreabundante prometida —«el que ara alcanzará al segador»— (Am 9:13) anticipa una restauración edénica de la tierra tras el juicio.",
+              "en": "The promised overabundant fertility — «the plowman shall overtake the reaper» — (Amos 9:13) anticipates an Edenic restoration of the land after judgment.",
+              "pt": "A fertilidade superabundante prometida — «o que lavra alcançará o que sega» — (Am 9:13) antecipa uma restauração edênica da terra após o julgamento."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Crossway (ed. general Wayne Grudem, J.I. Packer)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Resumen de capítulos"
+        ],
+        "en": [
+          "Introduction",
+          "Historical context",
+          "Chapter summaries"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Resumo dos capítulos"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida bajo la dirección editorial de Wayne Grudem y J.I. Packer, esta Biblia de estudio reúne a decenas de eruditos evangélicos y reformados y es uno de los recursos de estudio bíblico más utilizados en el mundo protestante angloparlante.",
+          "en": "Produced under the editorial direction of Wayne Grudem and J.I. Packer, this study Bible brings together dozens of evangelical and Reformed scholars and is one of the most widely used Bible study resources in the English-speaking Protestant world.",
+          "pt": "Produzida sob a direção editorial de Wayne Grudem e J.I. Packer, esta Bíblia de estudo reúne dezenas de eruditos evangélicos e reformados e é um dos recursos de estudo bíblico mais utilizados no mundo protestante de língua inglesa."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos temáticos y teológicos, manteniendo consistentemente una perspectiva evangélica reformada de alta cristología y confianza en la inerrancia bíblica.",
+          "en": "Combines verse-by-verse exegetical notes with thematic and theological essays, consistently maintaining a Reformed evangelical perspective of high Christology and confidence in biblical inerrancy.",
+          "pt": "Combina notas exegéticas verso a verso com ensaios temáticos e teológicos, mantendo consistentemente uma perspectiva evangélica reformada de alta cristologia e confiança na inerrância bíblica."
+        },
+        "aportacion": {
+          "es": "Proporciona la estructura literaria e histórica base usada para organizar el contexto y los resúmenes de capítulos de Amós en este registro.",
+          "en": "Provides the base literary and historical structure used to organize Amos's context and chapter summaries in this record.",
+          "pt": "Proporciona a estrutura literária e histórica base usada para organizar o contexto e os resumos de capítulos de Amós neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "Systematic Theology (Grudem, 1994)",
+          "Knowing God (Packer, 1973)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Distintivas reformadas",
+          "Anclas confesionales",
+          "Teología sistemática"
+        ],
+        "en": [
+          "Reformed distinctives",
+          "Confessional anchors",
+          "Systematic theology"
+        ],
+        "pt": [
+          "Distintivas reformadas",
+          "Âncoras confessionais",
+          "Teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del resurgimiento calvinista del s. XX–XXI en Norteamérica.",
+          "en": "R.C. Sproul (1939–2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of the 20th–21st century Calvinist resurgence in North America.",
+          "pt": "R.C. Sproul (1939–2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do renascimento calvinista dos séc. XX–XXI na América do Norte."
+        },
+        "metodo": {
+          "es": "Su edición aplica de manera explícita la Confesión de Fe de Westminster como marco confesional a cada libro bíblico, señalando conexiones directas entre el texto y los capítulos de la Confesión.",
+          "en": "His edition explicitly applies the Westminster Confession of Faith as the confessional framework for every biblical book, marking direct connections between the text and the Confession's chapters.",
+          "pt": "Sua edição aplica de forma explícita a Confissão de Fé de Westminster como estrutura confessional para cada livro bíblico, assinalando conexões diretas entre o texto e os capítulos da Confissão."
+        },
+        "aportacion": {
+          "es": "Fuente primaria para vincular las doctrinas de Am 3:2, Am 5:24 y Am 9:11 con los capítulos correspondientes de la Confesión de Westminster.",
+          "en": "Primary source for linking the doctrines of Amos 3:2, Amos 5:24, and Amos 9:11 with the corresponding chapters of the Westminster Confession.",
+          "pt": "Fonte primária para vincular as doutrinas de Am 3:2, Am 5:24 e Am 9:11 com os capítulos correspondentes da Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-2015-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma (NBLA)",
+      "autor": "R.C. Sproul (ed. general, adaptación al español)",
+      "año": 2010,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto bíblico NBLA",
+          "Notas de estudio en español"
+        ],
+        "en": [
+          "NBLA biblical text",
+          "Spanish-language study notes"
+        ],
+        "pt": [
+          "Texto bíblico NBLA",
+          "Notas de estudo em espanhol"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por un equipo de teólogos hispanohablantes bajo la supervisión de Ligonier Ministries para llevar la teología reformada al mundo de habla hispana.",
+          "en": "Spanish-language adaptation of the Reformation Study Bible, produced by a team of Spanish-speaking theologians under Ligonier Ministries' supervision to bring Reformed theology to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida por uma equipe de teólogos hispanofalantes sob supervisão da Ligonier Ministries para levar a teologia reformada ao mundo de língua espanhola."
+        },
+        "metodo": {
+          "es": "Mantiene la fidelidad confesional reformada de la edición original en inglés, con notas adaptadas culturalmente y basadas en el texto de la NBLA.",
+          "en": "Maintains the Reformed confessional fidelity of the original English edition, with culturally adapted notes based on the NBLA text.",
+          "pt": "Mantém a fidelidade confessional reformada da edição original em inglês, com notas adaptadas culturalmente e baseadas no texto da NBLA."
+        },
+        "aportacion": {
+          "es": "Fuente del texto bíblico en español (NBLA) citado en los versículos clave de este registro.",
+          "en": "Source of the Spanish-language biblical text (NBLA) cited in this record's key verses.",
+          "pt": "Fonte do texto bíblico em espanhol (NBLA) citado nos versículos-chave deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2010)",
+          "La Santidad de Dios (trad. esp.)",
+          "Escogidos por Dios (trad. esp.)"
+        ],
+        "url": "https://es.ligonier.org/store/biblia-de-estudio-de-la-reforma"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Doctrina de la elección",
+          "Escatología"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Doctrine of election",
+          "Eschatology"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Doutrina da eleição",
+          "Escatologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo reformado, profesor emérito de teología y estudios bíblicos en el Phoenix Seminary, y uno de los sistematizadores evangélicos más influyentes de las últimas décadas.",
+          "en": "Wayne Grudem is a Reformed theologian, professor emeritus of theology and biblical studies at Phoenix Seminary, and one of the most influential evangelical systematizers of recent decades.",
+          "pt": "Wayne Grudem é teólogo reformado, professor emérito de teologia e estudos bíblicos no Phoenix Seminary, e um dos sistematizadores evangélicos mais influentes das últimas décadas."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana en categorías sistemáticas claras, apoyando cada afirmación con exégesis bíblica extensa y accesible al lector no especializado.",
+          "en": "Organizes Christian doctrine into clear systematic categories, supporting each claim with extensive biblical exegesis accessible to the non-specialist reader.",
+          "pt": "Organiza a doutrina cristã em categorias sistemáticas claras, apoiando cada afirmação com exegese bíblica extensa e acessível ao leitor não especializado."
+        },
+        "aportacion": {
+          "es": "Marco categorial usado para clasificar las doctrinas de Elección, Escatología y Providencia identificadas en el libro de Amós.",
+          "en": "Categorical framework used to classify the doctrines of Election, Eschatology, and Providence identified in the book of Amos.",
+          "pt": "Estrutura categórica usada para classificar as doutrinas de Eleição, Escatologia e Providência identificadas no livro de Amós."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Ethics (2018)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology of the Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Enfoque cristológico",
+          "Historia redentora",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Christological focus",
+          "Redemptive history",
+          "Types and shadows"
+        ],
+        "pt": [
+          "Enfoque cristológico",
+          "História redentora",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el primer profesor de teología bíblica en el Princeton Theological Seminary y es considerado el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862–1949) was the first professor of biblical theology at Princeton Theological Seminary and is considered the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862–1949) foi o primeiro professor de teologia bíblica no Princeton Theological Seminary e é considerado o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Rastrea el desarrollo progresivo de la revelación a través de la historia redentora, mostrando cómo cada época y libro bíblico anticipa y prepara la venida de Cristo.",
+          "en": "Traces the progressive development of revelation through redemptive history, showing how each biblical era and book anticipates and prepares for Christ's coming.",
+          "pt": "Rastreia o desenvolvimento progressivo da revelação através da história redentora, mostrando como cada época e livro bíblico antecipa e prepara a vinda de Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamenta el enfoque cristológico de la restauración del tabernáculo de David (Am 9:11–15) como anticipo del reino mesiánico inaugurado en Cristo.",
+          "en": "Grounds the christological focus of the restoration of David's booth (Amos 9:11–15) as an anticipation of the messianic kingdom inaugurated in Christ.",
+          "pt": "Fundamenta o enfoque cristológico da restauração do tabernáculo de Davi (Am 9:11–15) como antecipação do reino messiânico inaugurado em Cristo."
+        },
+        "obras": [
+          "Biblical Theology (1948)",
+          "The Pauline Eschatology (1930)",
+          "The Self-Disclosure of Jesus (1926)"
+        ],
+        "url": "https://www.monergism.com/geerhardus-vos"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Fuentes del antiguo Cercano Oriente"
+        ],
+        "en": [
+          "Historical context",
+          "Ancient Near Eastern sources"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Fontes do antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo cultural y literario del antiguo Cercano Oriente, con nombramientos en Wheaton College y otras instituciones evangélicas.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the cultural and literary background of the ancient Near East, holding appointments at Wheaton College and other evangelical institutions.",
+          "pt": "Walton, Matthews e Chavalas são eruditos veterotestamentários especializados no contexto cultural e literário do antigo Oriente Próximo, com cargos no Wheaton College e outras instituições evangélicas."
+        },
+        "metodo": {
+          "es": "Compara sistemáticamente cada pasaje bíblico con paralelos documentales y arqueológicos del ANE, iluminando el contexto sin comprometer la autoridad del texto bíblico.",
+          "en": "Systematically compares each biblical passage with documentary and archaeological parallels from the ANE, illuminating context without compromising the authority of the biblical text.",
+          "pt": "Compara sistematicamente cada passagem bíblica com paralelos documentais e arqueológicos do ANE, iluminando o contexto sem comprometer a autoridade do texto bíblico."
+        },
+        "aportacion": {
+          "es": "Provee el trasfondo de las prácticas de tratados y maldiciones internacionales del ANE que iluminan el género de los oráculos contra las naciones en Am 1–2.",
+          "en": "Provides the background of ANE international treaty and curse practices that illuminate the genre of the oracles against the nations in Amos 1–2.",
+          "pt": "Fornece o contexto das práticas de tratados e maldições internacionais do ANE que iluminam o gênero dos oráculos contra as nações em Am 1–2."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: OT (2000)",
+          "Ancient Near Eastern Thought and the Old Testament (Walton, 2006)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general Walter Kaiser Jr., Duane Garrett)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Contexto geográfico"
+        ],
+        "en": [
+          "Archaeology",
+          "Geographical context"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Contexto geográfico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Editada por Walter Kaiser Jr. y Duane Garrett, esta Biblia de estudio reúne evidencia arqueológica del antiguo Israel y su entorno para iluminar el trasfondo histórico de cada libro bíblico.",
+          "en": "Edited by Walter Kaiser Jr. and Duane Garrett, this study Bible gathers archaeological evidence of ancient Israel and its surroundings to illuminate each biblical book's historical background.",
+          "pt": "Editada por Walter Kaiser Jr. e Duane Garrett, esta Bíblia de estudo reúne evidência arqueológica do antigo Israel e seu entorno para iluminar o contexto histórico de cada livro bíblico."
+        },
+        "metodo": {
+          "es": "Presenta hallazgos arqueológicos específicos —inscripciones, artefactos, sitios excavados— junto al texto bíblico correspondiente, con evaluación crítica pero conservadora de su relevancia.",
+          "en": "Presents specific archaeological findings — inscriptions, artifacts, excavated sites — alongside the corresponding biblical text, with critical yet conservative evaluation of their relevance.",
+          "pt": "Apresenta achados arqueológicos específicos — inscrições, artefatos, sítios escavados — junto ao texto bíblico correspondente, com avaliação crítica mas conservadora de sua relevância."
+        },
+        "aportacion": {
+          "es": "Fuente de la evidencia de los marfiles de Samaria y la capa de destrucción por terremoto en Hazor citadas en el contexto histórico de Amós.",
+          "en": "Source of the evidence of the Samaria ivories and the earthquake destruction layer at Hazor cited in Amos's historical context.",
+          "pt": "Fonte da evidência dos marfins de Samaria e da camada de destruição por terremoto em Hazor citadas no contexto histórico de Amós."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)",
+          "A History of Israel (Kaiser, 1998)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.9,
+    "camposMarcados": [
+      {
+        "campo": "historiaRedentora.contextoPacto",
+        "razon": "Amós opera principalmente como pleito bajo el pacto mosaico (bendición-maldición), aunque la promesa final de restauración del tabernáculo de David (Am 9:11) introduce un horizonte davídico; se optó por 'Mosaico' como marco dominante del libro.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-04T00:00:00Z"
+      },
+      {
+        "campo": "personajes[Amasías].biografiaHistorica.nivelEvidencia",
+        "razon": "No existe atestación extrabíblica independiente del nombre de Amasías; su cargo sacerdotal en Betel se infiere del sistema institucional descrito en 1 Reyes 12, de ahí el nivel 'bajo'.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-04T00:00:00Z"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "La fecha exacta del terremoto de Am 1:1 se apoya en evidencia arqueológica de Hazor combinada con la referencia posterior de Zac 14:5; se documentaron ambas líneas de evidencia sin pretender precisión absoluta.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-04T00:00:00Z"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-04T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "teólogo",
+      "fechaRevision": "2026-08-04T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-04T00:00:00Z",
+          "fechaFin": "2026-08-04T00:05:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-04T00:05:00Z",
+          "fechaFin": "2026-08-04T00:15:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-04T00:15:00Z",
+          "fechaFin": "2026-08-04T01:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-04T01:00:00Z",
+          "fechaFin": "2026-08-04T01:10:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": true,
+          "fechaInicio": "2026-08-04T01:10:00Z",
+          "fechaFin": "2026-08-04T01:15:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
