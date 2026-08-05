@@ -1253,7 +1253,8 @@
       "ordenCanon": 31,
       "capitulosTotal": 1,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "abdias.json",
       "razon": {
         "es": "El libro más breve del AT, un oráculo de juicio contra Edom por su traición fraternal hacia Judá en el día de su calamidad.",
         "en": "The shortest book in the OT, an oracle of judgment against Edom for its fraternal betrayal of Judah on the day of her calamity.",
@@ -1273,7 +1274,8 @@
       "ordenCanon": 32,
       "capitulosTotal": 4,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "jonas.json",
       "razon": {
         "es": "Un profeta reticente enviado a Nínive, la capital enemiga, revelando que la misericordia de Dios no se limita a Israel sino que alcanza a las naciones.",
         "en": "A reluctant prophet sent to Nineveh, the enemy capital, revealing that God's mercy is not limited to Israel but reaches to the nations.",

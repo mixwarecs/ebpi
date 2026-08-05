@@ -3648,5 +3648,89 @@
       "en": "OPPOSING PRIEST",
       "pt": "SACERDOTE OPOSITOR"
     }
+  },
+  "Edom (Esaú)": {
+    "id": "edom-esau",
+    "color": "#8B2A2A",
+    "init": "אד",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "NACIÓN JUZGADA",
+      "en": "JUDGED NATION",
+      "pt": "NAÇÃO JULGADA"
+    }
+  },
+  "Jacob (Judá)": {
+    "id": "jacob-juda",
+    "color": "#1B6B8B",
+    "init": "יע",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "HERMANO TRAICIONADO",
+      "en": "BETRAYED BROTHER",
+      "pt": "IRMÃO TRAÍDO"
+    }
+  },
+  "Abdías": {
+    "id": "abdias-profeta",
+    "color": "#5A4A8B",
+    "init": "עב",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA DE EDOM",
+      "en": "PROPHET TO EDOM",
+      "pt": "PROFETA A EDOM"
+    }
+  },
+  "Jonás": {
+    "id": "jonas-profeta",
+    "color": "#6B4A2A",
+    "init": "יו",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA RETICENTE",
+      "en": "RELUCTANT PROPHET",
+      "pt": "PROFETA RELUTANTE"
+    }
+  },
+  "Los marineros": {
+    "id": "marineros-jonas",
+    "color": "#2A6B8B",
+    "init": "מל",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "GENTILES TEMEROSOS",
+      "en": "GOD-FEARING GENTILES",
+      "pt": "GENTIOS TEMENTES"
+    }
+  },
+  "El rey de Nínive": {
+    "id": "rey-ninive",
+    "color": "#8B6A1B",
+    "init": "מנ",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "REY ARREPENTIDO",
+      "en": "REPENTANT KING",
+      "pt": "REI ARREPENDIDO"
+    }
+  },
+  "Nínive": {
+    "id": "ninive-ciudad",
+    "color": "#8B2A2A",
+    "init": "ני",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "CIUDAD PERDONADA",
+      "en": "CITY SPARED",
+      "pt": "CIDADE POUPADA"
+    }
   }
 }

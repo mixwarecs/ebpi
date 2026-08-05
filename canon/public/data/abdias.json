@@ -1,0 +1,1643 @@
+{
+  "id": 31,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Abdías",
+    "en": "Obadiah",
+    "pt": "Obadias"
+  },
+  "tituloOriginal": "עֹבַדְיָה",
+  "transliteracion": "ʿŌvadyāh",
+  "significado": {
+    "es": "Siervo de YHWH / Adorador de Yahvéh",
+    "en": "Servant of YHWH / Worshiper of Yahweh",
+    "pt": "Servo de YHWH / Adorador de Javé"
+  },
+  "resumenGeneral": {
+    "es": "Abdías abre con un oráculo de juicio contra Edom, condenando el orgullo de una nación que se creía inexpugnable en las alturas de Sela (Abd 1-4). El oráculo se intensifica al detallar el crimen específico de Edom: haberse quedado de brazos cruzados —y hasta haber colaborado— mientras extraños saqueaban Jerusalén y echaban suertes sobre ella, traicionando así el vínculo de hermandad con Jacob (Abd 10-14). En el punto de giro del libro, el juicio particular contra Edom se universaliza en «el día del SEÑOR sobre todas las naciones» (Abd 15), donde la ley de retribución del pacto —«como hiciste, se hará contigo»— gobierna la historia entera. El breve oráculo cierra no en destrucción sino en restauración: los libertados en el monte Sion juzgarán el monte de Esaú, y «el reino será del SEÑOR» (Abd 17-21).",
+    "en": "Obadiah opens with a judgment oracle against Edom, condemning the pride of a nation that believed itself unreachable in the heights of Sela (Obad 1-4). The oracle intensifies as it details Edom's specific crime — standing aloof, and even colluding, while strangers plundered Jerusalem and cast lots over it, betraying the brotherhood bond with Jacob (Obad 10-14). At the book's turning point, the particular judgment on Edom is universalized into \"the day of the LORD... upon all the nations\" (Obad 15), where the covenant law of retribution — \"as you have done, it shall be done to you\" — governs all of history. The brief oracle closes not in destruction but in restoration: those delivered on Mount Zion will judge the mountain of Esau, and \"the kingdom shall be the LORD's\" (Obad 17-21).",
+    "pt": "Obadias abre com um oráculo de julgamento contra Edom, condenando o orgulho de uma nação que se acreditava inatingível nas alturas de Selá (Abd 1-4). O oráculo se intensifica ao detalhar o crime específico de Edom: ter permanecido indiferente — e até ter colaborado — enquanto estranhos saqueavam Jerusalém e lançavam sortes sobre ela, traindo assim o vínculo de irmandade com Jacó (Abd 10-14). No ponto de virada do livro, o julgamento particular contra Edom se universaliza em «o dia do SENHOR sobre todas as nações» (Abd 15), onde a lei de retribuição do pacto — «como fizeste se fará contigo» — governa toda a história. O breve oráculo se encerra não em destruição, mas em restauração: os libertos no monte Sião julgarão o monte de Esaú, e «o reino será do SENHOR» (Abd 17-21)."
+  },
+  "capitulosTotal": 1,
+  "autor": {
+    "nombre": {
+      "es": "Abdías",
+      "en": "Obadiah",
+      "pt": "Obadias"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "Sobre el profeta mismo casi nada se sabe fuera de su nombre; el Antiguo Testamento menciona a varios hombres llamados Abdías (p.ej. 1R 18:3-16; 1Cr 3:21), pero ninguno se identifica explícitamente con el autor de este libro. La tradición conservadora sostiene la autoría de un profeta individual llamado Abdías, cuyo nombre —«siervo/adorador de YHWH»— resume apropiadamente el mensaje del libro sobre la soberanía del SEÑOR.",
+      "en": "Almost nothing is known about the prophet himself beyond his name; the Old Testament mentions several men named Obadiah (e.g. 1Kgs 18:3-16; 1Chr 3:21), but none is explicitly identified as this book's author. The conservative tradition holds to authorship by a single prophet named Obadiah, whose name — \"servant/worshiper of YHWH\" — fittingly summarizes the book's message about the LORD's sovereignty.",
+      "pt": "Quase nada se sabe sobre o próprio profeta além de seu nome; o Antigo Testamento menciona vários homens chamados Obadias (p.ex. 1Rs 18:3-16; 1Cr 3:21), mas nenhum é identificado explicitamente como o autor deste livro. A tradição conservadora sustenta a autoria de um único profeta chamado Obadias, cujo nome — «servo/adorador de YHWH» — resume apropriadamente a mensagem do livro sobre a soberania do SENHOR."
+    }
+  },
+  "año": {
+    "desde": -586,
+    "hasta": -550,
+    "display": {
+      "es": "Fecha de escritura: c. 586-550 a.C., poco después de la caída de Jerusalén ante Babilonia",
+      "en": "Date of writing: c. 586-550 BC, shortly after the fall of Jerusalem to Babylon",
+      "pt": "Data de escrita: c. 586-550 a.C., pouco depois da queda de Jerusalém para a Babilônia"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Judá, posiblemente entre los sobrevivientes de la caída de Jerusalén o en los primeros años del exilio",
+    "en": "Judah, possibly among the survivors of Jerusalem's fall or in the early years of the exile",
+    "pt": "Judá, possivelmente entre os sobreviventes da queda de Jerusalém ou nos primeiros anos do exílio"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron Age II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Sela (Monte Seir)",
+          "en": "Sela (Mount Seir)",
+          "pt": "Selá (Monte Seir)"
+        },
+        "identificacionModerna": {
+          "es": "Comúnmente identificada con la región de Petra, en el sur de la actual Jordania",
+          "en": "Commonly identified with the region of Petra, in southern modern-day Jordan",
+          "pt": "Comumente identificada com a região de Petra, no sul da atual Jordânia"
+        },
+        "significancia": {
+          "es": "Fortaleza natural de Edom, tallada en las hendiduras de la peña (Abd 3), símbolo de la falsa seguridad de una nación que se creía inaccesible al juicio divino.",
+          "en": "Edom's natural fortress, carved into the clefts of the rock (Obad 3), a symbol of the false security of a nation that believed itself inaccessible to divine judgment.",
+          "pt": "Fortaleza natural de Edom, esculpida nas fendas da rocha (Abd 3), símbolo da falsa segurança de uma nação que se acreditava inacessível ao juízo divino."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Jerusalén, en la actual Israel/Cisjordania",
+          "en": "Jerusalem, in modern-day Israel/West Bank",
+          "pt": "Jerusalém, no atual Israel/Cisjordânia"
+        },
+        "significancia": {
+          "es": "La ciudad santa cuya caída ante Babilonia en 586 a.C. Edom celebró y de cuyo despojo se aprovechó, el crimen central que el oráculo condena (Abd 11-14).",
+          "en": "The holy city whose fall to Babylon in 586 BC Edom celebrated and whose plunder it exploited, the central crime the oracle condemns (Obad 11-14).",
+          "pt": "A cidade santa cuja queda diante da Babilônia em 586 a.C. Edom celebrou e cujo despojo aproveitou, o crime central que o oráculo condena (Abd 11-14)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Temán",
+          "en": "Teman",
+          "pt": "Temã"
+        },
+        "identificacionModerna": {
+          "es": "Región del sur de Edom, posiblemente cerca de la actual Tawilan, Jordania, célebre por su sabiduría (cf. Jer 49:7)",
+          "en": "A region of southern Edom, possibly near modern Tawilan, Jordan, famed for its wisdom (cf. Jer 49:7)",
+          "pt": "Região do sul de Edom, possivelmente perto da atual Tawilan, Jordânia, célebre por sua sabedoria (cf. Jr 49:7)"
+        },
+        "significancia": {
+          "es": "Representaba el orgullo intelectual de Edom; su sabiduría proverbial no podrá salvarla del juicio divino (Abd 8-9).",
+          "en": "Represented Edom's intellectual pride; its proverbial wisdom would not be able to save it from divine judgment (Obad 8-9).",
+          "pt": "Representava o orgulho intelectual de Edom; sua sabedoria proverbial não poderá salvá-la do juízo divino (Abd 8-9)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Sefarad",
+          "en": "Sepharad",
+          "pt": "Sefarade"
+        },
+        "identificacionModerna": {
+          "es": "Ubicación incierta; tradicionalmente asociada con Sardis en Asia Menor, aunque algunos la vinculan con otras regiones de la diáspora",
+          "en": "Uncertain location; traditionally associated with Sardis in Asia Minor, though some link it to other diaspora regions",
+          "pt": "Localização incerta; tradicionalmente associada a Sardes, na Ásia Menor, embora alguns a vinculem a outras regiões da diáspora"
+        },
+        "significancia": {
+          "es": "Lugar mencionado como sitio del exilio de Jerusalén (Abd 20), evidencia de la dispersión ya extendida del pueblo de Judá tras la caída de la ciudad.",
+          "en": "A place named as a site of Jerusalem's exile (Obad 20), evidence of the already extensive dispersion of Judah's people after the city's fall.",
+          "pt": "Local mencionado como sítio do exílio de Jerusalém (Abd 20), evidência da dispersão já ampla do povo de Judá após a queda da cidade."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Edomitas",
+          "en": "Edomites",
+          "pt": "Edomitas"
+        },
+        "rolEnElTexto": {
+          "es": "Nación descendiente de Esaú, blanco central del oráculo de juicio por su orgullo, violencia y traición contra su pariente Jacob (Abd 1-14)",
+          "en": "Nation descended from Esau, the central target of the judgment oracle for its pride, violence, and betrayal of its kinsman Jacob (Obad 1-14)",
+          "pt": "Nação descendente de Esaú, alvo central do oráculo de julgamento por seu orgulho, violência e traição contra seu parente Jacó (Abd 1-14)"
+        },
+        "estadoArqueologico": {
+          "es": "Bien atestiguada en excavaciones en Buseirah (antigua Bosra) y Umm al-Biyara (Petra), con evidencia de un reino organizado durante los siglos VIII-VI a.C.",
+          "en": "Well attested in excavations at Buseirah (ancient Bozrah) and Umm al-Biyara (Petra), with evidence of an organized kingdom during the 8th-6th centuries BC",
+          "pt": "Bem atestada em escavações em Buseirah (antiga Bosra) e Umm al-Biyara (Petra), com evidências de um reino organizado durante os séculos VIII-VI a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Babilonios",
+          "en": "Babylonians",
+          "pt": "Babilônios"
+        },
+        "rolEnElTexto": {
+          "es": "Los «extraños» y «extranjeros» que saquearon Jerusalén (Abd 11), identificados históricamente con el ejército de Nabucodonosor II que destruyó la ciudad en 586 a.C.",
+          "en": "The \"strangers\" and \"foreigners\" who plundered Jerusalem (Obad 11), historically identified with the army of Nebuchadnezzar II that destroyed the city in 586 BC",
+          "pt": "Os «estranhos» e «estrangeiros» que saquearam Jerusalém (Abd 11), identificados historicamente com o exército de Nabucodonosor II que destruiu a cidade em 586 a.C."
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentados en las crónicas babilónicas y en los estratos de destrucción arqueológicos de Jerusalén fechados en 586 a.C.",
+          "en": "Extensively documented in the Babylonian Chronicles and in the archaeological destruction strata of Jerusalem dated to 586 BC",
+          "pt": "Amplamente documentados nas crônicas babilônicas e nos estratos de destruição arqueológicos de Jerusalém datados de 586 a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judá (casa de Jacob)",
+          "en": "Judah (house of Jacob)",
+          "pt": "Judá (casa de Jacó)"
+        },
+        "rolEnElTexto": {
+          "es": "El pueblo hermano de Edom, víctima del saqueo y la traición denunciados en el oráculo, y receptor final de la promesa de restauración (Abd 17-21)",
+          "en": "Edom's kindred people, victim of the plunder and betrayal denounced in the oracle, and the final recipient of the promise of restoration (Obad 17-21)",
+          "pt": "O povo irmão de Edom, vítima do saque e da traição denunciados no oráculo, e destinatário final da promessa de restauração (Abd 17-21)"
+        },
+        "estadoArqueologico": {
+          "es": "Los estratos de destrucción de 586 a.C. en Jerusalén y otras ciudades de Judá confirman la catástrofe presupuesta por todo el libro",
+          "en": "The 586 BC destruction strata in Jerusalem and other cities of Judah confirm the catastrophe presupposed throughout the book",
+          "pt": "Os estratos de destruição de 586 a.C. em Jerusalém e outras cidades de Judá confirmam a catástrofe pressuposta por todo o livro"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones en Buseirah (Bosra) y Tawilan en territorio edomita confirman un reino edomita organizado durante los siglos VIII-VI a.C., con fortificaciones y santuarios propios, consistente con la imagen bíblica de una nación orgullosa de su seguridad geográfica. Ostraca hallados en Arad y Horvat 'Uza, cerca de la frontera sur de Judá, registran tensión e incursiones edomitas contra Judá en los años inmediatamente anteriores y posteriores a la caída de Jerusalén, corroborando el contexto de hostilidad fronteriza que subyace al oráculo. La arqueología no puede confirmar directamente los actos específicos narrados en Abd 11-14, pero el marco geopolítico general —debilitamiento de Judá, fortalecimiento relativo de Edom— es coherente con los datos materiales disponibles.",
+      "en": "Excavations at Buseirah (Bozrah) and Tawilan in Edomite territory confirm an organized Edomite kingdom during the 8th-6th centuries BC, with its own fortifications and shrines, consistent with the biblical picture of a nation proud of its geographic security. Ostraca found at Arad and Horvat 'Uza, near Judah's southern border, record tension and Edomite incursions against Judah in the years immediately before and after Jerusalem's fall, corroborating the border hostility that underlies the oracle. Archaeology cannot directly confirm the specific acts narrated in Obad 11-14, but the general geopolitical framework — a weakened Judah, a relatively strengthened Edom — is consistent with the available material data.",
+      "pt": "As escavações em Buseirah (Bosra) e Tawilan em território edomita confirmam um reino edomita organizado durante os séculos VIII-VI a.C., com fortificações e santuários próprios, consistente com a imagem bíblica de uma nação orgulhosa de sua segurança geográfica. Óstracas encontradas em Arad e Horvat 'Uza, perto da fronteira sul de Judá, registram tensão e incursões edomitas contra Judá nos anos imediatamente anteriores e posteriores à queda de Jerusalém, corroborando o contexto de hostilidade fronteiriça subjacente ao oráculo. A arqueologia não pode confirmar diretamente os atos específicos narrados em Abd 11-14, mas o quadro geopolítico geral — enfraquecimento de Judá, fortalecimento relativo de Edom — é coerente com os dados materiais disponíveis."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Ostraca de Arad y Horvat 'Uza",
+          "en": "Arad and Horvat 'Uza Ostraca",
+          "pt": "Óstracas de Arad e Horvat 'Uza"
+        },
+        "origen": {
+          "es": "Textos administrativos y militares hebreos hallados en fortalezas del Néguev, fechados en los últimos años del reino de Judá",
+          "en": "Hebrew administrative and military texts found at Negev fortresses, dated to the final years of the kingdom of Judah",
+          "pt": "Textos administrativos e militares hebraicos encontrados em fortalezas do Neguebe, datados dos últimos anos do reino de Judá"
+        },
+        "relevancia": {
+          "es": "Documentan la presión e incursiones edomitas contra el territorio judaíta poco antes y después de 586 a.C., el trasfondo histórico inmediato del conflicto que denuncia Abdías",
+          "en": "Document Edomite pressure and incursions against Judahite territory shortly before and after 586 BC, the immediate historical backdrop of the conflict Obadiah denounces",
+          "pt": "Documentam a pressão e incursões edomitas contra o território judaíta pouco antes e depois de 586 a.C., o pano de fundo histórico imediato do conflito que Obadias denuncia"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Crónicas babilónicas",
+          "en": "Babylonian Chronicles",
+          "pt": "Crônicas babilônicas"
+        },
+        "origen": {
+          "es": "Registros oficiales neobabilónicos que documentan las campañas militares de Nabucodonosor II contra Judá y sus vecinos",
+          "en": "Official Neo-Babylonian records documenting Nebuchadnezzar II's military campaigns against Judah and its neighbors",
+          "pt": "Registros oficiais neobabilônicos que documentam as campanhas militares de Nabucodonosor II contra Judá e seus vizinhos"
+        },
+        "relevancia": {
+          "es": "Confirman la campaña babilónica contra Jerusalén en 597 y 586 a.C., el trasfondo histórico del saqueo que Edom aprovechó según Abd 11-14",
+          "en": "Confirm the Babylonian campaign against Jerusalem in 597 and 586 BC, the historical backdrop of the plunder Edom exploited according to Obad 11-14",
+          "pt": "Confirmam a campanha babilônica contra Jerusalém em 597 e 586 a.C., o pano de fundo histórico do saque que Edom aproveitou segundo Abd 11-14"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La fecha de composición de Abdías es objeto de debate. Una minoría de intérpretes —apoyándose en la ausencia de referencia explícita a Babilonia y en un posible paralelo con la incursión filistea-árabe contra Jerusalén bajo el rey Joram (2Cr 21:16-17)— propone una fecha temprana, en el siglo IX a.C. La posición mayoritaria, incluida la mayoría de eruditos reformados y evangélicos conservadores, sitúa el libro poco después de la caída de Jerusalén en 586 a.C., pues el lenguaje de Abd 11-14 —«el día de su ruina», extraños que entraron por sus puertas y echaron suertes sobre Jerusalén— encaja mejor con la destrucción babilónica que con una incursión menor. Una segunda controversia literaria concierne la relación entre Abd 1-9 y Jer 49:7-22, casi idénticos en varios versículos; la tradición conservadora sostiene que ambos profetas pudieron depender de un oráculo profético común más antiguo, o que Jeremías incorporó y desarrolló bajo inspiración divina el oráculo de Abdías, sin que esto comprometa la autoría ni la inspiración de ninguno de los dos libros.",
+      "en": "The date of Obadiah's composition is debated. A minority of interpreters — appealing to the absence of an explicit reference to Babylon and a possible parallel with the Philistine-Arab incursion against Jerusalem under King Jehoram (2Chr 21:16-17) — propose an early date, in the 9th century BC. The majority position, including most Reformed and conservative evangelical scholars, places the book shortly after Jerusalem's fall in 586 BC, since the language of Obad 11-14 — \"the day of his ruin,\" strangers entering his gates and casting lots over Jerusalem — fits the Babylonian destruction better than a lesser incursion. A second, literary controversy concerns the relationship between Obad 1-9 and Jer 49:7-22, nearly identical in several verses; the conservative tradition holds that both prophets may have drawn on a common older prophetic oracle, or that Jeremiah incorporated and developed Obadiah's oracle under divine inspiration, without this compromising the authorship or inspiration of either book.",
+      "pt": "A data de composição de Obadias é objeto de debate. Uma minoria de intérpretes — apoiando-se na ausência de referência explícita à Babilônia e em um possível paralelo com a incursão filisteu-árabe contra Jerusalém sob o rei Jeorão (2Cr 21:16-17) — propõe uma data antiga, no século IX a.C. A posição majoritária, incluindo a maioria dos eruditos reformados e evangélicos conservadores, situa o livro pouco depois da queda de Jerusalém em 586 a.C., pois a linguagem de Abd 11-14 — «o dia de sua ruína», estranhos que entraram por suas portas e lançaram sortes sobre Jerusalém — encaixa-se melhor com a destruição babilônica do que com uma incursão menor. Uma segunda controvérsia literária diz respeito à relação entre Abd 1-9 e Jr 49:7-22, quase idênticos em vários versículos; a tradição conservadora sustenta que ambos os profetas podem ter dependido de um oráculo profético comum mais antigo, ou que Jeremias incorporou e desenvolveu sob inspiração divina o oráculo de Obadias, sem que isso comprometa a autoria nem a inspiração de nenhum dos dois livros."
+    },
+    "cronologiaInterna": {
+      "es": "El libro no incluye fórmulas de fecha regnal como otros profetas; presenta una sola visión (Abd 1) que presupone como acontecimiento ya ocurrido o en curso la caída de Jerusalén y el saqueo por extraños (Abd 11-14), y anuncia como futuro tanto el juicio final sobre Edom como el «día del SEÑOR» escatológico sobre todas las naciones (Abd 15-21).",
+      "en": "The book includes no regnal date formulas as other prophets do; it presents a single vision (Obad 1) that presupposes the fall of Jerusalem and the plundering by strangers (Obad 11-14) as an event already occurring or completed, and announces as future both the final judgment on Edom and the eschatological \"day of the LORD\" over all the nations (Obad 15-21).",
+      "pt": "O livro não inclui fórmulas de data regnal como outros profetas; apresenta uma única visão (Abd 1) que pressupõe como acontecimento já ocorrido ou em curso a queda de Jerusalém e o saque por estranhos (Abd 11-14), e anuncia como futuro tanto o julgamento final sobre Edom quanto o «dia do SENHOR» escatológico sobre todas as nações (Abd 15-21)."
+    }
+  },
+  "ordenEnDivision": 4,
+  "ordenCanon": 31,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Abrahánico",
+    "enfoqueCristologico": {
+      "es": "Abdías anticipa a Cristo principalmente en su visión escatológica de un reino que finalmente «será del SEÑOR» (Abd 21), un anhelo que el Nuevo Testamento revela cumplido en el reino inaugurado por Jesucristo (Mr 1:15; Ap 11:15) y consumado en su regreso. Los «libertadores» que suben al monte Sion para juzgar el monte de Esaú (Abd 21) prefiguran a Cristo mismo, el Salvador definitivo que ejecuta el juicio final sobre todo poder rebelde y establece su reino eterno.",
+      "en": "Obadiah anticipates Christ chiefly in its eschatological vision of a kingdom that will finally \"be the LORD's\" (Obad 21), a longing the New Testament reveals fulfilled in the kingdom inaugurated by Jesus Christ (Mark 1:15; Rev 11:15) and consummated at his return. The \"saviors\" who go up to Mount Zion to rule Mount Esau (Obad 21) prefigure Christ himself, the ultimate Savior who executes final judgment on every rebellious power and establishes his eternal kingdom.",
+      "pt": "Obadias antecipa a Cristo principalmente em sua visão escatológica de um reino que finalmente «será do SENHOR» (Abd 21), um anseio que o Novo Testamento revela cumprido no reino inaugurado por Jesus Cristo (Mc 1:15; Ap 11:15) e consumado em sua volta. Os «salvadores» que sobem ao monte Sião para julgar o monte de Esaú (Abd 21) prefiguram o próprio Cristo, o Salvador definitivo que executa o juízo final sobre todo poder rebelde e estabelece seu reino eterno."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El conflicto entre Jacob y Esaú, presente desde el vientre (Gn 25:23), se resuelve escatológicamente cuando la casa de Jacob «poseerá sus posesiones» (Abd 17), anticipando la victoria final del verdadero Israel en Cristo sobre todo enemigo (Ro 9:10-13; Gá 6:16).",
+        "en": "The conflict between Jacob and Esau, present from the womb (Gen 25:23), is resolved eschatologically when the house of Jacob \"shall possess their own possessions\" (Obad 17), anticipating the final victory of the true Israel in Christ over every enemy (Rom 9:10-13; Gal 6:16).",
+        "pt": "O conflito entre Jacó e Esaú, presente desde o ventre (Gn 25:23), resolve-se escatologicamente quando a casa de Jacó «possuirá as suas possessões» (Abd 17), antecipando a vitória final do verdadeiro Israel em Cristo sobre todo inimigo (Rm 9:10-13; Gl 6:16)."
+      },
+      {
+        "es": "Los «libertadores» (mosiim) que suben al monte Sion a juzgar (Abd 21) son un tipo del Salvador definitivo, Jesucristo, quien ejerce el juicio final y establece el reino que «será del SEÑOR» (Jn 5:22; Ap 11:15).",
+        "en": "The \"saviors\" who go up to Mount Zion to rule (Obad 21) are a type of the ultimate Savior, Jesus Christ, who exercises final judgment and establishes the kingdom that \"shall be the LORD's\" (John 5:22; Rev 11:15).",
+        "pt": "Os «salvadores» que sobem ao monte Sião para julgar (Abd 21) são um tipo do Salvador definitivo, Jesus Cristo, que exerce o juízo final e estabelece o reino que «será do SENHOR» (Jo 5:22; Ap 11:15)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Abdías es el libro más corto del Antiguo Testamento, y su contribución exclusiva al canon es el oráculo de juicio más extenso y concentrado contra Edom, la nación «hermana» de Israel por descender de Esaú. Ningún otro libro desarrolla con tanto detalle el principio de retribución del pacto abrahámico —«malditos los que te maldigan» (Gn 27:29)— aplicado a una nación específica, ni articula de forma tan compacta el movimiento de un juicio particular (contra Edom) hacia el «día del SEÑOR» universal y la afirmación culminante de que «el reino será del SEÑOR» (Abd 21), fórmula que no aparece en ningún otro libro profético con esa formulación exacta.",
+    "en": "Obadiah is the shortest book of the Old Testament, and its exclusive contribution to the canon is the longest, most concentrated judgment oracle against Edom, Israel's \"brother\" nation by descent from Esau. No other book develops in such detail the retributive principle of the Abrahamic covenant — \"cursed be everyone who curses you\" (Gen 27:29) — applied to a specific nation, nor articulates so compactly the movement from a particular judgment (on Edom) to the universal \"day of the LORD\" and the climactic affirmation that \"the kingdom shall be the LORD's\" (Obad 21), a formula that appears in no other prophetic book with that exact wording.",
+    "pt": "Obadias é o livro mais curto do Antigo Testamento, e sua contribuição exclusiva ao cânon é o oráculo de julgamento mais extenso e concentrado contra Edom, a nação «irmã» de Israel por descender de Esaú. Nenhum outro livro desenvolve com tanto detalhe o princípio de retribuição do pacto abraâmico — «malditos os que te amaldiçoarem» (Gn 27:29) — aplicado a uma nação específica, nem articula de forma tão compacta o movimento de um julgamento particular (contra Edom) rumo ao «dia do SENHOR» universal e à afirmação culminante de que «o reino será do SENHOR» (Abd 21), fórmula que não aparece em nenhum outro livro profético com essa formulação exata."
+  },
+  "genero": {
+    "es": "Profecía — oráculo de juicio contra una nación extranjera (oráculo contra las naciones)",
+    "en": "Prophecy — judgment oracle against a foreign nation (oracle against the nations)",
+    "pt": "Profecia — oráculo de julgamento contra uma nação estrangeira (oráculo contra as nações)"
+  },
+  "palabraClave": {
+    "es": [
+      "Orgullo",
+      "Juicio de Edom",
+      "Día del SEÑOR",
+      "Hermandad traicionada",
+      "Reino de Dios"
+    ],
+    "en": [
+      "Pride",
+      "Edom's judgment",
+      "Day of the LORD",
+      "Betrayed brotherhood",
+      "Kingdom of God"
+    ],
+    "pt": [
+      "Orgulho",
+      "Julgamento de Edom",
+      "Dia do SENHOR",
+      "Irmandade traída",
+      "Reino de Deus"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo de Judá, sobreviviente o exiliado tras la caída de Jerusalén en 586 a.C., que necesitaba oír que la traición de su pariente Edom no quedaría impune y que el SEÑOR restauraría su reino",
+    "en": "The people of Judah, survivors or exiles after the fall of Jerusalem in 586 BC, who needed to hear that their kinsman Edom's betrayal would not go unpunished and that the LORD would restore his kingdom",
+    "pt": "O povo de Judá, sobrevivente ou exilado após a queda de Jerusalém em 586 a.C., que precisava ouvir que a traição de seu parente Edom não ficaria impune e que o SENHOR restauraria seu reino"
+  },
+  "proposito": {
+    "es": "Históricamente, Abdías anuncia el juicio inminente de Dios sobre Edom por su orgullo, violencia y complicidad en el saqueo de Jerusalén, ofreciendo consuelo judicial a un Judá devastado. Teológicamente, el libro enseña que el pacto abrahámico —«bendeciré a los que te bendigan, y maldeciré a los que te maldigan» (Gn 12:3)— rige la historia de las naciones, que el orgullo humano no puede protegerse a sí mismo del juicio divino (Abd 3-4), y que, más allá del juicio, la soberanía de Dios garantiza que «el reino será del SEÑOR» (Abd 21).",
+    "en": "Historically, Obadiah announces God's imminent judgment on Edom for its pride, violence, and complicity in Jerusalem's plunder, offering judicial comfort to a devastated Judah. Theologically, the book teaches that the Abrahamic covenant — \"I will bless those who bless you, and him who dishonors you I will curse\" (Gen 12:3) — governs the history of the nations, that human pride cannot protect itself from divine judgment (Obad 3-4), and that, beyond judgment, God's sovereignty guarantees that \"the kingdom shall be the LORD's\" (Obad 21).",
+    "pt": "Historicamente, Obadias anuncia o julgamento iminente de Deus sobre Edom por seu orgulho, violência e cumplicidade no saque de Jerusalém, oferecendo consolo judicial a um Judá devastado. Teologicamente, o livro ensina que o pacto abraâmico — «abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem» (Gn 12:3) — rege a história das nações, que o orgulho humano não pode proteger-se a si mesmo do juízo divino (Abd 3-4), e que, além do julgamento, a soberania de Deus garante que «o reino será do SENHOR» (Abd 21)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH · the Lord",
+        "pt": "Deus · YHWH · o Senhor"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El SEÑOR soberano que convoca a las naciones a la guerra contra Edom (Abd 1), pronuncia el juicio irrevocable contra su orgullo (Abd 2-4), gobierna la ley de retribución del pacto sobre toda la tierra (Abd 15), y garantiza personalmente la restauración final de su pueblo y de su reino (Abd 17-21).",
+        "en": "The sovereign LORD who summons the nations to war against Edom (Obad 1), pronounces irrevocable judgment against its pride (Obad 2-4), governs the covenant law of retribution over the whole earth (Obad 15), and personally guarantees the final restoration of his people and his kingdom (Obad 17-21).",
+        "pt": "O SENHOR soberano que convoca as nações à guerra contra Edom (Abd 1), pronuncia o juízo irrevogável contra seu orgulho (Abd 2-4), governa a lei de retribuição do pacto sobre toda a terra (Abd 15), e garante pessoalmente a restauração final de seu povo e de seu reino (Abd 17-21)."
+      },
+      "acciones": {
+        "es": "Envía un mensajero entre las naciones para convocarlas contra Edom (Abd 1), jura humillar el orgullo edomita «aunque te remontes como águila» (Abd 4), declara el día de la retribución sobre todas las naciones conforme a lo que cada una ha hecho (Abd 15), y promete que en el monte Sion habrá liberación, que la casa de Jacob poseerá sus posesiones, y que el reino será suyo (Abd 17,21).",
+        "en": "Sends a messenger among the nations to summon them against Edom (Obad 1), swears to humble Edom's pride \"though you soar aloft like the eagle\" (Obad 4), declares the day of retribution upon all nations according to what each has done (Obad 15), and promises that on Mount Zion there shall be deliverance, that the house of Jacob shall possess their possessions, and that the kingdom shall be his (Obad 17,21).",
+        "pt": "Envia um mensageiro entre as nações para convocá-las contra Edom (Abd 1), jura humilhar o orgulho edomita «ainda que te eleves como águia» (Abd 4), declara o dia da retribuição sobre todas as nações conforme o que cada uma fez (Abd 15), e promete que no monte Sião haverá livramento, que a casa de Jacó possuirá as suas possessões, e que o reino será seu (Abd 17,21)."
+      },
+      "significadoTeologico": {
+        "es": "Abdías revela a Dios como el Juez soberano de todas las naciones, no solo de Israel, cuya justicia retributiva —«como hiciste, se hará contigo» (Abd 15)— gobierna la historia según los términos de su propio pacto con Abraham, y cuya fidelidad última se expresa no en destrucción sino en la restauración de su reino.",
+        "en": "Obadiah reveals God as the sovereign Judge of all nations, not Israel alone, whose retributive justice — \"as you have done, it shall be done to you\" (Obad 15) — governs history according to the terms of his own covenant with Abraham, and whose ultimate faithfulness is expressed not in destruction but in the restoration of his kingdom.",
+        "pt": "Obadias revela Deus como o Juiz soberano de todas as nações, não apenas de Israel, cuja justiça retributiva — «como fizeste se fará contigo» (Abd 15) — governa a história segundo os termos de seu próprio pacto com Abraão, e cuja fidelidade última se expressa não em destruição, mas na restauração de seu reino."
+      },
+      "tipo": {
+        "es": "El SEÑOR que ejecuta juicio y trae liberación desde el monte Sion (Abd 17,21) prefigura a Cristo, quien juzgará a las naciones y establecerá definitivamente el reino de Dios (Mt 25:31-32; Ap 19:15).",
+        "en": "The LORD who executes judgment and brings deliverance from Mount Zion (Obad 17,21) prefigures Christ, who will judge the nations and definitively establish the kingdom of God (Matt 25:31-32; Rev 19:15).",
+        "pt": "O SENHOR que executa o juízo e traz livramento a partir do monte Sião (Abd 17,21) prefigura Cristo, que julgará as nações e estabelecerá definitivamente o reino de Deus (Mt 25:31-32; Ap 19:15)."
+      },
+      "caracterMoral": {
+        "es": "Justo, soberano sobre las naciones, fiel a su pacto y celoso de defender a su pueblo contra la traición fraternal.",
+        "en": "Just, sovereign over the nations, faithful to his covenant, and zealous to defend his people against fraternal betrayal.",
+        "pt": "Justo, soberano sobre as nações, fiel ao seu pacto e zeloso em defender seu povo contra a traição fraternal."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "YHWH es el sujeto último del oráculo: convoca el juicio, lo ejecuta según la ley de retribución del pacto, y finalmente restaura el reino a sí mismo.",
+          "en": "YHWH is the ultimate subject of the oracle: he summons the judgment, executes it according to the covenant law of retribution, and finally restores the kingdom to himself.",
+          "pt": "YHWH é o sujeito último do oráculo: convoca o julgamento, o executa segundo a lei de retribuição do pacto, e por fim restaura o reino para si mesmo."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Abd 1:1",
+          "Abd 1:4",
+          "Abd 1:15",
+          "Abd 1:21"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: Dios no tiene biografía histórica humana; se revela por su autorrevelación consistente en todo el canon.",
+          "en": "Not applicable: God has no human historical biography; he reveals himself through his consistent self-revelation across the whole canon.",
+          "pt": "Não aplicável: Deus não tem biografia histórica humana; revela-se por sua autorrevelação consistente em todo o cânon."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El carácter de Dios como Juez justo de las naciones en Abdías es coherente con su autorrevelación en el resto del canon (cf. Gn 18:25).",
+          "en": "God's character as the just Judge of the nations in Obadiah is coherent with his self-revelation across the rest of the canon (cf. Gen 18:25).",
+          "pt": "O caráter de Deus como Juiz justo das nações em Obadias é coerente com sua autorrevelação no restante do cânon (cf. Gn 18:25)."
+        }
+      },
+      "versiculosAsociados": [
+        "Abd 1:1",
+        "Abd 1:4",
+        "Abd 1:15",
+        "Abd 1:21"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Jer",
+        "Am",
+        "Jl",
+        "Sof",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El principio de que «el reino será del SEÑOR» (Abd 21) halla su cumplimiento en la proclamación de Jesús de que el reino de Dios se ha acercado (Mr 1:15) y en la visión final de Apocalipsis de que «el reino del mundo ha venido a ser de nuestro Señor y de su Cristo» (Ap 11:15).",
+        "en": "The principle that \"the kingdom shall be the LORD's\" (Obad 21) finds its fulfillment in Jesus's proclamation that the kingdom of God has drawn near (Mark 1:15) and in Revelation's final vision that \"the kingdom of the world has become the kingdom of our Lord and of his Christ\" (Rev 11:15).",
+        "pt": "O princípio de que «o reino será do SENHOR» (Abd 21) encontra seu cumprimento na proclamação de Jesus de que o reino de Deus se aproximou (Mc 1:15) e na visão final de Apocalipse de que «o reino do mundo se tornou de nosso Senhor e do seu Cristo» (Ap 11:15)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Edom (Esaú)",
+        "en": "Edom (Esau)",
+        "pt": "Edom (Esaú)"
+      },
+      "hebreo": "אֱדוֹם",
+      "principal": true,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "La nación descendiente de Esaú, hermano gemelo de Jacob, que habita las alturas rocosas de Sela y se enorgullece de su presunta inexpugnabilidad; blanco central del oráculo de juicio por haberse vuelto contra su hermano Judá en el día de su calamidad.",
+        "en": "The nation descended from Esau, Jacob's twin brother, dwelling in the rocky heights of Sela and taking pride in its presumed impregnability; the central target of the judgment oracle for turning against its brother Judah in the day of its calamity.",
+        "pt": "A nação descendente de Esaú, irmão gêmeo de Jacó, que habita as alturas rochosas de Selá e se orgulha de sua suposta inexpugnabilidade; alvo central do oráculo de julgamento por ter se voltado contra seu irmão Judá no dia de sua calamidade."
+      },
+      "acciones": {
+        "es": "Se enorgullece de morar en las hendiduras de la peña y dice en su corazón «¿quién me derribará a tierra?» (Abd 3), permanece indiferente el día que extraños llevaban cautivo el ejército de Jacob (Abd 11), se regocija sobre los hijos de Judá en el día de su ruina (Abd 12), entra por las puertas de Jerusalén y echa suertes sobre ella (Abd 11,13), y corta a los fugitivos y entrega a los sobrevivientes al enemigo (Abd 14).",
+        "en": "Takes pride in dwelling in the clefts of the rock and says in its heart, \"Who will bring me down to the ground?\" (Obad 3), remains indifferent the day strangers carried off Jacob's wealth captive (Obad 11), gloats over the people of Judah in the day of their ruin (Obad 12), enters Jerusalem's gates and casts lots over it (Obad 11,13), and cuts off fugitives and hands over survivors to the enemy (Obad 14).",
+        "pt": "Orgulha-se de habitar nas fendas da rocha e diz em seu coração «quem me derrubará em terra?» (Abd 3), permanece indiferente no dia em que estranhos levavam cativo o exército de Jacó (Abd 11), regozija-se sobre os filhos de Judá no dia de sua ruína (Abd 12), entra pelas portas de Jerusalém e lança sortes sobre ela (Abd 11,13), e corta os fugitivos e entrega os sobreviventes ao inimigo (Abd 14)."
+      },
+      "significadoTeologico": {
+        "es": "Edom representa el orgullo autosuficiente que confía en su seguridad geográfica y en su reputación de sabiduría (Abd 8) en lugar de temer a Dios, y encarna la traición fraternal que viola el vínculo de pacto establecido desde el vientre entre Jacob y Esaú (Gn 25:23).",
+        "en": "Edom represents self-sufficient pride that trusts in its geographic security and its reputation for wisdom (Obad 8) rather than fearing God, and embodies the fraternal betrayal that violates the covenant bond established from the womb between Jacob and Esau (Gen 25:23).",
+        "pt": "Edom representa o orgulho autossuficiente que confia em sua segurança geográfica e em sua reputação de sabedoria (Abd 8) em vez de temer a Deus, e encarna a traição fraternal que viola o vínculo de pacto estabelecido desde o ventre entre Jacó e Esaú (Gn 25:23)."
+      },
+      "tipo": {
+        "es": "Edom funciona como tipo negativo —no de Cristo sino de todo poder humano orgulloso que se opone al pueblo de Dios— cuyo juicio anticipa el juicio final sobre «todas las naciones» que se oponen al reino de Cristo (Abd 15-16; Ap 20:11-15).",
+        "en": "Edom functions as a negative type — not of Christ but of every proud human power that opposes God's people — whose judgment anticipates the final judgment upon \"all the nations\" that oppose Christ's kingdom (Obad 15-16; Rev 20:11-15).",
+        "pt": "Edom funciona como um tipo negativo — não de Cristo, mas de todo poder humano orgulhoso que se opõe ao povo de Deus — cujo julgamento antecipa o juízo final sobre «todas as nações» que se opõem ao reino de Cristo (Abd 15-16; Ap 20:11-15)."
+      },
+      "caracterMoral": {
+        "es": "Orgulloso, vengativo, indiferente a la calamidad de su hermano, y finalmente cómplice activo en la violencia contra Judá.",
+        "en": "Proud, vengeful, indifferent to its brother's calamity, and finally an active accomplice in violence against Judah.",
+        "pt": "Orgulhoso, vingativo, indiferente à calamidade de seu irmão, e finalmente cúmplice ativo na violência contra Judá."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Edom es acusado, sentenciado y condenado a la desolación total —«no quedará remanente de la casa de Esaú» (Abd 18)— a lo largo de todo el oráculo.",
+          "en": "Edom is accused, sentenced, and condemned to total desolation — \"there shall be no survivor to the house of Esau\" (Obad 18) — throughout the entire oracle.",
+          "pt": "Edom é acusado, sentenciado e condenado à desolação total — «não haverá sobrevivente para a casa de Esaú» (Abd 18) — ao longo de todo o oráculo."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Abd 1:3",
+          "Abd 1:10",
+          "Abd 1:14",
+          "Abd 1:18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Edom era un reino históricamente atestiguado al sureste del Mar Muerto, con capital tradicional en Bosra (Buseirah) y fortalezas en la región de Sela/Petra; su hostilidad hacia Judá durante la crisis babilónica está corroborada por fuentes epigráficas del Néguev.",
+          "en": "Edom was a historically attested kingdom southeast of the Dead Sea, with a traditional capital at Bozrah (Buseirah) and strongholds in the Sela/Petra region; its hostility toward Judah during the Babylonian crisis is corroborated by epigraphic sources from the Negev.",
+          "pt": "Edom era um reino historicamente atestado a sudeste do Mar Morto, com capital tradicional em Bosra (Buseirah) e fortalezas na região de Selá/Petra; sua hostilidade em relação a Judá durante a crise babilônica é corroborada por fontes epigráficas do Neguebe."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto histórico",
+              "Relaciones Judá-Edom"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Los datos arqueológicos confirman un reino edomita organizado en el período en cuestión, aunque no pueden verificar externamente cada acto específico narrado en Abd 11-14, cuya historicidad descansa en la autoridad del texto profético inspirado.",
+          "en": "Archaeological data confirm an organized Edomite kingdom in the period in question, though they cannot externally verify each specific act narrated in Obad 11-14, whose historicity rests on the authority of the inspired prophetic text.",
+          "pt": "Os dados arqueológicos confirmam um reino edomita organizado no período em questão, embora não possam verificar externamente cada ato específico narrado em Abd 11-14, cuja historicidade repousa sobre a autoridade do texto profético inspirado."
+        }
+      },
+      "versiculosAsociados": [
+        "Abd 1:3",
+        "Abd 1:8",
+        "Abd 1:10",
+        "Abd 1:18"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Nm",
+        "Jue",
+        "2S",
+        "2R",
+        "Sal",
+        "Is",
+        "Jer",
+        "Lm",
+        "Ez",
+        "Am",
+        "Mal"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Edom no se menciona directamente en el Nuevo Testamento, pero Pablo apela a la elección de Jacob sobre Esaú desde el vientre (Ro 9:10-13) para ilustrar la soberanía electiva de Dios, el mismo trasfondo de pacto que Abdías presupone.",
+        "en": "Edom is not directly mentioned in the New Testament, but Paul appeals to the election of Jacob over Esau from the womb (Rom 9:10-13) to illustrate God's electing sovereignty, the same covenant background Obadiah presupposes.",
+        "pt": "Edom não é mencionado diretamente no Novo Testamento, mas Paulo apela à eleição de Jacó sobre Esaú desde o ventre (Rm 9:10-13) para ilustrar a soberania eletiva de Deus, o mesmo pano de fundo de pacto que Obadias pressupõe."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Jacob (Judá)",
+        "en": "Jacob (Judah)",
+        "pt": "Jacó (Judá)"
+      },
+      "hebreo": "יַעֲקֹב",
+      "principal": true,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El pueblo hermano de Edom, descendiente de Jacob, víctima del saqueo, la burla y la traición denunciados en el oráculo, y destinatario final de la promesa de liberación y restauración de su herencia.",
+        "en": "Edom's kindred people, descended from Jacob, victim of the plunder, mockery, and betrayal denounced in the oracle, and the final recipient of the promise of deliverance and restoration of their inheritance.",
+        "pt": "O povo irmão de Edom, descendente de Jacó, vítima do saque, do escárnio e da traição denunciados no oráculo, e destinatário final da promessa de livramento e restauração de sua herança."
+      },
+      "acciones": {
+        "es": "Sufre la invasión de extraños que se llevan cautivo su ejército y sus riquezas (Abd 11), es objeto de la burla y el regocijo de Edom en el día de su ruina (Abd 12), ve a sus sobrevivientes cortados y entregados al enemigo por Edom (Abd 14), y recibe la promesa de que en el monte Sion habrá liberación y que «la casa de Jacob poseerá sus posesiones» (Abd 17).",
+        "en": "Suffers the invasion of strangers who carry off its wealth and army captive (Obad 11), is the object of Edom's mockery and gloating in the day of its ruin (Obad 12), sees its survivors cut off and handed to the enemy by Edom (Obad 14), and receives the promise that on Mount Zion there shall be deliverance and that \"the house of Jacob shall possess their own possessions\" (Obad 17).",
+        "pt": "Sofre a invasão de estranhos que levam cativo seu exército e suas riquezas (Abd 11), é objeto do escárnio e regozijo de Edom no dia de sua ruína (Abd 12), vê seus sobreviventes cortados e entregues ao inimigo por Edom (Abd 14), e recebe a promessa de que no monte Sião haverá livramento e que «a casa de Jacó possuirá as suas possessões» (Abd 17)."
+      },
+      "significadoTeologico": {
+        "es": "Jacob representa al pueblo del pacto que, aun devastado por el juicio divino sobre su propio pecado, permanece como el objeto de la fidelidad de pacto de Dios y de su promesa irrevocable de restauración.",
+        "en": "Jacob represents the covenant people who, even devastated by divine judgment for their own sin, remain the object of God's covenant faithfulness and his irrevocable promise of restoration.",
+        "pt": "Jacó representa o povo do pacto que, mesmo devastado pelo juízo divino sobre seu próprio pecado, permanece como objeto da fidelidade de pacto de Deus e de sua promessa irrevogável de restauração."
+      },
+      "tipo": {
+        "es": "La restauración de la casa de Jacob y su extensión territorial (Abd 19-20) prefigura la expansión del verdadero Israel —la iglesia formada por judíos y gentiles unidos a Cristo— hasta los confines de la tierra (Ro 11:25-26; Ef 2:11-14).",
+        "en": "The restoration of the house of Jacob and its territorial extension (Obad 19-20) prefigures the expansion of the true Israel — the church formed of Jews and Gentiles united to Christ — to the ends of the earth (Rom 11:25-26; Eph 2:11-14).",
+        "pt": "A restauração da casa de Jacó e sua extensão territorial (Abd 19-20) prefigura a expansão do verdadeiro Israel — a igreja formada por judeus e gentios unidos a Cristo — até os confins da terra (Rm 11:25-26; Ef 2:11-14)."
+      },
+      "caracterMoral": {
+        "es": "Presentado como víctima de la traición de Edom más que como agente moral activo en este libro; su propio pecado que precipitó el juicio de 586 a.C. se presupone pero no se detalla aquí.",
+        "en": "Presented as a victim of Edom's betrayal rather than as an active moral agent in this book; the sin that precipitated the judgment of 586 BC is presupposed but not detailed here.",
+        "pt": "Apresentado como vítima da traição de Edom, mais do que como agente moral ativo neste livro; seu próprio pecado que precipitou o julgamento de 586 a.C. é pressuposto, mas não detalhado aqui."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Jacob/Judá aparece como la nación agraviada cuya calamidad Edom explotó, y como el destinatario de la promesa final de posesión y restauración (Abd 10-14,17-20).",
+          "en": "Jacob/Judah appears as the wronged nation whose calamity Edom exploited, and as the recipient of the final promise of possession and restoration (Obad 10-14,17-20).",
+          "pt": "Jacó/Judá aparece como a nação agravada cuja calamidade Edom explorou, e como destinatária da promessa final de posse e restauração (Abd 10-14,17-20)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Abd 1:10",
+          "Abd 1:12",
+          "Abd 1:17",
+          "Abd 1:20"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La devastación de Judá en 586 a.C. a manos de Babilonia está ampliamente documentada en el registro arqueológico —estratos de destrucción en Jerusalén, Laquis y otros sitios— y en las crónicas babilónicas.",
+          "en": "Judah's devastation in 586 BC at Babylon's hands is extensively documented in the archaeological record — destruction strata at Jerusalem, Lachish, and other sites — and in the Babylonian Chronicles.",
+          "pt": "A devastação de Judá em 586 a.C. pelas mãos da Babilônia está amplamente documentada no registro arqueológico — estratos de destruição em Jerusalém, Láquis e outros sítios — e nas crônicas babilônicas."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Caída de Jerusalén",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La destrucción de Jerusalén en 586 a.C. es uno de los eventos mejor atestiguados arqueológica e históricamente del Antiguo Testamento, consistente con el trasfondo presupuesto por Abdías.",
+          "en": "The destruction of Jerusalem in 586 BC is one of the best attested events, archaeologically and historically, of the Old Testament, consistent with the background presupposed by Obadiah.",
+          "pt": "A destruição de Jerusalém em 586 a.C. é um dos eventos mais bem atestados arqueológica e historicamente do Antigo Testamento, consistente com o pano de fundo pressuposto por Obadias."
+        }
+      },
+      "versiculosAsociados": [
+        "Abd 1:10",
+        "Abd 1:12",
+        "Abd 1:17",
+        "Abd 1:20"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Ex",
+        "2R",
+        "Jer",
+        "Lm",
+        "Ez"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo cita la elección de Jacob sobre Esaú (Ro 9:10-13) y Hebreos advierte contra el desprecio de la primogenitura como hizo Esaú (He 12:16-17), ecos del mismo conflicto fraternal que Abdías juzga.",
+        "en": "Paul cites the election of Jacob over Esau (Rom 9:10-13) and Hebrews warns against despising one's birthright as Esau did (Heb 12:16-17), echoes of the same fraternal conflict Obadiah judges.",
+        "pt": "Paulo cita a eleição de Jacó sobre Esaú (Rm 9:10-13) e Hebreus adverte contra desprezar a primogenitura como fez Esaú (Hb 12:16-17), ecos do mesmo conflito fraternal que Obadias julga."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Abdías",
+        "en": "Obadiah",
+        "pt": "Obadias"
+      },
+      "hebreo": "עֹבַדְיָה",
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El profeta cuyo nombre significa «siervo/adorador de YHWH»; fuera de la breve superscripción (Abd 1), el Antiguo Testamento no ofrece ningún dato biográfico adicional sobre su persona, origen o circunstancias.",
+        "en": "The prophet whose name means \"servant/worshiper of YHWH\"; apart from the brief superscription (Obad 1), the Old Testament offers no further biographical data about his person, origin, or circumstances.",
+        "pt": "O profeta cujo nome significa «servo/adorador de YHWH»; fora da breve superscrição (Abd 1), o Antigo Testamento não oferece nenhum dado biográfico adicional sobre sua pessoa, origem ou circunstâncias."
+      },
+      "acciones": {
+        "es": "Recibe y transmite la «visión» (jazón) contra Edom, y anuncia haber oído un mensaje enviado por el SEÑOR entre las naciones convocándolas a la guerra contra Edom (Abd 1).",
+        "en": "Receives and transmits the \"vision\" (chazon) against Edom, and announces having heard a report sent by the LORD among the nations summoning them to war against Edom (Obad 1).",
+        "pt": "Recebe e transmite a «visão» (chazon) contra Edom, e anuncia ter ouvido uma mensagem enviada pelo SENHOR entre as nações, convocando-as à guerra contra Edom (Abd 1)."
+      },
+      "significadoTeologico": {
+        "es": "Como vocero anónimo del juicio y la esperanza de Dios, Abdías ejemplifica que la autoridad profética descansa no en la prominencia biográfica del mensajero sino en la fidelidad de la palabra que transmite.",
+        "en": "As an anonymous spokesman of God's judgment and hope, Obadiah exemplifies that prophetic authority rests not in the messenger's biographical prominence but in the faithfulness of the word he transmits.",
+        "pt": "Como porta-voz anônimo do julgamento e da esperança de Deus, Obadias exemplifica que a autoridade profética repousa não na proeminência biográfica do mensageiro, mas na fidelidade da palavra que transmite."
+      },
+      "tipo": {
+        "es": "Abdías, como todo profeta veterotestamentario que habla la palabra de Dios contra la injusticia y anuncia esperanza final, prefigura de manera general el oficio profético cumplido perfectamente en Cristo, el Profeta definitivo (Hch 3:22-23; He 1:1-2).",
+        "en": "Obadiah, like every Old Testament prophet who speaks God's word against injustice and announces final hope, generally prefigures the prophetic office perfectly fulfilled in Christ, the definitive Prophet (Acts 3:22-23; Heb 1:1-2).",
+        "pt": "Obadias, como todo profeta veterotestamentário que fala a palavra de Deus contra a injustiça e anuncia esperança final, prefigura de maneira geral o ofício profético cumprido perfeitamente em Cristo, o Profeta definitivo (At 3:22-23; Hb 1:1-2)."
+      },
+      "caracterMoral": {
+        "es": "Fiel transmisor de la palabra revelada, sin datos adicionales que evaluar moralmente más allá de su función profética.",
+        "en": "A faithful transmitter of the revealed word, with no additional data to evaluate morally beyond his prophetic function.",
+        "pt": "Fiel transmissor da palavra revelada, sem dados adicionais a avaliar moralmente além de sua função profética."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Toda la información bíblica sobre Abdías se reduce a la superscripción del libro: «Visión de Abdías. Así dice el Señor DIOS acerca de Edom» (Abd 1).",
+          "en": "All the biblical information about Obadiah is reduced to the book's superscription: \"The vision of Obadiah. Thus says the Lord GOD concerning Edom\" (Obad 1).",
+          "pt": "Toda a informação bíblica sobre Obadias se reduz à superscrição do livro: «Visão de Obadias. Assim diz o Senhor DEUS acerca de Edom» (Abd 1)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Abd 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia externa que permita identificar con certeza a este Abdías con ninguno de los otros hombres del mismo nombre mencionados en el Antiguo Testamento; su identidad histórica permanece desconocida fuera del texto bíblico.",
+          "en": "No external evidence exists to identify this Obadiah with certainty as any of the other men of the same name mentioned in the Old Testament; his historical identity remains unknown outside the biblical text.",
+          "pt": "Não existe evidência externa que permita identificar com certeza este Obadias com nenhum dos outros homens do mesmo nome mencionados no Antigo Testamento; sua identidade histórica permanece desconhecida fora do texto bíblico."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La falta de datos biográficos externos es consistente con la práctica profética veterotestamentaria de subordinar la persona del mensajero al contenido del mensaje divino.",
+          "en": "The lack of external biographical data is consistent with the Old Testament prophetic practice of subordinating the messenger's person to the content of the divine message.",
+          "pt": "A falta de dados biográficos externos é consistente com a prática profética veterotestamentária de subordinar a pessoa do mensageiro ao conteúdo da mensagem divina."
+        }
+      },
+      "versiculosAsociados": [
+        "Abd 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Abdías no es mencionado por nombre en el Nuevo Testamento, aunque el tema central de su oráculo —el juicio de Dios sobre el orgullo humano y la promesa de que «el reino será del SEÑOR»— resuena en la escatología neotestamentaria (Ap 11:15).",
+        "en": "Obadiah is not mentioned by name in the New Testament, though the central theme of his oracle — God's judgment on human pride and the promise that \"the kingdom shall be the LORD's\" — resonates in New Testament eschatology (Rev 11:15).",
+        "pt": "Obadias não é mencionado pelo nome no Novo Testamento, embora o tema central de seu oráculo — o julgamento de Deus sobre o orgulho humano e a promessa de que «o reino será do SENHOR» — ressoe na escatologia neotestamentária (Ap 11:15)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "Abdías presupone y aplica el pacto abrahámico —«bendeciré a los que te bendigan, y maldeciré a los que te maldigan» (Gn 12:3)— a la relación histórica entre Edom y Judá, descendientes respectivamente de Esaú y Jacob. La traición de Edom contra su hermano de pacto en el día de su calamidad (Abd 10-14) activa la cláusula de maldición, mientras que la promesa final de que la casa de Jacob poseerá sus posesiones (Abd 17) reafirma la fidelidad de Dios a su pacto con el linaje elegido.",
+        "en": "Obadiah presupposes and applies the Abrahamic covenant — \"I will bless those who bless you, and him who dishonors you I will curse\" (Gen 12:3) — to the historical relationship between Edom and Judah, descended respectively from Esau and Jacob. Edom's betrayal of its covenant brother in the day of its calamity (Obad 10-14) activates the curse clause, while the final promise that the house of Jacob shall possess their possessions (Obad 17) reaffirms God's faithfulness to his covenant with the chosen line.",
+        "pt": "Obadias pressupõe e aplica o pacto abraâmico — «abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem» (Gn 12:3) — à relação histórica entre Edom e Judá, descendentes respectivamente de Esaú e Jacó. A traição de Edom contra seu irmão de pacto no dia de sua calamidade (Abd 10-14) ativa a cláusula de maldição, enquanto a promessa final de que a casa de Jacó possuirá suas possessões (Abd 17) reafirma a fidelidade de Deus ao seu pacto com a linhagem escolhida."
+      },
+      "pasajes": [
+        "Abd 1:10",
+        "Abd 1:12",
+        "Abd 1:17"
+      ],
+      "ensenanza": {
+        "es": "La traición fraternal de Edom viola el vínculo de pacto establecido desde el nacimiento de los mellizos · El regocijo sobre la calamidad de un hermano de pacto constituye una ofensa grave ante Dios · La fidelidad de Dios a su pacto garantiza la restauración final de la herencia de Jacob",
+        "en": "Edom's fraternal betrayal violates the covenant bond established from the twins' birth · Gloating over the calamity of a covenant brother constitutes a grave offense before God · God's faithfulness to his covenant guarantees the final restoration of Jacob's inheritance",
+        "pt": "A traição fraternal de Edom viola o vínculo de pacto estabelecido desde o nascimento dos gêmeos · O regozijo sobre a calamidade de um irmão de pacto constitui uma ofensa grave diante de Deus · A fidelidade de Deus ao seu pacto garante a restauração final da herança de Jacó"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada del pacto entiende la relación Jacob-Esaú no como mero conflicto étnico sino como el marco teológico en que se desenvuelve la historia de la elección: Dios cumple su promesa a Abraham juzgando a quienes maldicen a su simiente escogida, un principio que Abdías aplica con precisión quirúrgica a un caso histórico concreto.",
+        "en": "Reformed covenant theology understands the Jacob-Esau relationship not as mere ethnic conflict but as the theological framework in which the history of election unfolds: God fulfills his promise to Abraham by judging those who curse his chosen seed, a principle Obadiah applies with surgical precision to a concrete historical case.",
+        "pt": "A teologia reformada do pacto entende a relação Jacó-Esaú não como mero conflito étnico, mas como o quadro teológico em que se desenrola a história da eleição: Deus cumpre sua promessa a Abraão julgando os que amaldiçoam sua semente escolhida, princípio que Obadias aplica com precisão cirúrgica a um caso histórico concreto."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Abdías revela la soberanía providencial de Dios sobre la historia de las naciones: es el SEÑOR quien convoca a los pueblos contra Edom (Abd 1), quien determina humillar el orgullo edomita sin importar su altura geográfica (Abd 4), y quien gobierna el principio de retribución —«como hiciste, se hará contigo»— que rige el destino de toda nación (Abd 15).",
+        "en": "Obadiah reveals God's providential sovereignty over the history of the nations: it is the LORD who summons the peoples against Edom (Obad 1), who determines to humble Edom's pride regardless of its geographic height (Obad 4), and who governs the retributive principle — \"as you have done, it shall be done to you\" — that rules the destiny of every nation (Obad 15).",
+        "pt": "Obadias revela a soberania providencial de Deus sobre a história das nações: é o SENHOR quem convoca os povos contra Edom (Abd 1), quem determina humilhar o orgulho edomita independentemente de sua altura geográfica (Abd 4), e quem governa o princípio de retribuição — «como fizeste se fará contigo» — que rege o destino de toda nação (Abd 15)."
+      },
+      "pasajes": [
+        "Abd 1:1",
+        "Abd 1:4",
+        "Abd 1:15"
+      ],
+      "ensenanza": {
+        "es": "Dios mismo convoca a las naciones como instrumento de su juicio contra Edom · Ninguna posición geográfica o política puede sustraer a una nación del gobierno providencial de Dios · La ley de retribución providencial aplica universalmente a todas las naciones, no solo a Edom",
+        "en": "God himself summons the nations as an instrument of his judgment against Edom · No geographic or political position can remove a nation from God's providential rule · The law of providential retribution applies universally to all nations, not Edom alone",
+        "pt": "O próprio Deus convoca as nações como instrumento de seu julgamento contra Edom · Nenhuma posição geográfica ou política pode subtrair uma nação do governo providencial de Deus · A lei de retribuição providencial aplica-se universalmente a todas as nações, não apenas a Edom"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la providencia sostiene que Dios gobierna soberanamente incluso los movimientos de naciones paganas como instrumentos de su justicia, sin que esto exima a esas naciones de responsabilidad moral por sus propios actos de violencia y traición.",
+        "en": "Reformed providence doctrine holds that God sovereignly governs even the movements of pagan nations as instruments of his justice, without this exempting those nations from moral responsibility for their own acts of violence and betrayal.",
+        "pt": "A doutrina reformada da providência sustenta que Deus governa soberanamente até mesmo os movimentos de nações pagãs como instrumentos de sua justiça, sem que isso isente essas nações de responsabilidade moral por seus próprios atos de violência e traição."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "El oráculo particular contra Edom se universaliza en «el día del SEÑOR» sobre todas las naciones (Abd 15), y el libro culmina con la visión de un reino final que «será del SEÑOR» (Abd 21), estableciendo un patrón escatológico —juicio universal seguido de reino consumado— que los profetas posteriores y el Nuevo Testamento desarrollarán plenamente.",
+        "en": "The particular oracle against Edom is universalized into \"the day of the LORD\" upon all the nations (Obad 15), and the book culminates in the vision of a final kingdom that \"shall be the LORD's\" (Obad 21), establishing an eschatological pattern — universal judgment followed by a consummated kingdom — that later prophets and the New Testament will fully develop.",
+        "pt": "O oráculo particular contra Edom se universaliza em «o dia do SENHOR» sobre todas as nações (Abd 15), e o livro culmina na visão de um reino final que «será do SENHOR» (Abd 21), estabelecendo um padrão escatológico — juízo universal seguido de reino consumado — que os profetas posteriores e o Novo Testamento desenvolverão plenamente."
+      },
+      "pasajes": [
+        "Abd 1:15",
+        "Abd 1:17",
+        "Abd 1:21"
+      ],
+      "ensenanza": {
+        "es": "El día del SEÑOR se extiende más allá de Edom a todas las naciones, conforme a lo que cada una ha hecho · El monte Sion se convierte en el lugar de liberación escatológica · La afirmación final de que el reino pertenece solo al SEÑOR anticipa la consumación del reino de Dios",
+        "en": "The day of the LORD extends beyond Edom to all the nations, according to what each has done · Mount Zion becomes the place of eschatological deliverance · The final affirmation that the kingdom belongs to the LORD alone anticipates the consummation of God's kingdom",
+        "pt": "O dia do SENHOR se estende além de Edom a todas as nações, conforme o que cada uma fez · O monte Sião se torna o lugar de livramento escatológico · A afirmação final de que o reino pertence somente ao SENHOR antecipa a consumação do reino de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee el «día del SEÑOR» de Abdías no como un evento aislado sino como parte de la trama unificada de la historia redentora que culmina en el reino ya inaugurado en Cristo y consumado en su segunda venida, evitando tanto un literalismo desconectado como una espiritualización que vacíe el texto de su referente histórico.",
+        "en": "The Reformed tradition reads Obadiah's \"day of the LORD\" not as an isolated event but as part of the unified fabric of redemptive history that culminates in the kingdom already inaugurated in Christ and consummated at his second coming, avoiding both a disconnected literalism and a spiritualization that would empty the text of its historical referent.",
+        "pt": "A tradição reformada lê o «dia do SENHOR» de Obadias não como um evento isolado, mas como parte da trama unificada da história redentora que culmina no reino já inaugurado em Cristo e consumado em sua segunda vinda, evitando tanto um literalismo desconectado quanto uma espiritualização que esvazie o texto de seu referente histórico."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "Abdías presenta a Dios como Juez santo cuya justicia no se doblega ante el orgullo humano por elevado que sea —«aunque te remontes como águila... de allí te derribaré» (Abd 4)— y cuya autoridad se extiende sobre todas las naciones, no solo sobre Israel, revelando su carácter como soberano universal de la historia.",
+        "en": "Obadiah presents God as a holy Judge whose justice does not bow before human pride however lofty — \"though you soar aloft like the eagle... from there I will bring you down\" (Obad 4) — and whose authority extends over all nations, not Israel alone, revealing his character as the universal sovereign of history.",
+        "pt": "Obadias apresenta Deus como Juiz santo cuja justiça não se dobra diante do orgulho humano por mais elevado que seja — «ainda que te eleves como águia... de lá te derrubarei» (Abd 4) — e cuja autoridade se estende sobre todas as nações, não apenas sobre Israel, revelando seu caráter como soberano universal da história."
+      },
+      "pasajes": [
+        "Abd 1:2",
+        "Abd 1:4",
+        "Abd 1:15"
+      ],
+      "ensenanza": {
+        "es": "Dios humilla activamente a las naciones orgullosas independientemente de su fortaleza aparente · Ninguna altura física o política escapa a la autoridad divina · Dios es el juez universal de todas las naciones, no un dios tribal limitado a Israel",
+        "en": "God actively humbles proud nations regardless of their apparent strength · No physical or political height escapes divine authority · God is the universal judge of all nations, not a tribal deity limited to Israel",
+        "pt": "Deus humilha ativamente as nações orgulhosas independentemente de sua força aparente · Nenhuma altura física ou política escapa à autoridade divina · Deus é o juiz universal de todas as nações, não um deus tribal limitado a Israel"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada enfatiza en Abdías la trascendencia y soberanía universal de Dios sobre toda la creación y todas las naciones, un tema central del pacto noáico y abrahámico que rechaza cualquier noción de un Dios limitado a las fronteras de Israel.",
+        "en": "Reformed theology emphasizes in Obadiah the transcendence and universal sovereignty of God over all creation and all nations, a central theme of the Noahic and Abrahamic covenants that rejects any notion of a God limited to Israel's borders.",
+        "pt": "A teologia reformada enfatiza em Obadias a transcendência e soberania universal de Deus sobre toda a criação e todas as nações, tema central dos pactos noaico e abraâmico que rejeita qualquer noção de um Deus limitado às fronteiras de Israel."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía de Dios"
+      ],
+      "resumen": {
+        "es": "El capítulo 5 de la Confesión de Westminster enseña que Dios, el gran Creador, sostiene, dirige, dispone y gobierna todas las criaturas, acciones y cosas, desde la más grande hasta la más pequeña, por su sabidísima y santísima providencia. Abdías ilustra esta doctrina de forma concentrada: es Dios quien convoca a las naciones contra Edom y quien determina el destino de cada pueblo conforme a sus propios actos.",
+        "en": "Chapter 5 of the Westminster Confession teaches that God, the great Creator, upholds, directs, disposes, and governs all creatures, actions, and things, from the greatest to the least, by his most wise and holy providence. Obadiah illustrates this doctrine in concentrated form: it is God who summons the nations against Edom and determines each people's destiny according to their own deeds.",
+        "pt": "O capítulo 5 da Confissão de Westminster ensina que Deus, o grande Criador, sustenta, dirige, dispõe e governa todas as criaturas, ações e coisas, desde a maior até a menor, por sua sapientíssima e santíssima providência. Obadias ilustra essa doutrina de forma concentrada: é Deus quem convoca as nações contra Edom e determina o destino de cada povo conforme seus próprios atos."
+      },
+      "genesis": [
+        "Abd 1:1",
+        "Abd 1:4",
+        "Abd 1:15"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 7",
+      "titulo": {
+        "es": "Del Pacto de Dios con el Hombre",
+        "en": "Of God's Covenant with Man",
+        "pt": "Do Pacto de Deus com o Homem"
+      },
+      "doctrinas": [
+        "Pacto",
+        "Elección"
+      ],
+      "resumen": {
+        "es": "El capítulo 7 explica cómo Dios se ha dignado expresar su voluntad mediante pactos con su pueblo, y en su pacto de gracia ofrece vida y salvación por Cristo a los pecadores. La promesa final de Abdías de que la casa de Jacob poseerá sus posesiones y de que el reino será del SEÑOR (Abd 17,21) es una expresión concreta de la fidelidad de Dios a ese pacto de gracia extendido a través del linaje de Jacob.",
+        "en": "Chapter 7 explains how God has been pleased to express his will by way of covenant with his people, and in his covenant of grace offers life and salvation by Christ to sinners. Obadiah's final promise that the house of Jacob shall possess their possessions and that the kingdom shall be the LORD's (Obad 17,21) is a concrete expression of God's faithfulness to that covenant of grace extended through Jacob's line.",
+        "pt": "O capítulo 7 explica como Deus se agradou de expressar sua vontade por meio de pactos com seu povo, e em seu pacto da graça oferece vida e salvação por Cristo aos pecadores. A promessa final de Obadias de que a casa de Jacó possuirá suas possessões e de que o reino será do SENHOR (Abd 17,21) é uma expressão concreta da fidelidade de Deus a esse pacto da graça estendido através da linhagem de Jacó."
+      },
+      "genesis": [
+        "Abd 1:17",
+        "Abd 1:21"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-7"
+    },
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio Final"
+      ],
+      "resumen": {
+        "es": "El capítulo 33 confiesa que Dios ha establecido un día en que juzgará al mundo con justicia, para que cada persona reciba conforme a lo que hizo. La visión de Abdías del «día del SEÑOR... sobre todas las naciones» (Abd 15), gobernado por el principio de que «como hiciste, se hará contigo», anticipa en miniatura esta doctrina del juicio universal y final.",
+        "en": "Chapter 33 confesses that God has appointed a day in which he will judge the world in righteousness, so that every person may receive according to what they have done. Obadiah's vision of \"the day of the LORD... upon all the nations\" (Obad 15), governed by the principle that \"as you have done, it shall be done to you,\" anticipates in miniature this doctrine of universal, final judgment.",
+        "pt": "O capítulo 33 confessa que Deus estabeleceu um dia em que julgará o mundo com justiça, para que cada pessoa receba conforme o que fez. A visão de Obadias do «dia do SENHOR... sobre todas as nações» (Abd 15), governado pelo princípio de que «como fizeste se fará contigo», antecipa em miniatura essa doutrina do juízo universal e final."
+      },
+      "genesis": [
+        "Abd 1:15",
+        "Abd 1:16"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Abd 1:3",
+      "es": "La soberbia de tu corazón te ha engañado, tú que habitas en las hendiduras de la peña, en tu morada encumbrada, que dices en tu corazón: '¿Quién me derribará a tierra?'",
+      "en": "The pride of your heart has deceived you, you who live in the clefts of the rock, in your lofty dwelling, who say in your heart, 'Who will bring me down to the ground?'",
+      "pt": "A soberba do teu coração te enganou, ó tu que habitas nas fendas das rochas, cuja habitação é alta, que dizes no teu coração: Quem me derrubará em terra?",
+      "nota": {
+        "es": "Este versículo capta el pecado central de Edom: una confianza autosuficiente en la seguridad geográfica que rivaliza con la confianza debida solo a Dios. La pregunta retórica de Edom recibe respuesta inmediata en el versículo siguiente: Dios mismo lo derribará.",
+        "en": "This verse captures Edom's central sin: a self-sufficient confidence in geographic security that rivals the trust owed to God alone. Edom's rhetorical question receives an immediate answer in the following verse: God himself will bring it down.",
+        "pt": "Este versículo capta o pecado central de Edom: uma confiança autossuficiente na segurança geográfica que rivaliza com a confiança devida somente a Deus. A pergunta retórica de Edom recebe resposta imediata no versículo seguinte: o próprio Deus o derrubará."
+      }
+    },
+    {
+      "ref": "Abd 1:10",
+      "es": "Por la violencia hecha a tu hermano Jacob, te cubrirá la vergüenza, y serás cortado para siempre.",
+      "en": "Because of the violence done to your brother Jacob, shame shall cover you, and you shall be cut off forever.",
+      "pt": "Por causa da violência feita a teu irmão Jacó, a vergonha te cobrirá, e serás exterminado para sempre.",
+      "nota": {
+        "es": "El versículo identifica el crimen de Edom explícitamente como una violación fraternal —«tu hermano Jacob»—, recordando el vínculo de pacto desde Génesis y elevando la ofensa de mera política internacional a traición de sangre.",
+        "en": "The verse explicitly identifies Edom's crime as a fraternal violation — \"your brother Jacob\" — recalling the covenant bond from Genesis and elevating the offense from mere international politics to blood betrayal.",
+        "pt": "O versículo identifica o crime de Edom explicitamente como uma violação fraternal — «teu irmão Jacó» —, lembrando o vínculo de pacto desde Gênesis e elevando a ofensa de mera política internacional a traição de sangue."
+      }
+    },
+    {
+      "ref": "Abd 1:15",
+      "es": "Porque cercano está el día del SEÑOR sobre todas las naciones. Como tú has hecho, se hará contigo; tu recompensa volverá sobre tu cabeza.",
+      "en": "For the day of the LORD is near upon all the nations. As you have done, it shall be done to you; your deeds shall return on your own head.",
+      "pt": "Porque perto está o dia do SENHOR sobre todas as nações; como fizeste se fará contigo; a tua recompensa voltará sobre a tua cabeça.",
+      "nota": {
+        "es": "El punto de giro teológico del libro: el juicio particular contra Edom se convierte en paradigma del principio universal de retribución que gobernará el día del SEÑOR sobre todas las naciones, no solo Edom.",
+        "en": "The book's theological turning point: the particular judgment against Edom becomes the paradigm of the universal retributive principle that will govern the day of the LORD over all nations, not Edom alone.",
+        "pt": "O ponto de virada teológico do livro: o julgamento particular contra Edom se torna o paradigma do princípio universal de retribuição que governará o dia do SENHOR sobre todas as nações, não apenas Edom."
+      }
+    },
+    {
+      "ref": "Abd 1:17",
+      "es": "Mas en el monte Sion habrá liberación, y será santo, y la casa de Jacob poseerá sus posesiones.",
+      "en": "But in Mount Zion there shall be those who escape, and it shall be holy, and the house of Jacob shall possess their own possessions.",
+      "pt": "Mas na montanha de Sião haverá livramento, e será santa; e a casa de Jacó possuirá as suas possessões.",
+      "nota": {
+        "es": "Tras nueve versículos de juicio ininterrumpido contra Edom, el oráculo gira hacia la esperanza: Sion, no Sela, es el verdadero lugar de refugio, y la promesa de posesión anticipa la restauración plena del pueblo de Dios.",
+        "en": "After nine verses of uninterrupted judgment against Edom, the oracle turns toward hope: Zion, not Sela, is the true place of refuge, and the promise of possession anticipates the full restoration of God's people.",
+        "pt": "Após nove versículos de julgamento ininterrupto contra Edom, o oráculo se volta para a esperança: Sião, não Selá, é o verdadeiro lugar de refúgio, e a promessa de posse antecipa a restauração plena do povo de Deus."
+      }
+    },
+    {
+      "ref": "Abd 1:21",
+      "es": "Y subirán libertadores al monte Sion para juzgar el monte de Esaú, y el reino será del SEÑOR.",
+      "en": "Saviors shall go up to Mount Zion to rule Mount Esau, and the kingdom shall be the LORD's.",
+      "pt": "E salvadores subirão ao monte Sião, para julgarem o monte de Esaú; e o reino será do SENHOR.",
+      "nota": {
+        "es": "El versículo final y culminante del libro: la afirmación de que «el reino será del SEÑOR» resume toda la teología de Abdías y anticipa la consumación escatológica del reino de Dios en Cristo (cf. Ap 11:15).",
+        "en": "The book's final, climactic verse: the affirmation that \"the kingdom shall be the LORD's\" summarizes the whole theology of Obadiah and anticipates the eschatological consummation of God's kingdom in Christ (cf. Rev 11:15).",
+        "pt": "O versículo final e culminante do livro: a afirmação de que «o reino será do SENHOR» resume toda a teologia de Obadias e antecipa a consumação escatológica do reino de Deus em Cristo (cf. Ap 11:15)."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Abdías resiste tanto una interpretación puramente nacionalista —el libro como simple desquite contra un enemigo histórico— como una alegorización que ignore su referente histórico concreto. En cambio, ve en el juicio contra Edom la aplicación consistente del pacto abrahámico de bendición y maldición, y en la promesa final del reino que «será del SEÑOR» (Abd 21) una anticipación genuina, dentro del marco de la teología del pacto, del reino escatológico inaugurado y consumado en Jesucristo.",
+    "en": "The Reformed reading of Obadiah resists both a purely nationalistic interpretation — the book as mere payback against a historical enemy — and an allegorization that ignores its concrete historical referent. Instead, it sees in the judgment against Edom the consistent application of the Abrahamic covenant of blessing and cursing, and in the final promise of the kingdom that \"shall be the LORD's\" (Obad 21) a genuine anticipation, within the framework of covenant theology, of the eschatological kingdom inaugurated and consummated in Jesus Christ.",
+    "pt": "A leitura reformada de Obadias resiste tanto a uma interpretação puramente nacionalista — o livro como mero desforço contra um inimigo histórico — quanto a uma alegorização que ignore seu referente histórico concreto. Em vez disso, vê no julgamento contra Edom a aplicação consistente do pacto abraâmico de bênção e maldição, e na promessa final do reino que «será do SENHOR» (Abd 21) uma antecipação genuína, dentro do quadro da teologia do pacto, do reino escatológico inaugurado e consumado em Jesus Cristo."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "Orgullo de Edom Condenado",
+        "en": "Edom's Pride Condemned",
+        "pt": "O Orgulho de Edom Condenado"
+      },
+      "descripcion": {
+        "es": "El oráculo abre con la fórmula profética «Visión de Abdías. Así dice el Señor DIOS acerca de Edom» (Abd 1), anunciando que el SEÑOR ha enviado un mensajero entre las naciones para convocarlas a la guerra contra ella. Dios declara que hará a Edom «pequeña entre las naciones» y «enteramente despreciada» (Abd 2), denunciando la soberbia de un pueblo que habita «en las hendiduras de la peña» —Sela, la fortaleza natural de Edom— y que se pregunta con arrogancia «¿quién me derribará a tierra?» (Abd 3). La respuesta divina es inmediata: aunque Edom se remonte «como águila» y ponga su nido «entre las estrellas», Dios lo derribará de allí (Abd 4).",
+        "en": "The oracle opens with the prophetic formula \"The vision of Obadiah. Thus says the Lord GOD concerning Edom\" (Obad 1), announcing that the LORD has sent a messenger among the nations to summon them to war against her. God declares he will make Edom \"small among the nations\" and \"utterly despised\" (Obad 2), denouncing the pride of a people who dwell \"in the clefts of the rock\" — Sela, Edom's natural fortress — and who arrogantly ask, \"Who will bring me down to the ground?\" (Obad 3). The divine answer is immediate: though Edom soars \"like the eagle\" and sets its nest \"among the stars,\" God will bring it down from there (Obad 4).",
+        "pt": "O oráculo abre com a fórmula profética «Visão de Obadias. Assim diz o Senhor DEUS acerca de Edom» (Abd 1), anunciando que o SENHOR enviou um mensageiro entre as nações para convocá-las à guerra contra ela. Deus declara que fará de Edom «pequena entre as nações» e «totalmente desprezada» (Abd 2), denunciando a soberba de um povo que habita «nas fendas da rocha» — Selá, a fortaleza natural de Edom — e que pergunta com arrogância «quem me derrubará em terra?» (Abd 3). A resposta divina é imediata: ainda que Edom se eleve «como águia» e ponha seu ninho «entre as estrelas», Deus o derrubará dali (Abd 4)."
+      },
+      "eventoClave": {
+        "es": "La convocatoria divina de las naciones contra Edom y la declaración de que su orgullo geográfico no podrá protegerlo del juicio de Dios (Abd 1,3-4).",
+        "en": "The divine summons of the nations against Edom and the declaration that its geographic pride cannot protect it from God's judgment (Obad 1,3-4).",
+        "pt": "A convocação divina das nações contra Edom e a declaração de que seu orgulho geográfico não poderá protegê-lo do juízo de Deus (Abd 1,3-4)."
+      },
+      "versiculoClave": "Abd 1:4",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jer 49:16",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jeremías 49:14-16 contiene un oráculo casi idéntico contra Edom, evidencia de una tradición profética compartida sobre el juicio a la soberbia edomita.",
+            "en": "Jeremiah 49:14-16 contains an almost identical oracle against Edom, evidence of a shared prophetic tradition concerning judgment on Edomite pride.",
+            "pt": "Jeremias 49:14-16 contém um oráculo quase idêntico contra Edom, evidência de uma tradição profética compartilhada sobre o julgamento à soberba edomita."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "Dios convoca activamente a las naciones contra Edom y declara que la humillará «entre las naciones» por su soberbia (Abd 1-2), estableciendo el juicio como tema dominante desde el primer versículo.",
+            "en": "God actively summons the nations against Edom and declares he will humble it \"among the nations\" for its pride (Obad 1-2), establishing judgment as the dominant theme from the first verse.",
+            "pt": "Deus convoca ativamente as nações contra Edom e declara que a humilhará «entre as nações» por sua soberba (Abd 1-2), estabelecendo o julgamento como tema dominante desde o primeiro versículo."
+          }
+        }
+      }
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 9,
+      "titulo": {
+        "es": "Destrucción Total de Edom",
+        "en": "Edom's Total Destruction",
+        "pt": "Destruição Total de Edom"
+      },
+      "descripcion": {
+        "es": "El oráculo intensifica el juicio comparando a Edom con ladrones nocturnos o vendimiadores: incluso ellos dejarían algo (Abd 5), pero Edom será saqueado por completo, sus tesoros escondidos rebuscados (Abd 6). Sus propios aliados —«todos tus hombres de tu alianza»— lo traicionarán y expulsarán hasta la frontera, sin que Edom lo entienda de antemano (Abd 7), ironía deliberada dado que Edom mismo traicionará a su hermano Judá más adelante. Dios promete destruir «a los sabios de Edom» y «el entendimiento del monte de Esaú» (Abd 8), despojando a la nación de su legendaria reputación de sabiduría, y anuncia que los valientes de Temán quedarán espantados, de modo que todo hombre será exterminado del monte de Esaú por la matanza (Abd 9).",
+        "en": "The oracle intensifies the judgment by comparing Edom to nighttime thieves or grape gatherers: even they would leave something behind (Obad 5), but Edom will be thoroughly plundered, its hidden treasures searched out (Obad 6). Edom's own allies — \"all the men of your alliance\" — will betray it and drive it to the border without its foreknowledge (Obad 7), a deliberate irony given that Edom itself will later betray its brother Judah. God promises to destroy \"the wise men out of Edom\" and \"understanding out of Mount Esau\" (Obad 8), stripping the nation of its legendary reputation for wisdom, and announces that the mighty men of Teman will be dismayed, so that everyone from Mount Esau will be cut off by slaughter (Obad 9).",
+        "pt": "O oráculo intensifica o julgamento comparando Edom a ladrões noturnos ou vindimadores: até eles deixariam algo (Abd 5), mas Edom será saqueado por completo, seus tesouros escondidos vasculhados (Abd 6). Seus próprios aliados — «todos os homens de tua aliança» — o trairão e o expulsarão até a fronteira, sem que Edom o percebesse de antemão (Abd 7), ironia deliberada, visto que o próprio Edom trairá seu irmão Judá mais adiante. Deus promete destruir «os sábios de Edom» e «o entendimento do monte de Esaú» (Abd 8), despojando a nação de sua lendária reputação de sabedoria, e anuncia que os valentes de Temã ficarão apavorados, de modo que todo homem será exterminado do monte de Esaú pela matança (Abd 9)."
+      },
+      "eventoClave": {
+        "es": "La ironía profética de que Edom, futuro traidor de su hermano, será a su vez traicionado por sus propios aliados, y que su célebre sabiduría no podrá salvarla (Abd 7-8).",
+        "en": "The prophetic irony that Edom, the future betrayer of its brother, will itself be betrayed by its own allies, and that its famed wisdom cannot save it (Obad 7-8).",
+        "pt": "A ironia profética de que Edom, futuro traidor de seu irmão, será por sua vez traído por seus próprios aliados, e que sua célebre sabedoria não poderá salvá-la (Abd 7-8)."
+      },
+      "versiculoClave": "Abd 1:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jer 49:7",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jeremías también menciona la sabiduría proverbial de Temán en Edom, confirmando la reputación histórica que Abdías declara que Dios destruirá.",
+            "en": "Jeremiah likewise mentions the proverbial wisdom of Teman in Edom, confirming the historical reputation Obadiah declares God will destroy.",
+            "pt": "Jeremias também menciona a sabedoria proverbial de Temã em Edom, confirmando a reputação histórica que Obadias declara que Deus destruirá."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sabiduría": {
+            "es": "Dios promete destruir «a los sabios de Edom» (Abd 8), despojando a la nación de su legendaria sabiduría (cf. Job 2:11), mostrando que la sabiduría humana sin temor de Dios no puede salvar.",
+            "en": "God promises to destroy \"the wise men out of Edom\" (Obad 8), stripping the nation of its legendary wisdom (cf. Job 2:11), showing that human wisdom without the fear of God cannot save.",
+            "pt": "Deus promete destruir «os sábios de Edom» (Abd 8), despojando a nação de sua lendária sabedoria (cf. Jó 2:11), mostrando que a sabedoria humana sem o temor de Deus não pode salvar."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "El saqueo total y la traición de los aliados de Edom (Abd 5-7) continúan desarrollando el juicio anunciado en la unidad anterior, ahora con detalles concretos de su ejecución.",
+              "en": "Edom's total plunder and the betrayal by its allies (Obad 5-7) continue developing the judgment announced in the previous unit, now with concrete details of its execution.",
+              "pt": "O saque total e a traição dos aliados de Edom (Abd 5-7) continuam desenvolvendo o julgamento anunciado na unidade anterior, agora com detalhes concretos de sua execução."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 10,
+      "rangoFin": 14,
+      "titulo": {
+        "es": "La Traición contra el Hermano Jacob",
+        "en": "The Betrayal of Brother Jacob",
+        "pt": "A Traição contra o Irmão Jacó"
+      },
+      "descripcion": {
+        "es": "El oráculo articula el crimen específico de Edom: por la violencia hecha a su hermano Jacob, la vergüenza cubrirá a Edom para siempre (Abd 10). El día que extraños llevaban cautivo el ejército de Jacob y entraban por sus puertas y echaban suertes sobre Jerusalén, Edom fue «como uno de ellos» —cómplice pasivo primero (Abd 11). Luego la acusación se intensifica con la serie repetida «no debiste»: Edom no debió mirar con gusto el día de su hermano, ni regocijarse sobre los hijos de Judá en el día de su ruina, ni hablar con soberbia en el día de la angustia (Abd 12), ni entrar por la puerta de mi pueblo en el día de su calamidad, ni echar mano a sus bienes, ni pararse en las encrucijadas para cortar a sus fugitivos, ni entregar a los sobrevivientes (Abd 13-14). El pasaje se mueve de la indiferencia pasiva a la complicidad activa en la violencia.",
+        "en": "The oracle articulates Edom's specific crime: because of the violence done to its brother Jacob, shame will cover Edom forever (Obad 10). The day strangers carried off Jacob's wealth captive and entered his gates and cast lots over Jerusalem, Edom was \"like one of them\" — a passive accomplice at first (Obad 11). Then the accusation intensifies with the repeated \"should not have\" series: Edom should not have gloated over its brother's day, nor rejoiced over the people of Judah in the day of their ruin, nor boasted in the day of distress (Obad 12), nor entered my people's gate in the day of their calamity, nor looted their goods, nor stood at the crossroads to cut off fugitives, nor handed over survivors (Obad 13-14). The passage moves from passive indifference to active complicity in violence.",
+        "pt": "O oráculo articula o crime específico de Edom: por causa da violência feita a seu irmão Jacó, a vergonha cobrirá Edom para sempre (Abd 10). No dia em que estranhos levavam cativo o exército de Jacó e entravam por suas portas e lançavam sortes sobre Jerusalém, Edom foi «como um deles» — cúmplice passivo a princípio (Abd 11). Depois a acusação se intensifica com a série repetida «não devias»: Edom não devia ter olhado com prazer o dia de seu irmão, nem se regozijado sobre os filhos de Judá no dia de sua ruína, nem falado com soberba no dia da angústia (Abd 12), nem entrado pela porta do meu povo no dia de sua calamidade, nem lançado mão de seus bens, nem parado nas encruzilhadas para cortar seus fugitivos, nem entregado os sobreviventes (Abd 13-14). A passagem se move da indiferença passiva à cumplicidade ativa na violência."
+      },
+      "eventoClave": {
+        "es": "Las siete acusaciones concretas —«no debiste»— documentan la escalada de Edom desde la indiferencia hasta la complicidad activa en el saqueo y la violencia contra Judá (Abd 12-14).",
+        "en": "The seven concrete accusations — \"should not have\" — document Edom's escalation from indifference to active complicity in the plunder and violence against Judah (Obad 12-14).",
+        "pt": "As sete acusações concretas — «não devias» — documentam a escalada de Edom da indiferença à cumplicidade ativa no saque e na violência contra Judá (Abd 12-14)."
+      },
+      "versiculoClave": "Abd 1:12",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 25:23",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El conflicto fraternal denunciado en Abd 10-14 se remonta a la profecía dada a Rebeca antes del nacimiento de los mellizos: «dos naciones hay en tu seno».",
+            "en": "The fraternal conflict denounced in Obad 10-14 traces back to the prophecy given to Rebekah before the twins' birth: \"two nations are in your womb.\"",
+            "pt": "O conflito fraternal denunciado em Abd 10-14 remonta à profecia dada a Rebeca antes do nascimento dos gêmeos: «duas nações há em teu ventre»."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "La denuncia repetida de Edom actuando contra «su hermano Jacob» (Abd 10,12) invoca directamente el vínculo de pacto fraternal establecido desde Gn 25:23, que Edom traiciona mediante la violencia y la complicidad.",
+            "en": "The repeated denunciation of Edom acting against \"his brother Jacob\" (Obad 10,12) directly invokes the fraternal covenant bond established from Gen 25:23, which Edom betrays through violence and complicity.",
+            "pt": "A denúncia repetida de Edom agindo contra «seu irmão Jacó» (Abd 10,12) invoca diretamente o vínculo de pacto fraternal estabelecido desde Gn 25:23, que Edom trai por meio da violência e da cumplicidade."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Cada acusación de la serie «no debiste» (Abd 12-14) acumula evidencia concreta que fundamenta la sentencia de juicio ya anunciada, mostrando que el juicio divino responde a actos históricos específicos.",
+              "en": "Each accusation in the \"should not have\" series (Obad 12-14) accumulates concrete evidence grounding the already-announced sentence of judgment, showing that divine judgment responds to specific historical acts.",
+              "pt": "Cada acusação da série «não devias» (Abd 12-14) acumula evidência concreta que fundamenta a sentença de julgamento já anunciada, mostrando que o juízo divino responde a atos históricos específicos."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 15,
+      "rangoFin": 16,
+      "titulo": {
+        "es": "El Día del SEÑOR sobre Todas las Naciones",
+        "en": "The Day of the LORD upon All Nations",
+        "pt": "O Dia do SENHOR sobre Todas as Nações"
+      },
+      "descripcion": {
+        "es": "El oráculo alcanza su punto de giro teológico: «porque cercano está el día del SEÑOR sobre todas las naciones» (Abd 15), universalizando lo que hasta ahora había sido un juicio particular contra Edom. El principio que rige ese día es la retribución exacta: «como tú has hecho, se hará contigo; tu recompensa volverá sobre tu cabeza» (Abd 15), aplicando a todas las naciones la misma ley que se ha aplicado a Edom. El versículo 16 añade una imagen de copa: así como Judá bebió el juicio «sobre mi santo monte», todas las naciones beberán continuamente, y serán «como si nunca hubieran existido» (Abd 16), extendiendo el alcance del juicio divino más allá de la disputa fronteriza entre hermanos hasta abarcar la totalidad de las naciones del mundo.",
+        "en": "The oracle reaches its theological turning point: \"For the day of the LORD is near upon all the nations\" (Obad 15), universalizing what until now had been a particular judgment against Edom. The principle governing that day is exact retribution: \"As you have done, it shall be done to you; your deeds shall return on your own head\" (Obad 15), applying to all nations the same law applied to Edom. Verse 16 adds a cup image: just as Judah drank judgment \"on my holy mountain,\" all nations will drink continually, and shall be \"as though they had never been\" (Obad 16), extending the reach of divine judgment beyond the border dispute between brothers to encompass all the nations of the world.",
+        "pt": "O oráculo alcança seu ponto de virada teológico: «porque perto está o dia do SENHOR sobre todas as nações» (Abd 15), universalizando o que até agora havia sido um julgamento particular contra Edom. O princípio que rege esse dia é a retribuição exata: «como fizeste se fará contigo; a tua recompensa voltará sobre a tua cabeça» (Abd 15), aplicando a todas as nações a mesma lei aplicada a Edom. O versículo 16 acrescenta uma imagem de copo: assim como Judá bebeu o julgamento «sobre o meu monte santo», todas as nações beberão continuamente, e serão «como se nunca tivessem existido» (Abd 16), estendendo o alcance do juízo divino além da disputa fronteiriça entre irmãos até abranger a totalidade das nações do mundo."
+      },
+      "eventoClave": {
+        "es": "La universalización del juicio particular contra Edom en «el día del SEÑOR... sobre todas las naciones», gobernado por la ley de retribución exacta (Abd 15).",
+        "en": "The universalization of the particular judgment against Edom into \"the day of the LORD... upon all the nations,\" governed by the law of exact retribution (Obad 15).",
+        "pt": "A universalização do julgamento particular contra Edom no «dia do SENHOR... sobre todas as nações», governado pela lei de retribuição exata (Abd 15)."
+      },
+      "versiculoClave": "Abd 1:15",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jl 3:14",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Joel también describe el «día del SEÑOR» como juicio universal sobre las naciones congregadas en el valle de la decisión, el mismo motivo escatológico que Abdías aplica primero a Edom y luego a todas las naciones.",
+            "en": "Joel likewise describes the \"day of the LORD\" as universal judgment on the nations gathered in the valley of decision, the same eschatological motif Obadiah applies first to Edom and then to all nations.",
+            "pt": "Joel também descreve o «dia do SENHOR» como julgamento universal sobre as nações congregadas no vale da decisão, o mesmo motivo escatológico que Obadias aplica primeiro a Edom e depois a todas as nações."
+          }
+        },
+        {
+          "ref": "Ap 14:10",
+          "tipo": "tipología",
+          "nota": {
+            "es": "La imagen de beber la copa del juicio (Abd 16) reaparece en Apocalipsis como la copa del furor de Dios que beberán los enemigos finales del reino de Cristo.",
+            "en": "The image of drinking the cup of judgment (Obad 16) reappears in Revelation as the cup of God's wrath that the final enemies of Christ's kingdom will drink.",
+            "pt": "A imagem de beber o copo do juízo (Abd 16) reaparece em Apocalipse como o copo da ira de Deus que os inimigos finais do reino de Cristo beberão."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Juicio Final": {
+            "es": "La afirmación de que «cercano está el día del SEÑOR sobre todas las naciones» (Abd 15) universaliza el juicio particular contra Edom en un patrón escatológico que anticipa el juicio final universal.",
+            "en": "The affirmation that \"the day of the LORD is near upon all the nations\" (Obad 15) universalizes the particular judgment against Edom into an eschatological pattern anticipating the universal final judgment.",
+            "pt": "A afirmação de que «perto está o dia do SENHOR sobre todas as nações» (Abd 15) universaliza o julgamento particular contra Edom em um padrão escatológico que antecipa o juízo final universal."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La imagen de todas las naciones bebiendo continuamente la copa del juicio (Abd 16) extiende la ira divina ya anunciada contra Edom a la totalidad de los pueblos del mundo.",
+              "en": "The image of all nations continually drinking the cup of judgment (Obad 16) extends the divine wrath already announced against Edom to all the peoples of the world.",
+              "pt": "A imagem de todas as nações bebendo continuamente o copo do julgamento (Abd 16) estende a ira divina já anunciada contra Edom à totalidade dos povos do mundo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 17,
+      "rangoFin": 21,
+      "titulo": {
+        "es": "Restauración de Sion y el Reino del SEÑOR",
+        "en": "Zion's Restoration and the Kingdom of the LORD",
+        "pt": "A Restauração de Sião e o Reino do SENHOR"
+      },
+      "descripcion": {
+        "es": "El oráculo cierra con un giro hacia la esperanza. «Mas en el monte Sion habrá liberación, y será santo, y la casa de Jacob poseerá sus posesiones» (Abd 17), contrastando a Sion —el verdadero lugar de refugio— con Sela, la falsa fortaleza de Edom. La casa de Jacob y la casa de José serán fuego y llama que consumirá el rastrojo de la casa de Esaú, «no quedará remanente de la casa de Esaú» (Abd 18), cumpliendo la sentencia de destrucción total anunciada en Abd 9. El territorio restaurado se extiende en todas direcciones —el Néguev, la Sefela, Efraín, Samaria, Benjamín, Galaad, y hasta Sefarad (Abd 19-20)— y el libro culmina con la afirmación decisiva: «subirán libertadores al monte Sion para juzgar el monte de Esaú, y el reino será del SEÑOR» (Abd 21).",
+        "en": "The oracle closes with a turn toward hope. \"But in Mount Zion there shall be those who escape, and it shall be holy, and the house of Jacob shall possess their own possessions\" (Obad 17), contrasting Zion — the true place of refuge — with Sela, Edom's false fortress. The house of Jacob and the house of Joseph shall be fire and flame consuming the stubble of the house of Esau, \"there shall be no survivor to the house of Esau\" (Obad 18), fulfilling the sentence of total destruction announced in Obad 9. The restored territory extends in every direction — the Negeb, the Shephelah, Ephraim, Samaria, Benjamin, Gilead, and as far as Sepharad (Obad 19-20) — and the book culminates in the decisive affirmation: \"Saviors shall go up to Mount Zion to rule Mount Esau, and the kingdom shall be the LORD's\" (Obad 21).",
+        "pt": "O oráculo se encerra com uma virada rumo à esperança. «Mas na montanha de Sião haverá livramento, e será santa; e a casa de Jacó possuirá as suas possessões» (Abd 17), contrastando Sião — o verdadeiro lugar de refúgio — com Selá, a falsa fortaleza de Edom. A casa de Jacó e a casa de José serão fogo e labareda que consumirá o restolho da casa de Esaú, «não haverá sobrevivente para a casa de Esaú» (Abd 18), cumprindo a sentença de destruição total anunciada em Abd 9. O território restaurado se estende em todas as direções — o Neguebe, a Sefelá, Efraim, Samaria, Benjamim, Gileade, e até Sefarade (Abd 19-20) — e o livro culmina com a afirmação decisiva: «e salvadores subirão ao monte Sião, para julgarem o monte de Esaú; e o reino será do SENHOR» (Abd 21)."
+      },
+      "eventoClave": {
+        "es": "La afirmación culminante de que «el reino será del SEÑOR» (Abd 21), el clímax teológico de todo el libro y su contribución única al canon profético.",
+        "en": "The climactic affirmation that \"the kingdom shall be the LORD's\" (Obad 21), the theological climax of the entire book and its unique contribution to the prophetic canon.",
+        "pt": "A afirmação culminante de que «o reino será do SENHOR» (Abd 21), o clímax teológico de todo o livro e sua contribuição única ao cânon profético."
+      },
+      "versiculoClave": "Abd 1:21",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ap 11:15",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La proclamación final de Abdías de que «el reino será del SEÑOR» halla su cumplimiento escatológico pleno en la declaración de que «el reino del mundo ha venido a ser de nuestro Señor y de su Cristo» (Ap 11:15).",
+            "en": "Obadiah's final proclamation that \"the kingdom shall be the LORD's\" finds its full eschatological fulfillment in the declaration that \"the kingdom of the world has become the kingdom of our Lord and of his Christ\" (Rev 11:15).",
+            "pt": "A proclamação final de Obadias de que «o reino será do SENHOR» encontra seu cumprimento escatológico pleno na declaração de que «o reino do mundo se tornou de nosso Senhor e do seu Cristo» (Ap 11:15)."
+          }
+        },
+        {
+          "ref": "Ro 9:13",
+          "tipo": "doctrinal",
+          "nota": {
+            "es": "Pablo apela a la elección de Jacob sobre Esaú, citando Mal 1:2-3, para ilustrar la soberanía electiva de Dios, el mismo trasfondo de pacto presupuesto por la restauración prometida en Abd 17-21.",
+            "en": "Paul appeals to the election of Jacob over Esau, citing Mal 1:2-3, to illustrate God's electing sovereignty, the same covenant background presupposed by the restoration promised in Obad 17-21.",
+            "pt": "Paulo apela à eleição de Jacó sobre Esaú, citando Ml 1:2-3, para ilustrar a soberania eletiva de Deus, o mesmo pano de fundo de pacto pressuposto pela restauração prometida em Abd 17-21."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reino de Dios": {
+            "es": "El clímax del libro, «el reino será del SEÑOR» (Abd 21), declara que la soberanía final sobre la historia y las naciones pertenece únicamente a Dios, tras subir libertadores a Sion para juzgar el monte de Esaú.",
+            "en": "The book's climax, \"the kingdom shall be the LORD's\" (Obad 21), declares that final sovereignty over history and the nations belongs to God alone, after saviors go up to Zion to rule Mount Esau.",
+            "pt": "O clímax do livro, «o reino será do SENHOR» (Abd 21), declara que a soberania final sobre a história e as nações pertence unicamente a Deus, após salvadores subirem a Sião para julgar o monte de Esaú."
+          }
+        },
+        "secundarios": [
+          {
+            "Remanente": {
+              "es": "La sentencia de que «no quedará remanente de la casa de Esaú» (Abd 18) contrasta con la promesa paralela de que la casa de Jacob sí sobrevivirá y poseerá su herencia (Abd 17).",
+              "en": "The sentence that \"there shall be no survivor to the house of Esau\" (Obad 18) contrasts with the parallel promise that the house of Jacob will indeed survive and possess its inheritance (Obad 17).",
+              "pt": "A sentença de que «não haverá sobrevivente para a casa de Esaú» (Abd 18) contrasta com a promessa paralela de que a casa de Jacó de fato sobreviverá e possuirá sua herança (Abd 17)."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La restauración territorial prometida a la casa de Jacob, extendida hasta Sefarad y las ciudades del Néguev (Abd 19-20), cumple la promesa de posesión de la tierra hecha al pueblo del pacto.",
+              "en": "The territorial restoration promised to the house of Jacob, extending as far as Sepharad and the cities of the Negeb (Obad 19-20), fulfills the promise of land possession made to the covenant people.",
+              "pt": "A restauração territorial prometida à casa de Jacó, estendida até Sefarade e as cidades do Neguebe (Abd 19-20), cumpre a promessa de posse da terra feita ao povo do pacto."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos y reformados de renombre internacional.",
+          "en": "The ESV Study Bible is an editorial project of Crossway directed by Lane T. Dennis, with Wayne Grudem as general theological editor, bringing together more than 90 internationally recognized evangelical and Reformed scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos e reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas de estudio verso por verso con ensayos temáticos, mapas y cronologías, todo dentro de un marco teológico evangélico reformado que enfatiza la inerrancia bíblica y la lectura redentora-histórica del canon.",
+          "en": "It combines verse-by-verse study notes with thematic essays, maps, and chronologies, all within an evangelical Reformed theological framework emphasizing biblical inerrancy and a redemptive-historical reading of the canon.",
+          "pt": "Combina notas de estudo verso por verso com ensaios temáticos, mapas e cronologias, tudo dentro de um quadro teológico evangélico reformado que enfatiza a inerrância bíblica e a leitura redentora-histórica do cânon."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio, la datación y el bosquejo estructural utilizados para establecer el contexto histórico y literario de Abdías en este registro.",
+          "en": "It provided the introductory framework, dating, and structural outline used to establish Obadiah's historical and literary context in this record.",
+          "pt": "Forneceu o quadro introdutório, a datação e o esboço estrutural utilizados para estabelecer o contexto histórico e literário de Obadias neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas teológicas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theological notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Notas teológicas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la santidad de Dios y la soberanía divina.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of 20th-century Reformed evangelicalism, known for his defense of God's holiness and divine sovereignty.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da santidade de Deus e da soberania divina."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio doctrinalmente precisas, ancladas en la Confesión de Westminster y los estándares confesionales reformados históricos.",
+          "en": "He edited a team of Reformed scholars to produce doctrinally precise study notes, anchored in the Westminster Confession and the historic Reformed confessional standards.",
+          "pt": "Editou uma equipe de estudiosos reformados para produzir notas de estudo doutrinariamente precisas, ancoradas na Confissão de Westminster e nos padrões confessionais reformados históricos."
+        },
+        "aportacion": {
+          "es": "Ofreció las notas teológicas confesionales utilizadas para conectar el mensaje de Abdías con las doctrinas de la providencia, el pacto y el juicio final articuladas en la Confesión de Westminster.",
+          "en": "It provided the confessional theological notes used to connect Obadiah's message with the doctrines of providence, covenant, and final judgment articulated in the Westminster Confession.",
+          "pt": "Ofereceu as notas teológicas confessionais utilizadas para conectar a mensagem de Obadias com as doutrinas da providência, do pacto e do juízo final articuladas na Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Terminología teológica",
+          "Citas bíblicas NBLA"
+        ],
+        "en": [
+          "Theological terminology",
+          "NBLA Scripture quotations"
+        ],
+        "pt": [
+          "Terminologia teológica",
+          "Citações bíblicas NBLA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries para llevar la erudición reformada al mundo hispanohablante.",
+          "en": "A Spanish adaptation of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries to bring Reformed scholarship to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com a Ligonier Ministries para levar a erudição reformada ao mundo hispanofalante."
+        },
+        "metodo": {
+          "es": "Traduce y adapta las notas teológicas de la Reformation Study Bible al contexto y la versión NBLA, manteniendo el mismo rigor confesional reformado del original en inglés.",
+          "en": "It translates and adapts the theological notes of the Reformation Study Bible to the context and the NBLA version, maintaining the same Reformed confessional rigor of the English original.",
+          "pt": "Traduz e adapta as notas teológicas da Reformation Study Bible ao contexto e à versão NBLA, mantendo o mesmo rigor confessional reformado do original em inglês."
+        },
+        "aportacion": {
+          "es": "Sirvió como referencia primaria en español para la terminología teológica y las citas bíblicas en NBLA utilizadas a lo largo de este registro.",
+          "en": "It served as the primary Spanish-language reference for theological terminology and the NBLA Scripture quotations used throughout this record.",
+          "pt": "Serviu como referência primária em espanhol para a terminologia teológica e as citações bíblicas em NBLA utilizadas ao longo deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Providencia",
+          "Escatología"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Providence",
+          "Eschatology"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Providência",
+          "Escatologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático evangélico, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y coeditor general de la ESV Study Bible.",
+          "en": "Wayne Grudem is an evangelical systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo sistemático evangélico, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e coeditor geral da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, fundamentando cada afirmación doctrinal directamente en el texto bíblico con amplias referencias cruzadas.",
+          "en": "He organizes Christian doctrine by classic systematic categories, grounding each doctrinal affirmation directly in the biblical text with extensive cross-references.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, fundamentando cada afirmação doutrinária diretamente no texto bíblico com amplas referências cruzadas."
+        },
+        "aportacion": {
+          "es": "Proporcionó las categorías de teología sistemática —providencia, pacto, escatología— utilizadas para estructurar la sección teológica de este registro sobre Abdías.",
+          "en": "It provided the systematic theology categories — providence, covenant, eschatology — used to structure the theological section of this record on Obadiah.",
+          "pt": "Forneceu as categorias de teologia sistemática — providência, pacto, escatologia — utilizadas para estruturar a seção teológica deste registro sobre Obadias."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/systematic-theology"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas históricas del pacto, enfatizando la unidad orgánica de la Escritura y su culminación cristológica.",
+          "en": "He traces the progressive development of divine revelation through the historical epochs of the covenant, emphasizing the organic unity of Scripture and its christological culmination.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas históricas do pacto, enfatizando a unidade orgânica da Escritura e sua culminação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y la ubicación de Abdías dentro del marco de la historia redentora —la época de «Anticipación Profética»— utilizado en este registro.",
+          "en": "It grounded the christological focus and the placement of Obadiah within the framework of redemptive history — the epoch of \"Prophetic Anticipation\" — used in this record.",
+          "pt": "Fundamentou o enfoque cristológico e a localização de Obadias dentro do quadro da história redentora — a época de «Antecipação Profética» — utilizado neste registro."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biblical-theology-doctrine/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Cercano Oriente Antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Ancient Near East"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo del Cercano Oriente Antiguo, con nombramientos en Wheaton College, Missouri State University y la Universidad de Kansas respectivamente.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the Ancient Near Eastern background, holding appointments at Wheaton College, Missouri State University, and the University of Kansas respectively.",
+          "pt": "Walton, Matthews e Chavalas são estudiosos veterotestamentários especializados no pano de fundo do Antigo Oriente Próximo, com nomeações em Wheaton College, Missouri State University e na University of Kansas respectivamente."
+        },
+        "metodo": {
+          "es": "Comenta el texto bíblico versículo por versículo iluminando su trasfondo cultural, geográfico y arqueológico del Cercano Oriente Antiguo, sin comprometer la autoridad del texto revelado.",
+          "en": "It comments on the biblical text verse by verse, illuminating its Ancient Near Eastern cultural, geographic, and archaeological background, without compromising the authority of the revealed text.",
+          "pt": "Comenta o texto bíblico versículo por versículo, iluminando seu pano de fundo cultural, geográfico e arqueológico do Antigo Oriente Próximo, sem comprometer a autoridade do texto revelado."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo geográfico y arqueológico sobre Edom, Sela y las rutas comerciales del Néguev utilizado en la sección de contexto histórico de este registro.",
+          "en": "It provided the geographic and archaeological background on Edom, Sela, and the Negev trade routes used in the historical context section of this record.",
+          "pt": "Forneceu o pano de fundo geográfico e arqueológico sobre Edom, Selá e as rotas comerciais do Neguebe utilizado na seção de contexto histórico deste registro."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (Walton, 2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Excavaciones edomitas"
+        ],
+        "en": [
+          "Archaeology",
+          "Edomite excavations"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Escavações edomitas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida por un equipo de arqueólogos y eruditos bíblicos evangélicos bajo Zondervan, esta obra reúne hallazgos arqueológicos relevantes para la interpretación del texto bíblico en su contexto histórico original.",
+          "en": "Produced by a team of archaeologists and evangelical biblical scholars under Zondervan, this work brings together archaeological findings relevant to interpreting the biblical text in its original historical context.",
+          "pt": "Produzida por uma equipe de arqueólogos e estudiosos bíblicos evangélicos sob a Zondervan, esta obra reúne achados arqueológicos relevantes para a interpretação do texto bíblico em seu contexto histórico original."
+        },
+        "metodo": {
+          "es": "Inserta notas arqueológicas y artículos temáticos junto al texto bíblico, correlacionando descubrimientos materiales específicos con pasajes y personajes bíblicos concretos.",
+          "en": "It inserts archaeological notes and thematic articles alongside the biblical text, correlating specific material discoveries with concrete biblical passages and figures.",
+          "pt": "Insere notas arqueológicas e artigos temáticos junto ao texto bíblico, correlacionando descobertas materiais específicas com passagens e personagens bíblicos concretos."
+        },
+        "aportacion": {
+          "es": "Aportó los datos sobre las excavaciones en Buseirah, Tawilan y Umm al-Biyara utilizados para documentar el reino edomita histórico presupuesto por Abdías.",
+          "en": "It provided the data on the excavations at Buseirah, Tawilan, and Umm al-Biyara used to document the historical Edomite kingdom presupposed by Obadiah.",
+          "pt": "Contribuiu com os dados sobre as escavações em Buseirah, Tawilan e Umm al-Biyara utilizados para documentar o reino edomita histórico pressuposto por Obadias."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 2000,
+      "editorial": "Westminster John Knox Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología",
+          "Relaciones Judá-Edom",
+          "Caída de Jerusalén"
+        ],
+        "en": [
+          "Chronology",
+          "Judah-Edom relations",
+          "Fall of Jerusalem"
+        ],
+        "pt": [
+          "Cronologia",
+          "Relações Judá-Edom",
+          "Queda de Jerusalém"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908-1995) fue profesor de Antiguo Testamento en Union Theological Seminary en Virginia y una figura decisiva en la reconstrucción histórica de Israel dentro de la erudición bíblica del siglo XX.",
+          "en": "John Bright (1908-1995) was professor of Old Testament at Union Theological Seminary in Virginia and a decisive figure in the historical reconstruction of Israel within 20th-century biblical scholarship.",
+          "pt": "John Bright (1908-1995) foi professor de Antigo Testamento no Union Theological Seminary, na Virgínia, e uma figura decisiva na reconstrução histórica de Israel dentro da erudição bíblica do século XX."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el testimonio bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, dentro de un marco históricamente riguroso.",
+          "en": "He reconstructs the history of Israel by integrating the biblical testimony with archaeological evidence and extrabiblical Ancient Near Eastern records, within a historically rigorous framework.",
+          "pt": "Reconstrói a história de Israel integrando o testemunho bíblico com a evidência arqueológica e os registros extrabíblicos do Antigo Oriente Próximo, dentro de um quadro historicamente rigoroso."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico y geopolítico de las relaciones entre Judá, Edom y Babilonia en el siglo VI a.C. utilizado para fechar y contextualizar Abdías en este registro.",
+          "en": "It provided the chronological and geopolitical framework of relations between Judah, Edom, and Babylon in the 6th century BC used to date and contextualize Obadiah in this record.",
+          "pt": "Forneceu o quadro cronológico e geopolítico das relações entre Judá, Edom e Babilônia no século VI a.C. utilizado para datar e contextualizar Obadias neste registro."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.72,
+    "camposMarcados": [
+      {
+        "campo": "año / autor.nota",
+        "razon": "Se prefiere la fecha postexílica (c. 586-550 a.C., poco después de la caída de Jerusalén) sobre la propuesta minoritaria de una fecha temprana en el siglo IX a.C., siguiendo la posición mayoritaria entre eruditos reformados y evangélicos conservadores, aunque el libro no ofrece un marcador cronológico definitivo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se documenta la relación literaria entre Abd 1-9 y Jer 49:7-22, casi idénticos en varios versículos, sosteniendo una fuente profética común o el uso inspirado de Jeremías del oráculo de Abdías, sin comprometer la autoría ni la inspiración de ninguno de los dos libros.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "personajes[].Abdías.biografiaHistorica",
+        "razon": "No existe atestación extrabíblica que permita identificar al profeta Abdías con certeza; nivelEvidencia se marcó 'especulativo' por definición de la categoría, sin que esto debilite la autoridad del texto profético.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "El único capítulo del libro (21 versículos) se subdividió en 5 unidades temáticas por rango de versículo —siguiendo la convención ya usada para libros de un solo capítulo como Filemón— en lugar de tratar el capítulo entero como una sola unidad indivisible, para reflejar los distintos movimientos retóricos del oráculo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-05T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-05T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

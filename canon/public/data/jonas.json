@@ -1,0 +1,1693 @@
+{
+  "id": 32,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Jonás",
+    "en": "Jonah",
+    "pt": "Jonas"
+  },
+  "tituloOriginal": "יוֹנָה",
+  "transliteracion": "Yônâh",
+  "significado": {
+    "es": "Paloma",
+    "en": "Dove",
+    "pt": "Pomba"
+  },
+  "resumenGeneral": {
+    "es": "Jonás abre con la orden divina de ir a Nínive y la huida deliberada del profeta hacia Tarsis (Jon 1:1-3), una rebeldía que la tormenta enviada por Dios y el gran pez interrumpen dramáticamente (Jon 1:4-2:10). El relato gira en el capítulo 3: Jonás finalmente predica en Nínive, y toda la ciudad —desde el rey hasta el ganado— se arrepiente en cilicio y ceniza, y Dios se compadece y no ejecuta la destrucción anunciada (Jon 3:1-10). El libro no cierra con la conversión de Nínive sino con la ira de Jonás por la misericordia de Dios y la pregunta final, sin respuesta narrada, con que Dios confronta el corazón estrecho de su profeta: «¿no tendré yo piedad de Nínive?» (Jon 4:1-11).",
+    "en": "Jonah opens with the divine command to go to Nineveh and the prophet's deliberate flight toward Tarshish (Jonah 1:1-3), a rebellion that the God-sent storm and the great fish dramatically interrupt (Jonah 1:4-2:10). The narrative turns in chapter 3: Jonah finally preaches in Nineveh, and the whole city — from the king to the cattle — repents in sackcloth and ashes, and God relents from the destruction he had announced (Jonah 3:1-10). The book does not close with Nineveh's conversion but with Jonah's anger at God's mercy and the final, narratively unanswered question with which God confronts his prophet's narrow heart: \"should I not pity Nineveh?\" (Jonah 4:1-11).",
+    "pt": "Jonas abre com a ordem divina de ir a Nínive e a fuga deliberada do profeta rumo a Társis (Jn 1:1-3), uma rebeldia que a tempestade enviada por Deus e o grande peixe interrompem dramaticamente (Jn 1:4-2:10). O relato vira no capítulo 3: Jonas finalmente prega em Nínive, e toda a cidade — desde o rei até o gado — se arrepende em cilício e cinza, e Deus se compadece e não executa a destruição anunciada (Jn 3:1-10). O livro não se encerra com a conversão de Nínive, mas com a ira de Jonas pela misericórdia de Deus e a pergunta final, sem resposta narrada, com que Deus confronta o coração estreito de seu profeta: «não pouparia eu a Nínive?» (Jn 4:1-11)."
+  },
+  "capitulosTotal": 4,
+  "autor": {
+    "nombre": {
+      "es": "Jonás",
+      "en": "Jonah",
+      "pt": "Jonas"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El libro es anónimo, pero la tradición conservadora lo atribuye al propio Jonás hijo de Amitai, identificado en 2R 14:25 como profeta de Gat-hefer activo durante el reinado de Jeroboam II. La narración predominantemente en tercera persona no exige un autor distinto, del mismo modo que Moisés narra su propia vida en tercera persona en el Pentateuco; no hay razón textual decisiva para negar la autoría tradicional.",
+      "en": "The book is anonymous, but the conservative tradition attributes it to Jonah son of Amittai himself, identified in 2Kgs 14:25 as a prophet from Gath Hepher active during the reign of Jeroboam II. The predominantly third-person narration does not require a different author, just as Moses narrates his own life in the third person in the Pentateuch; there is no decisive textual reason to deny traditional authorship.",
+      "pt": "O livro é anônimo, mas a tradição conservadora o atribui ao próprio Jonas, filho de Amitai, identificado em 2Rs 14:25 como profeta de Gate-Hefer ativo durante o reinado de Jeroboão II. A narração predominantemente em terceira pessoa não exige um autor distinto, da mesma forma que Moisés narra sua própria vida em terceira pessoa no Pentateuco; não há razão textual decisiva para negar a autoria tradicional."
+    }
+  },
+  "año": {
+    "desde": -785,
+    "hasta": -750,
+    "display": {
+      "es": "Fecha de escritura: c. 785-750 a.C., durante el reinado de Jeroboam II en Israel",
+      "en": "Date of writing: c. 785-750 BC, during the reign of Jeroboam II in Israel",
+      "pt": "Data de escrita: c. 785-750 a.C., durante o reinado de Jeroboão II em Israel"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "El reino del norte de Israel, posiblemente en Gat-hefer, en Galilea, la tierra natal de Jonás",
+    "en": "The northern kingdom of Israel, possibly at Gath Hepher in Galilee, Jonah's hometown",
+    "pt": "O reino do norte de Israel, possivelmente em Gate-Hefer, na Galileia, terra natal de Jonas"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron Age II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Nínive",
+          "en": "Nineveh",
+          "pt": "Nínive"
+        },
+        "identificacionModerna": {
+          "es": "Ubicada junto al río Tigris, cerca de la actual Mosul, Irak",
+          "en": "Located on the Tigris River, near modern Mosul, Iraq",
+          "pt": "Localizada junto ao rio Tigre, perto da atual Mossul, Iraque"
+        },
+        "significancia": {
+          "es": "Capital del imperio asirio, la «gran ciudad» cuyo arrepentimiento ante la predicación de Jonás es el clímax teológico del libro (Jon 3:2-10)",
+          "en": "Capital of the Assyrian empire, the \"great city\" whose repentance at Jonah's preaching is the book's theological climax (Jonah 3:2-10)",
+          "pt": "Capital do império assírio, a «grande cidade» cujo arrependimento diante da pregação de Jonas é o clímax teológico do livro (Jn 3:2-10)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Tarsis",
+          "en": "Tarshish",
+          "pt": "Társis"
+        },
+        "identificacionModerna": {
+          "es": "Probablemente Tartesos, en el sur de España, o un término idiomático para «el extremo occidente»",
+          "en": "Probably Tartessus, in southern Spain, or an idiomatic term for \"the far west\"",
+          "pt": "Provavelmente Társis, no sul da Espanha, ou um termo idiomático para «o extremo ocidente»"
+        },
+        "significancia": {
+          "es": "El destino opuesto a Nínive que Jonás elige en su huida, simbolizando el intento de escapar lo más lejos posible del llamado de Dios (Jon 1:3)",
+          "en": "The destination opposite Nineveh that Jonah chooses in his flight, symbolizing the attempt to escape as far as possible from God's call (Jonah 1:3)",
+          "pt": "O destino oposto a Nínive que Jonas escolhe em sua fuga, simbolizando a tentativa de escapar o mais longe possível do chamado de Deus (Jn 1:3)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Jope",
+          "en": "Joppa",
+          "pt": "Jope"
+        },
+        "identificacionModerna": {
+          "es": "La actual Jaffa, puerto en la costa mediterránea de Israel",
+          "en": "Modern Jaffa, a port on Israel's Mediterranean coast",
+          "pt": "A atual Jafa, porto na costa mediterrânea de Israel"
+        },
+        "significancia": {
+          "es": "El puerto desde donde Jonás aborda el barco rumbo a Tarsis, punto de partida de su huida (Jon 1:3)",
+          "en": "The port from which Jonah boards the ship bound for Tarshish, the starting point of his flight (Jonah 1:3)",
+          "pt": "O porto de onde Jonas embarca no navio rumo a Társis, ponto de partida de sua fuga (Jn 1:3)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Gat-hefer",
+          "en": "Gath Hepher",
+          "pt": "Gate-Hefer"
+        },
+        "identificacionModerna": {
+          "es": "Aldea en Galilea, cerca de la actual Nazaret, identificada con Khirbet ez-Zurra",
+          "en": "A village in Galilee, near modern Nazareth, identified with Khirbet ez-Zurra",
+          "pt": "Aldeia na Galileia, perto da atual Nazaré, identificada com Khirbet ez-Zurra"
+        },
+        "significancia": {
+          "es": "La ciudad natal de Jonás según 2R 14:25, ubicando al profeta históricamente en el reino del norte bajo Jeroboam II",
+          "en": "Jonah's hometown according to 2Kgs 14:25, historically situating the prophet in the northern kingdom under Jeroboam II",
+          "pt": "A cidade natal de Jonas segundo 2Rs 14:25, situando historicamente o profeta no reino do norte sob Jeroboão II"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Asirios",
+          "en": "Assyrians",
+          "pt": "Assírios"
+        },
+        "rolEnElTexto": {
+          "es": "Habitantes de Nínive, destinatarios inesperados de la misericordia de Dios tras su arrepentimiento masivo (Jon 3)",
+          "en": "Inhabitants of Nineveh, the unexpected recipients of God's mercy after their mass repentance (Jonah 3)",
+          "pt": "Habitantes de Nínive, destinatários inesperados da misericórdia de Deus após seu arrependimento em massa (Jn 3)"
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentados en los anales reales asirios y las excavaciones de Nínive, Nimrud y Asur, con evidencia de un imperio en expansión durante el siglo VIII a.C.",
+          "en": "Extensively documented in the Assyrian royal annals and the excavations of Nineveh, Nimrud, and Assur, with evidence of an expanding empire during the 8th century BC",
+          "pt": "Amplamente documentados nos anais reais assírios e nas escavações de Nínive, Nimrud e Assur, com evidências de um império em expansão durante o século VIII a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Israel (reino del norte)",
+          "en": "Israel (northern kingdom)",
+          "pt": "Israel (reino do norte)"
+        },
+        "rolEnElTexto": {
+          "es": "La nación de origen de Jonás, bajo el próspero pero espiritualmente comprometido reinado de Jeroboam II (2R 14:23-29)",
+          "en": "Jonah's nation of origin, under the prosperous yet spiritually compromised reign of Jeroboam II (2Kgs 14:23-29)",
+          "pt": "A nação de origem de Jonas, sob o próspero, mas espiritualmente comprometido reinado de Jeroboão II (2Rs 14:23-29)"
+        },
+        "estadoArqueologico": {
+          "es": "El período de Jeroboam II está bien documentado arqueológicamente, con evidencia de expansión territorial y prosperidad económica en Samaria",
+          "en": "The period of Jeroboam II is well documented archaeologically, with evidence of territorial expansion and economic prosperity in Samaria",
+          "pt": "O período de Jeroboão II está bem documentado arqueologicamente, com evidências de expansão territorial e prosperidade econômica em Samaria"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Marineros fenicios/mediterráneos",
+          "en": "Phoenician/Mediterranean sailors",
+          "pt": "Marinheiros fenícios/mediterrâneos"
+        },
+        "rolEnElTexto": {
+          "es": "La tripulación pagana del barco a Tarsis que, junto a Jonás, terminan temiendo y sacrificando al SEÑOR tras la tormenta (Jon 1:5-16)",
+          "en": "The pagan crew of the ship to Tarshish who, alongside Jonah, end up fearing and sacrificing to the LORD after the storm (Jonah 1:5-16)",
+          "pt": "A tripulação pagã do navio para Társis que, junto com Jonas, acaba temendo e sacrificando ao SENHOR após a tempestade (Jn 1:5-16)"
+        },
+        "estadoArqueologico": {
+          "es": "El comercio marítimo mediterráneo del siglo VIII a.C. está bien atestiguado arqueológicamente mediante restos de naufragios y rutas comerciales fenicias",
+          "en": "8th-century BC Mediterranean maritime trade is well attested archaeologically through shipwreck remains and Phoenician trade routes",
+          "pt": "O comércio marítimo mediterrâneo do século VIII a.C. está bem atestado arqueologicamente por meio de destroços de naufrágios e rotas comerciais fenícias"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones de Nínive (Kuyunjik y Nebi Yunus, cerca de Mosul) han revelado una ciudad amurallada de gran extensión con palacios reales, bibliotecas y templos, consistente con la descripción bíblica de una «ciudad grande» (Jon 3:3). Los anales de reyes asirios como Adad-nirari III y Asur-dan III documentan un período de debilidad política, desastres naturales —incluido un eclipse solar registrado en 763 a.C.— y epidemias en la primera mitad del siglo VIII a.C., un trasfondo que hace históricamente plausible la receptividad de Nínive a un mensaje de juicio inminente. Ningún registro asirio extrabíblico confirma directamente el arrepentimiento nacional narrado en Jon 3, pero la ausencia de tal registro no es sorprendente dado que los anales reales asirios rara vez documentaban eventos que no exaltaran al rey.",
+      "en": "Excavations of Nineveh (Kuyunjik and Nebi Yunus, near Mosul) have revealed a walled city of great extent with royal palaces, libraries, and temples, consistent with the biblical description of a \"great city\" (Jonah 3:3). The annals of Assyrian kings such as Adad-nirari III and Ashur-dan III document a period of political weakness, natural disasters — including a solar eclipse recorded in 763 BC — and epidemics in the first half of the 8th century BC, a backdrop that makes Nineveh's receptivity to a message of imminent judgment historically plausible. No extrabiblical Assyrian record directly confirms the national repentance narrated in Jonah 3, but the absence of such a record is unsurprising given that Assyrian royal annals rarely documented events that did not exalt the king.",
+      "pt": "As escavações de Nínive (Kuyunjik e Nebi Yunus, perto de Mossul) revelaram uma cidade murada de grande extensão com palácios reais, bibliotecas e templos, consistente com a descrição bíblica de uma «cidade grande» (Jn 3:3). Os anais de reis assírios como Adade-Nirari III e Assur-dã III documentam um período de fraqueza política, desastres naturais — incluindo um eclipse solar registrado em 763 a.C. — e epidemias na primeira metade do século VIII a.C., um pano de fundo que torna historicamente plausível a receptividade de Nínive a uma mensagem de juízo iminente. Nenhum registro assírio extrabíblico confirma diretamente o arrependimento nacional narrado em Jn 3, mas a ausência de tal registro não é surpreendente, dado que os anais reais assírios raramente documentavam eventos que não exaltassem o rei."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Anales (listas epónimas) de Asur-dan III",
+          "en": "Eponym Chronicles of Ashur-dan III",
+          "pt": "Anais (listas epônimas) de Assur-dã III"
+        },
+        "origen": {
+          "es": "Registros administrativos asirios que documentan los años de gobierno mediante funcionarios epónimos, incluido un eclipse solar en 763 a.C. y menciones de plaga y revueltas",
+          "en": "Assyrian administrative records documenting regnal years through eponym officials, including a solar eclipse in 763 BC and mentions of plague and revolts",
+          "pt": "Registros administrativos assírios que documentam os anos de governo por meio de funcionários epônimos, incluindo um eclipse solar em 763 a.C. e menções a peste e revoltas"
+        },
+        "relevancia": {
+          "es": "Proveen el trasfondo histórico de inestabilidad y presagios ominosos en Asiria durante el probable período del ministerio de Jonás, contexto que pudo predisponer a Nínive a tomar en serio la advertencia profética",
+          "en": "Provide the historical backdrop of instability and ominous omens in Assyria during Jonah's probable ministry period, a context that could have predisposed Nineveh to take the prophetic warning seriously",
+          "pt": "Fornecem o pano de fundo histórico de instabilidade e presságios ominosos na Assíria durante o provável período do ministério de Jonas, contexto que pode ter predisposto Nínive a levar a sério a advertência profética"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Excavaciones arqueológicas de Nínive (Kuyunjik)",
+          "en": "Archaeological excavations of Nineveh (Kuyunjik)",
+          "pt": "Escavações arqueológicas de Nínive (Kuyunjik)"
+        },
+        "origen": {
+          "es": "Excavaciones británicas e iraquíes del montículo de Kuyunjik desde el siglo XIX, que revelaron el palacio de Senaquerib y la biblioteca de Asurbanipal",
+          "en": "British and Iraqi excavations of the Kuyunjik mound since the 19th century, which revealed the palace of Sennacherib and the library of Ashurbanipal",
+          "pt": "Escavações britânicas e iraquianas do monte de Kuyunjik desde o século XIX, que revelaram o palácio de Senaqueribe e a biblioteca de Assurbanípal"
+        },
+        "relevancia": {
+          "es": "Confirman la existencia histórica y la magnitud de Nínive como capital imperial, corroborando el trasfondo geográfico e histórico presupuesto por el libro",
+          "en": "Confirm the historical existence and scale of Nineveh as an imperial capital, corroborating the geographic and historical backdrop presupposed by the book",
+          "pt": "Confirmam a existência histórica e a magnitude de Nínive como capital imperial, corroborando o pano de fundo geográfico e histórico pressuposto pelo livro"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La historicidad del libro de Jonás ha sido ampliamente debatida. Los críticos modernos suelen leerlo como parábola o sátira post-exílica (s. V-IV a.C.), señalando la ausencia de registro asirio extrabíblico del arrepentimiento nacional narrado en Jon 3, la naturaleza aparentemente extraordinaria del gran pez (Jon 1:17), y ciertos rasgos lingüísticos tardíos. La tradición reformada y evangélica conservadora sostiene la historicidad plena del relato, apoyada decisivamente en el testimonio de Jesús, quien trata tanto la permanencia de Jonás en el pez como el arrepentimiento de los ninivitas como hechos históricos reales y los usa como tipo de su propia muerte y resurrección (Mt 12:39-41; Lc 11:29-32). La mención de Jonás hijo de Amitai en 2R 14:25 sitúa al profeta firmemente en el siglo VIII a.C., y la ausencia de registro asirio no sorprende dado que tales anales rara vez documentaban humillaciones nacionales. Una segunda controversia concierne la extensión de Nínive descrita como «de tres días de camino» (Jon 3:3): algunos eruditos la entienden como el área metropolitana mayor incluyendo distritos satélites, no solo el perímetro amurallado de la ciudad propiamente dicha.",
+      "en": "The historicity of the book of Jonah has been widely debated. Modern critics often read it as a post-exilic parable or satire (5th-4th century BC), pointing to the absence of an extrabiblical Assyrian record of the national repentance narrated in Jonah 3, the apparently extraordinary nature of the great fish (Jonah 1:17), and certain late linguistic features. The Reformed and conservative evangelical tradition holds to the full historicity of the account, decisively grounded in the testimony of Jesus, who treats both Jonah's time in the fish and the Ninevites' repentance as real historical facts and uses them as a type of his own death and resurrection (Matt 12:39-41; Luke 11:29-32). The mention of Jonah son of Amittai in 2Kgs 14:25 firmly places the prophet in the 8th century BC, and the absence of an Assyrian record is unsurprising given that such annals rarely documented national humiliations. A second controversy concerns the extent of Nineveh described as \"three days' journey\" (Jonah 3:3): some scholars understand this as the greater metropolitan area including satellite districts, not merely the walled perimeter of the city proper.",
+      "pt": "A historicidade do livro de Jonas tem sido amplamente debatida. Críticos modernos costumam lê-lo como parábola ou sátira pós-exílica (séc. V-IV a.C.), apontando a ausência de registro assírio extrabíblico do arrependimento nacional narrado em Jn 3, a natureza aparentemente extraordinária do grande peixe (Jn 1:17), e certos traços linguísticos tardios. A tradição reformada e evangélica conservadora sustenta a historicidade plena do relato, apoiada decisivamente no testemunho de Jesus, que trata tanto a permanência de Jonas no peixe quanto o arrependimento dos ninivitas como fatos históricos reais e os usa como tipo de sua própria morte e ressurreição (Mt 12:39-41; Lc 11:29-32). A menção a Jonas, filho de Amitai, em 2Rs 14:25 situa firmemente o profeta no século VIII a.C., e a ausência de registro assírio não surpreende, dado que tais anais raramente documentavam humilhações nacionais. Uma segunda controvérsia diz respeito à extensão de Nínive descrita como «de três dias de caminho» (Jn 3:3): alguns estudiosos a entendem como a área metropolitana maior, incluindo distritos satélites, não apenas o perímetro murado da cidade propriamente dita."
+    },
+    "cronologiaInterna": {
+      "es": "El relato se desarrolla en una secuencia breve y continua: la orden inicial y huida de Jonás (Jon 1), tres días y tres noches en el vientre del pez (Jon 1:17-2:10), la predicación de cuarenta días de plazo en Nínive y el arrepentimiento inmediato de la ciudad (Jon 3), y la confrontación final de Dios con la ira de Jonás bajo la planta que crece y muere en un solo día (Jon 4). El libro no ofrece fórmulas de fecha regnal, pero 2R 14:25 ancla el ministerio de Jonás al reinado de Jeroboam II.",
+      "en": "The account unfolds in a brief, continuous sequence: Jonah's initial command and flight (Jonah 1), three days and three nights in the fish's belly (Jonah 1:17-2:10), the forty-day preaching deadline in Nineveh and the city's immediate repentance (Jonah 3), and God's final confrontation with Jonah's anger under the plant that grows and dies in a single day (Jonah 4). The book offers no regnal date formulas, but 2Kgs 14:25 anchors Jonah's ministry to the reign of Jeroboam II.",
+      "pt": "O relato se desenrola numa sequência breve e contínua: a ordem inicial e a fuga de Jonas (Jn 1), três dias e três noites no ventre do peixe (Jn 1:17-2:10), a pregação com prazo de quarenta dias em Nínive e o arrependimento imediato da cidade (Jn 3), e o confronto final de Deus com a ira de Jonas sob a planta que cresce e morre em um único dia (Jn 4). O livro não oferece fórmulas de data regnal, mas 2Rs 14:25 ancora o ministério de Jonas ao reinado de Jeroboão II."
+    }
+  },
+  "ordenEnDivision": 5,
+  "ordenCanon": 32,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Jesús mismo identifica a Jonás como un tipo profético de su propia muerte y resurrección: «como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches» (Mt 12:40). Además, Jesús declara que los habitantes de Nínive se levantarán en el juicio y condenarán a la generación que lo rechazó, pues ellos se arrepintieron a la predicación de Jonás, y «algo mayor que Jonás» está presente en Cristo (Mt 12:41; Lc 11:32), revelando que el evangelio de misericordia hacia los gentiles anticipado en Jonás halla su cumplimiento definitivo en la misión de Cristo a todas las naciones.",
+      "en": "Jesus himself identifies Jonah as a prophetic type of his own death and resurrection: \"For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth\" (Matt 12:40). Furthermore, Jesus declares that the men of Nineveh will rise up at the judgment and condemn the generation that rejected him, for they repented at Jonah's preaching, and \"something greater than Jonah\" is present in Christ (Matt 12:41; Luke 11:32), revealing that the gospel of mercy toward the Gentiles anticipated in Jonah finds its definitive fulfillment in Christ's mission to all nations.",
+      "pt": "O próprio Jesus identifica Jonas como um tipo profético de sua própria morte e ressurreição: «pois, como Jonas esteve três dias e três noites no ventre do grande peixe, assim estará o Filho do Homem três dias e três noites no coração da terra» (Mt 12:40). Além disso, Jesus declara que os homens de Nínive se levantarão no juízo e condenarão a geração que o rejeitou, pois eles se arrependeram com a pregação de Jonas, e «alguém maior do que Jonas» está presente em Cristo (Mt 12:41; Lc 11:32), revelando que o evangelho de misericórdia para com os gentios antecipado em Jonas encontra seu cumprimento definitivo na missão de Cristo a todas as nações."
+    },
+    "tiposYSombras": [
+      {
+        "es": "Los tres días y tres noches de Jonás en el vientre del gran pez (Jon 1:17) son designados explícitamente por Jesús como un tipo —el «signo de Jonás»— de su propia muerte, sepultura y resurrección al tercer día (Mt 12:39-40).",
+        "en": "Jonah's three days and three nights in the belly of the great fish (Jonah 1:17) are explicitly designated by Jesus as a type — the \"sign of Jonah\" — of his own death, burial, and resurrection on the third day (Matt 12:39-40).",
+        "pt": "Os três dias e três noites de Jonas no ventre do grande peixe (Jn 1:17) são explicitamente designados por Jesus como um tipo — o «sinal de Jonas» — de sua própria morte, sepultamento e ressurreição ao terceiro dia (Mt 12:39-40)."
+      },
+      {
+        "es": "El arrepentimiento de Nínive ante la predicación de un profeta extranjero (Jon 3:5-9) prefigura la futura inclusión de las naciones gentiles en el pueblo de Dios mediante la proclamación del evangelio (Mt 12:41; cf. Hch 10-11).",
+        "en": "Nineveh's repentance at the preaching of a foreign prophet (Jonah 3:5-9) prefigures the future inclusion of the Gentile nations in God's people through the proclamation of the gospel (Matt 12:41; cf. Acts 10-11).",
+        "pt": "O arrependimento de Nínive diante da pregação de um profeta estrangeiro (Jn 3:5-9) prefigura a futura inclusão das nações gentias no povo de Deus por meio da proclamação do evangelho (Mt 12:41; cf. At 10-11)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Jonás es el único libro profético del Antiguo Testamento estructurado enteramente como una narrativa sobre la resistencia de un profeta a la misión que Dios le encomienda, en lugar de una colección de oráculos. Su contribución exclusiva al canon es demostrar que la compasión de Dios se extiende deliberadamente más allá de Israel hacia las naciones gentiles —incluso hacia el opresor asirio—, y que el verdadero obstáculo para la misión de Dios no es la dureza de los paganos sino el corazón estrecho de su propio profeta. Ningún otro libro profético hace del propio mensajero, y no solo de su mensaje, el objeto central del examen teológico.",
+    "en": "Jonah is the only Old Testament prophetic book structured entirely as a narrative about a prophet's resistance to the mission God assigns him, rather than a collection of oracles. Its exclusive contribution to the canon is to demonstrate that God's compassion deliberately extends beyond Israel to the Gentile nations — even to Israel's Assyrian oppressor — and that the true obstacle to God's mission is not the hardness of the pagans but the narrow heart of his own prophet. No other prophetic book makes the messenger himself, and not only his message, the central object of theological scrutiny.",
+    "pt": "Jonas é o único livro profético do Antigo Testamento estruturado inteiramente como uma narrativa sobre a resistência de um profeta à missão que Deus lhe confia, em vez de uma coleção de oráculos. Sua contribuição exclusiva ao cânon é demonstrar que a compaixão de Deus se estende deliberadamente para além de Israel, às nações gentias — até mesmo ao opressor assírio —, e que o verdadeiro obstáculo à missão de Deus não é a dureza dos pagãos, mas o coração estreito de seu próprio profeta. Nenhum outro livro profético faz do próprio mensageiro, e não apenas de sua mensagem, o objeto central do exame teológico."
+  },
+  "genero": {
+    "es": "Narrativa profética (relato histórico de la comisión, huida y confrontación de un profeta con la misericordia universal de Dios)",
+    "en": "Prophetic narrative (a historical account of a prophet's commission, flight, and confrontation with God's universal mercy)",
+    "pt": "Narrativa profética (relato histórico da comissão, fuga e confronto de um profeta com a misericórdia universal de Deus)"
+  },
+  "palabraClave": {
+    "es": [
+      "Misericordia de Dios",
+      "Huida y arrepentimiento",
+      "Nínive salvada",
+      "Ira de Jonás",
+      "Soberanía divina"
+    ],
+    "en": [
+      "God's mercy",
+      "Flight and repentance",
+      "Nineveh spared",
+      "Jonah's anger",
+      "Divine sovereignty"
+    ],
+    "pt": [
+      "Misericórdia de Deus",
+      "Fuga e arrependimento",
+      "Nínive poupada",
+      "Ira de Jonas",
+      "Soberania divina"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo de Israel del reino del norte, que necesitaba confrontar su propio nacionalismo religioso y su resistencia a la misión de Dios hacia las naciones gentiles, incluso hacia sus enemigos históricos como Asiria",
+    "en": "The people of Israel in the northern kingdom, who needed to confront their own religious nationalism and resistance to God's mission toward the Gentile nations, even toward historic enemies like Assyria",
+    "pt": "O povo de Israel do reino do norte, que precisava confrontar seu próprio nacionalismo religioso e sua resistência à missão de Deus para com as nações gentias, mesmo para com inimigos históricos como a Assíria"
+  },
+  "proposito": {
+    "es": "Históricamente, Jonás narra el llamado, la huida, el arrepentimiento forzado y la reticente obediencia de un profeta israelita enviado a predicar juicio a la capital enemiga de Asiria. Teológicamente, el libro enseña que la soberanía de Dios gobierna tanto el mar como el gran pez, tanto a los marineros paganos como a toda la ciudad de Nínive (Jon 1:17; 3:10; 4:6-7), y que su misericordia no está limitada por fronteras étnicas ni nacionales, confrontando así el particularismo estrecho de su propio profeta con la pregunta final sin respuesta: «¿no tendré yo piedad de Nínive?» (Jon 4:11).",
+    "en": "Historically, Jonah narrates the call, the flight, the forced repentance, and the reluctant obedience of an Israelite prophet sent to preach judgment to Assyria's enemy capital. Theologically, the book teaches that God's sovereignty governs the sea and the great fish alike, the pagan sailors and the entire city of Nineveh alike (Jonah 1:17; 3:10; 4:6-7), and that his mercy is not limited by ethnic or national boundaries, thus confronting his own prophet's narrow particularism with the final unanswered question: \"should I not pity Nineveh?\" (Jonah 4:11).",
+    "pt": "Historicamente, Jonas narra o chamado, a fuga, o arrependimento forçado e a obediência relutante de um profeta israelita enviado para pregar juízo à capital inimiga da Assíria. Teologicamente, o livro ensina que a soberania de Deus governa tanto o mar quanto o grande peixe, tanto os marinheiros pagãos quanto toda a cidade de Nínive (Jn 1:17; 3:10; 4:6-7), e que sua misericórdia não é limitada por fronteiras étnicas ou nacionais, confrontando assim o particularismo estreito de seu próprio profeta com a pergunta final sem resposta: «não pouparia eu a Nínive?» (Jn 4:11)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH · the Lord",
+        "pt": "Deus · YHWH · o Senhor"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "El SEÑOR soberano que comisiona a Jonás, gobierna el mar, el gran pez, la planta, el gusano y el viento solano, y cuya compasión abarca tanto a los marineros paganos como a la ciudad entera de Nínive, confrontando finalmente la estrechez del corazón de su propio profeta.",
+        "en": "The sovereign LORD who commissions Jonah, governs the sea, the great fish, the plant, the worm, and the scorching wind, and whose compassion embraces both the pagan sailors and the entire city of Nineveh, finally confronting the narrowness of his own prophet's heart.",
+        "pt": "O SENHOR soberano que comissiona Jonas, governa o mar, o grande peixe, a planta, o verme e o vento oriental abrasador, e cuja compaixão abrange tanto os marinheiros pagãos quanto toda a cidade de Nínive, confrontando finalmente a estreiteza do coração de seu próprio profeta."
+      },
+      "acciones": {
+        "es": "Ordena a Jonás ir a predicar contra Nínive (Jon 1:2), envía una gran tormenta cuando Jonás huye (Jon 1:4), designa un gran pez para tragar a Jonás y luego para vomitarlo en tierra (Jon 1:17; 2:10), ve las obras de los ninivitas arrepentidos y se arrepiente del mal que había anunciado hacerles (Jon 3:10), y prepara una planta, un gusano y un viento solano para confrontar a Jonás con su propia falta de compasión (Jon 4:6-8).",
+        "en": "Orders Jonah to go and preach against Nineveh (Jonah 1:2), sends a great storm when Jonah flees (Jonah 1:4), appoints a great fish to swallow Jonah and later to vomit him onto dry land (Jonah 1:17; 2:10), sees the repentant Ninevites' works and relents from the disaster he had announced against them (Jonah 3:10), and appoints a plant, a worm, and a scorching wind to confront Jonah with his own lack of compassion (Jonah 4:6-8).",
+        "pt": "Ordena a Jonas que vá pregar contra Nínive (Jn 1:2), envia uma grande tempestade quando Jonas foge (Jn 1:4), designa um grande peixe para tragar Jonas e depois vomitá-lo em terra (Jn 1:17; 2:10), vê as obras dos ninivitas arrependidos e se arrepende do mal que havia anunciado fazer-lhes (Jn 3:10), e prepara uma planta, um verme e um vento oriental abrasador para confrontar Jonas com sua própria falta de compaixão (Jn 4:6-8)."
+      },
+      "significadoTeologico": {
+        "es": "Jonás revela a Dios como soberano absoluto sobre la naturaleza —el mar, el pez, la planta, el gusano, el viento— y como Dios de gracia universal cuya compasión se extiende deliberadamente a los gentiles, incluso a los más temidos enemigos de su pueblo del pacto.",
+        "en": "Jonah reveals God as absolute sovereign over nature — the sea, the fish, the plant, the worm, the wind — and as a God of universal grace whose compassion deliberately extends to the Gentiles, even to the most feared enemies of his covenant people.",
+        "pt": "Jonas revela Deus como soberano absoluto sobre a natureza — o mar, o peixe, a planta, o verme, o vento — e como Deus de graça universal cuja compaixão se estende deliberadamente aos gentios, mesmo aos inimigos mais temidos de seu povo do pacto."
+      },
+      "tipo": {
+        "es": "La misericordia soberana de Dios que se compadece de Nínive, «aquella gran ciudad» (Jon 4:11), anticipa el evangelio de Cristo, quien extiende la misma compasión a toda nación y declara que «algo mayor que Jonás» está presente en su persona y misión (Mt 12:41).",
+        "en": "God's sovereign mercy that pities Nineveh, \"that great city\" (Jonah 4:11), anticipates the gospel of Christ, who extends the same compassion to every nation and declares that \"something greater than Jonah\" is present in his person and mission (Matt 12:41).",
+        "pt": "A misericórdia soberana de Deus que se compadece de Nínive, «aquela grande cidade» (Jn 4:11), antecipa o evangelho de Cristo, que estende a mesma compaixão a toda nação e declara que «alguém maior do que Jonas» está presente em sua pessoa e missão (Mt 12:41)."
+      },
+      "caracterMoral": {
+        "es": "Soberano, compasivo, paciente con su profeta rebelde, y fiel tanto en el juicio anunciado como en la misericordia extendida al arrepentimiento genuino.",
+        "en": "Sovereign, compassionate, patient with his rebellious prophet, and faithful both in the judgment announced and in the mercy extended to genuine repentance.",
+        "pt": "Soberano, compassivo, paciente com seu profeta rebelde, e fiel tanto no juízo anunciado quanto na misericórdia estendida ao arrependimento genuíno."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "YHWH es el sujeto que comisiona, persigue, salva, perdona y finalmente confronta a lo largo de los cuatro capítulos del libro, gobernando cada elemento natural y humano de la narrativa.",
+          "en": "YHWH is the subject who commissions, pursues, saves, forgives, and finally confronts throughout the book's four chapters, governing every natural and human element of the narrative.",
+          "pt": "YHWH é o sujeito que comissiona, persegue, salva, perdoa e finalmente confronta ao longo dos quatro capítulos do livro, governando cada elemento natural e humano da narrativa."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Jon 1:2",
+          "Jon 1:17",
+          "Jon 3:10",
+          "Jon 4:11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: Dios no tiene biografía histórica humana; se revela por su autorrevelación consistente en todo el canon.",
+          "en": "Not applicable: God has no human historical biography; he reveals himself through his consistent self-revelation across the whole canon.",
+          "pt": "Não aplicável: Deus não tem biografia histórica humana; revela-se por sua autorrevelação consistente em todo o cânon."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El carácter de Dios como soberano compasivo sobre todas las naciones en Jonás es coherente con su autorrevelación a Moisés en Ex 34:6-7, citada casi textualmente en Jon 4:2.",
+          "en": "God's character as compassionate sovereign over all nations in Jonah is coherent with his self-revelation to Moses in Exod 34:6-7, quoted almost verbatim in Jonah 4:2.",
+          "pt": "O caráter de Deus como soberano compassivo sobre todas as nações em Jonas é coerente com sua autorrevelação a Moisés em Êx 34:6-7, citada quase textualmente em Jn 4:2."
+        }
+      },
+      "versiculosAsociados": [
+        "Jon 1:2",
+        "Jon 1:17",
+        "Jon 3:10",
+        "Jon 4:11"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "2R",
+        "Mt",
+        "Lc"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Jesús cita el arrepentimiento de Nínive ante la predicación de Jonás como evidencia contra su generación incrédula, declarando que «algo mayor que Jonás está aquí» (Mt 12:41; Lc 11:32).",
+        "en": "Jesus cites Nineveh's repentance at Jonah's preaching as evidence against his unbelieving generation, declaring that \"something greater than Jonah is here\" (Matt 12:41; Luke 11:32).",
+        "pt": "Jesus cita o arrependimento de Nínive diante da pregação de Jonas como evidência contra sua geração incrédula, declarando que «alguém maior do que Jonas está aqui» (Mt 12:41; Lc 11:32)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Jonás",
+        "en": "Jonah",
+        "pt": "Jonas"
+      },
+      "hebreo": "יוֹנָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "El profeta israelita hijo de Amitai, de Gat-hefer en Galilea (2R 14:25), comisionado por Dios para predicar contra Nínive, quien huye de su llamado, es rescatado del mar mediante un gran pez, finalmente obedece con reticencia, y termina airado por la misericordia de Dios hacia sus enemigos.",
+        "en": "The Israelite prophet, son of Amittai, from Gath Hepher in Galilee (2Kgs 14:25), commissioned by God to preach against Nineveh, who flees his calling, is rescued from the sea by a great fish, finally obeys with reluctance, and ends up angry at God's mercy toward his enemies.",
+        "pt": "O profeta israelita, filho de Amitai, de Gate-Hefer, na Galileia (2Rs 14:25), comissionado por Deus para pregar contra Nínive, que foge de seu chamado, é resgatado do mar por meio de um grande peixe, finalmente obedece com relutância, e termina irado pela misericórdia de Deus para com seus inimigos."
+      },
+      "acciones": {
+        "es": "Recibe la orden de ir a Nínive pero huye hacia Tarsis embarcándose en Jope (Jon 1:1-3), es arrojado al mar por los marineros tras confesar que huye del SEÑOR (Jon 1:12-15), ora desde el vientre del pez reconociendo la soberanía divina (Jon 2:1-9), predica el mensaje de juicio en Nínive tras ser vomitado en tierra (Jon 3:3-4), y se enoja profundamente cuando Dios perdona a la ciudad, deseando morir primero por vergüenza y luego por la pérdida de una planta que le daba sombra (Jon 4:1-9).",
+        "en": "Receives the order to go to Nineveh but flees toward Tarshish by boarding a ship at Joppa (Jonah 1:1-3), is thrown into the sea by the sailors after confessing he is fleeing from the LORD (Jonah 1:12-15), prays from the fish's belly acknowledging divine sovereignty (Jonah 2:1-9), preaches the message of judgment in Nineveh after being vomited onto dry land (Jonah 3:3-4), and becomes deeply angry when God forgives the city, desiring to die first from shame and then from the loss of a plant that had shaded him (Jonah 4:1-9).",
+        "pt": "Recebe a ordem de ir a Nínive, mas foge rumo a Társis embarcando em Jope (Jn 1:1-3), é lançado ao mar pelos marinheiros após confessar que foge do SENHOR (Jn 1:12-15), ora do ventre do peixe reconhecendo a soberania divina (Jn 2:1-9), prega a mensagem de juízo em Nínive após ser vomitado em terra (Jn 3:3-4), e se enfurece profundamente quando Deus perdoa a cidade, desejando morrer primeiro por vergonha e depois pela perda de uma planta que lhe dava sombra (Jn 4:1-9)."
+      },
+      "significadoTeologico": {
+        "es": "Jonás encarna la tensión entre el llamado profético y la resistencia humana, y expone el nacionalismo religioso que prefiere el juicio de los enemigos de Israel antes que su salvación, revelando así que el mayor obstáculo a la misión de Dios puede residir en el corazón de su propio pueblo del pacto.",
+        "en": "Jonah embodies the tension between the prophetic call and human resistance, and exposes the religious nationalism that prefers the judgment of Israel's enemies over their salvation, revealing that the greatest obstacle to God's mission may lie in the heart of his own covenant people.",
+        "pt": "Jonas encarna a tensão entre o chamado profético e a resistência humana, e expõe o nacionalismo religioso que prefere o julgamento dos inimigos de Israel à sua salvação, revelando que o maior obstáculo à missão de Deus pode residir no coração de seu próprio povo do pacto."
+      },
+      "tipo": {
+        "es": "Jesús designa explícitamente los tres días de Jonás en el vientre del pez como el «signo de Jonás», un tipo profético de su propia muerte, sepultura y resurrección al tercer día (Mt 12:39-40; Jon 1:17).",
+        "en": "Jesus explicitly designates Jonah's three days in the belly of the fish as the \"sign of Jonah,\" a prophetic type of his own death, burial, and resurrection on the third day (Matt 12:39-40; Jonah 1:17).",
+        "pt": "Jesus designa explicitamente os três dias de Jonas no ventre do peixe como o «sinal de Jonas», um tipo profético de sua própria morte, sepultamento e ressurreição ao terceiro dia (Mt 12:39-40; Jn 1:17)."
+      },
+      "caracterMoral": {
+        "es": "Desobediente y huidizo al inicio, sinceramente arrepentido en la oración del pez, obediente pero resentido en su predicación, y finalmente airado y egocéntrico ante la misericordia de Dios hacia Nínive.",
+        "en": "Disobedient and evasive at first, sincerely repentant in the prayer from the fish, obedient yet resentful in his preaching, and finally angry and self-centered in the face of God's mercy toward Nineveh.",
+        "pt": "Desobediente e evasivo no início, sinceramente arrependido na oração do peixe, obediente mas ressentido em sua pregação, e finalmente irado e egocêntrico diante da misericórdia de Deus para com Nínive."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "El libro entero narra la trayectoria de Jonás desde la huida hasta la confrontación final con Dios sobre su falta de compasión hacia los ninivitas arrepentidos.",
+          "en": "The entire book narrates Jonah's trajectory from flight to his final confrontation with God over his lack of compassion for the repentant Ninevites.",
+          "pt": "O livro inteiro narra a trajetória de Jonas, desde a fuga até o confronto final com Deus sobre sua falta de compaixão pelos ninivitas arrependidos."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Jon 1:3",
+          "Jon 2:2",
+          "Jon 3:4",
+          "Jon 4:2"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "2 Reyes 14:25 identifica a Jonás hijo de Amitai como un profeta histórico de Gat-hefer que profetizó la expansión territorial de Israel bajo Jeroboam II, proporcionando un anclaje cronológico e histórico firme fuera del propio libro que lleva su nombre.",
+          "en": "2 Kings 14:25 identifies Jonah son of Amittai as a historical prophet from Gath Hepher who prophesied Israel's territorial expansion under Jeroboam II, providing a firm chronological and historical anchor outside the book that bears his name.",
+          "pt": "2 Reis 14:25 identifica Jonas, filho de Amitai, como um profeta histórico de Gate-Hefer que profetizou a expansão territorial de Israel sob Jeroboão II, proporcionando uma âncora cronológica e histórica firme fora do próprio livro que leva seu nome."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología del reinado de Jeroboam II",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La identificación de Jonás con el profeta de 2R 14:25 sitúa firmemente la narrativa en el siglo VIII a.C., durante un período de expansión israelita y debilidad relativa asiria, consistente con el trasfondo histórico presupuesto por el libro.",
+          "en": "Identifying Jonah with the prophet of 2Kgs 14:25 firmly situates the narrative in the 8th century BC, during a period of Israelite expansion and relative Assyrian weakness, consistent with the historical backdrop presupposed by the book.",
+          "pt": "A identificação de Jonas com o profeta de 2Rs 14:25 situa firmemente a narrativa no século VIII a.C., durante um período de expansão israelita e fraqueza relativa assíria, consistente com o pano de fundo histórico pressuposto pelo livro."
+        }
+      },
+      "versiculosAsociados": [
+        "Jon 1:3",
+        "Jon 1:17",
+        "Jon 3:4",
+        "Jon 4:11"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "Mt",
+        "Lc"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Jesús usa a Jonás dos veces como tipo y ejemplo: su permanencia en el pez prefigura la resurrección (Mt 12:40), y su predicación exitosa en Nínive condena la incredulidad de la generación de Jesús (Mt 12:41; Lc 11:29-32).",
+        "en": "Jesus uses Jonah twice as a type and example: his time in the fish prefigures the resurrection (Matt 12:40), and his successful preaching in Nineveh condemns the unbelief of Jesus's own generation (Matt 12:41; Luke 11:29-32).",
+        "pt": "Jesus usa Jonas duas vezes como tipo e exemplo: sua permanência no peixe prefigura a ressurreição (Mt 12:40), e sua pregação bem-sucedida em Nínive condena a incredulidade da geração de Jesus (Mt 12:41; Lc 11:29-32)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los marineros",
+        "en": "The sailors",
+        "pt": "Os marinheiros"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "La tripulación pagana del barco rumbo a Tarsis que, enfrentados a la tormenta enviada por Dios, claman cada uno a su propio dios, descubren mediante suertes que Jonás es la causa, y terminan temiendo grandemente al SEÑOR y ofreciéndole sacrificio tras arrojar a Jonás al mar.",
+        "en": "The pagan crew of the ship bound for Tarshish who, facing the God-sent storm, each cry out to their own god, discover through casting lots that Jonah is the cause, and end up greatly fearing the LORD and offering him sacrifice after throwing Jonah into the sea.",
+        "pt": "A tripulação pagã do navio rumo a Társis que, diante da tempestade enviada por Deus, clama cada um a seu próprio deus, descobre por meio de sortes que Jonas é a causa, e acaba temendo grandemente ao SENHOR e lhe oferecendo sacrifício após lançar Jonas ao mar."
+      },
+      "acciones": {
+        "es": "Claman cada uno a su dios y echan la carga al mar durante la tormenta (Jon 1:5), echan suertes para descubrir al culpable y descubren que es Jonás (Jon 1:7), intentan primero remar de vuelta a tierra antes de arrojarlo al mar para no derramar sangre inocente (Jon 1:13), y una vez calmado el mar, temen grandemente al SEÑOR, le ofrecen sacrificio y hacen votos (Jon 1:16).",
+        "en": "Each cry out to their own god and throw the cargo overboard during the storm (Jonah 1:5), cast lots to discover the guilty party and find it is Jonah (Jonah 1:7), first try to row back to land rather than throw him overboard to avoid shedding innocent blood (Jonah 1:13), and once the sea grows calm, greatly fear the LORD, offer him sacrifice, and make vows (Jonah 1:16).",
+        "pt": "Clamam cada um a seu deus e lançam a carga ao mar durante a tempestade (Jn 1:5), lançam sortes para descobrir o culpado e descobrem que é Jonas (Jn 1:7), tentam primeiro remar de volta à terra antes de lançá-lo ao mar para não derramar sangue inocente (Jn 1:13), e uma vez acalmado o mar, temem grandemente ao SENHOR, lhe oferecem sacrifício e fazem votos (Jn 1:16)."
+      },
+      "significadoTeologico": {
+        "es": "Los marineros paganos, aunque politeístas, responden con mayor prontitud religiosa que el propio profeta huidizo, anticipando el tema central del libro: la disposición de los gentiles a temer y honrar al SEÑOR.",
+        "en": "The pagan sailors, though polytheistic, respond with greater religious readiness than the fleeing prophet himself, anticipating the book's central theme: the Gentiles' readiness to fear and honor the LORD.",
+        "pt": "Os marinheiros pagãos, embora politeístas, respondem com maior prontidão religiosa do que o próprio profeta fugitivo, antecipando o tema central do livro: a disposição dos gentios de temer e honrar ao SENHOR."
+      },
+      "tipo": {
+        "es": "La conversión repentina de los marineros paganos al temor del SEÑOR (Jon 1:16) prefigura en miniatura la conversión masiva de gentiles al evangelio de Cristo (Hch 10-11; Ef 2:11-13).",
+        "en": "The pagan sailors' sudden conversion to fearing the LORD (Jonah 1:16) prefigures in miniature the mass conversion of Gentiles to the gospel of Christ (Acts 10-11; Eph 2:11-13).",
+        "pt": "A conversão repentina dos marinheiros pagãos ao temor do SENHOR (Jn 1:16) prefigura em miniatura a conversão em massa dos gentios ao evangelho de Cristo (At 10-11; Ef 2:11-13)."
+      },
+      "caracterMoral": {
+        "es": "Compasivos y renuentes a derramar sangre inocente a pesar del peligro, y sinceramente religiosos una vez confrontados con el poder del SEÑOR.",
+        "en": "Compassionate and reluctant to shed innocent blood despite the danger, and sincerely religious once confronted with the LORD's power.",
+        "pt": "Compassivos e relutantes em derramar sangue inocente apesar do perigo, e sinceramente religiosos uma vez confrontados com o poder do SENHOR."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Los marineros aparecen únicamente en Jon 1, donde su temor progresivo culmina en sacrificio y votos genuinos al SEÑOR tras presenciar la calma del mar.",
+          "en": "The sailors appear only in Jonah 1, where their progressive fear culminates in genuine sacrifice and vows to the LORD after witnessing the calming of the sea.",
+          "pt": "Os marinheiros aparecem apenas em Jn 1, onde seu temor progressivo culmina em sacrifício e votos genuínos ao SENHOR após testemunharem a calmaria do mar."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Jon 1:5",
+          "Jon 1:16"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El comercio marítimo mediterráneo del siglo VIII a.C., probablemente de tripulación fenicia dada la ruta hacia Tarsis, está bien documentado arqueológicamente mediante rutas comerciales y restos de naufragios de la época.",
+          "en": "8th-century BC Mediterranean maritime trade, likely a Phoenician crew given the route to Tarshish, is well documented archaeologically through trade routes and shipwreck remains of the period.",
+          "pt": "O comércio marítimo mediterrâneo do século VIII a.C., provavelmente de tripulação fenícia dada a rota para Társis, está bem documentado arqueologicamente por meio de rotas comerciais e destroços de naufrágios da época."
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 3,
+            "camposUtilizados": [
+              "Comercio marítimo mediterráneo",
+              "Rutas a Tarsis"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "El perfil comercial y religioso de los marineros descrito en Jon 1 es consistente con lo que se conoce del comercio marítimo mediterráneo y la religiosidad politeísta del período.",
+          "en": "The commercial and religious profile of the sailors described in Jonah 1 is consistent with what is known of Mediterranean maritime trade and polytheistic religiosity of the period.",
+          "pt": "O perfil comercial e religioso dos marinheiros descrito em Jn 1 é consistente com o que se conhece do comércio marítimo mediterrâneo e da religiosidade politeísta do período."
+        }
+      },
+      "versiculosAsociados": [
+        "Jon 1:5",
+        "Jon 1:13",
+        "Jon 1:16"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Los marineros no son mencionados directamente en el Nuevo Testamento, aunque su temor repentino al SEÑOR anticipa el tema de la fe gentil desarrollado en los evangelios y Hechos.",
+        "en": "The sailors are not directly mentioned in the New Testament, though their sudden fear of the LORD anticipates the theme of Gentile faith developed in the Gospels and Acts.",
+        "pt": "Os marinheiros não são mencionados diretamente no Novo Testamento, embora seu temor repentino ao SENHOR antecipe o tema da fé gentia desenvolvido nos evangelhos e em Atos."
+      }
+    },
+    {
+      "nombre": {
+        "es": "El rey de Nínive",
+        "en": "The king of Nineveh",
+        "pt": "O rei de Nínive"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        3
+      ],
+      "descripcion": {
+        "es": "El gobernante de Nínive que, al oír la predicación de Jonás, se levanta de su trono, se despoja de su manto, se cubre de cilicio y ceniza, y decreta ayuno y arrepentimiento para toda la ciudad, incluidos los animales.",
+        "en": "The ruler of Nineveh who, upon hearing Jonah's preaching, rises from his throne, removes his robe, covers himself with sackcloth and ashes, and decrees fasting and repentance for the whole city, including the animals.",
+        "pt": "O governante de Nínive que, ao ouvir a pregação de Jonas, se levanta de seu trono, tira o manto, se cobre de cilício e cinza, e decreta jejum e arrependimento para toda a cidade, incluindo os animais."
+      },
+      "acciones": {
+        "es": "Se levanta de su trono y se cubre de cilicio al oír el mensaje de Jonás (Jon 3:6), promulga un decreto real y de sus nobles ordenando ayuno total y arrepentimiento sincero, con la esperanza de que Dios se aparte de su ardiente ira (Jon 3:7-9).",
+        "en": "Rises from his throne and covers himself with sackcloth upon hearing Jonah's message (Jonah 3:6), issues a royal decree together with his nobles ordering total fasting and sincere repentance, hoping God will turn from his fierce anger (Jonah 3:7-9).",
+        "pt": "Levanta-se de seu trono e se cobre de cilício ao ouvir a mensagem de Jonas (Jn 3:6), promulga um decreto real, junto com seus nobres, ordenando jejum total e arrependimento sincero, na esperança de que Deus se aparte de sua ira ardente (Jn 3:7-9)."
+      },
+      "significadoTeologico": {
+        "es": "El rey pagano modela un arrepentimiento más genuino y humilde que el que Israel frecuentemente ofrece a sus propios profetas, subrayando la ironía central del libro: los gentiles responden a la palabra de Dios mejor que su propio pueblo del pacto.",
+        "en": "The pagan king models a more genuine, humble repentance than Israel often offered its own prophets, underscoring the book's central irony: the Gentiles respond to God's word better than his own covenant people.",
+        "pt": "O rei pagão modela um arrependimento mais genuíno e humilde do que aquele que Israel frequentemente oferecia a seus próprios profetas, sublinhando a ironia central do livro: os gentios respondem à palavra de Deus melhor do que seu próprio povo do pacto."
+      },
+      "tipo": {
+        "es": "El decreto real de humillación y arrepentimiento (Jon 3:7-9) prefigura la respuesta apropiada de fe y arrepentimiento que el evangelio de Cristo demandará de todas las naciones y sus gobernantes (Sal 2:10-12; Ap 21:24).",
+        "en": "The royal decree of humiliation and repentance (Jonah 3:7-9) prefigures the fitting response of faith and repentance that Christ's gospel will demand of all nations and their rulers (Ps 2:10-12; Rev 21:24).",
+        "pt": "O decreto real de humilhação e arrependimento (Jn 3:7-9) prefigura a resposta adequada de fé e arrependimento que o evangelho de Cristo exigirá de todas as nações e seus governantes (Sl 2:10-12; Ap 21:24)."
+      },
+      "caracterMoral": {
+        "es": "Humilde, decisivo y sinceramente temeroso ante la posibilidad del juicio divino, dispuesto a liderar a toda su ciudad en un acto público de arrepentimiento.",
+        "en": "Humble, decisive, and sincerely fearful before the possibility of divine judgment, willing to lead his entire city in a public act of repentance.",
+        "pt": "Humilde, decidido e sinceramente temeroso diante da possibilidade do juízo divino, disposto a liderar toda a sua cidade num ato público de arrependimento."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "El rey aparece solo en Jon 3:6-9, donde su respuesta inmediata al mensaje profético desencadena el arrepentimiento colectivo de toda la ciudad.",
+          "en": "The king appears only in Jonah 3:6-9, where his immediate response to the prophetic message triggers the whole city's collective repentance.",
+          "pt": "O rei aparece apenas em Jn 3:6-9, onde sua resposta imediata à mensagem profética desencadeia o arrependimento coletivo de toda a cidade."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Jon 3:6",
+          "Jon 3:9"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El libro no nombra a este rey, y su identificación con un monarca asirio específico —posiblemente Asur-dan III (773-755 a.C.)— sigue siendo objeto de debate erudito sin confirmación extrabíblica definitiva.",
+          "en": "The book does not name this king, and his identification with a specific Assyrian monarch — possibly Ashur-dan III (773-755 BC) — remains a matter of scholarly debate without definitive extrabiblical confirmation.",
+          "pt": "O livro não nomeia esse rei, e sua identificação com um monarca assírio específico — possivelmente Assur-dã III (773-755 a.C.) — permanece objeto de debate erudito sem confirmação extrabíblica definitiva."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La ausencia de un nombre real específico es consistente con el estilo narrativo hebreo, que a menudo se enfoca en el oficio («el rey de Nínive») más que en la identificación dinástica precisa.",
+          "en": "The absence of a specific royal name is consistent with the Hebrew narrative style, which often focuses on the office (\"the king of Nineveh\") rather than precise dynastic identification.",
+          "pt": "A ausência de um nome real específico é consistente com o estilo narrativo hebraico, que frequentemente se concentra no ofício («o rei de Nínive») em vez da identificação dinástica precisa."
+        }
+      },
+      "versiculosAsociados": [
+        "Jon 3:6",
+        "Jon 3:7",
+        "Jon 3:9"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "El rey no es mencionado directamente en el Nuevo Testamento, aunque Jesús alude colectivamente a «los hombres de Nínive» que se levantarán en el juicio y condenarán a su generación incrédula (Mt 12:41).",
+        "en": "The king is not directly mentioned in the New Testament, though Jesus collectively alludes to \"the men of Nineveh\" who will rise up at the judgment and condemn his unbelieving generation (Matt 12:41).",
+        "pt": "O rei não é mencionado diretamente no Novo Testamento, embora Jesus aluda coletivamente aos «homens de Nínive» que se levantarão no juízo e condenarão sua geração incrédula (Mt 12:41)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Nínive",
+        "en": "Nineveh",
+        "pt": "Nínive"
+      },
+      "principal": true,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "La gran capital del imperio asirio, descrita como una ciudad extensa de tres días de camino con más de ciento veinte mil habitantes, cuya maldad provoca el juicio anunciado por Dios pero cuyo arrepentimiento colectivo —desde el rey hasta el ganado— provoca la compasión divina y la ira de Jonás.",
+        "en": "The great capital of the Assyrian empire, described as a vast city of three days' journey with more than 120,000 inhabitants, whose wickedness provokes God's announced judgment but whose collective repentance — from the king to the cattle — provokes divine compassion and Jonah's anger.",
+        "pt": "A grande capital do império assírio, descrita como uma cidade extensa de três dias de caminho com mais de cento e vinte mil habitantes, cuja maldade provoca o juízo anunciado por Deus, mas cujo arrependimento coletivo — desde o rei até o gado — provoca a compaixão divina e a ira de Jonas."
+      },
+      "acciones": {
+        "es": "Es descrita inicialmente como una ciudad cuya maldad ha subido delante de Dios (Jon 1:2), cree en Dios al oír la predicación de Jonás y proclama ayuno, vistiéndose de cilicio desde el mayor hasta el menor (Jon 3:5), y recibe la compasión divina cuando Dios ve sus obras y se aparta del mal que había anunciado hacerle (Jon 3:10).",
+        "en": "Is initially described as a city whose wickedness has come up before God (Jonah 1:2), believes God upon hearing Jonah's preaching and proclaims a fast, dressing in sackcloth from the greatest to the least (Jonah 3:5), and receives divine compassion when God sees its works and turns from the disaster he had announced against it (Jonah 3:10).",
+        "pt": "É descrita inicialmente como uma cidade cuja maldade subiu diante de Deus (Jn 1:2), crê em Deus ao ouvir a pregação de Jonas e proclama jejum, vestindo-se de cilício desde o maior até o menor (Jn 3:5), e recebe a compaixão divina quando Deus vê suas obras e se aparta do mal que havia anunciado fazer-lhe (Jn 3:10)."
+      },
+      "significadoTeologico": {
+        "es": "Nínive representa a la humanidad gentil pagana capaz de un arrepentimiento genuino y masivo ante la palabra de Dios, contrastando deliberadamente con la resistencia del propio profeta israelita y anticipando la extensión universal de la misericordia divina.",
+        "en": "Nineveh represents pagan Gentile humanity capable of genuine, mass repentance before God's word, deliberately contrasting with the resistance of the Israelite prophet himself and anticipating the universal extension of divine mercy.",
+        "pt": "Nínive representa a humanidade gentia pagã capaz de um arrependimento genuíno e massivo diante da palavra de Deus, contrastando deliberadamente com a resistência do próprio profeta israelita e antecipando a extensão universal da misericórdia divina."
+      },
+      "tipo": {
+        "es": "El arrepentimiento de Nínive «con motivo de la predicación de Jonás» (Mt 12:41) se convierte en el testimonio escatológico que condenará a quienes rechacen a «alguien mayor que Jonás», es decir, a Cristo mismo.",
+        "en": "Nineveh's repentance \"at the preaching of Jonah\" (Matt 12:41) becomes the eschatological testimony that will condemn those who reject \"someone greater than Jonah,\" that is, Christ himself.",
+        "pt": "O arrependimento de Nínive «com a pregação de Jonas» (Mt 12:41) torna-se o testemunho escatológico que condenará os que rejeitarem «alguém maior do que Jonas», ou seja, o próprio Cristo."
+      },
+      "caracterMoral": {
+        "es": "Inicialmente descrita como malvada, pero capaz de una humillación y arrepentimiento colectivos genuinos e inmediatos ante la advertencia profética.",
+        "en": "Initially described as wicked, but capable of genuine, immediate collective humiliation and repentance in the face of the prophetic warning.",
+        "pt": "Inicialmente descrita como má, mas capaz de uma humilhação e arrependimento coletivos genuínos e imediatos diante da advertência profética."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Nínive aparece como el objetivo de la misión de Jonás en el capítulo 1, el escenario del arrepentimiento masivo en el capítulo 3, y el objeto de la compasión divina que provoca la ira de Jonás en el capítulo 4.",
+          "en": "Nineveh appears as the target of Jonah's mission in chapter 1, the setting of mass repentance in chapter 3, and the object of divine compassion that provokes Jonah's anger in chapter 4.",
+          "pt": "Nínive aparece como o alvo da missão de Jonas no capítulo 1, o cenário do arrependimento em massa no capítulo 3, e o objeto da compaixão divina que provoca a ira de Jonas no capítulo 4."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Jon 1:2",
+          "Jon 3:5",
+          "Jon 3:10",
+          "Jon 4:11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Nínive es una de las ciudades mejor documentadas arqueológicamente del Cercano Oriente Antiguo, capital del imperio asirio con extensas murallas, palacios y una población que las estimaciones modernas sitúan en varias decenas de miles de habitantes en su área metropolitana durante el siglo VIII a.C.",
+          "en": "Nineveh is one of the most archaeologically well-documented cities of the Ancient Near East, capital of the Assyrian empire with extensive walls, palaces, and a population that modern estimates place at several tens of thousands of inhabitants in its metropolitan area during the 8th century BC.",
+          "pt": "Nínive é uma das cidades mais bem documentadas arqueologicamente do Antigo Oriente Próximo, capital do império assírio com extensas muralhas, palácios e uma população que estimativas modernas situam em várias dezenas de milhares de habitantes em sua área metropolitana durante o século VIII a.C."
+        },
+        "fuentes": [
+          {
+            "titulo": "Archaeological Study Bible",
+            "autor": "Zondervan (ed. general)",
+            "año": 2005,
+            "editorial": "Zondervan",
+            "nivel": 3,
+            "camposUtilizados": [
+              "Excavaciones de Nínive",
+              "Tamaño de la ciudad"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La descripción bíblica de Nínive como una gran ciudad de tres días de camino (Jon 3:3) es consistente con las estimaciones arqueológicas del área metropolitana de Nínive, que incluía distritos satélites más allá del perímetro amurallado central.",
+          "en": "The biblical description of Nineveh as a great city of three days' journey (Jonah 3:3) is consistent with archaeological estimates of Nineveh's metropolitan area, which included satellite districts beyond the central walled perimeter.",
+          "pt": "A descrição bíblica de Nínive como uma grande cidade de três dias de caminho (Jn 3:3) é consistente com as estimativas arqueológicas da área metropolitana de Nínive, que incluía distritos satélites além do perímetro murado central."
+        }
+      },
+      "versiculosAsociados": [
+        "Jon 1:2",
+        "Jon 3:3",
+        "Jon 3:5",
+        "Jon 4:11"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "Nah",
+        "Sof",
+        "Mt",
+        "Lc"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Jesús cita el arrepentimiento de los hombres de Nínive como testimonio condenatorio contra la generación incrédula que lo rechaza a él, «alguien mayor que Jonás» (Mt 12:41; Lc 11:32).",
+        "en": "Jesus cites the repentance of the men of Nineveh as condemning testimony against the unbelieving generation that rejects him, \"someone greater than Jonah\" (Matt 12:41; Luke 11:32).",
+        "pt": "Jesus cita o arrependimento dos homens de Nínive como testemunho condenatório contra a geração incrédula que o rejeita, «alguém maior do que Jonas» (Mt 12:41; Lc 11:32)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Jonás presenta una demostración sostenida de la soberanía providencial de Dios sobre la creación: él envía la tormenta (Jon 1:4), designa el gran pez (Jon 1:17), y prepara la planta, el gusano y el viento solano (Jon 4:6-8), gobernando cada elemento natural para cumplir sus propósitos redentores y pedagógicos con su profeta.",
+        "en": "Jonah presents a sustained demonstration of God's providential sovereignty over creation: he sends the storm (Jonah 1:4), appoints the great fish (Jonah 1:17), and appoints the plant, the worm, and the scorching wind (Jonah 4:6-8), governing every natural element to accomplish his redemptive and pedagogical purposes with his prophet.",
+        "pt": "Jonas apresenta uma demonstração sustentada da soberania providencial de Deus sobre a criação: ele envia a tempestade (Jn 1:4), designa o grande peixe (Jn 1:17), e prepara a planta, o verme e o vento oriental abrasador (Jn 4:6-8), governando cada elemento natural para cumprir seus propósitos redentores e pedagógicos com seu profeta."
+      },
+      "pasajes": [
+        "Jon 1:4",
+        "Jon 1:17",
+        "Jon 4:6"
+      ],
+      "ensenanza": {
+        "es": "Dios gobierna soberanamente el mar y la tormenta para detener la huida de su profeta · Dios designa específicamente al gran pez como instrumento de rescate y disciplina · Dios prepara y quita elementos naturales para enseñar una lección teológica a Jonás",
+        "en": "God sovereignly governs the sea and the storm to stop his prophet's flight · God specifically appoints the great fish as an instrument of rescue and discipline · God appoints and removes natural elements to teach Jonah a theological lesson",
+        "pt": "Deus governa soberanamente o mar e a tempestade para deter a fuga de seu profeta · Deus designa especificamente o grande peixe como instrumento de resgate e disciplina · Deus prepara e retira elementos naturais para ensinar uma lição teológica a Jonas"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la providencia ve en Jonás una ilustración vívida de que ningún rincón de la creación —ni el mar ni las criaturas ni las plantas— escapa del control detallado y propositivo de Dios, quien ordena todas las cosas para el cumplimiento de su voluntad redentora.",
+        "en": "Reformed providence doctrine sees in Jonah a vivid illustration that no corner of creation — neither sea nor creature nor plant — escapes God's detailed, purposeful control, as he orders all things for the fulfillment of his redemptive will.",
+        "pt": "A doutrina reformada da providência vê em Jonas uma ilustração vívida de que nenhum canto da criação — nem o mar, nem as criaturas, nem as plantas — escapa do controle detalhado e propositado de Deus, que ordena todas as coisas para o cumprimento de sua vontade redentora."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "El libro entero se mueve hacia la salvación de Nínive: el arrepentimiento de la ciudad entera provoca que Dios se aparte del juicio anunciado (Jon 3:10), demostrando que la salvación divina no está restringida a Israel sino que se extiende a cualquier nación que responda con fe genuina y arrepentimiento a la palabra de Dios.",
+        "en": "The entire book moves toward Nineveh's salvation: the whole city's repentance causes God to relent from the announced judgment (Jonah 3:10), demonstrating that divine salvation is not restricted to Israel but extends to any nation that responds with genuine faith and repentance to God's word.",
+        "pt": "O livro inteiro se move rumo à salvação de Nínive: o arrependimento de toda a cidade faz com que Deus se aparte do juízo anunciado (Jn 3:10), demonstrando que a salvação divina não está restrita a Israel, mas se estende a qualquer nação que responda com fé genuína e arrependimento à palavra de Deus."
+      },
+      "pasajes": [
+        "Jon 3:5",
+        "Jon 3:9",
+        "Jon 3:10"
+      ],
+      "ensenanza": {
+        "es": "El arrepentimiento genuino de una nación entera puede provocar que Dios aparte el juicio anunciado · La esperanza en la misericordia divina motiva el arrepentimiento colectivo de Nínive · La salvación de Dios responde a la fe y el arrepentimiento, no a la identidad étnica",
+        "en": "The genuine repentance of an entire nation can cause God to turn aside the announced judgment · Hope in divine mercy motivates Nineveh's collective repentance · God's salvation responds to faith and repentance, not ethnic identity",
+        "pt": "O arrependimento genuíno de uma nação inteira pode levar Deus a afastar o juízo anunciado · A esperança na misericórdia divina motiva o arrependimento coletivo de Nínive · A salvação de Deus responde à fé e ao arrependimento, não à identidade étnica"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada lee la salvación de Nínive no como salvación por obras sino como respuesta arrepentida a la palabra proclamada, consistente con el patrón bíblico de que la fe genuina siempre produce frutos visibles de arrepentimiento (cf. Hch 26:20).",
+        "en": "Reformed theology reads Nineveh's salvation not as salvation by works but as a repentant response to the proclaimed word, consistent with the biblical pattern that genuine faith always produces visible fruits of repentance (cf. Acts 26:20).",
+        "pt": "A teologia reformada lê a salvação de Nínive não como salvação por obras, mas como resposta arrependida à palavra proclamada, consistente com o padrão bíblico de que a fé genuína sempre produz frutos visíveis de arrependimento (cf. At 26:20)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "Jonás revela el carácter de Dios mediante la propia confesión del profeta: «Dios clemente y compasivo, lento para la ira y grande en misericordia, que se arrepiente del mal» (Jon 4:2), un eco directo de Ex 34:6-7 aplicado ahora deliberadamente a una nación gentil.",
+        "en": "Jonah reveals God's character through the prophet's own confession: \"a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster\" (Jonah 4:2), a direct echo of Exod 34:6-7 now deliberately applied to a Gentile nation.",
+        "pt": "Jonas revela o caráter de Deus por meio da própria confissão do profeta: «Deus clemente e misericordioso, tardio em irar-se e grande em beneficência, e que se arrepende do mal» (Jn 4:2), um eco direto de Êx 34:6-7 agora deliberadamente aplicado a uma nação gentia."
+      },
+      "pasajes": [
+        "Jon 4:2",
+        "Jon 4:10",
+        "Jon 4:11"
+      ],
+      "ensenanza": {
+        "es": "El propio Jonás confiesa el carácter misericordioso de Dios como la razón de su huida original · Dios reprende la compasión desproporcionada de Jonás por la planta comparada con su falta de compasión por personas · La pregunta final de Dios revela su preocupación pastoral incluso por quienes «no saben distinguir su mano derecha de su izquierda»",
+        "en": "Jonah himself confesses God's merciful character as the reason for his original flight · God rebukes Jonah's disproportionate compassion for the plant compared to his lack of compassion for people · God's final question reveals his pastoral concern even for those who \"do not know their right hand from their left\"",
+        "pt": "O próprio Jonas confessa o caráter misericordioso de Deus como a razão de sua fuga original · Deus repreende a compaixão desproporcional de Jonas pela planta em comparação com sua falta de compaixão por pessoas · A pergunta final de Deus revela sua preocupação pastoral até mesmo por aqueles que «não sabem discernir a sua mão direita da esquerda»"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada enfatiza que la misericordia de Dios revelada en Jonás no contradice su justicia sino que la complementa: el mismo Dios que anuncia el juicio (Jon 1:2; 3:4) es quien se compadece del arrepentimiento genuino (Jon 3:10), mostrando la coherencia de sus atributos.",
+        "en": "The Reformed tradition emphasizes that God's mercy revealed in Jonah does not contradict his justice but complements it: the same God who announces judgment (Jonah 1:2; 3:4) is the one who has compassion on genuine repentance (Jonah 3:10), showing the coherence of his attributes.",
+        "pt": "A tradição reformada enfatiza que a misericórdia de Deus revelada em Jonas não contradiz sua justiça, mas a complementa: o mesmo Deus que anuncia o juízo (Jn 1:2; 3:4) é quem se compadece do arrependimento genuíno (Jn 3:10), mostrando a coerência de seus atributos."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "Jonás confronta el particularismo nacionalista de Israel con la verdad de que la elección de Israel como pueblo del pacto nunca tuvo como fin excluir a las naciones de la misericordia de Dios, sino servir como vehículo de bendición hacia ellas (cf. Gn 12:3), un llamado que el propio Jonás resiste hasta el final del libro.",
+        "en": "Jonah confronts Israel's nationalistic particularism with the truth that Israel's election as covenant people was never meant to exclude the nations from God's mercy, but to serve as a vehicle of blessing to them (cf. Gen 12:3), a calling Jonah himself resists to the book's end.",
+        "pt": "Jonas confronta o particularismo nacionalista de Israel com a verdade de que a eleição de Israel como povo do pacto nunca teve como objetivo excluir as nações da misericórdia de Deus, mas servir como veículo de bênção para elas (cf. Gn 12:3), um chamado que o próprio Jonas resiste até o fim do livro."
+      },
+      "pasajes": [
+        "Jon 1:1",
+        "Jon 3:2",
+        "Jon 4:1"
+      ],
+      "ensenanza": {
+        "es": "Dios comisiona a su profeta elegido específicamente para llevar su palabra a una nación gentil · El propósito de la elección profética de Jonás siempre incluyó a Nínive, no solo a Israel · La ira de Jonás expone una comprensión distorsionada de la elección como privilegio excluyente",
+        "en": "God commissions his chosen prophet specifically to bring his word to a Gentile nation · The purpose of Jonah's prophetic election always included Nineveh, not Israel alone · Jonah's anger exposes a distorted understanding of election as exclusionary privilege",
+        "pt": "Deus comissiona seu profeta escolhido especificamente para levar sua palavra a uma nação gentia · O propósito da eleição profética de Jonas sempre incluiu Nínive, não apenas Israel · A ira de Jonas expõe uma compreensão distorcida da eleição como privilégio excludente"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada del pacto sostiene que la elección de Israel siempre tuvo un propósito misionero hacia las naciones, un principio que Jonás ilustra negativamente mediante la resistencia de su propio profeta a esa vocación universal.",
+        "en": "Reformed covenant theology holds that Israel's election always had a missionary purpose toward the nations, a principle Jonah illustrates negatively through his own prophet's resistance to that universal calling.",
+        "pt": "A teologia reformada do pacto sustenta que a eleição de Israel sempre teve um propósito missionário para com as nações, princípio que Jonas ilustra negativamente por meio da resistência de seu próprio profeta a essa vocação universal."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía de Dios"
+      ],
+      "resumen": {
+        "es": "El capítulo 5 de la Confesión de Westminster confiesa que Dios sostiene, dirige y gobierna todas las criaturas y acciones mediante su sabidísima providencia. Jonás ilustra esta doctrina de manera vívida y sostenida: Dios gobierna la tormenta, el gran pez, la planta, el gusano y el viento solano, cada uno como instrumento providencial para cumplir su propósito con Jonás y con Nínive.",
+        "en": "Chapter 5 of the Westminster Confession confesses that God upholds, directs, and governs all creatures and actions by his most wise providence. Jonah illustrates this doctrine vividly and sustainedly: God governs the storm, the great fish, the plant, the worm, and the scorching wind, each as a providential instrument to fulfill his purpose with Jonah and with Nineveh.",
+        "pt": "O capítulo 5 da Confissão de Westminster confessa que Deus sustenta, dirige e governa todas as criaturas e ações por sua sapientíssima providência. Jonas ilustra essa doutrina de forma vívida e sustentada: Deus governa a tempestade, o grande peixe, a planta, o verme e o vento oriental abrasador, cada um como instrumento providencial para cumprir seu propósito com Jonas e com Nínive."
+      },
+      "genesis": [
+        "Jon 1:4",
+        "Jon 1:17",
+        "Jon 4:6"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 15",
+      "titulo": {
+        "es": "Del Arrepentimiento para Vida",
+        "en": "Of Repentance unto Life",
+        "pt": "Do Arrependimento para a Vida"
+      },
+      "doctrinas": [
+        "Arrepentimiento",
+        "Soteriología"
+      ],
+      "resumen": {
+        "es": "El capítulo 15 describe el arrepentimiento evangélico como un don de gracia que produce odio genuino al pecado y vuelta a Dios con propósito de nueva obediencia. El arrepentimiento colectivo de Nínive —ayuno, cilicio, y el llamado a que «cada uno se vuelva de su mal camino» (Jon 3:8)— ejemplifica los frutos visibles de tal arrepentimiento a nivel de una respuesta nacional a la predicación.",
+        "en": "Chapter 15 describes evangelical repentance as a gift of grace that produces genuine hatred of sin and a turning to God with a purpose of new obedience. Nineveh's collective repentance — fasting, sackcloth, and the call that \"everyone turn from his evil way\" (Jonah 3:8) — exemplifies the visible fruits of such repentance at the level of a national response to preaching.",
+        "pt": "O capítulo 15 descreve o arrependimento evangélico como um dom da graça que produz ódio genuíno ao pecado e volta a Deus com propósito de nova obediência. O arrependimento coletivo de Nínive — jejum, cilício e o chamado para que «cada um se converta do seu mau caminho» (Jn 3:8) — exemplifica os frutos visíveis de tal arrependimento no nível de uma resposta nacional à pregação."
+      },
+      "genesis": [
+        "Jon 3:8",
+        "Jon 3:10"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-15"
+    },
+    {
+      "cap": "Cap. 2",
+      "titulo": {
+        "es": "De Dios y de la Santísima Trinidad",
+        "en": "Of God, and of the Holy Trinity",
+        "pt": "De Deus e da Santíssima Trindade"
+      },
+      "doctrinas": [
+        "Teología Propia",
+        "Atributos de Dios"
+      ],
+      "resumen": {
+        "es": "El capítulo 2 confiesa a Dios como «clementísimo y misericordioso, tardo para la ira, y abundante en bondad y verdad». La confesión de Jonás en Jon 4:2 —«Dios clemente y compasivo, lento para la ira y grande en misericordia»— es prácticamente una cita directa de la misma tradición confesional bíblica (Ex 34:6-7) que la Confesión de Westminster articula.",
+        "en": "Chapter 2 confesses God as \"most loving, gracious, merciful, long-suffering, abundant in goodness and truth.\" Jonah's confession in Jonah 4:2 — \"a gracious God and merciful, slow to anger, and abounding in steadfast love\" — is practically a direct quotation of the same biblical confessional tradition (Exod 34:6-7) that the Westminster Confession articulates.",
+        "pt": "O capítulo 2 confessa Deus como «clementíssimo e misericordioso, tardio em irar-se, e abundante em bondade e verdade». A confissão de Jonas em Jn 4:2 — «Deus clemente e misericordioso, tardio em irar-se e grande em beneficência» — é praticamente uma citação direta da mesma tradição confessional bíblica (Êx 34:6-7) que a Confissão de Westminster articula."
+      },
+      "genesis": [
+        "Jon 4:2",
+        "Jon 4:11"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-2"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Jon 1:3",
+      "es": "Pero Jonás se levantó para huir de la presencia del SEÑOR, y fue a Jope, donde encontró un barco que iba a Tarsis; y pagando su pasaje, se embarcó para irse con ellos a Tarsis, lejos de la presencia del SEÑOR.",
+      "en": "But Jonah rose to flee to Tarshish from the presence of the LORD. He went down to Joppa and found a ship going to Tarshish. So he paid the fare and went down into it, to go with them to Tarshish, away from the presence of the LORD.",
+      "pt": "Jonas, porém, se levantou para fugir para Társis, de diante da face do SENHOR, e desceu a Jope, e achou um navio que ia para Társis; pagou, pois, a sua passagem, e desceu para dentro dele, para ir com eles a Társis, de diante da face do SENHOR.",
+      "nota": {
+        "es": "Este versículo establece el conflicto central del libro: la huida deliberada de un profeta comisionado, subrayada por la repetición triple de «de la presencia del SEÑOR», que anticipa la imposibilidad teológica de tal huida.",
+        "en": "This verse establishes the book's central conflict: the deliberate flight of a commissioned prophet, underscored by the threefold repetition of \"from the presence of the LORD,\" which anticipates the theological impossibility of such a flight.",
+        "pt": "Este versículo estabelece o conflito central do livro: a fuga deliberada de um profeta comissionado, sublinhada pela repetição tríplice de «de diante da face do SENHOR», que antecipa a impossibilidade teológica de tal fuga."
+      }
+    },
+    {
+      "ref": "Jon 1:17",
+      "es": "Y el SEÑOR había dispuesto un gran pez que se tragara a Jonás, y Jonás estuvo en el vientre del pez tres días y tres noches.",
+      "en": "And the LORD appointed a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+      "pt": "Ora, o SENHOR já havia preparado um grande peixe, para que tragasse a Jonas; e esteve Jonas três dias e três noites nas entranhas do peixe.",
+      "nota": {
+        "es": "Jesús mismo cita este versículo como el «signo de Jonás», un tipo profético directo de su propia muerte y resurrección al tercer día (Mt 12:40), otorgando a este episodio una autoridad interpretativa cristológica definitiva.",
+        "en": "Jesus himself cites this verse as the \"sign of Jonah,\" a direct prophetic type of his own death and resurrection on the third day (Matt 12:40), granting this episode definitive christological interpretive authority.",
+        "pt": "O próprio Jesus cita este versículo como o «sinal de Jonas», um tipo profético direto de sua própria morte e ressurreição ao terceiro dia (Mt 12:40), conferindo a este episódio uma autoridade interpretativa cristológica definitiva."
+      }
+    },
+    {
+      "ref": "Jon 3:10",
+      "es": "Cuando Dios vio lo que hicieron, que se apartaron de su mal camino, Dios se arrepintió del mal que había dicho que les haría, y no lo hizo.",
+      "en": "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it.",
+      "pt": "E viu Deus as obras deles, como se converteram do seu mau caminho; e Deus se arrependeu do mal que tinha dito lhes faria, e não o fez.",
+      "nota": {
+        "es": "El clímax narrativo del libro: el arrepentimiento genuino de una ciudad gentil entera provoca la compasión divina, demostrando que la misericordia de Dios responde a la fe y el arrepentimiento sin distinción étnica.",
+        "en": "The narrative climax of the book: the genuine repentance of an entire Gentile city provokes divine compassion, demonstrating that God's mercy responds to faith and repentance without ethnic distinction.",
+        "pt": "O clímax narrativo do livro: o arrependimento genuíno de uma cidade gentia inteira provoca a compaixão divina, demonstrando que a misericórdia de Deus responde à fé e ao arrependimento sem distinção étnica."
+      }
+    },
+    {
+      "ref": "Jon 4:2",
+      "es": "Y oró al SEÑOR, y dijo: Ah, SEÑOR, ¿no era esto lo que yo decía cuando aún estaba en mi tierra? Por eso me anticipé a huir a Tarsis, porque sabía que tú eres Dios clemente y compasivo, lento para la ira y grande en misericordia, que te arrepientes del mal.",
+      "en": "And he prayed to the LORD and said, 'O LORD, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster.'",
+      "pt": "E orou ao SENHOR, e disse: Ah! SENHOR, não foi isto o que eu dizia, estando ainda na minha terra? Por isso é que antes me apressei a fugir para Társis; porque eu sabia que tu és Deus clemente e misericordioso, tardio em irar-te e grande em beneficência, e que te arrependes do mal.",
+      "nota": {
+        "es": "La confesión más honesta del libro: Jonás revela que su huida original no fue por temor sino por resentimiento ante la misericordia previsible de Dios hacia Nínive, exponiendo el verdadero motivo teológico de su rebeldía.",
+        "en": "The book's most honest confession: Jonah reveals that his original flight was not out of fear but resentment at God's predictable mercy toward Nineveh, exposing the true theological motive for his rebellion.",
+        "pt": "A confissão mais honesta do livro: Jonas revela que sua fuga original não foi por temor, mas por ressentimento diante da misericórdia previsível de Deus para com Nínive, expondo o verdadeiro motivo teológico de sua rebeldia."
+      }
+    },
+    {
+      "ref": "Jon 4:11",
+      "es": "¿Y no tendré yo piedad de Nínive, aquella gran ciudad donde hay más de ciento veinte mil personas que no saben distinguir entre su mano derecha y su mano izquierda, y también muchos animales?",
+      "en": "And should not I pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?",
+      "pt": "E não pouparia eu a Nínive, aquela grande cidade, em que há mais de cento e vinte mil pessoas que não sabem discernir entre a sua mão direita e a sua mão esquerda, e também muitos animais?",
+      "nota": {
+        "es": "El versículo final del libro, dejado deliberadamente como una pregunta sin respuesta narrada, confronta directamente al lector con la misma decisión que enfrentó Jonás: aceptar o resistir la compasión universal de Dios.",
+        "en": "The book's final verse, deliberately left as a question without narrated response, directly confronts the reader with the same decision Jonah faced: accepting or resisting God's universal compassion.",
+        "pt": "O versículo final do livro, deixado deliberadamente como uma pergunta sem resposta narrada, confronta diretamente o leitor com a mesma decisão que Jonas enfrentou: aceitar ou resistir à compaixão universal de Deus."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Jonás resiste tanto una interpretación puramente moralista —el libro como simple fábula sobre la obediencia— como una que ignore su historicidad afirmada por Cristo mismo. En cambio, ve en el libro una demostración temprana y deliberada del propósito misionero universal del pacto abrahámico (Gn 12:3), cumplido plenamente en la Gran Comisión de Cristo (Mt 28:19), y una advertencia permanente contra el particularismo religioso que confunde la elección con el privilegio excluyente.",
+    "en": "The Reformed reading of Jonah resists both a purely moralistic interpretation — the book as a simple fable about obedience — and one that ignores its historicity affirmed by Christ himself. Instead, it sees in the book an early, deliberate demonstration of the Abrahamic covenant's universal missionary purpose (Gen 12:3), fully fulfilled in Christ's Great Commission (Matt 28:19), and a permanent warning against the religious particularism that confuses election with exclusionary privilege.",
+    "pt": "A leitura reformada de Jonas resiste tanto a uma interpretação puramente moralista — o livro como simples fábula sobre a obediência — quanto a uma que ignore sua historicidade afirmada pelo próprio Cristo. Em vez disso, vê no livro uma demonstração antecipada e deliberada do propósito missionário universal do pacto abraâmico (Gn 12:3), plenamente cumprido na Grande Comissão de Cristo (Mt 28:19), e uma advertência permanente contra o particularismo religioso que confunde eleição com privilégio excludente."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "La Huida de Jonás y la Tormenta",
+        "en": "Jonah's Flight and the Storm",
+        "pt": "A Fuga de Jonas e a Tempestade"
+      },
+      "descripcion": {
+        "es": "El libro abre con la orden directa del SEÑOR a Jonás: levántate, ve a Nínive, la gran ciudad, y clama contra ella, porque su maldad ha subido delante de mí (Jon 1:2). En lugar de obedecer, Jonás se levanta para huir a Tarsis, embarcándose en Jope en dirección opuesta, «lejos de la presencia del SEÑOR» (Jon 1:3), una frase repetida que subraya la futilidad teológica de tal intento. El SEÑOR envía un gran viento sobre el mar que amenaza con partir la nave, y mientras los marineros paganos claman cada uno a su dios, Jonás duerme profundamente en la bodega (Jon 1:4-5). Descubierto mediante suertes como la causa de la tormenta, Jonás confiesa temer al SEÑOR, Dios de los cielos, que hizo el mar y la tierra seca (Jon 1:9), y pide ser arrojado al mar; tras hacerlo con gran reticencia, los marineros temen grandemente al SEÑOR, le ofrecen sacrificio y hacen votos (Jon 1:12-16).",
+        "en": "The book opens with the LORD's direct command to Jonah: arise, go to Nineveh, that great city, and call out against it, for its wickedness has come up before me (Jonah 1:2). Instead of obeying, Jonah rises to flee to Tarshish, boarding a ship at Joppa in the opposite direction, \"away from the presence of the LORD\" (Jonah 1:3), a repeated phrase underscoring the theological futility of such an attempt. The LORD sends a great wind upon the sea that threatens to break up the ship, and while the pagan sailors each cry out to his own god, Jonah is fast asleep in the hold (Jonah 1:4-5). Discovered by lot as the cause of the storm, Jonah confesses fear of the LORD, the God of heaven, who made the sea and the dry land (Jonah 1:9), and asks to be thrown into the sea; after doing so with great reluctance, the sailors greatly fear the LORD, offer him sacrifice, and make vows (Jonah 1:12-16).",
+        "pt": "O livro abre com a ordem direta do SENHOR a Jonas: levanta-te, vai a Nínive, aquela grande cidade, e clama contra ela, porque a sua maldade subiu diante de mim (Jn 1:2). Em vez de obedecer, Jonas se levanta para fugir a Társis, embarcando em Jope em direção oposta, «de diante da face do SENHOR» (Jn 1:3), frase repetida que sublinha a futilidade teológica de tal tentativa. O SENHOR envia um grande vento sobre o mar que ameaça despedaçar o navio, e enquanto os marinheiros pagãos clamam cada um a seu deus, Jonas dorme profundamente no porão (Jn 1:4-5). Descoberto por meio de sortes como a causa da tempestade, Jonas confessa temer ao SENHOR, Deus dos céus, que fez o mar e a terra seca (Jn 1:9), e pede para ser lançado ao mar; depois de fazê-lo com grande relutância, os marinheiros temem grandemente ao SENHOR, lhe oferecem sacrifício e fazem votos (Jn 1:12-16)."
+      },
+      "eventoClave": {
+        "es": "La huida deliberada de Jonás «de la presencia del SEÑOR» y la conversión repentina de los marineros paganos al temor genuino del SEÑOR tras la tormenta (Jon 1:3,16).",
+        "en": "Jonah's deliberate flight \"from the presence of the LORD\" and the pagan sailors' sudden conversion to genuine fear of the LORD after the storm (Jonah 1:3,16).",
+        "pt": "A fuga deliberada de Jonas «de diante da face do SENHOR» e a conversão repentina dos marinheiros pagãos ao temor genuíno do SENHOR após a tempestade (Jn 1:3,16)."
+      },
+      "versiculoClave": "Jon 1:3",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 139:7",
+          "tipo": "alusión",
+          "nota": {
+            "es": "El intento de Jonás de huir «de la presencia del SEÑOR» (Jon 1:3) ilustra narrativamente la verdad teológica que el salmista confiesa: no hay lugar donde escapar de la presencia de Dios.",
+            "en": "Jonah's attempt to flee \"from the presence of the LORD\" (Jonah 1:3) narratively illustrates the theological truth the psalmist confesses: there is no place to escape God's presence.",
+            "pt": "A tentativa de Jonas de fugir «de diante da face do SENHOR» (Jn 1:3) ilustra narrativamente a verdade teológica que o salmista confessa: não há lugar para escapar da presença de Deus."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "El SEÑOR llama directamente a Jonás a ir a Nínive y clamar contra ella (Jon 1:2), estableciendo la vocación profética que Jonás resiste huyendo «lejos de la presencia del SEÑOR» (Jon 1:3).",
+            "en": "The LORD directly calls Jonah to go to Nineveh and call out against it (Jonah 1:2), establishing the prophetic vocation Jonah resists by fleeing \"from the presence of the LORD\" (Jonah 1:3).",
+            "pt": "O SENHOR chama diretamente Jonas para ir a Nínive e clamar contra ela (Jn 1:2), estabelecendo a vocação profética que Jonas resiste fugindo «de diante da face do SENHOR» (Jn 1:3)."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "La huida deliberada de Jonás a Tarsis en dirección opuesta a Nínive (Jon 1:3) constituye un acto claro de desobediencia al llamado divino.",
+              "en": "Jonah's deliberate flight to Tarshish in the direction opposite Nineveh (Jonah 1:3) constitutes a clear act of disobedience to the divine call.",
+              "pt": "A fuga deliberada de Jonas a Társis em direção oposta a Nínive (Jn 1:3) constitui um ato claro de desobediência ao chamado divino."
+            }
+          },
+          {
+            "Temor del Señor": {
+              "es": "Tras la tormenta y la confesión de Jonás, los marineros paganos «temieron grandemente al SEÑOR» y le ofrecieron sacrificio (Jon 1:16).",
+              "en": "After the storm and Jonah's confession, the pagan sailors \"greatly feared the LORD\" and offered him sacrifice (Jonah 1:16).",
+              "pt": "Após a tempestade e a confissão de Jonas, os marinheiros pagãos «temeram grandemente ao SENHOR» e lhe ofereceram sacrifício (Jn 1:16)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "La Oración de Jonás desde el Pez",
+        "en": "Jonah's Prayer from the Fish",
+        "pt": "A Oração de Jonas Dentro do Peixe"
+      },
+      "descripcion": {
+        "es": "Desde el vientre del gran pez que el SEÑOR había dispuesto para tragarlo, Jonás ora reconociendo su angustia: «Desde el vientre del Seol clamé, y tú oíste mi voz» (Jon 2:2). En un lenguaje saturado de imágenes de los Salmos, Jonás describe haber sido arrojado a las profundidades, rodeado de aguas hasta el alma, con algas enredadas a su cabeza (Jon 2:3-6), y confiesa que, aun así, «miraré otra vez hacia tu santo templo» (Jon 2:4,7), expresando una esperanza de restauración basada en la fidelidad del pacto. Contrasta a los que siguen «vanidades ilusorias» con su propia determinación de ofrecer sacrificio con voz de acción de gracias y pagar lo que ha prometido, concluyendo con la confesión teológica central: «la salvación es del SEÑOR» (Jon 2:9). El capítulo cierra con el pez, por mandato divino, vomitando a Jonás en tierra firme (Jon 2:10).",
+        "en": "From the belly of the great fish the LORD had appointed to swallow him, Jonah prays, acknowledging his distress: \"Out of the belly of Sheol I cried, and you heard my voice\" (Jonah 2:2). In language saturated with the imagery of the Psalms, Jonah describes being cast into the deep, engulfed by waters to the soul, with weeds wrapped about his head (Jonah 2:3-6), and confesses that even so, \"I will look again toward your holy temple\" (Jonah 2:4,7), expressing hope of restoration grounded in covenant faithfulness. He contrasts those who cling to \"vain idols\" with his own determination to sacrifice with the voice of thanksgiving and pay what he has vowed, concluding with the book's central theological confession: \"Salvation belongs to the LORD\" (Jonah 2:9). The chapter closes with the fish, at divine command, vomiting Jonah onto dry land (Jonah 2:10).",
+        "pt": "Do ventre do grande peixe que o SENHOR havia preparado para tragá-lo, Jonas ora reconhecendo sua angústia: «Do ventre do inferno clamei, e tu ouviste a minha voz» (Jn 2:2). Em linguagem saturada de imagens dos Salmos, Jonas descreve ter sido lançado às profundezas, cercado de águas até a alma, com algas enroladas à cabeça (Jn 2:3-6), e confessa que, mesmo assim, «tornarei a ver o teu santo templo» (Jn 2:4,7), expressando uma esperança de restauração fundamentada na fidelidade do pacto. Contrasta os que seguem «vaidades ilusórias» com sua própria determinação de oferecer sacrifício com voz de ação de graças e pagar o que prometeu, concluindo com a confissão teológica central: «a salvação vem do SENHOR» (Jn 2:9). O capítulo se encerra com o peixe, por ordem divina, vomitando Jonas em terra firme (Jn 2:10)."
+      },
+      "eventoClave": {
+        "es": "La confesión climática de Jonás desde las profundidades: «la salvación es del SEÑOR» (Jon 2:9), el corazón teológico de su oración de rescate.",
+        "en": "Jonah's climactic confession from the depths: \"Salvation belongs to the LORD\" (Jonah 2:9), the theological heart of his rescue prayer.",
+        "pt": "A confissão climática de Jonas desde as profundezas: «a salvação vem do SENHOR» (Jn 2:9), o coração teológico de sua oração de resgate."
+      },
+      "versiculoClave": "Jon 2:9",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Sal 18:6",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La oración de Jonás desde el vientre del pez recoge directamente el lenguaje y la estructura de los salmos de lamento y liberación, como el clamor de David desde la angustia.",
+            "en": "Jonah's prayer from the belly of the fish directly draws on the language and structure of the psalms of lament and deliverance, like David's cry from distress.",
+            "pt": "A oração de Jonas do ventre do peixe recolhe diretamente a linguagem e a estrutura dos salmos de lamento e libertação, como o clamor de Davi desde a angústia."
+          }
+        },
+        {
+          "ref": "Mt 12:40",
+          "tipo": "tipología",
+          "nota": {
+            "es": "Los tres días de Jonás en el vientre del pez (Jon 1:17) son citados por Jesús como un tipo directo de su muerte y resurrección.",
+            "en": "Jonah's three days in the belly of the fish (Jonah 1:17) are cited by Jesus as a direct type of his death and resurrection.",
+            "pt": "Os três dias de Jonas no ventre do peixe (Jn 1:17) são citados por Jesus como um tipo direto de sua morte e ressurreição."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Redención/Rescate": {
+            "es": "Jonás clama desde el vientre del Seol y confiesa que «la salvación es del SEÑOR» (Jon 2:2,9), reconociendo que su rescate del mar y del pez procede enteramente de la iniciativa divina.",
+            "en": "Jonah cries out from the belly of Sheol and confesses that \"salvation belongs to the LORD\" (Jonah 2:2,9), acknowledging that his rescue from the sea and the fish comes entirely from divine initiative.",
+            "pt": "Jonas clama do ventre do inferno e confessa que «a salvação vem do SENHOR» (Jn 2:2,9), reconhecendo que seu resgate do mar e do peixe procede inteiramente da iniciativa divina."
+          }
+        },
+        "secundarios": [
+          {
+            "Templo/Tabernáculo": {
+              "es": "Jonás expresa su esperanza de restauración mirando «hacia tu santo templo» (Jon 2:4,7), ubicando su liberación dentro del marco de la presencia cúltica de Dios en Jerusalén.",
+              "en": "Jonah expresses his hope of restoration by looking \"toward your holy temple\" (Jonah 2:4,7), situating his deliverance within the framework of God's cultic presence in Jerusalem.",
+              "pt": "Jonas expressa sua esperança de restauração olhando «para o teu santo templo» (Jn 2:4,7), situando sua libertação dentro do quadro da presença cúltica de Deus em Jerusalém."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "El Arrepentimiento de Nínive",
+        "en": "Nineveh's Repentance",
+        "pt": "O Arrependimento de Nínive"
+      },
+      "descripcion": {
+        "es": "El SEÑOR llama a Jonás por segunda vez, y esta vez el profeta obedece, entrando en Nínive —«ciudad grande en extremo, de tres días de camino» (Jon 3:3)— para proclamar: «de aquí a cuarenta días Nínive será destruida» (Jon 3:4). La respuesta es inmediata y masiva: los ninivitas creen a Dios, proclaman ayuno y se visten de cilicio «desde el mayor hasta el menor» (Jon 3:5). Al llegar la noticia al rey, este se levanta de su trono, se despoja de su manto real, se cubre de cilicio y se sienta sobre ceniza, promulgando junto a sus nobles un decreto que ordena ayuno total —incluso para los animales— y un clamor a Dios con la esperanza de que «se aparte del ardor de su ira, y no perezcamos» (Jon 3:6-9). El capítulo culmina con la respuesta divina: «Dios vio lo que hicieron, que se apartaron de su mal camino», y se arrepintió del mal anunciado, no ejecutándolo (Jon 3:10).",
+        "en": "The LORD calls Jonah a second time, and this time the prophet obeys, entering Nineveh — \"an exceedingly great city, three days' journey in breadth\" (Jonah 3:3) — to proclaim: \"Yet forty days, and Nineveh shall be overthrown\" (Jonah 3:4). The response is immediate and massive: the Ninevites believe God, proclaim a fast, and put on sackcloth \"from the greatest of them to the least\" (Jonah 3:5). When the news reaches the king, he rises from his throne, removes his royal robe, covers himself with sackcloth, and sits in ashes, issuing a decree with his nobles ordering total fasting — even for the animals — and a cry to God in hope that he \"may turn and relent from his fierce anger, so that we may not perish\" (Jonah 3:6-9). The chapter culminates in the divine response: \"God saw what they did, how they turned from their evil way,\" and he relented from the disaster announced, not carrying it out (Jonah 3:10).",
+        "pt": "O SENHOR chama Jonas pela segunda vez, e desta vez o profeta obedece, entrando em Nínive — «cidade grandíssima, de três dias de caminho» (Jn 3:3) — para proclamar: «Ainda quarenta dias, e Nínive será destruída» (Jn 3:4). A resposta é imediata e maciça: os ninivitas creem em Deus, proclamam jejum e se vestem de cilício «desde o maior deles até o menor» (Jn 3:5). Ao chegar a notícia ao rei, ele se levanta de seu trono, tira o manto real, se cobre de cilício e se assenta sobre cinza, promulgando junto com seus nobres um decreto que ordena jejum total — mesmo para os animais — e um clamor a Deus na esperança de que «se aparte do furor da sua ira, e não pereçamos» (Jn 3:6-9). O capítulo culmina com a resposta divina: «viu Deus as obras deles, como se converteram do seu mau caminho», e se arrependeu do mal anunciado, não o executando (Jn 3:10)."
+      },
+      "eventoClave": {
+        "es": "El arrepentimiento colectivo e inmediato de toda Nínive, desde el rey hasta el ganado, que provoca que Dios se aparte del juicio anunciado (Jon 3:5-10).",
+        "en": "The immediate, collective repentance of all Nineveh, from the king to the cattle, which causes God to relent from the announced judgment (Jonah 3:5-10).",
+        "pt": "O arrependimento coletivo e imediato de toda Nínive, desde o rei até o gado, que faz Deus se apartar do juízo anunciado (Jn 3:5-10)."
+      },
+      "versiculoClave": "Jon 3:10",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 12:41",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús cita explícitamente el arrepentimiento de los hombres de Nínive «con motivo de la predicación de Jonás» como testimonio que condenará en el juicio a su propia generación incrédula.",
+            "en": "Jesus explicitly cites the repentance of the men of Nineveh \"at the preaching of Jonah\" as testimony that will condemn his own unbelieving generation at the judgment.",
+            "pt": "Jesus cita explicitamente o arrependimento dos homens de Nínive «com a pregação de Jonas» como testemunho que condenará no juízo sua própria geração incrédula."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reconciliación": {
+            "es": "El arrepentimiento colectivo de Nínive —«se apartaron de su mal camino» (Jon 3:10)— provoca que Dios aparte el juicio anunciado, ejemplificando la reconciliación que sigue al arrepentimiento genuino.",
+            "en": "Nineveh's collective repentance — \"they turned from their evil way\" (Jonah 3:10) — causes God to turn aside the announced judgment, exemplifying the reconciliation that follows genuine repentance.",
+            "pt": "O arrependimento coletivo de Nínive — «se converteram do seu mau caminho» (Jn 3:10) — faz com que Deus afaste o juízo anunciado, exemplificando a reconciliação que segue o arrependimento genuíno."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La proclamación inicial de Jonás —«de aquí a cuarenta días Nínive será destruida» (Jon 3:4)— establece la amenaza real del juicio divino que el arrepentimiento posterior logra apartar.",
+              "en": "Jonah's initial proclamation — \"Yet forty days, and Nineveh shall be overthrown\" (Jonah 3:4) — establishes the real threat of divine judgment that the subsequent repentance manages to turn aside.",
+              "pt": "A proclamação inicial de Jonas — «ainda quarenta dias, e Nínive será destruída» (Jn 3:4) — estabelece a ameaça real do juízo divino que o arrependimento posterior consegue afastar."
+            }
+          },
+          {
+            "Temor del Señor": {
+              "es": "El decreto real invoca la posibilidad de que Dios «se aparte del ardor de su ira» (Jon 3:9), motivando la humillación pública de toda la ciudad por temor reverente ante el SEÑOR.",
+              "en": "The royal decree invokes the possibility that God \"may turn from his fierce anger\" (Jonah 3:9), motivating the whole city's public humiliation out of reverent fear before the LORD.",
+              "pt": "O decreto real invoca a possibilidade de que Deus «se aparte do furor da sua ira» (Jn 3:9), motivando a humilhação pública de toda a cidade por temor reverente diante do SENHOR."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "La Ira de Jonás y la Pregunta de Dios",
+        "en": "Jonah's Anger and God's Question",
+        "pt": "A Ira de Jonas e a Pergunta de Deus"
+      },
+      "descripcion": {
+        "es": "Lejos de alegrarse, «esto desagradó a Jonás en gran manera, y se encendió en ira» (Jon 4:1). Su oración revela el motivo real de su huida original: sabía que Dios era «clemente y compasivo, lento para la ira y grande en misericordia» (Jon 4:2), y prefería la destrucción de Nínive antes que su perdón. Jonás sale de la ciudad, se sienta a esperar bajo una enramada, y el SEÑOR dispone una planta que le da sombra, causándole gran alegría (Jon 4:5-6). Al día siguiente, Dios dispone un gusano que hiere la planta hasta secarla, y luego un recio viento solano junto al sol, de modo que Jonás desea morir (Jon 4:7-8). Cuando Jonás defiende su enojo por la planta, Dios establece la comparación final: si Jonás se compadece de una planta que no cultivó y que vivió un solo día, ¿no tendrá Dios piedad de Nínive, «aquella gran ciudad donde hay más de ciento veinte mil personas... y también muchos animales»? (Jon 4:9-11). El libro cierra con esta pregunta, deliberadamente sin respuesta narrada de Jonás.",
+        "en": "Far from rejoicing, \"this displeased Jonah exceedingly, and he was angry\" (Jonah 4:1). His prayer reveals the real reason for his original flight: he knew God was \"a gracious God and merciful, slow to anger and abounding in steadfast love\" (Jonah 4:2), and preferred Nineveh's destruction over its forgiveness. Jonah leaves the city, sits down to wait under a shelter, and the LORD appoints a plant to shade him, giving him great joy (Jonah 4:5-6). The next day, God appoints a worm that attacks the plant so that it withers, and then a scorching east wind together with the sun, so that Jonah wishes to die (Jonah 4:7-8). When Jonah defends his anger over the plant, God establishes the final comparison: if Jonah pities a plant he did not grow and that lived only a day, should not God pity Nineveh, \"that great city, in which there are more than 120,000 persons... and also much cattle\"? (Jonah 4:9-11). The book closes with this question, deliberately left without a narrated response from Jonah.",
+        "pt": "Longe de se alegrar, «isso desagradou a Jonas em grande maneira, e se irou» (Jn 4:1). Sua oração revela o real motivo de sua fuga original: sabia que Deus era «clemente e misericordioso, tardio em irar-se e grande em beneficência» (Jn 4:2), e preferia a destruição de Nínive ao seu perdão. Jonas sai da cidade, senta-se a esperar debaixo de uma cabana, e o SENHOR prepara uma planta que lhe dá sombra, causando-lhe grande alegria (Jn 4:5-6). No dia seguinte, Deus prepara um verme que fere a planta até secá-la, e depois um forte vento oriental junto com o sol, de modo que Jonas deseja morrer (Jn 4:7-8). Quando Jonas defende sua ira pela planta, Deus estabelece a comparação final: se Jonas se compadece de uma planta que não cultivou e que viveu apenas um dia, não pouparia Deus a Nínive, «aquela grande cidade, em que há mais de cento e vinte mil pessoas... e também muitos animais»? (Jn 4:9-11). O livro se encerra com esta pergunta, deliberadamente sem resposta narrada de Jonas."
+      },
+      "eventoClave": {
+        "es": "La pregunta final de Dios, sin respuesta narrada, que confronta la compasión desproporcionada de Jonás por la planta con su falta de compasión por Nínive (Jon 4:10-11).",
+        "en": "God's final question, left without a narrated response, confronting Jonah's disproportionate compassion for the plant with his lack of compassion for Nineveh (Jonah 4:10-11).",
+        "pt": "A pergunta final de Deus, sem resposta narrada, que confronta a compaixão desproporcional de Jonas pela planta com sua falta de compaixão por Nínive (Jn 4:10-11)."
+      },
+      "versiculoClave": "Jon 4:11",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ex 34:6",
+          "tipo": "cita",
+          "nota": {
+            "es": "La confesión de Jonás en Jon 4:2 —«clemente y compasivo, lento para la ira y grande en misericordia»— cita casi textualmente la autorrevelación de Dios a Moisés en Ex 34:6-7.",
+            "en": "Jonah's confession in Jonah 4:2 — \"a gracious God and merciful, slow to anger and abounding in steadfast love\" — almost verbatim quotes God's self-revelation to Moses in Exod 34:6-7.",
+            "pt": "A confissão de Jonas em Jn 4:2 — «clemente e misericordioso, tardio em irar-se e grande em beneficência» — cita quase textualmente a autorrevelação de Deus a Moisés em Êx 34:6-7."
+          }
+        },
+        {
+          "ref": "Lc 15:28",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La ira de Jonás ante la misericordia de Dios hacia Nínive es paralela al enojo del hermano mayor ante la misericordia del padre hacia el hijo pródigo, ambos exponiendo un corazón que no comparte la compasión divina.",
+            "en": "Jonah's anger at God's mercy toward Nineveh parallels the older brother's anger at the father's mercy toward the prodigal son, both exposing a heart that does not share in divine compassion.",
+            "pt": "A ira de Jonas diante da misericórdia de Deus para com Nínive é paralela à ira do irmão mais velho diante da misericórdia do pai para com o filho pródigo, ambas expondo um coração que não compartilha da compaixão divina."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "Jonás confiesa que Dios es «clemente y compasivo, lento para la ira y grande en misericordia» (Jon 4:2), citando la revelación del carácter de pacto de Dios (Ex 34:6-7) como la razón de su propia huida.",
+            "en": "Jonah confesses that God is \"a gracious God and merciful, slow to anger and abounding in steadfast love\" (Jonah 4:2), citing God's revealed covenant character (Exod 34:6-7) as the reason for his own flight.",
+            "pt": "Jonas confessa que Deus é «clemente e misericordioso, tardio em irar-se e grande em beneficência» (Jn 4:2), citando a revelação do caráter de pacto de Deus (Êx 34:6-7) como a razão de sua própria fuga."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "El deseo de Jonás de morir ante la pérdida de la planta (Jon 4:8-9) expone el egocentrismo pecaminoso que subyace a toda su resistencia a la misión, contrastado con la compasión de Dios por toda una ciudad.",
+              "en": "Jonah's desire to die over the loss of the plant (Jonah 4:8-9) exposes the sinful self-centeredness underlying his entire resistance to the mission, contrasted with God's compassion for an entire city.",
+              "pt": "O desejo de Jonas de morrer diante da perda da planta (Jn 4:8-9) expõe o egocentrismo pecaminoso subjacente a toda a sua resistência à missão, contrastado com a compaixão de Deus por toda uma cidade."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos y reformados de renombre internacional.",
+          "en": "The ESV Study Bible is an editorial project of Crossway directed by Lane T. Dennis, with Wayne Grudem as general theological editor, bringing together more than 90 internationally recognized evangelical and Reformed scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos e reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas de estudio verso por verso con ensayos temáticos, mapas y cronologías, todo dentro de un marco teológico evangélico reformado que enfatiza la inerrancia bíblica y la lectura redentora-histórica del canon.",
+          "en": "It combines verse-by-verse study notes with thematic essays, maps, and chronologies, all within an evangelical Reformed theological framework emphasizing biblical inerrancy and a redemptive-historical reading of the canon.",
+          "pt": "Combina notas de estudo verso por verso com ensaios temáticos, mapas e cronologias, tudo dentro de um quadro teológico evangélico reformado que enfatiza a inerrância bíblica e a leitura redentora-histórica do cânon."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio, la datación y la defensa de la historicidad del relato utilizados para establecer el contexto histórico y literario de Jonás en este registro.",
+          "en": "It provided the introductory framework, dating, and defense of the account's historicity used to establish Jonah's historical and literary context in this record.",
+          "pt": "Forneceu o quadro introdutório, a datação e a defesa da historicidade do relato utilizados para estabelecer o contexto histórico e literário de Jonas neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas teológicas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theological notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Notas teológicas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la santidad de Dios y la soberanía divina.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of 20th-century Reformed evangelicalism, known for his defense of God's holiness and divine sovereignty.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da santidade de Deus e da soberania divina."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio doctrinalmente precisas, ancladas en la Confesión de Westminster y los estándares confesionales reformados históricos.",
+          "en": "He edited a team of Reformed scholars to produce doctrinally precise study notes, anchored in the Westminster Confession and the historic Reformed confessional standards.",
+          "pt": "Editou uma equipe de estudiosos reformados para produzir notas de estudo doutrinariamente precisas, ancoradas na Confissão de Westminster e nos padrões confessionais reformados históricos."
+        },
+        "aportacion": {
+          "es": "Ofreció las notas teológicas confesionales utilizadas para conectar el mensaje de Jonás con las doctrinas de la providencia, el arrepentimiento y el carácter misericordioso de Dios articuladas en la Confesión de Westminster.",
+          "en": "It provided the confessional theological notes used to connect Jonah's message with the doctrines of providence, repentance, and God's merciful character articulated in the Westminster Confession.",
+          "pt": "Ofereceu as notas teológicas confessionais utilizadas para conectar a mensagem de Jonas com as doutrinas da providência, do arrependimento e do caráter misericordioso de Deus articuladas na Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Terminología teológica",
+          "Citas bíblicas NBLA"
+        ],
+        "en": [
+          "Theological terminology",
+          "NBLA Scripture quotations"
+        ],
+        "pt": [
+          "Terminologia teológica",
+          "Citações bíblicas NBLA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries para llevar la erudición reformada al mundo hispanohablante.",
+          "en": "A Spanish adaptation of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries to bring Reformed scholarship to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com a Ligonier Ministries para levar a erudição reformada ao mundo hispanofalante."
+        },
+        "metodo": {
+          "es": "Traduce y adapta las notas teológicas de la Reformation Study Bible al contexto y la versión NBLA, manteniendo el mismo rigor confesional reformado del original en inglés.",
+          "en": "It translates and adapts the theological notes of the Reformation Study Bible to the context and the NBLA version, maintaining the same Reformed confessional rigor of the English original.",
+          "pt": "Traduz e adapta as notas teológicas da Reformation Study Bible ao contexto e à versão NBLA, mantendo o mesmo rigor confessional reformado do original em inglês."
+        },
+        "aportacion": {
+          "es": "Sirvió como referencia primaria en español para la terminología teológica y las citas bíblicas en NBLA utilizadas a lo largo de este registro.",
+          "en": "It served as the primary Spanish-language reference for theological terminology and the NBLA Scripture quotations used throughout this record.",
+          "pt": "Serviu como referência primária em espanhol para a terminologia teológica e as citações bíblicas em NBLA utilizadas ao longo deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Providencia",
+          "Soteriología"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Providence",
+          "Soteriology"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Providência",
+          "Soteriologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático evangélico, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y coeditor general de la ESV Study Bible.",
+          "en": "Wayne Grudem is an evangelical systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo sistemático evangélico, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e coeditor geral da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, fundamentando cada afirmación doctrinal directamente en el texto bíblico con amplias referencias cruzadas.",
+          "en": "He organizes Christian doctrine by classic systematic categories, grounding each doctrinal affirmation directly in the biblical text with extensive cross-references.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, fundamentando cada afirmação doutrinária diretamente no texto bíblico com amplas referências cruzadas."
+        },
+        "aportacion": {
+          "es": "Proporcionó las categorías de teología sistemática —providencia, soteriología, elección— utilizadas para estructurar la sección teológica de este registro sobre Jonás.",
+          "en": "It provided the systematic theology categories — providence, soteriology, election — used to structure the theological section of this record on Jonah.",
+          "pt": "Forneceu as categorias de teologia sistemática — providência, soteriologia, eleição — utilizadas para estruturar a seção teológica deste registro sobre Jonas."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/systematic-theology"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas históricas del pacto, enfatizando la unidad orgánica de la Escritura y su culminación cristológica.",
+          "en": "He traces the progressive development of divine revelation through the historical epochs of the covenant, emphasizing the organic unity of Scripture and its christological culmination.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas históricas do pacto, enfatizando a unidade orgânica da Escritura e sua culminação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y la lectura del «signo de Jonás» como tipo profético de la muerte y resurrección de Cristo utilizado en este registro.",
+          "en": "It grounded the christological focus and the reading of the \"sign of Jonah\" as a prophetic type of Christ's death and resurrection used in this record.",
+          "pt": "Fundamentou o enfoque cristológico e a leitura do «sinal de Jonas» como tipo profético da morte e ressurreição de Cristo utilizado neste registro."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biblical-theology-doctrine/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Cercano Oriente Antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Ancient Near East"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo del Cercano Oriente Antiguo, con nombramientos en Wheaton College, Missouri State University y la Universidad de Kansas respectivamente.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the Ancient Near Eastern background, holding appointments at Wheaton College, Missouri State University, and the University of Kansas respectively.",
+          "pt": "Walton, Matthews e Chavalas são estudiosos veterotestamentários especializados no pano de fundo do Antigo Oriente Próximo, com nomeações em Wheaton College, Missouri State University e na University of Kansas respectivamente."
+        },
+        "metodo": {
+          "es": "Comenta el texto bíblico versículo por versículo iluminando su trasfondo cultural, geográfico y arqueológico del Cercano Oriente Antiguo, sin comprometer la autoridad del texto revelado.",
+          "en": "It comments on the biblical text verse by verse, illuminating its Ancient Near Eastern cultural, geographic, and archaeological background, without compromising the authority of the revealed text.",
+          "pt": "Comenta o texto bíblico versículo por versículo, iluminando seu pano de fundo cultural, geográfico e arqueológico do Antigo Oriente Próximo, sem comprometer a autoridade do texto revelado."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo geográfico y comercial sobre Nínive, Tarsis, Jope y las rutas marítimas mediterráneas utilizado en la sección de contexto histórico de este registro.",
+          "en": "It provided the geographic and commercial background on Nineveh, Tarshish, Joppa, and the Mediterranean sea routes used in the historical context section of this record.",
+          "pt": "Forneceu o pano de fundo geográfico e comercial sobre Nínive, Társis, Jope e as rotas marítimas mediterrâneas utilizado na seção de contexto histórico deste registro."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (Walton, 2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Excavaciones de Nínive"
+        ],
+        "en": [
+          "Archaeology",
+          "Excavations of Nineveh"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Escavações de Nínive"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida por un equipo de arqueólogos y eruditos bíblicos evangélicos bajo Zondervan, esta obra reúne hallazgos arqueológicos relevantes para la interpretación del texto bíblico en su contexto histórico original.",
+          "en": "Produced by a team of archaeologists and evangelical biblical scholars under Zondervan, this work brings together archaeological findings relevant to interpreting the biblical text in its original historical context.",
+          "pt": "Produzida por uma equipe de arqueólogos e estudiosos bíblicos evangélicos sob a Zondervan, esta obra reúne achados arqueológicos relevantes para a interpretação do texto bíblico em seu contexto histórico original."
+        },
+        "metodo": {
+          "es": "Inserta notas arqueológicas y artículos temáticos junto al texto bíblico, correlacionando descubrimientos materiales específicos con pasajes y personajes bíblicos concretos.",
+          "en": "It inserts archaeological notes and thematic articles alongside the biblical text, correlating specific material discoveries with concrete biblical passages and figures.",
+          "pt": "Insere notas arqueológicas e artigos temáticos junto ao texto bíblico, correlacionando descobertas materiais específicas com passagens e personagens bíblicos concretos."
+        },
+        "aportacion": {
+          "es": "Aportó los datos sobre las excavaciones de Kuyunjik y el tamaño histórico de Nínive utilizados para documentar el trasfondo urbano presupuesto por el libro de Jonás.",
+          "en": "It provided the data on the Kuyunjik excavations and the historical size of Nineveh used to document the urban background presupposed by the book of Jonah.",
+          "pt": "Contribuiu com os dados sobre as escavações de Kuyunjik e o tamanho histórico de Nínive utilizados para documentar o pano de fundo urbano pressuposto pelo livro de Jonas."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 2000,
+      "editorial": "Westminster John Knox Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología del reinado de Jeroboam II",
+          "Contexto histórico asirio"
+        ],
+        "en": [
+          "Chronology of Jeroboam II's reign",
+          "Assyrian historical context"
+        ],
+        "pt": [
+          "Cronologia do reinado de Jeroboão II",
+          "Contexto histórico assírio"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908-1995) fue profesor de Antiguo Testamento en Union Theological Seminary en Virginia y una figura decisiva en la reconstrucción histórica de Israel dentro de la erudición bíblica del siglo XX.",
+          "en": "John Bright (1908-1995) was professor of Old Testament at Union Theological Seminary in Virginia and a decisive figure in the historical reconstruction of Israel within 20th-century biblical scholarship.",
+          "pt": "John Bright (1908-1995) foi professor de Antigo Testamento no Union Theological Seminary, na Virgínia, e uma figura decisiva na reconstrução histórica de Israel dentro da erudição bíblica do século XX."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el testimonio bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, dentro de un marco históricamente riguroso.",
+          "en": "He reconstructs the history of Israel by integrating the biblical testimony with archaeological evidence and extrabiblical Ancient Near Eastern records, within a historically rigorous framework.",
+          "pt": "Reconstrói a história de Israel integrando o testemunho bíblico com a evidência arqueológica e os registros extrabíblicos do Antigo Oriente Próximo, dentro de um quadro historicamente rigoroso."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico del reinado de Jeroboam II y la situación política de Asiria en el siglo VIII a.C. utilizado para fechar y contextualizar Jonás en este registro.",
+          "en": "It provided the chronological framework of Jeroboam II's reign and Assyria's political situation in the 8th century BC used to date and contextualize Jonah in this record.",
+          "pt": "Forneceu o quadro cronológico do reinado de Jeroboão II e a situação política da Assíria no século VIII a.C. utilizado para datar e contextualizar Jonas neste registro."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.72,
+    "camposMarcados": [
+      {
+        "campo": "año / autor.nota",
+        "razon": "Se prefiere la fecha histórica temprana (c. 785-750 a.C., reinado de Jeroboam II, anclada en 2R 14:25) sobre la propuesta crítica de una fecha post-exílica y lectura como parábola o sátira, siguiendo el consenso reformado/evangélico conservador, apoyado en el tratamiento de Jesús del relato como historia real (Mt 12:39-41).",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se afirma la historicidad plena del gran pez y del arrepentimiento nacional de Nínive, apoyada en el testimonio directo de Cristo, frente a lecturas críticas que tratan el libro como parábola no histórica.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "personajes[].El rey de Nínive.biografiaHistorica",
+        "razon": "El libro no nombra al rey y no existe confirmación extrabíblica definitiva de su identidad específica; nivelEvidencia se marcó 'especulativo' por definición de la categoría, sin que esto debilite la autoridad del texto profético.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "Los 4 capítulos del libro se mapearon 1:1 a 4 unidades temáticas, ya que cada capítulo constituye un movimiento narrativo coherente y autocontenido (huida y tormenta; oración en el pez; arrepentimiento de Nínive; ira de Jonás y pregunta final de Dios), a diferencia de libros donde un capítulo requiere subdivisión interna.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-05T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-05T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
