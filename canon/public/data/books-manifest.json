@@ -1316,7 +1316,8 @@
       "ordenCanon": 34,
       "capitulosTotal": 3,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "nahum.json",
       "razon": {
         "es": "Profetiza la caída de Nínive — cumplida en el 612 a.C. — como vindicación de la justicia de Dios tras la conversión temporal de la ciudad en Jonás.",
         "en": "Prophesies the fall of Nineveh — fulfilled in 612 BC — as a vindication of God's justice following the city's temporary repentance in Jonah.",

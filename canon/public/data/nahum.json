@@ -1,0 +1,1503 @@
+{
+  "id": 34,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Nahúm",
+    "en": "Nahum",
+    "pt": "Naum"
+  },
+  "tituloOriginal": "נַחוּם",
+  "transliteracion": "Nachûm",
+  "significado": {
+    "es": "Consuelo / Consolador",
+    "en": "Comfort / Consoler",
+    "pt": "Consolo / Consolador"
+  },
+  "resumenGeneral": {
+    "es": "Nahúm abre con un himno teofánico semi-acróstico sobre el carácter de Dios —celoso, vengador, lento para la ira pero que no tendrá por inocente al culpable—, estableciendo el marco teológico para todo lo que sigue: bondad para los que confían en él, pero destrucción total para sus enemigos (Nah 1:2-8). El oráculo se centra rápidamente en Nínive, anunciando el decreto irrevocable de su caída (Nah 1:14) y ofreciendo consuelo a Judá mediante la imagen del mensajero que trae buenas nuevas de paz (Nah 1:15). El capítulo 2 despliega en verso vívido y cinematográfico el asalto final contra la ciudad —carros, jinetes, el saqueo de sus tesoros, y la imagen de Nínive como un estanque cuyas aguas se desangran (Nah 2:1-10)—, derribando la metáfora del león que la propia Asiria usaba para representarse (Nah 2:11-13). El libro cierra con un oráculo de ¡ay! contra «la ciudad sanguinaria», comparando su caída con la de Tebas (No-amón), y sentenciando que no hay medicina para su quebradura (Nah 3:1-19).",
+    "en": "Nahum opens with a semi-acrostic theophanic hymn on God's character — jealous, avenging, slow to anger yet by no means clearing the guilty — establishing the theological framework for all that follows: goodness for those who trust him, but total destruction for his enemies (Nah 1:2-8). The oracle quickly centers on Nineveh, announcing the irrevocable decree of its fall (Nah 1:14) and offering comfort to Judah through the image of the messenger who brings good news of peace (Nah 1:15). Chapter 2 unfolds in vivid, cinematic verse the final assault on the city — chariots, horsemen, the plundering of its treasures, and the image of Nineveh as a pool whose waters drain away (Nah 2:1-10) — dismantling the lion metaphor Assyria itself used to represent its power (Nah 2:11-13). The book closes with a woe oracle against \"the bloody city,\" comparing its fall to that of Thebes (No-amon), and sentencing that there is no remedy for its wound (Nah 3:1-19).",
+    "pt": "Naum abre com um hino teofânico semi-acróstico sobre o caráter de Deus — zeloso, vingador, tardio em irar-se, mas que não terá por inocente o culpado —, estabelecendo o quadro teológico para tudo o que segue: bondade para os que confiam nele, mas destruição total para seus inimigos (Na 1:2-8). O oráculo logo se centra em Nínive, anunciando o decreto irrevogável de sua queda (Na 1:14) e oferecendo consolo a Judá por meio da imagem do mensageiro que traz boas-novas de paz (Na 1:15). O capítulo 2 desdobra em verso vívido e cinematográfico o assalto final contra a cidade — carros, cavaleiros, o saque de seus tesouros, e a imagem de Nínive como um tanque cujas águas se esvaem (Na 2:1-10) —, derrubando a metáfora do leão que a própria Assíria usava para se representar (Na 2:11-13). O livro se encerra com um oráculo de ai contra «a cidade sanguinária», comparando sua queda com a de Tebas (Nô-Amom), e sentenciando que não há remédio para a sua ferida (Na 3:1-19)."
+  },
+  "capitulosTotal": 3,
+  "autor": {
+    "nombre": {
+      "es": "Nahúm",
+      "en": "Nahum",
+      "pt": "Naum"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El libro se autoatribuye a «Nahúm de Elcos» (Nah 1:1), pero la ubicación de Elcos es incierta —se han propuesto sitios en Galilea, en Judá (cerca de Bet-gabri), e incluso en Asiria (tradición cristiana tardía vinculada con Alqosh, cerca de Mosul)—. Fuera de esta breve superscripción no existe ningún otro dato bíblico o extrabíblico sobre la persona del profeta.",
+      "en": "The book self-attributes to \"Nahum of Elkosh\" (Nah 1:1), but the location of Elkosh is uncertain — sites have been proposed in Galilee, in Judah (near Beit Guvrin), and even in Assyria (a late Christian tradition linking it to Alqosh, near Mosul). Beyond this brief superscription, there is no other biblical or extrabiblical data about the prophet's person.",
+      "pt": "O livro se autoatribui a «Naum, o elcosita» (Na 1:1), mas a localização de Elcos é incerta — foram propostos sítios na Galileia, em Judá (perto de Bete-Guvrin), e até na Assíria (tradição cristã tardia ligada a Alqosh, perto de Mossul). Fora dessa breve superscrição, não existe nenhum outro dado bíblico ou extrabíblico sobre a pessoa do profeta."
+    }
+  },
+  "año": {
+    "desde": -660,
+    "hasta": -615,
+    "display": {
+      "es": "Fecha de escritura: c. 660-615 a.C., entre la caída de Tebas (663 a.C.) y la caída de Nínive (612 a.C.)",
+      "en": "Date of writing: c. 660-615 BC, between the fall of Thebes (663 BC) and the fall of Nineveh (612 BC)",
+      "pt": "Data de escrita: c. 660-615 a.C., entre a queda de Tebas (663 a.C.) e a queda de Nínive (612 a.C.)"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Judá, el reino del sur, posiblemente durante el reinado de Josías",
+    "en": "Judah, the southern kingdom, possibly during the reign of Josiah",
+    "pt": "Judá, o reino do sul, possivelmente durante o reinado de Josias"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron Age II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Nínive",
+          "en": "Nineveh",
+          "pt": "Nínive"
+        },
+        "identificacionModerna": {
+          "es": "Ubicada junto al río Tigris, cerca de la actual Mosul, Irak",
+          "en": "Located on the Tigris River, near modern Mosul, Iraq",
+          "pt": "Localizada junto ao rio Tigre, perto da atual Mossul, Iraque"
+        },
+        "significancia": {
+          "es": "Capital del imperio asirio y blanco exclusivo del oráculo de juicio de Nahúm, cuya caída se anuncia como irrevocable e irremediable (Nah 1:1,14)",
+          "en": "Capital of the Assyrian empire and the exclusive target of Nahum's judgment oracle, whose fall is announced as irrevocable and irremediable (Nah 1:1,14)",
+          "pt": "Capital do império assírio e alvo exclusivo do oráculo de julgamento de Naum, cuja queda é anunciada como irrevogável e irremediável (Na 1:1,14)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Tebas (No-amón)",
+          "en": "Thebes (No-amon)",
+          "pt": "Tebas (Nô-Amom)"
+        },
+        "identificacionModerna": {
+          "es": "Antigua capital del Alto Egipto, en la actual Luxor, Egipto",
+          "en": "The ancient capital of Upper Egypt, in modern Luxor, Egypt",
+          "pt": "Antiga capital do Alto Egito, na atual Luxor, Egito"
+        },
+        "significancia": {
+          "es": "Ciudad egipcia saqueada por Asiria en 663 a.C., usada por Nahúm como precedente histórico de que ninguna ciudad, por fortificada que esté, escapa del juicio de Dios (Nah 3:8-10)",
+          "en": "The Egyptian city sacked by Assyria in 663 BC, used by Nahum as historical precedent that no city, however fortified, escapes God's judgment (Nah 3:8-10)",
+          "pt": "Cidade egípcia saqueada pela Assíria em 663 a.C., usada por Naum como precedente histórico de que nenhuma cidade, por mais fortificada que esteja, escapa do juízo de Deus (Na 3:8-10)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Elcos",
+          "en": "Elkosh",
+          "pt": "Elcos"
+        },
+        "identificacionModerna": {
+          "es": "Ubicación incierta; se han propuesto sitios en Galilea, en la Sefela de Judá, y en Asiria (tradición tardía vinculada a Alqosh)",
+          "en": "Uncertain location; sites have been proposed in Galilee, in the Judean Shephelah, and in Assyria (a late tradition linked to Alqosh)",
+          "pt": "Localização incerta; foram propostos sítios na Galileia, na Sefelá de Judá, e na Assíria (tradição tardia ligada a Alqosh)"
+        },
+        "significancia": {
+          "es": "La ciudad natal de Nahúm (Nah 1:1), cuya identificación geográfica precisa se ha perdido, dejando la biografía del profeta casi enteramente desconocida",
+          "en": "Nahum's hometown (Nah 1:1), whose precise geographic identification has been lost, leaving the prophet's biography almost entirely unknown",
+          "pt": "A cidade natal de Naum (Na 1:1), cuja identificação geográfica precisa se perdeu, deixando a biografia do profeta quase inteiramente desconhecida"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Basán, Carmelo y Líbano",
+          "en": "Bashan, Carmel, and Lebanon",
+          "pt": "Basã, Carmelo e Líbano"
+        },
+        "identificacionModerna": {
+          "es": "Regiones fértiles al norte y noroeste de Israel, en la actual Siria, Israel y Líbano",
+          "en": "Fertile regions north and northwest of Israel, in modern Syria, Israel, and Lebanon",
+          "pt": "Regiões férteis ao norte e noroeste de Israel, na atual Síria, Israel e Líbano"
+        },
+        "significancia": {
+          "es": "Regiones proverbialmente fértiles usadas para ilustrar el poder de Dios para marchitar incluso la vegetación más exuberante ante su presencia (Nah 1:4)",
+          "en": "Proverbially fertile regions used to illustrate God's power to wither even the most lush vegetation before his presence (Nah 1:4)",
+          "pt": "Regiões proverbialmente férteis usadas para ilustrar o poder de Deus de secar até a vegetação mais exuberante diante de sua presença (Na 1:4)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Asirios",
+          "en": "Assyrians",
+          "pt": "Assírios"
+        },
+        "rolEnElTexto": {
+          "es": "El imperio opresor centrado en Nínive, blanco exclusivo del juicio anunciado por Nahúm tras generaciones de crueldad imperial contra las naciones vasallas, incluida Judá",
+          "en": "The oppressive empire centered in Nineveh, the exclusive target of Nahum's announced judgment after generations of imperial cruelty against vassal nations, including Judah",
+          "pt": "O império opressor centrado em Nínive, alvo exclusivo do julgamento anunciado por Naum após gerações de crueldade imperial contra as nações vassalas, incluindo Judá"
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentados en anales reales, la Crónica babilónica de la caída de Nínive, y las extensas excavaciones de Nínive, Nimrud y Asur",
+          "en": "Extensively documented in royal annals, the Babylonian Chronicle of the fall of Nineveh, and the extensive excavations of Nineveh, Nimrud, and Assur",
+          "pt": "Amplamente documentados em anais reais, na Crônica babilônica da queda de Nínive, e nas extensas escavações de Nínive, Nimrud e Assur"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Egipcios",
+          "en": "Egyptians",
+          "pt": "Egípcios"
+        },
+        "rolEnElTexto": {
+          "es": "La civilización cuya capital, Tebas, cayó ante Asiria en 663 a.C., proporcionando a Nahúm el precedente histórico que fundamenta la certeza de la caída de Nínive (Nah 3:8-10)",
+          "en": "The civilization whose capital, Thebes, fell to Assyria in 663 BC, providing Nahum the historical precedent grounding the certainty of Nineveh's own fall (Nah 3:8-10)",
+          "pt": "A civilização cuja capital, Tebas, caiu diante da Assíria em 663 a.C., fornecendo a Naum o precedente histórico que fundamenta a certeza da queda de Nínive (Na 3:8-10)"
+        },
+        "estadoArqueologico": {
+          "es": "El saqueo de Tebas por Asurbanipal en 663 a.C. está documentado en los anales asirios y confirmado arqueológicamente por la evidencia de destrucción en la región tebana",
+          "en": "The sack of Thebes by Ashurbanipal in 663 BC is documented in Assyrian annals and archaeologically confirmed by destruction evidence in the Theban region",
+          "pt": "O saque de Tebas por Assurbanípal em 663 a.C. está documentado nos anais assírios e confirmado arqueologicamente por evidências de destruição na região tebana"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judá",
+          "en": "Judah",
+          "pt": "Judá"
+        },
+        "rolEnElTexto": {
+          "es": "El reino del sur, receptor del consuelo y las buenas nuevas de liberación anunciadas por Nahúm tras generaciones de vasallaje bajo el yugo asirio (Nah 1:15)",
+          "en": "The southern kingdom, the recipient of the comfort and good news of liberation announced by Nahum after generations of vassalage under the Assyrian yoke (Nah 1:15)",
+          "pt": "O reino do sul, destinatário do consolo e das boas-novas de libertação anunciadas por Naum após gerações de vassalagem sob o jugo assírio (Na 1:15)"
+        },
+        "estadoArqueologico": {
+          "es": "El período de vasallaje de Judá bajo Asiria en el siglo VII a.C. está bien documentado mediante tributos registrados en anales asirios y hallazgos arqueológicos en Jerusalén y Laquis",
+          "en": "Judah's period of vassalage under Assyria in the 7th century BC is well documented through tribute recorded in Assyrian annals and archaeological finds in Jerusalem and Lachish",
+          "pt": "O período de vassalagem de Judá sob a Assíria no século VII a.C. está bem documentado por meio de tributos registrados em anais assírios e achados arqueológicos em Jerusalém e Láquis"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones de Nínive (Kuyunjik y Nebi Yunus) documentan la grandeza física de la ciudad presupuesta por Nahúm, mientras que la ausencia casi total de ocupación posterior a 612 a.C. corrobora la naturaleza absoluta y definitiva de su destrucción anunciada en el libro —tan completa que la ubicación exacta de la ciudad se perdió de la memoria histórica hasta las excavaciones del siglo XIX. La Crónica babilónica de la caída de Nínive, una tablilla cuneiforme neobabilónica, documenta con notable precisión el asedio y la captura de la ciudad por la coalición medo-babilónica en 612 a.C., confirmando externamente el cumplimiento histórico exacto de la profecía. El saqueo de Tebas por Asurbanipal en 663 a.C., mencionado por Nahúm como precedente (Nah 3:8-10), está igualmente confirmado por los anales asirios y por evidencia arqueológica egipcia.",
+      "en": "Excavations of Nineveh (Kuyunjik and Nebi Yunus) document the physical grandeur of the city presupposed by Nahum, while the near-total absence of occupation after 612 BC corroborates the absolute, definitive nature of its announced destruction — so complete that the city's exact location was lost to historical memory until 19th-century excavations. The Babylonian Chronicle of the fall of Nineveh, a Neo-Babylonian cuneiform tablet, documents with notable precision the siege and capture of the city by the Medo-Babylonian coalition in 612 BC, externally confirming the prophecy's exact historical fulfillment. The sack of Thebes by Ashurbanipal in 663 BC, mentioned by Nahum as precedent (Nah 3:8-10), is likewise confirmed by Assyrian annals and Egyptian archaeological evidence.",
+      "pt": "As escavações de Nínive (Kuyunjik e Nebi Yunus) documentam a grandeza física da cidade pressuposta por Naum, enquanto a ausência quase total de ocupação posterior a 612 a.C. corrobora a natureza absoluta e definitiva de sua destruição anunciada no livro — tão completa que a localização exata da cidade se perdeu da memória histórica até as escavações do século XIX. A Crônica babilônica da queda de Nínive, uma tabuleta cuneiforme neobabilônica, documenta com notável precisão o cerco e a captura da cidade pela coalizão medo-babilônica em 612 a.C., confirmando externamente o cumprimento histórico exato da profecia. O saque de Tebas por Assurbanípal em 663 a.C., mencionado por Naum como precedente (Na 3:8-10), está igualmente confirmado pelos anais assírios e por evidências arqueológicas egípcias."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Anales de Asurbanipal",
+          "en": "Annals of Ashurbanipal",
+          "pt": "Anais de Assurbanípal"
+        },
+        "origen": {
+          "es": "Registros reales asirios que documentan las campañas militares de Asurbanipal, incluido el saqueo de Tebas en 663 a.C.",
+          "en": "Assyrian royal records documenting Ashurbanipal's military campaigns, including the sack of Thebes in 663 BC",
+          "pt": "Registros reais assírios que documentam as campanhas militares de Assurbanípal, incluindo o saque de Tebas em 663 a.C."
+        },
+        "relevancia": {
+          "es": "Corrobora externamente el precedente histórico que Nahúm invoca contra Nínive: si Tebas, protegida por el Nilo, cayó, Nínive tampoco escapará (Nah 3:8-10)",
+          "en": "Externally corroborates the historical precedent Nahum invokes against Nineveh: if Thebes, protected by the Nile, fell, Nineveh will not escape either (Nah 3:8-10)",
+          "pt": "Corrobora externamente o precedente histórico que Naum invoca contra Nínive: se Tebas, protegida pelo Nilo, caiu, Nínive também não escapará (Na 3:8-10)"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Crónica babilónica de la caída de Nínive",
+          "en": "Babylonian Chronicle of the Fall of Nineveh",
+          "pt": "Crônica babilônica da queda de Nínive"
+        },
+        "origen": {
+          "es": "Tablilla cuneiforme neobabilónica que registra el asedio y la captura de Nínive por la coalición medo-babilónica en 612 a.C.",
+          "en": "A Neo-Babylonian cuneiform tablet recording the siege and capture of Nineveh by the Medo-Babylonian coalition in 612 BC",
+          "pt": "Tabuleta cuneiforme neobabilônica que registra o cerco e a captura de Nínive pela coalizão medo-babilônica em 612 a.C."
+        },
+        "relevancia": {
+          "es": "Confirma externamente y con notable precisión el cumplimiento histórico exacto de la profecía de Nahúm sobre la caída definitiva de Nínive",
+          "en": "Externally and notably precisely confirms the exact historical fulfillment of Nahum's prophecy concerning Nineveh's definitive fall",
+          "pt": "Confirma externamente e com notável precisão o cumprimento histórico exato da profecia de Naum sobre a queda definitiva de Nínive"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La notable precisión con que la caída de Nínive en 612 a.C. cumple la profecía de Nahúm ha llevado a algunos críticos a proponer que el libro fue escrito después del evento (vaticinium ex eventu), como una reflexión retrospectiva disfrazada de predicción. La tradición reformada y evangélica conservadora rechaza esta lectura, señalando que el texto en ningún momento describe la caída de Nínive como ya consumada —a diferencia de textos genuinamente escritos después del hecho, que suelen aludir a detalles concretos del cumplimiento—, y que la profecía predictiva genuina es plenamente consistente con la naturaleza sobrenatural de la revelación bíblica. Una segunda cuestión, menor, concierne la datación precisa dentro de la ventana de 663-612 a.C.; el tono de inminencia sugiere una fecha más cercana a 612 a.C., posiblemente durante el reinado de Josías.",
+      "en": "The notable precision with which Nineveh's fall in 612 BC fulfills Nahum's prophecy has led some critics to propose that the book was written after the event (vaticinium ex eventu), as a retrospective reflection disguised as prediction. The Reformed and conservative evangelical tradition rejects this reading, noting that the text at no point describes Nineveh's fall as already accomplished — unlike texts genuinely written after the fact, which tend to allude to concrete details of the fulfillment — and that genuine predictive prophecy is fully consistent with the supernatural nature of biblical revelation. A second, minor question concerns the precise dating within the 663-612 BC window; the tone of imminence suggests a date closer to 612 BC, possibly during the reign of Josiah.",
+      "pt": "A notável precisão com que a queda de Nínive em 612 a.C. cumpre a profecia de Naum levou alguns críticos a propor que o livro foi escrito depois do evento (vaticinium ex eventu), como uma reflexão retrospectiva disfarçada de predição. A tradição reformada e evangélica conservadora rejeita essa leitura, apontando que o texto em nenhum momento descreve a queda de Nínive como já consumada — diferentemente de textos genuinamente escritos depois do fato, que costumam aludir a detalhes concretos do cumprimento —, e que a profecia preditiva genuína é plenamente consistente com a natureza sobrenatural da revelação bíblica. Uma segunda questão, menor, diz respeito à datação precisa dentro da janela de 663-612 a.C.; o tom de iminência sugere uma data mais próxima de 612 a.C., possivelmente durante o reinado de Josias."
+    },
+    "cronologiaInterna": {
+      "es": "El libro no ofrece fórmulas de fecha regnal, pero dos anclas cronológicas internas fijan sus límites: la caída de Tebas (No-amón) se menciona como un hecho ya consumado (Nah 3:8-10, 663 a.C.), mientras que la caída de Nínive se anuncia como un juicio inminente pero aún futuro a lo largo de todo el libro, cumplido históricamente en 612 a.C.",
+      "en": "The book offers no regnal date formulas, but two internal chronological anchors fix its limits: the fall of Thebes (No-amon) is mentioned as an already accomplished fact (Nah 3:8-10, 663 BC), while the fall of Nineveh is announced as imminent but still future judgment throughout the book, historically fulfilled in 612 BC.",
+      "pt": "O livro não oferece fórmulas de data regnal, mas duas âncoras cronológicas internas fixam seus limites: a queda de Tebas (Nô-Amom) é mencionada como fato já consumado (Na 3:8-10, 663 a.C.), enquanto a queda de Nínive é anunciada como juízo iminente mas ainda futuro ao longo de todo o livro, cumprido historicamente em 612 a.C."
+    }
+  },
+  "ordenEnDivision": 7,
+  "ordenCanon": 34,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Nahúm anticipa a Cristo mediante la imagen del mensajero cuyos pies son hermosos porque «trae buenas nuevas, que anuncia la paz» (Nah 1:15), un pasaje que Pablo cita explícitamente en Ro 10:15 al describir la proclamación del evangelio, y que anticipa a Cristo como el predicador definitivo de la paz entre Dios y los pecadores (Ef 2:14-17). Además, el juicio total e irreversible de Nínive —«no hay medicina para tu quebradura» (Nah 3:19)— prefigura el juicio final y definitivo que Cristo ejecutará sobre todo poder que se opone al reino de Dios (Ap 19:15).",
+      "en": "Nahum anticipates Christ through the image of the messenger whose feet are beautiful because he \"brings good news, who publishes peace\" (Nah 1:15), a passage Paul explicitly cites in Rom 10:15 in describing the proclamation of the gospel, and which anticipates Christ as the definitive preacher of peace between God and sinners (Eph 2:14-17). Furthermore, Nineveh's total, irreversible judgment — \"there is no easing your hurt\" (Nah 3:19) — prefigures the final, definitive judgment Christ will execute on every power that opposes God's kingdom (Rev 19:15).",
+      "pt": "Naum antecipa a Cristo por meio da imagem do mensageiro cujos pés são formosos porque «traz boas-novas, que anuncia a paz» (Na 1:15), passagem que Paulo cita explicitamente em Rm 10:15 ao descrever a proclamação do evangelho, e que antecipa Cristo como o pregador definitivo da paz entre Deus e os pecadores (Ef 2:14-17). Além disso, o juízo total e irreversível de Nínive — «não há cura para a tua ferida» (Na 3:19) — prefigura o juízo final e definitivo que Cristo executará sobre todo poder que se opõe ao reino de Deus (Ap 19:15)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El mensajero cuyos pies son hermosos sobre los montes, que anuncia la paz y proclama la salvación (Nah 1:15), es citado por Pablo en Ro 10:15 como tipo de la proclamación del evangelio de Cristo.",
+        "en": "The messenger whose feet are beautiful on the mountains, who publishes peace and proclaims salvation (Nah 1:15), is cited by Paul in Rom 10:15 as a type of the proclamation of Christ's gospel.",
+        "pt": "O mensageiro cujos pés são formosos sobre os montes, que anuncia a paz e proclama a salvação (Na 1:15), é citado por Paulo em Rm 10:15 como tipo da proclamação do evangelho de Cristo."
+      },
+      {
+        "es": "El juicio total de Nínive, tan completo que su ubicación misma se perdió durante siglos hasta su redescubrimiento arqueológico en el siglo XIX, anticipa la finalidad del juicio escatológico de Cristo sobre todo poder rebelde (Nah 3:19; Ap 20:11-15).",
+        "en": "Nineveh's total judgment, so complete that its very location was lost for centuries until its 19th-century archaeological rediscovery, anticipates the finality of Christ's eschatological judgment on every rebellious power (Nah 3:19; Rev 20:11-15).",
+        "pt": "O juízo total de Nínive, tão completo que sua própria localização se perdeu por séculos até sua redescoberta arqueológica no século XIX, antecipa a finalidade do juízo escatológico de Cristo sobre todo poder rebelde (Na 3:19; Ap 20:11-15)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Nahúm es el único libro profético dedicado enteramente a anunciar la caída definitiva de Nínive, funcionando como la contraparte teológica de Jonás: mientras Jonás celebra el arrepentimiento y el perdón de la misma ciudad un siglo antes, Nahúm anuncia que esa misericordia no fue perpetua, y que la crueldad renovada de Asiria finalmente agota la paciencia divina. Ningún otro libro combina con tal intensidad poética el consuelo del pueblo de Dios (Nah 1:7,15) con la certeza absoluta del juicio sobre sus opresores.",
+    "en": "Nahum is the only prophetic book devoted entirely to announcing Nineveh's definitive fall, functioning as the theological counterpart to Jonah: while Jonah celebrates the same city's repentance and forgiveness a century earlier, Nahum announces that mercy was not perpetual, and that Assyria's renewed cruelty finally exhausts divine patience. No other book combines with such poetic intensity the comfort of God's people (Nah 1:7,15) with the absolute certainty of judgment on their oppressors.",
+    "pt": "Naum é o único livro profético dedicado inteiramente a anunciar a queda definitiva de Nínive, funcionando como a contraparte teológica de Jonas: enquanto Jonas celebra o arrependimento e o perdão da mesma cidade um século antes, Naum anuncia que essa misericórdia não foi perpétua, e que a crueldade renovada da Assíria finalmente esgota a paciência divina. Nenhum outro livro combina com tal intensidade poética o consolo do povo de Deus (Na 1:7,15) com a certeza absoluta do julgamento sobre seus opressores."
+  },
+  "genero": {
+    "es": "Profecía (oráculo de juicio contra una nación extranjera, con himno teofánico introductorio)",
+    "en": "Prophecy (judgment oracle against a foreign nation, with an introductory theophanic hymn)",
+    "pt": "Profecia (oráculo de julgamento contra uma nação estrangeira, com hino teofânico introdutório)"
+  },
+  "palabraClave": {
+    "es": [
+      "Juicio sobre Nínive",
+      "Consuelo de Dios",
+      "Ira y bondad",
+      "Buenas nuevas de paz",
+      "Caída de Asiria"
+    ],
+    "en": [
+      "Judgment on Nineveh",
+      "God's comfort",
+      "Wrath and goodness",
+      "Good news of peace",
+      "Assyria's fall"
+    ],
+    "pt": [
+      "Julgamento sobre Nínive",
+      "Consolo de Deus",
+      "Ira e bondade",
+      "Boas-novas de paz",
+      "Queda da Assíria"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo de Judá, que había sufrido bajo la opresión y el vasallaje impuesto por el imperio asirio durante generaciones, y necesitaba la certeza de que Dios finalmente ejecutaría juicio sobre su opresor",
+    "en": "The people of Judah, who had suffered under the oppression and vassalage imposed by the Assyrian empire for generations, and needed assurance that God would finally execute judgment on their oppressor",
+    "pt": "O povo de Judá, que havia sofrido sob a opressão e a vassalagem impostas pelo império assírio por gerações, e precisava da certeza de que Deus finalmente executaria julgamento sobre seu opressor"
+  },
+  "proposito": {
+    "es": "Históricamente, Nahúm anuncia la destrucción inminente e irreversible de Nínive como castigo por la crueldad imperial asiria, ofreciendo consuelo a un Judá que había vivido bajo su yugo. Teológicamente, el libro sostiene en tensión los dos polos de Ex 34:6-7 —Dios lento para la ira pero que no tendrá por inocente al culpable (Nah 1:3)—, enseñando que la paciencia divina tiene un límite y que su justicia finalmente alcanza incluso a los imperios más poderosos.",
+    "en": "Historically, Nahum announces Nineveh's imminent, irreversible destruction as punishment for Assyrian imperial cruelty, offering comfort to a Judah that had lived under its yoke. Theologically, the book holds in tension the two poles of Exod 34:6-7 — God slow to anger yet by no means clearing the guilty (Nah 1:3) — teaching that divine patience has a limit and that his justice finally reaches even the most powerful empires.",
+    "pt": "Historicamente, Naum anuncia a destruição iminente e irreversível de Nínive como castigo pela crueldade imperial assíria, oferecendo consolo a um Judá que havia vivido sob seu jugo. Teologicamente, o livro sustenta em tensão os dois polos de Êx 34:6-7 — Deus tardio em irar-se, mas que não terá por inocente o culpado (Na 1:3) —, ensinando que a paciência divina tem um limite e que sua justiça finalmente alcança até os impérios mais poderosos."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH · the Lord",
+        "pt": "Deus · YHWH · o Senhor"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "El SEÑOR celoso y vengador, lento para la ira pero que no tendrá por inocente al culpable, cuyo poder gobierna la tormenta y el fuego, y cuya bondad protege a los que en él confían mientras ejecuta juicio total sobre Nínive.",
+        "en": "The jealous and avenging LORD, slow to anger yet by no means clearing the guilty, whose power governs the storm and fire, and whose goodness protects those who trust him while he executes total judgment on Nineveh.",
+        "pt": "O SENHOR zeloso e vingador, tardio em irar-se, mas que não terá por inocente o culpado, cujo poder governa a tempestade e o fogo, e cuja bondade protege os que nele confiam enquanto executa juízo total sobre Nínive."
+      },
+      "acciones": {
+        "es": "Se revela como Dios celoso y vengador cuyo camino está en la tempestad y el torbellino (Nah 1:2-3), decreta que de la casa de Nínive «no quedará ya nombre de tu descendencia» (Nah 1:14), y finalmente ejecuta el juicio anunciado, dejando a la ciudad devastada y sin remedio (Nah 3:19).",
+        "en": "Reveals himself as a jealous and avenging God whose way is in the whirlwind and storm (Nah 1:2-3), decrees that from the house of Nineveh \"no more shall your name be perpetuated\" (Nah 1:14), and finally executes the announced judgment, leaving the city devastated and without remedy (Nah 3:19).",
+        "pt": "Revela-se como Deus zeloso e vingador cujo caminho está na tormenta e no torvelinho (Na 1:2-3), decreta que da casa de Nínive «não haverá mais quem perpetue o teu nome» (Na 1:14), e finalmente executa o juízo anunciado, deixando a cidade devastada e sem remédio (Na 3:19)."
+      },
+      "significadoTeologico": {
+        "es": "Nahúm revela que la misma fórmula de autorrevelación divina citada con énfasis en la misericordia por Jonás (Jon 4:2) contiene también, inseparablemente, la advertencia de que Dios «no tendrá por inocente al culpable» (Nah 1:3; cf. Ex 34:7), mostrando que la paciencia de Dios no es infinita cuando se abusa de ella sistemáticamente.",
+        "en": "Nahum reveals that the same formula of divine self-revelation cited with an emphasis on mercy by Jonah (Jonah 4:2) also inseparably contains the warning that God \"will by no means clear the guilty\" (Nah 1:3; cf. Exod 34:7), showing that God's patience is not infinite when systematically abused.",
+        "pt": "Naum revela que a mesma fórmula de autorrevelação divina citada com ênfase na misericórdia por Jonas (Jn 4:2) também contém, inseparavelmente, a advertência de que Deus «não terá por inocente o culpado» (Na 1:3; cf. Êx 34:7), mostrando que a paciência de Deus não é infinita quando sistematicamente abusada."
+      },
+      "tipo": {
+        "es": "El SEÑOR que finalmente ejecuta un juicio del que «no hay medicina» (Nah 3:19) anticipa el juicio final y definitivo de Cristo sobre todo poder que se rebela contra su reino (2Ts 1:7-9; Ap 19:15).",
+        "en": "The LORD who finally executes a judgment for which \"there is no easing\" (Nah 3:19) anticipates the final, definitive judgment of Christ on every power that rebels against his kingdom (2 Thess 1:7-9; Rev 19:15).",
+        "pt": "O SENHOR que finalmente executa um juízo para o qual «não há cura» (Na 3:19) antecipa o juízo final e definitivo de Cristo sobre todo poder que se rebela contra seu reino (2Ts 1:7-9; Ap 19:15)."
+      },
+      "caracterMoral": {
+        "es": "Celoso de su propio honor, paciente pero no infinitamente permisivo, poderoso sobre la naturaleza, y fiel en proteger y consolar a los que confían en él.",
+        "en": "Jealous for his own honor, patient but not infinitely permissive, powerful over nature, and faithful to protect and comfort those who trust him.",
+        "pt": "Zeloso de sua própria honra, paciente mas não infinitamente permissivo, poderoso sobre a natureza, e fiel em proteger e consolar os que nele confiam."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "YHWH es el sujeto que se revela en el himno teofánico inicial, decreta el juicio contra Nínive, y lo ejecuta a lo largo de los tres capítulos del libro.",
+          "en": "YHWH is the subject who reveals himself in the opening theophanic hymn, decrees judgment against Nineveh, and executes it throughout the book's three chapters.",
+          "pt": "YHWH é o sujeito que se revela no hino teofânico inicial, decreta o juízo contra Nínive, e o executa ao longo dos três capítulos do livro."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Nah 1:3",
+          "Nah 1:7",
+          "Nah 1:14",
+          "Nah 3:19"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: Dios no tiene biografía histórica humana; se revela por su autorrevelación consistente en todo el canon.",
+          "en": "Not applicable: God has no human historical biography; he reveals himself through his consistent self-revelation across the whole canon.",
+          "pt": "Não aplicável: Deus não tem biografia histórica humana; revela-se por sua autorrevelação consistente em todo o cânon."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El carácter de Dios como celoso y vengador pero bueno para con los que confían en él es coherente con su autorrevelación en el resto del canon (cf. Ex 34:6-7).",
+          "en": "God's character as jealous and avenging yet good to those who trust him is coherent with his self-revelation across the rest of the canon (cf. Exod 34:6-7).",
+          "pt": "O caráter de Deus como zeloso e vingador, mas bom para com os que nele confiam, é coerente com sua autorrevelação no restante do cânon (cf. Êx 34:6-7)."
+        }
+      },
+      "versiculosAsociados": [
+        "Nah 1:3",
+        "Nah 1:7",
+        "Nah 1:14",
+        "Nah 3:19"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Ex",
+        "Jon",
+        "Ro",
+        "Ap"
+      ],
+      "enElNuevoTestamento": {
+        "es": "La imagen del mensajero que trae buenas nuevas de paz (Nah 1:15) es citada por Pablo en Ro 10:15 para describir la proclamación apostólica del evangelio de Cristo.",
+        "en": "The image of the messenger who brings good news of peace (Nah 1:15) is cited by Paul in Rom 10:15 to describe the apostolic proclamation of Christ's gospel.",
+        "pt": "A imagem do mensageiro que traz boas-novas de paz (Na 1:15) é citada por Paulo em Rm 10:15 para descrever a proclamação apostólica do evangelho de Cristo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Nahúm",
+        "en": "Nahum",
+        "pt": "Naum"
+      },
+      "hebreo": "נַחוּם",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "El profeta de Elcos, de identidad y ubicación geográfica inciertas fuera de esta breve mención, cuyo oráculo entero está dedicado a proclamar la caída certera de Nínive como consuelo para Judá.",
+        "en": "The prophet from Elkosh, of uncertain identity and geographic location beyond this brief mention, whose entire oracle is devoted to proclaiming Nineveh's certain fall as comfort for Judah.",
+        "pt": "O profeta de Elcos, de identidade e localização geográfica incertas fora dessa breve menção, cujo oráculo inteiro é dedicado a proclamar a queda certa de Nínive como consolo para Judá."
+      },
+      "acciones": {
+        "es": "Recibe la «carga contra Nínive», el «libro de la visión de Nahúm de Elcos» (Nah 1:1), y despliega en verso poético de extraordinaria intensidad el decreto divino de juicio, la descripción del asalto final a la ciudad, y el oráculo de ¡ay! que sentencia su destrucción irremediable (Nah 1-3).",
+        "en": "Receives the \"oracle concerning Nineveh, the book of the vision of Nahum of Elkosh\" (Nah 1:1), and unfolds in poetic verse of extraordinary intensity the divine decree of judgment, the description of the city's final assault, and the woe oracle sentencing its irremediable destruction (Nah 1-3).",
+        "pt": "Recebe a «revelação acerca de Nínive; livro da visão de Naum, o elcosita» (Na 1:1), e desdobra em verso poético de extraordinária intensidade o decreto divino de julgamento, a descrição do assalto final à cidade, e o oráculo de ai que sentencia sua destruição irremediável (Na 1-3)."
+      },
+      "significadoTeologico": {
+        "es": "Nahúm, cuyo nombre significa «consuelo», encarna la función profética de proclamar el juicio de Dios sobre el opresor precisamente como una palabra de consuelo genuino para el pueblo oprimido, mostrando que la justicia divina y el consuelo del pueblo de Dios son inseparables.",
+        "en": "Nahum, whose name means \"comfort,\" embodies the prophetic function of proclaiming God's judgment on the oppressor precisely as a word of genuine comfort for the oppressed people, showing that divine justice and the comfort of God's people are inseparable.",
+        "pt": "Naum, cujo nome significa «consolo», encarna a função profética de proclamar o julgamento de Deus sobre o opressor precisamente como uma palavra de consolo genuíno para o povo oprimido, mostrando que a justiça divina e o consolo do povo de Deus são inseparáveis."
+      },
+      "tipo": {
+        "es": "Como profeta cuyo oráculo mismo se convierte en «buenas nuevas» de liberación para su pueblo (Nah 1:15), Nahúm prefigura de manera general la proclamación del evangelio como buena noticia de liberación en Cristo (Lc 4:18-19).",
+        "en": "As a prophet whose very oracle becomes \"good news\" of liberation for his people (Nah 1:15), Nahum generally prefigures the proclamation of the gospel as good news of liberation in Christ (Luke 4:18-19).",
+        "pt": "Como profeta cujo próprio oráculo se torna «boas-novas» de libertação para seu povo (Na 1:15), Naum prefigura de maneira geral a proclamação do evangelho como boa notícia de libertação em Cristo (Lc 4:18-19)."
+      },
+      "caracterMoral": {
+        "es": "Fiel transmisor de la palabra revelada, con una capacidad poética excepcional para comunicar tanto el terror del juicio como el consuelo de la liberación.",
+        "en": "A faithful transmitter of the revealed word, with exceptional poetic capacity to communicate both the terror of judgment and the comfort of liberation.",
+        "pt": "Fiel transmissor da palavra revelada, com uma capacidade poética excepcional para comunicar tanto o terror do julgamento quanto o consolo da libertação."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Toda la información bíblica sobre Nahúm se limita a la superscripción del libro, que lo identifica como «Nahúm de Elcos» (Nah 1:1).",
+          "en": "All the biblical information about Nahum is limited to the book's superscription, which identifies him as \"Nahum of Elkosh\" (Nah 1:1).",
+          "pt": "Toda a informação bíblica sobre Naum se limita à superscrição do livro, que o identifica como «Naum, o elcosita» (Na 1:1)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Nah 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia externa que permita ubicar con certeza la aldea de Elcos ni identificar a Nahúm con ninguna otra figura conocida; su identidad histórica permanece casi enteramente desconocida fuera del texto bíblico.",
+          "en": "No external evidence exists to certainly locate the village of Elkosh or identify Nahum with any other known figure; his historical identity remains almost entirely unknown outside the biblical text.",
+          "pt": "Não existe evidência externa que permita localizar com certeza a aldeia de Elcos nem identificar Naum com nenhuma outra figura conhecida; sua identidade histórica permanece quase inteiramente desconhecida fora do texto bíblico."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La falta de datos biográficos externos es consistente con la práctica profética veterotestamentaria de subordinar la persona del mensajero al contenido del mensaje divino.",
+          "en": "The lack of external biographical data is consistent with the Old Testament prophetic practice of subordinating the messenger's person to the content of the divine message.",
+          "pt": "A falta de dados biográficos externos é consistente com a prática profética veterotestamentária de subordinar a pessoa do mensageiro ao conteúdo da mensagem divina."
+        }
+      },
+      "versiculosAsociados": [
+        "Nah 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Nahúm no es mencionado por nombre en el Nuevo Testamento, aunque su descripción del mensajero de buenas nuevas (Nah 1:15) es citada por Pablo en Ro 10:15.",
+        "en": "Nahum is not mentioned by name in the New Testament, though his description of the messenger of good news (Nah 1:15) is cited by Paul in Rom 10:15.",
+        "pt": "Naum não é mencionado pelo nome no Novo Testamento, embora sua descrição do mensageiro de boas-novas (Na 1:15) seja citada por Paulo em Rm 10:15."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Nínive",
+        "en": "Nineveh",
+        "pt": "Nínive"
+      },
+      "principal": true,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "La capital del imperio asirio, descrita como una «ciudad sanguinaria, toda llena de mentira y de rapiña» (Nah 3:1), cuya caída definitiva —anunciada un siglo después del arrepentimiento narrado en Jonás— se despliega en detalle cinematográfico como el asalto militar final que la reducirá a ruinas irremediables.",
+        "en": "The capital of the Assyrian empire, described as a \"bloody city, all full of lies and plunder\" (Nah 3:1), whose definitive fall — announced a century after the repentance narrated in Jonah — unfolds in cinematic detail as the final military assault that will reduce it to irremediable ruin.",
+        "pt": "A capital do império assírio, descrita como uma «cidade sanguinária, toda cheia de mentiras e de rapina» (Na 3:1), cuja queda definitiva — anunciada um século depois do arrependimento narrado em Jonas — se desdobra em detalhe cinematográfico como o assalto militar final que a reduzirá a ruínas irremediáveis."
+      },
+      "acciones": {
+        "es": "Es sentenciada por el decreto divino de que «no quedará ya nombre de tu descendencia» (Nah 1:14), sufre el asalto vívidamente descrito de carros que se lanzan enfurecidos por las calles y jinetes que relumbran (Nah 2:3-4), es saqueada de su plata, oro y todo tesoro codiciable (Nah 2:9), y finalmente escucha la sentencia de que no hay medicina para su quebradura y que todos los que oigan la noticia de su caída batirán las manos (Nah 3:19).",
+        "en": "Is sentenced by the divine decree that \"no more shall your name be perpetuated\" (Nah 1:14), suffers the vividly described assault of chariots raging through the streets and flashing horsemen (Nah 2:3-4), is plundered of its silver, gold, and every desirable treasure (Nah 2:9), and finally hears the sentence that there is no easing its hurt and that all who hear the news of its fall will clap their hands (Nah 3:19).",
+        "pt": "É sentenciada pelo decreto divino de que «não haverá mais quem perpetue o teu nome» (Na 1:14), sofre o assalto vividamente descrito de carros que se enfurecem pelas ruas e cavaleiros que reluzem (Na 2:3-4), é saqueada de sua prata, ouro e todo tesouro cobiçável (Na 2:9), e finalmente ouve a sentença de que não há cura para sua ferida e que todos os que ouvirem a notícia de sua queda baterão as palmas (Na 3:19)."
+      },
+      "significadoTeologico": {
+        "es": "Nínive representa el poder imperial que, tras experimentar la misericordia de Dios en tiempos de Jonás, regresó a su crueldad sistemática, mostrando que el arrepentimiento nacional temporal no sustituye la fidelidad continua ni exime del juicio cuando el pecado se reanuda.",
+        "en": "Nineveh represents the imperial power that, after experiencing God's mercy in the days of Jonah, returned to its systematic cruelty, showing that temporary national repentance does not substitute for ongoing faithfulness nor exempt from judgment when sin resumes.",
+        "pt": "Nínive representa o poder imperial que, após experimentar a misericórdia de Deus nos dias de Jonas, retornou à sua crueldade sistemática, mostrando que o arrependimento nacional temporário não substitui a fidelidade contínua nem isenta do julgamento quando o pecado se retoma."
+      },
+      "tipo": {
+        "es": "La destrucción total e irreversible de Nínive —tan completa que su ubicación misma quedó perdida hasta el redescubrimiento arqueológico del siglo XIX— anticipa la finalidad del juicio escatológico sobre todo poder que se opone permanentemente al reino de Dios (Ap 18:21).",
+        "en": "Nineveh's total, irreversible destruction — so complete that its very location was lost until 19th-century archaeological rediscovery — anticipates the finality of eschatological judgment on every power permanently opposed to God's kingdom (Rev 18:21).",
+        "pt": "A destruição total e irreversível de Nínive — tão completa que sua própria localização ficou perdida até a redescoberta arqueológica do século XIX — antecipa a finalidade do juízo escatológico sobre todo poder permanentemente oposto ao reino de Deus (Ap 18:21)."
+      },
+      "caracterMoral": {
+        "es": "Sanguinaria, engañosa, dedicada al saqueo y la opresión imperial sistemática, una prostituta hechicera que esclaviza a las naciones con sus intrigas (Nah 3:4).",
+        "en": "Bloody, deceitful, devoted to plunder and systematic imperial oppression, a sorceress-harlot who enslaves nations through her intrigues (Nah 3:4).",
+        "pt": "Sanguinária, enganosa, dedicada à pilhagem e à opressão imperial sistemática, uma meretriz feiticeira que escraviza as nações com suas intrigas (Na 3:4)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Nínive es el blanco exclusivo de todo el oráculo de Nahúm, sentenciada, asediada y finalmente destruida a lo largo de los tres capítulos del libro.",
+          "en": "Nineveh is the exclusive target of Nahum's entire oracle, sentenced, besieged, and finally destroyed throughout the book's three chapters.",
+          "pt": "Nínive é o alvo exclusivo de todo o oráculo de Naum, sentenciada, sitiada e finalmente destruída ao longo dos três capítulos do livro."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Nah 1:14",
+          "Nah 2:8",
+          "Nah 3:1",
+          "Nah 3:19"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Nínive cayó ante la coalición medo-babilónica en 612 a.C., un evento confirmado por la Crónica babilónica de la caída de Nínive; su destrucción fue tan completa que la ciudad quedó deshabitada y su ubicación se perdió de la memoria histórica hasta las excavaciones del siglo XIX.",
+          "en": "Nineveh fell to the Medo-Babylonian coalition in 612 BC, an event confirmed by the Babylonian Chronicle of the fall of Nineveh; its destruction was so complete that the city was left uninhabited and its location was lost to historical memory until 19th-century excavations.",
+          "pt": "Nínive caiu diante da coalizão medo-babilônica em 612 a.C., evento confirmado pela Crônica babilônica da queda de Nínive; sua destruição foi tão completa que a cidade ficou desabitada e sua localização se perdeu da memória histórica até as escavações do século XIX."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Caída de Nínive",
+              "Contexto histórico asirio"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La Crónica babilónica documenta con precisión la caída de Nínive en 612 a.C. ante la coalición medo-babilónica, confirmando externamente el cumplimiento histórico exacto de la profecía de Nahúm.",
+          "en": "The Babylonian Chronicle precisely documents Nineveh's fall in 612 BC to the Medo-Babylonian coalition, externally confirming the exact historical fulfillment of Nahum's prophecy.",
+          "pt": "A Crônica babilônica documenta com precisão a queda de Nínive em 612 a.C. diante da coalizão medo-babilônica, confirmando externamente o cumprimento histórico exato da profecia de Naum."
+        }
+      },
+      "versiculosAsociados": [
+        "Nah 1:14",
+        "Nah 2:8",
+        "Nah 3:7",
+        "Nah 3:19"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "Jon",
+        "Sof"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Nínive no es mencionada en el Nuevo Testamento en conexión con Nahúm, aunque Jesús se refiere a «los hombres de Nínive» de los tiempos de Jonás como testimonio contra la incredulidad de su generación (Mt 12:41).",
+        "en": "Nineveh is not mentioned in the New Testament in connection with Nahum, though Jesus refers to \"the men of Nineveh\" from the days of Jonah as testimony against his generation's unbelief (Matt 12:41).",
+        "pt": "Nínive não é mencionada no Novo Testamento em conexão com Naum, embora Jesus se refira aos «homens de Nínive» dos tempos de Jonas como testemunho contra a incredulidade de sua geração (Mt 12:41)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "El rey de Asiria",
+        "en": "The king of Assyria",
+        "pt": "O rei da Assíria"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        3
+      ],
+      "descripcion": {
+        "es": "El monarca asirio dirigido en la sentencia final del libro, cuyos pastores (oficiales) y nobles duermen o son dispersados como langostas cuando llega el juicio, dejando al pueblo sin quien lo reúna.",
+        "en": "The Assyrian monarch addressed in the book's final sentence, whose shepherds (officials) and nobles slumber or are scattered like locusts when judgment arrives, leaving the people with no one to gather them.",
+        "pt": "O monarca assírio interpelado na sentença final do livro, cujos pastores (oficiais) e nobres dormem ou são dispersos como gafanhotos quando o julgamento chega, deixando o povo sem quem os reúna."
+      },
+      "acciones": {
+        "es": "Es advertido de que «tus pastores dormitaron... tu pueblo se derramó por los montes, y no hay quien lo junte» (Nah 3:18), recibiendo la noticia final de que su herida es incurable y de que todos los que oigan de su caída se alegrarán, porque su maldad ha pasado continuamente sobre todos (Nah 3:19).",
+        "en": "Is warned that \"your shepherds are asleep... your people are scattered on the mountains with none to gather them\" (Nah 3:18), receiving the final news that his wound is incurable and that all who hear of his fall will rejoice, for his evil has passed continually over all (Nah 3:19).",
+        "pt": "É advertido de que «os teus pastores dormitaram... o teu povo se espalhou pelos montes, e não há quem os ajunte» (Na 3:18), recebendo a notícia final de que sua ferida é incurável e de que todos os que ouvirem de sua queda se alegrarão, pois sua maldade passou continuamente sobre todos (Na 3:19)."
+      },
+      "significadoTeologico": {
+        "es": "Este rey representa la cúspide del poder imperial humano que, por más fortificado que esté, no puede protegerse del juicio decretado por el verdadero Rey soberano sobre todas las naciones.",
+        "en": "This king represents the pinnacle of human imperial power that, however fortified, cannot protect itself from the judgment decreed by the true sovereign King over all nations.",
+        "pt": "Esse rei representa o ápice do poder imperial humano que, por mais fortificado que esteja, não pode proteger-se do juízo decretado pelo verdadeiro Rei soberano sobre todas as nações."
+      },
+      "tipo": {
+        "es": "La caída de este rey humano orgulloso ante el juicio de Dios anticipa la sujeción final de todo poder y autoridad terrenal bajo el señorío universal de Cristo (1Co 15:24-25; Ap 19:19-21).",
+        "en": "This proud human king's fall before God's judgment anticipates the final subjection of every earthly power and authority under the universal lordship of Christ (1 Cor 15:24-25; Rev 19:19-21).",
+        "pt": "A queda desse rei humano orgulhoso diante do juízo de Deus antecipa a sujeição final de todo poder e autoridade terrena sob o senhorio universal de Cristo (1Co 15:24-25; Ap 19:19-21)."
+      },
+      "caracterMoral": {
+        "es": "Representante de un imperio cuya maldad «ha pasado continuamente sobre todos» (Nah 3:19), incapaz de proteger a su propio pueblo cuando llega el juicio decretado.",
+        "en": "Representative of an empire whose evil \"has passed continually over all\" (Nah 3:19), unable to protect his own people when the decreed judgment arrives.",
+        "pt": "Representante de um império cuja maldade «passou continuamente sobre todos» (Na 3:19), incapaz de proteger seu próprio povo quando chega o juízo decretado."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "El rey de Asiria aparece únicamente en la sentencia final del libro (Nah 3:18-19), dirigido directamente como destinatario del oráculo de juicio irrevocable.",
+          "en": "The king of Assyria appears only in the book's final sentence (Nah 3:18-19), directly addressed as the recipient of the irrevocable judgment oracle.",
+          "pt": "O rei da Assíria aparece unicamente na sentença final do livro (Na 3:18-19), interpelado diretamente como destinatário do oráculo de juízo irrevogável."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Nah 3:18",
+          "Nah 3:19"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El libro no nombra a este rey específicamente; los candidatos históricos incluyen a Senaquerib, Asurbanipal o Sin-sar-iskun, este último el último rey asirio bajo cuyo reinado cayó Nínive en 612 a.C., aunque el texto no permite una identificación certera.",
+          "en": "The book does not name this king specifically; historical candidates include Sennacherib, Ashurbanipal, or Sin-shar-ishkun, the latter the last Assyrian king under whose reign Nineveh fell in 612 BC, though the text allows no certain identification.",
+          "pt": "O livro não nomeia esse rei especificamente; os candidatos históricos incluem Senaqueribe, Assurbanípal ou Sim-Sar-Iskum, este último o último rei assírio sob cujo reinado Nínive caiu em 612 a.C., embora o texto não permita uma identificação certa."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La ambigüedad sobre la identidad precisa del rey es consistente con el estilo profético hebreo, que a menudo se dirige al oficio real como representante corporativo de la nación entera.",
+          "en": "The ambiguity about the king's precise identity is consistent with the Hebrew prophetic style, which often addresses the royal office as a corporate representative of the entire nation.",
+          "pt": "A ambiguidade sobre a identidade precisa do rei é consistente com o estilo profético hebraico, que frequentemente se dirige ao ofício real como representante corporativo de toda a nação."
+        }
+      },
+      "versiculosAsociados": [
+        "Nah 3:18",
+        "Nah 3:19"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "No es mencionado directamente en el Nuevo Testamento, aunque el patrón de juicio sobre reyes orgullosos que oprimen a las naciones resuena en la escatología de Apocalipsis (Ap 19:19-21).",
+        "en": "Not directly mentioned in the New Testament, though the pattern of judgment on proud kings who oppress the nations resonates in the eschatology of Revelation (Rev 19:19-21).",
+        "pt": "Não é mencionado diretamente no Novo Testamento, embora o padrão de julgamento sobre reis orgulhosos que oprimem as nações ressoe na escatologia de Apocalipse (Ap 19:19-21)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "Nahúm abre citando casi textualmente la fórmula de autorrevelación de Ex 34:6-7 —«el SEÑOR es lento para la ira y grande en poder, y no tendrá por inocente al culpable» (Nah 1:3)— pero, a diferencia de Jonás, enfatiza el polo de la justicia retributiva sobre el de la compasión, revelando que ambos atributos son igualmente verdaderos y coherentes en el carácter de Dios.",
+        "en": "Nahum opens by quoting almost verbatim the self-revelation formula of Exod 34:6-7 — \"the LORD is slow to anger and great in power, and the LORD will by no means clear the guilty\" (Nah 1:3) — but, unlike Jonah, emphasizes the pole of retributive justice over compassion, revealing that both attributes are equally true and coherent within God's character.",
+        "pt": "Naum abre citando quase textualmente a fórmula de autorrevelação de Êx 34:6-7 — «o SENHOR é tardio em irar-se, mas grande em força, e ao culpado não terá por inocente» (Na 1:3) — mas, diferentemente de Jonas, enfatiza o polo da justiça retributiva sobre o da compaixão, revelando que ambos os atributos são igualmente verdadeiros e coerentes no caráter de Deus."
+      },
+      "pasajes": [
+        "Nah 1:2",
+        "Nah 1:3",
+        "Nah 1:7"
+      ],
+      "ensenanza": {
+        "es": "Dios es celoso y vengador contra sus adversarios, pero bueno y fortaleza para los que confían en él · La paciencia divina («lento para la ira») no equivale a permisividad indefinida · Dios conoce íntimamente a los que se refugian en él en medio del juicio sobre otros",
+        "en": "God is jealous and avenging against his adversaries, but good and a stronghold for those who trust him · Divine patience (\"slow to anger\") does not equal indefinite permissiveness · God intimately knows those who take refuge in him amid judgment on others",
+        "pt": "Deus é zeloso e vingador contra seus adversários, mas bom e fortaleza para os que nele confiam · A paciência divina («tardio em irar-se») não equivale a permissividade indefinida · Deus conhece intimamente os que se refugiam nele em meio ao julgamento sobre outros"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee Nahúm junto a Jonás como dos caras necesarias de la misma revelación de Ex 34:6-7: la misericordia de Dios es real y genuina, pero no anula su justicia cuando el pecado persiste sin arrepentimiento verdadero a través de generaciones.",
+        "en": "The Reformed tradition reads Nahum alongside Jonah as two necessary faces of the same Exod 34:6-7 revelation: God's mercy is real and genuine, but does not nullify his justice when sin persists without true repentance across generations.",
+        "pt": "A tradição reformada lê Naum junto com Jonas como dois lados necessários da mesma revelação de Êx 34:6-7: a misericórdia de Deus é real e genuína, mas não anula sua justiça quando o pecado persiste sem arrependimento verdadeiro através de gerações."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Nahúm presenta a Dios como soberano sobre la naturaleza —reprende el mar y lo seca, hace marchitar a Basán, el Carmelo y el Líbano (Nah 1:4)— y sobre la historia de los imperios, decretando y ejecutando con precisión histórica verificable la caída del imperio más poderoso de su tiempo.",
+        "en": "Nahum presents God as sovereign over nature — he rebukes the sea and dries it up, withers Bashan, Carmel, and Lebanon (Nah 1:4) — and over the history of empires, decreeing and executing with verifiable historical precision the fall of the most powerful empire of his time.",
+        "pt": "Naum apresenta Deus como soberano sobre a natureza — repreende o mar e o seca, faz murchar Basã, o Carmelo e o Líbano (Na 1:4) — e sobre a história dos impérios, decretando e executando com precisão histórica verificável a queda do império mais poderoso de seu tempo."
+      },
+      "pasajes": [
+        "Nah 1:4",
+        "Nah 1:5",
+        "Nah 2:13"
+      ],
+      "ensenanza": {
+        "es": "El poder de Dios sobre la naturaleza —mar, montes, tierra— demuestra su soberanía sobre toda la creación · Los montes tiemblan y los collados se derriten ante la presencia divina · Dios mismo declara «heme aquí contra ti» a la nación más poderosa del mundo antiguo",
+        "en": "God's power over nature — sea, mountains, earth — demonstrates his sovereignty over all creation · The mountains quake and the hills melt before the divine presence · God himself declares \"I am against you\" to the most powerful nation of the ancient world",
+        "pt": "O poder de Deus sobre a natureza — mar, montes, terra — demonstra sua soberania sobre toda a criação · Os montes tremem e os outeiros se derretem diante da presença divina · O próprio Deus declara «eis que eu estou contra ti» à nação mais poderosa do mundo antigo"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la providencia ve en el cumplimiento histórico exacto de la caída de Nínive en 612 a.C. una confirmación empírica de que Dios gobierna soberanamente el ascenso y la caída de los imperios humanos conforme a su propio decreto.",
+        "en": "Reformed providence doctrine sees in the exact historical fulfillment of Nineveh's fall in 612 BC an empirical confirmation that God sovereignly governs the rise and fall of human empires according to his own decree.",
+        "pt": "A doutrina reformada da providência vê no cumprimento histórico exato da queda de Nínive em 612 a.C. uma confirmação empírica de que Deus governa soberanamente a ascensão e a queda dos impérios humanos conforme seu próprio decreto."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "El juicio de Nínive en Nahúm, tan total que «no hay medicina para tu quebradura» (Nah 3:19), funciona como un anticipo tipológico del juicio final y definitivo que caerá sobre todo poder que persista en oponerse al reino de Dios, sin posibilidad de apelación ni restauración.",
+        "en": "Nineveh's judgment in Nahum, so total that \"there is no easing your hurt\" (Nah 3:19), functions as a typological foretaste of the final, definitive judgment that will fall on every power that persists in opposing God's kingdom, with no possibility of appeal or restoration.",
+        "pt": "O julgamento de Nínive em Naum, tão total que «não há cura para a tua ferida» (Na 3:19), funciona como um antegozo tipológico do juízo final e definitivo que cairá sobre todo poder que persista em opor-se ao reino de Deus, sem possibilidade de apelação nem restauração."
+      },
+      "pasajes": [
+        "Nah 1:9",
+        "Nah 1:14",
+        "Nah 3:19"
+      ],
+      "ensenanza": {
+        "es": "Dios promete que la angustia no se levantará dos veces contra su pueblo · El decreto de que «no quedará ya nombre de tu descendencia» anuncia una destrucción sin remedio ni continuidad · La herida final es descrita como incurable, sin posibilidad de restauración",
+        "en": "God promises that distress will not rise up a second time against his people · The decree that \"no more shall your name be perpetuated\" announces a destruction without remedy or continuity · The final wound is described as incurable, with no possibility of restoration",
+        "pt": "Deus promete que a angústia não se levantará duas vezes contra seu povo · O decreto de que «não haverá mais quem perpetue o teu nome» anuncia uma destruição sem remédio nem continuidade · A ferida final é descrita como incurável, sem possibilidade de restauração"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada ve en la finalidad irrevocable del juicio sobre Nínive un patrón que anticipa —sin agotar— la doctrina del juicio final descrito en Ap 20:11-15, donde el rechazo persistente de Dios culmina en una separación definitiva.",
+        "en": "The Reformed tradition sees in the irrevocable finality of the judgment on Nineveh a pattern that anticipates — without exhausting — the doctrine of the final judgment described in Rev 20:11-15, where persistent rejection of God culminates in definitive separation.",
+        "pt": "A tradição reformada vê na finalidade irrevogável do juízo sobre Nínive um padrão que antecipa — sem esgotar — a doutrina do juízo final descrita em Ap 20:11-15, onde a rejeição persistente de Deus culmina numa separação definitiva."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Soteriología",
+        "en": "Soteriology",
+        "pt": "Soteriologia"
+      },
+      "resumen": {
+        "es": "En medio del oráculo de juicio, Nahúm ofrece una de las declaraciones de consuelo más tiernas del Antiguo Testamento: «Bueno es el SEÑOR, fortaleza en el día de la angustia; y conoce a los que en él confían» (Nah 1:7), y anuncia mediante la imagen del mensajero que trae buenas nuevas la salvación y paz venideras para Judá (Nah 1:15).",
+        "en": "Amid the judgment oracle, Nahum offers one of the Old Testament's tenderest declarations of comfort: \"The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him\" (Nah 1:7), and announces through the image of the messenger who brings good news the salvation and peace to come for Judah (Nah 1:15).",
+        "pt": "Em meio ao oráculo de julgamento, Naum oferece uma das declarações de consolo mais ternas do Antigo Testamento: «Bom é o SENHOR para fortaleza no dia da angústia; e conhece os que confiam nele» (Na 1:7), e anuncia por meio da imagem do mensageiro que traz boas-novas a salvação e a paz vindouras para Judá (Na 1:15)."
+      },
+      "pasajes": [
+        "Nah 1:7",
+        "Nah 1:12",
+        "Nah 1:15"
+      ],
+      "ensenanza": {
+        "es": "Dios es bondadoso y una fortaleza segura para quienes se refugian en él en tiempos de angustia · La aflicción de Judá no será perpetua, sino que Dios promete quebrar el yugo del opresor · El mensajero de buenas nuevas anuncia la paz que sigue al juicio del enemigo",
+        "en": "God is kind and a sure stronghold for those who take refuge in him in times of trouble · Judah's affliction will not be perpetual, for God promises to break the oppressor's yoke · The messenger of good news announces the peace that follows the enemy's judgment",
+        "pt": "Deus é bondoso e uma fortaleza segura para os que nele se refugiam em tempos de angústia · A aflição de Judá não será perpétua, pois Deus promete quebrar o jugo do opressor · O mensageiro de boas-novas anuncia a paz que segue o julgamento do inimigo"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada conecta la promesa de liberación de Judá en Nahúm con el patrón redentor-histórico más amplio de la salvación que Dios provee a su pueblo mediante el juicio de sus opresores, culminando en la liberación definitiva provista en Cristo.",
+        "en": "Reformed theology connects Judah's promise of deliverance in Nahum with the broader redemptive-historical pattern of the salvation God provides his people through judgment on their oppressors, culminating in the definitive deliverance provided in Christ.",
+        "pt": "A teologia reformada conecta a promessa de libertação de Judá em Naum com o padrão redentor-histórico mais amplo da salvação que Deus provê ao seu povo por meio do julgamento de seus opressores, culminando na libertação definitiva provida em Cristo."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 2",
+      "titulo": {
+        "es": "De Dios y de la Santísima Trinidad",
+        "en": "Of God, and of the Holy Trinity",
+        "pt": "De Deus e da Santíssima Trindade"
+      },
+      "doctrinas": [
+        "Teología Propia",
+        "Atributos de Dios"
+      ],
+      "resumen": {
+        "es": "El capítulo 2 confiesa a Dios como infinito en poder, justicia y santidad, «un Dios celoso» que castiga la iniquidad. La descripción de Nahúm de un Dios «celoso y vengador», «lento para la ira» pero que «no tendrá por inocente al culpable» (Nah 1:2-3) refleja precisamente esta tensión confesional entre la paciencia y la justicia inflexible de Dios.",
+        "en": "Chapter 2 confesses God as infinite in power, justice, and holiness, \"a jealous God\" who punishes iniquity. Nahum's description of a God \"jealous and avenging,\" \"slow to anger\" yet who \"will by no means clear the guilty\" (Nah 1:2-3) reflects precisely this confessional tension between God's patience and inflexible justice.",
+        "pt": "O capítulo 2 confessa Deus como infinito em poder, justiça e santidade, «um Deus zeloso» que castiga a iniquidade. A descrição de Naum de um Deus «zeloso e vingador», «tardio em irar-se» mas que «não terá por inocente o culpado» (Na 1:2-3) reflete precisamente essa tensão confessional entre a paciência e a justiça inflexível de Deus."
+      },
+      "genesis": [
+        "Nah 1:2",
+        "Nah 1:3"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-2"
+    },
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía de Dios"
+      ],
+      "resumen": {
+        "es": "El capítulo 5 confiesa que Dios sostiene, dirige y gobierna todas las criaturas y acciones mediante su sabidísima providencia. Nahúm ilustra esta doctrina mostrando a Dios reprendiendo el mar, secando ríos y marchitando Basán, el Carmelo y el Líbano (Nah 1:4), y decretando con precisión histórica verificable la caída del imperio asirio.",
+        "en": "Chapter 5 confesses that God upholds, directs, and governs all creatures and actions by his most wise providence. Nahum illustrates this doctrine by showing God rebuking the sea, drying up rivers, and withering Bashan, Carmel, and Lebanon (Nah 1:4), and decreeing with verifiable historical precision the fall of the Assyrian empire.",
+        "pt": "O capítulo 5 confessa que Deus sustenta, dirige e governa todas as criaturas e ações por sua sapientíssima providência. Naum ilustra essa doutrina mostrando Deus repreendendo o mar, secando rios e fazendo murchar Basã, o Carmelo e o Líbano (Na 1:4), e decretando com precisão histórica verificável a queda do império assírio."
+      },
+      "genesis": [
+        "Nah 1:4",
+        "Nah 1:5"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    },
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio Final"
+      ],
+      "resumen": {
+        "es": "El capítulo 33 confiesa que Dios ha establecido un día en que juzgará al mundo con justicia, ejecutando una sentencia final e irrevocable. La declaración de que «no hay medicina para tu quebradura» sobre Nínive (Nah 3:19) anticipa en miniatura esta doctrina del juicio final e irrevocable.",
+        "en": "Chapter 33 confesses that God has appointed a day in which he will judge the world in righteousness, executing a final and irrevocable sentence. The declaration that \"there is no easing your hurt\" over Nineveh (Nah 3:19) anticipates in miniature this doctrine of final, irrevocable judgment.",
+        "pt": "O capítulo 33 confessa que Deus estabeleceu um dia em que julgará o mundo com justiça, executando uma sentença final e irrevogável. A declaração de que «não há cura para a tua ferida» sobre Nínive (Na 3:19) antecipa em miniatura essa doutrina do juízo final e irrevogável."
+      },
+      "genesis": [
+        "Nah 3:19"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Nah 1:3",
+      "es": "El SEÑOR es lento para la ira y grande en poder, y el SEÑOR no tendrá por inocente al culpable. En el torbellino y en la tempestad está su camino, y las nubes son el polvo de sus pies.",
+      "en": "The LORD is slow to anger and great in power, and the LORD will by no means clear the guilty. His way is in whirlwind and storm, and the clouds are the dust of his feet.",
+      "pt": "O SENHOR é tardio em irar-se, mas grande em força; e ao culpado não terá por inocente; o SENHOR tem o seu caminho na tormenta e na tempestade, e as nuvens são o pó dos seus pés.",
+      "nota": {
+        "es": "Este versículo cita casi textualmente Ex 34:6-7, pero invierte el énfasis relativo respecto a Jon 4:2: donde Jonás subraya la compasión, Nahúm subraya que la paciencia divina no exime al culpable persistente de la justicia.",
+        "en": "This verse quotes Exod 34:6-7 almost verbatim, but inverts the relative emphasis compared to Jonah 4:2: where Jonah underscores compassion, Nahum underscores that divine patience does not exempt the persistently guilty from justice.",
+        "pt": "Este versículo cita quase textualmente Êx 34:6-7, mas inverte a ênfase relativa em comparação com Jn 4:2: onde Jonas sublinha a compaixão, Naum sublinha que a paciência divina não isenta o culpado persistente da justiça."
+      }
+    },
+    {
+      "ref": "Nah 1:7",
+      "es": "Bueno es el SEÑOR, fortaleza en el día de la angustia; y conoce a los que en Él se refugian.",
+      "en": "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
+      "pt": "Bom é o SENHOR para fortaleza no dia da angústia; e conhece os que confiam nele.",
+      "nota": {
+        "es": "En medio de un himno predominantemente centrado en la ira divina, este versículo ofrece un remanso de ternura pastoral, recordando que el mismo Dios que juzga a sus enemigos es refugio seguro para quienes confían en él.",
+        "en": "Amid a hymn predominantly focused on divine wrath, this verse offers a pocket of pastoral tenderness, recalling that the same God who judges his enemies is a sure refuge for those who trust him.",
+        "pt": "Em meio a um hino predominantemente centrado na ira divina, este versículo oferece um remanso de ternura pastoral, lembrando que o mesmo Deus que julga seus inimigos é refúgio seguro para os que nele confiam."
+      }
+    },
+    {
+      "ref": "Nah 1:15",
+      "es": "He aquí sobre los montes los pies del que trae buenas nuevas, del que anuncia la paz. Celebra tus fiestas, oh Judá, cumple tus votos, porque el malvado no volverá más a pasar por ti; ha sido exterminado por completo.",
+      "en": "Behold, on the mountains, the feet of him who brings good news, who publishes peace! Keep your feasts, O Judah; fulfill your vows, for never again shall the worthless pass through you; he is utterly cut off.",
+      "pt": "Eis sobre os montes os pés do que traz as boas-novas, do que anuncia a paz! Celebra as tuas festas, ó Judá, cumpre os teus votos; porque o ímpio não tornará mais a passar por ti; ele é inteiramente exterminado.",
+      "nota": {
+        "es": "Pablo cita este versículo en Ro 10:15 al describir la belleza de la proclamación del evangelio, conectando el consuelo profético de la liberación de Judá con la proclamación cristiana de la paz mediante el evangelio de Cristo.",
+        "en": "Paul cites this verse in Rom 10:15 when describing the beauty of gospel proclamation, connecting the prophetic comfort of Judah's deliverance with the Christian proclamation of peace through Christ's gospel.",
+        "pt": "Paulo cita este versículo em Rm 10:15 ao descrever a beleza da proclamação do evangelho, conectando o consolo profético da libertação de Judá com a proclamação cristã da paz por meio do evangelho de Cristo."
+      }
+    },
+    {
+      "ref": "Nah 3:1",
+      "es": "¡Ay de la ciudad sanguinaria! Toda llena de mentira y de rapiña; la presa no se aparta de ella.",
+      "en": "Woe to the bloody city, all full of lies and plunder—no end to the prey!",
+      "pt": "Ai da cidade sanguinária! Ela está toda cheia de mentiras e de rapina; a presa não sai dela.",
+      "nota": {
+        "es": "El oráculo de ¡ay! resume la acusación central del libro: la riqueza y el poder de Nínive se construyeron sistemáticamente sobre el engaño y el saqueo de las naciones vasallas, un pecado que finalmente recibe su justa retribución.",
+        "en": "The woe oracle summarizes the book's central accusation: Nineveh's wealth and power were systematically built on deceit and the plunder of vassal nations, a sin that finally receives its just retribution.",
+        "pt": "O oráculo de ai resume a acusação central do livro: a riqueza e o poder de Nínive foram construídos sistematicamente sobre o engano e a pilhagem das nações vassalas, pecado que finalmente recebe sua justa retribuição."
+      }
+    },
+    {
+      "ref": "Nah 3:19",
+      "es": "No hay medicina para tu quebradura, tu herida es incurable. Todos los que oigan la noticia de ti, batirán las manos sobre ti, porque ¿sobre quién no pasó continuamente tu maldad?",
+      "en": "There is no easing your hurt; your wound is grievous. All who hear the news about you clap their hands over you. For upon whom has not come your unceasing evil?",
+      "pt": "Não há cura para a tua ferida; a tua chaga é grave. Todos os que ouvirem a tua fama baterão as palmas sobre ti; porque sobre quem não passou continuamente a tua malícia?",
+      "nota": {
+        "es": "El versículo final del libro sentencia que la caída de Nínive será definitiva y sin remedio, y que las naciones que sufrieron bajo su crueldad se alegrarán de su fin, cerrando el oráculo con la justicia poética de que la opresora universal recibe un juicio también universal.",
+        "en": "The book's final verse sentences that Nineveh's fall will be definitive and beyond remedy, and that the nations that suffered under its cruelty will rejoice at its end, closing the oracle with the poetic justice that the universal oppressor receives a likewise universal judgment.",
+        "pt": "O versículo final do livro sentencia que a queda de Nínive será definitiva e sem remédio, e que as nações que sofreram sob sua crueldade se alegrarão com seu fim, encerrando o oráculo com a justiça poética de que a opressora universal recebe um juízo igualmente universal."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Nahúm lo sitúa deliberadamente junto a Jonás como un díptico teológico: el mismo Dios que se compadeció de Nínive arrepentida en el siglo VIII a.C. ejecuta su juicio irrevocable sobre la misma ciudad un siglo después, no por inconsistencia divina sino porque la misericordia recibida fue traicionada por la crueldad renovada. Esta lectura resiste tanto la caricatura de un «Dios del Antiguo Testamento» meramente vengativo como una lectura sentimental que ignore la seriedad del pecado persistente, sosteniendo en cambio que la paciencia y la justicia de Dios son coherentes expresiones del mismo carácter santo revelado en Ex 34:6-7.",
+    "en": "The Reformed reading deliberately places Nahum alongside Jonah as a theological diptych: the same God who had compassion on repentant Nineveh in the 8th century BC executes his irrevocable judgment on the same city a century later, not out of divine inconsistency but because the mercy received was betrayed by renewed cruelty. This reading resists both the caricature of a merely vengeful \"Old Testament God\" and a sentimental reading that ignores the seriousness of persistent sin, instead holding that God's patience and justice are coherent expressions of the same holy character revealed in Exod 34:6-7.",
+    "pt": "A leitura reformada situa deliberadamente Naum ao lado de Jonas como um díptico teológico: o mesmo Deus que se compadeceu de Nínive arrependida no século VIII a.C. executa seu juízo irrevogável sobre a mesma cidade um século depois, não por inconsistência divina, mas porque a misericórdia recebida foi traída pela crueldade renovada. Essa leitura resiste tanto à caricatura de um «Deus do Antigo Testamento» meramente vingativo quanto a uma leitura sentimental que ignore a seriedade do pecado persistente, sustentando, em vez disso, que a paciência e a justiça de Deus são expressões coerentes do mesmo caráter santo revelado em Êx 34:6-7."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Himno del Dios Celoso y Consolador",
+        "en": "The Hymn of the Jealous and Comforting God",
+        "pt": "O Hino do Deus Zeloso e Consolador"
+      },
+      "descripcion": {
+        "es": "El libro abre con la superscripción «carga contra Nínive, libro de la visión de Nahúm de Elcos» (Nah 1:1), seguida de un himno semi-acróstico sobre el carácter de Dios: «El SEÑOR es Dios celoso y vengador... lento para la ira y grande en poder, y no tendrá por inocente al culpable» (Nah 1:2-3), citando casi textualmente Ex 34:6-7. El poder divino se despliega sobre la naturaleza —reprende el mar, marchita Basán, el Carmelo y el Líbano, y hace temblar los montes (Nah 1:4-5)— antes de que el himno se detenga en un remanso de ternura pastoral: «Bueno es el SEÑOR, fortaleza en el día de la angustia; y conoce a los que en Él se refugian» (Nah 1:7). El capítulo pronuncia el decreto irrevocable contra Nínive —«no quedará ya nombre de tu descendencia» (Nah 1:14)— y cierra con la célebre imagen del mensajero de buenas nuevas que anuncia la paz a Judá (Nah 1:15).",
+        "en": "The book opens with the superscription \"an oracle concerning Nineveh, the book of the vision of Nahum of Elkosh\" (Nah 1:1), followed by a semi-acrostic hymn on God's character: \"The LORD is a jealous and avenging God... slow to anger and great in power, and the LORD will by no means clear the guilty\" (Nah 1:2-3), quoting Exod 34:6-7 almost verbatim. Divine power unfolds over nature — he rebukes the sea, withers Bashan, Carmel, and Lebanon, and makes the mountains quake (Nah 1:4-5) — before the hymn pauses in a pocket of pastoral tenderness: \"The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him\" (Nah 1:7). The chapter pronounces the irrevocable decree against Nineveh — \"no more shall your name be perpetuated\" (Nah 1:14) — and closes with the celebrated image of the messenger of good news announcing peace to Judah (Nah 1:15).",
+        "pt": "O livro abre com a superscrição «revelação acerca de Nínive; livro da visão de Naum, o elcosita» (Na 1:1), seguida de um hino semi-acróstico sobre o caráter de Deus: «O SENHOR é Deus zeloso e vingador... tardio em irar-se, mas grande em força, e ao culpado não terá por inocente» (Na 1:2-3), citando quase textualmente Êx 34:6-7. O poder divino se desdobra sobre a natureza — repreende o mar, faz murchar Basã, o Carmelo e o Líbano, e faz tremer os montes (Na 1:4-5) — antes de o hino se deter num remanso de ternura pastoral: «Bom é o SENHOR para fortaleza no dia da angústia; e conhece os que confiam nele» (Na 1:7). O capítulo pronuncia o decreto irrevogável contra Nínive — «não haverá mais quem perpetue o teu nome» (Na 1:14) — e se encerra com a célebre imagem do mensageiro de boas-novas que anuncia a paz a Judá (Na 1:15)."
+      },
+      "eventoClave": {
+        "es": "El himno teofánico que revela el carácter de Dios como celoso y vengador pero bueno para con los que confían en él, culminando en el decreto irrevocable contra Nínive (Nah 1:2-3,7,14).",
+        "en": "The theophanic hymn revealing God's character as jealous and avenging yet good to those who trust him, culminating in the irrevocable decree against Nineveh (Nah 1:2-3,7,14).",
+        "pt": "O hino teofânico que revela o caráter de Deus como zeloso e vingador, mas bom para com os que nele confiam, culminando no decreto irrevogável contra Nínive (Na 1:2-3,7,14)."
+      },
+      "versiculoClave": "Nah 1:7",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ex 34:6",
+          "tipo": "cita",
+          "nota": {
+            "es": "Nahúm 1:3 cita casi textualmente la autorrevelación de Dios a Moisés en Ex 34:6-7, la misma fórmula que Jonás invoca con énfasis opuesto en Jon 4:2.",
+            "en": "Nahum 1:3 quotes almost verbatim God's self-revelation to Moses in Exod 34:6-7, the same formula Jonah invokes with the opposite emphasis in Jonah 4:2.",
+            "pt": "Naum 1:3 cita quase textualmente a autorrevelação de Deus a Moisés em Êx 34:6-7, a mesma fórmula que Jonas invoca com ênfase oposta em Jn 4:2."
+          }
+        },
+        {
+          "ref": "Ro 10:15",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita directamente Nah 1:15 al describir la belleza de la proclamación del evangelio: «¡Cuán hermosos son los pies de los que anuncian buenas nuevas!»",
+            "en": "Paul directly quotes Nah 1:15 when describing the beauty of gospel proclamation: \"How beautiful are the feet of those who preach the good news!\"",
+            "pt": "Paulo cita diretamente Na 1:15 ao descrever a beleza da proclamação do evangelho: «Quão formosos são os pés dos que anunciam a paz!»"
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "El himno revela a Dios como «celoso y vengador» que «no tendrá por inocente al culpable» (Nah 1:2-3), estableciendo el juicio inminente sobre Nínive como el tema que domina todo el libro desde su primer versículo.",
+            "en": "The hymn reveals God as \"jealous and avenging\" who \"will by no means clear the guilty\" (Nah 1:2-3), establishing the imminent judgment on Nineveh as the theme dominating the entire book from its first verse.",
+            "pt": "O hino revela Deus como «zeloso e vingador» que «não terá por inocente o culpado» (Na 1:2-3), estabelecendo o juízo iminente sobre Nínive como o tema que domina todo o livro desde seu primeiro versículo."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "En medio del himno de juicio, Dios se revela como «bueno» y «fortaleza en el día de la angustia» que «conoce a los que en Él se refugian» (Nah 1:7), su fidelidad de pacto hacia los que confían en él.",
+              "en": "Amid the judgment hymn, God reveals himself as \"good\" and \"a stronghold in the day of trouble\" who \"knows those who take refuge in him\" (Nah 1:7), his covenant faithfulness toward those who trust him.",
+              "pt": "Em meio ao hino de julgamento, Deus se revela como «bom» e «fortaleza no dia da angústia» que «conhece os que confiam nele» (Na 1:7), sua fidelidade de pacto para com os que nele confiam."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "El capítulo cierra con la promesa de que el mensajero de buenas nuevas anunciará la paz a Judá y que «el malvado no volverá más a pasar por ti» (Nah 1:15), una promesa de liberación que se cumplirá en 612 a.C.",
+              "en": "The chapter closes with the promise that the messenger of good news will announce peace to Judah and that \"never again shall the worthless pass through you\" (Nah 1:15), a promise of deliverance to be fulfilled in 612 BC.",
+              "pt": "O capítulo se encerra com a promessa de que o mensageiro de boas-novas anunciará a paz a Judá e que «o ímpio não tornará mais a passar por ti» (Na 1:15), promessa de libertação que se cumprirá em 612 a.C."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "El Asalto Final contra Nínive",
+        "en": "The Final Assault on Nineveh",
+        "pt": "O Assalto Final contra Nínive"
+      },
+      "descripcion": {
+        "es": "El capítulo despliega en verso poético de extraordinaria intensidad cinematográfica el asalto militar final contra Nínive: «el que destroza sube contra ti... guarda la fortaleza» (Nah 2:1), carros que se lanzan enfurecidos por las calles y relumbran como antorchas (Nah 2:3-4), y la orden de abrir las compuertas mientras el palacio se derrumba (Nah 2:6). La ciudad, «desde la antigüedad como estanque de aguas», ve huir a sus habitantes sin que nadie los detenga (Nah 2:8), mientras es saqueada de toda su plata, oro y tesoro codiciable (Nah 2:9). El capítulo culmina derribando la metáfora del león que la propia Asiria usaba orgullosamente para representar su poder depredador: «¿dónde está la guarida de los leones?» (Nah 2:11), pues el SEÑOR mismo declara: «heme aquí contra ti, dice el SEÑOR de los ejércitos» (Nah 2:13).",
+        "en": "The chapter unfolds in poetic verse of extraordinary cinematic intensity the final military assault on Nineveh: \"he who scatters has come up against you... man the fortress\" (Nah 2:1), chariots raging through the streets and flashing like torches (Nah 2:3-4), and the order to open the gates as the palace collapses (Nah 2:6). The city, \"like a pool of water from of old,\" watches its inhabitants flee with no one to stop them (Nah 2:8), while it is plundered of all its silver, gold, and desirable treasure (Nah 2:9). The chapter culminates by dismantling the lion metaphor Assyria itself proudly used to represent its predatory power: \"where is the lions' den?\" (Nah 2:11), for the LORD himself declares: \"Behold, I am against you, declares the LORD of hosts\" (Nah 2:13).",
+        "pt": "O capítulo desdobra em verso poético de extraordinária intensidade cinematográfica o assalto militar final contra Nínive: «diante do teu rosto sobe o destruidor... guarda a fortaleza» (Na 2:1), carros que se enfurecem pelas ruas e reluzem como tochas (Na 2:3-4), e a ordem de abrir as comportas enquanto o palácio se derrete (Na 2:6). A cidade, «desde os dias antigos como um tanque de águas», vê seus habitantes fugirem sem que ninguém os detenha (Na 2:8), enquanto é saqueada de toda a sua prata, ouro e tesouro cobiçável (Na 2:9). O capítulo culmina derrubando a metáfora do leão que a própria Assíria orgulhosamente usava para representar seu poder predatório: «onde está a morada dos leões?» (Na 2:11), pois o próprio SENHOR declara: «eis que eu estou contra ti, diz o SENHOR dos Exércitos» (Na 2:13)."
+      },
+      "eventoClave": {
+        "es": "La declaración divina directa «heme aquí contra ti, dice el SEÑOR de los ejércitos» (Nah 2:13), que derriba la metáfora del león con que Asiria representaba su poder imperial.",
+        "en": "The direct divine declaration \"Behold, I am against you, declares the LORD of hosts\" (Nah 2:13), which dismantles the lion metaphor with which Assyria represented its imperial power.",
+        "pt": "A declaração divina direta «eis que eu estou contra ti, diz o SENHOR dos Exércitos» (Na 2:13), que derruba a metáfora do leão com que a Assíria representava seu poder imperial."
+      },
+      "versiculoClave": "Nah 2:8",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "El asalto militar descrito con detalle vívido —carros, jinetes, saqueo total (Nah 2:1-9)— ejecuta en la historia el decreto de juicio ya anunciado, mostrando la ira divina tomando forma concreta y verificable.",
+            "en": "The vividly described military assault — chariots, horsemen, total plunder (Nah 2:1-9) — historically executes the already-announced decree of judgment, showing divine wrath taking concrete, verifiable form.",
+            "pt": "O assalto militar descrito com detalhe vívido — carros, cavaleiros, saque total (Na 2:1-9) — executa na história o decreto de julgamento já anunciado, mostrando a ira divina tomando forma concreta e verificável."
+          }
+        },
+        "secundarios": [
+          {
+            "Reino de Dios": {
+              "es": "La declaración «heme aquí contra ti, dice el SEÑOR de los ejércitos» (Nah 2:13) afirma la autoridad soberana de Dios incluso sobre el imperio más poderoso del mundo antiguo, subordinándolo a su gobierno.",
+              "en": "The declaration \"Behold, I am against you, declares the LORD of hosts\" (Nah 2:13) affirms God's sovereign authority even over the most powerful empire of the ancient world, subordinating it to his rule.",
+              "pt": "A declaração «eis que eu estou contra ti, diz o SENHOR dos Exércitos» (Na 2:13) afirma a autoridade soberana de Deus até sobre o império mais poderoso do mundo antigo, subordinando-o ao seu governo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "¡Ay de la Ciudad Sanguinaria!",
+        "en": "Woe to the Bloody City",
+        "pt": "Ai da Cidade Sanguinária!"
+      },
+      "descripcion": {
+        "es": "El capítulo final abre con un oráculo de ¡ay!: «¡Ay de la ciudad sanguinaria! Toda llena de mentira y de rapiña» (Nah 3:1), y describe a Nínive como una prostituta hechicera cuya desnudez será expuesta como castigo público (Nah 3:4-5). Para demostrar que ninguna fortaleza escapa del juicio de Dios, Nahúm invoca el precedente histórico de Tebas (No-amón), la capital egipcia protegida por el Nilo que, sin embargo, cayó ante Asiria en 663 a.C. (Nah 3:8-10) —irónico, pues la misma Asiria que destruyó a Tebas ahora enfrenta idéntico destino—. El libro entero culmina dirigiéndose directamente al rey de Asiria: «tus pastores dormitaron... tu pueblo se derramó por los montes, y no hay quien lo junte» (Nah 3:18), sentenciando que «no hay medicina para tu quebradura» y que todas las naciones que sufrieron su maldad se alegrarán de su caída (Nah 3:19).",
+        "en": "The final chapter opens with a woe oracle: \"Woe to the bloody city, all full of lies and plunder\" (Nah 3:1), and describes Nineveh as a sorceress-harlot whose nakedness will be exposed as public punishment (Nah 3:4-5). To demonstrate that no fortress escapes God's judgment, Nahum invokes the historical precedent of Thebes (No-amon), the Egyptian capital protected by the Nile that nevertheless fell to Assyria in 663 BC (Nah 3:8-10) — ironic, since the same Assyria that destroyed Thebes now faces an identical fate. The entire book culminates by directly addressing the king of Assyria: \"your shepherds are asleep... your people are scattered on the mountains with none to gather them\" (Nah 3:18), sentencing that \"there is no easing your hurt\" and that all the nations who suffered its evil will rejoice at its fall (Nah 3:19).",
+        "pt": "O capítulo final abre com um oráculo de ai: «ai da cidade sanguinária! Ela está toda cheia de mentiras e de rapina» (Na 3:1), e descreve Nínive como uma meretriz feiticeira cuja nudez será exposta como castigo público (Na 3:4-5). Para demonstrar que nenhuma fortaleza escapa do juízo de Deus, Naum invoca o precedente histórico de Tebas (Nô-Amom), a capital egípcia protegida pelo Nilo que, no entanto, caiu diante da Assíria em 663 a.C. (Na 3:8-10) — irônico, pois a mesma Assíria que destruiu Tebas agora enfrenta destino idêntico. O livro inteiro culmina dirigindo-se diretamente ao rei da Assíria: «os teus pastores dormitaram... o teu povo se espalhou pelos montes, e não há quem os ajunte» (Na 3:18), sentenciando que «não há cura para a tua ferida» e que todas as nações que sofreram sua maldade se alegrarão com sua queda (Na 3:19)."
+      },
+      "eventoClave": {
+        "es": "El precedente histórico de la caída de Tebas (No-amón) invocado como prueba de que ninguna fortaleza, por protegida que esté, escapa del juicio de Dios (Nah 3:8-10), culminando en la sentencia final e incurable contra Nínive (Nah 3:19).",
+        "en": "The historical precedent of Thebes's fall (No-amon) invoked as proof that no fortress, however protected, escapes God's judgment (Nah 3:8-10), culminating in the final, incurable sentence against Nineveh (Nah 3:19).",
+        "pt": "O precedente histórico da queda de Tebas (Nô-Amom) invocado como prova de que nenhuma fortaleza, por mais protegida que esteja, escapa do juízo de Deus (Na 3:8-10), culminando na sentença final e incurável contra Nínive (Na 3:19)."
+      },
+      "versiculoClave": "Nah 3:19",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 47:1",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Isaías 47 contiene un oráculo de escarnio estructuralmente similar contra Babilonia, otra potencia imperial cuya caída se anuncia con el mismo patrón retórico de humillación pública.",
+            "en": "Isaiah 47 contains a structurally similar taunt oracle against Babylon, another imperial power whose fall is announced with the same rhetorical pattern of public humiliation.",
+            "pt": "Isaías 47 contém um oráculo de escárnio estruturalmente semelhante contra a Babilônia, outra potência imperial cuja queda é anunciada com o mesmo padrão retórico de humilhação pública."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "El oráculo de ¡ay! y la sentencia final de que «no hay medicina para tu quebradura» (Nah 3:1,19) llevan a su clímax el juicio anunciado desde el primer capítulo, ahora sellado como definitivo e irremediable.",
+            "en": "The woe oracle and the final sentence that \"there is no easing your hurt\" (Nah 3:1,19) bring to their climax the judgment announced since the first chapter, now sealed as definitive and irremediable.",
+            "pt": "O oráculo de ai e a sentença final de que «não há cura para a tua ferida» (Na 3:1,19) levam ao clímax o juízo anunciado desde o primeiro capítulo, agora selado como definitivo e irremediável."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "Nínive es acusada de ser una prostituta dedicada a las «hechicerías» que esclaviza a las naciones con sus intrigas espirituales y comerciales (Nah 3:4), vinculando su corrupción política con la idolatría religiosa.",
+              "en": "Nineveh is accused of being a harlot devoted to \"sorceries\" who enslaves nations through her spiritual and commercial intrigues (Nah 3:4), linking her political corruption with religious idolatry.",
+              "pt": "Nínive é acusada de ser uma meretriz dedicada às «feitiçarias» que escraviza as nações com suas intrigas espirituais e comerciais (Na 3:4), vinculando sua corrupção política com a idolatria religiosa."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos y reformados de renombre internacional.",
+          "en": "The ESV Study Bible is an editorial project of Crossway directed by Lane T. Dennis, with Wayne Grudem as general theological editor, bringing together more than 90 internationally recognized evangelical and Reformed scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos e reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas de estudio verso por verso con ensayos temáticos, mapas y cronologías, todo dentro de un marco teológico evangélico reformado que enfatiza la inerrancia bíblica y la lectura redentora-histórica del canon.",
+          "en": "It combines verse-by-verse study notes with thematic essays, maps, and chronologies, all within an evangelical Reformed theological framework emphasizing biblical inerrancy and a redemptive-historical reading of the canon.",
+          "pt": "Combina notas de estudo verso por verso com ensaios temáticos, mapas e cronologias, tudo dentro de um quadro teológico evangélico reformado que enfatiza a inerrância bíblica e a leitura redentora-histórica do cânon."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio, la datación entre 663 y 612 a.C., y la defensa de la historicidad predictiva de la profecía utilizados para establecer el contexto de Nahúm en este registro.",
+          "en": "It provided the introductory framework, the dating between 663 and 612 BC, and the defense of the prophecy's predictive historicity used to establish Nahum's context in this record.",
+          "pt": "Forneceu o quadro introdutório, a datação entre 663 e 612 a.C., e a defesa da historicidade preditiva da profecia utilizados para estabelecer o contexto de Naum neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas teológicas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theological notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Notas teológicas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la santidad de Dios y la soberanía divina.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of 20th-century Reformed evangelicalism, known for his defense of God's holiness and divine sovereignty.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da santidade de Deus e da soberania divina."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio doctrinalmente precisas, ancladas en la Confesión de Westminster y los estándares confesionales reformados históricos.",
+          "en": "He edited a team of Reformed scholars to produce doctrinally precise study notes, anchored in the Westminster Confession and the historic Reformed confessional standards.",
+          "pt": "Editou uma equipe de estudiosos reformados para produzir notas de estudo doutrinariamente precisas, ancoradas na Confissão de Westminster e nos padrões confessionais reformados históricos."
+        },
+        "aportacion": {
+          "es": "Ofreció las notas teológicas confesionales utilizadas para conectar el himno teofánico de Nah 1 y el juicio final sobre Nínive con las doctrinas de los atributos de Dios, la providencia y el juicio final articuladas en la Confesión de Westminster.",
+          "en": "It provided the confessional theological notes used to connect the theophanic hymn of Nah 1 and the final judgment on Nineveh with the doctrines of God's attributes, providence, and final judgment articulated in the Westminster Confession.",
+          "pt": "Ofereceu as notas teológicas confessionais utilizadas para conectar o hino teofânico de Na 1 e o juízo final sobre Nínive com as doutrinas dos atributos de Deus, a providência e o juízo final articuladas na Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Terminología teológica",
+          "Citas bíblicas NBLA"
+        ],
+        "en": [
+          "Theological terminology",
+          "NBLA Scripture quotations"
+        ],
+        "pt": [
+          "Terminologia teológica",
+          "Citações bíblicas NBLA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries para llevar la erudición reformada al mundo hispanohablante.",
+          "en": "A Spanish adaptation of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries to bring Reformed scholarship to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com a Ligonier Ministries para levar a erudição reformada ao mundo hispanofalante."
+        },
+        "metodo": {
+          "es": "Traduce y adapta las notas teológicas de la Reformation Study Bible al contexto y la versión NBLA, manteniendo el mismo rigor confesional reformado del original en inglés.",
+          "en": "It translates and adapts the theological notes of the Reformation Study Bible to the context and the NBLA version, maintaining the same Reformed confessional rigor of the English original.",
+          "pt": "Traduz e adapta as notas teológicas da Reformation Study Bible ao contexto e à versão NBLA, mantendo o mesmo rigor confessional reformado do original em inglês."
+        },
+        "aportacion": {
+          "es": "Sirvió como referencia primaria en español para la terminología teológica y las citas bíblicas en NBLA utilizadas a lo largo de este registro.",
+          "en": "It served as the primary Spanish-language reference for theological terminology and the NBLA Scripture quotations used throughout this record.",
+          "pt": "Serviu como referência primária em espanhol para a terminologia teológica e as citações bíblicas em NBLA utilizadas ao longo deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Teología Propia",
+          "Escatología"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Theology Proper",
+          "Eschatology"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Teologia Própria",
+          "Escatologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático evangélico, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y coeditor general de la ESV Study Bible.",
+          "en": "Wayne Grudem is an evangelical systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo sistemático evangélico, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e coeditor geral da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, fundamentando cada afirmación doctrinal directamente en el texto bíblico con amplias referencias cruzadas.",
+          "en": "He organizes Christian doctrine by classic systematic categories, grounding each doctrinal affirmation directly in the biblical text with extensive cross-references.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, fundamentando cada afirmação doutrinária diretamente no texto bíblico com amplas referências cruzadas."
+        },
+        "aportacion": {
+          "es": "Proporcionó las categorías de teología sistemática —teología propia, providencia, escatología, soteriología— utilizadas para estructurar la sección teológica de este registro sobre Nahúm.",
+          "en": "It provided the systematic theology categories — theology proper, providence, eschatology, soteriology — used to structure the theological section of this record on Nahum.",
+          "pt": "Forneceu as categorias de teologia sistemática — teologia própria, providência, escatologia, soteriologia — utilizadas para estruturar a seção teológica deste registro sobre Naum."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/systematic-theology"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas históricas del pacto, enfatizando la unidad orgánica de la Escritura y su culminación cristológica.",
+          "en": "He traces the progressive development of divine revelation through the historical epochs of the covenant, emphasizing the organic unity of Scripture and its christological culmination.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas históricas do pacto, enfatizando a unidade orgânica da Escritura e sua culminação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y la lectura del mensajero de buenas nuevas de Nah 1:15 como anticipo de la proclamación del evangelio, citado por Pablo en Ro 10:15, utilizado en este registro.",
+          "en": "It grounded the christological focus and the reading of the messenger of good news in Nah 1:15 as a foretaste of gospel proclamation, cited by Paul in Rom 10:15, used in this record.",
+          "pt": "Fundamentou o enfoque cristológico e a leitura do mensageiro de boas-novas de Na 1:15 como antegozo da proclamação do evangelho, citado por Paulo em Rm 10:15, utilizado neste registro."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biblical-theology-doctrine/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Cercano Oriente Antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Ancient Near East"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo del Cercano Oriente Antiguo, con nombramientos en Wheaton College, Missouri State University y la Universidad de Kansas respectivamente.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the Ancient Near Eastern background, holding appointments at Wheaton College, Missouri State University, and the University of Kansas respectively.",
+          "pt": "Walton, Matthews e Chavalas são estudiosos veterotestamentários especializados no pano de fundo do Antigo Oriente Próximo, com nomeações em Wheaton College, Missouri State University e na University of Kansas respectivamente."
+        },
+        "metodo": {
+          "es": "Comenta el texto bíblico versículo por versículo iluminando su trasfondo cultural, geográfico y arqueológico del Cercano Oriente Antiguo, sin comprometer la autoridad del texto revelado.",
+          "en": "It comments on the biblical text verse by verse, illuminating its Ancient Near Eastern cultural, geographic, and archaeological background, without compromising the authority of the revealed text.",
+          "pt": "Comenta o texto bíblico versículo por versículo, iluminando seu pano de fundo cultural, geográfico e arqueológico do Antigo Oriente Próximo, sem comprometer a autoridade do texto revelado."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo geográfico y militar sobre el asedio de ciudades antiguas y la caída de Tebas utilizado en la sección de contexto histórico de este registro.",
+          "en": "It provided the geographic and military background on ancient city sieges and Thebes's fall used in the historical context section of this record.",
+          "pt": "Forneceu o pano de fundo geográfico e militar sobre o cerco de cidades antigas e a queda de Tebas utilizado na seção de contexto histórico deste registro."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (Walton, 2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Excavaciones de Nínive y Tebas"
+        ],
+        "en": [
+          "Archaeology",
+          "Excavations of Nineveh and Thebes"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Escavações de Nínive e Tebas"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida por un equipo de arqueólogos y eruditos bíblicos evangélicos bajo Zondervan, esta obra reúne hallazgos arqueológicos relevantes para la interpretación del texto bíblico en su contexto histórico original.",
+          "en": "Produced by a team of archaeologists and evangelical biblical scholars under Zondervan, this work brings together archaeological findings relevant to interpreting the biblical text in its original historical context.",
+          "pt": "Produzida por uma equipe de arqueólogos e estudiosos bíblicos evangélicos sob a Zondervan, esta obra reúne achados arqueológicos relevantes para a interpretação do texto bíblico em seu contexto histórico original."
+        },
+        "metodo": {
+          "es": "Inserta notas arqueológicas y artículos temáticos junto al texto bíblico, correlacionando descubrimientos materiales específicos con pasajes y personajes bíblicos concretos.",
+          "en": "It inserts archaeological notes and thematic articles alongside the biblical text, correlating specific material discoveries with concrete biblical passages and figures.",
+          "pt": "Insere notas arqueológicas e artigos temáticos junto ao texto bíblico, correlacionando descobertas materiais específicas com passagens e personagens bíblicos concretos."
+        },
+        "aportacion": {
+          "es": "Aportó los datos sobre las excavaciones de Nínive y la pérdida histórica de su ubicación hasta el siglo XIX, confirmando la naturaleza total de la destrucción anunciada por Nahúm.",
+          "en": "It provided the data on the excavations of Nineveh and the historical loss of its location until the 19th century, confirming the total nature of the destruction Nahum announced.",
+          "pt": "Contribuiu com os dados sobre as escavações de Nínive e a perda histórica de sua localização até o século XIX, confirmando a natureza total da destruição anunciada por Naum."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 2000,
+      "editorial": "Westminster John Knox Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología asiria del siglo VII a.C.",
+          "Caída de Nínive"
+        ],
+        "en": [
+          "7th-century BC Assyrian chronology",
+          "Fall of Nineveh"
+        ],
+        "pt": [
+          "Cronologia assíria do século VII a.C.",
+          "Queda de Nínive"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908-1995) fue profesor de Antiguo Testamento en Union Theological Seminary en Virginia y una figura decisiva en la reconstrucción histórica de Israel dentro de la erudición bíblica del siglo XX.",
+          "en": "John Bright (1908-1995) was professor of Old Testament at Union Theological Seminary in Virginia and a decisive figure in the historical reconstruction of Israel within 20th-century biblical scholarship.",
+          "pt": "John Bright (1908-1995) foi professor de Antigo Testamento no Union Theological Seminary, na Virgínia, e uma figura decisiva na reconstrução histórica de Israel dentro da erudição bíblica do século XX."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el testimonio bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, dentro de un marco históricamente riguroso.",
+          "en": "He reconstructs the history of Israel by integrating the biblical testimony with archaeological evidence and extrabiblical Ancient Near Eastern records, within a historically rigorous framework.",
+          "pt": "Reconstrói a história de Israel integrando o testemunho bíblico com a evidência arqueológica e os registros extrabíblicos do Antigo Oriente Próximo, dentro de um quadro historicamente rigoroso."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico del declive asirio en el siglo VII a.C. y la caída de Nínive en 612 a.C. utilizado para fechar y contextualizar Nahúm en este registro.",
+          "en": "It provided the chronological framework of Assyria's 7th-century BC decline and Nineveh's fall in 612 BC used to date and contextualize Nahum in this record.",
+          "pt": "Forneceu o quadro cronológico do declínio assírio no século VII a.C. e a queda de Nínive em 612 a.C. utilizado para datar e contextualizar Naum neste registro."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.55,
+    "camposMarcados": [
+      {
+        "campo": "año / autor.nota",
+        "razon": "Se sitúa la composición entre 663 a.C. (caída de Tebas, mencionada como pasada en Nah 3:8-10) y 612 a.C. (caída de Nínive, anunciada como inminente pero futura), siguiendo la posición conservadora/reformada de profecía predictiva genuina.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se rechaza la lectura crítica de que el libro es 'vaticinium ex eventu' (escrito después de la caída de Nínive), señalando que el texto en ningún momento describe la caída como ya consumada, y se afirma la profecía predictiva genuina consistente con la posición reformada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "personajes[].Nahúm.biografiaHistorica",
+        "razon": "No existe evidencia externa que permita ubicar la aldea de Elcos ni identificar a Nahúm con ninguna otra figura conocida; nivelEvidencia se marcó 'especulativo' por definición de la categoría.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "personajes[].El rey de Asiria.biografiaHistorica",
+        "razon": "El libro no nombra al rey dirigido en Nah 3:18-19; los candidatos históricos (Senaquerib, Asurbanipal, Sin-sar-iskun) no pueden confirmarse con el texto disponible, por lo que nivelEvidencia se marcó 'especulativo'.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "Los 3 capítulos del libro se mapearon 1:1 a 3 unidades temáticas, ya que cada capítulo constituye un movimiento retórico coherente y autocontenido (himno teofánico y decreto; asalto militar; oráculo de ¡ay! final).",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-06T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-06T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

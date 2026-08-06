@@ -3725,12 +3725,36 @@
     "id": "ninive-ciudad",
     "color": "#8B2A2A",
     "init": "ני",
-    "xCh": 3,
+    "xCh": { "Jon": 3, "Nah": 3 },
     "side": "above",
     "badge": {
-      "es": "CIUDAD PERDONADA",
-      "en": "CITY SPARED",
-      "pt": "CIDADE POUPADA"
+      "es": "LA GRAN CIUDAD",
+      "en": "THE GREAT CITY",
+      "pt": "A GRANDE CIDADE"
+    }
+  },
+  "Nahúm": {
+    "id": "nahum-profeta",
+    "color": "#3A6B4A",
+    "init": "נח",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA DEL CONSUELO",
+      "en": "PROPHET OF COMFORT",
+      "pt": "PROFETA DO CONSOLO"
+    }
+  },
+  "El rey de Asiria": {
+    "id": "rey-asiria",
+    "color": "#5A3A6B",
+    "init": "מא",
+    "xCh": 3,
+    "side": "below",
+    "badge": {
+      "es": "REY SIN REMEDIO",
+      "en": "KING WITHOUT REMEDY",
+      "pt": "REI SEM REMÉDIO"
     }
   },
   "Miqueas": {
