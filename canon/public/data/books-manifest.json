@@ -1337,7 +1337,8 @@
       "ordenCanon": 35,
       "capitulosTotal": 3,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "habacuc.json",
       "razon": {
         "es": "Un diálogo entre el profeta y Dios sobre el uso de Babilonia para juzgar a Judá, resuelto en 'el justo por su fe vivirá' (Hab 2:4), citado tres veces en el NT.",
         "en": "A dialogue between the prophet and God about using Babylon to judge Judah, resolved in 'the righteous shall live by his faith' (Hab 2:4), quoted three times in the NT.",

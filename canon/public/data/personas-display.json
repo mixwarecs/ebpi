@@ -3792,5 +3792,41 @@
       "en": "SHEPHERD OF BETHLEHEM",
       "pt": "PASTOR DE BELÉM"
     }
+  },
+  "Habacuc": {
+    "id": "habacuc-profeta",
+    "color": "#4A5A8B",
+    "init": "חב",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA EN DIÁLOGO",
+      "en": "PROPHET IN DIALOGUE",
+      "pt": "PROFETA EM DIÁLOGO"
+    }
+  },
+  "Los caldeos (Babilonios)": {
+    "id": "caldeos-habacuc",
+    "color": "#8B4A1B",
+    "init": "כש",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "INSTRUMENTO Y BLANCO",
+      "en": "INSTRUMENT AND TARGET",
+      "pt": "INSTRUMENTO E ALVO"
+    }
+  },
+  "El justo": {
+    "id": "el-justo-habacuc",
+    "color": "#6B8B4A",
+    "init": "צד",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "VIVE POR FE",
+      "en": "LIVES BY FAITH",
+      "pt": "VIVE PELA FÉ"
+    }
   }
 }

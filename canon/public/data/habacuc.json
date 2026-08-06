@@ -1,0 +1,1542 @@
+{
+  "id": 35,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Habacuc",
+    "en": "Habakkuk",
+    "pt": "Habacuque"
+  },
+  "tituloOriginal": "חֲבַקּוּק",
+  "transliteracion": "Chavaqqûq",
+  "significado": {
+    "es": "Abrazo / El que abraza",
+    "en": "Embrace / He who embraces",
+    "pt": "Abraço / O que abraça"
+  },
+  "resumenGeneral": {
+    "es": "Habacuc se abre no con un oráculo dirigido al pueblo, sino con la queja directa del profeta a Dios: «¿Hasta cuándo, oh SEÑOR, clamaré, y no oirás?» ante la violencia impune dentro de Judá (Hab 1:2-4). La respuesta divina resulta más perturbadora que consoladora: Dios mismo levantará a los caldeos, una nación «terrible y espantosa», como instrumento de juicio (Hab 1:5-11), lo cual provoca la segunda y más aguda queja del profeta: ¿cómo puede un Dios santo usar a una nación más impía que Judá para castigarla? (Hab 1:12-17). El capítulo 2 gira sobre el eje teológico del libro: «el justo por su fe vivirá» (Hab 2:4), seguido de cinco oráculos de ¡ay! contra el orgullo opresor que culminan en el silencio reverente de toda la tierra ante el SEÑOR en su santo templo (Hab 2:20). El libro cierra con un salmo teofánico de asombrosa fe: aun ante el colapso agrícola total, el profeta declara «con todo, yo me alegraré en el SEÑOR» (Hab 3:17-19).",
+    "en": "Habakkuk opens not with an oracle addressed to the people, but with the prophet's direct complaint to God: \"O LORD, how long shall I cry for help, and you will not hear?\" over unpunished violence within Judah (Hab 1:2-4). The divine answer proves more unsettling than comforting: God himself will raise up the Chaldeans, a \"dreaded and fearsome\" nation, as an instrument of judgment (Hab 1:5-11), provoking the prophet's second and sharper complaint: how can a holy God use a nation more wicked than Judah to punish it? (Hab 1:12-17). Chapter 2 turns on the book's theological axis: \"the righteous shall live by his faith\" (Hab 2:4), followed by five woe oracles against the oppressor's pride that culminate in reverent silence from all the earth before the LORD in his holy temple (Hab 2:20). The book closes with a theophanic psalm of astonishing faith: even facing total agricultural collapse, the prophet declares \"yet I will rejoice in the LORD\" (Hab 3:17-19).",
+    "pt": "Habacuque abre não com um oráculo dirigido ao povo, mas com a queixa direta do profeta a Deus: «Até quando, ó SENHOR, clamarei eu, e tu não ouvirás?» diante da violência impune dentro de Judá (Hc 1:2-4). A resposta divina se revela mais perturbadora do que consoladora: o próprio Deus levantará os caldeus, nação «terrível e espantosa», como instrumento de julgamento (Hc 1:5-11), o que provoca a segunda e mais aguda queixa do profeta: como pode um Deus santo usar uma nação mais ímpia do que Judá para castigá-la? (Hc 1:12-17). O capítulo 2 gira sobre o eixo teológico do livro: «o justo pela sua fé viverá» (Hc 2:4), seguido de cinco oráculos de ai contra o orgulho opressor que culminam no silêncio reverente de toda a terra diante do SENHOR em seu santo templo (Hc 2:20). O livro se encerra com um salmo teofânico de assombrosa fé: mesmo diante do colapso agrícola total, o profeta declara «contudo, eu me alegrarei no SENHOR» (Hc 3:17-19)."
+  },
+  "capitulosTotal": 3,
+  "autor": {
+    "nombre": {
+      "es": "Habacuc",
+      "en": "Habakkuk",
+      "pt": "Habacuque"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El libro se autoatribuye a «Habacuc el profeta» (Hab 1:1; 3:1), un título explícito poco común entre los profetas menores. Fuera de esta doble mención, no existe ningún otro dato bíblico sobre su persona; la tradición judía tardía y extracanónica (como el relato apócrifo de Bel y el Dragón) lo asocia con la tribu de Leví debido a las notaciones musicales litúrgicas del capítulo 3, aunque esto no puede confirmarse.",
+      "en": "The book self-attributes to \"Habakkuk the prophet\" (Hab 1:1; 3:1), an explicit title uncommon among the Minor Prophets. Beyond this double mention, there is no other biblical data about his person; late, extracanonical Jewish tradition (such as the apocryphal tale of Bel and the Dragon) associates him with the tribe of Levi due to the liturgical musical notations in chapter 3, though this cannot be confirmed.",
+      "pt": "O livro se autoatribui a «Habacuque, o profeta» (Hc 1:1; 3:1), título explícito incomum entre os profetas menores. Fora dessa dupla menção, não existe nenhum outro dado bíblico sobre sua pessoa; a tradição judaica tardia e extracanônica (como o relato apócrifo de Bel e o Dragão) o associa à tribo de Levi devido às notações musicais litúrgicas do capítulo 3, embora isso não possa ser confirmado."
+    }
+  },
+  "año": {
+    "desde": -609,
+    "hasta": -605,
+    "display": {
+      "es": "Fecha de escritura: c. 609-605 a.C., durante el reinado de Joacim, antes del ascenso babilónico tras la batalla de Carquemis",
+      "en": "Date of writing: c. 609-605 BC, during the reign of Jehoiakim, before the Babylonian ascendancy following the Battle of Carchemish",
+      "pt": "Data de escrita: c. 609-605 a.C., durante o reinado de Jeoaquim, antes da ascensão babilônica após a batalha de Carquemis"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Judá, posiblemente Jerusalén, durante el reinado de Joacim",
+    "en": "Judah, possibly Jerusalem, during the reign of Jehoiakim",
+    "pt": "Judá, possivelmente Jerusalém, durante o reinado de Jeoaquim"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron Age II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Judá / Jerusalén",
+          "en": "Judah / Jerusalem",
+          "pt": "Judá / Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "El reino del sur, con capital en la actual Jerusalén, Israel",
+          "en": "The southern kingdom, with its capital in modern Jerusalem, Israel",
+          "pt": "O reino do sul, com capital na atual Jerusalém, Israel"
+        },
+        "significancia": {
+          "es": "El objeto de la primera queja de Habacuc por la violencia y la injusticia impunes dentro de sus propias fronteras (Hab 1:2-4)",
+          "en": "The object of Habakkuk's first complaint over unpunished violence and injustice within its own borders (Hab 1:2-4)",
+          "pt": "O objeto da primeira queixa de Habacuque pela violência e injustiça impunes dentro de suas próprias fronteiras (Hc 1:2-4)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Caldea (Babilonia)",
+          "en": "Chaldea (Babylon)",
+          "pt": "Caldeia (Babilônia)"
+        },
+        "identificacionModerna": {
+          "es": "La región del sur de Mesopotamia, en el actual Irak, centrada en la ciudad de Babilonia",
+          "en": "The region of southern Mesopotamia, in modern Iraq, centered on the city of Babylon",
+          "pt": "A região do sul da Mesopotâmia, no atual Iraque, centrada na cidade da Babilônia"
+        },
+        "significancia": {
+          "es": "La nación que Dios mismo levanta como instrumento de juicio contra Judá, y que se convierte a su vez en blanco de los cinco oráculos de ¡ay! del capítulo 2 por su orgullo desmedido (Hab 1:6; 2:6-19)",
+          "en": "The nation God himself raises up as an instrument of judgment against Judah, which itself becomes the target of the five woe oracles in chapter 2 for its excessive pride (Hab 1:6; 2:6-19)",
+          "pt": "A nação que o próprio Deus levanta como instrumento de julgamento contra Judá, e que se torna por sua vez alvo dos cinco oráculos de ai do capítulo 2 por seu orgulho desmedido (Hc 1:6; 2:6-19)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Temán",
+          "en": "Teman",
+          "pt": "Temã"
+        },
+        "identificacionModerna": {
+          "es": "Región del sur de Edom, mencionada en la teofanía del capítulo 3",
+          "en": "A region of southern Edom, mentioned in the chapter 3 theophany",
+          "pt": "Região do sul de Edom, mencionada na teofania do capítulo 3"
+        },
+        "significancia": {
+          "es": "Punto de origen de la manifestación teofánica de Dios en el salmo final, evocando las tradiciones de la revelación divina en el desierto del sur (Hab 3:3)",
+          "en": "The point of origin for God's theophanic manifestation in the final psalm, evoking traditions of divine revelation in the southern wilderness (Hab 3:3)",
+          "pt": "Ponto de origem da manifestação teofânica de Deus no salmo final, evocando as tradições da revelação divina no deserto do sul (Hc 3:3)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Monte de Parán",
+          "en": "Mount Paran",
+          "pt": "Monte Parã"
+        },
+        "identificacionModerna": {
+          "es": "Región montañosa del desierto entre el Sinaí y Edom",
+          "en": "A mountainous wilderness region between Sinai and Edom",
+          "pt": "Região montanhosa do deserto entre o Sinai e Edom"
+        },
+        "significancia": {
+          "es": "Asociado con el Santo que viene en gloria, evocando deliberadamente las tradiciones del Sinaí y el éxodo en la teofanía de Habacuc (Hab 3:3; cf. Dt 33:2)",
+          "en": "Associated with the Holy One who comes in glory, deliberately evoking Sinai and exodus traditions in Habakkuk's theophany (Hab 3:3; cf. Deut 33:2)",
+          "pt": "Associado ao Santo que vem em glória, evocando deliberadamente as tradições do Sinai e do êxodo na teofania de Habacuque (Hc 3:3; cf. Dt 33:2)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Judá (bajo Joacim)",
+          "en": "Judah (under Jehoiakim)",
+          "pt": "Judá (sob Jeoaquim)"
+        },
+        "rolEnElTexto": {
+          "es": "El reino cuya violencia interna e injusticia judicial provocan la primera queja de Habacuc, y que enfrentará el juicio del instrumento caldeo (Hab 1:2-4)",
+          "en": "The kingdom whose internal violence and judicial injustice provoke Habakkuk's first complaint, and which will face judgment through the Chaldean instrument (Hab 1:2-4)",
+          "pt": "O reino cuja violência interna e injustiça judicial provocam a primeira queixa de Habacuque, e que enfrentará o julgamento por meio do instrumento caldeu (Hc 1:2-4)"
+        },
+        "estadoArqueologico": {
+          "es": "El reinado de Joacim está documentado en 2 Reyes y 2 Crónicas, y arqueológicamente mediante sellos reales y ostraca del período tardío del reino de Judá",
+          "en": "Jehoiakim's reign is documented in 2 Kings and 2 Chronicles, and archaeologically through royal seals and ostraca from the late kingdom of Judah",
+          "pt": "O reinado de Jeoaquim está documentado em 2 Reis e 2 Crônicas, e arqueologicamente por meio de selos reais e óstracas do período tardio do reino de Judá"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Caldeos (neobabilonios)",
+          "en": "Chaldeans (Neo-Babylonians)",
+          "pt": "Caldeus (neobabilônios)"
+        },
+        "rolEnElTexto": {
+          "es": "La nación «terrible y espantosa» que Dios levanta como instrumento de juicio contra Judá, cuyo ascenso imperial se consolidó tras la batalla de Carquemis en 605 a.C. (Hab 1:6-11)",
+          "en": "The \"dreaded and fearsome\" nation God raises up as an instrument of judgment against Judah, whose imperial rise was consolidated after the Battle of Carchemish in 605 BC (Hab 1:6-11)",
+          "pt": "A nação «terrível e espantosa» que Deus levanta como instrumento de julgamento contra Judá, cuja ascensão imperial se consolidou após a batalha de Carquemis em 605 a.C. (Hc 1:6-11)"
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentados en las crónicas babilónicas, los anales de Nabopolasar y Nabucodonosor II, y las extensas excavaciones de Babilonia",
+          "en": "Extensively documented in the Babylonian Chronicles, the annals of Nabopolassar and Nebuchadnezzar II, and the extensive excavations of Babylon",
+          "pt": "Amplamente documentados nas crônicas babilônicas, nos anais de Nabopolassar e Nabucodonosor II, e nas extensas escavações da Babilônia"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Asirios (en declive)",
+          "en": "Assyrians (in decline)",
+          "pt": "Assírios (em declínio)"
+        },
+        "rolEnElTexto": {
+          "es": "El imperio en colapso tras la caída de Nínive en 612 a.C., cuyo vacío de poder crea las condiciones geopolíticas para el ascenso caldeo que Habacuc anuncia",
+          "en": "The empire collapsing after Nineveh's fall in 612 BC, whose power vacuum creates the geopolitical conditions for the Chaldean rise Habakkuk announces",
+          "pt": "O império em colapso após a queda de Nínive em 612 a.C., cujo vácuo de poder cria as condições geopolíticas para a ascensão caldeia que Habacuque anuncia"
+        },
+        "estadoArqueologico": {
+          "es": "El colapso final de Asiria está documentado en la Crónica babilónica de la caída de Nínive y confirmado por los estratos de destrucción en los principales sitios asirios",
+          "en": "Assyria's final collapse is documented in the Babylonian Chronicle of the fall of Nineveh and confirmed by destruction strata at major Assyrian sites",
+          "pt": "O colapso final da Assíria está documentado na Crônica babilônica da queda de Nínive e confirmado pelos estratos de destruição nos principais sítios assírios"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "La Crónica babilónica que documenta la batalla de Carquemis (605 a.C.) confirma con precisión el momento histórico en que los caldeos se consolidaron como la potencia dominante del Cercano Oriente tras derrotar a la coalición egipcio-asiria, el trasfondo geopolítico inmediato presupuesto por Habacuc. Los anales de Nabopolasar documentan el ascenso del Imperio neobabilónico desde su fundación en 626 a.C. Ostraca y sellos reales hallados en Judá confirman la administración del reino bajo Joacim, el contexto interno de corrupción e injusticia judicial que provoca la primera queja del profeta. Ningún registro extrabíblico corrobora directamente los detalles biográficos de Habacuc mismo, consistente con la ausencia casi total de datos personales en el propio texto bíblico.",
+      "en": "The Babylonian Chronicle documenting the Battle of Carchemish (605 BC) precisely confirms the historical moment when the Chaldeans consolidated as the dominant power of the ancient Near East after defeating the Egyptian-Assyrian coalition, the immediate geopolitical backdrop presupposed by Habakkuk. The annals of Nabopolassar document the rise of the Neo-Babylonian empire from its founding in 626 BC. Ostraca and royal seals found in Judah confirm the kingdom's administration under Jehoiakim, the internal context of corruption and judicial injustice provoking the prophet's first complaint. No extrabiblical record directly corroborates biographical details about Habakkuk himself, consistent with the near-total absence of personal data in the biblical text itself.",
+      "pt": "A Crônica babilônica que documenta a batalha de Carquemis (605 a.C.) confirma com precisão o momento histórico em que os caldeus se consolidaram como a potência dominante do Antigo Oriente Próximo após derrotar a coalizão egípcio-assíria, o pano de fundo geopolítico imediato pressuposto por Habacuque. Os anais de Nabopolassar documentam a ascensão do império neobabilônico desde sua fundação em 626 a.C. Óstracas e selos reais encontrados em Judá confirmam a administração do reino sob Jeoaquim, o contexto interno de corrupção e injustiça judicial que provoca a primeira queixa do profeta. Nenhum registro extrabíblico corrobora diretamente detalhes biográficos do próprio Habacuque, consistente com a ausência quase total de dados pessoais no próprio texto bíblico."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Crónica babilónica de la batalla de Carquemis",
+          "en": "Babylonian Chronicle of the Battle of Carchemish",
+          "pt": "Crônica babilônica da batalha de Carquemis"
+        },
+        "origen": {
+          "es": "Tablilla cuneiforme neobabilónica que registra la derrota egipcio-asiria en 605 a.C. y la consolidación del poder caldeo",
+          "en": "A Neo-Babylonian cuneiform tablet recording the Egyptian-Assyrian defeat in 605 BC and the consolidation of Chaldean power",
+          "pt": "Tabuleta cuneiforme neobabilônica que registra a derrota egípcio-assíria em 605 a.C. e a consolidação do poder caldeu"
+        },
+        "relevancia": {
+          "es": "Ancla históricamente el ascenso caldeo anunciado en Hab 1:5-11 al período inmediatamente anterior a esta batalla decisiva",
+          "en": "Historically anchors the Chaldean rise announced in Hab 1:5-11 to the period immediately before this decisive battle",
+          "pt": "Ancora historicamente a ascensão caldeia anunciada em Hc 1:5-11 ao período imediatamente anterior a essa batalha decisiva"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Anales de Nabopolasar",
+          "en": "Annals of Nabopolassar",
+          "pt": "Anais de Nabopolassar"
+        },
+        "origen": {
+          "es": "Registros reales neobabilónicos que documentan la fundación y consolidación del imperio caldeo por Nabopolasar, padre de Nabucodonosor II",
+          "en": "Neo-Babylonian royal records documenting the founding and consolidation of the Chaldean empire by Nabopolassar, father of Nebuchadnezzar II",
+          "pt": "Registros reais neobabilônicos que documentam a fundação e consolidação do império caldeu por Nabopolassar, pai de Nabucodonosor II"
+        },
+        "relevancia": {
+          "es": "Corrobora externamente el ascenso de la «nación amarga y presurosa» que Dios levanta como instrumento de juicio en Hab 1:6",
+          "en": "Externally corroborates the rise of the \"bitter and hasty nation\" God raises up as an instrument of judgment in Hab 1:6",
+          "pt": "Corrobora externamente a ascensão da «nação amarga e apressada» que Deus levanta como instrumento de julgamento em Hc 1:6"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La fecha exacta de composición es debatida. Algunos críticos proponen una fecha posterior a 597 a.C., después de la primera deportación babilónica de Judá, argumentando que Hab 1:5-11 describe a los caldeos como una potencia ya experimentada y no como una sorpresa futura. La tradición reformada y evangélica conservadora prefiere una fecha temprana, c. 609-605 a.C., señalando que el lenguaje de asombro genuino —«no creeríais aunque se os contara» (Hab 1:5)— exige que el ascenso caldeo sea todavía una novedad no experimentada por los oyentes originales, y que la ausencia de cualquier mención de una deportación ya ocurrida favorece la fecha temprana. Una segunda controversia, de naturaleza literaria, concierne la unidad del libro: algunos eruditos críticos separan el salmo del capítulo 3 como una composición litúrgica independiente añadida posteriormente, mientras que la tradición conservadora defiende la unidad completa del libro, señalando la coherencia temática y la resolución narrativa que el capítulo 3 aporta a la tensión planteada en los capítulos 1-2.",
+      "en": "The exact date of composition is debated. Some critics propose a date after 597 BC, following the first Babylonian deportation of Judah, arguing that Hab 1:5-11 describes the Chaldeans as an already-experienced power rather than a future surprise. The Reformed and conservative evangelical tradition prefers an early date, c. 609-605 BC, noting that the language of genuine astonishment — \"you would not believe if told\" (Hab 1:5) — requires the Chaldean rise still be a novelty unexperienced by the original hearers, and that the absence of any mention of an already-occurred deportation favors the early date. A second, literary controversy concerns the book's unity: some critical scholars separate the chapter 3 psalm as an independent liturgical composition added later, while the conservative tradition defends the book's complete unity, noting the thematic coherence and narrative resolution chapter 3 provides to the tension raised in chapters 1-2.",
+      "pt": "A data exata de composição é debatida. Alguns críticos propõem uma data posterior a 597 a.C., após a primeira deportação babilônica de Judá, argumentando que Hc 1:5-11 descreve os caldeus como uma potência já experimentada, e não como uma surpresa futura. A tradição reformada e evangélica conservadora prefere uma data antiga, c. 609-605 a.C., apontando que a linguagem de assombro genuíno — «vós não crereis, quando se contar» (Hc 1:5) — exige que a ascensão caldeia ainda seja uma novidade não experimentada pelos ouvintes originais, e que a ausência de qualquer menção a uma deportação já ocorrida favorece a data antiga. Uma segunda controvérsia, de natureza literária, diz respeito à unidade do livro: alguns estudiosos críticos separam o salmo do capítulo 3 como uma composição litúrgica independente adicionada posteriormente, enquanto a tradição conservadora defende a unidade completa do livro, apontando a coerência temática e a resolução narrativa que o capítulo 3 traz à tensão levantada nos capítulos 1-2."
+    },
+    "cronologiaInterna": {
+      "es": "El libro no ofrece fórmulas de fecha regnal explícitas, pero el anuncio de que Dios «levanta a los caldeos» (Hab 1:6) como un evento aún no experimentado por el profeta ancla la composición al período inmediatamente anterior al ascenso babilónico decisivo tras la batalla de Carquemis en 605 a.C.",
+      "en": "The book offers no explicit regnal date formulas, but the announcement that God is \"raising up the Chaldeans\" (Hab 1:6) as an event not yet experienced by the prophet anchors the composition to the period immediately before the decisive Babylonian rise following the Battle of Carchemish in 605 BC.",
+      "pt": "O livro não oferece fórmulas explícitas de data regnal, mas o anúncio de que Deus está «levantando os caldeus» (Hc 1:6) como evento ainda não experimentado pelo profeta ancora a composição ao período imediatamente anterior à ascensão babilônica decisiva após a batalha de Carquemis em 605 a.C."
+    }
+  },
+  "ordenEnDivision": 8,
+  "ordenCanon": 35,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Habacuc anticipa a Cristo principalmente mediante Hab 2:4 —«el justo por su fe vivirá»—, el versículo que Pablo convierte en el tema programático de Romanos (Ro 1:17) y que Hebreos cita para exhortar a la perseverancia en la fe (He 10:38), estableciendo el principio de justificación por fe que halla su fundamento objetivo en la obra de Cristo. Además, la visión teofánica del capítulo 3, donde Dios «sale para socorrer a su pueblo, para socorrer a su ungido» (Hab 3:13), anticipa a Cristo como el Ungido definitivo que viene a rescatar a su pueblo mediante la victoria decisiva sobre el mal.",
+      "en": "Habakkuk anticipates Christ chiefly through Hab 2:4 — \"the righteous shall live by his faith\" — the verse Paul makes the programmatic theme of Romans (Rom 1:17) and Hebrews cites to exhort perseverance in faith (Heb 10:38), establishing the principle of justification by faith that finds its objective foundation in Christ's work. Furthermore, the theophanic vision of chapter 3, where God \"went out for the salvation of your people, for the salvation of your anointed\" (Hab 3:13), anticipates Christ as the definitive Anointed One who comes to rescue his people through decisive victory over evil.",
+      "pt": "Habacuque antecipa a Cristo principalmente por meio de Hc 2:4 — «o justo pela sua fé viverá» —, o versículo que Paulo transforma no tema programático de Romanos (Rm 1:17) e que Hebreus cita para exortar à perseverança na fé (Hb 10:38), estabelecendo o princípio da justificação pela fé que encontra seu fundamento objetivo na obra de Cristo. Além disso, a visão teofânica do capítulo 3, onde Deus «saíste para livrar o teu povo, para livrar o teu ungido» (Hc 3:13), antecipa Cristo como o Ungido definitivo que vem resgatar seu povo mediante a vitória decisiva sobre o mal."
+    },
+    "tiposYSombras": [
+      {
+        "es": "«El justo por su fe vivirá» (Hab 2:4) establece el principio de la justificación por fe que el evangelio de Cristo cumple plenamente, citado tres veces en el Nuevo Testamento (Ro 1:17; Gá 3:11; He 10:38).",
+        "en": "\"The righteous shall live by his faith\" (Hab 2:4) establishes the principle of justification by faith that Christ's gospel fully fulfills, cited three times in the New Testament (Rom 1:17; Gal 3:11; Heb 10:38).",
+        "pt": "«O justo pela sua fé viverá» (Hc 2:4) estabelece o princípio da justificação pela fé que o evangelho de Cristo cumpre plenamente, citado três vezes no Novo Testamento (Rm 1:17; Gl 3:11; Hb 10:38)."
+      },
+      {
+        "es": "La promesa de que «la tierra será llena del conocimiento de la gloria del SEÑOR, como las aguas cubren el mar» (Hab 2:14) anticipa la consumación escatológica del reino de Cristo sobre toda la creación (cf. Is 11:9; Ap 21:1-5).",
+        "en": "The promise that \"the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea\" (Hab 2:14) anticipates the eschatological consummation of Christ's kingdom over all creation (cf. Isa 11:9; Rev 21:1-5).",
+        "pt": "A promessa de que «a terra se encherá do conhecimento da glória do SENHOR, como as águas cobrem o mar» (Hc 2:14) antecipa a consumação escatológica do reino de Cristo sobre toda a criação (cf. Is 11:9; Ap 21:1-5)."
+      },
+      {
+        "es": "Dios sale «para socorrer a su pueblo, para socorrer a su ungido» (Hab 3:13) prefigura a Cristo, el Ungido definitivo que viene como guerrero divino a rescatar a su pueblo del poder del mal.",
+        "en": "God going out \"for the salvation of your people, for the salvation of your anointed\" (Hab 3:13) prefigures Christ, the definitive Anointed One who comes as divine warrior to rescue his people from the power of evil.",
+        "pt": "Deus saindo «para livrar o teu povo, para livrar o teu ungido» (Hc 3:13) prefigura Cristo, o Ungido definitivo que vem como guerreiro divino para resgatar seu povo do poder do mal."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Habacuc es el único libro profético estructurado enteramente como un diálogo directo entre el profeta y Dios sobre el problema del mal —por qué Dios tolera la injusticia y por qué usa instrumentos más impíos para juzgar a los menos impíos—, en lugar de un oráculo unidireccional al pueblo. Su contribución exclusiva e insustituible al canon es Hab 2:4, «el justo por su fe vivirá», el versículo veterotestamentario más citado en el Nuevo Testamento para fundamentar la doctrina de la justificación por la fe, y su clímax en Hab 3:17-19 constituye una de las declaraciones de fe más radicales de toda la Escritura: gozo en Dios independiente de toda circunstancia material.",
+    "en": "Habakkuk is the only prophetic book structured entirely as a direct dialogue between the prophet and God on the problem of evil — why God tolerates injustice and why he uses more wicked instruments to judge the less wicked — rather than a one-directional oracle to the people. Its exclusive, irreplaceable contribution to the canon is Hab 2:4, \"the righteous shall live by his faith,\" the Old Testament verse most cited in the New Testament to ground the doctrine of justification by faith, and its climax in Hab 3:17-19 constitutes one of Scripture's most radical declarations of faith: joy in God independent of every material circumstance.",
+    "pt": "Habacuque é o único livro profético estruturado inteiramente como um diálogo direto entre o profeta e Deus sobre o problema do mal — por que Deus tolera a injustiça e por que usa instrumentos mais ímpios para julgar os menos ímpios —, em vez de um oráculo unidirecional ao povo. Sua contribuição exclusiva e insubstituível ao cânon é Hc 2:4, «o justo pela sua fé viverá», o versículo veterotestamentário mais citado no Novo Testamento para fundamentar a doutrina da justificação pela fé, e seu clímax em Hc 3:17-19 constitui uma das declarações de fé mais radicais de toda a Escritura: alegria em Deus independente de toda circunstância material."
+  },
+  "genero": {
+    "es": "Profecía (diálogo profético/teodicea entre el profeta y Dios, seguido de un salmo teofánico)",
+    "en": "Prophecy (a prophetic dialogue/theodicy between the prophet and God, followed by a theophanic psalm)",
+    "pt": "Profecia (diálogo profético/teodiceia entre o profeta e Deus, seguido de um salmo teofânico)"
+  },
+  "palabraClave": {
+    "es": [
+      "El justo vivirá por fe",
+      "Diálogo con Dios",
+      "Caldeos instrumento",
+      "Gozo en la angustia",
+      "Fe en la oscuridad"
+    ],
+    "en": [
+      "The righteous shall live by faith",
+      "Dialogue with God",
+      "Chaldeans as instrument",
+      "Joy amid distress",
+      "Faith in darkness"
+    ],
+    "pt": [
+      "O justo viverá pela fé",
+      "Diálogo com Deus",
+      "Caldeus instrumento",
+      "Alegria na angústia",
+      "Fé na escuridão"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo de Judá bajo el reinado de Joacim, que necesitaba comprender teológicamente por qué Dios permitía la violencia interna y cómo su justicia gobernaba el ascenso de una potencia extranjera aún más impía",
+    "en": "The people of Judah under the reign of Jehoiakim, who needed to theologically understand why God permitted internal violence and how his justice governed the rise of an even more wicked foreign power",
+    "pt": "O povo de Judá sob o reinado de Jeoaquim, que precisava compreender teologicamente por que Deus permitia a violência interna e como sua justiça governava a ascensão de uma potência estrangeira ainda mais ímpia"
+  },
+  "proposito": {
+    "es": "Históricamente, Habacuc registra el diálogo del profeta con Dios sobre la violencia impune en Judá y el uso providencial de los caldeos como instrumento de juicio, seguido de un salmo de confianza radical en medio de la crisis inminente. Teológicamente, el libro enseña que la justicia de Dios opera según un calendario propio que el ser humano no siempre comprende (Hab 2:3), que la fe genuina («el justo por su fe vivirá», Hab 2:4) es la única respuesta apropiada ante lo incomprensible, y que el gozo en Dios no depende de las circunstancias materiales (Hab 3:17-19).",
+    "en": "Historically, Habakkuk records the prophet's dialogue with God over unpunished violence in Judah and the providential use of the Chaldeans as an instrument of judgment, followed by a psalm of radical confidence amid the imminent crisis. Theologically, the book teaches that God's justice operates on its own timetable that humans do not always understand (Hab 2:3), that genuine faith (\"the righteous shall live by his faith,\" Hab 2:4) is the only fitting response to the incomprehensible, and that joy in God does not depend on material circumstances (Hab 3:17-19).",
+    "pt": "Historicamente, Habacuque registra o diálogo do profeta com Deus sobre a violência impune em Judá e o uso providencial dos caldeus como instrumento de julgamento, seguido de um salmo de confiança radical em meio à crise iminente. Teologicamente, o livro ensina que a justiça de Deus opera segundo um calendário próprio que o ser humano nem sempre compreende (Hc 2:3), que a fé genuína («o justo pela sua fé viverá», Hc 2:4) é a única resposta adequada diante do incompreensível, e que a alegria em Deus não depende das circunstâncias materiais (Hc 3:17-19)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH · the Lord",
+        "pt": "Deus · YHWH · o Senhor"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "El SEÑOR santo cuyos ojos son «muy limpios para ver el mal» y que, sin embargo, levanta soberanamente a los caldeos como instrumento de juicio, revela el principio de que el justo vivirá por su fe, y finalmente se manifiesta en teofanía como guerrero divino que sale a socorrer a su pueblo y a su ungido.",
+        "en": "The holy LORD whose eyes are \"too pure to look on evil,\" who nevertheless sovereignly raises up the Chaldeans as an instrument of judgment, reveals the principle that the righteous shall live by faith, and finally manifests himself in theophany as a divine warrior going out to save his people and his anointed.",
+        "pt": "O SENHOR santo cujos olhos são «demasiado puros para ver o mal» e que, no entanto, levanta soberanamente os caldeus como instrumento de julgamento, revela o princípio de que o justo viverá pela sua fé, e finalmente se manifesta em teofania como guerreiro divino que sai para livrar o seu povo e o seu ungido."
+      },
+      "acciones": {
+        "es": "Responde a la primera queja de Habacuc anunciando que levanta a los caldeos, nación «terrible y espantosa» (Hab 1:6), instruye al profeta a escribir la visión con claridad porque «sin duda vendrá, no tardará» (Hab 2:2-3), revela el principio central de que «el justo por su fe vivirá» (Hab 2:4), pronuncia cinco ayes contra el orgullo del opresor (Hab 2:6-19), y se manifiesta en gloriosa teofanía saliendo «para socorrer a su pueblo, para socorrer a su ungido» (Hab 3:13).",
+        "en": "Responds to Habakkuk's first complaint by announcing that he is raising up the Chaldeans, a \"dreaded and fearsome\" nation (Hab 1:6), instructs the prophet to write the vision plainly for \"it will surely come; it will not delay\" (Hab 2:2-3), reveals the central principle that \"the righteous shall live by his faith\" (Hab 2:4), pronounces five woes against the oppressor's pride (Hab 2:6-19), and manifests himself in glorious theophany, going out \"for the salvation of your people, for the salvation of your anointed\" (Hab 3:13).",
+        "pt": "Responde à primeira queixa de Habacuque anunciando que levanta os caldeus, nação «terrível e espantosa» (Hc 1:6), instrui o profeta a escrever a visão com clareza, pois «certamente virá, não tardará» (Hc 2:2-3), revela o princípio central de que «o justo pela sua fé viverá» (Hc 2:4), pronuncia cinco ais contra o orgulho do opressor (Hc 2:6-19), e se manifesta em gloriosa teofania saindo «para livrar o teu povo, para livrar o teu ungido» (Hc 3:13)."
+      },
+      "significadoTeologico": {
+        "es": "Habacuc revela a Dios como soberano sobre la historia de las naciones —levantando y usando incluso a los impíos como instrumento de su propósito— y como el fundamento último de la fe genuina que sostiene al justo cuando la justicia divina permanece incomprensible para la razón humana.",
+        "en": "Habakkuk reveals God as sovereign over the history of the nations — raising up and using even the wicked as an instrument of his purpose — and as the ultimate foundation of genuine faith that sustains the righteous when divine justice remains incomprehensible to human reason.",
+        "pt": "Habacuque revela Deus como soberano sobre a história das nações — levantando e usando até os ímpios como instrumento de seu propósito — e como o fundamento último da fé genuína que sustenta o justo quando a justiça divina permanece incompreensível à razão humana."
+      },
+      "tipo": {
+        "es": "El SEÑOR que sale «para socorrer a su pueblo, para socorrer a su ungido» (Hab 3:13) anticipa a Cristo, el guerrero divino definitivo que rescata a su pueblo mediante su victoria sobre el pecado y la muerte (Col 2:15).",
+        "en": "The LORD who goes out \"for the salvation of your people, for the salvation of your anointed\" (Hab 3:13) anticipates Christ, the definitive divine warrior who rescues his people through his victory over sin and death (Col 2:15).",
+        "pt": "O SENHOR que sai «para livrar o teu povo, para livrar o teu ungido» (Hc 3:13) antecipa Cristo, o guerreiro divino definitivo que resgata seu povo mediante sua vitória sobre o pecado e a morte (Cl 2:15)."
+      },
+      "caracterMoral": {
+        "es": "Santo, soberano sobre la historia de las naciones, fiel a su propio calendario de justicia, y digno de fe absoluta incluso cuando sus caminos permanecen incomprensibles.",
+        "en": "Holy, sovereign over the history of the nations, faithful to his own timetable of justice, and worthy of absolute trust even when his ways remain incomprehensible.",
+        "pt": "Santo, soberano sobre a história das nações, fiel ao seu próprio calendário de justiça, e digno de fé absoluta mesmo quando seus caminhos permanecem incompreensíveis."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "YHWH es el interlocutor directo de Habacuc a lo largo de todo el libro, respondiendo sus quejas, revelando el principio de la fe, y manifestándose finalmente en teofanía salvadora.",
+          "en": "YHWH is Habakkuk's direct interlocutor throughout the whole book, answering his complaints, revealing the principle of faith, and finally manifesting himself in saving theophany.",
+          "pt": "YHWH é o interlocutor direto de Habacuque ao longo de todo o livro, respondendo suas queixas, revelando o princípio da fé, e manifestando-se finalmente em teofania salvadora."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hab 1:5",
+          "Hab 1:13",
+          "Hab 2:4",
+          "Hab 3:13"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: Dios no tiene biografía histórica humana; se revela por su autorrevelación consistente en todo el canon.",
+          "en": "Not applicable: God has no human historical biography; he reveals himself through his consistent self-revelation across the whole canon.",
+          "pt": "Não aplicável: Deus não tem biografia histórica humana; revela-se por sua autorrevelação consistente em todo o cânon."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El carácter de Dios como santo, soberano sobre las naciones, y fiel a los que confían en él es coherente con su autorrevelación en el resto del canon.",
+          "en": "God's character as holy, sovereign over the nations, and faithful to those who trust him is coherent with his self-revelation across the rest of the canon.",
+          "pt": "O caráter de Deus como santo, soberano sobre as nações, e fiel aos que nele confiam é coerente com sua autorrevelação no restante do cânon."
+        }
+      },
+      "versiculosAsociados": [
+        "Hab 1:5",
+        "Hab 1:13",
+        "Hab 2:4",
+        "Hab 3:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Ex",
+        "Jos",
+        "Ro",
+        "Gá",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Hab 2:4, «el justo por su fe vivirá», es citado tres veces en el Nuevo Testamento como fundamento de la doctrina de la justificación por fe (Ro 1:17; Gá 3:11; He 10:38), y Hab 1:5 es citado por Pablo en Hch 13:41 como advertencia contra la incredulidad.",
+        "en": "Hab 2:4, \"the righteous shall live by his faith,\" is cited three times in the New Testament as the foundation of the doctrine of justification by faith (Rom 1:17; Gal 3:11; Heb 10:38), and Hab 1:5 is cited by Paul in Acts 13:41 as a warning against unbelief.",
+        "pt": "Hc 2:4, «o justo pela sua fé viverá», é citado três vezes no Novo Testamento como fundamento da doutrina da justificação pela fé (Rm 1:17; Gl 3:11; Hb 10:38), e Hc 1:5 é citado por Paulo em At 13:41 como advertência contra a incredulidade."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Habacuc",
+        "en": "Habakkuk",
+        "pt": "Habacuque"
+      },
+      "hebreo": "חֲבַקּוּק",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "El profeta que, a diferencia de sus contemporáneos, no predica primariamente al pueblo sino que dialoga directamente con Dios, cuestionando su justicia ante la violencia impune y el uso de una nación más impía como instrumento de juicio, para finalmente descender de la queja a la adoración radical.",
+        "en": "The prophet who, unlike his contemporaries, does not primarily preach to the people but dialogues directly with God, questioning his justice over unpunished violence and the use of a more wicked nation as an instrument of judgment, finally moving from complaint to radical worship.",
+        "pt": "O profeta que, diferentemente de seus contemporâneos, não prega primariamente ao povo, mas dialoga diretamente com Deus, questionando sua justiça diante da violência impune e do uso de uma nação mais ímpia como instrumento de julgamento, para finalmente passar da queixa à adoração radical."
+      },
+      "acciones": {
+        "es": "Clama a Dios preguntando hasta cuándo tolerará la violencia sin responder (Hab 1:2-4), recibe la desconcertante respuesta de que los caldeos vienen como juicio (Hab 1:5-11), presenta su segunda y más aguda queja sobre la justicia de usar a los impíos para juzgar (Hab 1:12-17), se para como centinela esperando la respuesta divina (Hab 2:1), recibe la visión que debe escribir con claridad (Hab 2:2-4), y finalmente ora un salmo teofánico que culmina en gozo radical pese al colapso agrícola total (Hab 3:1-19).",
+        "en": "Cries out to God asking how long he will tolerate violence without answering (Hab 1:2-4), receives the unsettling answer that the Chaldeans are coming as judgment (Hab 1:5-11), presents his second, sharper complaint about the justice of using the wicked to judge (Hab 1:12-17), stands as a watchman awaiting the divine answer (Hab 2:1), receives the vision he must write plainly (Hab 2:2-4), and finally prays a theophanic psalm that culminates in radical joy despite total agricultural collapse (Hab 3:1-19).",
+        "pt": "Clama a Deus perguntando até quando tolerará a violência sem responder (Hc 1:2-4), recebe a desconcertante resposta de que os caldeus vêm como julgamento (Hc 1:5-11), apresenta sua segunda e mais aguda queixa sobre a justiça de usar os ímpios para julgar (Hc 1:12-17), se põe como vigia esperando a resposta divina (Hc 2:1), recebe a visão que deve escrever com clareza (Hc 2:2-4), e finalmente ora um salmo teofânico que culmina em alegria radical apesar do colapso agrícola total (Hc 3:1-19)."
+      },
+      "significadoTeologico": {
+        "es": "Habacuc modela la honestidad teológica legítima ante Dios: cuestiona sin rebelarse, exige respuestas sin abandonar la fe, y finalmente llega a una adoración que no depende de haber resuelto intelectualmente el problema del mal sino de confiar en el carácter de Dios.",
+        "en": "Habakkuk models legitimate theological honesty before God: he questions without rebelling, demands answers without abandoning faith, and finally arrives at worship that does not depend on having intellectually solved the problem of evil but on trusting God's character.",
+        "pt": "Habacuque modela a honestidade teológica legítima diante de Deus: questiona sem se rebelar, exige respostas sem abandonar a fé, e finalmente chega a uma adoração que não depende de ter resolvido intelectualmente o problema do mal, mas de confiar no caráter de Deus."
+      },
+      "tipo": {
+        "es": "Como profeta que se para «sobre mi guarda» esperando la palabra de Dios (Hab 2:1) y finalmente encuentra gozo inquebrantable en el SEÑOR pese a la pérdida total (Hab 3:17-19), Habacuc prefigura la fe cristiana que se sostiene en Cristo independientemente de las circunstancias (Fil 4:11-13).",
+        "en": "As a prophet who stands \"at my watchpost\" awaiting God's word (Hab 2:1) and finally finds unshakable joy in the LORD despite total loss (Hab 3:17-19), Habakkuk prefigures the Christian faith that is sustained in Christ regardless of circumstances (Phil 4:11-13).",
+        "pt": "Como profeta que se põe «na minha torre de vigia» esperando a palavra de Deus (Hc 2:1) e finalmente encontra alegria inabalável no SENHOR apesar da perda total (Hc 3:17-19), Habacuque prefigura a fé cristã que se sustenta em Cristo independentemente das circunstâncias (Fp 4:11-13)."
+      },
+      "caracterMoral": {
+        "es": "Honesto ante Dios hasta el límite de la queja legítima, perseverante en la búsqueda de respuestas, y finalmente ejemplar en su fe radical y gozosa ante la adversidad total.",
+        "en": "Honest before God to the limit of legitimate complaint, persevering in the search for answers, and finally exemplary in his radical, joyful faith in the face of total adversity.",
+        "pt": "Honesto diante de Deus até o limite da queixa legítima, perseverante na busca de respostas, e finalmente exemplar em sua fé radical e alegre diante da adversidade total."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Todo el libro es la voz de Habacuc en diálogo directo con Dios, desde la queja inicial hasta la adoración final, sin ningún otro dato biográfico fuera de su identificación como «el profeta» (Hab 1:1; 3:1).",
+          "en": "The entire book is Habakkuk's voice in direct dialogue with God, from the initial complaint to the final worship, with no other biographical data beyond his identification as \"the prophet\" (Hab 1:1; 3:1).",
+          "pt": "O livro inteiro é a voz de Habacuque em diálogo direto com Deus, desde a queixa inicial até a adoração final, sem nenhum outro dado biográfico além de sua identificação como «o profeta» (Hc 1:1; 3:1)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hab 1:2",
+          "Hab 2:1",
+          "Hab 3:17"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia externa que permita identificar a Habacuc con ninguna otra figura conocida ni confirmar los detalles de su vida más allá del texto bíblico; las tradiciones judías tardías que lo asocian con la tribu de Leví carecen de respaldo histórico independiente.",
+          "en": "No external evidence exists to identify Habakkuk with any other known figure or confirm details of his life beyond the biblical text; the late Jewish traditions associating him with the tribe of Levi lack independent historical support.",
+          "pt": "Não existe evidência externa que permita identificar Habacuque com nenhuma outra figura conhecida nem confirmar detalhes de sua vida além do texto bíblico; as tradições judaicas tardias que o associam à tribo de Levi carecem de respaldo histórico independente."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "La falta de datos biográficos externos es consistente con la práctica profética veterotestamentaria de subordinar la persona del mensajero al contenido del mensaje divino, aunque el título explícito «el profeta» (Hab 1:1; 3:1) es inusual entre los profetas menores.",
+          "en": "The lack of external biographical data is consistent with the Old Testament prophetic practice of subordinating the messenger's person to the content of the divine message, though the explicit title \"the prophet\" (Hab 1:1; 3:1) is unusual among the Minor Prophets.",
+          "pt": "A falta de dados biográficos externos é consistente com a prática profética veterotestamentária de subordinar a pessoa do mensageiro ao conteúdo da mensagem divina, embora o título explícito «o profeta» (Hc 1:1; 3:1) seja incomum entre os profetas menores."
+        }
+      },
+      "versiculosAsociados": [
+        "Hab 1:2",
+        "Hab 2:1",
+        "Hab 2:4",
+        "Hab 3:17"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Habacuc no es mencionado por nombre en el Nuevo Testamento, aunque su declaración de Hab 2:4 es citada tres veces como fundamento de la doctrina central de la justificación por fe (Ro 1:17; Gá 3:11; He 10:38).",
+        "en": "Habakkuk is not mentioned by name in the New Testament, though his declaration in Hab 2:4 is cited three times as the foundation of the central doctrine of justification by faith (Rom 1:17; Gal 3:11; Heb 10:38).",
+        "pt": "Habacuque não é mencionado pelo nome no Novo Testamento, embora sua declaração de Hc 2:4 seja citada três vezes como fundamento da doutrina central da justificação pela fé (Rm 1:17; Gl 3:11; Hb 10:38)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los caldeos (Babilonios)",
+        "en": "The Chaldeans (Babylonians)",
+        "pt": "Os caldeus (Babilônios)"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "La nación «terrible y espantosa» que Dios mismo levanta como instrumento de juicio contra la violencia de Judá, descrita como más rápida que leopardos y más feroz que lobos nocturnos, cuyo propio orgullo desmedido —«su propia fuerza es su dios» (Hab 1:11)— la convierte a su vez en blanco de los cinco oráculos de ¡ay! del capítulo 2.",
+        "en": "The \"dreaded and fearsome\" nation God himself raises up as an instrument of judgment against Judah's violence, described as swifter than leopards and fiercer than evening wolves, whose own excessive pride — \"his own might is his god\" (Hab 1:11) — in turn makes it the target of the five woe oracles in chapter 2.",
+        "pt": "A nação «terrível e espantosa» que o próprio Deus levanta como instrumento de julgamento contra a violência de Judá, descrita como mais rápida do que leopardos e mais feroz do que lobos noturnos, cujo próprio orgulho desmedido — «a sua força é o seu deus» (Hc 1:11) — a torna por sua vez alvo dos cinco oráculos de ai do capítulo 2."
+      },
+      "acciones": {
+        "es": "Es levantada por Dios mismo como «nación amarga y presurosa» que marcha por toda la anchura de la tierra (Hab 1:6), se burla de los reyes y toma cautivas fortalezas amontonando tierra para conquistarlas (Hab 1:10), y es acusada de amontonar lo ajeno, edificar ciudad con sangre, y embriagar a sus vecinos para exponer su desnudez (Hab 2:6-17).",
+        "en": "Is raised up by God himself as a \"bitter and hasty nation\" that marches through the breadth of the earth (Hab 1:6), scoffs at kings and takes strongholds captive by heaping up earth to conquer them (Hab 1:10), and is accused of piling up what is not its own, building a city with blood, and making its neighbors drink to expose their nakedness (Hab 2:6-17).",
+        "pt": "É levantada pelo próprio Deus como «nação amarga e apressada» que marcha por toda a largura da terra (Hc 1:6), zomba dos reis e toma fortalezas cativas amontoando terra para conquistá-las (Hc 1:10), e é acusada de amontoar o que não é seu, edificar cidade com sangue, e embriagar seus vizinhos para expor sua nudez (Hc 2:6-17)."
+      },
+      "significadoTeologico": {
+        "es": "Los caldeos ilustran el principio de que Dios puede usar soberanamente incluso a naciones malvadas como instrumento de su juicio, sin que esto exima a esas naciones de responsabilidad moral ni las libre de su propio juicio venidero.",
+        "en": "The Chaldeans illustrate the principle that God can sovereignly use even wicked nations as an instrument of his judgment, without this exempting those nations from moral responsibility or freeing them from their own coming judgment.",
+        "pt": "Os caldeus ilustram o princípio de que Deus pode usar soberanamente até nações más como instrumento de seu julgamento, sem que isso isente essas nações de responsabilidade moral nem as livre de seu próprio julgamento vindouro."
+      },
+      "tipo": {
+        "es": "El orgullo caldeo, cuya «propia fuerza es su dios» (Hab 1:11), representa el patrón de toda soberbia humana que se opone al reino de Dios y que finalmente será derribada, anticipando el juicio final sobre todo poder rebelde (Ap 18:2-3).",
+        "en": "Chaldean pride, whose \"own might is his god\" (Hab 1:11), represents the pattern of all human arrogance that opposes God's kingdom and will finally be brought down, anticipating final judgment on every rebellious power (Rev 18:2-3).",
+        "pt": "O orgulho caldeu, cuja «própria força é o seu deus» (Hc 1:11), representa o padrão de toda soberba humana que se opõe ao reino de Deus e que finalmente será derrubada, antecipando o juízo final sobre todo poder rebelde (Ap 18:2-3)."
+      },
+      "caracterMoral": {
+        "es": "Orgullosa, violenta, idólatra de su propio poder militar, y dedicada a la explotación económica y la humillación pública de las naciones conquistadas.",
+        "en": "Proud, violent, idolatrous of its own military power, and devoted to the economic exploitation and public humiliation of conquered nations.",
+        "pt": "Orgulhosa, violenta, idólatra de seu próprio poder militar, e dedicada à exploração econômica e à humilhação pública das nações conquistadas."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Los caldeos son presentados primero como el instrumento sorprendente del juicio divino (Hab 1:5-11) y luego como el blanco mismo del juicio por su propio orgullo desmedido (Hab 2:6-19).",
+          "en": "The Chaldeans are first presented as the surprising instrument of divine judgment (Hab 1:5-11) and then as the target of judgment themselves for their own excessive pride (Hab 2:6-19).",
+          "pt": "Os caldeus são apresentados primeiro como o instrumento surpreendente do julgamento divino (Hc 1:5-11) e depois como o próprio alvo do julgamento por seu próprio orgulho desmedido (Hc 2:6-19)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hab 1:6",
+          "Hab 1:11",
+          "Hab 2:6"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El Imperio neobabilónico, fundado por Nabopolasar y consolidado por su hijo Nabucodonosor II tras la decisiva batalla de Carquemis en 605 a.C., está ampliamente documentado en crónicas babilónicas, anales reales, y los registros de sus campañas contra Judá.",
+          "en": "The Neo-Babylonian empire, founded by Nabopolassar and consolidated by his son Nebuchadnezzar II after the decisive Battle of Carchemish in 605 BC, is extensively documented in Babylonian Chronicles, royal annals, and records of its campaigns against Judah.",
+          "pt": "O império neobabilônico, fundado por Nabopolassar e consolidado por seu filho Nabucodonosor II após a decisiva batalha de Carquemis em 605 a.C., está amplamente documentado em crônicas babilônicas, anais reais, e registros de suas campanhas contra Judá."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Ascenso del Imperio neobabilónico",
+              "Batalla de Carquemis"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El ascenso caldeo descrito en Hab 1:5-11 corresponde históricamente con precisión al período inmediatamente anterior a la batalla de Carquemis (605 a.C.), cuando Babilonia se consolidó como la potencia dominante del Cercano Oriente.",
+          "en": "The Chaldean rise described in Hab 1:5-11 corresponds historically with precision to the period immediately before the Battle of Carchemish (605 BC), when Babylon consolidated as the dominant power of the ancient Near East.",
+          "pt": "A ascensão caldeia descrita em Hc 1:5-11 corresponde historicamente com precisão ao período imediatamente anterior à batalha de Carquemis (605 a.C.), quando a Babilônia se consolidou como a potência dominante do Antigo Oriente Próximo."
+        }
+      },
+      "versiculosAsociados": [
+        "Hab 1:6",
+        "Hab 1:11",
+        "Hab 2:8",
+        "Hab 2:17"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "2Cr",
+        "Jer",
+        "Ez",
+        "Dn"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Los caldeos no son mencionados directamente en el Nuevo Testamento, aunque el patrón de un imperio orgulloso finalmente juzgado por Dios resuena en la descripción de Babilonia en Apocalipsis (Ap 18).",
+        "en": "The Chaldeans are not directly mentioned in the New Testament, though the pattern of a proud empire finally judged by God resonates in the description of Babylon in Revelation (Rev 18).",
+        "pt": "Os caldeus não são mencionados diretamente no Novo Testamento, embora o padrão de um império orgulhoso finalmente julgado por Deus ressoe na descrição da Babilônia em Apocalipse (Ap 18)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "El justo",
+        "en": "The righteous one",
+        "pt": "O justo"
+      },
+      "principal": true,
+      "rol": "tipo",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "La figura central de la respuesta divina a la queja de Habacuc: aquel cuya alma no es recta se enorgullece, «mas el justo por su fe vivirá» (Hab 2:4b), el principio que el Nuevo Testamento convierte en fundamento de la doctrina de la justificación.",
+        "en": "The central figure of the divine answer to Habakkuk's complaint: the one whose soul is not upright is puffed up, \"but the righteous shall live by his faith\" (Hab 2:4b), the principle the New Testament makes the foundation of the doctrine of justification.",
+        "pt": "A figura central da resposta divina à queixa de Habacuque: aquele cuja alma não é reta se eleva, «mas o justo pela sua fé viverá» (Hc 2:4b), princípio que o Novo Testamento transforma em fundamento da doutrina da justificação."
+      },
+      "acciones": {
+        "es": "Es contrastado con el orgulloso cuya alma no es recta (Hab 2:4a), y se le declara que vivirá —tendrá vida genuina y perdurable— precisamente «por su fe» (Hab 2:4b), en contraste con toda confianza en el propio poder o mérito.",
+        "en": "Is contrasted with the proud one whose soul is not upright (Hab 2:4a), and is declared to live — to have genuine, lasting life — precisely \"by his faith\" (Hab 2:4b), in contrast to any confidence in one's own power or merit.",
+        "pt": "É contrastado com o orgulhoso cuja alma não é reta (Hc 2:4a), e é declarado que viverá — terá vida genuína e duradoura — precisamente «pela sua fé» (Hc 2:4b), em contraste com toda confiança no próprio poder ou mérito."
+      },
+      "significadoTeologico": {
+        "es": "«El justo» de Hab 2:4 no designa a un individuo histórico específico sino que establece el principio teológico central del libro: la vida genuina ante Dios se recibe por fe, no por vista ni por obras, un principio que Pablo desarrolla plenamente en Romanos y Gálatas.",
+        "en": "\"The righteous one\" of Hab 2:4 does not designate a specific historical individual but establishes the book's central theological principle: genuine life before God is received by faith, not by sight or works, a principle Paul fully develops in Romans and Galatians.",
+        "pt": "«O justo» de Hc 2:4 não designa um indivíduo histórico específico, mas estabelece o princípio teológico central do livro: a vida genuína diante de Deus é recebida pela fé, não pela vista nem por obras, princípio que Paulo desenvolve plenamente em Romanos e Gálatas."
+      },
+      "tipo": {
+        "es": "El principio de que «el justo por su fe vivirá» (Hab 2:4) encuentra su cumplimiento último en Cristo, quien es tanto el Justo perfecto (Hch 3:14) como el fundamento objetivo de la justicia que se recibe por fe (Ro 3:21-26).",
+        "en": "The principle that \"the righteous shall live by his faith\" (Hab 2:4) finds its ultimate fulfillment in Christ, who is both the perfect Righteous One (Acts 3:14) and the objective foundation of the righteousness received by faith (Rom 3:21-26).",
+        "pt": "O princípio de que «o justo pela sua fé viverá» (Hc 2:4) encontra seu cumprimento último em Cristo, que é tanto o Justo perfeito (At 3:14) quanto o fundamento objetivo da justiça que se recebe pela fé (Rm 3:21-26)."
+      },
+      "caracterMoral": {
+        "es": "Definido no por logro moral autónomo sino por una fe genuina y perseverante en Dios, en contraste explícito con el orgullo autosuficiente del opresor caldeo.",
+        "en": "Defined not by autonomous moral achievement but by genuine, persevering faith in God, in explicit contrast to the self-sufficient pride of the Chaldean oppressor.",
+        "pt": "Definido não por realização moral autônoma, mas por uma fé genuína e perseverante em Deus, em contraste explícito com o orgulho autossuficiente do opressor caldeu."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "«El justo» aparece como concepto teológico central en la respuesta divina de Hab 2:4, contrastado con el orgulloso del mismo versículo y con los cinco ayes que siguen contra el opresor caldeo.",
+          "en": "\"The righteous one\" appears as a central theological concept in the divine answer of Hab 2:4, contrasted with the proud one of the same verse and with the five woes that follow against the Chaldean oppressor.",
+          "pt": "«O justo» aparece como conceito teológico central na resposta divina de Hc 2:4, contrastado com o orgulhoso do mesmo versículo e com os cinco ais que seguem contra o opressor caldeu."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hab 2:4"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: «el justo» es una figura teológica representativa, no un individuo histórico identificable, comparable al uso genérico de «el hombre justo» en la literatura sapiencial veterotestamentaria (cf. Sal 1).",
+          "en": "Not applicable: \"the righteous one\" is a representative theological figure, not an identifiable historical individual, comparable to the generic use of \"the righteous man\" in Old Testament wisdom literature (cf. Ps 1).",
+          "pt": "Não aplicável: «o justo» é uma figura teológica representativa, não um indivíduo histórico identificável, comparável ao uso genérico de «o homem justo» na literatura sapiencial veterotestamentária (cf. Sl 1)."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El uso genérico y representativo de «el justo» es consistente con el género sapiencial-profético del versículo, que funciona como principio teológico aplicable más que como referencia biográfica.",
+          "en": "The generic, representative use of \"the righteous one\" is consistent with the sapiential-prophetic genre of the verse, which functions as an applicable theological principle rather than a biographical reference.",
+          "pt": "O uso genérico e representativo de «o justo» é consistente com o gênero sapiencial-profético do versículo, que funciona como princípio teológico aplicável mais do que como referência biográfica."
+        }
+      },
+      "versiculosAsociados": [
+        "Hab 2:4"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Ro",
+        "Gá",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo cita Hab 2:4 en Ro 1:17 como el tema programático de toda la epístola a los Romanos y en Gá 3:11 para argumentar que nadie se justifica por la ley; Hebreos lo cita en He 10:38 para exhortar a la perseverancia en la fe.",
+        "en": "Paul cites Hab 2:4 in Rom 1:17 as the programmatic theme of the entire epistle to the Romans and in Gal 3:11 to argue that no one is justified by the law; Hebrews cites it in Heb 10:38 to exhort perseverance in faith.",
+        "pt": "Paulo cita Hc 2:4 em Rm 1:17 como o tema programático de toda a epístola aos Romanos e em Gl 3:11 para argumentar que ninguém é justificado pela lei; Hebreus o cita em Hb 10:38 para exortar à perseverança na fé."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Justificación",
+        "en": "Justification",
+        "pt": "Justificação"
+      },
+      "resumen": {
+        "es": "Habacuc articula en 2:4 el principio teológico más citado del Antiguo Testamento en el Nuevo: «el justo por su fe vivirá», estableciendo que la vida genuina ante Dios no se obtiene por autosuficiencia orgullosa sino por una fe que confía en el carácter y el calendario de Dios incluso cuando la justicia divina permanece incomprensible.",
+        "en": "Habakkuk articulates in 2:4 the Old Testament theological principle most cited in the New: \"the righteous shall live by his faith,\" establishing that genuine life before God is not obtained by proud self-sufficiency but by a faith that trusts God's character and timetable even when divine justice remains incomprehensible.",
+        "pt": "Habacuque articula em 2:4 o princípio teológico do Antigo Testamento mais citado no Novo: «o justo pela sua fé viverá», estabelecendo que a vida genuína diante de Deus não se obtém pela autossuficiência orgulhosa, mas por uma fé que confia no caráter e no calendário de Deus mesmo quando a justiça divina permanece incompreensível."
+      },
+      "pasajes": [
+        "Hab 2:3",
+        "Hab 2:4"
+      ],
+      "ensenanza": {
+        "es": "La visión de Dios se cumplirá en su tiempo señalado, y la fe implica esperarla sin desfallecer · El alma orgullosa no es recta, pero el justo vivirá por su fe, no por logro propio",
+        "en": "God's vision will be fulfilled in its appointed time, and faith means waiting for it without fainting · The proud soul is not upright, but the righteous shall live by his faith, not by his own achievement",
+        "pt": "A visão de Deus se cumprirá em seu tempo determinado, e a fé implica esperá-la sem desfalecer · A alma orgulhosa não é reta, mas o justo viverá pela sua fé, não por conquista própria"
+      },
+      "distintivaReformada": {
+        "es": "La Reforma protestante encontró en Hab 2:4 —citado por Pablo en Ro 1:17 como tema de toda la epístola— el fundamento veterotestamentario decisivo de la doctrina de la justificación solo por fe (sola fide), el principio material de toda la teología reformada.",
+        "en": "The Protestant Reformation found in Hab 2:4 — cited by Paul in Rom 1:17 as the theme of the entire epistle — the decisive Old Testament foundation of the doctrine of justification by faith alone (sola fide), the material principle of all Reformed theology.",
+        "pt": "A Reforma protestante encontrou em Hc 2:4 — citado por Paulo em Rm 1:17 como tema de toda a epístola — o fundamento veterotestamentário decisivo da doutrina da justificação somente pela fé (sola fide), o princípio material de toda a teologia reformada."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Dios responde a la queja de Habacuc revelando que él mismo levanta a los caldeos como instrumento de su juicio (Hab 1:5-6), demostrando que gobierna soberanamente el ascenso y la caída de los imperios, usando incluso a naciones impías para cumplir sus propósitos sin comprometer su propia santidad.",
+        "en": "God responds to Habakkuk's complaint by revealing that he himself is raising up the Chaldeans as an instrument of his judgment (Hab 1:5-6), demonstrating that he sovereignly governs the rise and fall of empires, using even wicked nations to accomplish his purposes without compromising his own holiness.",
+        "pt": "Deus responde à queixa de Habacuque revelando que ele mesmo levanta os caldeus como instrumento de seu julgamento (Hc 1:5-6), demonstrando que governa soberanamente a ascensão e a queda dos impérios, usando até nações ímpias para cumprir seus propósitos sem comprometer sua própria santidade."
+      },
+      "pasajes": [
+        "Hab 1:5",
+        "Hab 1:6",
+        "Hab 1:12"
+      ],
+      "ensenanza": {
+        "es": "Dios levanta soberanamente naciones específicas para cumplir sus propósitos históricos · El uso providencial de instrumentos impíos no compromete la santidad de Dios · Dios ha ordenado a los caldeos para juicio, no como fin último sino como medio",
+        "en": "God sovereignly raises up specific nations to accomplish his historical purposes · The providential use of wicked instruments does not compromise God's holiness · God has ordained the Chaldeans for judgment, not as an ultimate end but as a means",
+        "pt": "Deus levanta soberanamente nações específicas para cumprir seus propósitos históricos · O uso providencial de instrumentos ímpios não compromete a santidade de Deus · Deus ordenou os caldeus para julgamento, não como fim último, mas como meio"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la providencia sostiene, junto con Habacuc, que Dios gobierna la historia de las naciones sin ser autor del pecado que esas naciones cometen, distinguiendo entre el decreto soberano de Dios y la responsabilidad moral de los agentes humanos.",
+        "en": "Reformed providence doctrine holds, together with Habakkuk, that God governs the history of the nations without being the author of the sin those nations commit, distinguishing between God's sovereign decree and the moral responsibility of human agents.",
+        "pt": "A doutrina reformada da providência sustenta, junto com Habacuque, que Deus governa a história das nações sem ser autor do pecado que essas nações cometem, distinguindo entre o decreto soberano de Deus e a responsabilidade moral dos agentes humanos."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "Habacuc confiesa que los ojos de Dios son «muy limpios para ver el mal» y que Dios «no puede ver el agravio» (Hab 1:13), estableciendo la santidad absoluta de Dios como el fundamento de la queja del profeta: ¿cómo puede tal Dios tolerar la injusticia, aunque sea temporalmente?",
+        "en": "Habakkuk confesses that God's eyes are \"too pure to look on evil\" and that God \"cannot look at wrong\" (Hab 1:13), establishing God's absolute holiness as the foundation of the prophet's complaint: how can such a God tolerate injustice, even temporarily?",
+        "pt": "Habacuque confessa que os olhos de Deus são «demasiado puros para ver o mal» e que Deus «não pode ver a opressão» (Hc 1:13), estabelecendo a santidade absoluta de Deus como o fundamento da queixa do profeta: como pode tal Deus tolerar a injustiça, mesmo que temporariamente?"
+      },
+      "pasajes": [
+        "Hab 1:12",
+        "Hab 1:13",
+        "Hab 3:3"
+      ],
+      "ensenanza": {
+        "es": "Dios es eternamente santo, incapaz de contemplar el mal con aprobación · La aparente tolerancia divina de la injusticia genera una tensión teológica legítima que la fe debe sostener · La gloria y el poder de Dios se manifiestan majestuosamente en la teofanía del capítulo 3",
+        "en": "God is eternally holy, incapable of looking on evil with approval · The apparent divine tolerance of injustice generates a legitimate theological tension faith must hold · God's glory and power are majestically manifested in the chapter 3 theophany",
+        "pt": "Deus é eternamente santo, incapaz de contemplar o mal com aprovação · A aparente tolerância divina da injustiça gera uma tensão teológica legítima que a fé deve sustentar · A glória e o poder de Deus se manifestam majestosamente na teofania do capítulo 3"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada sostiene que la santidad de Dios y su providencia sobre el mal no son contradictorias sino misteriosamente coherentes, un misterio que Habacuc no resuelve intelectualmente sino que aprende a confiar mediante la fe.",
+        "en": "The Reformed tradition holds that God's holiness and his providence over evil are not contradictory but mysteriously coherent, a mystery Habakkuk does not resolve intellectually but learns to trust through faith.",
+        "pt": "A tradição reformada sustenta que a santidade de Deus e sua providência sobre o mal não são contraditórias, mas misteriosamente coerentes, mistério que Habacuque não resolve intelectualmente, mas aprende a confiar mediante a fé."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Habacuc anticipa que «la tierra será llena del conocimiento de la gloria del SEÑOR, como las aguas cubren el mar» (Hab 2:14), y su salmo final describe una teofanía en que Dios sale «para socorrer a su pueblo, para socorrer a su ungido» (Hab 3:13), estableciendo un patrón de victoria final de Dios sobre el mal que trasciende la crisis histórica inmediata del libro.",
+        "en": "Habakkuk anticipates that \"the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea\" (Hab 2:14), and his final psalm describes a theophany in which God goes out \"for the salvation of your people, for the salvation of your anointed\" (Hab 3:13), establishing a pattern of God's final victory over evil that transcends the book's immediate historical crisis.",
+        "pt": "Habacuque antecipa que «a terra se encherá do conhecimento da glória do SENHOR, como as águas cobrem o mar» (Hc 2:14), e seu salmo final descreve uma teofania em que Deus sai «para livrar o teu povo, para livrar o teu ungido» (Hc 3:13), estabelecendo um padrão de vitória final de Deus sobre o mal que transcende a crise histórica imediata do livro."
+      },
+      "pasajes": [
+        "Hab 2:14",
+        "Hab 2:20",
+        "Hab 3:13"
+      ],
+      "ensenanza": {
+        "es": "El conocimiento de la gloria de Dios eventualmente llenará toda la tierra sin excepción · Toda la tierra callará reverentemente ante la presencia del SEÑOR en su santo templo · Dios saldrá decisivamente para rescatar a su pueblo y a su ungido del poder del mal",
+        "en": "The knowledge of God's glory will eventually fill all the earth without exception · All the earth will keep reverent silence before the LORD's presence in his holy temple · God will go out decisively to rescue his people and his anointed from the power of evil",
+        "pt": "O conhecimento da glória de Deus eventualmente encherá toda a terra sem exceção · Toda a terra guardará silêncio reverente diante da presença do SENHOR em seu santo templo · Deus sairá decisivamente para resgatar seu povo e seu ungido do poder do mal"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee la visión escatológica de Habacuc como parte del mismo patrón de consumación que se despliega a través de todo el canon, cumplido inauguralmente en Cristo y consumado plenamente en su regreso (Ap 21:1-5).",
+        "en": "The Reformed tradition reads Habakkuk's eschatological vision as part of the same pattern of consummation unfolding across the whole canon, inaugurally fulfilled in Christ and fully consummated at his return (Rev 21:1-5).",
+        "pt": "A tradição reformada lê a visão escatológica de Habacuque como parte do mesmo padrão de consumação que se desdobra através de todo o cânon, cumprido inauguralmente em Cristo e plenamente consumado em sua volta (Ap 21:1-5)."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Justificación",
+        "Fe"
+      ],
+      "resumen": {
+        "es": "El capítulo 11 confiesa que Dios justifica eficazmente a los que llama, no infundiendo justicia en ellos sino perdonando sus pecados y contando su persona como justa, únicamente por causa de Cristo, recibido por la fe sola. Hab 2:4 —«el justo por su fe vivirá»— es el texto veterotestamentario que Pablo cita explícitamente para fundamentar esta doctrina en Ro 1:17.",
+        "en": "Chapter 11 confesses that God effectually justifies those he calls, not by infusing righteousness into them but by pardoning their sins and accounting their persons righteous, solely for the sake of Christ, received by faith alone. Hab 2:4 — \"the righteous shall live by his faith\" — is the Old Testament text Paul explicitly cites to ground this doctrine in Rom 1:17.",
+        "pt": "O capítulo 11 confessa que Deus justifica eficazmente os que chama, não infundindo justiça neles, mas perdoando seus pecados e considerando suas pessoas justas, unicamente por causa de Cristo, recebido pela fé somente. Hc 2:4 — «o justo pela sua fé viverá» — é o texto veterotestamentário que Paulo cita explicitamente para fundamentar essa doutrina em Rm 1:17."
+      },
+      "genesis": [
+        "Hab 2:4"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    },
+    {
+      "cap": "Cap. 14",
+      "titulo": {
+        "es": "De la Fe Salvadora",
+        "en": "Of Saving Faith",
+        "pt": "Da Fé Salvadora"
+      },
+      "doctrinas": [
+        "Fe",
+        "Santificación"
+      ],
+      "resumen": {
+        "es": "El capítulo 14 describe la fe salvadora como el don del Espíritu por el cual el creyente cree ser verdadero lo que Dios ha revelado, y descansa en Cristo solo para la justificación. La respuesta final de Habacuc —confiar y regocijarse en Dios pese al colapso agrícola total (Hab 3:17-19)— ejemplifica esta fe que persevera incluso cuando toda evidencia sensible parece contradecirla.",
+        "en": "Chapter 14 describes saving faith as the gift of the Spirit by which the believer believes to be true what God has revealed, and rests on Christ alone for justification. Habakkuk's final response — trusting and rejoicing in God despite total agricultural collapse (Hab 3:17-19) — exemplifies this faith that perseveres even when all sensory evidence seems to contradict it.",
+        "pt": "O capítulo 14 descreve a fé salvadora como o dom do Espírito pelo qual o crente crê ser verdadeiro o que Deus revelou, e descansa somente em Cristo para a justificação. A resposta final de Habacuque — confiar e regozijar-se em Deus apesar do colapso agrícola total (Hc 3:17-19) — exemplifica essa fé que persevera mesmo quando toda evidência sensível parece contradizê-la."
+      },
+      "genesis": [
+        "Hab 3:17",
+        "Hab 3:18"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-14"
+    },
+    {
+      "cap": "Cap. 5",
+      "titulo": {
+        "es": "De la Providencia",
+        "en": "Of Providence",
+        "pt": "Da Providência"
+      },
+      "doctrinas": [
+        "Providencia",
+        "Soberanía de Dios"
+      ],
+      "resumen": {
+        "es": "El capítulo 5 confiesa que Dios sostiene, dirige y gobierna todas las criaturas y acciones mediante su sabidísima providencia. Habacuc ilustra esta doctrina de manera única al mostrar a Dios levantando deliberadamente a una nación pagana —los caldeos— como instrumento de su juicio providencial, sin comprometer su propia santidad ni la responsabilidad moral de esa nación.",
+        "en": "Chapter 5 confesses that God upholds, directs, and governs all creatures and actions by his most wise providence. Habakkuk uniquely illustrates this doctrine by showing God deliberately raising up a pagan nation — the Chaldeans — as an instrument of his providential judgment, without compromising his own holiness or that nation's moral responsibility.",
+        "pt": "O capítulo 5 confessa que Deus sustenta, dirige e governa todas as criaturas e ações por sua sapientíssima providência. Habacuque ilustra essa doutrina de maneira única ao mostrar Deus deliberadamente levantando uma nação pagã — os caldeus — como instrumento de seu julgamento providencial, sem comprometer sua própria santidade nem a responsabilidade moral dessa nação."
+      },
+      "genesis": [
+        "Hab 1:5",
+        "Hab 1:6"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-5"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Hab 1:5",
+      "es": "Mirad entre las naciones, y observad, y asombraos en gran manera; porque haré una obra en vuestros días que no creeríais aunque se os contara.",
+      "en": "Look among the nations, and see; wonder and be astounded. For I am doing a work in your days that you would not believe if told.",
+      "pt": "Vede entre as nações, e olhai, e maravilhai-vos grandemente; porque realizo uma obra em vossos dias, que vós não crereis, quando se contar.",
+      "nota": {
+        "es": "Pablo cita este versículo en Hch 13:41 como advertencia solemne contra el rechazo del evangelio, aplicando el mismo principio de la incredulidad ante una obra sorprendente de Dios que el propio Habacuc anuncia respecto al ascenso caldeo.",
+        "en": "Paul cites this verse in Acts 13:41 as a solemn warning against rejecting the gospel, applying the same principle of unbelief before an astonishing work of God that Habakkuk himself announces regarding the Chaldean rise.",
+        "pt": "Paulo cita este versículo em At 13:41 como advertência solene contra a rejeição do evangelho, aplicando o mesmo princípio da incredulidade diante de uma obra surpreendente de Deus que o próprio Habacuque anuncia a respeito da ascensão caldeia."
+      }
+    },
+    {
+      "ref": "Hab 2:4",
+      "es": "He aquí, el que es orgulloso, su alma no es recta en él; mas el justo por su fe vivirá.",
+      "en": "Behold, his soul is puffed up; it is not upright within him, but the righteous shall live by his faith.",
+      "pt": "Eis que a sua alma se eleva, e não é reta dentro dele; mas o justo pela sua fé viverá.",
+      "nota": {
+        "es": "El eje teológico de todo el libro y el versículo veterotestamentario más citado en el Nuevo Testamento (Ro 1:17; Gá 3:11; He 10:38), fundamento decisivo de la doctrina protestante de la justificación por fe.",
+        "en": "The theological axis of the entire book and the Old Testament verse most cited in the New Testament (Rom 1:17; Gal 3:11; Heb 10:38), the decisive foundation of the Protestant doctrine of justification by faith.",
+        "pt": "O eixo teológico de todo o livro e o versículo veterotestamentário mais citado no Novo Testamento (Rm 1:17; Gl 3:11; Hb 10:38), fundamento decisivo da doutrina protestante da justificação pela fé."
+      }
+    },
+    {
+      "ref": "Hab 2:14",
+      "es": "Porque la tierra será llena del conocimiento de la gloria del SEÑOR, como las aguas cubren el mar.",
+      "en": "For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea.",
+      "pt": "Porque a terra se encherá do conhecimento da glória do SENHOR, como as águas cobrem o mar.",
+      "nota": {
+        "es": "Una promesa escatológica de alcance universal, casi idéntica a Is 11:9, que asegura que el conocimiento de la gloria de Dios eventualmente prevalecerá sobre toda la tierra pese al orgullo temporal de los imperios.",
+        "en": "An eschatological promise of universal scope, nearly identical to Isa 11:9, assuring that the knowledge of God's glory will eventually prevail over all the earth despite the temporary pride of empires.",
+        "pt": "Uma promessa escatológica de alcance universal, quase idêntica a Is 11:9, que assegura que o conhecimento da glória de Deus eventualmente prevalecerá sobre toda a terra apesar do orgulho temporário dos impérios."
+      }
+    },
+    {
+      "ref": "Hab 2:20",
+      "es": "Mas el SEÑOR está en su santo templo; calle delante de Él toda la tierra.",
+      "en": "But the LORD is in his holy temple; let all the earth keep silence before him.",
+      "pt": "Mas o SENHOR está no seu santo templo; cale-se diante dele toda a terra.",
+      "nota": {
+        "es": "El versículo que cierra la serie de cinco ayes contra el orgullo caldeo, contrastando el ruido soberbio del opresor con el silencio reverente que la sola presencia de Dios exige de toda la creación.",
+        "en": "The verse closing the series of five woes against Chaldean pride, contrasting the oppressor's proud noise with the reverent silence God's mere presence demands of all creation.",
+        "pt": "O versículo que encerra a série de cinco ais contra o orgulho caldeu, contrastando o ruído soberbo do opressor com o silêncio reverente que a mera presença de Deus exige de toda a criação."
+      }
+    },
+    {
+      "ref": "Hab 3:17-18",
+      "es": "Aunque la higuera no florezca, ni haya fruto en las vides; aunque falte el producto del olivo, y los campos no produzcan alimento; aunque falten las ovejas del redil, y no haya vacas en los establos, con todo, yo me alegraré en el SEÑOR, me regocijaré en el Dios de mi salvación.",
+      "en": "Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls, yet I will rejoice in the LORD; I will take joy in the God of my salvation.",
+      "pt": "Ainda que a figueira não floresça, nem haja fruto na vide; que a novidade da oliveira falhe, e os campos não produzam mantimento; que as ovelhas da malhada sejam eliminadas, e não haja vacas nos currais; contudo, eu me alegrarei no SENHOR, exultarei no Deus da minha salvação.",
+      "nota": {
+        "es": "El clímax devocional de todo el libro: una declaración de gozo que no depende de ninguna circunstancia material favorable, sino únicamente del carácter salvador de Dios, la respuesta final y madura a la queja inicial del profeta.",
+        "en": "The devotional climax of the entire book: a declaration of joy that depends on no favorable material circumstance, but solely on God's saving character, the final, mature answer to the prophet's initial complaint.",
+        "pt": "O clímax devocional de todo o livro: uma declaração de alegria que não depende de nenhuma circunstância material favorável, mas unicamente do caráter salvador de Deus, a resposta final e madura à queixa inicial do profeta."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Habacuc lo trata como el texto veterotestamentario decisivo para la doctrina de la justificación por fe sola, pero resiste reducirlo a un mero proof-text aislado de su contexto: el libro entero modela el proceso completo de una fe genuina que cuestiona honestamente, espera pacientemente el calendario de Dios, y finalmente descansa en su carácter salvador independientemente de las circunstancias. Esta lectura evita tanto un fideísmo que desprecie las preguntas legítimas del profeta como un racionalismo que exija resolver intelectualmente el problema del mal antes de poder adorar.",
+    "en": "The Reformed reading of Habakkuk treats it as the decisive Old Testament text for the doctrine of justification by faith alone, but resists reducing it to a mere isolated proof-text apart from its context: the entire book models the complete process of genuine faith that honestly questions, patiently awaits God's timetable, and finally rests in his saving character regardless of circumstances. This reading avoids both a fideism that despises the prophet's legitimate questions and a rationalism that demands intellectually solving the problem of evil before one can worship.",
+    "pt": "A leitura reformada de Habacuque o trata como o texto veterotestamentário decisivo para a doutrina da justificação somente pela fé, mas resiste a reduzi-lo a um mero proof-text isolado de seu contexto: o livro inteiro modela o processo completo de uma fé genuína que questiona honestamente, espera pacientemente o calendário de Deus, e finalmente descansa em seu caráter salvador independentemente das circunstâncias. Essa leitura evita tanto um fideísmo que despreze as perguntas legítimas do profeta quanto um racionalismo que exija resolver intelectualmente o problema do mal antes de poder adorar."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Las Dos Quejas de Habacuc",
+        "en": "Habakkuk's Two Complaints",
+        "pt": "As Duas Queixas de Habacuque"
+      },
+      "descripcion": {
+        "es": "El libro abre con la primera queja del profeta: «¿Hasta cuándo, oh SEÑOR, clamaré, y no oirás?», ante la violencia, la iniquidad y la injusticia impunes dentro de la propia Judá (Hab 1:2-4). La respuesta de Dios resulta más perturbadora que consoladora: «haré una obra en vuestros días que no creeríais aunque se os contara» (Hab 1:5), pues él mismo levanta a los caldeos, nación «terrible y espantosa» que marcha por toda la anchura de la tierra tomando cautivas fortalezas y burlándose de los reyes (Hab 1:6-10). Esto provoca la segunda y más aguda queja de Habacuc: si los ojos de Dios son «muy limpios para ver el mal» y no puede ver el agravio (Hab 1:13), ¿cómo puede callar mientras el impío devora al que es más justo que él? El capítulo cierra con la imagen de los caldeos pescando naciones con anzuelo, sacrificando a su propia red por haber hecho gorda su porción (Hab 1:14-17).",
+        "en": "The book opens with the prophet's first complaint: \"O LORD, how long shall I cry for help, and you will not hear?\" over unpunished violence, iniquity, and injustice within Judah itself (Hab 1:2-4). God's answer proves more unsettling than comforting: \"I am doing a work in your days that you would not believe if told\" (Hab 1:5), for he himself is raising up the Chaldeans, a \"dreaded and fearsome\" nation that marches through the breadth of the earth taking strongholds captive and scoffing at kings (Hab 1:6-10). This provokes Habakkuk's second, sharper complaint: if God's eyes are \"too pure to look on evil\" and he cannot look at wrong (Hab 1:13), how can he be silent while the wicked swallows up one more righteous than he? The chapter closes with the image of the Chaldeans fishing nations with a hook, sacrificing to their own net because through it their portion is rich (Hab 1:14-17).",
+        "pt": "O livro abre com a primeira queixa do profeta: «até quando, ó SENHOR, clamarei eu, e tu não ouvirás?», diante da violência, iniquidade e injustiça impunes dentro da própria Judá (Hc 1:2-4). A resposta de Deus se revela mais perturbadora do que consoladora: «realizo uma obra em vossos dias, que vós não crereis, quando se contar» (Hc 1:5), pois ele mesmo levanta os caldeus, nação «terrível e espantosa» que marcha por toda a largura da terra tomando fortalezas cativas e zombando dos reis (Hc 1:6-10). Isso provoca a segunda e mais aguda queixa de Habacuque: se os olhos de Deus são «demasiado puros para ver o mal» e ele não pode ver a opressão (Hc 1:13), como pode calar-se enquanto o ímpio devora ao que é mais justo do que ele? O capítulo se encerra com a imagem dos caldeus pescando nações com anzol, sacrificando à sua própria rede por ter engordado a sua porção (Hc 1:14-17)."
+      },
+      "eventoClave": {
+        "es": "La desconcertante respuesta divina: Dios mismo levanta a los caldeos como instrumento de juicio, lo cual provoca la segunda y más aguda queja de Habacuc sobre la santidad de Dios (Hab 1:5-6,13).",
+        "en": "The unsettling divine answer: God himself raises up the Chaldeans as an instrument of judgment, provoking Habakkuk's second, sharper complaint about God's holiness (Hab 1:5-6,13).",
+        "pt": "A desconcertante resposta divina: o próprio Deus levanta os caldeus como instrumento de julgamento, o que provoca a segunda e mais aguda queixa de Habacuque sobre a santidade de Deus (Hc 1:5-6,13)."
+      },
+      "versiculoClave": "Hab 1:13",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 13:41",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita directamente Hab 1:5 en su sermón de Antioquía de Pisidia como advertencia solemne contra el rechazo del evangelio.",
+            "en": "Paul directly quotes Hab 1:5 in his sermon at Antioch of Pisidia as a solemn warning against rejecting the gospel.",
+            "pt": "Paulo cita diretamente Hc 1:5 em seu sermão em Antioquia da Pisídia como advertência solene contra a rejeição do evangelho."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "La violencia, la iniquidad y la injusticia judicial dentro de Judá —«la ley se relaja, y el derecho no se cumple jamás» (Hab 1:4)— provocan la queja inicial del profeta contra el pecado impune de su propio pueblo.",
+            "en": "Violence, iniquity, and judicial injustice within Judah — \"the law is paralyzed, and justice never goes forth\" (Hab 1:4) — provoke the prophet's initial complaint against the unpunished sin of his own people.",
+            "pt": "A violência, a iniquidade e a injustiça judicial dentro de Judá — «a lei se afrouxa, e o juízo nunca se cumpre» (Hc 1:4) — provocam a queixa inicial do profeta contra o pecado impune de seu próprio povo."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Dios mismo levanta a los caldeos como «obra» de juicio contra la iniquidad de Judá (Hab 1:5-6), un instrumento de ira divina cuya identidad sorprende y perturba al propio profeta.",
+              "en": "God himself raises up the Chaldeans as a judgment \"work\" against Judah's iniquity (Hab 1:5-6), an instrument of divine wrath whose identity surprises and unsettles the prophet himself.",
+              "pt": "O próprio Deus levanta os caldeus como «obra» de julgamento contra a iniquidade de Judá (Hc 1:5-6), instrumento de ira divina cuja identidade surpreende e perturba o próprio profeta."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "La Visión del Centinela",
+        "en": "The Watchman's Vision",
+        "pt": "A Visão do Vigia"
+      },
+      "descripcion": {
+        "es": "Habacuc se para «sobre mi guarda» como centinela, esperando la respuesta de Dios a su queja (Hab 2:1). La respuesta llega con la orden de escribir la visión con claridad «para que corra el que la lea», porque «aunque tarde, espérala; porque sin duda vendrá, no tardará» (Hab 2:2-3), y culmina en el versículo eje de todo el libro: «el justo por su fe vivirá» (Hab 2:4). A partir de aquí se despliegan cinco oráculos de ¡ay! contra el orgullo caldeo: contra quien amontona lo ajeno (Hab 2:6-8), contra quien edifica su casa por ganancia injusta (Hab 2:9-11), contra quien edifica ciudad con sangre (Hab 2:12-14, culminando en la promesa de que «la tierra será llena del conocimiento de la gloria del SEÑOR»), contra quien embriaga a su prójimo para exponer su desnudez (Hab 2:15-17), y contra el idólatra que confía en ídolos mudos (Hab 2:18-19). El capítulo cierra con el silencio reverente que toda la tierra debe guardar ante el SEÑOR en su santo templo (Hab 2:20).",
+        "en": "Habakkuk stands \"at my watchpost\" as a watchman, awaiting God's answer to his complaint (Hab 2:1). The answer comes with the order to write the vision plainly \"so he may run who reads it,\" for \"if it seems slow, wait for it; it will surely come; it will not delay\" (Hab 2:2-3), culminating in the book's axial verse: \"the righteous shall live by his faith\" (Hab 2:4). From here unfold five woe oracles against Chaldean pride: against the one who piles up what is not his own (Hab 2:6-8), against the one who builds his house by unjust gain (Hab 2:9-11), against the one who builds a city with blood (Hab 2:12-14, culminating in the promise that \"the earth will be filled with the knowledge of the glory of the LORD\"), against the one who makes his neighbor drink to expose his nakedness (Hab 2:15-17), and against the idolater who trusts in mute idols (Hab 2:18-19). The chapter closes with the reverent silence all the earth must keep before the LORD in his holy temple (Hab 2:20).",
+        "pt": "Habacuque se põe «na minha torre de vigia» como vigia, esperando a resposta de Deus à sua queixa (Hc 2:1). A resposta chega com a ordem de escrever a visão com clareza «para que a possa ler quem passa correndo», pois «se tardar, espera-o, porque certamente virá, não tardará» (Hc 2:2-3), e culmina no versículo-eixo de todo o livro: «o justo pela sua fé viverá» (Hc 2:4). A partir daqui se desdobram cinco oráculos de ai contra o orgulho caldeu: contra quem amontoa o que não é seu (Hc 2:6-8), contra quem edifica sua casa por ganância injusta (Hc 2:9-11), contra quem edifica cidade com sangue (Hc 2:12-14, culminando na promessa de que «a terra se encherá do conhecimento da glória do SENHOR»), contra quem embriaga o próximo para expor sua nudez (Hc 2:15-17), e contra o idólatra que confia em ídolos mudos (Hc 2:18-19). O capítulo se encerra com o silêncio reverente que toda a terra deve guardar diante do SENHOR em seu santo templo (Hc 2:20)."
+      },
+      "eventoClave": {
+        "es": "La revelación del principio central del libro: «el justo por su fe vivirá» (Hab 2:4), el versículo veterotestamentario más citado en el Nuevo Testamento.",
+        "en": "The revelation of the book's central principle: \"the righteous shall live by his faith\" (Hab 2:4), the Old Testament verse most cited in the New Testament.",
+        "pt": "A revelação do princípio central do livro: «o justo pela sua fé viverá» (Hc 2:4), o versículo veterotestamentário mais citado no Novo Testamento."
+      },
+      "versiculoClave": "Hab 2:4",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 1:17",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita Hab 2:4 como el tema programático de toda la epístola a los Romanos: «el justo por la fe vivirá».",
+            "en": "Paul cites Hab 2:4 as the programmatic theme of the entire epistle to the Romans: \"the righteous shall live by faith.\"",
+            "pt": "Paulo cita Hc 2:4 como o tema programático de toda a epístola aos Romanos: «o justo viverá da fé»."
+          }
+        },
+        {
+          "ref": "Gá 3:11",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita el mismo versículo para argumentar que nadie se justifica ante Dios por la ley, sino por la fe.",
+            "en": "Paul cites the same verse to argue that no one is justified before God by the law, but by faith.",
+            "pt": "Paulo cita o mesmo versículo para argumentar que ninguém é justificado diante de Deus pela lei, mas pela fé."
+          }
+        },
+        {
+          "ref": "He 10:37",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Hebreos cita Hab 2:3-4 en su forma griega para exhortar a la perseverancia en la fe mientras se espera la venida del que ha de venir.",
+            "en": "Hebrews cites Hab 2:3-4 in its Greek form to exhort perseverance in faith while awaiting the coming of the one who is to come.",
+            "pt": "Hebreus cita Hc 2:3-4 em sua forma grega para exortar à perseverança na fé enquanto se espera a vinda daquele que há de vir."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Justificación": {
+            "es": "La declaración «el justo por su fe vivirá» (Hab 2:4) establece que la vida genuina ante Dios se recibe por fe y no por autosuficiencia orgullosa, el principio que Pablo desarrolla plenamente como doctrina de la justificación.",
+            "en": "The declaration \"the righteous shall live by his faith\" (Hab 2:4) establishes that genuine life before God is received by faith and not by proud self-sufficiency, the principle Paul fully develops as the doctrine of justification.",
+            "pt": "A declaração «o justo pela sua fé viverá» (Hc 2:4) estabelece que a vida genuína diante de Deus é recebida pela fé, e não pela autossuficiência orgulhosa, princípio que Paulo desenvolve plenamente como doutrina da justificação."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Los cinco oráculos de ¡ay! (Hab 2:6-19) pronuncian el juicio inminente contra el orgullo, la avaricia y la violencia del opresor caldeo, ahora convertido de instrumento en blanco del juicio divino.",
+              "en": "The five woe oracles (Hab 2:6-19) pronounce imminent judgment against the pride, greed, and violence of the Chaldean oppressor, now turned from instrument into target of divine judgment.",
+              "pt": "Os cinco oráculos de ai (Hc 2:6-19) pronunciam o julgamento iminente contra o orgulho, a avareza e a violência do opressor caldeu, agora transformado de instrumento em alvo do julgamento divino."
+            }
+          },
+          {
+            "Idolatría": {
+              "es": "El quinto y último ay condena al que confía en ídolos tallados, mudos, «que no tienen aliento en absoluto» (Hab 2:18-19), la raíz espiritual final del orgullo caldeo denunciado en todo el capítulo.",
+              "en": "The fifth and final woe condemns the one who trusts in carved, mute idols, \"in which there is no breath at all\" (Hab 2:18-19), the final spiritual root of the Chaldean pride denounced throughout the chapter.",
+              "pt": "O quinto e último ai condena o que confia em ídolos entalhados, mudos, «em que não há nenhum fôlego» (Hc 2:18-19), a raiz espiritual final do orgulho caldeu denunciado em todo o capítulo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "La Oración y el Gozo de Habacuc",
+        "en": "Habakkuk's Prayer and Joy",
+        "pt": "A Oração e a Alegria de Habacuque"
+      },
+      "descripcion": {
+        "es": "El libro cierra con «oración de Habacuc el profeta, sobre Sigionot» (Hab 3:1), un salmo teofánico con notaciones musicales litúrgicas. Habacuc pide que Dios, en medio de su ira, se acuerde de tener misericordia (Hab 3:2), y describe una manifestación gloriosa de Dios que viene desde Temán y el monte de Parán, cuyo esplendor cubre los cielos (Hab 3:3-4), evocando deliberadamente las tradiciones del éxodo y la conquista —el sol y la luna se detienen (Hab 3:11, cf. Jos 10)—. El clímax teológico llega cuando Dios «sale para socorrer a su pueblo, para socorrer a su ungido» (Hab 3:13). Pese a que el cuerpo del profeta tiembla de temor (Hab 3:16), el libro culmina en una de las declaraciones de fe más radicales de toda la Escritura: aunque la higuera no florezca, ni haya fruto en las vides, ni ovejas en el redil, «con todo, yo me alegraré en el SEÑOR» (Hab 3:17-18), pues «Jehová el Señor es mi fortaleza» (Hab 3:19).",
+        "en": "The book closes with \"a prayer of Habakkuk the prophet, according to Shigionoth\" (Hab 3:1), a theophanic psalm with liturgical musical notations. Habakkuk asks that God, in the midst of wrath, remember mercy (Hab 3:2), and describes a glorious manifestation of God coming from Teman and Mount Paran, whose splendor covers the heavens (Hab 3:3-4), deliberately evoking exodus and conquest traditions — the sun and moon stand still (Hab 3:11, cf. Josh 10). The theological climax arrives when God \"went out for the salvation of your people, for the salvation of your anointed\" (Hab 3:13). Though the prophet's body trembles with fear (Hab 3:16), the book culminates in one of Scripture's most radical declarations of faith: though the fig tree should not blossom, nor fruit be on the vines, nor flock in the fold, \"yet I will rejoice in the LORD\" (Hab 3:17-18), for \"the LORD God is my strength\" (Hab 3:19).",
+        "pt": "O livro se encerra com «oração de Habacuque, o profeta, sobre Sigionote» (Hc 3:1), um salmo teofânico com notações musicais litúrgicas. Habacuque pede que Deus, em meio à ira, se lembre de ter misericórdia (Hc 3:2), e descreve uma manifestação gloriosa de Deus que vem de Temã e do monte Parã, cujo esplendor cobre os céus (Hc 3:3-4), evocando deliberadamente as tradições do êxodo e da conquista — o sol e a lua param (Hc 3:11, cf. Js 10). O clímax teológico chega quando Deus «saíste para livrar o teu povo, para livrar o teu ungido» (Hc 3:13). Embora o corpo do profeta trema de temor (Hc 3:16), o livro culmina em uma das declarações de fé mais radicais de toda a Escritura: ainda que a figueira não floresça, nem haja fruto na vide, nem ovelhas no aprisco, «contudo, eu me alegrarei no SENHOR» (Hc 3:17-18), pois «o SENHOR Deus é a minha força» (Hc 3:19)."
+      },
+      "eventoClave": {
+        "es": "La declaración final de gozo radical en Dios pese al colapso agrícola y económico total, la respuesta madura y plena de fe a la queja que abrió el libro (Hab 3:17-19).",
+        "en": "The final declaration of radical joy in God despite total agricultural and economic collapse, the mature, faith-filled answer to the complaint that opened the book (Hab 3:17-19).",
+        "pt": "A declaração final de alegria radical em Deus apesar do colapso agrícola e econômico total, a resposta madura e plena de fé à queixa que abriu o livro (Hc 3:17-19)."
+      },
+      "versiculoClave": "Hab 3:18",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Fil 4:12",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo describe un contentamiento similar independiente de las circunstancias materiales, aprendido «en cualquier estado» en que se encuentre.",
+            "en": "Paul describes a similar contentment independent of material circumstances, learned to be \"in any and every circumstance.\"",
+            "pt": "Paulo descreve um contentamento semelhante, independente das circunstâncias materiais, aprendido «em toda e qualquer situação»."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Gloria de Dios": {
+            "es": "La teofanía describe la manifestación gloriosa de Dios cuyo «esplendor es como la luz» y cuya majestad cubre los cielos (Hab 3:3-4), revelando su gloria como fundamento último de la confianza del profeta.",
+            "en": "The theophany describes God's glorious manifestation whose \"splendor covers the heavens\" and whose majesty fills the earth (Hab 3:3-4), revealing his glory as the ultimate foundation of the prophet's trust.",
+            "pt": "A teofania descreve a manifestação gloriosa de Deus cujo «resplendor é como a luz» e cuja majestade cobre os céus (Hc 3:3-4), revelando sua glória como fundamento último da confiança do profeta."
+          }
+        },
+        "secundarios": [
+          {
+            "Éxodo/Liberación": {
+              "es": "La teofanía evoca deliberadamente las tradiciones del éxodo y la conquista —la pestilencia que va delante de Dios, el sol y la luna deteniéndose (Hab 3:5,11)— situando el rescate esperado dentro del mismo patrón redentor histórico.",
+              "en": "The theophany deliberately evokes exodus and conquest traditions — pestilence going before God, the sun and moon standing still (Hab 3:5,11) — situating the hoped-for rescue within the same redemptive-historical pattern.",
+              "pt": "A teofania evoca deliberadamente as tradições do êxodo e da conquista — a pestilência que vai adiante de Deus, o sol e a lua parando (Hc 3:5,11) — situando o resgate esperado dentro do mesmo padrão redentor histórico."
+            }
+          },
+          {
+            "Mesías/Ungido": {
+              "es": "Dios sale «para socorrer a su pueblo, para socorrer a su ungido» (Hab 3:13), vinculando la liberación esperada con la figura del ungido de Dios, anticipo del rescate mesiánico definitivo.",
+              "en": "God goes out \"for the salvation of your people, for the salvation of your anointed\" (Hab 3:13), linking the hoped-for deliverance with God's anointed figure, a foretaste of the definitive messianic rescue.",
+              "pt": "Deus sai «para livrar o teu povo, para livrar o teu ungido» (Hc 3:13), vinculando a libertação esperada com a figura do ungido de Deus, antegozo do resgate messiânico definitivo."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos y reformados de renombre internacional.",
+          "en": "The ESV Study Bible is an editorial project of Crossway directed by Lane T. Dennis, with Wayne Grudem as general theological editor, bringing together more than 90 internationally recognized evangelical and Reformed scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos e reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas de estudio verso por verso con ensayos temáticos, mapas y cronologías, todo dentro de un marco teológico evangélico reformado que enfatiza la inerrancia bíblica y la lectura redentora-histórica del canon.",
+          "en": "It combines verse-by-verse study notes with thematic essays, maps, and chronologies, all within an evangelical Reformed theological framework emphasizing biblical inerrancy and a redemptive-historical reading of the canon.",
+          "pt": "Combina notas de estudo verso por verso com ensaios temáticos, mapas e cronologias, tudo dentro de um quadro teológico evangélico reformado que enfatiza a inerrância bíblica e a leitura redentora-histórica do cânon."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio, la datación entre 609 y 605 a.C., y la defensa de la unidad literaria del libro utilizados para establecer el contexto de Habacuc en este registro.",
+          "en": "It provided the introductory framework, the dating between 609 and 605 BC, and the defense of the book's literary unity used to establish Habakkuk's context in this record.",
+          "pt": "Forneceu o quadro introdutório, a datação entre 609 e 605 a.C., e a defesa da unidade literária do livro utilizados para estabelecer o contexto de Habacuque neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas teológicas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theological notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Notas teológicas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la santidad de Dios y la soberanía divina.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of 20th-century Reformed evangelicalism, known for his defense of God's holiness and divine sovereignty.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da santidade de Deus e da soberania divina."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio doctrinalmente precisas, ancladas en la Confesión de Westminster y los estándares confesionales reformados históricos.",
+          "en": "He edited a team of Reformed scholars to produce doctrinally precise study notes, anchored in the Westminster Confession and the historic Reformed confessional standards.",
+          "pt": "Editou uma equipe de estudiosos reformados para produzir notas de estudo doutrinariamente precisas, ancoradas na Confissão de Westminster e nos padrões confessionais reformados históricos."
+        },
+        "aportacion": {
+          "es": "Ofreció las notas teológicas confesionales utilizadas para conectar Hab 2:4 y la teofanía del capítulo 3 con las doctrinas de la justificación, la fe salvadora y la providencia articuladas en la Confesión de Westminster.",
+          "en": "It provided the confessional theological notes used to connect Hab 2:4 and the chapter 3 theophany with the doctrines of justification, saving faith, and providence articulated in the Westminster Confession.",
+          "pt": "Ofereceu as notas teológicas confessionais utilizadas para conectar Hc 2:4 e a teofania do capítulo 3 com as doutrinas da justificação, da fé salvadora e da providência articuladas na Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Terminología teológica",
+          "Citas bíblicas NBLA"
+        ],
+        "en": [
+          "Theological terminology",
+          "NBLA Scripture quotations"
+        ],
+        "pt": [
+          "Terminologia teológica",
+          "Citações bíblicas NBLA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries para llevar la erudición reformada al mundo hispanohablante.",
+          "en": "A Spanish adaptation of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries to bring Reformed scholarship to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com a Ligonier Ministries para levar a erudição reformada ao mundo hispanofalante."
+        },
+        "metodo": {
+          "es": "Traduce y adapta las notas teológicas de la Reformation Study Bible al contexto y la versión NBLA, manteniendo el mismo rigor confesional reformado del original en inglés.",
+          "en": "It translates and adapts the theological notes of the Reformation Study Bible to the context and the NBLA version, maintaining the same Reformed confessional rigor of the English original.",
+          "pt": "Traduz e adapta as notas teológicas da Reformation Study Bible ao contexto e à versão NBLA, mantendo o mesmo rigor confessional reformado do original em inglês."
+        },
+        "aportacion": {
+          "es": "Sirvió como referencia primaria en español para la terminología teológica y las citas bíblicas en NBLA utilizadas a lo largo de este registro.",
+          "en": "It served as the primary Spanish-language reference for theological terminology and the NBLA Scripture quotations used throughout this record.",
+          "pt": "Serviu como referência primária em espanhol para a terminologia teológica e as citações bíblicas em NBLA utilizadas ao longo deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Justificación",
+          "Providencia"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Justification",
+          "Providence"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Justificação",
+          "Providência"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático evangélico, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y coeditor general de la ESV Study Bible.",
+          "en": "Wayne Grudem is an evangelical systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo sistemático evangélico, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e coeditor geral da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, fundamentando cada afirmación doctrinal directamente en el texto bíblico con amplias referencias cruzadas.",
+          "en": "He organizes Christian doctrine by classic systematic categories, grounding each doctrinal affirmation directly in the biblical text with extensive cross-references.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, fundamentando cada afirmação doutrinária diretamente no texto bíblico com amplas referências cruzadas."
+        },
+        "aportacion": {
+          "es": "Proporcionó las categorías de teología sistemática —justificación, providencia, teología propia, escatología— utilizadas para estructurar la sección teológica de este registro sobre Habacuc, incluida la exposición clásica de Hab 2:4.",
+          "en": "It provided the systematic theology categories — justification, providence, theology proper, eschatology — used to structure the theological section of this record on Habakkuk, including the classic exposition of Hab 2:4.",
+          "pt": "Forneceu as categorias de teologia sistemática — justificação, providência, teologia própria, escatologia — utilizadas para estruturar a seção teológica deste registro sobre Habacuque, incluindo a exposição clássica de Hc 2:4."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/systematic-theology"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas históricas del pacto, enfatizando la unidad orgánica de la Escritura y su culminación cristológica.",
+          "en": "He traces the progressive development of divine revelation through the historical epochs of the covenant, emphasizing the organic unity of Scripture and its christological culmination.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas históricas do pacto, enfatizando a unidade orgânica da Escritura e sua culminação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y la lectura de Hab 2:4 y de la teofanía del capítulo 3 como anticipos genuinos de la obra redentora de Cristo utilizado en este registro.",
+          "en": "It grounded the christological focus and the reading of Hab 2:4 and the chapter 3 theophany as genuine foretastes of Christ's redemptive work used in this record.",
+          "pt": "Fundamentou o enfoque cristológico e a leitura de Hc 2:4 e da teofania do capítulo 3 como antegozos genuínos da obra redentora de Cristo utilizado neste registro."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biblical-theology-doctrine/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Cercano Oriente Antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Ancient Near East"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo del Cercano Oriente Antiguo, con nombramientos en Wheaton College, Missouri State University y la Universidad de Kansas respectivamente.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the Ancient Near Eastern background, holding appointments at Wheaton College, Missouri State University, and the University of Kansas respectively.",
+          "pt": "Walton, Matthews e Chavalas são estudiosos veterotestamentários especializados no pano de fundo do Antigo Oriente Próximo, com nomeações em Wheaton College, Missouri State University e na University of Kansas respectivamente."
+        },
+        "metodo": {
+          "es": "Comenta el texto bíblico versículo por versículo iluminando su trasfondo cultural, geográfico y arqueológico del Cercano Oriente Antiguo, sin comprometer la autoridad del texto revelado.",
+          "en": "It comments on the biblical text verse by verse, illuminating its Ancient Near Eastern cultural, geographic, and archaeological background, without compromising the authority of the revealed text.",
+          "pt": "Comenta o texto bíblico versículo por versículo, iluminando seu pano de fundo cultural, geográfico e arqueológico do Antigo Oriente Próximo, sem comprometer a autoridade do texto revelado."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo geográfico y militar sobre el ascenso caldeo y la batalla de Carquemis utilizado en la sección de contexto histórico de este registro.",
+          "en": "It provided the geographic and military background on the Chaldean rise and the Battle of Carchemish used in the historical context section of this record.",
+          "pt": "Forneceu o pano de fundo geográfico e militar sobre a ascensão caldeia e a batalha de Carquemis utilizado na seção de contexto histórico deste registro."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (Walton, 2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Ascenso del Imperio neobabilónico"
+        ],
+        "en": [
+          "Archaeology",
+          "Rise of the Neo-Babylonian Empire"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Ascensão do Império neobabilônico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida por un equipo de arqueólogos y eruditos bíblicos evangélicos bajo Zondervan, esta obra reúne hallazgos arqueológicos relevantes para la interpretación del texto bíblico en su contexto histórico original.",
+          "en": "Produced by a team of archaeologists and evangelical biblical scholars under Zondervan, this work brings together archaeological findings relevant to interpreting the biblical text in its original historical context.",
+          "pt": "Produzida por uma equipe de arqueólogos e estudiosos bíblicos evangélicos sob a Zondervan, esta obra reúne achados arqueológicos relevantes para a interpretação do texto bíblico em seu contexto histórico original."
+        },
+        "metodo": {
+          "es": "Inserta notas arqueológicas y artículos temáticos junto al texto bíblico, correlacionando descubrimientos materiales específicos con pasajes y personajes bíblicos concretos.",
+          "en": "It inserts archaeological notes and thematic articles alongside the biblical text, correlating specific material discoveries with concrete biblical passages and figures.",
+          "pt": "Insere notas arqueológicas e artigos temáticos junto ao texto bíblico, correlacionando descobertas materiais específicas com passagens e personagens bíblicos concretos."
+        },
+        "aportacion": {
+          "es": "Aportó los datos sobre la Crónica babilónica de Carquemis y los anales de Nabopolasar utilizados para documentar el trasfondo del ascenso caldeo presupuesto por Habacuc.",
+          "en": "It provided the data on the Babylonian Chronicle of Carchemish and the annals of Nabopolassar used to document the background of the Chaldean rise presupposed by Habakkuk.",
+          "pt": "Contribuiu com os dados sobre a Crônica babilônica de Carquemis e os anais de Nabopolassar utilizados para documentar o pano de fundo da ascensão caldeia pressuposta por Habacuque."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 2000,
+      "editorial": "Westminster John Knox Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología del reinado de Joacim",
+          "Ascenso neobabilónico"
+        ],
+        "en": [
+          "Chronology of Jehoiakim's reign",
+          "Neo-Babylonian rise"
+        ],
+        "pt": [
+          "Cronologia do reinado de Jeoaquim",
+          "Ascensão neobabilônica"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908-1995) fue profesor de Antiguo Testamento en Union Theological Seminary en Virginia y una figura decisiva en la reconstrucción histórica de Israel dentro de la erudición bíblica del siglo XX.",
+          "en": "John Bright (1908-1995) was professor of Old Testament at Union Theological Seminary in Virginia and a decisive figure in the historical reconstruction of Israel within 20th-century biblical scholarship.",
+          "pt": "John Bright (1908-1995) foi professor de Antigo Testamento no Union Theological Seminary, na Virgínia, e uma figura decisiva na reconstrução histórica de Israel dentro da erudição bíblica do século XX."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el testimonio bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, dentro de un marco históricamente riguroso.",
+          "en": "He reconstructs the history of Israel by integrating the biblical testimony with archaeological evidence and extrabiblical Ancient Near Eastern records, within a historically rigorous framework.",
+          "pt": "Reconstrói a história de Israel integrando o testemunho bíblico com a evidência arqueológica e os registros extrabíblicos do Antigo Oriente Próximo, dentro de um quadro historicamente rigoroso."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico del reinado de Joacim y del ascenso caldeo decisivo tras la batalla de Carquemis utilizado para fechar y contextualizar Habacuc en este registro.",
+          "en": "It provided the chronological framework of Jehoiakim's reign and the decisive Chaldean rise after the Battle of Carchemish used to date and contextualize Habakkuk in this record.",
+          "pt": "Forneceu o quadro cronológico do reinado de Jeoaquim e da ascensão caldeia decisiva após a batalha de Carquemis utilizado para datar e contextualizar Habacuque neste registro."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.52,
+    "camposMarcados": [
+      {
+        "campo": "año / autor.nota",
+        "razon": "Se sitúa la composición c. 609-605 a.C., antes de la batalla de Carquemis, siguiendo la posición conservadora/reformada de que el lenguaje de asombro genuino en Hab 1:5 exige que el ascenso caldeo sea aún una novedad no experimentada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se rechaza tanto la propuesta crítica de una fecha posterior a 597 a.C. como la separación del salmo del capítulo 3 como composición independiente, defendiendo la unidad completa del libro y la fecha temprana consistente con la posición reformada.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "personajes[].Habacuc.biografiaHistorica",
+        "razon": "No existe evidencia externa que permita identificar a Habacuc con ninguna otra figura conocida; nivelEvidencia se marcó 'especulativo' por definición de la categoría, sin que esto debilite la autoridad del texto profético.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "personajes[].El justo.biografiaHistorica",
+        "razon": "«El justo» de Hab 2:4 es una figura teológica representativa, no un individuo histórico identificable; nivelEvidencia se marcó 'especulativo' porque la categoría de evidencia histórica externa no es aplicable a un principio teológico genérico.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "Los 3 capítulos del libro se mapearon 1:1 a 3 unidades temáticas, ya que cada capítulo constituye un movimiento retórico coherente y autocontenido (las dos quejas y la respuesta divina; la visión del centinela y los cinco ayes; la oración teofánica y el gozo final).",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-06T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-06T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
