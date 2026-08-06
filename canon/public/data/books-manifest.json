@@ -1358,7 +1358,8 @@
       "ordenCanon": 36,
       "capitulosTotal": 3,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "sofonias.json",
       "razon": {
         "es": "Anuncia el Día de Jehová como juicio universal y, a la vez, como restauración futura con gozo: 'se gozará sobre ti con cánticos' (Sof 3:17).",
         "en": "Announces the Day of the LORD as universal judgment and, at the same time, as future restoration with joy: 'he will rejoice over you with singing' (Zeph 3:17).",

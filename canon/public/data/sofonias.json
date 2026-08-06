@@ -1,0 +1,1552 @@
+{
+  "id": 36,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Sofonías",
+    "en": "Zephaniah",
+    "pt": "Sofonias"
+  },
+  "tituloOriginal": "צְפַנְיָה",
+  "transliteracion": "Tsephanyâh",
+  "significado": {
+    "es": "El SEÑOR ha escondido / El SEÑOR atesora",
+    "en": "The LORD has hidden / The LORD treasures",
+    "pt": "O SENHOR escondeu / O SENHOR entesoura"
+  },
+  "resumenGeneral": {
+    "es": "Sofonías abre con la declaración más universal de juicio en todo el Antiguo Testamento: «barreré por completo todas las cosas de sobre la faz de la tierra» (Sof 1:2-3), un eco deliberado y reversión del lenguaje de la creación, antes de concentrarse en el «día del SEÑOR» contra Judá por su idolatría a Baal y su complacencia espiritual (Sof 1:4-18). El capítulo 2 gira hacia la esperanza condicional —«buscad al SEÑOR... quizás seáis guardados» (Sof 2:3)— y despliega oráculos de juicio contra las naciones vecinas, culminando irónicamente en la desolación de Nínive (Sof 2:13-15), la misma ciudad perdonada en tiempos de Jonás. El capítulo 3 denuncia primero a los líderes corruptos de Jerusalén (Sof 3:1-7), pero se transforma en la promesa de un remanente humilde con labios purificados (Sof 3:9-13) y culmina en una de las escenas más tiernas de toda la Escritura: Dios mismo cantando de gozo sobre su pueblo restaurado (Sof 3:14-17).",
+    "en": "Zephaniah opens with the most universal declaration of judgment in the entire Old Testament: \"I will utterly sweep away everything from the face of the earth\" (Zeph 1:2-3), a deliberate echo and reversal of creation language, before narrowing to the \"day of the LORD\" against Judah for its Baal worship and spiritual complacency (Zeph 1:4-18). Chapter 2 turns toward conditional hope — \"seek the LORD... perhaps you may be hidden\" (Zeph 2:3) — and unfolds judgment oracles against the neighboring nations, culminating ironically in Nineveh's desolation (Zeph 2:13-15), the same city spared in the days of Jonah. Chapter 3 first denounces Jerusalem's corrupt leaders (Zeph 3:1-7), but transforms into the promise of a humble remnant with purified lips (Zeph 3:9-13) and culminates in one of the tenderest scenes in all of Scripture: God himself singing for joy over his restored people (Zeph 3:14-17).",
+    "pt": "Sofonias abre com a declaração mais universal de julgamento em todo o Antigo Testamento: «destruirei de sobre a face da terra tudo» (Sf 1:2-3), um eco deliberado e reversão da linguagem da criação, antes de se concentrar no «dia do SENHOR» contra Judá por sua idolatria a Baal e sua complacência espiritual (Sf 1:4-18). O capítulo 2 se volta para a esperança condicional — «buscai ao SENHOR... porventura sereis escondidos» (Sf 2:3) — e desdobra oráculos de julgamento contra as nações vizinhas, culminando ironicamente na desolação de Nínive (Sf 2:13-15), a mesma cidade poupada nos dias de Jonas. O capítulo 3 denuncia primeiro os líderes corruptos de Jerusalém (Sf 3:1-7), mas se transforma na promessa de um remanescente humilde com lábios purificados (Sf 3:9-13) e culmina numa das cenas mais ternas de toda a Escritura: o próprio Deus cantando de alegria sobre seu povo restaurado (Sf 3:14-17)."
+  },
+  "capitulosTotal": 3,
+  "autor": {
+    "nombre": {
+      "es": "Sofonías",
+      "en": "Zephaniah",
+      "pt": "Sofonias"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El libro se autoatribuye a Sofonías, cuya genealogía se traza inusualmente hasta cuatro generaciones —«hijo de Cusi, hijo de Gedalías, hijo de Amarías, hijo de Ezequías» (Sof 1:1)—. La mayoría de eruditos conservadores identifican a este «Ezequías» con el rey de Judá del mismo nombre, lo que situaría a Sofonías como bisnieto real y posible pariente de Josías, aunque esta identificación no puede confirmarse con certeza absoluta.",
+      "en": "The book self-attributes to Zephaniah, whose genealogy is unusually traced through four generations — \"son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah\" (Zeph 1:1). Most conservative scholars identify this \"Hezekiah\" with the king of Judah of the same name, which would make Zephaniah a royal great-great-grandson and possible relative of Josiah, though this identification cannot be confirmed with absolute certainty.",
+      "pt": "O livro se autoatribui a Sofonias, cuja genealogia é traçada de forma incomum através de quatro gerações — «filho de Cuchi, filho de Gedalias, filho de Amarias, filho de Ezequias» (Sf 1:1). A maioria dos estudiosos conservadores identifica esse «Ezequias» com o rei de Judá de mesmo nome, o que situaria Sofonias como trineto real e possível parente de Josias, embora essa identificação não possa ser confirmada com certeza absoluta."
+    }
+  },
+  "año": {
+    "desde": -640,
+    "hasta": -622,
+    "display": {
+      "es": "Fecha de escritura: c. 640-622 a.C., durante el reinado de Josías, antes de las grandes reformas religiosas de 622 a.C.",
+      "en": "Date of writing: c. 640-622 BC, during the reign of Josiah, before the great religious reforms of 622 BC",
+      "pt": "Data de escrita: c. 640-622 a.C., durante o reinado de Josias, antes das grandes reformas religiosas de 622 a.C."
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Judá, Jerusalén, durante el reinado de Josías",
+    "en": "Judah, Jerusalem, during the reign of Josiah",
+    "pt": "Judá, Jerusalém, durante o reinado de Josias"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron Age II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Capital de Judá, en la actual Israel/Cisjordania",
+          "en": "Capital of Judah, in modern Israel/West Bank",
+          "pt": "Capital de Judá, no atual Israel/Cisjordânia"
+        },
+        "significancia": {
+          "es": "El objeto central del juicio de Sofonías por su idolatría sincretista y la corrupción de sus líderes, y finalmente destinataria de la promesa de restauración gozosa (Sof 1:4-13; 3:14-17)",
+          "en": "The central object of Zephaniah's judgment for its syncretistic idolatry and corrupt leaders, and finally the recipient of the promise of joyful restoration (Zeph 1:4-13; 3:14-17)",
+          "pt": "O objeto central do julgamento de Sofonias por sua idolatria sincretista e a corrupção de seus líderes, e finalmente destinatária da promessa de restauração alegre (Sf 1:4-13; 3:14-17)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Filistea",
+          "en": "Philistia",
+          "pt": "Filístia"
+        },
+        "identificacionModerna": {
+          "es": "La llanura costera del sur, incluidas ciudades como Gaza y Ascalón, en la actual Franja de Gaza e Israel",
+          "en": "The southern coastal plain, including cities like Gaza and Ashkelon, in the modern Gaza Strip and Israel",
+          "pt": "A planície costeira do sul, incluindo cidades como Gaza e Ascalom, na atual Faixa de Gaza e Israel"
+        },
+        "significancia": {
+          "es": "La primera nación extranjera denunciada en los oráculos contra las naciones, cuya tierra costera se promete finalmente al remanente de Judá (Sof 2:4-7)",
+          "en": "The first foreign nation denounced in the oracles against the nations, whose coastal land is finally promised to Judah's remnant (Zeph 2:4-7)",
+          "pt": "A primeira nação estrangeira denunciada nos oráculos contra as nações, cuja terra costeira é finalmente prometida ao remanescente de Judá (Sf 2:4-7)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Nínive",
+          "en": "Nineveh",
+          "pt": "Nínive"
+        },
+        "identificacionModerna": {
+          "es": "Capital del imperio asirio, junto al río Tigris, cerca de la actual Mosul, Irak",
+          "en": "Capital of the Assyrian empire, on the Tigris River, near modern Mosul, Iraq",
+          "pt": "Capital do império assírio, junto ao rio Tigre, perto da atual Mossul, Iraque"
+        },
+        "significancia": {
+          "es": "El clímax irónico de los oráculos contra las naciones: la misma ciudad perdonada en tiempos de Jonás es declarada desolación final (Sof 2:13-15)",
+          "en": "The ironic climax of the oracles against the nations: the same city spared in the days of Jonah is declared a final desolation (Zeph 2:13-15)",
+          "pt": "O clímax irônico dos oráculos contra as nações: a mesma cidade poupada nos dias de Jonas é declarada desolação final (Sf 2:13-15)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Cus (Etiopía)",
+          "en": "Cush (Ethiopia)",
+          "pt": "Cuxe (Etiópia)"
+        },
+        "identificacionModerna": {
+          "es": "Región al sur de Egipto, en el actual Sudán y norte de Etiopía",
+          "en": "The region south of Egypt, in modern Sudan and northern Ethiopia",
+          "pt": "Região ao sul do Egito, no atual Sudão e norte da Etiópia"
+        },
+        "significancia": {
+          "es": "Mencionada brevemente entre los oráculos contra las naciones, posiblemente representando los confines del mundo conocido bajo el juicio de Dios (Sof 2:12)",
+          "en": "Briefly mentioned among the oracles against the nations, possibly representing the ends of the known world under God's judgment (Zeph 2:12)",
+          "pt": "Brevemente mencionada entre os oráculos contra as nações, possivelmente representando os confins do mundo conhecido sob o juízo de Deus (Sf 2:12)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Judá (bajo Josías)",
+          "en": "Judah (under Josiah)",
+          "pt": "Judá (sob Josias)"
+        },
+        "rolEnElTexto": {
+          "es": "El reino cuya idolatría sincretista —Baal, el culto a los astros, Milcom— y cuyos líderes corruptos son el blanco central del libro (Sof 1:4-13; 3:1-7)",
+          "en": "The kingdom whose syncretistic idolatry — Baal, the host of heaven, Milcom — and corrupt leaders are the book's central target (Zeph 1:4-13; 3:1-7)",
+          "pt": "O reino cuja idolatria sincretista — Baal, o culto aos astros, Milcom — e cujos líderes corruptos são o alvo central do livro (Sf 1:4-13; 3:1-7)"
+        },
+        "estadoArqueologico": {
+          "es": "El reinado de Josías está bien documentado en 2 Reyes y 2 Crónicas, y arqueológicamente mediante hallazgos administrativos judaítas tardíos que confirman la expansión territorial de este período",
+          "en": "Josiah's reign is well documented in 2 Kings and 2 Chronicles, and archaeologically through late Judahite administrative finds confirming this period's territorial expansion",
+          "pt": "O reinado de Josias está bem documentado em 2 Reis e 2 Crônicas, e arqueologicamente por meio de achados administrativos judaítas tardios que confirmam a expansão territorial deste período"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Filisteos",
+          "en": "Philistines",
+          "pt": "Filisteus"
+        },
+        "rolEnElTexto": {
+          "es": "El pueblo costero cuyas ciudades —Gaza, Ascalón, Asdod, Ecrón— reciben el primer oráculo de juicio entre las naciones (Sof 2:4-7)",
+          "en": "The coastal people whose cities — Gaza, Ashkelon, Ashdod, Ekron — receive the first judgment oracle among the nations (Zeph 2:4-7)",
+          "pt": "O povo costeiro cujas cidades — Gaza, Ascalom, Asdode, Ecrom — recebem o primeiro oráculo de julgamento entre as nações (Sf 2:4-7)"
+        },
+        "estadoArqueologico": {
+          "es": "Las cinco ciudades filisteas están ampliamente documentadas arqueológicamente, con evidencia de su declive gradual bajo la presión asiria y luego egipcia y babilónica en el siglo VII a.C.",
+          "en": "The five Philistine cities are extensively documented archaeologically, with evidence of their gradual decline under Assyrian and later Egyptian and Babylonian pressure in the 7th century BC",
+          "pt": "As cinco cidades filisteias estão amplamente documentadas arqueologicamente, com evidências de seu declínio gradual sob pressão assíria e depois egípcia e babilônica no século VII a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Asirios (Nínive)",
+          "en": "Assyrians (Nineveh)",
+          "pt": "Assírios (Nínive)"
+        },
+        "rolEnElTexto": {
+          "es": "El imperio cuya capital, Nínive, recibe el oráculo climático de desolación final entre las naciones juzgadas, cumplido en 612 a.C. (Sof 2:13-15)",
+          "en": "The empire whose capital, Nineveh, receives the climactic oracle of final desolation among the judged nations, fulfilled in 612 BC (Zeph 2:13-15)",
+          "pt": "O império cuja capital, Nínive, recebe o oráculo climático de desolação final entre as nações julgadas, cumprido em 612 a.C. (Sf 2:13-15)"
+        },
+        "estadoArqueologico": {
+          "es": "La caída y el abandono de Nínive tras 612 a.C. están ampliamente confirmados arqueológicamente, con estratos de destrucción y la ausencia casi total de ocupación posterior",
+          "en": "Nineveh's fall and abandonment after 612 BC are extensively confirmed archaeologically, with destruction strata and the near-total absence of subsequent occupation",
+          "pt": "A queda e o abandono de Nínive após 612 a.C. estão amplamente confirmados arqueologicamente, com estratos de destruição e a ausência quase total de ocupação posterior"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "La arqueología del reinado de Josías confirma un período de reforma religiosa y expansión territorial documentado en 2R 22-23, incluidos hallazgos administrativos y sellos reales que reflejan la centralización del culto en Jerusalén tras 622 a.C. Los estratos de destrucción en Nínive fechados en 612 a.C. corroboran de manera precisa el oráculo climático de Sof 2:13-15. La ausencia de referencias explícitas a las reformas de Josías dentro del propio libro de Sofonías —que denuncia activamente la idolatría de Baal, el culto a los astros y Milcom, prácticas que las reformas de 622 a.C. purgaron según 2R 23:4-14— sugiere fuertemente una composición anterior a ese año.",
+      "en": "Archaeology of Josiah's reign confirms a period of religious reform and territorial expansion documented in 2Kgs 22-23, including administrative finds and royal seals reflecting the centralization of worship in Jerusalem after 622 BC. Destruction strata at Nineveh dated to 612 BC precisely corroborate the climactic oracle of Zeph 2:13-15. The absence of explicit references to Josiah's reforms within the book of Zephaniah itself — which actively denounces Baal worship, the host of heaven, and Milcom, practices the 622 BC reforms purged according to 2Kgs 23:4-14 — strongly suggests a composition prior to that year.",
+      "pt": "A arqueologia do reinado de Josias confirma um período de reforma religiosa e expansão territorial documentado em 2Rs 22-23, incluindo achados administrativos e selos reais que refletem a centralização do culto em Jerusalém após 622 a.C. Os estratos de destruição em Nínive datados de 612 a.C. corroboram com precisão o oráculo climático de Sf 2:13-15. A ausência de referências explícitas às reformas de Josias dentro do próprio livro de Sofonias — que denuncia ativamente a idolatria a Baal, o culto aos astros e Milcom, práticas que as reformas de 622 a.C. purgaram segundo 2Rs 23:4-14 — sugere fortemente uma composição anterior a esse ano."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Crónica babilónica de la caída de Nínive",
+          "en": "Babylonian Chronicle of the Fall of Nineveh",
+          "pt": "Crônica babilônica da queda de Nínive"
+        },
+        "origen": {
+          "es": "Tablilla cuneiforme neobabilónica que registra el asedio y la captura de Nínive por la coalición medo-babilónica en 612 a.C.",
+          "en": "A Neo-Babylonian cuneiform tablet recording the siege and capture of Nineveh by the Medo-Babylonian coalition in 612 BC",
+          "pt": "Tabuleta cuneiforme neobabilônica que registra o cerco e a captura de Nínive pela coalizão medo-babilônica em 612 a.C."
+        },
+        "relevancia": {
+          "es": "Confirma con precisión el cumplimiento histórico del oráculo climático de Sofonías contra Nínive (Sof 2:13-15)",
+          "en": "Precisely confirms the historical fulfillment of Zephaniah's climactic oracle against Nineveh (Zeph 2:13-15)",
+          "pt": "Confirma com precisão o cumprimento histórico do oráculo climático de Sofonias contra Nínive (Sf 2:13-15)"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Anales de Asurbanipal",
+          "en": "Annals of Ashurbanipal",
+          "pt": "Anais de Assurbanípal"
+        },
+        "origen": {
+          "es": "Registros reales asirios del último gran rey de Asiria, cuyo reinado (668-627 a.C.) coincide con el período probable de la profecía de Sofonías",
+          "en": "Assyrian royal records of Assyria's last great king, whose reign (668-627 BC) coincides with Zephaniah's probable prophetic period",
+          "pt": "Registros reais assírios do último grande rei da Assíria, cujo reinado (668-627 a.C.) coincide com o período provável da profecia de Sofonias"
+        },
+        "relevancia": {
+          "es": "Documenta el declive gradual del poder asirio que crea el trasfondo geopolítico de debilidad imperial presupuesto por los oráculos de Sofonías contra las naciones",
+          "en": "Documents the gradual decline of Assyrian power that creates the geopolitical backdrop of imperial weakness presupposed by Zephaniah's oracles against the nations",
+          "pt": "Documenta o declínio gradual do poder assírio que cria o pano de fundo geopolítico de fraqueza imperial pressuposto pelos oráculos de Sofonias contra as nações"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La fecha exacta de composición dentro del reinado de Josías (640-609 a.C.) es debatida. La posición conservadora mayoritaria sitúa el libro antes de las reformas religiosas de 622 a.C., señalando que Sofonías denuncia activamente prácticas —el culto a Baal, a los astros, y a Milcom— que esas reformas específicamente purgaron; algunos críticos, sin embargo, proponen una fecha posterior, argumentando que la denuncia profética pudo reflejar una recaída idolátrica tras las reformas iniciales. Una segunda controversia concierne la identificación del «Ezequías» en la genealogía de Sof 1:1: la mayoría de eruditos conservadores lo identifican con el rey de Judá del mismo nombre, aunque esta identificación no puede confirmarse con certeza absoluta dado que Ezequías era un nombre relativamente común.",
+      "en": "The exact date of composition within Josiah's reign (640-609 BC) is debated. The majority conservative position places the book before the religious reforms of 622 BC, noting that Zephaniah actively denounces practices — Baal worship, the host of heaven, and Milcom — that those reforms specifically purged; some critics, however, propose a later date, arguing the prophetic denunciation could reflect an idolatrous relapse after the initial reforms. A second controversy concerns the identification of \"Hezekiah\" in the genealogy of Zeph 1:1: most conservative scholars identify him with the king of Judah of the same name, though this identification cannot be confirmed with absolute certainty since Hezekiah was a relatively common name.",
+      "pt": "A data exata de composição dentro do reinado de Josias (640-609 a.C.) é debatida. A posição conservadora majoritária situa o livro antes das reformas religiosas de 622 a.C., apontando que Sofonias denuncia ativamente práticas — o culto a Baal, aos astros e a Milcom — que essas reformas especificamente purgaram; alguns críticos, no entanto, propõem uma data posterior, argumentando que a denúncia profética poderia refletir uma recaída idólatra após as reformas iniciais. Uma segunda controvérsia diz respeito à identificação do «Ezequias» na genealogia de Sf 1:1: a maioria dos estudiosos conservadores o identifica com o rei de Judá de mesmo nome, embora essa identificação não possa ser confirmada com certeza absoluta, visto que Ezequias era um nome relativamente comum."
+    },
+    "cronologiaInterna": {
+      "es": "El libro se sitúa explícitamente «en días de Josías hijo de Amón, rey de Judá» (Sof 1:1). La descripción de idolatría activa —Baal, el culto a los astros, Milcom, los que saltan el umbral— presupone un momento anterior a las reformas religiosas de Josías registradas en 2R 23:4-14, situando la composición probablemente en la primera mitad de su reinado, antes de 622 a.C.",
+      "en": "The book is explicitly set \"in the days of Josiah the son of Amon, king of Judah\" (Zeph 1:1). The description of active idolatry — Baal, the host of heaven, Milcom, those who leap over the threshold — presupposes a moment prior to Josiah's religious reforms recorded in 2Kgs 23:4-14, placing the composition probably in the first half of his reign, before 622 BC.",
+      "pt": "O livro se situa explicitamente «nos dias de Josias, filho de Amom, rei de Judá» (Sf 1:1). A descrição de idolatria ativa — Baal, o culto aos astros, Milcom, os que saltam o limiar — pressupõe um momento anterior às reformas religiosas de Josias registradas em 2Rs 23:4-14, situando a composição provavelmente na primeira metade de seu reinado, antes de 622 a.C."
+    }
+  },
+  "ordenEnDivision": 9,
+  "ordenCanon": 36,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Sofonías anticipa a Cristo mediante la promesa de que Dios dará a los pueblos «un lenguaje puro, para que todos invoquen el nombre del SEÑOR» (Sof 3:9), cumplida inauguralmente en el derramamiento del Espíritu en Pentecostés (Hch 2), y de manera más profunda mediante la imagen de Dios «en medio de» su pueblo, regocijándose sobre él con cánticos de júbilo (Sof 3:17), anticipando a Cristo como Emanuel, «Dios con nosotros» (Mt 1:23), cuyo amor culmina no en mera tolerancia sino en gozo activo sobre su iglesia redimida.",
+      "en": "Zephaniah anticipates Christ through the promise that God will give the peoples \"a pure speech, that all of them may call upon the name of the LORD\" (Zeph 3:9), inaugurally fulfilled in the outpouring of the Spirit at Pentecost (Acts 2), and more profoundly through the image of God \"in your midst,\" rejoicing over his people with loud singing (Zeph 3:17), anticipating Christ as Emmanuel, \"God with us\" (Matt 1:23), whose love culminates not in mere tolerance but in active joy over his redeemed church.",
+      "pt": "Sofonias antecipa Cristo por meio da promessa de que Deus dará aos povos «lábios puros, para que todos invoquem o nome do SENHOR» (Sf 3:9), cumprida inauguralmente no derramamento do Espírito em Pentecostes (At 2), e de maneira mais profunda por meio da imagem de Deus «no meio de» seu povo, regozijando-se sobre ele com júbilo (Sf 3:17), antecipando Cristo como Emanuel, «Deus conosco» (Mt 1:23), cujo amor culmina não em mera tolerância, mas em alegria ativa sobre sua igreja redimida."
+    },
+    "tiposYSombras": [
+      {
+        "es": "La promesa de que Dios dará a los pueblos «un lenguaje puro, para que todos invoquen el nombre del SEÑOR» (Sof 3:9) revierte la confusión de lenguas de Babel (Gn 11:1-9) y anticipa la unidad de adoración inaugurada en Pentecostés (Hch 2:4-11).",
+        "en": "The promise that God will give the peoples \"a pure speech, that all of them may call upon the name of the LORD\" (Zeph 3:9) reverses the confusion of tongues at Babel (Gen 11:1-9) and anticipates the unity of worship inaugurated at Pentecost (Acts 2:4-11).",
+        "pt": "A promessa de que Deus dará aos povos «lábios puros, para que todos invoquem o nome do SENHOR» (Sf 3:9) reverte a confusão de línguas de Babel (Gn 11:1-9) e antecipa a unidade de adoração inaugurada em Pentecostes (At 2:4-11)."
+      },
+      {
+        "es": "«El SEÑOR tu Dios está en medio de ti... se regocijará por ti con cánticos de júbilo» (Sof 3:17) anticipa a Cristo, Emanuel, cuyo gozo sobre su pueblo redimido supera con creces la mera tolerancia divina hacia el pecador (Lc 15:22-24).",
+        "en": "\"The LORD your God is in your midst... he will exult over you with loud singing\" (Zeph 3:17) anticipates Christ, Emmanuel, whose joy over his redeemed people far exceeds mere divine tolerance toward the sinner (Luke 15:22-24).",
+        "pt": "«O SENHOR, teu Deus, está no meio de ti... se regozijará em ti com júbilo» (Sf 3:17) antecipa Cristo, Emanuel, cuja alegria sobre seu povo redimido supera em muito a mera tolerância divina para com o pecador (Lc 15:22-24)."
+      },
+      {
+        "es": "El remanente humilde y pobre que confía en el nombre del SEÑOR, sin engaño en su boca (Sof 3:12-13), anticipa la bienaventuranza de Cristo sobre los pobres en espíritu (Mt 5:3) y su llamado a los mansos (Mt 11:29).",
+        "en": "The humble and poor remnant who trust in the name of the LORD, with no deceit in their mouths (Zeph 3:12-13), anticipates Christ's beatitude on the poor in spirit (Matt 5:3) and his call to the meek (Matt 11:29).",
+        "pt": "O remanescente humilde e pobre que confia no nome do SENHOR, sem engano em sua boca (Sf 3:12-13), antecipa a bem-aventurança de Cristo sobre os pobres em espírito (Mt 5:3) e seu chamado aos mansos (Mt 11:29)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Sofonías ofrece la declaración más concentrada y universal del «día del SEÑOR» de todo el Antiguo Testamento, un tema que recorre casi cada versículo del libro y que inspiraría siglos después el himno litúrgico «Dies Irae». Su contribución exclusiva e insustituible al canon es la imagen de Sof 3:17: Dios mismo cantando de gozo sobre su pueblo, una revelación del carácter divino sin paralelo exacto en el resto de la Escritura, que transforma el día de ira más aterrador del Antiguo Testamento en el preludio necesario de la restauración más tierna.",
+    "en": "Zephaniah offers the most concentrated, universal declaration of the \"day of the LORD\" in the entire Old Testament, a theme running through nearly every verse of the book and which would centuries later inspire the liturgical hymn \"Dies Irae.\" Its exclusive, irreplaceable contribution to the canon is the image of Zeph 3:17: God himself singing for joy over his people, a revelation of the divine character without exact parallel elsewhere in Scripture, which transforms the Old Testament's most terrifying day of wrath into the necessary prelude to its tenderest restoration.",
+    "pt": "Sofonias oferece a declaração mais concentrada e universal do «dia do SENHOR» de todo o Antigo Testamento, tema que percorre quase cada versículo do livro e que inspiraria séculos depois o hino litúrgico «Dies Irae». Sua contribuição exclusiva e insubstituível ao cânon é a imagem de Sf 3:17: o próprio Deus cantando de alegria sobre seu povo, revelação do caráter divino sem paralelo exato no restante da Escritura, que transforma o dia de ira mais aterrador do Antigo Testamento no prelúdio necessário da restauração mais terna."
+  },
+  "genero": {
+    "es": "Profecía (oráculo del Día del SEÑOR, con oráculos contra las naciones y un himno final de restauración)",
+    "en": "Prophecy (an oracle of the Day of the LORD, with oracles against the nations and a final restoration hymn)",
+    "pt": "Profecia (oráculo do Dia do SENHOR, com oráculos contra as nações e um hino final de restauração)"
+  },
+  "palabraClave": {
+    "es": [
+      "Día del SEÑOR",
+      "Idolatría sincretista",
+      "Remanente humilde",
+      "Labios puros",
+      "Dios canta de gozo"
+    ],
+    "en": [
+      "Day of the LORD",
+      "Syncretistic idolatry",
+      "Humble remnant",
+      "Pure speech",
+      "God sings for joy"
+    ],
+    "pt": [
+      "Dia do SENHOR",
+      "Idolatria sincretista",
+      "Remanescente humilde",
+      "Lábios puros",
+      "Deus canta de alegria"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo de Judá y Jerusalén bajo el reinado de Josías, particularmente sus líderes religiosos y políticos, que practicaban un sincretismo idolátrico y una complacencia espiritual que Sofonías confronta directamente antes de las grandes reformas religiosas",
+    "en": "The people of Judah and Jerusalem under the reign of Josiah, particularly its religious and political leaders, who practiced idolatrous syncretism and spiritual complacency that Zephaniah directly confronts before the great religious reforms",
+    "pt": "O povo de Judá e Jerusalém sob o reinado de Josias, particularmente seus líderes religiosos e políticos, que praticavam um sincretismo idólatra e uma complacência espiritual que Sofonias confronta diretamente antes das grandes reformas religiosas"
+  },
+  "proposito": {
+    "es": "Históricamente, Sofonías denuncia la idolatría sincretista de Judá —Baal, el culto a los astros, Milcom— y la corrupción de sus líderes, anunciando el día inminente de la ira de Dios, mientras pronuncia juicio sobre las naciones vecinas y anuncia la restauración final de un remanente humilde. Teológicamente, el libro enseña que el día del SEÑOR es a la vez universal y particular, que la única esperanza ante ese día es buscar humildemente al SEÑOR (Sof 2:3), y que el destino final del pueblo de Dios no es el terror sino el gozo compartido con su propio Dios, quien se regocija sobre ellos con cánticos (Sof 3:17).",
+    "en": "Historically, Zephaniah denounces Judah's syncretistic idolatry — Baal, the host of heaven, Milcom — and the corruption of its leaders, announcing the imminent day of God's wrath, while pronouncing judgment on neighboring nations and announcing the final restoration of a humble remnant. Theologically, the book teaches that the day of the LORD is both universal and particular, that the only hope in the face of that day is to humbly seek the LORD (Zeph 2:3), and that the final destiny of God's people is not terror but shared joy with their own God, who rejoices over them with singing (Zeph 3:17).",
+    "pt": "Historicamente, Sofonias denuncia a idolatria sincretista de Judá — Baal, o culto aos astros, Milcom — e a corrupção de seus líderes, anunciando o dia iminente da ira de Deus, enquanto pronuncia julgamento sobre as nações vizinhas e anuncia a restauração final de um remanescente humilde. Teologicamente, o livro ensina que o dia do SENHOR é ao mesmo tempo universal e particular, que a única esperança diante desse dia é buscar humildemente o SENHOR (Sf 2:3), e que o destino final do povo de Deus não é o terror, mas a alegria compartilhada com seu próprio Deus, que se regozija sobre eles com júbilo (Sf 3:17)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH · the Lord",
+        "pt": "Deus · YHWH · o Senhor"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "El SEÑOR que anuncia el día de su ira contra toda la tierra y contra la idolatría de Judá, que llama a los humildes a buscarlo antes de que llegue ese día, y que finalmente se revela como el Dios guerrero-salvador que se goza sobre su pueblo con cánticos de júbilo.",
+        "en": "The LORD who announces the day of his wrath against all the earth and against Judah's idolatry, who calls the humble to seek him before that day arrives, and who finally reveals himself as the warrior-savior God who rejoices over his people with loud singing.",
+        "pt": "O SENHOR que anuncia o dia de sua ira contra toda a terra e contra a idolatria de Judá, que chama os humildes a buscá-lo antes que chegue esse dia, e que finalmente se revela como o Deus guerreiro-salvador que se regozija sobre seu povo com júbilo."
+      },
+      "acciones": {
+        "es": "Anuncia que barrerá por completo todas las cosas de sobre la faz de la tierra (Sof 1:2-3), declara el gran día de su ira contra Judá por la idolatría de Baal y el culto a los astros (Sof 1:4-18), llama a los humildes de la tierra a buscarlo antes de ese día (Sof 2:1-3), pronuncia juicio sobre Filistea, Moab, Amón, Cus y Asiria (Sof 2:4-15), y finalmente promete purificar los labios de los pueblos, reunir un remanente humilde, y regocijarse sobre su pueblo con cánticos de júbilo (Sof 3:9-17).",
+        "en": "Announces he will utterly sweep away everything from the face of the earth (Zeph 1:2-3), declares the great day of his wrath against Judah for Baal worship and the host of heaven (Zeph 1:4-18), calls the humble of the land to seek him before that day (Zeph 2:1-3), pronounces judgment on Philistia, Moab, Ammon, Cush, and Assyria (Zeph 2:4-15), and finally promises to purify the peoples' lips, gather a humble remnant, and rejoice over his people with loud singing (Zeph 3:9-17).",
+        "pt": "Anuncia que destruirá tudo de sobre a face da terra (Sf 1:2-3), declara o grande dia de sua ira contra Judá pela idolatria a Baal e o culto aos astros (Sf 1:4-18), chama os humildes da terra a buscá-lo antes desse dia (Sf 2:1-3), pronuncia julgamento sobre Filístia, Moabe, Amom, Cuxe e Assíria (Sf 2:4-15), e finalmente promete purificar os lábios dos povos, reunir um remanescente humilde, e regozijar-se sobre seu povo com júbilo (Sf 3:9-17)."
+      },
+      "significadoTeologico": {
+        "es": "Sofonías revela a Dios como Juez universal cuyo día de ira alcanza a toda la creación y a todas las naciones sin excepción, y simultáneamente como el Dios cuyo amor culmina no en la mera tolerancia sino en el gozo activo y cantor sobre su pueblo redimido (Sof 3:17), una de las revelaciones más tiernas del carácter divino en todo el Antiguo Testamento.",
+        "en": "Zephaniah reveals God as universal Judge whose day of wrath reaches all creation and all nations without exception, and simultaneously as the God whose love culminates not in mere tolerance but in active, singing joy over his redeemed people (Zeph 3:17), one of the tenderest revelations of the divine character in the entire Old Testament.",
+        "pt": "Sofonias revela Deus como Juiz universal cujo dia de ira alcança toda a criação e todas as nações sem exceção, e simultaneamente como o Deus cujo amor culmina não em mera tolerância, mas em alegria ativa e cantante sobre seu povo redimido (Sf 3:17), uma das revelações mais ternas do caráter divino em todo o Antigo Testamento."
+      },
+      "tipo": {
+        "es": "El SEÑOR que está «en medio de» su pueblo y se regocija sobre él con cánticos (Sof 3:17) anticipa a Cristo, Emanuel, «Dios con nosotros» (Mt 1:23), cuyo gozo sobre su iglesia redimida es la realidad definitiva que Sofonías prefigura.",
+        "en": "The LORD who is \"in the midst of\" his people and rejoices over them with singing (Zeph 3:17) anticipates Christ, Emmanuel, \"God with us\" (Matt 1:23), whose joy over his redeemed church is the definitive reality Zephaniah prefigures.",
+        "pt": "O SENHOR que está «no meio de» seu povo e se regozija sobre ele com júbilo (Sf 3:17) antecipa Cristo, Emanuel, «Deus conosco» (Mt 1:23), cuja alegria sobre sua igreja redimida é a realidade definitiva que Sofonias prefigura."
+      },
+      "caracterMoral": {
+        "es": "Justo y celoso en su juicio universal contra el pecado y la idolatría, y tierno y gozoso en su amor restaurador hacia el remanente humilde que confía en su nombre.",
+        "en": "Just and jealous in his universal judgment against sin and idolatry, and tender and joyful in his restoring love toward the humble remnant that trusts in his name.",
+        "pt": "Justo e zeloso em seu julgamento universal contra o pecado e a idolatria, e terno e alegre em seu amor restaurador para com o remanescente humilde que confia em seu nome."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "YHWH es el sujeto que anuncia, ejecuta y finalmente transforma el juicio en restauración gozosa a lo largo de los tres capítulos del libro.",
+          "en": "YHWH is the subject who announces, executes, and finally transforms judgment into joyful restoration throughout the book's three chapters.",
+          "pt": "YHWH é o sujeito que anuncia, executa e finalmente transforma o julgamento em restauração alegre ao longo dos três capítulos do livro."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Sof 1:14",
+          "Sof 1:18",
+          "Sof 2:3",
+          "Sof 3:17"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: Dios no tiene biografía histórica humana; se revela por su autorrevelación consistente en todo el canon.",
+          "en": "Not applicable: God has no human historical biography; he reveals himself through his consistent self-revelation across the whole canon.",
+          "pt": "Não aplicável: Deus não tem biografia histórica humana; revela-se por sua autorrevelação consistente em todo o cânon."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El carácter de Dios como Juez universal y como Dios que se goza sobre su pueblo es coherente con su autorrevelación en el resto del canon.",
+          "en": "God's character as universal Judge and as the God who rejoices over his people is coherent with his self-revelation across the rest of the canon.",
+          "pt": "O caráter de Deus como Juiz universal e como Deus que se regozija sobre seu povo é coerente com sua autorrevelação no restante do cânon."
+        }
+      },
+      "versiculosAsociados": [
+        "Sof 1:14",
+        "Sof 1:18",
+        "Sof 2:3",
+        "Sof 3:17"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "2R",
+        "Hch",
+        "Mt"
+      ],
+      "enElNuevoTestamento": {
+        "es": "La promesa de que Dios dará «un lenguaje puro» a los pueblos para que todos invoquen su nombre de común acuerdo (Sof 3:9) resuena en el derramamiento del Espíritu en Pentecostés (Hch 2), donde personas de muchas lenguas proclaman juntas las obras de Dios.",
+        "en": "The promise that God will give the peoples \"a pure speech\" so that all of them may call upon his name with one accord (Zeph 3:9) resonates in the outpouring of the Spirit at Pentecost (Acts 2), where people of many languages together proclaim the works of God.",
+        "pt": "A promessa de que Deus dará «lábios puros» aos povos, para que todos invoquem seu nome com o mesmo espírito (Sf 3:9), ressoa no derramamento do Espírito em Pentecostes (At 2), onde pessoas de muitas línguas proclamam juntas as obras de Deus."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Sofonías",
+        "en": "Zephaniah",
+        "pt": "Sofonias"
+      },
+      "hebreo": "צְפַנְיָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "El profeta cuya genealogía se traza inusualmente hasta cuatro generaciones —hijo de Cusi, hijo de Gedalías, hijo de Amarías, hijo de Ezequías (Sof 1:1)—, probablemente vinculándolo a la línea real de Judá como descendiente del rey Ezequías, activo durante el reinado de Josías.",
+        "en": "The prophet whose genealogy is unusually traced through four generations — son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah (Zeph 1:1) — probably linking him to Judah's royal line as a descendant of King Hezekiah, active during the reign of Josiah.",
+        "pt": "O profeta cuja genealogia é traçada de forma incomum através de quatro gerações — filho de Cuchi, filho de Gedalias, filho de Amarias, filho de Ezequias (Sf 1:1) —, provavelmente vinculando-o à linhagem real de Judá como descendente do rei Ezequias, ativo durante o reinado de Josias."
+      },
+      "acciones": {
+        "es": "Recibe la palabra del SEÑOR en días de Josías (Sof 1:1), anuncia el día de la ira universal y particular contra Judá por su idolatría (Sof 1:2-18), llama a los humildes a buscar al SEÑOR (Sof 2:1-3), pronuncia oráculos contra las naciones vecinas (Sof 2:4-15), denuncia a los líderes corruptos de Jerusalén (Sof 3:1-7), y culmina anunciando la restauración gozosa del remanente (Sof 3:8-20).",
+        "en": "Receives the word of the LORD in the days of Josiah (Zeph 1:1), announces the day of universal and particular wrath against Judah for its idolatry (Zeph 1:2-18), calls the humble to seek the LORD (Zeph 2:1-3), pronounces oracles against neighboring nations (Zeph 2:4-15), denounces Jerusalem's corrupt leaders (Zeph 3:1-7), and culminates by announcing the remnant's joyful restoration (Zeph 3:8-20).",
+        "pt": "Recebe a palavra do SENHOR nos dias de Josias (Sf 1:1), anuncia o dia da ira universal e particular contra Judá por sua idolatria (Sf 1:2-18), chama os humildes a buscar o SENHOR (Sf 2:1-3), pronuncia oráculos contra as nações vizinhas (Sf 2:4-15), denuncia os líderes corruptos de Jerusalém (Sf 3:1-7), e culmina anunciando a restauração alegre do remanescente (Sf 3:8-20)."
+      },
+      "significadoTeologico": {
+        "es": "Sofonías, cuya genealogía única lo conecta con la casa real de Judá, ejemplifica que el linaje privilegiado no exime de la responsabilidad profética de denunciar el pecado, incluso el de la propia clase gobernante a la que pertenece por nacimiento.",
+        "en": "Zephaniah, whose unique genealogy connects him to Judah's royal house, exemplifies that privileged lineage does not exempt one from the prophetic responsibility to denounce sin, even that of the very ruling class to which he belongs by birth.",
+        "pt": "Sofonias, cuja genealogia única o conecta à casa real de Judá, exemplifica que a linhagem privilegiada não isenta da responsabilidade profética de denunciar o pecado, mesmo o da própria classe governante à qual pertence por nascimento."
+      },
+      "tipo": {
+        "es": "Como profeta que anuncia tanto el día terrible de la ira como el día gozoso de la restauración, Sofonías prefigura de manera general el ministerio de Cristo, quien proclama tanto el juicio venidero como las buenas nuevas del reino (Lc 4:18-19; Mt 25:31-46).",
+        "en": "As a prophet who announces both the terrible day of wrath and the joyful day of restoration, Zephaniah generally prefigures the ministry of Christ, who proclaims both coming judgment and the good news of the kingdom (Luke 4:18-19; Matt 25:31-46).",
+        "pt": "Como profeta que anuncia tanto o dia terrível da ira quanto o dia alegre da restauração, Sofonias prefigura de maneira geral o ministério de Cristo, que proclama tanto o juízo vindouro quanto as boas-novas do reino (Lc 4:18-19; Mt 25:31-46)."
+      },
+      "caracterMoral": {
+        "es": "Fiel en denunciar la idolatría y la corrupción incluso entre las clases privilegiadas a las que pertenecía por linaje, y igualmente fiel en proclamar la esperanza de restauración.",
+        "en": "Faithful in denouncing idolatry and corruption even among the privileged classes to which he belonged by lineage, and equally faithful in proclaiming the hope of restoration.",
+        "pt": "Fiel em denunciar a idolatria e a corrupção mesmo entre as classes privilegiadas às quais pertencia por linhagem, e igualmente fiel em proclamar a esperança de restauração."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Todo el libro es la voz de Sofonías anunciando primero el juicio universal y particular, y después la restauración gozosa del remanente, con la genealogía más extensa entre los profetas menores (Sof 1:1).",
+          "en": "The entire book is Zephaniah's voice announcing first universal and particular judgment, and then the remnant's joyful restoration, with the most extensive genealogy among the Minor Prophets (Zeph 1:1).",
+          "pt": "O livro inteiro é a voz de Sofonias anunciando primeiro o julgamento universal e particular, e depois a restauração alegre do remanescente, com a genealogia mais extensa entre os profetas menores (Sf 1:1)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Sof 1:1",
+          "Sof 2:3"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La genealogía de cuatro generaciones que remonta a «Ezequías» (Sof 1:1) es inusualmente extensa para un profeta menor, y la mayoría de los eruditos conservadores la identifican con el rey Ezequías de Judá, lo cual situaría a Sofonías como bisnieto del rey y posible pariente cercano de Josías.",
+          "en": "The four-generation genealogy tracing back to \"Hezekiah\" (Zeph 1:1) is unusually extensive for a Minor Prophet, and most conservative scholars identify him with King Hezekiah of Judah, which would situate Zephaniah as the king's great-grandson and possible close relative of Josiah.",
+          "pt": "A genealogia de quatro gerações que remonta a «Ezequias» (Sf 1:1) é incomumente extensa para um profeta menor, e a maioria dos estudiosos conservadores a identifica com o rei Ezequias de Judá, o que situaria Sofonias como bisneto do rei e possível parente próximo de Josias."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Genealogía real de Judá",
+              "Reinado de Josías"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La inusual extensión de la genealogía de Sofonías es consistente con una intención deliberada de establecer su descendencia real, un dato que ningún otro profeta menor incluye con tal detalle.",
+          "en": "The unusual length of Zephaniah's genealogy is consistent with a deliberate intent to establish his royal descent, a detail no other Minor Prophet includes at such length.",
+          "pt": "A extensão incomum da genealogia de Sofonias é consistente com uma intenção deliberada de estabelecer sua descendência real, dado que nenhum outro profeta menor inclui com tal detalhe."
+        }
+      },
+      "versiculosAsociados": [
+        "Sof 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Sofonías no es mencionado por nombre en el Nuevo Testamento, aunque su tema central del día del SEÑOR resuena en las advertencias escatológicas de Pablo y Pedro (1Ts 5:2; 2P 3:10).",
+        "en": "Zephaniah is not mentioned by name in the New Testament, though his central theme of the day of the LORD resonates in the eschatological warnings of Paul and Peter (1 Thess 5:2; 2 Pet 3:10).",
+        "pt": "Sofonias não é mencionado pelo nome no Novo Testamento, embora seu tema central do dia do SENHOR ressoe nas advertências escatológicas de Paulo e Pedro (1Ts 5:2; 2Pe 3:10)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Josías (rey de Judá)",
+        "en": "Josiah (king of Judah)",
+        "pt": "Josias (rei de Judá)"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "El rey reformador de Judá durante cuyo reinado Sofonías profetizó (Sof 1:1), célebre por las reformas religiosas registradas en 2R 22-23 que purgaron gran parte de la idolatría que el propio libro de Sofonías denuncia como todavía presente.",
+        "en": "The reformer king of Judah during whose reign Zephaniah prophesied (Zeph 1:1), celebrated for the religious reforms recorded in 2Kgs 22-23 that purged much of the idolatry the book of Zephaniah itself denounces as still present.",
+        "pt": "O rei reformador de Judá durante cujo reinado Sofonias profetizou (Sf 1:1), célebre pelas reformas religiosas registradas em 2Rs 22-23 que purgaram grande parte da idolatria que o próprio livro de Sofonias denuncia como ainda presente."
+      },
+      "acciones": {
+        "es": "Es mencionado únicamente en la superscripción del libro como el rey bajo cuyo reinado Sofonías recibió la palabra del SEÑOR (Sof 1:1), proporcionando el ancla cronológica del libro.",
+        "en": "Is mentioned only in the book's superscription as the king under whose reign Zephaniah received the word of the LORD (Zeph 1:1), providing the book's chronological anchor.",
+        "pt": "É mencionado unicamente na superscrição do livro como o rei sob cujo reinado Sofonias recebeu a palavra do SENHOR (Sf 1:1), fornecendo a âncora cronológica do livro."
+      },
+      "significadoTeologico": {
+        "es": "La coincidencia entre la denuncia profética de Sofonías contra la idolatría de Baal y el culto a los astros y las reformas posteriores de Josías (2R 23:4-5) sugiere que la predicación de Sofonías pudo haber contribuido a preparar el terreno espiritual para esas reformas.",
+        "en": "The coincidence between Zephaniah's prophetic denunciation of Baal worship and the host of heaven and Josiah's subsequent reforms (2Kgs 23:4-5) suggests that Zephaniah's preaching may have helped prepare the spiritual ground for those reforms.",
+        "pt": "A coincidência entre a denúncia profética de Sofonias contra a idolatria a Baal e o culto aos astros e as reformas posteriores de Josias (2Rs 23:4-5) sugere que a pregação de Sofonias pode ter contribuído para preparar o terreno espiritual para essas reformas."
+      },
+      "tipo": {
+        "es": "Josías, el rey reformador que restaura la adoración pura tras el hallazgo del libro de la ley (2R 22:8-13), prefigura de manera general la obra de Cristo de purificar y restaurar la verdadera adoración de su pueblo (Jn 2:13-17).",
+        "en": "Josiah, the reformer king who restores pure worship after finding the book of the law (2Kgs 22:8-13), generally prefigures Christ's work of purifying and restoring his people's true worship (John 2:13-17).",
+        "pt": "Josias, o rei reformador que restaura a adoração pura após o achado do livro da lei (2Rs 22:8-13), prefigura de maneira geral a obra de Cristo de purificar e restaurar a verdadeira adoração de seu povo (Jo 2:13-17)."
+      },
+      "caracterMoral": {
+        "es": "Presentado en el resto del canon como un rey excepcionalmente piadoso que buscó al SEÑOR de todo corazón e implementó reformas religiosas radicales (2R 23:25).",
+        "en": "Presented elsewhere in the canon as an exceptionally godly king who sought the LORD with all his heart and implemented radical religious reforms (2Kgs 23:25).",
+        "pt": "Apresentado no restante do cânon como um rei excepcionalmente piedoso que buscou o SENHOR de todo o coração e implementou reformas religiosas radicais (2Rs 23:25)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Josías aparece únicamente como el marcador cronológico del libro (Sof 1:1); su biografía completa se narra en 2R 22-23 y 2Cr 34-35.",
+          "en": "Josiah appears only as the book's chronological marker (Zeph 1:1); his full biography is narrated in 2Kgs 22-23 and 2Chr 34-35.",
+          "pt": "Josias aparece unicamente como o marcador cronológico do livro (Sf 1:1); sua biografia completa é narrada em 2Rs 22-23 e 2Cr 34-35."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Sof 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Josías (640-609 a.C.) es uno de los reyes de Judá mejor documentados históricamente, con su reforma religiosa de 622 a.C. confirmada por el relato bíblico y ampliamente discutida en la erudición sobre el desarrollo del Deuteronomio.",
+          "en": "Josiah (640-609 BC) is one of the most historically well-documented kings of Judah, with his 622 BC religious reform confirmed by the biblical account and widely discussed in scholarship on the development of Deuteronomy.",
+          "pt": "Josias (640-609 a.C.) é um dos reis de Judá mais bem documentados historicamente, com sua reforma religiosa de 622 a.C. confirmada pelo relato bíblico e amplamente discutida na erudição sobre o desenvolvimento do Deuteronômio."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Reinado de Josías",
+              "Reforma religiosa de 622 a.C."
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El reinado de Josías está firmemente establecido cronológicamente, y la datación de Sofonías a este período es consistente con la descripción de idolatría presente en el libro, presumiblemente anterior a las reformas de 622 a.C.",
+          "en": "Josiah's reign is firmly established chronologically, and dating Zephaniah to this period is consistent with the book's description of present idolatry, presumably prior to the 622 BC reforms.",
+          "pt": "O reinado de Josias está firmemente estabelecido cronologicamente, e a datação de Sofonias a esse período é consistente com a descrição de idolatria presente no livro, presumivelmente anterior às reformas de 622 a.C."
+        }
+      },
+      "versiculosAsociados": [
+        "Sof 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "2R",
+        "2Cr",
+        "Jer"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Josías es mencionado en la genealogía de Jesús en Mt 1:10-11 como antepasado real del linaje mesiánico.",
+        "en": "Josiah is mentioned in Jesus's genealogy in Matt 1:10-11 as a royal ancestor of the messianic line.",
+        "pt": "Josias é mencionado na genealogia de Jesus em Mt 1:10-11 como antepassado real da linhagem messiânica."
+      }
+    },
+    {
+      "nombre": {
+        "es": "El remanente humilde",
+        "en": "The humble remnant",
+        "pt": "O remanescente humilde"
+      },
+      "principal": true,
+      "rol": "tipo",
+      "capitulosActivo": [
+        2,
+        3
+      ],
+      "descripcion": {
+        "es": "Los humildes de la tierra que buscan al SEÑOR, practican la justicia y la humildad, y que finalmente son reunidos como un pueblo humilde y pobre que confía en el nombre del SEÑOR, objeto del gozo cantor de Dios mismo (Sof 2:3; 3:12-17).",
+        "en": "The humble of the land who seek the LORD, practice righteousness and humility, and who are finally gathered as a humble and lowly people who trust in the name of the LORD, the object of God's own singing joy (Zeph 2:3; 3:12-17).",
+        "pt": "Os humildes da terra que buscam o SENHOR, praticam a justiça e a humildade, e que finalmente são reunidos como um povo humilde e pobre que confia no nome do SENHOR, objeto do júbilo cantante do próprio Deus (Sf 2:3; 3:12-17)."
+      },
+      "acciones": {
+        "es": "Es llamado a buscar al SEÑOR, la justicia y la humildad con la esperanza de ser «guardado» en el día de la ira (Sof 2:3), es descrito como «un pueblo humilde y pobre» que se refugiará en el nombre del SEÑOR, sin cometer iniquidad ni hablar mentira (Sof 3:12-13), y finalmente recibe la promesa de que Dios mismo se gozará sobre él con cánticos (Sof 3:14-17).",
+        "en": "Is called to seek the LORD, righteousness, and humility in hope of being \"hidden\" on the day of wrath (Zeph 2:3), is described as \"a humble and lowly people\" who will take refuge in the name of the LORD, committing no injustice and speaking no lies (Zeph 3:12-13), and finally receives the promise that God himself will rejoice over them with singing (Zeph 3:14-17).",
+        "pt": "É chamado a buscar o SENHOR, a justiça e a humildade na esperança de ser «escondido» no dia da ira (Sf 2:3), é descrito como «um povo humilde e pobre» que se refugiará no nome do SENHOR, sem cometer iniquidade nem falar mentira (Sf 3:12-13), e finalmente recebe a promessa de que o próprio Deus se regozijará sobre ele com júbilo (Sf 3:14-17)."
+      },
+      "significadoTeologico": {
+        "es": "El remanente humilde ilustra el principio bíblico de que la salvación de Dios no se dirige a los autosuficientes sino a quienes reconocen su necesidad y buscan refugio únicamente en el carácter de Dios, un patrón que atraviesa toda la Escritura desde los profetas hasta las bienaventuranzas.",
+        "en": "The humble remnant illustrates the biblical principle that God's salvation is not directed at the self-sufficient but at those who recognize their need and seek refuge solely in God's character, a pattern running through all of Scripture from the prophets to the beatitudes.",
+        "pt": "O remanescente humilde ilustra o princípio bíblico de que a salvação de Deus não se dirige aos autossuficientes, mas aos que reconhecem sua necessidade e buscam refúgio unicamente no caráter de Deus, padrão que atravessa toda a Escritura, desde os profetas até as bem-aventuranças."
+      },
+      "tipo": {
+        "es": "El remanente humilde y pobre que confía en el nombre del SEÑOR (Sof 3:12) anticipa la bienaventuranza de Cristo sobre los pobres en espíritu (Mt 5:3) y la iglesia como comunidad de gracia formada por los humildes, no por los autosuficientes.",
+        "en": "The humble and lowly remnant who trust in the name of the LORD (Zeph 3:12) anticipates Christ's beatitude on the poor in spirit (Matt 5:3) and the church as a community of grace formed by the humble, not the self-sufficient.",
+        "pt": "O remanescente humilde e pobre que confia no nome do SENHOR (Sf 3:12) antecipa a bem-aventurança de Cristo sobre os pobres em espírito (Mt 5:3) e a igreja como comunidade de graça formada pelos humildes, não pelos autossuficientes."
+      },
+      "caracterMoral": {
+        "es": "Humilde, justo, veraz, y caracterizado por la ausencia de engaño en su boca, en agudo contraste con los líderes corruptos denunciados en Sof 3:1-7.",
+        "en": "Humble, righteous, truthful, and characterized by the absence of deceit in their mouths, in sharp contrast with the corrupt leaders denounced in Zeph 3:1-7.",
+        "pt": "Humilde, justo, verdadeiro, e caracterizado pela ausência de engano em sua boca, em nítido contraste com os líderes corruptos denunciados em Sf 3:1-7."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "El remanente humilde aparece como el objetivo del llamado profético en Sof 2:3 y como el pueblo finalmente restaurado y amado por Dios en Sof 3:12-17.",
+          "en": "The humble remnant appears as the target of the prophetic call in Zeph 2:3 and as the people finally restored and loved by God in Zeph 3:12-17.",
+          "pt": "O remanescente humilde aparece como o alvo do chamado profético em Sf 2:3 e como o povo finalmente restaurado e amado por Deus em Sf 3:12-17."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Sof 2:3",
+          "Sof 3:12",
+          "Sof 3:17"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: «el remanente humilde» es una figura teológica representativa del pueblo fiel de Dios, no un grupo históricamente identificable de manera individual fuera del texto profético.",
+          "en": "Not applicable: \"the humble remnant\" is a representative theological figure of God's faithful people, not an individually identifiable historical group outside the prophetic text.",
+          "pt": "Não aplicável: «o remanescente humilde» é uma figura teológica representativa do povo fiel de Deus, não um grupo historicamente identificável de maneira individual fora do texto profético."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El concepto del remanente humilde es consistente con el uso profético más amplio de esta figura a través de Isaías, Miqueas y otros profetas del mismo período histórico.",
+          "en": "The concept of the humble remnant is consistent with the broader prophetic use of this figure across Isaiah, Micah, and other prophets of the same historical period.",
+          "pt": "O conceito do remanescente humilde é consistente com o uso profético mais amplo dessa figura em Isaías, Miqueias e outros profetas do mesmo período histórico."
+        }
+      },
+      "versiculosAsociados": [
+        "Sof 2:3",
+        "Sof 3:12",
+        "Sof 3:13"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Is",
+        "Miq",
+        "Ro"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Pablo desarrolla la doctrina del remanente elegido por gracia en Ro 11:5, y Jesús declara bienaventurados a los humildes y pobres en espíritu en el Sermón del Monte (Mt 5:3-5).",
+        "en": "Paul develops the doctrine of the remnant chosen by grace in Rom 11:5, and Jesus declares the humble and poor in spirit blessed in the Sermon on the Mount (Matt 5:3-5).",
+        "pt": "Paulo desenvolve a doutrina do remanescente escolhido pela graça em Rm 11:5, e Jesus declara bem-aventurados os humildes e pobres em espírito no Sermão do Monte (Mt 5:3-5)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Sofonías ofrece la declaración más concentrada del «día del SEÑOR» en todo el Antiguo Testamento, un día de ira universal —«barreré por completo todas las cosas de sobre la faz de la tierra» (Sof 1:2)— que se describe con imágenes de tinieblas, angustia y destrucción (Sof 1:14-18) antes de resolverse en la restauración final del remanente (Sof 3:14-20).",
+        "en": "Zephaniah offers the most concentrated declaration of the \"day of the LORD\" in the entire Old Testament, a day of universal wrath — \"I will utterly sweep away everything from the face of the earth\" (Zeph 1:2) — described with images of darkness, distress, and destruction (Zeph 1:14-18) before resolving into the remnant's final restoration (Zeph 3:14-20).",
+        "pt": "Sofonias oferece a declaração mais concentrada do «dia do SENHOR» em todo o Antigo Testamento, um dia de ira universal — «destruirei de sobre a face da terra tudo» (Sf 1:2) — descrito com imagens de trevas, angústia e destruição (Sf 1:14-18) antes de se resolver na restauração final do remanescente (Sf 3:14-20)."
+      },
+      "pasajes": [
+        "Sof 1:2",
+        "Sof 1:14",
+        "Sof 1:18"
+      ],
+      "ensenanza": {
+        "es": "El juicio de Dios alcanza a toda la creación, revirtiendo el lenguaje de la propia creación · El día del SEÑOR se describe como cercano, amargo y aterrador para todos sus habitantes · Ninguna riqueza material puede librar a nadie en el día de la ira",
+        "en": "God's judgment reaches all creation, reversing the very language of creation itself · The day of the LORD is described as near, bitter, and terrifying for all its inhabitants · No material wealth can deliver anyone on the day of wrath",
+        "pt": "O julgamento de Deus alcança toda a criação, revertendo a própria linguagem da criação · O dia do SENHOR é descrito como próximo, amargo e aterrador para todos os seus habitantes · Nenhuma riqueza material pode livrar ninguém no dia da ira"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee el día del SEÑOR en Sofonías como parte del mismo patrón escatológico que se despliega a través de todo el canon —juicio histórico particular que anticipa el juicio final universal—, sin colapsar ambos horizontes en uno solo ni negar el referente histórico inmediato del libro.",
+        "en": "The Reformed tradition reads the day of the LORD in Zephaniah as part of the same eschatological pattern unfolding across the whole canon — particular historical judgment anticipating universal final judgment — without collapsing both horizons into one or denying the book's immediate historical referent.",
+        "pt": "A tradição reformada lê o dia do SENHOR em Sofonias como parte do mesmo padrão escatológico que se desdobra através de todo o cânon — julgamento histórico particular que antecipa o juízo final universal —, sem colapsar ambos os horizontes em um só nem negar o referente histórico imediato do livro."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "Sofonías denuncia el pecado como sincretismo idolátrico —adorar tanto a Baal como al SEÑOR, jurar por Milcom— y como complacencia espiritual: «los que dicen en su corazón: El SEÑOR ni hará bien ni hará mal» (Sof 1:12), un pecado de indiferencia práctica tan grave como la idolatría explícita.",
+        "en": "Zephaniah denounces sin as idolatrous syncretism — worshiping both Baal and the LORD, swearing by Milcom — and as spiritual complacency: \"those who say in their hearts, 'The LORD will not do good, nor will he do ill'\" (Zeph 1:12), a sin of practical indifference as grave as explicit idolatry.",
+        "pt": "Sofonias denuncia o pecado como sincretismo idólatra — adorar tanto a Baal quanto ao SENHOR, jurar por Milcom — e como complacência espiritual: «os que dizem no seu coração: O SENHOR não fará bem nem fará mal» (Sf 1:12), pecado de indiferença prática tão grave quanto a idolatria explícita."
+      },
+      "pasajes": [
+        "Sof 1:4",
+        "Sof 1:5",
+        "Sof 1:12"
+      ],
+      "ensenanza": {
+        "es": "El sincretismo religioso —adorar a Dios junto con ídolos— constituye idolatría plena, no un compromiso aceptable · Jurar tanto por el SEÑOR como por dioses paganos revela una fe dividida · La complacencia práctica que niega la actividad moral de Dios es tan pecaminosa como la rebelión activa",
+        "en": "Religious syncretism — worshiping God alongside idols — constitutes full idolatry, not an acceptable compromise · Swearing by both the LORD and pagan gods reveals a divided faith · Practical complacency that denies God's moral activity is as sinful as active rebellion",
+        "pt": "O sincretismo religioso — adorar Deus junto com ídolos — constitui idolatria plena, não um compromisso aceitável · Jurar tanto pelo SENHOR quanto por deuses pagãos revela uma fé dividida · A complacência prática que nega a atividade moral de Deus é tão pecaminosa quanto a rebelião ativa"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, siguiendo a Sofonías, insiste en que el pecado no se limita a la transgresión activa sino que incluye la indiferencia práctica hacia el carácter moral de Dios, un recordatorio contra toda religiosidad nominal desprovista de temor genuino.",
+        "en": "The Reformed tradition, following Zephaniah, insists that sin is not limited to active transgression but includes practical indifference toward God's moral character, a reminder against all nominal religiosity devoid of genuine fear of God.",
+        "pt": "A tradição reformada, seguindo Sofonias, insiste em que o pecado não se limita à transgressão ativa, mas inclui a indiferença prática em relação ao caráter moral de Deus, um lembrete contra toda religiosidade nominal desprovida de temor genuíno."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "Sofonías describe un remanente humilde y pobre que Dios mismo reúne y preserva —«dejaré en medio de ti un pueblo humilde y pobre, y ellos se refugiarán en el nombre del SEÑOR» (Sof 3:12)—, ilustrando que la elección divina no favorece a los autosuficientes sino a quienes reconocen su absoluta dependencia de Dios.",
+        "en": "Zephaniah describes a humble and lowly remnant God himself gathers and preserves — \"I will leave in your midst a people humble and lowly, and they shall take refuge in the name of the LORD\" (Zeph 3:12) — illustrating that divine election does not favor the self-sufficient but those who recognize their absolute dependence on God.",
+        "pt": "Sofonias descreve um remanescente humilde e pobre que o próprio Deus reúne e preserva — «deixarei no meio de ti um povo humilde e pobre, e eles confiarão no nome do SENHOR» (Sf 3:12) —, ilustrando que a eleição divina não favorece os autossuficientes, mas os que reconhecem sua absoluta dependência de Deus."
+      },
+      "pasajes": [
+        "Sof 2:3",
+        "Sof 3:12",
+        "Sof 3:13"
+      ],
+      "ensenanza": {
+        "es": "El llamado a buscar al SEÑOR se dirige específicamente a los humildes de la tierra · Dios mismo deja y preserva un remanente humilde en medio del juicio · El remanente elegido se caracteriza por refugiarse en el nombre del SEÑOR, no en el propio mérito",
+        "en": "The call to seek the LORD is directed specifically at the humble of the land · God himself leaves and preserves a humble remnant amid judgment · The chosen remnant is characterized by taking refuge in the name of the LORD, not in their own merit",
+        "pt": "O chamado a buscar o SENHOR se dirige especificamente aos humildes da terra · O próprio Deus deixa e preserva um remanescente humilde em meio ao julgamento · O remanescente escolhido se caracteriza por refugiar-se no nome do SENHOR, não no próprio mérito"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la elección encuentra en Sofonías una ilustración concreta de que la gracia electiva de Dios se dirige a quienes no tienen nada que ofrecer sino su confianza humilde, anticipando el principio paulino de que Dios escoge lo débil del mundo (1Co 1:27-29).",
+        "en": "Reformed election doctrine finds in Zephaniah a concrete illustration that God's electing grace is directed to those who have nothing to offer but humble trust, anticipating Paul's principle that God chooses the weak of the world (1 Cor 1:27-29).",
+        "pt": "A doutrina reformada da eleição encontra em Sofonias uma ilustração concreta de que a graça eletiva de Deus se dirige aos que não têm nada a oferecer senão sua confiança humilde, antecipando o princípio paulino de que Deus escolhe o fraco do mundo (1Co 1:27-29)."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Teología Propia",
+        "en": "Theology Proper",
+        "pt": "Teologia Própria"
+      },
+      "resumen": {
+        "es": "Sofonías culmina con una de las revelaciones más tiernas del carácter de Dios en toda la Escritura: «el SEÑOR tu Dios está en medio de ti... se gozará en ti con alegría... se regocijará por ti con cánticos de júbilo» (Sof 3:17), mostrando que el mismo Dios celoso y vengador del capítulo 1 es capaz de un amor gozoso y cantor hacia su pueblo redimido.",
+        "en": "Zephaniah culminates with one of the tenderest revelations of God's character in all of Scripture: \"the LORD your God is in your midst... he will rejoice over you with gladness... he will exult over you with loud singing\" (Zeph 3:17), showing that the same jealous, avenging God of chapter 1 is capable of joyful, singing love toward his redeemed people.",
+        "pt": "Sofonias culmina com uma das revelações mais ternas do caráter de Deus em toda a Escritura: «o SENHOR, teu Deus, está no meio de ti... ele se deleitará em ti com alegria... e se regozijará em ti com júbilo» (Sf 3:17), mostrando que o mesmo Deus zeloso e vingador do capítulo 1 é capaz de um amor alegre e cantante para com seu povo redimido."
+      },
+      "pasajes": [
+        "Sof 1:18",
+        "Sof 3:9",
+        "Sof 3:17"
+      ],
+      "ensenanza": {
+        "es": "El celo de Dios contra el pecado y su gozo sobre su pueblo redimido son dos expresiones coherentes del mismo carácter divino · Dios purifica los labios de los pueblos para que le sirvan de común acuerdo · Dios mismo se regocija activamente, no solo tolera pasivamente, a su pueblo restaurado",
+        "en": "God's zeal against sin and his joy over his redeemed people are two coherent expressions of the same divine character · God purifies the peoples' lips so they may serve him with one accord · God himself actively rejoices over, not merely passively tolerates, his restored people",
+        "pt": "O zelo de Deus contra o pecado e sua alegria sobre seu povo redimido são duas expressões coerentes do mesmo caráter divino · Deus purifica os lábios dos povos para que o sirvam com o mesmo espírito · O próprio Deus se regozija ativamente, não apenas tolera passivamente, seu povo restaurado"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada sostiene que la ira y el gozo de Dios no son atributos en conflicto sino manifestaciones coherentes de su santidad y su amor de pacto, un equilibrio que Sofonías modela con una intensidad poética que ningún otro libro profético iguala.",
+        "en": "The Reformed tradition holds that God's wrath and joy are not conflicting attributes but coherent manifestations of his holiness and covenant love, a balance Zephaniah models with a poetic intensity no other prophetic book matches.",
+        "pt": "A tradição reformada sustenta que a ira e a alegria de Deus não são atributos conflitantes, mas manifestações coerentes de sua santidade e de seu amor de pacto, equilíbrio que Sofonias modela com uma intensidade poética que nenhum outro livro profético iguala."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio Final"
+      ],
+      "resumen": {
+        "es": "El capítulo 33 confiesa que Dios ha establecido un día en que juzgará al mundo con justicia. La declaración inicial de Sofonías de que Dios «barrerá por completo todas las cosas de sobre la faz de la tierra» (Sof 1:2) y la vívida descripción del «gran día del SEÑOR» (Sof 1:14-18) anticipan en concentrada intensidad poética esta doctrina del juicio universal y final.",
+        "en": "Chapter 33 confesses that God has appointed a day in which he will judge the world in righteousness. Zephaniah's opening declaration that God \"will utterly sweep away everything from the face of the earth\" (Zeph 1:2) and the vivid description of the \"great day of the LORD\" (Zeph 1:14-18) anticipate this doctrine of universal, final judgment with concentrated poetic intensity.",
+        "pt": "O capítulo 33 confessa que Deus estabeleceu um dia em que julgará o mundo com justiça. A declaração inicial de Sofonias de que Deus «destruirá de sobre a face da terra tudo» (Sf 1:2) e a vívida descrição do «grande dia do SENHOR» (Sf 1:14-18) antecipam com intensidade poética concentrada essa doutrina do juízo universal e final."
+      },
+      "genesis": [
+        "Sof 1:2",
+        "Sof 1:14",
+        "Sof 1:18"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    },
+    {
+      "cap": "Cap. 3",
+      "titulo": {
+        "es": "Del Decreto Eterno de Dios",
+        "en": "Of God's Eternal Decree",
+        "pt": "Do Decreto Eterno de Deus"
+      },
+      "doctrinas": [
+        "Elección",
+        "Predestinación"
+      ],
+      "resumen": {
+        "es": "El capítulo 3 confiesa que Dios, desde toda la eternidad, ha elegido libremente a algunos para vida eterna sin consideración a mérito alguno en la criatura. La promesa de Sofonías de que Dios dejará «un pueblo humilde y pobre» que se refugiará en su nombre (Sof 3:12) ejemplifica esta elección gratuita dirigida a quienes no tienen nada que ofrecer sino su confianza en Dios.",
+        "en": "Chapter 3 confesses that God, from all eternity, has freely chosen some to everlasting life without any foresight of merit in the creature. Zephaniah's promise that God will leave \"a people humble and lowly\" who will take refuge in his name (Zeph 3:12) exemplifies this gracious election directed at those who have nothing to offer but their trust in God.",
+        "pt": "O capítulo 3 confessa que Deus, desde toda a eternidade, escolheu livremente alguns para a vida eterna sem consideração a mérito algum na criatura. A promessa de Sofonias de que Deus deixará «um povo humilde e pobre» que confiará em seu nome (Sf 3:12) exemplifica essa eleição gratuita dirigida aos que não têm nada a oferecer senão sua confiança em Deus."
+      },
+      "genesis": [
+        "Sof 2:3",
+        "Sof 3:12"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-3"
+    },
+    {
+      "cap": "Cap. 25",
+      "titulo": {
+        "es": "De la Iglesia",
+        "en": "Of the Church",
+        "pt": "Da Igreja"
+      },
+      "doctrinas": [
+        "Eclesiología",
+        "Pueblo de Dios"
+      ],
+      "resumen": {
+        "es": "El capítulo 25 confiesa que la iglesia católica invisible está compuesta por la totalidad de los elegidos reunidos de entre todas las naciones. La promesa de Sofonías de que Dios dará a los pueblos «un lenguaje puro, para que todos invoquen el nombre del SEÑOR» y le sirvan «de común acuerdo» (Sof 3:9) anticipa esta reunión universal del pueblo de Dios, cumplida inauguralmente en Pentecostés.",
+        "en": "Chapter 25 confesses that the invisible catholic church consists of the whole number of the elect gathered from among all nations. Zephaniah's promise that God will give the peoples \"a pure speech, that all of them may call upon the name of the LORD\" and serve him \"with one accord\" (Zeph 3:9) anticipates this universal gathering of God's people, inaugurally fulfilled at Pentecost.",
+        "pt": "O capítulo 25 confessa que a igreja católica invisível consiste na totalidade dos eleitos reunidos de entre todas as nações. A promessa de Sofonias de que Deus dará aos povos «lábios puros, para que todos invoquem o nome do SENHOR» e o sirvam «com o mesmo espírito» (Sf 3:9) antecipa essa reunião universal do povo de Deus, cumprida inauguralmente em Pentecostes."
+      },
+      "genesis": [
+        "Sof 3:9",
+        "Sof 3:20"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-25"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Sof 1:14",
+      "es": "Cercano está el día grande del SEÑOR, cercano y muy próximo. Amargo es el clamor del día del SEÑOR; aun el guerrero clama allí amargamente.",
+      "en": "The great day of the LORD is near, near and hastening fast; the sound of the day of the LORD is bitter; the mighty man cries aloud there.",
+      "pt": "Já está perto o grande dia do SENHOR, está perto, e apressa-se muito; a voz do dia do SENHOR será amarga; ali o poderoso clamará em alta voz.",
+      "nota": {
+        "es": "Este versículo, y la escena de destrucción que le sigue (Sof 1:15-18), inspiraron siglos después el himno litúrgico medieval «Dies Irae», testimonio del impacto perdurable de esta imagen del día del SEÑOR sobre la imaginación cristiana.",
+        "en": "This verse, and the scene of destruction that follows it (Zeph 1:15-18), centuries later inspired the medieval liturgical hymn \"Dies Irae,\" a testament to this image of the day of the LORD's lasting impact on the Christian imagination.",
+        "pt": "Este versículo, e a cena de destruição que o segue (Sf 1:15-18), inspiraram séculos depois o hino litúrgico medieval «Dies Irae», testemunho do impacto duradouro dessa imagem do dia do SENHOR sobre a imaginação cristã."
+      }
+    },
+    {
+      "ref": "Sof 1:18",
+      "es": "Ni su plata ni su oro podrán librarlos en el día de la ira del SEÑOR, sino que toda la tierra será consumida por el fuego de su celo, porque Él hará una destrucción total, ciertamente aterradora, de todos los habitantes de la tierra.",
+      "en": "Neither their silver nor their gold shall be able to deliver them on the day of the wrath of the LORD. In the fire of his jealousy, all the earth shall be consumed; for a full and sudden end he will make of all the inhabitants of the earth.",
+      "pt": "Nem a sua prata nem o seu ouro poderão livrá-los no dia da ira do SENHOR; mas com o fogo do seu zelo será consumida toda a terra, porque ele fará repentina destruição de todos os moradores da terra.",
+      "nota": {
+        "es": "El versículo desmantela toda confianza en la riqueza material como refugio ante el juicio divino, un tema que atraviesa toda la literatura sapiencial y profética veterotestamentaria.",
+        "en": "The verse dismantles all confidence in material wealth as a refuge from divine judgment, a theme running through all Old Testament wisdom and prophetic literature.",
+        "pt": "O versículo desmantela toda confiança na riqueza material como refúgio diante do juízo divino, tema que atravessa toda a literatura sapiencial e profética veterotestamentária."
+      }
+    },
+    {
+      "ref": "Sof 2:3",
+      "es": "Buscad al SEÑOR, todos los humildes de la tierra que han cumplido sus ordenanzas; buscad justicia, buscad humildad. Quizás seáis guardados en el día de la ira del SEÑOR.",
+      "en": "Seek the LORD, all you humble of the land, who do his just commands; seek righteousness; seek humility; perhaps you may be hidden on the day of the anger of the LORD.",
+      "pt": "Buscai ao SENHOR, vós todos os mansos da terra, que pusestes por obra o seu juízo; buscai a justiça, buscai a mansidão; porventura sereis escondidos no dia da ira do SENHOR.",
+      "nota": {
+        "es": "El versículo bisagra del libro: tras el juicio universal del capítulo 1, ofrece la única vía de escape genuina —buscar humildemente al SEÑOR—, aunque incluso esta esperanza se expresa con humildad («quizás»), sin presumir de la gracia de Dios.",
+        "en": "The book's hinge verse: after chapter 1's universal judgment, it offers the only genuine way of escape — humbly seeking the LORD — though even this hope is expressed with humility (\"perhaps\"), without presuming upon God's grace.",
+        "pt": "O versículo-dobradiça do livro: após o julgamento universal do capítulo 1, oferece a única via de escape genuína — buscar humildemente o SENHOR —, embora até essa esperança seja expressa com humildade («porventura»), sem presumir da graça de Deus."
+      }
+    },
+    {
+      "ref": "Sof 3:9",
+      "es": "Porque entonces cambiaré a los pueblos por un lenguaje puro, para que todos invoquen el nombre del SEÑOR, para que le sirvan de común acuerdo.",
+      "en": "For at that time I will change the speech of the peoples to a pure speech, that all of them may call upon the name of the LORD and serve him with one accord.",
+      "pt": "Porque então darei lábios puros aos povos, para que todos invoquem o nome do SENHOR, para que o sirvam com o mesmo espírito.",
+      "nota": {
+        "es": "Una promesa que revierte deliberadamente la confusión de lenguas de Babel (Gn 11), anticipando la unidad de adoración entre las naciones inaugurada en Pentecostés (Hch 2).",
+        "en": "A promise that deliberately reverses the confusion of tongues at Babel (Gen 11), anticipating the unity of worship among the nations inaugurated at Pentecost (Acts 2).",
+        "pt": "Uma promessa que reverte deliberadamente a confusão de línguas de Babel (Gn 11), antecipando a unidade de adoração entre as nações inaugurada em Pentecostes (At 2)."
+      }
+    },
+    {
+      "ref": "Sof 3:17",
+      "es": "El SEÑOR tu Dios está en medio de ti, poderoso, Él salvará; se gozará en ti con alegría, guardará silencio en su amor, se regocijará por ti con cánticos de júbilo.",
+      "en": "The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.",
+      "pt": "O SENHOR, teu Deus, está no meio de ti, poderoso ele te salvará; ele se deleitará em ti com alegria; e, calando-se, te amará; e se regozijará em ti com júbilo.",
+      "nota": {
+        "es": "Posiblemente la imagen más tierna de todo el Antiguo Testamento: Dios mismo cantando de gozo sobre su pueblo, revelando que el destino final de los redimidos no es la mera tolerancia divina sino el deleite activo y cantor de su Creador.",
+        "en": "Possibly the tenderest image in the entire Old Testament: God himself singing for joy over his people, revealing that the redeemed's final destiny is not mere divine tolerance but the active, singing delight of their Creator.",
+        "pt": "Possivelmente a imagem mais terna de todo o Antigo Testamento: o próprio Deus cantando de alegria sobre seu povo, revelando que o destino final dos redimidos não é a mera tolerância divina, mas o deleite ativo e cantante de seu Criador."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Sofonías sostiene en tensión deliberada los dos polos del libro: el día del SEÑOR más universal y aterrador de todo el Antiguo Testamento (Sof 1) y la imagen más tierna del gozo divino sobre su pueblo (Sof 3:17), leyendo ambos no como contradicción sino como la manifestación coherente de un mismo Dios santo cuyo celo contra el pecado y cuyo amor de pacto son inseparables. Esta lectura resiste tanto una teología que minimice la seriedad del juicio universal como una que reduzca a Dios a mera ira sin ternura, insistiendo en que el remanente humilde que busca al SEÑOR (Sof 2:3) es precisamente quien experimentará el gozo cantor de Sof 3:17.",
+    "en": "The Reformed reading of Zephaniah holds in deliberate tension the book's two poles: the most universal, terrifying day of the LORD in the entire Old Testament (Zeph 1) and the tenderest image of divine joy over his people (Zeph 3:17), reading both not as contradiction but as the coherent manifestation of one holy God whose zeal against sin and covenant love are inseparable. This reading resists both a theology that minimizes the seriousness of universal judgment and one that reduces God to mere wrath without tenderness, insisting that the humble remnant who seeks the LORD (Zeph 2:3) is precisely who will experience the singing joy of Zeph 3:17.",
+    "pt": "A leitura reformada de Sofonias sustenta em tensão deliberada os dois polos do livro: o dia do SENHOR mais universal e aterrador de todo o Antigo Testamento (Sf 1) e a imagem mais terna da alegria divina sobre seu povo (Sf 3:17), lendo ambos não como contradição, mas como a manifestação coerente de um mesmo Deus santo cujo zelo contra o pecado e cujo amor de pacto são inseparáveis. Essa leitura resiste tanto a uma teologia que minimize a seriedade do julgamento universal quanto a uma que reduza Deus à mera ira sem ternura, insistindo que o remanescente humilde que busca o SENHOR (Sf 2:3) é precisamente quem experimentará o júbilo cantante de Sf 3:17."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "El Gran Día del SEÑOR Anunciado",
+        "en": "The Great Day of the LORD Announced",
+        "pt": "O Grande Dia do SENHOR Anunciado"
+      },
+      "descripcion": {
+        "es": "El libro abre con la declaración de juicio más universal del Antiguo Testamento: «Barreré por completo todas las cosas de sobre la faz de la tierra» (Sof 1:2), un eco deliberado y reversión del lenguaje de la creación que incluye hombres, animales, aves y peces. El juicio se concentra luego en Judá y Jerusalén por su idolatría sincretista —adorar tanto a Baal como al SEÑOR, jurar por Milcom, y los que saltan el umbral en prácticas paganas (Sof 1:4-9)—, y denuncia la complacencia espiritual de quienes dicen en su corazón que «el SEÑOR ni hará bien ni hará mal» (Sof 1:12). El capítulo culmina en una de las descripciones más terroríficas del «día del SEÑOR» en toda la Escritura: día de ira, angustia, tinieblas y destrucción total, en que ni la plata ni el oro podrán librar a nadie (Sof 1:14-18).",
+        "en": "The book opens with the most universal declaration of judgment in the Old Testament: \"I will utterly sweep away everything from the face of the earth\" (Zeph 1:2), a deliberate echo and reversal of creation language that includes man, beast, birds, and fish. Judgment then concentrates on Judah and Jerusalem for its syncretistic idolatry — worshiping both Baal and the LORD, swearing by Milcom, and those who leap over the threshold in pagan practices (Zeph 1:4-9) — and denounces the spiritual complacency of those who say in their hearts that \"the LORD will not do good, nor will he do ill\" (Zeph 1:12). The chapter culminates in one of the most terrifying descriptions of the \"day of the LORD\" in all of Scripture: a day of wrath, distress, darkness, and total destruction, in which neither silver nor gold can deliver anyone (Zeph 1:14-18).",
+        "pt": "O livro abre com a declaração de julgamento mais universal do Antigo Testamento: «destruirei de sobre a face da terra tudo» (Sf 1:2), um eco deliberado e reversão da linguagem da criação que inclui homens, animais, aves e peixes. O julgamento então se concentra em Judá e Jerusalém por sua idolatria sincretista — adorar tanto a Baal quanto ao SENHOR, jurar por Milcom, e os que saltam o limiar em práticas pagãs (Sf 1:4-9) —, e denuncia a complacência espiritual dos que dizem no seu coração que «o SENHOR não fará bem nem fará mal» (Sf 1:12). O capítulo culmina em uma das descrições mais aterradoras do «dia do SENHOR» em toda a Escritura: dia de ira, angústia, trevas e destruição total, em que nem a prata nem o ouro poderão livrar ninguém (Sf 1:14-18)."
+      },
+      "eventoClave": {
+        "es": "La descripción vívida y terrorífica del gran día del SEÑOR como día de ira universal contra toda la tierra y contra la idolatría de Judá (Sof 1:14-18).",
+        "en": "The vivid, terrifying description of the great day of the LORD as a day of universal wrath against all the earth and against Judah's idolatry (Zeph 1:14-18).",
+        "pt": "A descrição vívida e aterradora do grande dia do SENHOR como dia de ira universal contra toda a terra e contra a idolatria de Judá (Sf 1:14-18)."
+      },
+      "versiculoClave": "Sof 1:14",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Gn 1:26",
+          "tipo": "alusión",
+          "nota": {
+            "es": "La barrida de «hombres y animales... aves del cielo y peces del mar» (Sof 1:2-3) alude deliberadamente al orden de la creación de Gn 1, revirtiendo ese orden como juicio.",
+            "en": "The sweeping away of \"man and beast... birds of the heavens and fish of the sea\" (Zeph 1:2-3) deliberately alludes to the order of creation in Gen 1, reversing that order as judgment.",
+            "pt": "A destruição de «homens e animais... aves dos céus, e os peixes do mar» (Sf 1:2-3) alude deliberadamente à ordem da criação de Gn 1, revertendo essa ordem como julgamento."
+          }
+        },
+        {
+          "ref": "1Ts 5:2",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo describe el día del Señor con el mismo lenguaje de proximidad e inescapabilidad que domina Sof 1:14-18, advirtiendo que vendrá «como ladrón en la noche».",
+            "en": "Paul describes the day of the Lord with the same language of nearness and inescapability that dominates Zeph 1:14-18, warning it will come \"like a thief in the night.\"",
+            "pt": "Paulo descreve o dia do Senhor com a mesma linguagem de proximidade e inescapabilidade que domina Sf 1:14-18, advertindo que virá «como ladrão de noite»."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "La declaración de que Dios «barrerá por completo todas las cosas de sobre la faz de la tierra» (Sof 1:2) y la descripción del gran día de ira (Sof 1:14-18) establecen el juicio universal como el tema dominante que abre todo el libro.",
+            "en": "The declaration that God \"will utterly sweep away everything from the face of the earth\" (Zeph 1:2) and the description of the great day of wrath (Zeph 1:14-18) establish universal judgment as the dominant theme opening the entire book.",
+            "pt": "A declaração de que Deus «destruirá de sobre a face da terra tudo» (Sf 1:2) e a descrição do grande dia de ira (Sf 1:14-18) estabelecem o julgamento universal como o tema dominante que abre todo o livro."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "El juicio se dirige específicamente contra quienes adoran a Baal, al ejército de los cielos, y a Milcom, así como contra los que combinan el culto al SEÑOR con estas prácticas paganas (Sof 1:4-5).",
+              "en": "The judgment is specifically directed against those who worship Baal, the host of heaven, and Milcom, as well as those who combine worship of the LORD with these pagan practices (Zeph 1:4-5).",
+              "pt": "O julgamento se dirige especificamente contra os que adoram a Baal, ao exército dos céus, e a Milcom, assim como contra os que combinam o culto ao SENHOR com essas práticas pagãs (Sf 1:4-5)."
+            }
+          },
+          {
+            "Juicio Final": {
+              "es": "La descripción del día del SEÑOR como día de «ira... angustia... destrucción... tinieblas» (Sof 1:15) anticipa en imágenes concentradas la doctrina del juicio final universal.",
+              "en": "The description of the day of the LORD as a day of \"wrath... distress... destruction... darkness\" (Zeph 1:15) anticipates in concentrated imagery the doctrine of universal final judgment.",
+              "pt": "A descrição do dia do SENHOR como dia de «ira... angústia... destruição... trevas» (Sf 1:15) antecipa em imagens concentradas a doutrina do juízo final universal."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Buscad al SEÑOR; Juicio sobre las Naciones",
+        "en": "Seek the LORD; Judgment on the Nations",
+        "pt": "Buscai ao SENHOR; Julgamento sobre as Nações"
+      },
+      "descripcion": {
+        "es": "El capítulo se abre con un llamado urgente a la humildad: «Buscad al SEÑOR, todos los humildes de la tierra... quizás seáis guardados en el día de la ira del SEÑOR» (Sof 2:1-3), la única esperanza genuina ofrecida tras el juicio universal del capítulo anterior. El oráculo se dirige después contra las naciones vecinas: Filistea, cuya tierra costera se promete al remanente de Judá (Sof 2:4-7), Moab y Amón, comparados con Sodoma y Gomorra por su soberbia (Sof 2:8-11), y Cus (Sof 2:12). El capítulo culmina con el oráculo climático contra Asiria y Nínive: «Esta es la ciudad alegre que habitaba confiada... ¡Cómo ha llegado a ser una desolación!» (Sof 2:13-15), la misma ciudad perdonada un siglo antes en tiempos de Jonás, ahora condenada a la ruina definitiva.",
+        "en": "The chapter opens with an urgent call to humility: \"Seek the LORD, all you humble of the land... perhaps you may be hidden on the day of the anger of the LORD\" (Zeph 2:1-3), the only genuine hope offered after the previous chapter's universal judgment. The oracle then turns against the neighboring nations: Philistia, whose coastal land is promised to Judah's remnant (Zeph 2:4-7), Moab and Ammon, compared to Sodom and Gomorrah for their pride (Zeph 2:8-11), and Cush (Zeph 2:12). The chapter culminates with the climactic oracle against Assyria and Nineveh: \"This is the exultant city that lived securely... How she has become a desolation!\" (Zeph 2:13-15), the same city spared a century earlier in the days of Jonah, now condemned to final ruin.",
+        "pt": "O capítulo se abre com um chamado urgente à humildade: «buscai ao SENHOR, vós todos os mansos da terra... porventura sereis escondidos no dia da ira do SENHOR» (Sf 2:1-3), a única esperança genuína oferecida após o julgamento universal do capítulo anterior. O oráculo se dirige depois contra as nações vizinhas: Filístia, cuja terra costeira é prometida ao remanescente de Judá (Sf 2:4-7), Moabe e Amom, comparados a Sodoma e Gomorra por sua soberba (Sf 2:8-11), e Cuxe (Sf 2:12). O capítulo culmina com o oráculo climático contra a Assíria e Nínive: «esta é a cidade alegre que habitava tão segura... como se tornou em desolação!» (Sf 2:13-15), a mesma cidade poupada um século antes nos dias de Jonas, agora condenada à ruína definitiva."
+      },
+      "eventoClave": {
+        "es": "El llamado a los humildes de la tierra a buscar al SEÑOR con la esperanza de ser «guardados» en el día de la ira (Sof 2:3), la única vía de escape ofrecida antes del juicio sobre las naciones.",
+        "en": "The call to the humble of the land to seek the LORD in hope of being \"hidden\" on the day of wrath (Zeph 2:3), the only way of escape offered before judgment on the nations.",
+        "pt": "O chamado aos humildes da terra a buscar o SENHOR na esperança de ser «escondidos» no dia da ira (Sf 2:3), a única via de escape oferecida antes do julgamento sobre as nações."
+      },
+      "versiculoClave": "Sof 2:3",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jon 3:5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "El arrepentimiento de Nínive narrado en Jonás contrasta agudamente con su desolación final aquí anunciada, mostrando que la misericordia recibida un siglo antes no eximió a la ciudad de un juicio posterior cuando su crueldad se reanudó.",
+            "en": "Nineveh's repentance narrated in Jonah sharply contrasts with its final desolation announced here, showing that mercy received a century earlier did not exempt the city from later judgment when its cruelty resumed.",
+            "pt": "O arrependimento de Nínive narrado em Jonas contrasta agudamente com sua desolação final aqui anunciada, mostrando que a misericórdia recebida um século antes não isentou a cidade de um julgamento posterior quando sua crueldade se retomou."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Remanente": {
+            "es": "El llamado a «todos los humildes de la tierra» a buscar al SEÑOR, la justicia y la humildad (Sof 2:3) distingue a un grupo específico que podría ser «guardado» del juicio general, introduciendo el tema del remanente que dominará el capítulo 3.",
+            "en": "The call to \"all you humble of the land\" to seek the LORD, righteousness, and humility (Zeph 2:3) distinguishes a specific group that might be \"hidden\" from the general judgment, introducing the remnant theme that will dominate chapter 3.",
+            "pt": "O chamado a «todos os mansos da terra» a buscar o SENHOR, a justiça e a humildade (Sf 2:3) distingue um grupo específico que poderia ser «escondido» do julgamento geral, introduzindo o tema do remanescente que dominará o capítulo 3."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "Los oráculos contra Filistea, Moab, Amón, Cus y Asiria (Sof 2:4-15) extienden el juicio del capítulo 1 a las naciones vecinas, culminando irónicamente en la desolación de Nínive.",
+              "en": "The oracles against Philistia, Moab, Ammon, Cush, and Assyria (Zeph 2:4-15) extend chapter 1's judgment to the neighboring nations, culminating ironically in Nineveh's desolation.",
+              "pt": "Os oráculos contra Filístia, Moabe, Amom, Cuxe e Assíria (Sf 2:4-15) estendem o julgamento do capítulo 1 às nações vizinhas, culminando ironicamente na desolação de Nínive."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "La Corrupción de Jerusalén y el Gozo de la Restauración",
+        "en": "Jerusalem's Corruption and Joyful Restoration",
+        "pt": "A Corrupção de Jerusalém e a Alegria da Restauração"
+      },
+      "descripcion": {
+        "es": "El capítulo final regresa a Jerusalén, ahora denunciada como «ciudad rebelde y contaminada» cuyos oficiales, jueces, profetas y sacerdotes han corrompido su función (Sof 3:1-7). Tras el día de la reunión de las naciones para el juicio (Sof 3:8), el tono cambia radicalmente: Dios promete dar a los pueblos «un lenguaje puro, para que todos invoquen el nombre del SEÑOR» (Sof 3:9), y dejará «un pueblo humilde y pobre» que se refugiará en su nombre, sin engaño en su boca (Sof 3:12-13). El libro culmina en el himno más gozoso de los profetas menores: «Canta, oh hija de Sion... el SEÑOR tu Dios está en medio de ti... se regocijará por ti con cánticos de júbilo» (Sof 3:14-17), cerrando con la promesa de que Dios restaurará el bienestar de su pueblo ante sus propios ojos (Sof 3:18-20).",
+        "en": "The final chapter returns to Jerusalem, now denounced as a \"rebellious and defiled\" city whose officials, judges, prophets, and priests have corrupted their function (Zeph 3:1-7). After the day of gathering the nations for judgment (Zeph 3:8), the tone changes radically: God promises to give the peoples \"a pure speech, that all of them may call upon the name of the LORD\" (Zeph 3:9), and will leave \"a people humble and lowly\" who take refuge in his name, with no deceit in their mouths (Zeph 3:12-13). The book culminates in the Minor Prophets' most joyful hymn: \"Sing aloud, O daughter of Zion... the LORD your God is in your midst... he will exult over you with loud singing\" (Zeph 3:14-17), closing with the promise that God will restore his people's fortunes before their very eyes (Zeph 3:18-20).",
+        "pt": "O capítulo final retorna a Jerusalém, agora denunciada como cidade «rebelde e contaminada» cujos oficiais, juízes, profetas e sacerdotes corromperam sua função (Sf 3:1-7). Após o dia de reunir as nações para o julgamento (Sf 3:8), o tom muda radicalmente: Deus promete dar aos povos «lábios puros, para que todos invoquem o nome do SENHOR» (Sf 3:9), e deixará «um povo humilde e pobre» que se refugiará em seu nome, sem engano em sua boca (Sf 3:12-13). O livro culmina no hino mais alegre dos profetas menores: «canta alegremente, ó filha de Sião... o SENHOR, teu Deus, está no meio de ti... se regozijará em ti com júbilo» (Sf 3:14-17), encerrando com a promessa de que Deus restaurará o bem-estar de seu povo diante de seus próprios olhos (Sf 3:18-20)."
+      },
+      "eventoClave": {
+        "es": "La imagen culminante de Dios mismo regocijándose sobre su pueblo con cánticos de júbilo (Sof 3:17), transformando el día terrible de ira del capítulo 1 en la restauración más tierna de todo el libro.",
+        "en": "The culminating image of God himself rejoicing over his people with loud singing (Zeph 3:17), transforming chapter 1's terrible day of wrath into the book's tenderest restoration.",
+        "pt": "A imagem culminante do próprio Deus regozijando-se sobre seu povo com júbilo (Sf 3:17), transformando o dia terrível de ira do capítulo 1 na restauração mais terna de todo o livro."
+      },
+      "versiculoClave": "Sof 3:17",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Hch 2:4",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La promesa de un «lenguaje puro» para que todos los pueblos invoquen el nombre del SEÑOR de común acuerdo (Sof 3:9) halla su cumplimiento inaugural en el derramamiento del Espíritu Santo en Pentecostés.",
+            "en": "The promise of \"a pure speech\" so that all peoples may call upon the name of the LORD with one accord (Zeph 3:9) finds its inaugural fulfillment in the outpouring of the Holy Spirit at Pentecost.",
+            "pt": "A promessa de «lábios puros» para que todos os povos invoquem o nome do SENHOR com o mesmo espírito (Sf 3:9) encontra seu cumprimento inaugural no derramamento do Espírito Santo em Pentecostes."
+          }
+        },
+        {
+          "ref": "Is 62:5",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Isaías describe una imagen paralela del gozo nupcial de Dios sobre Sion, «como se goza el esposo con la esposa, así se gozará tu Dios contigo».",
+            "en": "Isaiah describes a parallel image of God's nuptial joy over Zion, \"as the bridegroom rejoices over the bride, so shall your God rejoice over you.\"",
+            "pt": "Isaías descreve uma imagem paralela da alegria nupcial de Deus sobre Sião, «como o noivo se alegra com a noiva, assim se alegrará contigo o teu Deus»."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Presencia de Dios": {
+            "es": "La declaración culminante de que «el SEÑOR tu Dios está en medio de ti, poderoso, Él salvará» (Sof 3:17) establece la presencia divina activa y gozosa como el centro teológico de la restauración final del libro.",
+            "en": "The culminating declaration that \"the LORD your God is in your midst, a mighty one who will save\" (Zeph 3:17) establishes God's active, joyful presence as the theological center of the book's final restoration.",
+            "pt": "A declaração culminante de que «o SENHOR, teu Deus, está no meio de ti, poderoso ele te salvará» (Sf 3:17) estabelece a presença divina ativa e alegre como o centro teológico da restauração final do livro."
+          }
+        },
+        "secundarios": [
+          {
+            "Remanente": {
+              "es": "Dios promete dejar «un pueblo humilde y pobre» que se refugiará en su nombre, sin iniquidad ni engaño en su boca (Sof 3:12-13), la continuación y consumación del tema del remanente introducido en el capítulo 2.",
+              "en": "God promises to leave \"a people humble and lowly\" who take refuge in his name, without injustice or deceit in their mouths (Zeph 3:12-13), the continuation and consummation of the remnant theme introduced in chapter 2.",
+              "pt": "Deus promete deixar «um povo humilde e pobre» que se refugiará em seu nome, sem iniquidade nem engano em sua boca (Sf 3:12-13), a continuação e consumação do tema do remanescente introduzido no capítulo 2."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La promesa del lenguaje puro para los pueblos (Sof 3:9) y de la restauración del bienestar de Judá «ante vuestros ojos» (Sof 3:20) establecen expectativas cuyo cumplimiento el resto del canon desarrollará.",
+              "en": "The promise of pure speech for the peoples (Zeph 3:9) and of the restoration of Judah's fortunes \"before your eyes\" (Zeph 3:20) establish expectations the rest of the canon will develop toward fulfillment.",
+              "pt": "A promessa de lábios puros para os povos (Sf 3:9) e da restauração do bem-estar de Judá «diante de vossos olhos» (Sf 3:20) estabelecem expectativas cujo cumprimento o restante do cânon desenvolverá."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos y reformados de renombre internacional.",
+          "en": "The ESV Study Bible is an editorial project of Crossway directed by Lane T. Dennis, with Wayne Grudem as general theological editor, bringing together more than 90 internationally recognized evangelical and Reformed scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos e reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas de estudio verso por verso con ensayos temáticos, mapas y cronologías, todo dentro de un marco teológico evangélico reformado que enfatiza la inerrancia bíblica y la lectura redentora-histórica del canon.",
+          "en": "It combines verse-by-verse study notes with thematic essays, maps, and chronologies, all within an evangelical Reformed theological framework emphasizing biblical inerrancy and a redemptive-historical reading of the canon.",
+          "pt": "Combina notas de estudo verso por verso com ensaios temáticos, mapas e cronologias, tudo dentro de um quadro teológico evangélico reformado que enfatiza a inerrância bíblica e a leitura redentora-histórica do cânon."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio, la datación anterior a las reformas de Josías de 622 a.C., y el bosquejo estructural del día del SEÑOR utilizados para establecer el contexto de Sofonías en este registro.",
+          "en": "It provided the introductory framework, the dating prior to Josiah's 622 BC reforms, and the structural outline of the day of the LORD used to establish Zephaniah's context in this record.",
+          "pt": "Forneceu o quadro introdutório, a datação anterior às reformas de Josias de 622 a.C., e o esboço estrutural do dia do SENHOR utilizados para estabelecer o contexto de Sofonias neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas teológicas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theological notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Notas teológicas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la santidad de Dios y la soberanía divina.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of 20th-century Reformed evangelicalism, known for his defense of God's holiness and divine sovereignty.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da santidade de Deus e da soberania divina."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio doctrinalmente precisas, ancladas en la Confesión de Westminster y los estándares confesionales reformados históricos.",
+          "en": "He edited a team of Reformed scholars to produce doctrinally precise study notes, anchored in the Westminster Confession and the historic Reformed confessional standards.",
+          "pt": "Editou uma equipe de estudiosos reformados para produzir notas de estudo doutrinariamente precisas, ancoradas na Confissão de Westminster e nos padrões confessionais reformados históricos."
+        },
+        "aportacion": {
+          "es": "Ofreció las notas teológicas confesionales utilizadas para conectar el día del SEÑOR y la promesa del remanente humilde con las doctrinas del juicio final, la elección y la iglesia articuladas en la Confesión de Westminster.",
+          "en": "It provided the confessional theological notes used to connect the day of the LORD and the promise of the humble remnant with the doctrines of final judgment, election, and the church articulated in the Westminster Confession.",
+          "pt": "Ofereceu as notas teológicas confessionais utilizadas para conectar o dia do SENHOR e a promessa do remanescente humilde com as doutrinas do juízo final, da eleição e da igreja articuladas na Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Terminología teológica",
+          "Citas bíblicas NBLA"
+        ],
+        "en": [
+          "Theological terminology",
+          "NBLA Scripture quotations"
+        ],
+        "pt": [
+          "Terminologia teológica",
+          "Citações bíblicas NBLA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries para llevar la erudición reformada al mundo hispanohablante.",
+          "en": "A Spanish adaptation of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries to bring Reformed scholarship to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com a Ligonier Ministries para levar a erudição reformada ao mundo hispanofalante."
+        },
+        "metodo": {
+          "es": "Traduce y adapta las notas teológicas de la Reformation Study Bible al contexto y la versión NBLA, manteniendo el mismo rigor confesional reformado del original en inglés.",
+          "en": "It translates and adapts the theological notes of the Reformation Study Bible to the context and the NBLA version, maintaining the same Reformed confessional rigor of the English original.",
+          "pt": "Traduz e adapta as notas teológicas da Reformation Study Bible ao contexto e à versão NBLA, mantendo o mesmo rigor confessional reformado do original em inglês."
+        },
+        "aportacion": {
+          "es": "Sirvió como referencia primaria en español para la terminología teológica y las citas bíblicas en NBLA utilizadas a lo largo de este registro.",
+          "en": "It served as the primary Spanish-language reference for theological terminology and the NBLA Scripture quotations used throughout this record.",
+          "pt": "Serviu como referência primária em espanhol para a terminologia teológica e as citações bíblicas em NBLA utilizadas ao longo deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Escatología",
+          "Elección"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Eschatology",
+          "Election"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Escatologia",
+          "Eleição"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático evangélico, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y coeditor general de la ESV Study Bible.",
+          "en": "Wayne Grudem is an evangelical systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo sistemático evangélico, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e coeditor geral da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, fundamentando cada afirmación doctrinal directamente en el texto bíblico con amplias referencias cruzadas.",
+          "en": "He organizes Christian doctrine by classic systematic categories, grounding each doctrinal affirmation directly in the biblical text with extensive cross-references.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, fundamentando cada afirmação doutrinária diretamente no texto bíblico com amplas referências cruzadas."
+        },
+        "aportacion": {
+          "es": "Proporcionó las categorías de teología sistemática —escatología, hamartiología, elección, teología propia— utilizadas para estructurar la sección teológica de este registro sobre Sofonías.",
+          "en": "It provided the systematic theology categories — eschatology, hamartiology, election, theology proper — used to structure the theological section of this record on Zephaniah.",
+          "pt": "Forneceu as categorias de teologia sistemática — escatologia, hamartiologia, eleição, teologia própria — utilizadas para estruturar a seção teológica deste registro sobre Sofonias."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/systematic-theology"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas históricas del pacto, enfatizando la unidad orgánica de la Escritura y su culminación cristológica.",
+          "en": "He traces the progressive development of divine revelation through the historical epochs of the covenant, emphasizing the organic unity of Scripture and its christological culmination.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas históricas do pacto, enfatizando a unidade orgânica da Escritura e sua culminação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y la lectura de Sof 3:9 y 3:17 como anticipos genuinos de la obra reunificadora de Cristo y del gozo divino sobre su iglesia utilizado en este registro.",
+          "en": "It grounded the christological focus and the reading of Zeph 3:9 and 3:17 as genuine foretastes of Christ's reunifying work and divine joy over his church used in this record.",
+          "pt": "Fundamentou o enfoque cristológico e a leitura de Sf 3:9 e 3:17 como antegozos genuínos da obra reunificadora de Cristo e da alegria divina sobre sua igreja utilizado neste registro."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biblical-theology-doctrine/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Cercano Oriente Antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Ancient Near East"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo del Cercano Oriente Antiguo, con nombramientos en Wheaton College, Missouri State University y la Universidad de Kansas respectivamente.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the Ancient Near Eastern background, holding appointments at Wheaton College, Missouri State University, and the University of Kansas respectively.",
+          "pt": "Walton, Matthews e Chavalas são estudiosos veterotestamentários especializados no pano de fundo do Antigo Oriente Próximo, com nomeações em Wheaton College, Missouri State University e na University of Kansas respectivamente."
+        },
+        "metodo": {
+          "es": "Comenta el texto bíblico versículo por versículo iluminando su trasfondo cultural, geográfico y arqueológico del Cercano Oriente Antiguo, sin comprometer la autoridad del texto revelado.",
+          "en": "It comments on the biblical text verse by verse, illuminating its Ancient Near Eastern cultural, geographic, and archaeological background, without compromising the authority of the revealed text.",
+          "pt": "Comenta o texto bíblico versículo por versículo, iluminando seu pano de fundo cultural, geográfico e arqueológico do Antigo Oriente Próximo, sem comprometer a autoridade do texto revelado."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo geográfico sobre las ciudades filisteas, Moab, Amón y Cus utilizado en la sección de contexto histórico de este registro.",
+          "en": "It provided the geographic background on the Philistine cities, Moab, Ammon, and Cush used in the historical context section of this record.",
+          "pt": "Forneceu o pano de fundo geográfico sobre as cidades filisteias, Moabe, Amom e Cuxe utilizado na seção de contexto histórico deste registro."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (Walton, 2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Reinado de Josías"
+        ],
+        "en": [
+          "Archaeology",
+          "Reign of Josiah"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Reinado de Josias"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida por un equipo de arqueólogos y eruditos bíblicos evangélicos bajo Zondervan, esta obra reúne hallazgos arqueológicos relevantes para la interpretación del texto bíblico en su contexto histórico original.",
+          "en": "Produced by a team of archaeologists and evangelical biblical scholars under Zondervan, this work brings together archaeological findings relevant to interpreting the biblical text in its original historical context.",
+          "pt": "Produzida por uma equipe de arqueólogos e estudiosos bíblicos evangélicos sob a Zondervan, esta obra reúne achados arqueológicos relevantes para a interpretação do texto bíblico em seu contexto histórico original."
+        },
+        "metodo": {
+          "es": "Inserta notas arqueológicas y artículos temáticos junto al texto bíblico, correlacionando descubrimientos materiales específicos con pasajes y personajes bíblicos concretos.",
+          "en": "It inserts archaeological notes and thematic articles alongside the biblical text, correlating specific material discoveries with concrete biblical passages and figures.",
+          "pt": "Insere notas arqueológicas e artigos temáticos junto ao texto bíblico, correlacionando descobertas materiais específicas com passagens e personagens bíblicos concretos."
+        },
+        "aportacion": {
+          "es": "Aportó los datos sobre la administración de Judá bajo Josías y la caída de Nínive utilizados para documentar el trasfondo histórico presupuesto por Sofonías.",
+          "en": "It provided the data on Judah's administration under Josiah and Nineveh's fall used to document the historical background presupposed by Zephaniah.",
+          "pt": "Contribuiu com os dados sobre a administração de Judá sob Josias e a queda de Nínive utilizados para documentar o pano de fundo histórico pressuposto por Sofonias."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 2000,
+      "editorial": "Westminster John Knox Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Reinado de Josías",
+          "Reforma religiosa de 622 a.C.",
+          "Genealogía real de Judá"
+        ],
+        "en": [
+          "Reign of Josiah",
+          "622 BC religious reform",
+          "Royal genealogy of Judah"
+        ],
+        "pt": [
+          "Reinado de Josias",
+          "Reforma religiosa de 622 a.C.",
+          "Genealogia real de Judá"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908-1995) fue profesor de Antiguo Testamento en Union Theological Seminary en Virginia y una figura decisiva en la reconstrucción histórica de Israel dentro de la erudición bíblica del siglo XX.",
+          "en": "John Bright (1908-1995) was professor of Old Testament at Union Theological Seminary in Virginia and a decisive figure in the historical reconstruction of Israel within 20th-century biblical scholarship.",
+          "pt": "John Bright (1908-1995) foi professor de Antigo Testamento no Union Theological Seminary, na Virgínia, e uma figura decisiva na reconstrução histórica de Israel dentro da erudição bíblica do século XX."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el testimonio bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, dentro de un marco históricamente riguroso.",
+          "en": "He reconstructs the history of Israel by integrating the biblical testimony with archaeological evidence and extrabiblical Ancient Near Eastern records, within a historically rigorous framework.",
+          "pt": "Reconstrói a história de Israel integrando o testemunho bíblico com a evidência arqueológica e os registros extrabíblicos do Antigo Oriente Próximo, dentro de um quadro historicamente rigoroso."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico del reinado de Josías, su reforma religiosa de 622 a.C., y la identificación probable de la genealogía real de Sofonías utilizado para fechar y contextualizar el libro en este registro.",
+          "en": "It provided the chronological framework of Josiah's reign, his 622 BC religious reform, and the probable identification of Zephaniah's royal genealogy used to date and contextualize the book in this record.",
+          "pt": "Forneceu o quadro cronológico do reinado de Josias, sua reforma religiosa de 622 a.C., e a identificação provável da genealogia real de Sofonias utilizado para datar e contextualizar o livro neste registro."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.7,
+    "camposMarcados": [
+      {
+        "campo": "año / autor.nota",
+        "razon": "Se sitúa la composición c. 640-622 a.C., antes de las reformas religiosas de Josías de 622 a.C., siguiendo la posición conservadora/reformada de que la idolatría activa denunciada en el libro (Baal, culto a los astros, Milcom) presupone un momento anterior a la purga registrada en 2R 23:4-14.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se defiende la fecha temprana (antes de 622 a.C.) frente a la propuesta crítica de una recaída idolátrica posterior a las reformas, y se afirma la identificación tradicional del 'Ezequías' de Sof 1:1 con el rey de Judá, aunque esta última no puede confirmarse con certeza absoluta.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "personajes[].Sofonías.biografiaHistorica",
+        "razon": "La identificación de 'Ezequías' en la genealogía de Sof 1:1 con el rey de Judá del mismo nombre es la posición mayoritaria pero no puede confirmarse con evidencia externa definitiva; nivelEvidencia se marcó 'medio' dado que el contexto cultural (genealogía real inusualmente extensa) apoya la identificación sin confirmarla.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "personajes[].El remanente humilde.biografiaHistorica",
+        "razon": "'El remanente humilde' es una figura teológica representativa, no un grupo históricamente identificable de manera individual; nivelEvidencia se marcó 'especulativo' porque la categoría de evidencia histórica externa no es aplicable a un principio teológico genérico.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "Los 3 capítulos del libro se mapearon 1:1 a 3 unidades temáticas, ya que cada capítulo constituye un movimiento retórico coherente y autocontenido (el gran día del SEÑOR anunciado; el llamado a buscar al SEÑOR y el juicio sobre las naciones; la corrupción de Jerusalén y el gozo de la restauración).",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-06T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-06T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

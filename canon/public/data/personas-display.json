@@ -3828,5 +3828,41 @@
       "en": "LIVES BY FAITH",
       "pt": "VIVE PELA FÉ"
     }
+  },
+  "Sofonías": {
+    "id": "sofonias-profeta",
+    "color": "#4A3A6B",
+    "init": "צפ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA DE LINAJE REAL",
+      "en": "PROPHET OF ROYAL LINE",
+      "pt": "PROFETA DE LINHAGEM REAL"
+    }
+  },
+  "Josías (rey de Judá)": {
+    "id": "josias-rey",
+    "color": "#6B4A1B",
+    "init": "יא",
+    "xCh": 1,
+    "side": "above",
+    "badge": {
+      "es": "REY REFORMADOR",
+      "en": "REFORMER KING",
+      "pt": "REI REFORMADOR"
+    }
+  },
+  "El remanente humilde": {
+    "id": "remanente-humilde-sofonias",
+    "color": "#4A8B6A",
+    "init": "עם",
+    "xCh": 2,
+    "side": "below",
+    "badge": {
+      "es": "CANTA CON DIOS",
+      "en": "SINGS WITH GOD",
+      "pt": "CANTA COM DEUS"
+    }
   }
 }
