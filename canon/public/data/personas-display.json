@@ -3732,5 +3732,41 @@
       "en": "CITY SPARED",
       "pt": "CIDADE POUPADA"
     }
+  },
+  "Miqueas": {
+    "id": "miqueas-profeta",
+    "color": "#4A7A5A",
+    "init": "מי",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA DE MORESET",
+      "en": "PROPHET FROM MORESHETH",
+      "pt": "PROFETA DE MORESETE"
+    }
+  },
+  "Los líderes corruptos de Israel": {
+    "id": "lideres-corruptos-miqueas",
+    "color": "#7A1A2A",
+    "init": "שר",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "LÍDERES DEVORADORES",
+      "en": "DEVOURING LEADERS",
+      "pt": "LÍDERES DEVORADORES"
+    }
+  },
+  "El gobernante de Belén": {
+    "id": "gobernante-belen",
+    "color": "#8B5A1B",
+    "init": "בל",
+    "xCh": 5,
+    "side": "below",
+    "badge": {
+      "es": "PASTOR DE BELÉN",
+      "en": "SHEPHERD OF BETHLEHEM",
+      "pt": "PASTOR DE BELÉM"
+    }
   }
 }

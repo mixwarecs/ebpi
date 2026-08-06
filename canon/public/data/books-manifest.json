@@ -1295,7 +1295,8 @@
       "ordenCanon": 33,
       "capitulosTotal": 7,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "miqueas.json",
       "razon": {
         "es": "Anuncia tanto el juicio sobre la injusticia social como el nacimiento del Mesías en Belén (Miq 5:2) y la esencia de la piedad genuina (Miq 6:8).",
         "en": "Announces both judgment on social injustice and the birth of the Messiah in Bethlehem (Mic 5:2), and the essence of genuine piety (Mic 6:8).",

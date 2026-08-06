@@ -1,0 +1,1701 @@
+{
+  "id": 33,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Miqueas",
+    "en": "Micah",
+    "pt": "Miquéias"
+  },
+  "tituloOriginal": "מִיכָה",
+  "transliteracion": "Mîkâh",
+  "significado": {
+    "es": "¿Quién como YHWH?",
+    "en": "Who is like YHWH?",
+    "pt": "Quem é como YHWH?"
+  },
+  "resumenGeneral": {
+    "es": "Miqueas se estructura en tres ciclos repetidos de juicio y esperanza. El primero (Mi 1-2) anuncia la destrucción de Samaria y Judá por la idolatría y la opresión de los pobres, cerrando abruptamente con la promesa de un remanente reunido (Mi 2:12-13). El segundo ciclo (Mi 3-5) condena a los líderes corruptos y predice la destrucción de Jerusalén (Mi 3:12), pero se eleva hacia la visión escatológica del monte del SEÑOR exaltado sobre las naciones (Mi 4:1-4) y la profecía mesiánica del gobernante que nacerá en Belén (Mi 5:2). El tercer ciclo (Mi 6-7) presenta el pleito de pacto del SEÑOR contra su pueblo, que culmina en el resumen ético más citado del Antiguo Testamento —hacer justicia, amar misericordia, y caminar humildemente con Dios (Mi 6:8)— y cierra el libro entero con una doxología sobre el Dios que perdona la iniquidad y arroja los pecados a las profundidades del mar (Mi 7:18-20).",
+    "en": "Micah is structured in three repeated cycles of judgment and hope. The first (Mic 1-2) announces the destruction of Samaria and Judah for idolatry and the oppression of the poor, closing abruptly with the promise of a gathered remnant (Mic 2:12-13). The second cycle (Mic 3-5) condemns corrupt leaders and predicts Jerusalem's destruction (Mic 3:12), but rises toward the eschatological vision of the LORD's mountain exalted over the nations (Mic 4:1-4) and the messianic prophecy of the ruler who will be born in Bethlehem (Mic 5:2). The third cycle (Mic 6-7) presents the LORD's covenant lawsuit against his people, culminating in the most quoted ethical summary of the Old Testament — to do justice, love kindness, and walk humbly with God (Mic 6:8) — and closes the entire book with a doxology on the God who pardons iniquity and casts sins into the depths of the sea (Mic 7:18-20).",
+    "pt": "Miquéias se estrutura em três ciclos repetidos de julgamento e esperança. O primeiro (Mq 1-2) anuncia a destruição de Samaria e Judá pela idolatria e opressão dos pobres, encerrando-se abruptamente com a promessa de um remanescente reunido (Mq 2:12-13). O segundo ciclo (Mq 3-5) condena os líderes corruptos e prediz a destruição de Jerusalém (Mq 3:12), mas se eleva rumo à visão escatológica do monte do SENHOR exaltado sobre as nações (Mq 4:1-4) e à profecia messiânica do governante que nascerá em Belém (Mq 5:2). O terceiro ciclo (Mq 6-7) apresenta a contenda de pacto do SENHOR contra seu povo, culminando no resumo ético mais citado do Antigo Testamento — praticar a justiça, amar a misericórdia e andar humildemente com Deus (Mq 6:8) — e encerra todo o livro com uma doxologia sobre o Deus que perdoa a iniquidade e lança os pecados às profundezas do mar (Mq 7:18-20)."
+  },
+  "capitulosTotal": 7,
+  "autor": {
+    "nombre": {
+      "es": "Miqueas",
+      "en": "Micah",
+      "pt": "Miquéias"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El libro se autoatribuye a Miqueas de Moreset (Mi 1:1), un profeta contemporáneo de Isaías, Oseas y Amós. Aunque algunos críticos cuestionan la unidad de autoría de los oráculos de esperanza (Mi 4-5; 7:8-20), atribuyéndolos a un redactor post-exílico, la tradición conservadora sostiene la autoría unificada de Miqueas para todo el libro, apoyada en la cita de Jer 26:18, que confirma la actividad profética de Miqueas en tiempos de Ezequías.",
+      "en": "The book self-attributes to Micah of Moresheth (Mic 1:1), a prophet contemporary with Isaiah, Hosea, and Amos. Although some critics question the unified authorship of the oracles of hope (Mic 4-5; 7:8-20), attributing them to a post-exilic redactor, the conservative tradition holds to unified Mican authorship of the whole book, supported by the citation in Jer 26:18, which confirms Micah's prophetic activity in Hezekiah's day.",
+      "pt": "O livro se autoatribui a Miquéias de Moresete (Mq 1:1), um profeta contemporâneo de Isaías, Oseias e Amós. Embora alguns críticos questionem a unidade de autoria dos oráculos de esperança (Mq 4-5; 7:8-20), atribuindo-os a um redator pós-exílico, a tradição conservadora sustenta a autoria unificada de Miquéias para todo o livro, apoiada na citação de Jr 26:18, que confirma a atividade profética de Miquéias nos dias de Ezequias."
+    }
+  },
+  "año": {
+    "desde": -735,
+    "hasta": -686,
+    "display": {
+      "es": "Fecha de escritura: c. 735-686 a.C., durante los reinados de Jotam, Acaz y Ezequías en Judá",
+      "en": "Date of writing: c. 735-686 BC, during the reigns of Jotham, Ahaz, and Hezekiah in Judah",
+      "pt": "Data de escrita: c. 735-686 a.C., durante os reinados de Jotão, Acaz e Ezequias em Judá"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Judá, posiblemente en Jerusalén o en su Moreset-gat natal, en la Sefela",
+    "en": "Judah, possibly in Jerusalem or in his hometown of Moresheth-gath, in the Shephelah",
+    "pt": "Judá, possivelmente em Jerusalém ou em sua terra natal, Moresete-Gate, na Sefelá"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Hierro II (1000–586 a.C.)",
+      "en": "Iron Age II (1000–586 BC)",
+      "pt": "Ferro II (1000–586 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Moreset-gat",
+          "en": "Moresheth-gath",
+          "pt": "Moresete-Gate"
+        },
+        "identificacionModerna": {
+          "es": "Aldea en la Sefela de Judá, posiblemente Tell el-Judeideh, cerca de la actual Beit Guvrin, Israel",
+          "en": "A village in the Shephelah of Judah, possibly Tell el-Judeideh, near modern Beit Guvrin, Israel",
+          "pt": "Aldeia na Sefelá de Judá, possivelmente Tell el-Judeideh, perto da atual Beit Guvrin, Israel"
+        },
+        "significancia": {
+          "es": "La ciudad natal de Miqueas (Mi 1:1), ubicando al profeta como una voz rural desde la periferia agrícola de Judá, no desde la capital",
+          "en": "Micah's hometown (Mic 1:1), situating the prophet as a rural voice from Judah's agricultural periphery, not from the capital",
+          "pt": "A cidade natal de Miquéias (Mq 1:1), situando o profeta como uma voz rural da periferia agrícola de Judá, não da capital"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Samaria",
+          "en": "Samaria",
+          "pt": "Samaria"
+        },
+        "identificacionModerna": {
+          "es": "Capital del reino del norte de Israel, en la actual Cisjordania",
+          "en": "Capital of the northern kingdom of Israel, in the modern West Bank",
+          "pt": "Capital do reino do norte de Israel, na atual Cisjordânia"
+        },
+        "significancia": {
+          "es": "Objeto del primer oráculo de juicio del libro por su idolatría; cayó ante Asiria en 722 a.C. (Mi 1:6-7)",
+          "en": "The object of the book's first judgment oracle for its idolatry; it fell to Assyria in 722 BC (Mic 1:6-7)",
+          "pt": "Objeto do primeiro oráculo de julgamento do livro por sua idolatria; caiu diante da Assíria em 722 a.C. (Mq 1:6-7)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "Capital de Judá, en la actual Israel/Cisjordania",
+          "en": "Capital of Judah, in modern Israel/West Bank",
+          "pt": "Capital de Judá, no atual Israel/Cisjordânia"
+        },
+        "significancia": {
+          "es": "Blanco de la advertencia de juicio (Mi 3:12) y del futuro escatológico como el monte exaltado de la casa del SEÑOR (Mi 4:1-2)",
+          "en": "The target of the judgment warning (Mic 3:12) and of the eschatological future as the exalted mountain of the LORD's house (Mic 4:1-2)",
+          "pt": "Alvo da advertência de julgamento (Mq 3:12) e do futuro escatológico como o monte exaltado da casa do SENHOR (Mq 4:1-2)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Belén-Efrata",
+          "en": "Bethlehem Ephrathah",
+          "pt": "Belém-Efrata"
+        },
+        "identificacionModerna": {
+          "es": "Ciudad al sur de Jerusalén, en la actual Cisjordania, tradicional lugar de nacimiento de Jesús",
+          "en": "A city south of Jerusalem, in the modern West Bank, the traditional birthplace of Jesus",
+          "pt": "Cidade ao sul de Jerusalém, na atual Cisjordânia, local tradicional do nascimento de Jesus"
+        },
+        "significancia": {
+          "es": "Profetizada como el lugar de origen del gobernante mesiánico «cuyos orígenes son desde la antigüedad, desde los días de la eternidad» (Mi 5:2), citada en Mt 2:6",
+          "en": "Prophesied as the place of origin of the messianic ruler \"whose origin is from of old, from ancient days\" (Mic 5:2), cited in Matt 2:6",
+          "pt": "Profetizada como o lugar de origem do governante messiânico «cujas saídas são desde os tempos antigos, desde os dias da eternidade» (Mq 5:2), citada em Mt 2:6"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Asirios",
+          "en": "Assyrians",
+          "pt": "Assírios"
+        },
+        "rolEnElTexto": {
+          "es": "La potencia imperial que destruye Samaria (722 a.C.) y amenaza a Judá bajo Senaquerib (701 a.C.), el trasfondo geopolítico constante de las advertencias de Miqueas",
+          "en": "The imperial power that destroys Samaria (722 BC) and threatens Judah under Sennacherib (701 BC), the constant geopolitical backdrop of Micah's warnings",
+          "pt": "A potência imperial que destrói Samaria (722 a.C.) e ameaça Judá sob Senaqueribe (701 a.C.), o pano de fundo geopolítico constante das advertências de Miquéias"
+        },
+        "estadoArqueologico": {
+          "es": "Ampliamente documentados en anales reales, el Prisma de Senaquerib, y las excavaciones de Laquis, que muestran evidencia física del asedio asirio de 701 a.C.",
+          "en": "Extensively documented in royal annals, Sennacherib's Prism, and the excavations of Lachish, which show physical evidence of the 701 BC Assyrian siege",
+          "pt": "Amplamente documentados em anais reais, no Prisma de Senaqueribe, e nas escavações de Láquis, que mostram evidências físicas do cerco assírio de 701 a.C."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Israel (reino del norte)",
+          "en": "Israel (northern kingdom)",
+          "pt": "Israel (reino do norte)"
+        },
+        "rolEnElTexto": {
+          "es": "Objeto del juicio inicial del libro por su idolatría centrada en Samaria, cuya caída Miqueas usa como advertencia para Judá (Mi 1:5-7)",
+          "en": "The object of the book's initial judgment for its idolatry centered in Samaria, whose fall Micah uses as a warning to Judah (Mic 1:5-7)",
+          "pt": "Objeto do julgamento inicial do livro por sua idolatria centrada em Samaria, cuja queda Miquéias usa como advertência para Judá (Mq 1:5-7)"
+        },
+        "estadoArqueologico": {
+          "es": "La destrucción de Samaria en 722 a.C. está confirmada arqueológicamente por estratos de destrucción y registros asirios",
+          "en": "The destruction of Samaria in 722 BC is archaeologically confirmed by destruction strata and Assyrian records",
+          "pt": "A destruição de Samaria em 722 a.C. está confirmada arqueologicamente por estratos de destruição e registros assírios"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Judá",
+          "en": "Judah",
+          "pt": "Judá"
+        },
+        "rolEnElTexto": {
+          "es": "El reino del sur bajo los reyes Jotam, Acaz y Ezequías, receptor principal de las advertencias, el llamado al arrepentimiento y las promesas mesiánicas de Miqueas",
+          "en": "The southern kingdom under kings Jotham, Ahaz, and Hezekiah, the primary recipient of Micah's warnings, call to repentance, and messianic promises",
+          "pt": "O reino do sul sob os reis Jotão, Acaz e Ezequias, destinatário principal das advertências, do chamado ao arrependimento e das promessas messiânicas de Miquéias"
+        },
+        "estadoArqueologico": {
+          "es": "El período de Ezequías está bien documentado arqueológicamente, incluidos el túnel de Siloé y las fortificaciones defensivas contra la invasión asiria de 701 a.C.",
+          "en": "The period of Hezekiah is well documented archaeologically, including the Siloam Tunnel and defensive fortifications against the 701 BC Assyrian invasion",
+          "pt": "O período de Ezequias está bem documentado arqueologicamente, incluindo o túnel de Siloé e as fortificações defensivas contra a invasão assíria de 701 a.C."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Las excavaciones de Laquis han revelado evidencia directa del asedio asirio de Senaquerib en 701 a.C. —rampa de asedio, capas de destrucción, y relieves del palacio de Nínive que representan la conquista de la ciudad— corroborando el trasfondo de crisis que Miqueas presupone al mencionar Laquis por su nombre (Mi 1:13). El túnel de Siloé y la inscripción hallada en él documentan los preparativos defensivos de Ezequías en Jerusalén durante este mismo período. La destrucción de Samaria en 722 a.C., confirmada por estratos arqueológicos y por los anales de Sargón II, corrobora el juicio anunciado por Miqueas sobre el reino del norte al inicio del libro.",
+      "en": "Excavations at Lachish have revealed direct evidence of Sennacherib's 701 BC siege — a siege ramp, destruction layers, and reliefs from the Nineveh palace depicting the city's conquest — corroborating the backdrop of crisis Micah presupposes when he mentions Lachish by name (Mic 1:13). The Siloam Tunnel and the inscription found within it document Hezekiah's defensive preparations in Jerusalem during this same period. The destruction of Samaria in 722 BC, confirmed by archaeological strata and the Annals of Sargon II, corroborates the judgment Micah announces on the northern kingdom at the book's outset.",
+      "pt": "As escavações de Láquis revelaram evidência direta do cerco de Senaqueribe em 701 a.C. — rampa de cerco, camadas de destruição e relevos do palácio de Nínive que representam a conquista da cidade — corroborando o pano de fundo de crise que Miquéias pressupõe ao mencionar Láquis pelo nome (Mq 1:13). O túnel de Siloé e a inscrição nele encontrada documentam os preparativos defensivos de Ezequias em Jerusalém durante esse mesmo período. A destruição de Samaria em 722 a.C., confirmada por estratos arqueológicos e pelos anais de Sargão II, corrobora o julgamento anunciado por Miquéias sobre o reino do norte no início do livro."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Prisma de Senaquerib (Prisma Taylor)",
+          "en": "Sennacherib's Prism (Taylor Prism)",
+          "pt": "Prisma de Senaqueribe (Prisma Taylor)"
+        },
+        "origen": {
+          "es": "Inscripción cuneiforme asiria que registra la campaña de Senaquerib contra Judá en 701 a.C., incluido el asedio de Laquis y Jerusalén",
+          "en": "An Assyrian cuneiform inscription recording Sennacherib's campaign against Judah in 701 BC, including the siege of Lachish and Jerusalem",
+          "pt": "Inscrição cuneiforme assíria que registra a campanha de Senaqueribe contra Judá em 701 a.C., incluindo o cerco de Láquis e Jerusalém"
+        },
+        "relevancia": {
+          "es": "Corrobora la crisis asiria bajo Senaquerib que forma el trasfondo histórico inmediato de las advertencias de Miqueas contra Jerusalén y su mención explícita de Laquis (Mi 1:13)",
+          "en": "Corroborates the Assyrian crisis under Sennacherib that forms the immediate historical backdrop of Micah's warnings against Jerusalem and his explicit mention of Lachish (Mic 1:13)",
+          "pt": "Corrobora a crise assíria sob Senaqueribe que forma o pano de fundo histórico imediato das advertências de Miquéias contra Jerusalém e sua menção explícita a Láquis (Mq 1:13)"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Anales de Sargón II",
+          "en": "Annals of Sargon II",
+          "pt": "Anais de Sargão II"
+        },
+        "origen": {
+          "es": "Registros reales asirios que documentan la caída de Samaria en 722 a.C. y la deportación de la población del reino del norte",
+          "en": "Assyrian royal records documenting the fall of Samaria in 722 BC and the deportation of the northern kingdom's population",
+          "pt": "Registros reais assírios que documentam a queda de Samaria em 722 a.C. e a deportação da população do reino do norte"
+        },
+        "relevancia": {
+          "es": "Confirma la caída de Samaria anunciada por Miqueas (Mi 1:6-7) como juicio divino sobre la idolatría del reino del norte",
+          "en": "Confirms the fall of Samaria announced by Micah (Mic 1:6-7) as divine judgment on the northern kingdom's idolatry",
+          "pt": "Confirma a queda de Samaria anunciada por Miquéias (Mq 1:6-7) como juízo divino sobre a idolatria do reino do norte"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La unidad literaria de Miqueas ha sido debatida: algunos críticos atribuyen los oráculos de esperanza (especialmente Mi 4-5 y 7:8-20) a un editor post-exílico posterior, argumentando que un profeta del siglo VIII no pudo haber previsto la restauración tras el exilio babilónico. La tradición reformada y evangélica conservadora defiende la unidad del libro bajo un único autor del siglo VIII, señalando que la profecía predictiva genuina —incluida la mención específica de Babilonia como lugar de exilio en Mi 4:10, más de un siglo antes de que Babilonia se convirtiera en la potencia dominante— es plenamente consistente con la naturaleza sobrenatural de la revelación profética bíblica. Jeremías 26:18 confirma la autenticidad histórica de al menos Mi 3:12, citándola explícitamente como profecía de Miqueas un siglo después. Una segunda controversia leve concierne la relación entre Mi 4:1-3 e Is 2:2-4, casi idénticos; la tradición conservadora no ve necesidad de resolver la prioridad literaria, dado que ambos profetas fueron contemporáneos y pudieron compartir independientemente una tradición oracular común bajo inspiración divina.",
+      "en": "Micah's literary unity has been debated: some critics attribute the oracles of hope (especially Mic 4-5 and 7:8-20) to a later post-exilic editor, arguing that an 8th-century prophet could not have foreseen restoration after the Babylonian exile. The Reformed and conservative evangelical tradition defends the unity of the book under a single 8th-century author, noting that genuine predictive prophecy — including the specific mention of Babylon as the place of exile in Mic 4:10, more than a century before Babylon became the dominant power — is fully consistent with the supernatural nature of biblical prophetic revelation. Jeremiah 26:18 confirms the historical authenticity of at least Mic 3:12, explicitly citing it as Micah's prophecy a century later. A second, minor controversy concerns the relationship between Mic 4:1-3 and Isa 2:2-4, nearly identical; the conservative tradition sees no need to resolve literary priority, since both prophets were contemporaries who could independently have shared a common oracular tradition under divine inspiration.",
+      "pt": "A unidade literária de Miquéias tem sido debatida: alguns críticos atribuem os oráculos de esperança (especialmente Mq 4-5 e 7:8-20) a um redator pós-exílico posterior, argumentando que um profeta do século VIII não poderia ter previsto a restauração após o exílio babilônico. A tradição reformada e evangélica conservadora defende a unidade do livro sob um único autor do século VIII, apontando que a profecia preditiva genuína — incluindo a menção específica da Babilônia como local de exílio em Mq 4:10, mais de um século antes de a Babilônia se tornar a potência dominante — é plenamente consistente com a natureza sobrenatural da revelação profética bíblica. Jeremias 26:18 confirma a autenticidade histórica de pelo menos Mq 3:12, citando-a explicitamente como profecia de Miquéias um século depois. Uma segunda controvérsia, menor, diz respeito à relação entre Mq 4:1-3 e Is 2:2-4, quase idênticos; a tradição conservadora não vê necessidade de resolver a prioridade literária, visto que ambos os profetas foram contemporâneos e podem ter compartilhado independentemente uma tradição oracular comum sob inspiração divina."
+    },
+    "cronologiaInterna": {
+      "es": "El libro se sitúa explícitamente «en días de Jotam, Acaz y Ezequías, reyes de Judá» (Mi 1:1), abarcando aproximadamente 735-686 a.C. La estructura de tres ciclos de juicio y esperanza (Mi 1-2; 3-5; 6-7) no sigue necesariamente un orden cronológico estricto de composición, sino un patrón retórico repetido. Jeremías 26:18 fecha explícitamente Mi 3:12 en los días de Ezequías, proporcionando un ancla cronológica externa.",
+      "en": "The book is explicitly set \"in the days of Jotham, Ahaz, and Hezekiah, kings of Judah\" (Mic 1:1), spanning roughly 735-686 BC. The three-cycle structure of judgment and hope (Mic 1-2; 3-5; 6-7) does not necessarily follow a strict chronological order of composition, but a repeated rhetorical pattern. Jeremiah 26:18 explicitly dates Mic 3:12 to Hezekiah's day, providing an external chronological anchor.",
+      "pt": "O livro se situa explicitamente «nos dias de Jotão, Acaz e Ezequias, reis de Judá» (Mq 1:1), abrangendo aproximadamente 735-686 a.C. A estrutura de três ciclos de julgamento e esperança (Mq 1-2; 3-5; 6-7) não segue necessariamente uma ordem cronológica estrita de composição, mas um padrão retórico repetido. Jeremias 26:18 data explicitamente Mq 3:12 aos dias de Ezequias, fornecendo uma âncora cronológica externa."
+    }
+  },
+  "ordenEnDivision": 6,
+  "ordenCanon": 33,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Davídico",
+    "enfoqueCristologico": {
+      "es": "Miqueas contiene una de las profecías mesiánicas más precisas del Antiguo Testamento: «pero tú, Belén Efrata... de ti me saldrá el que ha de ser Gobernante en Israel; y sus orígenes son desde tiempos antiguos, desde los días de la eternidad» (Mi 5:2), citada literalmente por los principales sacerdotes y escribas ante Herodes (Mt 2:6). Este gobernante «apacentará su rebaño con el poder del SEÑOR» (Mi 5:4) como el Pastor-Rey davídico definitivo, y él mismo será «nuestra paz» (Mi 5:5), anticipando a Cristo como el pacificador escatológico entre Dios y su pueblo.",
+      "en": "Micah contains one of the most precise messianic prophecies of the Old Testament: \"But you, O Bethlehem Ephrathah... from you shall come forth for me one who is to be ruler in Israel, whose origin is from of old, from ancient days\" (Mic 5:2), quoted verbatim by the chief priests and scribes before Herod (Matt 2:6). This ruler \"shall shepherd his flock in the strength of the LORD\" (Mic 5:4) as the definitive Davidic Shepherd-King, and he himself \"shall be their peace\" (Mic 5:5), anticipating Christ as the eschatological peacemaker between God and his people.",
+      "pt": "Miquéias contém uma das profecias messiânicas mais precisas do Antigo Testamento: «mas tu, Belém Efrata... de ti me sairá o que será governador em Israel; e as suas saídas são desde os tempos antigos, desde os dias da eternidade» (Mq 5:2), citada literalmente pelos principais sacerdotes e escribas diante de Herodes (Mt 2:6). Esse governante «apascentará o seu rebanho com a força do SENHOR» (Mq 5:4) como o Pastor-Rei davídico definitivo, e ele mesmo será «a nossa paz» (Mq 5:5), antecipando Cristo como o pacificador escatológico entre Deus e seu povo."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El gobernante nacido en Belén que apacienta a su rebaño «con el poder del SEÑOR» (Mi 5:2,4) es un tipo directo de Cristo, el buen Pastor que da su vida por las ovejas (Jn 10:11).",
+        "en": "The ruler born in Bethlehem who shepherds his flock \"in the strength of the LORD\" (Mic 5:2,4) is a direct type of Christ, the good Shepherd who lays down his life for the sheep (John 10:11).",
+        "pt": "O governante nascido em Belém que apascenta seu rebanho «com a força do SENHOR» (Mq 5:2,4) é um tipo direto de Cristo, o bom Pastor que dá sua vida pelas ovelhas (Jo 10:11)."
+      },
+      {
+        "es": "El «Rompedor» que sube delante del remanente reunido para abrirles paso (Mi 2:12-13) prefigura a Cristo, quien abre el camino a través de la muerte y la resurrección para conducir a su pueblo (He 10:19-20).",
+        "en": "The \"breaker\" who goes up before the gathered remnant to open the way for them (Mic 2:12-13) prefigures Christ, who opens the way through death and resurrection to lead his people (Heb 10:19-20).",
+        "pt": "O «rompedor» que sobe diante do remanescente reunido para abrir-lhes caminho (Mq 2:12-13) prefigura Cristo, que abre o caminho por meio da morte e da ressurreição para conduzir seu povo (Hb 10:19-20)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Miqueas contribuye al canon dos elementos únicos e insustituibles: la profecía más específica del Antiguo Testamento sobre el lugar de nacimiento del Mesías —Belén Efrata (Mi 5:2)—, citada directamente por los líderes religiosos de Jerusalén como respuesta a la pregunta de Herodes (Mt 2:4-6), y el resumen ético más compacto y citado de toda la revelación profética —«hacer justicia, amar misericordia, y humillarte para andar con tu Dios» (Mi 6:8)—. Ningún otro libro combina con tal precisión una predicción mesiánica geográfica verificable con una síntesis devocional de la ética del pacto.",
+    "en": "Micah contributes two unique, irreplaceable elements to the canon: the Old Testament's most specific prophecy of the Messiah's birthplace — Bethlehem Ephrathah (Mic 5:2) — quoted directly by Jerusalem's religious leaders in answer to Herod's question (Matt 2:4-6), and the most compact, most quoted ethical summary of all prophetic revelation — \"to do justice, and to love kindness, and to walk humbly with your God\" (Mic 6:8). No other book combines with such precision a geographically verifiable messianic prediction with a devotional synthesis of covenant ethics.",
+    "pt": "Miquéias contribui ao cânon com dois elementos únicos e insubstituíveis: a profecia mais específica do Antigo Testamento sobre o local de nascimento do Messias — Belém Efrata (Mq 5:2) —, citada diretamente pelos líderes religiosos de Jerusalém em resposta à pergunta de Herodes (Mt 2:4-6), e o resumo ético mais compacto e citado de toda a revelação profética — «praticar a justiça, e amar a misericórdia, e andar humildemente com o teu Deus» (Mq 6:8). Nenhum outro livro combina com tal precisão uma predição messiânica geograficamente verificável com uma síntese devocional da ética do pacto."
+  },
+  "genero": {
+    "es": "Profecía (oráculos alternados de juicio y salvación en tres ciclos)",
+    "en": "Prophecy (alternating oracles of judgment and salvation in three cycles)",
+    "pt": "Profecia (oráculos alternados de julgamento e salvação em três ciclos)"
+  },
+  "palabraClave": {
+    "es": [
+      "Juicio y esperanza",
+      "Belén Efrata",
+      "Justicia y misericordia",
+      "Remanente",
+      "Pastor mesiánico"
+    ],
+    "en": [
+      "Judgment and hope",
+      "Bethlehem Ephrathah",
+      "Justice and mercy",
+      "Remnant",
+      "Messianic shepherd"
+    ],
+    "pt": [
+      "Julgamento e esperança",
+      "Belém Efrata",
+      "Justiça e misericórdia",
+      "Remanescente",
+      "Pastor messiânico"
+    ]
+  },
+  "destinatario": {
+    "es": "El pueblo de Judá, junto con Israel/Samaria, durante los reinados de Jotam, Acaz y Ezequías, enfrentando la amenaza asiria y la corrupción social y religiosa de sus líderes",
+    "en": "The people of Judah, together with Israel/Samaria, during the reigns of Jotham, Ahaz, and Hezekiah, facing the Assyrian threat and the social and religious corruption of their leaders",
+    "pt": "O povo de Judá, junto com Israel/Samaria, durante os reinados de Jotão, Acaz e Ezequias, enfrentando a ameaça assíria e a corrupção social e religiosa de seus líderes"
+  },
+  "proposito": {
+    "es": "Históricamente, Miqueas denuncia la injusticia social, la corrupción de líderes, sacerdotes y profetas, y la idolatría tanto en Samaria como en Jerusalén, anunciando juicio —incluida la caída de Samaria y la advertencia sobre Jerusalén— pero también prometiendo restauración final. Teológicamente, el libro articula tanto el juicio retributivo de Dios contra la ruptura del pacto como su fidelidad de pacto, que culminará en un gobernante mesiánico nacido en Belén y en el perdón definitivo de la iniquidad del remanente (Mi 7:18-20).",
+    "en": "Historically, Micah denounces social injustice, the corruption of leaders, priests, and prophets, and idolatry in both Samaria and Jerusalem, announcing judgment — including Samaria's fall and a warning over Jerusalem — while also promising final restoration. Theologically, the book articulates both God's retributive judgment against covenant breach and his covenant faithfulness, which will culminate in a messianic ruler born in Bethlehem and the definitive pardon of the remnant's iniquity (Mic 7:18-20).",
+    "pt": "Historicamente, Miquéias denuncia a injustiça social, a corrupção de líderes, sacerdotes e profetas, e a idolatria tanto em Samaria quanto em Jerusalém, anunciando julgamento — incluindo a queda de Samaria e a advertência sobre Jerusalém — mas também prometendo restauração final. Teologicamente, o livro articula tanto o julgamento retributivo de Deus contra a ruptura do pacto quanto sua fidelidade de pacto, que culminará em um governante messiânico nascido em Belém e no perdão definitivo da iniquidade do remanescente (Mq 7:18-20)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH · the Lord",
+        "pt": "Deus · YHWH · o Senhor"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "descripcion": {
+        "es": "El SEÑOR que desciende en teofanía de juicio contra Samaria y Judá, litiga con su pueblo por la ruptura del pacto, promete reunir a un remanente, y finalmente se revela como el Dios incomparable que se deleita en la misericordia y perdona la iniquidad.",
+        "en": "The LORD who descends in a theophany of judgment against Samaria and Judah, contends with his people over the covenant breach, promises to gather a remnant, and finally reveals himself as the incomparable God who delights in mercy and pardons iniquity.",
+        "pt": "O SENHOR que desce em teofania de julgamento contra Samaria e Judá, contende com seu povo pela ruptura do pacto, promete reunir um remanescente, e finalmente se revela como o Deus incomparável que se compraz em misericórdia e perdoa a iniquidade."
+      },
+      "acciones": {
+        "es": "Sale de su lugar y desciende, pisando las alturas de la tierra en juicio (Mi 1:3-4), promete reunir al remanente de Jacob como ovejas en el aprisco (Mi 2:12), entabla un pleito de pacto contra su pueblo recordando su fidelidad redentora desde el éxodo (Mi 6:1-5), y culmina el libro perdonando la iniquidad y arrojando los pecados a las profundidades del mar (Mi 7:18-19).",
+        "en": "Comes out from his place and comes down, treading the high places of the earth in judgment (Mic 1:3-4), promises to gather the remnant of Jacob like sheep in a fold (Mic 2:12), brings a covenant lawsuit against his people, recalling his redemptive faithfulness since the exodus (Mic 6:1-5), and closes the book by pardoning iniquity and casting sins into the depths of the sea (Mic 7:18-19).",
+        "pt": "Sai do seu lugar e desce, pisando as alturas da terra em julgamento (Mq 1:3-4), promete reunir o remanescente de Jacó como ovelhas no aprisco (Mq 2:12), move uma contenda de pacto contra seu povo, lembrando sua fidelidade redentora desde o êxodo (Mq 6:1-5), e encerra o livro perdoando a iniquidade e lançando os pecados às profundezas do mar (Mq 7:18-19)."
+      },
+      "significadoTeologico": {
+        "es": "Miqueas revela a Dios simultáneamente como Juez que desciende en teofanía contra el pecado del pacto y como Pastor que reúne a su remanente, culminando en la revelación de su carácter incomparable: «¿Qué Dios como tú, que perdona la iniquidad?» (Mi 7:18), un juego de palabras deliberado con el propio nombre del profeta.",
+        "en": "Micah reveals God simultaneously as the Judge who descends in theophany against covenant sin and as the Shepherd who gathers his remnant, culminating in the revelation of his incomparable character: \"Who is a God like you, pardoning iniquity?\" (Mic 7:18), a deliberate wordplay on the prophet's own name.",
+        "pt": "Miquéias revela Deus simultaneamente como o Juiz que desce em teofania contra o pecado do pacto e como o Pastor que reúne seu remanescente, culminando na revelação de seu caráter incomparável: «Que Deus há como tu, que perdoa a iniquidade?» (Mq 7:18), um jogo de palavras deliberado com o próprio nome do profeta."
+      },
+      "tipo": {
+        "es": "El Dios que perdona la iniquidad y arroja los pecados a las profundidades del mar (Mi 7:18-19) anticipa la obra expiatoria de Cristo, quien lleva definitivamente el pecado de su pueblo (Is 53:6; 1P 2:24).",
+        "en": "The God who pardons iniquity and casts sins into the depths of the sea (Mic 7:18-19) anticipates Christ's atoning work, who definitively bears his people's sin (Isa 53:6; 1 Pet 2:24).",
+        "pt": "O Deus que perdoa a iniquidade e lança os pecados às profundezas do mar (Mq 7:18-19) antecipa a obra expiatória de Cristo, que leva definitivamente o pecado de seu povo (Is 53:6; 1Pe 2:24)."
+      },
+      "caracterMoral": {
+        "es": "Justo y santo en su juicio contra la opresión y la idolatría, fiel a su pacto redentor, y de una misericordia incomparable que se deleita en perdonar al remanente arrepentido.",
+        "en": "Just and holy in his judgment against oppression and idolatry, faithful to his redemptive covenant, and of an incomparable mercy that delights in pardoning the repentant remnant.",
+        "pt": "Justo e santo em seu julgamento contra a opressão e a idolatria, fiel ao seu pacto redentor, e de uma misericórdia incomparável que se compraz em perdoar o remanescente arrependido."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "YHWH es el sujeto que juzga, litiga, reúne y finalmente perdona a lo largo de los siete capítulos del libro, gobernando tanto la caída de las naciones como la restauración final de su pueblo.",
+          "en": "YHWH is the subject who judges, contends, gathers, and finally pardons throughout the book's seven chapters, governing both the fall of nations and the final restoration of his people.",
+          "pt": "YHWH é o sujeito que julga, contende, reúne e finalmente perdoa ao longo dos sete capítulos do livro, governando tanto a queda das nações quanto a restauração final de seu povo."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mi 1:3",
+          "Mi 2:12",
+          "Mi 6:8",
+          "Mi 7:18"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: Dios no tiene biografía histórica humana; se revela por su autorrevelación consistente en todo el canon.",
+          "en": "Not applicable: God has no human historical biography; he reveals himself through his consistent self-revelation across the whole canon.",
+          "pt": "Não aplicável: Deus não tem biografia histórica humana; revela-se por sua autorrevelação consistente em todo o cânon."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El carácter de Dios como Juez santo y Pastor misericordioso en Miqueas es coherente con su autorrevelación en el resto del canon (cf. Ex 34:6-7).",
+          "en": "God's character as holy Judge and merciful Shepherd in Micah is coherent with his self-revelation across the rest of the canon (cf. Exod 34:6-7).",
+          "pt": "O caráter de Deus como Juiz santo e Pastor misericordioso em Miquéias é coerente com sua autorrevelação no restante do cânon (cf. Êx 34:6-7)."
+        }
+      },
+      "versiculosAsociados": [
+        "Mi 1:3",
+        "Mi 2:12",
+        "Mi 6:8",
+        "Mi 7:18"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Ex",
+        "Jer",
+        "Is",
+        "Mt",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El resumen ético de Mi 6:8 y la doxología de perdón de Mi 7:18-19 preparan el terreno para la revelación neotestamentaria de la gracia de Dios manifestada plenamente en Cristo (Ef 2:4-7).",
+        "en": "The ethical summary of Mic 6:8 and the doxology of pardon in Mic 7:18-19 prepare the ground for the New Testament revelation of God's grace fully manifested in Christ (Eph 2:4-7).",
+        "pt": "O resumo ético de Mq 6:8 e a doxologia de perdão de Mq 7:18-19 preparam o terreno para a revelação neotestamentária da graça de Deus plenamente manifestada em Cristo (Ef 2:4-7)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Miqueas",
+        "en": "Micah",
+        "pt": "Miquéias"
+      },
+      "hebreo": "מִיכָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "descripcion": {
+        "es": "El profeta de Moreset-gat, contemporáneo de Isaías, lleno del Espíritu del SEÑOR y de poder para declarar a Jacob su transgresión, cuya predicación contra la corrupción de Jerusalén fue recordada e influyente todavía un siglo después.",
+        "en": "The prophet from Moresheth-gath, contemporary with Isaiah, filled with the Spirit of the LORD and with power to declare to Jacob his transgression, whose preaching against Jerusalem's corruption was remembered and influential still a century later.",
+        "pt": "O profeta de Moresete-Gate, contemporâneo de Isaías, cheio do Espírito do SENHOR e de poder para declarar a Jacó a sua transgressão, cuja pregação contra a corrupção de Jerusalém foi lembrada e influente ainda um século depois."
+      },
+      "acciones": {
+        "es": "Recibe la palabra del SEÑOR concerniente a Samaria y Jerusalén (Mi 1:1), lamenta la destrucción venidera recorriendo los nombres de las ciudades de la Sefela con juegos de palabras (Mi 1:10-15), se declara «lleno de poder, del Espíritu del SEÑOR» para denunciar el pecado de su pueblo frente a los falsos profetas (Mi 3:8), profetiza la destrucción de Jerusalén (Mi 3:12) y el nacimiento del gobernante en Belén (Mi 5:2), y presenta el pleito de pacto de Dios junto con el resumen ético central del libro (Mi 6:1-8).",
+        "en": "Receives the word of the LORD concerning Samaria and Jerusalem (Mic 1:1), laments the coming destruction by running through the names of Shephelah towns with wordplay (Mic 1:10-15), declares himself \"full of power, with the Spirit of the LORD\" to denounce his people's sin against the false prophets (Mic 3:8), prophesies Jerusalem's destruction (Mic 3:12) and the birth of the ruler in Bethlehem (Mic 5:2), and presents God's covenant lawsuit together with the book's central ethical summary (Mic 6:1-8).",
+        "pt": "Recebe a palavra do SENHOR acerca de Samaria e Jerusalém (Mq 1:1), lamenta a destruição vindoura percorrendo os nomes das cidades da Sefelá com jogos de palavras (Mq 1:10-15), declara-se «cheio de poder, do Espírito do SENHOR» para denunciar o pecado de seu povo diante dos falsos profetas (Mq 3:8), profetiza a destruição de Jerusalém (Mq 3:12) e o nascimento do governante em Belém (Mq 5:2), e apresenta a contenda de pacto de Deus junto com o resumo ético central do livro (Mq 6:1-8)."
+      },
+      "significadoTeologico": {
+        "es": "Miqueas encarna la autoridad profética genuina fundamentada en el Espíritu del SEÑOR, en contraste directo con los falsos profetas que profetizan por dinero (Mi 3:5,11), y su nombre mismo —«¿quién como YHWH?»— resuena en la doxología final del libro.",
+        "en": "Micah embodies genuine prophetic authority grounded in the Spirit of the LORD, in direct contrast to the false prophets who prophesy for money (Mic 3:5,11), and his very name — \"who is like YHWH?\" — resonates in the book's final doxology.",
+        "pt": "Miquéias encarna a autoridade profética genuína fundamentada no Espírito do SENHOR, em contraste direto com os falsos profetas que profetizam por dinheiro (Mq 3:5,11), e o próprio nome dele — «quem é como YHWH?» — ressoa na doxologia final do livro."
+      },
+      "tipo": {
+        "es": "Como profeta fiel que denuncia el pecado y anuncia tanto juicio como esperanza mesiánica, Miqueas prefigura de manera general el oficio profético cumplido perfectamente en Cristo, el Profeta definitivo (Hch 3:22-23; He 1:1-2).",
+        "en": "As a faithful prophet who denounces sin and announces both judgment and messianic hope, Micah generally prefigures the prophetic office perfectly fulfilled in Christ, the definitive Prophet (Acts 3:22-23; Heb 1:1-2).",
+        "pt": "Como profeta fiel que denuncia o pecado e anuncia tanto o julgamento quanto a esperança messiânica, Miquéias prefigura de maneira geral o ofício profético cumprido perfeitamente em Cristo, o Profeta definitivo (At 3:22-23; Hb 1:1-2)."
+      },
+      "caracterMoral": {
+        "es": "Valiente al denunciar tanto a los reyes como a los sacerdotes y falsos profetas, comprometido con la justicia social, y fiel transmisor de la palabra de Dios sin importar el costo personal.",
+        "en": "Courageous in denouncing kings, priests, and false prophets alike, committed to social justice, and a faithful transmitter of God's word regardless of personal cost.",
+        "pt": "Corajoso ao denunciar tanto reis quanto sacerdotes e falsos profetas, comprometido com a justiça social, e fiel transmissor da palavra de Deus independentemente do custo pessoal."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "El libro entero es la transmisión profética de Miqueas, desde la superscripción (Mi 1:1) hasta la doxología final, incluyendo su autodescripción como lleno del Espíritu del SEÑOR en Mi 3:8.",
+          "en": "The entire book is Micah's prophetic transmission, from the superscription (Mic 1:1) to the final doxology, including his self-description as full of the Spirit of the LORD in Mic 3:8.",
+          "pt": "O livro inteiro é a transmissão profética de Miquéias, desde a superscrição (Mq 1:1) até a doxologia final, incluindo sua autodescrição como cheio do Espírito do SENHOR em Mq 3:8."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mi 1:1",
+          "Mi 3:8",
+          "Mi 6:8"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Jeremías 26:18 cita explícitamente a «Miqueas de Moreset» profetizando en los días de Ezequías, confirmando externamente tanto su existencia histórica como la autenticidad de al menos uno de sus oráculos (Mi 3:12), un anclaje excepcional entre los profetas menores.",
+          "en": "Jeremiah 26:18 explicitly cites \"Micah of Moresheth\" prophesying in Hezekiah's days, externally confirming both his historical existence and the authenticity of at least one of his oracles (Mic 3:12), an exceptional anchor among the Minor Prophets.",
+          "pt": "Jeremias 26:18 cita explicitamente «Miquéias, o morastita», profetizando nos dias de Ezequias, confirmando externamente tanto sua existência histórica quanto a autenticidade de pelo menos um de seus oráculos (Mq 3:12), uma âncora excepcional entre os profetas menores."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Cronología del siglo VIII a.C.",
+              "Contexto histórico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La cita directa de Jer 26:18 proporciona una confirmación bíblica externa excepcionalmente sólida de la actividad profética de Miqueas, poco común entre los profetas menores.",
+          "en": "The direct citation in Jer 26:18 provides exceptionally solid external biblical confirmation of Micah's prophetic activity, uncommon among the Minor Prophets.",
+          "pt": "A citação direta de Jr 26:18 fornece uma confirmação bíblica externa excepcionalmente sólida da atividade profética de Miquéias, incomum entre os profetas menores."
+        }
+      },
+      "versiculosAsociados": [
+        "Mi 1:1",
+        "Mi 3:8",
+        "Mi 3:12",
+        "Mi 6:8"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Jer"
+      ],
+      "enElNuevoTestamento": {
+        "es": "La profecía mesiánica de Miqueas sobre Belén (Mi 5:2) es citada directamente por los principales sacerdotes y escribas de Jerusalén como respuesta a la pregunta de Herodes sobre el lugar de nacimiento del Cristo (Mt 2:5-6).",
+        "en": "Micah's messianic prophecy about Bethlehem (Mic 5:2) is directly quoted by the chief priests and scribes of Jerusalem in answer to Herod's question about the Christ's birthplace (Matt 2:5-6).",
+        "pt": "A profecia messiânica de Miquéias sobre Belém (Mq 5:2) é citada diretamente pelos principais sacerdotes e escribas de Jerusalém em resposta à pergunta de Herodes sobre o local de nascimento do Cristo (Mt 2:5-6)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Los líderes corruptos de Israel",
+        "en": "Israel's corrupt leaders",
+        "pt": "Os líderes corruptos de Israel"
+      },
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "descripcion": {
+        "es": "Los gobernantes, jueces, sacerdotes y falsos profetas de Israel y Judá que oprimen a los pobres, pervierten la justicia por soborno, y profetizan solo lo que sus oyentes desean oír, denunciados por Miqueas como devoradores de su propio pueblo.",
+        "en": "The rulers, judges, priests, and false prophets of Israel and Judah who oppress the poor, pervert justice for bribes, and prophesy only what their hearers wish to hear, denounced by Micah as devourers of their own people.",
+        "pt": "Os governantes, juízes, sacerdotes e falsos profetas de Israel e Judá que oprimem os pobres, pervertem a justiça por suborno, e profetizam apenas o que seus ouvintes desejam ouvir, denunciados por Miquéias como devoradores de seu próprio povo."
+      },
+      "acciones": {
+        "es": "Codician campos y casas y los arrebatan por la fuerza (Mi 2:1-2), aborrecen el bien y aman el mal, literalmente «devoran la carne» del pueblo como en un festín caníbal (Mi 3:1-3), juzgan por soborno, enseñan sacerdotes por precio, y profetas adivinan por dinero mientras afirman «¿no está el SEÑOR entre nosotros?» (Mi 3:11), y engañan al pueblo con pesas falsas y violencia en la ciudad (Mi 6:10-12).",
+        "en": "Covet fields and houses and seize them by force (Mic 2:1-2), hate good and love evil, literally \"devouring the flesh\" of the people as in a cannibal feast (Mic 3:1-3), judge for bribes, priests teach for a price, and prophets divine for money while claiming \"is not the LORD in our midst?\" (Mic 3:11), and deceive the people with false scales and violence in the city (Mic 6:10-12).",
+        "pt": "Cobiçam campos e casas e os arrebatam à força (Mq 2:1-2), odeiam o bem e amam o mal, literalmente «devoram a carne» do povo como em um festim canibal (Mq 3:1-3), julgam por suborno, sacerdotes ensinam por preço, e profetas adivinham por dinheiro enquanto afirmam «não está o SENHOR entre nós?» (Mq 3:11), e enganam o povo com pesos falsos e violência na cidade (Mq 6:10-12)."
+      },
+      "significadoTeologico": {
+        "es": "Estos líderes representan la corrupción sistémica de las instituciones del pacto —gobierno, sacerdocio y profecía— cuando se divorcian del temor de Dios, y su denuncia establece que la posición de autoridad religiosa no exime del juicio divino sino que lo agrava.",
+        "en": "These leaders represent the systemic corruption of the covenant institutions — government, priesthood, and prophecy — when divorced from the fear of God, and their denunciation establishes that religious authority does not exempt one from divine judgment but aggravates it.",
+        "pt": "Esses líderes representam a corrupção sistêmica das instituições do pacto — governo, sacerdócio e profecia — quando divorciadas do temor de Deus, e sua denúncia estabelece que a posição de autoridade religiosa não isenta do juízo divino, mas o agrava."
+      },
+      "tipo": {
+        "es": "Los falsos pastores denunciados por Miqueas anticipan la advertencia de Cristo contra los escribas y fariseos que «devoran las casas de las viudas» (Mr 12:40), y contrastan con el verdadero Pastor de Belén que apacienta con integridad (Mi 5:4; Jn 10:11-13).",
+        "en": "The false shepherds Micah denounces anticipate Christ's warning against the scribes and Pharisees who \"devour widows' houses\" (Mark 12:40), and contrast with the true Shepherd of Bethlehem who shepherds with integrity (Mic 5:4; John 10:11-13).",
+        "pt": "Os falsos pastores denunciados por Miquéias antecipam a advertência de Cristo contra os escribas e fariseus que «devoram as casas das viúvas» (Mc 12:40), e contrastam com o verdadeiro Pastor de Belém que apascenta com integridade (Mq 5:4; Jo 10:11-13)."
+      },
+      "caracterMoral": {
+        "es": "Codiciosos, violentos, dispuestos a pervertir la justicia y la religión misma por ganancia personal, y presuntuosamente confiados en la protección divina a pesar de su maldad.",
+        "en": "Greedy, violent, willing to pervert justice and religion itself for personal gain, and presumptuously confident in divine protection despite their wickedness.",
+        "pt": "Gananciosos, violentos, dispostos a perverter a justiça e a própria religião por ganho pessoal, e presunçosamente confiantes na proteção divina apesar de sua maldade."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Estos líderes aparecen recurrentemente a lo largo del libro como el blanco principal de la denuncia profética, desde el acaparamiento de tierras (Mi 2) hasta la corrupción judicial y religiosa (Mi 3; 6-7).",
+          "en": "These leaders appear recurrently throughout the book as the primary target of prophetic denunciation, from land seizure (Mic 2) to judicial and religious corruption (Mic 3; 6-7).",
+          "pt": "Esses líderes aparecem recorrentemente ao longo do livro como o alvo principal da denúncia profética, desde a usurpação de terras (Mq 2) até a corrupção judicial e religiosa (Mq 3; 6-7)."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mi 2:1-2",
+          "Mi 3:1-3",
+          "Mi 3:11"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "El perfil de corrupción judicial y religiosa descrito por Miqueas es consistente con las condiciones socioeconómicas del siglo VIII a.C. en Judá, un período de creciente desigualdad y consolidación de tierras entre las élites urbanas.",
+          "en": "The pattern of judicial and religious corruption Micah describes is consistent with the socioeconomic conditions of 8th-century BC Judah, a period of growing inequality and land consolidation among urban elites.",
+          "pt": "O perfil de corrupção judicial e religiosa descrito por Miquéias é consistente com as condições socioeconômicas do século VIII a.C. em Judá, um período de crescente desigualdade e consolidação de terras entre as elites urbanas."
+        },
+        "fuentes": [
+          {
+            "titulo": "The IVP Bible Background Commentary: Old Testament",
+            "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+            "año": 2000,
+            "editorial": "InterVarsity Press",
+            "nivel": 3,
+            "camposUtilizados": [
+              "Condiciones socioeconómicas del siglo VIII a.C.",
+              "Corrupción judicial"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "Las denuncias de Miqueas contra el acaparamiento de tierras y la corrupción judicial son consistentes con los patrones socioeconómicos documentados en Judá e Israel durante el siglo VIII a.C., una era de prosperidad desigual bajo Jotam, Acaz y Jeroboam II.",
+          "en": "Micah's denunciations of land seizure and judicial corruption are consistent with the socioeconomic patterns documented in Judah and Israel during the 8th century BC, an era of unequal prosperity under Jotham, Ahaz, and Jeroboam II.",
+          "pt": "As denúncias de Miquéias contra a usurpação de terras e a corrupção judicial são consistentes com os padrões socioeconômicos documentados em Judá e Israel durante o século VIII a.C., uma era de prosperidade desigual sob Jotão, Acaz e Jeroboão II."
+        }
+      },
+      "versiculosAsociados": [
+        "Mi 2:1-2",
+        "Mi 3:5",
+        "Mi 3:11",
+        "Mi 6:11"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Am",
+        "Os",
+        "Is"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Jesús reproduce la misma denuncia de líderes religiosos corruptos que oprimen al pueblo mientras aparentan piedad, condenando a los escribas y fariseos como hipócritas que «devoran las casas de las viudas» (Mt 23:14; Mr 12:40).",
+        "en": "Jesus reproduces the same denunciation of corrupt religious leaders who oppress the people while feigning piety, condemning the scribes and Pharisees as hypocrites who \"devour widows' houses\" (Matt 23:14; Mark 12:40).",
+        "pt": "Jesus reproduz a mesma denúncia de líderes religiosos corruptos que oprimem o povo enquanto fingem piedade, condenando os escribas e fariseus como hipócritas que «devoram as casas das viúvas» (Mt 23:14; Mc 12:40)."
+      }
+    },
+    {
+      "nombre": {
+        "es": "El gobernante de Belén",
+        "en": "The ruler from Bethlehem",
+        "pt": "O governante de Belém"
+      },
+      "principal": true,
+      "rol": "tipo",
+      "capitulosActivo": [
+        5
+      ],
+      "descripcion": {
+        "es": "El gobernante mesiánico profetizado por Miqueas, cuyo lugar de origen —Belén Efrata, la más pequeña entre los clanes de Judá— desmiente toda expectativa humana de poder, y cuyos «orígenes son desde tiempos antiguos, desde los días de la eternidad» (Mi 5:2), apacentando a su pueblo con la fuerza del SEÑOR y siendo él mismo la paz de su pueblo.",
+        "en": "The messianic ruler prophesied by Micah, whose place of origin — Bethlehem Ephrathah, the least among the clans of Judah — defies every human expectation of power, and whose \"origin is from of old, from ancient days\" (Mic 5:2), shepherding his people in the strength of the LORD and himself being his people's peace.",
+        "pt": "O governante messiânico profetizado por Miquéias, cujo lugar de origem — Belém Efrata, a menor entre os clãs de Judá — desmente toda expectativa humana de poder, e cujas «saídas são desde os tempos antigos, desde os dias da eternidade» (Mq 5:2), apascentando seu povo com a força do SENHOR e sendo ele mesmo a paz de seu povo."
+      },
+      "acciones": {
+        "es": "Saldrá de Belén Efrata para ser Gobernante en Israel (Mi 5:2), será entregado su pueblo «hasta el tiempo en que dé a luz la que ha de dar a luz» (Mi 5:3, entendido como referencia mesiánica al nacimiento virginal), se levantará y apacentará su rebaño con el poder del SEÑOR (Mi 5:4), y él mismo será «nuestra paz» cuando el asirio invada la tierra (Mi 5:5).",
+        "en": "Shall come out of Bethlehem Ephrathah to be ruler in Israel (Mic 5:2), his people shall be given up \"until the time when she who is in labor has given birth\" (Mic 5:3, understood as messianic reference to the virgin birth), he shall arise and shepherd his flock in the strength of the LORD (Mic 5:4), and he himself shall be \"our peace\" when the Assyrian invades the land (Mic 5:5).",
+        "pt": "Sairá de Belém Efrata para ser Governador em Israel (Mq 5:2), seu povo será entregue «até o tempo em que a que está de parto der à luz» (Mq 5:3, entendido como referência messiânica ao nascimento virginal), ele se levantará e apascentará seu rebanho com a força do SENHOR (Mq 5:4), e ele mesmo será «a nossa paz» quando o assírio invadir a terra (Mq 5:5)."
+      },
+      "significadoTeologico": {
+        "es": "Este gobernante encarna el patrón bíblico de la elección divina que escoge lo pequeño y despreciado —Belén, no Jerusalén— para manifestar su poder, y su origen «desde los días de la eternidad» apunta a una naturaleza que trasciende el tiempo, distinguiéndolo de cualquier gobernante meramente humano.",
+        "en": "This ruler embodies the biblical pattern of divine election that chooses the small and despised — Bethlehem, not Jerusalem — to manifest his power, and his origin \"from ancient days\" points to a nature that transcends time, distinguishing him from any merely human ruler.",
+        "pt": "Esse governante encarna o padrão bíblico da eleição divina que escolhe o pequeno e desprezado — Belém, não Jerusalém — para manifestar seu poder, e sua origem «desde os dias da eternidade» aponta para uma natureza que transcende o tempo, distinguindo-o de qualquer governante meramente humano."
+      },
+      "tipo": {
+        "es": "Este es el tipo mesiánico central del libro, cumplido directamente en Jesucristo, nacido en Belén (Mt 2:1,5-6; Lc 2:4-7), el Pastor-Rey davídico cuyo reino trae paz definitiva entre Dios y su pueblo (Ef 2:14).",
+        "en": "This is the book's central messianic type, fulfilled directly in Jesus Christ, born in Bethlehem (Matt 2:1,5-6; Luke 2:4-7), the Davidic Shepherd-King whose kingdom brings definitive peace between God and his people (Eph 2:14).",
+        "pt": "Este é o tipo messiânico central do livro, cumprido diretamente em Jesus Cristo, nascido em Belém (Mt 2:1,5-6; Lc 2:4-7), o Pastor-Rei davídico cujo reino traz paz definitiva entre Deus e seu povo (Ef 2:14)."
+      },
+      "caracterMoral": {
+        "es": "Justo, pastoral, fuente de paz y seguridad para su pueblo, en agudo contraste con los líderes corruptos denunciados en los capítulos anteriores del libro.",
+        "en": "Righteous, pastoral, a source of peace and security for his people, in sharp contrast to the corrupt leaders denounced in the book's earlier chapters.",
+        "pt": "Justo, pastoral, fonte de paz e segurança para seu povo, em nítido contraste com os líderes corruptos denunciados nos capítulos anteriores do livro."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Este gobernante aparece exclusivamente en la profecía mesiánica de Mi 5:2-5, presentado como el destinado a nacer en Belén y a pastorear a Israel con el poder mismo del SEÑOR.",
+          "en": "This ruler appears exclusively in the messianic prophecy of Mic 5:2-5, presented as destined to be born in Bethlehem and to shepherd Israel with the very power of the LORD.",
+          "pt": "Esse governante aparece exclusivamente na profecia messiânica de Mq 5:2-5, apresentado como destinado a nascer em Belém e a pastorear Israel com o próprio poder do SENHOR."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mi 5:2",
+          "Mi 5:4",
+          "Mi 5:5"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La profecía se cumplió históricamente en el nacimiento de Jesús de Nazaret en Belén de Judea, un evento registrado en los evangelios de Mateo y Lucas y confirmado por la expectativa mesiánica judía contemporánea a Herodes (Mt 2:1-6).",
+          "en": "The prophecy was historically fulfilled in the birth of Jesus of Nazareth in Bethlehem of Judea, an event recorded in the Gospels of Matthew and Luke and confirmed by the Jewish messianic expectation contemporary with Herod (Matt 2:1-6).",
+          "pt": "A profecia se cumpriu historicamente no nascimento de Jesus de Nazaré em Belém da Judeia, evento registrado nos evangelhos de Mateus e Lucas e confirmado pela expectativa messiânica judaica contemporânea a Herodes (Mt 2:1-6)."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "La cita directa de Mi 5:2 por los principales sacerdotes y escribas ante Herodes (Mt 2:5-6) constituye una de las conexiones veterotestamentarias-neotestamentarias mejor documentadas de toda la Escritura.",
+          "en": "The direct citation of Mic 5:2 by the chief priests and scribes before Herod (Matt 2:5-6) constitutes one of the best-documented Old Testament-New Testament connections in all of Scripture.",
+          "pt": "A citação direta de Mq 5:2 pelos principais sacerdotes e escribas diante de Herodes (Mt 2:5-6) constitui uma das conexões veterotestamentárias-neotestamentárias mais bem documentadas de toda a Escritura."
+        }
+      },
+      "versiculosAsociados": [
+        "Mi 5:2",
+        "Mi 5:3",
+        "Mi 5:4",
+        "Mi 5:5"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Lc",
+        "Jn"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Mateo cita explícitamente Mi 5:2 como la profecía que identifica a Belén como el lugar de nacimiento del Cristo, en respuesta directa a la pregunta de Herodes a los principales sacerdotes y escribas (Mt 2:5-6).",
+        "en": "Matthew explicitly cites Mic 5:2 as the prophecy identifying Bethlehem as the Christ's birthplace, in direct answer to Herod's question to the chief priests and scribes (Matt 2:5-6).",
+        "pt": "Mateus cita explicitamente Mq 5:2 como a profecia que identifica Belém como o local de nascimento do Cristo, em resposta direta à pergunta de Herodes aos principais sacerdotes e escribas (Mt 2:5-6)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "Miqueas profetiza con precisión geográfica el nacimiento del Mesías en Belén Efrata, un gobernante cuyos «orígenes son desde tiempos antiguos, desde los días de la eternidad» (Mi 5:2), que pastoreará a su pueblo con el poder del SEÑOR (Mi 5:4) y será personalmente «nuestra paz» (Mi 5:5).",
+        "en": "Micah prophesies with geographic precision the Messiah's birth in Bethlehem Ephrathah, a ruler whose \"origin is from of old, from ancient days\" (Mic 5:2), who will shepherd his people in the strength of the LORD (Mic 5:4) and will personally be \"our peace\" (Mic 5:5).",
+        "pt": "Miquéias profetiza com precisão geográfica o nascimento do Messias em Belém Efrata, um governante cujas «saídas são desde os tempos antigos, desde os dias da eternidade» (Mq 5:2), que apascentará seu povo com a força do SENHOR (Mq 5:4) e será pessoalmente «a nossa paz» (Mq 5:5)."
+      },
+      "pasajes": [
+        "Mi 5:2",
+        "Mi 5:4",
+        "Mi 5:5"
+      ],
+      "ensenanza": {
+        "es": "El lugar de nacimiento del gobernante mesiánico es profetizado con precisión geográfica siglos antes del evento · Su origen trasciende el tiempo humano, apuntando a una naturaleza preexistente · El gobernante pastorea a su pueblo con el poder mismo de Dios y se convierte personalmente en su paz",
+        "en": "The messianic ruler's birthplace is prophesied with geographic precision centuries before the event · His origin transcends human time, pointing to a preexistent nature · The ruler shepherds his people with the very power of God and personally becomes their peace",
+        "pt": "O local de nascimento do governante messiânico é profetizado com precisão geográfica séculos antes do evento · Sua origem transcende o tempo humano, apontando para uma natureza preexistente · O governante apascenta seu povo com o próprio poder de Deus e se torna pessoalmente a sua paz"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee Mi 5:2 como profecía predictiva genuina y verificable, no como reinterpretación retrospectiva, fundamentando así la confianza en la inspiración verbal de la Escritura y en la centralidad de Cristo como cumplimiento de toda la revelación veterotestamentaria.",
+        "en": "The Reformed tradition reads Mic 5:2 as genuine, verifiable predictive prophecy, not retrospective reinterpretation, thereby grounding confidence in the verbal inspiration of Scripture and the centrality of Christ as the fulfillment of all Old Testament revelation.",
+        "pt": "A tradição reformada lê Mq 5:2 como profecia preditiva genuína e verificável, não como reinterpretação retrospectiva, fundamentando assim a confiança na inspiração verbal da Escritura e na centralidade de Cristo como cumprimento de toda a revelação veterotestamentária."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Hamartiología",
+        "en": "Hamartiology",
+        "pt": "Hamartiologia"
+      },
+      "resumen": {
+        "es": "Miqueas expone el pecado como corrupción sistémica de las instituciones del pacto: gobernantes que devoran a su pueblo (Mi 3:1-3), sacerdotes y profetas que ejercen su oficio por dinero (Mi 3:11), y comerciantes que engañan con pesas falsas (Mi 6:10-11), demostrando que el pecado social es tan grave ante Dios como la idolatría religiosa.",
+        "en": "Micah exposes sin as the systemic corruption of covenant institutions: rulers who devour their people (Mic 3:1-3), priests and prophets who exercise their office for money (Mic 3:11), and merchants who deceive with false scales (Mic 6:10-11), demonstrating that social sin is as grave before God as religious idolatry.",
+        "pt": "Miquéias expõe o pecado como corrupção sistêmica das instituições do pacto: governantes que devoram seu povo (Mq 3:1-3), sacerdotes e profetas que exercem seu ofício por dinheiro (Mq 3:11), e comerciantes que enganam com pesos falsos (Mq 6:10-11), demonstrando que o pecado social é tão grave diante de Deus quanto a idolatria religiosa."
+      },
+      "pasajes": [
+        "Mi 2:1-2",
+        "Mi 3:1-3",
+        "Mi 6:11"
+      ],
+      "ensenanza": {
+        "es": "El pecado se manifiesta en la opresión sistemática de los pobres y el acaparamiento de tierras · Las instituciones religiosas mismas pueden corromperse cuando se ejercen por ganancia en lugar de fidelidad · El engaño comercial constituye una violación tan grave del pacto como la idolatría",
+        "en": "Sin manifests in the systematic oppression of the poor and land seizure · Religious institutions themselves can become corrupted when exercised for gain rather than faithfulness · Commercial deception constitutes a covenant violation as grave as idolatry",
+        "pt": "O pecado se manifesta na opressão sistemática dos pobres e na usurpação de terras · As próprias instituições religiosas podem se corromper quando exercidas por ganho em vez de fidelidade · O engano comercial constitui uma violação do pacto tão grave quanto a idolatria"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, siguiendo el énfasis de Miqueas, insiste en que el pecado no se limita a transgresiones rituales sino que abarca toda estructura social; la ley moral de Dios exige justicia en las relaciones económicas y judiciales, no solo pureza cúltica.",
+        "en": "The Reformed tradition, following Micah's emphasis, insists that sin is not limited to ritual transgressions but encompasses the entire social structure; God's moral law demands justice in economic and judicial relations, not merely cultic purity.",
+        "pt": "A tradição reformada, seguindo a ênfase de Miquéias, insiste em que o pecado não se limita a transgressões rituais, mas abrange toda a estrutura social; a lei moral de Deus exige justiça nas relações econômicas e judiciais, não apenas pureza cúltica."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "Miqueas presenta un formal pleito de pacto (rib) en el que Dios convoca a los montes y collados como testigos y recuerda su fidelidad redentora —sacándolos de Egipto, enviando a Moisés, Aarón y Miriam, y frustrando la maldición de Balaam (Mi 6:1-5)— antes de exigir la respuesta apropiada de su pueblo: hacer justicia, amar misericordia, y caminar humildemente con Dios (Mi 6:8).",
+        "en": "Micah presents a formal covenant lawsuit (rib) in which God summons the mountains and hills as witnesses and recalls his redemptive faithfulness — bringing them out of Egypt, sending Moses, Aaron, and Miriam, and thwarting Balaam's curse (Mic 6:1-5) — before demanding his people's fitting response: to do justice, love kindness, and walk humbly with God (Mic 6:8).",
+        "pt": "Miquéias apresenta uma formal contenda de pacto (rib) em que Deus convoca os montes e outeiros como testemunhas e relembra sua fidelidade redentora — tirando-os do Egito, enviando Moisés, Arão e Miriã, e frustrando a maldição de Balaão (Mq 6:1-5) — antes de exigir a resposta adequada de seu povo: praticar a justiça, amar a misericórdia e andar humildemente com Deus (Mq 6:8)."
+      },
+      "pasajes": [
+        "Mi 6:1",
+        "Mi 6:5",
+        "Mi 6:8"
+      ],
+      "ensenanza": {
+        "es": "Dios convoca formalmente a la creación como testigo de su pleito de pacto contra su pueblo · La fidelidad redentora histórica de Dios fundamenta su exigencia de fidelidad de pacto · El pacto no exige sacrificios excesivos sino justicia, misericordia y humildad práctica",
+        "en": "God formally summons creation as witness to his covenant lawsuit against his people · God's historical redemptive faithfulness grounds his demand for covenant faithfulness · The covenant does not require excessive sacrifices but practical justice, mercy, and humility",
+        "pt": "Deus convoca formalmente a criação como testemunha de sua contenda de pacto contra seu povo · A fidelidade redentora histórica de Deus fundamenta sua exigência de fidelidade de pacto · O pacto não exige sacrifícios excessivos, mas justiça, misericórdia e humildade prática"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada del pacto ve en Mi 6:1-8 un ejemplo paradigmático de cómo la gracia redentora precede y fundamenta la obediencia exigida: Dios primero salva («te hice subir de la tierra de Egipto», 6:4), y solo después demanda una respuesta ética coherente con esa salvación.",
+        "en": "Reformed covenant theology sees in Mic 6:1-8 a paradigmatic example of how redemptive grace precedes and grounds the obedience demanded: God first saves (\"I brought you up from the land of Egypt,\" 6:4), and only then demands an ethical response consistent with that salvation.",
+        "pt": "A teologia reformada do pacto vê em Mq 6:1-8 um exemplo paradigmático de como a graça redentora precede e fundamenta a obediência exigida: Deus primeiro salva («te fiz subir da terra do Egito», 6:4), e somente depois exige uma resposta ética coerente com essa salvação."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Miqueas anuncia que «en los postreros días» el monte de la casa del SEÑOR será establecido como cabeza de los montes, y todas las naciones fluirán a él para aprender los caminos de Dios, transformando espadas en rejas de arado y viviendo cada uno bajo su vid y su higuera sin temor (Mi 4:1-4).",
+        "en": "Micah announces that \"in the latter days\" the mountain of the LORD's house shall be established as the highest of the mountains, and all nations shall flow to it to learn God's ways, beating swords into plowshares and each dwelling under his own vine and fig tree without fear (Mic 4:1-4).",
+        "pt": "Miquéias anuncia que «nos últimos dias» o monte da casa do SENHOR será estabelecido como cabeça dos montes, e todas as nações fluirão para ele para aprender os caminhos de Deus, transformando espadas em relhas de arado e vivendo cada um debaixo de sua videira e de sua figueira sem temor (Mq 4:1-4)."
+      },
+      "pasajes": [
+        "Mi 4:1",
+        "Mi 4:3",
+        "Mi 4:4"
+      ],
+      "ensenanza": {
+        "es": "La visión escatológica incluye la exaltación universal del monte del SEÑOR sobre todas las naciones · Las naciones gentiles serán atraídas voluntariamente a aprender los caminos de Dios · La paz escatológica se manifiesta en el cese de la guerra y la seguridad doméstica",
+        "en": "The eschatological vision includes the universal exaltation of the LORD's mountain over all nations · The Gentile nations will be voluntarily drawn to learn God's ways · Eschatological peace is manifested in the cessation of war and domestic security",
+        "pt": "A visão escatológica inclui a exaltação universal do monte do SENHOR sobre todas as nações · As nações gentias serão voluntariamente atraídas a aprender os caminhos de Deus · A paz escatológica se manifesta na cessação da guerra e na segurança doméstica"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada lee esta visión como cumplida inauguralmente en la expansión de la iglesia entre las naciones desde Pentecostés (Hch 2), y consumada plenamente en el reino escatológico de Cristo, sin negar su referente histórico real ni disolverla en pura alegoría.",
+        "en": "The Reformed tradition reads this vision as inaugurally fulfilled in the church's expansion among the nations from Pentecost onward (Acts 2), and fully consummated in Christ's eschatological kingdom, without denying its real historical referent or dissolving it into pure allegory.",
+        "pt": "A tradição reformada lê essa visão como cumprida inauguralmente na expansão da igreja entre as nações a partir de Pentecostes (At 2), e plenamente consumada no reino escatológico de Cristo, sem negar seu referente histórico real nem dissolvê-la em pura alegoria."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 8",
+      "titulo": {
+        "es": "De Cristo el Mediador",
+        "en": "Of Christ the Mediator",
+        "pt": "De Cristo, o Mediador"
+      },
+      "doctrinas": [
+        "Cristología",
+        "Encarnación"
+      ],
+      "resumen": {
+        "es": "El capítulo 8 confiesa que el Hijo de Dios, la segunda persona de la Trinidad, tomó sobre sí naturaleza humana para ser el Mediador entre Dios y los hombres. La profecía de Miqueas sobre el gobernante de Belén «cuyos orígenes son desde tiempos antiguos, desde los días de la eternidad» (Mi 5:2) anticipa precisamente esta unión de la naturaleza eterna del Hijo con su nacimiento histórico verificable.",
+        "en": "Chapter 8 confesses that the Son of God, the second person of the Trinity, took upon himself human nature to be the Mediator between God and man. Micah's prophecy of the ruler from Bethlehem \"whose origin is from of old, from ancient days\" (Mic 5:2) anticipates precisely this union of the Son's eternal nature with his verifiable historical birth.",
+        "pt": "O capítulo 8 confessa que o Filho de Deus, a segunda pessoa da Trindade, tomou sobre si a natureza humana para ser o Mediador entre Deus e os homens. A profecia de Miquéias sobre o governante de Belém «cujas saídas são desde os tempos antigos, desde os dias da eternidade» (Mq 5:2) antecipa precisamente essa união da natureza eterna do Filho com seu nascimento histórico verificável."
+      },
+      "genesis": [
+        "Mi 5:2",
+        "Mi 5:4"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-8"
+    },
+    {
+      "cap": "Cap. 19",
+      "titulo": {
+        "es": "De la Ley de Dios",
+        "en": "Of the Law of God",
+        "pt": "Da Lei de Deus"
+      },
+      "doctrinas": [
+        "Ley",
+        "Ética"
+      ],
+      "resumen": {
+        "es": "El capítulo 19 describe la ley moral de Dios como norma perpetua de justicia que obliga a todos. El resumen ético de Miqueas —«hacer justicia, amar misericordia, y humillarte para andar con tu Dios» (Mi 6:8)— condensa magistralmente el sentido y propósito de esa ley moral, mostrando que su cumplimiento externo carece de valor sin la disposición interna correspondiente.",
+        "en": "Chapter 19 describes God's moral law as a perpetual standard of righteousness binding on all. Micah's ethical summary — \"to do justice, and to love kindness, and to walk humbly with your God\" (Mic 6:8) — masterfully condenses the sense and purpose of that moral law, showing that its external fulfillment is worthless without the corresponding inward disposition.",
+        "pt": "O capítulo 19 descreve a lei moral de Deus como norma perpétua de justiça que obriga a todos. O resumo ético de Miquéias — «praticar a justiça, e amar a misericórdia, e andar humildemente com o teu Deus» (Mq 6:8) — condensa magistralmente o sentido e o propósito dessa lei moral, mostrando que seu cumprimento externo carece de valor sem a disposição interna correspondente."
+      },
+      "genesis": [
+        "Mi 6:8"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-19"
+    },
+    {
+      "cap": "Cap. 11",
+      "titulo": {
+        "es": "De la Justificación",
+        "en": "Of Justification",
+        "pt": "Da Justificação"
+      },
+      "doctrinas": [
+        "Justificación",
+        "Perdón"
+      ],
+      "resumen": {
+        "es": "El capítulo 11 confiesa que Dios perdona libremente los pecados de los justificados por causa de Cristo. La doxología final de Miqueas —«¿Qué Dios como tú, que perdona la iniquidad... arrojará todos nuestros pecados a las profundidades del mar?» (Mi 7:18-19)— anticipa esta doctrina, celebrando un perdón divino tan completo y definitivo que ningún vestigio del pecado permanece.",
+        "en": "Chapter 11 confesses that God freely pardons the sins of those justified for Christ's sake. Micah's closing doxology — \"Who is a God like you, pardoning iniquity... you will cast all our sins into the depths of the sea\" (Mic 7:18-19) — anticipates this doctrine, celebrating a divine pardon so complete and definitive that no trace of sin remains.",
+        "pt": "O capítulo 11 confessa que Deus perdoa livremente os pecados dos justificados por causa de Cristo. A doxologia final de Miquéias — «que Deus há como tu, que perdoa a iniquidade... lançarás todos os nossos pecados nas profundezas do mar?» (Mq 7:18-19) — antecipa essa doutrina, celebrando um perdão divino tão completo e definitivo que nenhum vestígio do pecado permanece."
+      },
+      "genesis": [
+        "Mi 7:18",
+        "Mi 7:19"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-11"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Mi 3:8",
+      "es": "Mas yo estoy lleno de poder, del Espíritu del SEÑOR, y de juicio y de fuerza, para declarar a Jacob su transgresión y a Israel su pecado.",
+      "en": "But as for me, I am filled with power, with the Spirit of the LORD, and with justice and might, to declare to Jacob his transgression and to Israel his sin.",
+      "pt": "Mas eu estou cheio de força e poder pelo Espírito do SENHOR, e de juízo e de força, para anunciar a Jacó a sua transgressão, e a Israel o seu pecado.",
+      "nota": {
+        "es": "Miqueas se distingue explícitamente de los falsos profetas de dinero (Mi 3:5,11) mediante esta autodescripción de autoridad profética genuina, fundamentada en el Espíritu del SEÑOR y no en el favor popular.",
+        "en": "Micah explicitly distinguishes himself from the false prophets for hire (Mic 3:5,11) through this self-description of genuine prophetic authority, grounded in the Spirit of the LORD rather than popular favor.",
+        "pt": "Miquéias se distingue explicitamente dos falsos profetas por dinheiro (Mq 3:5,11) por meio dessa autodescrição de autoridade profética genuína, fundamentada no Espírito do SENHOR e não no favor popular."
+      }
+    },
+    {
+      "ref": "Mi 5:2",
+      "es": "Pero tú, Belén Efrata, aunque eres pequeña entre las familias de Judá, de ti me saldrá el que ha de ser Gobernante en Israel; sus orígenes son desde tiempos antiguos, desde los días de la eternidad.",
+      "en": "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose origin is from of old, from ancient days.",
+      "pt": "Mas tu, Belém Efrata, posto que pequena entre milhares de Judá, de ti me sairá o que será Senhor em Israel, e cujas saídas são desde os tempos antigos, desde os dias da eternidade.",
+      "nota": {
+        "es": "La profecía mesiánica más precisa geográficamente del Antiguo Testamento, citada literalmente por los principales sacerdotes y escribas ante Herodes como respuesta directa a la pregunta sobre el lugar de nacimiento del Cristo (Mt 2:5-6).",
+        "en": "The Old Testament's most geographically precise messianic prophecy, quoted verbatim by the chief priests and scribes before Herod as a direct answer to the question about the Christ's birthplace (Matt 2:5-6).",
+        "pt": "A profecia messiânica mais precisa geograficamente do Antigo Testamento, citada literalmente pelos principais sacerdotes e escribas diante de Herodes como resposta direta à pergunta sobre o local de nascimento do Cristo (Mt 2:5-6)."
+      }
+    },
+    {
+      "ref": "Mi 6:8",
+      "es": "Él te ha declarado, oh hombre, lo que es bueno, y qué pide el SEÑOR de ti: solamente hacer justicia, amar misericordia, y humillarte para andar con tu Dios.",
+      "en": "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?",
+      "pt": "Ele te declarou, ó homem, o que é bom; e que é o que o SENHOR pede de ti, senão que pratiques a justiça, e ames a misericórdia, e andes humildemente com o teu Deus?",
+      "nota": {
+        "es": "El resumen ético más citado del Antiguo Testamento, que condensa la respuesta apropiada del pacto tras el recuento de la fidelidad redentora de Dios en el pleito de Mi 6:1-5, rechazando tanto el legalismo ritual vacío como la indiferencia moral.",
+        "en": "The most quoted ethical summary in the Old Testament, condensing the fitting covenant response after the recounting of God's redemptive faithfulness in the lawsuit of Mic 6:1-5, rejecting both empty ritual legalism and moral indifference.",
+        "pt": "O resumo ético mais citado do Antigo Testamento, condensando a resposta de pacto adequada após o relato da fidelidade redentora de Deus na contenda de Mq 6:1-5, rejeitando tanto o legalismo ritual vazio quanto a indiferença moral."
+      }
+    },
+    {
+      "ref": "Mi 7:18",
+      "es": "¿Qué Dios hay como tú, que perdona la iniquidad y pasa por alto la rebelión del remanente de su heredad? No retiene para siempre su enojo, porque se deleita en la misericordia.",
+      "en": "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love.",
+      "pt": "Quem é Deus como tu, que perdoas a iniquidade, e que te esqueces da transgressão do restante da tua herança? Não retém a sua ira para sempre, porque tem prazer na benignidade.",
+      "nota": {
+        "es": "Este versículo contiene un juego de palabras deliberado con el propio nombre del profeta —Miqueas, «¿quién como YHWH?»—, convirtiendo la doxología final del libro en una firma teológica personal sobre el carácter incomparable de Dios.",
+        "en": "This verse contains a deliberate wordplay on the prophet's own name — Micah, \"who is like YHWH?\" — turning the book's final doxology into a personal theological signature on God's incomparable character.",
+        "pt": "Este versículo contém um jogo de palavras deliberado com o próprio nome do profeta — Miquéias, «quem é como YHWH?» —, transformando a doxologia final do livro em uma assinatura teológica pessoal sobre o caráter incomparável de Deus."
+      }
+    },
+    {
+      "ref": "Mi 7:19",
+      "es": "Él volverá a tener misericordia de nosotros; sujetará nuestras iniquidades. Sí, tú arrojarás todos nuestros pecados a las profundidades del mar.",
+      "en": "He will again have compassion on us; he will tread our iniquities underfoot. You will cast all our sins into the depths of the sea.",
+      "pt": "Tornará a apiedar-se de nós; subjugará as nossas iniquidades; e tu lançarás todos os nossos pecados nas profundezas do mar.",
+      "nota": {
+        "es": "La imagen del pecado hundido en las profundidades del mar, irrecuperable, expresa con fuerza poética la naturaleza definitiva del perdón divino, un anticipo de la obra plenamente consumada de Cristo en la cruz.",
+        "en": "The image of sin sunk in the depths of the sea, irretrievable, forcefully and poetically expresses the definitive nature of divine forgiveness, a foretaste of Christ's fully consummated work on the cross.",
+        "pt": "A imagem do pecado afundado nas profundezas do mar, irrecuperável, expressa com força poética a natureza definitiva do perdão divino, um antegozo da obra plenamente consumada de Cristo na cruz."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Miqueas resiste tanto una interpretación que reduzca el libro a mera crítica social —ignorando su núcleo cristológico y su llamado al arrepentimiento genuino— como una que espiritualice de tal modo sus denuncias que pierda su filo ético concreto contra la injusticia. En cambio, ve en la estructura tripartita de juicio-y-esperanza un patrón redentor-histórico coherente: el pecado del pacto exige juicio real, pero la fidelidad de Dios a su propio pacto garantiza tanto un remanente reunido como un Gobernante mesiánico que, naciendo en la humildad de Belén, cumplirá perfectamente lo que Mi 6:8 exige y lo que ningún líder corrupto denunciado en el libro pudo ofrecer.",
+    "en": "The Reformed reading of Micah resists both an interpretation that reduces the book to mere social critique — ignoring its christological core and its call to genuine repentance — and one that so spiritualizes its denunciations that it loses their concrete ethical edge against injustice. Instead, it sees in the tripartite judgment-and-hope structure a coherent redemptive-historical pattern: covenant sin demands real judgment, but God's faithfulness to his own covenant guarantees both a gathered remnant and a messianic Ruler who, born in Bethlehem's humility, will perfectly fulfill what Mic 6:8 demands and what no corrupt leader denounced in the book could offer.",
+    "pt": "A leitura reformada de Miquéias resiste tanto a uma interpretação que reduza o livro a mera crítica social — ignorando seu núcleo cristológico e seu chamado ao arrependimento genuíno — quanto a uma que espiritualize de tal modo suas denúncias que perca seu fio ético concreto contra a injustiça. Em vez disso, vê na estrutura tripartite de julgamento e esperança um padrão redentor-histórico coerente: o pecado do pacto exige julgamento real, mas a fidelidade de Deus a seu próprio pacto garante tanto um remanescente reunido quanto um Governante messiânico que, nascendo na humildade de Belém, cumprirá perfeitamente o que Mq 6:8 exige e o que nenhum líder corrupto denunciado no livro pôde oferecer."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Juicio Anunciado contra Samaria y Judá",
+        "en": "Judgment Announced Against Samaria and Judah",
+        "pt": "Julgamento Anunciado contra Samaria e Judá"
+      },
+      "descripcion": {
+        "es": "El libro abre con una teofanía de juicio: «el SEÑOR sale de su lugar, descenderá y hollará las alturas de la tierra» (Mi 1:3), imagen que evoca el poder de Dios derritiendo los montes como cera ante su presencia (Mi 1:4). El juicio se dirige primero contra Samaria por su idolatría —«convertiré todas sus imágenes talladas en desolación» (Mi 1:7)—, anunciando su destrucción como cumplimiento del juicio divino sobre el reino del norte. El profeta lamenta desnudo y descalzo (Mi 1:8), y el oráculo se extiende hacia Judá mediante un intrincado juego de palabras con los nombres de ciudades de la Sefela —Gat, Bet-le-afra, Saanán, Laquis— cada una asociada irónicamente a su propio juicio (Mi 1:10-15), estableciendo que el mal que la hirió «ha llegado hasta la puerta de mi pueblo, hasta Jerusalén» (Mi 1:9).",
+        "en": "The book opens with a theophany of judgment: \"the LORD is coming out of his place, and will come down and tread upon the high places of the earth\" (Mic 1:3), an image evoking God's power melting the mountains like wax before his presence (Mic 1:4). The judgment is directed first against Samaria for its idolatry — \"all her carved images shall be beaten to pieces\" (Mic 1:7) — announcing its destruction as the fulfillment of divine judgment on the northern kingdom. The prophet laments stripped and barefoot (Mic 1:8), and the oracle extends to Judah through an intricate wordplay on the names of Shephelah towns — Gath, Beth-le-aphrah, Shaphir, Lachish — each ironically tied to its own judgment (Mic 1:10-15), establishing that the wound has \"reached to the gate of my people, to Jerusalem\" (Mic 1:9).",
+        "pt": "O livro abre com uma teofania de julgamento: «o SENHOR sai do seu lugar, e descerá, e pisará os altos da terra» (Mq 1:3), imagem que evoca o poder de Deus derretendo os montes como cera diante de sua presença (Mq 1:4). O julgamento se dirige primeiro contra Samaria por sua idolatria — «converterei em desolação todas as suas imagens de escultura» (Mq 1:7) —, anunciando sua destruição como cumprimento do julgamento divino sobre o reino do norte. O profeta lamenta despido e descalço (Mq 1:8), e o oráculo se estende a Judá por meio de um intrincado jogo de palavras com os nomes de cidades da Sefelá — Gate, Bete-Le-Afra, Safir, Láquis — cada uma ironicamente associada ao seu próprio julgamento (Mq 1:10-15), estabelecendo que o mal a atingiu «até a porta do meu povo, até Jerusalém» (Mq 1:9)."
+      },
+      "eventoClave": {
+        "es": "La teofanía de juicio en que el SEÑOR sale de su lugar y desciende, pisando las alturas de la tierra ante Samaria y Judá (Mi 1:3-4).",
+        "en": "The theophany of judgment in which the LORD comes out of his place and comes down, treading the high places of the earth against Samaria and Judah (Mic 1:3-4).",
+        "pt": "A teofania de julgamento em que o SENHOR sai do seu lugar e desce, pisando as alturas da terra diante de Samaria e Judá (Mq 1:3-4)."
+      },
+      "versiculoClave": "Mi 1:3",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Ira de Dios/Juicio": {
+            "es": "El SEÑOR desciende en teofanía de juicio, hollando las alturas de la tierra y derritiendo los montes ante su presencia (Mi 1:3-4), estableciendo el juicio como el tema que abre todo el libro.",
+            "en": "The LORD comes down in a theophany of judgment, treading the high places of the earth and melting the mountains before his presence (Mic 1:3-4), establishing judgment as the theme that opens the entire book.",
+            "pt": "O SENHOR desce em teofania de julgamento, pisando as alturas da terra e derretendo os montes diante de sua presença (Mq 1:3-4), estabelecendo o julgamento como o tema que abre todo o livro."
+          }
+        },
+        "secundarios": [
+          {
+            "Idolatría": {
+              "es": "El juicio contra Samaria se dirige explícitamente contra sus imágenes talladas y sus ganancias de prostitución cúltica, que serán convertidas en desolación (Mi 1:7).",
+              "en": "The judgment against Samaria is explicitly directed against its carved images and cultic prostitution wages, which will be turned to desolation (Mic 1:7).",
+              "pt": "O julgamento contra Samaria se dirige explicitamente contra suas imagens de escultura e seus ganhos de prostituição cúltica, que serão convertidos em desolação (Mq 1:7)."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Opresión de los Pobres y la Promesa del Remanente",
+        "en": "Oppression of the Poor and the Promise of the Remnant",
+        "pt": "Opressão dos Pobres e a Promessa do Remanescente"
+      },
+      "descripcion": {
+        "es": "Miqueas denuncia a quienes «codician campos, y los roban; codician casas, y las toman» (Mi 2:1-2), aprovechando su poder nocturno para planear el mal contra los indefensos. Anuncia que Dios mismo trama calamidad contra estos opresores (Mi 2:3), y confronta a los falsos profetas que rechazan su mensaje diciendo «no profeticéis» y prefieren profetas que solo hablan «de vino y de sidra» (Mi 2:6,11). El capítulo da un giro abrupto e inesperado hacia la esperanza: «de cierto te reuniré todo, oh Jacob... los pondré juntos como ovejas de Bosra» (Mi 2:12), y un «Rompedor» sube delante de ellos para abrirles paso, con el SEÑOR mismo a la cabeza (Mi 2:13).",
+        "en": "Micah denounces those who \"covet fields and seize them, and houses, and take them away\" (Mic 2:1-2), using their nighttime power to plan evil against the defenseless. He announces that God himself is devising calamity against these oppressors (Mic 2:3), and confronts the false prophets who reject his message, saying \"do not preach,\" preferring prophets who speak only \"of wine and strong drink\" (Mic 2:6,11). The chapter takes an abrupt, unexpected turn toward hope: \"I will surely gather all of you, O Jacob... I will set them together like sheep in a fold\" (Mic 2:12), and a \"breaker\" goes up before them to open the way, with the LORD himself at their head (Mic 2:13).",
+        "pt": "Miquéias denuncia os que «cobiçam campos, e os roubam; e casas, e as tomam» (Mq 2:1-2), aproveitando seu poder noturno para planejar o mal contra os indefesos. Anuncia que o próprio Deus trama calamidade contra esses opressores (Mq 2:3), e confronta os falsos profetas que rejeitam sua mensagem dizendo «não profetizeis», preferindo profetas que só falam «de vinho e de bebida forte» (Mq 2:6,11). O capítulo dá uma virada abrupta e inesperada rumo à esperança: «certamente vos ajuntarei a todos, ó Jacó... os porei juntos como ovelhas de Bozra» (Mq 2:12), e um «rompedor» sobe adiante deles para lhes abrir caminho, com o próprio SENHOR à frente (Mq 2:13)."
+      },
+      "eventoClave": {
+        "es": "El giro repentino del juicio a la esperanza: la promesa de que Dios reunirá al remanente de Jacob como ovejas, con un «Rompedor» que abre el camino delante de ellos (Mi 2:12-13).",
+        "en": "The sudden turn from judgment to hope: the promise that God will gather the remnant of Jacob like sheep, with a \"breaker\" opening the way before them (Mic 2:12-13).",
+        "pt": "A virada repentina do julgamento para a esperança: a promessa de que Deus reunirá o remanescente de Jacó como ovelhas, com um «rompedor» que abre o caminho diante deles (Mq 2:12-13)."
+      },
+      "versiculoClave": "Mi 2:12",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Caída/Pecado": {
+            "es": "Los opresores codician campos y casas y los arrebatan por la fuerza aprovechando el poder de su mano (Mi 2:1-2), un pecado social tan grave que provoca la respuesta directa de Dios.",
+            "en": "The oppressors covet fields and houses and seize them by force, using the power of their hand (Mic 2:1-2), a social sin so grave it provokes God's direct response.",
+            "pt": "Os opressores cobiçam campos e casas e os arrebatam à força, aproveitando o poder de sua mão (Mq 2:1-2), um pecado social tão grave que provoca a resposta direta de Deus."
+          }
+        },
+        "secundarios": [
+          {
+            "Remanente": {
+              "es": "Tras el juicio, Dios promete reunir «todo, oh Jacob» y ponerlos juntos «como ovejas de Bosra» (Mi 2:12), introduciendo el tema del remanente reunido que recorrerá el resto del libro.",
+              "en": "After judgment, God promises to gather \"all of you, O Jacob\" and set them together \"like sheep in a fold\" (Mic 2:12), introducing the theme of the gathered remnant that will run through the rest of the book.",
+              "pt": "Após o julgamento, Deus promete reunir «a todos, ó Jacó» e pô-los juntos «como ovelhas de Bozra» (Mq 2:12), introduzindo o tema do remanescente reunido que percorrerá o restante do livro."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Los Líderes Corruptos y la Destrucción de Sion",
+        "en": "The Corrupt Leaders and Zion's Destruction",
+        "pt": "Os Líderes Corruptos e a Destruição de Sião"
+      },
+      "descripcion": {
+        "es": "Miqueas confronta directamente a los jefes y gobernantes «que aborrecéis el bien y amáis el mal» (Mi 3:2), usando la imagen brutal de devorar la carne del pueblo «como para la olla» (Mi 3:2-3). Denuncia a los falsos profetas que hacen errar al pueblo y proclaman «Paz» a quien les paga, mientras declaran guerra a quien no les da de comer (Mi 3:5). En agudo contraste, Miqueas se declara «lleno de poder, del Espíritu del SEÑOR» para denunciar el pecado (Mi 3:8), y confronta directamente a los sacerdotes que enseñan por precio y a los profetas que adivinan por dinero mientras afirman presuntuosamente «¿no está el SEÑOR entre nosotros?» (Mi 3:11). El capítulo culmina en la profecía más históricamente influyente del libro: «Sion será arada como campo, y Jerusalén vendrá a ser montones de ruinas» (Mi 3:12), citada explícitamente por Jeremías un siglo después (Jer 26:18).",
+        "en": "Micah directly confronts the heads and rulers \"who hate the good and love the evil\" (Mic 3:2), using the brutal image of devouring the people's flesh \"like meat in a pot\" (Mic 3:2-3). He denounces the false prophets who lead the people astray, proclaiming \"Peace\" to whoever pays them while declaring war on whoever does not feed them (Mic 3:5). In sharp contrast, Micah declares himself \"filled with power, with the Spirit of the LORD\" to denounce sin (Mic 3:8), and directly confronts the priests who teach for a price and the prophets who divine for money while presumptuously claiming, \"Is not the LORD in the midst of us?\" (Mic 3:11). The chapter culminates in the book's most historically influential prophecy: \"Zion shall be plowed as a field; Jerusalem shall become a heap of ruins\" (Mic 3:12), explicitly cited by Jeremiah a century later (Jer 26:18).",
+        "pt": "Miquéias confronta diretamente os chefes e governantes «que odeiam o bem e amam o mal» (Mq 3:2), usando a imagem brutal de devorar a carne do povo «como para a panela» (Mq 3:2-3). Denuncia os falsos profetas que fazem o povo errar e proclamam «Paz» a quem lhes paga, enquanto declaram guerra a quem não lhes dá de comer (Mq 3:5). Em nítido contraste, Miquéias se declara «cheio de poder, do Espírito do SENHOR» para denunciar o pecado (Mq 3:8), e confronta diretamente os sacerdotes que ensinam por preço e os profetas que adivinham por dinheiro enquanto afirmam presunçosamente «não está o SENHOR entre nós?» (Mq 3:11). O capítulo culmina na profecia mais historicamente influente do livro: «Sião será lavrada como campo, e Jerusalém se tornará em montões de ruínas» (Mq 3:12), citada explicitamente por Jeremias um século depois (Jr 26:18)."
+      },
+      "eventoClave": {
+        "es": "La declaración de Miqueas de estar «lleno de poder, del Espíritu del SEÑOR» (Mi 3:8), en agudo contraste con los profetas mercenarios, seguida de la profecía de que Jerusalén será arada como un campo (Mi 3:12).",
+        "en": "Micah's declaration of being \"filled with power, with the Spirit of the LORD\" (Mic 3:8), sharply contrasted with the mercenary prophets, followed by the prophecy that Jerusalem will be plowed like a field (Mic 3:12).",
+        "pt": "A declaração de Miquéias de estar «cheio de poder, do Espírito do SENHOR» (Mq 3:8), em nítido contraste com os profetas mercenários, seguida pela profecia de que Jerusalém será lavrada como um campo (Mq 3:12)."
+      },
+      "versiculoClave": "Mi 3:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jer 26:18",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jeremías cita explícitamente Mi 3:12 un siglo después como precedente histórico de que un profeta puede anunciar juicio contra el templo sin ser ejecutado por ello, confirmando la autenticidad y el impacto histórico de esta profecía.",
+            "en": "Jeremiah explicitly cites Mic 3:12 a century later as historical precedent that a prophet can announce judgment against the temple without being executed for it, confirming the authenticity and historical impact of this prophecy.",
+            "pt": "Jeremias cita explicitamente Mq 3:12 um século depois como precedente histórico de que um profeta pode anunciar julgamento contra o templo sem ser executado por isso, confirmando a autenticidade e o impacto histórico dessa profecia."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Profeta/Profecía": {
+            "es": "Miqueas se distingue de los falsos profetas que profetizan por dinero declarándose «lleno de poder, del Espíritu del SEÑOR» (Mi 3:8), estableciendo el contraste central del capítulo entre profecía genuina y mercenaria.",
+            "en": "Micah distinguishes himself from the false prophets who prophesy for money by declaring himself \"filled with power, with the Spirit of the LORD\" (Mic 3:8), establishing the chapter's central contrast between genuine and mercenary prophecy.",
+            "pt": "Miquéias se distingue dos falsos profetas que profetizam por dinheiro declarando-se «cheio de poder, do Espírito do SENHOR» (Mq 3:8), estabelecendo o contraste central do capítulo entre profecia genuína e mercenária."
+          }
+        },
+        "secundarios": [
+          {
+            "Ira de Dios/Juicio": {
+              "es": "La profecía de que «Sion será arada como campo, y Jerusalén vendrá a ser montones de ruinas» (Mi 3:12) anuncia el juicio más severo del libro contra la capital misma.",
+              "en": "The prophecy that \"Zion shall be plowed as a field; Jerusalem shall become a heap of ruins\" (Mic 3:12) announces the book's most severe judgment against the capital itself.",
+              "pt": "A profecia de que «Sião será lavrada como campo, e Jerusalém se tornará em montões de ruínas» (Mq 3:12) anuncia o julgamento mais severo do livro contra a própria capital."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 4,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "La Gloria Futura del Monte de Sion",
+        "en": "The Future Glory of Mount Zion",
+        "pt": "A Glória Futura do Monte de Sião"
+      },
+      "descripcion": {
+        "es": "Tras la sentencia de destrucción del capítulo anterior, el libro se eleva a una de las visiones escatológicas más célebres del Antiguo Testamento: «acontecerá en los postreros días, que el monte de la casa del SEÑOR será establecido como cabeza de los montes» (Mi 4:1), con todas las naciones fluyendo hacia él para aprender sus caminos. Las naciones «convertirán sus espadas en rejas de arado» y ya no aprenderán más la guerra (Mi 4:3), y cada uno vivirá seguro «bajo su vid y bajo su higuera» (Mi 4:4). El capítulo reconoce el exilio venidero a Babilonia —una mención notable siglos antes de que Babilonia se convirtiera en la potencia dominante (Mi 4:10)— pero promete la redención del SEÑOR desde allí mismo, describiendo a la hija de Sion como una era que trillará a las naciones que se le oponen (Mi 4:11-13).",
+        "en": "After the previous chapter's sentence of destruction, the book rises to one of the Old Testament's most celebrated eschatological visions: \"it shall come to pass in the latter days that the mountain of the house of the LORD shall be established as the highest of the mountains\" (Mic 4:1), with all nations flowing to it to learn its ways. The nations \"shall beat their swords into plowshares\" and shall not learn war anymore (Mic 4:3), and each one shall dwell securely \"under his vine and under his fig tree\" (Mic 4:4). The chapter acknowledges the coming exile to Babylon — a notable mention centuries before Babylon became the dominant power (Mic 4:10) — but promises the LORD's redemption from there, describing the daughter of Zion as a threshing floor that will thresh the nations opposing her (Mic 4:11-13).",
+        "pt": "Após a sentença de destruição do capítulo anterior, o livro se eleva a uma das visões escatológicas mais célebres do Antigo Testamento: «acontecerá nos últimos dias que o monte da casa do SENHOR será estabelecido no cume dos montes» (Mq 4:1), com todas as nações fluindo para ele para aprender seus caminhos. As nações «converterão as suas espadas em relhas de arado» e não aprenderão mais a guerra (Mq 4:3), e cada um viverá seguro «debaixo da sua videira e da sua figueira» (Mq 4:4). O capítulo reconhece o exílio vindouro para a Babilônia — uma menção notável séculos antes de a Babilônia se tornar a potência dominante (Mq 4:10) — mas promete a redenção do SENHOR a partir de lá, descrevendo a filha de Sião como uma eira que debulhará as nações que se lhe opõem (Mq 4:11-13)."
+      },
+      "eventoClave": {
+        "es": "La visión escatológica de las naciones fluyendo al monte del SEÑOR y transformando espadas en rejas de arado, viviendo en paz universal «en los postreros días» (Mi 4:1-4).",
+        "en": "The eschatological vision of the nations flowing to the LORD's mountain and beating swords into plowshares, living in universal peace \"in the latter days\" (Mic 4:1-4).",
+        "pt": "A visão escatológica das nações fluindo para o monte do SENHOR e transformando espadas em relhas de arado, vivendo em paz universal «nos últimos dias» (Mq 4:1-4)."
+      },
+      "versiculoClave": "Mi 4:1",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Is 2:2",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Isaías 2:2-4 contiene un oráculo casi idéntico sobre el monte del SEÑOR exaltado y la paz universal entre las naciones, evidencia de una tradición profética compartida entre estos dos contemporáneos del siglo VIII a.C.",
+            "en": "Isaiah 2:2-4 contains an almost identical oracle about the LORD's exalted mountain and universal peace among the nations, evidence of a shared prophetic tradition between these two 8th-century BC contemporaries.",
+            "pt": "Isaías 2:2-4 contém um oráculo quase idêntico sobre o monte do SENHOR exaltado e a paz universal entre as nações, evidência de uma tradição profética compartilhada entre esses dois contemporâneos do século VIII a.C."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Reino de Dios": {
+            "es": "El monte de la casa del SEÑOR será establecido como cabeza de los montes, y todas las naciones fluirán hacia él para aprender sus caminos y vivir bajo su gobierno de paz (Mi 4:1-3).",
+            "en": "The mountain of the LORD's house shall be established as the highest of the mountains, and all nations shall flow to it to learn his ways and live under his reign of peace (Mic 4:1-3).",
+            "pt": "O monte da casa do SENHOR será estabelecido no cume dos montes, e todas as nações fluirão para ele para aprender seus caminhos e viver sob seu governo de paz (Mq 4:1-3)."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "Aunque anuncia el exilio a Babilonia, Dios promete: «allí te redimiré de mano de tus enemigos» (Mi 4:10), garantizando que el destierro no será la palabra final sobre su pueblo.",
+              "en": "Though announcing exile to Babylon, God promises: \"there you shall be rescued; there the LORD will redeem you from the hand of your enemies\" (Mic 4:10), guaranteeing that exile will not be the final word over his people.",
+              "pt": "Embora anuncie o exílio para a Babilônia, Deus promete: «ali serás livre; ali o SENHOR te remirá da mão de teus inimigos» (Mq 4:10), garantindo que o desterro não será a palavra final sobre seu povo."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 5,
+      "rangoFin": 5,
+      "titulo": {
+        "es": "El Gobernante de Belén",
+        "en": "The Ruler from Bethlehem",
+        "pt": "O Governante de Belém"
+      },
+      "descripcion": {
+        "es": "El capítulo se centra en la profecía mesiánica más célebre del libro: «tú, Belén Efrata, aunque eres pequeña entre las familias de Judá, de ti me saldrá el que ha de ser Gobernante en Israel; sus orígenes son desde tiempos antiguos, desde los días de la eternidad» (Mi 5:2). Este gobernante «apacentará su rebaño con el poder del SEÑOR» (Mi 5:4) y será personalmente «nuestra paz» cuando el asirio invada la tierra (Mi 5:5). El libro anticipa que el remanente de Jacob será «como el rocío de parte del SEÑOR» entre las naciones (Mi 5:7), y el capítulo cierra con la promesa de que Dios purgará la tierra de caballos, fortalezas, hechicerías e ídolos —toda fuente de confianza que no sea el propio SEÑOR (Mi 5:10-14).",
+        "en": "The chapter centers on the book's most celebrated messianic prophecy: \"you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose origin is from of old, from ancient days\" (Mic 5:2). This ruler \"shall shepherd his flock in the strength of the LORD\" (Mic 5:4) and shall personally be \"our peace\" when the Assyrian invades the land (Mic 5:5). The book anticipates that the remnant of Jacob shall be \"like dew from the LORD\" among the nations (Mic 5:7), and the chapter closes with the promise that God will purge the land of horses, strongholds, sorceries, and idols — every source of confidence other than the LORD himself (Mic 5:10-14).",
+        "pt": "O capítulo se centra na profecia messiânica mais célebre do livro: «tu, Belém Efrata, posto que pequena entre milhares de Judá, de ti me sairá o que será Senhor em Israel, e cujas saídas são desde os tempos antigos, desde os dias da eternidade» (Mq 5:2). Esse governante «apascentará o seu rebanho com a força do SENHOR» (Mq 5:4) e será pessoalmente «a nossa paz» quando o assírio invadir a terra (Mq 5:5). O livro antecipa que o remanescente de Jacó será «como orvalho da parte do SENHOR» entre as nações (Mq 5:7), e o capítulo se encerra com a promessa de que Deus purgará a terra de cavalos, fortalezas, feitiçarias e ídolos — toda fonte de confiança que não seja o próprio SENHOR (Mq 5:10-14)."
+      },
+      "eventoClave": {
+        "es": "La profecía precisa de que el gobernante mesiánico nacerá en la pequeña Belén Efrata, con orígenes «desde tiempos antiguos, desde los días de la eternidad» (Mi 5:2).",
+        "en": "The precise prophecy that the messianic ruler will be born in little Bethlehem Ephrathah, with origins \"from of old, from ancient days\" (Mic 5:2).",
+        "pt": "A profecia precisa de que o governante messiânico nascerá na pequena Belém Efrata, com saídas «desde os tempos antigos, desde os dias da eternidade» (Mq 5:2)."
+      },
+      "versiculoClave": "Mi 5:2",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 2:6",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Los principales sacerdotes y escribas citan literalmente Mi 5:2 en respuesta a la pregunta de Herodes sobre el lugar de nacimiento del Cristo, identificándolo directamente con Belén (Mt 2:4-6).",
+            "en": "The chief priests and scribes literally quote Mic 5:2 in answer to Herod's question about the Christ's birthplace, directly identifying it with Bethlehem (Matt 2:4-6).",
+            "pt": "Os principais sacerdotes e escribas citam literalmente Mq 5:2 em resposta à pergunta de Herodes sobre o local de nascimento do Cristo, identificando-o diretamente com Belém (Mt 2:4-6)."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "El gobernante prometido saldrá de la pequeña Belén Efrata, con orígenes «desde tiempos antiguos, desde los días de la eternidad» (Mi 5:2), la profecía mesiánica geográficamente más precisa del Antiguo Testamento.",
+            "en": "The promised ruler shall come forth from little Bethlehem Ephrathah, with origin \"from of old, from ancient days\" (Mic 5:2), the Old Testament's most geographically precise messianic prophecy.",
+            "pt": "O governante prometido sairá da pequena Belém Efrata, com saídas «desde os tempos antigos, desde os dias da eternidade» (Mq 5:2), a profecia messiânica geograficamente mais precisa do Antigo Testamento."
+          }
+        },
+        "secundarios": [
+          {
+            "Pastor/Rey": {
+              "es": "El gobernante «se levantará y apacentará con el poder del SEÑOR» (Mi 5:4), presentado como el Pastor-Rey davídico definitivo que cuida de su rebaño con autoridad divina.",
+              "en": "The ruler \"shall stand and shepherd his flock in the strength of the LORD\" (Mic 5:4), presented as the definitive Davidic Shepherd-King who cares for his flock with divine authority.",
+              "pt": "O governante «se levantará e apascentará com a força do SENHOR» (Mq 5:4), apresentado como o Pastor-Rei davídico definitivo que cuida de seu rebanho com autoridade divina."
+            }
+          },
+          {
+            "Remanente": {
+              "es": "El remanente de Jacob será «como el rocío de parte del SEÑOR» en medio de muchos pueblos (Mi 5:7), continuando el tema del pueblo purificado y disperso pero preservado por Dios.",
+              "en": "The remnant of Jacob shall be \"like dew from the LORD\" among many peoples (Mic 5:7), continuing the theme of the purified, scattered yet God-preserved people.",
+              "pt": "O remanescente de Jacó será «como orvalho da parte do SENHOR» no meio de muitos povos (Mq 5:7), dando continuidade ao tema do povo purificado e disperso, mas preservado por Deus."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 6,
+      "rangoFin": 6,
+      "titulo": {
+        "es": "El Pleito de Pacto del SEÑOR",
+        "en": "The LORD's Covenant Lawsuit",
+        "pt": "A Contenda de Pacto do SENHOR"
+      },
+      "descripcion": {
+        "es": "El capítulo adopta la forma literaria de un pleito legal de pacto (rib): «Oíd ahora lo que dice el SEÑOR: Levántate, contiende ante los montes» (Mi 6:1-2), convocando a la creación como testigo. Dios recuerda su fidelidad redentora —«te hice subir de la tierra de Egipto», el envío de Moisés, Aarón y Miriam, y la frustración de la maldición de Balaam (Mi 6:3-5)— antes de que el pueblo pregunte retóricamente qué sacrificio podría satisfacer a Dios, escalando hasta la hipérbole del primogénito ofrecido (Mi 6:6-7). La respuesta divina llega en el versículo más citado del libro: «hacer justicia, amar misericordia, y humillarte para andar con tu Dios» (Mi 6:8). El capítulo cierra retomando la acusación contra el engaño comercial —pesas y medidas falsas— y la violencia en la ciudad (Mi 6:9-16).",
+        "en": "The chapter adopts the literary form of a covenant lawsuit (rib): \"Hear what the LORD says: Arise, plead your case before the mountains\" (Mic 6:1-2), summoning creation as witness. God recalls his redemptive faithfulness — \"I brought you up from the land of Egypt,\" sending Moses, Aaron, and Miriam, and thwarting Balaam's curse (Mic 6:3-5) — before the people rhetorically ask what sacrifice could satisfy God, escalating to the hyperbole of the offered firstborn (Mic 6:6-7). The divine answer arrives in the book's most quoted verse: \"to do justice, and to love kindness, and to walk humbly with your God\" (Mic 6:8). The chapter closes by returning to the indictment of commercial deceit — false weights and measures — and violence in the city (Mic 6:9-16).",
+        "pt": "O capítulo adota a forma literária de uma contenda legal de pacto (rib): «Ouvi, pois, o que diz o SENHOR: Levanta-te, contende perante os montes» (Mq 6:1-2), convocando a criação como testemunha. Deus relembra sua fidelidade redentora — «te fiz subir da terra do Egito», o envio de Moisés, Arão e Miriã, e a frustração da maldição de Balaão (Mq 6:3-5) — antes que o povo pergunte retoricamente que sacrifício poderia satisfazer a Deus, escalando até a hipérbole do primogênito oferecido (Mq 6:6-7). A resposta divina chega no versículo mais citado do livro: «praticar a justiça, e amar a misericórdia, e andar humildemente com o teu Deus» (Mq 6:8). O capítulo se encerra retomando a acusação contra o engano comercial — pesos e medidas falsas — e a violência na cidade (Mq 6:9-16)."
+      },
+      "eventoClave": {
+        "es": "La respuesta divina al pleito de pacto: «hacer justicia, amar misericordia, y humillarte para andar con tu Dios» (Mi 6:8), el resumen ético más citado del Antiguo Testamento.",
+        "en": "The divine answer to the covenant lawsuit: \"to do justice, and to love kindness, and to walk humbly with your God\" (Mic 6:8), the most quoted ethical summary in the Old Testament.",
+        "pt": "A resposta divina à contenda de pacto: «praticar a justiça, e amar a misericórdia, e andar humildemente com o teu Deus» (Mq 6:8), o resumo ético mais citado do Antigo Testamento."
+      },
+      "versiculoClave": "Mi 6:8",
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Pacto": {
+            "es": "Dios convoca a los montes como testigos de su pleito legal contra su pueblo (Mi 6:1-2) y recuerda su fidelidad redentora desde el éxodo (Mi 6:4-5), la forma clásica del pleito de pacto veterotestamentario.",
+            "en": "God summons the mountains as witnesses to his legal case against his people (Mic 6:1-2) and recalls his redemptive faithfulness since the exodus (Mic 6:4-5), the classic form of the Old Testament covenant lawsuit.",
+            "pt": "Deus convoca os montes como testemunhas de sua contenda legal contra seu povo (Mq 6:1-2) e relembra sua fidelidade redentora desde o êxodo (Mq 6:4-5), a forma clássica da contenda de pacto veterotestamentária."
+          }
+        },
+        "secundarios": [
+          {
+            "Palabra de Dios/Ley": {
+              "es": "La respuesta de Dios de que ya «te ha declarado, oh hombre, lo que es bueno» (Mi 6:8) presenta su requerimiento ético como palabra ya revelada, no como enigma por descubrir.",
+              "en": "God's answer that he has already \"told you, O man, what is good\" (Mic 6:8) presents his ethical requirement as already-revealed word, not a riddle to be discovered.",
+              "pt": "A resposta de Deus de que já «te declarou, ó homem, o que é bom» (Mq 6:8) apresenta seu requisito ético como palavra já revelada, não como enigma a ser descoberto."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 7,
+      "rangoFin": 7,
+      "titulo": {
+        "es": "Lamento, Confianza y la Doxología del Perdón",
+        "en": "Lament, Confidence, and the Doxology of Pardon",
+        "pt": "Lamento, Confiança e a Doxologia do Perdão"
+      },
+      "descripcion": {
+        "es": "Miqueas lamenta la corrupción moral total de la sociedad: «pereció el piadoso de la tierra» (Mi 7:2), y describe una desintegración familiar tan profunda que «los enemigos del hombre son los de su propia casa» (Mi 7:6, citado por Jesús en Mt 10:35-36). Sin embargo, el profeta gira hacia una confianza personal e inquebrantable: «yo esperaré al Dios de mi salvación» (Mi 7:7), afirmando que aunque caiga, se levantará, porque el SEÑOR será su luz en las tinieblas (Mi 7:8). Anuncia la reconstrucción de los muros de Jerusalén (Mi 7:11) y ora pidiendo que Dios apaciente a su pueblo como en los días antiguos (Mi 7:14). El libro entero culmina en una doxología incomparable: «¿Qué Dios hay como tú, que perdona la iniquidad?» (Mi 7:18), un juego de palabras con el propio nombre del profeta, seguido de la promesa de que Dios arrojará todos los pecados a las profundidades del mar (Mi 7:19).",
+        "en": "Micah laments society's total moral corruption: \"the godly has perished from the earth\" (Mic 7:2), and describes a family disintegration so profound that \"a man's enemies are the men of his own house\" (Mic 7:6, quoted by Jesus in Matt 10:35-36). Yet the prophet turns to an unshakable personal confidence: \"I will look to the LORD; I will wait for the God of my salvation\" (Mic 7:7), affirming that though he falls he will rise, for the LORD will be his light in darkness (Mic 7:8). He announces the rebuilding of Jerusalem's walls (Mic 7:11) and prays that God shepherd his people as in days of old (Mic 7:14). The entire book culminates in an incomparable doxology: \"Who is a God like you, pardoning iniquity?\" (Mic 7:18), a wordplay on the prophet's own name, followed by the promise that God will cast all sins into the depths of the sea (Mic 7:19).",
+        "pt": "Miquéias lamenta a corrupção moral total da sociedade: «pereceu da terra o piedoso» (Mq 7:2), e descreve uma desintegração familiar tão profunda que «os inimigos do homem são os da sua própria casa» (Mq 7:6, citado por Jesus em Mt 10:35-36). No entanto, o profeta se volta para uma confiança pessoal inabalável: «esperarei no Deus da minha salvação» (Mq 7:7), afirmando que ainda que caia, se levantará, pois o SENHOR será sua luz nas trevas (Mq 7:8). Anuncia a reconstrução dos muros de Jerusalém (Mq 7:11) e ora pedindo que Deus apascente seu povo como nos dias antigos (Mq 7:14). O livro inteiro culmina numa doxologia incomparável: «que Deus há como tu, que perdoas a iniquidade?» (Mq 7:18), um jogo de palavras com o próprio nome do profeta, seguido pela promessa de que Deus lançará todos os pecados às profundezas do mar (Mq 7:19)."
+      },
+      "eventoClave": {
+        "es": "La doxología final —«¿Qué Dios hay como tú, que perdona la iniquidad?» (Mi 7:18)— un juego de palabras con el nombre del profeta que cierra todo el libro con la incomparable misericordia de Dios.",
+        "en": "The final doxology — \"Who is a God like you, pardoning iniquity?\" (Mic 7:18) — a wordplay on the prophet's name that closes the entire book with God's incomparable mercy.",
+        "pt": "A doxologia final — «que Deus há como tu, que perdoas a iniquidade?» (Mq 7:18) — um jogo de palavras com o nome do profeta que encerra todo o livro com a incomparável misericórdia de Deus."
+      },
+      "versiculoClave": "Mi 7:18",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 10:35",
+          "tipo": "cita",
+          "nota": {
+            "es": "Jesús cita directamente Mi 7:6 sobre la división familiar para advertir que su propia misión traerá una separación similar entre los que lo siguen y los que lo rechazan.",
+            "en": "Jesus directly quotes Mic 7:6 about family division to warn that his own mission will bring a similar separation between those who follow him and those who reject him.",
+            "pt": "Jesus cita diretamente Mq 7:6 sobre a divisão familiar para advertir que sua própria missão trará uma separação semelhante entre os que o seguem e os que o rejeitam."
+          }
+        }
+      ],
+      "era": "Anticipación Profética",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "La doxología final celebra a Dios como quien «no retiene para siempre su enojo, porque se deleita en la misericordia» (Mi 7:18), la fidelidad de pacto (hesed) que perdona y restaura al remanente.",
+            "en": "The final doxology celebrates God as one who \"does not retain his anger forever, because he delights in steadfast love\" (Mic 7:18), the covenant faithfulness (hesed) that pardons and restores the remnant.",
+            "pt": "A doxologia final celebra Deus como aquele que «não retém a sua ira para sempre, porque tem prazer na benignidade» (Mq 7:18), a fidelidade de pacto (hesed) que perdoa e restaura o remanescente."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "El lamento inicial de que «pereció el piadoso de la tierra» y que los enemigos del hombre son los de su propia casa (Mi 7:2,6) describe la corrupción moral total que precede a la confianza y el perdón finales.",
+              "en": "The opening lament that \"the godly has perished from the earth\" and that a man's enemies are those of his own house (Mic 7:2,6) describes the total moral corruption preceding the final confidence and pardon.",
+              "pt": "O lamento inicial de que «pereceu da terra o piedoso» e que os inimigos do homem são os de sua própria casa (Mq 7:2,6) descreve a corrupção moral total que precede a confiança e o perdão finais."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos y reformados de renombre internacional.",
+          "en": "The ESV Study Bible is an editorial project of Crossway directed by Lane T. Dennis, with Wayne Grudem as general theological editor, bringing together more than 90 internationally recognized evangelical and Reformed scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos e reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas de estudio verso por verso con ensayos temáticos, mapas y cronologías, todo dentro de un marco teológico evangélico reformado que enfatiza la inerrancia bíblica y la lectura redentora-histórica del canon.",
+          "en": "It combines verse-by-verse study notes with thematic essays, maps, and chronologies, all within an evangelical Reformed theological framework emphasizing biblical inerrancy and a redemptive-historical reading of the canon.",
+          "pt": "Combina notas de estudo verso por verso com ensaios temáticos, mapas e cronologias, tudo dentro de um quadro teológico evangélico reformado que enfatiza a inerrância bíblica e a leitura redentora-histórica do cânon."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio, la datación y el bosquejo de la estructura tripartita de juicio-y-esperanza utilizados para establecer el contexto histórico y literario de Miqueas en este registro.",
+          "en": "It provided the introductory framework, dating, and outline of the tripartite judgment-and-hope structure used to establish Micah's historical and literary context in this record.",
+          "pt": "Forneceu o quadro introdutório, a datação e o esboço da estrutura tripartite de julgamento e esperança utilizados para estabelecer o contexto histórico e literário de Miquéias neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas teológicas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theological notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Notas teológicas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la santidad de Dios y la soberanía divina.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of 20th-century Reformed evangelicalism, known for his defense of God's holiness and divine sovereignty.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da santidade de Deus e da soberania divina."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio doctrinalmente precisas, ancladas en la Confesión de Westminster y los estándares confesionales reformados históricos.",
+          "en": "He edited a team of Reformed scholars to produce doctrinally precise study notes, anchored in the Westminster Confession and the historic Reformed confessional standards.",
+          "pt": "Editou uma equipe de estudiosos reformados para produzir notas de estudo doutrinariamente precisas, ancoradas na Confissão de Westminster e nos padrões confessionais reformados históricos."
+        },
+        "aportacion": {
+          "es": "Ofreció las notas teológicas confesionales utilizadas para conectar la profecía mesiánica de Belén y el resumen ético de Mi 6:8 con las doctrinas de Cristo el Mediador, la ley de Dios y la justificación articuladas en la Confesión de Westminster.",
+          "en": "It provided the confessional theological notes used to connect the Bethlehem messianic prophecy and the ethical summary of Mic 6:8 with the doctrines of Christ the Mediator, the law of God, and justification articulated in the Westminster Confession.",
+          "pt": "Ofereceu as notas teológicas confessionais utilizadas para conectar a profecia messiânica de Belém e o resumo ético de Mq 6:8 com as doutrinas de Cristo o Mediador, a lei de Deus e a justificação articuladas na Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Terminología teológica",
+          "Citas bíblicas NBLA"
+        ],
+        "en": [
+          "Theological terminology",
+          "NBLA Scripture quotations"
+        ],
+        "pt": [
+          "Terminologia teológica",
+          "Citações bíblicas NBLA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries para llevar la erudición reformada al mundo hispanohablante.",
+          "en": "A Spanish adaptation of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries to bring Reformed scholarship to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com a Ligonier Ministries para levar a erudição reformada ao mundo hispanofalante."
+        },
+        "metodo": {
+          "es": "Traduce y adapta las notas teológicas de la Reformation Study Bible al contexto y la versión NBLA, manteniendo el mismo rigor confesional reformado del original en inglés.",
+          "en": "It translates and adapts the theological notes of the Reformation Study Bible to the context and the NBLA version, maintaining the same Reformed confessional rigor of the English original.",
+          "pt": "Traduz e adapta as notas teológicas da Reformation Study Bible ao contexto e à versão NBLA, mantendo o mesmo rigor confessional reformado do original em inglês."
+        },
+        "aportacion": {
+          "es": "Sirvió como referencia primaria en español para la terminología teológica y las citas bíblicas en NBLA utilizadas a lo largo de este registro.",
+          "en": "It served as the primary Spanish-language reference for theological terminology and the NBLA Scripture quotations used throughout this record.",
+          "pt": "Serviu como referência primária em espanhol para a terminologia teológica e as citações bíblicas em NBLA utilizadas ao longo deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Cristología",
+          "Escatología"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Christology",
+          "Eschatology"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Cristologia",
+          "Escatologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático evangélico, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y coeditor general de la ESV Study Bible.",
+          "en": "Wayne Grudem is an evangelical systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo sistemático evangélico, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e coeditor geral da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, fundamentando cada afirmación doctrinal directamente en el texto bíblico con amplias referencias cruzadas.",
+          "en": "He organizes Christian doctrine by classic systematic categories, grounding each doctrinal affirmation directly in the biblical text with extensive cross-references.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, fundamentando cada afirmação doutrinária diretamente no texto bíblico com amplas referências cruzadas."
+        },
+        "aportacion": {
+          "es": "Proporcionó las categorías de teología sistemática —cristología, hamartiología, pacto, escatología— utilizadas para estructurar la sección teológica de este registro sobre Miqueas.",
+          "en": "It provided the systematic theology categories — Christology, hamartiology, covenant, eschatology — used to structure the theological section of this record on Micah.",
+          "pt": "Forneceu as categorias de teologia sistemática — cristologia, hamartiologia, pacto, escatologia — utilizadas para estruturar a seção teológica deste registro sobre Miquéias."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/systematic-theology"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas históricas del pacto, enfatizando la unidad orgánica de la Escritura y su culminación cristológica.",
+          "en": "He traces the progressive development of divine revelation through the historical epochs of the covenant, emphasizing the organic unity of Scripture and its christological culmination.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas históricas do pacto, enfatizando a unidade orgânica da Escritura e sua culminação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y la lectura de la profecía de Belén (Mi 5:2) como cumplimiento genuino y verificable de la esperanza mesiánica del Antiguo Testamento utilizado en este registro.",
+          "en": "It grounded the christological focus and the reading of the Bethlehem prophecy (Mic 5:2) as genuine, verifiable fulfillment of Old Testament messianic hope used in this record.",
+          "pt": "Fundamentou o enfoque cristológico e a leitura da profecia de Belém (Mq 5:2) como cumprimento genuíno e verificável da esperança messiânica do Antigo Testamento utilizado neste registro."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biblical-theology-doctrine/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Geografía",
+          "Cercano Oriente Antiguo"
+        ],
+        "en": [
+          "Historical context",
+          "Geography",
+          "Ancient Near East"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Geografia",
+          "Antigo Oriente Próximo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo del Cercano Oriente Antiguo, con nombramientos en Wheaton College, Missouri State University y la Universidad de Kansas respectivamente.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the Ancient Near Eastern background, holding appointments at Wheaton College, Missouri State University, and the University of Kansas respectively.",
+          "pt": "Walton, Matthews e Chavalas são estudiosos veterotestamentários especializados no pano de fundo do Antigo Oriente Próximo, com nomeações em Wheaton College, Missouri State University e na University of Kansas respectivamente."
+        },
+        "metodo": {
+          "es": "Comenta el texto bíblico versículo por versículo iluminando su trasfondo cultural, geográfico y arqueológico del Cercano Oriente Antiguo, sin comprometer la autoridad del texto revelado.",
+          "en": "It comments on the biblical text verse by verse, illuminating its Ancient Near Eastern cultural, geographic, and archaeological background, without compromising the authority of the revealed text.",
+          "pt": "Comenta o texto bíblico versículo por versículo, iluminando seu pano de fundo cultural, geográfico e arqueológico do Antigo Oriente Próximo, sem comprometer a autoridade do texto revelado."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo geográfico y socioeconómico sobre las ciudades de la Sefela, Belén y las condiciones de corrupción judicial del siglo VIII a.C. utilizado en la sección de contexto histórico de este registro.",
+          "en": "It provided the geographic and socioeconomic background on the Shephelah towns, Bethlehem, and the 8th-century BC conditions of judicial corruption used in the historical context section of this record.",
+          "pt": "Forneceu o pano de fundo geográfico e socioeconômico sobre as cidades da Sefelá, Belém e as condições de corrupção judicial do século VIII a.C. utilizado na seção de contexto histórico deste registro."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (Walton, 2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Excavaciones de Laquis"
+        ],
+        "en": [
+          "Archaeology",
+          "Excavations of Lachish"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Escavações de Láquis"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida por un equipo de arqueólogos y eruditos bíblicos evangélicos bajo Zondervan, esta obra reúne hallazgos arqueológicos relevantes para la interpretación del texto bíblico en su contexto histórico original.",
+          "en": "Produced by a team of archaeologists and evangelical biblical scholars under Zondervan, this work brings together archaeological findings relevant to interpreting the biblical text in its original historical context.",
+          "pt": "Produzida por uma equipe de arqueólogos e estudiosos bíblicos evangélicos sob a Zondervan, esta obra reúne achados arqueológicos relevantes para a interpretação do texto bíblico em seu contexto histórico original."
+        },
+        "metodo": {
+          "es": "Inserta notas arqueológicas y artículos temáticos junto al texto bíblico, correlacionando descubrimientos materiales específicos con pasajes y personajes bíblicos concretos.",
+          "en": "It inserts archaeological notes and thematic articles alongside the biblical text, correlating specific material discoveries with concrete biblical passages and figures.",
+          "pt": "Insere notas arqueológicas e artigos temáticos junto ao texto bíblico, correlacionando descobertas materiais específicas com passagens e personagens bíblicos concretos."
+        },
+        "aportacion": {
+          "es": "Aportó los datos sobre las excavaciones de Laquis y el túnel de Siloé utilizados para documentar la crisis asiria de 701 a.C. presupuesta por el libro de Miqueas.",
+          "en": "It provided the data on the excavations of Lachish and the Siloam Tunnel used to document the 701 BC Assyrian crisis presupposed by the book of Micah.",
+          "pt": "Contribuiu com os dados sobre as escavações de Láquis e o túnel de Siloé utilizados para documentar a crise assíria de 701 a.C. pressuposta pelo livro de Miquéias."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 2000,
+      "editorial": "Westminster John Knox Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Cronología del siglo VIII a.C.",
+          "Reinados de Jotam, Acaz y Ezequías"
+        ],
+        "en": [
+          "8th-century BC chronology",
+          "Reigns of Jotham, Ahaz, and Hezekiah"
+        ],
+        "pt": [
+          "Cronologia do século VIII a.C.",
+          "Reinados de Jotão, Acaz e Ezequias"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908-1995) fue profesor de Antiguo Testamento en Union Theological Seminary en Virginia y una figura decisiva en la reconstrucción histórica de Israel dentro de la erudición bíblica del siglo XX.",
+          "en": "John Bright (1908-1995) was professor of Old Testament at Union Theological Seminary in Virginia and a decisive figure in the historical reconstruction of Israel within 20th-century biblical scholarship.",
+          "pt": "John Bright (1908-1995) foi professor de Antigo Testamento no Union Theological Seminary, na Virgínia, e uma figura decisiva na reconstrução histórica de Israel dentro da erudição bíblica do século XX."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el testimonio bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, dentro de un marco históricamente riguroso.",
+          "en": "He reconstructs the history of Israel by integrating the biblical testimony with archaeological evidence and extrabiblical Ancient Near Eastern records, within a historically rigorous framework.",
+          "pt": "Reconstrói a história de Israel integrando o testemunho bíblico com a evidência arqueológica e os registros extrabíblicos do Antigo Oriente Próximo, dentro de um quadro historicamente rigoroso."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico de los reinados de Jotam, Acaz y Ezequías y la crisis asiria del siglo VIII a.C. utilizado para fechar y contextualizar Miqueas en este registro.",
+          "en": "It provided the chronological framework of the reigns of Jotham, Ahaz, and Hezekiah and the 8th-century BC Assyrian crisis used to date and contextualize Micah in this record.",
+          "pt": "Forneceu o quadro cronológico dos reinados de Jotão, Acaz e Ezequias e a crise assíria do século VIII a.C. utilizado para datar e contextualizar Miquéias neste registro."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.8,
+    "camposMarcados": [
+      {
+        "campo": "año / autor.nota",
+        "razon": "Se sitúa la composición c. 735-686 a.C., abarcando los reinados de Jotam, Acaz y Ezequías conforme a Mi 1:1, siguiendo la posición conservadora/reformada de autoría unificada del profeta del siglo VIII, apoyada en la cita de Jer 26:18.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se defiende la unidad literaria del libro bajo un único autor del siglo VIII frente a la propuesta crítica de que los oráculos de esperanza (Mi 4-5; 7:8-20) provienen de un redactor post-exílico, apoyada en la mención predictiva de Babilonia en Mi 4:10 y en la naturaleza sobrenatural de la profecía bíblica.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "historiaRedentora.contextoPacto",
+        "razon": "Se eligió 'Davídico' en lugar de 'Mosaico' como contexto de pacto dominante, dado que la profecía mesiánica de Belén (Mi 5:2-5) —centrada en un gobernante de la línea davídica— constituye el clímax teológico del libro, aunque el pleito de pacto de Mi 6:1-8 también invoca explícitamente el marco mosaico del éxodo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-05"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "Los 7 capítulos del libro se mapearon 1:1 a 7 unidades temáticas, ya que cada capítulo constituye un movimiento retórico coherente dentro de la estructura de tres ciclos de juicio y esperanza (Mi 1-2; 3-5; 6-7).",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-05"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-05T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-05T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-05T00:00:00Z",
+          "fechaFin": "2026-08-05T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
