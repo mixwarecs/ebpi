@@ -3275,7 +3275,7 @@
     "id": "zorobabel",
     "color": "#8C5A2E",
     "init": "זר",
-    "xCh": 2,
+    "xCh": { "Hag": 2, "Zac": 4 },
     "side": "above",
     "badge": {
       "es": "GOBERNADOR DAVÍDICO",
@@ -3863,6 +3863,54 @@
       "es": "CANTA CON DIOS",
       "en": "SINGS WITH GOD",
       "pt": "CANTA COM DEUS"
+    }
+  },
+  "Hageo": {
+    "id": "hageo-profeta",
+    "color": "#2E6B8C",
+    "init": "חג",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA DEL TEMPLO",
+      "en": "PROPHET OF THE TEMPLE",
+      "pt": "PROFETA DO TEMPLO"
+    }
+  },
+  "Josué (sumo sacerdote)": {
+    "id": "josue-sumo-sacerdote",
+    "color": "#6B2E8C",
+    "init": "שע",
+    "xCh": { "Hag": 1, "Zac": 3 },
+    "side": "above",
+    "badge": {
+      "es": "SUMO SACERDOTE",
+      "en": "HIGH PRIEST",
+      "pt": "SUMO SACERDOTE"
+    }
+  },
+  "Zacarías": {
+    "id": "zacarias-profeta",
+    "color": "#1B5E8B",
+    "init": "זכ",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA-SACERDOTE",
+      "en": "PROPHET-PRIEST",
+      "pt": "PROFETA-SACERDOTE"
+    }
+  },
+  "El Renuevo": {
+    "id": "el-renuevo-zacarias",
+    "color": "#2E7D4A",
+    "init": "צמ",
+    "xCh": 6,
+    "side": "below",
+    "badge": {
+      "es": "SACERDOTE Y REY",
+      "en": "PRIEST AND KING",
+      "pt": "SACERDOTE E REI"
     }
   }
 }

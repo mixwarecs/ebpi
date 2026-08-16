@@ -1,0 +1,1599 @@
+{
+  "id": 37,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Hageo",
+    "en": "Haggai",
+    "pt": "Ageu"
+  },
+  "tituloOriginal": "חַגַּי",
+  "transliteracion": "Chaggay",
+  "significado": {
+    "es": "Festivo / Mi fiesta",
+    "en": "Festive / My feast",
+    "pt": "Festivo / Minha festa"
+  },
+  "resumenGeneral": {
+    "es": "Hageo abre con una reprensión directa el primer día del sexto mes del segundo año de Darío: mientras el pueblo habita en casas artesonadas, la casa del SEÑOR permanece en ruinas dieciséis años después del regreso del exilio (Hag 1:1-11). El pueblo obedece de inmediato y reanuda la construcción (Hag 1:12-15), y el resto del libro despliega tres oráculos adicionales de aliento en rápida sucesión: la promesa de que la gloria postrera de esta casa superará a la primera (Hag 2:1-9), una lección objetiva sobre la santidad y la contaminación que explica las cosechas fallidas del pueblo (Hag 2:10-19), y culmina con una palabra dirigida específicamente a Zorobabel, a quien Dios promete convertir en su anillo de sellar, revirtiendo la maldición pronunciada sobre Jeconías (Hag 2:20-23).",
+    "en": "Haggai opens with a direct rebuke on the first day of the sixth month of Darius's second year: while the people dwell in paneled houses, the LORD's house remains in ruins sixteen years after the return from exile (Hag 1:1-11). The people obey immediately and resume construction (Hag 1:12-15), and the rest of the book unfolds three further oracles of encouragement in rapid succession: the promise that this house's latter glory will surpass the former (Hag 2:1-9), an object lesson on holiness and defilement explaining the people's failed harvests (Hag 2:10-19), and it culminates with a word addressed specifically to Zerubbabel, whom God promises to make his signet ring, reversing the curse pronounced on Jeconiah (Hag 2:20-23).",
+    "pt": "Ageu abre com uma repreensão direta no primeiro dia do sexto mês do segundo ano de Dario: enquanto o povo habita em casas forradas, a casa do SENHOR permanece em ruínas dezesseis anos depois do retorno do exílio (Ag 1:1-11). O povo obedece de imediato e retoma a construção (Ag 1:12-15), e o restante do livro desdobra três oráculos adicionais de ânimo em rápida sucessão: a promessa de que a glória última desta casa superará a primeira (Ag 2:1-9), uma lição objetiva sobre a santidade e a contaminação que explica as colheitas fracassadas do povo (Ag 2:10-19), e culmina com uma palavra dirigida especificamente a Zorobabel, a quem Deus promete transformar em seu anel de selar, revertendo a maldição pronunciada sobre Joaquim (Ag 2:20-23)."
+  },
+  "capitulosTotal": 2,
+  "autor": {
+    "nombre": {
+      "es": "Hageo",
+      "en": "Haggai",
+      "pt": "Ageu"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "Prácticamente nada se sabe de Hageo fuera de su nombre; no se registra su genealogía ni su lugar de origen, a diferencia de otros profetas menores. Esdras 5:1 y 6:14 lo mencionan junto a Zacarías como los profetas que animaron la reconstrucción del templo, confirmando externamente su actividad profética histórica.",
+      "en": "Practically nothing is known about Haggai beyond his name; no genealogy or place of origin is recorded, unlike other Minor Prophets. Ezra 5:1 and 6:14 mention him alongside Zechariah as the prophets who encouraged the temple's reconstruction, externally confirming his historical prophetic activity.",
+      "pt": "Praticamente nada se sabe sobre Ageu além de seu nome; não se registra sua genealogia nem seu lugar de origem, diferentemente de outros profetas menores. Esdras 5:1 e 6:14 o mencionam junto com Zacarias como os profetas que animaram a reconstrução do templo, confirmando externamente sua atividade profética histórica."
+    }
+  },
+  "año": {
+    "desde": -520,
+    "hasta": -520,
+    "display": {
+      "es": "Fecha de escritura: 520 a.C., en el segundo año del rey Darío I de Persia",
+      "en": "Date of writing: 520 BC, in the second year of King Darius I of Persia",
+      "pt": "Data de escrita: 520 a.C., no segundo ano do rei Dario I da Pérsia"
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Jerusalén, entre la comunidad de judíos repatriados del exilio babilónico",
+    "en": "Jerusalem, among the community of Jews repatriated from the Babylonian exile",
+    "pt": "Jerusalém, entre a comunidade de judeus repatriados do exílio babilônico"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Persa (539–332 a.C.)",
+      "en": "Persian Period (539–332 BC)",
+      "pt": "Período Persa (539–332 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Jerusalén",
+          "en": "Jerusalem",
+          "pt": "Jerusalém"
+        },
+        "identificacionModerna": {
+          "es": "En la actual Israel/Cisjordania",
+          "en": "In modern Israel/West Bank",
+          "pt": "Na atual Israel/Cisjordânia"
+        },
+        "significancia": {
+          "es": "El sitio del templo en ruinas cuya reconstrucción es el tema central de todo el libro (Hag 1:2,4,9)",
+          "en": "The site of the ruined temple whose reconstruction is the central theme of the entire book (Hag 1:2,4,9)",
+          "pt": "O local do templo em ruínas cuja reconstrução é o tema central de todo o livro (Ag 1:2,4,9)"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Babilonia",
+          "en": "Babylon",
+          "pt": "Babilônia"
+        },
+        "identificacionModerna": {
+          "es": "En el actual Irak, sur de Bagdad",
+          "en": "In modern Iraq, south of Baghdad",
+          "pt": "No atual Iraque, ao sul de Bagdá"
+        },
+        "significancia": {
+          "es": "El lugar del exilio del cual el remanente regresó bajo el decreto de Ciro, presuponiendo el trasfondo histórico de todo el libro",
+          "en": "The place of exile from which the remnant returned under Cyrus's decree, presupposed as the historical backdrop of the entire book",
+          "pt": "O local do exílio de onde o remanescente retornou sob o decreto de Ciro, pressuposto como pano de fundo histórico de todo o livro"
+        }
+      },
+      {
+        "lugar": {
+          "es": "Persia (imperio aqueménida)",
+          "en": "Persia (Achaemenid Empire)",
+          "pt": "Pérsia (império aquemênida)"
+        },
+        "identificacionModerna": {
+          "es": "En el actual Irán",
+          "en": "In modern Iran",
+          "pt": "No atual Irã"
+        },
+        "significancia": {
+          "es": "El imperio bajo cuyo gobierno —el segundo año de Darío I— se fechan con precisión todos los oráculos del libro (Hag 1:1; 2:1,10)",
+          "en": "The empire under whose rule — the second year of Darius I — all the book's oracles are precisely dated (Hag 1:1; 2:1,10)",
+          "pt": "O império sob cujo governo — o segundo ano de Dario I — todos os oráculos do livro são precisamente datados (Ag 1:1; 2:1,10)"
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Judíos repatriados (remanente post-exílico)",
+          "en": "Repatriated Jews (post-exilic remnant)",
+          "pt": "Judeus repatriados (remanescente pós-exílico)"
+        },
+        "rolEnElTexto": {
+          "es": "El pueblo que regresó del exilio bajo Zorobabel dieciséis años antes, cuyo descuido del templo y prioridades materiales son el blanco central de la reprensión de Hageo (Hag 1:2-11)",
+          "en": "The people who returned from exile under Zerubbabel sixteen years earlier, whose neglect of the temple and material priorities are the central target of Haggai's rebuke (Hag 1:2-11)",
+          "pt": "O povo que retornou do exílio sob Zorobabel dezesseis anos antes, cuja negligência do templo e prioridades materiais são o alvo central da repreensão de Ageu (Ag 1:2-11)"
+        },
+        "estadoArqueologico": {
+          "es": "El asentamiento post-exílico de Judá está documentado arqueológicamente mediante sellos administrativos persas («Yehud») y una población considerablemente reducida respecto al período preexílico",
+          "en": "The post-exilic settlement of Judah is archaeologically documented through Persian administrative seals (\"Yehud\") and a population considerably reduced from the pre-exilic period",
+          "pt": "O assentamento pós-exílico de Judá está documentado arqueologicamente por meio de selos administrativos persas («Yehud») e uma população consideravelmente reduzida em relação ao período pré-exílico"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Persas (bajo Darío I)",
+          "en": "Persians (under Darius I)",
+          "pt": "Persas (sob Dario I)"
+        },
+        "rolEnElTexto": {
+          "es": "El imperio gobernante bajo cuyo marco administrativo Zorobabel ejerce como gobernador de Judá, y cuyo trono es mencionado en el oráculo final sobre el sacudimiento de los reinos (Hag 2:22)",
+          "en": "The ruling empire under whose administrative framework Zerubbabel serves as governor of Judah, and whose throne is mentioned in the final oracle about the shaking of kingdoms (Hag 2:22)",
+          "pt": "O império governante sob cujo quadro administrativo Zorobabel exerce como governador de Judá, e cujo trono é mencionado no oráculo final sobre o abalar dos reinos (Ag 2:22)"
+        },
+        "estadoArqueologico": {
+          "es": "El reinado de Darío I (522-486 a.C.) está ampliamente documentado mediante la inscripción de Behistún y registros administrativos persas que confirman la cronología precisa que Hageo utiliza",
+          "en": "The reign of Darius I (522-486 BC) is extensively documented through the Behistun Inscription and Persian administrative records confirming the precise chronology Haggai uses",
+          "pt": "O reinado de Dario I (522-486 a.C.) está amplamente documentado pela inscrição de Behistun e por registros administrativos persas que confirmam a cronologia precisa que Ageu utiliza"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Adversarios samaritanos",
+          "en": "Samaritan adversaries",
+          "pt": "Adversários samaritanos"
+        },
+        "rolEnElTexto": {
+          "es": "Los pueblos vecinos que, según Esdras 4, obstaculizaron la reconstrucción del templo durante los dieciséis años previos a la predicación de Hageo, contribuyendo al desánimo que el profeta confronta",
+          "en": "The neighboring peoples who, according to Ezra 4, hindered the temple's reconstruction during the sixteen years before Haggai's preaching, contributing to the discouragement the prophet confronts",
+          "pt": "Os povos vizinhos que, segundo Esdras 4, obstruíram a reconstrução do templo durante os dezesseis anos anteriores à pregação de Ageu, contribuindo para o desânimo que o profeta confronta"
+        },
+        "estadoArqueologico": {
+          "es": "La oposición samaritana está documentada en el relato paralelo de Esdras 4, aunque Hageo mismo no la menciona explícitamente, enfatizando en cambio la responsabilidad espiritual del propio pueblo",
+          "en": "Samaritan opposition is documented in the parallel account of Ezra 4, though Haggai himself does not explicitly mention it, emphasizing instead the people's own spiritual responsibility",
+          "pt": "A oposição samaritana está documentada no relato paralelo de Esdras 4, embora o próprio Ageu não a mencione explicitamente, enfatizando em vez disso a responsabilidade espiritual do próprio povo"
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "La inscripción de Behistún, erigida por Darío I para conmemorar su ascenso al trono persa, confirma la cronología exacta del reinado bajo el cual Hageo fecha sus cuatro oráculos con precisión sin paralelo en el resto del Antiguo Testamento. Los sellos administrativos «Yehud» hallados en Jerusalén y sus alrededores confirman la existencia de una provincia persa organizada bajo gobernadores locales como Zorobabel durante este período. La arqueología de Jerusalén post-exílica revela una ciudad considerablemente reducida respecto a su extensión preexílica, consistente con la pobreza económica y la escasez agrícola que Hageo describe como consecuencia del descuido del templo (Hag 1:6,9-11).",
+      "en": "The Behistun Inscription, erected by Darius I to commemorate his ascension to the Persian throne, confirms the exact chronology of the reign under which Haggai dates his four oracles with a precision unparalleled elsewhere in the Old Testament. \"Yehud\" administrative seals found in and around Jerusalem confirm the existence of an organized Persian province under local governors such as Zerubbabel during this period. The archaeology of post-exilic Jerusalem reveals a city considerably reduced from its pre-exilic extent, consistent with the economic poverty and agricultural scarcity Haggai describes as a consequence of temple neglect (Hag 1:6,9-11).",
+      "pt": "A inscrição de Behistun, erguida por Dario I para comemorar sua ascensão ao trono persa, confirma a cronologia exata do reinado sob o qual Ageu data seus quatro oráculos com precisão sem paralelo no restante do Antigo Testamento. Os selos administrativos «Yehud» encontrados em Jerusalém e arredores confirmam a existência de uma província persa organizada sob governadores locais como Zorobabel durante esse período. A arqueologia da Jerusalém pós-exílica revela uma cidade consideravelmente reduzida em relação à sua extensão pré-exílica, consistente com a pobreza econômica e a escassez agrícola que Ageu descreve como consequência da negligência do templo (Ag 1:6,9-11)."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Inscripción de Behistún",
+          "en": "Behistun Inscription",
+          "pt": "Inscrição de Behistun"
+        },
+        "origen": {
+          "es": "Inscripción trilingüe (persa antiguo, elamita y babilónico) tallada por orden de Darío I en un acantilado de Persia occidental, documentando su ascenso al trono",
+          "en": "A trilingual inscription (Old Persian, Elamite, and Babylonian) carved by order of Darius I on a cliff in western Persia, documenting his ascent to the throne",
+          "pt": "Inscrição trilíngue (persa antigo, elamita e babilônico) esculpida por ordem de Dario I em um penhasco no oeste da Pérsia, documentando sua ascensão ao trono"
+        },
+        "relevancia": {
+          "es": "Proporciona el ancla cronológica externa que confirma el «segundo año de Darío» al que Hageo fecha sus cuatro oráculos con precisión exacta (Hag 1:1; 2:1,10)",
+          "en": "Provides the external chronological anchor confirming the \"second year of Darius\" to which Haggai precisely dates his four oracles (Hag 1:1; 2:1,10)",
+          "pt": "Fornece a âncora cronológica externa que confirma o «segundo ano de Dario» ao qual Ageu data seus quatro oráculos com precisão exata (Ag 1:1; 2:1,10)"
+        }
+      },
+      {
+        "nombre": {
+          "es": "Cilindro de Ciro",
+          "en": "Cyrus Cylinder",
+          "pt": "Cilindro de Ciro"
+        },
+        "origen": {
+          "es": "Inscripción cuneiforme babilónica que documenta la política persa de repatriación de pueblos exiliados y restauración de sus templos",
+          "en": "A Babylonian cuneiform inscription documenting the Persian policy of repatriating exiled peoples and restoring their temples",
+          "pt": "Inscrição cuneiforme babilônica que documenta a política persa de repatriação de povos exilados e restauração de seus templos"
+        },
+        "relevancia": {
+          "es": "Corrobora el marco imperial que permitió el regreso del remanente judío y el inicio original de la reconstrucción del templo, presupuesto histórico detrás de la reprensión de Hageo por el abandono posterior de esa obra",
+          "en": "Corroborates the imperial framework that allowed the Jewish remnant's return and the original start of the temple's reconstruction, the historical presupposition behind Haggai's rebuke for that work's later abandonment",
+          "pt": "Corrobora o quadro imperial que permitiu o retorno do remanescente judeu e o início original da reconstrução do templo, pressuposto histórico por trás da repreensão de Ageu pelo abandono posterior dessa obra"
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "Existe debate sobre las causas de los dieciséis años de retraso en la reconstrucción del templo tras el decreto original de Ciro. Esdras 4 documenta oposición externa activa de los pueblos vecinos que intimidó al remanente y logró detener la obra mediante apelaciones a la corte persa. Hageo mismo, sin embargo, no menciona esta oposición externa en absoluto, atribuyendo el retraso exclusivamente a la apatía espiritual y las prioridades materiales del pueblo («Es tiempo para que vosotros habitéis en vuestras casas artesonadas», Hag 1:4). La tradición reformada armoniza ambos relatos entendiendo que la oposición externa proporcionó la ocasión inicial para detener la obra, pero que la indiferencia espiritual del pueblo explica por qué esa pausa se prolongó dieciséis años en lugar de superarse con determinación renovada.",
+      "en": "There is debate over the causes of the sixteen-year delay in the temple's reconstruction after Cyrus's original decree. Ezra 4 documents active external opposition from neighboring peoples that intimidated the remnant and succeeded in halting the work through appeals to the Persian court. Haggai himself, however, does not mention this external opposition at all, attributing the delay exclusively to the people's spiritual apathy and material priorities (\"Is it a time for you yourselves to dwell in your paneled houses,\" Hag 1:4). The Reformed tradition harmonizes both accounts by understanding that external opposition provided the initial occasion for halting the work, but that the people's spiritual indifference explains why that pause lasted sixteen years instead of being overcome with renewed resolve.",
+      "pt": "Existe debate sobre as causas dos dezesseis anos de atraso na reconstrução do templo após o decreto original de Ciro. Esdras 4 documenta oposição externa ativa dos povos vizinhos que intimidou o remanescente e conseguiu deter a obra por meio de apelações à corte persa. O próprio Ageu, no entanto, não menciona essa oposição externa em absoluto, atribuindo o atraso exclusivamente à apatia espiritual e às prioridades materiais do povo («é tempo de vós habitardes nas vossas casas forradas», Ag 1:4). A tradição reformada harmoniza ambos os relatos entendendo que a oposição externa proporcionou a ocasião inicial para deter a obra, mas que a indiferença espiritual do povo explica por que essa pausa se prolongou por dezesseis anos em vez de ser superada com determinação renovada."
+    },
+    "cronologiaInterna": {
+      "es": "Hageo es el libro profético más precisamente fechado del Antiguo Testamento, con cuatro oráculos ubicados en fechas exactas dentro de un período de apenas cuatro meses del segundo año de Darío I (520 a.C.): el primer día del sexto mes (Hag 1:1), el día veinticuatro del sexto mes (Hag 1:15), el día veintiuno del séptimo mes (Hag 2:1), y el día veinticuatro del noveno mes, en que se registran dos mensajes distintos el mismo día (Hag 2:10,20).",
+      "en": "Haggai is the most precisely dated prophetic book in the Old Testament, with four oracles placed on exact dates within a period of just four months in the second year of Darius I (520 BC): the first day of the sixth month (Hag 1:1), the twenty-fourth day of the sixth month (Hag 1:15), the twenty-first day of the seventh month (Hag 2:1), and the twenty-fourth day of the ninth month, on which two distinct messages are recorded the same day (Hag 2:10,20).",
+      "pt": "Ageu é o livro profético mais precisamente datado do Antigo Testamento, com quatro oráculos situados em datas exatas dentro de um período de apenas quatro meses no segundo ano de Dario I (520 a.C.): o primeiro dia do sexto mês (Ag 1:1), o dia vinte e quatro do sexto mês (Ag 1:15), o dia vinte e um do sétimo mês (Ag 2:1), e o dia vinte e quatro do nono mês, em que se registram duas mensagens distintas no mesmo dia (Ag 2:10,20)."
+    }
+  },
+  "ordenEnDivision": 10,
+  "ordenCanon": 37,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Davídico",
+    "enfoqueCristologico": {
+      "es": "Hageo anticipa a Cristo mediante la promesa de que «la gloria postrera de esta casa será mayor que la primera» (Hag 2:9), cumplida cuando Cristo mismo, «algo mayor que el templo» (Mt 12:6), entra al segundo templo y se revela como el verdadero templo de Dios (Jn 2:19-21), y mediante la palabra final a Zorobabel, a quien Dios promete convertir en su anillo de sellar (Hag 2:23), revirtiendo la maldición sobre Jeconías (Jer 22:24) y restaurando la esperanza mesiánica davídica que culmina en la genealogía de Cristo (Mt 1:12-13).",
+      "en": "Haggai anticipates Christ through the promise that \"the latter glory of this house shall be greater than the former\" (Hag 2:9), fulfilled when Christ himself, \"something greater than the temple\" (Matt 12:6), enters the second temple and reveals himself as God's true temple (John 2:19-21), and through the final word to Zerubbabel, whom God promises to make his signet ring (Hag 2:23), reversing the curse on Jeconiah (Jer 22:24) and restoring the Davidic messianic hope that culminates in Christ's genealogy (Matt 1:12-13).",
+      "pt": "Ageu antecipa Cristo por meio da promessa de que «a glória última desta casa será maior do que a da primeira» (Ag 2:9), cumprida quando o próprio Cristo, «algo maior do que o templo» (Mt 12:6), entra no segundo templo e se revela como o verdadeiro templo de Deus (Jo 2:19-21), e por meio da palavra final a Zorobabel, a quem Deus promete transformar em seu anel de selar (Ag 2:23), revertendo a maldição sobre Joaquim (Jr 22:24) e restaurando a esperança messiânica davídica que culmina na genealogia de Cristo (Mt 1:12-13)."
+    },
+    "tiposYSombras": [
+      {
+        "es": "La promesa de que «la gloria postrera de esta casa será mayor que la primera» (Hag 2:9) se cumple cuando Cristo mismo, «algo mayor que el templo» (Mt 12:6), entra al segundo templo y se revela como el verdadero templo de Dios habitando entre los hombres (Jn 2:19-21).",
+        "en": "The promise that \"the latter glory of this house shall be greater than the former\" (Hag 2:9) is fulfilled when Christ himself, \"something greater than the temple\" (Matt 12:6), enters the second temple and reveals himself as God's true temple dwelling among men (John 2:19-21).",
+        "pt": "A promessa de que «a glória última desta casa será maior do que a da primeira» (Ag 2:9) se cumpre quando o próprio Cristo, «algo maior do que o templo» (Mt 12:6), entra no segundo templo e se revela como o verdadeiro templo de Deus habitando entre os homens (Jo 2:19-21)."
+      },
+      {
+        "es": "Zorobabel, a quien Dios hace su «anillo de sellar» (Hag 2:23), revierte la maldición pronunciada sobre su antepasado Jeconías (Jer 22:24) y restaura la esperanza mesiánica davídica, confirmada por su nombre en la genealogía de Cristo (Mt 1:12-13).",
+        "en": "Zerubbabel, whom God makes his \"signet ring\" (Hag 2:23), reverses the curse pronounced on his ancestor Jeconiah (Jer 22:24) and restores Davidic messianic hope, confirmed by his name in Christ's genealogy (Matt 1:12-13).",
+        "pt": "Zorobabel, a quem Deus faz seu «anel de selar» (Ag 2:23), reverte a maldição pronunciada sobre seu antepassado Joaquim (Jr 22:24) e restaura a esperança messiânica davídica, confirmada por seu nome na genealogia de Cristo (Mt 1:12-13)."
+      },
+      {
+        "es": "El sacudimiento de los cielos y la tierra que Dios promete (Hag 2:6-7,21) es citado en He 12:26-27 como anticipo del juicio final y la consumación del reino inconmovible que los creyentes reciben en Cristo.",
+        "en": "The shaking of the heavens and the earth God promises (Hag 2:6-7,21) is cited in Heb 12:26-27 as a foretaste of the final judgment and the consummation of the unshakable kingdom believers receive in Christ.",
+        "pt": "O abalar dos céus e da terra que Deus promete (Ag 2:6-7,21) é citado em Hb 12:26-27 como antegozo do juízo final e da consumação do reino inabalável que os crentes recebem em Cristo."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Hageo es el libro profético más precisamente fechado de todo el Antiguo Testamento, con cuatro oráculos ubicados en días exactos dentro de un período de apenas cuatro meses. Su contribución exclusiva al canon es demostrar que la reconstrucción física del templo post-exílico —aparentemente modesta comparada con la de Salomón— porta una significación escatológica y mesiánica que trasciende su apariencia inmediata, y restaurar explícitamente la esperanza davídica a través de Zorobabel tras la maldición pronunciada sobre Jeconías.",
+    "en": "Haggai is the most precisely dated prophetic book in the entire Old Testament, with four oracles placed on exact days within a period of just four months. Its exclusive contribution to the canon is to demonstrate that the physical reconstruction of the post-exilic temple — seemingly modest compared to Solomon's — carries an eschatological and messianic significance transcending its immediate appearance, and to explicitly restore Davidic hope through Zerubbabel after the curse pronounced on Jeconiah.",
+    "pt": "Ageu é o livro profético mais precisamente datado de todo o Antigo Testamento, com quatro oráculos situados em dias exatos dentro de um período de apenas quatro meses. Sua contribuição exclusiva ao cânon é demonstrar que a reconstrução física do templo pós-exílico — aparentemente modesta comparada à de Salomão — carrega uma significação escatológica e messiânica que transcende sua aparência imediata, e restaurar explicitamente a esperança davídica por meio de Zorobabel após a maldição pronunciada sobre Joaquim."
+  },
+  "genero": {
+    "es": "Profecía (oráculos históricamente fechados de exhortación y aliento para la reconstrucción del templo)",
+    "en": "Prophecy (historically dated oracles of exhortation and encouragement for the temple's reconstruction)",
+    "pt": "Profecia (oráculos historicamente datados de exortação e ânimo para a reconstrução do templo)"
+  },
+  "palabraClave": {
+    "es": [
+      "Reconstrucción del templo",
+      "Considerad vuestros caminos",
+      "Gloria postrera",
+      "Anillo de sellar",
+      "Fechas precisas"
+    ],
+    "en": [
+      "Temple reconstruction",
+      "Consider your ways",
+      "Latter glory",
+      "Signet ring",
+      "Precise dates"
+    ],
+    "pt": [
+      "Reconstrução do templo",
+      "Considerai os vossos caminhos",
+      "Glória última",
+      "Anel de selar",
+      "Datas precisas"
+    ]
+  },
+  "destinatario": {
+    "es": "El remanente de judíos repatriados del exilio babilónico en Jerusalén, particularmente Zorobabel gobernador, Josué el sumo sacerdote, y el pueblo, dieciséis años después de haber suspendido la reconstrucción del templo",
+    "en": "The remnant of Jews repatriated from the Babylonian exile in Jerusalem, particularly Zerubbabel the governor, Joshua the high priest, and the people, sixteen years after having suspended the temple's reconstruction",
+    "pt": "O remanescente de judeus repatriados do exílio babilônico em Jerusalém, particularmente Zorobabel, o governador, Josué, o sumo sacerdote, e o povo, dezesseis anos depois de terem suspendido a reconstrução do templo"
+  },
+  "proposito": {
+    "es": "Históricamente, Hageo exhorta al remanente post-exílico a reanudar y completar la reconstrucción del templo, interpretando las cosechas fallidas y la pobreza económica como consecuencia directa de haber priorizado sus propias casas sobre la casa de Dios. Teológicamente, el libro enseña que la obediencia inmediata trae la presencia y el poder de Dios (Hag 1:12-14; 2:4-5), que el valor de la adoración no depende de la apariencia externa sino de la presencia de Dios (Hag 2:3-9), y que la esperanza mesiánica davídica permanece intacta pese al exilio, restaurada simbólicamente en Zorobabel (Hag 2:20-23).",
+    "en": "Historically, Haggai exhorts the post-exilic remnant to resume and complete the temple's reconstruction, interpreting failed harvests and economic poverty as a direct consequence of having prioritized their own houses over God's house. Theologically, the book teaches that immediate obedience brings God's presence and power (Hag 1:12-14; 2:4-5), that the value of worship does not depend on external appearance but on God's presence (Hag 2:3-9), and that Davidic messianic hope remains intact despite the exile, symbolically restored in Zerubbabel (Hag 2:20-23).",
+    "pt": "Historicamente, Ageu exorta o remanescente pós-exílico a retomar e completar a reconstrução do templo, interpretando as colheitas fracassadas e a pobreza econômica como consequência direta de terem priorizado suas próprias casas sobre a casa de Deus. Teologicamente, o livro ensina que a obediência imediata traz a presença e o poder de Deus (Ag 1:12-14; 2:4-5), que o valor da adoração não depende da aparência externa, mas da presença de Deus (Ag 2:3-9), e que a esperança messiânica davídica permanece intacta apesar do exílio, restaurada simbolicamente em Zorobabel (Ag 2:20-23)."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Dios · YHWH",
+        "en": "God · YHWH · the Lord",
+        "pt": "Deus · YHWH · o Senhor"
+      },
+      "hebreo": "יְהוָה",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "El SEÑOR de los ejércitos que reprende al remanente por descuidar su casa mientras habitan en las suyas propias, promete llenar el nuevo templo de gloria mayor que la del primero, y finalmente escoge a Zorobabel como su anillo de sellar, restaurando la esperanza davídica tras el exilio.",
+        "en": "The LORD of hosts who rebukes the remnant for neglecting his house while dwelling in their own, promises to fill the new temple with greater glory than the first, and finally chooses Zerubbabel as his signet ring, restoring Davidic hope after the exile.",
+        "pt": "O SENHOR dos Exércitos que repreende o remanescente por negligenciar sua casa enquanto habita nas suas próprias, promete encher o novo templo de glória maior do que a do primeiro, e finalmente escolhe Zorobabel como seu anel de selar, restaurando a esperança davídica após o exílio."
+      },
+      "acciones": {
+        "es": "Pregunta retóricamente «¿Es acaso tiempo para que vosotros habitéis en vuestras casas artesonadas, mientras esta casa está en ruinas?» (Hag 1:4), envía sequía y escasez como consecuencia del descuido del templo (Hag 1:9-11), estimula el espíritu de Zorobabel, Josué y todo el remanente para que trabajen (Hag 1:14), promete que la gloria postrera de la casa será mayor que la primera (Hag 2:9), y declara a Zorobabel «como anillo de sellar, porque yo te he escogido» (Hag 2:23).",
+        "en": "Rhetorically asks \"Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?\" (Hag 1:4), sends drought and scarcity as a consequence of temple neglect (Hag 1:9-11), stirs up the spirit of Zerubbabel, Joshua, and the whole remnant to work (Hag 1:14), promises that the latter glory of the house will be greater than the former (Hag 2:9), and declares Zerubbabel to be \"like a signet ring, for I have chosen you\" (Hag 2:23).",
+        "pt": "Pergunta retoricamente «acaso é tempo de vós habitardes nas vossas casas forradas, e esta casa ficar deserta?» (Ag 1:4), envia seca e escassez como consequência da negligência do templo (Ag 1:9-11), desperta o espírito de Zorobabel, Josué e todo o remanescente para trabalharem (Ag 1:14), promete que a glória última da casa será maior do que a primeira (Ag 2:9), e declara Zorobabel «como um anel de selar; porque te escolhi» (Ag 2:23)."
+      },
+      "significadoTeologico": {
+        "es": "Hageo revela a Dios como quien vincula directamente la prosperidad material con la fidelidad en la adoración, y como el Dios soberano sobre la historia de los imperios que puede sacudir los cielos y la tierra para restaurar a su pueblo elegido y su línea davídica.",
+        "en": "Haggai reveals God as one who directly links material prosperity to faithfulness in worship, and as the God sovereign over the history of empires who can shake the heavens and the earth to restore his chosen people and their Davidic line.",
+        "pt": "Ageu revela Deus como aquele que vincula diretamente a prosperidade material à fidelidade na adoração, e como o Deus soberano sobre a história dos impérios que pode abalar os céus e a terra para restaurar seu povo escolhido e sua linhagem davídica."
+      },
+      "tipo": {
+        "es": "El SEÑOR que promete llenar la casa de gloria y sacudir las naciones (Hag 2:6-9) anticipa a Cristo, quien entra al segundo templo y se revela como la gloria definitiva de Dios habitando entre los hombres (Jn 1:14; 2:19-21).",
+        "en": "The LORD who promises to fill the house with glory and shake the nations (Hag 2:6-9) anticipates Christ, who enters the second temple and reveals himself as the definitive glory of God dwelling among men (John 1:14; 2:19-21).",
+        "pt": "O SENHOR que promete encher a casa de glória e abalar as nações (Ag 2:6-9) antecipa Cristo, que entra no segundo templo e se revela como a glória definitiva de Deus habitando entre os homens (Jo 1:14; 2:19-21)."
+      },
+      "caracterMoral": {
+        "es": "Fiel en cumplir sus promesas de pacto, celoso de la reverencia debida a su casa, y misericordioso al restaurar inmediatamente su favor cuando el pueblo obedece.",
+        "en": "Faithful in fulfilling his covenant promises, jealous for the reverence due to his house, and merciful in immediately restoring his favor when the people obey.",
+        "pt": "Fiel no cumprimento de suas promessas de pacto, zeloso da reverência devida à sua casa, e misericordioso ao restaurar imediatamente seu favor quando o povo obedece."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "YHWH es quien habla directamente a través de Hageo en cada uno de los cuatro oráculos fechados del libro, reprendiendo, estimulando y finalmente prometiendo restauración mesiánica.",
+          "en": "YHWH is the one who speaks directly through Haggai in each of the book's four dated oracles, rebuking, stirring up, and finally promising messianic restoration.",
+          "pt": "YHWH é quem fala diretamente por meio de Ageu em cada um dos quatro oráculos datados do livro, repreendendo, despertando e finalmente prometendo restauração messiânica."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hag 1:4",
+          "Hag 1:13",
+          "Hag 2:9",
+          "Hag 2:23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No aplicable: Dios no tiene biografía histórica humana; se revela por su autorrevelación consistente en todo el canon.",
+          "en": "Not applicable: God has no human historical biography; he reveals himself through his consistent self-revelation across the whole canon.",
+          "pt": "Não aplicável: Deus não tem biografia histórica humana; revela-se por sua autorrevelação consistente em todo o cânon."
+        },
+        "fuentes": [],
+        "nivelEvidencia": "alto",
+        "concordanciaConTexto": {
+          "es": "El carácter de Dios como quien vincula la fidelidad en la adoración con la prosperidad de pacto es coherente con su autorrevelación en el resto del canon, particularmente en Deuteronomio.",
+          "en": "God's character as one who links faithfulness in worship with covenant prosperity is coherent with his self-revelation across the rest of the canon, particularly in Deuteronomy.",
+          "pt": "O caráter de Deus como aquele que vincula a fidelidade na adoração com a prosperidade de pacto é coerente com sua autorrevelação no restante do cânon, particularmente em Deuteronômio."
+        }
+      },
+      "versiculosAsociados": [
+        "Hag 1:4",
+        "Hag 1:13",
+        "Hag 2:9",
+        "Hag 2:23"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Esd",
+        "Jer",
+        "Mt",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El sacudimiento de los cielos y la tierra que Dios promete (Hag 2:6,21) es citado en He 12:26-27 como anticipo del juicio final y la consumación del reino inconmovible de Cristo.",
+        "en": "The shaking of the heavens and the earth God promises (Hag 2:6,21) is cited in Heb 12:26-27 as a foretaste of final judgment and the consummation of Christ's unshakable kingdom.",
+        "pt": "O abalar dos céus e da terra que Deus promete (Ag 2:6,21) é citado em Hb 12:26-27 como antegozo do juízo final e da consumação do reino inabalável de Cristo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Hageo",
+        "en": "Haggai",
+        "pt": "Ageu"
+      },
+      "hebreo": "חַגַּי",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "El profeta de identidad casi enteramente desconocida fuera de su nombre, cuyos cuatro oráculos —fechados con una precisión sin paralelo en el resto del Antiguo Testamento— movieron al remanente post-exílico a reanudar la reconstrucción del templo.",
+        "en": "The prophet of almost entirely unknown identity beyond his name, whose four oracles — dated with a precision unparalleled elsewhere in the Old Testament — moved the post-exilic remnant to resume the temple's reconstruction.",
+        "pt": "O profeta de identidade quase inteiramente desconhecida além de seu nome, cujos quatro oráculos — datados com uma precisão sem paralelo no restante do Antigo Testamento — moveram o remanescente pós-exílico a retomar a reconstrução do templo."
+      },
+      "acciones": {
+        "es": "Recibe la palabra del SEÑOR el primer día del sexto mes y reprende al pueblo por su negligencia (Hag 1:1-11), ve al pueblo obedecer y comenzar la obra (Hag 1:12-15), pronuncia tres oráculos adicionales de aliento y explicación en los meses siguientes (Hag 2:1-23), y transmite la palabra final dirigida específicamente a Zorobabel.",
+        "en": "Receives the word of the LORD on the first day of the sixth month and rebukes the people for their negligence (Hag 1:1-11), sees the people obey and begin the work (Hag 1:12-15), pronounces three further oracles of encouragement and explanation in the following months (Hag 2:1-23), and delivers the final word addressed specifically to Zerubbabel.",
+        "pt": "Recebe a palavra do SENHOR no primeiro dia do sexto mês e repreende o povo por sua negligência (Ag 1:1-11), vê o povo obedecer e começar a obra (Ag 1:12-15), pronuncia três oráculos adicionais de ânimo e explicação nos meses seguintes (Ag 2:1-23), e transmite a palavra final dirigida especificamente a Zorobabel."
+      },
+      "significadoTeologico": {
+        "es": "Hageo ejemplifica la eficacia de la predicación profética fiel: a diferencia de muchos profetas cuyo mensaje fue rechazado, la exhortación de Hageo produjo obediencia inmediata y visible en apenas veintitrés días (Hag 1:1,15).",
+        "en": "Haggai exemplifies the efficacy of faithful prophetic preaching: unlike many prophets whose message was rejected, Haggai's exhortation produced immediate, visible obedience in just twenty-three days (Hag 1:1,15).",
+        "pt": "Ageu exemplifica a eficácia da pregação profética fiel: diferentemente de muitos profetas cuja mensagem foi rejeitada, a exortação de Ageu produziu obediência imediata e visível em apenas vinte e três dias (Ag 1:1,15)."
+      },
+      "tipo": {
+        "es": "Como profeta cuyo llamado a la obediencia inmediata produce fruto visible en la restauración de la adoración correcta, Hageo prefigura de manera general el ministerio profético de Cristo, quien también purificó y restauró el verdadero templo de Dios (Jn 2:13-17).",
+        "en": "As a prophet whose call to immediate obedience produces visible fruit in the restoration of right worship, Haggai generally prefigures the prophetic ministry of Christ, who likewise purified and restored God's true temple (John 2:13-17).",
+        "pt": "Como profeta cujo chamado à obediência imediata produz fruto visível na restauração da adoração correta, Ageu prefigura de maneira geral o ministério profético de Cristo, que também purificou e restaurou o verdadeiro templo de Deus (Jo 2:13-17)."
+      },
+      "caracterMoral": {
+        "es": "Directo y sin rodeos en su denuncia de la negligencia espiritual, pero igualmente pronto en ofrecer aliento y esperanza una vez que el pueblo responde con obediencia.",
+        "en": "Direct and unflinching in his denunciation of spiritual negligence, but equally quick to offer encouragement and hope once the people respond with obedience.",
+        "pt": "Direto e sem rodeios em sua denúncia da negligência espiritual, mas igualmente pronto a oferecer ânimo e esperança uma vez que o povo responde com obediência."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Todo el libro documenta la actividad profética de Hageo en cuatro fechas precisas del año 520 a.C., sin ningún dato biográfico adicional sobre su persona.",
+          "en": "The entire book documents Haggai's prophetic activity on four precise dates in 520 BC, with no additional biographical data about his person.",
+          "pt": "O livro inteiro documenta a atividade profética de Ageu em quatro datas precisas do ano 520 a.C., sem nenhum dado biográfico adicional sobre sua pessoa."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hag 1:1",
+          "Hag 1:12"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Esdras 5:1 y 6:14 confirman externamente la actividad histórica de Hageo, mencionándolo junto a Zacarías como los profetas cuya predicación impulsó la reconstrucción del templo bajo Darío I, un anclaje bíblico excepcionalmente sólido para un profeta menor.",
+          "en": "Ezra 5:1 and 6:14 externally confirm Haggai's historical activity, mentioning him alongside Zechariah as the prophets whose preaching drove the temple's reconstruction under Darius I, an exceptionally solid biblical anchor for a Minor Prophet.",
+          "pt": "Esdras 5:1 e 6:14 confirmam externamente a atividade histórica de Ageu, mencionando-o junto com Zacarias como os profetas cuja pregação impulsionou a reconstrução do templo sob Dario I, uma âncora bíblica excepcionalmente sólida para um profeta menor."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Período persa",
+              "Reconstrucción del templo"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La confirmación de Esdras 5:1 y 6:14 sobre la actividad profética de Hageo es consistente con la precisión cronológica excepcional del propio libro, reforzando su historicidad.",
+          "en": "The confirmation in Ezra 5:1 and 6:14 of Haggai's prophetic activity is consistent with the book's own exceptional chronological precision, reinforcing its historicity.",
+          "pt": "A confirmação de Esdras 5:1 e 6:14 sobre a atividade profética de Ageu é consistente com a precisão cronológica excepcional do próprio livro, reforçando sua historicidade."
+        }
+      },
+      "versiculosAsociados": [
+        "Hag 1:1",
+        "Hag 1:13",
+        "Hag 2:1"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Esd"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Hageo no es mencionado por nombre en el Nuevo Testamento, aunque su oráculo sobre el sacudimiento de las naciones (Hag 2:6) es citado explícitamente en He 12:26.",
+        "en": "Haggai is not mentioned by name in the New Testament, though his oracle about the shaking of the nations (Hag 2:6) is explicitly cited in Heb 12:26.",
+        "pt": "Ageu não é mencionado pelo nome no Novo Testamento, embora seu oráculo sobre o abalar das nações (Ag 2:6) seja citado explicitamente em Hb 12:26."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Zorobabel",
+        "en": "Zerubbabel",
+        "pt": "Zorobabel"
+      },
+      "hebreo": "זְרֻבָּבֶל",
+      "principal": true,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "El gobernador de Judá y nieto del rey Joaquín (Jeconías), descendiente de la casa de David en el exilio, a quien Dios encomienda la obra de reconstrucción del templo y finalmente escoge como su anillo de sellar, revirtiendo la maldición sobre su linaje.",
+        "en": "The governor of Judah and grandson of King Jehoiachin (Jeconiah), a descendant of the house of David in exile, to whom God entrusts the work of temple reconstruction and finally chooses as his signet ring, reversing the curse on his lineage.",
+        "pt": "O governador de Judá e neto do rei Joaquim (Jeconias), descendente da casa de Davi no exílio, a quem Deus confia a obra de reconstrução do templo e finalmente escolhe como seu anel de selar, revertendo a maldição sobre sua linhagem."
+      },
+      "acciones": {
+        "es": "Es exhortado junto con Josué a ser fuerte y a trabajar, porque el SEÑOR está con él (Hag 2:4), lidera al remanente en la obra de reconstrucción tras la reprensión inicial de Hageo (Hag 1:14-15), y recibe la palabra final y personal de que Dios lo hará como anillo de sellar en aquel día, «porque yo te he escogido» (Hag 2:23).",
+        "en": "Is exhorted alongside Joshua to be strong and to work, for the LORD is with him (Hag 2:4), leads the remnant in the work of reconstruction after Haggai's initial rebuke (Hag 1:14-15), and receives the final, personal word that God will make him like a signet ring on that day, \"for I have chosen you\" (Hag 2:23).",
+        "pt": "É exortado junto com Josué a ser forte e a trabalhar, pois o SENHOR está com ele (Ag 2:4), lidera o remanescente na obra de reconstrução após a repreensão inicial de Ageu (Ag 1:14-15), e recebe a palavra final e pessoal de que Deus o fará como um anel de selar naquele dia, «porque te escolhi» (Ag 2:23)."
+      },
+      "significadoTeologico": {
+        "es": "Zorobabel, como descendiente davídico que lidera la restauración del templo y recibe la reversión personal de la maldición sobre Jeconías, encarna la preservación de la esperanza mesiánica de la línea de David a través del exilio y el regreso.",
+        "en": "Zerubbabel, as a Davidic descendant who leads the temple's restoration and receives the personal reversal of the curse on Jeconiah, embodies the preservation of Davidic messianic hope through the exile and the return.",
+        "pt": "Zorobabel, como descendente davídico que lidera a restauração do templo e recebe a reversão pessoal da maldição sobre Joaquim, encarna a preservação da esperança messiânica da linhagem de Davi através do exílio e do retorno."
+      },
+      "tipo": {
+        "es": "La promesa de que Zorobabel será «como anillo de sellar» (Hag 2:23) revierte explícitamente la maldición de Jer 22:24 sobre Jeconías, y su nombre aparece en la genealogía de Cristo (Mt 1:12-13), conectándolo directamente con el cumplimiento mesiánico definitivo.",
+        "en": "The promise that Zerubbabel will be \"like a signet ring\" (Hag 2:23) explicitly reverses the curse of Jer 22:24 on Jeconiah, and his name appears in Christ's genealogy (Matt 1:12-13), directly connecting him to the definitive messianic fulfillment.",
+        "pt": "A promessa de que Zorobabel será «como um anel de selar» (Ag 2:23) reverte explicitamente a maldição de Jr 22:24 sobre Joaquim, e seu nome aparece na genealogia de Cristo (Mt 1:12-13), conectando-o diretamente ao cumprimento messiânico definitivo."
+      },
+      "caracterMoral": {
+        "es": "Obediente y decidido al responder de inmediato al llamado profético a reconstruir el templo, liderando al remanente con fidelidad práctica.",
+        "en": "Obedient and resolute in responding immediately to the prophetic call to rebuild the temple, leading the remnant with practical faithfulness.",
+        "pt": "Obediente e decidido ao responder imediatamente ao chamado profético para reconstruir o templo, liderando o remanescente com fidelidade prática."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Zorobabel aparece como el gobernador exhortado a la obra en Hag 1:1,14 y 2:2,4, y como el destinatario de la promesa mesiánica personal en Hag 2:20-23.",
+          "en": "Zerubbabel appears as the governor exhorted to the work in Hag 1:1,14 and 2:2,4, and as the recipient of the personal messianic promise in Hag 2:20-23.",
+          "pt": "Zorobabel aparece como o governador exortado à obra em Ag 1:1,14 e 2:2,4, e como destinatário da promessa messiânica pessoal em Ag 2:20-23."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hag 1:14",
+          "Hag 2:4",
+          "Hag 2:23"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Zorobabel, nieto de Joaquín (Jeconías) según 1Cr 3:17-19, es identificado en Esdras y Hageo como el gobernador persa de Judá que lideró el primer regreso y la reconstrucción del templo, un cargo confirmado por el uso del título persa de gobernador en el texto.",
+          "en": "Zerubbabel, grandson of Jehoiachin (Jeconiah) according to 1Chr 3:17-19, is identified in Ezra and Haggai as the Persian governor of Judah who led the first return and the temple's reconstruction, an office confirmed by the use of the Persian title of governor in the text.",
+          "pt": "Zorobabel, neto de Joaquim (Jeconias) segundo 1Cr 3:17-19, é identificado em Esdras e Ageu como o governador persa de Judá que liderou o primeiro retorno e a reconstrução do templo, cargo confirmado pelo uso do título persa de governador no texto."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Genealogía davídica post-exílica",
+              "Administración persa de Judá"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La identificación de Zorobabel como gobernador persa de Judá y descendiente davídico es consistente con el sistema administrativo persa de nombrar gobernadores locales, aunque no existe registro extrabíblico directo de su persona.",
+          "en": "The identification of Zerubbabel as the Persian governor of Judah and Davidic descendant is consistent with the Persian administrative system of appointing local governors, though no direct extrabiblical record of his person exists.",
+          "pt": "A identificação de Zorobabel como governador persa de Judá e descendente davídico é consistente com o sistema administrativo persa de nomear governadores locais, embora não exista registro extrabíblico direto de sua pessoa."
+        }
+      },
+      "versiculosAsociados": [
+        "Hag 1:1",
+        "Hag 1:14",
+        "Hag 2:23"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Esd",
+        "Zac",
+        "1Cr",
+        "Mt"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Zorobabel aparece en la genealogía de Jesús tanto en Mt 1:12-13 como en Lc 3:27, confirmando que la promesa de Hag 2:23 se integra en el linaje mesiánico que culmina en Cristo.",
+        "en": "Zerubbabel appears in Jesus's genealogy both in Matt 1:12-13 and Luke 3:27, confirming that the promise of Hag 2:23 is integrated into the messianic line culminating in Christ.",
+        "pt": "Zorobabel aparece na genealogia de Jesus tanto em Mt 1:12-13 quanto em Lc 3:27, confirmando que a promessa de Ag 2:23 se integra na linhagem messiânica que culmina em Cristo."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Josué (sumo sacerdote)",
+        "en": "Joshua (the high priest)",
+        "pt": "Josué (o sumo sacerdote)"
+      },
+      "principal": false,
+      "rol": "secundario",
+      "capitulosActivo": [
+        1,
+        2
+      ],
+      "descripcion": {
+        "es": "El sumo sacerdote que lidera junto a Zorobabel el liderazgo religioso del remanente post-exílico, exhortado igualmente a ser fuerte y continuar la obra de reconstrucción del templo.",
+        "en": "The high priest who, alongside Zerubbabel, leads the religious leadership of the post-exilic remnant, likewise exhorted to be strong and continue the work of the temple's reconstruction.",
+        "pt": "O sumo sacerdote que lidera junto com Zorobabel a liderança religiosa do remanescente pós-exílico, igualmente exortado a ser forte e continuar a obra de reconstrução do templo."
+      },
+      "acciones": {
+        "es": "Es mencionado junto a Zorobabel como destinatario de la palabra del SEÑOR (Hag 1:1), obedece y lidera al pueblo en la obra del templo (Hag 1:12,14), y es exhortado a ser fuerte junto con Zorobabel y todo el pueblo de la tierra (Hag 2:4).",
+        "en": "Is mentioned alongside Zerubbabel as a recipient of the word of the LORD (Hag 1:1), obeys and leads the people in the temple's work (Hag 1:12,14), and is exhorted to be strong together with Zerubbabel and all the people of the land (Hag 2:4).",
+        "pt": "É mencionado junto com Zorobabel como destinatário da palavra do SENHOR (Ag 1:1), obedece e lidera o povo na obra do templo (Ag 1:12,14), e é exortado a ser forte junto com Zorobabel e todo o povo da terra (Ag 2:4)."
+      },
+      "significadoTeologico": {
+        "es": "Josué representa la restauración del sacerdocio legítimo tras el exilio, complementando el liderazgo davídico de Zorobabel con la autoridad sacerdotal necesaria para la reconsagración del templo.",
+        "en": "Joshua represents the restoration of legitimate priesthood after the exile, complementing Zerubbabel's Davidic leadership with the priestly authority necessary for the temple's reconsecration.",
+        "pt": "Josué representa a restauração do sacerdócio legítimo após o exílio, complementando a liderança davídica de Zorobabel com a autoridade sacerdotal necessária para a reconsagração do templo."
+      },
+      "tipo": {
+        "es": "El liderazgo dual de Josué el sacerdote y Zorobabel el gobernador prefigura la unión de los oficios sacerdotal y real que se cumple perfectamente en Cristo, sacerdote y rey (He 7:1-3; Zac 6:12-13).",
+        "en": "The dual leadership of Joshua the priest and Zerubbabel the governor prefigures the union of the priestly and royal offices perfectly fulfilled in Christ, priest and king (Heb 7:1-3; Zech 6:12-13).",
+        "pt": "A liderança dupla de Josué, o sacerdote, e Zorobabel, o governador, prefigura a união dos ofícios sacerdotal e real que se cumpre perfeitamente em Cristo, sacerdote e rei (Hb 7:1-3; Zc 6:12-13)."
+      },
+      "caracterMoral": {
+        "es": "Obediente y fiel en su respuesta inmediata al llamado profético, liderando junto a Zorobabel la restauración de la adoración correcta.",
+        "en": "Obedient and faithful in his immediate response to the prophetic call, leading alongside Zerubbabel the restoration of right worship.",
+        "pt": "Obediente e fiel em sua resposta imediata ao chamado profético, liderando junto com Zorobabel a restauração da adoração correta."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Josué aparece consistentemente junto a Zorobabel como codestinatario de los oráculos de Hageo, compartiendo el liderazgo del remanente en la obra de reconstrucción.",
+          "en": "Joshua consistently appears alongside Zerubbabel as a co-recipient of Haggai's oracles, sharing leadership of the remnant in the work of reconstruction.",
+          "pt": "Josué aparece consistentemente junto com Zorobabel como codestinatário dos oráculos de Ageu, compartilhando a liderança do remanescente na obra de reconstrução."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Hag 1:1",
+          "Hag 1:14",
+          "Hag 2:4"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Josué, hijo de Josadac, es identificado en Esdras y Zacarías como el primer sumo sacerdote post-exílico, descendiente de la línea sacerdotal aarónica que sobrevivió el exilio babilónico.",
+          "en": "Joshua, son of Jehozadak, is identified in Ezra and Zechariah as the first post-exilic high priest, a descendant of the Aaronic priestly line that survived the Babylonian exile.",
+          "pt": "Josué, filho de Jeozadaque, é identificado em Esdras e Zacarias como o primeiro sumo sacerdote pós-exílico, descendente da linhagem sacerdotal araônica que sobreviveu ao exílio babilônico."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 2000,
+            "editorial": "Westminster John Knox Press",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Restauración del sacerdocio post-exílico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "La identificación de Josué como sumo sacerdote post-exílico es consistente con el registro paralelo de Esdras 3:2 y Zacarías 3:1, que documentan su liderazgo religioso durante este mismo período.",
+          "en": "The identification of Joshua as post-exilic high priest is consistent with the parallel record in Ezra 3:2 and Zechariah 3:1, which document his religious leadership during this same period.",
+          "pt": "A identificação de Josué como sumo sacerdote pós-exílico é consistente com o registro paralelo de Esdras 3:2 e Zacarias 3:1, que documentam sua liderança religiosa durante esse mesmo período."
+        }
+      },
+      "versiculosAsociados": [
+        "Hag 1:1",
+        "Hag 1:12",
+        "Hag 2:4"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Esd",
+        "Zac"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Josué no es mencionado directamente en el Nuevo Testamento, aunque su función sacerdotal junto al liderazgo real de Zorobabel anticipa la unión de los oficios de rey y sacerdote cumplida en Cristo (He 7).",
+        "en": "Joshua is not directly mentioned in the New Testament, though his priestly function alongside Zerubbabel's royal leadership anticipates the union of the offices of king and priest fulfilled in Christ (Heb 7).",
+        "pt": "Josué não é mencionado diretamente no Novo Testamento, embora sua função sacerdotal junto com a liderança real de Zorobabel antecipe a união dos ofícios de rei e sacerdote cumprida em Cristo (Hb 7)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Pacto"
+      },
+      "resumen": {
+        "es": "Hageo culmina con la promesa personal a Zorobabel de que Dios lo hará «como anillo de sellar» (Hag 2:23), revirtiendo explícitamente la maldición pronunciada sobre su antepasado Jeconías (Jer 22:24) y restaurando la fidelidad de Dios al pacto davídico pese al juicio del exilio.",
+        "en": "Haggai culminates with the personal promise to Zerubbabel that God will make him \"like a signet ring\" (Hag 2:23), explicitly reversing the curse pronounced on his ancestor Jeconiah (Jer 22:24) and restoring God's faithfulness to the Davidic covenant despite the judgment of exile.",
+        "pt": "Ageu culmina com a promessa pessoal a Zorobabel de que Deus o fará «como um anel de selar» (Ag 2:23), revertendo explicitamente a maldição pronunciada sobre seu antepassado Joaquim (Jr 22:24) e restaurando a fidelidade de Deus ao pacto davídico apesar do juízo do exílio."
+      },
+      "pasajes": [
+        "Hag 1:14",
+        "Hag 2:4",
+        "Hag 2:23"
+      ],
+      "ensenanza": {
+        "es": "Dios estimula el espíritu de los líderes davídicos y sacerdotales para reanudar la obra de pacto · La promesa «yo estoy con vosotros» confirma la presencia continua de Dios con su pueblo del pacto · Zorobabel es escogido personalmente como anillo de sellar, revirtiendo la maldición sobre su linaje",
+        "en": "God stirs up the spirit of the Davidic and priestly leaders to resume the covenant work · The promise \"I am with you\" confirms God's continued presence with his covenant people · Zerubbabel is personally chosen as a signet ring, reversing the curse on his lineage",
+        "pt": "Deus desperta o espírito dos líderes davídicos e sacerdotais para retomar a obra de pacto · A promessa «eu sou convosco» confirma a presença contínua de Deus com seu povo do pacto · Zorobabel é escolhido pessoalmente como anel de selar, revertendo a maldição sobre sua linhagem"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada del pacto ve en la restauración de Zorobabel una confirmación de que las promesas davídicas incondicionales de 2S 7 sobreviven incluso al juicio más severo del exilio, preservando la línea mesiánica hasta su cumplimiento definitivo en Cristo.",
+        "en": "Reformed covenant theology sees in Zerubbabel's restoration a confirmation that the unconditional Davidic promises of 2Sam 7 survive even the severest judgment of exile, preserving the messianic line until its definitive fulfillment in Christ.",
+        "pt": "A teologia reformada do pacto vê na restauração de Zorobabel uma confirmação de que as promessas davídicas incondicionais de 2Sm 7 sobrevivem até mesmo ao juízo mais severo do exílio, preservando a linhagem messiânica até seu cumprimento definitivo em Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Providencia",
+        "en": "Providence",
+        "pt": "Providência"
+      },
+      "resumen": {
+        "es": "Hageo vincula directamente la escasez agrícola y la pobreza económica del remanente con su descuido del templo —«sembráis mucho, y recogéis poco» (Hag 1:6)— y promete bendición providencial «desde este día en adelante» (Hag 2:19) una vez reanudada la obra, demostrando el gobierno soberano de Dios sobre las circunstancias materiales de su pueblo.",
+        "en": "Haggai directly links the remnant's agricultural scarcity and economic poverty to their neglect of the temple — \"you have sown much, and harvested little\" (Hag 1:6) — and promises providential blessing \"from this day on\" (Hag 2:19) once the work resumes, demonstrating God's sovereign governance over his people's material circumstances.",
+        "pt": "Ageu vincula diretamente a escassez agrícola e a pobreza econômica do remanescente à sua negligência do templo — «semeais muito, e recolheis pouco» (Ag 1:6) — e promete bênção providencial «desde este dia em diante» (Ag 2:19) uma vez retomada a obra, demonstrando o governo soberano de Deus sobre as circunstâncias materiais de seu povo."
+      },
+      "pasajes": [
+        "Hag 1:6",
+        "Hag 1:9",
+        "Hag 2:19"
+      ],
+      "ensenanza": {
+        "es": "La escasez económica del pueblo es interpretada como consecuencia providencial directa del descuido del templo · Dios sopla sobre las cosechas para reducirlas cuando su casa es descuidada · La bendición providencial se restaura desde el día mismo en que se reanuda la obediencia",
+        "en": "The people's economic scarcity is interpreted as a direct providential consequence of temple neglect · God blows away the harvests to diminish them when his house is neglected · Providential blessing is restored from the very day obedience resumes",
+        "pt": "A escassez econômica do povo é interpretada como consequência providencial direta da negligência do templo · Deus sopra sobre as colheitas para reduzi-las quando sua casa é negligenciada · A bênção providencial é restaurada desde o próprio dia em que a obediência é retomada"
+      },
+      "distintivaReformada": {
+        "es": "La doctrina reformada de la providencia ve en Hageo una ilustración concreta de las bendiciones y maldiciones de pacto de Dt 28, mostrando que la prosperidad material del pueblo de Dios está entretejida con su fidelidad en la adoración correcta.",
+        "en": "Reformed providence doctrine sees in Haggai a concrete illustration of the covenant blessings and curses of Deut 28, showing that the material prosperity of God's people is interwoven with their faithfulness in right worship.",
+        "pt": "A doutrina reformada da providência vê em Ageu uma ilustração concreta das bênçãos e maldições de pacto de Dt 28, mostrando que a prosperidade material do povo de Deus está entrelaçada com sua fidelidade na adoração correta."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Eclesiología",
+        "en": "Ecclesiology",
+        "pt": "Eclesiologia"
+      },
+      "resumen": {
+        "es": "Hageo establece que el templo, como lugar de la presencia de Dios entre su pueblo, merece prioridad sobre la comodidad personal —«¿es acaso tiempo para que vosotros habitéis en vuestras casas artesonadas, mientras esta casa está en ruinas?» (Hag 1:4)—, y que su valor no depende de la apariencia externa comparada con el templo de Salomón sino de la presencia divina que lo habita.",
+        "en": "Haggai establishes that the temple, as the place of God's presence among his people, deserves priority over personal comfort — \"is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?\" (Hag 1:4) — and that its value does not depend on external appearance compared to Solomon's temple but on the divine presence that indwells it.",
+        "pt": "Ageu estabelece que o templo, como lugar da presença de Deus entre seu povo, merece prioridade sobre o conforto pessoal — «acaso é tempo de vós habitardes nas vossas casas forradas, e esta casa ficar deserta?» (Ag 1:4) —, e que seu valor não depende da aparência externa comparada ao templo de Salomão, mas da presença divina que o habita."
+      },
+      "pasajes": [
+        "Hag 1:4",
+        "Hag 2:3",
+        "Hag 2:9"
+      ],
+      "ensenanza": {
+        "es": "La casa de Dios merece prioridad práctica sobre la comodidad personal del pueblo · La comparación con la gloria anterior no debe desalentar sino motivar la fidelidad presente · La gloria verdadera del lugar de adoración reside en la presencia de Dios, no en su apariencia física",
+        "en": "The house of God deserves practical priority over the people's personal comfort · Comparison with former glory should not discourage but motivate present faithfulness · The true glory of the place of worship resides in God's presence, not its physical appearance",
+        "pt": "A casa de Deus merece prioridade prática sobre o conforto pessoal do povo · A comparação com a glória anterior não deve desanimar, mas motivar a fidelidade presente · A verdadeira glória do lugar de adoração reside na presença de Deus, não em sua aparência física"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada aplica el principio de Hageo —la prioridad de la adoración correcta sobre la comodidad material— a la iglesia neotestamentaria, insistiendo en que la gloria de la congregación reside en la presencia de Cristo entre ella, no en su tamaño ni en su esplendor externo.",
+        "en": "The Reformed tradition applies Haggai's principle — the priority of right worship over material comfort — to the New Testament church, insisting that the congregation's glory resides in Christ's presence among it, not in its size or external splendor.",
+        "pt": "A tradição reformada aplica o princípio de Ageu — a prioridade da adoração correta sobre o conforto material — à igreja neotestamentária, insistindo que a glória da congregação reside na presença de Cristo entre ela, não em seu tamanho nem em seu esplendor externo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Hageo anuncia que Dios «haré temblar los cielos y la tierra, el mar y la tierra seca» y «a todas las naciones» (Hag 2:6-7,21-22), un lenguaje de sacudimiento cósmico y derrocamiento de reinos que Hebreos cita explícitamente como anticipo del juicio final y la consumación del reino inconmovible.",
+        "en": "Haggai announces that God \"will shake the heavens and the earth, and the sea and the dry land\" and \"all the nations\" (Hag 2:6-7,21-22), language of cosmic shaking and the overthrow of kingdoms that Hebrews explicitly cites as a foretaste of final judgment and the consummation of the unshakable kingdom.",
+        "pt": "Ageu anuncia que Deus «fará tremer os céus e a terra, o mar e a terra seca» e «todas as nações» (Ag 2:6-7,21-22), linguagem de abalar cósmico e derrubada de reinos que Hebreus cita explicitamente como antegozo do juízo final e da consumação do reino inabalável."
+      },
+      "pasajes": [
+        "Hag 2:6",
+        "Hag 2:7",
+        "Hag 2:21"
+      ],
+      "ensenanza": {
+        "es": "Dios promete sacudir tanto el cosmos como las naciones humanas en un tiempo señalado · Las riquezas de todas las naciones fluirán hacia la casa de Dios como resultado de ese sacudimiento · Los tronos de los reinos y su poder militar serán derribados ante la soberanía de Dios",
+        "en": "God promises to shake both the cosmos and human nations at an appointed time · The treasures of all nations will flow into God's house as a result of that shaking · The thrones of kingdoms and their military power will be overthrown before God's sovereignty",
+        "pt": "Deus promete abalar tanto o cosmos quanto as nações humanas em um tempo determinado · As riquezas de todas as nações fluirão para a casa de Deus como resultado desse abalar · Os tronos dos reinos e seu poder militar serão derrubados diante da soberania de Deus"
+      },
+      "distintivaReformada": {
+        "es": "La tradición reformada, siguiendo la lectura de He 12:26-27, ve en el sacudimiento cósmico de Hageo un patrón escatológico de dos etapas: cumplido inauguralmente en el establecimiento del reino de Cristo y consumado plenamente cuando todo lo movible sea removido y solo permanezca lo inconmovible.",
+        "en": "The Reformed tradition, following the reading of Heb 12:26-27, sees in Haggai's cosmic shaking a two-stage eschatological pattern: inaugurally fulfilled in the establishment of Christ's kingdom and fully consummated when everything movable is removed and only the unshakable remains.",
+        "pt": "A tradição reformada, seguindo a leitura de Hb 12:26-27, vê no abalar cósmico de Ageu um padrão escatológico de duas etapas: cumprido inauguralmente no estabelecimento do reino de Cristo e plenamente consumado quando tudo o que é móvel for removido e só permanecer o inabalável."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 7",
+      "titulo": {
+        "es": "Del Pacto de Dios con el Hombre",
+        "en": "Of God's Covenant with Man",
+        "pt": "Do Pacto de Deus com o Homem"
+      },
+      "doctrinas": [
+        "Pacto",
+        "Elección"
+      ],
+      "resumen": {
+        "es": "El capítulo 7 explica cómo Dios se ha dignado expresar su voluntad mediante pactos con su pueblo. La promesa personal a Zorobabel de que Dios lo hará «como anillo de sellar» (Hag 2:23) es una expresión concreta de la fidelidad de Dios a su pacto davídico, revirtiendo la maldición sobre Jeconías y preservando la línea mesiánica.",
+        "en": "Chapter 7 explains how God has been pleased to express his will by way of covenant with his people. The personal promise to Zerubbabel that God will make him \"like a signet ring\" (Hag 2:23) is a concrete expression of God's faithfulness to his Davidic covenant, reversing the curse on Jeconiah and preserving the messianic line.",
+        "pt": "O capítulo 7 explica como Deus se agradou de expressar sua vontade por meio de pactos com seu povo. A promessa pessoal a Zorobabel de que Deus o fará «como um anel de selar» (Ag 2:23) é uma expressão concreta da fidelidade de Deus ao seu pacto davídico, revertendo a maldição sobre Joaquim e preservando a linhagem messiânica."
+      },
+      "genesis": [
+        "Hag 2:23"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-7"
+    },
+    {
+      "cap": "Cap. 21",
+      "titulo": {
+        "es": "De la Adoración Religiosa",
+        "en": "Of Religious Worship",
+        "pt": "Da Adoração Religiosa"
+      },
+      "doctrinas": [
+        "Adoración",
+        "Eclesiología"
+      ],
+      "resumen": {
+        "es": "El capítulo 21 confiesa que Dios ha de ser adorado según su propia voluntad revelada, y que tal adoración merece la prioridad y reverencia debidas. La reprensión de Hageo por priorizar las casas propias sobre la casa de Dios (Hag 1:4,9) ilustra directamente esta doctrina de la prioridad práctica de la adoración correcta.",
+        "en": "Chapter 21 confesses that God is to be worshiped according to his own revealed will, and that such worship deserves due priority and reverence. Haggai's rebuke for prioritizing one's own houses over God's house (Hag 1:4,9) directly illustrates this doctrine of the practical priority of right worship.",
+        "pt": "O capítulo 21 confessa que Deus deve ser adorado segundo sua própria vontade revelada, e que tal adoração merece a devida prioridade e reverência. A repreensão de Ageu por priorizar as próprias casas sobre a casa de Deus (Ag 1:4,9) ilustra diretamente essa doutrina da prioridade prática da adoração correta."
+      },
+      "genesis": [
+        "Hag 1:4",
+        "Hag 1:9"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-21"
+    },
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio Final"
+      ],
+      "resumen": {
+        "es": "El capítulo 33 confiesa que Dios ha establecido un día en que juzgará al mundo con justicia. La promesa de Hageo de que Dios «haré temblar los cielos y la tierra» y «a todas las naciones» (Hag 2:6-7,21-22) —citada explícitamente en He 12:26-27— anticipa esta doctrina del sacudimiento final que precede a la consumación del reino inconmovible.",
+        "en": "Chapter 33 confesses that God has appointed a day in which he will judge the world in righteousness. Haggai's promise that God \"will shake the heavens and the earth\" and \"all the nations\" (Hag 2:6-7,21-22) — explicitly cited in Heb 12:26-27 — anticipates this doctrine of the final shaking that precedes the consummation of the unshakable kingdom.",
+        "pt": "O capítulo 33 confessa que Deus estabeleceu um dia em que julgará o mundo com justiça. A promessa de Ageu de que Deus «fará tremer os céus e a terra» e «todas as nações» (Ag 2:6-7,21-22) — citada explicitamente em Hb 12:26-27 — antecipa essa doutrina do abalar final que precede a consumação do reino inabalável."
+      },
+      "genesis": [
+        "Hag 2:6",
+        "Hag 2:21"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Hag 1:4",
+      "es": "¿Es acaso tiempo para que vosotros habitéis en vuestras casas artesonadas, mientras esta casa está en ruinas?",
+      "en": "Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?",
+      "pt": "Acaso é tempo de vós habitardes nas vossas casas forradas, e esta casa ficar deserta?",
+      "nota": {
+        "es": "La pregunta retórica que abre el libro y establece su tema central: la inversión de prioridades que sacrifica la casa de Dios en favor de la comodidad personal.",
+        "en": "The rhetorical question that opens the book and establishes its central theme: the inversion of priorities that sacrifices God's house for personal comfort.",
+        "pt": "A pergunta retórica que abre o livro e estabelece seu tema central: a inversão de prioridades que sacrifica a casa de Deus em favor do conforto pessoal."
+      }
+    },
+    {
+      "ref": "Hag 1:13",
+      "es": "Entonces Hageo, mensajero del SEÑOR, habló por encargo del SEÑOR al pueblo, diciendo: «Yo estoy con vosotros», declara el SEÑOR.",
+      "en": "Then Haggai, the messenger of the LORD, spoke to the people with the LORD's message, \"I am with you, declares the LORD.\"",
+      "pt": "Então falou Ageu, embaixador do SENHOR, na embaixada do SENHOR ao povo, dizendo: Eu sou convosco, diz o SENHOR.",
+      "nota": {
+        "es": "La confirmación inmediata de la presencia divina en respuesta a la obediencia recién iniciada del pueblo, apenas unos versículos después de la reprensión inicial.",
+        "en": "The immediate confirmation of divine presence in response to the people's newly begun obedience, just a few verses after the initial rebuke.",
+        "pt": "A confirmação imediata da presença divina em resposta à obediência recém-iniciada do povo, poucos versículos após a repreensão inicial."
+      }
+    },
+    {
+      "ref": "Hag 2:6",
+      "es": "Porque así dice el SEÑOR de los ejércitos: 'Una vez más, dentro de poco, yo haré temblar los cielos y la tierra, el mar y la tierra seca.'",
+      "en": "For thus says the LORD of hosts: Yet once more, in a little while, I will shake the heavens and the earth and the sea and the dry land.",
+      "pt": "Porque assim diz o SENHOR dos Exércitos: Ainda uma vez, daqui a pouco, farei tremer os céus e a terra, o mar e a terra seca.",
+      "nota": {
+        "es": "Citado explícitamente en He 12:26-27 como anticipo del juicio final y la consumación del reino inconmovible que los creyentes reciben en Cristo.",
+        "en": "Explicitly cited in Heb 12:26-27 as a foretaste of final judgment and the consummation of the unshakable kingdom believers receive in Christ.",
+        "pt": "Citado explicitamente em Hb 12:26-27 como antegozo do juízo final e da consumação do reino inabalável que os crentes recebem em Cristo."
+      }
+    },
+    {
+      "ref": "Hag 2:9",
+      "es": "La gloria postrera de esta casa será mayor que la primera, dice el SEÑOR de los ejércitos, y en este lugar daré paz, declara el SEÑOR de los ejércitos.",
+      "en": "The latter glory of this house shall be greater than the former, says the LORD of hosts. And in this place I will give peace, declares the LORD of hosts.",
+      "pt": "Maior será a glória desta última casa do que a da primeira, diz o SENHOR dos Exércitos; e neste lugar darei a paz, diz o SENHOR dos Exércitos.",
+      "nota": {
+        "es": "Una promesa que trasciende con creces la reconstrucción física del segundo templo, cumplida plenamente cuando Cristo mismo entra a ese mismo templo y se revela como la gloria definitiva de Dios entre los hombres.",
+        "en": "A promise that far transcends the second temple's physical reconstruction, fully fulfilled when Christ himself enters that very temple and reveals himself as God's definitive glory among men.",
+        "pt": "Uma promessa que transcende em muito a reconstrução física do segundo templo, plenamente cumprida quando o próprio Cristo entra nesse mesmo templo e se revela como a glória definitiva de Deus entre os homens."
+      }
+    },
+    {
+      "ref": "Hag 2:23",
+      "es": "En aquel día, declara el SEÑOR de los ejércitos, te tomaré, oh Zorobabel, hijo de Salatiel, siervo mío, dice el SEÑOR, y te pondré como anillo de sellar, porque yo te he escogido, declara el SEÑOR de los ejércitos.",
+      "en": "On that day, declares the LORD of hosts, I will take you, O Zerubbabel my servant, the son of Shealtiel, declares the LORD, and make you like a signet ring, for I have chosen you, declares the LORD of hosts.",
+      "pt": "Naquele dia, diz o SENHOR dos Exércitos, tomar-te-ei, ó Zorobabel, filho de Sealtiel, servo meu, diz o SENHOR, e te farei como um anel de selar; porque te escolhi, diz o SENHOR dos Exércitos.",
+      "nota": {
+        "es": "El versículo final del libro revierte deliberadamente la maldición de Jer 22:24 sobre Jeconías, restaurando la esperanza mesiánica davídica que culminará en la genealogía de Cristo (Mt 1:12-13).",
+        "en": "The book's final verse deliberately reverses the curse of Jer 22:24 on Jeconiah, restoring the Davidic messianic hope that will culminate in Christ's genealogy (Matt 1:12-13).",
+        "pt": "O versículo final do livro reverte deliberadamente a maldição de Jr 22:24 sobre Joaquim, restaurando a esperança messiânica davídica que culminará na genealogia de Cristo (Mt 1:12-13)."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "La lectura reformada de Hageo resiste tanto una lectura puramente pragmática —el libro como simple manual de gestión de proyectos religiosos— como una que ignore su peso teológico concreto sobre las prioridades de adoración y la esperanza mesiánica. En cambio, ve en la precisión cronológica sin paralelo del libro una confirmación de que Dios actúa en momentos históricos específicos y verificables, y en la restauración de Zorobabel la prueba tangible de que ninguna maldición de pacto, ni siquiera la pronunciada sobre Jeconías, puede finalmente frustrar el propósito redentor de Dios de preservar la línea davídica hasta Cristo.",
+    "en": "The Reformed reading of Haggai resists both a purely pragmatic reading — the book as a simple manual for religious project management — and one that ignores its concrete theological weight regarding worship priorities and messianic hope. Instead, it sees in the book's unparalleled chronological precision a confirmation that God acts in specific, verifiable historical moments, and in Zerubbabel's restoration the tangible proof that no covenant curse, not even the one pronounced on Jeconiah, can ultimately thwart God's redemptive purpose of preserving the Davidic line until Christ.",
+    "pt": "A leitura reformada de Ageu resiste tanto a uma leitura puramente pragmática — o livro como simples manual de gestão de projetos religiosos — quanto a uma que ignore seu peso teológico concreto sobre as prioridades de adoração e a esperança messiânica. Em vez disso, vê na precisão cronológica sem paralelo do livro uma confirmação de que Deus age em momentos históricos específicos e verificáveis, e na restauração de Zorobabel a prova tangível de que nenhuma maldição de pacto, nem mesmo a pronunciada sobre Joaquim, pode finalmente frustrar o propósito redentor de Deus de preservar a linhagem davídica até Cristo."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "La Reprensión y la Obediencia Inmediata",
+        "en": "The Rebuke and Immediate Obedience",
+        "pt": "A Repreensão e a Obediência Imediata"
+      },
+      "descripcion": {
+        "es": "El primer día del sexto mes del segundo año de Darío, Hageo reprende directamente a Zorobabel, Josué y el pueblo: mientras ellos habitan en «casas artesonadas», la casa del SEÑOR permanece «en ruinas» dieciséis años después del regreso (Hag 1:1-4). El profeta interpreta las cosechas fallidas, la escasez de alimento y bebida, y la ropa que no calienta como consecuencia directa de esta negligencia: «sembráis mucho, y recogéis poco» (Hag 1:5-11). Sorprendentemente, la respuesta es inmediata: Zorobabel, Josué y todo el remanente «obedecieron la voz del SEÑOR» y temieron delante de Él (Hag 1:12), Dios confirma de inmediato «Yo estoy con vosotros» (Hag 1:13), y apenas veintitrés días después, el día veinticuatro del mismo mes, el pueblo comienza la obra (Hag 1:14-15).",
+        "en": "On the first day of the sixth month of Darius's second year, Haggai directly rebukes Zerubbabel, Joshua, and the people: while they dwell in \"paneled houses,\" the LORD's house remains \"in ruins\" sixteen years after the return (Hag 1:1-4). The prophet interprets failed harvests, scarcity of food and drink, and clothing that does not warm as a direct consequence of this negligence: \"you have sown much, and harvested little\" (Hag 1:5-11). Surprisingly, the response is immediate: Zerubbabel, Joshua, and the whole remnant \"obeyed the voice of the LORD\" and feared before him (Hag 1:12), God immediately confirms \"I am with you\" (Hag 1:13), and just twenty-three days later, on the twenty-fourth day of the same month, the people begin the work (Hag 1:14-15).",
+        "pt": "No primeiro dia do sexto mês do segundo ano de Dario, Ageu repreende diretamente Zorobabel, Josué e o povo: enquanto eles habitam em «casas forradas», a casa do SENHOR permanece «deserta» dezesseis anos depois do retorno (Ag 1:1-4). O profeta interpreta as colheitas fracassadas, a escassez de comida e bebida, e a roupa que não aquece como consequência direta dessa negligência: «semeais muito, e recolheis pouco» (Ag 1:5-11). Surpreendentemente, a resposta é imediata: Zorobabel, Josué e todo o remanescente «obedeceram à voz do SENHOR» e temeram diante dele (Ag 1:12), Deus confirma de imediato «eu sou convosco» (Ag 1:13), e apenas vinte e três dias depois, no dia vinte e quatro do mesmo mês, o povo começa a obra (Ag 1:14-15)."
+      },
+      "eventoClave": {
+        "es": "La obediencia inmediata del remanente a la voz del SEÑOR, confirmada por la promesa divina «Yo estoy con vosotros» (Hag 1:12-13), en apenas unos días tras la reprensión inicial.",
+        "en": "The remnant's immediate obedience to the voice of the LORD, confirmed by the divine promise \"I am with you\" (Hag 1:12-13), just days after the initial rebuke.",
+        "pt": "A obediência imediata do remanescente à voz do SENHOR, confirmada pela promessa divina «eu sou convosco» (Ag 1:12-13), poucos dias após a repreensão inicial."
+      },
+      "versiculoClave": "Hag 1:13",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 6:33",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jesús enseña el mismo principio de prioridades que Hageo aplica al templo: buscar primero el reino de Dios antes que las necesidades materiales propias.",
+            "en": "Jesus teaches the same principle of priorities Haggai applies to the temple: seeking God's kingdom first, before one's own material needs.",
+            "pt": "Jesus ensina o mesmo princípio de prioridades que Ageu aplica ao templo: buscar primeiro o reino de Deus antes das próprias necessidades materiais."
+          }
+        }
+      ],
+      "era": "Post-exilio",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Templo/Tabernáculo": {
+            "es": "La reprensión completa del capítulo gira en torno al descuido de «esta casa» del SEÑOR (Hag 1:2,4,9), estableciendo la reconstrucción del templo como el tema dominante del oráculo inicial.",
+            "en": "The chapter's entire rebuke revolves around the neglect of the LORD's \"house\" (Hag 1:2,4,9), establishing the temple's reconstruction as the dominant theme of the opening oracle.",
+            "pt": "A repreensão completa do capítulo gira em torno da negligência da «casa» do SENHOR (Ag 1:2,4,9), estabelecendo a reconstrução do templo como o tema dominante do oráculo inicial."
+          }
+        },
+        "secundarios": [
+          {
+            "Caída/Pecado": {
+              "es": "La pregunta retórica «¿es acaso tiempo para que vosotros habitéis en vuestras casas artesonadas?» (Hag 1:4) expone el pecado de prioridades invertidas que antepone la comodidad propia a la casa de Dios.",
+              "en": "The rhetorical question \"is it a time for you yourselves to dwell in your paneled houses?\" (Hag 1:4) exposes the sin of inverted priorities that places personal comfort above God's house.",
+              "pt": "A pergunta retórica «acaso é tempo de vós habitardes nas vossas casas forradas?» (Ag 1:4) expõe o pecado de prioridades invertidas que antepõe o conforto próprio à casa de Deus."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "La Gloria Postrera de la Casa",
+        "en": "The Latter Glory of the House",
+        "pt": "A Glória Última da Casa"
+      },
+      "descripcion": {
+        "es": "El día veintiuno del séptimo mes, apenas semanas después de reanudada la obra, Dios se dirige a quienes recuerdan el esplendor del templo de Salomón y ahora ven este nuevo edificio «como nada» en comparación (Hag 2:1-3). El SEÑOR exhorta a Zorobabel, Josué y el pueblo a ser fuertes y trabajar, reafirmando «Yo estoy con vosotros» conforme al pacto hecho en el éxodo (Hag 2:4-5). Anuncia entonces que sacudirá los cielos, la tierra, el mar y la tierra seca, y a todas las naciones, de modo que las riquezas de las naciones fluirán a esta casa (Hag 2:6-8), culminando en la promesa central: «la gloria postrera de esta casa será mayor que la primera... y en este lugar daré paz» (Hag 2:9).",
+        "en": "On the twenty-first day of the seventh month, just weeks after the work resumed, God addresses those who remember Solomon's temple's splendor and now see this new building \"as nothing\" by comparison (Hag 2:1-3). The LORD exhorts Zerubbabel, Joshua, and the people to be strong and work, reaffirming \"I am with you\" according to the covenant made at the exodus (Hag 2:4-5). He then announces that he will shake the heavens, the earth, the sea, the dry land, and all nations, so that the treasures of the nations will flow into this house (Hag 2:6-8), culminating in the central promise: \"the latter glory of this house shall be greater than the former... and in this place I will give peace\" (Hag 2:9).",
+        "pt": "No dia vinte e um do sétimo mês, poucas semanas depois de retomada a obra, Deus se dirige aos que se lembram do esplendor do templo de Salomão e agora veem este novo edifício «como nada» em comparação (Ag 2:1-3). O SENHOR exorta Zorobabel, Josué e o povo a serem fortes e trabalharem, reafirmando «eu sou convosco» conforme o pacto feito no êxodo (Ag 2:4-5). Anuncia então que abalará os céus, a terra, o mar e a terra seca, e todas as nações, de modo que as riquezas das nações fluirão para esta casa (Ag 2:6-8), culminando na promessa central: «a glória última desta casa será maior do que a da primeira... e neste lugar darei a paz» (Ag 2:9)."
+      },
+      "eventoClave": {
+        "es": "La promesa de que «la gloria postrera de esta casa será mayor que la primera» (Hag 2:9), transformando la percepción de decepción del pueblo en esperanza escatológica.",
+        "en": "The promise that \"the latter glory of this house shall be greater than the former\" (Hag 2:9), transforming the people's sense of disappointment into eschatological hope.",
+        "pt": "A promessa de que «a glória última desta casa será maior do que a da primeira» (Ag 2:9), transformando a sensação de decepção do povo em esperança escatológica."
+      },
+      "versiculoClave": "Hag 2:9",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 12:26",
+          "tipo": "cita",
+          "nota": {
+            "es": "Hebreos cita directamente Hag 2:6 sobre el sacudimiento de los cielos y la tierra como anticipo del juicio final y la recepción del reino inconmovible.",
+            "en": "Hebrews directly quotes Hag 2:6 concerning the shaking of the heavens and the earth as a foretaste of final judgment and receiving the unshakable kingdom.",
+            "pt": "Hebreus cita diretamente Ag 2:6 sobre o abalar dos céus e da terra como antegozo do juízo final e do recebimento do reino inabalável."
+          }
+        },
+        {
+          "ref": "Jn 2:19",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "La promesa de una gloria postrera mayor se cumple cuando Cristo mismo, «algo mayor que el templo», enseña y ministra dentro de este segundo templo.",
+            "en": "The promise of a greater latter glory is fulfilled when Christ himself, \"something greater than the temple,\" teaches and ministers within this second temple.",
+            "pt": "A promessa de uma glória última maior se cumpre quando o próprio Cristo, «algo maior do que o templo», ensina e ministra dentro deste segundo templo."
+          }
+        }
+      ],
+      "era": "Post-exilio",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Gloria de Dios": {
+            "es": "La promesa central de que «la gloria postrera de esta casa será mayor que la primera» (Hag 2:9) establece la gloria divina, no la apariencia material, como el criterio verdadero de valor del templo.",
+            "en": "The central promise that \"the latter glory of this house shall be greater than the former\" (Hag 2:9) establishes divine glory, not material appearance, as the temple's true criterion of value.",
+            "pt": "A promessa central de que «a glória última desta casa será maior do que a da primeira» (Ag 2:9) estabelece a glória divina, não a aparência material, como o verdadeiro critério de valor do templo."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "El sacudimiento de las naciones y la afluencia de sus riquezas hacia la casa de Dios (Hag 2:6-8) establece una expectativa cuyo cumplimiento se despliega en el resto de la revelación bíblica.",
+              "en": "The shaking of the nations and the inflow of their treasures into God's house (Hag 2:6-8) establishes an expectation whose fulfillment unfolds throughout the rest of biblical revelation.",
+              "pt": "O abalar das nações e o afluxo de suas riquezas para a casa de Deus (Ag 2:6-8) estabelece uma expectativa cujo cumprimento se desdobra no restante da revelação bíblica."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "La Lección de la Santidad y la Bendición Prometida",
+        "en": "The Lesson of Holiness and the Promised Blessing",
+        "pt": "A Lição da Santidade e a Bênção Prometida"
+      },
+      "descripcion": {
+        "es": "El día veinticuatro del noveno mes, Hageo formula a los sacerdotes una pregunta ritual: si carne santa toca otros alimentos, ¿los santifica? No. Pero si algo impuro los toca, ¿los contamina? Sí (Hag 2:10-13). El profeta aplica la lección directamente: «así es este pueblo... y así es todo lo que ofrecen allí: es inmundo» (Hag 2:14), pues su desobediencia previa contaminó incluso sus ofrendas correctas. Hageo entonces recuerda las cosechas fallidas de los años anteriores al reinicio de la obra —tizón, añublo y granizo que destruían el trabajo de sus manos (Hag 2:15-17)— y promete solemnemente: «consideren desde este día en adelante... desde este día os bendeciré» (Hag 2:18-19).",
+        "en": "On the twenty-fourth day of the ninth month, Haggai poses a ritual question to the priests: if holy meat touches other food, does it sanctify it? No. But if something unclean touches it, does it defile it? Yes (Hag 2:10-13). The prophet applies the lesson directly: \"so is this people... and so is every work of their hands... it is unclean\" (Hag 2:14), for their prior disobedience defiled even their correct offerings. Haggai then recalls the failed harvests of the years before the work resumed — blight, mildew, and hail that destroyed the work of their hands (Hag 2:15-17) — and solemnly promises: \"consider from this day onward... from this day on I will bless you\" (Hag 2:18-19).",
+        "pt": "No dia vinte e quatro do nono mês, Ageu formula aos sacerdotes uma pergunta ritual: se carne santa tocar outros alimentos, ela os santifica? Não. Mas se algo impuro os tocar, ele os contamina? Sim (Ag 2:10-13). O profeta aplica a lição diretamente: «assim é este povo... e assim é tudo o que ali oferecem: é imundo» (Ag 2:14), pois sua desobediência anterior contaminou até suas ofertas corretas. Ageu então recorda as colheitas fracassadas dos anos anteriores ao reinício da obra — ferrugem, mangra e granizo que destruíam a obra de suas mãos (Ag 2:15-17) — e promete solenemente: «considerai desde este dia em diante... desde este dia vos abençoarei» (Ag 2:18-19)."
+      },
+      "eventoClave": {
+        "es": "La lección ritual de que la contaminación se transmite con más facilidad que la santidad (Hag 2:12-13), explicando teológicamente por qué las ofrendas del pueblo habían sido inaceptables.",
+        "en": "The ritual lesson that defilement transmits more easily than holiness (Hag 2:12-13), theologically explaining why the people's offerings had been unacceptable.",
+        "pt": "A lição ritual de que a contaminação se transmite com mais facilidade do que a santidade (Ag 2:12-13), explicando teologicamente por que as ofertas do povo tinham sido inaceitáveis."
+      },
+      "versiculoClave": "Hag 2:19",
+      "referenciasRelacionadas": [
+        {
+          "ref": "1Co 5:6",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Pablo aplica un principio similar de contaminación contagiosa: «un poco de levadura leuda toda la masa», advirtiendo sobre el efecto corrosivo del pecado tolerado en la comunidad.",
+            "en": "Paul applies a similar principle of contagious defilement: \"a little leaven leavens the whole lump,\" warning of the corrosive effect of tolerated sin in the community.",
+            "pt": "Paulo aplica um princípio semelhante de contaminação contagiosa: «um pouco de fermento leveda toda a massa», advertindo sobre o efeito corrosivo do pecado tolerado na comunidade."
+          }
+        }
+      ],
+      "era": "Post-exilio",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Santidad": {
+            "es": "La pregunta ritual a los sacerdotes establece que la contaminación se transmite con facilidad mientras que la santidad no es contagiosa (Hag 2:12-13), explicando por qué las ofrendas del pueblo desobediente eran inmundas.",
+            "en": "The ritual question to the priests establishes that defilement transmits easily while holiness is not contagious (Hag 2:12-13), explaining why the disobedient people's offerings were unclean.",
+            "pt": "A pergunta ritual aos sacerdotes estabelece que a contaminação se transmite com facilidade, enquanto a santidade não é contagiosa (Ag 2:12-13), explicando por que as ofertas do povo desobediente eram imundas."
+          }
+        },
+        "secundarios": [
+          {
+            "Maldición": {
+              "es": "Hageo recuerda explícitamente el tizón, el añublo y el granizo que destruyeron las cosechas durante los años de negligencia (Hag 2:17), la maldición de pacto que precedió a la reanudación de la obra.",
+              "en": "Haggai explicitly recalls the blight, mildew, and hail that destroyed the harvests during the years of neglect (Hag 2:17), the covenant curse preceding the resumption of the work.",
+              "pt": "Ageu recorda explicitamente a ferrugem, a mangra e o granizo que destruíram as colheitas durante os anos de negligência (Ag 2:17), a maldição de pacto que precedeu a retomada da obra."
+            }
+          },
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La promesa de que «desde este día os bendeciré» (Hag 2:19) marca un punto de inflexión explícito entre la maldición pasada y la bendición futura ligada a la obediencia presente.",
+              "en": "The promise that \"from this day on I will bless you\" (Hag 2:19) marks an explicit turning point between past curse and future blessing tied to present obedience.",
+              "pt": "A promessa de que «desde este dia vos abençoarei» (Ag 2:19) marca um ponto de inflexão explícito entre a maldição passada e a bênção futura ligada à obediência presente."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Zorobabel, el Anillo de Sellar",
+        "en": "Zerubbabel, the Signet Ring",
+        "pt": "Zorobabel, o Anel de Selar"
+      },
+      "descripcion": {
+        "es": "El mismo día veinticuatro del noveno mes, Hageo recibe una segunda palabra dirigida exclusivamente a Zorobabel. Dios anuncia que sacudirá los cielos y la tierra, derribará los tronos de los reinos, destruirá la fuerza de los reinos de las naciones, y volcará carros y a quienes los conducen, con caballos y jinetes cayendo unos por la espada de otros (Hag 2:21-22). En ese contexto de derrocamiento de todo poder humano, Dios se dirige personalmente a «Zorobabel, hijo de Salatiel, siervo mío»: «te pondré como anillo de sellar, porque yo te he escogido» (Hag 2:23), revirtiendo directamente la maldición que Jeremías había pronunciado sobre Jeconías, abuelo de Zorobabel, generaciones antes.",
+        "en": "On that same twenty-fourth day of the ninth month, Haggai receives a second word addressed exclusively to Zerubbabel. God announces that he will shake the heavens and the earth, overthrow the thrones of kingdoms, destroy the strength of the kingdoms of the nations, and overthrow chariots and their riders, with horses and riders falling by the sword of one another (Hag 2:21-22). Within that context of the overthrow of all human power, God personally addresses \"Zerubbabel my servant, the son of Shealtiel\": \"I will make you like a signet ring, for I have chosen you\" (Hag 2:23), directly reversing the curse Jeremiah had pronounced on Jeconiah, Zerubbabel's grandfather, generations earlier.",
+        "pt": "No mesmo dia vinte e quatro do nono mês, Ageu recebe uma segunda palavra dirigida exclusivamente a Zorobabel. Deus anuncia que abalará os céus e a terra, derrubará os tronos dos reinos, destruirá a força dos reinos das nações, e derrubará carros e os que neles vão, com cavalos e cavaleiros caindo uns pela espada dos outros (Ag 2:21-22). Nesse contexto de derrubada de todo poder humano, Deus se dirige pessoalmente a «Zorobabel, filho de Sealtiel, servo meu»: «te farei como um anel de selar; porque te escolhi» (Ag 2:23), revertendo diretamente a maldição que Jeremias havia pronunciado sobre Joaquim, avô de Zorobabel, gerações antes."
+      },
+      "eventoClave": {
+        "es": "La reversión explícita de la maldición de Jer 22:24 sobre Jeconías mediante la promesa a Zorobabel de que será hecho como anillo de sellar, «porque yo te he escogido» (Hag 2:23).",
+        "en": "The explicit reversal of the curse of Jer 22:24 on Jeconiah through the promise to Zerubbabel that he will be made like a signet ring, \"for I have chosen you\" (Hag 2:23).",
+        "pt": "A reversão explícita da maldição de Jr 22:24 sobre Joaquim mediante a promessa a Zorobabel de que será feito como um anel de selar, «porque te escolhi» (Ag 2:23)."
+      },
+      "versiculoClave": "Hag 2:23",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Jer 22:24",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jeremías había declarado que aunque Jeconías fuera el anillo de sellar en la mano derecha de Dios, él lo arrancaría; Hageo invierte deliberadamente esta imagen, aplicándola ahora en sentido positivo a Zorobabel.",
+            "en": "Jeremiah had declared that even if Jeconiah were the signet ring on God's right hand, he would tear him off; Haggai deliberately inverts this image, now applying it positively to Zerubbabel.",
+            "pt": "Jeremias havia declarado que ainda que Joaquim fosse o anel de selar na mão direita de Deus, ele o arrancaria; Ageu inverte deliberadamente essa imagem, aplicando-a agora em sentido positivo a Zorobabel."
+          }
+        },
+        {
+          "ref": "Mt 1:12",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Zorobabel aparece explícitamente en la genealogía de Jesús, confirmando que la restauración mesiánica prometida en Hag 2:23 se integra en el linaje que culmina en Cristo.",
+            "en": "Zerubbabel appears explicitly in Jesus's genealogy, confirming that the messianic restoration promised in Hag 2:23 is integrated into the line culminating in Christ.",
+            "pt": "Zorobabel aparece explicitamente na genealogia de Jesus, confirmando que a restauração messiânica prometida em Ag 2:23 se integra na linhagem que culmina em Cristo."
+          }
+        }
+      ],
+      "era": "Post-exilio",
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Realeza/Trono de David": {
+            "es": "Dios derriba los tronos de las naciones (Hag 2:22) precisamente para exaltar a Zorobabel, descendiente davídico, como su anillo de sellar (Hag 2:23), restaurando la realeza legítima frente a los reinos derrocados.",
+            "en": "God overthrows the thrones of the nations (Hag 2:22) precisely to exalt Zerubbabel, a Davidic descendant, as his signet ring (Hag 2:23), restoring legitimate kingship over against overthrown kingdoms.",
+            "pt": "Deus derruba os tronos das nações (Ag 2:22) precisamente para exaltar Zorobabel, descendente davídico, como seu anel de selar (Ag 2:23), restaurando a realeza legítima diante dos reinos derrubados."
+          }
+        },
+        "secundarios": [
+          {
+            "Elección/Llamado": {
+              "es": "La razón que Dios da para escoger a Zorobabel es explícitamente su propia elección soberana: «porque yo te he escogido» (Hag 2:23), sin mérito propio invocado.",
+              "en": "The reason God gives for choosing Zerubbabel is explicitly his own sovereign election: \"for I have chosen you\" (Hag 2:23), with no personal merit invoked.",
+              "pt": "A razão que Deus dá para escolher Zorobabel é explicitamente sua própria eleição soberana: «porque te escolhi» (Ag 2:23), sem mérito próprio invocado."
+            }
+          },
+          {
+            "Mesías/Ungido": {
+              "es": "La restauración de Zorobabel como anillo de sellar preserva la línea davídica de la que surgirá el Mesías, conectando este oráculo directamente con la esperanza mesiánica más amplia del canon.",
+              "en": "Zerubbabel's restoration as signet ring preserves the Davidic line from which the Messiah will arise, directly connecting this oracle to the canon's broader messianic hope.",
+              "pt": "A restauração de Zorobabel como anel de selar preserva a linhagem davídica da qual surgirá o Messias, conectando este oráculo diretamente com a esperança messiânica mais ampla do cânon."
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis, Wayne Grudem (eds.)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico",
+          "Teología"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context",
+          "Theology"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico",
+          "Teologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos y reformados de renombre internacional.",
+          "en": "The ESV Study Bible is an editorial project of Crossway directed by Lane T. Dennis, with Wayne Grudem as general theological editor, bringing together more than 90 internationally recognized evangelical and Reformed scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos e reformados de renome internacional."
+        },
+        "metodo": {
+          "es": "Combina notas de estudio verso por verso con ensayos temáticos, mapas y cronologías, todo dentro de un marco teológico evangélico reformado que enfatiza la inerrancia bíblica y la lectura redentora-histórica del canon.",
+          "en": "It combines verse-by-verse study notes with thematic essays, maps, and chronologies, all within an evangelical Reformed theological framework emphasizing biblical inerrancy and a redemptive-historical reading of the canon.",
+          "pt": "Combina notas de estudo verso por verso com ensaios temáticos, mapas e cronologias, tudo dentro de um quadro teológico evangélico reformado que enfatiza a inerrância bíblica e a leitura redentora-histórica do cânon."
+        },
+        "aportacion": {
+          "es": "Proporcionó el marco introductorio, la cronología exacta del segundo año de Darío I, y el bosquejo estructural de los cuatro oráculos utilizados para establecer el contexto de Hageo en este registro.",
+          "en": "It provided the introductory framework, the exact chronology of Darius I's second year, and the structural outline of the four oracles used to establish Haggai's context in this record.",
+          "pt": "Forneceu o quadro introdutório, a cronologia exata do segundo ano de Dario I, e o esboço estrutural dos quatro oráculos utilizados para estabelecer o contexto de Ageu neste registro."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Global Study Bible (2012)"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Notas teológicas",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theological notes",
+          "Reformed distinctives"
+        ],
+        "pt": [
+          "Notas teológicas",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939-2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX, conocido por su defensa de la santidad de Dios y la soberanía divina.",
+          "en": "R.C. Sproul (1939-2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices of 20th-century Reformed evangelicalism, known for his defense of God's holiness and divine sovereignty.",
+          "pt": "R.C. Sproul (1939-2017) foi teólogo reformado, fundador da Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX, conhecido por sua defesa da santidade de Deus e da soberania divina."
+        },
+        "metodo": {
+          "es": "Editó un equipo de eruditos reformados para producir notas de estudio doctrinalmente precisas, ancladas en la Confesión de Westminster y los estándares confesionales reformados históricos.",
+          "en": "He edited a team of Reformed scholars to produce doctrinally precise study notes, anchored in the Westminster Confession and the historic Reformed confessional standards.",
+          "pt": "Editou uma equipe de estudiosos reformados para produzir notas de estudo doutrinariamente precisas, ancoradas na Confissão de Westminster e nos padrões confessionais reformados históricos."
+        },
+        "aportacion": {
+          "es": "Ofreció las notas teológicas confesionales utilizadas para conectar la restauración de Zorobabel y la promesa de la gloria postrera con las doctrinas del pacto, la adoración y el juicio final articuladas en la Confesión de Westminster.",
+          "en": "It provided the confessional theological notes used to connect Zerubbabel's restoration and the promise of latter glory with the doctrines of covenant, worship, and final judgment articulated in the Westminster Confession.",
+          "pt": "Ofereceu as notas teológicas confessionais utilizadas para conectar a restauração de Zorobabel e a promessa da glória última com as doutrinas do pacto, da adoração e do juízo final articuladas na Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv-hardcover"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Terminología teológica",
+          "Citas bíblicas NBLA"
+        ],
+        "en": [
+          "Theological terminology",
+          "NBLA Scripture quotations"
+        ],
+        "pt": [
+          "Terminologia teológica",
+          "Citações bíblicas NBLA"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Adaptación al español de la Reformation Study Bible, producida por Poiema Publicaciones en colaboración con Ligonier Ministries para llevar la erudición reformada al mundo hispanohablante.",
+          "en": "A Spanish adaptation of the Reformation Study Bible, produced by Poiema Publicaciones in collaboration with Ligonier Ministries to bring Reformed scholarship to the Spanish-speaking world.",
+          "pt": "Adaptação para o espanhol da Reformation Study Bible, produzida pela Poiema Publicaciones em colaboração com a Ligonier Ministries para levar a erudição reformada ao mundo hispanofalante."
+        },
+        "metodo": {
+          "es": "Traduce y adapta las notas teológicas de la Reformation Study Bible al contexto y la versión NBLA, manteniendo el mismo rigor confesional reformado del original en inglés.",
+          "en": "It translates and adapts the theological notes of the Reformation Study Bible to the context and the NBLA version, maintaining the same Reformed confessional rigor of the English original.",
+          "pt": "Traduz e adapta as notas teológicas da Reformation Study Bible ao contexto e à versão NBLA, mantendo o mesmo rigor confessional reformado do original em inglês."
+        },
+        "aportacion": {
+          "es": "Sirvió como referencia primaria en español para la terminología teológica y las citas bíblicas en NBLA utilizadas a lo largo de este registro.",
+          "en": "It served as the primary Spanish-language reference for theological terminology and the NBLA Scripture quotations used throughout this record.",
+          "pt": "Serviu como referência primária em espanhol para a terminologia teológica e as citações bíblicas em NBLA utilizadas ao longo deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma (2019)"
+        ],
+        "url": "https://www.ligonier.org/store/biblia-de-estudio-de-la-reforma-nbla-tapa-dura"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática",
+          "Pacto",
+          "Escatología"
+        ],
+        "en": [
+          "Systematic theology categories",
+          "Covenant",
+          "Eschatology"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática",
+          "Pacto",
+          "Escatologia"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo sistemático evangélico, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary, y coeditor general de la ESV Study Bible.",
+          "en": "Wayne Grudem is an evangelical systematic theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and general co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo sistemático evangélico, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary, e coeditor geral da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana por categorías sistemáticas clásicas, fundamentando cada afirmación doctrinal directamente en el texto bíblico con amplias referencias cruzadas.",
+          "en": "He organizes Christian doctrine by classic systematic categories, grounding each doctrinal affirmation directly in the biblical text with extensive cross-references.",
+          "pt": "Organiza a doutrina cristã por categorias sistemáticas clássicas, fundamentando cada afirmação doutrinária diretamente no texto bíblico com amplas referências cruzadas."
+        },
+        "aportacion": {
+          "es": "Proporcionó las categorías de teología sistemática —pacto, providencia, eclesiología, escatología— utilizadas para estructurar la sección teológica de este registro sobre Hageo.",
+          "en": "It provided the systematic theology categories — covenant, providence, ecclesiology, eschatology — used to structure the theological section of this record on Haggai.",
+          "pt": "Forneceu as categorias de teologia sistemática — pacto, providência, eclesiologia, escatologia — utilizadas para estruturar a seção teológica deste registro sobre Ageu."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)",
+          "Christian Beliefs (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/systematic-theology"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico",
+          "Tipos y sombras"
+        ],
+        "en": [
+          "Redemptive history",
+          "Christological focus",
+          "Types and shadows"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico",
+          "Tipos e sombras"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862-1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es ampliamente reconocido como el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862-1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is widely recognized as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862-1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é amplamente reconhecido como o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Traza el desarrollo progresivo de la revelación divina a través de las épocas históricas del pacto, enfatizando la unidad orgánica de la Escritura y su culminación cristológica.",
+          "en": "He traces the progressive development of divine revelation through the historical epochs of the covenant, emphasizing the organic unity of Scripture and its christological culmination.",
+          "pt": "Traça o desenvolvimento progressivo da revelação divina através das épocas históricas do pacto, enfatizando a unidade orgânica da Escritura e sua culminação cristológica."
+        },
+        "aportacion": {
+          "es": "Fundamentó el enfoque cristológico y la lectura de la restauración de Zorobabel y la gloria postrera del templo como anticipos genuinos de la obra de Cristo utilizado en este registro.",
+          "en": "It grounded the christological focus and the reading of Zerubbabel's restoration and the temple's latter glory as genuine foretastes of Christ's work used in this record.",
+          "pt": "Fundamentou o enfoque cristológico e a leitura da restauração de Zorobabel e da glória última do templo como antegozos genuínos da obra de Cristo utilizado neste registro."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://banneroftruth.org/us/store/biblical-theology-doctrine/biblical-theology/"
+      }
+    },
+    {
+      "titulo": "The IVP Bible Background Commentary: Old Testament",
+      "autor": "John H. Walton, Victor H. Matthews, Mark W. Chavalas",
+      "año": 2000,
+      "editorial": "InterVarsity Press",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Contexto histórico",
+          "Período persa",
+          "Administración de Judá"
+        ],
+        "en": [
+          "Historical context",
+          "Persian period",
+          "Administration of Judah"
+        ],
+        "pt": [
+          "Contexto histórico",
+          "Período persa",
+          "Administração de Judá"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Walton, Matthews y Chavalas son eruditos veterotestamentarios especializados en el trasfondo del Cercano Oriente Antiguo, con nombramientos en Wheaton College, Missouri State University y la Universidad de Kansas respectivamente.",
+          "en": "Walton, Matthews, and Chavalas are Old Testament scholars specializing in the Ancient Near Eastern background, holding appointments at Wheaton College, Missouri State University, and the University of Kansas respectively.",
+          "pt": "Walton, Matthews e Chavalas são estudiosos veterotestamentários especializados no pano de fundo do Antigo Oriente Próximo, com nomeações em Wheaton College, Missouri State University e na University of Kansas respectivamente."
+        },
+        "metodo": {
+          "es": "Comenta el texto bíblico versículo por versículo iluminando su trasfondo cultural, geográfico y arqueológico del Cercano Oriente Antiguo, sin comprometer la autoridad del texto revelado.",
+          "en": "It comments on the biblical text verse by verse, illuminating its Ancient Near Eastern cultural, geographic, and archaeological background, without compromising the authority of the revealed text.",
+          "pt": "Comenta o texto bíblico versículo por versículo, iluminando seu pano de fundo cultural, geográfico e arqueológico do Antigo Oriente Próximo, sem comprometer a autoridade do texto revelado."
+        },
+        "aportacion": {
+          "es": "Proveyó el trasfondo administrativo persa y el sistema de gobernadores provinciales bajo el cual Zorobabel ejerció su cargo, utilizado en la sección de contexto histórico de este registro.",
+          "en": "It provided the Persian administrative background and the system of provincial governors under which Zerubbabel held office, used in the historical context section of this record.",
+          "pt": "Forneceu o pano de fundo administrativo persa e o sistema de governadores provinciais sob o qual Zorobabel exerceu seu cargo, utilizado na seção de contexto histórico deste registro."
+        },
+        "obras": [
+          "The IVP Bible Background Commentary: Old Testament (2000)",
+          "The Lost World of Genesis One (Walton, 2009)"
+        ],
+        "url": "https://www.ivpress.com/the-ivp-bible-background-commentary-old-testament"
+      }
+    },
+    {
+      "titulo": "Archaeological Study Bible",
+      "autor": "Zondervan (ed. general)",
+      "año": 2005,
+      "editorial": "Zondervan",
+      "nivel": 3,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Arqueología",
+          "Sellos Yehud",
+          "Inscripción de Behistún"
+        ],
+        "en": [
+          "Archaeology",
+          "Yehud seals",
+          "Behistun Inscription"
+        ],
+        "pt": [
+          "Arqueologia",
+          "Selos Yehud",
+          "Inscrição de Behistun"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Producida por un equipo de arqueólogos y eruditos bíblicos evangélicos bajo Zondervan, esta obra reúne hallazgos arqueológicos relevantes para la interpretación del texto bíblico en su contexto histórico original.",
+          "en": "Produced by a team of archaeologists and evangelical biblical scholars under Zondervan, this work brings together archaeological findings relevant to interpreting the biblical text in its original historical context.",
+          "pt": "Produzida por uma equipe de arqueólogos e estudiosos bíblicos evangélicos sob a Zondervan, esta obra reúne achados arqueológicos relevantes para a interpretação do texto bíblico em seu contexto histórico original."
+        },
+        "metodo": {
+          "es": "Inserta notas arqueológicas y artículos temáticos junto al texto bíblico, correlacionando descubrimientos materiales específicos con pasajes y personajes bíblicos concretos.",
+          "en": "It inserts archaeological notes and thematic articles alongside the biblical text, correlating specific material discoveries with concrete biblical passages and figures.",
+          "pt": "Insere notas arqueológicas e artigos temáticos junto ao texto bíblico, correlacionando descobertas materiais específicas com passagens e personagens bíblicos concretos."
+        },
+        "aportacion": {
+          "es": "Aportó los datos sobre los sellos administrativos «Yehud» y la inscripción de Behistún utilizados para confirmar la precisión cronológica y el marco administrativo presupuesto por Hageo.",
+          "en": "It provided the data on \"Yehud\" administrative seals and the Behistun Inscription used to confirm the chronological precision and administrative framework presupposed by Haggai.",
+          "pt": "Contribuiu com os dados sobre os selos administrativos «Yehud» e a inscrição de Behistun utilizados para confirmar a precisão cronológica e o quadro administrativo pressuposto por Ageu."
+        },
+        "obras": [
+          "Archaeological Study Bible (2005)"
+        ],
+        "url": "https://www.zondervanacademic.com/products/archaeological-study-bible"
+      }
+    },
+    {
+      "titulo": "A History of Israel",
+      "autor": "John Bright",
+      "año": 2000,
+      "editorial": "Westminster John Knox Press",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Período persa",
+          "Reconstrucción del templo",
+          "Genealogía davídica post-exílica"
+        ],
+        "en": [
+          "Persian period",
+          "Temple reconstruction",
+          "Post-exilic Davidic genealogy"
+        ],
+        "pt": [
+          "Período persa",
+          "Reconstrução do templo",
+          "Genealogia davídica pós-exílica"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "John Bright (1908-1995) fue profesor de Antiguo Testamento en Union Theological Seminary en Virginia y una figura decisiva en la reconstrucción histórica de Israel dentro de la erudición bíblica del siglo XX.",
+          "en": "John Bright (1908-1995) was professor of Old Testament at Union Theological Seminary in Virginia and a decisive figure in the historical reconstruction of Israel within 20th-century biblical scholarship.",
+          "pt": "John Bright (1908-1995) foi professor de Antigo Testamento no Union Theological Seminary, na Virgínia, e uma figura decisiva na reconstrução histórica de Israel dentro da erudição bíblica do século XX."
+        },
+        "metodo": {
+          "es": "Reconstruye la historia de Israel integrando el testimonio bíblico con la evidencia arqueológica y los registros extrabíblicos del Cercano Oriente Antiguo, dentro de un marco históricamente riguroso.",
+          "en": "He reconstructs the history of Israel by integrating the biblical testimony with archaeological evidence and extrabiblical Ancient Near Eastern records, within a historically rigorous framework.",
+          "pt": "Reconstrói a história de Israel integrando o testemunho bíblico com a evidência arqueológica e os registros extrabíblicos do Antigo Oriente Próximo, dentro de um quadro historicamente rigoroso."
+        },
+        "aportacion": {
+          "es": "Proveyó el marco cronológico del reinado de Darío I y la reconstrucción del templo bajo Zorobabel y Josué utilizado para fechar y contextualizar Hageo en este registro.",
+          "en": "It provided the chronological framework of Darius I's reign and the temple's reconstruction under Zerubbabel and Joshua used to date and contextualize Haggai in this record.",
+          "pt": "Forneceu o quadro cronológico do reinado de Dario I e a reconstrução do templo sob Zorobabel e Josué utilizado para datar e contextualizar Ageu neste registro."
+        },
+        "obras": [
+          "A History of Israel, 4th ed. (2000)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/John_Bright_(theologian)"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.8,
+    "camposMarcados": [
+      {
+        "campo": "resumenCapitulos[].era",
+        "razon": "Se estableció 'Post-exilio' como valor de era en lugar de reflejar literalmente historiaRedentora.epoca ('Anticipación Profética'), porque la tabla ERA_COLORS del visor (canonToViewer.js) define una clave distinta 'Post-exilio' que enumera explícitamente a Hageo, junto con Esdras, Nehemías, Zacarías y Malaquías, como los libros que deben usar ese color de franja temporal. Usar 'Anticipación Profética' habría coincidido primero con la clave genérica 'Anticipación' en el orden de inserción del objeto, produciendo el color incorrecto. historiaRedentora.epoca permanece 'Anticipación Profética' conforme al vocabulario controlado del esquema.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "año",
+        "razon": "La fecha de composición (520 a.C., segundo año de Darío I, con cuatro días exactos citados en Hag 1:1; 2:1,10,20) es la más precisa de todo el Antiguo Testamento; se reprodujo de conocimiento interno sin verificación cruzada en línea contra un calendario regnal persa independiente, aunque la confianza en esta datación es excepcionalmente alta.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "contextoHistorico.controversiasHistoricas",
+        "razon": "Se armonizan la oposición externa documentada en Esdras 4 y la apatía espiritual interna que Hageo enfatiza como causas complementarias, no contradictorias, del retraso de dieciséis años en la reconstrucción del templo.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "personajes[].Zorobabel/Josué.biografiaHistorica",
+        "razon": "No existe registro extrabíblico directo que nombre a Zorobabel o Josué específicamente; nivelEvidencia se marcó 'medio' porque el marco administrativo persa y los relatos paralelos de Esdras y Zacarías confirman el contexto cultural e institucional sin constituir evidencia externa directa de sus personas.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-06"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-06T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-06T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-06T00:00:00Z",
+          "fechaFin": "2026-08-06T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}

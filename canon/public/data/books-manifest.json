@@ -1379,7 +1379,8 @@
       "ordenCanon": 37,
       "capitulosTotal": 2,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "hageo.json",
       "razon": {
         "es": "Llama al remanente postexílico a reconstruir el templo, prometiendo que la gloria de esta segunda casa superará a la primera.",
         "en": "Calls the post-exilic remnant to rebuild the temple, promising that the glory of this second house will surpass the first.",
@@ -1399,7 +1400,8 @@
       "ordenCanon": 38,
       "capitulosTotal": 14,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
+      "dataFile": "zacarias.json",
       "razon": {
         "es": "Visiones nocturnas y oráculos mesiánicos que anticipan tanto el primer advenimiento humilde (Zac 9:9) como el reinado final de Jehová sobre toda la tierra.",
         "en": "Night visions and messianic oracles anticipating both the humble first advent (Zech 9:9) and the final reign of the LORD over all the earth.",
