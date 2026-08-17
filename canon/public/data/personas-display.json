@@ -320,7 +320,8 @@
     "init": "Ἠσ",
     "xCh": {
       "Ro": 9,
-      "He": 12
+      "He": 12,
+      "Mal": 1
     },
     "side": "above",
     "badge": {
@@ -737,15 +738,15 @@
     }
   },
   "Zacarías": {
-    "id": "zacarias",
-    "color": "#5A4A2A",
-    "init": "Ζα",
+    "id": "zacarias-profeta",
+    "color": "#1B5E8B",
+    "init": "זכ",
     "xCh": 1,
-    "side": "above",
+    "side": "below",
     "badge": {
-      "es": "SACERDOTE Y PROFETA",
-      "en": "PRIEST AND PROPHET",
-      "pt": "SACERDOTE E PROFETA"
+      "es": "PROFETA-SACERDOTE",
+      "en": "PROPHET-PRIEST",
+      "pt": "PROFETA-SACERDOTE"
     }
   },
   "Simeón": {
@@ -3275,7 +3276,10 @@
     "id": "zorobabel",
     "color": "#8C5A2E",
     "init": "זר",
-    "xCh": { "Hag": 2, "Zac": 4 },
+    "xCh": {
+      "Hag": 2,
+      "Zac": 4
+    },
     "side": "above",
     "badge": {
       "es": "GOBERNADOR DAVÍDICO",
@@ -3725,7 +3729,10 @@
     "id": "ninive-ciudad",
     "color": "#8B2A2A",
     "init": "ני",
-    "xCh": { "Jon": 3, "Nah": 3 },
+    "xCh": {
+      "Jon": 3,
+      "Nah": 3
+    },
     "side": "above",
     "badge": {
       "es": "LA GRAN CIUDAD",
@@ -3881,24 +3888,15 @@
     "id": "josue-sumo-sacerdote",
     "color": "#6B2E8C",
     "init": "שע",
-    "xCh": { "Hag": 1, "Zac": 3 },
+    "xCh": {
+      "Hag": 1,
+      "Zac": 3
+    },
     "side": "above",
     "badge": {
       "es": "SUMO SACERDOTE",
       "en": "HIGH PRIEST",
       "pt": "SUMO SACERDOTE"
-    }
-  },
-  "Zacarías": {
-    "id": "zacarias-profeta",
-    "color": "#1B5E8B",
-    "init": "זכ",
-    "xCh": 1,
-    "side": "below",
-    "badge": {
-      "es": "PROFETA-SACERDOTE",
-      "en": "PROPHET-PRIEST",
-      "pt": "PROFETA-SACERDOTE"
     }
   },
   "El Renuevo": {
@@ -3911,6 +3909,42 @@
       "es": "SACERDOTE Y REY",
       "en": "PRIEST AND KING",
       "pt": "SACERDOTE E REI"
+    }
+  },
+  "Malaquías": {
+    "id": "malaquias-profeta",
+    "color": "#2E7A6B",
+    "init": "מל",
+    "xCh": 1,
+    "side": "below",
+    "badge": {
+      "es": "PROFETA FINAL DEL PACTO",
+      "en": "FINAL COVENANT PROPHET",
+      "pt": "PROFETA FINAL DA ALIANÇA"
+    }
+  },
+  "Leví": {
+    "id": "levi-sacerdocio",
+    "color": "#6B4A8B",
+    "init": "לו",
+    "xCh": 2,
+    "side": "above",
+    "badge": {
+      "es": "SACERDOCIO IDEAL",
+      "en": "IDEAL PRIESTHOOD",
+      "pt": "SACERDÓCIO IDEAL"
+    }
+  },
+  "El Mensajero del Pacto": {
+    "id": "mensajero-del-pacto",
+    "color": "#A8642E",
+    "init": "מה",
+    "xCh": 3,
+    "side": "above",
+    "badge": {
+      "es": "PRECURSOR Y SEÑOR",
+      "en": "FORERUNNER AND LORD",
+      "pt": "PRECURSOR E SENHOR"
     }
   }
 }

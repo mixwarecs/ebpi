@@ -1421,12 +1421,13 @@
       "ordenCanon": 39,
       "capitulosTotal": 4,
       "divisionColor": "#B6D2FB",
-      "disponible": false,
+      "disponible": true,
       "razon": {
         "es": "El último libro del AT canónico: denuncia la apatía sacerdotal postexílica y anuncia al precursor (Elías) que preparará el camino del Señor.",
         "en": "The last book of the canonical OT: denounces post-exilic priestly apathy and announces the forerunner (Elijah) who will prepare the way of the Lord.",
         "pt": "O último livro do AT canônico: denuncia a apatia sacerdotal pós-exílica e anuncia o precursor (Elias) que preparará o caminho do Senhor."
-      }
+      },
+      "dataFile": "malaquias.json"
     },
     {
       "id": 40,

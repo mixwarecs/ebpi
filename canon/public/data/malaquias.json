@@ -1,0 +1,1725 @@
+{
+  "id": 39,
+  "testamento": "Antiguo",
+  "division": "Profetas Menores",
+  "titulo": {
+    "es": "Malaquías",
+    "en": "Malachi",
+    "pt": "Malaquias"
+  },
+  "tituloOriginal": "מַלְאָכִי",
+  "transliteracion": "Mal'akhi",
+  "significado": {
+    "es": "Mi mensajero",
+    "en": "My messenger",
+    "pt": "Meu mensageiro"
+  },
+  "resumenGeneral": {
+    "es": "Malaquías abre con una declaración de amor pactual que Israel pone en duda —“Yo os he amado”, dice el SEÑOR, apelando a la elección de Jacob sobre Esaú (Mal 1:2–5)— y a partir de ahí despliega seis disputas en las que Dios confronta, punto por punto, el desprecio del pueblo hacia su nombre: sacerdotes que ofrecen animales defectuosos (Mal 1:6–2:9), esposos que traicionan el pacto matrimonial (Mal 2:10–16) y un pueblo entero que roba a Dios en los diezmos (Mal 3:6–12). El libro gira sobre su eje en Mal 2:17–3:5, cuando la pregunta cínica “¿Dónde está el Dios de justicia?” recibe como respuesta la promesa de un mensajero que preparará el camino y un Señor que vendrá súbitamente a su templo para purificar. Malaquías cierra, y con él todo el Antiguo Testamento canónico, no con silencio sino con una bisagra hacia adelante: el llamado a recordar la ley de Moisés y la promesa de que Elías vendrá antes del día grande y terrible del SEÑOR (Mal 4:4–6), dejando al lector suspendido entre juicio y esperanza hasta que la voz profética vuelva a hablar.",
+    "en": "Malachi opens with a covenantal declaration of love that Israel disputes—“I have loved you,” says the LORD, appealing to his election of Jacob over Esau (Mal 1:2–5)—and from there unfolds six disputations in which God confronts, point by point, the people’s contempt for his name: priests offering blemished animals (Mal 1:6–2:9), husbands treacherous to the marriage covenant (Mal 2:10–16), and a whole nation robbing God in its tithes (Mal 3:6–12). The book turns on its hinge at Mal 2:17–3:5, where the cynical question “Where is the God of justice?” is answered with the promise of a messenger who will prepare the way and a Lord who will suddenly come to his temple to purify. Malachi closes—and with it the entire Old Testament canon—not in silence but with a forward-leaning hinge: the call to remember the law of Moses and the promise that Elijah will come before the great and terrible day of the LORD (Mal 4:4–6), leaving the reader suspended between judgment and hope until the prophetic voice speaks again.",
+    "pt": "Malaquias abre com uma declaração de amor pactual que Israel contesta — “Eu vos amei”, diz o SENHOR, apelando à eleição de Jacó sobre Esaú (Ml 1:2–5) — e a partir daí desenrola seis disputas nas quais Deus confronta, ponto por ponto, o desprezo do povo pelo seu nome: sacerdotes que oferecem animais defeituosos (Ml 1:6–2:9), maridos traidores da aliança matrimonial (Ml 2:10–16) e uma nação inteira que rouba a Deus nos dízimos (Ml 3:6–12). O livro gira sobre seu eixo em Ml 2:17–3:5, quando a pergunta cínica “Onde está o Deus do juízo?” recebe como resposta a promessa de um mensageiro que preparará o caminho e um Senhor que virá subitamente ao seu templo para purificar. Malaquias termina — e com ele todo o cânon do Antigo Testamento — não em silêncio, mas com uma dobradiça voltada para frente: o chamado para lembrar a lei de Moisés e a promessa de que Elias virá antes do grande e terrível dia do SENHOR (Ml 4:4–6), deixando o leitor suspenso entre juízo e esperança até que a voz profética volte a falar."
+  },
+  "capitulosTotal": 4,
+  "autor": {
+    "nombre": {
+      "es": "Malaquías",
+      "en": "Malachi",
+      "pt": "Malaquias"
+    },
+    "tradicional": true,
+    "nota": {
+      "es": "El nombre “Malaquías” significa literalmente “mi mensajero”, lo que ha llevado a algunos críticos a proponer que es un título anónimo y no un nombre propio (comparando con el uso de la misma palabra en Mal 3:1). La tradición judía (Targum, Talmud) y la mayoría de la tradición cristiana, incluida la reformada, sostienen que se trata del nombre propio de un profeta histórico real, el último de la serie profética veterotestamentaria antes del silencio intertestamentario.",
+      "en": "The name “Malachi” literally means “my messenger,” which has led some critics to propose it is an anonymous title rather than a proper name (comparing the same word’s use in Mal 3:1). Jewish tradition (Targum, Talmud) and the majority of Christian tradition, including the Reformed tradition, hold that this is the proper name of a real historical prophet, the last in the Old Testament prophetic line before the intertestamental silence.",
+      "pt": "O nome “Malaquias” significa literalmente “meu mensageiro”, o que levou alguns críticos a propor que se trata de um título anônimo e não de um nome próprio (comparando com o uso da mesma palavra em Ml 3:1). A tradição judaica (Targum, Talmude) e a maioria da tradição cristã, incluindo a reformada, sustentam que se trata do nome próprio de um profeta histórico real, o último da linha profética veterotestamentária antes do silêncio intertestamentário."
+    }
+  },
+  "año": {
+    "desde": -430,
+    "hasta": -420,
+    "display": {
+      "es": "Fecha de escritura: c. 430–420 a.C.",
+      "en": "Date of writing: c. 430–420 BC",
+      "pt": "Data de escrita: c. 430–420 a.C."
+    }
+  },
+  "idiomaOriginal": "Hebreo",
+  "escritoEn": {
+    "es": "Jerusalén, bajo dominio persa, después de la reconstrucción del templo (516 a.C.) y probablemente durante o poco después de las reformas del segundo período de gobierno de Nehemías",
+    "en": "Jerusalem, under Persian rule, after the rebuilding of the temple (516 BC) and likely during or shortly after Nehemiah’s second term of reforms",
+    "pt": "Jerusalém, sob domínio persa, após a reconstrução do templo (516 a.C.) e provavelmente durante ou pouco depois das reformas do segundo período de governo de Neemias"
+  },
+  "contextoHistorico": {
+    "periodoHistorico": {
+      "es": "Período Persa (539–332 a.C.)",
+      "en": "Persian Period (539–332 BC)",
+      "pt": "Período Persa (539–332 a.C.)"
+    },
+    "geografia": [
+      {
+        "lugar": {
+          "es": "Jerusalén y el templo",
+          "en": "Jerusalem and the Temple",
+          "pt": "Jerusalém e o templo"
+        },
+        "identificacionModerna": {
+          "es": "Jerusalén, en la actual Israel/Palestina",
+          "en": "Jerusalem, in modern Israel/Palestine",
+          "pt": "Jerusalém, no atual Israel/Palestina"
+        },
+        "significancia": {
+          "es": "El templo reconstruido (516 a.C.) es el escenario de la acusación central del libro: los sacrificios profanados y el robo de diezmos (Mal 1:6–2:9; 3:8–10).",
+          "en": "The rebuilt temple (516 BC) is the setting for the book’s central accusation: defiled sacrifices and robbed tithes (Mal 1:6–2:9; 3:8–10).",
+          "pt": "O templo reconstruído (516 a.C.) é o cenário da acusação central do livro: sacrifícios profanados e dízimos roubados (Ml 1:6–2:9; 3:8–10)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Provincia de Yehud",
+          "en": "Province of Yehud",
+          "pt": "Província de Iehud"
+        },
+        "identificacionModerna": {
+          "es": "Judá bajo administración persa, correspondiente aproximadamente al territorio alrededor de Jerusalén",
+          "en": "Judah under Persian administration, corresponding roughly to the territory around Jerusalem",
+          "pt": "Judá sob administração persa, correspondendo aproximadamente ao território ao redor de Jerusalém"
+        },
+        "significancia": {
+          "es": "Yehud era una provincia persa pequeña y empobrecida gobernada por un “gobernador” (pehah), la misma figura administrativa a la que Malaquías compara con desprecio la ofrenda profanada de los sacerdotes (Mal 1:8).",
+          "en": "Yehud was a small, impoverished Persian province governed by a “governor” (pehah), the same administrative figure to whom Malachi contemptuously compares the priests’ defiled offering (Mal 1:8).",
+          "pt": "Iehud era uma pequena e empobrecida província persa governada por um “governador” (pehah), a mesma figura administrativa à qual Malaquias compara com desprezo a oferta profanada dos sacerdotes (Ml 1:8)."
+        }
+      },
+      {
+        "lugar": {
+          "es": "Edom (Idumea)",
+          "en": "Edom (Idumea)",
+          "pt": "Edom (Idumeia)"
+        },
+        "identificacionModerna": {
+          "es": "Región montañosa al sureste del Mar Muerto, actual sur de Jordania",
+          "en": "Mountainous region southeast of the Dead Sea, in modern southern Jordan",
+          "pt": "Região montanhosa a sudeste do Mar Morto, no atual sul da Jordânia"
+        },
+        "significancia": {
+          "es": "Edom, descendencia de Esaú, sirve como contraste histórico de la elección de Jacob: su territorio quedó desolado y entregado a los chacales del desierto (Mal 1:3–4).",
+          "en": "Edom, Esau’s descendants, serves as the historical foil to Jacob’s election: its territory was left desolate, given over to the jackals of the desert (Mal 1:3–4).",
+          "pt": "Edom, descendência de Esaú, serve como contraste histórico da eleição de Jacó: seu território foi deixado desolado, entregue aos chacais do deserto (Ml 1:3–4)."
+        }
+      }
+    ],
+    "civilizaciones": [
+      {
+        "nombre": {
+          "es": "Imperio Persa Aqueménida",
+          "en": "Achaemenid Persian Empire",
+          "pt": "Império Persa Aquemênida"
+        },
+        "rolEnElTexto": {
+          "es": "Potencia imperial dominante bajo cuya administración provincial vive la comunidad de Judá; el “gobernador” de Mal 1:8 refleja esta estructura administrativa persa.",
+          "en": "The dominant imperial power under whose provincial administration the community of Judah lives; the “governor” of Mal 1:8 reflects this Persian administrative structure.",
+          "pt": "A potência imperial dominante sob cuja administração provincial vive a comunidade de Judá; o “governador” de Ml 1:8 reflete essa estrutura administrativa persa."
+        },
+        "estadoArqueologico": {
+          "es": "Bien documentado mediante sellos y bulas con la inscripción “Yehud”, archivos administrativos persas y los papiros arameos de Elefantina.",
+          "en": "Well documented through seals and bullae inscribed “Yehud,” Persian administrative archives, and the Aramaic Elephantine papyri.",
+          "pt": "Bem documentado por meio de selos e bulas com a inscrição “Iehud”, arquivos administrativos persas e os papiros aramaicos de Elefantina."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Edomitas",
+          "en": "Edomites",
+          "pt": "Edomitas"
+        },
+        "rolEnElTexto": {
+          "es": "Pueblo descendiente de Esaú citado como ejemplo histórico del rechazo divino frente a la elección de Jacob (Mal 1:2–4).",
+          "en": "People descended from Esau cited as the historical example of divine rejection contrasted with the election of Jacob (Mal 1:2–4).",
+          "pt": "Povo descendente de Esaú citado como exemplo histórico da rejeição divina em contraste com a eleição de Jacó (Ml 1:2–4)."
+        },
+        "estadoArqueologico": {
+          "es": "La arqueología muestra el declive y desplazamiento de los asentamientos edomitas tradicionales durante el período persa temprano, coincidiendo con la presión de los nabateos y otros pueblos árabes.",
+          "en": "Archaeology shows the decline and displacement of traditional Edomite settlements during the early Persian period, coinciding with pressure from the Nabateans and other Arab peoples.",
+          "pt": "A arqueologia mostra o declínio e o deslocamento dos assentamentos edomitas tradicionais durante o período persa inicial, coincidindo com a pressão dos nabateus e outros povos árabes."
+        }
+      }
+    ],
+    "arqueologia": {
+      "es": "Los sellos y bulas con la inscripción “Yehud” confirman la existencia de una administración provincial persa organizada en Judá durante este período, consistente con la mención del “gobernador” en Mal 1:8. Los papiros arameos de Elefantina (siglo V a.C.) iluminan las prácticas administrativas y religiosas judías bajo dominio persa en general, aunque no mencionan a Malaquías directamente. No existe evidencia arqueológica que permita identificar al profeta mismo, y el libro carece de las fórmulas de datación por año regnal que sí aparecen en Hageo y Zacarías, lo que dificulta fijar una fecha arqueológica precisa.",
+      "en": "Seals and bullae inscribed “Yehud” confirm the existence of an organized Persian provincial administration in Judah during this period, consistent with the mention of a “governor” in Mal 1:8. The Aramaic Elephantine papyri (5th century BC) illuminate Jewish administrative and religious practices under Persian rule generally, though they do not mention Malachi directly. No archaeological evidence identifies the prophet himself, and the book lacks the regnal-year dating formulas found in Haggai and Zechariah, making a precise archaeological date difficult to fix.",
+      "pt": "Os selos e bulas com a inscrição “Iehud” confirmam a existência de uma administração provincial persa organizada em Judá durante esse período, coerente com a menção do “governador” em Ml 1:8. Os papiros aramaicos de Elefantina (século V a.C.) iluminam as práticas administrativas e religiosas judaicas sob domínio persa de modo geral, embora não mencionem Malaquias diretamente. Não há evidência arqueológica que permita identificar o próprio profeta, e o livro carece das fórmulas de datação por ano de reinado presentes em Ageu e Zacarias, o que dificulta fixar uma data arqueológica precisa."
+    },
+    "fuentesANE": [
+      {
+        "nombre": {
+          "es": "Papiros arameos de Elefantina",
+          "en": "Aramaic Elephantine Papyri",
+          "pt": "Papiros aramaicos de Elefantina"
+        },
+        "origen": {
+          "es": "Colonia militar judía en la isla de Elefantina, Egipto, siglo V a.C., bajo administración persa",
+          "en": "Jewish military colony on Elephantine Island, Egypt, 5th century BC, under Persian administration",
+          "pt": "Colônia militar judaica na ilha de Elefantina, Egito, século V a.C., sob administração persa"
+        },
+        "relevancia": {
+          "es": "Documentan la vida religiosa y administrativa de comunidades judías bajo el mismo imperio persa que gobernaba Yehud, incluyendo correspondencia sobre la práctica del templo y disputas legales similares en tono a las abordadas por Malaquías.",
+          "en": "They document the religious and administrative life of Jewish communities under the same Persian empire that governed Yehud, including correspondence about temple practice and legal disputes similar in tone to those addressed by Malachi.",
+          "pt": "Documentam a vida religiosa e administrativa de comunidades judaicas sob o mesmo império persa que governava Iehud, incluindo correspondência sobre a prática do templo e disputas legais semelhantes em tom às abordadas por Malaquias."
+        }
+      },
+      {
+        "nombre": {
+          "es": "Sellos y bulas “Yehud”",
+          "en": "“Yehud” Seal Impressions and Bullae",
+          "pt": "Selos e bulas “Iehud”"
+        },
+        "origen": {
+          "es": "Excavaciones en Jerusalén, Ramat Rahel y otros sitios de la provincia de Yehud, período persa",
+          "en": "Excavations at Jerusalem, Ramat Rahel, and other sites in the province of Yehud, Persian period",
+          "pt": "Escavações em Jerusalém, Ramat Rahel e outros sítios da província de Iehud, período persa"
+        },
+        "relevancia": {
+          "es": "Confirman la estructura administrativa provincial persa (gobernador, sellos oficiales) que forma el trasfondo social de las acusaciones de Malaquías contra sacerdotes y pueblo.",
+          "en": "They confirm the Persian provincial administrative structure (governor, official seals) that forms the social backdrop of Malachi’s accusations against priests and people.",
+          "pt": "Confirmam a estrutura administrativa provincial persa (governador, selos oficiais) que forma o pano de fundo social das acusações de Malaquias contra sacerdotes e povo."
+        }
+      }
+    ],
+    "controversiasHistoricas": {
+      "es": "La principal controversia es la datación exacta: al carecer el libro de fórmulas de datación por año regnal (a diferencia de Hageo y Zacarías), algunos eruditos críticos proponen un rango amplio entre 515 y 400 a.C. La posición conservadora/reformada, siguiendo a Longman y Dillard, sitúa el libro poco antes o durante el segundo período de gobierno de Nehemías (c. 433–420 a.C.), porque los pecados denunciados por Malaquías —matrimonios mixtos, negligencia en el diezmo, corrupción sacerdotal— son precisamente los mismos que Nehemías combate en Neh 13, lo que sugiere que Malaquías profetiza en el mismo contexto social, ya sea preparando el terreno para las reformas de Nehemías o denunciando su reincidencia posterior.",
+      "en": "The main controversy is the exact dating: because the book lacks regnal-year dating formulas (unlike Haggai and Zechariah), some critical scholars propose a broad range between 515 and 400 BC. The conservative/Reformed position, following Longman and Dillard, places the book shortly before or during Nehemiah’s second term (c. 433–420 BC), because the sins Malachi denounces—mixed marriages, tithing neglect, priestly corruption—are precisely the same ones Nehemiah combats in Neh 13, suggesting Malachi prophesies in the same social context, either preparing the ground for Nehemiah’s reforms or denouncing their later relapse.",
+      "pt": "A principal controvérsia é a datação exata: como o livro carece de fórmulas de datação por ano de reinado (diferentemente de Ageu e Zacarias), alguns eruditos críticos propõem um intervalo amplo entre 515 e 400 a.C. A posição conservadora/reformada, seguindo Longman e Dillard, situa o livro pouco antes ou durante o segundo período de governo de Neemias (c. 433–420 a.C.), porque os pecados denunciados por Malaquias — casamentos mistos, negligência no dízimo, corrupção sacerdotal — são precisamente os mesmos que Neemias combate em Ne 13, sugerindo que Malaquias profetiza no mesmo contexto social, seja preparando o terreno para as reformas de Neemias, seja denunciando sua recaída posterior."
+    },
+    "cronologiaInterna": {
+      "es": "El libro mismo no ofrece fechas explícitas. Su único dato cronológico interno es la mención de un “gobernador” persa en funciones (Mal 1:8), lo que sitúa la profecía necesariamente después del establecimiento de la administración provincial persa. El templo ya está en pie y operando con sacrificios regulares (Mal 1:7–10; 3:10), lo cual exige una fecha posterior a su reconstrucción en 516 a.C. Los abusos denunciados —matrimonios con mujeres extranjeras y descuido del diezmo— no muestran huellas de las reformas recientes de Esdras o Nehemías, sugiriendo que la profecía antecede a la intervención decisiva de Nehemías o corresponde a un momento de reincidencia entre sus dos períodos de gobierno.",
+      "en": "The book itself offers no explicit dates. Its only internal chronological datum is the mention of a Persian “governor” in office (Mal 1:8), which necessarily places the prophecy after the establishment of the Persian provincial administration. The temple is already standing and operating with regular sacrifices (Mal 1:7–10; 3:10), requiring a date after its rebuilding in 516 BC. The abuses denounced—marriages to foreign women and tithing neglect—show no trace of Ezra’s or Nehemiah’s recent reforms, suggesting the prophecy predates Nehemiah’s decisive intervention or corresponds to a relapse between his two terms.",
+      "pt": "O livro em si não oferece datas explícitas. Seu único dado cronológico interno é a menção de um “governador” persa em funções (Ml 1:8), o que situa a profecia necessariamente depois do estabelecimento da administração provincial persa. O templo já está de pé e operando com sacrifícios regulares (Ml 1:7–10; 3:10), o que exige uma data posterior à sua reconstrução em 516 a.C. Os abusos denunciados — casamentos com mulheres estrangeiras e negligência do dízimo — não mostram traços das reformas recentes de Esdras ou Neemias, sugerindo que a profecia antecede a intervenção decisiva de Neemias ou corresponde a um momento de recaída entre seus dois períodos de governo."
+    }
+  },
+  "ordenEnDivision": 12,
+  "ordenCanon": 39,
+  "historiaRedentora": {
+    "epoca": "Anticipación Profética",
+    "contextoPacto": "Mosaico",
+    "enfoqueCristologico": {
+      "es": "Malaquías cierra el Antiguo Testamento apuntando directamente hacia Cristo en dos figuras: el “mensajero del pacto” que viene súbitamente a su templo (Mal 3:1), leído por los evangelistas como profecía dual de Juan el Bautista y de Jesús mismo, y el “sol de justicia” que se levanta con sanidad en sus alas (Mal 4:2), imagen mesiánica de luz y restauración. La promesa final de que Elías vendrá antes del día del SEÑOR (Mal 4:5–6) es explícitamente aplicada por Jesús a Juan el Bautista (Mt 11:14; 17:10–13), de modo que Malaquías funciona como la bisagra profética que conecta el pacto mosaico con la inauguración del cumplimiento en los Evangelios.",
+      "en": "Malachi closes the Old Testament pointing directly toward Christ in two figures: the “messenger of the covenant” who comes suddenly to his temple (Mal 3:1), read by the Gospel writers as a dual prophecy of John the Baptist and of Jesus himself, and the “sun of righteousness” who rises with healing in its wings (Mal 4:2), a messianic image of light and restoration. The final promise that Elijah will come before the day of the LORD (Mal 4:5–6) is explicitly applied by Jesus to John the Baptist (Matt 11:14; 17:10–13), so that Malachi functions as the prophetic hinge connecting the Mosaic covenant to the inauguration of fulfillment in the Gospels.",
+      "pt": "Malaquias encerra o Antigo Testamento apontando diretamente para Cristo em duas figuras: o “mensageiro da aliança” que vem subitamente ao seu templo (Ml 3:1), lido pelos evangelistas como profecia dupla de João Batista e do próprio Jesus, e o “sol da justiça” que nasce com cura em suas asas (Ml 4:2), imagem messiânica de luz e restauração. A promessa final de que Elias virá antes do dia do SENHOR (Ml 4:5–6) é explicitamente aplicada por Jesus a João Batista (Mt 11:14; 17:10–13), de modo que Malaquias funciona como a dobradiça profética que conecta a aliança mosaica com a inauguração do cumprimento nos Evangelhos."
+    },
+    "tiposYSombras": [
+      {
+        "es": "El pacto de Leví, marcado por temor reverente e instrucción veraz (Mal 2:4–7), prefigura el sacerdocio perfecto e incorruptible de Cristo (He 7:26–28).",
+        "en": "The covenant with Levi, marked by reverent fear and truthful instruction (Mal 2:4–7), prefigures the perfect, incorruptible priesthood of Christ (Heb 7:26–28).",
+        "pt": "A aliança com Levi, marcada por temor reverente e instrução verdadeira (Ml 2:4–7), prefigura o sacerdócio perfeito e incorruptível de Cristo (Hb 7:26–28)."
+      },
+      {
+        "es": "El mensajero precursor que prepara el camino delante del Señor (Mal 3:1) anticipa el ministerio de Juan el Bautista, quien introduce personalmente a Cristo (Mt 11:10; Mr 1:2).",
+        "en": "The forerunner messenger who prepares the way before the Lord (Mal 3:1) anticipates the ministry of John the Baptist, who personally introduces Christ (Matt 11:10; Mark 1:2).",
+        "pt": "O mensageiro precursor que prepara o caminho diante do Senhor (Ml 3:1) antecipa o ministério de João Batista, que apresenta pessoalmente Cristo (Mt 11:10; Mc 1:2)."
+      },
+      {
+        "es": "El “sol de justicia” que sana con sus alas (Mal 4:2) prefigura a Cristo como la luz verdadera que trae sanidad y vida al mundo (Jn 1:4–9; 8:12).",
+        "en": "The “sun of righteousness” who heals with its wings (Mal 4:2) prefigures Christ as the true light who brings healing and life to the world (John 1:4–9; 8:12).",
+        "pt": "O “sol da justiça” que cura com suas asas (Ml 4:2) prefigura Cristo como a luz verdadeira que traz cura e vida ao mundo (Jo 1:4–9; 8:12)."
+      }
+    ]
+  },
+  "aportacionAlCanon": {
+    "es": "Malaquías es la última voz profética del Antiguo Testamento y, en el orden canónico cristiano, la última palabra antes de cuatro siglos de silencio profético hasta Juan el Bautista. Su aportación única es doble: por un lado, ofrece la formulación bíblica más explícita de que Dios “aborrece el divorcio” (Mal 2:16), fundamentando la teología del matrimonio como pacto; por otro, cierra el canon con la profecía mesiánica más citada por los evangelistas para anunciar la llegada tanto del precursor (Elías/Juan el Bautista) como del Señor mismo (Mal 3:1; 4:5–6), dejando el Antiguo Testamento deliberadamente abierto hacia el Nuevo.",
+    "en": "Malachi is the last prophetic voice of the Old Testament and, in the Christian canonical order, the final word before four centuries of prophetic silence until John the Baptist. Its unique contribution is twofold: on one hand, it offers Scripture’s most explicit statement that God “hates divorce” (Mal 2:16), grounding the theology of marriage as covenant; on the other, it closes the canon with the messianic prophecy most cited by the Gospel writers to announce the coming of both the forerunner (Elijah/John the Baptist) and the Lord himself (Mal 3:1; 4:5–6), deliberately leaving the Old Testament open toward the New.",
+    "pt": "Malaquias é a última voz profética do Antigo Testamento e, na ordem canônica cristã, a última palavra antes de quatro séculos de silêncio profético até João Batista. Sua contribuição única é dupla: por um lado, oferece a formulação bíblica mais explícita de que Deus “aborrece o repúdio” (Ml 2:16), fundamentando a teologia do casamento como aliança; por outro, encerra o cânon com a profecia messiânica mais citada pelos evangelistas para anunciar a chegada tanto do precursor (Elias/João Batista) quanto do próprio Senhor (Ml 3:1; 4:5–6), deixando o Antigo Testamento deliberadamente aberto rumo ao Novo."
+  },
+  "genero": {
+    "es": "Profecía (oráculo de disputa / pleito de pacto)",
+    "en": "Prophecy (disputation oracle / covenant lawsuit)",
+    "pt": "Profecia (oráculo de disputa / litígio de aliança)"
+  },
+  "palabraClave": {
+    "es": [
+      "Pacto",
+      "Mensajero",
+      "Diezmos",
+      "Sacerdocio",
+      "Juicio"
+    ],
+    "en": [
+      "Covenant",
+      "Messenger",
+      "Tithes",
+      "Priesthood",
+      "Judgment"
+    ],
+    "pt": [
+      "Aliança",
+      "Mensageiro",
+      "Dízimos",
+      "Sacerdócio",
+      "Juízo"
+    ]
+  },
+  "destinatario": {
+    "es": "La comunidad post-exílica de Judá bajo dominio persa, aproximadamente una generación después de la reconstrucción del templo, dirigida específicamente a los sacerdotes levíticos corruptos y al pueblo en general que descuida el pacto en el matrimonio y los diezmos",
+    "en": "The post-exilic community of Judah under Persian rule, roughly a generation after the temple’s rebuilding, addressed specifically to the corrupt Levitical priests and to the general people neglecting the covenant in marriage and tithing",
+    "pt": "A comunidade pós-exílica de Judá sob domínio persa, aproximadamente uma geração após a reconstrução do templo, dirigida especificamente aos sacerdotes levíticos corruptos e ao povo em geral que negligencia a aliança no casamento e nos dízimos"
+  },
+  "proposito": {
+    "es": "Históricamente, Malaquías confronta la apatía espiritual de una comunidad que, tras el entusiasmo inicial de la reconstrucción del templo, ha caído en un cumplimiento religioso rutinario y corrupto —sacrificios defectuosos, divorcios, robo de diezmos— exigiendo un llamado renovado al arrepentimiento. Teológicamente, el libro defiende la fidelidad inmutable de Dios (Mal 3:6) frente al escepticismo del pueblo sobre su amor y su justicia, y anuncia que la solución a la infidelidad persistente no vendrá de la reforma humana sino de la intervención escatológica de Dios mismo mediante su mensajero y el día del SEÑOR.",
+    "en": "Historically, Malachi confronts the spiritual apathy of a community that, after the initial enthusiasm of the temple’s rebuilding, has settled into routine, corrupt religious observance—blemished sacrifices, divorce, robbed tithes—demanding a renewed call to repentance. Theologically, the book defends God’s immutable faithfulness (Mal 3:6) against the people’s skepticism about his love and justice, and announces that the solution to persistent unfaithfulness will come not from human reform but from God’s own eschatological intervention through his messenger and the day of the LORD.",
+    "pt": "Historicamente, Malaquias confronta a apatia espiritual de uma comunidade que, após o entusiasmo inicial da reconstrução do templo, caiu numa observância religiosa rotineira e corrupta — sacrifícios defeituosos, divórcios, dízimos roubados — exigindo um chamado renovado ao arrependimento. Teologicamente, o livro defende a fidelidade imutável de Deus (Ml 3:6) diante do ceticismo do povo quanto ao seu amor e à sua justiça, e anuncia que a solução para a infidelidade persistente não virá da reforma humana, mas da intervenção escatológica do próprio Deus por meio de seu mensageiro e do dia do SENHOR."
+  },
+  "personajes": [
+    {
+      "nombre": {
+        "es": "Malaquías",
+        "en": "Malachi",
+        "pt": "Malaquias"
+      },
+      "hebreo": "מַלְאָכִי",
+      "principal": true,
+      "rol": "protagonista",
+      "capitulosActivo": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "descripcion": {
+        "es": "El profeta a través de quien el SEÑOR dirige su última palabra profética del Antiguo Testamento a Israel (Mal 1:1). El libro no ofrece genealogía, lugar de origen ni relato biográfico alguno; su identidad se agota en la fórmula introductoria y en el mensaje mismo.",
+        "en": "The prophet through whom the LORD delivers his final Old Testament prophetic word to Israel (Mal 1:1). The book offers no genealogy, place of origin, or biographical narrative; his identity is exhausted in the introductory formula and the message itself.",
+        "pt": "O profeta por meio de quem o SENHOR dirige sua última palavra profética do Antigo Testamento a Israel (Ml 1:1). O livro não oferece genealogia, local de origem nem relato biográfico algum; sua identidade se esgota na fórmula introdutória e na própria mensagem."
+      },
+      "acciones": {
+        "es": "Conduce seis disputas de pacto en las que cita la objeción cínica del pueblo y responde con la palabra de Dios, cubriendo el amor electivo, la corrupción sacerdotal, la infidelidad matrimonial, la justicia divina, el robo de diezmos y el día del SEÑOR.",
+        "en": "He conducts six covenant disputations in which he cites the people’s cynical objection and answers with God’s word, covering electing love, priestly corruption, marital unfaithfulness, divine justice, tithe robbery, and the day of the LORD.",
+        "pt": "Conduz seis disputas de aliança nas quais cita a objeção cínica do povo e responde com a palavra de Deus, cobrindo o amor eletivo, a corrupção sacerdotal, a infidelidade matrimonial, a justiça divina, o roubo dos dízimos e o dia do SENHOR."
+      },
+      "significadoTeologico": {
+        "es": "Malaquías encarna el oficio profético como fiscal del pacto (rîb), cerrando la línea de los profetas veterotestamentarios y dejando un vacío profético que solo será llenado por Juan el Bautista.",
+        "en": "Malachi embodies the prophetic office as covenant prosecutor (rîb), closing the line of Old Testament prophets and leaving a prophetic silence that will only be filled by John the Baptist.",
+        "pt": "Malaquias encarna o ofício profético como promotor da aliança (rîb), encerrando a linha dos profetas veterotestamentários e deixando um silêncio profético que só será preenchido por João Batista."
+      },
+      "tipo": {
+        "es": "No se le presenta como un tipo cristológico directo; su función es transicional, cerrando la revelación profética del antiguo pacto y anticipando la voz que clama en el desierto.",
+        "en": "He is not presented as a direct Christological type; his function is transitional, closing the prophetic revelation of the old covenant and anticipating the voice crying in the wilderness.",
+        "pt": "Não é apresentado como um tipo cristológico direto; sua função é transicional, encerrando a revelação profética da antiga aliança e antecipando a voz que clama no deserto."
+      },
+      "caracterMoral": {
+        "es": "Fiel y sin componendas: transmite las palabras más severas de Dios contra los sacerdotes de su propio oficio sin suavizarlas.",
+        "en": "Faithful and uncompromising: he transmits God’s severest words against the priests of his own office without softening them.",
+        "pt": "Fiel e sem meios-termos: transmite as palavras mais severas de Deus contra os sacerdotes de seu próprio ofício sem suavizá-las."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Toda la información bíblica sobre Malaquías se limita a Mal 1:1: “Profecía de la palabra del SEÑOR a Israel por medio de Malaquías.” No se menciona en ningún otro libro canónico.",
+          "en": "All biblical information about Malachi is limited to Mal 1:1: “The oracle of the word of the LORD to Israel by Malachi.” He is not mentioned in any other canonical book.",
+          "pt": "Toda a informação bíblica sobre Malaquias se limita a Ml 1:1: “Peso da palavra do SENHOR contra Israel, por Malaquias.” Não é mencionado em nenhum outro livro canônico."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mal 1:1"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia extrabíblica que permita identificar a Malaquías con ninguna otra figura conocida. La Septuaginta y el Targum arameo ya interpretan “Malaquías” como nombre propio, tradición seguida por Longman y Dillard y por la generalidad de la erudición evangélica.",
+          "en": "No extrabiblical evidence identifies Malachi with any other known figure. The Septuagint and the Aramaic Targum already interpret “Malachi” as a proper name, a tradition followed by Longman and Dillard and by evangelical scholarship generally.",
+          "pt": "Não existe evidência extrabíblica que permita identificar Malaquias com nenhuma outra figura conhecida. A Septuaginta e o Targum aramaico já interpretam “Malaquias” como nome próprio, tradição seguida por Longman e Dillard e pela erudição evangélica em geral."
+        },
+        "fuentes": [
+          {
+            "titulo": "An Introduction to the Old Testament",
+            "autor": "Tremper Longman III y Raymond B. Dillard",
+            "año": 2006,
+            "editorial": "Zondervan",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Autoría",
+              "Identidad del profeta"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El texto mismo no resuelve la ambigüedad entre nombre propio y título; la posición reformada, siguiendo la tradición canónica, trata a Malaquías como un profeta histórico real sin que esto debilite la autoridad ni la inspiración del libro.",
+          "en": "The text itself does not resolve the ambiguity between proper name and title; the Reformed position, following canonical tradition, treats Malachi as a real historical prophet, without this weakening the book’s authority or inspiration.",
+          "pt": "O próprio texto não resolve a ambiguidade entre nome próprio e título; a posição reformada, seguindo a tradição canônica, trata Malaquias como um profeta histórico real, sem que isso enfraqueça a autoridade ou a inspiração do livro."
+        }
+      },
+      "versiculosAsociados": [
+        "Mal 1:1"
+      ],
+      "aparicionesEnOtrosLibros": [],
+      "enElNuevoTestamento": {
+        "es": "Aunque el profeta mismo no es nombrado, su libro es citado o aludido repetidamente en el Nuevo Testamento: Mt 11:10, Mr 1:2, Lc 1:17, Lc 7:27 y Ro 9:13.",
+        "en": "Though the prophet himself is not named, his book is repeatedly quoted or alluded to in the New Testament: Matt 11:10, Mark 1:2, Luke 1:17, Luke 7:27, and Rom 9:13.",
+        "pt": "Embora o próprio profeta não seja nomeado, seu livro é repetidamente citado ou aludido no Novo Testamento: Mt 11:10, Mc 1:2, Lc 1:17, Lc 7:27 e Rm 9:13."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Jacob · Israel",
+        "en": "Jacob",
+        "pt": "Jacó"
+      },
+      "hebreo": "יַעֲקֹב",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Citado en Mal 1:2 como el hermano elegido por Dios, representando a la nación de Israel como receptora del amor pactual e inmerecido del SEÑOR, en contraste directo con Esaú.",
+        "en": "Cited in Mal 1:2 as the brother chosen by God, representing the nation of Israel as recipient of the LORD’s unmerited covenant love, in direct contrast with Esau.",
+        "pt": "Citado em Ml 1:2 como o irmão escolhido por Deus, representando a nação de Israel como receptora do amor pactual e imerecido do SENHOR, em contraste direto com Esaú."
+      },
+      "acciones": {
+        "es": "No actúa dentro del libro; su nombre funciona como argumento teológico dentro de la primera disputa.",
+        "en": "He does not act within the book; his name functions as a theological argument within the first disputation.",
+        "pt": "Não atua dentro do livro; seu nome funciona como argumento teológico dentro da primeira disputa."
+      },
+      "significadoTeologico": {
+        "es": "Paradigma bíblico de la elección incondicional: Dios ama a Jacob sin fundamento en mérito alguno, texto que Pablo retoma en Romanos 9:13 para argumentar la doctrina de la elección soberana.",
+        "en": "Biblical paradigm of unconditional election: God loves Jacob with no grounding in any merit, a text Paul takes up in Romans 9:13 to argue for the doctrine of sovereign election.",
+        "pt": "Paradigma bíblico da eleição incondicional: Deus ama Jacó sem fundamento em mérito algum, texto que Paulo retoma em Romanos 9:13 para defender a doutrina da eleição soberana."
+      },
+      "tipo": {
+        "es": "Como hermano escogido sin mérito, prefigura la elección gratuita de la iglesia en Cristo “antes de la fundación del mundo” (Ef 1:4).",
+        "en": "As the brother chosen apart from merit, he prefigures the gracious election of the church in Christ “before the foundation of the world” (Eph 1:4).",
+        "pt": "Como irmão escolhido sem mérito, prefigura a eleição gratuita da igreja em Cristo “antes da fundação do mundo” (Ef 1:4)."
+      },
+      "caracterMoral": {
+        "es": "No se evalúa moralmente en este contexto; su elección se presenta explícitamente como anterior e independiente de cualquier conducta.",
+        "en": "He is not morally evaluated in this context; his election is explicitly presented as prior to and independent of any conduct.",
+        "pt": "Não é avaliado moralmente neste contexto; sua eleição é apresentada explicitamente como anterior e independente de qualquer conduta."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "En Malaquías, Jacob aparece únicamente como el nombre del amado por Dios en la apertura del libro: “Yo amé a Jacob” (Mal 1:2). Su biografía completa se narra en Génesis 25–50.",
+          "en": "In Malachi, Jacob appears only as the name of the one loved by God at the book’s opening: “I loved Jacob” (Mal 1:2). His full biography is narrated in Genesis 25–50.",
+          "pt": "Em Malaquias, Jacó aparece apenas como o nome do amado por Deus na abertura do livro: “Amei a Jacó” (Ml 1:2). Sua biografia completa é narrada em Gênesis 25–50."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mal 1:2"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Como figura patriarcal, la evidencia histórica externa directa es mínima; el trasfondo cultural de las narrativas patriarcales (nombres, costumbres de pastoreo, estructuras familiares) es coherente con prácticas del Bronce Medio en la región de Canaán y Harán.",
+          "en": "As a patriarchal figure, direct external historical evidence is minimal; the cultural background of the patriarchal narratives (names, pastoral customs, family structures) is consistent with Middle Bronze Age practices in the region of Canaan and Haran.",
+          "pt": "Como figura patriarcal, a evidência histórica externa direta é mínima; o pano de fundo cultural das narrativas patriarcais (nomes, costumes pastoris, estruturas familiares) é coerente com práticas do Bronze Médio na região de Canaã e Harã."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Contexto patriarcal"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Malaquías no añade datos históricos nuevos sobre Jacob; lo usa exclusivamente como argumento teológico de elección, en total continuidad con la presentación de Génesis.",
+          "en": "Malachi adds no new historical data about Jacob; he uses him exclusively as a theological argument for election, in full continuity with Genesis’s presentation.",
+          "pt": "Malaquias não acrescenta novos dados históricos sobre Jacó; usa-o exclusivamente como argumento teológico de eleição, em total continuidade com a apresentação de Gênesis."
+        }
+      },
+      "versiculosAsociados": [
+        "Mal 1:2"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Os",
+        "Ro"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Romanos 9:10–13 cita directamente Mal 1:2–3 para fundamentar la doctrina de la elección incondicional a partir de Jacob y Esaú.",
+        "en": "Romans 9:10–13 directly quotes Mal 1:2–3 to ground the doctrine of unconditional election in Jacob and Esau.",
+        "pt": "Romanos 9:10–13 cita diretamente Ml 1:2–3 para fundamentar a doutrina da eleição incondicional a partir de Jacó e Esaú."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Esaú",
+        "en": "Esau (Edom)",
+        "pt": "Esaú (Edom)"
+      },
+      "hebreo": "עֵשָׂו",
+      "principal": false,
+      "rol": "antagonista",
+      "capitulosActivo": [
+        1
+      ],
+      "descripcion": {
+        "es": "Citado en Mal 1:2–4 como el hermano rechazado, cuyos descendientes (Edom) sufrieron la desolación de su territorio, usado como prueba histórica de la elección soberana de Jacob.",
+        "en": "Cited in Mal 1:2–4 as the rejected brother, whose descendants (Edom) suffered the desolation of their territory, used as historical proof of Jacob’s sovereign election.",
+        "pt": "Citado em Ml 1:2–4 como o irmão rejeitado, cujos descendentes (Edom) sofreram a desolação de seu território, usado como prova histórica da eleição soberana de Jacó."
+      },
+      "acciones": {
+        "es": "No actúa dentro del libro; su nombre y el destino de su descendencia funcionan como el contraste negativo de la disputa inicial.",
+        "en": "He does not act within the book; his name and his descendants’ fate function as the negative contrast in the opening disputation.",
+        "pt": "Não atua dentro do livro; seu nome e o destino de sua descendência funcionam como o contraste negativo da disputa inicial."
+      },
+      "significadoTeologico": {
+        "es": "Representa la reprobación en el mismo texto de doble elección que Pablo cita en Romanos 9:13, y simboliza además la hostilidad histórica y perpetua de Edom contra el pueblo del pacto.",
+        "en": "He represents reprobation in the same double-election text Paul cites in Romans 9:13, and also symbolizes Edom’s historical, perpetual hostility toward the covenant people.",
+        "pt": "Representa a reprovação no mesmo texto de dupla eleição que Paulo cita em Romanos 9:13, e simboliza também a hostilidade histórica e perpétua de Edom contra o povo da aliança."
+      },
+      "tipo": {
+        "es": "Esaú no funciona como tipo positivo de Cristo, sino como contraste negativo: la reprobación que resalta por oposición la gracia inmerecida concedida a Jacob, patrón retomado en Ro 9 para ilustrar la libertad soberana de Dios en la elección.",
+        "en": "Esau does not function as a positive type of Christ but as a negative foil: the reprobation that highlights by contrast the undeserved grace granted to Jacob, a pattern taken up in Rom 9 to illustrate God's sovereign freedom in election.",
+        "pt": "Esaú não funciona como tipo positivo de Cristo, mas como contraste negativo: a reprovação que realça por oposição a graça imerecida concedida a Jacó, padrão retomado em Rm 9 para ilustrar a liberdade soberana de Deus na eleição."
+      },
+      "caracterMoral": {
+        "es": "No se evalúa por conducta individual en Malaquías; el juicio recae sobre su descendencia nacional, Edom, por su hostilidad histórica hacia Israel.",
+        "en": "He is not evaluated by individual conduct in Malachi; judgment falls on his national descendants, Edom, for their historical hostility toward Israel.",
+        "pt": "Não é avaliado por conduta individual em Malaquias; o juízo recai sobre sua descendência nacional, Edom, por sua hostilidade histórica contra Israel."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "En Malaquías, Esaú aparece solo como el hermano aborrecido en la disputa inicial: “aborrecí a Esaú, e hice de sus montes una desolación” (Mal 1:3). Su biografía completa se narra en Génesis 25–36.",
+          "en": "In Malachi, Esau appears only as the hated brother in the opening disputation: “I hated Esau and laid waste his hill country” (Mal 1:3). His full biography is narrated in Genesis 25–36.",
+          "pt": "Em Malaquias, Esaú aparece apenas como o irmão odiado na disputa inicial: “odiei a Esaú, e fiz dos seus montes uma assolação” (Ml 1:3). Sua biografia completa é narrada em Gênesis 25–36."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mal 1:3",
+          "Mal 1:4"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "La desolación histórica de Edom en el período persa temprano está parcialmente corroborada por el declive arqueológico de asentamientos edomitas tradicionales y el avance de pueblos árabes, incluidos los nabateos, en su territorio.",
+          "en": "Edom’s historical desolation in the early Persian period is partially corroborated by the archaeological decline of traditional Edomite settlements and the advance of Arab peoples, including the Nabateans, into its territory.",
+          "pt": "A desolação histórica de Edom no início do período persa é parcialmente corroborada pelo declínio arqueológico dos assentamentos edomitas tradicionais e pelo avanço de povos árabes, incluindo os nabateus, em seu território."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Historia de Edom"
+            ]
+          }
+        ],
+        "nivelEvidencia": "medio",
+        "concordanciaConTexto": {
+          "es": "El declive edomita observado arqueológicamente concuerda con la afirmación de Malaquías de que el territorio de Esaú fue entregado a la desolación, aunque el libro lo interpreta teológicamente como juicio divino y no meramente como resultado de presiones geopolíticas.",
+          "en": "The archaeologically observed Edomite decline agrees with Malachi’s claim that Esau’s territory was given over to desolation, though the book interprets it theologically as divine judgment rather than merely the result of geopolitical pressures.",
+          "pt": "O declínio edomita observado arqueologicamente concorda com a afirmação de Malaquias de que o território de Esaú foi entregue à desolação, embora o livro interprete isso teologicamente como juízo divino, e não meramente como resultado de pressões geopolíticas."
+        }
+      },
+      "versiculosAsociados": [
+        "Mal 1:3",
+        "Mal 1:4"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Abd",
+        "Ro"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Romanos 9:13 cita directamente “a Esaú aborrecí” como parte del argumento paulino sobre la elección soberana.",
+        "en": "Romans 9:13 directly quotes “Esau I hated” as part of Paul’s argument for sovereign election.",
+        "pt": "Romanos 9:13 cita diretamente “odiei a Esaú” como parte do argumento paulino sobre a eleição soberana."
+      }
+    },
+    {
+      "nombre": {
+        "es": "Leví",
+        "en": "Levi",
+        "pt": "Levi"
+      },
+      "hebreo": "לֵוִי",
+      "principal": false,
+      "rol": "tipo",
+      "capitulosActivo": [
+        2
+      ],
+      "descripcion": {
+        "es": "Invocado en Mal 2:4–8 como ancestro epónimo del sacerdocio, con quien Dios estableció un pacto de vida y paz marcado por temor reverente e instrucción veraz, estándar frente al cual se mide y condena a los sacerdotes contemporáneos de Malaquías.",
+        "en": "Invoked in Mal 2:4–8 as the eponymous ancestor of the priesthood, with whom God established a covenant of life and peace marked by reverent fear and truthful instruction, the standard against which Malachi’s contemporary priests are measured and condemned.",
+        "pt": "Invocado em Ml 2:4–8 como ancestral epônimo do sacerdócio, com quem Deus estabeleceu uma aliança de vida e paz marcada por temor reverente e instrução verdadeira, o padrão pelo qual os sacerdotes contemporâneos de Malaquias são medidos e condenados."
+      },
+      "acciones": {
+        "es": "No actúa en el libro; su pacto es citado retrospectivamente como el ideal sacerdotal traicionado por los sacerdotes actuales.",
+        "en": "He does not act in the book; his covenant is cited retrospectively as the priestly ideal betrayed by the current priests.",
+        "pt": "Não atua no livro; sua aliança é citada retrospectivamente como o ideal sacerdotal traído pelos sacerdotes atuais."
+      },
+      "significadoTeologico": {
+        "es": "Representa el ideal de un sacerdocio fiel cuyos labios guardan conocimiento y de cuya boca se busca la ley, en agudo contraste con los sacerdotes corruptos de los días de Malaquías (Mal 2:7–8).",
+        "en": "He represents the ideal of a faithful priesthood whose lips guard knowledge and from whose mouth the law is sought, in sharp contrast with the corrupt priests of Malachi’s day (Mal 2:7–8).",
+        "pt": "Representa o ideal de um sacerdócio fiel cujos lábios guardam conhecimento e de cuja boca se busca a lei, em agudo contraste com os sacerdotes corruptos dos dias de Malaquias (Ml 2:7–8)."
+      },
+      "tipo": {
+        "es": "El pacto de Leví, con su temor reverente y enseñanza sin iniquidad, prefigura el sacerdocio perfecto de Cristo, santo, inocente, inmaculado (He 7:26–28).",
+        "en": "The covenant with Levi, with its reverent fear and teaching free of iniquity, prefigures Christ’s perfect priesthood: holy, innocent, unstained (Heb 7:26–28).",
+        "pt": "A aliança com Levi, com seu temor reverente e ensino sem iniquidade, prefigura o sacerdócio perfeito de Cristo, santo, inocente, incontaminado (Hb 7:26–28)."
+      },
+      "caracterMoral": {
+        "es": "Presentado idealmente como reverente y fiel; el texto no narra sus fallas personales sino que lo usa como paradigma positivo del pacto sacerdotal.",
+        "en": "Presented ideally as reverent and faithful; the text does not narrate his personal failings but uses him as a positive paradigm of the priestly covenant.",
+        "pt": "Apresentado idealmente como reverente e fiel; o texto não narra suas falhas pessoais, mas o usa como paradigma positivo da aliança sacerdotal."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Malaquías recuerda “mi pacto con Leví... de vida y paz” (Mal 2:5), en el que el sacerdote ideal temía a Dios y su boca guardaba conocimiento (Mal 2:6–7). El origen de Leví como hijo de Jacob se narra en Génesis 29:34 y su consagración sacerdotal en Números 3 y Deuteronomio 33:8–11.",
+          "en": "Malachi recalls “my covenant with Levi... of life and peace” (Mal 2:5), in which the ideal priest feared God and his mouth guarded knowledge (Mal 2:6–7). Levi’s origin as Jacob’s son is narrated in Genesis 29:34 and his priestly consecration in Numbers 3 and Deuteronomy 33:8–11.",
+          "pt": "Malaquias relembra “minha aliança com Levi... de vida e de paz” (Ml 2:5), na qual o sacerdote ideal temia a Deus e sua boca guardava conhecimento (Ml 2:6–7). A origem de Levi como filho de Jacó é narrada em Gênesis 29:34 e sua consagração sacerdotal em Números 3 e Deuteronômio 33:8–11."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mal 2:4",
+          "Mal 2:5",
+          "Mal 2:6",
+          "Mal 2:7"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "No existe evidencia extrabíblica directa sobre Leví como individuo; la tradición pentateucal sobre la consagración de la tribu levítica (Nm 25:10–13; Dt 33:8–11) es el único trasfondo disponible, sin corroboración arqueológica independiente.",
+          "en": "There is no direct extrabiblical evidence for Levi as an individual; the Pentateuchal tradition concerning the Levitical tribe’s consecration (Num 25:10–13; Deut 33:8–11) is the only available background, with no independent archaeological corroboration.",
+          "pt": "Não há evidência extrabíblica direta sobre Levi como indivíduo; a tradição pentateucal sobre a consagração da tribo levítica (Nm 25:10–13; Dt 33:8–11) é o único pano de fundo disponível, sem corroboração arqueológica independente."
+        },
+        "fuentes": [
+          {
+            "titulo": "A History of Israel",
+            "autor": "John Bright",
+            "año": 1981,
+            "editorial": "Westminster John Knox",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Origen del sacerdocio levítico"
+            ]
+          }
+        ],
+        "nivelEvidencia": "bajo",
+        "concordanciaConTexto": {
+          "es": "Malaquías presupone y da por establecida la tradición pentateucal del pacto con Leví sin añadir detalles históricos nuevos, usándola exclusivamente como estándar teológico de comparación.",
+          "en": "Malachi presupposes and takes as established the Pentateuchal tradition of the covenant with Levi without adding new historical detail, using it exclusively as a theological standard of comparison.",
+          "pt": "Malaquias pressupõe e dá como estabelecida a tradição pentateucal da aliança com Levi sem acrescentar novos detalhes históricos, usando-a exclusivamente como padrão teológico de comparação."
+        }
+      },
+      "versiculosAsociados": [
+        "Mal 2:4",
+        "Mal 2:5",
+        "Mal 2:6",
+        "Mal 2:7",
+        "Mal 2:8"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Gn",
+        "Nm",
+        "Dt",
+        "He"
+      ],
+      "enElNuevoTestamento": {
+        "es": "El pacto sacerdotal de Leví informa el argumento de Hebreos 7 sobre un sacerdocio superior según el orden de Melquisedec, que supera y reemplaza el sacerdocio levítico.",
+        "en": "Levi’s priestly covenant informs the argument of Hebrews 7 for a superior priesthood after the order of Melchizedek, which surpasses and replaces the Levitical priesthood.",
+        "pt": "A aliança sacerdotal de Levi informa o argumento de Hebreus 7 sobre um sacerdócio superior segundo a ordem de Melquisedeque, que supera e substitui o sacerdócio levítico."
+      }
+    },
+    {
+      "nombre": {
+        "es": "El Mensajero del Pacto",
+        "en": "The Messenger of the Covenant",
+        "pt": "O Mensageiro da Aliança"
+      },
+      "hebreo": "מַלְאַךְ הַבְּרִית",
+      "principal": true,
+      "rol": "tipo",
+      "capitulosActivo": [
+        3
+      ],
+      "descripcion": {
+        "es": "Figura profético-mesiánica anunciada en Mal 3:1: primero un mensajero que prepara el camino, y luego “el Señor” mismo, identificado como “el mensajero del pacto”, que viene súbitamente a su templo para purificar.",
+        "en": "A prophetic-messianic figure announced in Mal 3:1: first a messenger who prepares the way, and then “the Lord” himself, identified as “the messenger of the covenant,” who comes suddenly to his temple to purify.",
+        "pt": "Figura profético-messiânica anunciada em Ml 3:1: primeiro um mensageiro que prepara o caminho, e depois o próprio “Senhor”, identificado como “o mensageiro da aliança”, que vem subitamente ao seu templo para purificar."
+      },
+      "acciones": {
+        "es": "Prepara el camino delante del SEÑOR y luego actúa como fuego de fundidor y jabón de lavadores para purificar a los hijos de Leví (Mal 3:2–3).",
+        "en": "He prepares the way before the LORD and then acts like a refiner’s fire and launderer’s soap to purify the sons of Levi (Mal 3:2–3).",
+        "pt": "Prepara o caminho diante do SENHOR e depois age como fogo de fundidor e sabão de lavandeiros para purificar os filhos de Levi (Ml 3:2–3)."
+      },
+      "significadoTeologico": {
+        "es": "Profecía mesiánica dual que colapsa dos figuras: el precursor (cumplido en Juan el Bautista) y el Señor mismo que visita su templo (cumplido en Cristo), respondiendo a la pregunta cínica de Mal 2:17, “¿Dónde está el Dios de justicia?”.",
+        "en": "A dual messianic prophecy collapsing two figures: the forerunner (fulfilled in John the Baptist) and the Lord himself who visits his temple (fulfilled in Christ), answering the cynical question of Mal 2:17, “Where is the God of justice?”",
+        "pt": "Profecia messiânica dupla que reúne duas figuras: o precursor (cumprido em João Batista) e o próprio Senhor que visita seu templo (cumprido em Cristo), respondendo à pergunta cínica de Ml 2:17, “Onde está o Deus do juízo?”"
+      },
+      "tipo": {
+        "es": "Más que un tipo indirecto, es profecía mesiánica directa aplicada explícitamente por los evangelistas a Juan el Bautista y a Jesucristo (Mt 11:10; Mr 1:2; Lc 1:17,76).",
+        "en": "More than an indirect type, this is direct messianic prophecy explicitly applied by the Gospel writers to John the Baptist and to Jesus Christ (Matt 11:10; Mark 1:2; Luke 1:17,76).",
+        "pt": "Mais do que um tipo indireto, é profecia messiânica direta aplicada explicitamente pelos evangelistas a João Batista e a Jesus Cristo (Mt 11:10; Mc 1:2; Lc 1:17,76)."
+      },
+      "caracterMoral": {
+        "es": "No aplica una evaluación moral; la figura misma es el agente de la purificación moral y del juicio sobre hechiceros, adúlteros, perjuros y opresores (Mal 3:5).",
+        "en": "Moral evaluation does not apply; the figure himself is the agent of moral purification and judgment upon sorcerers, adulterers, perjurers, and oppressors (Mal 3:5).",
+        "pt": "Não se aplica uma avaliação moral; a própria figura é o agente da purificação moral e do juízo sobre feiticeiros, adúlteros, perjuros e opressores (Ml 3:5)."
+      },
+      "biografiaBiblica": {
+        "resumen": {
+          "es": "Anunciado únicamente en Mal 3:1–5: “Yo envío a mi mensajero, y él preparará el camino delante de Mí. Y vendrá de repente a su templo el Señor a quien ustedes buscan.” No hay más desarrollo narrativo dentro del libro.",
+          "en": "Announced only in Mal 3:1–5: “Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple.” There is no further narrative development within the book.",
+          "pt": "Anunciado apenas em Ml 3:1–5: “Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Senhor a quem vós buscais.” Não há mais desenvolvimento narrativo dentro do livro."
+        },
+        "fuenteTexto": {
+          "es": "NBLA",
+          "en": "ESV",
+          "pt": "ARC"
+        },
+        "versiculosClave": [
+          "Mal 3:1",
+          "Mal 3:2",
+          "Mal 3:3"
+        ]
+      },
+      "biografiaHistorica": {
+        "resumen": {
+          "es": "Al tratarse de una figura profético-escatológica y no de un individuo históricamente verificable en el tiempo de Malaquías, no existe evidencia externa aplicable. La literatura judía intertestamentaria (p. ej. Sirácida 48:10) atestigua que la expectativa del retorno de Elías como precursor mesiánico, basada en este mismo texto, ya era una tradición viva antes del Nuevo Testamento.",
+          "en": "Since this is a prophetic-eschatological figure and not an individual historically verifiable in Malachi’s own time, no applicable external evidence exists. Intertestamental Jewish literature (e.g., Sirach 48:10) attests that the expectation of Elijah’s return as messianic forerunner, based on this very text, was already a living tradition before the New Testament.",
+          "pt": "Por se tratar de uma figura profético-escatológica e não de um indivíduo historicamente verificável no tempo de Malaquias, não existe evidência externa aplicável. A literatura judaica intertestamentária (ex.: Eclesiástico 48:10) atesta que a expectativa do retorno de Elias como precursor messiânico, baseada nesse mesmo texto, já era uma tradição viva antes do Novo Testamento."
+        },
+        "fuentes": [
+          {
+            "titulo": "Biblical Theology: Old and New Testaments",
+            "autor": "Geerhardus Vos",
+            "año": 1948,
+            "editorial": "Banner of Truth",
+            "nivel": 2,
+            "camposUtilizados": [
+              "Expectativa mesiánica intertestamentaria"
+            ]
+          }
+        ],
+        "nivelEvidencia": "especulativo",
+        "concordanciaConTexto": {
+          "es": "El testimonio explícito de Jesús (Mt 11:10; 17:10–13) y de los evangelistas (Mr 1:2; Lc 1:17,76; 7:27) resuelve dentro del canon la identidad de esta figura dual, confirmando que la profecía de Malaquías se cumple literalmente en la historia del Nuevo Testamento.",
+          "en": "The explicit testimony of Jesus (Matt 11:10; 17:10–13) and the Gospel writers (Mark 1:2; Luke 1:17,76; 7:27) resolves within the canon the identity of this dual figure, confirming that Malachi’s prophecy is fulfilled literally in New Testament history.",
+          "pt": "O testemunho explícito de Jesus (Mt 11:10; 17:10–13) e dos evangelistas (Mc 1:2; Lc 1:17,76; 7:27) resolve dentro do cânon a identidade dessa figura dupla, confirmando que a profecia de Malaquias se cumpre literalmente na história do Novo Testamento."
+        }
+      },
+      "versiculosAsociados": [
+        "Mal 3:1",
+        "Mal 3:2",
+        "Mal 3:3",
+        "Mal 3:5",
+        "Mal 4:5",
+        "Mal 4:6"
+      ],
+      "aparicionesEnOtrosLibros": [
+        "Mt",
+        "Mr",
+        "Lc"
+      ],
+      "enElNuevoTestamento": {
+        "es": "Cumplimiento explícito en Mt 11:10, Mr 1:2, Lc 1:17,76 y Lc 7:27, donde el mensajero precursor se identifica con Juan el Bautista, y en la venida de Cristo al templo (Mt 21:12).",
+        "en": "Explicit fulfillment in Matt 11:10, Mark 1:2, Luke 1:17,76, and Luke 7:27, where the forerunner messenger is identified with John the Baptist, and in Christ’s coming to the temple (Matt 21:12).",
+        "pt": "Cumprimento explícito em Mt 11:10, Mc 1:2, Lc 1:17,76 e Lc 7:27, onde o mensageiro precursor é identificado com João Batista, e na vinda de Cristo ao templo (Mt 21:12)."
+      }
+    }
+  ],
+  "teologiaSistematica": [
+    {
+      "categoria": {
+        "es": "Pacto",
+        "en": "Covenant",
+        "pt": "Aliança"
+      },
+      "resumen": {
+        "es": "Malaquías estructura todo el libro como un pleito de pacto (rîb): Dios recuerda su amor electivo por Jacob (Mal 1:2), su pacto con Leví que garantizaba una instrucción sacerdotal fiel (Mal 2:4–8), y el pacto matrimonial que une a esposo y esposa como “compañera y esposa de tu pacto” (Mal 2:14). El libro termina señalando un remanente que teme al SEÑOR y es inscrito en un “libro de memoria” (Mal 3:16), preservando la comunidad del pacto en medio de la infidelidad generalizada.",
+        "en": "Malachi structures the entire book as a covenant lawsuit (rîb): God recalls his electing love for Jacob (Mal 1:2), his covenant with Levi that guaranteed faithful priestly instruction (Mal 2:4–8), and the marriage covenant binding husband and wife as “your companion and wife by covenant” (Mal 2:14). The book closes by pointing to a remnant who fears the LORD and is written in a “book of remembrance” (Mal 3:16), preserving the covenant community amid widespread unfaithfulness.",
+        "pt": "Malaquias estrutura todo o livro como um litígio de aliança (rîb): Deus relembra seu amor eletivo por Jacó (Ml 1:2), sua aliança com Levi que garantia uma instrução sacerdotal fiel (Ml 2:4–8), e a aliança matrimonial que une marido e mulher como “companheira e mulher da tua aliança” (Ml 2:14). O livro termina apontando para um remanescente que teme o SENHOR e é inscrito num “livro de memórias” (Ml 3:16), preservando a comunidade da aliança em meio à infidelidade generalizada."
+      },
+      "pasajes": [
+        "Mal 1:2",
+        "Mal 2:4-8",
+        "Mal 2:14",
+        "Mal 3:16"
+      ],
+      "ensenanza": {
+        "es": "Dios fundamenta su amor por Israel en la elección soberana de Jacob, sin mérito alguno de por medio · El pacto con Leví demandaba temor reverente e instrucción veraz por parte de los sacerdotes · El matrimonio es un pacto solemne testificado por Dios mismo · Los que temen al SEÑOR son recordados y preservados como su posesión especial",
+        "en": "God grounds his love for Israel in the sovereign election of Jacob, apart from any merit · The covenant with Levi demanded reverent fear and truthful instruction from the priests · Marriage is a solemn covenant to which God himself is witness · Those who fear the LORD are remembered and preserved as his treasured possession",
+        "pt": "Deus fundamenta seu amor por Israel na eleição soberana de Jacó, sem mérito algum · A aliança com Levi exigia temor reverente e instrução verdadeira da parte dos sacerdotes · O casamento é uma aliança solene da qual o próprio Deus é testemunha · Os que temem o SENHOR são lembrados e preservados como sua possessão especial"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada lee el “pleito de pacto” de Malaquías como confirmación de que la relación de Dios con su pueblo siempre ha sido pactual y unilateral en su origen (gracia electiva), aunque bilateral en sus obligaciones, patrón que anticipa la estructura del pacto de gracia consumado en Cristo.",
+        "en": "Reformed theology reads Malachi’s “covenant lawsuit” as confirmation that God’s relationship with his people has always been covenantal and unilateral in its origin (electing grace), though bilateral in its obligations—a pattern anticipating the structure of the covenant of grace consummated in Christ.",
+        "pt": "A teologia reformada lê o “litígio de aliança” de Malaquias como confirmação de que a relação de Deus com seu povo sempre foi pactual e unilateral em sua origem (graça eletiva), embora bilateral em suas obrigações — um padrão que antecipa a estrutura da aliança da graça consumada em Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Elección",
+        "en": "Election",
+        "pt": "Eleição"
+      },
+      "resumen": {
+        "es": "El libro abre defendiendo el amor de Dios apelando exclusivamente a su elección soberana: “Jacob amé, mas a Esaú aborrecí” (Mal 1:2–3), texto que Pablo cita en Romanos 9:13 como prueba de que la elección no depende de obras. Mal 3:17 extiende esta misma lógica electiva al remanente fiel, a quien Dios llama “mi propiedad especial” en el día en que actúe.",
+        "en": "The book opens by defending God’s love by appealing exclusively to his sovereign election: “Jacob I loved, but Esau I hated” (Mal 1:2–3), a text Paul cites in Romans 9:13 as proof that election does not depend on works. Mal 3:17 extends this same electing logic to the faithful remnant, whom God calls “my treasured possession” on the day he acts.",
+        "pt": "O livro abre defendendo o amor de Deus apelando exclusivamente à sua eleição soberana: “Amei a Jacó, mas odiei a Esaú” (Ml 1:2–3), texto que Paulo cita em Romanos 9:13 como prova de que a eleição não depende de obras. Ml 3:17 estende essa mesma lógica eletiva ao remanescente fiel, a quem Deus chama “minha possessão exclusiva” no dia em que agir."
+      },
+      "pasajes": [
+        "Mal 1:2",
+        "Mal 1:3",
+        "Mal 3:17"
+      ],
+      "ensenanza": {
+        "es": "El amor de Dios por Jacob y su rechazo de Esaú preceden a cualquier obra de ambos, fundamentando la elección en la sola voluntad divina · La distinción histórica entre la restauración de Israel y la desolación de Edom confirma en el tiempo la elección declarada antes del tiempo · El remanente que teme al SEÑOR será apartado como posesión especial de Dios en el día del juicio",
+        "en": "God’s love for Jacob and rejection of Esau precede any works by either, grounding election in God’s will alone · The historical contrast between Israel’s restoration and Edom’s desolation confirms in time the election declared before time · The remnant who fears the LORD will be set apart as God’s treasured possession on the day of judgment",
+        "pt": "O amor de Deus por Jacó e a rejeição de Esaú precedem qualquer obra de ambos, fundamentando a eleição somente na vontade divina · O contraste histórico entre a restauração de Israel e a desolação de Edom confirma no tempo a eleição declarada antes do tempo · O remanescente que teme o SENHOR será separado como possessão especial de Deus no dia do juízo"
+      },
+      "distintivaReformada": {
+        "es": "Malaquías 1:2–3 es uno de los textos de prueba clásicos de la doctrina reformada de la elección incondicional, citado directamente por Pablo en Romanos 9 para refutar cualquier noción de que la elección depende de la previsión de méritos u obras futuras.",
+        "en": "Malachi 1:2–3 is one of the classic Reformed proof texts for the doctrine of unconditional election, cited directly by Paul in Romans 9 to refute any notion that election depends on foreseen merit or future works.",
+        "pt": "Malaquias 1:2–3 é um dos textos de prova clássicos da doutrina reformada da eleição incondicional, citado diretamente por Paulo em Romanos 9 para refutar qualquer noção de que a eleição depende da previsão de méritos ou obras futuras."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Escatología",
+        "en": "Eschatology",
+        "pt": "Escatologia"
+      },
+      "resumen": {
+        "es": "Malaquías anuncia el “día del SEÑOR” como un evento doble: purificación para quienes temen su nombre (Mal 4:2, el “sol de justicia” que trae sanidad) y consumición como horno ardiente para los soberbios y hacedores de maldad (Mal 4:1). Antes de ese día, Dios enviará un mensajero preparatorio y, finalmente, a Elías el profeta (Mal 4:5), estableciendo la expectativa escatológica que domina el período intertestamentario.",
+        "en": "Malachi announces the “day of the LORD” as a double event: purification for those who fear his name (Mal 4:2, the “sun of righteousness” bringing healing) and consumption like a burning oven for the arrogant and evildoers (Mal 4:1). Before that day, God will send a preparatory messenger and, finally, Elijah the prophet (Mal 4:5), establishing the eschatological expectation that dominates the intertestamental period.",
+        "pt": "Malaquias anuncia o “dia do SENHOR” como um evento duplo: purificação para os que temem o seu nome (Ml 4:2, o “sol da justiça” que traz cura) e consumição como forno ardente para os soberbos e praticantes da maldade (Ml 4:1). Antes desse dia, Deus enviará um mensageiro preparatório e, finalmente, Elias o profeta (Ml 4:5), estabelecendo a expectativa escatológica que domina o período intertestamentário."
+      },
+      "pasajes": [
+        "Mal 3:1-2",
+        "Mal 4:1",
+        "Mal 4:2",
+        "Mal 4:5"
+      ],
+      "ensenanza": {
+        "es": "El SEÑOR vendrá súbitamente a su templo como fuego purificador y jabón de lavadores para refinar a los hijos de Leví · Ese día quemará como horno a los soberbios y hacedores de maldad, sin dejarles raíz ni rama · Para los que temen su nombre, ese mismo día nacerá el sol de justicia trayendo sanidad en sus alas · Elías el profeta será enviado antes del día grande y terrible del SEÑOR para volver los corazones",
+        "en": "The LORD will come suddenly to his temple like a refiner’s fire and launderer’s soap to purify the sons of Levi · That day will burn like an oven for the arrogant and evildoers, leaving them neither root nor branch · For those who fear his name, that same day the sun of righteousness will rise with healing in its wings · Elijah the prophet will be sent before the great and terrible day of the LORD to turn hearts",
+        "pt": "O SENHOR virá subitamente ao seu templo como fogo purificador e sabão de lavandeiros para refinar os filhos de Levi · Aquele dia queimará como forno os soberbos e praticantes da maldade, sem lhes deixar raiz nem ramo · Para os que temem o seu nome, nesse mesmo dia nascerá o sol da justiça trazendo cura em suas asas · Elias o profeta será enviado antes do grande e terrível dia do SENHOR para converter corações"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada ve en el “día del SEÑOR” de Malaquías la misma estructura de juicio y salvación simultáneos que caracteriza la consumación escatológica en toda la Escritura: un solo evento que es ruina para los impíos y redención para el remanente, cumplido definitivamente en la segunda venida de Cristo.",
+        "en": "Reformed theology sees in Malachi’s “day of the LORD” the same structure of simultaneous judgment and salvation that characterizes eschatological consummation throughout Scripture: a single event that is ruin for the wicked and redemption for the remnant, fulfilled definitively in Christ’s second coming.",
+        "pt": "A teologia reformada vê no “dia do SENHOR” de Malaquias a mesma estrutura de juízo e salvação simultâneos que caracteriza a consumação escatológica em toda a Escritura: um único evento que é ruína para os ímpios e redenção para o remanescente, cumprido definitivamente na segunda vinda de Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Cristología",
+        "en": "Christology",
+        "pt": "Cristologia"
+      },
+      "resumen": {
+        "es": "Malaquías 3:1 anuncia dos figuras que convergen en el ministerio de Jesucristo: un mensajero precursor (cumplido en Juan el Bautista, según Mt 11:10) y “el Señor” que viene súbitamente a su templo, identificado también como “el mensajero del pacto”. Mal 4:2 añade la imagen del “sol de justicia” que se levanta con sanidad en sus alas, una figura mesiánica de luz y restauración.",
+        "en": "Malachi 3:1 announces two figures that converge in the ministry of Jesus Christ: a forerunner messenger (fulfilled in John the Baptist, per Matt 11:10) and “the Lord” who comes suddenly to his temple, also identified as “the messenger of the covenant.” Mal 4:2 adds the image of the “sun of righteousness” rising with healing in its wings, a messianic figure of light and restoration.",
+        "pt": "Malaquias 3:1 anuncia duas figuras que convergem no ministério de Jesus Cristo: um mensageiro precursor (cumprido em João Batista, segundo Mt 11:10) e “o Senhor” que vem subitamente ao seu templo, também identificado como “o mensageiro da aliança”. Ml 4:2 acrescenta a imagem do “sol da justiça” que nasce com cura em suas asas, uma figura messiânica de luz e restauração."
+      },
+      "pasajes": [
+        "Mal 3:1",
+        "Mal 3:2",
+        "Mal 4:2"
+      ],
+      "ensenanza": {
+        "es": "El mensajero enviado para preparar el camino del Señor se cumple en el ministerio precursor de Juan el Bautista · La súbita venida del Señor a su templo anticipa tanto la purificación del templo por Jesús como su encarnación como el mensajero del pacto · El sol de justicia que sana con sus alas retrata a Cristo como luz mesiánica y sanador escatológico",
+        "en": "The messenger sent to prepare the Lord’s way is fulfilled in John the Baptist’s forerunner ministry · The Lord’s sudden coming to his temple anticipates both Jesus’s cleansing of the temple and his incarnation as the messenger of the covenant · The sun of righteousness that heals with its wings portrays Christ as messianic light and eschatological healer",
+        "pt": "O mensageiro enviado para preparar o caminho do Senhor se cumpre no ministério precursor de João Batista · A vinda súbita do Senhor ao seu templo antecipa tanto a purificação do templo por Jesus quanto sua encarnação como o mensageiro da aliança · O sol da justiça que cura com suas asas retrata Cristo como luz messiânica e curador escatológico"
+      },
+      "distintivaReformada": {
+        "es": "Siguiendo la hermenéutica cristocéntrica reformada, Malaquías 3:1 y 4:2 se leen como profecía directa, no meramente tipológica, confirmada explícitamente por los evangelistas al aplicar estos textos a Juan el Bautista y a Jesús, cerrando el Antiguo Testamento con la puerta abierta hacia el cumplimiento en Cristo.",
+        "en": "Following Reformed Christocentric hermeneutics, Malachi 3:1 and 4:2 are read as direct—not merely typological—prophecy, explicitly confirmed by the Gospel writers in applying these texts to John the Baptist and to Jesus, closing the Old Testament with the door open toward fulfillment in Christ.",
+        "pt": "Seguindo a hermenêutica cristocêntrica reformada, Malaquias 3:1 e 4:2 são lidos como profecia direta, não meramente tipológica, confirmada explicitamente pelos evangelistas ao aplicar esses textos a João Batista e a Jesus, encerrando o Antigo Testamento com a porta aberta para o cumprimento em Cristo."
+      }
+    },
+    {
+      "categoria": {
+        "es": "Ley",
+        "en": "Law",
+        "pt": "Lei"
+      },
+      "resumen": {
+        "es": "Malaquías mide la infidelidad del pueblo contra la ley de Moisés: se han apartado de los estatutos de Dios (Mal 3:7) y le han robado en diezmos y ofrendas (Mal 3:8–10), violando las provisiones levíticas para el sostén del templo. El libro cierra con el mandato explícito de “acordarse de la ley de Moisés” dada en Horeb (Mal 4:4), la última palabra ética del Antiguo Testamento antes del silencio profético.",
+        "en": "Malachi measures the people’s unfaithfulness against the law of Moses: they have turned aside from God’s statutes (Mal 3:7) and robbed him in tithes and offerings (Mal 3:8–10), violating the Levitical provisions for the temple’s support. The book closes with the explicit command to “remember the law of Moses” given at Horeb (Mal 4:4), the Old Testament’s final ethical word before the prophetic silence.",
+        "pt": "Malaquias mede a infidelidade do povo contra a lei de Moisés: eles se desviaram dos estatutos de Deus (Ml 3:7) e o roubaram em dízimos e ofertas (Ml 3:8–10), violando as provisões levíticas para o sustento do templo. O livro termina com o mandamento explícito de “lembrar-se da lei de Moisés” dada em Horebe (Ml 4:4), a última palavra ética do Antigo Testamento antes do silêncio profético."
+      },
+      "pasajes": [
+        "Mal 3:7",
+        "Mal 3:8-10",
+        "Mal 4:4"
+      ],
+      "ensenanza": {
+        "es": "El pueblo se ha desviado de los estatutos de Dios desde los días de sus padres, por lo que se les llama a volver · Retener el diezmo completo es definido como robar a Dios mismo, y traerlo íntegro trae la promesa de bendición derramada · El libro concluye exhortando a recordar toda la ley dada por medio de Moisés en Horeb para todo Israel",
+        "en": "The people have turned aside from God’s statutes since the days of their fathers, so they are called to return · Withholding the full tithe is defined as robbing God himself, and bringing it in full carries the promise of poured-out blessing · The book concludes by exhorting Israel to remember the whole law given through Moses at Horeb",
+        "pt": "O povo se desviou dos estatutos de Deus desde os dias de seus pais, por isso são chamados a voltar · Reter o dízimo integral é definido como roubar o próprio Deus, e trazê-lo por completo traz a promessa de bênção derramada · O livro conclui exortando a lembrar toda a lei dada por meio de Moisés em Horebe para todo Israel"
+      },
+      "distintivaReformada": {
+        "es": "La teología reformada distingue en este llamado el uso pedagógico y normativo de la ley: Malaquías no ofrece la ley como camino de salvación sino como la regla de vida del pacto que expone el pecado del pueblo y los conduce de vuelta a la gracia electiva ya declarada en el capítulo 1.",
+        "en": "Reformed theology distinguishes in this call the pedagogical and normative uses of the law: Malachi does not offer the law as a path to salvation but as the covenant’s rule of life that exposes the people’s sin and drives them back to the electing grace already declared in chapter 1.",
+        "pt": "A teologia reformada distingue nesse chamado os usos pedagógico e normativo da lei: Malaquias não oferece a lei como caminho de salvação, mas como a regra de vida da aliança que expõe o pecado do povo e os conduz de volta à graça eletiva já declarada no capítulo 1."
+      }
+    }
+  ],
+  "anclasConfesionales": [
+    {
+      "cap": "Cap. 3",
+      "titulo": {
+        "es": "Del Decreto Eterno de Dios",
+        "en": "Of God's Eternal Decree",
+        "pt": "Do Decreto Eterno de Deus"
+      },
+      "doctrinas": [
+        "Elección",
+        "Providencia"
+      ],
+      "resumen": {
+        "es": "El capítulo 3 de la Confesión de Westminster enseña que Dios, desde la eternidad, decretó libre e inmutablemente todo lo que sucede, incluyendo la elección de algunos hombres para vida eterna sin previsión de fe u obras. Malaquías 1:2–3 provee el texto veterotestamentario más citado en el Nuevo Testamento para esta doctrina, al declarar que Dios amó a Jacob y aborreció a Esaú antes de cualquier obra de ambos.",
+        "en": "Chapter 3 of the Westminster Confession teaches that God, from eternity, freely and immutably decreed everything that comes to pass, including the election of some to eternal life without foresight of faith or works. Malachi 1:2–3 provides the Old Testament text most cited in the New Testament for this doctrine, declaring that God loved Jacob and hated Esau before either had done anything.",
+        "pt": "O capítulo 3 da Confissão de Westminster ensina que Deus, desde a eternidade, decretou livre e imutavelmente tudo o que acontece, incluindo a eleição de alguns homens para a vida eterna sem previsão de fé ou obras. Malaquias 1:2–3 fornece o texto veterotestamentário mais citado no Novo Testamento para essa doutrina, ao declarar que Deus amou a Jacó e odiou a Esaú antes de qualquer obra de ambos."
+      },
+      "genesis": [
+        "Mal 1:2",
+        "Mal 1:3"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-3"
+    },
+    {
+      "cap": "Cap. 24",
+      "titulo": {
+        "es": "Del Matrimonio y el Divorcio",
+        "en": "Of Marriage and Divorce",
+        "pt": "Do Casamento e do Divórcio"
+      },
+      "doctrinas": [
+        "Matrimonio",
+        "Ética"
+      ],
+      "resumen": {
+        "es": "El capítulo 24 define el matrimonio como una institución sagrada instituida por Dios para la ayuda mutua, la procreación y la contención del pecado, cuyo vínculo no debe romperse a la ligera. Malaquías 2:14–16 es el fundamento veterotestamentario más directo de esta doctrina: Dios declara ser testigo del pacto matrimonial y afirma explícitamente “yo aborrezco el divorcio”.",
+        "en": "Chapter 24 defines marriage as a sacred institution ordained by God for mutual help, procreation, and the restraint of sin, whose bond must not be broken lightly. Malachi 2:14–16 is the most direct Old Testament foundation for this doctrine: God declares himself witness to the marriage covenant and explicitly states, “I hate divorce.”",
+        "pt": "O capítulo 24 define o casamento como uma instituição sagrada ordenada por Deus para ajuda mútua, procriação e contenção do pecado, cujo vínculo não deve ser rompido levianamente. Malaquias 2:14–16 é o fundamento veterotestamentário mais direto dessa doutrina: Deus se declara testemunha da aliança matrimonial e afirma explicitamente “eu aborreço o repúdio”."
+      },
+      "genesis": [
+        "Mal 2:14",
+        "Mal 2:16"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-24"
+    },
+    {
+      "cap": "Cap. 19",
+      "titulo": {
+        "es": "De la Ley de Dios",
+        "en": "Of the Law of God",
+        "pt": "Da Lei de Deus"
+      },
+      "doctrinas": [
+        "Ley",
+        "Santificación"
+      ],
+      "resumen": {
+        "es": "El capítulo 19 sostiene que la ley moral dada a Moisés sigue obligando perpetuamente como regla de vida para los creyentes. El llamado final de Malaquías a “acordarse de la ley de Moisés” (Mal 4:4), tras denunciar el robo de diezmos y el abandono de los estatutos divinos (Mal 3:7–10), ejemplifica el uso normativo de la ley dentro del pacto.",
+        "en": "Chapter 19 holds that the moral law given to Moses continues to bind perpetually as a rule of life for believers. Malachi’s final call to “remember the law of Moses” (Mal 4:4), after denouncing the robbery of tithes and abandonment of God’s statutes (Mal 3:7–10), exemplifies the normative use of the law within the covenant.",
+        "pt": "O capítulo 19 sustenta que a lei moral dada a Moisés continua a obrigar perpetuamente como regra de vida para os crentes. O chamado final de Malaquias a “lembrar-se da lei de Moisés” (Ml 4:4), depois de denunciar o roubo dos dízimos e o abandono dos estatutos divinos (Ml 3:7–10), exemplifica o uso normativo da lei dentro da aliança."
+      },
+      "genesis": [
+        "Mal 3:7",
+        "Mal 4:4"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-19"
+    },
+    {
+      "cap": "Cap. 33",
+      "titulo": {
+        "es": "Del Juicio Final",
+        "en": "Of the Last Judgment",
+        "pt": "Do Juízo Final"
+      },
+      "doctrinas": [
+        "Escatología",
+        "Juicio"
+      ],
+      "resumen": {
+        "es": "El capítulo 33 enseña que Dios ha señalado un día en que juzgará al mundo, día de ruina eterna para los impíos y de gozo eterno para los justos. Malaquías 4:1–2 anticipa esta doble consumación con la imagen del horno ardiente que consume a los soberbios y del sol de justicia que sana a quienes temen el nombre del SEÑOR.",
+        "en": "Chapter 33 teaches that God has appointed a day on which he will judge the world, a day of everlasting ruin for the wicked and everlasting joy for the righteous. Malachi 4:1–2 anticipates this double consummation with the image of the burning oven that consumes the arrogant and the sun of righteousness that heals those who fear the LORD’s name.",
+        "pt": "O capítulo 33 ensina que Deus designou um dia em que julgará o mundo, dia de ruína eterna para os ímpios e de gozo eterno para os justos. Malaquias 4:1–2 antecipa essa dupla consumação com a imagem do forno ardente que consome os soberbos e do sol da justiça que cura os que temem o nome do SENHOR."
+      },
+      "genesis": [
+        "Mal 4:1",
+        "Mal 4:2"
+      ],
+      "url": "https://es.ligonier.org/recursos/credos-confesiones/la-confesion-de-fe-de-westminster/#capitulo-33"
+    }
+  ],
+  "versiculosClave": [
+    {
+      "ref": "Mal 1:2-3",
+      "es": "Yo os he amado —dice el SEÑOR. Pero ustedes dicen: “¿En qué nos has amado?” ¿No era Esaú hermano de Jacob? —declara el SEÑOR—. Sin embargo, Yo amé a Jacob, y aborrecí a Esaú, e hice de sus montes una desolación, y de su heredad un lugar para los chacales del desierto.",
+      "en": "I have loved you, says the LORD. But you say, “How have you loved us?” Is not Esau Jacob's brother? declares the LORD. Yet I have loved Jacob but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.",
+      "pt": "Eu vos amei, diz o SENHOR; mas vós dizeis: Em que nos amaste? Não era Esaú irmão de Jacó? diz o SENHOR; todavia amei a Jacó, e aborreci a Esaú, e fiz dos seus montes uma assolação, e dei a sua herança aos chacais do deserto.",
+      "nota": {
+        "es": "Texto fundacional de la doctrina de la elección incondicional, citado directamente por Pablo en Romanos 9:13 para demostrar que la elección divina no depende de obra ni mérito alguno, sino de la sola voluntad soberana de Dios.",
+        "en": "Foundational text for the doctrine of unconditional election, directly quoted by Paul in Romans 9:13 to demonstrate that divine election depends not on any work or merit but on God's sovereign will alone.",
+        "pt": "Texto fundacional da doutrina da eleição incondicional, citado diretamente por Paulo em Romanos 9:13 para demonstrar que a eleição divina não depende de obra ou mérito algum, mas somente da vontade soberana de Deus."
+      }
+    },
+    {
+      "ref": "Mal 2:16",
+      "es": "Porque el que aborrece, que despida —dice el SEÑOR, Dios de Israel—, cubre de violencia su vestidura —dice el SEÑOR de los ejércitos—. Cuídense, pues, en su espíritu, y no sean desleales.",
+      "en": "For the man who hates and divorces, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.",
+      "pt": "Porque o SENHOR, Deus de Israel, diz que aborrece o repúdio, e aquele que cobre de violência o seu vestido, diz o SENHOR dos Exércitos; portanto, guardai-vos em vosso espírito, e não sejais desleais.",
+      "nota": {
+        "es": "La declaración más explícita de la Escritura sobre el aborrecimiento divino del divorcio, fundamento textual de la doctrina reformada del matrimonio como pacto solemne y no mero contrato civil disoluble.",
+        "en": "Scripture's most explicit statement of God's hatred of divorce, the textual foundation for the Reformed doctrine of marriage as a solemn covenant rather than a dissolvable civil contract.",
+        "pt": "A declaração mais explícita da Escritura sobre o aborrecimento divino do divórcio, fundamento textual da doutrina reformada do casamento como aliança solene e não mero contrato civil dissolúvel."
+      }
+    },
+    {
+      "ref": "Mal 3:1",
+      "es": "Yo envío a mi mensajero, y él preparará el camino delante de Mí. Y vendrá de repente a su templo el Señor a quien ustedes buscan; y el mensajero del pacto en quien ustedes se complacen, ciertamente viene —dice el SEÑOR de los ejércitos.",
+      "en": "Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts.",
+      "pt": "Eis que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Senhor a quem vós buscais, e o anjo da aliança, a quem vós desejais; eis que ele vem, diz o SENHOR dos Exércitos.",
+      "nota": {
+        "es": "La profecía mesiánica dual más citada de Malaquías en el Nuevo Testamento: el mensajero precursor cumplido en Juan el Bautista y el Señor mismo que viene a su templo cumplido en Cristo.",
+        "en": "Malachi's most-quoted dual messianic prophecy in the New Testament: the forerunner messenger fulfilled in John the Baptist and the Lord himself coming to his temple, fulfilled in Christ.",
+        "pt": "A profecia messiânica dupla de Malaquias mais citada no Novo Testamento: o mensageiro precursor cumprido em João Batista e o próprio Senhor que vem ao seu templo, cumprido em Cristo."
+      }
+    },
+    {
+      "ref": "Mal 3:6",
+      "es": "Porque Yo, el SEÑOR, no cambio; por eso ustedes, oh hijos de Jacob, no habéis sido consumidos.",
+      "en": "For I the LORD do not change; therefore you, O children of Jacob, are not consumed.",
+      "pt": "Porque eu, o SENHOR, não mudo; por isso vós, ó filhos de Jacó, não sois consumidos.",
+      "nota": {
+        "es": "Texto clásico de la doctrina de la inmutabilidad de Dios, que la teología reformada lee como el fundamento por el cual la fidelidad del pacto y la perseverancia de los santos permanecen seguras a pesar de la infidelidad humana.",
+        "en": "A classic text on the doctrine of God's immutability, which Reformed theology reads as the ground on which covenant faithfulness and the perseverance of the saints remain secure despite human unfaithfulness.",
+        "pt": "Texto clássico da doutrina da imutabilidade de Deus, que a teologia reformada lê como o fundamento pelo qual a fidelidade da aliança e a perseverança dos santos permanecem seguras apesar da infidelidade humana."
+      }
+    },
+    {
+      "ref": "Mal 4:5-6",
+      "es": "Miren, Yo les voy a enviar al profeta Elías antes que venga el día del SEÑOR, día grande y terrible. Él hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia sus padres, no sea que Yo venga y hiera la tierra con maldición.",
+      "en": "Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes. And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.",
+      "pt": "Eis que vos enviarei o profeta Elias, antes que venha o grande e terrível dia do SENHOR; e ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais; para que eu não venha, e fira a terra com maldição.",
+      "nota": {
+        "es": "Las últimas palabras del Antiguo Testamento canónico, cumplidas explícitamente por Jesús en el ministerio de Juan el Bautista (Mt 11:14; 17:10–13; Lc 1:17), cerrando la revelación veterotestamentaria con una promesa directamente mesiánica.",
+        "en": "The final words of the Old Testament canon, explicitly fulfilled by Jesus in the ministry of John the Baptist (Matt 11:14; 17:10–13; Luke 1:17), closing Old Testament revelation with a directly messianic promise.",
+        "pt": "As últimas palavras do cânon do Antigo Testamento, cumpridas explicitamente por Jesus no ministério de João Batista (Mt 11:14; 17:10–13; Lc 1:17), encerrando a revelação veterotestamentária com uma promessa diretamente messiânica."
+      }
+    }
+  ],
+  "distintivasReformadas": {
+    "es": "Malaquías confirma la doctrina reformada de la elección incondicional (Jacob/Esaú, citada en Ro 9), la inmutabilidad de Dios como fundamento de la perseverancia del pacto (Mal 3:6), la santidad del matrimonio como pacto y no mero contrato civil (Mal 2:14-16), y el uso normativo continuo de la ley moral incluso bajo la administración profética que anticipa el nuevo pacto, cerrando el canon veterotestamentario con una promesa mesiánica explícita que las iglesias reformadas leen en línea recta hacia el ministerio de Cristo y su precursor.",
+    "en": "Malachi confirms the Reformed doctrine of unconditional election (Jacob/Esau, cited in Rom 9), God's immutability as the ground of covenant perseverance (Mal 3:6), the holiness of marriage as covenant rather than mere civil contract (Mal 2:14-16), and the continuing normative use of the moral law even under the prophetic administration anticipating the new covenant—closing the Old Testament canon with an explicit messianic promise that Reformed churches read as a straight line to the ministry of Christ and his forerunner.",
+    "pt": "Malaquias confirma a doutrina reformada da eleição incondicional (Jacó/Esaú, citada em Rm 9), a imutabilidade de Deus como fundamento da perseverança da aliança (Ml 3:6), a santidade do casamento como aliança e não mero contrato civil (Ml 2:14-16), e o uso normativo contínuo da lei moral mesmo sob a administração profética que antecipa a nova aliança — encerrando o cânon do Antigo Testamento com uma promessa messiânica explícita que as igrejas reformadas leem em linha reta até o ministério de Cristo e seu precursor."
+  },
+  "resumenCapitulos": [
+    {
+      "rangoInicio": 1,
+      "rangoFin": 1,
+      "titulo": {
+        "es": "Amor pactual: Jacob y Esaú",
+        "en": "Covenant Love: Jacob and Esau",
+        "pt": "Amor pactual: Jacó e Esaú"
+      },
+      "descripcion": {
+        "es": "El libro se presenta como “la palabra del SEÑOR a Israel por medio de Malaquías” (Mal 1:1) y abre inmediatamente con una disputa: Dios declara su amor por Israel, pero el pueblo responde con escepticismo, “¿En qué nos has amado?” (Mal 1:2). La respuesta divina apela a la elección soberana de Jacob sobre Esaú, confirmada históricamente en la desolación de Edom (Mal 1:3-4) frente a la preservación de Israel. Este texto, retomado por Pablo en Romanos 9:13, ancla todo el libro en la gracia electiva del pacto, no en el mérito del pueblo.",
+        "en": "The book presents itself as “the word of the LORD to Israel by Malachi” (Mal 1:1) and opens immediately with a dispute: God declares his love for Israel, but the people respond with skepticism, “How have you loved us?” (Mal 1:2). The divine answer appeals to the sovereign election of Jacob over Esau, historically confirmed in Edom's desolation (Mal 1:3-4) against Israel's preservation. This text, taken up by Paul in Romans 9:13, anchors the whole book in the covenant's electing grace, not the people's merit.",
+        "pt": "O livro se apresenta como “a palavra do SENHOR a Israel, por Malaquias” (Ml 1:1) e abre imediatamente com uma disputa: Deus declara seu amor por Israel, mas o povo responde com ceticismo, “Em que nos amaste?” (Ml 1:2). A resposta divina apela à eleição soberana de Jacó sobre Esaú, confirmada historicamente na desolação de Edom (Ml 1:3-4) diante da preservação de Israel. Esse texto, retomado por Paulo em Romanos 9:13, ancora todo o livro na graça eletiva da aliança, não no mérito do povo."
+      },
+      "eventoClave": {
+        "es": "Dios responde al escepticismo del pueblo apelando a su elección soberana de Jacob sobre Esaú, el fundamento electivo que sostiene toda la argumentación del libro.",
+        "en": "God answers the people's skepticism by appealing to his sovereign election of Jacob over Esau, the electing foundation that undergirds the book's entire argument.",
+        "pt": "Deus responde ao ceticismo do povo apelando à sua eleição soberana de Jacó sobre Esaú, o fundamento eletivo que sustenta toda a argumentação do livro."
+      },
+      "versiculoClave": "Mal 1:2",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Ro 9:13",
+          "tipo": "cita",
+          "nota": {
+            "es": "Pablo cita directamente Mal 1:2-3 para argumentar la elección incondicional en Romanos 9.",
+            "en": "Paul directly quotes Mal 1:2-3 to argue for unconditional election in Romans 9.",
+            "pt": "Paulo cita diretamente Ml 1:2-3 para defender a eleição incondicional em Romanos 9."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Elección/Llamado": {
+            "es": "Dios fundamenta su amor por Israel exclusivamente en la elección soberana de Jacob sobre Esaú, antes de cualquier obra de ambos (Mal 1:2-3).",
+            "en": "God grounds his love for Israel exclusively in the sovereign election of Jacob over Esau, prior to any works by either (Mal 1:2-3).",
+            "pt": "Deus fundamenta seu amor por Israel exclusivamente na eleição soberana de Jacó sobre Esaú, antes de qualquer obra de ambos (Ml 1:2-3)."
+          }
+        },
+        "secundarios": [
+          {
+            "Pacto": {
+              "es": "El amor declarado en Mal 1:2 es amor pactual, el mismo vocabulario de hesed que estructura toda la disputa del libro.",
+              "en": "The love declared in Mal 1:2 is covenant love, the same hesed vocabulary structuring the book's entire dispute.",
+              "pt": "O amor declarado em Ml 1:2 é amor pactual, o mesmo vocabulário de hesed que estrutura toda a disputa do livro."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 1,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Sacerdotes corruptos y ofrendas profanadas",
+        "en": "Corrupt Priests and Defiled Offerings",
+        "pt": "Sacerdotes corruptos e ofertas profanadas"
+      },
+      "descripcion": {
+        "es": "Dios dirige su primera acusación de disputa contra los sacerdotes: honran a sus padres terrenales más que a Él, y ofrecen en su altar animales ciegos, cojos y enfermos, algo que ni siquiera presentarían a su gobernador (Mal 1:6-8). Su desprecio por la mesa del SEÑOR provoca el deseo divino de que alguien cierre las puertas del templo (Mal 1:10). En contraste, Dios recuerda su pacto con Leví, marcado por temor reverente e instrucción veraz (Mal 2:4-7), pacto que los sacerdotes actuales han corrompido haciendo tropezar a muchos con su enseñanza (Mal 2:8-9).",
+        "en": "God directs his first disputation accusation against the priests: they honor their earthly fathers more than him, and offer blind, lame, and sick animals on his altar—something they would not even present to their governor (Mal 1:6-8). Their contempt for the LORD's table provokes the divine wish that someone would shut the temple doors (Mal 1:10). By contrast, God recalls his covenant with Levi, marked by reverent fear and truthful instruction (Mal 2:4-7), a covenant the current priests have corrupted by causing many to stumble through their teaching (Mal 2:8-9).",
+        "pt": "Deus dirige sua primeira acusação de disputa contra os sacerdotes: honram seus pais terrenos mais do que a ele, e oferecem em seu altar animais cegos, coxos e enfermos, algo que nem sequer apresentariam ao seu governador (Ml 1:6-8). Seu desprezo pela mesa do SENHOR provoca o desejo divino de que alguém fechasse as portas do templo (Ml 1:10). Em contraste, Deus relembra sua aliança com Levi, marcada por temor reverente e instrução verdadeira (Ml 2:4-7), aliança que os sacerdotes atuais corromperam fazendo tropeçar a muitos com seu ensino (Ml 2:8-9)."
+      },
+      "eventoClave": {
+        "es": "Dios contrasta la ofrenda profanada de los sacerdotes actuales con el pacto ideal de Leví, marcado por temor reverente e instrucción fiel.",
+        "en": "God contrasts the current priests' defiled offerings with the ideal covenant of Levi, marked by reverent fear and faithful instruction.",
+        "pt": "Deus contrasta a oferta profanada dos sacerdotes atuais com a aliança ideal de Levi, marcada por temor reverente e instrução fiel."
+      },
+      "versiculoClave": "Mal 1:8",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 7:26-28",
+          "tipo": "tipología",
+          "nota": {
+            "es": "El pacto de Leví con su instrucción fiel prefigura el sacerdocio perfecto de Cristo.",
+            "en": "The covenant with Levi and its faithful instruction prefigures the perfect priesthood of Christ.",
+            "pt": "A aliança com Levi e sua instrução fiel prefigura o sacerdócio perfeito de Cristo."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Sacerdocio": {
+            "es": "El pacto de Dios con Leví exigía temor reverente e instrucción veraz de los labios sacerdotales, estándar que los sacerdotes de Malaquías violan abiertamente (Mal 2:4-8).",
+            "en": "God's covenant with Levi required reverent fear and truthful instruction from priestly lips, a standard Malachi's priests openly violate (Mal 2:4-8).",
+            "pt": "A aliança de Deus com Levi exigia temor reverente e instrução verdadeira dos lábios sacerdotais, padrão que os sacerdotes de Malaquias violam abertamente (Ml 2:4-8)."
+          }
+        },
+        "secundarios": [
+          {
+            "Santidad": {
+              "es": "Ofrecer animales defectuosos profana la mesa del SEÑOR y revela desprecio por su santidad (Mal 1:7-8).",
+              "en": "Offering blemished animals defiles the LORD's table and reveals contempt for his holiness (Mal 1:7-8).",
+              "pt": "Oferecer animais defeituosos profana a mesa do SENHOR e revela desprezo por sua santidade (Ml 1:7-8)."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 2,
+      "titulo": {
+        "es": "Traición al pacto matrimonial",
+        "en": "Treachery Against the Marriage Covenant",
+        "pt": "Traição à aliança matrimonial"
+      },
+      "descripcion": {
+        "es": "Malaquías denuncia una doble traición pactual: hombres de Judá que se casan con “la hija de un dios extraño” (Mal 2:11) y esposos que traicionan a la esposa de su juventud mediante el divorcio (Mal 2:14-15). Dios declara explícitamente “yo aborrezco el divorcio” (Mal 2:16), definiendo el matrimonio como un pacto (berit) del cual Él mismo es testigo, no un contrato civil disoluble a voluntad. La sección cierra llamando a los hombres a guardar su espíritu y no ser desleales.",
+        "en": "Malachi denounces a double covenant betrayal: men of Judah marrying “the daughter of a foreign god” (Mal 2:11) and husbands betraying the wife of their youth through divorce (Mal 2:14-15). God explicitly declares “I hate divorce” (Mal 2:16), defining marriage as a covenant (berit) to which he himself is witness, not a civil contract dissolvable at will. The section closes by calling men to guard their spirit and not be faithless.",
+        "pt": "Malaquias denuncia uma dupla traição pactual: homens de Judá que se casam com “a filha de um deus estranho” (Ml 2:11) e maridos que traem a esposa da sua mocidade por meio do divórcio (Ml 2:14-15). Deus declara explicitamente “eu aborreço o repúdio” (Ml 2:16), definindo o casamento como uma aliança (berit) da qual ele mesmo é testemunha, não um contrato civil dissolúvel à vontade. A seção termina chamando os homens a guardar seu espírito e não serem desleais."
+      },
+      "eventoClave": {
+        "es": "Dios declara explícitamente que aborrece el divorcio y define el matrimonio como un pacto solemne del cual Él mismo es testigo (Mal 2:14-16).",
+        "en": "God explicitly declares that he hates divorce and defines marriage as a solemn covenant to which he himself is witness (Mal 2:14-16).",
+        "pt": "Deus declara explicitamente que aborrece o divórcio e define o casamento como uma aliança solene da qual ele mesmo é testemunha (Ml 2:14-16)."
+      },
+      "versiculoClave": "Mal 2:16",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 19:4-6",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "Jesús retoma el mismo fundamento pactual y creacional del matrimonio al enseñar sobre el divorcio.",
+            "en": "Jesus takes up the same covenantal, creational foundation for marriage when teaching on divorce.",
+            "pt": "Jesus retoma o mesmo fundamento pactual e criacional do casamento ao ensinar sobre o divórcio."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Matrimonio": {
+            "es": "El matrimonio se define explícitamente como un pacto (berit) atestiguado por Dios mismo, no un contrato disoluble por voluntad humana (Mal 2:14).",
+            "en": "Marriage is explicitly defined as a covenant (berit) witnessed by God himself, not a contract dissolvable by human will (Mal 2:14).",
+            "pt": "O casamento é explicitamente definido como uma aliança (berit) testemunhada por Deus mesmo, não um contrato dissolúvel pela vontade humana (Ml 2:14)."
+          }
+        },
+        "secundarios": [
+          {
+            "Fidelidad/Hesed": {
+              "es": "La “esposa de tu pacto” evoca el lenguaje de lealtad pactual (hesed) que Dios exige tanto en el matrimonio como en la relación con Él (Mal 2:14-15).",
+              "en": "“Your wife by covenant” evokes covenant loyalty (hesed) language God requires both in marriage and in relationship with him (Mal 2:14-15).",
+              "pt": "“A mulher da tua aliança” evoca a linguagem de lealdade pactual (hesed) que Deus exige tanto no casamento quanto no relacionamento com ele (Ml 2:14-15)."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 2,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "El mensajero que viene a purificar",
+        "en": "The Coming Messenger Who Purifies",
+        "pt": "O mensageiro que vem para purificar"
+      },
+      "descripcion": {
+        "es": "El pueblo cansa a Dios preguntando cínicamente “¿Dónde está el Dios de justicia?” (Mal 2:17), y la respuesta llega en una de las profecías mesiánicas más citadas del Antiguo Testamento: Dios enviará a su mensajero para preparar el camino, y luego el Señor mismo, “el mensajero del pacto”, vendrá súbitamente a su templo (Mal 3:1). Su venida no es motivo de celebración inmediata sino de purificación como fuego de fundidor, refinando primero a los hijos de Leví (Mal 3:2-3) y, finalmente, actuando como testigo veloz contra hechiceros, adúlteros, perjuros y opresores (Mal 3:5).",
+        "en": "The people wear God out by cynically asking “Where is the God of justice?” (Mal 2:17), and the answer arrives in one of the Old Testament's most quoted messianic prophecies: God will send his messenger to prepare the way, and then the Lord himself, “the messenger of the covenant,” will suddenly come to his temple (Mal 3:1). His coming is not cause for immediate celebration but for purification like a refiner's fire, refining the sons of Levi first (Mal 3:2-3) and finally acting as a swift witness against sorcerers, adulterers, perjurers, and oppressors (Mal 3:5).",
+        "pt": "O povo cansa a Deus perguntando ciniquamente “Onde está o Deus do juízo?” (Ml 2:17), e a resposta chega em uma das profecias messiânicas mais citadas do Antigo Testamento: Deus enviará seu mensageiro para preparar o caminho, e então o próprio Senhor, “o mensageiro da aliança”, virá subitamente ao seu templo (Ml 3:1). Sua vinda não é motivo de celebração imediata, mas de purificação como fogo de fundidor, refinando primeiro os filhos de Levi (Ml 3:2-3) e, por fim, agindo como testemunha veloz contra feiticeiros, adúlteros, perjuros e opressores (Ml 3:5)."
+      },
+      "eventoClave": {
+        "es": "Dios responde al cinismo del pueblo anunciando el envío de un mensajero precursor y la venida súbita del Señor mismo, el mensajero del pacto, a su templo (Mal 3:1).",
+        "en": "God answers the people's cynicism by announcing the sending of a forerunner messenger and the sudden coming of the Lord himself, the messenger of the covenant, to his temple (Mal 3:1).",
+        "pt": "Deus responde ao cinismo do povo anunciando o envio de um mensageiro precursor e a vinda súbita do próprio Senhor, o mensageiro da aliança, ao seu templo (Ml 3:1)."
+      },
+      "versiculoClave": "Mal 3:1",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 11:10",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús identifica explícitamente a Juan el Bautista como el mensajero anunciado en Mal 3:1.",
+            "en": "Jesus explicitly identifies John the Baptist as the messenger announced in Mal 3:1.",
+            "pt": "Jesus identifica explicitamente João Batista como o mensageiro anunciado em Ml 3:1."
+          }
+        },
+        {
+          "ref": "Mr 1:2",
+          "tipo": "cita",
+          "nota": {
+            "es": "Marcos abre su evangelio citando Mal 3:1 para presentar el ministerio de Juan el Bautista.",
+            "en": "Mark opens his Gospel by quoting Mal 3:1 to present John the Baptist's ministry.",
+            "pt": "Marcos abre seu evangelho citando Ml 3:1 para apresentar o ministério de João Batista."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Mesías/Ungido": {
+            "es": "El mensajero del pacto que viene súbitamente a su templo (Mal 3:1) es una profecía mesiánica dual, cumplida en el precursor Juan el Bautista y en Cristo mismo.",
+            "en": "The messenger of the covenant who comes suddenly to his temple (Mal 3:1) is a dual messianic prophecy, fulfilled in the forerunner John the Baptist and in Christ himself.",
+            "pt": "O mensageiro da aliança que vem subitamente ao seu templo (Ml 3:1) é uma profecia messiânica dupla, cumprida no precursor João Batista e no próprio Cristo."
+          }
+        },
+        "secundarios": [
+          {
+            "Juicio Final": {
+              "es": "El fuego de fundidor y el testigo veloz contra el pecado (Mal 3:2-5) anticipan el juicio purificador asociado a la venida del Señor.",
+              "en": "The refiner's fire and swift witness against sin (Mal 3:2-5) anticipate the purifying judgment associated with the Lord's coming.",
+              "pt": "O fogo de fundidor e a testemunha veloz contra o pecado (Ml 3:2-5) antecipam o juízo purificador associado à vinda do Senhor."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 3,
+      "titulo": {
+        "es": "Robar a Dios: diezmos y ofrendas",
+        "en": "Robbing God: Tithes and Offerings",
+        "pt": "Roubar a Deus: dízimos e ofertas"
+      },
+      "descripcion": {
+        "es": "Dios fundamenta su llamado al arrepentimiento en su propia inmutabilidad: “porque Yo, el SEÑOR, no cambio; por eso ustedes, hijos de Jacob, no han sido consumidos” (Mal 3:6). Aun así, el pueblo se ha apartado de sus estatutos desde los días de sus padres (Mal 3:7) y le ha robado en diezmos y ofrendas (Mal 3:8-9). Dios los invita a una prueba única en la Escritura: “pruébenme ahora en esto” trayendo el diezmo completo al alfolí, con la promesa de abrir las ventanas de los cielos y derramar bendición hasta que sobreabunde (Mal 3:10-12).",
+        "en": "God grounds his call to repentance in his own immutability: “For I the LORD do not change; therefore you, O children of Jacob, are not consumed” (Mal 3:6). Even so, the people have turned aside from his statutes since the days of their fathers (Mal 3:7) and robbed him in tithes and offerings (Mal 3:8-9). God invites them to a test unique in Scripture: “test me now in this” by bringing the full tithe into the storehouse, with the promise of opening the windows of heaven and pouring out blessing until it overflows (Mal 3:10-12).",
+        "pt": "Deus fundamenta seu chamado ao arrependimento em sua própria imutabilidade: “porque eu, o SENHOR, não mudo; por isso vós, ó filhos de Jacó, não sois consumidos” (Ml 3:6). Ainda assim, o povo se desviou dos seus estatutos desde os dias de seus pais (Ml 3:7) e o roubou em dízimos e ofertas (Ml 3:8-9). Deus os convida a uma prova única nas Escrituras: “provai-me nisto” trazendo o dízimo completo à casa do tesouro, com a promessa de abrir as janelas do céu e derramar bênção até que transborde (Ml 3:10-12)."
+      },
+      "eventoClave": {
+        "es": "La inmutabilidad de Dios (Mal 3:6) es la razón teológica por la que Israel no ha sido consumido pese a su infidelidad continua en los diezmos.",
+        "en": "God's immutability (Mal 3:6) is the theological reason Israel has not been consumed despite its continued unfaithfulness in tithing.",
+        "pt": "A imutabilidade de Deus (Ml 3:6) é a razão teológica pela qual Israel não foi consumido apesar de sua contínua infidelidade nos dízimos."
+      },
+      "versiculoClave": "Mal 3:6",
+      "referenciasRelacionadas": [
+        {
+          "ref": "He 13:8",
+          "tipo": "paralelo",
+          "nota": {
+            "es": "La inmutabilidad de Dios en Malaquías anticipa la afirmación de que Jesucristo es el mismo ayer, hoy y por los siglos.",
+            "en": "God's immutability in Malachi anticipates the affirmation that Jesus Christ is the same yesterday, today, and forever.",
+            "pt": "A imutabilidade de Deus em Malaquias antecipa a afirmação de que Jesus Cristo é o mesmo ontem, hoje e para sempre."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Fidelidad/Hesed": {
+            "es": "La inmutabilidad de Dios (Mal 3:6) es la garantía de que su fidelidad pactual preserva a Jacob pese a la infidelidad continua del pueblo.",
+            "en": "God's immutability (Mal 3:6) is the guarantee that his covenant faithfulness preserves Jacob despite the people's continued unfaithfulness.",
+            "pt": "A imutabilidade de Deus (Ml 3:6) é a garantia de que sua fidelidade pactual preserva Jacó apesar da infidelidade contínua do povo."
+          }
+        },
+        "secundarios": [
+          {
+            "Promesa/Cumplimiento": {
+              "es": "La invitación a “probar” a Dios trayendo el diezmo completo promete una bendición desbordante como cumplimiento verificable de su palabra (Mal 3:10).",
+              "en": "The invitation to “test” God by bringing the full tithe promises overflowing blessing as a verifiable fulfillment of his word (Mal 3:10).",
+              "pt": "O convite para “provar” a Deus trazendo o dízimo completo promete uma bênção transbordante como cumprimento verificável de sua palavra (Ml 3:10)."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    },
+    {
+      "rangoInicio": 3,
+      "rangoFin": 4,
+      "titulo": {
+        "es": "El día del SEÑOR y la promesa de Elías",
+        "en": "The Day of the LORD and the Promise of Elijah",
+        "pt": "O dia do SENHOR e a promessa de Elias"
+      },
+      "descripcion": {
+        "es": "El libro cierra con una última disputa: los que sirven a Dios se preguntan qué provecho tiene, viendo prosperar a los soberbios (Mal 3:13-15). Pero “los que temen al SEÑOR” hablan entre sí, y Dios escucha e inscribe sus nombres en un libro de memoria como su posesión especial (Mal 3:16-17). El día del SEÑOR llega entonces como fuego doble: horno ardiente que consume a los soberbios sin dejar raíz ni rama (Mal 4:1), y sol de justicia que sana a quienes temen su nombre (Mal 4:2). El Antiguo Testamento cierra con el mandato de recordar la ley de Moisés y la promesa de que Elías vendrá antes de ese día grande y terrible, para volver los corazones (Mal 4:4-6).",
+        "en": "The book closes with one final dispute: those who serve God ask what profit there is in it, seeing the arrogant prosper (Mal 3:13-15). But “those who fear the LORD” speak with one another, and God listens and writes their names in a book of remembrance as his treasured possession (Mal 3:16-17). The day of the LORD then arrives as a double fire: a burning oven that consumes the arrogant, leaving neither root nor branch (Mal 4:1), and a sun of righteousness that heals those who fear his name (Mal 4:2). The Old Testament closes with the command to remember the law of Moses and the promise that Elijah will come before that great and terrible day, to turn hearts (Mal 4:4-6).",
+        "pt": "O livro termina com uma última disputa: os que servem a Deus perguntam qual é o proveito, vendo os soberbos prosperarem (Ml 3:13-15). Mas “os que temem o SENHOR” falam uns com os outros, e Deus ouve e inscreve seus nomes num livro de memórias como sua possessão especial (Ml 3:16-17). O dia do SENHOR chega então como um fogo duplo: forno ardente que consome os soberbos sem lhes deixar raiz nem ramo (Ml 4:1), e sol de justiça que cura os que temem o seu nome (Ml 4:2). O Antigo Testamento termina com o mandamento de lembrar a lei de Moisés e a promessa de que Elias virá antes daquele grande e terrível dia, para converter corações (Ml 4:4-6)."
+      },
+      "eventoClave": {
+        "es": "El Antiguo Testamento canónico cierra con la promesa de que Elías vendrá antes del día grande y terrible del SEÑOR para volver los corazones (Mal 4:5-6).",
+        "en": "The Old Testament canon closes with the promise that Elijah will come before the great and terrible day of the LORD to turn hearts (Mal 4:5-6).",
+        "pt": "O cânon do Antigo Testamento termina com a promessa de que Elias virá antes do grande e terrível dia do SENHOR para converter corações (Ml 4:5-6)."
+      },
+      "versiculoClave": "Mal 4:5",
+      "referenciasRelacionadas": [
+        {
+          "ref": "Mt 17:10-13",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "Jesús identifica a Juan el Bautista como el Elías anunciado en Mal 4:5-6.",
+            "en": "Jesus identifies John the Baptist as the Elijah announced in Mal 4:5-6.",
+            "pt": "Jesus identifica João Batista como o Elias anunciado em Ml 4:5-6."
+          }
+        },
+        {
+          "ref": "Lc 1:17",
+          "tipo": "cumplimiento",
+          "nota": {
+            "es": "El ángel anuncia que Juan irá delante del Señor “con el espíritu y el poder de Elías”, citando directamente Mal 4:6.",
+            "en": "The angel announces that John will go before the Lord “in the spirit and power of Elijah,” directly citing Mal 4:6.",
+            "pt": "O anjo anuncia que João irá adiante do Senhor “no espírito e poder de Elias”, citando diretamente Ml 4:6."
+          }
+        }
+      ],
+      "temasBiblicoteologicos": {
+        "principal": {
+          "Juicio Final": {
+            "es": "El día del SEÑOR se presenta como fuego doble: consumición para los soberbios (Mal 4:1) y sanidad para quienes temen su nombre (Mal 4:2), estructura clásica del juicio escatológico.",
+            "en": "The day of the LORD is presented as a double fire: consumption for the arrogant (Mal 4:1) and healing for those who fear his name (Mal 4:2), a classic structure of eschatological judgment.",
+            "pt": "O dia do SENHOR é apresentado como um fogo duplo: consumição para os soberbos (Ml 4:1) e cura para os que temem o seu nome (Ml 4:2), estrutura clássica do juízo escatológico."
+          }
+        },
+        "secundarios": [
+          {
+            "Remanente": {
+              "es": "Los que temen al SEÑOR son distinguidos como remanente fiel, inscritos en un libro de memoria en medio de una generación escéptica (Mal 3:16-17).",
+              "en": "Those who fear the LORD are marked out as a faithful remnant, written in a book of remembrance amid a skeptical generation (Mal 3:16-17).",
+              "pt": "Os que temem o SENHOR são distinguidos como remanescente fiel, inscritos num livro de memórias em meio a uma geração cética (Ml 3:16-17)."
+            }
+          },
+          {
+            "Palabra de Dios/Ley": {
+              "es": "El mandato final de “acordarse de la ley de Moisés” (Mal 4:4) cierra el canon veterotestamentario apelando de nuevo a la revelación dada en Horeb.",
+              "en": "The final command to “remember the law of Moses” (Mal 4:4) closes the Old Testament canon by again appealing to the revelation given at Horeb.",
+              "pt": "O mandamento final de “lembrar da lei de Moisés” (Ml 4:4) encerra o cânon do Antigo Testamento apelando novamente para a revelação dada em Horebe."
+            }
+          }
+        ]
+      },
+      "era": "Anticipación Profética"
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "ESV Study Bible",
+      "autor": "Lane T. Dennis (ed.) / Wayne Grudem (theological editor)",
+      "año": 2008,
+      "editorial": "Crossway",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Introducción",
+          "Contexto histórico"
+        ],
+        "en": [
+          "Introduction",
+          "Historical Context"
+        ],
+        "pt": [
+          "Introdução",
+          "Contexto histórico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "La ESV Study Bible es un proyecto editorial de Crossway dirigido por Lane T. Dennis, con Wayne Grudem como editor teológico general, reuniendo a más de 90 eruditos evangélicos reformados y conservadores.",
+          "en": "The ESV Study Bible is a Crossway editorial project directed by Lane T. Dennis, with Wayne Grudem as general theological editor, gathering over 90 evangelical Reformed and conservative scholars.",
+          "pt": "A ESV Study Bible é um projeto editorial da Crossway dirigido por Lane T. Dennis, com Wayne Grudem como editor teológico geral, reunindo mais de 90 estudiosos evangélicos reformados e conservadores."
+        },
+        "metodo": {
+          "es": "Combina notas exegéticas verso por verso con ensayos introductorios sobre autoría, fecha, estructura y teología de cada libro, manteniendo una perspectiva evangélica confesional.",
+          "en": "It combines verse-by-verse exegetical notes with introductory essays on authorship, date, structure, and theology for each book, maintaining a confessional evangelical perspective.",
+          "pt": "Combina notas exegéticas verso a verso com ensaios introdutórios sobre autoria, data, estrutura e teologia de cada livro, mantendo uma perspectiva evangélica confessional."
+        },
+        "aportacion": {
+          "es": "Provee el marco introductorio sobre fecha, estructura de las seis disputas y contexto histórico persa utilizado en este registro de Malaquías.",
+          "en": "Provides the introductory framework on date, six-disputation structure, and Persian historical context used in this Malachi record.",
+          "pt": "Fornece o quadro introdutório sobre data, estrutura das seis disputas e contexto histórico persa utilizado neste registro de Malaquias."
+        },
+        "obras": [
+          "ESV Study Bible (2008)",
+          "ESV Systematic Theology Study Bible"
+        ],
+        "url": "https://www.crossway.org/bibles/esv-study-bible-hardcover/"
+      }
+    },
+    {
+      "titulo": "Reformation Study Bible",
+      "autor": "R.C. Sproul (ed.)",
+      "año": 2015,
+      "editorial": "Ligonier Ministries / Reformation Trust",
+      "nivel": 1,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Teología",
+          "Distintivas reformadas"
+        ],
+        "en": [
+          "Theology",
+          "Reformed Distinctives"
+        ],
+        "pt": [
+          "Teologia",
+          "Distintivos reformados"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "R.C. Sproul (1939–2017) fue teólogo reformado, fundador de Ligonier Ministries y una de las voces más influyentes del evangelicalismo reformado del siglo XX en EE.UU.",
+          "en": "R.C. Sproul (1939–2017) was a Reformed theologian, founder of Ligonier Ministries, and one of the most influential voices in twentieth-century American Reformed evangelicalism.",
+          "pt": "R.C. Sproul (1939–2017) foi teólogo reformado, fundador do Ligonier Ministries e uma das vozes mais influentes do evangelicalismo reformado do século XX nos EUA."
+        },
+        "metodo": {
+          "es": "Dirigió un equipo de eruditos reformados para producir notas de estudio ancladas explícitamente en la Confesión de Fe de Westminster y los cánones de Dort.",
+          "en": "He directed a team of Reformed scholars to produce study notes explicitly anchored in the Westminster Confession of Faith and the Canons of Dort.",
+          "pt": "Dirigiu uma equipe de estudiosos reformados para produzir notas de estudo ancoradas explicitamente na Confissão de Fé de Westminster e nos Cânones de Dort."
+        },
+        "aportacion": {
+          "es": "Aporta las conexiones confesionales explícitas entre las doctrinas de Malaquías —elección, pacto, ley— y los capítulos correspondientes de la Confesión de Westminster.",
+          "en": "Contributes the explicit confessional connections between Malachi's doctrines—election, covenant, law—and the corresponding chapters of the Westminster Confession.",
+          "pt": "Contribui com as conexões confessionais explícitas entre as doutrinas de Malaquias — eleição, aliança, lei — e os capítulos correspondentes da Confissão de Westminster."
+        },
+        "obras": [
+          "Reformation Study Bible (2015)",
+          "The Holiness of God (1985)",
+          "Chosen by God (1986)"
+        ],
+        "url": "https://www.ligonier.org/store/reformation-study-bible-esv"
+      }
+    },
+    {
+      "titulo": "Biblia de Estudio de la Reforma NBLA",
+      "autor": "R.C. Sproul (ed. general)",
+      "año": 2019,
+      "editorial": "Poiema Publicaciones / Ligonier Ministries",
+      "nivel": 1,
+      "idioma": "es",
+      "camposUtilizados": {
+        "es": [
+          "Texto bíblico",
+          "Notas de estudio"
+        ],
+        "en": [
+          "Biblical Text",
+          "Study Notes"
+        ],
+        "pt": [
+          "Texto bíblico",
+          "Notas de estudo"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Edición en español de la Reformation Study Bible, publicada bajo el sello Poiema en asociación con Ligonier Ministries, con el texto de la Nueva Biblia de las Américas (NBLA).",
+          "en": "Spanish edition of the Reformation Study Bible, published under the Poiema imprint in partnership with Ligonier Ministries, using the Nueva Biblia de las Américas (NBLA) text.",
+          "pt": "Edição em espanhol da Reformation Study Bible, publicada pelo selo Poiema em parceria com o Ligonier Ministries, utilizando o texto da Nueva Biblia de las Américas (NBLA)."
+        },
+        "metodo": {
+          "es": "Traduce y adapta el aparato de notas de la Reformation Study Bible al público hispanohablante, preservando su anclaje confesional reformado.",
+          "en": "Translates and adapts the Reformation Study Bible's note apparatus for the Spanish-speaking audience, preserving its Reformed confessional anchoring.",
+          "pt": "Traduz e adapta o aparato de notas da Reformation Study Bible para o público de língua espanhola, preservando sua ancoragem confessional reformada."
+        },
+        "aportacion": {
+          "es": "Fuente del texto bíblico en español (NBLA) utilizado en todas las citas de este registro.",
+          "en": "Source of the Spanish biblical text (NBLA) used in all quotations in this record.",
+          "pt": "Fonte do texto bíblico em espanhol (NBLA) utilizado em todas as citações deste registro."
+        },
+        "obras": [
+          "Biblia de Estudio de la Reforma NBLA (2019)"
+        ],
+        "url": "https://poiema.co/producto/biblia-de-estudio-de-la-reforma-nbla/"
+      }
+    },
+    {
+      "titulo": "Systematic Theology",
+      "autor": "Wayne Grudem",
+      "año": 1994,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Categorías de teología sistemática"
+        ],
+        "en": [
+          "Systematic Theology Categories"
+        ],
+        "pt": [
+          "Categorias de teologia sistemática"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Wayne Grudem es teólogo reformado, profesor emérito de Teología y Estudios Bíblicos en Phoenix Seminary y coeditor de la ESV Study Bible.",
+          "en": "Wayne Grudem is a Reformed theologian, professor emeritus of Theology and Biblical Studies at Phoenix Seminary, and co-editor of the ESV Study Bible.",
+          "pt": "Wayne Grudem é teólogo reformado, professor emérito de Teologia e Estudos Bíblicos no Phoenix Seminary e coeditor da ESV Study Bible."
+        },
+        "metodo": {
+          "es": "Organiza la doctrina cristiana en categorías sistemáticas clásicas, apoyando cada afirmación con exégesis directa del texto bíblico.",
+          "en": "He organizes Christian doctrine into classic systematic categories, supporting each claim with direct exegesis of the biblical text.",
+          "pt": "Organiza a doutrina cristã em categorias sistemáticas clássicas, apoiando cada afirmação com exegese direta do texto bíblico."
+        },
+        "aportacion": {
+          "es": "Provee el marco categorial (elección, escatología, cristología) usado para organizar la sección de teología sistemática de este registro.",
+          "en": "Provides the categorical framework (election, eschatology, Christology) used to organize this record's systematic theology section.",
+          "pt": "Fornece o quadro categorial (eleição, escatologia, cristologia) usado para organizar a seção de teologia sistemática deste registro."
+        },
+        "obras": [
+          "Systematic Theology (1994)",
+          "Bible Doctrine (1999)"
+        ],
+        "url": "https://www.thegospelcoalition.org/profile/wayne-grudem/"
+      }
+    },
+    {
+      "titulo": "Biblical Theology: Old and New Testaments",
+      "autor": "Geerhardus Vos",
+      "año": 1948,
+      "editorial": "Banner of Truth",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Historia redentora",
+          "Enfoque cristológico"
+        ],
+        "en": [
+          "Redemptive History",
+          "Christological Focus"
+        ],
+        "pt": [
+          "História redentora",
+          "Enfoque cristológico"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Geerhardus Vos (1862–1949) fue el primer profesor de Teología Bíblica en Princeton Theological Seminary y es considerado el padre de la teología bíblica reformada moderna.",
+          "en": "Geerhardus Vos (1862–1949) was the first professor of Biblical Theology at Princeton Theological Seminary and is regarded as the father of modern Reformed biblical theology.",
+          "pt": "Geerhardus Vos (1862–1949) foi o primeiro professor de Teologia Bíblica no Princeton Theological Seminary e é considerado o pai da teologia bíblica reformada moderna."
+        },
+        "metodo": {
+          "es": "Rastrea el desarrollo progresivo de la revelación a través de la historia redentora, leyendo cada libro en su lugar dentro del movimiento canónico hacia Cristo.",
+          "en": "He traces the progressive development of revelation through redemptive history, reading each book in its place within the canonical movement toward Christ.",
+          "pt": "Rastreia o desenvolvimento progressivo da revelação através da história redentora, lendo cada livro em seu lugar dentro do movimento canônico rumo a Cristo."
+        },
+        "aportacion": {
+          "es": "Fundamenta la lectura cristocéntrica de Malaquías 3:1 y 4:2 como bisagra profética entre los pactos antiguo y nuevo.",
+          "en": "Grounds the Christocentric reading of Malachi 3:1 and 4:2 as a prophetic hinge between the old and new covenants.",
+          "pt": "Fundamenta a leitura cristocêntrica de Malaquias 3:1 e 4:2 como dobradiça profética entre as antigas e novas alianças."
+        },
+        "obras": [
+          "Biblical Theology: Old and New Testaments (1948)",
+          "The Pauline Eschatology (1930)"
+        ],
+        "url": "https://www.monergism.com/biblical-theology-old-and-new-testaments-ebook"
+      }
+    },
+    {
+      "titulo": "An Introduction to the Old Testament",
+      "autor": "Tremper Longman III y Raymond B. Dillard",
+      "año": 2006,
+      "editorial": "Zondervan",
+      "nivel": 2,
+      "idioma": "en",
+      "camposUtilizados": {
+        "es": [
+          "Autoría",
+          "Fecha de escritura",
+          "Estructura literaria"
+        ],
+        "en": [
+          "Authorship",
+          "Date of Writing",
+          "Literary Structure"
+        ],
+        "pt": [
+          "Autoria",
+          "Data de escrita",
+          "Estrutura literária"
+        ]
+      },
+      "popup": {
+        "bio": {
+          "es": "Tremper Longman III y el fallecido Raymond B. Dillard fueron eruditos evangélicos del Antiguo Testamento, profesores en Westminster Theological Seminary y Westmont College respectivamente.",
+          "en": "Tremper Longman III and the late Raymond B. Dillard were evangelical Old Testament scholars, professors at Westminster Theological Seminary and Westmont College respectively.",
+          "pt": "Tremper Longman III e o falecido Raymond B. Dillard foram estudiosos evangélicos do Antigo Testamento, professores no Westminster Theological Seminary e no Westmont College, respectivamente."
+        },
+        "metodo": {
+          "es": "Combina crítica literaria evangélica con atención a la estructura retórica de cada libro, evaluando con cuidado las teorías críticas sin abandonar la autoridad canónica del texto.",
+          "en": "They combine evangelical literary criticism with careful attention to each book's rhetorical structure, weighing critical theories carefully without abandoning the text's canonical authority.",
+          "pt": "Combinam crítica literária evangélica com atenção cuidadosa à estrutura retórica de cada livro, avaliando com cautela as teorias críticas sem abandonar a autoridade canônica do texto."
+        },
+        "aportacion": {
+          "es": "Aporta el análisis de la estructura de disputa (rîb) de seis oráculos y la datación post-exílica tardía usada en este registro.",
+          "en": "Contributes the analysis of the six-oracle disputation (rîb) structure and the late post-exilic dating used in this record.",
+          "pt": "Contribui com a análise da estrutura de disputa (rîb) de seis oráculos e a datação pós-exílica tardia usada neste registro."
+        },
+        "obras": [
+          "An Introduction to the Old Testament (2006)"
+        ],
+        "url": "https://en.wikipedia.org/wiki/Tremper_Longman"
+      }
+    }
+  ],
+  "meta": {
+    "version": "1.5.0",
+    "estado": "validado",
+    "confianza": 0.55,
+    "camposMarcados": [
+      {
+        "campo": "autor.nombre / autor.nota",
+        "razon": "El nombre “Malaquías” (“mi mensajero”) es ambiguo entre nombre propio y título anónimo; se siguió la tradición canónica (LXX, Targum) y la posición reformada mayoritaria de tratarlo como nombre propio de un profeta histórico real.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-17"
+      },
+      {
+        "campo": "año.desde / año.hasta",
+        "razon": "El libro no contiene fórmulas de datación por año regnal (a diferencia de Hageo y Zacarías); la fecha c. 430–420 a.C. se estableció por triangulación con las condiciones sociales paralelas al segundo período de gobierno de Nehemías (Neh 13), siguiendo a Longman y Dillard.",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-17"
+      },
+      {
+        "campo": "personajes[].Malaquías.biografiaHistorica",
+        "razon": "No existe evidencia externa que permita identificar a Malaquías con ninguna otra figura conocida; nivelEvidencia se marcó ‘especulativo’ por definición de la categoría, sin que esto debilite la autoridad del texto profético.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-17"
+      },
+      {
+        "campo": "personajes[].El Mensajero del Pacto.biografiaHistorica",
+        "razon": "La figura del mensajero del pacto es profético-escatológica y no un individuo históricamente verificable en el tiempo de Malaquías; nivelEvidencia se marcó ‘especulativo’ porque la categoría de evidencia histórica externa no aplica a una profecía mesiánica.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-17"
+      },
+      {
+        "campo": "versiculosClave[].es/en/pt",
+        "razon": "Los textos de los versículos en NBLA, ESV y ARC se reprodujeron de conocimiento interno sin verificación en línea contra las ediciones publicadas; la redacción es fiel al sentido y estructura del texto pero puede diferir en detalles menores de puntuación o forma exacta.",
+        "resuelto": false,
+        "fechaMarcado": "2026-08-17"
+      },
+      {
+        "campo": "resumenCapitulos (agrupación)",
+        "razon": "Los 4 capítulos del libro se mapearon a 6 unidades temáticas siguiendo la estructura de seis disputas de pacto (ríb) reconocida por la erudición evangélica, ya que las divisiones temáticas cruzan los límites de capítulo (p. ej. 1:6–2:9 y 2:17–3:5).",
+        "resuelto": true,
+        "fechaMarcado": "2026-08-17"
+      }
+    ],
+    "ultimaActualizacion": "2026-08-17T00:00:00Z",
+    "revisadoPor": {
+      "nombre": "CANON Pipeline",
+      "rol": "editor",
+      "fechaRevision": "2026-08-17T00:00:00Z"
+    },
+    "versionBiblia": {
+      "es": "NBLA",
+      "en": "ESV",
+      "pt": "ARC"
+    },
+    "pipeline": {
+      "faseActual": 5,
+      "historial": [
+        {
+          "fase": 1,
+          "nombre": "diseño_esquema",
+          "completado": true,
+          "fechaInicio": "2026-08-17T00:00:00Z",
+          "fechaFin": "2026-08-17T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 2,
+          "nombre": "registro_fuentes",
+          "completado": true,
+          "fechaInicio": "2026-08-17T00:00:00Z",
+          "fechaFin": "2026-08-17T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 3,
+          "nombre": "extraccion",
+          "completado": true,
+          "fechaInicio": "2026-08-17T00:00:00Z",
+          "fechaFin": "2026-08-17T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 4,
+          "nombre": "validacion",
+          "completado": true,
+          "fechaInicio": "2026-08-17T00:00:00Z",
+          "fechaFin": "2026-08-17T00:00:00Z",
+          "errores": []
+        },
+        {
+          "fase": 5,
+          "nombre": "renderizado",
+          "completado": false,
+          "fechaInicio": "2026-08-17T00:00:00Z",
+          "fechaFin": "2026-08-17T00:00:00Z",
+          "errores": []
+        }
+      ]
+    }
+  }
+}
