@@ -148,8 +148,31 @@ main{ width:100%; display:flex; flex-direction:column; align-items:center; }
 }
 
 @media (max-width:520px){
-  :root{ --reserva:12px }
+  :root{
+    --reserva:12px;
+    --y-maggie:21%;
+    --y-amp:26.5%;
+    --y-giovanni:31.5%;
+  }
   body{ justify-content:center }
+  .tarjeta{
+    aspect-ratio:852 / 1846;
+    background-image:url('fondo-ph.png');
+    width:min(100%, var(--ancho-max), (100vh - var(--reserva)) * 852 / 1846);
+    width:min(100%, var(--ancho-max), (100svh - var(--reserva)) * 852 / 1846);
+  }
+  .rsvp{
+    width:min(100%, var(--ancho-max), (100vh - var(--reserva)) * 852 / 1846);
+    width:min(100%, var(--ancho-max), (100svh - var(--reserva)) * 852 / 1846);
+  }
+  .p-invita    { top:36% }
+  .p-fecha     { top:41% }
+  .p-hora      { top:44% }
+  .p-lugar     { top:48.5% }
+  .p-direccion { top:51.5% }
+  .p-vest-tit  { top:55% }
+  .p-vest-det  { top:59% }
+  .rsvp-tarjeta{ top:64% }
 }
 </style>
 </head>
