@@ -1,6 +1,7 @@
 canon/node_modules/
 canon/dist/
 canon/dist-ssr/
+canon/public/boda/guests.json
 .DS_Store
 *.local
 scratchpad/
