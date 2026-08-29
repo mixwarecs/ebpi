@@ -6,7 +6,6 @@ from pathlib import Path
 from typing import Literal, Optional
 
 from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -14,14 +13,6 @@ GUESTS_PATH = BASE_DIR / ".." / "canon" / "public" / "boda" / "guests.json"
 RESPUESTAS_PATH = BASE_DIR / "respuestas.json"
 
 app = FastAPI()
-# TEMPORAL, solo para pruebas locales cross-port (cualquier puerto de localhost -> localhost:8001).
-# En producción no hace falta: el proxy sirve todo desde el mismo origen. Quitar antes de desplegar.
-app.add_middleware(
-    CORSMiddleware,
-    allow_origin_regex=r"http://localhost:\d+",
-    allow_methods=["GET", "POST"],
-    allow_headers=["Content-Type"],
-)
 
 with open(GUESTS_PATH, encoding="utf-8") as f:
     GUESTS_BY_ID = {g["id"]: g for g in json.load(f)}
