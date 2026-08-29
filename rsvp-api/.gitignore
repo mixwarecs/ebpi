@@ -1,0 +1,4 @@
+.venv/
+respuestas.json
+*.json.tmp
+__pycache__/
