@@ -12,6 +12,10 @@ BASE_DIR = Path(__file__).resolve().parent
 GUESTS_PATH = BASE_DIR / ".." / "canon" / "public" / "boda" / "guests.json"
 RESPUESTAS_PATH = BASE_DIR / "respuestas.json"
 
+# El valor real se pone en el Environment= de la unidad systemd en el servidor,
+# nunca aqui en el codigo. El valor por defecto es solo para pruebas locales.
+RESUMEN_TOKEN = os.environ.get("RESUMEN_TOKEN", "dev-local-only")
+
 app = FastAPI()
 
 with open(GUESTS_PATH, encoding="utf-8") as f:
@@ -76,3 +80,25 @@ async def get_rsvp(guest_id: str):
     if guest_id not in respuestas:
         raise HTTPException(status_code=404, detail="sin respuesta previa")
     return respuestas[guest_id]
+
+
+@app.get("/resumen")
+async def resumen(token: str = ""):
+    if token != RESUMEN_TOKEN:
+        raise HTTPException(status_code=404)
+
+    async with _lock:
+        respuestas = _load_respuestas()
+
+    asisten = [r for r in respuestas.values() if r["asistencia"] == "si"]
+    no_asisten = [r for r in respuestas.values() if r["asistencia"] == "no"]
+
+    return {
+        "total_invitados": len(GUESTS_BY_ID),
+        "total_respondidos": len(respuestas),
+        "total_pendientes": len(GUESTS_BY_ID) - len(respuestas),
+        "hogares_asisten": len(asisten),
+        "hogares_no_asisten": len(no_asisten),
+        "adultos_confirmados": sum(r["adultos"] for r in asisten),
+        "ninos_confirmados": sum(r["ninos"] for r in asisten),
+    }
