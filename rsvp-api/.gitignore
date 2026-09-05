@@ -1,4 +1,5 @@
 .venv/
 respuestas.json
+guests_privado.json
 *.json.tmp
 __pycache__/

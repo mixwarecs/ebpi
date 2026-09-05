@@ -10,6 +10,7 @@ from pydantic import BaseModel
 
 BASE_DIR = Path(__file__).resolve().parent
 GUESTS_PATH = BASE_DIR / ".." / "canon" / "public" / "boda" / "guests.json"
+GUESTS_PRIVADO_PATH = BASE_DIR / "guests_privado.json"
 RESPUESTAS_PATH = BASE_DIR / "respuestas.json"
 
 # El valor real se pone en el Environment= de la unidad systemd en el servidor,
@@ -20,6 +21,11 @@ app = FastAPI()
 
 with open(GUESTS_PATH, encoding="utf-8") as f:
     GUESTS_BY_ID = {g["id"]: g for g in json.load(f)}
+
+TELEFONO_BY_ID = {}
+if GUESTS_PRIVADO_PATH.exists():
+    with open(GUESTS_PRIVADO_PATH, encoding="utf-8") as f:
+        TELEFONO_BY_ID = {g["id"]: g.get("telefono", "") for g in json.load(f)}
 
 _lock = asyncio.Lock()
 
@@ -93,6 +99,30 @@ async def resumen(token: str = ""):
     asisten = [r for r in respuestas.values() if r["asistencia"] == "si"]
     no_asisten = [r for r in respuestas.values() if r["asistencia"] == "no"]
 
+    confirmados = [
+        {
+            "id": gid,
+            "nombre": r["nombre"],
+            "apellido": r["apellido"],
+            "telefono": TELEFONO_BY_ID.get(gid, ""),
+            "asistencia": r["asistencia"],
+            "adultos": r["adultos"],
+            "ninos": r["ninos"],
+        }
+        for gid, r in respuestas.items()
+    ]
+
+    pendientes = [
+        {
+            "id": gid,
+            "nombre": g["nombre"],
+            "apellido": g["apellido"],
+            "telefono": TELEFONO_BY_ID.get(gid, ""),
+        }
+        for gid, g in GUESTS_BY_ID.items()
+        if gid not in respuestas
+    ]
+
     return {
         "total_invitados": len(GUESTS_BY_ID),
         "total_respondidos": len(respuestas),
@@ -101,4 +131,6 @@ async def resumen(token: str = ""):
         "hogares_no_asisten": len(no_asisten),
         "adultos_confirmados": sum(r["adultos"] for r in asisten),
         "ninos_confirmados": sum(r["ninos"] for r in asisten),
+        "confirmados": confirmados,
+        "pendientes": pendientes,
     }
